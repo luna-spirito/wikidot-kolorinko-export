@@ -1,0 +1,79 @@
+---
+title: "World Contest 2019"
+tags: ["contest"]
+page_id: "692799138"
+site: "rpcauthority"
+slug: "worldcontest2019"
+revision: 10
+revision_id: "1387300506"
+author: 3672751
+timestamp: 1638677578
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:world-contest-theme/code/1);
+[[/module]]
+
+> ++ Here are the winners of the World Contest. Great job to everyone!
+> 
+> First place in the 004 Contest is [[[RPC-004 |The Serial Poet]]] by [[*user Logangreenjeans]] with 20 upvotes. They won the RPC-004 slot!
+> 
+> First place in the Divisions Contest is [[[seans-bizarre-adventure |Sean's Bizarre Adventure]]] by [[*user Ascriber]] with 21 upvotes. 
+> 
+> Second place in the 004 Contest goes to [[[RPC-543 |The Howlers of Dreamland]]] by [[*user Von_pincier]]! They had 19 upvotes and have won the RPC-543 slot. 
+> 
+> Second place in the Division Contest goes to [[[motm |Men on the Moon]]] by [[*user Von_Pincier]]! They had 13 upvotes!
+> 
+> First place in the RPC Art contest goes to [[*user Fishies]]!
+> 
+> Thanks to everyone for your entries, excellent jobs. 
+
+[[Collapsible show="Rules and Info" hide="Hide Rules and Info"]]
+
++ ##705381|Welcome to the "The World is our Oyster" Contest page. We are opening the following two separate contests.##
+
+##717E78|**004 CONTEST**## - This contest has no theme. Make the best article you can to win the RPC-004 slot. 
+
+##717E78|**DIVISION TALE**## - You must make an article that prominently features at least one of the three divisions [[[research-hub |Research]]], [[[protection-hub |Protection]]] and [[[containment-hub |Containment]]]. The top RPC will receive the RPC-543 slot. The top tale will win a featured slot. 
+
+On the RPC Official [*https://discordapp.com/invite/wkXBuxt Community Discord] there will be an art contest! Draw and submit your favorite RPC. Message [[*user croal]]/Coupon#1773 or see the discord announcements for more information. 
+
+Contact [[*user Croal]] if you have any questions about the contests. 
+
++ ##705381|The Deadline##
+##717E78|**Submissions Open:**## May 10th 12AM EST
+##717E78|**Submissions Close:**## May 11th
+##717E78|**Winners are to be announced on:**## May 15th
+
++ ##705381|Rules##
+* Anyone is allowed to participate
+* Do not coldpost. You must receive feedback in the drafts forum for RPC's and Tales 
+* Wait until the submission period begins to upload your page
+* You may submit to multiple contests, but only one work to each individual contest 
+* Anyone found using alt accounts to upvote their submissions will be disqualified and banned from entering any further contests 
+* Submissions must match the theme in a justifiable way
+* Pre-existing drafts are allowed, so long as they have never been posted to the wiki
+* Edits to works are allowed
+
++ ##705381|To Enter##
+##717E78|**Add the proper tag to your entry so it shows up on this page.**## 
+To enter into the 004 Contest contest use the tag "004"
+To enter into the Division Contest contest use the tag "DivisionContest"
+
+Do not coldpost. You must receive feedback before posting. For the 004 contest, post your entry to the site with the URL "Contest:004Contest<yourusername>" with your site user name in place of <yourusername.> For the Divisions contest post your entry to the URL "Contest:DivisionContest<yourusername>". For example, if a user named Chad were to post an 004 entry it would have the URL Contest:004ContestChad. This page must be posted by you (or, if it is a collaboration, one of the partners). 
+
+The submission for each category with the most upvotes will win. The winners of each contest will win bragging rights and a featured spot on the front page. The winner of the 004 RPC will receive the RPC-004 slot. The winner of the Division RPC will receive the RPC-543 slot. Those who do not win are encouraged to upload their submissions.
+[[/collapsible]]
+
++ 004 Freestyle Entries 
+
+[[module ListPages separate="no" category="*" tags="+004 -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
++ Division Tale Entries 
+
+[[module ListPages separate="no" category="*" tags="+Divisioncontest -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+

@@ -1,0 +1,100 @@
+---
+title: "Shitpost 2019"
+tags: ["contest"]
+page_id: "666151274"
+site: "rpcauthority"
+slug: "j2019"
+revision: 19
+revision_id: "1289075456"
+author: 3118961
+timestamp: 1595797484
+---
+
+[[module css]]
+div#container-wrap {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/brokentheme/deadmemeheader.png) top left repeat-x;
+}
+ 
+#header {
+    background: url(https://cdn.discordapp.com/attachments/497966089716629504/547294206410883142/Antimemetics_Division.png) 5px 25px no-repeat;
+}
+
+#header h2 span{
+    color: transparent;
+    text-shadow: none;
+}
+
+#header h2 span::before {
+    content: "Rart, Piss, CBT";
+    display: block;
+    margin: 0;
+    padding: 0px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+}
+
+body {
+    background-color: rgba(145,191,222,0.35);
+    font-family: "Comic Sans MS", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+}
+
+@media (max-width: 768px){
+
+#header h1{
+    margin-left: 4.5em;
+}
+
+#header h2{
+    margin-left: 11em;
+}
+
+}
+[[/module]]
+
+++  [[span style="color:#00F684;"]]Welcome to our J Contest page. YOU HAVE ONLY THREE DAYS TO COMPLETE THIS CHALLENGE![[/span]]
+
+> ++++ Here is the winner of our J contest. Very nice job everyone! 
+> First place goes to [[[contest:jcontestgeckovstheworld |RPC-940-J]]] by [[*user geckovstheworld]] with 14 votes. Congratulations! 
+> Check out the runner up [[[contest:jcontestgoogle-chrome |RPC-404-J]]] by [[*user google_chrome]] with 12 votes!
+> Thank you to everyone who gave this honorable and challenging contest a shot.
+> Happy April Fools!
+
+
++ ##red|J## ###35fce5|S####yellow|h#####0569ff|i####orange|t####37ff05|p####f9224d|o####ff6519|s#####19ff79|t## ##dd22f9|E####fff6bf|n#####00cec4|t#####00ce2c|r####8002ff|i####ff026b|e####ffd9c1|s## 
+
+[[module ListPages separate="no" category="*" tags="+JContest -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+------
+[[Collapsible show="Show Rules" hide="Hide Rules"]]
+[[span style="color:#F200F6;"]]**J SHITPOST -**[[/span]] ##06839F|You have only## ##F4FF02|**THREE DAYS**## ##23AC70|to make a## ##FF7D02|joke article!## ##0E72F9|You must receive criticism, make sure to give each other crit! All articles are to be posted on the 1st of April. ##
+
+##FF9A35|Contact [[*user Croal]] if you have any questions about the contest. More regular contests are coming very soon!##
+
++  [[span style="color:#00F684;"]]The Deadlines[[/span]]
+ [[span style="color:#950DFF;"]]**Submissions Open:**[[/span]] ##F94E0E|APRIL 1ST##
+ [[span style="color:#024BFF;"]]**Submissions Close:**[[/span]] ##F9EE0E|APRIL 1ST##
+ [[span style="color:#FF0266;"]]**Winners are to be announced on:**[[/span]] ##15F90E|APRIL 2ND##
+
++ [[span style="color:#00F684;"]]Rules[[/span]]
+* ##F90E5C|These must be new works, you are **NOT** allowed to post and articles or works that you have had in progress. Pre-existing drafts are not allowed. ##
+* ##FF8F00|Anyone is allowed to participate##
+* ##EBA2FF|You do not have to get criticism on the forums for this contest, but it is advised that you do get some form of crit.##
+* ##368557|Wait until the submission period begins to upload your page##
+* ##515100|Anyone found using alt accounts to upvote their submissions will be disqualified and banned from entering any further contests ##
+* ##FE8AB0|Edits to works are allowed##
+
++ [[span style="color:#00F684;"]]To Enter[[/span]]
+[[span style="color:#F200F6;"]]**To enter add the tag "JContest" to your entry so it shows up on this page.**[[/span]]
+
+##991244|You should receive feedback before posting. Post your entry to the site with the url "Contest:JContest<yourusername>" with your site user name in place of <yourusername.> For example, if a user named Chad were to post an entry it would have the URL http://www.rpc-wiki.net/Contest:JContestChad. This page must be posted by you (or, if it is a collaboration, one of the partners). ##
+
+##F60D0D|The submission with the most upvotes will win. The winners of each contest will win bragging rights and a featured spot on the front page. Those who do not win are encouraged to upload their submissions once they have received forum crit. ##
+##1C022F|Thank you based [[*user moist bread]] for this theme##
+[[/collapsible]]
+

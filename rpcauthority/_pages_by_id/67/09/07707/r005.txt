@@ -1,0 +1,343 @@
+---
+title: "RPC-DARK-THEME-J"
+tags: ["jcontest"]
+page_id: "670907707"
+site: "rpcauthority"
+slug: "contest:jcontestascriber"
+revision: 5
+revision_id: "1516983765"
+author: 5982545
+timestamp: 1703451098
+---
+
+[[include component:contest-entry]]
+
+[[module CSS]]
+@import url('/dark-theme/code/1');
+
+#side-bar .side-block {
+    color: #eee !important;
+}
+
+#side-bar .menu-item>a {
+  color: #eee;
+}
+
+#side-bar .menu-item>a:hover {
+  background-color: #000001;
+  color: #eee;
+  text-decoration: none;
+}
+
+#side-bar .heading {
+    color: #e3e3e3;
+}
+
+#page-info {
+    color: #eee;
+}
+
+body {
+    background: linear-gradient(to bottom, #222, #0a0a0a);
+}
+
+div#container-wrap {
+    background: url(http://rpcsandbox.wikidot.com/local--files/scripting-guide/header.png) top left repeat-x;
+    background: var(.container-wrap);
+}
+
+#search-top-box-input {
+    background-color: #111;
+}
+
+#search-top-box-input:hover {
+    background-color: #222;
+}
+
+#search-top-box-form input[type=submit] {
+    background-color: #222;
+    background: linear-gradient(to bottom, #333, #222, #111);
+}
+
+#search-top-box-form input[type=submit]:hover {
+    background-color: #333;
+    background: linear-gradient(to bottom, #444, #333, #222);
+}
+
+.mainCont {
+    color: #eee;
+    background-color: #161616;
+}
+
+.mainCont hr {
+  background-color: #ccc;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+#page-title {
+  display: none;
+}
+
+@media (max-width: 1635px) {
+   .desktop-only{ display: none; visibility:hidden }
+}
+
+blockquote {
+    border-radius: 2px;
+    background-color: #222;
+    color: #eee;
+    font-family: monospace;
+    border-style: solid;
+    font-size: 14px;
+    box-shadow: 0px 0px 5px 2px #0a0a0a;
+    word-wrap: break-word;
+}
+
+#toc {
+    border: 1px solid #eee; border-radius: 3px; background-color: #1a1a1a; color: #eee
+}
+
+#toc a {
+    color: #d9d9d9;
+}
+
+#toc a:hover {
+    color: #eee;
+}
+
+.yui-navset .yui-content {
+    color: #ddd;
+    background-color: #111
+}
+[[/module]]
+
+[[include component:rate title=rpc-]]
+
+[[include component:image-block name=https://i.imgur.com/l65TQDh.png|caption=Authority Database viewed from a Site-022 computer prior to RPC-DARK-THEME-J attack.|width=300px]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/epsilon-black.png]]
+
+**Registered Phenomena Code:** DARK-THEME-J
+
+**Object Class:** Epsilon-Black
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+> **You have selected __EPSILON__ Containment Rating.**
+> **Reminder from GD-08:**
+> 
+> **__EPSILON__ CR:**
+> Epsilon-rated RPCs are anomalies that behave above our current perception. As such, there are aspects of their behaviors that cannot be contained or even observed. Any object or concept that deals with interdimensional anomalies should be automatically classified as Epsilon.
+> 
+> **Please justify the __EPSILON__ Containment Rating below.**
+> 
+>> it's epsilon because //I CAN'T READ ANYTHING//
+
+
+**Hazard Types:** Visual Hazard 
+
+**Containment Protocols:** Revert immediately. Multiple critical Site-022 functions - all involved with the Authority intraweb or basic data terminals - are NOT FUNCTIONING. The humanoid containment wing is locked down. Runoff Blocks 03 through 08 are malfunctioning, the waste from RPC-███, RPC-███ and RPC-███-█ are being dumped into the caverns below the Site - I believe in one section, Maint Union personnel are manually sorting out the explosive pine cones from the non-anomalous ones produced by RPC-███-█. Secure inter-site communications are offline, we are considering using junior researchers as runners. The australian unicorns have broken containment and seized the Level-02 janitorial closet, we saw them sharpening spare mops before the security feed went down. The Site-022 janitors are organizing a counter-attack but we're trying to negotiate first. ASF are shooting the 'Duplex Kraken' (I don't know the RPC # and //I can't use the database to find it//) to keep it contained, they'll run out of ammunition in a few hours.
+
+**Description:** Okay. On 3/13/2019, the Authority intraweb and all screen infrastructure in Site-022 was changed from the FUNCTIONAL aesthetic design of a white background with black text and blue accents, to aHORRID grey backround with BLINDwhINGiteWHITE text. This was due to a standard software update pushed out by THE INCOMPEoffsitTENeT web adIDIOminsTS that - what the hell? Is someone else editing this? Yes. YES I Ai'm just watcMhing WHAwaiTt 
+
+Hang on hang on
+
+THIS IS AN EMERGENcalmCY doWEwNEEDn TO CONTACT CENTRAL stop with the caps lock 
+Stop guys
+IT'S STUCK THIS SHITTY UPDATE FINALLY BROKE THE LEVEL 02 JANITOR CLOSET COMPUTER it's probably your neglect, the Maint Union can't fix anything more complicated than a mopYOU'RE RESEARCH DIVISION AREN"TYOU YOU GODDAMN EGGYeHEAsD I am WELL STICK ITSTOdPTYoPINGSTOPTYPING STOP TYPING STOP 
+TYPING
+
+Okay. Hit ENTER after you talk and stop typing over each other
+
+Wait no what am I saying
+
+Delete all of this. It's grossly unprofessional. 
+
+FUCK YOU
+
+I can't. 
+
+You can't delete? Oh shit, I can't
+
+NoI CAN
+
+T
+
+HEY 
+
+Site comms are still down, right? 
+
+Yes.
+
+YES
+
+But we can all edit this document but can't delete anything
+
+YEYes.S
+
+@@@@
+@@@@
+
+Okay. This is ASF Captain Hernandez, deputy commander of site security. I am in my office at the main gate. Who are you - caps lock first other second
+
+GARRY MCCLELLAN MAINTANANCE UNION CONTAINMENT DIVISION JANITOR CLOSET 02 
+
+Évelyne Donnet, Research Division OAS Anthropology Department. Section 022-3-B computer lab.  
+
+WOW HOW DO YOU DO THE ACCENT THING? WITH YOUR NAME
+
+I thought Closet 02 was held by the australian unicorns? This is Hernandez 
+
+IT WAS BUT THE MAINTENANCE UNION ACCEPTED THEIR SURRENDER AT 1630 
+
+I see.
+
+Okay
+
+DREMEL TOOL BEATS MOP
+
+Alright. 
+
+Christ. We can't upload this to the Codex
+
+That was all Hernandez, fyi
+
+No, we can't -Eve
+
+PROBABLY NOT -I DON'T NEED TO TAG MY NAME, HAH
+
+Goddamit. Stay serious. This is serious -H
+
+No, it's really not. The web admins will fix it and Site-022 will be fine.
+
+(-e)
+
+EXCUSE ME E/VELLYN BUT ITS NOT FINE 
+
+That's not how you do the accent.
+
+God'ss sake, this is serious
+
+This is dragging on too long let's move to addendums -H
+
+@@@@
+
+
+**Addendum:** You guys aren't paid to worry about this stuff, but far as I can tell, the global Authority intraweb has //always// been dark-background and white-lettered
+
+ITS AWFUL I REVERSED THE COLORS ON MY MONITOR AND LOWERED BRIGHTNESS TO NOT BE BLINDED BY WHITE TEXT
+LIKE GETTING FLASHBANGED BY ASF ""ON ACCIDENT""
+
+That was an accident and you should've evacuated 
+
+THE MAINTENANCE UNION REMEMBERS
+
+The white's a little excessive, but that's an easy fix- and LOOK AT THAT, it just changed to a light grey text, they're fixing it as we speak. -Eve
+
+Security cameras just came online, but other functions are still broken. The door system's screen is half light and half dark and the text is all over -H
+
+RUNOFF BLOCK 03 IS WORKING AGAIN THE FLOW IS STOPPING WERE SENDING GUYS IN TO RESTART SOME OF THE ARCANE FILTERS
+
+That's good to hear. But I'm still worried - for god's sake, I //remember// visiting ASF Regional Command and all the screens there were light - light themed? Light theme. But they're telling me that "The Authority Intraweb has always used dark theme". What?? -H
+
+What are you thinking? Some kind of gigantic web-based anomaly? -Eve
+
+One that can break a Site's electronic infrastructure, yes
+
+They're fixing it
+
+But it was always like this? Site-022 is just getting updated //now// feels suspicious. Did we hop dimensions? Did a lovecraftian entity take over the rest of the Authority and this theme change is masking its subversion of everyone else?
+
+You're overthinking it. 
+
+NOW IM WORRIED AND THE DARK THEEM STILL SUCKS
+
+And you're whining about it. -Eve
+
+HOW DO THOSE JACKBOOTS FIT? YOU DON'T SEEM TO QUESTION MUCH
+
+Stop it. Look. The color's just - more security functions are coming back online. I doubt a malevolent eneitity would just give me back control of the armory doors -H
+
+I'm calling it now, everything will be fixed in a week. -Eve
+
+A WEEK??? A WEEK??? IF THIS WAS A REAL TECH UPDATE THEY WOULDNT HAVE IT BREAK EVERYTHING AND FIX IT AFTER
+
+No, all the technical details will be fixed by tomorrow. You'll stop crying in a week. -Eve
+
+NOT BAD EGGHEAD
+
+Has our mission changed? -H
+
+WHAT
+
+The Authority. Researching anomalies, Protecting humanity, Containing the horrors, RPC. Communications are opening up. Has anything changed? -H
+
+I wouldn't imagine so. But I wouldn't imagine the theoretical entity would make it easy for us, either. But we're overthinking it.
+
+COMMS ARE WORKING?
+
+Intersite comms are still down, limited contact with command -H
+
+COMMS CODE: 03-03-51-14-MUNION 
+
+BUT UNION IS LOWER CASE
+
+I have Maintenance Union Chief Bates on the other end, what the hell
+
+GOOD. TELL HIM MCCLELLAN IS ON THE OTHER END. AND SAY THAT I'M HAPPY FOR HIS WONDERFUL MARRIAGE AND FINE YOUNG SON!
+
+What?
+
+DO IT
+
+He's not happy. Uh, "McClellan you - you prick, and a lot of cursing, you'll be cleaning the shit monster pit for the rest of your days. Why did you give a jackboot - a jackboot?
+
+He's referring to you.
+
+JACKBOOT = ASF 
+
+Right. "Why did you give a jackboot an emergency line?" and then a lot of yelling about his wife, you touched a nerve -H 
+
+HIS WIFE DIVORCED AND HIS SON IS FAILING TO MAKE A LIVING WRITING A FICTION BLOG, NOT PUBLISHED HE HATES THEM BOTH
+
+HE'S THE SAME CHIEF BATES I KNOW
+
+IM FINE BUT THE DARK THEME IS STILL TERRIBLE
+
+If it helps, I'm talking to my Anthropology Department supervisor in Site-009. Everything seems unchanged. -Eve
+
+Then - we forget that light theme ever existed, right? We don't think about hopping dimensions, or reality altering itself (but only the look of the Authority intraweb), everything is fine. All Runoff Blocks are now operating again, I see -H
+
+YES SOUNDS GOOD
+
+I was never worried about it. -Eve
+
+I won't submit this to command. -H
+
+Of course.
+
+@@@@
+@@@@
+@@@@
+HEY, WE SHOULD GRAB LUNCH TOGETHER SOMETIME
+
+WHILE WE CAN STILL ALL EDIT THIS, GOOD TO LAUGH ABOUT CRAZY STUFF
+
+MAINT UNION TRADITION
+
+Hell, sure -H
+
+Might be nice. -Eve
+
+Oh, by the way - still Évelyne typing - while your Containment and Protection Divisions were running around panicking, us in Research were polling everybody we could find on the new dark theme.
+
+75% prefer it.
+
+THATS BULLSHIT 25 PERCENT DON'T LIKE IT YOU DON'T KNOW WEB DESIGN ANOMALY OR NOT THIS IS A MISTA
+
+> Page locked by A. Hernandez, ASF.
+

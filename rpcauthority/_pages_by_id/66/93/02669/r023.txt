@@ -1,0 +1,298 @@
+---
+title: "_csstest"
+tags: []
+page_id: "669302669"
+site: "rpcauthority"
+slug: "_csstest"
+revision: 23
+revision_id: "713836892"
+author: 3118961
+timestamp: 1554072680
+---
+
+[[module css]]
+#top-bar a {
+    color: maroon;
+    background: transparent;
+}
+
+#top-bar ul li ul {
+    border: 1px solid maroon;
+    box-shadow: none;
+    border-top: 0;
+}
+
+#top-bar ul li a {
+    border-left: none;
+    border-right: none;
+}
+
+#top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    background: #ffe;
+    color: black;
+    border-left: solid 1px maroon;
+    border-right: solid 1px maroon;
+}
+
+#top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-top: none;
+    color: black;
+}
+
+#top-bar ul li.sfhover a:hover,
+#top-bar ul li:hover a:hover {
+    background: maroon;
+    color: white;
+}
+
+#top-bar ul li ul li a {
+    transition:color 0s ease;
+}
+
+#top-bar ul li.sfhover a {
+    color: black;
+}
+  #page-title
+  {
+    color: maroon;
+
+    border-color: maroon;
+  }
+#header {
+    background: url(http://www.rpc-wiki.net/local--files/_csstest/4chan_small.png) 5px 22px no-repeat;
+}
+ #side-bar .menu-item > a:hover {
+    background: maroon!important;
+}
+ 
+#side-bar .heading{
+    border-color: maroon;
+    margin-left: -6px;
+    color: maroon;
+}
+ #side-bar div.menu-item a {
+  color: black;
+}
+ #header h1 a::before {
+    color: maroon;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 10pt;
+    content: "R/Pol/C Authority";
+    font-family: Tahoma,sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    margin-top: 0;
+    text-shadow: none;
+}
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+}
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+div#container-wrap {
+background: url(http://www.rpc-wiki.net/local--files/_csstest/4chan-background.png) top left repeat-x;
+}
+body {
+color: #690000; 
+background: #FFFFEE!important;
+}
+.anon{
+color: #070;
+}
+
+a.uid{
+color: #690000 !important;
+text-decoration: none;
+}
+
+a.uidB{
+color: #333 !important;
+}
+
+a.uid:hover{
+color: #dd0000 !important;
+}
+
+a.replies{
+color: #008 !important;
+}
+
+a.replies:hover{
+color: #dd0000 !important;
+text-decoration: none;
+}
+
+a.you{
+color: #008 !important;
+text-decoration: underline;
+}
+
+a.you:hover{
+color: #dd0000 !important;
+}
+
+a.replies2{
+color: #008 !important;
+text-decoration: underline;
+font-size: 90%;
+}
+
+a.replies2:hover{
+color: #dd0000 !important;
+}
+
+.smaller{
+color: #888866;
+font-size: 80%;
+position: absolute
+}
+
+.reply{
+background-color: #f6e9e1;
+width: 60%;
+padding: 1px 6px 3px 6px;
+margin-left: 25px;
+border-right: 1px solid #aaaa88;
+border-bottom: 1px solid #aaaa88;
+}
+
+.reply2{
+border: none !important;
+color: #333;
+background-color: #EEF2FE;
+margin: auto;
+padding: 0.05em 0.4em 0.05em 0.4em;
+}
+
+.omitReply{
+color: #777;
+padding-left: 2em;
+}
+
+a.omitColor{
+color: #00f !important;
+}
+
+.chanContainer{
+color: #690000;
+background-color: #FFFFEE;
+}
+
+.postPadding{
+    padding-left: 3em;
+}
+
+.chanContainer a{
+transition: 0s !important;
+}
+
+.chanContainer a:not([name="id"]){
+color: #00e;
+}
+
+.chanContainer a:hover{
+color: #e00;
+transition: 0s;
+}
+
+.chanContainer a:visited{
+color: #551a8b;
+}
+
+.imageUrl{
+text-decoration: underline;
+}
+
+.chanContainer .image {
+    margin-top: -1em;
+}
+
+.fileDel{
+    position: relative;
+    top: 2.5px;
+}
+
+[[/module]]
+
+[[include component:rate title="_csstest"]]
+
++ Theme testing page
+++ Theme testing page
++++ Theme testing page
+++++ Theme testing page
++++++ Theme testing page
+
+------
+
+
+||~ header ||~ header ||~ header ||
+|| cell-content || cell-content || cell-content ||
+|| cell-content || cell-content || cell-content ||
+
+> quoted text
+> quoted text
+> quoted text
+
+# list item
+# list item
+# list item
+
+* list item
+* list item
+* list item
+
+Footnote[[footnote]] footnote text [[/footnote]]
+
+**bold text**
+
+//italic text//
+
+__underline text__
+
+--strikethrough text--
+
+{{teletype text}}
+
+^^superscript^^
+
+,,subscript,,
+
+[[toc]]
+
+[[tabview]]
+[[tab tab 1]]
+Text
+[[/tab]]
+[[tab tab 2]]
+Text
+[[/tab]]
+[[tab tab 3]]
+Text
+[[/tab]]
+[[/tabview]]
+
+[[div class="content-panel centered standalone"]]
+
++ content panel
+
+[[/div]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-yellow.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-orange.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-red.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-purple.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-black.png]]
+
+[[include component:image-enlarge name=https://i.imgur.com/eInpCeq.jpg|width=250px|caption=Image Caption]]
+
+
+
+~~~~
+

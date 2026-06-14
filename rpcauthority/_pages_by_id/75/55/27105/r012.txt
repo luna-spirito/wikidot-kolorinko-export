@@ -1,0 +1,31 @@
+---
+title: "Tales and Docs by Title"
+tags: ["archived"]
+page_id: "755527105"
+site: "rpcauthority"
+slug: "tales-by-title"
+revision: 12
+revision_id: "1529870865"
+author: 5982545
+timestamp: 1746225742
+---
+
+[[# top]]
+
+This page serves as a comprehensive list of tales and documents, sorted alphabetically. Due to Wikidot limitations, there is no navigation for this page.
+
+
+[[div class="content-panel standalone series"]]
++ All Tales and Documents
+[[module ListPages tags="tale, document" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+

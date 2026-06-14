@@ -1,0 +1,222 @@
+---
+title: "Tales and Docs by Topic"
+tags: ["archived"]
+page_id: "757226822"
+site: "rpcauthority"
+slug: "tales-by-topic"
+revision: 25
+revision_id: "1529870864"
+author: 5982545
+timestamp: 1746225732
+---
+
+[[# top]]
+
+This page serves as a comprehensive list of tales and documents, sorted based on the topic / genre of the tale. Use the table of contents below to navigate the list.
+
+If you believe a tale is missing from one of the categories / is in the wrong category, or that a new category should be created, contact site staff.
+
+[[toc]]
+
+[[div class="content-panel standalone series"]]
++ Horror
+These tales intend to unsettle the reader.
+
+###666|Tag: horror##
+[[module ListPages tags="horror" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Entities of Interest
+These tales heavily feature Persons of Interest, Groups of Interest or Governments of Interest.
+
+###666|Tag: eoi-tale##
+[[module ListPages tags="eoi-tale" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Alternate Timeline
+These tales take place within alternate timelines or universes that interact with the main universe.
+
+###666|Tag: alt-timeline##
+[[module ListPages tags="alt-timeline" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Military
+These tales involve ASF, MST, or other militaristic elements.
+
+###666|Tag: military##
+[[module ListPages tags="military" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Research
+These tales involve the research of anomalies, or involve Authority Researchers.
+
+###666|Tag: research##
+[[module ListPages tags="research" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Containment
+These tales involve the containment of anomalies.
+
+###666|Tag: containment##
+[[module ListPages tags="containment" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Noir
+These tales fall under the Noir genre, including elements of mystery, murder and conspiracy.
+
+###666|Tag: noir##
+[[module ListPages tags="noir" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Comedy
+These tales intend to make the reader laugh.
+
+###666|Tag: comedy##
+[[module ListPages tags="comedy" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ History
+These tales detail the history of the RPC universe.
+
+###666|Tag: history##
+[[module ListPages tags="history" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Misc
+These tales do not fall under any of the previous categories, or have not been categorized yet.
+[[module ListPages tags="tale, document, -horror, -eoi-tale, -alt-timeline, -military, -research, -containment, -noir, -comedy, -history" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Non-Canon
+Non-canon tales do not take place within the same connected universe as normal articles. These articles are completely separate, no overlap with canon articles.
+
+###666|Tag: non-canon##
+[[module ListPages tags="non-canon -rpc -hub" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
++ Short
+These tales are less than 1000 words long.
+
+###666|Tag: short##
+[[module ListPages tags="short" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+

@@ -1,0 +1,815 @@
+---
+title: "Contest Archive"
+tags: ["hub"]
+page_id: "757234510"
+site: "rpcauthority"
+slug: "contest-archive"
+revision: 72
+revision_id: "1532058537"
+author: 5982545
+timestamp: 1756913412
+---
+
+[[module css]]
+.content-panel { border: 1px solid var(--content-box-border-color); }
+.results {
+    margin: 1em 40px;
+    border: 1px solid;
+    color: var(--text-color);
+    background: var(--blockquote-background);
+    border-radius: var(--blockquote-border-radius);
+    padding: var(--blockquote-padding);
+    box-shadow: var(--blockquote-box-shadow);
+}
+.results hr { background: var(--horizontal-rule-secondary-background); }
+.results .collapsible-block { margin-top: 1em; }
+.results .collapsible-block-content p > a { font-size: 120%; font-weight: bold; }
+
+.content-panel h2:first-child {
+    margin: 10px 0 2px;
+    font-size: 175%;
+}
+.content-panel.event-contest h2:first-child::after {
+    content: " (Event)";
+    opacity: 0.7;
+    font-size: 75%;
+}
+.content-panel p:nth-child(2) { margin-top: 0; }
+
+.content-panel .collapsible-block-folded { margin-bottom: 1em; }
+
+/* Budget Cuts winner text style */
+:root {
+    --v1: #4ab750;
+    --WT-v1: #437345;
+}
+.teamProtection {
+    color: var(--v1);
+    font-weight: bold;
+    padding: 0 19px;
+    background: left url(http://rpcauthority.wdfiles.com/local--files/component%3Aprotection-theme/PD.png), right url(http://rpcauthority.wdfiles.com/local--files/component%3Aprotection-theme/PD.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+}
+[[/module]]
+
+This page lists every past, official on-site contest and its respective winner(s). Contest entries are listed in chronological order of posting. For more info on a contest, follow the link to its individual hub.
+
+[[toc]]
+
+----
+
+[[=]]
++ 2018 Contests
+
+[[div class="content-panel"]]
+++ [[[rpc-001contesthub|RPC-001 Contest]]]
+//July 21th, 2018 — August 11th, 2018//
+----
+A contest has started to determine the first entry on the RPC-001 page. The theme is "Black Circle".
+
+[[div class="results"]]
+**Cancelled**
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[001contestjustviewer|JustViewer's Proposal]]] by [[user JustViewer]]
+[[[001contesttogetic|The Veil]]] by [[user Togetic]]
+[[[001contesthydrozen|Maelstrom]]] by [[user Hydrozen]]
+[[[001contestopenupthetrunk|A Research Proposal]]] by [[user openupthetrunk]]
+[[[rpc-001contestoveja|An Amiable Roadsign (Oveja's Proposal)]]] by [[user Oveja]]
+[[[001contestbxluyw1lamvmzg|The Wellspring]]] by [[user bxluyw1lamvmzg]]
+[[[001contestshmeckie|The Nuclear Chaos]]] by [[user Shmeckie]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[halloween|Halloween Contest]]]
+//October 21st, 2018 — October 24th, 2018//
+----
+**Scariest RPC** - You must write the best scary RPC, there are no other restrictions.
+**Acquired Media** - Submit your best and scariest. Each subcategory will have its own winner. Photographs can include artistic drawings.
+
+[[div class="results"]]
+**Scariest RPC Winner:**
+##var(--error-color)|RPC-866## by [[*user moist bread]]
+
+**Acquired Photos Winner:**
+[[[halloweenentrylogangreenjeans|Logangreenjeans's Photo]]] by [[*user Logangreenjeans]]
+
+**Acquired Writings Winner:**
+##var(--error-color)|M-357 "Wandering the Woods".## by ##var(--error-color)|Hyze##
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+**Scariest RPC:**
+[[[RPC-666]]] by [[user Ascriber]]
+[[[halloweenentry:bxluyw1lamvmzg|Rattenkönig Doors]]] by [[user bxluyw1lamvmzg]]
+[[[halloweenentrymrmushroom|Trick or Trauma]]] by [[user MrMushroom]]
+[[[RPC-168]]] by ##var(--error-color)|ianofdoom2##
+
+**Acquired Photos:**
+[[[halloweenentrylogangreenjeans|Logangreenjeans's Photo]]] by [[user Logangreenjeans]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[winter-2018|Winter Contest]]]
+//January 25th, 2019 — February 1st, 2019//
+----
+**In the Dead of Winter** - You must write an RPC inspired by winter, unforgiving cold, the relentlessness of mother nature, tradition or holiday.
+**New Beginnings** - You must write an RPC inspired by regrowth, rebirth or starting over.
+**Winter Tale** - You may write an entirely new Winter/holiday tale or rewrite a traditional story to have an RPC twist.
+
+[[div class="results"]]
+**In the Dead of Winter Winner:**
+[[[RPC-563]]] by [[*user Logangreenjeans]]
+
+**New Beginnings Winner:**
+[[[RPC-365]]] by [[*user MrPines]]
+
+**Winter Tale Winner:**
+[[[Cogs]]] by [[*user 0ktober]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+**In the Dead of Winter:**
+[[[contest:winterentrymors13|Schimmelflocke]]] by [[user Mors 13]]
+[[[contest:winterentrylogangreenjeans|The Shepard and His Flock]]] by [[user Logangreenjeans]]
+[[[contest:winterentrygoogle-chrome|A parting gift from an Immortal Bird]]] by [[user google_chrome]]
+[[[contest:winterentrymoistbread|Christmas With Amazing! Co.]]] by [[user moist bread]]
+[[[contest:winterentryascriber|And With It, the Memory of the Republic]]] by [[user Ascriber]]
+
+**New Beginnings:**
+[[[contest:winterentrymrpines|Nothing's ever gonna make me forget her]]] by [[user MrPines]]
+[[[contest:winterentryrebirthofbabel|Winter Entry: Rebirth of Babel]]] by ##var(--error-color)|Moenennbys##
+[[[contest:geckovstheworld|The Water Phoenix]]] by [[user yoitsgecko]]
+[[[contest:winterentrytacticalnuke|The Forest of Noble Truths]]] by [[user Tactical Nuke]]
+
+**Winter Tales:**
+[[[contest:winterentryvizlox|Cogs]]] by [[user 0ktober]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+----
+
++ 2019 Contests
+
+[[div class="content-panel"]]
+++ [[[j2019|April Fools Contest]]]
+//April 1st, 2019//
+----
+You have only THREE DAYS to make a joke article!
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-940-J]]] by [[*user yoitsgecko]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[contest:jcontestvizlox|RPC-500-J]]] by [[user 0ktober]]
+[[[contest:jcontestbxluyw1lamvmzg|RPC-866-J]]] by [[user bXluYW1lamVmZg]]
+[[[contest:jcontestgoogle-chrome|RPC-404-J]]] by [[user google_chrome]]
+[[[contest:jcontestgeckovstheworld|RPC-940-J]]] by [[user yoitsgecko]]
+[[[contest:jcontestresearcher-ezekiel|RPC-Nutshack-J]]] by [[user Researcher Ezekiel]]
+[[[contest:jcontestmoistbread|This isn't funny.]]] by [[user moist bread]]
+[[[contest:jcontestascriber|RPC-DARK-THEME-J]]] by [[user Ascriber]]
+[[[contest:jcontesthfdummie|RPC-736-J]]] by [[user H F Dummie]]
+[[[contest:jcontesttogetic|RPC-GOI-J]]] by [[user Togetic]]
+[[[contest:jcontest-jammy-nutrient|RPC-411811-J]]] by [[user fredrickdouglass]]
+[[[contest:jcontest-gearhart|RPC-FUK-U]]] by [[user Gearhart]]
+[[[contest:jcontestjerryjohn|Yea]]] by [[user JerryJohn]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[worldcontest2019|The World is our Oyster Contest]]]
+//May 10th, 2019 — May 11th, 2019//
+----
+**004 Contest** - This contest has no theme. Make the best article you can to win the RPC-004 slot.
+**Division Tale** - You must make a tale that prominently features at least one of the three divisions.
+
+[[div class="results"]]
+**004 Contest Winner:**
+[[[RPC-004]]] by [[*user Logangreenjeans]]
+
+**Division Tale Winner:**
+[[[seans-bizarre-adventure|Sean's Bizarre Adventure]]] by [[*user Ascriber]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+**004 Contest:**
+[[[contest:004contestd4rkseid|ArcOS Entropy]]] by [[user d4rkseid]]
+[[[contest:004contestphoenix322|The Maid virus]]] by ##var(--error-color)|Phoenix322##
+[[[contest:004contestgoogle-chrome|The Engineer and the AEDFS Lupin]]] by [[user google_chrome]]
+[[[contest:004contestvonpincier|The Howlers of Dreamland]]] by [[user Von Pincier]]
+[[[contest:004contestlogangreenjeans|The Serial Poet]]] by [[user Logangreenjeans]]
+[[[contest:004contesthfdummie|Narrative vs Narrator]]] by [[user H F Dummie]]
+[[[contest:004contestvizlox|ACS Entropy]]] by [[user 0ktober]]
+
+**Division Tales:**
+[[[contest:divisioncontestvonpincier|Men on the Moon]]] by [[user Von Pincier]]
+[[[contest:004contestascriber|Sean's Bizarre Adventure]]] by [[user Ascriber]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel event-contest"]]
+++ [[[Fail-Safe]]]
+//June 15th, 2019 — July 14th, 2019//
+----
+Write or create anything you wish about the blast at Site-014.
+
+[[div class="results"]]
+**Winner:**
+[[[Beasts, in the Belly of the Beast]]] by [[*user Ascriber]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[fail-safe|Fail-Safe hub]]] for other content.[[/span]]
+
+[[[RPC-794]]] by [[user TheGreatTarbolin69]]
+[[[RPC-831]]] by [[user google_chrome]]
+[[[RPC-739]]] by [[user DrPierson]]
+[[[The Void Calls]]] by [[user 0ktober]]
+[[[RPC-559]]] by [[user google_chrome]]
+[[[The Casting Of Straws]]] by [[user carriontrooper]]
+[[[The Trajectory Of Moths]]] by [[user carriontrooper]]
+[[[The Mass Shifts]]] by [[user Dattop]]
+[[[RPC Failsafe PSA]]] by [[user TMFWriter]]
+[[[Awakening Hell's Gate]]] by [[user DrPierson]]
+[[[An Intrusion]]] by [[user bXluYW1lamVmZg]]
+[[[RPC-771]]] by [[user ThermicLine]]
+[[[RPC-193]]] by [[user 0ktober]]
+[[[o-002-13|O-002-13/06/2019: Nuclear Detonation]]] by [[user google_chrome]]
+[[[Beasts, in the Belly of the Beast]]] by [[user Ascriber]]
+[[[scenes-site-014|Scenes from Site-014]]] by [[user Ascriber]]
+[[[Float Like A Butterfly, Sting Like A Sword]]] by [[user Togetic]]
+[[[The Fires Of Uncertainty]]] by [[user carriontrooper]]
+[[[The Observer Section]]] by [[user google_chrome]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[autumn|Black Op Buddies Contest]]]
+//October 21st, 2019 — October 25th, 2019//
+----
+In collaboration with a buddy, write an RPC including at least one approved/canon GOI!
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-131]]] by [[*user bXluYW1lamVmZg]] and [[*user 0ktober]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[contest:bobcontestthegreattarbolin-icfd-sticksntricks|General Winter]]] by [[user TheGreatTarbolin69]], [[user ICFD]], and [[user SticksNTricks]]
+[[[contest:bobcontestjimmyjohnjohnson|The Amazing! Co. Meaning Machine]]] by [[user JimmyJohnJohnson]]
+[[[contest:bobcontestmoistbread|He's Mister Red Christmas]]] by [[user moist bread]]
+[[[contest:bobcontestgooglechrome|Keballic Coal Generator #12]]] by [[user Almarduk]] and [[user google_chrome]]
+[[[contest:bobcontestjimmyboyhaha-hfdummie|Death Is Late To The Party]]] by [[user JimmyBoyHaha]] and [[user H F Dummie]] 
+[[[contest:bobcontestvizloxbxluyw1lamvmzg|How to Catch an Info-Demon]]] by [[user bXluYW1lamVmZg]] and [[user 0ktober]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel event-contest"]]
+++ [[[below-zero-event|Below Zero]]]
+//November 20th, 2019 — December 12th, 2019//
+----
+Write or create anything you wish about the unearthed Antarctican city.
+
+[[div class="results"]]
+**Writing Winner:**
+[[[Dreaming of Babel]]] by [[*user Von Pincier]]
+
+**Art Winner:**
+[[[the-dark-below|The Long Dark Below]]] by [[*user Almarduk]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[below-zero-event|Below Zero hub]]] for other content.[[/span]]
+
+**Writing:**
+[[[RPC-830]]] by [[user moist bread]]
+[[[Dreaming of Babel]]] by [[user Von Pincier]]
+[[[RPC-917]]] by [[user TheGreatTarbolin69]]
+[[[RPC-411]]] by ##var(--error-color)|GibbyFuckingDies##
+[[[RPC-747]]] by [[user Almarduk]]
+[[[RPC-707]]] by [[user google_chrome]]
+[[[RPC-719]]] by [[user 8ismo]]
+[!--[[[Caligula]]] by [[user SticksNTricks]]--]
+[[[RPC-259]]] by [[user DrXOUBLE D]]
+
+**Art:**
+[[[the-dark-below|The Long Dark Below]]] by [[user Almarduk]]
+[[[Red the Dark]]] by [[user 0ktober]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+----
+
++ 2020 Contests
+
+[[div class="content-panel event-contest"]]
+++ [[[sub-vesuvia-event|Sub Vesuvia]]]
+//January 24th, 2020 — February 17th, 2020//
+----
+Write an RPC, tale or document about the long-lost Crypta sub Vesuvia.
+
+[[div class="results"]]
+**Writing Winners:**
+[[[RPC-369]]] by [[*user bXluYW1lamVmZg]]
+[[[Devourer Of Sin]]] by [[*user Ashtor3th]]
+
+**Art Winners:**
+[[[The Sun Is at the Horizon yet the Church Is Lit From Above]]] by [[*user 0ktober]]
+##var(--error-color)|Mount Vesuvius Painting## by [[*user Croal]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[sub-vesuvia-event|Sub Vesuvia hub]]] for other content.[[/span]]
+
+**Writing:**
+[[[Authority Report №1366]]] by [[user thewolf66]]
+[[[RPC-802]]] by [[user Von Pincier]]
+[[[RPC-586]]] by [[user Alex Mercer Fan Club]]
+[[[RPC-967]]] by [[user google_chrome]]
+[[[RPC-740]]] by [[user Mr Gallop]]
+[[[RPC-369]]] by [[user bXluYW1lamVmZg]]
+[[[RPC-289]]] by [[user thewolf66]]
+[[[RPC-628]]] by [[user Kloth2]]
+[[[RPC-263]]] by [[user ieatcrepes]]
+[[[The Hole]]] by [[user Big Mark]]
+[[[RPC-284]]] by [[user Arbiter_Soul]]
+
+**Art:**
+[[[The Sun Is at the Horizon yet the Church Is Lit From Above]]] by [[user 0ktober]]
+[[[Two Sides Of Creation]]] by [[user 8ismo]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[j2020-contest|April Fools 2020 Contest]]]
+//March 23rd, 2020 — March 26th, 2020//
+----
+Write an article that meets at least one of seven unusual criteria.
+
+[[div class="results"]]
+**Writing Winner:**
+[[[RPC-949]]] by [[*user JimmyBoyHaha]]
+
+**Art and Memes Winner:**
+[[[contest:j2020arthighgamma|Zzzzzzzzzzzz]]] by [[*user High Gamma]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+**Writing:**
+[[[contest:j2020theswedishchef|RPC-935]]] by [[user TheSwedishChef]]
+[[[contest:j2020jokah|RPC-306]]] by [[user NormalClown]]
+[[[contest:j2020laclale|RPC-927]]] by [[user Laclale]]
+[[[contest:j2020jimmyboyhaha|JimmyBoyHaha's J2020 Entry]]] by [[user JimmyBoyHaha]]
+[[[contest:j2020ballyt|RPC-339]]] by [[user BallYT]]
+[[[contest:j2020highgamma|Table]]] by [[user High Gamma]]
+
+**Art and Memes:**
+[[[contest:j2020artvizlox|Baph Slaughters Boson; The Many Men Behind the Slaughter]]] by [[user 0ktober]]
+[[[contest:j2020arthighgamma|Zzzzzzzzzzzz]]] by [[user High Gamma]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[randomhazards2020-contest|Random Hazards Contest]]]
+//May 20th, 2020 — May 25th, 2020//
+----
+You will be assigned three random hazards. Your article must include these hazards and can include more if you wish.
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-052]]] by [[*user Almarduk]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[contest:trhcontesttacticalnuke|The Lid]]] by [[user Tactical Nuke]]
+[[[contest:trhcontestlaclale|Immeasurable measurement (TRHLaclale)]]] by [[user Laclale]]
+[[[contest:trhcontestexcer-imnoteric|THE SKY IS ALIVE (TRHContest Excer ImNotEric)]]] by [[user ImNotEric]] and [[user Excer]]
+[[[contest:trhcontestgreekspy|Horsepower]]] by [[user GreekSpy]]
+[[[contest:trhcontestgoogle-chrome|Ever Silence]]] by [[user google_chrome]]
+[[[contest:trhcontestbaubius|Tripurisvara]]] by ##var(--error-color)|GibbyFuckingDies##
+[[[contest:trhcontestjimmyboyhaha|A Storm Is Brewin']]] by [[user JimmyBoyHaha]]
+[[[contest:trhcontestbigmark|Them!]]] by [[user Big Mark]]
+[[[contest:trhcontestsitemanagertodd|A Room of Unimaginable Alternatives.]]] by [[user Alex Mercer Fan Club]]
+[[[contest:trhcontestlieutenantmarshall|Vessels of the Sun]]] by ##var(--error-color)|Lieutenant Marshall##
+[[[contest:trhcontestalmarduk|Hollow and Drowning]]] by [[user Almarduk]]
+[[[contest:trhcontestdrpierson|The Library of Mythologies]]] by [[user DrPierson]]
+[[[contest:trhcontestdrxoubled|DrXouble D’s (The Planet)]]] by [[user DrXOUBLE D]]
+[[[contest:trhcontestrotaandkhag|Silver for a Sea-man]]] by [[user Fortunae]] and [[user Yoknapatawpha]]
+[[[contest:trhcontestieatcrepes|Copenhaven (TRH Contest)]]] by [[user ieatcrepes]]
+[[[contest:trhcontestkloth2|Our Broken Savior]]] by [[user Kloth2]]
+[[[contest:trhcontestballyt|Verdant Remains]]] by [[user BallYT]]
+[[[contest:trhcontestdon-bracauli|Where the River Touches the Roots]]] by [[user Don Bracauli]]
+[[[contest:trhhigh-gamma|RPC-052-J]]] by [[user High Gamma]]
+[[[contest:trhcontestascriber|Degrading Discourse]]] by [[user Ascriber]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel event-contest"]]
+++ [[[cair-aisling-event|Cair Aisling]]]
+//July 1st, 2020 — July 27th, 2020//
+----
+Write an RPC, tale or document about the unfinished land of Cair Aisling.
+
+[[div class="results"]]
+**Winner:**
+[[[caseouverture|Case OUVERTURE]]] by [[*user Von Pincier]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[cair-aisling-event|Cair Aisling hub]]] for other content.[[/span]]
+
+**Writing:**
+[[[Frost Bitten - Chapter 1, Frostbreath]]] by [[user Big Mark]]
+[[[four-pages-preface|Four Pages Forming a Preface]]] by [[user Von Pincier]]
+[[[RPC-370]]] by ##var(--error-color)|GibbyFuckingDies##
+[[[RPC-433]]] by [[user TheGreatTarbolin69]]
+[[[RPC-448]]] by [[user Almarduk]]
+[[[caseouverture|Case OUVERTURE]]] by [[user Von Pincier]]
+[[[The Battle Below the Mouldering Spire]]] by [[user PhoenixOfHope]]
+[[[RPC-360]]] by [[user Agent Eldritch]]
+[[[encyclopedia-fantastica|The (Incomplete) Encyclopedia Fantastica]]] by [[user 0ktober]]
+[[[RPC-190]]] by [[user JimmyBoyHaha]]
+
+**Art:**
+[[[Vizlox Cair Aisling Art]]] by [[user 0ktober]]
+[[[8ismo Cair Aisling Art Gallery]]] by [[user 8ismo]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[misfortune2020-contest|Misfortune Contest]]]
+//October 18th, 2020 — October 25th, 2020//
+----
+Create an RPC article with the theme of misfortune or superstition.
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-013]]] by [[*user Agent Eldritch]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[contest:misfortunecontestthegreattarbolin69|The Broken Despot]]] by [[user TheGreatTarbolin69]]
+[[[contest:misfortunecontestalmarduk|PERFECT DARK]]] by [[user Almarduk]]
+[[[contest:misfortunecontestexcer|Atë]]] by [[user Excer]]
+[[[contest:misfortunecontestieatcrepes|Black Cat Nebula]]] by [[user ieatcrepes]]
+[[[contest:misfortunecontest-agent-eldritch|STRESS BUDDY™ by Amazing! Co.]]] by [[user Agent Eldritch]]
+[[[contest:misfortunecontestvizlox|ACS Dreamscape]]] by [[user 0ktober]]
+[[[contest:misfortunecontestminutemen|A Switch and a Conundrum]]] by [[user Malfestance]]
+[[[contest:misfortunecontestkloth2|Jhon]]] by [[user Kloth2]]
+[[[contest:misfortunecontestbxluyw1lamvmzg|Fourniér's Leviathan]]] by [[user bXluYW1lamVmZg]]
+[[[contest:misfortunecontestlogangreenjeans|The Endless Allegiance]]] by [[user Logangreenjeans]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+----
+
++ 2021 Contests
+
+[[div class="content-panel event-contest"]]
+++ [[[Budget Cuts]]]
+//February 5th, 2021 — March 15th, 2021//
+----
+You have been assigned one of three Authority Divisions for this contest. Write an RPC, tale or document that involves your team's Division.
+
+[[div class="results"]]
+**Winner:**
+[[span class="teamProtection"]]Team Protection[[/span]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[budget-cuts|Budget Cuts hub]]] for other content.[[/span]]
+
+**Team Research:**
+[[[Dr. Curtis "Six" Burnwood]]] by [[user DrPierson]]
+[[[And Thus I Depart]]] by [[user DrPierson]]
+[[[RPC-377]]] by [[user Fortunae]]
+[[[rpc-001-2|RPC-001: The Alpha and Omega (A&Ω)]]] by [[user ieatcrepes]]
+[[[Uncommon Diseases]]] by [[user High Gamma]] and [[user ieatcrepes]]
+
+**Team Protection:**
+[[[RPC-379]]] by [[user Almarduk]]
+[[[Report On The Anomalous State Of Turkmenistan]]] by [[user Blairin]]
+[[[RPC-647]]] by [[user Almarduk]]
+[[[RPC-361]]] by [[user TTPY]]
+[[[RPC-847]]] by [[user Almarduk]]
+[[[The Abyss Stares Back]]] by [[user AfroSmileyFace]]
+[[[Powered Squadron]]] by [[user 8ismo]]
+
+**Team Containment:**
+[[[RPC-869]]] by [[user Superspambot]]
+[[[RPC-110-J]]] by [[user 0ktober]]
+[[[RPC-545]]] by [[user Excer]]
+[[[RPC-416]]] by [[user TheGreatTarbolin69]]
+[[[Dr. David Bucher Keller]]] by [[user TheGreatTarbolin69]]
+[[[RPC-458]]] by [[user 0ktober]]
+[[[Maybe One Day...]]] by [[user TheGreatTarbolin69]]
+[[[RPC-353]]] by [[user Bookshelf11]]
+[[[cnd-personnel-briefing|C&D Personnel Briefing]]] by [[user 0ktober]]
+[[[Rats in a Maze]]] by [[user ICFD]]
+[[[RPC-704]]] by [[user Dattop]]
+
+**Research & Containment:**
+[[[RPC-376]]] by [[user Kloth2]] and [[user Superspambot]]
+
+**Protection & Containment:**
+[[[RPC-420]]] by [[user Almarduk]], [[user Malfestance]], and [[user TheGreatTarbolin69]]
+[[[RPC-727]]] by [[user Almarduk]] and [[user TheGreatTarbolin69]]
+
+**Administration:**
+[[[A Charitable Donation]]] by [[user Excer]]
+[[[forgotten-children|Report on In-Person Evaluation of Site-D83 Regarding Property, Structural Integrity, and Continued Viability]]] by [[user bXluYW1lamVmZg]]
+
+**Art:**
+[[[von-s-budget-cuts-art|Von's Budget Cut Art]]] by [[user Von Pincier]]
+[[[mewstro's budget cuts art]]] by [[user mewstro]]
+[[[Agente Shuffle's Budget Cuts Art]]] by [[user Agente Shuffle]]
+[[[Axie's Budget Cut Art]]] by [[user AxieTheAxolotl]]
+[[[Ascribers Budget Cut Art]]] by [[user Ascriber]]
+[[[janny-quals-extravagant-budget-cuts-art-page|Janny Qual's Extravagant Budget Cuts Art Page]]] by [[user televisionist]]
+[[[Pierson's Budget Cut Art]]] by [[user DrPierson]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[myths-and-magic-contest|Myths & Magic Contest]]]
+//June 18th, 2021 — June 30th, 2021//
+----
+Create an RPC, tale or document about mythology or magic.
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-009]]] by [[*user SovereignAuthority]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[contest:mythsmagiccontestworm|The King & The Tide]]] by [[user Worm that Walks]]
+[[[contest:mythsmagiccontestalmarduk|Nine Thousand Lives & The Witchcraft of the Angra Mainyu, Who Is All Death]]] by [[user Almarduk]]
+[[[contest:mythsmagiccontestvonpincier|The Last Bequest & The Sleeping Kings]]] by [[user Von Pincier]]
+[[[contest:mythsmagiccontestphoenixofhope|One Elusive Bat]]] by [[user PhoenixOfHope]]
+[[[contest:mythsmagiccontestexcer|The Moć]]] by [[user Excer]]
+[[[contest:mythsmagiccontestkingwillpower|The Holy Fuckin' Spirit]]] by ##var(--error-color)|KingWillpower##
+[[[contest:mythsmagiccontestthe-son-of-man|Humorism]]] by [[user The Son of Man]]
+[[[contest:mythsmagiccontestdoctorlupin|The Roar of War]]] by [[user Doctor Lupin]]
+[[[contest:mythsmagiccontestthegreattarbolin69|The Sea of Forms & The Perfect Ideal]]] by [[user TheGreatTarbolin69]]
+[[[contest:mythsmagiccontestvizlox|GUN WIZARD: Shotgun Shogun; Two Years Overdue; Gun Wizard's Release Date; King of Anticipation & The Idea Stolen From Dattop]]] by [[user 0ktober]]
+[[[contest:mythsmagiccontestsovereignauthority|Vicarius Leti: The Lich Pope]]] by [[user SovereignAuthority]]
+[[[contest:mythsmagiccontestkloth2|The Yarabara's LitterEaters]]] by [[user Kloth2]]
+[[[contest:mythsmagiccontest-pixelatedharmony|Trinity (Contest Page)]]] by [[user ham_fm]]
+[[[contest:mythsmagiccontestepicgamer42069|Knockin' on Heaven's Door]]] by [[user EpicGamer42069]]
+[[[contest:mythsmagiccontestfortuna|The Virgin's Wake]]] by [[user Fortunae]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel event-contest"]]
+++ [[[New Frontier]]]
+//September 20th, 2021 — October 31st, 2021//
+----
+Create an RPC, tale, or document centered around the American Wild West in its last stretch.
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-435]]] by [[*user bXluYW1lamVmZg]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[new-frontier|New Frontier hub]]] for other content.[[/span]]
+
+**Writing:**
+[[[The Trains We Rob]]] by [[user MF_TOMB]]
+[[[rpc-828|ANOMALIE OBSCURA No.828]]] by [[user Almarduk]]
+[[[rpc-895|ANOMALIE OBSCURA No.895]]] by [[user UndertheSun]]
+[[[RPC-435]]] by [[user bXluYW1lamVmZg]]
+[[[rpc-407|ANOMALIE OBSCURA NO.407: The Beast of Reeves Mine]]] by [[user televisionist]]
+[[[rpc-729|ANOMALIE OBSCURA No.729]]] by [[user TheGreatTarbolin69]]
+[[[rpc-387|ANOMALIE OBSCURA No.387]]] by [[user moist bread]]
+[[[RPC-539]]] by [[user Kloth2]]
+
+**Art:**
+[[[Public Wanted Poster Of James Vaunt]]] by [[user UndertheSun]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+----
+
++ 2022 Contests
+
+[[div class="content-panel"]]
+++ [[[Broader Horizons]]]
+//March 6th, 2022 — April 3rd, 2022//
+----
+Create an RPC article or tale within already established lore, such as GoIs, AoIs, or any past events.
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-880]]] by [[*user 8ismo]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[contest:broaderhorizonscontestttpy|Charleston E. Cook]]] by [[user TTPY]]
+[[[contest:broaderhorizonscontestprototype-toaster-almarduk|There Are No Angels Here]]] by [[user Prototype_Toaster]] and [[user Almarduk]]
+[[[contest:rpc-880|RPC-880]]] by [[user 8ismo]]
+[[[contest:broaderhorizonscontestbettermybutter|Lepidoptera]]] by [[user MF_TOMB]]
+[[[contest:broaderhorizonscontestvizlox|The Mandorla Part 1: Dead Bird]]] by [[user 0ktober]]
+[[[contest:broaderhorizonscontestokaypj|It's Raining Inside]]] by [[user OkayPJ]]
+[[[contest:broaderhorizonscontest8ismo|Outside the Inside]]] by [[user 8ismo]]
+[[[contest:broaderhorizonscontestsovereignauthority|ACI Assessment of The Roman Papacy]]] by [[user SovereignAuthority]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel event-contest"]]
+++ [[[the-aberrant-treasures-of-the-caribbean-deep|Caribbean Deep]]]
+//July 25th, 2022 — September 21st, 2022//
+----
+Create an RPC, tale, or document centered around the Caribbean Deep in the 1600's.
+
+[[div class="results"]]
+**Winner:**
+[[[Der Fischer Und Die Magische Leiche]]] by [[*user TheGreatTarbolin69]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[the-aberrant-treasures-of-the-caribbean-deep|Caribbean Deep hub]]] for other content.[[/span]]
+
+[[[RPC-445]]] by [[user The Son of Man]]
+[[[El Corazón de Judas]]] by [[user Dattop]]
+[[[Der Fischer Und Die Magische Leiche]]] by [[user TheGreatTarbolin69]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[mincon-2023|Minimalism Contest]]]
+//December 9th, 2022 — February 17th, 2023//
+----
+Post a short article in two months: No theme, no format, and no strings attached.
+
+[[div class="results"]]
+**Writing Winners:**
+[[[RPC-781]]] by [[*user MF_TOMB]]
+[[[RPC-155]]] by [[*user DrPierson]]
+
+**Media Winner:**
+[[[A Rudimentary Depiction of RPC-996]]] by [[*user DoubleDenial]]
+
+**Most Minimalist Article:**
+[[[RPC-354]]] by [[*user Juiceoverflow]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+**Writing:**
+[[[RPC-809]]] by [[user DoubleDenial]]
+[[[RPC-371]]] by [[user thatowldude]]
+[[[RPC-782]]] by [[user MF_TOMB]]
+[[[RPC-919]]] by [[user The Son of Man]]
+[[[RPC-373]]] by [[user Almarduk]]
+[[[RPC-784]]] by [[user MF_TOMB]]
+[[[RPC-936]]] by [[user Superspambot]]
+[[[RPC-535]]] by [[user Logangreenjeans]]
+[[[RPC-844]]] by [[user milkboy123]]
+[[[grp-077|GRP-077 — "Whispers Beyond Light"]]] by [[user Generic3]]
+[[[RPC-385]]] by [[user Bro dude]]
+[[[RPC-741]]] by [[user EpicGamer42069]]
+[[[RPC-781]]] by [[user MF_TOMB]]
+[[[RPC-155]]] by [[user DrPierson]]
+[[[RPC-354]]] by [[user Juiceoverflow]]
+[[[RPC-058-ARC]]] by [[user MF_TOMB]]
+[[[The Late Doctor "Silicon"]]] by [[user 0ktober]]
+[[[RPC-512]]] by [[user Fleshward]]
+[[[RPC-622]]] by [[user JimmyBoyHaha]]
+[[[RPC-607]]] by [[user Prototype_Toaster]]
+
+**Art:**
+[[[12 Subjects Injured By Flying Shrapnel]]] by [[user MF_TOMB]]
+[[[A Rudimentary Depiction of RPC-996]]] by [[user DoubleDenial]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+----
+
++ 2023 Contests
+
+[[div class="content-panel event-contest"]]
+++ [[[Missing RPC]]]
+//June 17th, 2023 — September 15th, 2023//
+----
+Create an RPC or tale related to cover-ups, conspiracism, North-American folklore, or the great outdoors. The whackier, the better!
+
+[[div class="results"]]
+**Winner:**
+[[[Report On The Esoteric State Of Appalachia]]] by [[*user The Son of Man]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[span]]This was an event contest. Articles added after the original contest deadline are not listed here. Check the [[[missing-rpc|Missing RPC hub]]] for other content.[[/span]]
+
+[[[RPC-608]]] by [[user Bro dude]]
+[[[RPC-819]]] by [[user Abbefalkon]]
+[[[RPC-436]]] by [[user MF_TOMB]]
+[[[RPC-698]]] by [[user EpicGamer42069]]
+[[[Report On The Esoteric State Of Appalachia]]] by [[user The Son of Man]]
+[[[RPC-624]]] by [[user Raggabrash]]
+[[[RPC-431]]] by [[user Superspambot]]
+[[[RPC-230]]] by [[user Hellsverg]]
+[[[RPC-893]]] by [[user milkboy123]]
+[[[RPC-429]]] by [[user JimmyBoyHaha]]
+[[[A Forest That Hates]]] by [[user Abbefalkon]]
+[[[RPC-419]]] by [[user televisionist]] and [[user Jamiroquai777]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ [[[GD Elections 2024]]]
+//November 1st, 2023 — January 1st, 2024//
+----
+Write a Global Director prompt and/or personnel file for the 2024 elections and have the opportunity for your creation to lead the Authority for the next 4 years!
+[[/div]]
+
+----
+
++ 2024 Contests
+
+[[div class="content-panel"]]
+++ [[[done-and-dusted|The Done and Dusted Contest]]]
+//June 14th, 2024 — September 29th, 2024//
+----
+Create an RPC, tale, or document pertaining to a destroyed or nonfunctioning anomaly.
+
+[[div class="results"]]
+**Winners:**
+[[[RPC-973]]] by [[*user Raggabrash]]
+[[[RPC-903]]] by [[*user bXluYW1lamVmZg]]
+
+**Dead on Arrival Award:**
+[[[RPC-965]]] by [[*user Mr Makor]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[RPC-973]]] by [[user Raggabrash]]
+[[[RPC-711]]] by [[user TheGreatTarbolin69]]
+[[[RPC-965]]] by [[user Mr Makor]]
+[[[RPC-914]]] by [[user Fleshward]]
+[[[RPC-744]]] by [[user Oak_Seeker]]
+[[[RPC-903]]] by [[user bXluYW1lamVmZg]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+----
+
++ 2025 Contests
+
+[[div class="content-panel"]]
+++ [[[Hazard Poker]]]
+//May 3rd, 2025 — July 13th, 2025//
+----
+Throw caution to the wind; it's time for Hazard Poker! Write an article with a hand of four random hazards.
+
+[[div class="results"]]
+**Winner:**
+[[[RPC-699]]] by [[*user Almarduk]]
+
+**Card Shark Award:**
+[[[RPC-605]]] by [[*user Mr Makor]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[[RPC-446]]] by [[user Superspambot]]
+[[[RPC-699]]] by [[user Almarduk]]
+[[[RPC-815]]] by [[user Indrid_Hot]]
+[[[RPC-878]]] by [[user Jamiroquai777]]
+[[[RPC-637]]] by [[user Abbefalkon]]
+[[[RPC-489]]] by [[user TheGreatTarbolin69]]
+[[[RPC-923]]] by [[user Doomchad]]
+[[[RPC-605]]] by [[user Mr Makor]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[/=]]
+
+[!--
+BELOW: Entry template
+Put this after the previous entry, but before the [[/=]] marker
+Change "Show current entries" to "Show all entries" when the submission window closes
+
+[[div class="content-panel"]]
+++ [[[{hub link}]]]
+//Month Xth, 20XX — Month Xth, 20XX//
+----
+{description}
+
+[[div class="results"]]
+**Winner:**
+[[[{winner link}]]] by [[*user {winner username}]]
+----
+[[collapsible show="+ Show all entries" hide="- Hide entries"]]
+[[module ListPages category="*" tags="{contest tags}" order="created_at" perPage="250" separate="no"]]
+%%title_linked%% by [[user %%created_by%%]]
+[[/module]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+--]
+

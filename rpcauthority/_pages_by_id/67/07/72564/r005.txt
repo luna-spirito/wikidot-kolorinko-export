@@ -1,0 +1,104 @@
+---
+title: "This isn't funny."
+tags: ["jcontest"]
+page_id: "670772564"
+site: "rpcauthority"
+slug: "contest:jcontestmoistbread"
+revision: 5
+revision_id: "1516983761"
+author: 5982545
+timestamp: 1703451032
+---
+
+[[include component:contest-entry]]
+
+[[module css]]
+#u-main-wrap {animation: rotateB 864s infinite, blur-loop 20s infinite}
+#u-wrap1 {animation: rotate 400s infinite;}
+#u-wrap2 {animation: idkA 20s ease-in-out infinite;}
+#u-wrap3 { animation: idkB 864s ease-in-out infinite, rainbow 20s infinite;}
+
+}
+
+@keyframes blur-loop {
+    0% {filter: blur(3px);}
+    50% {filter: blur(6px);}
+    100% {filter: blur(3px);};
+}
+
+@keyframes rotateB {
+    from {transform: rotateY(0deg);}
+    to {transform: rotateY(360deg);};
+}
+
+@keyframes rotate {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);};
+}
+@keyframes idkA {
+    0% {transform: translateX(-155px);}
+    50% {transform: translateX(155px);}
+    100% {transform: translateX(-155px);};
+}
+@keyframes idkB {
+    0% {transform: translateY(-145px);}
+    50% {transform: translateY(145px);}
+    100% {transform: translateY(-145px);};
+}
+
+* {transform: r
+[[/module]]
+
+[[div id="main-wrap"]]
+    [[div id="wrap1"]]
+        [[div id="wrap2"]]
+            [[div id="wrap3"]]
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+[[div class="rate-module-bar rateContainer"]]
+[[table class="rate-module-container tableStyle"]]
+[[row]]
+[[cell class="rate-module-counter cellStyle"]]
+[[module ListPages limit="1" fullname="rpc-fuck_you" category="*"]]
+%%rating_votes%%
+[[/module]]
+[[/cell]]
+[[cell class="rate-module-counter cellStyle"]]
+Fuck you. There's no joke here. You're not allowed to vote.
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+@@ @@
+
+[[=]]
+++ [[span style="color:#ccccc;"]]**ADMIN STOP ORDER**[[/span]]
+[[/=]]
+-----
+
+[[div style="background-color: #0D0F11; float: center; border: solid 2px #666666; width: 450px; margin: auto; text-align: center; box-shadow: 0 0px 0px rgba(0,0,0,.5); padding: 0 15px; color: #CCCCCC;"]]
+
+[[image http://rpcsandbox.wdfiles.com/local--files/moistbreadjoke/GayFirstly.png]] 
+
+-----
+
+You must first post your draft within the **[http://bitly.com/98K8eH Fucking Excuse For Forums]** and receive two or more criticisms before posting your article. The author didn't fucking do this, because they are clinically diagnosed with autism.
+
+You are responsible for reading only complete works that reflect the standards of our website and the **[http://rpc-wiki.net/rpc-866/ Shitty Standards]** of our author base.
+
+If you are really a 300 IQ phantom alt, **[http://rpcsandbox.wikidot.com/helpme click here]** to  have an epileptic seizure and probably die. But it's a funny joke, so fuck you.
+
+-- **South Carolina Police Department Administration**
+[[/div]]
+            [[/div]]
+        [[/div]]
+    [[/div]]
+[[/div]]
+

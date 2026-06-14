@@ -1,0 +1,30 @@
+---
+title: "Tales and Docs by Author"
+tags: ["archived"]
+page_id: "757231245"
+site: "rpcauthority"
+slug: "tales-by-author"
+revision: 7
+revision_id: "1529870866"
+author: 5982545
+timestamp: 1746225742
+---
+
+[[# top]]
+
+This page serves as a comprehensive list of tales and documents, sorted based on the author of each article. Due to Wikidot limitations, there is no navigation for this page.
+
+[[div class="content-panel"]]
++ All Tales
+[[module ListPages tags="tale, document" order="created_by" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+

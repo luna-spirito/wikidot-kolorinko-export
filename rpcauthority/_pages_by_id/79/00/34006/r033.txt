@@ -1,0 +1,52 @@
+---
+title: "The Anderson-Eckhardt Coherency Test"
+tags: ["document", "lore", "research", "research-tone", "short", "translated"]
+page_id: "790034006"
+site: "rpcauthority"
+slug: "the-anderson-eckhardt-coherency-test"
+revision: 33
+revision_id: "1526683100"
+author: 9487909
+timestamp: 1734012486
+---
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/the-anderson-eckhardt-coherency-test"]] [[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/the-anderson-eckhardt-coherency-test"]] [[image http://www.rpc-wiki.net/local--files/component:icons/ru.png link="http://rpc-authority-ru.wikidot.com/the-anderson-eckhardt-coherency-test"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/teste-de-coerencia-de-anderson-eckhardt"]] ]]
+
+[[toc]]
+
+------
+[[=]]
+++ The AECT
+[[/=]]
+The Anderson-Eckhardt Coherency Test (AECT) is based on the Anderson Coherency Scale. Documentation can be found **[[[http://www.rpc-wiki.net/ACS-guide|here]]]**.
+
+The AECT is currently the most accurate known way to achieve a sufficiently consistent ACS reading for a given space. The test is composed of 3059 individual tests, each having an obtainable reading of either "low coherency", "medium coherency" or "high coherency". The final ACS Reading serves as an average of all test results performed in the AECT based on the following calculation procedure.
+
+> **1.** Perform each AECT sub-test and record whether the result of the test displayed a strong, medium or low coherency relative to a control test performed in base-line reality.
+> **2.** Convert this data-set into a numerical list with the following designations. 
+>> **High coherency** @@    @@ >> a numerical designation of **2**. 
+>> **Medium coherency** >> a numerical designation of **1**. 
+>> **Low coherency** @@     @@ >> a numerical designation of **0**.
+> You should now have a list consisting of the numbers 0, 1 and 2, and no other numbers.
+> **3.** Take the average (mean) of this data-set.  The result should be a number between 0 and 2 if done correctly. 
+> **4.** Take this result and multiply it by 3.
+
+With this test, the highest possible recording would be a result of 6 with the lowest being 0. Theoretically, it is possible for a given space to have a coherency level greater than 6; however, such a space has not been documented.
+
+The majority of sub-tests that make up the AECT can be organized into 2 discernible categories. The first category consists of simple logic-based questions and makes up 27% of sub-tests. These logical questions would be answered by a human that is currently standing inside the desired testing area, almost always a disposable testing subject. Typical questions include "what is 1 plus 1?" and "If a container contains 5 objects and I remove one of them, how many objects remain in the container?". A coherency level can be determined based on how accurate the subject's answer is. 
+
+The second category consists of basic observations of the area or of objects placed inside the area. These sub-tests make up 36% of the AECT. A typical test would be performing basic chemical reactions and determining if the reactions obey the laws of thermodynamics. Another example would be placing an animal such as a lamb inside the area and recording results. If the sheep acts as expected, that would likely be a high coherency area. If the sheep acts erratically due to unknown or unclear reasons, that would likely be a medium coherency area. If the sheep becomes deformed or otherwise changes in shape or appearance, that would likely be a low coherency area.
+
+The remaining 37% consists of miscellaneous tests and procedures; they generally do not fit a common theme or description. AECT sub-tests that make use of human test subjects should be tried dozens of times, using multiple test subjects to sufficiently remove the chance of bias. In many cases, it will be impossible to perform certain sub-tests; this is expected. In these cases, the abundance of other tests should allow for an adequate coherency reading.
+
+Contact Dr. Eckhardt for the complete document that lists every AECT sub-test.
+
+------
+[[=]]
+++ The AECR
+[[/=]]
+
+The Anderson-Eckhardt Coherency Reader is a machine independent to the AECT; it is capable of automatically producing a rough-estimate for a coherency level of a given area. The machine only makes use of several dozen sub-tests, meaning that the results are not very extensive. Each approximation comes in the form of a range, with the actual ACS level falling somewhere within it. For example, the result of an AECR could be a range of 3.5 to 4.7, with the actual ACS level being 3.8.
+
+AECRs are incredibly expensive to produce. If one is absolutely necessary, contact your Site Director and if deemed appropriate, an AECR will be granted.
+
