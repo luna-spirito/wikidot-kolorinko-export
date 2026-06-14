@@ -1,0 +1,163 @@
+---
+title: "Financial Theme"
+tags: ["theme"]
+page_id: "591278047"
+site: "rpcauthority"
+slug: "component:financial-theme"
+revision: 23
+revision_id: "1358141451"
+author: 3118961
+timestamp: 1607121656
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:financial-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+RPC Financial Theme
+ 
+Created by Vizlox based on C0debreak's original Financial Theme
+ 
+Logo by Dr Pierson
+*/
+
+:root {
+    --body-background: #121517;
+    --text-color: #dedede;
+    --basic-border: 1px solid #333;
+    --basic-border-color: #333;
+    --primary-text-color: #e6b217;
+    --sidebar-crit-corner-color: unset;
+
+    --page-background: #1a1d21;
+    --page-padding: 15px;
+
+    --header-icon: url(http://rpcauthority.wikidot.com/local--files/component:financial-theme/AdminLogo.png);
+    --header-text-visibility: hidden;
+    --header-custom-text: "Financial Affairs";
+    --header-tagline-custom-text: "Omni aurum robur ædificatur";
+    --header-tagline-color: #ffd24d;
+    --header-background: url(http://rpcauthority.wikidot.com/local--files/component:financial-theme/FinanceHeader.png);
+    --header-tagline-font: Georgia;
+    --header-tagline-font-weight: normal;
+    --header-font: Helvetica;
+
+    --search-button-background: #181c29;
+    --search-button-hover-background: #222738;
+    --search-input-color: #242733;
+    --search-input-hover: #1f2438;
+
+    --primary-background: #191b1f;
+    --content-box-shadow-color: #0d0d12;
+    --news-block-body-panel-background-even: #1d1e24;
+    --content-box-border-color: #363640;
+    --sidebar-hover-background: #f2c33d;
+    --sidebar-hover-color: #000;
+    --topbar-hover-background: #141c3c;
+
+    --link-color: #e8b827;
+    --link-hover-color: #f0be59;
+    --new-page-color: #b29362;
+
+    --star-rating-hue: 170deg;
+
+    --WT-primary-text-color: #a6831b;
+    --WT-page-background: #cececa;
+    --WT-page-padding: 15px;
+
+    --WT-header-icon: url(http://rpcauthority.wikidot.com/local--files/component:financial-theme/AdminLogo.png);
+    --WT-header-text-visibility: hidden;
+    --WT-header-custom-text: "Financial Affairs";
+    --WT-header-tagline-custom-text: "Omni aurum robur ædificatur";
+    --WT-header-tagline-color: #ffd24d;
+    --WT-header-background: url(http://rpcauthority.wikidot.com/local--files/component:financial-theme/FinanceHeaderLight.png);
+    --WT-header-tagline-font: Georgia;
+    --WT-header-tagline-font-weight: normal;
+    --WT-header-font: Helvetica;
+
+    --WT-search-button-background: #181c29;
+    --WT-search-button-hover-background: #222738;
+    --WT-search-input-color: #242733;
+    --WT-search-input-hover: #1f2438;
+
+    --WT-content-box-border-color: #333;
+    --WT-topbar-hover-background: #1f2e6b;
+    --WT-sidebar-hover-background: #96781d;
+    --WT-tabview-button-hover-background: #a4a48f;
+    --WT-tabview-button-selected-background: #dede73;
+    --WT-star-rating-background: #555;
+    --WT-sidenote-open-background: #e0e053;
+    --WT-sidenote-figure-open-color: #000;
+
+    --WT-link-color: #91710f;
+    --WT-new-page-color: #735b43;
+
+    --tv1: #24242b;
+    --WT-tv1: #999;
+
+    --tv2: rgba(0,0,0,0.7);
+    --WT-tv2: rgba(0,0,0,0.45);
+    
+    --tv3: var(--content-box-shadow);
+    --WT-tv3: 1px 1px 1px 1px #999;
+    
+    --tv4: #ffb505;
+    --WT-tv4: var(--primary-text-color);
+}
+
+#side-bar {
+    background: var(--page-background);
+    border-left: 5px solid var(--tv1);
+    box-shadow: var(--tv3);
+    width: 15em;
+}
+
+#side-bar hr {
+    width: calc(180px + 1em);
+}
+
+#side-bar div.menu-item a {
+    width: calc(167px + 1em);
+}
+
+#page-content {
+    border-left: 7px solid var(--tv1);
+    box-shadow: var(--tv3);
+}
+
+.content-box {
+    border-width: 4px;
+}
+
+.content-box.thin {
+    border-width: 2px;
+}
+
+#header h1 a::before, #header h2::before, #login-status {
+    background: var(--tv2);
+    border-radius: 10px;
+}
+
+h1, h2 {
+    color: var(--tv4);
+}
+ 
+#toc .title {
+    color: var(--link-color);
+    text-decoration: underline;
+}
+
+h5, h6 {
+    color: #ff6505;
+}
+#side-bar .menu-item a::before {
+    left: 13em!important;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

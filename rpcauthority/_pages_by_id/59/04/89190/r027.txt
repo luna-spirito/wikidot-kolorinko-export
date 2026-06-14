@@ -1,0 +1,25 @@
+---
+title: "Image Block Base Gallery"
+tags: ["component"]
+page_id: "590489190"
+site: "rpcauthority"
+slug: "component:image-block-base-gallery"
+revision: 27
+revision_id: "1367510820"
+author: 3638389
+timestamp: 1628548890
+---
+
+[[div class="image-block block-left" style="margin:0; width:300px;"]]
+[[image {$name} style="width:300px;" link={$link}]]
+[[div class="image-caption" style="width:auto;"]]
+{$caption}
+[[/div]]
+[[/div]][[div class="image-block block-right" style="margin:0; width:300px;"]]
+[[image {$name2} style="width:300px;" link={$link2}]]
+[[div class="image-caption" style="width:auto;"]]
+{$caption2}
+[[/div]]
+[[/div]]
+~~~~
+

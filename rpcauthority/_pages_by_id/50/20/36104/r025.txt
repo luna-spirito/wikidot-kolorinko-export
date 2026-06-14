@@ -1,0 +1,46 @@
+---
+title: "Top Rated Extended"
+tags: ["supplemental"]
+page_id: "502036104"
+site: "rpcauthority"
+slug: "top-rated-extended"
+revision: 25
+revision_id: "1358290044"
+author: 3118961
+timestamp: 1607545311
+---
+
+[[div class="content-box"]]
+[[module CountPages pagetype="*" category="*"]]
+%%total%% pages total.
+[[/module]]
+[[module CountPages tags="rpc tale document rpc-j translation"]]
+%%total%% articles:
+[[/module]]
+[[module CountPages tags="rpc"]]
+* %%total%% RPCs cataloged.
+[[/module]]
+[[module CountPages tags="rpc-j"]]
+* %%total%% Joke RPCs created.
+[[/module]]
+[[module CountPages tags="tale"]]
+* %%total%% tales told.
+[[/module]]
+[[module CountPages tags="document"]]
+* %%total%% documents filed.
+[[/module]]
+[[module CountPages tags="translation"]]
+* %%total%% translations posted.
+[[/module]]
+[[module CountPages tags="alternative-content"]]
+%%total%% alternative content pages.
+[[/module]]
+[[module CountPages pagetype="hidden" category="*"]]
+%%total%% hidden pages.
+[[/module]]
+[[/div]]
+
+[[module ListPages category="*" parent="." order="created_at" separate="no"]]
+* %%title_linked%%
+[[/module]]
+

@@ -1,0 +1,273 @@
+---
+title: "Cssheadertesting"
+tags: ["theme"]
+page_id: "566167742"
+site: "rpcauthority"
+slug: "cssheadertesting"
+revision: 46
+revision_id: "1218904282"
+author: 3625466
+timestamp: 1593857866
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+[[/module]]
+
+[[code type="css"]]
+/*
+    Containment Theme
+    [2018 Wikidot Theme]
+*/
+
+body {
+    background-color: white;
+}
+
+div#page-content {
+    color: black;
+}
+
+
+/* HEADER */
+#header {
+    height: 140px;
+    position: relative;
+    z-index: 10;
+    padding-bottom: 22px; /* FOR MENU */
+    background: url(http://rpcauthority.wdfiles.com/local--files/cssheadertesting/testcolors.PNG) 5px 22px no-repeat;
+}
+
+#header h1 a {
+    content: "Containment Division";
+    text-shadow: 20px 20px 40px grey;
+    color: #000;
+    font-size: 160%;
+}
+
+#header h1 a::before {
+    content: "Containment Division";
+}
+
+#header h1 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+
+#header h2 {
+    margin-left: 124px;
+    padding: 0;
+    clear: left;
+    float: left;
+    font-size: 135%;
+    max-height: 38px;
+}
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+#header h2 span::before {
+    content: "Clausum Secreto";
+    display: block;
+    margin: 0;
+    padding: 0px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+#header h2 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+
+div#container-wrap {
+        background: url(http://www.rpc-wiki.net/local--files/cssheadertesting/testcolors.PNG) top left repeat-x;
+}
+
+/* ACCOUNT */
+#login-status {
+    color: black;
+}
+#login-status a {
+    background: transparent;
+    color: black;
+}
+#login-status a:hover {
+    background: transparent;
+    color: black;
+}
+#login-status ul a {
+    background: white;
+    color: #bb0001;
+}
+#login-status ul a:hover {
+    background: white;
+    color: #dd0001;
+}
+
+/* TOPBAR */
+top-bar a {
+    color: white;
+    background: transparent;
+}
+#top-bar ul li ul {
+    border: solid 1px #000001;
+    box-shadow: 0 2px 6px #000001;
+    border-top: 0;
+}
+#top-bar ul li a {
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 1px;
+    overflow: hidden;
+}
+ #top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    background: white;
+    color: black;
+}
+ #top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-width: 0;
+    width: 150px;
+    height: auto;
+    max-height: none;
+    padding-top: 0;
+    padding-bottom: 0;
+} 
+#top-bar ul li:hover a:hover {
+    background: black;
+    color: white;
+}
+
+/* SIDEBAR */
+ 
+#side-bar .side-block {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent !important;
+  padding: 0;
+  padding-right: calc(8.1em - 1px);
+  margin-left: 0em;
+  margin-right: -7em;
+}
+
+#side-bar .heading {
+  border: none;
+  border-radius: 0;
+  color: #333;
+  font-size: 1.2em;
+  padding: 0.5em 1em 0 -0;
+  border-top: 1px solid #bbb;
+  margin: 1em calc(-1em + 2px) 0.5em 0;
+  font-weight: normal;
+}
+
+#side-bar div.menu-item {
+  margin: 0;
+  font-size: 0;
+}
+
+#side-bar div.menu-item a {
+  font-weight: normal;
+}
+
+#side-bar .menu-item>img {
+  display: none;
+}
+
+#side-bar .menu-item>a {
+  transition: all 0.1s ease-in-out;
+  display: block;
+  color: #333;
+  margin: 0 calc(-1em - 1px) 0 -0.5em;
+  padding: 0.4em 1em 0.4em 0.5em;
+  font-size: 12.8px;
+}
+
+#side-bar .menu-item>a:hover {
+  background-color: #000001;
+  color: #f3f3f3;
+  text-decoration: none;
+}
+
+#main-content {
+  border-left: 1px solid #bbb;
+  margin: 0 2em 0 21em;
+  padding: 2em 2em calc(14em - 1px) 3em;
+}
+/* LINKS */
+
+a {
+    color: #bb0001;
+    background-color: bb0001;
+}
+a:hover {
+    color: #dd0001;
+}
+a.newpage {
+    color: #dd0001;
+}
+
+/* PAGE TITLES */
+h1, #page-title {
+    color: #bb0001;
+}
+
+/* SEARCH BAR */
+#search-top-box-input {
+    border: solid 1px #bb0001;
+    background-color: #ffe0af;
+}
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    border: solid 1px #bb0001;
+    background-color: #ffe0bf;
+}
+#search-top-box-form input[type=submit] {
+    border: solid 1px #bb0001;
+    background-color: #ffe0af;
+    color: black;
+    background: linear-gradient(to bottom, #ffe0bf, #ffe0af);
+}
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus {
+    border: solid 1px #bb0001;
+    color: #bb0001;
+    background-color: #ffe0af;
+    background: linear-gradient(to bottom, #ffe0bf, #ffe0af);
+}
+
+/* TABS */
+.yui-navset defaults to .yui-navset-top,
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-bottom:solid #bb0001;
+}
+
+/* RATING MODULE */
+.rate-module-container {
+    border: 1px solid black !important;
+}
+.rate-module-stars {
+    background-color: #bb0001 !important;
+}
+[[/code]]
+
+
+This is a page for the purpose of me experimenting and testing with CSS. Please do not make any edits or changes without my permission. - [[*user JerryJohn]]
+

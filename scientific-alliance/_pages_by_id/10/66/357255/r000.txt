@@ -1,0 +1,16 @@
+---
+title: "New Pages Tracker"
+tags: []
+page_id: "1066357255"
+site: "scientific-alliance"
+slug: "new-pages-tracker"
+revision: 0
+revision_id: "1115905584"
+author: 4518363
+timestamp: 1590260904
+---
+
+[[module ListPages category="* -lab -draft" order="created_at descend"]]
+%%title_linked%% - [[*user %%created_by%%]] - %%created_at%%
+[[/module]]
+

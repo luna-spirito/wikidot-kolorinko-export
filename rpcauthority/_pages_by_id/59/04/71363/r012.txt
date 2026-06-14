@@ -1,0 +1,14 @@
+---
+title: "Image Block Gallery"
+tags: ["component"]
+page_id: "590471363"
+site: "rpcauthority"
+slug: "component:image-block-gallery"
+revision: 12
+revision_id: "1530559492"
+author: 5982545
+timestamp: 1750263394
+---
+
+[[include component:image-block-base-gallery name={$name}|name2={$name2}|caption={$caption}|caption2={$caption2}|link={$link}|link=#|link2={$link2}|link2=#]]
+

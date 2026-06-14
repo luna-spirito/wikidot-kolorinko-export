@@ -1,0 +1,136 @@
+---
+title: "Блок опасностей"
+tags: []
+page_id: "1310927200"
+site: "scientific-alliance"
+slug: "warn"
+revision: 3
+revision_id: "1460957231"
+author: 754405
+timestamp: 1652130035
+---
+
+[[div class="wblock"]]
+
+[[div class="warn" data-title="{$W-01}"]]
+[[image dangers/{$W-01}.png class="ws-{$S-01}"]][[/div]]
+
+[[div class="warn" data-title="{$W-02}"]]
+[[image dangers/{$W-02}.png class="ws-{$S-02}"]][[/div]]
+
+[[div class="warn" data-title="{$W-03}"]]
+[[image dangers/{$W-03}.png class="ws-{$S-03}"]][[/div]]
+
+[[div class="warn" data-title="{$W-04}"]]
+[[image dangers/{$W-04}.png class="ws-{$S-04}"]][[/div]]
+
+[[div class="warn" data-title="{$W-05}"]]
+[[image dangers/{$W-05}.png class="ws-{$S-05}"]][[/div]]
+
+[[div class="warn" data-title="{$W-06}"]]
+[[image dangers/{$W-06}.png class="ws-{$S-06}"]][[/div]]
+
+[[div class="warn" data-title="{$W-07}"]]
+[[image dangers/{$W-07}.png class="ws-{$S-07}"]][[/div]]
+
+[[div class="warn" data-title="{$W-08}"]]
+[[image dangers/{$W-08}.png class="ws-{$S-08}"]][[/div]]
+
+[[div class="warn" data-title="{$W-09}"]]
+[[image dangers/{$W-09}.png class="ws-{$S-09}"]][[/div]]
+
+[[div class="warn" data-title="{$W-10}"]]
+[[image dangers/{$W-10}.png class="ws-{$S-10}"]][[/div]]
+
+[[div class="warn" data-title="{$W-11}" style="margin-left: 15px"]]
+[[image dangers/{$W-11}.png class="ws-{$S-11}"]][[/div]]
+
+[[div class="warn" data-title="{$W-12}"]]
+[[image dangers/{$W-12}.png class="ws-{$S-12}"]][[/div]]
+
+[[div class="warn" data-title="{$W-13}"]]
+[[image dangers/{$W-13}.png class="ws-{$S-13}"]][[/div]]
+
+[[div class="warn" data-title="{$W-14}"]]
+[[image dangers/{$W-14}.png class="ws-{$S-14}"]][[/div]]
+
+[[div class="warn" data-title="{$W-15}"]]
+[[image dangers/{$W-15}.png class="ws-{$S-15}"]][[/div]]
+
+[[/div]]
+
+[[module CSS]]
+
+.ws-1, .ws-2 {display: inline-block; border: solid 2px; border-radius: 10px; margin-left: -1px}
+.ws-1 {border-color: #CCC; background: #EEE}
+.ws-2 {border-color: #C9CAB9; background: #F1F2E1}
+.warn {display: inline-block}
+.warn img {padding: 5px; width: 25px}
+.warn img:hover {border-color: #555}
+.warn:hover:before, .warn:hover:after {position: absolute; right: 39px; border: solid 1px #555; background: #F1F2E1; text-align: left; width: 525px}
+.warn:hover:before {content: attr(data-title) " угроза"; z-index: 1; border-bottom: 0; font-weight: bold; padding: 10px 10px 6px; margin: 41px -6px 0}
+.warn:hover:after {padding: 8px 10px; margin: 73px -6px 0}
+
+[data-title="Химическая"]:hover:after {content: "Вещество, способное причинить вред через химическую реакцию или схожим путём"}
+[data-title="Биологическая"]:hover:after {content: "Опасные живые организмы, от микроскопических бактерий до исполинских чудовищ"}
+[data-title="Нанитная"]:hover:after {content: "Частицы размерами от едва заметных невооружённым глазом до атомарных величин"}
+[data-title="Субпланковская"]:hover:after {content: "Вещи исключительно мелких масштабов или геометрически сплошной конфигурации"}
+[data-title="Репликаторная"]:hover:after {content: "Потенциально опасное автоматическое производство своих копий или иных объектов"}
+[data-title="Дезинтеграционная"]:hover:after {content: "Риск разрушения материи на элементарные составляющие вплоть до чистой энергии"}
+[data-title="Экзоматериальная"]:hover:after {content: "Всё разнообразие альтернативных форм вещества, способных вызывать разрушения"}
+[data-title="Синистическая"]:hover:after {content: "Химикат, искажающий мышление или заметно влияющий на работу нервной системы"}
+[data-title="Детонационная"]:hover:after {content: "Риск химической, кинетической, термической или другой мощной детонации объекта"}
+[data-title="Термическая"]:hover:after {content: "Всё разнообразие вещей, связанных с огнём, плазмой, тепловыми волнами и прочим"}
+[data-title="Радиационная"]:hover:after {content: "Нетермические излучения, которые повреждают вещество через перегрузку энергией"}
+[data-title="Оптическая"]:hover:after {content: "Фотоны, представляющие угрозу из-за необычных свойств или огромного количества"}
+[data-title="Электромагнитная"]:hover:after {content: "Всё разнообразие электрических и магнитных сил, которые могут вызывать проблемы"}
+[data-title="Резонансная"]:hover:after {content: "Опасные формы резонансных и звуковых колебаний, способных повреждать материю"}
+[data-title="Экзоэнергетическая"]:hover:after {content: "Всё разнообразие излучений и частиц с необычными деструктивными особенностями"}
+[data-title="Психотронная"]:hover:after {content: "Излучение, негативно действующее на нервную систему и функционирование разума"}
+[data-title="Дисторционная"]:hover:after {content: "Всё разнообразие опасных феноменов, связанных с инфузионикой и дисторционикой"}
+[data-title="Проникающая"]:hover:after {content: "Воздействие преодолевает надёжнейшие материальные преграды, проходя мимо них"}
+[data-title="Телепортационная"]:hover:after {content: "Объект может оказаться внутри преграды или опасным образом сдвинуть что-то иное"}
+[data-title="Темпоральная"]:hover:after {content: "Всё разнообразие ускорений, замедлений, перемещений и иных изменений времени"}
+[data-title="Вероятностная"]:hover:after {content: "Управление ситуациями при помощи фортунологии, нарратософии, энции и так далее"}
+[data-title="Аллаксическая"]:hover:after {content: "Перепрограммирование констант, законов или других базовых свойств ткани космоса"}
+[data-title="Ксенологическая"]:hover:after {content: "Нечто на основе чуждых или лишь условных понятий, резонов, философий и прочего"}
+[data-title="Парадоксальная"]:hover:after {content: "Противоречие в стабильных структурах мироздания вроде времени или пространства"}
+[data-title="Надфизическая"]:hover:after {content: "Всё связанное с вышележащими синреалогическими ярусами, в том числе косвенно"}
+[data-title="Алфизическая"]:hover:after {content: "Всё разнообразие алфизических манипуляций и действий аномальных настроек ауры"}
+[data-title="Омниметическая"]:hover:after {content: "Потенциально опасные формы адхуры, призраки, необычные кшетры и тому подобное"}
+[data-title="Архетипическая"]:hover:after {content: "Всё разнообразие альтернативных вариаций Омнимы и систем, образованных из них"}
+[data-title="Индиционная"]:hover:after {content: "Всё разнообразие опасностей, связанных с миром чистых абстракций и воображения"}
+[data-title="Симпатическая"]:hover:after {content: "Изменение одного объекта синхронно влияет на состояние другого, связанного с ним"}
+[data-title="Иерологическая"]:hover:after {content: "Божественная сила, опасным образом влияющая на реальность, прямо или косвенно"}
+[data-title="Аксиматическая"]:hover:after {content: "Теаматическое уравнение или примечательное отклонение местных мировых формул"}
+[data-title="Альманзумическая"]:hover:after {content: "Всё разнообразие воздействий, непосредственно изменяющих структуру материалов"}
+[data-title="Гасительная"]:hover:after {content: "Всё разнообразие извлечения, запечатывания, ликвидации и иных форм гашения сил"}
+[data-title="Дезингенионная"]:hover:after {content: "Блокировка аномальных способностей или свойств, включая управление метаптозом"}
+[data-title="Бойцовская"]:hover:after {content: "Армия из одного человека или иной формы жизни с громадным боевым потенциалом"}
+[data-title="Интервентная"]:hover:after {content: "Сущность, проникающая в чужой разум или захватывающая контроль над техникой"}
+[data-title="Программная"]:hover:after {content: "Вредоносное воздействие некоего кода на вычислительные машины или их аналоги"}
+[data-title="Когнитивная"]:hover:after {content: "Всё разнообразие опасностей, связанных с наблюдением или восприятием образов"}
+[data-title="Информационная"]:hover:after {content: "Для того, чтобы подвергнуться эффекту, достаточно просто знать некую информацию"}
+
+[data-title="Нагрузки"]:hover:before {content: "Чувствительность к нагрузкам"}
+[data-title="Излучения"]:hover:before {content: "Чувствительность к излучениям"}
+[data-title="Сигналы"]:hover:before {content: "Чувствительность к сигналам"}
+[data-title="Реактивы"]:hover:before {content: "Чувствительность к реактивам"}
+[data-title="Свойства"]:hover:before {content: "Чувствительность к свойствам"}
+[data-title="Внимание"]:hover:before {content: "Чувствительность к вниманию"}
+[data-title="Окружение"]:hover:before {content: "Чувствительность к окружению"}
+[data-title="Метаптоз"]:hover:before {content: "Чувствительность к метаптозу"}
+
+[data-title="Нагрузки"]:hover:after {content: "Таким как удары, вибрации, кантование, резкие движения, давление внешней среды"}
+[data-title="Излучения"]:hover:after {content: "Таким как различные магнитные поля, статическое электричество, радиация и прочее"}
+[data-title="Сигналы"]:hover:after {content: "Таким как компьютерные вирусы, управляющие команды и другие виды информации"}
+[data-title="Реактивы"]:hover:after {content: "Таким как определённые вещества, их агрегатные состояния или адхура для кауформ"}
+[data-title="Свойства"]:hover:after {content: "Таким как намерения контактёра, его биологический вид или иные абстрактные черты"}
+[data-title="Внимание"]:hover:after {content: "Таким как факт прямого наблюдения, его отсутствие или особые условия восприятия"}
+[data-title="Окружение"]:hover:after {content: "Таким как свои координаты, соседство с некими вещами или действия окружающих"}
+[data-title="Метаптоз"]:hover:after {content: "Таким как слишком высокая, низкая или нестабильная М-плотность в данной области"}
+
+[data-title*="$W"] {display: none}
+
+[[/module]]
+
