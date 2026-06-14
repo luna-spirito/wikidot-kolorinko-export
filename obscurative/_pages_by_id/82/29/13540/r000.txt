@@ -1,0 +1,26 @@
+---
+title: "Листовка о коллекции аддикций доктора Доктора"
+tags: []
+page_id: "822913540"
+site: "obscurative"
+slug: "include:addistion-flyer"
+revision: 0
+revision_id: "868616098"
+author: 1767012
+timestamp: 1561373821
+---
+
+[[include include:addistion-flyer-core 
+|var1 = {$var1} | var1 =  ☐
+|var2 = {$var2} | var2 =  ☐
+|var3 = {$var3} | var3 =  ☐
+|var4 = {$var4} | var4 =  ☐
+|var5 = {$var5} | var5 =  ☐
+|var6 = {$var6} | var6 =  ☐
+|var7 = {$var7} | var7 =  ☐
+|var8 = {$var8} | var8 =  ☐
+|var9 = {$var9} | var9 =  ☐
+|var10 = {$var10} | var10 =  ☐
+|var11 = {$var11} | var11 =  ☐
+]]
+

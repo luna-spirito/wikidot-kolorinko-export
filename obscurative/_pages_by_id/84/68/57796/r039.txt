@@ -1,0 +1,65 @@
+---
+title: "Полигон"
+tags: []
+page_id: "846857796"
+site: "obscurative"
+slug: "sandbox"
+revision: 39
+revision_id: "1497810769"
+author: 6037747
+timestamp: 1669377143
+---
+
+Добро пожаловать на Полигон!
+Здесь Вы можете опубликовать свои работы. В Obscurative нет ограничений по форматам, поэтому вы можете проявить всю свою креативность.  А также здесь можно получить помощь от других участников проекта в доработке и исправлении ошибок в статьях.
+
+Если вы хотите опубликовать работу не связанную с лором Obscurative или потренировать свои писательские навыки, вы можете посетить [[[testing-grounds|Тренировочную площадку]]]
+
+Для создания статьи на Полигоне Вам нужно лишь ввести её адрес, соответствующий той категории, которую вы выбрали: 
+
+ _
+ _
+
+[[div style="border: 2px dashed gray; border-radius: 10px; padding: 5%; width: 70%;margin: auto;"]]
++++++ Категории страниц
+* **do-androids-dream-of-electric-sheep** — адрес для рассказа. Может быть любое сочетание символов и слов через знак "-", при этом допускаются только символы, распознаваемые Викидотом для адресной строки. 
+
+* **test-12345** — условно, адрес для документации. Может также быть абсолютно любым, с ограничениями, накладываемыми на адресную строку Викидотом.
+ _
+ _
+
+[[module NewPage button="Выложить статью на Полигон" tags="Полигон" format="/^[:A-Za-z0-9\-]+$/" template="template:rate"]]
+
+[[/div]]
+ _
+ _
+
+[[=]]
++++ Список статей Полигона
+[[/=]]
+
+[[module ListPages category="sandbox" order="updated-at" separate="no"  prependLine="||~ Наименование ||~ Рейтинг ||~ Создатель ||~ Последнее обновление ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%rating%%/%%rating_votes%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%||
+[[/module]]
+[[module ListPages tags="Полигон" category="*" order="updated-at" separate="no" perPage="40" parent="-"]]
+||%%title_linked%% || %%rating%%/%%rating_votes%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%||
+[[/module]]
+ _
+ _
+
+[[=]]
+[[collapsible show="[ + Сортировка по наименованию статей]" hide="[ - Сортировка по наименованию статей]"]]
+[[/=]]
+[[module ListPages category="sandbox" order="title" separate="no"  prependLine="||~ Наименование ||~ Рейтинг ||~ Создатель ||~ Последнее обновление ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%rating%%/%%rating_votes%% || %%created_by_linked%% || %%created_at|%H:%M %d.%m %%||
+[[/module]]
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="[ + Внутренние статьи]" hide="[ - Внутренние статьи]"]]
+[[/=]]
+[[module ListPages category="sandbox" order="title" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||" perPage="40" tag="-Полигон"]]
+||%%title_linked%% || %%created_by_linked%% || %%created_at|%H:%M %d.%m %%||
+[[/module]]
+[[/collapsible]]
+

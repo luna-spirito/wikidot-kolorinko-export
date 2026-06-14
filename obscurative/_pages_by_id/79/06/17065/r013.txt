@@ -1,0 +1,36 @@
+---
+title: "Undreim: Страницы созданные пользователем. Получать через URL"
+tags: []
+page_id: "790617065"
+site: "obscurative"
+slug: "draft:undreim-page-by-user"
+revision: 13
+revision_id: "1496966845"
+author: 4518363
+timestamp: 1666903362
+---
+
+[[module CSS]]
+table {
+   counter-reset: line-number;
+}
+
+td:first-child:before {
+  content: counter(line-number) ".";
+  counter-increment: line-number;
+  padding-right: 0.3em;
+}
+[[/module]]
+
+[[module listpages created_by="@URL" separate="false" category="*" prependLine="||~ ||~ Название ||~ Рейтинг (голосов) ||~ Теги ||~ Создана ||~ Обновлена ||~ Автор ||"  order="name"]]
+|| ||%%title_linked%% || %%rating%% (%%rating_votes%%)  || %%tags_linked%% || %%created_at%%|| %%updated_at%%||  [[[/draft:undreim-page-by-user/created_by/%%created_by%% | %%created_by%% ]]] || 
+[[/module]]
+
+
+[[[/draft:undreim-page-by-user/created_by/UndReim | UndReim]]]
+[[[/draft:undreim-page-by-user/created_by/Rieraf | Rieraf]]]
+[[[/draft:undreim-page-by-user/created_by/scifyro |  scifyro]]]
+[[[/draft:undreim-page-by-user/created_by/Guardian-Spirit | Guardian Spirit]]]
+[[[/draft:undreim-page-by-user/created_by/Redseet | Redseet]]]
+[[[/draft:undreim-page-by-user/created_by/ObsidianFox | ObsidianFox]]]
+
