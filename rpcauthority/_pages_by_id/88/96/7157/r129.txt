@@ -1,0 +1,436 @@
+---
+title: "Threats & Hazards"
+tags: ["information", "lore"]
+page_id: "88967157"
+site: "rpcauthority"
+slug: "threats-hazards"
+revision: 129
+revision_id: "1542319653"
+author: 5982545
+timestamp: 1772123596
+---
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .yui-content img {
+        width: 50px;
+    }
+
+    .yui-content td {
+        padding-bottom: 20px;
+    }
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 1px solid #666; padding-bottom: 5px;"]]
+Threats and Hazards Code
+[[/div]]
+
+The Authority deals with a large variety of dangerous objects, entities, and environments. Listed below are some of the most common hazards that Authority personnel encounter. Database entries on anomalous objects include relevant hazard classifications to inform Authority personnel of the safety risks posed by individual anomalies or anomalous entities.
+
+[[div class="sideTabviewMini medium"]]
+[[tabview]]
+[[tab Hazardous Properties]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aggression.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Aggression Hazard:** The anomaly shows hostility towards staff or humans in general.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ballistic.png title="October 10, 2018"]]
+[[/cell]]
+[[cell]]
+**Ballistic Hazard:** The anomaly has the ability to attack or exert itself via the creation or launching of projectiles.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-climatological.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Climatological Hazard:** The anomaly poses a threat relating to the manipulation of weather systems.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-geological.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Geological Hazard:** The anomaly poses a threat relating to large or sudden changes in the topology, state and structure of the earth.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Grouped Hazard:** The anomaly poses a threat when within a group of similar anomalies or by manifesting a group of hazardous objects and/or entities.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-invisibility.png title="February 8, 2020; formerly Visibility"]]
+[[/cell]]
+[[cell]]
+**Invisibility Hazard:** The anomaly poses a threat due to being impossible to see with the unaided human eye.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-psychotronic.png title="July 29, 2019"]]
+[[/cell]]
+[[cell]]
+**Psychotronic Hazard:** The anomaly poses a threat through psychic properties including, but not limited to, telekinesis, prescience, telepathy and pyrokinesis.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png title="June 23, 2018"]]
+[[/cell]]
+[[cell]]
+**Sapient Hazard:** This anomaly is capable of employing high-level intellect generally in line with or above human capabilities. This may include language, reading and writing (or equivalent), reasoning, mathematics, advanced problem solving, and complex tool usage. Sapient anomalies are by definition also sentient.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sentient.png title="June 23, 2018"]]
+[[/cell]]
+[[cell]]
+**Sentient Hazard:** The anomaly demonstrates base-level emotions and awareness of its surroundings, but it may not always display complex reasoning and thought. May be roughly compared to primates.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutation.png title="October 7, 2018; formerly Transmutable"]]
+[[/cell]]
+[[cell]]
+**Transmutation Hazard:** The anomaly poses a threat through changing in form or the forms of other objects.
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/tab]]
+[[tab Physical Hazards]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-biohazard.png title="June 23, 2018"]]
+[[/cell]]
+[[cell]]
+**Bio-Hazard:** A biological threat stemming from microorganisms and virulent entities.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Contact Hazard:** Making physical contact with the anomaly can cause harmful or hazardous effects.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-corrosive.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Corrosive Hazard:** The anomaly can corrode other objects or produce corrosive substances.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-electromagnetic-force.png title="June 23, 2018; formerly Electric and Magnetic"]]
+[[/cell]]
+[[cell]]
+**Electromagnetic Force Hazard:** The anomaly poses a threat through the generation or manipulating of current, static electricity or electric/magnetic fields. 
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-explosive.png title="June 23, 2018"]]
+[[/cell]]
+[[cell]]
+**Explosive Hazard:** The anomaly can explode, generate/manipulate explosive material or produce concussive shocks/vibrations that can incapacitate, cause injury or cause death.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extreme-temperature.png title="June 23, 2018"]]
+[[/cell]]
+[[cell]]
+**Extreme Temperature Hazard:** The anomaly can alter temperature to extremes which are hazardous to humans.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-radiation.png title="June 23, 2018"]]
+[[/cell]]
+[[cell]]
+**Radiation Hazard:** The anomaly can produce or manipulate ionizing and/or particle radiation which is harmful to humans.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-toxic.png title="June 23, 2018; formerly Chemical"]]
+[[/cell]]
+[[cell]]
+**Toxic Hazard:** The anomaly is chemically toxic to humans or capable of producing/manipulating substances which may be chemically toxic.
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/tab]]
+[[tab Reality Hazards]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-destabilization.png title="July 12, 2019"]]
+[[/cell]]
+[[cell]]
+**Destabilization Hazard:** The anomaly causes reality to become unstable to a hazardous extreme.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-dimensional.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Extra-Dimensional Hazard:** The anomaly poses a threat relating to the manipulation of dimensional space.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-gravitational.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Gravitational Hazard:** The anomaly poses a threat relating to the altering of gravitational forces.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-temporal.png title="October 7, 2018; formerly Chronological"]]
+[[/cell]]
+[[cell]]
+**Temporal Hazard:** The anomaly poses a threat to humans or the stability of reality due to temporal effects.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-teleportation.png title="April 17, 2019"]]
+[[/cell]]
+[[cell]]
+**Teleportation Hazard:** The anomaly poses a threat through instantaneous transportation of matter or energy.
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/tab]]
+[[tab Cognitive Hazards]]
+[[table]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-auditory.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Auditory Hazard:** Sound produced by or related to the anomaly can trigger hazardous effects.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-emotional.png title="February 2, 2019"]]
+[[/cell]]
+[[cell]]
+**Emotional Hazard:** The anomaly is capable of creating an emotional state in individuals which is dangerous to themselves or others.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Ideological Hazard:** The anomaly is hazardous to a subject's preconceived notions and beliefs or may change their notions and beliefs in a forceful manner.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-infohazard.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Info-Hazard:** Information or data related to the anomaly may trigger hazardous effects or have a damaging effect on the human psyche.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-memory-alteration.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Memory Alteration Hazard:** The anomaly poses a hazard relating to the alteration or creation of memories.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-control.png title="April 22, 2019"]]
+[[/cell]]
+[[cell]]
+**Mind-Control Hazard:** The anomaly is capable of manipulating the actions of an individual or can take full control of an individual.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-regression.png title="July 12, 2019"]]
+[[/cell]]
+[[cell]]
+**Mind-Regression Hazard:** The anomaly is capable of regressing the state of sapience or sentience in an entity or causing permanent cognitive damage to an entity.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sensory.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Sensory Hazard:** The anomaly has a permanent or temporary effect on the proper functioning of the subject's senses or can cause hazardous effects through sensory contact not covered by the Visual Hazard or Auditory Hazard.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-visual.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Visual Hazard:** Viewing the anomaly can trigger hazardous effects.
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+The following are general properties that are not inherently hazardous but may be immediately important for personnel to know. They may be included within the //Hazard Types// section or in an auxiliary //Additional Properties// section.
+
+[[div class="content-panel"]]
+[[table]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-animated.png title="October 7, 2018"]] 
+[[/cell]]
+[[cell]]
+**Animated:** Anomaly shows the ability of free movement. This can only be used if the Anomaly is not alive.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aquatic.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Aquatic:** Anomaly affects water, tends to exist in an aquatic environment or is related to water.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-digital.png title="February 26, 2026"]]
+[[/cell]]
+[[cell]]
+**Digital:** The anomaly can directly access or manipulate digitally stored information, or manifests within a digital environment.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ecological.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Ecological:** The anomaly is hazardous to the workings of the biosphere, whether through the destruction of an area's ecology or through the creation of a new and anomalous biosphere.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-terrestrial.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Extra-Terrestrial:** The anomaly originates from beyond Earth's atmosphere or is currently located beyond Earth's atmosphere.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-immeasurable.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Immeasurable:** The anomaly's effects are impossible to quantify with current scientific knowledge.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-incorporeal.png title="April 17, 2019"]]
+[[/cell]]
+[[cell]]
+**Incorporeal:** The anomaly does not exist in a physical form, or can assume a form intangible to normal matter.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Mechanical:** An anomaly that is a machine; this includes both electrical and traditional machines.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-microscopic.png title="February 8, 2020"]]
+[[/cell]]
+[[cell]]
+**Microscopic:** The anomaly is of very small size.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Organic:** The anomaly is organic in nature.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-regenerative.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Regenerative:** The anomaly has the ability to reconstruct or repair itself when damaged, whether through mechanical, biological or other means.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-titanic.png title="February 8, 2020"]]
+[[/cell]]
+[[cell]]
+**Titanic:** The anomaly has an extremely great size or mass.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-tychokinetic.png title="October 7, 2018"]]
+[[/cell]]
+[[cell]]
+**Tychokinetic:** The anomaly can actively or passively manipulate probabilities, altering the chances of events occurring.
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
