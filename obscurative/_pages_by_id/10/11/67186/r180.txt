@@ -1,0 +1,94 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 180
+revision_id: "1531070815"
+author: 4518363
+timestamp: 1752877544
+---
+
+[[=]]
+
+[[[worlds|Миры]]]
+
+-----
+**Сайт**
+
+[[[rating|Статьи по рейтингу]]]
+[[[recent-changes|Свежие правки]]]
+[[[join|Стать участником]]]
+[[[users|Список участников]]]
+
+-----
+**Полигон**
+
+[[[sandbox|Полигон]]]
+[[[drafts|Список черновиков]]]
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[[lab:%%number%% |Моя лаборатория]]]
+[[/module]]
+
+-----
+**Сообщество**
+
+**[[[chat|Discord чат]]]**
+[[[forum:start|Форум]]]
+[[[forum:recent-posts|Новые сообщения]]]
+
+-----
+
+[[[system:page-tags|Облако тегов]]]
+
+----
+**Похожие проекты**
+
+[[[https://patagona.obscurative.ru/ | Лаборатория Патагона]]]
+[[[http://scientific-alliance.obscurative.ru/ | Андивионский Научный Альянс]]]
+[[/=]]
+
+[[div class="joke"]]
+[[[joke|​]]]
+[[/div]]
+
+[[div class="shameless-ad"]]
+19th July 2025: We're building Dentrado, a free wiki platform to replace (your) Wikidot. Join us & help shape it: https://t.me/dentrado
+[[/div]]
+
+[[module CSS]]
+.shameless-ad {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+  z-index: 100 !important;
+  background: linear-gradient(180deg, #fff 0%, #f7f7f7 100%);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.shameless-ad > p {
+  margin: 0;
+}
+
+.shameless-ad a {
+  color: #00C5C5 !important;
+}
+
+#header {
+  padding-top: 5em;
+}
+
+#login-status {
+  padding-top: 3em;
+}
+
+#search-top-box {
+  padding-top: 3em;
+}
+[[/module]]
+

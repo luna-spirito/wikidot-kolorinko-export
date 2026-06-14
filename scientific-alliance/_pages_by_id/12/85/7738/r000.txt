@@ -1,0 +1,16 @@
+---
+title: "Рейтинг статей"
+tags: []
+page_id: "12857738"
+site: "scientific-alliance"
+slug: "rating"
+revision: 0
+revision_id: "29149461"
+author: 754405
+timestamp: 1330954475
+---
+
+[[module ListPages order="rating desc" separate="yes"]]
+%%rating%% - %%title_linked%%
+[[/module]]
+

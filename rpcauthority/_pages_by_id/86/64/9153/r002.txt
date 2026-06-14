@@ -1,0 +1,14 @@
+---
+title: "Site"
+tags: ["component"]
+page_id: "86649153"
+site: "rpcauthority"
+slug: "component:site"
+revision: 2
+revision_id: "1367510941"
+author: 3638389
+timestamp: 1628549682
+---
+
+[[span class="siteIcon" style="background: linear-gradient(to bottom right, #999,{$c0});"]][[image component:site/facility-texture.png]][[span class="number"]]{$number}[[/span]][[/span]] [[size 110%]]**{$name}** {$subtitle}[[/size]]
+

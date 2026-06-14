@@ -1,0 +1,14 @@
+---
+title: "Image Block"
+tags: ["component"]
+page_id: "86649035"
+site: "rpcauthority"
+slug: "component:image-block"
+revision: 4
+revision_id: "1531265889"
+author: 5982545
+timestamp: 1753799564
+---
+
+[[include component:image-block-base name={$name}|name=https://rpcauthority.wdfiles.com/local--files/start/unknown.png|caption={$caption}|caption=[!----]|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right|enlarge={$enlarge}|enlarge=true]]
+

@@ -1,0 +1,19 @@
+---
+title: "Image Block Left Base"
+tags: ["component"]
+page_id: "86649093"
+site: "rpcauthority"
+slug: "component:image-block-left-base"
+revision: 2
+revision_id: "1371096338"
+author: 4365296
+timestamp: 1629129202
+---
+
+[[div class="image-block block-left" style="width:{$width};"]]
+[[image {$name} style="width:{$width};"]]
+[[div class="image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

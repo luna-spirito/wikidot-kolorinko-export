@@ -1,0 +1,14 @@
+---
+title: "Image Block Left"
+tags: ["component"]
+page_id: "86649082"
+site: "rpcauthority"
+slug: "component:image-block-left"
+revision: 1
+revision_id: "1367510806"
+author: 3638389
+timestamp: 1628548767
+---
+
+[[include component:image-block-left-base name={$name}|caption={$caption}|width={$width}|width=300px]]
+

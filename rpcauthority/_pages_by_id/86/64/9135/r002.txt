@@ -1,0 +1,19 @@
+---
+title: "Image Block Quoted Base"
+tags: ["component"]
+page_id: "86649135"
+site: "rpcauthority"
+slug: "component:image-block-quoted-base"
+revision: 2
+revision_id: "1367510798"
+author: 3638389
+timestamp: 1628548711
+---
+
+> [[div class="image-block block-{$align}" style="width:{$width}; margin-top: 1.2em;"]]
+> [[image {$name} style="width:{$width};" link={$link}]]
+> [[div class="image-caption" style="width:{$width};"]]
+> {$caption}
+> [[/div]]
+> [[/div]]\
+

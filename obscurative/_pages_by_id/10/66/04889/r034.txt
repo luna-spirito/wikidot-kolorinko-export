@@ -1,0 +1,19 @@
+---
+title: "Поиск по тегам"
+tags: []
+page_id: "106604889"
+site: "obscurative"
+slug: "system:page-tags"
+revision: 34
+revision_id: "847264311"
+author: 4518363
+timestamp: 1559028382
+---
+
+[[div]]
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+[[/div]]
+

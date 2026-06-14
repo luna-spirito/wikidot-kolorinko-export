@@ -1,0 +1,31 @@
+---
+title: "Свежие правки"
+tags: []
+page_id: "12481439"
+site: "scientific-alliance"
+slug: "recent-changes"
+revision: 2
+revision_id: "921069696"
+author: 754405
+timestamp: 1567285232
+---
+
+[[module CSS]]
+table.wiki-content-table td {padding: 7px 10px}
+[[/module]]
+
+[[div style="margin-top: -10px"]]
+[[tabview]]
+[[tab Просто]]
+[[div style="float: left; margin-top: -13px"]]
+[[module ListPages order="updated_at desc" separate="false" perPage="30"]]
+|| %%title_linked%%ᅠ ||  %%updated_by%%  ||  %%updated_at|%H:%Mᅠ%d.%m.%Y%%  ||  Комментариев  %%comments%%  ||  Рейтинг  %%rating%%  ||
+[[/module]][[/div]]
+[[/tab]]
+
+[[tab Сложно]]
+[[module SiteChanges]]
+[[/tab]]
+
+[[/tabview]][[/div]]
+
