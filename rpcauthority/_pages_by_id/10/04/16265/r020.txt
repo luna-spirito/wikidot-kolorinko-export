@@ -1,0 +1,91 @@
+---
+title: "RPC-175"
+tags: ["alpha", "corrosive-hazard", "mechanical-hazard", "rpc", "translated", "yellow"]
+page_id: "100416265"
+site: "rpcauthority"
+slug: "rpc-175"
+revision: 20
+revision_id: "1356600590"
+author: 5689914
+timestamp: 1602369989
+---
+
+[[module css]]
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+ 
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  width: 120px;
+  bottom: 100%;
+  left: 50%; 
+  margin-left: -60px;
+  position: absolute;
+  z-index: 1;
+}
+ 
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+ 
+.tooltip .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+ 
+.tooltip .tooltiptext {
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+ 
+.tooltip:hover .tooltiptext {
+  opacity: 1;
+}
+[[/module]]
+[[include component:rate title=rpc-175| translations=show | translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/rpc-175"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/rpc-175"]]]]
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/alpha-yellow.png]]
+[[include component:image-enlarge
+    name=RPC-175|
+    caption=RPC-175
+]]
+**Registered Phenomena Code:** 175
+
+**Object Class:** Alpha-Yellow
+
+**Hazard Types:** Corrosive Hazard, Mechanical Hazard
+
+**Containment Protocols:** RPC-175-1 and RPC-175-2 are to be stored in separate standard containment lockers at Containment Wing within Site-074. All instances of RPC-175-3 are to be stored in a high-security chemical cabinet and guarded by at least one security personnel. --Access to RPC-175 for testing requires Level 2 clearance or higher.-- After Incident-175-2, access to RPC-175 requires the approval of at least two Level 4 personnel. In the event that RPC-175 goes missing, Site-███ is to be evacuated.
+
+**Description:** RPC-175 is a SodaStream brand water carbonator set. RPC-175-1 designates the device itself, RPC-175-2 designates the matching glass bottle. RPC-175-3 designates the fluid produced after extensive use of RPC-175. RPC-175-1 and RPC-175-2 are effectively impervious to all forms of damage tested. All attempts to access RPC-175-1's gas canister have failed, the panel allowing access to it appears to be permanently bonded to RPC-175-1.
+
+RPC-175's anomalous effects manifest when RPC-175-1 is used in conjunction with RPC-175-2 to carbonate water. RPC-175 functions identically to a standard SodaStream brand water carbonator until 30 seconds of continuous activation. Past 30 seconds of continuous activation, the concentration of CO,,2,, within the water increases exponentially. By one minute of continuous activation, approximately 20% of the water has been turned to H,,2,,CO,,3,,[[footnote]]Carbonic Acid[[/footnote]]. By two minutes of continuous activation, 99.9% of the water has been turned into H,,2,,CO,,3,,. By three minutes of continuous activation the water has turned to RPC-175-3, at this stage is has a pH level comparable to HFSO,,3,,[[footnote]]Fluorosulfuric Acid[[/footnote]]. Testing has shown that extended use of RPC-175 increases the volatility of RPC-175-3 in addition to lowering its pH.
+
+RPC-175 was discovered after reports of a chemical spill in █████████, England. RPC-175 was found to have been used at a party to make drinks. All attendees were found to have severe internal injuries. Class A amnestics were administered to those remaining and the event was written up as a terrorist attack.
+
+[[collapsible show="+ Incident Log" hide="- Incident Log"]]
+Incident-175-1
+On 6/2/██ Researcher Miller accidentally consumed a sample of RPC-175-3 while testing its pH. His body was found 30 minutes later after a report of a hole forming in the roof of the next floor down. Forensic evidence showed just over half of his body had been dissolved.
+
+Incident-175-2
+12/14/██ RPC-175 was used continuously for 30 minutes to test the effects of extended usage. Upon RPC-175-2's removal from RPC-175-1, the RPC-175-3 inside exploded, destroying approximately █% of Site-███. RPC-175 was found unharmed in the epicenter of the explosion. Containment Protocols were updated by order of The Board.
+[[/collapsible]]
+
+[[footnoteblock]]
+[[=]]
+<< [[[RPC-174]]] | RPC-175 | [[[RPC-176]]] >>
+[[/=]]
+

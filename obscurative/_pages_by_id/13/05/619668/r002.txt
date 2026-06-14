@@ -1,0 +1,16 @@
+---
+title: "New Pages Tracker"
+tags: []
+page_id: "1305619668"
+site: "obscurative"
+slug: "new-pages-tracker"
+revision: 2
+revision_id: "1365924057"
+author: 4518363
+timestamp: 1622052708
+---
+
+[[module ListPages category="* -lab -draft -theme -include" order="created_at descend"]]
+%%title_linked%% - [[*user %%created_by%%]] - %%created_at%%
+[[/module]]
+
