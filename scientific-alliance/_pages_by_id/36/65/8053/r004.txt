@@ -1,0 +1,30 @@
+---
+title: "Тест смены тем оформления"
+tags: []
+page_id: "36658053"
+site: "scientific-alliance"
+slug: "test-smeny-tem-oformlenia"
+revision: 4
+revision_id: "67219868"
+author: 2278265
+timestamp: 1456034241
+---
+
+Эта страница нужна для моих экспериментов с Wikidot.
+P.S.: нажатие на ссылки не будет менять тему в целом, т.к. статья по сути является отдельной вкладкой, будучи сделана через iframe.
+
+[[a style="color: red;" href="javascript:alert(123);"]] ABC [[/a]]
+
+[[a style="color: red;" href="#" onclick="alert(123);"]] ABC [[/a]]
+
+Н-да, атрибут href фильтруется, а onclick недоступен.
+
+[[div onclick="alert('123');"]] 123 [[/div]]
+
+Div'ы движок тоже нещадно чистит.
+
+Как и стандартные ссылки:
+[javascript:alert(123); test]
+
+Любопытно, как я в прошлый раз вообще сделал на странице что-то активное.
+

@@ -1,0 +1,1316 @@
+---
+title: "Formatting Guide"
+tags: ["format", "guide"]
+page_id: "101507059"
+site: "rpcauthority"
+slug: "formatting-guide"
+revision: 100
+revision_id: "1544484080"
+author: 5982545
+timestamp: 1780778305
+---
+
+[[module CSS]]
+@media (max-width: 1635px) {
+   .desktop-only{ display: none; visibility:hidden }
+}
+[[/module]]
+
+Formatting can play a big part in making readers more interested in your articles. Good formatting is a great asset, and this guide will cover everything from the basics and essentials to introductory CSS styling.
+
++++* Visit the [[[Widget Hub]]] for a collection of modules, formats, and themes
+
+[[toc]]
+
+-----
+
++ Article Formats
+
+[[tabview]]
+[[tab Article Format]]
+    
+Basic Article Templates
+
+[[div class="blockquote"]]
+@@[[span class="listresize"]]ARCHIVE TITLE[[/span]]@@
+
+@@[[include component:rate]]@@
+
+IMAGE BLOCK CODE (IF APPLICABLE)
+
+OBJECT CLASS SYMBOL
+
+@@**Registered Phenomena Code:** XXX@@
+
+@@**Object Class:** Alpha/Beta/Gamma (containment rating) - Yellow/Orange/Red (lethality rating)@@
+
+@@**Hazard Types:**@@ [List hazards]
+
+@@**Containment Protocols:** [Paragraphs explaining the procedures]@@
+
+@@**Description:** [Paragraphs explaining the description]@@
+
+@@**Addendum:** and/or **Discovery:** [Optional additional paragraphs]@@
+
+@@[[footnoteblock]]@@
+
+@@=@@ @<<< [[[RPC-XXW]]] | RPC-XXX | [[[RPC-XXY]]] >> >@
+
+Put in the links to the previous and next article here ^
+[[/div]]
+
+The "ARCHIVE TITLE" text at the top should match the nickname that will appear next to the article's link in the RPC Archive. For RPC-002, it would be:
+
+@@[[span class="listresize"]]Quantum Revolver[[/span]]@@
+
+Example of what the navigation at the end should look like:
+
+<< [[[RPC-001]]] | RPC-002 | [[[RPC-003]]] >>
+
+++* Alternate Article Formats
+
+* [[[Research Tone]]]
+* [[[Protection Tone]]]
+* [[[Administration Tone]]]
+* [[[ASF Tone]]]
+* [[[Protocol Laboratory Tone]]]
+* [[[Research Paper Tone]]]
+* [[[ACI Tone]]]
+
+++* Interview Template
+
+> > @@**Interviewed:** [The person, persons, or RPC being interviewed]@@
+> > 
+> > @@**Interviewer:** [Interviewer, can be blocked out using █]@@
+> > 
+> > @@**Foreword:** [Small passage describing the interview]@@
+> > 
+> > @@**<Begin Log, [optional time info]>**@@
+> > 
+> > @@**Interviewer:** [speech]@@
+> > 
+> > @@**Person:** [speech]@@
+> > 
+> > @@[Repeat as necessary]@@
+> > 
+> > @@**<End Log, [optional time info]>**@@
+> > 
+> > @@**Closing Statement:** [Small summary and passage on what transpired afterward]@@
+
+++* Object Classification Symbols
+
+When publishing an article, you must include an object classification symbol. To determine what classification your article meets, consult the [http://www.rpc-wiki.net/object-classes Object Classes Guide]. Here is a list of commands you can easily insert into the very top of your article to display the proper symbol, this appears in order of Threat Level:
+
+**Alpha**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-white.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-yellow.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-orange.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-red.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-purple.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-black.png]]@@
+
+**Beta**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/beta-white.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/beta-yellow.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/beta-orange.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/beta-red.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/beta-purple.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/beta-black.png]]@@
+
+**Gamma**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-white.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-yellow.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-orange.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-red.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-purple.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-black.png]]@@
+
+**Omega**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/omega-white.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/omega-yellow.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/omega-orange.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/omega-red.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/omega-purple.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/omega-black.png]]@@
+
+[[collapsible show="+ Other Classes" hide="- Other Classes"]]
+**Neutralized**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/neutralized.png]]@@
+
+**Theta**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/theta-white.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/theta-yellow.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/theta-orange.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/theta-red.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/theta-purple.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/theta-black.png]]@@
+
+**Epsilon**
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/epsilon-white.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/epsilon-yellow.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/epsilon-orange.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/epsilon-red.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/epsilon-purple.png]]@@
+> 
+> @@[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/epsilon-black.png]]@@
+[[/collapsible]]
+
+These codes go under the rating module.
+
+You can post an RPC by clicking on the Archive I link and selecting any empty RPC article. Make sure to include the "rpc" (no quotes) tag on your page.
+
+[[/tab]]
+[[tab Site Format]]
+
+++* Site Naming Format
+
+> **Sites are the specific locations in which the Authority operates its facilities. Every site has a unique three-digit number assigned to it.**
+> 
+> Example: Site-863
+> 
+> **Sites built around a specific anomaly or location-of-interest are referred to as "On-Location Sites", or OL-Sites. If applicable, these facilities often take the number of the RPC contained, or the nearest primary Site otherwise.**
+> 
+> Example: OL-Site-863
+> 
+> **Minor facilities that may be impermanent or constructed under abnormal conditions are often referred to as "Installations". A majority of the time, these facilities are handled directly by a large, nearby facility; in this case, they are treated as satellite facilities and named in relation to their primary facilitiy. Other Installations may take the number of a prominent RPC contained, or be assigned a random identifier.**
+> 
+> Example generic Installation: Installation-863
+> 
+> Example satellite Installation: Installation-002-5
+> 
+> **Private facilities operated by the Global Directorate or its various extra-divisional departments are referred to as "Black Sites". These facilities are left off the main Site registries and their exact locations are on strict need-to-know bases.**
+> 
+> Example: Black Site-863
+
+
+++* Site Format
+
+> @@[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]@@
+> 
+> @@[[=image http://rpcauthority.wdfiles.com/local--files/site-index/site-header-white.png]]@@
+> 
+> @@[[=]]@@
+> @@[[size xx-large]]**NAME OF SITE**[[/size]]@@
+> @@+ **BRIEF SITE DESCRIPTION**@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> @@[[=]]@@
+> @@+ **Overview**@@
+> @@[[/=]]@@
+> @@----@@
+> 
+> @@**Established:**@@
+> 
+> @@**Front Cover:**@@
+> 
+> @@**Location:**@@
+> 
+> @@**Codename:**@@
+> 
+> @@**Hex-code:**@@
+> 
+> @@**Site Occupation:**@@
+> 
+> @@**Division Jurisdiction:**@@
+> 
+> @@**Total Area:** TOTAL AREA OF SITE IN SQUARE METERS@@
+> 
+> @@**Facility:** TOTAL INTERIOR AREA OF SITE IN SQUARE METERS [OPTIONAL]@@
+> 
+> @@**Surrounding Land/Water:** TOTAL EXTERIOR AREA OF SITE [OPTIONAL]@@
+> 
+> @@**Background Information:** BRIEF OVERVIEW OF THE REASON FOR THE SITE'S EXISTENCE@@
+> 
+> @@**History:** [OPTIONAL]@@
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Site Departments** [OPTIONAL]@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LIST OF ORGANIZATIONAL DIVISIONS/SPECIALIST DEPARTMENTS WITHIN SITE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Offices & Wings Section**@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LIST OF PHYSICAL WINGS OR COMPONENTS OF SITE
+> 
+> @@* **Level 1:**@@
+> 
+> @@* **Level 2:**@@
+> 
+> @@* **Level 3:**@@
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Site Administration**@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LIST OF SITE LEADERSHIP- INCLUDE NAMES
+> 
+> @@**Administrative Officials:**@@
+> 
+> @@* **Site Director:**@@
+> 
+> @@----@@
+> 
+> NUMERICAL COUNT OF SITE PERSONNEL NUMBERS
+> 
+> @@**On-Site Personnel:**@@
+> 
+> @@* **Department Heads:**@@
+> 
+> @@* **Administrative Assistants:**@@
+> 
+> @@* **Medical Personnel:**@@
+> 
+> @@* **Research Personnel:**@@
+> 
+> @@* **Security Personnel:**@@
+> 
+> @@* **Maintenance Personnel:**@@
+> 
+> @@* **CSD Personnel:**@@
+> 
+> @@**Total:**@@
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Garrisoned MSTs** [OPTIONAL]@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LIST ANY GARRISONED MSTs HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Anomalies Contained**@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LINKED LIST OF RPC ARTICLES
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Anomalies Previously Contained** [OPTIONAL]@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LIST ANY PREVIOUSLY CONTAINED ANOMALIES HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ **Sub-Sections** [OPTIONAL]@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LIST ANY SUB-SECTIONS HERE
+> 
+> @@[[/div]]@@
+[[/tab]]
+
+[[tab Personnel Format]]
+
+> @@[[include component:rate]]@@
+> 
+> @@[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]@@
+> 
+> @@[[=image https://rpcauthority.wdfiles.com/local--files/component:theme/AuthorityLogo2.png width="80px"]]@@
+> 
+> @@[[=]]@@
+> @@++ **>> Department of Personnel and Management <<**@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> IMAGE BLOCK CODE (IF APPLICABLE)
+> 
+> @@**Full Name:** PERSONNEL NAME@@
+> 
+> @@**Personnel ID Number:** XXX-XXX-XXXXXX@@
+> 
+> @@**Security Clearance:** Level X@@
+> 
+> @@**Division:** Research/Protection/Containment/Administration/None@@
+> 
+> @@**Position:** PERSONNEL POSITION@@
+> 
+> @@**Rank:** PERSONNEL RANK [Optional]@@
+> 
+> @@**Sex:** PERSONNEL'S BIOLOGICAL SEX@@
+> 
+> @@**Height:** XXXcm@@
+> 
+> @@**Weight:** XXkg@@
+> 
+> @@**Skin Color:** SKIN COLOR [Optional]@@
+> 
+> @@**Hair Color:** HAIR COLOR [Optional]@@
+> 
+> @@**Eye Color:** EYE COLOR [OPTIONAL]@@
+> 
+> @@**Birthplace:** PLACE OF BIRTH@@
+> 
+> @@**Date of Birth:** DD Month, YYYY@@
+> 
+> @@**Enlistment Date:** DD Month, YYYY@@
+> 
+> @@**Education History:**@@
+> @@* List education history (YYYY-YYYY)@@
+> @@* List as necessary  (YYYY-YYYY)@@
+> 
+> @@**Occupational History:**@@
+> @@* List past employment (YYYY-YYYY)@@
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Overview@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> WRITE OVERVIEW OF PERSONNEL HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Further Information@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> WRITE ANY EXTRA INFORMATION HERE 
+> 
+> @@[[/div]]@@
+
+[[/tab]]
+[[tab Lesser Object Format]]
+
+> @@[[div class="content-panel"]]@@
+> @@**Designation:** LO-XXX@@
+> Put image block here if you are including an image
+> @@**Description:** BASIC PHYSICAL DESCRIPTION OF ANOMALY@@
+> @@**Site Location:** WHERE THE ANOMALY IS CURRENTLY LOCATED WITHIN THE AUTHORITY@@
+> @@**Properties:** THE ANOMALOUS PROPERTIES OF THE ITEM@@
+> @@[[/div]]@@
+
+[[/tab]]
+[[tab Lesser Locations Format]]
+
+> @@[[div class="content-panel"]]@@
+> @@**Designation:** LA-XXX@@
+> @@**Location:** LOCATION OF ANOMALY@@
+> @@**Description:** PHYSICAL DESCRIPTION OF ANOMALY@@
+> @@**Properties:** DESCRIPTION OF ANOMALOUS PROPERTIES@@
+> @@**Use:** USE BY AUTHORITY IF APPLICABLE@@
+> @@[[/div]]@@
+
+[[/tab]]
+[[tab Anomalous Events Index]] 
+
+> @@[[div class="content-panel"]]@@
+> @@**Log #:** XXX@@
+> @@**Location:** ANOMALY LOCATION@@
+> @@**Date of Occurrence:** Month DD, YYYY@@
+> @@**EOI Involved:** LIST INVOLVED ENTITIES OF INTEREST IF APPLICABLE@@
+> @@**Observed By:** LIST ANY PERSONS OR CAMERA FOOTAGE@@
+> @@**Description:** DESCRIPTION OF ANOMALY@@
+> @@**Reactionary Measures:** ANY CONTAINMENT METHODS@@
+> @@[[/div]]@@
+
+[[/tab]]
+[[tab Operation Format]]
+
+> [[include component:rate]]
+> 
+> @@[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]@@
+> 
+> @@= **Operation Name O-####**@@
+>  
+> @@**Date:** April 23, 2019@@
+>  
+> @@**Objective:** Capture / Rescue / Investigate / Recover / etc.@@
+>  
+> @@**MST:** Echo-77@@
+> 
+> @@**Team Members:** E77-Cap, E77-1, E77-2@@
+> 
+> @@**Forenote:** Provide any necessary introductory information here.@@
+> 
+> @@----@@
+>  
+> @@**[BEGIN LOG]**@@
+>  
+> @@**E77-1:** Dialog@@
+>  
+> @@//[event.]//@@
+>  
+> @@**[END LOG]**@@
+> 
+> @@----@@
+> 
+> @@**Closing Statement:** Provide a concluding statement and/or follow-up information. (Optional)@@
+> 
+> @@[[/div]]@@
+> 
+> @@**Addendum:** Interview/interrogation logs, found materials, witness statements, etc. (Optional)@@
+
+[[/tab]]
+[[tab Patent Format]]
+
+> @@[[module css]]@@
+> @@@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);@@
+> @@[[/module]]@@
+> 
+> @@[[include component:rate]]@@
+> 
+> @@[[div class="content-panel"]]@@
+> 
+> @@[[=]]@@
+> @@+ **RPC AUTHORITY PATENT**@@
+> @@+++ [FORMAL PATENT NAME] "[INFORMAL PATENT NAME]"@@
+> @@[[/=]]@@
+> 
+> @@[[>]]@@
+> @@(a) **Patent No.:** P-XXX@@
+> @@(b) **Date of Patent:** MON. DD, YYYY@@
+> @@[[/>]]@@
+> @@------@@
+> 
+> @@(c) **Inventor:** [NAME AND SITE]@@
+> 
+> @@(*) **Notice:** Subject to any disclaimer, the term of this patent is extended or adjusted in accordance to the Treaty of Ottawa and United Nations Res. 1980/0120 by XX days.@@
+> 
+> @@(d) **Appl No.:** XX/XX,XXX [Add random number]@@
+> 
+> @@(e) **Filed:** MON. DD, YYYY@@
+> 
+> @@------@@
+> 
+> @@[[=]]@@
+> @@+++ ABSTRACT@@
+> @@[[/=]]@@
+> 
+> [SUMMARY OF PATENT]
+> 
+> @@**FIG. 1**@@
+> @@[INSERT IMAGE HERE]@@
+> 
+> @@------@@
+> 
+> @@[[=]]@@
+> @@+++ (I) BACKGROUND OF THE INVENTION@@
+> @@[[/=]]@@
+> @@**(I) BACKGROUND/HISTORY**@@
+> @@[BACKGROUND/HISTORY OF THE PATENT]@@
+> 
+> @@**(II) BACKGROUND/HISTORY**@@
+> @@[CONTINUE THE BACKGROUND/HISTORY IF NECESSARY]@@
+> 
+> @@------@@
+> 
+> @@[[=]]@@
+> @@+++ (II) DETAILED DESCRIPTION OF THE INVENTION@@
+> @@[[/=]]@@
+> 
+> [DESCRIBE YOUR PATENT IN GREATER DETAIL]
+> 
+> @@**(1)Fig 1:**@@
+> @@[EXPLAIN FIG 1]@@
+> 
+> @@**(2) Fig 2:**@@
+> @@Explain Fig 2@@
+>  [CONTINUE IF NECESSARY.]
+> 
+> @@------@@
+> @@[[=]]@@
+> @@+++ (III) INSTRUCTION AND USE OF THE INVENTION@@
+> @@[[/=]]@@
+> 
+> [DESCRIBE INSTRUCTIONS AND/OR USEFUL PROPERTIES.]
+> 
+> @@**(I) How to use it**@@
+> [EXPLAIN USE]
+> 
+> @@**(II) How to use it**@@
+> [CONTINUE IF NECESSARY.]
+> 
+> @@------@@
+> 
+> @@[[=]]@@
+> @@CROSS-REFERENCE TO RELATED APPLICATIONS@@
+> @@{{I hereby claim benefit under Treaty of Ottawa and United Nations Res. 1980/0120, patent application Ser. No. XXX filed MON. DD, YYYY, The P-XXX application is currently pending. The P-XXX application is hereby incorporated by reference into this application.}}@@
+> @@[[/=]]@@
+> 
+> @@[[/div]]@@
+
+[[/tab]]
+[[tab MST Profile Format]]
+
+> @@[[include component:rate]]@@
+> 
+> @@[[div class="mst-profile" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]@@
+> 
+> @@[[=image http://rpcauthority.wdfiles.com/local--files/foxtrot-4-prey/WhiteHeader.png]]@@
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Overview@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> @@[[f>URL]] (OPTIONAL MST EMBLEM)@@
+> 
+> @@**Numerical Code:** MST DESIGNATION@@
+> 
+> @@**Codename:** MST CODENAME@@
+> 
+> @@**Motto:** [Optional]@@
+> 
+> @@**Garrison/HQ:** [If applicable]@@
+> 
+> @@**Roles:** PURPOSE OF MST@@
+> 
+> @@**Established:** DATE THE MST IS FORMED@@
+> 
+> @@**Description:** WRITE DESCRIPTION OF THE TEAM HERE@@
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Task-force Composition@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> NUMBER/STRUCTURE OF SPECIALIZED TEAM MEMBERS GO HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Active Personnel@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> LINKS TO NOTABLE PERSONNEL FILES GO HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Armaments@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> SPECIALIZED TEAM EQUIPMENT GOES HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Completed Operations@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> NOTABLE MISSIONS OR OPERATION LINKS GO HERE
+> 
+> @@----@@
+> 
+> @@[[=]]@@
+> @@+ Containment Assignments@@
+> @@[[/=]]@@
+> 
+> @@----@@
+> 
+> RELATED RPCs GO HERE
+> 
+> @@[[/div]]@@
+
+[[/tab]]
+[[tab Footage Format]]
+> [[include component:rate]]
+> 
+> @@[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]@@
+> 
+> @@**Media ID#:** M-XXXXX@@
+> 
+> @@> **Foreword:** [Information on source of the video, format, ect.]@@
+> @@> @@
+> @@> **<Begin Video>**@@
+> @@> @@
+> @@> **00:00 -** [Event, repeat as needed.]@@
+> @@> @@
+> @@> **<End Video>**@@
+> 
+> @@**Addendum:** [Additional Information, Optional Section]@@
+> 
+> @@[[/div]]@@
+[[/tab]]
+[[/tabview]]
+
+[[div class="desktop-only" style="position:fixed; RIGHT: 7%; BOTTOM: 20%; width: 10%; height: auto;"]]
+[[toc]] 
+[[/div]]
+
+-----
+
+[[# basics]]
++ Wikidot Syntax
+
+For the most part, you can get by with only knowing the very basics of Wikidot's syntax.
+
+* **Bolding:** @@**example text**@@ ⟶ **example text**
+* //Italicizing:// @@//example text//@@ ⟶ //example text//
+* __Underlining:__ @@__example text__@@ ⟶ __example text__
+* --Strikethrough:-- @@--example text--@@ ⟶ --example text--
+
+As a sidenote, you don't necessarily have to memorize these as they're all available in Wikidot's toolbar, but they're still handy to know.
+
+-----
+
+++ Images
+
+Adding images is a great way to improve your article. 
+
+> [[include component:image-block name=**Image_URL_Location**|caption=**Image_Caption**]]
+This creates an image block which will expand when hovered over with a mouse. Replace the bold text with whatever is applicable. 
+
+There are also some other things you can add to change how the image functions.
+
+> [[include component:image-block name=**Image_URL_Location**|caption=**Image_Caption**|width=**###**]]
+
+This will set the image's size. The default is 300 pixels. Make sure to put a unit for it to work. "width=450px" will make it 450 pixels wide. "width=50%" will make it take up half the page content's width. 
+
+> [[include component:image-block name=**Image_URL_Location**|caption=**Image_Caption**|align=**ALIGNMENT**]]
+
+This will change how the image is aligned. By default, the image will be aligned to the right side of the screen. "align=left" will make it appear on the left side. "align=center" will make it appear at the center of the screen. 
+
+> [[include component:image-block name=**Image_URL_Location**|caption=**Image_Caption**|enlarge=false]]
+
+This will make it so the image does not enlarge when you hover your mouse over it. By default, enlarge hover is enabled.
+
+----
+
+If you want to add normal images (without the image block formatting), simply use:
+
+> @@[[image LINK]]@@ ⟶ Creates a normal image.
+> @@[[<image LINK]]@@ ⟶ Creates an image aligned to the left.
+> @@[[>image LINK]]@@ ⟶ Creates an image aligned to the right.
+> @@[[=image LINK]]@@ ⟶ Creates a centered image.
+> @@[[f<image LINK]]@@ ⟶ Creates an image floating on the left. (Allows text wrapping.)
+> @@[[f>image LINK]]@@ ⟶ Creates an image floating on the right. (Allows text wrapping.)
+
+There are more advanced uses of images that you can read about [[[https://www.wikidot.com/doc-wiki-syntax:images|here]]].
+
+-----
+
+++ Collapsibles
+
+Collapsibles work well to hide large blocks of text.
+> @@[[collapsible show="SHOW TEXT" hide="HIDE TEXT"]]@@ 
+> TEXT 
+> @@[[/collapsible]]@@
+
+[[collapsible show="SHOW TEXT" hide="HIDE TEXT"]] TEXT [[/collapsible]]
+
+Additionally, you can use the hideLocation attribute to change where the collapsible closes. This works well with especially long blocks of text. For example:
+> @@[[collapsible show="SHOW LONG BLOCK OF TEXT" hide="HIDE LONG BLOCK OF TEXT" hideLocation="both"]]@@ 
+> LONG BLOCK OF TEXT 
+> @@[[/collapsible]]@@
+
+[[collapsible show="SHOW LONG BLOCK OF TEXT" hide="HIDE LONG BLOCK OF TEXT" hideLocation="both"]] LONG BLOCK OF TEXT [[/collapsible]]
+
+-----
+
+++ Hyperlinks
+
+You can link to other pages by using the following code:
+
+> @@[PAGE-URL LINK-TEXT]@@
+
+This will make:
+
+[# LINK-TEXT]
+
+If the page you're linking to is on the same Wikidot site, you can simply use /page-name. For example:
+
+> @@[/formatting-guide LINK-TEXT]@@
+
+This will make:
+
+[/formatting-guide LINK-TEXT]
+
+The simplest way to link to pages on the same site is as follows:
+
+> @@[[[formatting-guide]]]@@
+
+This will make:
+
+[[[formatting-guide]]]
+
+-----
+
+++ Footnotes and Footnote Blocks
+
+You can add footnotes using the following code:
+> Example text.@@[[footnote]]Explanation.[[/footnote]]@@
+
+Example text.[[footnote]]Explanation.[[/footnote]]
+
+Additionally, you can change where footnotes are shown on your page by using @@[[footnoteblock]]@@. Note that there can only be one footnote block per page.
+
+[[footnoteblock]]
+
+-----
+
+++ Headings
+
+You can emphasize text using headings. The following code:
+> @@+ Biggest Heading@@
+> @@++ Size 2@@
+> @@+++ Size 3@@
+> @@++++ Size 4@@
+> @@+++++ Size 5@@
+> @@++++++ Smallest Heading@@
+
+Will create headings of various sizes:
+
++* Biggest Heading
+++* Size 2
++++* Size 3
+++++* Size 4
++++++* Size 5
+++++++* Smallest Heading
+
+-----
+
+++ Lists
+
+You can create ordered (by number) lists, as well as unordered (bullet point) lists. Adding a space before a list item will increase its nesting.
+> @@# Ordered List Item 1@@
+> @@# Ordered List Item 2@@
+> @@ @@ @@# Nested Item 1@@
+> @@# Ordered List Item 3@@
+> 
+> @@* Unordered List Item 1@@
+> @@* Unordered List Item 2@@
+> @@ @@ @@* Nested Item 1@@
+> @@* Unordered List Item 3@@
+
+Will create:
+
+# Ordered List Item 1
+# Ordered List Item 2
+ # Nested Item 1
+# Ordered List Item 3
+
+* Unordered List Item 1
+* Unordered List Item 2
+ * Nested Item 1
+* Unordered List Item 3
+
+-----
+
+++ Tables
+
+Tables can be used to organize information in your article:
+
+> @@||~ Header 1 ||~ Header 2 ||~ Header 3 ||@@
+> @@|| Example 1. || Example 2. || Example 3. ||@@
+
+This will make:
+
+||~ Header 1 ||~ Header 2 ||~ Header 3 ||
+|| Example 1. || Example 2. || Example 3. ||
+
+You can expand this model for as many rows and columns as you need. Remember to add a tilde (~) to each box in your header row.
+
+-----
+
+++ Quote Blocks
+
+Quote blocks are great for testing logs, exploration logs, and so on. Adding a quote block is as simple as adding "> " before each line of your text. So:
+
+@@> Line 1@@
+@@> @@
+@@> Line 2@@
+
+Will create:
+
+> Line 1
+> 
+> Line 2
+
+Note that empty lines require the "> " as well - otherwise, your quote block will be split up! Also, the space after ">" is essential; the code won't work otherwise.
+
+-----
+
+++ Anchors
+
+Anchors can make navigating your page much easier:
+
+[[# anchorname]]
+> @@[[# anchorname]]@@ To create an anchor.
+> 
+> @@[#anchorname Link text.]@@ To return to the anchor.
+
+This will create:
+
+[#anchorname Link text.]
+
+-----
+
+++ Horizontal Dividers
+
+Horizontal dividers are used to break up the content of a page:
+
+> Text
+> @@-----@@
+> More text
+
+Will create:
+
+> Text
+> -----
+> More text
+
+-----
+
+++ Aligning Text
+
+You can align text to the left, center, and right of the page, as well as justify it:
+
+> @@[[<]]@@
+> Left-aligned text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> @@[[/<]]@@
+
+> @@[[=]]@@
+> Centered text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> @@[[/=]]@@
+
+> @@[[>]]@@
+> Right-aligned text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> @@[[/>]]@@
+
+> @@[[==]]@@
+> Justified text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> @@[[/==]]@@
+
+Will create:
+
+> [[<]]
+> Left-aligned text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> [[/<]]
+
+> [[=]]
+> Centered text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> [[/=]]
+
+> [[>]]
+> Right-aligned text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> [[/>]]
+
+> [[==]]
+> Justified text
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> [[/==]]
+
+Justifying text makes it so that all of the lines are spaced evenly, so it's only visible on large paragraphs.
+
+-----
+
+++ Colored Text
+
+Colored text is very simple to make:
+
+> @@##blue|Blue text.##@@
+
+Makes: ##blue|Blue text.##
+
+It also works with hex values:
+
+> @@##71e02c|Green text.##@@
+
+Makes: ##71e02c|Green text.##
+
+-----
+
+++ Tabs
+
+Tabs can be used to organize pages and keep your sandbox from getting cluttered. Here's how to make them:
+
+> @@[[tabview]]@@
+> @@  [[tab Tab One]]@@
+> @@    Example text.@@
+> @@  [[/tab]]@@
+> @@  [[tab Tab Two]]@@
+> @@    More example text.@@
+> @@  [[/tab]]@@
+> @@[[/tabview]]@@
+
+Makes:
+
+[[tabview]]
+[[tab Tab One]]
+Example text.
+[[/tab]]
+[[tab Tab Two]]
+More example text.
+[[/tab]]
+[[/tabview]]
+
+You can add as many [[tab]]s as you need. 
+
+Creating multiple [[tabview]] ... [[/tabview]] elements will create multiple blocks of tabs. For example:
+
+> @@[[tabview]]@@
+> @@[[tab One]]@@
+> @@[[/tab]]@@
+> @@[[/tabview]]@@
+> 
+> @@[[tabview]]@@
+> @@[[tab Two]]@@
+> @@[[/tab]]@@
+> @@[[/tabview]]@@
+
+Will create:
+
+[[tabview]]
+[[tab One]]
+[[/tab]]
+[[/tabview]]
+
+[[tabview]]
+[[tab Two]]
+[[/tab]]
+[[/tabview]]
+
+-----
+
+++ Empty Lines
+
+Due to the way Wikidot formats text, having empty lines is normally impossible. However, you can bypass this by using no-parse tags. Normally making empty lines would display as follows:
+
+> Text
+> @@@@
+> @@@@
+> @@@@
+> More text
+
+Text
+
+
+
+More text
+
+However, by using no-parse tags, you can make them display properly:
+
+> Text
+> @@@@@@@@
+> @@@@@@@@
+> @@@@@@@@
+> More text
+
+Text
+@@@@
+@@@@
+@@@@
+More text
+
+These tags can also be used to display code without it being parsed. For example:
+
+> @@@@@@ @@[[div class="example"]]@@ @@@@@@
+> @@@@
+> @@@@@@ @@[[/div]]@@ @@@@@@
+
+@@[[div class="example"]]@@
+@@@@
+@@[[/div]]@@
+
+-----
+
+[[# divs]]
++ Basic CSS
+
+CSS is a language used to apply styling to certain elements on a webpage. It can be used to greatly improve the appearance of your articles. First, we'll cover some basics of how Wikidot's syntax works together with CSS.
+
+-----
+
+++ Div Elements
+
+In HTML, div elements are used to mark specific sections of a page.
+
+Although Wikidot's syntax is a bit different from HTML, you can still create div elements as follows:
+
+> @@[[div]]@@
+> @@    @@Content.
+> @@[[/div]]@@
+
+Of course, this won't do anything by itself.
+
++++ Classes and IDs
+
+You can assign a class or ID to your div element by adding the following:
+
+> @@[[div class="firstDiv"]]@@
+> @@    @@Content.
+> @@[[/div]]@@
+> 
+> @@[[div id="secondDiv"]]@@
+> @@    @@Content.
+> @@[[/div]]@@
+
+Essentially, this gives the browser a way to identify the divs. Later, we can use these classes/IDs to apply styling to them. 
+
+The styling for IDs takes priority over the styling for classes. You should use IDs only once, for specific elements, while classes can be reused over and over again to apply the same styling to multiple elements.
+
+-----
+
+++ CSS Syntax
+
+Before we continue, let's look at basic CSS syntax. Styling is applied through **rulesets**, which consist of a **selector** and a **declaration block**. Here's an example of a ruleset:
+
+> .firstDiv {
+> @@    @@background-color: black;
+> @@    @@border: 1px solid white;
+> @@    @@border-radius: 4px;
+> }
+
+Here, ".firstDiv" is the selector, and the section in the middle is the declaration block. Declaration blocks must be enclosed in braces ({}), and each declaration must end in a semicolon. The spacing and indentation isn't necessary, although it makes the stylesheet a lot more readable. If you want, you can have a ruleset all on one line:
+
+> .firstDiv {background-color: black; border: 1px solid white; border-radius: 4px;}
+
++++ Selectors
+
+There are three main types of selectors:
+* Element Selectors
+* Class Selectors
+* ID Selectors
+
+Here are some examples of the different types:
+
+> h1 {...}
+> .classDiv {...}
+> #idDiv {...}
+
+The first ruleset would apply to all h1 (heading 1) elements on the page. The second would apply to all elements with the class "classDiv". The third would apply to all elements with the ID "idDiv". Remember: class selectors start with periods, ID selectors start with hashes.
+
+There's another type of selector known as the universal selector, that's used to select all elements on a page, although you generally won't need to use this.
+
+> @@*@@ {...}
+
++++ Properties
+
+There's one more thing we need to go over: Properties. There are hundreds of properties in CSS, but don't worry - you won't have to use most of them. Here's a short list of the most common properties you'll be using:
+
+* **color:** Changes the color of text in the selected element.
+ * Values: hex code (#000000), rgb (rgb(0, 0, 0)), etc.
+
+* **background-color:** Changes the color of the element's background.
+ * Values: hex code, rgb, etc.
+
+* **background-image:** Applies a background image to the selected element.
+ * Values: url('IMAGEURL'), linear-gradient(...)
+
+* **border:** Modifies the element's border.
+ * Values: (size [1px, etc.]), (style [solid, dashed, dotted, etc.]), (color [hex, rgb, etc.])
+
+* **border-radius:** Rounds the corners of an element's border.
+ * Values: pixels, percentage, etc.
+
+* **margin:** Changes space between an element and its container (the element it's inside.)
+ * Values: pixels, percentage, etc.
+  * Sides can be styled independently using margin-top, margin-bottom, etc.
+  * When styling all 4 sides using one attribute, spacing is applied clockwise starting from the top; so "1px 2px 3px 4px" will apply a 1px margin to the top, 2px right, 3px bottom, and 4px left.
+
+* **padding:** Changes space between an element's border and its content.
+ * Values: pixels, percentage, etc.
+  * Similar to margins, spacing is applied clockwise from the top. Sides can be styled individually using padding-top, padding-bottom, etc.
+
+* **font-family:** Changes the font of text in the selected element.
+ * Values: font names
+  * You can add multiple fonts here (font-family: Arial, Tahoma, sans-serif;) If one font isn't available for whatever reason, the browser will try to use the next one.
+
+* **font-size:** Changes the size of text in the selected element.
+ * Values: [8px, etc.], [1em, etc.], smaller, larger, [percentages]
+  * 'em' and percentage scale based on the document's current font size. 1em = 100%.
+
+* **font-weight:** Changes the weight (thickness) of text in the selected element.
+ * Values: normal, bold, lighter, bolder, [100, 200, etc.]
+  * Depending on your font, not all values may be available.
+
+Keep in mind that this is only a small handful of properties - [https://www.w3schools.com/css/default.asp w3schools] is a great reference if you want to learn more!
+
+-----
+
+++ Styling Elements
+
+Okay, now we know all about CSS syntax. How do we style our div? There are three methods for doing so:
+* Inline styling
+* Using a CSS module
+* Importing a stylesheet
+For now, we'll only cover the first two.
+
++++ Inline Styling
+
+Inline styling is the simplest, albeit least efficient method of styling elements. You should really only use it for when you have to style one specific element - otherwise, it's far more efficient to use a CSS module. To apply inline styling to an element, add the style attribute to it:
+
+> @@[[div style=" "]]@@
+> @@    @@Content.
+> @@[[/div]]@@
+
+You can paste a declaration block inside the style attribute and it'll be applied to the div. For example:
+
+> @@[[div style="background-color: rgb(0,0,0); color: white;"]]@@
+> @@    @@Content.
+> @@[[/div]]@@
+
+This will create:
+
+  [[div style="background-color: rgb(0,0,0); color: white;"]] 
+    Content. 
+  [[/div]]
+
+Note that no selector or braces are necessary when using inline styling, although you must still include a semicolon at the end of each declaration.
+
++++ CSS Module
+
+A more efficient way to style elements is through the use of a CSS module. Its analog in HTML would be a <style> tag. To add a CSS module, place this at the top of your document:
+
+> @@[[module CSS]]@@
+> 
+> @@[[/module]]@@
+
+You can put CSS rulesets inside this module and they'll be applied to the whole article. For example:
+
+> @@[[module CSS]]@@
+> .exampleRuleSet {
+> @@    @@background-color: rgb(0,0,0);
+> @@    @@color: white;
+> }
+> @@[[/module]]@@
+
+-----
+
+++ Examples
+There are many situations in which using CSS can come in handy.
++++ Scenario A
+Say you want to create a div block that looks like a computer terminal. The background would have to be black, with white text. A monospace font would also be good. Let's translate this into CSS!
+
+> @@[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]@@
+> @@| TEXT@@
+> @@| MORE TEXT@@
+> @@[[/div]]@@
+
+This creates:
+
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+| TEXT
+| MORE TEXT
+[[/div]]
+
+Let's break down what's happening:
+
+* "**background-color:** black" sets the background to black.
+* "**color:** white" sets the text color to white.
+* "**font-family:** monospace" sets the font to monospace, similar to a computer terminal.
+* "**padding:** 2%" adds a bit of space between the text and the edge of the div block.
+* "**border-radius:** 5px" rounds the div's corners by 5px.
+
+Another way to do this would be:
+
+> @@[[module CSS]]@@
+> .terminal {
+> @@    @@background-color: black;
+> @@    @@color: white;
+> @@    @@font-family: monospace;
+> @@    @@padding: 2%;
+> @@    @@border-radius: 5px;
+> }
+> @@[[/module]]@@
+> @@@@
+> ...
+> @@@@
+> @@[[div class="terminal"]]@@
+> | TEXT
+> | MORE TEXT
+> @@[[/div]]@@
+
+This would produce the same result, with the added benefit of being easily reusable with multiple divs. Just assign each div the "terminal" class and you're good to go.
+
+-----
+
+++ Custom Themes
+
+If you'd like to add a custom theme to a page, you can create one yourself using CSS, or browse through the already available themes [[[widget-hub|here]]]. 
+
+A guide on making your own themes should be available in the near future.
+
