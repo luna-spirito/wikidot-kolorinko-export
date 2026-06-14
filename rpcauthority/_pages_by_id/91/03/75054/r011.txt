@@ -1,0 +1,125 @@
+---
+title: "Research Tone"
+tags: ["format", "information"]
+page_id: "910375054"
+site: "rpcauthority"
+slug: "research-tone"
+revision: 11
+revision_id: "1526682938"
+author: 9487909
+timestamp: 1734011608
+---
+
+[[module css]]
+@import url(/component:research-theme/code/1);
+[[/module]]
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/research-tone"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/tom-de-pesquisa"]] ]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Item Type:** Object / Entity / Human / Location / Other
+
+**Lethality Rating:** White / Yellow / Orange / Red / Purple / Black
+
+**Hazard Types:** [List hazards here]
+
+**Abstract:** [Give just enough information about the item for the safe handling to have context]
+
+**Safe Handling and Usage:** [How personnel should handle the item and information on properties of the item regarding the safety of personnel, equipment, the item itself, etc.]
+
+**Description:** [Explain what the thing is in detail]
+
+[[=]]
+<< [[[RPC-XXX]]] | RPC-XXX | [[[RPC-XXX]]] >>
+[[/=]]
+
+----
+
++ Format:
+ 
+> [[module css]]
+> @import url(/component:research-theme/code/1);
+> [[/module]]
+> 
+> @@[[include component:rate]]@@
+> 
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-white.png]]@@
+> 
+> @@**Registered Phenomena Code:**@@ XXX
+> 
+> @@**Item Type:**@@ Object / Entity / Human / Location / Other
+> 
+> @@**Lethality Rating:**@@ White / Yellow / Orange / Red / Purple / Black
+> 
+> @@**Hazard Types:**@@ [List hazards here]
+> 
+> @@**Abstract:**@@ [Give just enough information about the item for the safe handling to have context]
+> 
+> @@**Safe Handling and Usage:**@@ [A more lightweight version of containment protocols to focus on how researchers should handle the item during testing]
+> 
+> @@**Description:**@@ [Explain what the thing is in detail]
+> 
+> @@**Addendum:**@@ [Optional extra information]
+> 
+> @@**Test Log:**@@ [Optional basic test Log]
+> 
+> @@**Cross-Testing Log:**@@ [Optional testing with another RPC]
+> 
+> @@**Interview Log:**@@ [Optional interview with a related person or entity]
+> 
+> @@**Involved Researchers:**@@ [Optional list of any researchers involved with the RPC]
+> 
+> @@[[=]]@@
+> @<<< [[[RPC-XXX]]] | RPC-XXX | [[[RPC-XXX]]] >>>@
+> @@[[/=]]@@
+
+----
+
++ Image Codes:
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-white.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-white.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-white.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-white.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-white.png]]
+
+~~~~
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-white.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-yellow.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-orange.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-red.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-purple.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/object-black.png]]@@
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-white.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-yellow.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-orange.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-red.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-purple.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/entity-black.png]]@@
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-white.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-yellow.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-orange.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-red.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-purple.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/human-black.png]]@@
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-white.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-yellow.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-orange.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-red.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-purple.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-black.png]]@@
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-white.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-yellow.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-orange.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-red.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-purple.png]]@@
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-black.png]]@@
+

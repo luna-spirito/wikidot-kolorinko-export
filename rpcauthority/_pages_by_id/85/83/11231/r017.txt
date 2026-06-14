@@ -1,0 +1,151 @@
+---
+title: "Sidenote Guide"
+tags: ["guide"]
+page_id: "858311231"
+site: "rpcauthority"
+slug: "sidenote-guide"
+revision: 17
+revision_id: "1523173763"
+author: 5982545
+timestamp: 1721695566
+---
+
+[[module CSS]]
+#page-title {
+display: none
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Sidenote Guide
+[[/div]]
+
+[[include component:sidenote 
+figure=HOVER YOUR MOUSE OVER ME IF YOURE ON DESKTOP|
+contents=WOOO IM A SIDENOTE
+]]
+
+This page exists to explain how to use the sidenote code within your pages.
+
+Sidenotes come in a few variations. One only has text, one only has an image, and one has both. 
+@@ @@
+> = **TEXT ONLY**
+> 
+> [[include component:sidenote
+> contents=CONTENTS|
+> figure=FIGURE
+> ]]
+
+> = **IMAGE ONLY**
+> 
+> [[include component:sidenote
+> figure=FIGURE|
+> name=NAME|
+> type=image
+> ]]
+
+> = **TEXT AND IMAGE**
+> 
+> [[include component:sidenote
+> contents=CONTENTS|
+> figure=FIGURE|
+> name=NAME|
+> type=both
+> ]]
+
+Replace CONTENTS with what you want to be inside the sidenote.
+Replace FIGURE with what you want on the title of the sidenote.
+Replace NAME with the URL of an image.
+
+**I should note that when you put a sidenote on a page, it will look broken when you preview the page. If you put it in correctly, it will look right once you save it.**
+
+Furthermore, you can specify that a sidenote be aligned to the center or to the left. 
+> = **ALIGN CENTER**
+> 
+> [[include component:sidenote
+> contents=CONTENTS|
+> figure=FIGURE|
+> align=center
+> ]]
+
+> = **ALIGN LEFT**
+> 
+> [[include component:sidenote
+> contents=CONTENTS|
+> figure=FIGURE|
+> align=left
+> ]]
+
+[[include component:sidenote
+align=center|
+figure=woah look im centered|
+contents=nice
+]]
+
+[[include component:sidenote
+type=image|
+figure=ohh and this one has an image|
+name=c8wurwymxmcrn3fgwegv.png|
+align=left
+]]
+
+~~~~
+
+----
+
+If you want the image to appear at the bottom of the sidenote, you can use:
+
+> image-location=bottom
+
+This only applies for images with type=both
+
+[[include component:sidenote
+type=both|
+figure=default image location|
+name=c8wurwymxmcrn3fgwegv.png|
+align=right|
+contents=cheese
+]]
+
+[[include component:sidenote
+type=both|
+figure=image on the bottom|
+image-location=bottom|
+name=c8wurwymxmcrn3fgwegv.png|
+align=right|
+contents=choose
+]]
+
+~~~~
+
+----
+
+If for some weird reason you want the sidenote to be always open, you can do that.
+
+> = **LOCKED OPEN**
+> 
+> [[include component:sidenote
+> contents=CONTENTS|
+> figure=FIGURE|
+> lock=true
+> ]]
+
+~~~~
+
+Code for styling sidenotes on themes and pages:
+
+[[code type="CSS"]]
+:root {
+--sidenote-open-background: #1c2431;
+--sidenote-closed-background: var(--content-bar-background);
+--sidenote-box-shadow: var(--content-box-shadow);
+--sidenote-background: var(--primary-background);
+--sidenote-contents-border: 1px dashed #333;
+--sidenote-figure-border: 1px solid #333;
+--sidenote-contents-open-color: var(--text-color);
+--sidenote-figure-open-color: var(--text-color);
+--sidenote-contents-closed-color: var(--text-color);
+--sidenote-figure-closed-color: var(--text-color);
+}
+[[/code]]
+

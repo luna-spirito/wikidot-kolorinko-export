@@ -1,0 +1,51 @@
+---
+title: ""
+tags: []
+page_id: "911003225"
+site: "rpcauthority"
+slug: "_test"
+revision: 34
+revision_id: "1365908070"
+author: 3118961
+timestamp: 1621979229
+---
+
+[[module css]]
+.gdCounts {
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+.gdCounts div, .gdCounts  p {
+  display: inline;
+}
+
+.gdCounts>div {
+  margin-left: 5px;
+  padding-left: 5px;
+  border-left: 2px solid var(--basic-border-color);
+}
+[[/module]]
+
+[[div class="content-panel"]]
+[[div class="gdCounts"]]
+[http://rpcauthority.wikidot.com/system:page-tags/tag/gd-cmdr Pages featuring GD-CMDR]
+
+[[module CountPages tags="+gd-cmdr rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-cmdr +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-cmdr +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-cmdr -rpc -rpc-j -tale -document"]]
+%%total%% Other 
+[[/module]]
+[[/div]]
+[[/div]]
+

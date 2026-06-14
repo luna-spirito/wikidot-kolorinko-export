@@ -1,0 +1,56 @@
+---
+title: "Protection Tone"
+tags: ["format", "information"]
+page_id: "909667455"
+site: "rpcauthority"
+slug: "protection-tone"
+revision: 11
+revision_id: "1462142548"
+author: 3638389
+timestamp: 1655668474
+---
+
+[[module css]]
+@import url(/component:protection-theme/code/1);
+[[/module]]
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/protection-tone"]]]]
+[[include component:protection-note]]
+
+**Mission Task:** Acquisition / Investigation / Rescue / Re-containment / etc
+
+**Objective:** [Short summary of mission]
+
+**Mission Commander:** 
+
+**Relevant Phenomena Composure:** [Description of the RPC and important information]
+
+> = **Event/Investigation Log XXX.1**
+> 
+> **Captain:** 
+> 
+> **Team:** 
+> 
+> **Armaments:** 
+> 
+> **Foreword:**
+> 
+> ----
+> 
+> **[BEGIN LOG]**
+> 
+> //[description of event]//
+> 
+> **Person:** Dialog
+> 
+> **[END LOG]**
+> 
+> **Closing Statement:** 
+
+**Addenda:** [optional extra info]
+
+**Event/Investigation Log XXX.2** [optional, extra logs or missions]
+
+**Current Containment:** [optional, where the anomaly is currently being held. How it is being held.]
+
+**Interview Log** [optional interview]
+

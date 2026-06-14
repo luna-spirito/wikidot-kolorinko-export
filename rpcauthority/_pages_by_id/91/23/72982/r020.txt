@@ -1,0 +1,240 @@
+---
+title: "RPC-806"
+tags: ["alpha", "contact-hazard", "explosive-hazard", "grouped-hazard", "radiation-hazard", "rpc", "toxic-hazard", "yellow"]
+page_id: "912372982"
+site: "rpcauthority"
+slug: "rpc-806"
+revision: 20
+revision_id: "1518743947"
+author: 2947029
+timestamp: 1709343617
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1);
+
+@import url('rpcsandbox.wikidot.com/local--files/dr-pierson-s-research-1/bahnschrift.ttf');
+
+@import url(http://rpcauthority.wdfiles.com/local--files/rpc-806/OIRM.png)
+
+.p1 {
+    content: url(https://i.imgur.com/eFV1yMJ.png);
+    width: 560px; 
+    filter: invert(1); 
+} 
+
+.p2 { 
+    content: url(http://rpcauthority.wdfiles.com/local--files/rpc-806/OIRSM.png);
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    filter: invert(1); 
+}
+
+.p3 { 
+    content: url(https://i.imgur.com/CCxUPZb.png);
+    width: 560px; 
+    filter: invert(1); 
+} 
+
+@media screen and (orientation:portrait) {
+
+.p2 { 
+    width: 80%; 
+
+} 
+
+.p1, .p3 {
+    width: 98%; 
+
+} 
+
+} 
+[[/module]]
+
+[[include component:rate title=rpc-806]]
+
+
+[[div class="paragraph1"]]
+[[div class="p2"]]
+
+[[/div]]
+
+[[=]]
+
+The following file is subject to Level 5 reclassification. Certain sections of this file require Level 4 clearance and above.
+
+Unauthorized access without proper credentials will be logged, and the person responsible will be questioned pending for internal audit.
+
+- //Harpocrates//, OIRS Director
+
+[[/=]]
+
+[[/div]]
+
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/alpha-yellow.png]]
+
+**Registered Phenomena Code:** 806
+
+**Object Class:** Alpha-Yellow
+
+**Hazard Types:**  [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Grouped Hazard[[/span]][[/span]]  [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Contact Hazard[[/span]][[/span]]  [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-explosive.png  style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Explosive Hazard[[/span]][[/span]]  [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-radiation.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Radioactive Hazard[[/span]][[/span]]  [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-toxic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Toxic Hazard[[/span]][[/span]]
+
+**Containment Protocols:** As part of an international agreement with the United Nations Anomalous Activities Committee, and administrative orders from Dr. Amanda Page, relocation of RPC-806 is to take place bi-monthly. During relocation proceedings, Mobile Specialized Team Delta-1 ("The Keepers")[[footnote]] A specialized taskforce responsible for the security and protection of high-value objects from external entities.[[/footnote]] are to take charge of security, and transportation of RPC-806. 
+
+--Any pending requests to experiment RPC-806 are to be approved by its adjacent Regional Management. A representative from the Office of Ethics and Review is to be present as a supervisor.-- Pending requests to utilize RPC-806 for testing purposes are to be automatically be denied. (See Addendum 806.03) 
+
+RPC-806 is to be contained in lead-lined storage container with a digital keypad, accessible only to certain Level 4 staff. Personnel unauthorized to remove RPC-806 from its containment will be detained, pending for administrative disciplinary. 
+
+Recovered RPC-806-2 instances are to be transported to OL-Site-806, three kilometers from Site-002. OL-Site-806 is to be established as a storage facility for currently existing RPC-806-2 instances. Access to this facility is to be permitted by the incumbent Director of OL-Site-806. 
+
+Previously contained at Site-014, personnel authorized to access RPC-806 are to equip a Level B hazardous materials (hazmat) suit to prevent inhalation of the bio-aerosols, or affected through physical contact. In addition, personnel are to go through a decontamination process as per caution. 
+
+The current whereabouts of RPC-806 is only known to a handful of personnel within the Directorate, and a select few with Level 4 and above. In the event that RPC-806 has been located, Protocol Exodus is to be initiated and RPC-806 is to be relocated to a designated secure off-site location.
+
+[[include component:image-block name= http://rpcauthority.wdfiles.com/local--files/rpc-806/8061.png| width=328px|caption=  RPC-806]]
+
+**Description:** RPC-806 is a deposited uranium ore that measures seventy kilograms, and displays a distinctive green luminescent crystal that appears to have been grown biologically. When a subject (designated RPC-806-3) comes within seven meters close, RPC-806 releases substances of bio-aerosols until the saturation density in the space around it becomes 0.72kg/m^^3.^^
+
+When inhaling the bio-aerosols, or physically touching RPC-806, the digestive and skeletal system will mutate and convert into enriched uranium (designated as RPC-806-2) in various sizes and amounts, within the span of 20-30 minutes. 
+
+By each minute, the skeletal structure increases its density and causes the bones to easily become fragile, often broken when the bone becomes too dense and compresses with an RPC-806-2 instance. By 15 minutes, the skeletal structure will cease its density increase.
+
+However, in the bone marrow, the production of erythrocytes traveling throughout the body will decrease by 46%, and begin to convert into small, rock-like minerals with high atomic properties. It's important to note that the erythrocytes, once solidified, will block some areas of the bloodstream, causing minimal blood flow throughout the body. 
+
+The human organs including the heart, lungs, stomach, intestine, and livers, will begin to convert into large clusters of RPC-806-2 instances, which reportedly causes immense chest-tightening during the process. Analysis during the conversion process revealed that the organic compound from the aforementioned organs mutates as a result of the solidification of erythrocytes coming into contact. 
+
+Within 20-30 minutes, RPC-806-3 will forcibly attempt to regurgitate the RPC-806-2 instances, but will most likely collapse onto the ground and expire as a result of asphyxiation. 
+
+RPC-806-2 instances expelled from RPC-806-3 instances do not appear to manifest anomalously, though they appear to emit small amounts of gamma radiation. Upon closer analysis, RPC-806-2 instances are shown to be more atomically active than a regular singular unit of enriched uranium when it absorbs a neutron that causes nuclear fission, because of this it releases a nuclear chain reaction that results in an unstable precedent level explosion. [[footnote]] Distinctively, the absorption process causes the uranium^^235^^ to collectively increase the production of neutrons at an accelerating rate, which results in a much larger fission reaction.[[/footnote]] 
+
+[[include component:image-block name= http://rpcauthority.wdfiles.com/local--files/rpc-806/8062.png| width=300px|caption= Project Abraham, 1979 ]]
+
+**Addendum 806.01:** Object History 
+
+In the early-1980s, President Ronald Reagan authorized a classified military project to enhance the nation's nuclear capabilities through anomalous means, which lead to the formation of //Project Abraham.// Headed by Colonel John Abrahamson, the Project allocated most its facilities at Maryland and Michigan to acquire sources of uranium for its defense research. 
+
+The military project was overseen by the Advance Research Projects Agency (ARPA), though the extent of the project for some inexplicable reason was transferred to the Strategic Defense Initiative Organization, in 1984. 
+
+During a mining excavation in ████████, New Mexico, a military engineer was reported to have collapsed from illness and died during the excavation of that area. In the aftermath of the incident, Project Abraham investigated the area and soon discovered RPC-806. Subsequently mined and transported to Fort Detrick, RPC-806 was potentially researched and tested on by the United States Government during the project's initiative. 
+
+While the United States Government kept Project Abraham's existence from the United Nations Anomalous Activities Committee, the project secretly continued its operations until in 1987 when an American defector involved in Project Abraham leaked its existence to the Committee for State Security (KGB). Two days after the leaks, the Soviet Union passed on the information to the World Security Council, which culminated into the condemnation by the UNAAC for the United States violations of the International Anomalous Accords. 
+
+Tensions between the United States and the World Security Council grew as President Reagan refused to shutdown the project's activities, though Reagan's actions were criticized by Ambassador Jeane Kirkpatrick which lead to her resignation the following April. 
+
+In 1991, President George H.W Bush, with advise from his National Security Advisor, ordered the shutdown of Project Abraham. Negotiations with the World Security Council concluded with RPC-806 being transferred to Authority custody, and the immediate roll back of anomalous weaponization within the United States. This came as a result of the US's commitment on reducing their nuclear arsenal with the Soviet Union, in the Strategic Arms Reduction Treaty (START I).
+
+**Addendum 806.02:** Internal Memo ██/██/1992
+
+Following RPC-806's requisition from United States custody, concerns raised by the Authority Central Intelligence (ACI) lead to a series of security precautions as many informants within known entities have pursued an interest to obtain RPC-806. 
+
+To ensure nuclear security, the Office of Diplomatic Relations, in coordination with the World Security Council, pursued stringent international proceedings to protect RPC-806 from foreign acquisition, this resulted in MST Delta-1 being tasked by the Directorate. 
+
+[[collapsible show="+ Attachment 806.02.1" hide="- Close File"]]
+
+[[div class="paragraph1"]]
+[[div class="p3"]]
+
+[[/div]]
+-----
+
+According to our informants, various entities, such as China and Russia, are carrying out intelligence campaigns to locate the anomaly in question. The recent internal breach that occurred on [DATA EXPUNGED] resulted in some of RPC-806's report leaked to unknown addresses. The Authority Central Intelligence and Office of Diplomatic Relations are coordinating with various foreign intelligence services to combat the attacks, and prevent further leaks.
+
+To this end, we highly recommend revising the security procedures as a precaution, and reclassify the file to a Level 4. For further information, please contact Assistant Director Emerson of the matter.
+
+- Agent Philip Barrett
+
+[[/div]]
+
+[[/collapsible]]
+
+**Addendum 806.03:** Summary Test Report 09/18/████
+
+On September 18, ████, the Directorate authorized a highly classified experiment to observe the viability of RPC-806 as a fuel source for nuclear energy. The potential use of RPC-806 as a fuel source was supported unanimously by the Directorate. While Project Abraham had conducted nuclear testings through the use of RPC-806-2 instances, recorded documents of the project could not be ascertained due to known copies being expunged, or destroyed. 
+
+[[collapsible show="+ Attachment 806.03.1" hide="- Close File"]]
+
+[[div class="paragraph1"]]
+[[div class="p1"]]
+
+[[/div]]
+
+-----
+
+**Date:** September 18, ████
+
+**Personnel Involved:** Dr. Robert, GD-██
+
+//Note(s): The observatory was located forty-eight kilometers away from the testing area as a precaution if the facility results in a meltdown.//
+
+-----
+
+[**BEGIN LOG**]
+
+**GD-██:** Hmm. You may proceed with the test, doctor.
+
+**Dr. Robert:** Alright then.
+
+[Dr. Robert radios CSD-02794]
+
+**Dr. Robert:** Test subject, can you hear me?
+
+**CSD-02794:** Yeah, and can I ask why I'm wearing this sweaty, rubber suit?
+
+**Dr. Robert:** It's a precaution in case some sort of radiation emission from the rods.
+
+**CSD-02794:** So, it'll protect me from the radiation particles, right?
+
+**Dr. Robert:** Yeah, yeah. You'll be fine. Now, we've provided you with a checklist that should be followed as it says. So long as you follow it as it is, you should be okay in the long run.
+
+[CSD-02794 looks over the checklist and flips through the pages]
+
+**CSD-02794:** Uh yeah, I got that. Should I proceed with the first task?
+
+**Dr. Robert:** Proceed with the first task, look over the checklist to ensure you're doing everything properly, and if you encounter issues; report it as soon as possible.
+
+[CSD-02794 follows the checklist and proceeds to turn on the reactor's core. Within minutes, CSD-02794 notices a sudden increase of pressure and temperature originating from the core]
+
+**CSD-02794:** Doctor Robert, I'm currently experiencing with some technical issues with the reactor.
+
+**Dr. Robert:** One moment.
+
+[Dr. Robert speaks with a technician specialist within the room as data gets collected from the location]
+
+**Dr. Robert:** According to our technician, you're gonna have to initiate an emergency shutdown by pressing the SCRAM button. There should be one right next to the cooling pump systems, over.
+
+**CSD-02794:** [Static] Doctor- Can you say that again?
+
+[Communications with CSD-02794 goes offline. GD-██ walks beside Dr. Robert]
+
+**GD-██:** Doctor, what's happening?
+
+**Dr. Robert:** I don't know. We lost communications with the test subject, and the reactor's data is off the charts. I'm going to have to send a technician team to check out-
+
+[Dr. Robert gets interrupted as the observatory is suddenly illuminated by a nuclear flash, catching the attention of Dr. Robert and GD-██]
+
+**Dr. Robert:** Jesus christ.
+
+**GD-██:** Shut it down, shut this experiment now!
+
+[**END LOG**]
+
+-----
+
+**Additional Note(s):** The flash that we saw hours ago was the destruction of the testing area. Decon teams are already on the ground, clearing out what's left of the area. A preliminary investigation concluded that the core's sudden pressure, and other factoring issues, was due to the containment structure's insufficient stability to withhold the fusion's energy, absorbing particles from an RPC-806-2 instance.
+
+The blast radius from the explosion has confirmed our worries. RPC-806-2 has chemically created an unstable nuclear chain reaction that resulted in an intractable explosion with a blast radius of thirty-eight kilometers. The aftermath explosion gave off unusual high levels of gamma radiation, which appears to dissipate far slower.
+
+As a result of the incident, future plans to conduct experiments with RPC-806 have been suspended indefinite at the orders of the Directorate.
+
+- Dr. Roberts
+
+[[/div]]
+
+[[/collapsible]]
+
+[[footnoteblock title="Additional Notes"]]
+[[=]]
+<< [[[RPC-805]]] | RPC-806 | [[[RPC-807]]] >>
+[[/=]]
+

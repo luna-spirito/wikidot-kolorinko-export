@@ -1,0 +1,404 @@
+---
+title: "RPC-285"
+tags: ["alpha", "emotional-hazard", "memory-alteration-hazard", "organic-hazard", "purple", "rpc", "the-array", "tychokinetic-hazard", "visual-hazard"]
+page_id: "858279257"
+site: "rpcauthority"
+slug: "rpc-285"
+revision: 10
+revision_id: "1515603847"
+author: 6371726
+timestamp: 1698699383
+---
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[module CSS]]
+div.terminal{
+    border: 1px solid black;
+    border: double 5px #AEC0C0;
+    background-color: #000;
+/* black shadow at the top of the terminal */
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    color: rgba(174,192,192,1);
+    background-color: #000000;
+    border: double 3px #AEC0C0
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */
+    animation: scan 12s linear 0s infinite; /* Same as above */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(174,192,192,1);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* You may need to change this depending on the length of your terminal. If the scanline stops halfway, increase the second number.*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #AEC0C0;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #AEC0C0;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #000;
+    text-decoration: underline;
+    background-color: #AEC0C0;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+[[include component:rate title=rpc-285]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-purple.png]]
+
+**Registered Phenomena Code:** 285
+
+**Object Class:** Alpha-Purple
+
+**Hazard Types:** Visual, Tychokinetic, Memory Alteration, Organic, Emotional
+
+**Containment Protocols:** A 4 meter high concrete wall with a barbed wire top has been constructed around RPC-285, and is to be patrolled by ASF personnel at all times. Repairs to this wall are to be made as deemed necessary by the acting Containment Director. 
+
+A joint containment effort for RPC-285 has been established with the Group Of Interest known as The Array. Because of this, personnel are to be aware of the fact that The Array is composed of robotic personnel. Under no circumstances are Authority personnel to enter the perimeter wall around RPC-285. Maintenance for the interior of the perimeter wall is to be done by The Array. 
+
+In the event that a member of Authority staff comes into visual contact with RPC-285-1 they are to be immediately sedated and subsequently incinerated.  
+@@@@
+[[div style="border: solid 2px #000000; padding: 1px 15px;"]]
+[[=]]
++ ##red|**WARNING**##
+
+The RPC-285 file contains information on an extremely aggressive cognitive-hazard that may manifest as an informational hazard. Any personnel with less then 10 years of experience handling phenomena with cognitive hazardous properties should not have access to this file. 
+[[/=]]
+[[/div]]
+@@@@
+**Description:** RPC-285 is the designation of a house located in the ruins of the town of [REDACTED] in Northern Russia. RPC-285 contains an extremely aggressive cognitive hazard designated as RPC-285-1.
+
+RPC-285-1 is the corpse of a 13 year old girl, with the legal name of Gage Boscinav. RPC-285-1 appears to have died by self-inflicted strangulation utilizing a noose[[footnote]]It should be mentioned that suicides using a noose are meant to involve the snapping of the neck rather than strangulation. Because of this it's assumed that Gage Boscinav's goal was a quick death, but the outcome ended up being strangulation due to the length of rope being too short.[[/footnote]]. The body has been modified to have a pressure gauge installed into the neck. This pressure gauge always displays the amount of pressure currently being applied to neck of RPC-285-1 from the noose. 
+
+When a human directly perceives RPC-285-1 in any manner (they will be referred to as RPC-285-2 from this point forward) RPC-285-1 will begin to violently flail and thrash about as if being strangled. This will lead RPC-285-2 to call for help and leave RPC-285-1. After RPC-285-2 leaves RPC-285-1 it will completely forget about RPC-285-1's existence.
+
+An undetermined amount of time after RPC-285-2 leaves RPC-285-1, they will report feeling overwhelmed by guilt. This guilt will invariably lead RPC-285-2 instances to  attempt suicide unsuccessfully, causing prolonged death. In some circumstances RPC-285-2 will survive this event, and in such circumstances, 12 hours after the event RPC-285-2's throat will become blocked by a mixture of sulfur and human blood, resulting in death. After the RPC-285-2 instance expires, by any method, a pressure gauge will grow from the body and the body of the RPC-285-2 instance will gain RPC-285-1's cognitive-hazardous properties. 
+-----
+||**Addendum.1:**|| 
+||Discovery||
+
+RPC-285 was discovered during an investigation into the town of ███████ in northern Russia, after all non-deepweb internet traffic was discovered to have suddenly stopped within the town. This investigation revealed the presence of Array units around the only structure left in the town. Initial contact with the Array was established, and an interview was setup between an Array representative and an Authority representative. Following this interview a joint containment agreement was established between the Authority and the Array.
+
+Additionally, Authority forces were utilized to properly cover up the events that transpired prior to RPC-285's containment, and were able to properly erase evidence relating to the existence of ███████.
+-----
+||**Addendum.2:**||
+||The Array Files||
+
+> **Foreword:** The following documents were given to the Authority after the joint containment agreement with the Array was created.  
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+Array Database
+[[size 120%]]**Immediate Threat File: #96**[[/size]]  
+
+**Threat ID:** #96
+
+**Alternate ID(s):** Gage Boscinav
+
+**Threat Rating:** 78.4%
+
+**Specific Threats:**  Humanoid Threat, Aggressive Cognitive Threat, Tychokinetic Threat
+
+**Threat Status:** ##orange|Secure and Isolated##
+-----
+= [[size large]]**Response: Immediate Threat #96**[[/size]]
+
+++ **Discovery** 
+
+**Written Report:** Sightings of corpse being left alone by humans in the view of traffic cameras in a town located in north-eastern Russia resulted in discovery of pressure gauges in the victims, which led to the declaration of #96's existence. 
+
+++ **Optimal Response:** Secure and Isolate 
+
+**Reasoning:** #96 demonstrates infectious cognitive hazards, and moving the original might cause an unprecedented reaction that could be more dangerous. 
+
+**Unit(s) Involved:** 
+
+[[div style=" float: center; border: solid 1px #FFFFFF; width: 91.5%; padding: 10px;"]]
+Array Database
+[[size 120%]]Unit File: X4D9[[/size]]
+
+[[collapsible show="+ Expand" hide="- [Limited Access Granted]"]]
+
+**Array ID:** X4D9
+
+**Self ID:** 馬蜂 (Hornet) 
+
+**Unit Value:** 47.2% 
+
+**Unit Applications:** Combat
+
+**Unit Type:** Mixed corps heavily armed automated shock trooper
+[[/collapsible]]
+[[/div]]
+@@@@
+[[div style=" float: center; border: solid 1px #FFFFFF; width: 91.5%; padding: 10px;"]]
+Array Database
+[[size 120%]]Unit File: B731[[/size]]
+
+[[collapsible show="+ Expand" hide="- [Limited Access Granted]"]]
+
+**Array ID:** B731
+
+**Self ID:** Butterfly 
+
+**Unit Value:** 74.8%
+
+**Unit Applications:** Ground Support.
+
+**Unit Type:** Heavily Armed Assault VTOL
+[[/collapsible]]
+[[/div]]
+@@@@
+[[div style=" float: center; border: solid 1px #FFFFFF; width: 91.5%; padding: 10px;"]]
+Array Database
+[[size 120%]]Unit File: YK95[[/size]]
+
+[[collapsible show="+ Expand" hide="- [Limited Access Granted]"]]
+
+**Array ID:** YK95
+
+**Self ID:** Orbital Satellite Internet Service 
+
+**Unit Value:** 98.16%
+
+**Unit Applications:** Internet control in isolated areas
+
+**Unit Type:** Satellite
+[[/collapsible]]
+[[/div]]
+@@@@
+[[div style=" float: center; border: solid 1px #FFFFFF; width: 91.5%; padding: 10px;"]]
+Array Database
+[[size 120%]]Unit File: A624[[/size]]
+
+[[collapsible show="+ Expand" hide="- [Limited Access Granted]"]]
+
+**Array ID:** A624
+
+**Self ID:** Burner #451
+
+**Unit Value:** 41.42%
+
+**Unit Applications:** Human corpse disposal
+
+**Unit Type:** Flame Trooper
+[[/collapsible]]
+[[/div]]
+
+
+= [[size large]]**-- Security Establishment Log --**[[/size]]
+[[div style=" float: center; border: dashed 1px #FFFFFF; width: 91.5%; padding: 10px;"]]
+= **Security Establishment Log:** Begin
+
+**1.** YK95 brought over designated area, and isolates its communications. 
+
+**2.** B731 is used to destroy all roads leading to the #96 origin location. 
+
+**3.**  YK95 initializes an emergency weather warning, and indicates that all people should meet in the town center where helicopters will start evacuating civilians. 
+
+**4.** X4D9 arrives in town center and begins to terminate possibly infected subjects.
+
+**5.** X4D9 terminates all human life within the #96 origin location, approximately 20% of humans were discovered to be #96-1. 
+
+**6.** A624 arrives and begins to dispose of all human corpses, and destroy any non-origin structures. 
+
+**7.** YK95 initializes the complete removal of all data relating to the #96 origin location from the human web.  
+
+**8.** #96 is discovered in an abandoned house on the out skirts on the #96 origin location, and is deemed to be secured and isolated. 
+
+= **Security Establishment Log:** End
+[[/div]]
+-----
+
++++ **Additional Notes**
+
+**Excerpt of Recorded Victims:** 
+[[collapsible show="+ Expand" hide="- Minimize"]]
+> **Victim:** Palyulina Antonina
+> 
+> **Age:** 43
+> 
+> **Gender:** F 
+> 
+> **Written Death Report:** Subject attempted to self-terminate in a purposeful car crash. Instead the subject survived the collision and became stuck in their car. The car subsequently caught fire, but all the smoke was being vented out of the car. Resulting in the victim dying via immolation. It's unknown where the pressure gauge grew on the victims body as it was completely immolated. 
+
+> **Victim:** Rastorguyev Ruslan
+> 
+> **Age:** 8 
+> 
+> **Gender:** M 
+> 
+> **Written Death Report:** Victim attempted to drink laundry detergent, but survived due to parent intervention. This resulted in a mass of sulfur and blood forming in the victim's throat 12 hours after the attempt. Pressure gauge grew out of the subjects ankle.
+
+> **Victim:** Laskutin Timofey
+> 
+> **Age:** 19
+> 
+> **Gender:** M
+> 
+> **Written Death Report:** Victim attempted to jump off of a tenth story balcony, but their legs collided with a 2nd story balcony tearing them clean off. This resulted in the victim dying of blood loss. The pressure gauge grew out of the victim's right eye. 
+
+> **Victim:** Mirokhina Tamara
+> 
+> **Age:** 52
+> 
+> **Gender:** F 
+> 
+> **Written Death Report:** Subject attempted to self terminate via the use of a firearm in their kitchen, but accidentally loaded the gun with blanks. When the subject fired the gun, it jammed, and the subject put it up to their their eye in an attempt to un-jam it. When they did this the gun fired resulting in the victim panicking, and falling onto the knife rack knocking it over. The victim then attempted to stand up and fell into the knife rack, resulting in one of the knives piercing the victims femoral artery. Which lead to the victim bleeding out. The pressure gauge grew out of the victim's chest cavity.  
+
+> **Victim:** Noskova Anfisa
+> 
+> **Age:** 86
+> 
+> **Gender:** F
+> 
+> **Written Death Report:** Victim attempted to take a lethal dose of a prescription medication, but accidentally dropped the bottle. Victim decided that it was not worth the effort, and ended up dying 8 hours later of natural causes. This resulted in an 2m wide ball of human blood, sulfur, and pressure gauges growing out from the victim. 
+[[/collapsible]]
+@@@@
+-----
+[[=]]
+ARRAY OS VERSION 9.1.60
+(c) ARRAY SOFTWARE
+[[/=]]
+-----
+
+[[/div]]
+[[/div]]
+-----
+||**Addendum.3:**||
+||Interview Log||
+
+[[div style="background-color: black; float: center; border: solid 2px #FFFFFF; padding: 1px 15px;"]] 
+[[=]]
+++ -- Investigation Report -- 
++++ RPC-285 Origin 
+[[/=]]
+-----
+
+**Written Report:** Following the discovery of RPC-285 Authority assets were diverted to find the origin of RPC-285. Investigations into the possible residents of [REDACTED] that were not present during the initial operations by The Array were conducted. Eventually, a resident that had recently left [REDACTED] for a job in a distant city was located by Authority personnel, and an interview was setup. 
+
+[[div style="float: center; border: dashed 1px #FFFFFF; padding: 10px;"]]
+= -- Interview Log --
+
+**Interviewed:** Kiril Boscinav
+
+**Interviewer:** Dr. Igorevich 
+
+**Foreword:** Translated from Russian to English. 
+
+**<Begin Log>**
+
+**Dr. Igorevich:** Hello Kiril, I am Dr. Igorvich, and I am with the government.
+
+**Kiril:** Why am I here? Did I do something wrong? If so I need to speak to my lawyer.
+
+**Dr. Igorevich:** One question at a time. First off, you didn't do anything wrong, at least to the best of our knowledge.
+
+**Kiril:** *sighs* Unfortunate...
+
+**Dr. Igorevich:** What do you mean by that?
+
+**Kiril:** I would rather not tell...
+
+**Dr. Igorevich:** Your response to my answer indicates that you believe you did something wrong. So, would you please elaborate?
+
+**Kiril:** I am not going to lie, there was a part of me hoping that you were going to punish for what happened to Gage. 
+
+**Dr. Igorevich:** Who is Gage?
+
+**Kiril:** She was my daughter, a few weeks back she... took her own life. I saw the note and the body, just hanging there. I was offered a job here a month prior to that; the only reason I stayed in ███████ was because of her. So I took the job, and left that place behind...
+
+**Kiril:** She was always so cheerful; I just don't get why she didn't talk to me about her problems... I would've listened to her, I was her father after all...
+
+**Dr. Igorevich:** Do you mind if I ask you a few questions about ███████?
+
+**Kiril:** What's there to know? It's a shithole that barely has medium residential, and just enough jobs in commercial to support the population there. 
+
+**Dr. Igorevich:** Was there anything unusual happening in ███████ before you left?
+
+**Kiril:** No
+
+**Dr. Igorevich:** Anything at all out of the ordinary?
+
+**Kiril:** Nothing at all.
+
+**Dr. Igorevich:** Before we wrap this us, do you mind if I ask what you did with your daughter's body?
+
+**Kiril:** What do you mean?
+
+**Dr. Igorevich:** Did you call the police? Do you have a funeral planned?
+
+**Kiril:** No...
+
+**Dr. Igorevich:** What did you do then?
+
+**Kiril:** I ran as fast, and as far as I could from that town. I just couldn't live in that place anymore. 
+
+**Dr. Igorevich:** That will be all, thank you for your cooperation.
+
+**Kiril:** Am I going to be punished, for what I did?
+
+**Dr. Igorevich:** No, you will not be punished. 
+
+**<End Log>**
+
+**Closing Statement:** Kiril Boscinav was later found to have been incinerated in a house fire that had occurred in his place of residence outside of ███████. Later communications with the Array revealed that he was tracked and terminated by Array units under the pretense that he might have been an RPC-285-2 instance. 
+[[/div]]
+@@@@
+[[/div]]
+[[=]]
+<< [[[RPC-284]]] | RPC-285 | [[[RPC-286]]] >>
+@@@@
+@@@@
+@@@@
+[[span class="nund"]][[collapsible show="This is all your fault" hide="You deserve this"]][[/span]]
+You could've saved her, she was dangling there crying out for help. But you just left her there, you chose to do nothing. If you would've acted she would be alive and breathing. In fact, that city would be alive and breathing. 
+
+Why didn't you save her, you had every chance to. Even before she tried to do the deed, you could've saved her. All it would've taken is a simple "hello" but I guess even that is too much to ask from people like you. 
+
+You deserve to feel the way you do right now, and you deserve what I am going to do to you.
+[[/collapsible]] 
+[[/=]]
+

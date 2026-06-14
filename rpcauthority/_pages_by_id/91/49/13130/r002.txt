@@ -1,0 +1,69 @@
+---
+title: "Death Contest"
+tags: ["contest"]
+page_id: "914913130"
+site: "rpcauthority"
+slug: "deathcontest"
+revision: 2
+revision_id: "1356254291"
+author: 3118961
+timestamp: 1601660980
+---
+
+[[module css]]
+:root {
+    --header-icon: url();
+    --body-background: black;
+    --header-background: none;
+}
+
+.content-panel {
+    display: none;
+}
+#header * {
+    display: none;
+}
+#side-bar {
+    display: none;
+}
+
+#page-title {
+    display: none;
+}
+
+#page-content {
+    font-size: 0;
+}
+
+#page-content:after {
+    font-size: 50px;
+    font-weight: bold;
+    content: "DEATH"
+}
+
+#page-content > p {
+    display: none;
+}
+
+blockquote {
+    display: none;
+
+}
+
+#page-content hr {
+    display: none;
+}
+
+#page-options-container {
+    display: none;
+}
+
+#footer {
+    display: none!important;
+}
+
+.license-area {
+    display: none;
+}
+[[/module]]
+

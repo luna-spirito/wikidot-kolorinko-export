@@ -1,0 +1,29 @@
+---
+title: "Sidenote Base"
+tags: ["component"]
+page_id: "858223846"
+site: "rpcauthority"
+slug: "component:sidenote-base"
+revision: 31
+revision_id: "1367510588"
+author: 5258122
+timestamp: 1628547908
+---
+
+[[div class="sidenote sidenoteLock-{$lock}"]]
+[[div class="sidenoteContainer sidenoteAlign-{$align} sidenoteAlign-{$content-align}"]]
+[[div class="sidenoteH"]]
+{$figure}
+[[/div]]
+[[div class="sidenoteI sidenoteIT sidenoteImage sidenoteType-{$type} sidenoteImage-{$image-location}"]]
+[[image {$name} style="width: 100%;" link={$link}]]
+[[/div]]
+[[div class="sidenoteC sidenoteContent sidenoteType-{$type}"]]
+{$contents}
+[[/div]]
+[[div class="sidenoteI sidenoteIB sidenoteImage sidenoteType-{$type} sidenoteImage-{$image-location}"]]
+[[image {$name} style="width: 100%;" link={$link}]]
+[[/div]]
+[[/div]]
+[[/div]]
+

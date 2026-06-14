@@ -1,0 +1,185 @@
+---
+title: "Black Site Theme"
+tags: ["theme"]
+page_id: "914915378"
+site: "rpcauthority"
+slug: "component:blacksite-theme"
+revision: 31
+revision_id: "1460040622"
+author: 3118961
+timestamp: 1649725866
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Black Site Theme - By Gauge_Boson and Vizlox
+    [2019 Wikidot Theme]
+*/
+ 
+:root {
+--nav-hover-background: #472d75;
+
+--body-background: #080808;
+--header-icon: url(http://www.rpc-wiki.net/local--files/component:blacksite-theme/blacksiteLogo.png);
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablacksite-theme/Black_Site_Header.png);
+ 
+--star-rating-background: rgba(0,0,0,0.15);
+--star-rating-reading-background: rgba(0,0,0,0.15);
+--binary-rating-background: rgba(0,0,0,0.15);
+ 
+--search-button-background: black;
+--search-button-hover-background: #111;
+--search-input-color: black;
+--search-input-hover: #111;
+ 
+--sidebar-header-color: white;
+--sidebar-hover-background: white;
+--sidebar-hover-color: black;
+--sidebar-mobile-open-menu-color: #c0c0c0;
+--sidebar-mobile-open-menu-border: 3px solid #c0c0c0;
+--sidebar-mobile-open-menu-background: black;
+--sidebar-mobile-background: black;
+ 
+--page-title-color: #eee;
+ 
+--blockquote-background: rgba(0,0,0,0.4);
+--blockquote-border: none;
+--blockquote-border-radius: 5px;
+--blockquote-padding: 1px 10px;
+ 
+--content-panel-border: none;
+--content-panel-background: rgba(255,255,255,0.05);
+--toc-background: rgba(0,0,0,0.15);
+--content-panel-border-radius: 10px;
+--content-panel-padding: 15px;
+
+--image-block-caption-background: rgba(0,0,0,0.15);
+ 
+--tabview-background: rgba(0,0,0,0.15);
+--tabview-button-background: rgba(0,0,0,0.4);
+--tabview-button-selected-background: #2d224f;
+--tabview-button-hover-background: #2d224f;
+--tabview-bar-color: #444;
+--tabview-button-border: none;
+--tabview-border: 2px dashed #444;
+--tabview-side-border: 2px solid var(--content-bar-background);
+--tabview-side-button-hover-background: var(--tabview-button-hover-background);
+--tabview-side-button-selected-background: #36285d;
+--tabview-side-scrollbar-thumb-background: #383249;
+--tabview-side-scrollbar-thumb-hover-background: #343041;
+
+--link-color: #7652e1;
+--link-hover-color: #a185f6;
+--new-page-color: #483a75;
+--sidebar-crit-corner-color: #714cb5;
+
+--page-background: #151515;
+--page-padding: 15px;
+--page-border-radius: 15px;
+
+--header-text-visibility: hidden;
+--header-custom-text: 'Black Site';
+
+--header-tagline-color: #e5e5e5;
+
+--star-rating-hue: 45deg;
+
+--sidenote-open-background: #291f36;
+
+--WT-content-bar-background: #666;
+ 
+--WT-nav-hover-background: #472d75;
+--WT-topbar-hover-background: var(--WT-nav-hover-background);
+    
+--WT-body-background: #0a0a0a;
+--WT-header-icon: url(http://www.rpc-wiki.net/local--files/component:blacksite-theme/blacksiteLogo.png);
+--WT-header-background: url(http://www.rpc-wiki.net/local--files/component:blacksite-theme/blackHeader.png);
+ 
+--WT-search-button-background: #000;
+--WT-search-button-hover-background: #111;
+--WT-search-input-color: #000;
+--WT-search-input-hover: #111;
+ 
+--WT-sidebar-header-color: #aaa;
+--WT-sidebar-hover-background: var(--nav-hover-background);
+--WT-sidebar-mobile-background: #111;
+    
+--WT-sidebar-color: #777;
+--WT-topbar-dropdown-color: #777;
+    
+--WT-page-title-color: #aaa;
+ 
+--WT-blockquote-background: #999;
+--WT-blockquote-border: 2px dashed #444;
+--WT-blockquote-border-radius: 0;
+--WT-blockquote-padding: 1px 10px;
+ 
+--WT-content-panel-border: none;
+--WT-content-panel-background: rgba(255,255,255,0.4);
+--WT-toc-background: #999;
+--WT-toc-border: 2px dashed #444;
+--WT-content-panel-border-radius: 10px;
+--WT-content-panel-padding: 15px;
+ 
+--WT-tabview-background: #999;
+--WT-tabview-button-selected-background: var(--nav-hover-background);
+--WT-tabview-button-hover-background: #625681;
+--WT-tabview-border: 2px dashed #444;
+--WT-tabview-button-selected-color: #eee;
+ 
+--WT-link-color: #3b17a6;
+--WT-new-page-color: #483a75;
+ 
+--WT-page-background: #999;
+--WT-page-padding: 15px;
+--WT-page-border-radius: 15px;
+ 
+--WT-header-text-visibility: hidden;
+--WT-header-custom-text: 'Black Site';
+--WT-header-tagline-custom-text: 'Jus Primae Noctis';
+ 
+--WT-header-tagline-color: #fff;
+ 
+--WT-content-box-border-color: #5f5f5f;
+ 
+--WT-sidenote-figure-closed-color: #fff;
+--WT-sidenote-figure-open-color: #fff;
+--WT-sidenote-open-background: #666;
+ 
+--WT-star-rating-background: #444;
+--WT-star-rating-border: 2px solid #666;
+--WT-star-rating-border-radius: 0;
+--WT-star-rating-box-shadow: none;
+--WT-star-rating-stars-box-shadow: none;
+--WT-star-rating-hue: 205deg;
+--WT-star-rating-filter: hue-rotate(var(--WT-star-rating-hue));
+ 
+--WT-open-themes-hover-color: #7652e1;
+--WT-basic-border-color: #444;
+    
+--WT-table-header-background: #444;
+--WT-table-header-background-alt: #666;
+--WT-table-cell-background: #999;
+--WT-table-border: 1px solid #444;
+--WT-table-header-color: #aaa;
+    
+--WT-content-bar-color: #ccc;
+
+--BT-open-themes-border: 2px solid #777;
+--BT-open-themes-background: #ddd;
+--BT-open-themes-color: #000;
+--BT-open-themes-hover-color: #3b17a6;
+--BT-open-themes-hover-border: solid 2px #7652e1;
+--BT-scrollbar-thumb-background: #39275a;
+--BT-scrollbar-thumb-hover-background: #342849;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

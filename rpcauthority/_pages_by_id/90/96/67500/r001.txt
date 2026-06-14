@@ -1,0 +1,14 @@
+---
+title: "Protection Note"
+tags: ["component"]
+page_id: "909667500"
+site: "rpcauthority"
+slug: "component:protection-note"
+revision: 1
+revision_id: "1367510528"
+author: 5258122
+timestamp: 1628547744
+---
+
+[[include component:protection-note-base name={$name}|authorized={$authorized}|unit={$unit}|site={$site}|date={$date}|reason={$reason}|color={$color}|color=white]]
+

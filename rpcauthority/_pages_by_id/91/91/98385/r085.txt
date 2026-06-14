@@ -1,0 +1,79 @@
+---
+title: "Authority Departmental Hierarchy"
+tags: ["alternative-content", "information", "non-canon"]
+page_id: "919198385"
+site: "rpcauthority"
+slug: "authority-departmental-hierarchy"
+revision: 85
+revision_id: "1361936744"
+author: 2776183
+timestamp: 1617013693
+---
+
+> **Update 3/28/21:**
+> 
+> [[size 120%]] Due to major lore changes, this page is being reworked to better reflect the current cannon and adjacent to modern standards. In its place, the old graph has been substituted using a temporary chart made by [[*user DrPierson]]. We thank you for your time. 
+> 
+> - Redeeming Qualities, MNA [[/size]]
+
+
+[[=]]
++ **Authority Departmental Hierarchy**
+[[/=]]
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/authority-departmental-hierarchy"]]]]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+[[/module]]
+
+
+[[module css]]
+#page-title {
+display: none;
+}
+
+#side-bar {
+display: none;
+} 
+
+#main-content {
+border-left: none;
+}
+
+@media (min-width: 769px) {
+#main-content {
+margin-left: -10em;
+margin-right: -10em;
+}
+}
+[[/module]]
+
+
+
+
+[[div class="preview" style="display: none;"]]
+ Chart Declassification 1A-03 (circa. 19██)] Additional Infromation and/or Future Declassification(s) Pending.]@@
+@@
+[[/div]]
+
+
+[[include component:image-block-static
+|name= http://rpcauthority.wdfiles.com/local--files/authority-departmental-hierarchy/Structure%20of%20the%20Authority%202021.png
+|width=100%
+|align=center
+|caption=[Chart Declassification 1A-15] (circa. 19██)
+
+Additional Infromation and/or Future Declassification(s) Pending.
+]]
+
+@@ @@
+
+[[include component:sidenote
+contents= [[size 120%]] Often, it is often hard to make a distinction between the hierarchy of departments and that of Authority personnel. Although there are some similarities, the contents of this info-graphic are to be used exclusively to rank specific departmental power within the organization. Under no circumstance is the lowest ranking staff members of the Presidium necessarily higher than the highest-ranking members of other divisions or the acting divisional director(s) of a specific site. 
+
+Individual rank is more ascribed based on a combination of clearance, and sub-department/facility structure. To learn more about this subject, please contact your local divisional officer(s) and/or OIRS representative. [[/size]] |
+figure= **DISCLAIMER** |
+align=center
+]]
+

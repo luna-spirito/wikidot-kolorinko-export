@@ -1,0 +1,150 @@
+---
+title: "Infobox Base"
+tags: ["component"]
+page_id: "858309836"
+site: "rpcauthority"
+slug: "component:infobox-base"
+revision: 18
+revision_id: "1367510590"
+author: 5258122
+timestamp: 1628547914
+---
+
+[[module css]]
+.infoboxTable {
+box-shadow: var(--content-box-shadow);
+}
+
+.infoboxCanon {
+display: {$canon};
+}
+
+.infoboxSeries {
+display: {$series};
+}
+
+.badgeN {
+margin-top: 1px; 
+width: 15px; 
+bottom: 5px;
+}
+
+.badgeM {
+margin-top: 1px; 
+width: 15px; 
+}
+
+.infoboxC, .infoboxP, .infoboxH, .infoboxB {
+    border: var(--table-border);
+    padding: 0.3em 0.7em;
+}
+
+.infoboxC {
+background: var(--primary-background);
+border-left: none;
+}
+
+.infoboxP {
+background: var(--primary-background);
+border-right: none;
+}
+
+.infoboxH {
+background: var(--background-3);
+text-align: center;
+}
+
+.infoboxB {
+background: var(--primary-background);
+}
+
+@media (max-width: 1399px) {
+.infobox {
+position: static;
+width: 100%;
+}
+
+.infoboxSide {
+display: none;
+}
+
+.infoboxTable {
+border-collapse: collapse; 
+border-spacing: 0; 
+margin: 0px; 
+width: 100%;
+margin-bottom: 15px;
+}
+}
+
+@media (min-width: 1400px) {
+.infobox {
+display: none;
+}
+
+.infoboxSideContainer {
+position: absolute; 
+left: 720px;
+}
+
+.infoboxTable {
+border-collapse: collapse; 
+border-spacing: 0; 
+margin: 15px; 
+width: 100%;
+}
+}
+[[/module]]
+
+[[div class="infoboxSide"]]
+[[div class="infoboxSideContainer"]]
+[[table class="infoboxTable"]]
+[[row]]
+[[cell class="infoboxH" colspan="2"]]
+**Infobox**
+[[/cell]]
+[[/row]]
+
+[[row class="infoboxCanon"]]
+[[cell class="infoboxP"]]
+**Canon:** 
+[[/cell]]
+[[cell class="infoboxC"]]
+{$canon}
+[[/cell]]
+[[/row]]
+
+[[row class="infoboxSeries"]]
+[[cell class="infoboxP"]]
+**Series:** 
+[[/cell]]
+[[cell class="infoboxC"]]
+{$series}
+[[/cell]]
+[[/row]]
+
+[[/table]]
+[[/div]]
+[[/div]]
+
+[[div class="infobox"]]
+[[table class="infoboxTable"]]
+
+[[row]]
+[[cell class="infoboxP infoboxCanon"]]
+**Canon:** 
+[[/cell]]
+[[cell class="infoboxC infoboxCanon"]]
+{$canon}
+[[/cell]]
+[[cell class="infoboxP infoboxSeries"]]
+**Series:** 
+[[/cell]]
+[[cell class="infoboxC infoboxSeries"]]
+{$series}
+[[/cell]]
+[[/row]]
+
+[[/table]]
+[[/div]]
+

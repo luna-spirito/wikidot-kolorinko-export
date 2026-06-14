@@ -1,0 +1,111 @@
+---
+title: "Protection Note Base"
+tags: ["component"]
+page_id: "909667499"
+site: "rpcauthority"
+slug: "component:protection-note-base"
+revision: 7
+revision_id: "1367510597"
+author: 5258122
+timestamp: 1628547939
+---
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+
+.note-white {
+    background: #eee;
+}
+
+.note-red {
+    background: #e88888;
+}
+
+.note-manila {
+    background: #e7c9a9;
+}
+
+.note-green {
+    background: #88e888;
+}
+
+.note-blue {
+    background: #8888e8;
+}
+
+.note-yellow {
+    background: #e8e888;
+}
+
+.heading {
+   position: relative;
+   top: -10px;
+   display: block;
+   margin-left: 3%;
+   font-family: 'Allerta Stencil', sans-serif;
+   font-size: 3em;
+   transform: rotate(-1deg);
+}
+
+.type {
+   float: left;
+   margin-right: 7px;
+   font-family: 'Special Elite', cursive;
+   font-size: 1.2em;
+}
+
+.write {
+   display: block;
+   overflow: hidden;
+   vertical-align: middle;
+   border-bottom: solid 1px #333;
+   color: #222;
+   font-family: 'Permanent Marker', cursive;
+   font-size: 1.8em;
+}
+
+.write-p {
+   display: block;
+   overflow: hidden; 
+   color: #222;
+   vertical-align: middle;
+   font-family: 'Permanent Marker', cursive;
+   font-size: 1.8em;
+}
+
+.flexcont {
+   color: #333;
+   width: 90%;
+   margin: 1em auto;
+   border: solid 2px #000;
+   box-shadow: inset 0px 0px 10px #888;
+}
+
+.flexdiv {
+   margin: 10px;
+}
+[[/module]]
+
+[[div class="flexcont note-{$color}"]]
+[[div style="width: 100%; margin-top: 5px;"]]
+[[div style="float: left; margin-left: 10px;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aprotection-theme/Protection-logo.png style="width: 90px;"]]
+[[/div]]
+[[span class="heading"]]DECLASSIFIED[[/span]]
+[[/div]]
+~~~~
+[[div class="flexdiv"]]
+[[span class="type"]]Name & Rank:[[/span]] [[span class="write"]]{$name}[[/span]]
+[[span class="type"]]Unit:[[/span]] [[span class="write"]]{$unit}[[/span]]
+[[span class="type"]]Date:[[/span]] [[span class="write"]]{$date}[[/span]]
+[[/div]]
+[[div class="flexdiv"]]
+[[span class="type"]]Authorized By:[[/span]] [[span class="write"]]{$authorized}[[/span]]
+[[span class="type"]]Site:[[/span]] [[span class="write"]]{$site}[[/span]]
+[[span class="type"]]Reason:[[/span]] [[span class="write-p"]]{$reason}[[/span]]
+[[/div]]
+[[/div]]
+~~~~
+
