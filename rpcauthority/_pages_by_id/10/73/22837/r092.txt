@@ -1,0 +1,84 @@
+---
+title: "Protection Theme"
+tags: ["theme"]
+page_id: "107322837"
+site: "rpcauthority"
+slug: "component:protection-theme"
+revision: 92
+revision_id: "1359929787"
+author: 5258122
+timestamp: 1613525833
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:protection-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Protection Theme
+    [2018 Wikidot Theme]
+
+    Created by MrBazzle, recreated by Blairin and Vizlox
+    
+    Logo by Dr Pierson
+*/
+ 
+:root {
+/* PALLET SHEET */
+--primary-text-color: #707f4c;
+
+--nav-hover-background: #355633;
+
+/* BASE COLORS */
+
+/* Generic Buttons */
+--button-border: 1px solid #32402c;
+--button-background: #192218;
+--button-hover-border: 1px solid #4f774c;
+--button-hover-background: #4f774c;
+ 
+/* Header */
+--header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aprotection-theme/PD.png);
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aprotection-theme/NuProtection_Header_True.png);
+--header-tagline-color: #dce5c7;
+--header-text-visibility: hidden;
+--header-custom-text: 'Protection Division';
+--header-tagline-custom-text: 'New Dawn Initiative';
+ --header-mobile-font-size: 75%;
+
+/* Search Bar */
+--search-button-background: #272d26;
+--search-button-hover-background: #515e50;
+--search-input-color: #465146;
+--search-input-hover: #5c7159;
+
+/* Link Colors */
+--link-color: #4e8044;
+--link-hover-color: #574c48;
+--new-page-color: #6b754b;
+
+--sidebar-crit-corner-color: #b4cc7b;
+ 
+/* Scrollbar Colors */
+--tabview-side-scrollbar-thumb-background: #3f4435;
+--tabview-side-scrollbar-thumb-hover-background: #424835;
+--BT-scrollbar-thumb-background: #3f472c;
+--BT-scrollbar-thumb-hover-background: #485132;
+
+
+/* Rating Modules */
+--star-rating-hue: 240deg;
+
+/* Sidenote Color */
+--sidenote-open-background: #1c311c!important;
+}
+
+#header h1 a, #header h2::before {
+  text-shadow: 1px 1px 10px #000;
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+

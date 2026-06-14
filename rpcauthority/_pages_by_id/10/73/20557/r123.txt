@@ -1,0 +1,81 @@
+---
+title: "Containment Theme"
+tags: ["theme"]
+page_id: "107320557"
+site: "rpcauthority"
+slug: "component:containment-theme"
+revision: 123
+revision_id: "1359929756"
+author: 5258122
+timestamp: 1613525705
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Containment Theme
+    [2018 Wikidot Theme]
+*/
+ 
+:root {
+/* PALLET SHEET */
+--primary-text-color: #af3b3b;
+
+/* Sidebar Modules */
+--star-rating-hue: 150deg; 
+--nav-hover-background: #803333;
+ 
+/* BASE COLORS */
+ 
+/* Generic Buttons */
+--button-border: 1px solid #402c2c;
+--button-background: #221818;
+--button-hover-border: 1px solid #a24444;
+--button-hover-background: #a24444;
+
+/* Header */
+--header-icon: url(http://rpcauthority.wikidot.com/local--files/component:containment-theme/containmentlogo.png);
+--header-background: url(http://rpcauthority.wikidot.com/local--files/component:containment-theme/new-containment-header.png);
+--header-tagline-color: #e5c7c7;
+--header-text-visibility: hidden;
+--header-custom-text: 'Containment Division';
+--header-tagline-custom-text: 'Clausum Secreto';
+--header-mobile-font-size: 70%;
+ 
+/* Search Bar */
+--search-button-background: #2d2626;
+--search-button-hover-background: #5e5050;
+--search-input-color: #514646;
+--search-input-hover: #715959;
+ 
+/* Link Colors */
+--link-color: #c85656;
+--link-hover-color: #d97b7b;
+--new-page-color: #754b4b;
+--sidebar-crit-corner-color: #ff7272;
+ 
+/* Sidenote Color */
+--sidenote-open-background: #311c1c!important;
+
+/* Scrollbar Modules */
+--tabview-side-scrollbar-thumb-background: #502d2d;
+--tabview-side-scrollbar-thumb-hover-background: #543030;
+--BT-scrollbar-thumb-background: #612a24;
+--BT-scrollbar-thumb-hover-background: #6b2f29;
+
+}
+ 
+/* Header Text Shadow */
+ 
+#header h1 a, #header h2::before {
+  text-shadow: 1px 1px 10px #000;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

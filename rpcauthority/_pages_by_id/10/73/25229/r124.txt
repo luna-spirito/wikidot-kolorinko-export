@@ -1,0 +1,103 @@
+---
+title: "Research Theme"
+tags: ["theme"]
+page_id: "107325229"
+site: "rpcauthority"
+slug: "component:research-theme"
+revision: 124
+revision_id: "1461041503"
+author: 7271260
+timestamp: 1652423014
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+[[/module]]
+
+[[div class="content-box"]]
+**Custom header:**
+----
+@@[[module css]]@@
+@@:root {@@
+@@--research-header-bg: url(http://rpcauthority.wikidot.com/local--files/component:research-theme/ResearchHeader1.png);@@
+@@}@@
+@@[[/module]]@@
+[[/div]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Research Theme
+    [2018 Wikidot Theme]
+*/
+ 
+:root {
+
+--research-header-bg: url(http://rpcauthority.wikidot.com/local--files/component:research-theme/ResearchHeaderDefault.png);
+
+/* PALLET SHEET */
+--primary-text-color: #88408D;
+--nav-hover-background: #662f6a;
+ 
+/* BASE COLORS */
+ 
+/* Page Title */
+--page-title-color: #99479e;
+ 
+/* Generic Buttons */
+--button-border: 1px solid #3a1b3c;
+--button-background: #442046;
+--button-hover-border: 1px solid #552858;
+--button-hover-background: #552858;
+ 
+/* Header */
+--header-icon: url(http://rpcauthority.wikidot.com/local--files/component:research-theme/researchlogo.png);
+--header-background: var(--research-header-bg);
+--header-tagline-color: #e5cae7;
+--header-text-visibility: hidden;
+--header-custom-text: 'Research Division';
+--header-tagline-custom-text: 'Arcanus Cognito';
+--header-mobile-font-size: 80%;
+ 
+/* Search Bar */
+--search-button-background: #221b32;
+--search-button-hover-background: #423664;
+--search-input-color: #3b334d;
+--search-input-hover: #442d68;
+ 
+/* Link Colors */
+--link-color: #88408D;
+--link-hover-color: #A14BA5;
+--new-page-color: #88408D;
+
+
+/* Scrollbar Colors */
+--tabview-side-scrollbar-thumb-background: #3a224c;
+--tabview-side-scrollbar-thumb-hover-background: #3e2451;
+--BT-scrollbar-thumb-background: #4b2f5f;
+--BT-scrollbar-thumb-hover-background: #523368;
+ 
+/* Rating Modules */
+--star-rating-hue: 45deg;
+ 
+/* Sidenote Color */
+--sidenote-open-background: #271c31!important;
+--sidebar-crit-corner-color: #d161d8;
+}
+ 
+/* Header Text Shadow */
+
+#header h1 a, #header h2::before {
+  text-shadow: 1px 1px 10px #000;
+}
+ 
+/* Account Options/Login Info Text */
+
+#login-status a:hover{
+    color: #c483c9;
+}
+
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+
