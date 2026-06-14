@@ -1,0 +1,65 @@
+---
+title: "(Archived) Lesser Groups of Interest"
+tags: ["archived"]
+page_id: "310862583"
+site: "rpcauthority"
+slug: "archived-gois"
+revision: 56
+revision_id: "1517692126"
+author: 5982545
+timestamp: 1706129108
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Disused.[[/span]]
+
+> This hub was used from 2018 to 2021 to host certain GOIs that were not yet officially incorporated (see [[[Canon Policy]]]). Its last entry was removed in 2021, and it has been archived to preserve its edit history. [http://rpcsandbox.wikidot.com/wip-groups-of-interest Information on lesser GOIs can now be found on the RPC Authority Sandbox.]
+
+[[module css]]
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777;
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+}
+
+.textBlock {
+    background-color: var(--primary-background);
+    border: var(--basic-border);
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; border: solid 2px #000; border-radius: 10px; margin: 0 auto; padding: 10px 30px;     background: var(--background-3);"]]
+
+[[div style="line-height: normal; text-align: center; font-size: 250%; font-weight: bold;"]]
+{{LESSER GROUPS OF INTEREST}}
+[[/div]]
+
+----
+
+[[size 112%]]
+**Overview:** This document contains various organizations and groups that have some similarity to the Authority, and are known to deal with the paranormal and the occult. They have since been defunct, gone dark, or become too small of a threat to dictate a larger categorization.
+[[/size]]
+
+* [[[Groups of Interest]]]
+* [[[Canon Policy]]]
+[[/div]]
+

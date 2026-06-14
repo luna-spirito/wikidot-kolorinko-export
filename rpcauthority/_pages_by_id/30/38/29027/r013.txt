@@ -1,0 +1,37 @@
+---
+title: "Operations"
+tags: ["hub"]
+page_id: "303829027"
+site: "rpcauthority"
+slug: "operations"
+revision: 13
+revision_id: "1379707356"
+author: 3672751
+timestamp: 1632871606
+---
+
+**Foreword:** Operations are essential to the continued functions of the Authority.
+To both keep an official record and to learn from past mistakes, all known operations are recorded here.
+
+Here are the forces that are involved in such operations, provided in an extended fashion.
+[[[list-of-all-msts| List of MSTs]]]
+
+The template can be found **[[[formatting-guide|Here]]]**
+
+[[div style="background:#1F2125; border:solid 2px #666666; border-radius: 4px;  margin: 0 auto; padding: 10px 38px; width: 70%; color: #c0c0c0;"]]
+
+= //To add a new entry, input the Operation's name and the Operation's Codename (ex. Operation Bluebeam) and hit create:// [[footnote]]  If you are unable to create a page using the module above, attempt creating a page normally by choosing your desired URL (I.e. http://rpcauthority.wikidot.com/your-page-name) and adding the tags "operation" and "document" via the "Tags" button at the bottom of the page. Other according tags may be found in the [*http://rpcauthority.wikidot.com/tagging-guide Tagging Guide] [[/footnote]]
+[[module NewPage tags="operation document"]]
+
+[[/div]]
+
+[[div class="content-panel"]]
+
+[[module ListPages tags="operation" order="rating desc" perPage="10" ]]
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+----
+[[/module]]
+[[/div]]
+

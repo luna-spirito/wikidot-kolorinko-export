@@ -1,0 +1,41 @@
+---
+title: "Книга открытая"
+tags: []
+page_id: "850316257"
+site: "scientific-alliance"
+slug: "booklink"
+revision: 0
+revision_id: "896340822"
+author: 754405
+timestamp: 1564606823
+---
+
+[[module CSS]]
+.book{$0} {display: block; border: double 6px; background: #{$0}; color: #000; padding: 0 12px; margin: 20px auto -22px; height: 7em; width: 88%}
+.book{$0} .yui-navset .yui-nav a {position: absolute; top: -2px; right: -14px; z-index: 1; background: transparent !important; background-image: url(/local--files/book/Book.png) !important; font-size: 100%; height: 7em; width: 7px}
+.book{$0} .yui-navset .yui-nav .selected a {visibility: hidden}
+.book{$0} .yui-navset .yui-nav li em {visibility: hidden}
+.book{$0} a {color: #555}
+.book{$0}:hover a {color: #B01}
+
+.book{$0}:hover {background: #FFF}
+.bookECCCAD:hover .yui-nav a {background: #F6E5D6 !important; background-image: url(/local--files/book/Book.png) !important}
+.bookDDBDBE:hover .yui-nav a {background: #EEDEDF !important; background-image: url(/local--files/book/Book.png) !important}
+.bookCECEAD:hover .yui-nav a {background: #E7E7D6 !important; background-image: url(/local--files/book/Book.png) !important}
+.bookBECADE:hover .yui-nav a {background: #DFE5EF !important; background-image: url(/local--files/book/Book.png) !important}
+.book{$0}:hover .yui-nav a {padding: 0 1px 0 0; margin: 1px}
+[[/module]]
+
+[[div class="book{$0}" style="background-image: url(/local--files/book/Book.png); background-position: 0 -7px"]]
+[[tabview]][[tab]][[div style="position: absolute; top: 0; right: -12px; z-index: 0; background: #{$0}; height: 7em; width: 8px"]]
+[[/div]][[div style="font-size: 120%; margin: -5px 0 5px"]]
+**[[[{$booklink}|{$1}]]]**[[/div]][[span style="line-height: 7px"]]{$2}[[/span]]
+
+[[span style="float: right; opacity: 0.5; margin: 2px 5px"]],,{$4},,[[/span]]{$3}
+[[/tab]][[tab]][[div style="position: absolute; top: 0; right: -12px; z-index: 0; background: #FFF; height: 7em; width: 8px"]]
+[[/div]][[div style="font-size: 120%; margin: -5px 0 5px"]]
+**[[[{$booklink}|{$1}]]]**[[/div]][[span style="line-height: 7px"]]{$5}[[/span]]
+
+{$6}
+[[/tab]][[/tabview]][[/div]]
+

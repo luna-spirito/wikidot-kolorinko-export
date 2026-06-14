@@ -1,0 +1,355 @@
+---
+title: "Tagging Guide"
+tags: ["guide"]
+page_id: "172682102"
+site: "rpcauthority"
+slug: "tagging-guide"
+revision: 122
+revision_id: "1542321535"
+author: 5982545
+timestamp: 1772134564
+---
+
+[[module CSS]]
+:root {
+    --v1: #333;
+    --WT-v1: #aaa;
+
+    --v2: #2f2f2f;
+    --WT-v2: #eee;
+
+    --v3: #363636;
+    --WT-v3: #ccc;
+}
+
+#page-title {
+    display: none;
+}
+
+table.wiki-content-table {
+    border: 1px solid var(--v1);
+    background: var(--v2);
+    margin: 10px 0 15px;
+    box-shadow: none;
+}
+
+table.wiki-content-table td {
+    border: none;
+    padding: 1px;
+    background: none;
+}
+
+table.wiki-content-table td:first-child {
+    font-weight: bold;
+    width: 20%;
+}
+
+table.wiki-content-table tr:nth-child(even) {
+    background: var(--v3);
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Tagging Guide
+[[/div]]
+
+Tagging your articles is an important part of article creation. It helps users find specific kinds of articles and it also helps staff archive articles effectively. This page is a guide on how to properly tag your articles.
+
+If you are unsure of how to tag your article, contact a site staff member. 
+
+**Do not create tags that are not on this list.** Contact a staff member if you believe a new tag should be created.
+
+[[*user Thermicline]] is in charge of managing the tagging system. If you have a suggestion for the tagging system, send a message to them.
+
++++ Basic Tags
+The most basic tags separate different basic page types.
+|| rpc || - Designates a main-list RPC article. ||
+|| rpc-j || - Designates a joke article. ||
+|| tale || - Designates a tale. ||
+|| document || - Designates an in-universe document. ||
+
+[[div class="content-panel"]]
+[[=]]
+++ RPC-specific tags
+[[/=]]
+
++++ Object Classes
+An RPC's object class is implemented as separate tags for both containment rating and threat level. See the [[[Object Classes|Object Classes Page]]] for information on the meaning of these tags.
+[[collapsible]]
+++++ Lethality Ratings
+|| white ||
+|| yellow ||
+|| orange ||
+|| red ||
+|| purple ||
+|| black ||
+++++ Containment Ratings
+|| alpha ||
+|| beta ||
+|| gamma ||
+|| omega ||
+
++++ Secondary Classes
+|| explained ||
+|| neutralized ||
+|| utility ||
+
+++++ Other Classes
+|| theta ||
+|| epsilon ||
+[[/collapsible]]
+
++++ Hazards
+Full explanations for these tags can be found on the [[[threats-hazards|Threats and Hazards page]]]. They are used exclusively for RPCs and are subject to change as hazards are edited, removed, or added. 
+[[collapsible]]
+|| esoteric-hazard || - Designates an article with a hazard that is not part of the official hazards list. ||
+|| non-hazardous || - Designates an article that does not have any hazards. ||
+
+|| aggression-hazard ||
+|| ballistic-hazard ||
+|| climatological-hazard ||
+|| geological-hazard ||
+|| grouped-hazard ||
+|| invisibility-hazard ||
+|| sapient-hazard ||
+|| sentient-hazard ||
+|| transmutation-hazard ||
+|| bio-hazard ||
+|| contact-hazard ||
+|| corrosive-hazard ||
+|| electromagnetic-force-hazard ||
+|| explosive-hazard ||
+|| extreme-temperature-hazard ||
+|| radiation-hazard ||
+|| temporal-hazard ||
+|| toxic-hazard ||
+|| destabilization-hazard ||
+|| extra-dimensional-hazard ||
+|| gravitational-hazard ||
+|| teleportation-hazard ||
+|| auditory-hazard ||
+|| emotional-hazard ||
+|| ideological-hazard ||
+|| info-hazard ||
+|| memory-alteration-hazard ||
+|| mind-control-hazard ||
+|| mind-regression-hazard ||
+|| sensory-hazard ||
+|| visual-hazard ||
+|| psychotronic-hazard ||
+
+++++ Additional Property Hazards
+|| animated-hazard ||
+|| aquatic-hazard ||
+|| digital-hazard ||
+|| ecological-hazard ||
+|| extra-terrestrial-hazard ||
+|| immeasurable-hazard ||
+|| incorporeal-hazard ||
+|| mechanical-hazard ||
+|| microscopic-hazard ||
+|| organic-hazard ||
+|| regenerative-hazard ||
+|| titanic-hazard ||
+|| tychokinetic-hazard ||
+[[/collapsible]]
+
+Other RPC tags:
+
+|| uncontained || - Designates an uncontained RPC. ||
+[[/div]]
+
+[[div class="content-panel"]]
+[[=]]
+++ Cosmic Embers Canon Tags
+[[/=]]
+
+|| cosmic-embers || - Designates an article within the Cosmic Embers Canon. (Any article without this tag is considered mainline canon.) ||
+|| grp || - Designates an anomaly of the GRPC in the Cosmic Embers Canon. ||
+|| ce-lore || - Designates a page that expands the lore of the Cosmic Embers universe. ||
+
+[[/div]]
+
+[[div class="content-panel"]]
+[[=]]
+++ Document-specific tags
+[[/=]]
+
+|| operation || - Designates an Authority operation. ||
+|| patent || - Designates a patent document. ||
+|| acquired-media || - Designates an acquired media page. ||
+|| site || - Designates a site. ||
+|| personnel || - Designates a personnel document. ||
+|| mst || - Designates an MST page. ||
+
+These tags separate pages in the acquired media section:
+
+|| footage || - Designates footage acquired by the Authority. ||
+|| goi-doc || - Designates a Group of Interest document acquired by the Authority. ||
+|| photograph || - Designates photographs acquired by the Authority. ||
+|| writings || - Designates writings acquired by the Authority. ||
+[[/div]]
+
+Other Content Tags:
+
+|| alternative-content || - Designates any article that is not an RPC, tale or document (see below). ||
+|| art || - Designates an art page. ||
+
+These tags are for labeling tales and documents for navigation purposes: [[# tale-topics]]
+
+|| alt-timeline || - Designates a tale or document taking place in an alternate timeline to the baseline Authority. ||
+|| comedy || - Designates a tale or document with themes of comedy. ||
+|| containment || - Designates a tale or document that involves the containment of anomalies. ||
+|| continuation || - Designates a tale or document that is a direct continuation of another page. (This tag is blacklisted from the "Random Tale" button.) ||
+|| eoi-tale || - Designates a tale or document that is related to groups, governments, or persons of interest. ||
+|| history || - Designates a tale or document involving the history of the RPC Authority universe. ||
+|| horror || - Designates a tale or document with themes of horror. ||
+|| military || - Designates a tale or document with themes of military. ||
+|| noir || - Designates a tale or document with themes of murder, mystery, and conspiracy. ||
+|| non-canon || - Designates a tale or document that is not canon. ||
+|| research || - Designates a tale or document that involves research. ||
+|| short || - Designates a tale or document that is less than 1000 words. ||
+
+These tags go on division tone articles:
+
+|| research-tone || - Designates a research-tone article. See [[[Research Tone]]]. ||
+|| protection-tone || - Designates a protection-tone article. See [[[Protection Tone]]]. ||
+|| containment-tone || - Designates a containment-tone article. ||
+|| administration-tone || - Designates an administration-tone article. See [[[Administration Tone]]]. ||
+|| aci-tone || - Designates an ACI-tone article. See [[[ACI-TONE]]]. ||
+
+These tags go on pages with badges:
+
+|| toparticle || - Designates an article that has been #1 on the top rated page with at least 25 votes. ||
+|| topjoke || - Designates an article that has been the top joke article on the top rated page with at least 25 votes. ||
+|| top10 || - Designates an article that has been in the top 10 on the top rated page with at least 25 votes. ||
+|| contestwinner || - Designates an article that won first place in a contest. ||
+|| runnerup || - Designates an article that won second place in a contest. ||
+|| challengewinner || - Designates an article that won a writers' challenge. ||
+
++++ Miscellaneous Tags
+
+|| 001 || - Designates an RPC-001 proposal. ||
+|| aedf || - Designates a page related to the Authority Extraterrestrial Defence Force. ||
+|| archived || - Designates an archived page, archived because of deletion. (see [[[Archived Pages]]]) ||
+|| archived-by-author || - Designates an archived page, archived per author request. (see [[[Archived Pages]]]) ||
+|| author-page || - Designates an individual author page. ||
+|| co-authored || - Designates an article with multiple main authors. ||
+|| collaboration || - Designates an article open for contributions. ||
+|| component || - Designates an page meant for the operation of the website (Advised not to touch, and will likely be locked.) ||
+|| contest || - Designates a contest hub. ||
+|| event || - Designates an Event hub. ||
+|| eventwinner || - Designates an Event contest winning article. ||
+|| format || - Designates an article giving an example of a format ||
+|| format-break || - Designates an article that subverts the typical format. ||
+|| guide || - Designates a guide. ||
+|| hub || - Designates a hub. ||
+|| information || - Designates an out-of-universe informational page. ||
+|| lore || - Designates a page that expands the lore of the main-line RPC Authority universe. ||
+|| policy || - Designates a policy page. ||
+|| redirect || - Designates a redirect page.[[footnote]] **Note:** To tag a redirect page after it's created, first, find the redirect page's full link and then add "noredirect/true" to its backend. [[/footnote]] ||
+|| remake || - Designates an article which fell below deletion and was rewritten and re-uploaded by the original author. ||
+|| reserved || - Designates a page that has been reserved by staff. ||
+|| rewrite || - Designates a previously posted article which was majorly rewritten by someone other than the original author, or in collaboration with someone other than the original author, and re-uploaded. ||
+|| supplemental || - Designates a page that acts as an extension to another article. ||
+|| test-log || - Designates a testing log linked to the Research Division. ||
+|| theme || - Designates a theme page. ||
+|| translated || - Designates an article with translations. ||
+|| translation || - Designates a translation article. ||
+
++++ Entity of Interest Tags
+[[collapsible]]
+These tags go on articles that have a **significant** connection to an AOI or GOI. 
+|| academy || - Designates an article related to the Academy of True Art. ||
+|| aep || - Designates an article related to the Association for Ecclesiastical Primacy (AEP). ||
+|| amazing.co || - Designates an article related to Amazing! Co. ||
+|| bluebook || - Designates an article related to Project Blue Book. ||
+|| cetaces-kin || - Designates an article related to Cetace's Kin. ||
+|| children-of-nihil || - Designates an article related to The Children of Nihil. ||
+|| church-of-malthus || - Designates an article related to The Church of Malthus. ||
+|| foa || - Designates an article related to BündesOkkultAbteilung. ||
+|| gard || - Designates an article related to the German Anomalous Research Division. ||
+|| gear || - Designates an article related to the Global Enterprise for Advanced Research. ||
+|| kabushiki-kawaii || - Designates an article related to Kabushiki Kawaii. ||
+|| mi13 || - Designates an article related to Military Intelligence Section Xiii. ||
+|| nucorp || - Designates an article related to Nucorp Industries. ||
+|| pcaao || - Designates an article related to the People's Committee for the Acquisition of Anomalous Objects. ||
+|| rcpa || - Designates an article related to the Righteous Central Protection Authority. ||
+|| remnants || - Designates an article related to the Remnants. ||
+|| the-array || - Designates an article related to The Array. ||
+|| unaac || - Designates an article related to the United Nations Anomalous Activities Committee. ||
+|| vssp || - Designates an article related to the The Vatican Secretariat of Supernatural Primacy (VSSP). ||
+[[/collapsible]]
+
++++ Global Directorate Tags
+[[collapsible]]
+These go on articles that have a connection to a Global Director.
+|| gd-schl ||
+|| gd-cmdr ||
+|| gd-arch ||
+|| gd-north ||
+|| gd-south ||
+|| gd-west ||
+|| gd-east ||
+|| gd-afri ||
+|| gd-eura ||
+|| gd-asia ||
+|| gd-ocea ||
+|| gd-antc ||
+|| gd-war ||
+|| gd-aedf ||
+[[/collapsible]]
+
++++ Contest Tags
+[[collapsible]]
+|| 001c || - Designates an RPC-001 2018 contest entry. ||
+|| 004 || - Designates a RPC-004 2019 contest entry. ||
+|| below-zero || - Designates a Below Zero 2019 Article entry. ||
+|| below-zero-art || - Designates a Below Zero 2019 Art entry. ||
+|| bob || - Designates an Autumn 2019 (Black Op Buddies) entry. ||
+|| broaderhorizons2022 || - Designates a Broader Horizons 2022 writing entry. ||
+|| budgetcuts || - Designates a Budget Cuts 2021 writing entry. ||
+|| budgetcuts-art || - Designates a Budget Cuts 2021 art entry. ||
+|| budgetcuts-research || - Designates a Budget Cuts 2021 Research entry. ||
+|| budgetcuts-protection || - Designates a Budget Cuts 2021 Protection entry. ||
+|| budgetcuts-containment || - Designates a Budget Cuts 2021 Containment entry. ||
+|| cair-aisling || - Designates a Cair Aisling 2020 Article entry. ||
+|| cair-aisling-art || - Designates a Cair Aisling 2020 Art entry. ||
+|| caribbean-deep || - Designates a Caribbean Deep 2022 contest entry. ||
+|| caribbean-deep-art || - Designates a Caribbean Deep 2022 art contest entry. ||
+|| caribbean-deep-format || - Designates a Caribbean Deep 2022 contest format page. ||
+|| divisioncontest || - Designates a Division Contest 2019 entry. ||
+|| done-and-dusted || - Designates a Done and Dusted Contest 2024 entry. ||
+|| fail-safe || - Designates a Fail-Safe 2019 Article entry. ||
+|| fail-safeart || - Designates a Fail-Safe 2019 Art entry. ||
+|| halloweenrpc || - Designates a Halloween 2018 RPC entry. ||
+|| halloweenphoto || - Designates a Halloween 2018 Photo entry. ||
+|| halloweenwritings || - Designates a Halloween 2018 Acquired Writings entry. ||
+|| hazardpoker || - Designates a Hazard Poker 2025 entry. ||
+|| j2020 || - Designates a 2020 April Fools contest entry. ||
+|| j2020art || - Designates a 2020 April Fools art and memes entry. ||
+|| jcontest || - Designates a 2019 Joke contest entry. ||
+|| mincon2023 || - Designates a Minimalism Contest 2023 writing entry. ||
+|| minconart2023 || - Designates a Minimalism Contest 2023 art entry. ||
+|| misfortune2020 || - Designates a Misfortune Contest 2020 entry. ||
+|| missingrpc || - Designates a Missing RPC 2023 entry. ||
+|| mythsmagic-writing || - Designates a  Myths & Magic Contest 2021 writing entry. ||
+|| new-frontier || - Designates a New Frontier 2021 contest entry. ||
+|| new-frontier-art || - Designates a New Frontier 2021 art contest entry. ||
+|| new-frontier-format || - Designates a New Frontier 2021 contest format page. ||
+|| newrpc || - Designates a New Beginnings 2018 contest entry. ||
+|| sub-vesuvia || - Designates a Sub Vesuvia 2020 Article entry. ||
+|| sub-vesuvia-art || - Designates a Sub Vesuvia 2020 Art entry. ||
+|| trh || - Designates a Random Hazards 2020 contest entry. ||
+|| winterrpc || - Designates a Winter 2018 RPC entry. ||
+|| wintertale || - Designates a Winter 2018 tale entry. ||
+
+**Note:** Tags for [[[authority-events-hub|event contests]]] may also be used for tagging related articles after the contests have ended. The "budgetcuts" and "budgetcuts-art" tags may be used for post-contest entries to that event, but do not use the division team tags. 
+[[/collapsible]]
+
+[[footnoteblock]]
+
+----
+
+= **Tagging Guide** | [[[system:page-tags|Page Tags]]] | [[[search:tags|Tag Search]]]
+

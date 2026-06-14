@@ -1,0 +1,14 @@
+---
+title: "Image Enlarge"
+tags: ["component"]
+page_id: "255288697"
+site: "rpcauthority"
+slug: "component:image-enlarge"
+revision: 2
+revision_id: "1367510674"
+author: 5258122
+timestamp: 1628548246
+---
+
+[[include component:image-block-base name={$name}|caption={$caption}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right|enlarge=true]]
+

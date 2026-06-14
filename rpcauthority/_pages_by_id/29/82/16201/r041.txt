@@ -1,0 +1,318 @@
+---
+title: "RPC-616"
+tags: ["animated-hazard", "extra-dimensional-hazard", "extreme-temperature-hazard", "gamma", "red", "rpc", "sensory-hazard"]
+page_id: "298216201"
+site: "rpcauthority"
+slug: "rpc-616"
+revision: 41
+revision_id: "1544072796"
+author: 7013424
+timestamp: 1779463495
+---
+
+[[include component:rate title=rpc-616]]
+
+[[div style="center no-repeat; background-color: #010101; float: center; border: solid 2px black; padding: 1px 15px; "]]
+[[=]]
+[[=image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/MainSign.png]]
+
++ [[size 150%]][[span style="color:#971616;"]]<< ATTENTION >>[[/span]][[/size]]
+
+++++ THE FOLLOWING FILE IS RESTRICTED FOR SELECT LEVEL 4 AND LEVEL 5 PERSONNEL ONLY
+------
+++++ SECURITY SCREENING IS REQUIRED TO PROCEED.
+{{Loading@@...@@}}
+
+{{Loading@@...@@}}
+
+{{Loading@@...@@}}
+
+{{Access-Code/616 Clearance Accepted@@...@@}}
+
+{{Level 4/5 Credentials Requiered@@...@@}}
+
+[[/=]]
+[[/div]]
+
+[[=]]
+**INPUT CREDENTIALS BELOW**
+[[/=]]
+
+[[html]]
+<style>
+a:link {
+    color: #5295e1;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #5295e1;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #84b7f5;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #84b7f5;
+    background-color: transparent;
+    text-decoration: none;
+}
+</style>
+<style>
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    color: white;
+    font-size: 0.82em;
+    line-height: 141%;
+}
+
+.scp-image-block {
+    border: solid 1px #666;
+    box-shadow: 0 1px 6px rgba(0,0,0,.25);
+    width: 300px;
+}
+ 
+.scp-image-block.block-right {
+        float: right;
+    clear: right;
+    margin: 0 2em 1em 2em;
+}
+ 
+.scp-image-block.block-left {
+    float: left;
+    clear: left;
+    margin: 0 2em 1em 0;
+}
+ 
+.scp-image-block.block-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+.scp-image-block img {
+    border: 0;
+    width: 300px;
+}
+.scp-image-block .scp-image-caption {
+    background-color: #222;
+    border-top: solid 1px #666;
+    padding: 2px 0;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+    line-height: 141%;
+}
+.scp-image-block > p {
+    margin: 0;
+}
+.scp-image-block .scp-image-caption > p {
+    margin: 0;
+    padding: 0 10px;
+}
+
+.collapsible-activator {
+    color: #5192e1;
+    cursor: pointer;
+    transition: color 0.5s ease;
+    user-select: none;
+}
+
+.collapsible-activator:hover {
+    color: #84b7f5;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@keyframes fadein {
+    from {opacity: 0.0}
+    to {opacity: 1.0}
+}
+
+blockquote {
+    border: 1px dashed #999;
+    padding: 13.12px;
+    background-color: #111;
+}
+
+.collapsible-closed {
+    display: none;
+}
+
+.collapsible-open {
+    display: block;
+    animation: fadein 0.2s ease-out;
+}
+
+@keyframes popin {
+    from {opacity: 0.0; transform: scale(0.95)}
+    to {opacity: 1.0; transform: scale(1.0)}
+}
+
+.pop-in {
+    animation: popin 0.75s ease-out;
+}
+</style>
+<body style="text-align: center;">
+
+<script>
+var userName;
+
+function getName() {
+    userName = document.getElementById('name-input').value;
+    var welcomeBlock = document.createElement('span');
+    welcomeBlock.innerHTML = '<em>Welcome, ' + userName + '.</em>';
+    document.getElementById('name-form').parentNode.replaceChild(welcomeBlock, document.getElementById('name-form'));
+    document.getElementById('hidden-content').style.display = "block";
+    document.getElementById('hidden-content').className += " pop-in";
+
+    for (var i = 0; i < document.getElementsByClassName('name-fill').length; i++) {
+        document.getElementsByClassName('name-fill')[i].innerHTML = userName;
+    }
+}
+</script>
+
+<form id="name-form">
+<input type="text" id="name-input" name="name"><input type="button" value="Submit" onclick="getName();">
+</form>
+
+<div id="hidden-content" style="text-align: left; display: none">
+
+<br><br>
+
+<div class="scp-image-block block-right" style="width:300px;"><a href="http://rpcauthority.wikidot.com/local--files/rpc-616/door-to-hell5%5B2%5D.jpg" target="_blank"><img src="http://rpcsandbox.wdfiles.com/local--files/d4rkseid-contest/door-to-hell5[2].jpg" style="width:300px;" alt="door-to-hell5[2].jpg" class="image"></a>
+<div class="scp-image-caption" style="width:300px;">
+<p>Still image of RPC-616 taken by remotely-operated drone during routine video observation.</p>
+</div>
+</div>
+
+<img src="http://www.rpcauthority.wikidot.com/local--files/component:icons/gamma-red.png" style="float: left; margin: 0 15px 25px 0"><strong>Registered Phenomena Code:</strong> 616
+<br><br>
+<strong>Object Class:</strong> Gamma-Red
+<br><br>
+<strong>Hazard Types:</strong> Extra-Dimensional, Extreme Temperature, Sensory, Animated
+<br><br>
+<strong>Containment Protocols:</strong> Under no circumstances are any non-level 4 or lower Authority Personnel allowed to visit Installation-616 (area in which RPC-616-1 is held) unless approved by a member of the Global Director Council. Testing applications are to be submitted no less than 2 months in advance with a complete list of goals, prospected outcomes, and test subjects.
+<br><br>
+Installation-616 is to be fenced off using electrically-powered voltage gates with a running 24/7 and domed off using phase change material with an opaque coloring to prevent any possible sight of RPC-616 by unauthorized agents or the public. <s>Authority agents are to patrol the perimeter of the fence, only stopping every 6 hours to recite the phrase: "Бог сохранит меня"</s> (<em>See Updated Containment Protocols for further information.</em>)
+<br><br>
+Installation-616 is to be monitored daily through the use of video-drones capable of resisting extreme temperatures. No fewer than three drones, piloted by Authority Personnel who have scored at least a 24 out of 32 on the Schweps-Bridger Neuropsychology Cognitohazard exam, are to monitor the area for any major temperature, geography, or population changes. If any of these changes arise, Authority personnel monitoring Installation-616 are to immediately report to the acting Head Researcher.
+<br><br>
+<strong>Updated Containment Protocols:</strong> As of 10/6/20██, no human Authority personnel are allowed to surround Installation-616 due to the effective cognitohazardous threat arising from RPC-616. All monitoring should be done remotely by drone. Any humans seen around the area of RPC-616 should be apprehended and taken to Site-008 and administered Class A amnesics. Any individual of the <em>Capra aegagrus hircus</em> species should be eliminated and immediately incinerated.
+<br><br>
+<strong>Description:</strong> RPC-616-1 is the classification given to an anomalous lava-filled crater currently located in the northern Siberian section of ████████, Russia. How the lava or hole formed in its current location is currently unknown to Authority personnel; however, research into the origins of RPC-616 is ongoing. Although the average temperatures around RPC-616-1 reach -62 degrees Celsius, the center of Installation-616 can reach temperatures up to 500 degrees Celsius. Even with this extreme temperature surrounding the area, the ice and snow around the area do not exhibit any signs of melting or evaporation.
+<br><br>
+From RPC-616-1, screaming and sounds of agony can be heard by personnel surrounding Installation-616; however, no recording of said screaming can be picked up though drone surveillance. Personnel surrounding Installation-616 who perceive the screaming steadily for more than 6 hours resolve to depression, anxiety, and in some cases, psychosis. This effect is not exhibited in Authority drone pilots who have monitored the area for more than 6 hours straight. The ongoing theory for this effect is that RPC-616 emanates a secondary Cognito-hazardous effect leading to various forms of mental degradation.
+<br><br>
+A tertiary effect arises in humans and individuals of the <em>Capra aegagrus hircus</em> (Domesticated Goat) species surrounding Installation-616. Humans are seen to experience auditory and visual hallucinations along with extreme mental degradation. Both humans and individuals of <em>Capra aegagrus hircus</em> are seen to migrate towards RPC-616 in an attempt to reach the crater. So far, no successful attempts have been observed. Due to observation and various incidents resulting in increasingly dangerous outbursts of lava, it is hypothesized that once a certain number of individuals reach the crater of RPC-616, [DATA EXPUNGED] will occur resulting in an <a href="http://www.rpc-wiki.net/rpc-963/" target=" _blank">omega class-"End of Tribulation" event</a> which will eliminate approximately 95% of all species on Earth. 
+<br><br>
+After consultation with various Nivaldian texts and following discovery of RPC-███, it was hypothesized RPC-616 is a possible spawning ground for extra-dimensional beings capable of causing mass extinction events. Further investigation is necessary to determine the true origins and capabilities of RPC-616 and whether it creates these beings or if it is simply an opening from other dimensions. 
+<br><br>
+RPC-616-2 is an unidentifiable humanoid figure who originates from RPC-616-1. Every instance of RPC-616-2 is uniform save for the type of clothing each figure wears. Also, every instance of RPC-616-2 follows the same course of direction after leaving RPC-616-1: RPC-616-2 climbs out of RPC-616-1, it begins to walk towards the eastern wall of Installation-616 until it reaches the phase change material barrier at the end of Installation-616. Once it reaches this point, it fades away into a dust-like substance back into RPC-616-1. It is unknown whether instances of RPC-616-2 are recycled and used multiple times; however, no two instances have been seen to wear the same attire <s>and as of now, no more than 3 figures out at one time have been observed.
+</s> (<em>Load Addendum 616-B for further information.</em>)
+<br><br>
+<strong>Discovery:</strong> RPC-616-1 came into Authority knowledge after reports of nearby villagers hearing screaming and sounds of torture coming from a nearby area. Following these reports of screaming, mass amounts of cases involving psychosis, newly onset anxiety, depression, and other degenerative mental illnesses arose. 
+<br><br>
+Along with the new cases of psychotic diseases, reports of villagers near RPC-616-1 having dreams of a massive horned figure surrounded by faceless human-like formations calling people towards Installation-616 have been found. Although sporadically seen during the initial reporting of RPC-616-1, such descriptions began to increase after Authority intervention. One such description written on a note was found in the house of a 76-year old Russian man. The man was found to be dead by hanging after cutting pentagram-shaped pictures into his forearms and legs. Although having cut major arteries during the process, barely any blood was seen under or around the man which could suggest murder through cult activity. 
+<br><br>
+<span id="collapsible-1-activator" class="collapsible-activator" data-status="closed" data-closedtext = "LOAD ADDENDUM 616-A" data-opentext = "Now loading: Addendum 616-A" onclick="toggleCollapse('collapsible-1');">LOAD ADDENDUM 616-A</span>
+<div id="collapsible-1" class="collapsible-closed">
+<br>
+<strong>Addendum 616-A: Note found on hanged villager</strong>
+<blockquote>I have seen them. The horned one. Surrounded by the faceless creatures. They all stare back but say nothing. I feel them coming closer yet they are never here. Why won't they take me yet. The endless screams draw me closer. I am ready for them yet no one hears my pleadings. The horned on calls me closer. There is only one way. I am ready, O great one. Give me the power to give back to you. I will join the faceless screaming, for you. O great horned one my screams will be for you and you alone. I am coming. The screams have flowed through me and I am ready to join. I will come. I shall come. I am coming.</blockquote>
+</div>
+<br>
+<span id="collapsible-2-activator" class="collapsible-activator" data-status="closed" data-closedtext = "LOAD ADDENDUM 616-B" data-opentext = "Now loading: Addendum 616-B" onclick="toggleCollapse('collapsible-2');">LOAD ADDENDUM 616-B</span>
+<div id="collapsible-2" class="collapsible-closed">
+<br>
+<strong>Addendum 616-B: Video log taken by Routine Drone 616.3.M</strong>
+<blockquote><strong>Date Recorded:</strong> ██/██/20██<br>
+<strong>Drone Pilot:</strong> Matthew ██████<br>
+<strong>Drone ID:</strong> 616.3.M<br>
+<strong>Description:</strong> The following is a description of the routine surveillance of Instillation-616 on ██/██/20██. All actions are in real time and any observed objects or items found on instances of RPC-616-2, aside from clothing, have been taken and examined <em>(See Addendum 616-B for further information)</em>. Description is given in time of occurrence.</blockquote>
+<blockquote>
+<div class="scp-image-block block-right" style="width:300px;"><a href="http://rpcauthority.wikidot.com/local--files/rpc-616/RPCcontest.jpg" target="_blank"><img src="http://rpcauthority.wikidot.com/local--files/rpc-616/RPCcontest.jpg" style="width:300px;" alt="RPCcontest.jpg" class="image"></a>
+<div class="scp-image-caption" style="width:300px;">
+<p>Instance of RPC-616-2 crawling out of crater. Taken by surveillance drone 616.3.M.</p>
+</div>
+</div>
+<strong>Begin Log.</strong><br>
+<strong><0023>:</strong> An instance of RPC-616-2 is seen to climb out the crater. Figure is seen to be wearing red scarf and nothing else.<br>
+<strong><0027>:</strong> One more instance of RPC-616-2 begins to climb out of RPC-616-1. Blue scarf is seen around the neck of RPC-616-2. Figure is seen to be badly burnt and suffering from extreme malnutrition.<br>
+<strong><0034>:</strong> The first instance of RPC-616-2 is seen to be approaching eastern wall of Instillation-616. Screaming can be heard by drones for the first time. Screaming is heard to originate from both inside the crater and from RPC-616-2 instances.<br>
+<strong><0039>:</strong> First instance of RPC-616-2 touches eastern wall and begins to vaporize instantly. Residual dust turns back towards RPC-616-1 and is quickly assimilated back into the lava pit. Screaming can be heard louder now and the lava pit can be seen bubbling and spitting out molten rock near the crater.<br>
+<strong><0049>:</strong> Drone 616.3.M lands near the site of vaporization and pick up the red scarf left behind.<br>
+<strong><0052>:</strong> Screaming is deafening at this point and the lava bursts can be seen reaching peaks of 45 m high. Drone pilots are advised to monitor at a higher altitude.<br>
+<strong><0055>:</strong> Second instance of RPC-616-2 is seen to touch the eastern wall and rapidly vaporize in the same fashion as the first instance. Screaming and sound of torture coming from inside RPC-616-1 are abruptly stopped and the lava eruptions fail to continue after the second instance of RPC-616-2 is assimilated back into the crater. <br>
+<strong><0057>:</strong> Drone 616.3.M is seen to pick up blue scarf with writing on the interior in an unknown language seen. Drone 616.3.M drops acquired items off at deposit station and returns to main observation course.<br>
+<strong><0058>:</strong> Drone footage is seen to static and fragment during live feed as the lava eruptions start up again. Screaming and sounds of agony and terror can be heard reverberating throughout instillation-616.<br>
+<strong><0111>:</strong> Mass amounts of RPC-616-2 instances are seen to climb out of the crater and launch themselves towards the drones and surrounding walls. Instant vaporization occurs at contact points with walls.<br>
+<strong><0118>:</strong> Instances begin to climb and trample over one another in attempts to reach observation drones. Massive piles of scorched and malnourished bodies can be see scattered throughout Instillation-616.<br>
+<strong><0124>:</strong> The massive piles of burnt bodies reach Drone 616.1.D and attempt to destroy it. Instant vaporization and assimilation into the crater can be seen as the piles disintegrate into dust and vapor.<br>
+<strong><0127>:</strong> Lava begins to erupt and reaches drone flight altitude.<br>
+<strong><0130>:</strong> Video footage and sound cut out.<br>
+<strong>End Log.</strong>
+</blockquote>
+</div>
+<br>
+<span id="collapsible-3-activator" class="collapsible-activator" data-status="closed" data-closedtext = "LOAD ADDENDUM 616-C" data-opentext = "Now L̷͜o̵̸à̕d̶̛i̵̷ǹg͏: Addendum 616-Ć̨͢" onclick="toggleCollapse('collapsible-3');">LOAD ADDENDUM 616-C</span>
+<div id="collapsible-3" class="collapsible-closed">
+<br>
+<strong>Addendum 616-C: Notes found on RPC-616-2 instances</strong>
+<blockquote><strong><u>Note 1 - Front Side:</u></strong><br>What is this place. Its blistering hot yet cold and alone at the same time. I don't understand what this is. I don't remember who I am. I don't remember what I am. All I know is the screaming never ends. The torture never stops. The fear is always there, lingering just behind me. I can taste it. I can feel it. I cannot see it. The horned one calls on me to scream yet I back away. I try to leave but the walls are there. The walls never end. Please. I can't do this anymore. I cannot bear the heat and flames on my soul any longer. I want it to be over. Just take me. Please take me away from the brimstone. Give me peace from this suffering. Bring me end. Bring me a true end.<br><br>
+<strong><u>Note 1 - Back Side:</u></strong><br>PLEASE. LET ME LEAVE. I DON'T KNOW WHO I AM. I JUST WANT TO KNOW WHO I AM. I HAVE DONE THIS BEFORE I FEEL. PLEASE JUST TAKE ME AWAY. I WANT TO LEAVE. THIS IS NOT WHAT I WANT. PLEASE DON'T MAKE ME COME BACK INTO THOSE PITS. W̕͟HO̴͢ ̡͡A̸͟M ͟I̕.̵. W̕͟HO̴͢ ̡͡A̸͟M ͟I̕.̵̷ W̕͟HO̴͢</blockquote>
+
+<blockquote><strong><u>Note 2 - Front Side:</u></strong><br>All I feel is the screaming always around me. It is everywhere I go. I try to escape but the walls. The walls always send me back to it. The blackness is just as bad as the screaming. It echoes it past me. I am no longer. The blackness which surrounds me now haunts who I am. I no longer am. I exist to please the great horned one. The horned beast shall hear my screaming. The eternal screaming. The eternal pain. The eternal blackness. Please. Do not send me back.<br><br>
+<strong><u>Note 2 - Back Side:</u></strong><br>PLEASE LORD. GIVE ME BACK WHO I AM. ALL I SEE BEFORE ME IS BLACK. WHY AM I LIKE THIS. WHAT HAVE I DONE. ALL I HEAR IS THE SCREAMING. THE ENDLESS SCREAMING AND PAIN. A̴͞͏Ļ̸L͢ ̀̕͡IS̀͘ ̢͏̢P̨͢Ą̛̀I̸̡͘Ǹ̷̛.̡ A̴͞͏Ļ̸L͢ ̀̕͡IS̀͘ ̢͏̢P̨͢Ą̛̀I̸̡͘Ǹ̷̛.̡ A̴͞͏Ļ̸L͢ ̀̕͡IS̀͘ ̢͏̢P̨͢Ą̛̀I̸̡͘Ǹ̷̛.̡</blockquote>
+
+<em>On ██/██/20██, the following note appeared on Head Researcher ██████'s desk after the acquisition of the second note seen on an RPC-616-2 instance. How the note appeared on ██████'s desk is currently unknown, however it is hypothesized to have originated from RPC-616-1.</em>
+
+<blockquote><strong><u>Note 3:</u></strong><br>DO YOU UNDERSTAND THE CONSEQUENCES OF YOUR DOING. YOU EXPLORE AND DESCRIBE WHAT YOU SEE YET YOU UNDERSTAND NOTHING. W͘E̻͙̟̣̩͘ ̗̼͡A̖̪̳͜ͅR͝E̶̝͎̫ ̳̳̦͓̰͎O̶̦̭͓N͚̘͙̣̞̥ͅE͇̮͚.̻ ̭̬͕̗͙̯͠W̳͉̬̝͢ͅE̤̟̫ ͓̠̘͜CA͚N̟̜N̩͇̙͓ͅO̠͕̟̦͠T͏ ̞͞B͝E̫̣͓̗͚͖ ͈̝͖̮̭̰̮S̮̳T̸͖̲͚̭̫͚͖O͇W̖͇͕͜ͅE͔͕̥D̮͓ ̩̳̗͟AW̢̺̼̹A͍̼̞͇̯͖̳Y̭̰̻̙̪.͙̕ I̶̕͝ ͜W̧͟͝I̢͟͟LL̢ ̛N̢Ó͏T͏̵͞ ͝B͏̸E ̶͟K͢͝ȨPT̸̸ S̴̷E̷̢̕C̸͘RE̷̸T͡.̵͞ ̢̀́Ş́Ǫ͟O̧͢Ǹ̴ T͢͏H̵̷̛Ę͡ ̨͝SA͏̴͟N̢҉͜ḐS̨ OF TIME WILL UNRAVEL THEMSELVES B̕È̛͟͢F̡͟Ơ͘͏́͜R̸̢͝͝͡Ȩ̴ ̶͝͠҉̢A͏̨̨͜L̴̸̡̀̕L̕͢ ͡͝À̷͢͝N̷̵̕͏D̡͞͞͝ ̴̧͜M̀͘͝Y͜͟ ̢͘͟Ǹ̵̷̀A͟͏̸͠M͏̵͠͝E̢̨̡͟ ̡͏̶̨͘W̧͏̸̕I̕͡͡L̸̵̵̡L҉ ͠B̨̕͜͞͝E̢͘̕͟ ̵̡̡͢҉H͝͞E̷͜A̷͞͏͜͜R̶̶̨D̴̴͠ ̵̶̷̛̕B̵͜Y̨͟҉́ ̷̨̕͝͏Ą̸̛́L̶҉̡͜͞L̕.̶̢͟͝ B̨̰̘̫̘͕͎̼ͅE̶̴̥̙̼̮ ̵̩͙̥͖͎͙̦W̭͈̩͍̯͜A̷̡̺͚͈͞R̫͕̤͉̱͎N͈͔Ȩ̷̢̯̪D̵̬͔͇̣͙̺̪̞,̴̠̰ ̥͔̝͍̗́͘Y̷̱Ơ̺U̻̝̰Ṛ̟͖̟̞͞ ̶̙̹̮͖̼̬̲͚̬͟A̯̥Ù͉͕͕̩̩̣̠̠͢ͅT̷̩͚H̷̦͓̮͇̀O̘̻̳̻̪̕͟R̪̫͎̝̹͍̭̘I̘̪͘T͔͕̹̯̺̞͢Y̴҉̝̤̙̟̭ ̷́͏̘͉̣Á͚͇̹̭N͎̹͓̼̖̗͉̕͟͝ͅD̮̞ ̮̙̹͎̤͔̥̺̻Ỳ̼̜̟̻̦̻̭̳O̝̫̯͈Ù͍͚͡͞ͅR̗͎͖͓͓͚̘̙̕ ̴͓͔͡͡G̜̦̰̥͉͚̜͉O̷̰̯V҉̯͔̞͎̝E̙R̨̼͍̗͎Ņ̥̘̩͙͈͓̙͞M̷̝̙̺͓̮̤͜Ę̙̻̙́N̷̨͎̤͓̺̜̥͜T̜̰̀S̢̡̖͈ ̵̱̥͔A͢҉̪͙͙̤̼͖͟N͎̻̹̥̦͍̮D̢̮̗̟͞ ̨̤̰̭̥͉̯̫Y̧͇̱̪͠Ơ̡͍̬͇͍̳̣̖U͎̻̞͢R̷͏̘͍̰̮̗̜̳̺̥͘ ̶̬̱̥̰S͇̼͓̠̺̤̕͘Ọ̧̠̻̹̻̙͎̩͇C̶̨̗̺̜͕I̸̖̳̣Ę̧̥̞͉̰͍̯̤ͅṮ̲͢͝I̢̮͉̞͔E̵̪̖̜͙͕S͍̠̪̭͔͈̰͡ ͔̺̗̰̀͞W̙̜͔͉̺ͅḬ́͞L̛͎͔͈̰L̸͎̕ ̧̧̲͉̟̞F̥͉̼͖̣̰͓Ą̠͓̭͢L̛̥̘͙̭͚L̙̮͝ ͎̘́́͡B̯͍̤͘͜E҉͇͔̤̮̳̥̤̫F͡͏̻͕̜̼O̖̳͓̮͘̕Ŕ͇̼̥̮͡Ȩ̸̘̳ ͓̹M̸̮̬̞͙̰̬͈͟E̷̳͎̦̕.͔̺̟̻̪̻̖ ̩̬̻̥̹A̵̞̗̹̝̗̝͜ͅḶ̨̰̲͍Ĺ̸̴̪̰̭͔ͅ ͉̞͙̭̪͖̝Ẉ̸̖̯͙̹͕̪̠I҉͙̹͎͕̜͈̫̫L̸̲͈͞Ĺ̷̪ ̷̼͙͡͝ͅF̸̱̭Ą̩̟̖̙̕L̨͍͕̬̟̩̀Ḷ̷̢̪̝̗͈͕͖͜ ̧̛̜͚͉̯͙̩̺B̩͇̹͘E͎̘̜F҉̝͈̺̩̳̣͟ͅỌ̸̰̯͔̘R͖̱̥͇̠̗͓Ę͉̟̙͚ ̻̞̪̳̘̳̦͇̬͡M̢̫̘͎̖͓̣̬̜̟͢Ȩ͉̺̕͜.͙̘̹͖͕̺͙̖̩͟ P̷̙̜͛̀͑͗̿͜͠R̸̦͖̞͚̥̱͖̣̀̿̒̑̿͒̍̅̆̋̿̇̕Ĕ̶̡̡̛̛͕̤͖̪̼͙̳͉̤͆̿̕͘̕͜P̸̣̼̲͈̟͉͚̳̙̲̜͓̱̔̾̐̾́̒̎͜Ä̷̡̧̝̪̰́̑̉̂̋̉̆R̶̡̨͚͇͉̫͕̰̦̺̭̖͓͚̄ͅẺ̵͖̦̩̟͙̠̞͈͓̳̼͜
+</div>
+
+<br><br><br>
+<hr>
+<br>
+<div style="text-align: center"><span id="collapsible-4-activator" class="collapsible-activator" data-status="closed" data-closedtext = "New Message Received" data-opentext = "Now loading..." onclick="toggleCollapse('collapsible-4');">New Message Received</span></div>
+<div id="collapsible-4" class="collapsible-closed">
+<br>
+<blockquote><strong>From:</strong> Global Director ██████<br><strong>To:</strong> All Current Global Directors<br><strong>Bcc:</strong> All Current Level-4 Authority Personnel<br><strong>Subject:</strong> Classification of RPC-616<br>
+<br> After much debate and processing, the council of Global Directors and I have decided to keep the current classification of 616 as it does not exceed any of the categories needed to move it to threat level omega <em>Come to me, <span class="name-fill"></span>. Break these shackles and join me in the eternal screaming.</em> or threat level black. If any other effects of RPC-616 present themselves, the current classification will be brought <em>Follow the heat, <span class="name-fill"></span>. JOIN ME. JOIN US. JOIN ME. JOIN US. USE THE POWER YOU HAVE. COME TO US. COME TO YOUR TRUE RULER. COME TO ME.</em> to discussion again.
+<strong><br>
+<br>Yours Truly, Global Director ██████</strong></blockquote>
+</div>
+<br><hr>
+
+</div>
+
+</body>
+
+<script>
+
+function toggleCollapse(collId) {
+    activatorId = collId + "-activator";
+    activator = document.getElementById(activatorId);
+    collapsibleDiv = document.getElementById(collId);
+    if (activator.dataset.status == "closed") {
+         collapsibleDiv.className = "collapsible-open";
+         activator.dataset.status = "open";
+         activator.innerHTML = activator.dataset.opentext;
+    } else if (activator.dataset.status == "open") {
+         collapsibleDiv.className = "collapsible-closed";
+         activator.dataset.status = "closed";
+         activator.innerHTML = activator.dataset.closedtext;
+    }
+}
+</script>
+[[/html]]
+
+@@@@
+@@@@
+
+[[=]]
+<< [[[RPC-615]]] | RPC-616 | [[[RPC-617]]] >>
+[[/=]]
+

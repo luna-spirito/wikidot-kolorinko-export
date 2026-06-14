@@ -1,0 +1,260 @@
+---
+title: "Author Page"
+tags: ["hub"]
+page_id: "259169487"
+site: "rpcauthority"
+slug: "author-page"
+revision: 395
+revision_id: "1542334623"
+author: 5982545
+timestamp: 1772204563
+---
+
+[[module css]]
+#page-title, .label { display: none; }
+.label:first-child { display: block; }
+
+.content-box {
+  border: 2px dashed #666;
+  background: var(--code-background);
+  background-repeat: no-repeat;
+  background-size: 25px;
+  background-position-x: 3px;
+  background-position-y: 3px;
+}
+.content-box.activity {
+  background-image: url(http://www.rpc-wiki.net/local--files/component:icons/Badge-Activity.png);
+}
+.content-box.trophy {
+  background-image: url(http://rpcauthority.wdfiles.com/local--files/budget-cuts/trophyprotection.png);
+}
+.content-box.activity.trophy {
+  background-image: url(http://www.rpc-wiki.net/local--files/component:icons/Badge-Activity.png), url(http://rpcauthority.wdfiles.com/local--files/budget-cuts/trophyprotection.png);
+  background-position-x: 3px, 31px;
+  background-position-y: 3px, 5px;
+}
+[[/module]]
+
+[[div style="font-weight: bold; text-align: center;"]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Author Page
+[[/div]]
+[[div class="unmargined" style="font-size: 95%; margin-left: 0px; margin-right: 0px;"]]
+----
+[[/div]]
+[[/div]]
+
+> = Message [[*user Almarduk]] if you wish to be added to this list. You must have multiple articles or contributions to be added.
+> 
+> = Users with the "Theta" role on Discord will be given an active contributor badge on their Author Page entry.
+> 
+> = Alternatively, seek recognition for your multi-media/non-linguistic talents on the [#Creator_Page Community and Creator Section]
+
+= [[[author-attribution|Author Attribution Page]]]
+
+[[div class="content-panel" style="font-weight: bold; text-align: center;"]]
+Enter a personal author page title below.[[footnote]] If you are unable to create a page using the module above, attempt creating a page normally by choosing your desired URL (I.e. http://rpcauthority.wikidot.com/your-page-name) and adding the tag "author-page" via the "Tags" button at the bottom of the page. [[/footnote]]
+
+[[module NewPage button="Create an Author Page" tags="author-page"]]
+
+[[<]]
+- You may not have more than one author page.
+- You must have at least 2 site contributions.
+- Your author page must be functional, easy to use for finding your works.
+- Your author page cannot include anything that inhibits usability.
+[[/<]]
+
+[[/div]]
+
+[[div class="content-panel" style="text-align: center; font-weight: bold;"]]
+[[span style="font-size: 90%;"]][#A A] | [#B B] | [#C C] | [#D D] | [#E E] | [#F F] | [#G G] | [#H H] | [#I I] | [#J J] | [#K K] | [#L L] | [#M M] | [#N N] | [#O O] | [#P P] | [#Q Q] | [#R R] | [#S S] | [#T T] | [#U U] | [#V V] | [#W W] | [#X X] | [#Y Y] | [#Z Z] | [#Creator_Page Creator Sect.][[/span]]
+
+[[include fragment:author-page-list-1]]
+[[include fragment:author-page-list-2]]
+
+[[/div]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+[[# Creator_Page]] Community and Creator Section
+[[/div]]
+
+> If you create RPC-related content, contact [[*user televisionist]] (!Zingo Zango Zalgo Zongo Bongo#6309 on Discord) to be added to this list.
+
+[[div class="content-panel centered"]]
+
++ Community Hubs
+
+----
+
++++ __Official__
+**[[[discord|The RPC Authority Community Discord]]]**
+<< The server for the RPC community. >>
+**[https://discord.gg/ZATA5zg RPC Lore Discord]**
+<< The server for lore discussions. >>
+**[https://discord.gg/Wt9vNmT RPC Office Discord]**
+<< The server for staff discussions. >>
+**[https://www.reddit.com/r/TheRPCAuthority/ The RPC Authority subreddit]**
+<< The official RPC Authority subreddit. >>
+**[https://steamcommunity.com/groups/ORPCGP The RPC Authority Steam group]**
+<< A Steam group for members of the RPC Authority. Currently inactive. >>
++++ __Unofficial__
+**[https://discord.gg/9Ps3HYf RPC /V/ Discord]**
+<< A community-made video games server. >>
+**[https://aminoapps.com/c/rpcauthority/home/ RPC Authority Amino]**
+<< An unofficial RPC Authority Amino community. >>
+
+[[/div]]
+
+[[div class="content-panel centered"]]
+
++ Video Creators
+
+------
+
+Find a list of all RPC readings [[[videos|here]]].
+
++++ __Readings__
+
+[[collapsible show="EastSide Steve" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[!--
+This image broke so imma hide it
+[[f>image https://pbs.twimg.com/profile_images/1003907095341686784/Q_hiCbhD_400x400.jpg width="100px"]]
+--]
+
++++ EastSide Steve is creating [https://www.youtube.com/channel/UCh7Uyc-z4xOtmPIkOf2lqiw RPC Readings]
+
+I am Eastside Steve of The Eastside Show and I do readings from across the internet! Creepypastas, RPC Authority, SCP Foundation, Chaos insurgency and The Wanderer's Library.
+ _
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="Zakari" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image https://yt3.ggpht.com/a-/AN66SAwSink7t5Z0v2g2VYn1IGGTYQbRoh9KOOC6vw=s100-mo-c-c0xffffffff-rj-k-no width="100px"]]
+
++++ Zakari is creating [https://www.youtube.com/channel/UCVZpm4Dp7Unqceph6gKD2WA RPC Readings]
+
+The Authority Vault is the introductory course for all activities involved with the Authority, from identifying RPC's to acknowledging its history.
+ _
+[[/div]]
+[[/collapsible]]
+
++++ __Podcasts__ 
+[[collapsible show="FearFic" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image https://yt3.ggpht.com/a-/AAuE7mAQbb7fa8r85OochmD1PLVKrY_Gif_ckLPYSQ=s100-mo-c-c0xffffffff-rj-k-no width="100px"]]
+
++++ FearFic is creating [https://m.youtube.com/channel/UCcQPXV85mFI13LYl0GsayOA a Podcast]
+
+"FearFic" is the term for short horror fiction, mostly posted on the web. It includes any and all related sub-genres. From adolescent revenge fantasies to subtle postmodern narratives about real life events, and everything in-between.
+[[/collapsible]]
+[[/div]]
++++ __Variety__
+[[collapsible show="Jokezm" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/creator-page/jokezm.png width="100px"]]
+
++++ Jokezm is creating [https://www.youtube.com/channel/UCKgRUNO7mRagb8T2y16M-iw RPC Art, Memes, & More.]
+
+Jokezm on his channel Epic Pupil of Malthus constantly shifts between making seriously well put together content and slapped together shitposts that are always funny. A good content creator all around.
+[[/div]]
+[[/collapsible]]
+[[collapsible show="Bagingy" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/creator-page/bagingy.png width="100px"]]
+
++++ Bagingy is creating [https://www.youtube.com/channel/UCAIl84UtiFOACS8PqIH0WOg RPC Art, Memes, & More.]
+
+The writer, his name ironic for the first 11 months, has finally started writing and creating videos. They are a crazy smash of characters and comedy writing, with his own deep "BagingyVerse™".
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+
+[[div class="content-panel centered"]]
+
++ Artists
+
+------
+[[collapsible show="Zizzzle" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image https://media.discordapp.net/attachments/523524990583308308/523525649118396431/image0.jpg?width=404&height=559 width="75px"]]
+
++++ Zizzzle is creating [https://www.deviantart.com/zizzzle art]
+
+I tend to make abstract, meaningless artwork whenever I am inspired to do so. When I have a nice opportunity, I also do photography. I don't aim to match anyone's aesthetic but my own.
+ _
+[[/div]]
+[[/collapsible]]
+[[collapsible show="Office Printer" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image https://a.deviantart.net/avatars/s/0/s0mb3rd.jpg?2 width="75px"]]
+
++++ Office Printer is creating [https://www.deviantart.com/s0mb3rd art]
+
+
+
+I make drawings of machines and equipment.
+ _
+[[/div]]
+[[/collapsible]]
+[[collapsible show="Indonesian Gentleman" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image https://cdn.discordapp.com/attachments/523522375929561088/523547375298674696/portal_turret_quotes.png width="100px"]]
+
++++ Indonesian Gentleman is creating art
+
+++++ [https://carriontrooper.tumblr.com/ Tumblr]
+++++ [https://www.deviantart.com/carriontrooper DeviantArt]
+++++ [https://www.fiverr.com/greensniperhat/draw-science-fiction-and-fantasy-stuff Fiverr]
+
+Excellent in 2D and 3D arts, sometimes writes and bumbles his way through making a game.
+
+[[/div]]
+[[/collapsible]]
+[[collapsible show="Qual" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image http://www.rpc-wiki.net/local--files/creator-page/qual.png width="100px"]]
+
++++ Qual is creating [https://twitter.com/InaptQualities art]
+
+"I occasionally do art, logos, and assets (though am more concerned with coding atm); Small stuff, though I'm not opposed to the big projects/artworks. Hit me up via DMs and we can talk business (if you want)." -Qual
+ _
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-panel centered"]]
+
++ Game Developers
+
+------
+
+[[collapsible show="Digital Raven" hide="Hide"]]
+[[div class="content-panel" style="text-align: left;"]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/creator-page/Digital%20Raven%20V2 width="82px"]]
+
++++ Digital Raven is creating [https://gamejolt.com/@Pirangunter21 Indie Games]
+
+++++ Join the official Discord [https://discord.gg/Esp2wQP Here]
+
+Digital Raven is an Indie Game group who have made several SCP games and is currently developing a game based on [[[RPC-055]]]
+ _
+[[/div]]
+[[/collapsible]]
+[[/div]]
+

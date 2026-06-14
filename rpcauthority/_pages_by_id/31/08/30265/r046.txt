@@ -1,0 +1,96 @@
+---
+title: "Amazing! Co. Hub"
+tags: ["amazing.co", "hub"]
+page_id: "310830265"
+site: "rpcauthority"
+slug: "amazingco-hub"
+revision: 46
+revision_id: "1507743561"
+author: 5982545
+timestamp: 1676588681
+---
+
+[[module CSS]]
+@import url(/component:amazingco-theme/code/1);
+[[/module]]
+[[module CSS ]]
+.listresize{
+font-size: 12px !important;
+}
+[[/module]]
+[[module CSS]]
+h1, #page-title {
+    font-weight: 900;
+
+}
+#page-title {display: none}
+
+[[/module]]
+
+[[div class="content-panel standalone series" style="background-color: #FF; border-color:#C83E0D;font-size:14px;"]]
+@@@@
+
+[[=]]
+[[div style="color:#FFCC00; font-size:32px;text-shadow: -3px -3px 0 #339966;"]]
+**Group Details**
+[[/div]]
+[[/=]]
+-----
+**Threat Level:** Unknown
+**Ownership:** [UNKNOWN]
+**Known Allies:** [REDACTED]
+@@@@
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FF; border-color:#C83E0D;font-size:14px;"]]
+@@@@
+
+[[=]]
+[[div style="color:#FFCC00; font-size:32px;text-shadow: -3px -3px 0 #339966;"]]
+**Overview**
+[[/div]]
+[[/=]]
+-----
+Amazing! Co. is an organization known for mass producing off-brand commercial products of all types that are regularly accessible by civilians in public stores. These items invariably possess anomalous properties and, more often than not, pose a threat to both the user and those around them. The country of origin for Amazing! Co. cannot be presently determined due to the sheer variety of locations their products and warehouses have been found. Information from various governments around the world have shown the company to have made appearances on all continents of the world with exception to Antarctica.
+
+Current Authority policies concerning Amazing! Co. are focused upon information gathering and anomalous item control. Agents across the globe are instructed upon what to look for and common locations of Amazing! Co. products. Any information or located items are to be reported to Authority command immediately.
+@@@@
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FF; border-color:#C83E0D;font-size:14px;"]]
+[[=]]
+[[div style="color:#FFCC00; font-size:32px;text-shadow: -3px -3px 0 #339966;"]]
+**Anomaly Documentation**
+[[/div]]
+[[/=]]
+-----
+
+[[module ListPages separate="no" tags="+amazing.co +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+@@@@
+**Non-Canon Anomalies**
+
+@@@@
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FF; border-color:#C83E0D;font-size:14px;"]]
+[[=]]
+[[div style="color:#FFCC00; font-size:32px;text-shadow: -3px -3px 0 #339966;"]]
+**Miscellaneous Documentation**
+[[/div]]
+[[/=]]
+-----
+@@@@
+[[module ListPages separate="no" tags="amazing.co -rpc -hub" perPage="50" order="fullname"]]
+%%linked_title%%
+[[/module]]
+@@@@
+@@@@
+[[/div]]
+
+If you have any questions or wish to add anything, please contact the hub owner [[*user JerryJohn]]
+
