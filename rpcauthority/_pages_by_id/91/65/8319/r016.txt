@@ -1,0 +1,38 @@
+---
+title: "Personnel Dossier"
+tags: ["hub"]
+page_id: "91658319"
+site: "rpcauthority"
+slug: "personnel-dossier"
+revision: 16
+revision_id: "1379708443"
+author: 3672751
+timestamp: 1632876177
+---
+
+**Foreword:** This document is a collection of all notable Authority personnel for official archival and internal matters.
+
+**Template can be found [[[formatting-guide| here]]]**
+
+[[div style="background:#1F2125; border:solid 2px #666666; border-radius: 4px;  margin: 0 auto; padding: 10px 38px; width: 70%; color: #c0c0c0;"]]
+
+= //To add a new entry, input personnel's name and hit create:// [[footnote]]  If you are unable to create a page using the module above, attempt creating a page normally by choosing your desired URL (I.e. http://rpcauthority.wikidot.com/your-page-name) and adding the tags "personnel" and "document" via the "Tags" button at the bottom of the page. Other according tags may be found in the [*http://rpcauthority.wikidot.com/tagging-guide Tagging Guide] [[/footnote]]
+[[module NewPage tags="personnel document" parent="personnel-dossier"]]
+
+[[/div]]
+----
+
+[[div class="content-panel"]]
+[[module ListPages tags="personnel" order="rating desc" perPage="10" ]]
+
+**%%linked_title%%** by %%author%%
+
+**Rating:** %%rating%% %%rating_votes%%
+
+%%preview%%
+
+----
+
+[[/module]]
+[[/div]]
+
