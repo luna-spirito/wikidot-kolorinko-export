@@ -1,0 +1,92 @@
+---
+title: "_what The Fuck Did You Say To Me Bitch"
+tags: []
+page_id: "606137741"
+site: "rpcauthority"
+slug: "_what-the-fuck-did-you-say-to-me-bitch"
+revision: 5
+revision_id: "649783987"
+author: 3118961
+timestamp: 1550641781
+---
+
+[[include component:rate title="_what-the-fuck-did-you-say-to-me-bitch"]]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:dark-theme-2-b/code/1);
+[[/module]]
+
++ Theme testing page
+++ Theme testing page
++++ Theme testing page
+++++ Theme testing page
++++++ Theme testing page
+
+------
+
+
+||~ header ||~ header ||~ header ||
+|| cell-content || cell-content || cell-content ||
+|| cell-content || cell-content || cell-content ||
+
+> quoted text
+> quoted text
+> quoted text
+
+# list item
+# list item
+# list item
+
+* list item
+* list item
+* list item
+
+Footnote[[footnote]] footnote text [[/footnote]]
+
+**bold text**
+
+//italic text//
+
+__underline text__
+
+--strikethrough text--
+
+{{teletype text}}
+
+^^superscript^^
+
+,,subscript,,
+
+[[toc]]
+
+[[tabview]]
+[[tab tab 1]]
+Text
+[[/tab]]
+[[tab tab 2]]
+Text
+[[/tab]]
+[[tab tab 3]]
+Text
+[[/tab]]
+[[/tabview]]
+
+[[div class="content-panel centered standalone"]]
+
++ content panel
+
+[[/div]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-yellow.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-orange.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-red.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-purple.png]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-black.png]]
+
+[[include component:image-enlarge name=https://i.imgur.com/eInpCeq.jpg|width=250px|caption=Image Caption]]
+
+
+
+~~~~
+

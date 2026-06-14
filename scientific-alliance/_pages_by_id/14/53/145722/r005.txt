@@ -1,0 +1,87 @@
+---
+title: "include:Произведение искусства"
+tags: []
+page_id: "1453145722"
+site: "scientific-alliance"
+slug: "test-art-obj"
+revision: 5
+revision_id: "1519244040"
+author: 6800964
+timestamp: 1711555339
+---
+
+[[module CSS]]
+.art-obj-block .yui-nav {
+  border-left: 1px solid #555 !important;
+  border-top: 1px solid #555 !important;
+  border-right: 1px solid #555 !important;
+}
+
+.art-obj-block .yui-nav li {
+  width: 100%;
+  height: 7px;
+  margin: 0 !important;
+  padding: 0;
+  text-align: center;
+  background-color: #EEE;
+}
+
+.art-obj-block .yui-nav li:hover {
+  background-color: #F1F2E1;
+}
+
+.art-obj-block .yui-nav li:first-child {
+  background-color: #FFF;
+}
+
+.art-obj-block .yui-nav li a {
+  text-align: center; /*для красоты*/
+  visibility: hidden;
+}
+
+.art-obj-block .yui-nav li a em,
+.art-obj-block .yui-nav .selected,
+.art-obj-block > br {
+  display: none;
+}
+
+.art-obj-block .yui-content {
+  margin: 0 0 3px 0;
+  padding: 0 10px;
+  background-color: #EEE;
+  border: 1px solid;
+}
+
+.art-obj-block .art-obj-tags p {
+  margin: 0;
+  padding: 0;
+}
+[[/module]]
+
+[[div class="art-obj-block {$tags}" style="border:solid 1px; background:#DDD; margin:50px 3em; padding:3px"]]
+[[span style="position:absolute; top:5px; right:5px; font-size:110%; margin:0; padding:0"]]{$acces}[[/span]][[div style="border:solid 1px; margin-bottom:3px; background:#EEE"]]
+[[div style="font-size:200%; font-weight:bold; padding:0 10px; line-height: 27px"]]
+{$title}[[/div]]
+[[div style="font-weight:bold; line-height:17px; margin:-4px 0; padding:0 10px"]]
+{$src}[[/div]][[div style="font-weight:bold; line-height:17px; margin:-4px 0; padding:0 10px"]]
+{$type}[[/div]][[/div]]
+[[tabview]][[tab]]
+{$desc}
+[[/tab]][[tab]]
+{$description}
+[[/tab]]
+[[/tabview]][[div class="art-obj-tags" style="font-size:80%; opacity:75%; text-align:center; clear:right"]]
+{$tags}[[/div]][[/div]]
+
+[!--
+
+{$acces} - гриф секретности; необходимость под вопросом
+{$title} - название; а если его нет, то просто написать «???»
+{$src} - автор, место, время (опционально); порядок такой
+{$type} - тип; картина, фильм, игра, идея или что-то иное
+{$desc} - краткое описание; в одну строку, во всю ширину
+{$description} - полное описание; сколько угодно абзацев
+{$tags} - теги; используются для кривого аналога поиска
+
+--]
+

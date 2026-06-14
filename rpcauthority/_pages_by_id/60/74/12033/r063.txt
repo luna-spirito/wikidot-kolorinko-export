@@ -1,0 +1,244 @@
+---
+title: "International Hub"
+tags: ["hub"]
+page_id: "607412033"
+site: "rpcauthority"
+slug: "international"
+revision: 63
+revision_id: "1542643210"
+author: 3638389
+timestamp: 1773460582
+---
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div style="font-weight: bold; text-align: center; color: #600;"]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+International Hub
+[[/div]]
+[[div class="unmargined" style="font-size: 95%; margin-left: 0px; margin-right: 0px;"]]
+----
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+
+[[=]]
++++ On-Site Translations
+[[/=]]
+
+----
+
+[[module ListPages tags="translation" category="*" separate="no" order="title"]]
+[[div style="padding: 0 10px; border: 2px solid #666; margin-bottom: 10px;"]]
+++++ %%title_linked%% 
+
+%%first_paragraph%%
+[[/div]]
+[[/module]]
+
+----
+
+Submit new translations here:
+[[module NewPage button="Translation Title" tags="translation" template="template:translation"]]
+[[/div]]
+
+[!--
+[[div class="content-panel"]]
+
+[[=]]
++++ Original International Articles
+[[/=]]
+
+----
+
+[[module ListPages tags="international" category="*" separate="no" order="title"]]
+[[div style="padding: 0 10px; border: 2px solid #666; margin-bottom: 10px;"]]
+++++ %%title_linked%% 
+
+%%first_paragraph%%
+[[/div]]
+[[/module]]
+
+----
+
+Submit new international articles here:
+[[module NewPage button="Article Title" tags="international"]]
+[[/div]]
+--]
+
+[[div class="content-panel centered"]]
+
++ Official Branches 
+
+----
+
+[[div class="content-box"]]
+++++ [http://rpc-pl.wikidot.com/ RPC Polski] [PL]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC Polish Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/CHpstzD Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[div class="content-box"]]
+++++ [http://rpc-wiki-cn.wikidot.com/ RPC 汉语/漢語] [CN/ZH]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC Chinese Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/8cn4HyF Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[div class="content-box"]]
+++++ [http://autorite-rpc.wikidot.com/ RPC Français] [FR]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_French_language_%28QC-FR%29.svg/330px-Flag_of_French_language_%28QC-FR%29.svg.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC French Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/w8Hh9uV Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[div class="content-box"]]
+++++ [http://rpc-jp.wikidot.com/ RPC 日本語] [JA]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC Japanese Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.com/invite/zB7bf9h Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+
+[[div class="content-box"]]
+++++ [http://rpc-wiki-pt-br.wikidot.com/ RPC Português] [PT]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/a/ae/Portuguese_language_flags.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC Portuguese Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/4csppJsTMm Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[div class="content-box"]]
+++++ [http://rpcko.wikidot.com RPC 한국어/韓國語] [KO]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC Korean Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/xQPqgSB Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[/div]]
+
+[[div class="content-panel centered"]]
+
++ Unofficial Translations
+
+----
+
+[[div class="content-box"]]
+++++ [http://autoridadrpc.wikidot.com/ RPC Español] [ES]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/6/61/Spanish_language_flags.png height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+**RPC Spanish Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/rUdW9vW Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[div class="content-box"]]
+++++ [http://rpcauthority-ar.wikidot.com/ RPC سلطة] [AR]
+
+----
+
+[[div style="float: left; width: 49%;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/2/24/Flag_of_Hejaz_%281917%29.svg
+ height="65px"]]
+[[/div]]
+
+[[div style="float: right; width: 49%;"]]
+
+**RPC Arabic Branch**
+
+[[image http://rpcauthority.wikidot.com/local--files/nav:side/discord.png]] [https://discord.gg/gCzetMFMn7 Discord]
+[[/div]]
+
+~~~~
+[[/div]]
+
+[[/div]]
+

@@ -1,0 +1,612 @@
+---
+title: "RPC-364 rev. 3"
+tags: []
+page_id: "598423010"
+site: "rpcauthority"
+slug: "fragment:rpc364-4"
+revision: 8
+revision_id: "1356694497"
+author: 3672751
+timestamp: 1602552595
+---
+
+[[div style="center no-repeat; background-color: #F2F2ED; float: center; border: solid 2px black; padding: 1px 15px; "]]
+[[=]]
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/MainSign.png]]
+
++ [[size 150%]][[span style="color:#000099;"]]<< ATTENTION >>[[/span]][[/size]]
+
+++++ THE FOLLOWING PHENOMENA IS A STAGE VIII COGNITOHAZARD.
+------
+++++ THIS DOCUMENT IS LEVEL 3 CLASSIFIED.
+------
+++++ UNAUTHORIZED ACCESS IS FORBIDDEN. VIEWER DISCRETION IS ADVISED.
+------
+
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+[[=]]
+[[collapsible show="+ Enter Credentials" hide="- Access Granted"]]
+[[/=]]
+[[<]]
+[[=]]
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png style="margin-top: 1px; width: 35px;" title="Organic"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-regenerative.png style="margin-top: 1px; width: 35px;" title="Regenerative"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin-top: 1px; width: 35px;" title="Sapient"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-teleportation.png style="margin-top: 1px; width: 35px;" title="Teleportation"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-memory-alteration.png style="margin-top: 1px; width: 35px;" title="Memory Alteration"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-visual.png style="margin-top: 1px; width: 35px;" title="Visual"]] 
+|align=center
+|name=http://rpcauthority.wdfiles.com/local--files/rpc-364/wallpaper.jpg
+|width=100%
+|caption={{Fig. 1:}} RPC-364
+]]
+[[/=]]
+
+[[table style="none; width: 100%;"]]
+[[row]]
+[[cell rowspan="2"]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/beta-white.png width="50px"]]
+[[/cell]]
+[[cell]]
+[[size 125%]]**Registered Phenomena Code:** 364[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###000099|**Level 3**##[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**Object Class:** --Beta-Yellow-- ##990000|Beta-White##[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###000099|**Classified**##[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+**Hazards:** Organic Hazard, Regenerative Hazard, Sapient Hazard, Teleportation Hazard, Memory Alteration Hazard, Visual Hazard
+
+**Containment Protocols:** --A contingent of ASF Battalion-016 is to secure the perimeter of RPC-364 and ensure RPC-364-1 does not leave the forest. Said troops are to continuously contact each other via radio transponder. Any failure to communicate whatsoever will be taken as evidence of a containment breach.-- ##990000|Due to the nature of RPC-364, containment is unnecessary.## An observation tower for Authority personnel is to be constructed on the eastern border of RPC-364. Specifically, this tower is to be built on the peak of the tallest mountain on the eastern border as to allow for easy observation of the entirety of RPC-364. The tower is to be disguised as an abandoned fire tower and all non-Authority persons are to be turned away by agents disguised as park rangers. All necessary shipments to and from RPC-364 are to pass through this observation tower for checking.
+[[include component:image-block 
+    name=WinterWaterfall|
+    caption={{Fig. 2:}} Waterfall at western border of RPC-364 territory|
+    width=250px|
+    align=right
+]]
+RPC-364 is to be continuously monitored via lookouts at the observation tower for RPC-364-1. --Eye contact-- ##990000|Direct eye contact## with RPC-364-1 is to be avoided at all times. The trees in RPC-364 are required to be counted by use of satellite imagery or any other available method once per month and the results are to be stored in the archive of Installation-016. Due to the nature of such trees, any wood samples are to be analyzed immediately on site. --All researchers who plan to carry out such tests are to bring a minimum of two armed guards with them.-- Any testing with animals is to be reported directly to the supervising Head Researcher. Personnel are responsible for securing their own test animals. The temperature of RPC-364 is to be regularly monitored and results are to be stored alongside the tree count data in Installation-016’s archive. ##990000|All interviews with RPC-364-1 are to be conducted with Agent Saicho. All other personnel are to avoid RPC-364-1.##
+
+During the winter season, RPC-364 is to be closed off to the general public under the premise of an avalanche-prone area. Personnel are to perform all research and testing during this period. Non-essential personnel are restricted from entering RPC-364 without written consent from the supervising Head Researcher. --Such personnel are to be armed or have armed guards with them at all times.-- ##990000|As defense is not necessary for research teams, no weapons are to be brought into RPC-364.## While non-Authority persons have not stumbled upon RPC-364 since falling under Authority control, if any people ignore or otherwise fail to observe the avalanche warnings, agents disguised as park rangers or other hikers are to turn them away.
+
+**Description:** RPC-364 is a 25 km^^2^^ forested expanse located in the White Mountains.[[footnote]] A mountain range that exists as part of the Appalachian Mountains, stretching from New Hampshire to Maine. [[/footnote]] This plot of land is surrounded on all sides by mountains and hills that make RPC-364 a deep valley relative to its surroundings. This is despite RPC-364 sitting at an elevation of around 1,375 m above sea level. The temperature of RPC-364 during the year is typical of the surrounding area, except in the winter, when it is an average of 4 °C colder in RPC-364 than elsewhere in the mountain range.
+[[include component:image-block 
+    name=WinterFence|
+    caption={{Fig. 3:}} Northern border of RPC-364 territory|
+    width=250px|
+    align=left
+]]
+The geography of RPC-364 is consistent with that of the White Mountains. On the northern border of RPC-364 sits a deteriorated post and rail fence atop an elevated, rolling hill that drops off into a steep ridge. It is known among mountaineers for being one of the most difficult climbs across the entire United States. The eastern border is the western peak of Mount ████████, an area devoid of any major activity due to the high elevation gain on the eastern face of the peak, which sits on the shared border between New Hampshire and Maine. South of RPC-364 is the ████ ████ ski resort. 500 m separates the two, with this zone rising above both the resort and RPC-364 with its own trees and a similar rotted fence. As the area is known to attract dangerous mountain animals, it is closed off to the general public. RPC-364’s western border is a snowy plain that gradually rises into a sharp cliff that dumps water into RPC-364, resulting in a substantial waterfall. In the center of RPC-364 is a large, frozen lake that is estimated to reach an average depth of 3.5 m. Patches of RPC-364 are open plains while the rest of it is heavily forested. RPC-364 itself is a normal forested area in most regards.
+[[include component:image-block 
+    name=RedTrees|
+    caption={{Fig. 4:}} Photo of RPC-364 tree taken during the spring|
+    width=250px|
+    align=right
+]]
+Anomalous properties manifest primarily in the trees of RPC-364. The leaves of any tree rooted in RPC-364 are colored a bright crimson red year-round, despite being identifiable as common types of trees.[[footnote]] This is consistent across all types of tree; pine needles will appear red year-round in addition to regular leaves. [[/footnote]] These trees will shed their leaves during the winter season and regain them during the spring in a manner typical to non-anomalous trees. If any tree from RPC-364 is cut down, falls down or dies through some other method, after 24 hours, any of its material will suddenly disappear and the tree will reappear in its previous spot alive and healthy. Wood samples gathered from RPC-364 indicate nothing anomalous about the wood itself, and RPC-364 trees possess identical wood to their non-anomalous counterparts. Currently, there are 300,343 trees inside RPC-364. Records taken over its ██-year history with the Authority indicate that this number remains largely constant.
+[[include component:image-block 
+    name=WinterTrees|
+    caption={{Fig. 5:}} Rows of trees in RPC-364|
+    width=250px|
+    align=left
+]]
+Any animal that tries to enter RPC-364 is temporarily and instantaneously phased out of existence. These animals phase back into existence at the opposite side of RPC-364, completely unchanged from when they vanished. As such, RPC-364 is completely devoid of any animal life whatsoever, however, humans have proven immune to this effect, allowing for manned research expeditions into RPC-364. Thermal scans, x-ray scans, and other forms of imaging have proven unsuccessful in identifying what happens during the infinitesimally brief period of time between the animals’ teleportation.
+[[include component:image-block 
+    name=WinterClassified|
+    caption={{Fig. 6:}} RPC-364-1 spotted near the eastern border of RPC-364 (cognitohazards removed)|
+    width=250px|
+    align=right
+]]
+RPC-364-1 is a singular teenage Caucasian girl, estimated to be 15 years of age. It stands at roughly 1.63 m tall and has mid back length, light brown hair. The color of RPC-364-1's eyes is unknown. RPC-364-1 is always seen wearing a white summer dress with a red polka-dot pattern, and appears to be barefoot. Despite this, RPC-364-1 seems to be entirely unaffected by both the weather and the low temperature. RPC-364-1 can often be heard humming the classic Christmas carol "In the Bleak Midwinter," except that it is converted to, and, consequentially, sung in, the key of C minor.
+
+Any individual who makes direct eye contact with RPC-364-1 for any amount of time enters an inattentive state for as long as they maintain said eye contact. During said state, affected individuals will not respond to any audio or visual cues, and will not move or talk. The moment eye contact with RPC-364-1 is broken, affected individuals will return to normal, having no memory of RPC-364-1. Said individuals will not even know of its existence, often disputing the validity of records discussing RPC-364-1. This effect is magnified through photographs or video footage of RPC-364-1, and as a result, no photography of RPC-364-1 exists. No level of cognitohazardous resistance is able to overcome these effects. ##990000|Given the rather sociable nature of RPC-364-1, roughly 90% of Installation-016 personnel have fallen under the effects of RPC-364-1, making documentation rather difficult. Blind individuals and those wearing blindfolds are not affected by RPC-364-1 whatsoever.##
+
+RPC-364 appears to be the roaming grounds of RPC-364-1. It has not been seen outside RPC-364, but can seemingly teleport to any point in the forest at any time. RPC-364-1 is invisible on x-ray scans and thermal scans show that it is the same temperature as its surroundings, explaining the failure to initially classify it alongside RPC-364 upon RPC-364's discovery. RPC-364-1 seems to only manifest during the winter season, and is absent for the rest of the year.
+
+**Discovery:** RPC-364 was discovered in September, 19██ by MST Alpha-09 "Ghosts of Gaia," who were passing through the area to reach another assignment. Upon discovering the anomalous properties of the trees, Alpha-09 marked the location for retrieval and the area officially came under Authority control within the next few days. After the construction of Installation-016, testing began next December. Test logs can be found in Addenda 364.1 and 364.2, along with video recordings between personnel in Addendum 364.3.
+
+RPC-364-1 was discovered in December, 19██ by agents scanning the forest for a creature presumed to exist in the area. Both agents were stunned by RPC-364-1 upon discovery, at which point a third agent arrived, realizing RPC-364-1's effects. He made sure to catalog RPC-364-1 without making direct eye contact, then was successful in removing the other two agents from its anomalous state. All three were chased by RPC-364-1 out of the woods, though no one was injured. --Research is still underway to determine the threat level of RPC-364-1, but for the time being, RPC-364 has been reclassified as Beta-Yellow.--
+
+##990000|**Addendum 364.4:** Collection of Observations/Interviews of RPC-364-1##
+
+##990000|//NOTE: The following consists of several exploration logs and “video” logs conducted by Agent ██████ Saicho on the subject of RPC-364-1. Given Saicho’s blindness, the visual aspects of the logs were reported by recon teams stationed at the observation tower.//##
+
+> Exploration Log, Day 1
+> 
+> I’ve been assigned to deal with the threat in RPC-364 in as non-violently a way as possible. The entity’s supposedly a girl my age that turns people into amnesiacs just by looking at them. I’m definitely a fan of the scenery change, at least. The terrain here (at least in RPC-364) is a hell of a lot more climbable than in the Himalayas. The trees here are supposedly beautiful, and I can hear a small waterfall from where I’ve entered RPC-364.
+> 
+> At the briefing on RPC-364-1, my dad told me that this RPC-364-1 figure seems to not be a fan of the Authority in the slightest. To counteract that, I’ve disguised myself as a simple cross-country skier. I’m not assuming that RPC-364-1 knows about any Authority personnel except the nameless scary men pointing guns at it, so I’ll just use my real name when talking to it. I’ve left my badge and all firearms at Installation-016. Hopefully Agent Perkins won’t try to use my badge to pay for his lunches.
+> 
+> I will continue with these writings if and when I know more.
+> 
+> - Agent Saicho
+
+> [[=]]
+> **VIDEO LOG**
+> 
+> ------
+> 
+> || **5:25:34 - 5:40:01** ||
+> [[/=]]
+> 
+> **[** //Agent Saicho is walking through the forest when RPC-364-1 manifests from behind a tree 15 meters in front of him.// **]**
+> 
+> {{**Saicho:**}} Hello? Is someone there?
+> 
+> **[** //RPC-364-1 ducks behind a tree for a couple of seconds, slowly peering around the corner Saicho’s head turns to face RPC-364-1.// **]**
+> 
+> {{**RPC-364-1:**}} No no no WAIT!
+> 
+> **[** //Saicho’s blind eyes fixate directly on RPC-364-1 and he freezes in place. RPC-364-1 sighs and lowers its head.// **]**
+> 
+> {{**Saicho:**}} … What? What’s wrong?
+> 
+> **[** //RPC-364-1 looks up in genuine surprise. Its effects have not worked on Saicho. Onlookers record this.// **]**
+> 
+> {{**RPC-364-1:**}} Wait… you… you can see me? You can actually see me.
+> 
+> {{**Saicho:**}} Well, I mean—
+> 
+> **[** //RPC-364-1’s face turns a vibrant shade of red, and it darts towards a nearby lake.// **]**
+> 
+> {{**Saicho:**}} –Hey, wait!
+> 
+> **[** //RPC-364-1 reaches the lake, frozen over, and looks into the ice. It picks a pine cone up and hurriedly brushes its hair with it. It is checking its teeth when Saicho, out of breath, emerges from the trees.// **]**
+> 
+> {{**Saicho:**}} I’m not… gonna—
+> 
+> {{**RPC-364-1:**}} Uh—just a minute!
+> 
+> {{**Saicho:**}} What… what are you doing?
+> 
+> {{**RPC-364-1:**}} Oh, nothing, I—
+> 
+> **[** //RPC-364-1 looks closer at Saicho.// **]**
+> 
+> {{**RPC-364-1:**}} Oh my god you’re blind.
+> 
+> **[** //Saicho leans over and gives RPC-364-1 a weak thumbs up.// **]**
+> 
+> {{**Saicho:**}} Yep.
+> 
+> **[** //RPC-364-1 blushes even harder, covering its mouth with its hands and embarrassingly sinking down onto a rock on the shoreline.// **]**
+> 
+> {{**RPC-364-1:**}} Oh…
+> 
+> {{**Saicho:**}} That’s… what I… was trying to tell you.
+> 
+> {{**RPC-364-1:**}} This is the worst first impression ever.
+> 
+> **[** //Saicho stands back up.// **]**
+> 
+> {{**Saicho:**}} Well, if nobody saw it…
+> 
+> **[** //RPC-364-1 looks up at Saicho and, realizing what he meant, giggles.// **]**
+> 
+> {{**RPC-364-1:**}} How… how did you get here?
+> 
+> {{**Saicho:**}} Well, you know the ski resort nearby?
+> 
+> {{**RPC-364-1:**}} Wait—there’s a ski resort nearby?
+> 
+> **[** //RPC-364-1 looks genuinely shocked, and a little distraught.// **]**
+> 
+> {{**Saicho:**}} You didn’t know?
+> 
+> {{**RPC-364-1:**}} I… don’t leave here very often.
+> 
+> {{**Saicho:**}} I guess so. I came back here to get away from all the people. It’s very nice back here!
+> 
+> {{**RPC-364-1:**}} Uh, thanks!
+> 
+> {{**Saicho:**}} … No problem?
+> 
+> **[** //RPC-364-1 realizes what it just did and blushes again.// **]**
+> 
+> {{**RPC-364-1:**}} I… uh…
+> 
+> {{**Saicho:**}} I’m ██████, by the way.
+> 
+> {{**RPC-364-1:**}} Oh… OH! I-I rehearsed this, hold on!
+> 
+> **[** //RPC-364-1 stands straight up on the rock it was sitting on and clears its throat.// **]**
+> 
+> {{**RPC-364-1:**}} Hi! My name is ████ ████████. I’m from ████████, ██████, and I’m an aspiring musician! Nice to meet you!
+> 
+> **[** //Saicho chuckles and holds out his hand for a handshake.// **]**
+> 
+> {{**Saicho:**}} Nice to meet you too, ████.
+> 
+> **[** //RPC-364-1 ignores Saicho’s hand and jumps down from the rock, right in front of Saicho.// **]**
+> 
+> {{**RPC-364-1:**}} So, uh… how was it?
+> 
+> {{**Saicho:**}} What?
+> 
+> {{**RPC-364-1:**}} My REAL first impression.
+> 
+> {{**Saicho:**}} Pretty, pretty good.
+> 
+> **[** //RPC-364-1 is beaming with delight.// **]**
+
+> Exploration Log, Day 5
+> 
+> This is the fifth day I’ve been to and from RPC-364, and every single time I come back, RPC-364-1 is eagerly waiting for me. Given its anomalous properties, I’m probably the first person to talk to it directly in god knows how long. It seems more interested in telling me about its aspirations and previous life than its current situation. Throughout my talks with it, it seems to be soured by the presence of Authority personnel, but not outright hostile. I don’t even think it has any combat capabilities whatsoever. It appears to just be a lonely girl in the middle of the woods. I’ll look more into this, but what this may end up becoming is a request to reclassify as Beta-White.
+> 
+> I’m going to try spending the night in RPC-364 this time. I wouldn’t recommend sending defense, but you have your way of doing things, I’m sure. At this point, I trust that I’m in good hands. If RPC-364-1 intended to kill me, it would have done it by now.
+> 
+> - Agent Saicho
+
+> [[=]]
+> **VIDEO LOG**
+> 
+> ------
+> 
+> || **2:49:26 - 3:05:14** ||
+> [[/=]]
+> 
+> **[** //Agent Saicho hikes to the giant waterfall to take a bath. He isn’t surprised to see RPC-364-1 waiting for him, high up on the rocky ledge. RPC-364-1 shouts, competing with the waterfall for loudness.// **]**
+> 
+> {{**RPC-364-1:**}} HELLO DOWN THERE!
+> 
+> **[** //RPC-364-1’s voice echos throughout the valley. Saicho shouts back.// **]**
+> 
+> {{**Saicho:**}} WHAT?
+> 
+> {{**RPC-364-1:**}} I SAID HI!
+> 
+> {{**Saicho:**}} I CAN’T HEAR YOU!
+> 
+> **[** //Both start laughing. Saicho unpacks his toiletries.// **]**
+> 
+> {{**Saicho:**}} WHAT ARE YOU DOING UP THERE?
+> 
+> {{**RPC-364-1:**}} GETTING READY!
+> 
+> {{**Saicho:**}} FOR WHAT?
+> 
+> {{**RPC-364-1:**}} HERE IT COMES!
+> 
+> **[** //RPC-364-1 suddenly jumps off the ledge, tucking its legs beneath itself.// **]**
+> 
+> {{**RPC-364-1:**}} CANNONBALL—
+> 
+> **[** //RPC-364-1 hits the water. For several seconds nothing happens. Then RPC-364-1 surfaces, spitting water in an arc and pushing its now matted hair away from its face.// **]**
+> 
+> {{**Saicho:**}} Perfect ten.
+> 
+> {{**RPC-364-1:**}} But I almost tripped!
+> 
+> {{**Saicho:**}} That’s what makes it a perfect ten.
+> 
+> **[** //RPC-364-1 giggles.// **]**
+> 
+> {{**RPC-364-1:**}} Come on in! The water’s great!
+> 
+> {{**Saicho:**}} You’re not cold?
+> 
+> {{**RPC-364-1:**}} You are?
+> 
+> {{**Saicho:**}} Uh, yeah… it’s below freezing right now.
+> 
+> {{**RPC-364-1:**}} Doesn’t really feel like it.
+> 
+> **[** //RPC-364-1 swims to the shoreline.// **]**
+> 
+> {{**Saicho:**}} Are you EVER cold?
+> 
+> {{**RPC-364-1:**}} Not really.
+> 
+> {{**Saicho:**}} Has it always been like that?
+> 
+> {{**RPC-364-1:**}} I dunno.
+> 
+> **[** //RPC-364-1 steps out of the water and wrings its hair.// **]**
+> 
+> {{**Saicho:**}} Are you like a… forest goddess or something?
+> 
+> **[** //RPC-364-1 laughs out loud.// **]**
+> 
+> {{**RPC-364-1:**}} I’ve… I’ve never thought of it that way before!
+> 
+> **[** //It strikes a pose.// **]**
+> 
+> {{**RPC-364-1:**}} ████ ████████, beautiful goddess of the woods!
+> 
+> **[** //The pair laugh again. Saicho is getting undressed to take his bath.// **]**
+> 
+> {{**Saicho:**}} So wait, how long have you been here?
+> 
+> **[** //RPC-364-1 falls silent. Its smile disappears temporarily.// **]**
+> 
+> {{**RPC-364-1:**}} I… I don’t know.
+> 
+> {{**Saicho:**}} Not good at telling time?
+> 
+> **[** //RPC-364-1 rubs the back of its neck uncomfortably.// **]**
+> 
+> {{**RPC-364-1:**}} I mean… I just WAS here at one moment in time. I think I lost track after a while. I… SLEEP a lot.
+> 
+> {{**Saicho:**}} I’m sure it’s not that bad, right?
+> 
+> **[** //RPC-364-1 smiles nervously.// **]**
+> 
+> {{**RPC-364-1:**}} You’d uh… you’d be surprised.
+> 
+> **[** //Both remain awkwardly silent for five seconds.// **]**
+> 
+> {{**Saicho:**}} WELP! I’m going to get into the water.
+> 
+> {{**RPC-364-1:**}} Really? But you complained about it being cold earlier.
+> 
+> {{**Saicho:**}} Eh, I can handle it. If you can, why can’t I?
+> 
+> **[** //Saicho walks up to the shoreline and dips one of his toes in, immediately recoiling back.// **]**
+> 
+> {{**Saicho:**}} Oh SHIT it’s really really cold—
+> 
+> **[** //RPC-364-1 audibly gasps in shock. It covers its mouth with his hands and points directly at Saicho.// **]**
+> 
+> {{**RPC-364-1:**}} POTTY-MOUTH!
+> 
+> {{**Saicho:**}} … What?
+> 
+> **[** //RPC-364-1 starts rummaging around Saicho’s belongings. Sniper teams at the observation tower start taking aim only to notice RPC-364-1 grab Saicho’s bar of soap and place it on the rock. It points directly at it.// **]**
+> 
+> {{**RPC-364-1:**}} No swearing.
+> 
+> {{**Saicho:**}} OH! I’m sorry.
+> 
+> {{**RPC-364-1:**}} Nope. You gotta put the soap in your mouth.
+> 
+> {{**Saicho:**}} Uh…
+> 
+> {{**RPC-364-1:**}} As newly-appointed goddess of these woods, I order you to put the soap in your mouth!
+> 
+> **[** //Saicho humiliatingly walks over to the rock and hesitantly places the soap in his mouth. After three seconds of holding it in, he spits it out and coughs.// **]**
+> 
+> {{**Saicho:**}} Oh– that tasted awful…
+> 
+> **[** //RPC-364-1 is beaming with content.// **]**
+> 
+> {{**RPC-364-1:**}} You can do your thing now!
+> 
+> **[** //RPC-364-1 walks off into the woods. It is disputed amongst onlookers whether or not RPC-364-1 mouthed the phrase “He actually did it!” as it turned away from Saicho.// **]**
+
+> Exploration Log, Day 17
+> 
+> RPC-364-1 poses no threat whatsoever. I firmly believe that now after spending 17 days talking to it and interacting with it. I’m aware that recent interviews with RPC-364-1 haven’t been as fruitful as they could have been, but as an evil entity, you do not wait more than 10 days to kill your victim, especially when he sleeps in your domain one night and other days has no one watching him or you to make sure you don’t make a move.
+> 
+> I’m officially requesting a reclassification to Beta-White. We don’t know where its properties came from, but we do know how to deal with them. And, we know the personality of RPC-364-1 does not invite conflict. It is so sociable that it almost defies expectations as to what an RPC is.
+> 
+> There’s only one caveat when it comes to investigating RPC-364-1: don’t swear. Seriously, don’t. I’ll tell you right now, it’s not a pleasant experience.
+> 
+> - Agent Saicho
+
+> [[=]]
+> **VIDEO LOG**
+> 
+> ------
+> 
+> || **12:54:34 - 13:25:14** ||
+> [[/=]]
+> 
+> **[** //RPC-364-1 and Agent Saicho are sitting a couple of meters from the northern border of RPC-364. Wind is blowing, and the two are just talking.// **]**
+> 
+> {{**Saicho:**}} So this is the place you were telling me about?
+> 
+> {{**RPC-364-1:**}} Yep. You, uh, can’t see it, but it’s a very beautiful view.
+> 
+> {{**Saicho:**}} I bet it is.
+> 
+> **[** //There’s an awkward silence for three seconds. RPC-364-1 brushes its windblown hair out of the way with its hand and points to Mount ██████████.// **]**
+> 
+> {{**RPC-364-1:**}} There’s a mountain over there that’s extra beautiful. I’d go there and see it if I could, but…
+> 
+> **[** //RPC-364-1 grows silent.// **]**
+> 
+> {{**Saicho:**}} What?
+> 
+> {{**RPC-364-1:**}} ██████, can you promise to keep a secret?
+> 
+> {{**Saicho:**}} Sure.
+> 
+> {{**RPC-364-1:**}} I’m sorry… I kinda lied to you a while back. I-I said I didn’t leave here very often.
+> 
+> {{**Saicho:**}} Hey, don’t worry about sounding weird. From what you’ve told me, all the trees here are red, right?
+> 
+> {{**RPC-364-1:**}} Yeah… right. ██████… I can’t leave at all.
+> 
+> {{**Saicho:**}} What do you mean?
+> 
+> {{**RPC-364-1:**}} I don’t know what it is, but whenever I try and go past this fence, I black out and wake up in the woods again. It’s like… something’s keeping me here?
+> 
+> {{**Saicho:**}} Okay… do you have any theories?
+> 
+> **[** //RPC-364-1 sighs. Its hair falls in front of its face.// **]**
+> 
+> {{**RPC-364-1:**}} Not really, no.
+> 
+> {{**Saicho:**}} Well, my dad’s kind of, y’know—
+> 
+> {{**RPC-364-1:**}} Kooky?
+> 
+> {{**Saicho:**}} Uh, no. Whatever, he would look at this situation and say “A man grows most tired while standing still.”
+> 
+> **[** //RPC-364-1 looks confused.// **]**
+> 
+> {{**RPC-364-1:**}} What?
+> 
+> {{**Saicho:**}} Basically, have you tried anything?
+> 
+> {{**RPC-364-1:**}} Not really. I mean, I have tested some things out, but it never works.
+> 
+> **[** //RPC-364-1 rubs the back of its neck.// **]**
+> 
+> {{**RPC-364-1:**}} I mean, looking back on it, I-I was more like “I’m gonna see what happens if I throw this stick over the fence.” I’m sure there’s a better way to figure out a way to leave. I just gotta, y’know, get serious about it.
+> 
+> {{**Saicho:**}} You’re not worried that you could be stuck here?
+> 
+> **[** //RPC-364-1 laughs nervously.// **]**
+> 
+> {{**RPC-364-1:**}} Not really, no. I mean, if I got in here so easily, why can’t I get out easily too?
+> 
+> {{**Saicho:**}} I see what you mean.
+> 
+> **[** //There’s a pause.// **]**
+> 
+> {{**Saicho:**}} Know what you want to do when you get out of here?
+> 
+> **[** //RPC-364-1 looks partially confused as it brushes its hair out of the way once again.// **]**
+> 
+> {{**RPC-364-1:**}} I mean, this place isn’t bad. It’s just that, y’know, I told you I wanted to be a musician.
+> 
+> {{**Saicho:**}} Yeah.
+> 
+> {{**RPC-364-1:**}} I wish my dad was as encouraging as yours. My family in general is just… rude. We have this dog that chewed up my sheet music.
+> 
+> **[** //Saicho laughs. RPC-364-1 looks at him even more puzzled.// **]**
+> 
+> {{**RPC-364-1:**}} What’s funny about that?
+> 
+> {{**Saicho:**}} Nothing, it’s just my service dog does that sometimes too.
+> 
+> **[** //RPC-364-1 is shocked.// **]**
+> 
+> {{**RPC-364-1:**}} You have a service dog?
+> 
+> {{**Saicho:**}} Yeah, I actually brought him the first time, but I lost track of him.
+> 
+> **[** //RPC-364-1 starts sweating.// **]**
+> 
+> {{**RPC-364-1:**}} Oh… I’m sorry—
+> 
+> {{**Saicho:**}} Oh, don’t worry, he turned up eventually. Dogs are like that, y’know?
+> 
+> **[** //RPC-364-1 sighs a breath of relief.// **]**
+> 
+> {{**RPC-364-1:**}} Yeah… I know.
+> 
+> **[** //The two sit silently for ten seconds. Saicho suddenly stands up.// **]**
+> 
+> {{**Saicho:**}} I have an idea. For the eyesight thing?
+> 
+> **[** //RPC-364-1 shoots up, pulsating with excitement.// **]**
+> 
+> {{**RPC-364-1:**}} What? Really?
+> 
+> {{**Saicho:**}} This is going to sound stupid… close your eyes.
+> 
+> {{**RPC-364-1:**}} Okay.
+> 
+> **[** //RPC-364-1 closes its eyes. Several seconds pass.// **]**
+> 
+> {{**RPC-364-1:**}} Uh, what now?
+> 
+> {{**Saicho:**}} That’s… that’s it.
+> 
+> **[** //A look of anxiety grows on RPC-364-1’s face.// **]**
+> 
+> {{**RPC-364-1:**}} I mean… I get the idea, but—
+> 
+> {{**Saicho:**}} Worried you can’t see without eyesight?
+> 
+> **[** //RPC-364-1 concernedly nods.// **]**
+> 
+> {{**Saicho:**}} I’ll teach you. Don’t worry.
+> 
+> **[** //The worried look fades from RPC-364-1’s face.// **]**
+> 
+> {{**Saicho:**}} Okay. Listen to the things around you. Really closely.
+> 
+> **[** //RPC-364-1 turns towards the woods. A moment of silence passes.// **]**
+> 
+> {{**Saicho:**}} Now, try walking forward.
+> 
+> **[** //RPC-364-1 takes one step forward and trips over a rock buried in the snow. The entity tumbles down the hill back into the woods out of sight of onlookers. A second later, one of the treetops rattles. Saicho rushes down to RPC-364-1.// **]**
+> 
+> {{**RPC-364-1:**}} Ow…
+> 
+> {{**Saicho:**}} Okay, so that didn’t work. See? Now we know one thing that doesn’t work.
+> 
+> **[** //RPC-364-1 sits up and rubs the back of its head.// **]**
+> 
+> {{**RPC-364-1:**}} I-I guess you’re right…
+> 
+> **[** //The two walk back up out of the woods towards the fence.// **]**
+> 
+> {{**Saicho:**}} Oh! I was just reminded, here—
+> 
+> **[** //Saicho hands RPC-364-1 a thermos. RPC-364-1 is confused.// **]**
+> 
+> {{**RPC-364-1:**}} What is this?
+> 
+> {{**Saicho:**}} My dad wanted you to try it. Calls it “herbal tea.” I don’t really drink it.
+> 
+> **[** //RPC-364-1 takes a small sip of it and then slurps the rest of it down in one large gulp. It collapses lazily on the ground and hands the thermos back to Saicho.// **]**
+> 
+> {{**RPC-364-1:**}} That was amazing.
+> 
+> {{**Saicho:**}} He usually says it is.
+> 
+> {{**RPC-364-1:**}} Hey, listen… thank you so much. For everything.
+> 
+> {{**Saicho:**}} No problem!
+> 
+> {{**RPC-364-1:**}} I mean it! I haven’t talked to anyone in a really long time. You’re, like, my only friend at this point.
+> 
+> {{**Saicho:**}} I wouldn’t have it any other way.
+> 
+> **[** //RPC-364-1 pulls itself up off the ground. It is beaming with resolve.// **]**
+> 
+> {{**Saicho:**}} Now, let’s go try something else!
+> 
+> {{**RPC-364-1:**}} Okay!
+> 
+> **[** //Saicho and RPC-364-1 start heading back into the woods when RPC-364-1 suddenly stops and holds up its hand.// **]**
+> 
+> {{**RPC-364-1:**}} Wait!
+> 
+> **[** //Saicho stops and turns around.// **]**
+> 
+> {{**RPC-364-1:**}} This time, we do MY idea.
+> 
+> **[** //The pair laugh and head back into the woods, out of sight of the recon teams.// **]**
+
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+@@@@
+@@@@
+
+------
+
+[[=]]
+**[ [[size 125%]]{{NOTE: Use the navigation arrows below to view future revisions}}[[/size]] ]**
+[[/=]]
+[[table style="none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 150%]][http://www.rpc-wiki.net/fragment:rpc364-3 <<][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 150%]][http://www.rpc-wiki.net/fragment:rpc364-5 >>][[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+@@@@
+@@@@
+
