@@ -1,0 +1,14 @@
+---
+title: "Mini Recent Posts"
+tags: []
+page_id: "986661760"
+site: "obscurative"
+slug: "mini-recent-posts"
+revision: 1
+revision_id: "1034698431"
+author: 4518363
+timestamp: 1581339417
+---
+
+[[module MiniRecentPosts limit="100"]]
+

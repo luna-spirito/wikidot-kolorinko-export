@@ -1,0 +1,215 @@
+---
+title: "RPC-000"
+tags: ["co-authored", "rewrite", "rpc", "top10", "translated"]
+page_id: "90814554"
+site: "rpcauthority"
+slug: "rpc-000"
+revision: 58
+revision_id: "1096030536"
+author: 3646714
+timestamp: 1589925209
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[include component:rate ten=show]]
+
+> [[span style="color:red;"]]**Registered Phenomena Code:**[[/span]] //ERROR//
+> 
+> [[span style="color:red;"]]**Object Class:**[[/span]] //Classified//
+> 
+> [[span style="color:red;"]]**Hazard Types:**[[/span]] //Classified//
+
+------
+[[=]]
+[[span style="color:red;"]]
++ **Containment Protocols**
+[[/span]]
+[[/=]]
+------
+= [DATA EXPUNGED] You are not authorized to access this document.
+------
+[[=]]
+[[span style="color:red;"]]
++ **Description**
+[[/span]]
+[[/=]]
+------
+= [DATA EXPUNGED] You are not authorized to access this document[http://rpcauthority.wikidot.com/random:random-rpc .]
+@@@@
+-----
+@@@@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="New Message Received" hide="---"]]
+[[/=]]
+
+[[span style="color:black;"]]
+[[<]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[module ListUsers users="."]]
+%%title%%.
+[[/module]]
+
+Did you think this little mishap would go unnoticed? We assure you, it hasn't. We will issue this         warning once and only once. There is no RPC-000. Stop looking[http://www.rpc-wiki.net/_000-2 .]
+
+[http://rpcauthority.wikidot.com/random:random-rpc -] The Board
+[[/div]]
+[[/<]]
+[[/span]]
+[[/collapsible]]
+[[/div]]
+-----
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="custom"]]
+
+[[=]]
+[[size 100%]] [[collapsible show="► Navigation and Info ◄" hide="▼ Navigation and Info ▼"]] [[/size]]
+---------------------------------------------
+[[<]]
+
+= **Authors**
+
+[[*user Sinaticus]] ---  [[[http://rpcauthority.wikidot.com/plzkillme|Author Page]]]
+
+= **Guide**
+
+= [[[So you wanna solve 000?]]] - Coming Soon
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[/div]]
+
+[[module CSS]]
+
+
+/* Primers */
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
+--hr-color: #00FFFF;
+
+/* Rest of Code */
+hr {
+     border-top: 1px double #A52A2A;
+}
+
+/* Base CSS */
+
+.letter {
+    float: center;
+    border: double 3px #C0C0C0;
+    border-radius: 7px;
+    background:#333;
+    width: 79%;
+    padding: 7px 17px;
+    margin: auto;
+}
+
+.block {
+    float: center;
+    border: none;
+    border-radius: 4px;
+    background:#333;
+    width: 89%;
+    padding: 7px 17px;
+    margin: auto;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.letter hr {
+    background: #FFF;
+}
+
+.block hr {
+    background: #FFF;
+}
+
+.custom {
+   background-color: #1F2125;
+   float: center;
+   border: solid 2px #FFF;
+   padding: 13px 15px;
+   font-family: 'PT Sans', sans-serif;
+   font-size: 1rem;
+   line-height: 141%;
+}
+
+.partition {
+  border: solid 2px #FFF;
+  padding: 13px 15px;
+}
+
+/* Table Section */
+
+table.wiki-content-table td {
+    padding: 0.7rem;
+    box-shadow: inset 0 0 7px #000;
+}
+
+.dark-green table {
+  --table-border: 1px solid #88B04B;
+}
+
+.piss-yellow table {
+  --table-border: 1px solid #EFC050;
+}
+
+.dark-red table {
+  --table-border: 1px solid #8b0000;
+}
+
+[[/module]]
+

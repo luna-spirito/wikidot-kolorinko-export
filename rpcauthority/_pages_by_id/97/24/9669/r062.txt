@@ -1,0 +1,210 @@
+---
+title: "Canon Policy"
+tags: ["information", "policy"]
+page_id: "97249669"
+site: "rpcauthority"
+slug: "canon-policy"
+revision: 62
+revision_id: "1522957265"
+author: 5982545
+timestamp: 1720547148
+---
+
+[[module css]]
+.cell {
+    background-color: var(--table-cell-background);
+    border: var(--table-border);
+    padding: 0.3em 0.7em;
+}
+
+.hcell {
+    text-align: center;
+    background-color: var(--table-header-background-alt);
+    border: var(--table-border);
+    padding: 0.3em 0.7em;
+}
+
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Canon Hub
+[[/div]]
+
+Canons are categories of articles that exist separately from each other and tend to be self-contained. They are similar to alternate universes except you are not always allowed to write crossovers between them. Each Canon may have its own lore pages; however, only the Baseline Canon's lore pages are linked from the topbar. Any other Canon should keep necessary lore within its Canon hub or linked directly from its Canon hub.
+
++ Baseline Canon Rules
+
+* If your article or other written contribution takes place within Baseline Canon, it cannot take place within any other Canon.
+* Do not make explicit references to articles that exist outside of Baseline Canon.
+
++ Lore Submission Requirements
+
+* For an Alternate Reality to be eligible for the [[[Alternate Realities]]] page, the AR must meet the following requirements.
+ * Have at least 3 contributing authors
+ * Be prominently featured within at least 10 articles [[footnote]] For the sake of clarity, "article" refers to RPCs, Tales, and Documents. Themes and Acquired Photographs do not count for these requirements. [[/footnote]]
+ * Exist within the canon multiverse (authors should tag their articles as non-canon otherwise)
+
+* For an EoI to be eligible for the [[[Groups of Interest|GoI]]], [[[governments-of-interest|AoI]]] or [[[persons-of-interest|PoI]]] page, the EoI must meet the following requirements.
+ * Be able to stand on its own, not dependent on another EoI for its content
+ * Be fleshed-out and developed enough to have coherent, enjoyable content
+ * Not be overly generic or similar to an existing EoI
+ * Have either:
+  * at least five articles and five authors
+  * at least seven articles and three authors
+
+**Note that the EoI page itself does not count towards the article requirement.**
+
+* For a Site to be eligible for submission within the [[[Site Index]]], it must be referenced in at least two articles.
+
+* For an MST to appear within the [[[List of All MSTs]]], it must be included in at least three articles and have a substantive specialization that does not currently appear on the list.
+ * An MST must be referenced in at least four articles and be written by at least two authors to appear within the [[[MST Registry]]].
+
+Lore Team may allow for exceptions to these rules on a case-by-case basis. Please contact Lore Team for any questions regarding these requirements. Lore Team exists to ensure a coherent and consistent Canon. They oversee the addition of new Entities of Interest to lore, as well as any potentially contradictory lore.
+
+**Lore Heads:** [[*user Blairin]], [[*user TTPY]], [[*user Von Pincier]]
+
++ Alternate Canons
+
+An Alternate Canon may be formed once it has three connected Non-Canon articles. These Minor Canons are listed at the bottom of this page and may be moved into a concise format if the list becomes extensive. Minor Canons do not get unique tags.
+
+Once a Minor Canon accrues 15 articles with at least 6 contributing authors, it will be eligible for becoming a Prominent Canon. Prominent Canons are different from Minor Canons in that they have a unique tag and have a larger presence on the site. They are also granted a spot in the "RPC Archive" on the top bar. RPC Articles that exist within Prominent Canons will have their suffix changed from -NC to a unique suffix.
+
++ Canon Managers
+
+Canon Managers are in charge of maintaining each Canon. By default, a Canon's manager is whoever wrote its first article; however, a Canon Manager may transfer the position or expand it to include multiple people. Furthermore, Site Staff may decide to revoke someone's management position for reasons such as inactivity or incompetence. Canon management is not a staff position. It is a volunteer position. 
+
+Canon Managers are encouraged to create a hub page for their Canon in order to lay out any writing restrictions and guidelines. These restrictions may be overturned by Site Staff if they are deemed unfair or incompatible with site rules.
+
+Under certain circumstances, a Canon may have no manager, or may not need an active manager.
+
+[[table style="border-collapse: collapse; border-spacing: 0; margin: 15px 0; width: 100%;"]]
+[[row]]
+[[cell class="hcell" colspan="3"]]
++ Primary Canons
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="hcell"]]
+**Canon**
+[[/cell]]
+[[cell class="hcell"]]
+**Manager(s)**
+[[/cell]]
+[[cell class="hcell"]]
+**Description**
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="cell"]]
+[[=]]
+Baseline
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+[[=]]
+Lore Team
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+This is the default Canon for the Site. This Canon is managed by Lore Team in order to prevent contradictions and overtly incompatible content.
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="cell"]]
+[[=]]
+[[[non-canon-hub|Non-Canon]]]
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+[[=]]
+None
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+Articles that do not fall under any other Canon. 
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="hcell" colspan="3"]]
++ Prominent Canons
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="hcell"]]
+**Canon**
+[[/cell]]
+[[cell class="hcell"]]
+**Manager(s)**
+[[/cell]]
+[[cell class="hcell"]]
+**Description**
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="cell"]]
+[[=]]
+[[[cosmic-embers-hub|Cosmic Embers]]]
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+[[=]]
+[[*user Mr Makor]], [[*user H F Dummie]], [[*user Televisionist]]
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+COSMIC EMBERS canon is a Golden Age Science Fiction operatic with humanity traversing an uncaring universe. The Neo-Authority, GRPC, must adapt to keep an embittered and dwindling humanity alive.
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+[[collapsible show="+ Minor Canons" hide="- Minor Canons"]]
+
+[[table style="border-collapse: collapse; border-spacing: 0; margin: 15px 0; width: 100%;"]]
+[[row]]
+[[cell class="hcell"]]
+**Canon**
+[[/cell]]
+[[cell class="hcell"]]
+**Manager(s)**
+[[/cell]]
+[[cell class="hcell"]]
+**Description**
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="cell"]]
+[[=]]
+PLACEHOLDER
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+[[=]]
+PLACEHOLDER
+[[/=]]
+[[/cell]]
+[[cell class="cell"]]
+PLACEHOLDER
+[[/cell]]
+[[/row]]
+[[/table]]
+
+
+[[/collapsible]]
+
