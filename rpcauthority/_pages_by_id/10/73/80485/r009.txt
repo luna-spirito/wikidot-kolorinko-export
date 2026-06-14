@@ -1,0 +1,461 @@
+---
+title: "Scripting Guide"
+tags: ["guide"]
+page_id: "107380485"
+site: "rpcauthority"
+slug: "scripting-guide"
+revision: 9
+revision_id: "959636556"
+author: 3625466
+timestamp: 1569711133
+---
+
+[[module CSS]]
+@media (max-width: 1635px) {
+   .desktop-only{ display: none; visibility:hidden }
+}
+[[/module]]
+
+[[div class="desktop-only" style="position:fixed; RIGHT: 7%; BOTTOM: 20%; width: 10%; height: auto;"]]
+[[toc]] 
+[[/div]]
+
+JavaScript can help make your pages feel more dynamic and alive. That said, you should try to go light on scripting since you don't want to tank readers' browsers. If you haven't already read through the Formatting Guide (the CSS portion, at least) I'd recommend doing so because this guide will expand on some of the topics covered there.
+
+**Note:** If you just want some code blocks that you can paste into your article, scroll down to the 'Examples' section.
+
+-----
+
++ Getting Started
+
+Although JavaScript might look difficult or complex, it's actually a pretty easy language to pick up and start writing some basic scripts in.
+
+-----
+
+++ What is JavaScript?
+
+JavaScript is a scripting language that is frequently used alongside HTML and CSS to create dynamic and interactive webpages. 
+
+-----
+
+++ Using JS in Wikidot
+
+To add JavaScript code to a Wikidot page, it must be enclosed in an HTML element like so:
+
+> [[html]]
+> Your text goes here!
+> <script>
+> JavaScript goes between these script tags.
+> </script>
+> [[/html]]
+
+Which will create:
+
+[[html]]
+Your text goes here!
+<script>
+JavaScript goes between these script tags.
+</script>
+[[/html]]
+
+Since this is in its own HTML frame, it doesn't inherit any of Wikidot's CSS styling, which is why the text defaults to Times New Roman. Formatting can be applied later to make it look more similar to normal text.
+
+It's very important to note that if you want your code to interact with the content of your article, said content **must** be in the same HTML module as your JavaScript. Otherwise, the code won't be able to access it.
+
+-----
+
++ The Basics
+
+If you have knowledge of another programming language, JavaScript shouldn't be hard at all for you. A lot of these concepts are shared across all languages.
+
+-----
+
+++ Variables
+
+A variable is something that stores a value. There are many types of data a variable can store, but you'll mostly be working with a number, a string of text, a boolean (true or false), or an object (a set of multiple properties with their own values.)
+
+Here's how to create a variable:
+
+> var myVar = 5;
+
+'var' means we're about to define a variable, 'myVar' is the variable name, '=' means we're about to assign it a value, and '5' is its value.
+
+Variables can be reassigned after they're created, like so:
+
+> var myVar = 2;
+> myVar = 4;
+
+Variables can also be created with no value, and be given one later:
+
+> var myVar;
+> myVar = 10;
+
+Let's try with some other types of data:
+
+* Strings
+> var myVar = "Hello World";
+* Booleans
+> var myVar = true;
+> var myVar = false;
+* Objects
+> var myObject = {propertyOne: "Hello ", propertyTwo: "World"};
+
+Objects are a bit more complicated and we'll go over those more in-depth later.
+
++++ Math
+
+You can perform many math operations in JavaScript - for example:
+
+> var sum = 2 + 2;
+> 
+> //@@//@@ sum will have a value of 4//
+
+You can also perform operations using variables.
+
+> var firstOp = 10;
+> var secondOp = 5;
+> var product = firstOp * secondOp;
+> 
+> //@@//@@ product will have a value of 50//
+
+You can use this to increment variables:
+
+> var number = 5;
+> number = number * 5;
+> 
+> //@@//@@ number's new value will be 25//
+
+This can also be used on strings:
+
+> var firstString = "Hello ";
+> var secondString = "World";
+> var combinedString = firstString + secondString;
+> 
+> //@@//@@ combinedString will have a value of "Hello World"//
+
++++ camelCase
+
+When naming your variables, it's good practice to use camelcase. In short, the first word of the variable's name begins in lowercase, while every subsequent word begins with a capital letter. For example:
+
+> var thisIsCamelCase;
+> var Notcamelcase;
+> var DEFINITELYNOTCAMELCASE;
+
+-----
+
+++ Functions
+
+Functions are useful when you're going to reuse a code block many times, but you don't want to have to type it out each time. With functions, you simply define them once, and can call them however many times you want later down the line.
+
+This is how to define a function:
+
+> function myFunction() {
+> @@    @@return "Hello World!";
+> }
+
+When called, this function will output a value of "Hello World!"
+
+Functions can also have a set of parameters. To demonstrate this, let's make a simple function that will multiply two numbers that are input.
+
+> function multiply(number1, number2) {
+> @@    @@return number1 * number2;
+> }
+> 
+> //@@//@@ This function can then be called with any set of numbers. For example://
+> 
+> multiply(2, 2);
+> //@@//@@ This will return 4.//
+> 
+> multiply(20, 5);
+> //@@//@@ This will return 100.//
+
+Parameters are defined inside the function's parentheses and separated by commas. There's practically no limit on the number of parameters you can create, but try to keep it at a minimum.
+
+-----
+
+++ Arrays
+
+An array is a set of data - for instance, a shopping list. A shopping list would look something like this:
+
+> * Eggs
+> * Milk
+> * Cereal
+> * Butter
+
+And in JavaScript, it would look like this:
+
+> var shoppingList = ["Eggs", "Milk", "Cereal", "Butter"];
+
+Once we've created an array, we can access the values stored in it using **bracket notation**. Say we want to find the third item in the list.
+
+> var shoppingList = ["Eggs", "Milk", "Cereal", "Butter"];
+> var thirdItem = shoppingList[2];
+> //@@//@@ thirdItem is now equal to "Cereal".//
+
+Note that JavaScript arrays begin at 0 rather than 1, so the third item will have an index of 2.
+
+You can add items to an array using the push() and unshift() methods. push() will add one or more items to the end of the array, while unshift() will add them to the beginning. For example:
+
+> var exampleArray = ["Three", "Four"];
+> 
+> exampleArray.push("Five", "Six");
+> //@@//@@ exampleArray is now ["Three", "Four", "Five", "Six"]//
+> 
+> exampleArray.unshift("One", "Two");
+> //@@//@@ exampleArray is now ["One", "Two", "Three", "Four", "Five", "Six"]//
+
+-----
+
+++ Objects
+
+We covered objects briefly before, but we'll have a more in-depth look at them now. Objects store data in key-value pairs, similar to a dictionary. For example:
+
+> var carOne = {
+> @@  @@color: "blue",
+> @@  @@horsepower: 400,
+> @@  @@brand: "Audi"
+> }
+
+If you want to access an object's properties, you can either use **dot notation** or **bracket notation**.
+
+> var colorA = carOne.color;
+> //@@//@@ This is dot notation. colorA will equal "blue".//
+> 
+> var colorB = carOne['color'];
+> //@@//@@ This is bracket notation. colorB will also equal "blue".//
+
+An object's properties can be changed just as easily.
+
+> carOne.color = "green";
+
++++ Constructors
+
+Now, say you want to make multiple 'car' objects that all follow the same template and have the same properties. You can use what's known as an **object constructor**.
+
+> function Car(color, horsepower, brand) {
+> @@  @@this.color = color;
+> @@  @@this.horsepower = horsepower;
+> @@  @@this.brand = brand;
+> }
+
+This constructor takes three parameters and creates an object using those parameters. Now we can use the constructor like so:
+
+> var carTwo = new Car("yellow", 510, "Ferrari");
+> var carThree = new Car("white", 395, "Ford");
+
+-----
+
+++ Conditionals
+
+Often when writing code, you're going to want to check whether something is true, and if so, execute a specific action. With 'if' statements, you can do just that.
+
+> if (5 > 4) {
+> @@  @@return "Yes";
+> }
+
+This is a simple if statement that will always return "Yes", as 5 is greater than 4. If we change the code like so, it will no longer execute:
+
+> if (5 > 6) {
+> @@  @@return "Yes";
+> }
+
+If you want to have a secondary condition to check for, you can use an 'else if' statement:
+
+> if (5 > 6) {
+> @@  @@return "Yes";
+> } else if (5 > 4) {
+> @@  @@return "Maybe";
+> }
+
+Here, it will output "Maybe". Note that you can have multiple 'else if' conditions, but if more than one is true, only the first true condition will be executed. For example:
+
+> if (5 > 6) {
+> @@  @@return "Yes";
+> } else if (5 > 4) {
+> @@  @@return "Maybe";
+> } else if (5 == 5) {
+> @@  @@return "Maaaybe";
+> }
+
+Here, both 'else if' conditions are true, but only the first will be executed.
+
+Lastly, if all conditions are false, you can choose to execute another action by using 'else'.
+
+> if (5 > 6) {
+> @@  @@return "Yes";
+> } else if (5 == 6) {
+> @@  @@return "Maybe";
+> } else {
+> @@  @@return "No";
+> }
+
+Here, "No" will be the output because none of the above conditions are true.
+
+-----
+
+++ Document Object
+
+Now that we have some basic knowledge of JavaScript, we need to tie it in with HTML. This is where the document object shines. To access an element, you'll need its ID. Once you have that, you can use:
+
+> document.getElementById('elementID');
+
+There are many ways to manipulate HTML elements. We'll only go over a few for now. If you want to change the content of an element, you can use:
+
+> document.getElementById('elementID').innerHTML = 'new content';
+
+Note that this will replace **all** of the element's content with the new content. If you just want to add content, you can use the '+=' operator.
+
+> document.getElementById('elementID').innerHTML += 'content to add';
+
+Now, the content will simply be added on to the end of the element.
+
+You can also change an element's styling, like so:
+
+> document.getElementById('elementID').style.attribute;
+
+So if you wanted to change an element's border, you would type:
+
+> document.getElementById('elementID').style.border = '3px dashed white';
+
+Say you want to remove an element completely. Here's the method I like to use:
+
+> document.getElementById('elementID').parentNode.removeChild(document.getElementById('elementID'));
+
+-----
+
+++ Miscellaneous
+
+This is a small list of some other useful functions, etc. that I think you should know.
+
+* setTimeout(function, delay) - This will execute a function after a delay. The delay is counted in milliseconds, so 1000 = 1 second.
+
+> setTimeout(function(){document.write("Hello World!");}, 5000);
+
+This will print "Hello World!" after 5 seconds.
+
+-----
+
++ Examples
+
+Feel free to use these examples in your articles if necessary.
+
++++ Pop In Element
+
+> [[html]]
+> <head>
+> <style>
+> @keyframes popin {
+> @@    @@from {opacity: 0; transform: scale(0.5);}
+> @@    @@to {opacity: 1; transform: scale(1);}
+> }
+> 
+> .popin-box {
+> @@    @@animation: popin 0.3s ease-out;
+> @@    @@background-color: #060606;
+> @@    @@width: fit-content;
+> @@    @@margin-left: auto;
+> @@    @@margin-right: auto;
+> @@    @@padding: 1% 3% 1% 3%;
+> @@    @@border: 1px solid #eee;
+> @@    @@border-radius: 3px;
+> }
+> </style>
+> </head>
+> 
+> <body style="color: #eee; text-align: center;">
+> <button id="add-button" onclick="addPopinBox();">Create Box</button>
+> 
+> <script>
+> function addPopinBox() {
+> @@    @@var boxElement = document.createElement('div');
+> @@    @@boxElement.className = 'popin-box';
+> @@    @@boxElement.innerHTML = 'example';
+> @@    @@document.getElementById('add-button').parentNode.replaceChild(boxElement, document.getElementById('add-button'));
+> }
+> </script>
+> </body>
+> [[/html]]
+
+This code creates a new element with a pop-in effect when the button is pressed.
+
+[[html]]
+<head>
+<style>
+@keyframes popin {
+    from {opacity: 0; transform: scale(0.5);}
+    to {opacity: 1; transform: scale(1);}
+}
+
+.popin-box {
+    animation: popin 0.3s ease-out;
+    background-color: #060606;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 3% 1% 3%;
+    border: 1px solid #eee;
+    border-radius: 3px;
+}
+</style>
+</head>
+
+<body style="color: #eee; text-align: center;">
+<button id="add-button" onclick="addPopinBox();">Create Box</button>
+<br><br><button onclick="location.reload();">Reset Example</button>
+
+<script>
+function addPopinBox() {
+    var boxElement = document.createElement('div');
+    boxElement.className = 'popin-box';
+    boxElement.innerHTML = 'example';
+    document.getElementById('add-button').parentNode.replaceChild(boxElement, document.getElementById('add-button'));
+}
+</script>
+</body>
+[[/html]]
+
+-----
+
++++ Smart Text Input
+
+> [[html]]
+> <body style="color: #eee; text-align: center;">
+> <form id="name-form" onsubmit="getName();">
+> <input type="text" id="name-input" name="name" ><input type="submit" value="Submit">
+> </form>
+> 
+> <script>
+> var userName;
+> 
+> function getName() {
+> @@    @@userName = document.getElementById('name-input').value;
+> @@    @@var welcomeBlock = document.createElement('span');
+> @@    @@welcomeBlock.innerHTML = '<em>Welcome, ' + userName + '.</em>';
+> @@    @@document.getElementById('name-form').parentNode.replaceChild(welcomeBlock, document.getElementById('name-form'));
+> }
+> </script>
+> </body>
+> [[/html]]
+
+This code takes a user input and displays it on the page. You can see it in action below:
+
+[[html]]
+<body style="color: #eee; text-align: center;">
+<form id="name-form">
+<input type="text" id="name-input" name="name"><input type="button" value="Submit" onclick="getName();">
+</form>
+<br><br><button onclick="location.reload();">Reset Example</button>
+
+<script>
+var userName;
+
+function getName() {
+    userName = document.getElementById('name-input').value;
+    var welcomeBlock = document.createElement('span');
+    welcomeBlock.innerHTML = '<em>Welcome, ' + userName + '.</em>';
+    document.getElementById('name-form').parentNode.replaceChild(welcomeBlock, document.getElementById('name-form'));
+}
+</script>
+</body>
+[[/html]]
+

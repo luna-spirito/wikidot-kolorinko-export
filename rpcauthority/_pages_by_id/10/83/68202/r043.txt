@@ -1,0 +1,99 @@
+---
+title: "Persons of Interest"
+tags: ["hub", "information", "lore"]
+page_id: "108368202"
+site: "rpcauthority"
+slug: "persons-of-interest"
+revision: 43
+revision_id: "1523254077"
+author: 5982545
+timestamp: 1722111703
+---
+
+[[module css]]
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777; 
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #29292f;
+    --WT-v7: var(--primary-background);
+}
+
+.textBlock {
+    background-color: var(--primary-background);
+    border: var(--basic-border); 
+    margin: 5px 0; 
+    padding: 14px 24px; 
+}
+
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; border: solid 2px #000; border-radius: 10px; margin: 0 auto; padding: 10px 30px; background: var(--v7);"]]
+
+[[=]]
+[[div style="line-height: normal; text-align: center; font-size: 250%; font-weight: bold;"]]
+ **{{PERSONS OF INTEREST}}**
+[[/div]]
+-----
+[[/=]]
+
+[[size 112%]]
+**Overview:** This document deals with various peoples known to deal in paranormal artifacts, as well as their objectives and methods of operation.
+[[/size]]
+
+> = **Table of Contents**
+> [#veiko-olesk Veiko Olesk]
+
+* [[[canon-policy|Canon Policy]]]
+[[/div]]
+
+[[div class="textBlock"]]
++ Threat ID System
+[[collapsible]]
+||||~ Threat Level||
+||PT-01||A person with knowledge or possession of anomalous objects that pose a direct and immediate threat to The Authority and humanity as a whole.||
+||PT-02||A person with capacities to cause major disruption to society and may have knowledge of The Authority.||
+||PT-03||A person in possession of minor anomalous items or knowledge. These persons do not have knowledge of The Authority and have little capability to enact major disruptions to normal life.||
+||PU-0|| A persons whose motives are unknown.||
+||PA-03||A person that is not cooperative with The Authority but does not pose a direct threat.||
+||PA-02||A person which is amicable to Authority actions.||
+||PA-01||A person that is continuously supportive of Authority actions.||
+[[/collapsible]]
+[[/div]]
+
+[[# veiko-olesk]]
+[[div class="textBlock"]]
+
++ Veiko Olesk - PT-02
+
+[[f>image IMG_20190829_172443.png width="250px"]] 
+
+**Status:** ##red|HOSTILE##
+**Action:** ##red|APPREHEND IF POSSIBLE##
+
+**Overview:**  Since he joined the organization in 2003, Olesk has been one of the most prominent Malthusian combat units. He has served in various Malthus campaigns, most notably the Gobi campaign of 2005. During said campaign, he would find himself serving alongside other future persons of interests, such as fellow Malthusian Adja Hadžić, who he has encountered during various Malthus operations, and future AEP operative Anders Sivertsen. He was one of the first Malthusians to successfully go through body modifications, gaining his mutated left arm in 2004. 
+
+In addition to his frequent participation in combat, Olesk also participates in various other Malthusian operations, ranging from counter-intelligence to assassinations. However, these instances are rare, as his arm provides a clear identifier. His arm has also led to him being less proficient with standard small arms, leading him to pursue many close-range engagements. His claw-like fingers present on his left arm are capable of penetrating standard authority body armor, whilst his arm itself appears to have limited regenerative capabilities. 
+
+**Related Works**
+[[[Beasts, in the Belly of the Beast]]]
+[[/div]]
+

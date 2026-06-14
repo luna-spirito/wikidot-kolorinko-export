@@ -1,0 +1,204 @@
+---
+title: "Protection Division"
+tags: ["hub", "lore"]
+page_id: "108655654"
+site: "rpcauthority"
+slug: "protection-hub"
+revision: 52
+revision_id: "1523254079"
+author: 5982545
+timestamp: 1722111705
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:protection-theme/code/1);
+[[/module]]
+[[=]]
+╏ © AUTHORITY INTRANET ┃ AUCTORITAS ALL-EYE ┃ CONNECTED ┃ LOGIN TIME ##red|99:99:99## ╏
+[[/=]]
+[[div class="content-panel"]]
+[[html]]
+<!-- Random string code modified from http://www.scp-wiki.net/scp-5000-j "SCP-5000-J: The Cookie Caper" created by user DrMagnus of the SCP Wiki -->
+<style>
+a, a:visited {
+color: #4e8044;
+}
+a:hover {
+color: #574c48;
+}
+p {
+color: white;
+font-size: 16px;
+line-height: 141%;
+font-family: "Courier";
+}
+.more {
+color: #4e8044;
+text-decoration: underline;
+}
+.consoleText {
+float: left;
+clear: none;
+width: calc(100% - 15px);
+}
+.consoleBar {
+float: left;
+width: 15px;
+clear: none;
+}
+.consoleBar, .consoleText {
+margin: 0;
+}
+</style>
+<p class="consoleBar">
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+</p>
+<p class="consoleText">
+<span style="color: #707f4c;">DAILY NEWS PORTAL FOR CONTINENT OF</span> <span style="color: grey;">NORTH AMERICA</span> <br>
+Necessary reading for all ASF, MST, and Protectorate staff. 
+<br>
+ACI briefing can be found here: <span style="color: red;">[REDACTED]</span>
+<br>
+<br>
+<br>
+<span id="rand"></span> <br>
+<br>
+</p>
+<script>
+var randomStrings = [
+"Alpha-3 heroically defeats lawnmower.┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-112\"> more </a> </span> <br><br> Hotel-1 <a href=\"http://rpcauthority.wikidot.com/hotel-1-the-highlanders\"> Highlanders</a> exchanges blows with the gingerbread man; wins. ┃ <span class=\"more\"><a href=\"http://rpcauthority.wikidot.com/rpc-319\"> more </a></span> <br><br> Delta-42 & Sierra-06 raid GARD with the help of FOA force. ┃ <span class=\"more\"><a href=\"http://rpcauthority.wikidot.com/rpc-940\">more </a></span> <br><br> Tango-6 monitors turtle. Still not dead. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-187\"> more </a> </span> <br><br> <span style=\"color: red;\">[DELETED]</span> <br> <br> Papa-4 embedded in India; monitoring traffic anomalies. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-244\"> more </a> </span>",
+"<a href=\"http://rpcauthority.wikidot.com/uniform-1-through-god-s-eyes\"> Uniform-1</a> investigates hyper-real reality; everyone seems to be dead. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-202\"> more </a> </span> <br><br> <a href=\"http://rpcauthority.wikidot.com/sierra-8-sundowners\"> Sundowners</a> and <a href=\"http://rpcauthority.wikidot.com/x-ray-6-annulifers\">Annulifiers</a> co-operate on clean-up of wendigo.┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-030\"> more </a> </span> <br><br> All NORTHCOM staff are reminded to keep radios on from 23:00 to 00:00 ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-444\"> more </a> </span> <br><br> CO's of personnel KiA are required to fill out a 178 requisition. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-178\"> more </a> </span> <br><br>Site-014 destroyed in thermonuclear blast; funerals to be held this coming December. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/fail-safe\"> more </a>",
+"APB for Lead Researcher Kahr is still in effect. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-261\"> more </a> </span> <br><br> Read: A petition by GD-EAST to complete autonomous tank. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-368\"> more </a> </span> <br><br> Testing to begin with automatic loading crossbows for Antarctica Sites. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-059\"> more </a> </span> <br><br> Charlie-2 gets sentient, self filling, and self propelling anti-fire vehicle. Fires fall by 80%. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-164\"> more </a> </span> <br><br> Potted plant causes death of 128, including multiple protection personnel over the Caribbean. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-985\"> more </a> </span> <br><br> <a href=\"http://rpcauthority.wikidot.com/foxtrot-4-prey\"> Foxtrot-4</a> recruiting Blue Dawn event responders. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-399\"> more </a> </span>",
+"Sightings of RCPA personnel have increased. Neutralize on sight; as per 1978. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-749\"> more </a> </span> <br><br> Investigation by <a href=\"http://rpcauthority.wikidot.com/tango-12-eye-from-the-sky\"> Tango-12</a> into global auditory attacks is ongoing. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-918\"> more </a> </span> <br><br> <span style=\"color: red;\"> YOU CAN NOT ESCAPE ME. I WILL HAVE YOUR WORLD, AND ALL YOUR PATHETIC LIVES.  </span>┃ <span style=\"color: red;\"><a href=\"http://rpcauthority.wikidot.com/rpc-548\"> NO MORE </a></span> <br><br> Administration dictates new budgeting for divisions. ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/budget-cuts-event\"> more </a> </span> <br><br> </span> Amelia Earhart Interviewed: What a dame! | <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/rpc-134\"> more </a> </span> <br><br> Annual remembrance for Riverbed Solitaire soon.  ┃ <span class=\"more\"> <a href=\"http://rpcauthority.wikidot.com/operation-riverbed-solitaire\"> more </a> </span>"
+];
+window.onload = function() {
+var text = randomStrings[Math.floor(Math.random() * randomStrings.length)]
+document.getElementById("rand").innerHTML = text;
+}
+
+</script>
+[[/html]]
+[[/div]]
+
+
+
+
+[[collapsible show="+ From CO: Introductory Briefing" hide="- Close Introductory Briefing"]]
+> Good morning, recruit. My name is Warrant Officer Briggs, and I welcome you to the Protection Division. You have selected, or have been selected, to become a part of our division due to your exceptional physical abilities and achievements in the field. You have achieved much to earn your place here, but this is only the beginning of a new chapter in your life. You will be catapulted into a world you have not previously seen. A world consisting of teleporting abominations, hounds that endlessly pursue you, and potentially catastrophic scenarios.
+>
+> Some of you of may feign shock, but you have always known that there was something eluding your senses in this world; this is simply your presumptions coming to fruition. Our work extends beyond that of simple grunt duties, and there is much to cover.
+>
+> Your purpose is simple: you are the sword and the shield. We are the only ones who safeguard the Authority from whatever ungodly creation has spawned from the darkest corners of the world. You have been selected because it is believed that you are one of the few who stand to safeguard the existence of the world as we know it. Prove your worth.
+>
+> (CW-05) ██████ Briggs.
+[[/collapsible]]
+
+[[=]]
++ __Introduction__
+[[/=]]
+
+Welcome to the Protection Division! This division is responsible for the Authority's military operations, operating a sizeable ground and naval force. The Protection Division is the first responder in the event of a discovery of a potential anomaly, quickly securing and containing the area of occurrence. The Protection Division is also responsible over the Authority Central Intelligence, whose function is rooting out potential espionage and securing intelligence leaks. 
+
+----
+
+[[=]]
++ __[http://www.rpc-wiki.net/protectorate| The Protectorate]__
+[[/=]]
+
+The Protectorate is a coalition of firefighters, rescue workers, and medical specialists established around the globe in independent outposts that are the first responders to any emergency, disaster, or catastrophe involving the anomalous and beyond. Their number one priority above all is to reduce the loss of human life by evacuating and rescuing civilians from any danger. They are given a wide range of tools to do so, but are expected to keep their tools from their imperiled's vision, as they are the only branch of the Authority that actively and repeatedly interacts with civilians.
+
+The Protectorate is also the main recruiter of the Authority, responsible for bringing in most civilians into the fold, by giving them a chance to join the Authority after being either exposed to the anomalous, saved by a Protectorate ranger, or stabilized by a member of the Trauma Team. The recruits are then usually dispersed throughout the Authority based on their skillset.
+
+Protectorate Rangers are expected to be semi-autonomous outside of a few set tasks that are given to them by their local chief. Often, Protectorate rangers may be found assisting other members of the Authority with day to day tasks, or dedicating some of their time to aid medical personnel, due to the rarity of their deployment. 
+
+[[=]]
+**SERVIRE ET SERVARE**
+[[/=]]
+
+----
+
+[[=]]
++ __[http://www.rpc-wiki.net/aedfmanifest| Authority Extraterrestrial Defense Force]__
+[[/=]]
+
+An amalgamation of various legacy Authority space programs, the AEDF uses advanced technology to operate beyond the Earth's atmosphere. Launched from Sites across the Earth, AEDF satellites, stations and ships provide logistical lines, ultra-high-altitude reconnaissance, and high-speed transport across the Solar System. The AEDF takes great pride in its status as the shield of the Sol system, and is constantly tracking, monitoring and, if necessary, neutralizing both anomalous and non-anomalous threats to Earth. 
+
+The Three Fleets comprise a venerable force with long experience in off-world exploration and reconnaissance. From the dependable launch vehicles of TERFLT to the INFLT asteroid-defense facilities on Luna to the mighty torch vessels of the OUTFLT, the brave spacers of the Force are constantly pushing the boundaries of Human understanding in service to keeping our planet safe. 
+
+[[=]]
+"No one will know our names when we are gone, but the spirit of all humanity will be emboldened for our sacrifices. At the very least, we have had these few brief moments to brush our fingers against the glimmering expanse. Our souls won't have far to go home to God."
+[[/=]]
+ 
+ - OUTFLT Admiral Josef Milsovec, written prior to his death on the crippled AEDFS //Munificent//, 1964.
+
+[[=]]
+**YIMA ULWE NOBOSUKU**
+[[/=]]
+
+----
+
+[[=]]
++ __[[[Authority Central Intelligence]]]__
+[[/=]]
+
+The ACI, also known as Authority Central Intelligence, is a specialist wing in the Protection Division responsible for the coordination of intelligence, counter-intelligence, cyber security, and espionage networks in and out of Authority facilities. Operatives affiliated with the ACI observe and track various leads pertaining to military, government, and commercial networks involving Authority interests, concerns, and threats. All information collected by the ACI is then processed to filter inconsistent or unreliable sources. 
+
+The ACI is additionally responsible for public disinformation/obstruction campaigns, apprehending and interrogating unaffiliated witnesses to anomalous events or Authority operations. Events requiring immediate or significant public concealment may result in the administration of amnestics to all involved witnesses.
+
+While maintaining a centralized command structure, ACI personnel are provided significant flexibility during undercover operations and are allowed to enact appropriate countermeasures in the event of mission compromise. ACI personnel are additionally permitted to enact staff observations/evaluations in the event of an active concern or suspicion pertaining to staff behavior, loyalty, or discretion.  
+
+[[=]]
+**TACITUS COLIMUS**
+[[/=]]
+
+----
+
+[[=]]
++ __[[[mst-registry| Mobile Specialized Teams]]]__
+[[/=]]
+
+MSTs, also known as Mobile Specialized Teams, is the collective designation given to groups of  military personnel specializing in various functions pertaining to the capture/tracking of anomalous objects and elimination of hostile groups. MSTs do not pertain to infantry functions, instead exclusively operating under select fields that require specific skill sets. MSTs are additionally provided independent arsenals and designations (callsigns) to assist in operations and identification. 
+
+Unlike other Protection Division assets, MSTs operate under a decentralized command system, with individual detachments being administrated by groups of commanding officers. This additionally applies to base of operations, as individual MST detachments may be independently housed or garrisoned in Authority installations.   
+
+All active MSTs are logged within a compiled database detailing their callsign, function, involved anomalies, and archived documentation. As additional anomalies are discovered, more detachments will be produced and their respective information detailed. 
+
+[[=]]
+**SERVITE ET PROTEGE**
+[[/=]]
+
+[[div style="border-bottom: 4px double var(--horizontal-rule-background);"]]
+[[/div]]
+
+[[=]]
++ __Protection Tones__
+[[/=]]
+
+The Protection Division primarily revolves around neutralization, acquisition, and re-containment of anomalous entities that are outside or have escaped the Authority. While an article may be written about the testing of any anomalous item, that writing lends itself better to research division. The objective of protection is exactly as its namesake is, protecting. This lends itself better to anomalous items that require force, constant watch, and a physical aspect that the other three divisions may not be able to provide.
+
+[[[protection-tone| Protection Tone]]] is entirely militaristic, and uses jargon, callsigns, and equipment to match. This also operates within their ideology, such as the chain of command that dictates who they answer to and when they answer to them. These are mainstays, and to break them by any soldier of any rank is a court martial or something far worse. Similarly, military culture operates on a "don't ask, don't tell" system, and it is very unlikely that any soldier would openly speak of any information not available to the general public on accident. That action suits much more towards research, who would freely share information between each other for the purposes of containment.
+
+[[[aci-tone| ACI Tone]]] is a tone that largely revolves around intelligence gathering, subterfuge, cold operations, and very rarely, conflict through assassinations and kidnappings. When writing an ACI Tone, base it within the world, and give a grounded reason for everything that the agent writes. The tone is expected to be highly professional, with little to no jokes and "to the point" information that would allow a commander to skim over the report with his morning coffee.
+
+[[=]]
+**When posting a Protection Tone article, make sure to add the "protection-tone" or "aci-tone" tag. You should apply the Protection Division theme to the article as well.**
+[[/=]]
+

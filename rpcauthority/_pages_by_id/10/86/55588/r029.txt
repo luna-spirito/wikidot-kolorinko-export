@@ -1,0 +1,97 @@
+---
+title: "Research Division"
+tags: ["hub", "lore"]
+page_id: "108655588"
+site: "rpcauthority"
+slug: "research-hub"
+revision: 29
+revision_id: "1523254078"
+author: 5982545
+timestamp: 1722111704
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+[[/module]]
+
+[[module css]]
+:root {
+--research-header-bg: url(http://rpcauthority.wikidot.com/local--files/component:research-theme/ResearchHeader1.png);
+}
+[[/module]]
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/research-hub/deliveryService.png|caption=//Better to illuminate than merely to shine, to deliver to others contemplated truths than merely to contemplate.// - Thomas Aquinas.|width=700px|align=center]]
+
+-----
+
+[[=]]
++ __Introduction__
+[[/=]]
+
+Welcome to the Research Division of the Authority. Fractured and divided as we may be, we stand together in solidarity under one unifying goal: to further humanity's knowledge of the universe through an understanding of what defies its 'laws'. Through rigorous testing and study of the various objects and phenomena that our organization has managed to acquire, we have been able to find answers to that which was thought by our forebears unconceivable. 
+
+We are the Authority's eyes into the great void of knowledge, its hands to sculpt it, both the watcher and the listener, its guiding rudder. We have participated as our organisation's ship rowed out of the pits of its ignorant foundation, our members its oarsmen. Our Division offers a wide variety of opportunities, both professional and undisclosed, in many different fields, either strictly scientific or occult. After all, as pioneers for knowledge, there is always more to find the truth, and at that, even more to make of it. Some of our Division's various departments and research groups are outlined below.
+
+----
+
+[[=]]
++ __[[[The Bureau of Acquisition]]]__
+[[/=]]
+
+The Bureau is an agglomeration of various seemingly disconnected departments, held together by their collective task of obtaining and fabricating resources for the rest of the Authority to work with. 
+
+The structure of this body is infamously complicated and chaotic, making it almost impossible for an outsider to understand the vast variety of the many clubs, cults, congregations and cranks that make it up. Each department in the Bureau has its own culture and set of beliefs that branch out even further with the different groups that exist within them. Even members of this department agree that it is useless to try and not only remember, but discover all of them. But, this method of organisation is yet to prove ineffective.
+
+With all its internal chaos, the members of the Bureau all know what their job is and how to effectively do it. Each member can provide a different answer to a question, and it's always a matter of time until an optimal one is found. The Bureau members pride themselves in their rich histories and accomplishments, and each department within it is always pushing the limits of their capabilities to prove their effectiveness, all the while deriving a bit of amusement from the shocked expressions of the other employees around them.
+
+[[=]]
+//To understand that which was unknown is to have the knowledge to protect ourselves.//
+[[/=]]
+
+----
+
+[[=]]
++ __[[[The Office of Analysis and Science]]]__
+[[/=]]
+
+The Office of Analysis and Science researches anomalies relating to the different sciences and fields of study that pertain to the natural world. The purpose of this office is to discover ways to base the objects the Authority encounters in some form of general scientific understanding and to expand our own knowledge on these subjects. This office includes a large number of subsidiaries, each focused on a specific field of study such as the Department of Biology, of Physics, Geology, Psychology, etc.
+
+The Office of Analysis and Science houses researchers well versed in their field of studies, often outsourcing leading experts from the public to join. Every major site contains one of the specialized subsidiary teams. Each team is led by a Head Researcher who is an expert in the field, they coordinate both Junior and Associate researchers. Discoveries made by the Office of Analysis and Science are distributed to the public based on the confidentiality and level of impact that it would have on the world. Information is seeded carefully in order to prevent chaos while improving humanity's chances.
+
+The Office of Analysis and Science is also notable for holding one of the biggest events regarding the dissemination and exchange of information across departmental (and in some cases, divisional) boundaries in the Authority - the Research World's Fair. Held once a decade in various research-oriented sites across the globe, it owes its roots to some of our Division's predecessor societies that came about from the French salons of the early 18th Century, where bright minds across Europe could come together and establish intellectual discourse. Here, the latest and greatest of what Research has to offer is presented and discussed at length among various departments, clubs, and societies. Here, anomaly experimentation teams publish their findings. Here, department heads fight for power, division GDs are chosen - old conflicting philosophies and deep-seated past umbrages bubbling to the fore. Regardless of inefficiency, it still remains as one of the Research Division's most important events to this day.
+
+[[=]]
+//From our base of understanding, we must build.//
+[[/=]]
+
+----
+
+[[=]]
++ __[[[Anomaly Experimentation Team]]]__
+[[/=]]
+
+The Anomaly Experimentation Team, more than a branch or section of its own, is a temporary position given to selected groups of individuals within any of the sectors of the Research Division, such as the Office of Analysis and Science or the Bureau of Acquisitions, for the purpose of studying the properties and possible useful applications of anomalies currently contained by the Authority.
+
+AETs more often than not, possess one or several anomalies under their jurisdiction on top of their normal work quota. They can also often be found cooperating with Prolab, on top of other departments, in joint efforts to further advance both of their projects. AETs have all of the available tools and laboratories at the Authority's disposal for whatever specific hypothesis or project they may be conducting testing on.
+
+[[=]]
+//Through the use of the scientific method, we can explain the impossible. And as we discover, our eyes open.//
+[[/=]]
+
+[[div style="border-bottom: 4px double var(--horizontal-rule-background);"]]
+[[/div]]
+
+[[=]]
++ __[[[Research Tone]]]__
+[[/=]]
+
+The [[[Research Tone]]] is a format designed to focus on the research of anomalies. Articles with the format are written as researchers' documents; an abstract exists at the start of the article to give researchers a basic understanding of the anomaly. The containment protocols of the main format are replaced with //safe handling and usage//, a set of information researchers must know and instructions they must follow when conducting work with an anomaly in order to prevent harm to personnel, the anomaly and the facility.
+
+Otherwise, the secondary tone can be used to describe the scientific study of anomalies both stand-alone or placed within articles in the form of research papers. The discovery papers can also be used as an early version of an article written down in the spot by members of the Bureau of Acquisitions, or used instead of a normal discovery segment.
+
+[http://rpcauthority.wikidot.com/research-paper-tone > Research Paper Tone]
+
+[[=]]
+**When posting a Research Tone article, make sure to add the "research-tone" tag. You should apply the Research Division theme to the article as well.**
+[[/=]]
+

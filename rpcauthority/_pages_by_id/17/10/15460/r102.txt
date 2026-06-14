@@ -1,0 +1,246 @@
+---
+title: "Halloween Theme"
+tags: ["theme"]
+page_id: "171015460"
+site: "rpcauthority"
+slug: "component:halloween-theme"
+revision: 102
+revision_id: "1523155096"
+author: 5982545
+timestamp: 1721596490
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:halloween-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/* RPC Authority Halloween Theme
+   [2018/2020 Wikidot Theme]
+   Made for the RPC Authority by Drjemin, overhauled by Vizlox 
+
+   Logo graphic by DrPierson */
+ 
+@import url('http://rpcsandbox.wikidot.com/halloween-theme-b-fonts/code/1');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica');
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One');
+:root {
+  --body-background: linear-gradient(to bottom, #130912, #261120);
+  --page-title-border: 1px solid #b14623;
+  --footer-background: #3E1C33;
+ 
+  --basic-border: 1px solid #3E1C33;
+  --basic-border-color: #3E1C33;
+  --dashed-border: 1px dashed #3E1C33;
+  --thick-border: 2px solid #3E1C33;
+  --primary-background: #1f1d22;
+  --content-bar-background: #27242a;
+  --star-rating-hue: 160deg;
+ 
+  --link-color: #b14623;
+  --link-hover-color: #F6921D;
+  --new-page-color: #7729a4;
+  --primary-text-color: #B14623;
+ 
+  --topbar-text-color: #b14623;
+  --topbar-dropdown-background: #26111f;
+  --topbar-hover-background: #602749;
+  --topbar-divider: 1px solid #602749;
+  --topbar-dropdown-border-color: #602749;
+  --topbar-hover-color: #F6921D;
+  --topbar-dropdown-color: #B14623;
+ 
+  --header-icon: url(http://rpcauthority.wikidot.com/local--files/component:halloween-theme/halloween-logo-3.png);
+  --header-background: url(http://rpcauthority.wikidot.com/local--files/component:halloween-theme/halloween-header-5b-sat.png);
+  --header-text-visibility: hidden;
+  --header-custom-text: 'RPC Spookthority';
+  --header-tagline-custom-text: 'Research, Protection, Containment';
+  --header-font-weight: normal;
+  --header-font: "Riky Vampdator";
+  --header-tagline-font: "IM Fell DW Pica";
+  --header-font-size: 60px;
+  --header-tagline-font-size: 130%;
+  --header-tagline-left: 280px;
+  --header-tagline-text-shadow: 1px 1px 3px #000;
+ 
+  --code-background: none;
+  --nav-hover-background: #3E1C33;
+  --text-box-form-background: #231121;
+  --text-box-form-border: 1px solid #130912;
+ 
+  --blockquote-border: 1px solid #130912;
+  --blockquote-border-radius: var(--element-border-radius);
+  --blockquote-box-shadow: 0px 2px 6px #000;
+  --blockquote-background: #130912;
+ 
+  --tabview-side-tabs-background: #333136;
+  --tabview-side-button-selected-background: #27242a;
+  --tabview-side-scrollbar-thumb-background: #3b314a;
+  --tabview-side-scrollbar-thumb-hover-background: #393041;
+ 
+  --modal-body-background: rgba(32,27,37,0.34);
+  --modal-header-background: #17141a;
+ 
+  --button-border: 1px solid #362c40;
+  --button-background: #1d1822;
+  --button-hover-border: 1px solid #d67145;
+  --button-hover-background: #d67145;
+ 
+  --sidenote-open-background: #271c31;
+  --sidenote-contents-border: 1px dashed #333;
+ 
+  --sidebar-crit-corner-color: #db9867;
+  --sidebar-mobile-open-menu-color: var(--link-color);
+  --sidebar-mobile-open-menu-border: 3px solid var(--link-color);
+ 
+  --BT-open-themes-hover-color: #ff7300;
+  --BT-open-themes-hover-border: solid 2px #e18b52;
+  --BT-scrollbar-thumb-background: #40275a;
+  --BT-scrollbar-thumb-hover-background: #3a2849;
+ 
+  --WT-open-themes-background: #1f1d22;
+  --WT-open-themes-hover-color: #9049e3;
+  --WT-open-themes-hover-border: solid 2px var(--WT-open-themes-hover-color);
+ 
+  --WT-page-title-border: 1px solid #b14623;
+  --WT-footer-background: #3E1C33;
+ 
+  --WT-link-color: #b14623;
+  --WT-primary-text-color: #B14623;
+ 
+  --WT-nav-hover-background: #3E1C33;
+ 
+  --WT-header-icon: url(http://rpcauthority.wikidot.com/local--files/component:halloween-theme/halloween-logo-3.png);
+  --WT-header-background: url(http://rpcauthority.wikidot.com/local--files/component:halloween-theme/halloween-header-5b-sat.png);
+  --WT-header-text-visibility: hidden;
+  --WT-header-custom-text: 'RPC Spookthority';
+  --WT-header-tagline-custom-text: 'Research, Protection, Containment';
+  --WT-header-font-weight: normal;
+  --WT-header-font: "Riky Vampdator";
+  --WT-header-tagline-font: "IM Fell DW Pica";
+  --WT-header-font-size: 60px;
+  --WT-header-tagline-font-size: 130%;
+  --WT-header-tagline-left: 280px;
+  --WT-header-tagline-text-shadow: 1px 1px 3px #000;
+ 
+  --WT-topbar-text-color: #b14623;
+  --WT-topbar-dropdown-background: #26111f;
+  --WT-topbar-hover-background: #602749;
+  --WT-topbar-divider: 1px solid #602749;
+  --WT-topbar-dropdown-border-color: #602749;
+  --WT-topbar-hover-color: #F6921D;
+  --WT-topbar-dropdown-color: #B14623;
+ 
+  --WT-tabview-button-selected-background: #f0aa71;
+  --WT-tabview-button-hover-background: #a4968f;
+ 
+  --WT-star-rating-background: #c95416;
+  --WT-star-rating-border: 1px solid #4c2310;
+  --WT-star-rating-border-radius: 0;
+  --WT-star-rating-stars-box-shadow: none;
+ 
+  --WT-sidenote-open-background: #e07c54;
+ 
+  --WT-button-hover-background: #e08354;
+ 
+  --tv1: -webkit-linear-gradient(#F6921D, #B14623);
+  --WT-tv1: none;
+ 
+  --tv2: transparent;
+  --WT-tv2: var(--primary-text-color);
+ 
+  --tv3: drop-shadow(3px 3px 3px #000);
+  --WT-tv3: none;
+}
+ 
+#header h1 {
+    max-height: unset;
+    height: 144px;
+}
+ 
+#header h1 a {
+    position: relative;
+    bottom: 20px;
+    left: 15px;
+}
+ 
+#header h2 {
+    bottom: 45px;
+    left: 170px;
+}
+ 
+h1, #page-title {
+    background: var(--tv1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: var(--tv2);
+    -webkit-filter: var(--tv3);
+            filter: var(--tv3);
+     z-index: -1;
+    position: relative;
+}
+ 
+#header h1 a:before {
+    background: var(--tv1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: var(--tv2);
+}
+ 
+textarea, #lock-info, input.text {
+    border-radius: 2px;
+    box-shadow: 0px 2px 6px #000;
+}
+ 
+#search-top-box-input {
+    border: solid 1px #130912;
+    color: #d6d6d6;
+    background-color: #3E1C33;
+    box-shadow: inset 1px 1px 3px rgba(0,0,0,.5);
+}
+ 
+#search-top-box-input:hover, #search-top-box-input:focus {
+    border: solid 1px #130912;
+    color: #d6d6d6;
+    background-color: #602749;
+    box-shadow: inset 1px 1px 3px rgba(0,0,0,.5);
+}
+ 
+#search-top-box-form input[type=submit], #top-bar .search-button a {
+    border: solid 1px #130912;
+    color: #d6d6d6;
+    background-color: #3E1C33;
+    background: linear-gradient(#602749, #3E1C33);
+}
+ 
+#search-top-box-form input[type=submit]:hover, #search-top-box-form input[type=submit]:focus, #top-bar .search-button a:hover {
+    border: solid 1px #130912;
+    color: #d6d6d6;
+    background-color: #77315b;
+    background: linear-gradient(#77315b, #562747);
+}
+ 
+tt {
+    font-family: Merienda One;
+}
+
+@media (max-width: 768px) {
+  #header h1 {
+      height: auto;
+  }
+ 
+  #header h1 a {
+      position: relative;
+      bottom: 5px;
+      left: 0;
+  }
+ 
+  #header h2 {
+      bottom: 15px;
+      left: 0;
+  }
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
