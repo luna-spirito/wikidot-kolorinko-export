@@ -1,0 +1,61 @@
+---
+title: "Join this site"
+tags: ["information"]
+page_id: "86645077"
+site: "rpcauthority"
+slug: "system:join"
+revision: 45
+revision_id: "1529627521"
+author: 5982545
+timestamp: 1745764627
+---
+
+[!-- Image source: https://commons.wikimedia.org/wiki/File:STOP_sign.jpg --]
+
+[[div class="content-panel content-box centered" style="font-weight: bold;"]]
+[[=image stoppy.jpg width="40%" alt="STOP!" title="STOP!"]]
+
++++ Read these before applying:
+
+[[size 200%]][[[Membership Guide]]]
+
+[[[Site Rules]]][[/size]]
+[[/div]]
+
+[[collapsible show="(done?)" hide=""]]
+To join, you need to open an account with our host platform, Wikidot. If you don't already have one, there will be a button to do so below. **Due to a bug on Wikidot's end, you may not be able to register with a Hotmail address or an email address that contains numbers;** if this is the case, try using a different email.
+
+----
+
+Once you're logged in, you can write a short application to join our site.
+Your application **must include**:
+# An exact copy of the Site Passcode, which you'll get from the pages above.
+# At least one sentence explaining why you wish to join.
+# (Optional) Tell us where you found out about the RPC Wiki.
+**Your application must use proper grammar.** Be sure to proofread, as applications with grammatical errors will be denied.
+
+[[div class="content-box dashed"]]
+[[module ListUsers users="."]]
+= **By submitting an application below, you agree to follow the [[[Site Rules]]].**
+[[/module]]
+
+[[module MembershipApply]]
+[[/div]]
+
+----
+
+Please allow us some time to review your application. If your application is denied, know that you can re-apply as many times as needed.
+
+If you find yourself unable to re-apply with a message stating "You have already applied to this site" persisting for longer than 24 hours, message [[*user ThermicLine]].
+[[/collapsible]]
+
+[[module CSS]]
+.collapsible-block-folded { text-align: center; }
+.collapsible-block-unfolded-link { display: none; }
+
+#membership-apply-box > p {
+    text-align: center;
+    font-weight: bold;
+}
+[[/module]]
+

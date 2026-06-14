@@ -1,0 +1,16 @@
+---
+title: "Customize your theme"
+tags: []
+page_id: "86645081"
+site: "rpcauthority"
+slug: "admin:themes"
+revision: 0
+revision_id: "125226779"
+author: 4240294
+timestamp: 1528924112
+---
+
+[[code type="css"]]
+/* No theme defined on top of Base */
+[[/code]]
+

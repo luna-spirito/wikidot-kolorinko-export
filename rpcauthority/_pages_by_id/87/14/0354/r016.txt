@@ -1,0 +1,68 @@
+---
+title: "Most Recently Edited"
+tags: ["information"]
+page_id: "87140354"
+site: "rpcauthority"
+slug: "most-recently-edited"
+revision: 16
+revision_id: "1543071984"
+author: 5982545
+timestamp: 1775135457
+---
+
+[[module CSS]]
+.recentListRow:nth-child(2n) {
+  background: #0002;
+}
+.recentListRow td {
+  padding: 2px;
+}
+[[/module]]
+
+[[div class="content-panel" style="overflow: hidden;"]]
+++ Most Recently Edited Pages
+
+----
+
+[[module ListPages order="updated_at desc" category="*" perPage="100" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: top;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Page
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Last Updated
+[[/cell]]
+[[cell style="padding: 0 2px;"]]
+Updated By
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #666; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%updated_at%%
+[[/cell]]
+[[cell style="text-align: left; overflow: hidden; white-space: nowrap;"]]
+%%updated_by_linked%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+[[/div]]
+

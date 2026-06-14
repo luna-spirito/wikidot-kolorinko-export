@@ -1,0 +1,326 @@
+---
+title: "Groups of Interest"
+tags: ["hub", "information", "lore"]
+page_id: "87472145"
+site: "rpcauthority"
+slug: "groups-of-interest"
+revision: 381
+revision_id: "1523254075"
+author: 5982545
+timestamp: 1722111698
+---
+
+[[module css]]
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777; 
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #29292f;
+    --WT-v7: var(--primary-background);
+}
+
+.textBlock {
+    background-color: var(--primary-background);
+    border: var(--basic-border); 
+    margin: 5px 0; 
+    padding: 14px 24px; 
+}
+
+#page-title {
+    display: none;
+}
+
+.gearcorp {
+  padding: 0;
+}
+
+.gearcorp .yui-navset {
+  box-shadow: none;
+  margin: 0;
+}
+
+.gearcorp .yui-content {
+  padding: 14px 24px;
+}
+
+.gearcorp .yui-nav {
+  box-shadow: 2px 0px 2px 0px var(--content-box-shadow-color);
+  z-index: 5;
+}
+[[/module]]
+
+[[div style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; border: solid 2px #000; border-radius: 10px; margin: 0 auto; padding: 10px 30px; background: var(--v7);"]]
+
+[[div style="line-height: normal; text-align: center; font-size: 250%; font-weight: bold;"]]
+{{GROUPS OF INTEREST}}
+[[/div]]
+
+----
+
+[[size 112%]]
+**Overview:** This document contains information on various organizations and groups that have some similarity to the Authority in that they are known to deal with the paranormal and the occult. While many other organizations exist to suppress paranormal activities, there are those who use the paranormal as a means to achieve a larger agenda, and may be considered as a rival towards the Authority. Their objectives and methods are monitored and documented by the Authority to understand their true goal within the paranormal world-- and in some cases, stop them from destroying humanity as a whole.
+[[/size]]
+
+> = **Table of Contents**
+> [#church-of-malthus Church of Malthus]
+> [#amazing-co Amazing! Co.]
+> [#nucorp Nucorp Industries]
+> [#gear The Global Enterprise for Advanced Research]
+> [#children-of-nihil The Children of Nihil]
+> [#rcpa The Righteous Central Protection Authority]
+> [#kabushiki-kawaii Kabushiki Kawaii]
+> [#gard GARD/DAFA]
+> [#academy The Academy of True Art]
+
+* [[[Canon Policy]]]
+[[/div]]
+
+[[div class="textBlock"]]
++ Threat Code
+[[collapsible]]
+||||~ Affiliations||
+||##var(--v1)|Proxy##||The Group is under direct control by the Authority.||
+||##var(--v2)|Allied##||The Group is consistently cooperative with and/or helpful to the Authority.||
+||##var(--v3)|Neutral##||The Group has little or no affiliation with the Authority.||
+||##var(--v4)|Ambiguous##||The Group displays varying or contradictory affiliation with the Authority.||
+||##var(--v5)|Hostile##||The Group is motivated to harm or destroy humanity and/or the Authority.||
+||##var(--v6)|Unknown##||The Group has unknown motives in relation to the Authority.||
+
+||||~ Attributes||
+||Authority-Aware||The Group is aware of the existence of the Authority.||
+||Veiled||The Group is unaware of the existence of the anomalous.||
+||Unveiled||The Group is aware of the existence of the anomalous.||
+||Seeker||The Group actively collects anomalies.||
+||Sculptor||The Group is capable of creating anomalies.||
+||Structured||The Group has a defined, hierarchical structure.||
+||Fractured||The Group does not have a defined, hierarchical structure.||
+||Multinational||The Group spans multiple nations.||
+||National||The Group exists within a single nation.||
+||Local||The Group only exists within a small, localized area or areas.||
+[[/collapsible]]
+[[/div]]
+
+[[# church-of-malthus]]
+[[div class="textBlock whiteThemeInvert"]]
+
++ [[[church-of-malthus-hub|Church of Malthus]]]
+
+++ ##var(--v5)|Hostile­­##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Fractured
+* Multinational
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Church%20Of%20Malthus%20Light.png width="150px"]]
+
+**Overview:** Some see the medical progress of the human species over the past millennia, and increases in both length and quality of life, as a failing of modern life rather than a strength. 
+
+Some even believe that it is the responsibility of humanity to self-correct and evolve further. The Church of Malthus is such a society of biologists and radicals from many scientific fields united under the idea that if it is to continue and thrive, humanity requires progress forced upon itself, whether through catastrophic events, large-scale genetic manipulation, or the culling of "hereditarily weak" populations. They have worked tirelessly to acquire anomalous objects and engineer events capable of eliminating or irrevocably altering vast amounts of the global population in order to accomplish their objectives. 
+
+The RPC Authority considers this organization a major threat to its business, objectives, and by extension to humanity as a whole. As such, the Authority has deemed it necessary that any CoM personnel be captured or shot on sight, and has abandoned any concentrated attempts to negotiate or treat with them.
+[[/div]]
+
+[[# amazing-co]]
+[[div class="textBlock"]]
+
++ [[[amazingco-hub|Amazing! Co.]]]
+
+++ ##var(--v6)|Unknown##
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Fractured
+* Multinational
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Amazing%21%20Co. width="200px"]]
+
+**Overview:** Similar to many bootleg companies based out of developing nations, Amazing! Co. is a company that produces miscellaneous off-brand commercial products ranging from food items to musical instruments and children’s toys. These items invariably possess anomalous properties and, more often than not, pose a threat to both the user and those around them. 
+
+The packaging of Amazing! Co. products often resemble well-known brands, even to the extent of copying mascots and slogans. The only consistent marker of their products is the Amazing! Co. logo, which has been confirmed to be a memetic agent with the effect of enticing those who look at it to purchase the associated product despite their better judgement. 
+
+The country of origin of Amazing! Co. cannot be presently determined. Manufactories suspected of being connected to the group have been discovered on every continent save Antarctica. Information shared from multiple governments has suggested that Amazing! Co. ships products to every nation in the native language of the region, and that there are obvious spelling and grammar errors in all versions of the products, no matter the language.  To date, no person knowingly under the employ of Amazing! Co. has been apprehended and no person found to be selling one of their products can recall ever stocking them or meeting a representative of the company.
+[[/div]]
+
+[[# children-of-nihil]]
+[[div class="textBlock whiteThemeInvert"]]
+
++ [[[children-of-nihil-hub|The Children of Nihil]]]
+
+++ ##var(--v5)|Hostile­­##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Structured
+* Multinational
+
+[[f>image http://www.rpc-wiki.net/local--files/groups-of-interest/NihilLogo.png width="150px"]]
+
+**Overview:** The Children of Nihil is a religious group that reveres the cleansing nature of floods and believes that through metamorphic trials and natural disasters, they can create a utopian society free from the decadence and corruption of humanity. The organization specializes in exploiting paranormal artifacts tied to historical flood mythologies, but this has not kept them from utilizing other anomalous religions and religious artifacts. They function as a conquering religion, prepared to absorb and assimilate other religious groups to reinforce their own position in an area, acquire new converts, or gain access to anomalous artifacts.
+
+All adherents share two fundamental tenets. One is that Nihil serves as a spiritual state of transcendence and a deity, governing the concepts of obliteration and nothingness. The other is that adherents are merely vessels and that through continual service to Nihl and asceticism, they may ascend to become one with their venerable God. They believe that once all sects are united under their banner, they may finally resurrect the Dead Sun, an aspect of Nihil, from the depths. This apocalyptic deity will guide them to bring about a single, reality-ending flood. Sects of the Children of Nihil are numerous and prone to religious divisions, infighting, and endless variations of dogma.
+[[/div]]
+
+
+
+[[# rcpa]]
+[[div class="textBlock"]]
+
++ [[[rcpa-hub|Righteous Central Protection Authority]]]
+
+++ ##var(--v5)|Hostile­­##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Structured
+* Local[[footnote]] So designated because the RCPA does not maintain an active presence in our reality, but is capable of intruding upon it. [[/footnote]]
+
+[[f>image http://www.rpc-wiki.net/local--files/component:rcpa-theme/rcpa-logo-small.png width="150px"]]
+
+The Righteous Centralized Protection Authority (RCPA, widely referred to as the 'Authoritarians') is an alternate timeline iteration of the Authority that has openly seized control of their world. Initially motivated by the desire to protect humanity more completely and efficiently, they have long grown corrupted and arrogant in their dominance. Embracing the use of the anomalous to their own ends, the RCPA's ethos of "justice" has been twisted into a creed that demonizes rogue anomalies and dissidents indiscriminately together as "villains". Recently, certain links between the RCPA timeline and our own have opened; their presence in our world has been actively combated, as their creed of justice and utter lack of subtlety are antitheses to our Authority.
+
+The RCPA hires or creates anomalous persons on a wide scale to enforce its rule; known as Protectors, many are idolized in state propaganda. While most Protectors combat rogue and destructive anomalies (often more powerful than counterparts in our timeline, due to the open and widely-available nature of the anomalous), others aid their ASF in suppressing various local insurgencies against the global power of the Authority.
+[[/div]]
+
+[[# kabushiki-kawaii]]
+[[div class="textBlock"]]
+
++ [[[kabushiki-kawaii-hub|Kabushiki Kawaii]]]
+
+++ ##var(--v6)|Unknown­­##
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Structured
+* Multinational
+
+[[f>image http://www.rpc-wiki.net/local--files/groups-of-interest/KK.png width="150px"]]
+
+**Overview:** Kabushiki Kawaii is an underground, black market company which specializes in humanoid anomalies. The company's main focus is the creation, training, and sales of these anomalies, selling them as servants to wealthy customers or corporations. 
+
+Kabushiki Kawaii is known for its ability to create anomalous humanoids, which are primarily sold into the sex trade. These anomalous humanoids are the company's biggest export, who through a combination of genetic manipulation, brainwashing, and intimidation are often groomed to act as an individual's ideal sex slave or servant, depending on what is specified by the customer. The exact method that Kabushiki uses to create these products is unknown, but it is implied to be a mixture of biological science and anomalous technology. The reach of Kabushiki's genetic manipulation extends beyond the ability to create humanoid anomalies, but the company focuses on humanoids due to their popularity.
+
+Although the main storefronts of Kabushiki Kawaii are known to reside somewhere in Japan, the company has offices, laboratories, and testing centers scattered across the world. Assistance from anomalous items, front companies, and under-the-table dealings are commonly used to prevent discovery. Individuals stumbling across the group by mistake are often bribed into silence or become products themselves. Kabushiki Kawaii is strictly focused on maintaining a low profile, and will not actively confront the Authority- but will make every attempt to stay hidden when discovered. Authority agents who have attempted to infiltrate Kabushiki laboratories have been rumored to become victims of their experimentation, although this cannot be fully confirmed.
+
+The Authority works to apprehend any anomalies created by Kabushiki Kawaii for questioning and proper containment. Should a front company, laboratory, or testing center be identified, Authority forces are to clear the location and recover any anomalies or files found for research and containment purposes.
+[[/div]]
+
+[[# nucorp]]
+[[# gear]]
+
+[[div class="textBlock whiteThemeInvert sideTabviewMini gearcorp"]]
+[[tabview]]
+[[tab Nucorp]]
++ [[[nucorp-hub|Nucorp Industries]]]
+
+++ ##var(--v2)|Allied##
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Structured
+* Multinational
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Nucorp.png width="150px" style="filter: invert(0%);]]
+
+**Overview:** Nucorp Industries is a multiversal conglomerate of applied scientific research companies, with subsidiaries observed across most alternate dimensions the Authority has access to. Unique instances of the group communicate via a byzantine bureaucratic system that is functionally infinite in size.
+
+The Authority approached Nucorp after the end of the Second World War, offering a partnership with their obviously advanced manufacturing and applied materials sciences division. Under this agreement, the Authority and Nucorp established a joint manufacturing facility in 1956, which was subsequently utilized for the Battlecarrier project, ending in the late 1970s. Nucorp remains a valuable partner to the Authority, which frequently relies on their industrial base and expertise in reverse-engineering anomalous technologies.
+
+[[/tab]]
+[[tab GEAR]]
+
++ [[[gear-hub|Global Enterprise for Advanced Research]]]
+
+++ ##var(--v4)|Ambiguous##
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Structured
+* Multinational
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/GEAR_Logo_border.png width="150px" style="filter: invert(0%);]]
+
+**Overview:** Suspected to be formed from the remains of an extradimensional iteration of Nucorp Industries, the Global Enterprise for Advanced Research is a large-scale consumer products company which employs a variety of anomalous manufacturing techniques in its production lines.
+
+The heads and operating personnel of GEAR live in secrecy and, it is presumed, considerable luxury, but have demonstrated a capacity for canny negotiation and political maneuvering that has ensured the survival of the company. Their secrecy is believed to be motivated by an uncertain connection with an unidentified asset by the name "A-001", which could have permitted them to survive the supposed cataclysmic event that forced them to move to Baseline reality. 
+
+GEAR personnel are highly motivated, capable and, if not an immediate threat to the Authority, willing to cross ethical, political and social boundaries to achieve their goals. The company has invested heavily in militaristic defense, research and secrecy. Authority leads to the locations of GEAR facilities are often lead to dead ends. It is believed that GEAR is capable of relocating entire production lines and other operations within short time-spans though an extremely efficient logistic network. Whether or not this network relies on anomalous methods is unknown.
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[# gard]]
+[[div class="textBlock whiteThemeInvert"]]
++ [[[gard-hub|GARD/DAFA]]]
+
+++ ##var(--v5)|Hostile­­##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Fractured
+* National[[footnote]] While GARD operations had worldwide scope, their primary area of operations during their period of major activity was in Germany and German-occupied territories [[/footnote]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/GARD2.png width="150px"]]
+
+**Overview:** The German Anomalous Research Division[[footnote]] //Deutschen Anomal Forschung Abteilung// or DAFA in the original German.[[/footnote]] was established by the leaders of the German National Socialist Worker's Party (NSDAP), in collaboration with former hard-line members of the //[http://www.rpc-wiki.net/governments-of-interest#toc4 Reichsokkultabteilung]// shortly after their consolidation of power. GARD was created as a regional containment agency which would work alongside the Authority. Relations swiftly broke down when it was discovered that GARD was actively weaponizing anomalous objects. The German branch of the Authority, which had developed considerable national ties to the German government, sided with the NSDAP. Fearing a revolt, a decision was quickly met to transport all movable anomalies in Europe to less invasion-prone countries such as the United States and South Africa. Ultimately, the German branch of the Authority would sever ties with the parent organization in 1937 and merge with GARD.
+
+During and before the Second World War, GARD operated two primary branches. //Ahnenerbe//[[footnote]] Literally 'Ancestral Heritage' [[/footnote]] specialized in anomalous science, population control and eugenics, while //Schwarze Sonne//[[footnote]] Literally 'Black Sun' [[/footnote]] focused on occultic practices and applied mythology. GARD operated under direct military control, with a commanding general answering directly to Hitler and the German High Command.
+
+The outbreak of war in 1939 led to the formation of the RPC Authority Volunteer Army for the Allied Forces (RAVAAF), composed of members of the Authority, MI13, and former members of the FOA, which would act as agents within resistance cells and military units to report/combat any weaponised anomalies created by GARD and possibly contain/neutralise them. Raids on GARD facilities by the RAVAAF were common throughout the war, but it was not until 1944 that MST Alpha-1 operatives were able to assassinate the organization's command staff. The resultant mismanagement, combined with attempts by individual GARD units to seize command of the organization, led to chaos in the lower ranks and substantial loss of support among the upper echelons of the German government.
+
+The exact size and composition of GARD in the present day remains unclear. The organization has greatly decreased in size since the Second World War, and most of its original personnel are either incarcerated by the UNAAC or dead. GARD cell activity is fleeting and unpredictable, giving little indication of whether they still exist as a coherent organization.
+[[/div]]
+
+[[# academy]]
+[[div class="textBlock"]]
++ [[[academy-hub|The Academy of True Art]]]
+
+++ ##var(--v4)|Ambiguous##­­
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Structured
+* National
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/vella_arte_outlined.png width="150px"]]
+
+//L'Academia della vera arte// or "The Academy of True Art" is an art school of European origin, though attempts to actually physically locate it have thus far proved unsuccessful. The Academy's membership includes numerous anomalous and non-anomalous individuals, and is believed to include various widely-known and famous artists, past and present. Members frequently operate under a variety of aliases, chosen for its thematic connections to the medium and style of art created by the artist.
+
+Since the discovery of the Academy and their production of anomalous artworks, the Authority has become aware of a significant community operating against the Academy, in large part consisting of those either rejected by or banned from operating under the Academy's auspices. Many of these artists produce anomalous works which are volatile, dangerous, and unpredictable. The Academy has been compliant in providing information leading to the capture of the artists and the containment of their works, and has made it clear that such works go against the Academy's goals of creating anomalous art without disrupting the fabric of society.
+
+The Academy's main goal is the promulgation of low-level anomalous artworks. They have consistently operated under the slogan "Reality is our canvas" throughout their recorded history, and tend to produce anomalies which involve novel but non-harmful physics or reality-alteration hazards. While the capture and interrogation of members of the Academy is of moderate priority to the Authority, their continued cooperation in identifying rogue elements must be kept in mind. Rejected or former Academy members are high-priority capture targets, especially if they have, or are in the process of, producing anomalous artwork.
+[[/div]]
+
+[[div class="content-box"]]
+[[footnoteblock]]
+[[/div]]
+

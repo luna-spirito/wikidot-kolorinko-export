@@ -1,0 +1,28 @@
+---
+title: "Forum Category"
+tags: []
+page_id: "86648118"
+site: "rpcauthority"
+slug: "forum:category"
+revision: 7
+revision_id: "1531203592"
+author: 5982545
+timestamp: 1753556684
+---
+
+[[module CSS]]
+#page-content .list-pages-item + div .forum-breadcrumbs { display: none; }
+[[/module]]
+
+[[module ListPages name="@URL|." limit="1" wrapper="no"]]
+[[div style="margin-top: -0.8em;"]]
+[[[/forum/start|Forum]]] » Site Announcements and Proposals / Announcements
+[[/div]]
+
+> = Front page news posts prior to November 2024 can be found at the [[[news|Old News Archive]]].
+[[/module]]
+
+[[module ForumCategory]]
+
+[!-- please do not alter this page if you want to keep your forum working --]
+

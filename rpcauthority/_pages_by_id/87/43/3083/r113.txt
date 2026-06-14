@@ -1,0 +1,109 @@
+---
+title: "Membership Guide"
+tags: ["guide"]
+page_id: "87433083"
+site: "rpcauthority"
+slug: "membership-guide"
+revision: 113
+revision_id: "1532203694"
+author: 5982545
+timestamp: 1757419486
+---
+
+[[tabview]]
+
+[[tab Welcome!]]
+**Welcome to the RPC Wiki!** If you've made it this far, chances are that we need no introduction. [[[about-the-rpc-authority|Here it is anyway.]]]
+
+This guide will introduce you to some key concepts you should understand before you join the site. It will include links to other pages and guides when relevant, but none of them are required reading except for this page and the Site Rules.
+
+Navigate to the next tab, "The Community", to continue.
+[[/tab]]
+
+[[tab The Community]]
+As a member of the community, you are expected to follow certain behaviors. Keep these in mind after you join and you can become a respectable member of our creative writing space.
+
+++ The Rules
+[[[site-rules|Read them.]]] These are also required reading to join; ignorance of a rule is not an excuse to break it.
+
+++ Maturity
+Above all else, RPC is a community of creative writers and artists, not clowns. That's not to say we're stuck-up all the time, but if the prospect of seriously engaging with the community bores you, save yourself the trouble and spend your time elsewhere.
+
+++ Respect
+We're not a popularity contest. Someone doesn't have to be popular or important to deserve respect, and, inversely, you don't have to like articles or a person because they're popular. All opinions are valuable.
+
+You are still expected to treat others the way you wish to be treated; banter is acceptable and part of the fun, but harassment is not. There is a difference between speaking one's mind freely and deliberately making a user feel uncomfortable.
+
+Additionally, there are some behaviors you should steer clear of to avoid coming off as obnoxious to other users:
+* Continually bringing up your article or draft as a topic of discussion.
+* Interrupting conversations for the sake of politics.
+* Using our community as a platform to repeatedly air grievances about //some other writing community//; it's not our business.
+
+++ Contribution
+Writing articles is not the only way to add to this collaborative project. We welcome all sorts of contributors; if you can code, make art, or provide background knowledge in specific fields, these are valuable skills that others appreciate.
+
+Leaving your thoughts on articles by rating and reviewing them helps us to separate the quality from the cruft, and writers to gauge the reception of their work. [[[criticcorner|You could be rewarded for it, too.]]] You can also offer your critical skills in our draft forum; more on that later.
+
+++ Discord Chat
+[[[Discord]]] is a prominent outlet of the RPC community and can be the fastest way to reach a writer or community member. Joining these servers is by no means a requirement, but they are a useful resource.
+[[/tab]]
+
+[[tab Wiki Procedures]]
+These are the most important things to know about how this wiki operates.
+
+++ Editing Standards
+Be mindful when editing other people's articles. You can fix spelling and grammar errors when you see them as long as you're confident that what you're fixing is actually a mistake. Do not make edits to someone else's article that significantly alter the meaning of a sentence or change stylistic elements.
+
+More information is in our [[[Editing Policy]]].
+
+++ Uploading Requirement
+Most page types—including RPCs, Tales, and Docs—require you to go through the crit process before posting. This means that you must go to the [/forum/c-4288628/drafts drafts forum] and receive at least two substantial pieces of criticism from other users before they're uploaded. "Coldposts" (articles uploaded before receiving proper criticism) will be deleted without warning.
+
+Some places, such as collaborative logs and art pages, offer an exemption from this rule. Do not abuse this goodwill by spamming low-effort material; it's against the rules, and we do act on it.
+
+For other important information about writing and uploading, check the [[[Writers Guide]]]. Critics should also read the [[[Criticism Guidelines]]].
+
+[[collapsible show="+ click here!" hide="- hide"]]
+[[div class="content-box"]]
+The Site Passcode is:
+> I found Rome a city of bricks and left it a city of marble.
+Include the text above, verbatim, within your application. If it is absent or misspelled, your application will be denied.
+[[/div]]
+[[/collapsible]]
+
+++ Deletion Threshold
+If an article has at least 6 votes and its rating is below 2.7 stars, a 24-hour countdown timer will be placed on the discussion page for its deletion. If the author voted on their own article, that vote is excluded from the calculation. Some old articles have raid votes from deleted accounts that are also discounted.
+
+If your article is removed, a staff member will message you with the source code to ensure nothing is lost.
+[[/tab]]
+
+[[tab Conclusion]]
+You've read this entire guide and learned all you should know before getting started. If you would like to dive deeper, check out our [[[guide-hub|collection of guides]]] or [[[staffpage|contact our staff]]].
+
+If you're ready, why not [[[system:join|join us?]]] You're on your way into the Authority.
+[[/tab]]
+
+[[/tabview]]
+
+[[module CSS]]
+.yui-nav {
+    text-align: center;
+    display: flex;
+}
+.yui-nav li, .yui-nav li a {
+    width: 0;
+    flex-grow: 1;
+    display: flex !important;
+}
+.yui-nav li em { flex-grow: 1; }
+.yui-nav li:last-child { margin-right: 0 !important; }
+
+.yui-content h2 {
+    margin: 3ex 0 0;
+    padding-bottom: 0.5ex;
+    border-bottom: 1px solid var(--horizontal-rule-secondary-background);
+    font-weight: bold;
+    font-size: 170%;
+}
+[[/module]]
+

@@ -1,0 +1,155 @@
+---
+title: "Most Recently Created"
+tags: ["information"]
+page_id: "87139817"
+site: "rpcauthority"
+slug: "most-recently-created"
+revision: 44
+revision_id: "1543071987"
+author: 5982545
+timestamp: 1775135477
+---
+
+[[module CSS]]
+.recentListRow:nth-child(2n) {
+  background: #0002;
+}
+.recentListRow td {
+  padding: 2px;
+}
+[[/module]]
+
+[[div class="content-panel"]]
+**Display new pages for:**
+
+[[div style="display: flex; flex-wrap: wrap;"]]
+
+[[div style="width: 50%;"]]
+» [[[most-recently-created|All Pages]]] (Default)
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/rpc,rpc-j,tale,document Articles Only]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/-rpc,-rpc-j,-tale,-document Misc Pages Only]
+[[/div]]
+
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/rpc RPCs Only]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/tale Tales Only]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/document Documents Only]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/rpc-j RPC-Js Only]
+[[/div]]
+
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/most-recently-created/category/component Components Only]
+» [http://rpcauthority.wikidot.com/most-recently-created/category/fragment Fragments Only]
+[[/div]]
+
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/alternative-content Alternative Content Only]
+» [http://rpcauthority.wikidot.com/most-recently-created/tags/translation Translations Only]
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+++ Most Recently Created Pages
+
+----
+
+[[module ListPages tags="@URL" category="@URL|*" order="created_at desc" perPage="50" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: top;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Page
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Date Created
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Votes
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Posts
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #666; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%created_at%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%rating_votes%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%comments%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+----
+
+++ [http://rpcauthority.wikidot.com/tagging-guide Most Recently Untagged Pages:] [[size 80%]] Does not include Fragment, Component, etc. [[/size]]
+
+[[module ListPages tags="-" category="-fragment -system -forum -random -template -admin -search -nav -tag-search-panel" order="created_at desc" perPage="10" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: top;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Page
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Date Created
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Votes
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Posts
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #666; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%created_at%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%rating_votes%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%comments%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+[[/div]]
+
