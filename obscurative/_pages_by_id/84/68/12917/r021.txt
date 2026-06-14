@@ -1,0 +1,25 @@
+---
+title: "Object"
+tags: []
+page_id: "846812917"
+site: "obscurative"
+slug: "include:object"
+revision: 21
+revision_id: "1033993366"
+author: 4518363
+timestamp: 1579365696
+---
+
+[[include include::object-info
+id = {$id} | id = 1
+| cat = {$cat}
+| dan = {$dan}
+| cat2 = {$cat2} | cat2 = ​
+| cat3 = {$cat3} | cat3 = ​
+| cat4 = {$cat4} | cat4 = ​
+| dan2 = {$dan2} | dan2 = ​
+| dan3 = {$dan3} | dan3 = ​
+| s1 = {$s1}
+| s2 = {$s2}
+| s3 = {$s3}]]
+

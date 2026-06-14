@@ -1,0 +1,27 @@
+---
+title: "Bases Core"
+tags: []
+page_id: "801890027"
+site: "obscurative"
+slug: "include:bases-core"
+revision: 4
+revision_id: "896336004"
+author: 4518363
+timestamp: 1564584131
+---
+
++ {$type} {$name}
+
+[[include include:image
+|img = {$logo}
+|caption = {$logo_title}]]
+**Расположение:** {$location}
+**Предназначение:** 
+{$mission}
+**Персонал:** {$persones}
+**Объекты:**
+[[module ListPages tags="{$key_tag}" category="_default" name="object-*"  separate="no"  order="name"]]
+* %%title_linked%%  ( [[*user %%created_by%%]] )
+[[/module]]
+**Примечания:** {$comments}
+

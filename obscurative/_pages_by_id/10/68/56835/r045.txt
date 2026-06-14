@@ -1,0 +1,71 @@
+---
+title: "Объект №: 9 - Пишущая машинка"
+tags: []
+page_id: "106856835"
+site: "obscurative"
+slug: "archive:object-009"
+revision: 45
+revision_id: "1357383769"
+author: 4518363
+timestamp: 1604573643
+---
+
+[[module Rate]]
+[[include include:object
+cat=Меметический|
+dan=Ишим|
+iso=2]]
+**Меры предосторожности:** Объект должен содержаться в стандартной сейфовой ячейке складской базы.
+
+[[html]]
+<style>
+    @font-face {
+    	font-family: "ds_moster";
+    	src: url("http://sons-of-athena.wdfiles.com/local--files/archive:object-009/ds_moster.ttf");
+    }
+    #content {
+    	font: 11pt ds_moster;
+    	font-weight: bolder;
+    	letter-spacing: 0.1em;
+    }
+</style>
+<strong>Описание:</strong> <span id="content" style="display: none">
+Объект представляет собой поцарапанную пишущую машинку XIX века.~
+~
+Любой представитель homo sapiens, читающий письменное описание объекта, утверждает, что текст как будто набирается на печатной машинке. При этом текст имеет соответствующий шрифт и появляется постепенно. Объект не влияет на компьютерные программы и на ИНС.~
+~
+Было обнаружено, что после появления каждой буквы следует задержка, зависящая от поставленного символа.~
+При нажатии клавиши на объекте у каждого читателя описания объекта появляется соответствующий символ.~
+~
+Люди, которые не знают о существовании пишущих машинок не испытывают на себе эффект объекта.~
+Опыты показывают, что аномальные свойства приобретает только текст, писатель которого подразумевал именно данную аномалию. Переписанный с аномального текст также находится под действием объекта.
+</span>
+<script>
+var hold = {
+    " ": 200,
+    "~": 500,
+    ".": 450,
+    ",": 300
+};
+var d_hold = 75;
+var element = document.getElementById("content");
+element.style.display = "block";
+var str = element.innerHTML;
+element.innerHTML = "";
+function wrs() {
+    if(str[0] == undefined)
+    	return;
+    if(str[0] == "~")
+    	element.innerHTML += "<br/>";
+    else
+    	element.innerHTML += str[0];
+    var delay = hold[str[0]];
+    if(delay == undefined)
+    	delay = d_hold;
+    setTimeout(wrs, delay);
+    str = str.substring(1);
+};
+wrs();
+</script>
+[[/html]]
+

@@ -1,0 +1,27 @@
+---
+title: "Bases"
+tags: []
+page_id: "801890036"
+site: "obscurative"
+slug: "include:bases"
+revision: 0
+revision_id: "847363850"
+author: 1767012
+timestamp: 1559284122
+---
+
+[[include include:bases_core
+|type = {$type} | type =  База
+|name = {$name} | name = ██████
+|location = {$location} | location = [засекречено]
+|mission = {$mission} | mission = 
+* [засекречено]
+* [требуется более высокий уровень доступа]
+* [засекречено]
+|persones = {$persones} | persones = [засекречено]
+|key_tag = {$key_tag}  |key_tag = -
+|logo = {$logo}  | logo = include:bases_core/blank
+|comments = {$comments} | comments = [засекречено]
+|logo_title =  {$logo_title}  | logo_title = [Нет данных]
+]]
+

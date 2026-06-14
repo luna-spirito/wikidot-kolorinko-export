@@ -1,0 +1,16 @@
+---
+title: "Список черновиков"
+tags: []
+page_id: "106622731"
+site: "obscurative"
+slug: "drafts"
+revision: 4
+revision_id: "899724278"
+author: 4518363
+timestamp: 1565017539
+---
+
+[[module ListPages category="draft" order="updated_at desc" perPage="75" prependLine="||~ Черновик ||~ Создатель ||~ Дата создания||~ Последнее обновление||" separate="false"]]
+|| %%title_linked%% || %%created_by_linked%% || %%created_at|%H:%M %d.%m.%Y %% || %%updated_at|%H:%M %d.%m.%Y %% ||
+[[/module]]
+
