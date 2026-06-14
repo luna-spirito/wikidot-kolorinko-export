@@ -1,0 +1,19 @@
+---
+title: "Timepoint"
+tags: []
+page_id: "1311749829"
+site: "obscurative"
+slug: "include:timepoint"
+revision: 4
+revision_id: "1460930833"
+author: 4518363
+timestamp: 1652025339
+---
+
+[[div style="left: calc(({$day} + {$month}*30 + {$year}*365)/(365*{$maxyear})*100%);"]]
+[[span class="time"]]{$day}.{$month}.{$year}[[/span]]
+[[[{$link}|​]]]
+[[span class="name"]]{$name}[[/span]]
+[[image {$img}]]
+[[/div]]
+
