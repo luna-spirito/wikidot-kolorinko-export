@@ -1,0 +1,14 @@
+---
+title: "rate"
+tags: ["component"]
+page_id: "106342477"
+site: "rpcauthority"
+slug: "component:rate"
+revision: 34
+revision_id: "1531120227"
+author: 5982545
+timestamp: 1753143906
+---
+
+[[include component:rate-base activity={$activity}|activity=none|art={$art}|art=none|translations={$translations}|translations=none|translationblock={$translationblock}|reading={$reading}|reading=none|align={$align}|align=right|votes={$votes}|votes=right|stars={$stars}|decimal={$decimal}|decimal=none]]
+

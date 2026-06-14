@@ -1,0 +1,92 @@
+---
+title: "GEAR Hub"
+tags: ["gear", "hub"]
+page_id: "106031312"
+site: "rpcauthority"
+slug: "gear-hub"
+revision: 88
+revision_id: "1543654994"
+author: 7013424
+timestamp: 1777641899
+---
+
+[[span class="listresize"]]ARCHIVE TITLE[[/span]]
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:gear-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+h1, #page-title {
+    font-weight: 900;
+}
+[[/module]]
+
+> //This entry has been updated as of the conclusion of Phase 3 of Project Portal. Recent investigation  the Global Enterprise for Advanced Research to be the remnants of an alternate iteration of the Nucorp Industries Group of Interest. It is currently believed that certain directing and high-ranking officials are survivors of the incident that led to its collapse, which they avoided via interaction with an unidentified asset by the designation "A-001".//
+> 
+> //Research is in progress: approved personnel may view Research Document ALTR-████-#889 (Neutralized-ALTR RD Site-002 folder) or request relevant authorities for further information.//
+> 
+> //This file is attached to the Nucorp Industries database entry, which has been designated "File A". Public entry link attached below.//
+> 
+> [[>]]
+>  -- A. Keegan, Site-002 4A Archivist
+> [[/>]]
+
+[[div class="content-box" style="border-color: #ccc; background: rgba(0,0,0,0.15); background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Anucorp-industries-theme/NuCorp_Logo.png); background-position: 2%; background-size: 50px; background-repeat: no-repeat; padding-left: 10px;"]]
+= [http://rpcauthority.wikidot.com/nucorp-hub VIEW FILE A]
+[[/div]]
+
+
+
+[[div class="sideTabviewMini wide"]]
+[[tabview]]
+[[tab Overview]]
+[[div class="content-box"]]
++++ Overview
+The Global Enterprise for Advanced Research (GEAR) is a multinational organization structured with the ultimate and primary goal of creating the most luxurious lifestyles for the few in charge. Although they may be driven purely by greed, they aren’t stupid, and will often make concessions to ethical and moral quandaries if they feel a deal may fall through. 
+
+GEAR makes the majority of their profit through mass production of anomalous items on the consumer level, often with little to no competition, due to their extradimensional knowledge of anomalies and production of them. The general populous is for the most part unaware of how GEAR produces and creates said items, often leading to much distrust in the company. Regardless, the company’s profit margins remain extraordinarily high.
+
+GEAR has many partners and enemies, often selling invaluable, dangerous anomalies to the RPC and other groups to the highest bidder. GEAR’s relationship with the Authority is complicated to say the least. At times they may cooperate in the name of a common goal, the next day doing the opposite. Extremely high profits have allowed GEAR to invest heavily in militaristic defense, research and secrecy. Authority attempts to locate GEAR facilities have been completely fruitless. Exact details of the owners of GEAR remain shrouded in mystery.
+
+Suspicion regarding the origin of the organization and its higher-ranking officers have existed since its rise to power, in particular surrounding the tendency for older officers to have multiple falsified identities. Irregular behavior has been extensively documented as well, with numerous instances of potentially predictive attitudes toward items acquired in uncertain circumstances. 
+
+Despite popular belief, GEAR and Amazing! Co. do not regularly compete for market share. Amazing! Co.’s dangerous and consumer-unfriendly products are easily out-sold by GEAR products which are designed for consumers. Despite this, both companies regularly engage in the use of memetic agents in order to entice consumers into making a purchase. 
+
+[[/div]]
+[[/tab]]
+
+[[tab Articles]]
+[[div class="content-box"]]
++++ **Anomaly Documentation**
+[[module ListPages separate="no" tags="+gear +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gear +goi-doc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+[[/div]]
+
+[[div class="content-box"]]
++++ **Miscellaneous Documentation** 
+[[module ListPages tags="gear -rpc -goi-doc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-box"]]
++++ **Articles that reference GEAR** 
+[[[AEP-405]]] - Growth Tubes
+
+[[[An Incomplete History of the Authority]]]
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+Please contact the GoI curator [[*user 0ktober]] if you have any questions about writing for GEAR.
+

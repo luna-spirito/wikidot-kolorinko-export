@@ -1,0 +1,33 @@
+---
+title: "Theme"
+tags: []
+page_id: "1306773660"
+site: "obscurative"
+slug: "frontier:_template"
+revision: 81
+revision_id: "1480131162"
+author: 4518363
+timestamp: 1660926891
+---
+
+[[include frontier:theme]]
+[[module CSS]]
+#u-dez {
+  bottom: 10%;
+  left: 0;
+  padding-bottom: 0;
+position: fixed;
+background: white;
+border-radius: 0 5px 5px 0;
+font-size: 1.5em;
+}
+
+#u-dez a {
+  position: relative;
+  top: -0.1em;
+}
+[[/module]]
+[[span id="dez"]][[[https://dez.obscurative.ru/obs/frontier/%%name%% | →]]][[/span]]
+
+%%content%%
+

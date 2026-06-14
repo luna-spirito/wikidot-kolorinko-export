@@ -1,0 +1,72 @@
+---
+title: "Acquired Media Archive"
+tags: ["hub"]
+page_id: "102401954"
+site: "rpcauthority"
+slug: "acquired-media"
+revision: 35
+revision_id: "1539468941"
+author: 5982545
+timestamp: 1763134776
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+.footnotes-footer {
+display:none;
+}
+[[/module]]
+
+[[tabview]]
+[[tab Acquired Writings]]
+**Writings retrieved from locations of anomalous events are stored here for archival purposes.**
+
+There is no set template due to the unpredictable nature of how each individual can write. [[footnote]]  If you are unable to create a page using the module above, attempt creating a page normally by choosing your desired URL (I.e. http://rpcauthority.wikidot.com/your-page-name) and adding the tags "document", "acquired-media", and "goi-doc" or "writings" respectively via the "Tags" button at the bottom of the page. Other according tags may be found in the [[[Tagging Guide]]]. [[/footnote]]
+
+[[module NewPage button="Submit EoI Document" tags="document goi-doc acquired-media" parent="acquired-media"]]
+
+[[module NewPage button="Submit Writing" tags="document writings acquired-media" parent="acquired-media"]]
+[[module ListPages tags="writings goi-doc" order="title" perPage="50"]]
+----
+[[include component:rating]]
+[[size larger]]**%%linked_title%%**[[/size]]
+
+[[span style="font-style: italic;"]]%%first_paragraph%%[[/span]]
+[[/module]]
+[[/tab]]
+[[tab Footage]]
+**Footage showing anomalous phenomena can serve as a risk to the normalcy of the world. Such footage is either taken or seized by the Authority and uploaded here for archival and investigative purposes.**
+
+The template can be found **[[[formatting-guide#toc0|here]]]**. 
+
+All footage follows the following naming convention: M-XXXXX. The XXXXX can be comprised of uppercase letters and numbers. [[footnote]]  If you are unable to create a page using the module above, attempt creating a page normally by choosing your desired URL (I.e. http://rpcauthority.wikidot.com/your-page-name) and adding the tags "document", "footage" and "acquired-media" via the "Tags" button at the bottom of the page. Other according tags may be found in the [[[Tagging Guide]]]. [[/footnote]]
+[[module NewPage button="Submit Footage" tags="document footage acquired-media"]]
+[[module ListPages tags="footage" order="title" perPage="50"]]
+----
+[[include component:rating]]
+[[size larger]]**%%linked_title%%**[[/size]]
+
+[[span style="font-style: italic;"]]%%first_paragraph%%[[/span]]
+[[/module]]
+[[/tab]]
+[[tab Acquired Photographs]]
+**With the advent of home computing and sophisticated imaging software, images displaying anomalous phenomena have become harder to legitimize.**
+
+**All photographs seized by the Authority have been thoroughly screened for validity. Said photos are displayed here along with photographs retrieved from locations of anomalous events.**
+
+Please place information regarding the origin and history of the photograph in the caption below it. Photographs use the following naming convention: P-XXX. [[footnote]]  If you are unable to create a page using the module above, attempt creating a page normally by choosing your desired URL (I.e. http://rpcauthority.wikidot.com/your-page-name) and adding the tags "document", "photograph" and "acquired-media" via the "Tags" button at the bottom of the page. Other according tags may be found in the [[[Tagging Guide]]] [[/footnote]]
+[[module NewPage button="Submit Photograph" template="template:photograph" tags="document photograph acquired-media" category="acquired-media"]]
+
+[[module ListPages tags="photograph" category="acquired-media" order="title" perPage="50"]]
+----
+[[include component:rating]]
+[[size larger]]**%%linked_title%%**[[/size]]
+%%content{1}%%
+[[/module]]
+[[/tab]]
+[[/tabview]]
+

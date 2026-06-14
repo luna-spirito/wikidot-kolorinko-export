@@ -1,0 +1,17 @@
+---
+title: "Photograph Template"
+tags: []
+page_id: "102401627"
+site: "rpcauthority"
+slug: "template:photograph"
+revision: 1
+revision_id: "1048468440"
+author: 3118961
+timestamp: 1584220193
+---
+
+[[include component:image-block 
+name= Image_URL_Location|
+align=center|
+caption=PLACE DESCRIPTION HERE]]
+

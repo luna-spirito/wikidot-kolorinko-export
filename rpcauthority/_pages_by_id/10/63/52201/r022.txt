@@ -1,0 +1,111 @@
+---
+title: "Halloween Contests"
+tags: ["contest"]
+page_id: "106352201"
+site: "rpcauthority"
+slug: "halloween"
+revision: 22
+revision_id: "1357281346"
+author: 3952836
+timestamp: 1604116647
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:halloween-theme/code/1);
+[[/module]]
+
+>October 31st
+> 
+> ++ Here are the winners of our Halloween contest. Congratulations and thank you so much to everyone who entered. Great job!
+> 
+> First place for the Scariest RPC Contest is [[[rpc-866 |The Faceless God]]] by [[*user moist bread]] with 28 five stars. They have chosen the RPC-866 slot. 
+> 
+> Second place is [[[rpc-666 |Beast of no Nation]]] by [[*user ascriber]] with 21 five stars. He will have the remaining RPC-666 slot. 
+> 
+> Third place is [[[halloweenentry:bxluyw1lamvmzg |Rattenkönig Doors]]] by [[*user bXluYW1lamVmZg]] with 19 five stars. 
+> 
+> Congratulations to [[*user Logangreenjeans]] for first place in the [[[halloweenentrylogangreenjeans |acquired photos]]]! 
+> 
+> Congratulations to [[*user Hyze]] for first place in the [[[halloweencontest:hyze |acquired writings]]]! 
+> 
+> And last but not least, great job to [[*user Croal]] and [[*user liberonscien]] for scoring very close in the pumpkin carvings.
+> 
+> Happy Halloween!
+
+++ Welcome to our Halloween Contest page. We are opening the following four separate contests.
+
+**SCARIEST RPC -** Our first Halloween contest will be for RPC-866 or RPC-666 (winners choice). You must write the best scary RPC, there are no other restrictions. 
+
+**HALLOWEEN TALE -** You may write an entirely new Halloween/scary tale, OR rewrite a traditional story to have an RPC twist.  
+
+**ACQUIRED MEDIA -** Subcategories include : Footage, Photographs and Writings. Submit your best and scariest. Each subcategory will have its own winner. Photographs can include artistic drawings. 
+
+**PUMPKIN CARVING -** The person with the best pumpkin carving wins. Remember to scoop out all the guts too, every technique counts. This contest will take place separately on the official discord. Please contact Zucc on discord to enter into this contest. You must include a timestamp.
+
+The submission for each category and subcategory with the most 5 star votes will win. Votes from 0-4 will not count. The winners of each contest will win bragging rights and a featured spot on the front page. The winner of the Scariest RPC will choose either the RPC-666 or the RPC-866 slot, with second place taking the other. Those who do not win are still highly encouraged to upload their submissions (RPC submissions must be uploaded under other slots). 
+
++ Rules
+* Wait until the submission period begins to upload your page
+* Anyone is allowed to participate! 
+* You may submit to multiple contests, but only one work to each individual contest (You may submit to all of the media subcategories)
+* Anyone found using alt accounts to upvote their submissions will be disqualified, and banned from entering any further contests 
+* The submissions must match the theme in a justifiable way
+* Collaborations are allowed, but that will count as the one entry for all participants
+* Pre-existing drafts are allowed, so long as they have never been posted to the wiki
+* Edits to works **are** allowed
+* Do not coldpost. You must receive feedback in the drafts forum for RPC's and Tales 
+
+**Submission Opens:** October 21st
+**Submission Closes:** October 24th
+Winners are to be announced on October 31st. 
+
++ To Enter
+
+**PLEASE WAIT TO UPLOAD UNTIL OCTOBER 21ST.** You may upload your pages and tag them appropriately, but you will be asked to re-upload them if they receive any votes before the submission period starts. Your submissions will NOT appear on this page until the 21st if you do upload them early. 
+
+When the submitting period begins, post your entry to the site with the url 'HalloweenEntry<yourusername>' with your site user name in place of <yourusername.> For example, if a user named Chad were to post an entry it would have the URL HalloweenEntrychad. This page must be posted by you (or, if it is a collaboration, one of the partners). 
+
+**Add the proper tag to your entry so it shows up on this page.** 
+To enter into the Scary RPC contest use the tag "HalloweenRPC"
+To enter into the Halloween Tale contest use the tag "HalloweenTale"
+To enter into the Acquired media contest use the proper tag "HalloweenFootage", "HalloweenPhoto", or "HalloweenWritings"
+
+
++ Scariest RPC Entries 
+
+[[module ListPages separate="no" category="*" tags="+halloweenrpc -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+
++ Halloween Tale Entries  
+
+[[module ListPages separate="no" category="*" tags="+halloweentale -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+
++ Acquired Media Entries 
+
+* Acquired Footage Will Appear Here
+[[module ListPages separate="no" category="*" tags="+halloweenfootage -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+* Acquired Photographs 
+[[module ListPages separate="no" category="*" tags="+halloweenphoto -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+* Acquired Writings 
+[[module ListPages separate="no" category="*" tags="+halloweenwritings -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
++ Pumpkin Carving Contest Submissions 
+
+[*https://imgur.com/a/QEfgcgL Croal's Submission]
+[*https://imgur.com/a/B6Q4D6n Liberonscien's Submission]
+
+- Thank you so much to [[*user Dr Vaughn]] for making the Halloween theme
+

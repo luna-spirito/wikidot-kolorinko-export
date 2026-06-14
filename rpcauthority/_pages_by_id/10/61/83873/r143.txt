@@ -1,0 +1,117 @@
+---
+title: "GEAR Theme"
+tags: ["theme"]
+page_id: "106183873"
+site: "rpcauthority"
+slug: "component:gear-theme"
+revision: 143
+revision_id: "1050603936"
+author: 3118961
+timestamp: 1584297251
+---
+
+[[module CSS]]
+@import url(/component:gear-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+GEAR Theme
+
+Created by Vizlox for the RPC Authority
+*/
+
+:root {
+/* PALLET SHEET */
+
+--primary-text-color: #c66c2d;
+
+--nav-hover-background: #c64e2d;
+ 
+/* General Elements */
+ 
+/* Generic Buttons */
+--button-border: 1px solid #40362c;
+--button-background: #221c18;
+--button-hover-border: 1px solid #5c3d27;
+--button-hover-background: #5c3d27;
+
+/* Header */
+--header-icon: url(http://www.rpc-wiki.net/local--files/component:gear-theme/GEAR_Logo_Fade.png); 
+--header-icon-adv: 5px 22px no-repeat;
+--header-icon-size: unset;
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Agear-theme/gear-bg.png);
+--header-font-weight: lighter;
+--header-font: 'Nidus Sans', 'Exo 2', sans-serif;
+--header-tagline-font: 'Exo 2', sans-serif;
+--header-color: #e9e9e9;
+--header-tagline-color: #d9d9d9;
+--header-text-visibility: hidden;
+--header-custom-text: 'GEAR';
+--header-tagline-custom-text: 'Global Enterprise for Advanced Research';
+ 
+/* Tabview */
+--tabview-side-tabs-background: #363331;
+--tabview-side-button-selected-background: #2a2624;
+--tabview-side-scrollbar-thumb-background: #493c32;
+--tabview-side-scrollbar-thumb-hover-background: #413730;
+
+/* Search Bar */
+--search-button-background: #32251b;
+--search-button-hover-background: #644436;
+--search-input-color: #4d3e33;
+--search-input-hover: #68462d;
+
+/* Topbar */
+--topbar-text-color: #fff;
+--topbar-dropdown-background: #fff;
+--topbar-hover-background: #000;
+--topbar-divider: 1px solid #000;
+--topbar-dropdown-border-color: #000;
+--topbar-hover-color: #fff;
+--topbar-dropdown-color: #000;
+ 
+/* Link Colors */
+--link-color: #c66c2d;
+--link-hover-color: #ff8c2d;
+--new-page-color: #c46452;
+
+/* Rating Modules */
+--star-rating-hue: 160deg;
+
+/* Sidenote Color */
+--sidenote-open-background: #31231c;
+
+--BT-scrollbar-thumb-background: #c66c2e;
+--BT-scrollbar-thumb-hover-background: #9d5525;
+}
+ 
+ #header h1 a::before {
+    letter-spacing: 0.9px;
+    margin-left: 100px;
+}
+
+#header h2 {
+    margin-left: 222px;
+}
+
+
+@media (max-width: 768px) {
+    #header {
+        background-position: 0em 7.8em;
+        background-size: 70px;
+    }
+
+    #header h1 a::before {
+        margin-left: 0px;
+    }
+
+    #header h2 {
+        margin-left: 66px;
+    }
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+
