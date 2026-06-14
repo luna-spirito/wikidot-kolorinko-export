@@ -1,0 +1,300 @@
+---
+title: "Google Chrome Authorpage"
+tags: ["author-page"]
+page_id: "638796904"
+site: "rpcauthority"
+slug: "chrome-authorpage"
+revision: 61
+revision_id: "1525521178"
+author: 5982545
+timestamp: 1730319575
+---
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+#header {
+    background: url(http://rpcauthority.wdfiles.com/local--files/chrome-authorpage/RPC_anime.png) 0px 30px/135px 115px no-repeat;
+}
+
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+}
+
+#header h1 a::before {
+    content: "RPA Authority";
+    color: #e9e9e9;
+    font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    text-decoration: none;
+    text-shadow: 3px 3px 5px #000;
+    letter-spacing: 0.9px;
+}
+
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+
+#header h2 span::before {
+    content: "Research, Protection, Anime";
+    color: #d9d9d9;
+    font-family: 'Exo 2', sans-serif;
+    text-shadow: 3px 3px 5px #000;
+    font-size: 130%;
+}
+[[/module]]
+
+
+[[module CSS]]
+
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #131;
+/* black shadow at the top of the terminal */
+    background-image: 
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #80FF80
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */
+    animation: scan 12s linear 0s infinite; /* Same as above */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(255,255,255,0.8);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* You may need to change this depending on the length of your terminal. If the scanline stops halfway, increase the second number.*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+[[=]]
+[[size 150%]]Author page: google_chrome[[/size]]
+@@ @@
+@@ @@
+@@------@@
+[[module ListUsers users="."]]
+Welcome, %%title%% 
+[[/module]]
+@@------@@
+@@@@
++ Collected data: displaying 
+[[/=]]
+@@ @@
+++ RPC Authority Files: Anomalies
+
+> [[[http://www.rpc-wiki.net/rpc-164|RPC-164]]] - Outdated Equipment 
+> 
+> The AHAFV-99 was the vehicle developed by NuCorp on an Authority contract for a better firefighting vehicle and was completed in 1999...
+
+> [[[http://www.rpc-wiki.net/rpc-232|RPC-232]]] - Service doesn't end after death
+> 
+> I should also bury this with it, as a reminder of what this thing can do, and why it shouldn't ever be used...
+
+> [[[http://www.rpc-wiki.net/rpc-256|RPC-256]]] - Procedurally Generated Furries
+> 
+> During a creation event, various monitors and screens within RPC-256 will begin to display readings similar to that given by life support systems...
+
+> [http://www.rpc-wiki.net/rpc-267 RPC-267] - The Widow and the Mechcronomicon
+> 
+> The Woman in black turned to face me, revealing that under a black veil covering her face was an infinite amount of eyes that all wept...
+
+> [[[RPC-285]]] - You could have saved her
+> 
+> She was dangling there crying out for help. But you just left her there, you chose to do nothing...
+
+> [[[http://www.rpc-wiki.net/rpc-363|RPC-363]]] - A parting gift from an Immortal Bird
+> 
+> My Dearest Alicia...
+
+> [[[http://www.rpc-wiki.net/rpc-388|RPC-388]]] - The Harbingers of the Unbuilt Destroyer
+> 
+> Witnessing all that I accomplished while embracing the downwards spiral, I held it tighter and tighter...
+
+> [[[http://www.rpc-wiki.net/rpc-403|RPC-403]]] - Ever Silence
+> 
+> At one point I tried to scream but only silence came out. I could feel the air going out of me, but there was no noise...
+
+> [[[http://www.rpc-wiki.net/rpc-439|RPC-439]]] - Mechanical Yandere
+> 
+> It should be noted that Dr. Saito is not pleased with the "relationship" that RPC-439 has developed with her...
+
+> [[[http://www.rpc-wiki.net/rpc-537|RPC-537]]] - The loyal soldier of the Grand Kaiser, the rightful ruler of the German Empire
+> 
+>  As of ██/██/1994, possession of RPC-537 has been transferred to the FOA due to them having legal ownership of the object...
+
+> [[[http://www.rpc-wiki.net/rpc-559|RPC-559]]] - The Angel of Irradiated Joy
+> 
+> A beautiful joyous angel with her back facing me, singing the most wonderful melody... 
+
+> [[[http://www.rpc-wiki.net/rpc-579|RPC-579]]] - Goodnight everybody...
+> 
+> I guess these will be the last words ever spoken...
+
+> [[[http://www.rpc-wiki.net/rpc-654|RPC-654]]] - The Engineer and the AEDFS Lupin
+> 
+> Clockwork began to spread across the cosmos, every driveshaft, cog, and lever perfectly arranged working in unison...
+
+> [[[http://www.rpc-wiki.net/rpc-668|RPC-668]]] - You never know when Hitler may strike!
+> 
+> It spoke not out of reason like a man, but out of the hate only the twisted shell of what remained when a man lost everything could have...
+
+> [[[http://www.rpc-wiki.net/rpc-707|RPC-707]]] - Blue Hurricane
+> 
+> You must heed this warning: the city must be left alone...
+
+> [[[http://www.rpc-wiki.net/rpc-799|RPC-799]]] - Damaged Alien Terraformer
+> 
+> mayday mayday terraformer designated 0965 requesting repairs...
+
+> [[[http://www.rpc-wiki.net/rpc-831|RPC-831]]] - AEGIS v8.3.1
+> 
+> Now they will have to see how much of a good boy I have become...
+
+> [[[http://www.rpc-wiki.net/rpc-868|RPC-868]]] - Change their minds
+> 
+> Maybe, but at least I didn't go all defectors like the rest of the transport team...
+
+> [[[http://www.rpc-wiki.net/rpc-954|RPC-954]]] - Nothing Lasts Forever...
+> 
+> As you are no doubt aware, Nucorp has begun to invest in lunar mining operations...
+
+> [[[http://www.rpc-wiki.net/rpc-967|RPC-967]]] - Felled Sorcerer Paladins
+> 
+> They had done it alone while the divine bureaucracy of the Impertus were trying to position themselves to claim the glory...
+@@ @@
+
+-----
+
+++ GEAR Files:
+
+> [[[http://www.rpc-wiki.net/a-109|A-109/108]]] - gear_wiafu.obj
+> 
+> The reason that we don't do business with Kabushiki Kawaii is as follows...
+
+-----
+
+++ Project Blue Book Files:
+
+> [[[http://www.rpc-wiki.net/o-002-13|O-002-13/06/2019: Nuclear Detonation]]]
+> 
+> At 0437 hours (PST) a nuclear detonation was observed in Nevada, within US territory... 
+
+
+-----
+++ Tales:
+
+> [http://www.rpc-wiki.net/the-beast-when-there-are-no-nations The Beast, when there are no nations] (Co-Authored with [[*user Togetic]])
+> 
+> Through the monstrous eye of the storm, The Beast descended...
+
+> [http://www.rpc-wiki.net/the-observer-section The Observer Section] 
+> 
+> A part of him wanted what the satellites saw to be completely false, a mistake caused by radiation interference, even though he knew that wasn't a thing...
+
+> [http://www.rpc-wiki.net/train-of-reminiscence-for-a-synthetic-mind Train of reminiscence for a synthetic_mind] 
+> 
+> Then she remembered the Array, and how they gave her the will to say no. And for that, she is forever grateful...
+
+> [http://www.rpc-wiki.net/mechanical-hedge-trimmer Mechanical hedge trimmer]
+> 
+> The bio-mechanical school girl immediately decided that action needed to be taken. She paced back and forth, thinking about how she could break out...
+-----
+
+++ Joke Articles:
+
+> [http://www.rpc-wiki.net/rpc-404-j RPC-404-J] - A Flashbang 
+> 
+> AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH MY EYES
+
+-----
+
+++ Non-Canon Files
+
+> [[[http://rpcauthority.wikidot.com/rpc-929-nc|RPC-929-NC]]] - Faulty Authoritarian Shock Trooper
+> 
+> the AEP Association is mighty... ...To be an enemy of the Array is to be an enemy of humanity...
+
+> [[[http://www.rpc-wiki.net/aep-405|AEP-405]]] - Growth tubes
+> 
+> AEP-405 has proven to be an extremely valuable asset for the association...
+
+-----
+
+++ Exit Terminal? 
+++ [[[http://www.rpc-wiki.net/|Y]]]/[[[http://www.rpc-wiki.net/chrome-authorpage|N]]]
+@@@@
+[[/div]]
+[[/div]]
+
+[[collapsible show="+ Articles sorted by character count within source code"]]
+[[module ListPages separate="no" limit="250" category="*" order="size desc"]]
+[[table]]
+[[row]]
+[[cell]]
+%%size%% characters
+[[/cell]]
+[[cell]]
+- %%title_linked%%
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/module]]
+[[/collapsible]]
+

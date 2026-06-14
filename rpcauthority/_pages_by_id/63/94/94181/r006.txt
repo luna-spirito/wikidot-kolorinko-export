@@ -1,0 +1,18 @@
+---
+title: "_test 22"
+tags: []
+page_id: "639494181"
+site: "rpcauthority"
+slug: "_test-22"
+revision: 6
+revision_id: "683522371"
+author: 4671208
+timestamp: 1553136783
+---
+
+[[module CSS]]
+div#container-wrap {
+    background: url(http://www.rpc-wiki.net/local--files/_test-22/body) top left repeat-x;
+}
+[[/module]]
+

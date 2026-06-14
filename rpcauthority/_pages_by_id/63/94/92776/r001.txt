@@ -1,0 +1,24 @@
+---
+title: "_test 17"
+tags: []
+page_id: "639492776"
+site: "rpcauthority"
+slug: "_test-17"
+revision: 1
+revision_id: "683704541"
+author: 3118961
+timestamp: 1553201824
+---
+
+[[module CSS]]
+div#container-wrap {
+    background: url(http://www.rpc-wiki.net/local--files/_icondump/darkHeader.png) top left repeat-x;
+}
+:root {    
+  --search-button: linear-gradient(to bottom, #617293,#283e69,#202736);
+  --search-button-hover: linear-gradient(to bottom, #5a719c,#4263a2,#213251);
+  --search-input-color: #202c3c;
+  --search-input-hover: #17487e;
+}
+[[/module]]
+

@@ -1,0 +1,21 @@
+---
+title: "_test 11"
+tags: []
+page_id: "639460628"
+site: "rpcauthority"
+slug: "_test-11"
+revision: 2
+revision_id: "683467058"
+author: 3118961
+timestamp: 1553038134
+---
+
+[[module CSS]]
+div#container-wrap {
+    background: url(https://cdn.discordapp.com/attachments/513537489147920395/557704431353987084/dark_header_v5.2.png) top left repeat-x;
+}
+body {
+    background: linear-gradient(to bottom, #1e2127, #101115)!important;
+}
+[[/module]]
+
