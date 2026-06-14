@@ -1,0 +1,26 @@
+---
+title: "Список участников"
+tags: []
+page_id: "24217962"
+site: "scientific-alliance"
+slug: "members"
+revision: 0
+revision_id: "51149370"
+author: 754405
+timestamp: 1417446078
+---
+
+[[table]][[row]]
+
+[[cell style="padding-right: 15em"]]
+[[module Members]]
+[[/cell]]
+
+[[cell]]
+[[module Members group="moderators"]]
+-----
+[[module Members group="admins"]]
+[[/cell]]
+
+[[/row]][[/table]]
+
