@@ -1,0 +1,78 @@
+---
+title: "RPC-231"
+tags: []
+page_id: "853781384"
+site: "rpcauthority"
+slug: "fragment:rpc-231-2"
+revision: 76
+revision_id: "1523189208"
+author: 5982545
+timestamp: 1721784576
+---
+
+[[module CSS]]
+#container, #odialog-hovertips {
+  filter: contrast(85%) sepia(75%) hue-rotate(270deg) saturate(125%) blur(0.4px);
+}
+
+#extra-div-1 {
+  box-shadow: 25px 25px 75px black inset, -25px -25px 75px black inset;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 100;
+}
+
+.glow {
+  color: Fuchsia;
+  text-align: center;
+}
+.glow a:link {color: fuchsia!important;}
+.glow a:visited { color: fuchsia!important;}
+.glow a:hover {color: #FF80FF!important;}
+[[/module]]
+
+[[=]]
+> + ATTENTION
+> ++ ##8F3030|Do Not Read This Document While Wearing RPC-231##
+> [[span class="glow"]] They don't want you to know the truth [[/span]]
+[[/=]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/beta-purple.png]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards=[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png title="IDEOLOGICAL HAZARD"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sensory.png title="SENSORY HAZARD"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-visual.png title="VISUAL HAZARD"]] 
+|align=right
+|name=http://rpcsandbox.wikidot.com/local--files/llenses-of-truth/Truth-vision.jpg 
+|width=300px
+|caption=Original instance of RPC-231 
+]]
+
+**Registered Phenomena Code:** 231 
+
+**Object Class:** Beta-Purple
+
+**Hazard Types:** Visual, Ideological
+
+**Containment Protocols:** All discovered instances of RPC-231 are to be kept in S-3 ACUs[[footnote]] Anomaly Containment Units [[/footnote]]. ACUs are to be kept inside an L-3 ACU, which is to be kept in a secure storage locker with a tri-lock security system. Due to the [[span class="glow"]]risk of researchers learning too much[[/span]], any and all testing of RPC-231 is strictly prohibited.
+
+Due to the potential risk of [[span class="glow"]]our web of lies being exposed[[/span]], all uncontained instances of RPC-231 must be secured as soon as possible.
+
+**Description:** RPC-231 are a series of spectacles. The lenses are tinted purple, and [[span class="glow"]]the Hebrew phrase "פקח את עיניך לאמת[[footnote]] [[span class="glow"]]Translated "Open your eyes to the truth."[[/span]] [[/footnote]]" is[[/span]] embossed on the inside of the temples.
+
+Wearing a pair of RPC-231 causes [[span class="glow"]]the truth to reveal itself[[/span]] in the form of glowing symbols and words written on various surfaces. Prolonged exposure [[span class="glow"]]reveals how little the Authority can be trusted[[/span]], with wearers [[span class="glow"]]discovering[[/span]] that the Authority[[span class="glow"]] [[[rpc-127|use a sentient cloud to make people complacent]]], plan to take over all governments, and [[[rpc-856|have a Global Director trying to bring about the four horsemen of the apocalypse]]][[/span]].
+
+**Discovery:** The first instance of RPC-231 was discovered on [[span class="glow"]]02[[/span]]/[[span class="glow"]]24[[/span]]/180[[span class="glow"]]4[[/span]], in the possession of [[span class="glow"]]Benjamin Franklin[[/span]], a known member of the GOI known as "The Union,” and inventor of RPC-231, although [[span class="glow"]]he had the foresight to mail his notes on the creation of RPC-231 to a trusted colleague for replication and distribution among Union members.[[/span]] While there were initially plans to use RPC-231 to uncover anomalies, this avenue of research was quickly abandoned upon [[span class="glow"]]discovering that[[/span]] RPC-231 [[span class="glow"]]revealed their own secrets and lies[[/span]].
+
+**Addendum:** An additional instance of RPC-231 was discovered on [[span class="glow"]]10[[/span]]/[[span class="glow"]]15[[/span]]/193[[span class="glow"]]8[[/span]]. The owner was [[span class="glow"]]interrogated[[/span]] on where they had acquired the instance, and if there were more. However, the owner [[span class="glow"]]knew not to trust us so he was killed[[/span]]. Acquisition of remaining RPC-231 instances and determining the identities of the manufacturers was given maximum level importance by the Global Council, for fear that the Union [[span class="glow"]]would use them to identify Authority sites and personnel, or mass produce them and distribute them throughout the US[[/span]].
+
+[[footnoteblock]]
+[[=]]
+<< [[[RPC-230]]] | RPC-231 | [[[RPC-232]]] >>
+[[/=]]
+
+[[image glasses_secret.png width="100%"]]
+

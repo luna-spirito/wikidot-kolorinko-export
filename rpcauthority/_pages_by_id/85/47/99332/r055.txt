@@ -1,0 +1,239 @@
+---
+title: "AEDF Fleet Manifest"
+tags: ["aedf", "collaboration", "document", "lore", "translated"]
+page_id: "854799332"
+site: "rpcauthority"
+slug: "aedfmanifest"
+revision: 55
+revision_id: "1526682988"
+author: 9487909
+timestamp: 1734011978
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:aedf-theme/code/1);
+[[/module]]
+
+[[include component:rate title=aedfmanifest | translations=show | translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/aedfmanifest"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/manifestofdea"]]]]
+
+[[module css]]
+.aedf img {
+max-width: 100%;
+}
+[[/module]]
+
+Last Updated ██/██/2019, ██:██
+
+> [[size 120%]] ###BF4A48|**Note:**## [[/size]] **The following document only includes vessels capable of interplanetary travel, and does not include local or suborbital transfer vehicles such as the STB Bullfrog and Skate-Classes.**
+@@ @@
+
+[[div style="background: none; border-top: solid 4px #c0c0c0; border-bottom: solid 4px #ccc; box-shadow: 0px 6px 8px #000; border-radius: 10px; padding: 10px 10px;"]]
+
+[[div class="aedf"]]
+[[=image http://rpcauthority.wikidot.com/local--files/aedfmanifest/Zheng%20He%20New%20Emblem.png width="1000px"]]
+[[/div]]
+
+[[/div]]
+@@@@
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/aedfmanifest/TERFLT.png width="100px"]]
++++ TERFLT
+Terrestrial Fleet
+
+[[include component:sidenote figure=Thunderbird-Class Multirole Spaceplane|contents=**Mass:** 5.6t
+**Length:** 14m
+**Beam:** 6.2 (Wings extended), 3.5m (Wings retracted)
+**Crew:** 1
+**Adopted:** 1981
+A substantial overhaul of the Dynavane, the Thunderbird uses the combination of compact aerojets and a scramjet assist to achieve "1.5-stage-to-orbit" performance, requiring only an external fuel tank instead of a booster. With the addition of a dedicated crew module, it can transport up to 8 passengers.
+]]
+
+[[include component:sidenote figure=Dynavane-Class Multirole Spaceplane|contents=**Mass:** 4.9t
+**Length:** 12m
+**Beam:** 6.5m (Wings extended), 4m (Wings retracted)
+**Crew:** 1
+**Adopted:** 1965
+Adapted from the USAF X-20 Dyna-Soar spaceplane, the Dynavane is a conventional two-stage-to-orbit spaceplane designed to be fitted to a variety of standard lifting platforms. It is capable of carrying up to 6 passengers (or equivalent mass of cargo) to and from Terrestrial orbit.
+]]
+
+[[include component:sidenote figure=Zheng He-Class Torch Cruiser|contents=**Mass:** 88t
+**Length:** 45m
+**Beam:** 18m (40m with solar panels extended)
+**Crew:** 9
+**Adopted:** 1971
+A general purpose fusion-engine vessel, these ships are heavily modular, and have been responsible for many of the AEDF's most important exploratory missions. Zheng Hes are the first Authority vessel fitted with dedicated shuttlecraft (Hong Bao-class), enabling them to conduct planetary landings and recovery without specialized equipment.
+]]
+
+[[include component:sidenote figure=Yakov Bryus-Class Torch Cruiser|contents=**Mass:** 75t
+**Length:** 32m
+**Beam:** 12m (35m with solar panels extended)
+**Crew:** 9
+**Adopted:** 1952 (Retrofitted 1970)
+Originally a conventional rocket-based vessel intended to supplement NG craft, the Yakov Bryus have since been modified to accept standard fusion engines. Though smaller, slower and less modular than the Zheng He class, their somewhat more robust construction makes them suitable for long-haul missions.
+]]
+
+TERFLT is charged with transport operations to and from Earth's surface, as well as the distribution of material and supplies from Terrestrial sources.
+* 5 x Thunderbird
+* 7 x Dynavane
+* 2 x Zheng He
+* 4 x Yakov Bryus
+
+[[include component:sidenote figure=Nightingale-Class Manned Fleet Tender|contents=**Mass:** 80t
+**Length:** 35m
+**Beam:** 12m (40m with solar panels extended)
+**Crew:** 6
+**Adopted:** 1990
+Built from unfinished and recovered Yakov Bryus hulls, the Nightingale is designed for sustained operations over extreme ranges, acting as cargo vessel and mobile repair facility for larger and faster craft.
+]]
+
+[[include component:sidenote figure=Sahaayak' Unmanned Repair Vessel|contents=**Mass:** 7t
+**Length:** 6m
+**Beam:** 2.7m (10.5m with solar panels extended)
+**Crew:** -
+**Adopted:** 1995
+The result of a successful information-sharing program with ROSCOSMOS following the fall of the Soviet Union, the Sahayaak' is a simple and reliable remotely-operated repair and structural maintenance vessel based loosely off the orbital module of the Soyuz-T transport capsule.
+]]
+
+[[include component:sidenote figure=Sluga Unmanned Cargo Transfer Vessel|contents=**Mass:** 3t
+**Length:** 6m
+**Beam:** 2.7m
+**Crew:** -
+**Adopted:** 1995
+Developed in parallel to the Sahayaak', the Sluga is an extremely lightened Soyuz-T, consisting of little more than a compact fusion engine, cooling systems, and a guidance package. Slugas are capable of sustained acceleration over long distances, ideal for gravity-assist transfer of cargo across the Solar System.
+]]
+
+**TERFLTMAIN** (Terrestrial Fleet Maintenance Squadron) is primarily operated from Terrestrial control centers, and performs running maintenance on INFLT, OUTFLT and TERFLT vessels passing through the immediate vicinity of the Earth-Moon system.
+
+* 2 x Nightingale
+* 18 x Sahaayak'
+* 25 x Sluga
+
+**TERFLTER** (Terrestrial Fleet Emergency Reserve) is activated only in the event of an immediate and catastrophic extraterrestrial threat to the Earth-Moon system, and only after conventional military, diplomatic or scientific options have failed.
+
+* AEDFS //[http://www.rpc-wiki.net/rpc-722 Solidarity]//
+
+**Notable Vessels:**
+* AEDFS //[http://www.rpc-wiki.net/rpc-722 Anklebiter]//, Yakov Bryus
+* AEDFS //[http://www.rpc-wiki.net/rpc-722 Syrakousai]//, Yakov Bryus
+* AEDFS //[http://www.rpc-wiki.net/rpc-799 Aura]//, Yakov Bryus
+* AEDFS //[http://www.rpc-wiki.net/rpc-223 Olalla]//, Yakov Bryus
+* AEDFS //[http://www.rpc-wiki.net/coldandsteele02 Pipemaker]//, Nightingale
+* AEDFS //[http://www.rpc-wiki.net/coldandsteele01 Ivan Tsarevitch]//, Thunderbird
+* AEDFS //Horizon//, Thunderbird
+* AEDFS //Mercury//, Thunderbird
+* AEDFS //Lucifer//, Lucifer- Decommissioned 2007
+@@ @@
+@@@@
+[[div style="background: none; border-top: solid 4px #c0c0c0; border-bottom: solid 4px #ccc; box-shadow: 0px 6px 8px #000; border-radius: 10px; padding: 10px 10px;"]]
+
+[[div class="aedf"]]
+[[=image http://rpcauthority.wikidot.com/local--files/aedfmanifest/Lucifer%20New%20Emblem.png width="1000px"]]
+[[/div]]
+
+[[/div]]
+@@ @@
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/aedfmanifest/INFLT.png width="100px"]]
++++ INFLT
+Inner-System Fleet
+
+INFLT's jurisdiction covers the Solar System from the outer edge of the Asteroid Belt to the immediate orbit of the Sun. As this is the area of the highest relative traffic in the Solar System, and the best explored, INFLT maintains the largest operational body of vessels to police and maintain Authority assets in the area.
+
+[[include component:sidenote figure=Lucifer-Class Torch Cruiser|contents= **Mass:** 101t
+**Length:** 52m
+**Beam:** 20m (55m with solar panels extended)
+**Crew:** 11
+**Adopted:** 2005
+The Lucifer-class is the largest conventional vessel in the Authority fleet, a long-range exploration and research vessel optimized for independent long-range operations. Since the decommissioning of AEDFS //Lucifer// in 2007 due to structural flaws, the production of further Lucifer-class vessels is on hold.
+
+]]
+
+[[include component:sidenote figure=Hecla-Class Extended Operations Vessel|contents=**Mass:** 90t
+**Length:** 45m
+**Beam:** 25m (40m with solar panels extended)
+**Crew:** 3
+**Adopted:** 1992
+A modification of the Zheng He, the Hecla-Class's extended hull is fitted with two contra-rotating semi-rigid centrifuges for the generation of artificial gravity, as well as three large inflatable lab modules and an extended communications suite. Heclas are frequently utilized as semi-mobile space stations.
+]]
+
+* 1 x Lucifer
+* 5 x Zheng He
+* 6 x Yakov Bryus
+
+**INFLTMAIN** (Inner-System Fleet Maintenance Squadron) acts as a mobile support arm for regular INFLT operations, with fleet tenders frequently accompanying and supporting torch vessels on long-duration missions.
+
+* 6 x Nightingale
+* 12 x Sahaayak'
+* 10 x Sluga
+
+**INFLTEO** (Inner-System Fleet Extended Operations Group) provides mobile research and containment facilities used for the preliminary observation, exploration and analysis of extraterrestrial anomalies within the inner solar system.
+
+* 2 x Hecla
+
+**[http://www.rpc-wiki.net/site-019 INFLTLNR]** (Inner-System Fleet Line Reserve) is the emergency operational wing which provides maintenance and crew for the AEDF's 24 Null-gravity Generator (NG)-based vessels dating from 1920-1948. As NG vessels are difficult to maintain and hazardous to the health of their crew, these vessels are kept in a mothballed state and only deployed on a case-by-case basis where their high speeds, maneuvrability and substantial armament can provide effective combat support to more modern AEDF vessels.
+
+[[include component:sidenote figure=Impossible-Class Prototype Null-gravity Cruiser|contents=**Mass:** 149t
+**Length:** 80m
+**Beam:** 50m
+**Crew:** 30 (Original intended crew 56)
+**Adopted:** 1923
+The first modern NG prototype, the //Impossible// has been repeatedly refitted to bring it up to AEDF operational standards. Though unergonomic and poorly-suited for scientific work, its extremes of acceleration, robust hull, and heavily over-engineered construction make it suitable for operations in environments where more conventional craft would fare poorly.
+]]
+
+[[include component:sidenote figure=Lillienthal-Class Null-gravity Cruiser|contents=**Mass:** 120t
+**Length:** 90m
+**Beam:** 45m
+**Crew:** 24 (Original intended crew 52)
+**Adopted:** 1927
+Lillienthal-Class is the collective modern designation for all Authority NG vessels built 1923-1948, and encompasses six distinct but similar sub-variants of NG cruiser. Lillienthals are generally not designed for scientific or exploratory work, but provide a more modern and reliable platform than the //Impossible//.
+]]
+
+* 1 x Impossible-Class Prototype Null-gravity Cruiser[[footnote]] AEDFS //Impossible// is nominally flagship of the NG fleet but has been under long-term overhaul due to severe structural issues since 2013. [[/footnote]]
+* 23 x Lilitenthal-Class Null-gravity Cruiser
+
+**Notable Vessels:**
+* AEDFS //[http://www.rpc-wiki.net/rpc-654 Lupin]//, Lucifer, AEDF Combined Fleet Flagship
+* AEDFS //[http://www.rpc-wiki.net/an-incomplete-history-of-the-authority Dyson]//, Zheng He
+* AEDFS //Bodhi//, Zheng He
+* AEDFS //Excelsior//, Zheng He
+* AEDFS //[http://www.rpc-wiki.net/maskirovka Traveller]//, Yakov Bryus
+* AEDFS //[http://www.rpc-wiki.net/rpc-577 Tarkas]//, Helca
+* AEDFS //[http://rpcauthority.wikidot.com/rpc-420 Mars Vizier]//, Lilienthal-Class
+
+------
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/aedfmanifest/OUTFLT.png width="100px"]]
++++ OUTFLT
+Outer-System Fleet
+
+Due to the logistical difficulties of communications and transport in the considerable volume of space between the Asteroid Belt and the outer layers of the Oort Cloud, OUTFLT operates primarily via the use of semi-autonomous drone craft, which relay information through a small number of manned vessels. OUTFLT's role is thus largely based around remote exploration and detection, as the Authority lacks the manpower, resources and technology to maintain a continuous active presence in this area.
+
+[[include component:sidenote figure=Mayfly-Class Unmanned Torch Vessel|contents=**Mass:** 71t
+**Length:** 52m
+**Beam:** 20m (55m with solar panels extended)
+**Crew:** -
+**Adopted:** 2007
+Converted from components taken from unfinished Zheng He and Lucifer-class hulls, the Mayfly is a fast picket/courier vessel. Its greatly enlarged engine and fuel tanks, as well as a limited-operation Bussard-type ramscoop for refuelling, make it capable of rapid operations over ranges not feasible for a human-crewed vessel.
+]]
+
+* 1 x Lucifer
+* 1 x Zheng He
+* 2 x Yakov Bryus
+* 5 x OOD Mayfly
+
+@@@@
+**OUTFLTMAIN** (Outer-System Fleet Maintenance Unit) is based out of low Jupiter orbit, and despatches cargo transfer and repair vehicles to other OUTFLT craft when needed.
+
+* 1 x Nightingale
+* 6 x Sahaayak'
+* 5 x Sluga
+
+**OUTFLTEO** (Outer-System Fleet Extended Operations) maintains a position close to OUTFLTMAIN in the Jovian system, acting primarily as a communications relay for the rest of OUTFLT.
+
+* 1 x Hecla
+
+**Notable Vessels:**
+* AEDFS //[http://www.rpc-wiki.net/rpc-888 Conquistador]//, Zheng He
+* --AEDFS //[[[RPC-099|Kaiser Wilhelm]]]//, Yakov Bryus--
+* AEDFS //[[[RPC-972|James Boy]]]//, Yakov Bryus
+

@@ -1,0 +1,328 @@
+---
+title: "Amazing and Co."
+tags: ["amazing.co", "comedy", "eoi-tale", "gear", "non-canon", "pcaao", "tale", "translated"]
+page_id: "835236426"
+site: "rpcauthority"
+slug: "amazing-and-co"
+revision: 38
+revision_id: "1527261821"
+author: 9487909
+timestamp: 1736954724
+---
+
+[[module CSS]]
+:root {
+    --v1: #f58b40; /* Orange */
+    --WT-v1: #d56210;
+
+    --v2: #f54242; /* Red */
+    --WT-v2: #f00;
+
+    --v3: #45ebf7; /* Blue */
+    --WT-v3: #13919a; 
+
+    --v4: #3ff03c; /* Green */
+    --WT-v4: #14a012;
+
+    --v5: #85d955; /* Green2 */
+    --WT-v5: #31672b;
+
+    --v6: #c3e683; /* Green3 */
+    --WT-v6: #6da900;
+
+    --v7: #f7eb43; /* Yellow */
+    --WT-v7: #a99d00; 
+}
+
+.comic {
+    font-family: "Comic Sans MS";
+}
+[[/module]]
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/amazing-e-co"]] ]]
+
+Three people sit around a square table in a steel vault, 2 miles below the ground. The tallest one speaks, the other two vaguely listening.
+
+##var(--v1)|"Although we haven't had any business relations with him in the past, and selling an election-rigging micro-chip is a bit of a risky move, I do think that John McAfee is a trustworthy business partner. Plus, he's making the transaction through APAS, which adds a layer of redundancy for detection."##
+
+##var(--v2)|"No. I'm still against this."##
+
+##var(--v1)|"I understand that, but just hear me out on this."##
+
+##var(--v3)|"We've heard it a million times already. Orange, just because he's rich doesn't mean he's a super genius."##
+
+##var(--v1)|"Well, Blue, of course it doesn't //always// mean that, but in this case, it does."##
+
+A woman in a thin jacket enters the room.
+
+##var(--v4)|"I'm sorry to interrupt but this is important."##
+
+##var(--v2)|"You weren't interrupting anything."##
+
+##var(--v4)|"Someone has been creating knock-off GEAR products in order to trick customers into purchasing them. Most notably, they created a fake version of our indestructible phone case. Their version causes cell phones to instantly shatter when the case is put on. The packaging looks almost the same as ours and they managed to get these things in Walmarts."##
+
+##var(--v3)|"The hell? Do we know who's doing this?"##
+
+##var(--v4)|"It's... Amazing Co."##
+
+##var(--v3)|"Oh for fuck's sake. Not this shit again."##
+
+##var(--v4)|"Shall I send in an investigation team?"##
+
+##var(--v2)|"Yes, please."##
+
+The woman hurries out of the room, almost dropping her access card as she pulls a radio out from her back pocket.
+
+##var(--v1)|"Now, where were we?"##
+
+##var(--v2)|"No. We're done with the fucking McAfee shit. Tell him the deal's off."##
+
+@@ @@
+
+----
+
+@@ @@
+
+A few phone calls go down the hierarchy. 
+
+> ##var(--v4)|"We need a team to counter Amazing Co again. I've forwarded you the details."##
+> 
+> [[>]]
+> ##var(--v5)|"I'm on it."##
+> [[/>]]
+
+> ##var(--v5)|"Alright. It's time for another mission. It ain't a competent foe, but they are still very chaotic."##
+> 
+> [[>]]
+> ##var(--v6)|"I got your email. I'll get to it after I'm off break."##
+> [[/>]]
+
+> ##var(--v6)|"Here's the details for your next mission. Gather a team."##
+> 
+> [[>]]
+> "It's been too long."
+> [[/>]]
+
+> "I need some people for a mission."
+> 
+> "Here, I sent the briefing."
+> 
+> [[>]]
+> ##var(--v5)|"What?"##
+> 
+> ##var(--v5)|"I wrote this briefing! Fucking bureaucrat. Why is this going back to me?"##
+> [[/>]]
+> 
+> "I uh... what?"
+> 
+> [[>]]
+> ##var(--v5)|"Gather a team yourself."##
+> [[/>]]
+
+@@ @@
+
+----
+
+@@ @@
+
+On the bottom floor of an abandoned parking garage, half a dozen people scuffle between each other as they mash things together, hoping to produce something of use. Despite their disfigurements caused by months of working with the anomalous, they are at their core, humans. 
+
+The area is dark, the only exit through a dingy staircase in the corner. At the center of the area are three cheap, plastic tables. Atop them is an assortment of objects, mostly garbage, but a few anomalies mixed in. A fat man sits in his wooden chair to the side of the area, shouting orders with the broken English of an ambiguous, foreign, knock-off brand. 
+
+[[div class="comic"]]
+##9942f5|"Jogg, listen here, retard. You need work faster. How you expect us finish on time when you're doing fucking no work fast? Come on!"##
+
+##f743dc|"Fuck you! I work plenty fast! You cannot rush good work, idiot."##
+
+##9942f5|"Haha, you call your work good? I call it sloppy. You could learn lots from Jin. Jin does great work."##
+
+##f743dc|"Jin is a kiss-ass. You only like Jin because he bought you cookies on last week."##
+
+##9942f5|"Bullshit. Those cookies weren't even all that good."##
+
+##f743dc|"Idiot, you ate all of them very quickly. You wouldn't share them with anyone. That sounds like good cookies to me!"##
+
+##9942f5|"Shut the fuck up before I have you removed from Amazing Co. Get back to work."##
+
+[[/div]]
+
+The investigation team listens from around the corner. The newest member turns to another and whispers. 
+
+##var(--v7)|"You sure this is the right place?"##
+
+##b87114|"This is where they told us. I triple checked."##
+
+##var(--v7)|"Wow. Amazing Co is a lot more fucking stupid than I expected."##
+
+##963939|"What did you expect?"##
+
+##var(--v7)|"I expected stupid but not //this// stupid. How the hell do they get anything done?"##
+
+##b87114|"It's an enigma."##
+
+##963939|"So, we're just like, supposed to go in and stop them?"##
+
+##b87114|"Oh yeah you were asleep during the fucking mission briefing. Let's just wait a bit and see what happens. We'll intervene when the time is right."##
+
+##963939|"And, what do we do when we intervene?"##
+
+##b87114|"Uh. Steal anything they might have relating to GEAR. Wait, actually, just steal anything of value at all."##
+
+A small man in torn, leather clothes approaches the boss, cowardly.
+
+[[div class="comic"]]
+##4063ed|"H- Hey boss?"##
+
+##9942f5|"What is it?"##
+
+##4063ed|"How long did you say we had to finish this shipment?"##
+
+##9942f5|"Until the end of the day. In few hours, probably."##
+
+##4063ed|"And uh... is it //absolutely necessary// that we finish on time? We've been working hard but I don't think-"##
+
+##9942f5|"What do you think? You think I am a fucking dumass? Of course we must finish on time!"##
+[[/div]]
+
+The worker retreats by a few steps.
+
+[[div class="comic"]]
+##9942f5|"How you expect Amazing Co to make profit if we don't make product? We need to get product ready to send to distribution department or we going to have our asses handed to us by Big Jim. You think I pay you very small amount of money already? Be ready to be payed nothing at all if you do not work. Get the fuck back to work."##
+
+##4063ed|"Y- Yes boss."##
+[[/div]]
+
+The man scurries back to the group.
+
+[[div class="comic"]]
+##4063ed|"We're not making enough progress. Guys, we need to hurry up."##
+
+##f743dc|"How you figured that out, fucknut?"##
+
+##4063ed|"Shut up, Jogg."##
+[[/div]]
+
+Jogg takes a small lump of glowing clay from one of the cardboard boxes. He presses it against the table, flattening it. Next, he grabs a small, iron pellet from a different box. He places the pellet at the center of the flattened clay and rolls the clay around it, forming a ball.
+
+[[span class="comic"]]##f743dc|"I have idea."##[[/span]]
+
+He throws the clay ball at the wall. Upon impact, it bursts into flames and leaves a massive crack in the concrete.
+
+[[div class="comic"]]
+##9942f5|"Jogg you goddamn retard. What the fuck is wrong with you?"##
+
+##f743dc|"What? Is good idea, ok? I call it 'Amazing! Co. Super Play-Doh!'"##
+
+##f743dc|"Make people think it is Play-Doh but really it is explosive bomb! We will sell millions!"##
+
+##9942f5|"Idiot! I was not talking about the idea! You just blew up bomb at the wall! The building could collapsible, fucktard."##
+
+##f743dc|"Ridiculous. Wall is plenty strong."##
+[[/div]]
+
+The crack in the wall grows by a meter as the wall fissures. 
+
+[[div class="comic"]]
+##f743dc|"FUCK."##
+
+##9942f5|"Ok everybody get out now. Jogg, you pick up and carry all the boxes because you are idiot that caused this."##
+[[/div]]
+
+In a flurry, the group runs towards the stairs, the boss following just behind them. The investigation team is hiding just behind a concrete wall.
+
+##var(--v7)|"Oh for Christ's sake, they're so stupid that they've fucked us without even knowing we're here."##
+
+[[span class="comic"]]##9942f5|"Who the hell is that?"##[[/span]]
+
+One of the team members steps out from behind the wall.
+
+##963939|"You don't need to worry about it. We'll be leaving now."##
+
+The team attempts to leave before the boss jumps in front of the exit.
+
+[[span class="comic"]]##9942f5|"Idiot, tell me who you are or you going to be stuck down here."##[[/span]]
+
+##963939|"Move out of the fucking way! You're going to get yourself killed!"##
+
+[[span class="comic"]]##9942f5|"I can just run upstairs real quick, easy. You cannot do that so easy if I stand in doorframe, huh? Tell me who you are."##[[/span]]
+
+##963939|"How can you leave the building if it collapses before you can escape?"##
+
+The building begins to vibrate as the crack slowly expands through the ceiling.
+
+##b87114|"Why are you even talking to this idiot?"##, one of the team members asks before kicking the boss in the stomach. He falls over backward and squirms, unable to get up.
+
+[[span class="comic"]]##f743dc|"Out of my way, incest buckets"##[[/span]], Jogg says, running past the team and stepping over the boss while carrying a chunk of clay in one hand and a bunch of iron pellets in the other.
+
+The team escapes the building into the open street of a dense, Chinese city. Jogg and the rest of the workers are nowhere in sight, all scattered down different alleys. As the building collapses into itself, the sounds of distressed car honking and screaming in Mandarin fills the silence. The team quickly searches the ruins for anything of value before leaving as the city police arrive.
+
+@@ @@
+
+----
+
+@@ @@
+
+##var(--v2)|"Hey, some idiot from AEP sent us a [[[an-explosive-resignation|message]]]."##
+
+##var(--v1)|"Oh?"##
+
+##var(--v2)|"Just some rogue agent that thought we'd care about something stupid."##
+
+##var(--v3)|"Hah."##
+
+##var(--v2)|"He managed to blow up an entire RPC Site, some fucking how."##
+
+##var(--v1)|"Well, for that to happen, either he would have to be very cunning or the Authority would have to be very stupid. And we already know that he isn't cunning."##
+
+##var(--v2)|"Oh, that's a good one. 'Makes me think."##
+
+##var(--v3)|"Hold on. I'm getting a signal from that team we sent to Amazing Co. Let me put it on speaker."##
+
+[[div style="margin-left: 5%;"]]
+##var(--v7)|"So, that mission was eventful."##
+[[/div]]
+
+##var(--v2)|"Do detail."##
+
+[[div style="margin-left: 5%;"]]
+##var(--v7)|"There were a bunch of people working on combining a bunch of random shit, hoping to create a new product. Nothing related to the GEAR Knock-offs as far as I could tell."##
+[[/div]]
+
+##var(--v2)|"Hmm. Hopefully, that means they've stopped with that."##
+
+[[div style="margin-left: 5%;"]]
+##var(--v7)|"While we were there, one of their workers detonated some kind of explosive and caused the entire building to buckle. We managed to get out in time with only a //minor// hassle."##
+[[/div]]
+
+##var(--v1)|"Typical Amazing Co."##
+
+##var(--v3)|"Did you see anything of value in the place while you were there?"##
+
+[[div style="margin-left: 5%;"]]
+##var(--v7)|"No, I don't think so. We even looked through the rubble of the building before we left and it was just a bunch of junk."##
+[[/div]]
+
+##var(--v1)|"Even if there was something, PCAAO would have gotten to it already. No need to send in a scavenger team."##
+
+##var(--v2)|"I concur."##
+
+##var(--v3)|"Well, that's that."##
+
+Blue ends the call.
+
+##var(--v1)|"Ok, guys, you're going to think this was on me but I swear he's doing this on his own. I'm getting a call from McAfee. He still wants to do the deal."##
+
+##var(--v2)|"If you answer the call, I'm bricking your phone."##
+
+@@ @@
+
+----
+
+@@ @@
+
+Later that day...
+
+[[>]]
+He answers the call anyway. [[[cogs|The Authority silently intercepts it.]]]
+[[/>]]
+

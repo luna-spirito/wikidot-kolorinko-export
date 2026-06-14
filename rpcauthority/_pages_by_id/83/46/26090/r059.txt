@@ -1,0 +1,323 @@
+---
+title: "Church of Malthus Theme 1 (Old)"
+tags: ["theme"]
+page_id: "834626090"
+site: "rpcauthority"
+slug: "component:malthus-theme"
+revision: 59
+revision_id: "1543355798"
+author: 4330657
+timestamp: 1776262707
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:malthus-theme/code/1);
+[[/module]]
+
+[[code type="CSS"]]
+
+@charset "utf-8";
+ 
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Michroma');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css');
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+:root {
+
+/* Background gradient variables*/
+--header-top:#360444;
+--header-bottom:#4f0707;
+--panel-top: #29313d;
+--panel-bottom: #30323e;
+--panel-shadow:#012749;
+--main-background-top: #dbdbd6;
+--main-background-bottom: #dbdbd6;
+
+/*Generic borders*/
+--dark-border: #011a49;
+--light-border: #6d6d66;
+--element-border-radius: 2px;
+
+ /*Search*/
+--search-button: linear-gradient(to bottom, #a82222,#991f1f,#8c1d1d);
+--search-button-hover: linear-gradient(to bottom, #d62c2c,#c42929,#b02525);
+--search-input-color: #991f1f;
+--search-input-hover: #a82222;
+
+/*Rating widget*/
+--rating-background: #ed4e61;
+--rating-cancel-color: #fff;
+ 
+/* Header and Links */
+--text-header-color: #b52424 ;
+--highlight-color: #d62c2c;
+--highlight-hover: #f23333;
+--create-page: #d62c2c;
+--highlight-shadow: #011a4973;
+--topbar-hover-background: #d62c2c;
+ 
+/* Tabs */
+--selected-tab: #722020;
+--hover-tab: #703939;
+--inactive-tab: #fff;
+
+/* Rating Modules */
+--star-rating-hue: 140deg;
+}
+
+/* Links */
+
+a {
+    color: var(--highlight-color);
+}
+
+a.newpage {
+    color: var(--create-page);
+}
+
+a:hover {
+    color: var(--highlight-hover)
+}
+
+/* Search Bar */
+
+#search-top-box-input {
+    transition: background-color 0.5s ease;
+    border: solid 1px #282828;
+    border-radius: 0;
+    color: #ccc;
+    background-color: var(--search-input-color);
+    box-shadow: inset 1px 1px 3px rgba(0,0,0,.5);
+}
+
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus,
+#top-bar .search-button a:hover {
+    border: solid 1px #444;
+    color: #fff;
+    background-color: var(--text-header-color);
+    background: var(--search-button-hover);
+}
+
+#search-top-box-form input[type=submit],
+#top-bar .search-button a {
+    transition: background,border,color 0.5s ease;
+    border: solid 1px #282828;
+    border-radius: 0;
+    padding: 2px 5px;
+    font-size: 90%;
+    font-weight: bold;
+    color: #ccc;
+    background-color: #633;
+    background: var(--search-button);
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+    cursor: pointer;
+}
+
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus,
+#top-bar .search-button a:hover {
+    border: solid 1px #444;
+    color: #fff;
+    text-shadow: 0 0 1px rgba(255,255,255,.25);
+    background-color: var(--text-header-color);
+    background: var(--search-button-hover);
+    box-shadow: 0 1px 3px rgba(0,0,0,.8);
+}
+
+/* Header */
+
+#header {
+    background: url(http://www.rpc-wiki.net/local--files/component:malthus-theme/malthusLogo.png) 5px 22px no-repeat;
+    background-size: 115px;
+}
+
+@media screen and (max-width: 800px) {
+  #header {
+    background: url(http://www.rpc-wiki.net/local--files/component:malthus-theme/malthusLogo.png) 0 50px no-repeat;
+    background-size: 70px;
+  }
+}
+
+div#container-wrap {
+    background: url(http://www.rpc-wiki.net/local--files/component:malthus-theme/malthusHeader2.png) top left repeat-x;
+}
+
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+    margin: 0;
+    font-family: 'Poiret One', cursive;
+    letter-spacing: 0.9px;
+    font-size: 195%;
+    padding: 80px 0 25px;
+    margin-left: -2.9em !important;
+    margin-bottom: 15px;
+    padding-left: 3em !important;
+    line-height: 0px;
+    max-height: 0px;
+    background: transparent;
+}
+
+#header h1 a::before {
+    display: block;
+    font-weight: bold;
+    content: 'Church of Malthus';
+    color: #fff;
+    text-shadow: 3px 3px 5px #000;
+}
+
+@media screen and (max-width: 500px) {
+  #header h1 a {
+    font-size: 0.85em;
+    position: absolute;
+    left: 80px;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 850px) {
+  #header h1 a {
+    font-size: 140%;
+  }
+}
+
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+    margin: 0;
+    font-family: 'Josefin Slab', serif;
+    margin-left: 3px;
+    margin-top: 5px;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+ 
+#header h2 span::before {
+    display: block;
+    content: 'A Difficult, but Necessary Solution';
+    color: #eee;
+    font-style: italic;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+@media screen and (max-width: 800px) {
+  #header h2 span::before {
+    color: transparent;
+    display: none;
+    visibility: hidden;
+    text-shadow: none;
+  }
+}
+
+/* Side Bar */
+
+#side-bar .heading {
+    color: #d62c2c;
+}
+
+#side-bar .menu-item>a:hover {
+    background-color: #d62c2c;
+    color: #fcfcfc;
+}
+
+#side-bar div.menu-item a:hover {
+    background-color: #d62c2c;
+    color: #fcfcfc;
+}
+
+/* Account Options */
+
+#login-status a {
+    color: #ddd;
+}
+
+#login-status a:hover {
+    color: #de2f2f
+}
+
+#account-options li a {
+    color: #bf2828;
+}
+ 
+#account-options li a:hover {
+    color: #de2f2f;
+}
+
+/* Top Bar */
+
+#top-bar {
+    height: 21px;
+}
+
+#top-bar ul li ul a, #top-bar a:hover {
+    color: var(--highlight-hover);
+}
+
+#top-bar ul li.sfhover a:hover,
+#top-bar ul li:hover a:hover {
+    background-color: #d62c2c;
+    color: #fcfcfc;
+    border-left: solid 1px #752d2d;
+    border-right: solid 1px #752d2d;
+}
+
+#top-bar ul li.sfhover a {
+    color: #fcfcfc;
+}
+
+#top-bar ul li.sfhover a:hover,
+#top-bar ul li:hover a:hover {
+    background-color: #d62c2c;
+    color: #fcfcfc;
+}
+
+#top-bar ul li:hover>a {
+    background-color: #d62c2c);
+}
+
+/* Tabs */
+
+.yui-navset .yui-nav a,
+.yui-navset .yui-navset-top .yui-nav a {
+    background-color:var(--inactive-tab);
+}
+
+.yui-navset .yui-nav a:hover,
+.yui-navset .yui-nav a:focus {
+    background-color:var(--hover-tab);
+}
+
+/* Misc */
+
+#page-title {
+    color: #d62c2c;
+}
+
+.unmargined > p {
+    color:var(--text-header-color);
+}
+
+.long > .options a,
+.head .btn,
+.folded .btn-xs,
+.changes a {
+    color: var(--highlight-color) !important;
+}
+
+.long > .options a:hover,
+.head .btn:hover,
+.folded .btn-xs:hover,
+.changes a:hover{
+    color: var(--highlight-hover) !important;
+}
+[[/code]]
+
+[[include :rpcsandbox:pallet]]
+

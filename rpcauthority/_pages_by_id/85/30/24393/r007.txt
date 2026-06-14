@@ -1,0 +1,14 @@
+---
+title: "Sidenote"
+tags: ["component"]
+page_id: "853024393"
+site: "rpcauthority"
+slug: "component:sidenote"
+revision: 7
+revision_id: "1367510584"
+author: 5258122
+timestamp: 1628547897
+---
+
+[[include component:sidenote-base contents={$contents}|figure={$figure}|name={$name}|link={$link}|link=#|align={$align}|align=right|type={$type}|type=text|image-location={$image-location}|image-location=top|lock={$lock}|lock=false|content-align={$content-align}|content-align=false]]
+
