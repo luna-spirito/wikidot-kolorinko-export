@@ -1,0 +1,83 @@
+---
+title: "_njqvn2au"
+tags: ["aep", "non-canon", "supplemental"]
+page_id: "409264838"
+site: "rpcauthority"
+slug: "_njqvn2au"
+revision: 12
+revision_id: "1459475009"
+author: 4870061
+timestamp: 1647912631
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aep-theme-old-2/code/1);
+
+#page-title {display: none;}
+[[/module]]
+
+[[html]]
+<style>
+@import url('http://rpcsandbox.wikidot.com/terminal-style-aep/code/1');
+/* importing because im lazy */
+
+.term-link {
+    color: white;
+    text-decoration: none;
+}
+
+.term-link:active, .link-inactive {
+    color: black;
+    background-color: white;
+}
+</style>
+
+<div id="terminal" class="on">
+<div class="layer">
+ALERT: YOU ARE ATTEMPTING TO ACCESS THE AEP DATA STREAM WOULD YOU LIKE TO CONTINUE?<br><br>
+<div id="choice-block">
+<a class="term-link" href="#" onclick="document.getElementById('choice-block').innerHTML = '<span class=\'link-inactive\'>YES</span><br><br>'; document.getElementById('typing-block').innerHTML = '> '; textDisplayLoop();">YES</a> | <a class="term-link" href="#" onclick="window.parent.location.href = 'http://rpc-wiki.net/rpc-series';">NO</a> | <a class="term-link" href="#" onclick="displayInfo();">INFORMATION</a>
+</div>
+<div id="typing-block">
+</div>
+</div>
+</div>
+
+<script defer>
+var listOfStrings = ["01 CONNECTED","03 CONNECTED","05 CONNECTED","01: Alright... WHAT THE HELL HAPPENED.","03: Well apparently 02 went rogue.","05: Yes I would hazard to say that one of Project Ethos's ingredients contains rather strong cognitohazardus properties.","01: Yes well that's all well and good but you wanna tell me how he managed to detonate one of our sites? We lost at least 500 people.","03: Probably detonated the onsite warhead, I honestly wouldn't be surprised.", "01: Well at least tell me that the project is salvageable.","05: It should be quite easy to recover. I am more concerned with how the staff will handle this issue.","01: fair point, 03 as the resident propaganda expert I want you on this, the last thing we need is for the staff to get uppity.","03: Aye aye captain.","01: Dismissed","03 DISCONNECTED","05 DISCONNECTED","01: Well this complicates matters.","01 DISCONNECTED", "CONNECTION TERMINATED."];
+
+var infoText = "<br>The AEP datastream is a secure data communications network utilized by the G5s.";
+var infoTextShown = false;
+
+var i = 1;
+var a = 0;
+
+function displayInfo() {
+    if (infoTextShown == false) {
+        document.getElementById('typing-block').innerHTML = infoText;
+        infoTextShown = true;
+    } else {
+        document.getElementById('typing-block').innerHTML = '';
+        infoTextShown = false;
+    }
+}
+
+function textDisplayLoop() {
+    if (a < listOfStrings[i-1].length) {
+        var speed = Math.floor(Math.random()*25) + 30;
+        document.getElementById('typing-block').innerHTML += listOfStrings[i-1].charAt(a);
+        a++;
+        setTimeout(textDisplayLoop, speed);
+    } else if (a == listOfStrings[i-1].length) {
+        if (i < listOfStrings.length) {
+            a = 0;
+            i++;
+            document.getElementById('typing-block').innerHTML += "<br><br>> "
+            setTimeout(textDisplayLoop, 1375);
+        }
+    }
+}
+</script>
+
+[[/html]]
+

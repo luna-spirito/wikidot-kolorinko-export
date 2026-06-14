@@ -1,0 +1,14 @@
+---
+title: "Image Block Static"
+tags: ["component"]
+page_id: "492775092"
+site: "rpcauthority"
+slug: "component:image-block-static"
+revision: 2
+revision_id: "1367510581"
+author: 5258122
+timestamp: 1628547885
+---
+
+[[include component:image-block-base name={$name}|caption={$caption}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right|enlarge=false]]
+

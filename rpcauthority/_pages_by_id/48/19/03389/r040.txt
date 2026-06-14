@@ -1,0 +1,263 @@
+---
+title: "Foxtrot-4 \"Prey\""
+tags: ["document", "mst", "translated"]
+page_id: "481903389"
+site: "rpcauthority"
+slug: "foxtrot-4-prey"
+revision: 40
+revision_id: "1531087692"
+author: 9487909
+timestamp: 1752973682
+---
+
+[[module CSS]]
+@import url(/component:sandbox-theme/code/1);
+
+@import url('https://fonts.googleapis.com/css?family=Saira&display=swap');
+
+.paragraph1 {
+
+    color: #0F0F0F;
+    display: inline-block;
+    border: dashed 1px #858585;
+    background: #EAEAEA;
+    float: center;
+    margin: 0.3rem 60px;
+    width: 80.2%;
+    padding: 0 .88em;
+    box-shadow: 2px 1px 3px rgba(0,0,0,.2);
+    font-family: 'Saira', sans-serif;
+
+}
+
+blockquote {
+
+    color: #0F0F0F;
+    background: #EAEAEA;
+    font-family: 'Saira', sans-serif;
+    border: dashed 1px #858585;
+
+}
+
+hr {
+
+    color: #A8A8AA;
+    height: 2px;
+}
+
+[[/module]]
+
+[[include component:rate | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/foxtrot-4-prey"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/foxtrot-4-vitima"]] ]]
+
+[[div class="mst-profile" style="background: var(--background-4); border: solid 2px #666; padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/foxtrot-4-prey/WhiteHeader.png]]
+
+------------
+[[=]]
++ **Overview**
+[[/=]]
+-----
+
+[[f>image http://rpcsandbox.wdfiles.com/local--files/cognitive-i/Foxtrot-4%281%29.png width="264px";]]
+
+**Numerical Code:** --Alpha-23-- Foxtrot-4 (Reassigned)
+
+**Codename:** Prey
+
+**Motto:** //Dum Vives Currere Potest Sine Pervenire Nusquam// ("You can run your whole life, but not go anywhere")
+
+**Garrison/HQ:** Various 
+
+**Roles:** Rapid Deployment, Containment and Retrieval, CBRN Specialist, Special Reconnaissance, and Direct Action
+
+**Established:** --February 8, 1942-- September 29, ████ (Reactivated)
+
+**Description:** Foxtrot-4 was formed as a special reconnaissance and industrial sabotage unit to combat GARD's operations in the middle east, in 1942. Previously codenamed as Alpha-23, Alpha-23 was lead by Colonel Cartwright in coordination with American and British intelligence.
+
+By 1945, GARD operations within the middle east were dismantled by Allied forces. In ████, the Church of Malthus began to spread their influence throughout the Arabic states to establish a foothold for their organization. With Malthusian influence seen as a threat to Authority operations, the Authority assigned Alpha-23 to dismantle the Malthus network within the middle east.
+
+With the assistance of Israeli intelligence from Mossad, Alpha-23 captured known Malthus cells operating within the Israeli Defense Force and the Israeli Government.
+
+Malthusian influence had weakened within the Middle East, but complete neutralization proved difficult. Alpha-23 was deactivated as the threat of Malthus operations within the Arabic states became weaker in the 1980s, during the Soviet invasion and subsequent clash with Malthusian forces.
+
+In ████, in the aftermath of the disastrous containment efforts of Site-███, the Protection Division reorganizes its security protocols and subsequently reactivates Alpha-23, and reassigns them to Foxtrot-4. Since ████, Foxtrot-4 has been the primary detachment for rapid deployment in situations where anomalies need to be contained and retrieved, following their discovery or initial containment breach within an Authority facility.
+
+In addition, Foxtrot-4 has multiple response teams stationed across the world on standby at all times.
+-----
+[[=]]
++ **Taskforce Composition**
+[[/=]]
+-----
+
+**Task Force Officials:**
+* **Task Force Commander:** Col. Abrams Hale
+* **Task Force Coordinator:** Maj. Arthur Nicholson
+* **Chief Intelligence Liaison:**  Capt. Ana Macro
+* **Director of Anomaly Containment:** Dr. Nathaniel Donovan
+* **Director of Elemental Support:** Dr. Fredrick Richardson
+* **Representative Internal Officer:** 2nd Lt. Samantha Hastings
+
+-----
+
+**Primary Components:**
+
+* **Rapid Detachment Forces:** +180
+ * **Ground Deployment Team:** +45 Personnel
+ * **Air Deployment Team:** +45 Personnel
+ * **Naval Deployment Team:** +45 Personnel
+ * **CBRN Team:** +45 Personnel
+
+* **Elemental Support Division:** +35 Personnel
+
+* **Information Warfare Division:** +52 Personnel
+
+**Secondary Components:**
+* **Air Operations Division:** +60 Personnel, 8 MH-60M Blackhawk, 4 Boeing CV-22B Osprey, 4 MH-47G Chinook, 6 Eurocopter AAS-72X+.
+
+* **Ground Operations Division:** +80 Personnel, 15 Oshkosh M-ATV, 10 Interim Armored Vehicle Stryker, 24 Bradley Fighting Vehicle.
+
+* **Total Personnel:** +410 Personnel
+
+------
+[[=]]
++ **Armaments**
+[[/=]]
+------
+
+**Standard Firearms**
+
+* **Combat Knife:** Spartan-George V14 Combat Dagger
+* **Pistol:** Walther PK380
+* **Rifle:** Colt Canada C8SFW
+* **Shotgun:** Kel-Tec KSG
+* **Sniper:** Knight's Armament Company SR-25
+* **Anti-Materiel:** Barrett M82A3
+* **Rocket Launcher:** PanzerFaust 3-IT
+* **Anti-Air Launcher:** Stinger FIM-92J
+
+------
+[[=]]
++ **Operational History**
+[[/=]]
+-----
+
+[[collapsible show="+ Operation Crowd Control" hide="- Close File"]]
+
+[[div class="paragraph1"]]
+
+[[<image http://rpcsandbox.wdfiles.com/local--files/progression-page-v/Special3.png width="530px"]]
+
+-----
+
+**Mission Codeword:** //Crowd Control//
+
+**Status:** Active
+
+**Date:** June 23rd, ████
+
+**Summary:** Following a major containment breach within Site-███, Foxtrot-4 and various response units were deployed to re-contain the loose anomalies. Due to the gravity of the incident, Foxtrot-4 was authorized to use force whatever means necessary to contain the situation. Seven hours later, the situation resulted in most of the housed anomalies being re-contained.
+
+Investigations into the incident were believed to be orchestrated by [DATA EXPUNGED], though evidence linked to the accused organization could not be confirmed. As of ████, current retrieval for uncontained anomalies from Site-███ are still ongoing.
+
+> //I must emphasize that the operation is still ongoing. While I don't anticipate the operation to end within the coming months, I hope the results would please the higher-ups for the unit's progress since the incident.//
+>
+> - Colonel Abrams Hale
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="+ Operation Blume" hide="- Close File"]]
+
+[[div class="paragraph1"]]
+
+[[<image http://rpcsandbox.wdfiles.com/local--files/progression-page-v/Special3.png width="530px"]]
+
+-----
+
+**Mission Codeword:** //Blume//
+
+**Status:** Inactive; Success
+
+**Date:** December 8, 20██
+
+**Summary:** Foxtrot-4 was sent to investigate and dismantle a facility in ███████, Oregon, after ACI intelligence confirmed the property to be registered by an international anomalous group, wanted by the World Security Council. Posing as an FBI SWAT team, Foxtrot-4 breached the facility and apprehended key members of the organization. Known persons of interest [REDACTED] was an ACI informant and was debriefed by ACI Agents in the aftermath of the operation.
+
+Intelligence obtained from apprehended members revealed that the organization was established by an unknown former Authority researcher, though the extent of the organization's existence is said to have originated from the mid-1980s.
+
+> //Ah ha! Told you it was someone from the inside- no offense, chief.//
+>
+> - Second Lieutenant [REDACTED]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="+ Operation Clockwork" hide="- Close File"]]
+
+[[div class="paragraph1"]]
+
+[[<image http://rpcsandbox.wdfiles.com/local--files/progression-page-v/Special3.png width="530px"]]
+
+-----
+
+**Mission Codeword:** //Clockwork//
+
+**Status:** Inactive; Success
+
+**Date:** August 4, 20██
+
+**Summary:** Foxtrot-4 tasked its CBRN Team to ████████, Colorado, following unconfirmed reports of a biological attack conducted by an anomalous group. With support from Air Operations, CBRN Team made contact and neutralized hostile forces within the metropolitan area.
+
+--Situation proved difficult after the CBRN Team encountered friendly fire from ███████ Police Department, which resulted in numerous police officers being neutralized at the orders of the assigned tactical operations command.-- (Subject for reclassification)
+
+With assistance from federal authorities, cleanup operations ensued after the situation lasted about two hours.
+
+Following the incident, Mobile Specialized Team Sierra-7 ("Sundowners"), in coordination with American AOI-0812 ("Division 15"), were tasked to investigate the attacks and discovered that the individuals behind it were previously employed by the People's Committee for the Acquisition of Anomalous Objects (PCAAO).
+
+When inquired about the attacks, the accusations were largely denied by the Chinese Government.
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="+ Operation Blitzkrieg" hide="- Close File"]]
+
+[[div class="paragraph1"]]
+
+[[<image http://rpcsandbox.wdfiles.com/local--files/progression-page-v/Special3.png width="530px"]]
+
+-----
+
+**Mission Codeword:** //Blitzkrieg//
+
+**Status:** Inactive; Success
+
+**Date:** [REDACTED]
+
+**Summary:** Rapid deployment teams from Foxtrot-4, stationed within Hamburg, Germany, were deployed to Site-███ to contain an active containment breach. RPC-███ reportedly breached its containment, and successfully escaped to ██████, Switzerland.
+
+Incident caused [DATA EXPUNGED] casualties. A massive disinformation campaign was launched to prevent information leaks of the incident to the world. Some members of Foxtrot-4 [http://www.rpc-wiki.net/rpc-218 noted to have witness an individual in a black suit during the facility's breach, and parts of ██████.]
+
+[[/div]]
+
+[[/collapsible]]
+
+
+------
+[[=]]
++ **Containment Assignments**
+[[/=]]
+-----
+
+[[[RPC-042]]]
+[[[RPC-063]]]
+[[[RPC-065]]]
+[[[RPC-109]]]
+[[[RPC-158]]]
+[[[RPC-159]]]
+[[[RPC-799]]]
+
+[[/div]]
+

@@ -1,0 +1,18 @@
+---
+title: "Организация"
+tags: []
+page_id: "1305021023"
+site: "scientific-alliance"
+slug: "ord"
+revision: 0
+revision_id: "1356196776"
+author: 754405
+timestamp: 1601499631
+---
+
+<div style="border: solid 1px; background: #DDD; padding: 3px; margin: 50px 3em; width: 779px; color: #555">
+<div style="border: solid 1px; background: #EEE; font-weight: bold; padding: 10px">
+<div style="font-size: 200%; margin-bottom: 11px">{$1}</div>
+<div style="line-height: 25px; margin: -4px 0 -3px">{$2}</div>
+</div><div style="border: solid 1px; background: #EEE; padding: 13px 10px; margin: 3px 0 0">{$3}</div></div>
+

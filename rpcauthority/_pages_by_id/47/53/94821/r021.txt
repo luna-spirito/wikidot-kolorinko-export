@@ -1,0 +1,837 @@
+---
+title: "Author Page Test"
+tags: []
+page_id: "475394821"
+site: "rpcauthority"
+slug: "_author-page-test"
+revision: 21
+revision_id: "517960345"
+author: 2241229
+timestamp: 1544669647
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+
+.quote{
+display: inline-block; 
+border: dashed 1px #999999; 
+background: #F5F5F5; 
+margin: auto;
+width: 84%; 
+padding:1px 15px; 
+}
+
+[[/module]]
+
+[[div style="font-weight: bold; text-align: center; color: #600;"]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Author Page
+[[/div]]
+[[div class="unmargined" style="font-size: 95%; margin-left: 0px; margin-right: 0px;"]]
+
+------
+
+If you would like to be added to this list, you must meet the requirement of having at least one article on the site or having made a site contribution to guides, lore, divisions, or GOI creation. 
+[[/div]]
+[[/div]]
+
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #05214f;"]]
++ -#- 
+----
++ -A-
+[[div class="quote"]]
+[[collapsible show="Agent Star" hide="Hide"]] 
+[[*user Agent Star]]
+++++ __RPCs__
+[[module ListPages created_by="Agent Star" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Agent Star" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Agent Star" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Agent Star" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Agent Star" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __MST__
+[[[echo-13-charlies-anglers|Echo 13 Charlies Anglers]]]
+++++ __Site Contributions__
+Contributor to [[[object-classes |Object Classes]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Arbiter_Soul" hide="Hide"]] 
+[[*user arbiter_soul]]
+++++ __RPCs__
+[[module ListPages created_by="Arbiter_Soul" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Arbiter_Soul" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Arbiter_Soul" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Arbiter_Soul" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Arbiter_Soul" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Ascriber" hide="Hide"]] 
+[[*user ascriber]]
+++++ __RPCs__
+[[module ListPages created_by="ascriber" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="ascriber" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="ascriber" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="ascriber" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="ascriber" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -B-
+[[div class="quote"]]
+[[collapsible show="Blairin" hide="Hide"]] 
+[[*user blairin]]
+++++ __RPCs__
+[[module ListPages created_by="Blairin" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Blairin" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Blairin" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Blairin" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Blairin" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -C-
+[[div class="quote"]]
+[[collapsible show="Cecpec" hide="Hide"]] 
+[[*user cecpec]]
+++++ __RPCs__
+[[module ListPages created_by="cecpec" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="cecpec" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="cecpec" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="cecpec" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="cecpec" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Croal" hide="Hide"]] 
+[[*user croal]]
+++++ __RPCs__
+[[module ListPages created_by="croal" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="croal" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="croal" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="croal" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="croal" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -D-
+[[div class="quote"]]
+[[collapsible show="Doc Expletive" hide="Hide"]] 
+[[*user doc-expletive]]
+++++ __RPCs__
+[[module ListPages created_by="Doc Expletive" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Doc Expletive" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Doc Expletive" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Doc Expletive" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Doc Expletive" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Doctor Lupin" hide="Hide"]]
+[[*user doctor-lupin]]
+++++ __RPCs__
+[[module ListPages created_by="Doctor Lupin" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Doctor Lupin" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Doctor Lupin" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Doctor Lupin" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Doctor Lupin" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __MSTs__
+[[[alpha-1-angels-of-eden |Alpha 1 (Angels of Eden)]]]
+++++ __Site Contributions__
+Contributor to [[[site-index |Site Index]]]
+Contributor to [[[groups-of-interest |Groups of Interest]]]
+Contributor to [[[mst-registry |MST Registry]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Dr Nog" hide="Hide"]] 
+[[*user DrNog]]
+++++ __RPCs__
+[[module ListPages created_by="Dr Nog" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Dr Nog" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Dr Nog" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Dr Nog" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Dr Nog" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Contributions__
+Contributor to [[[object-classes |Object Classes]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="DrPierson" hide="Hide"]] 
+[[*user DrPierson]]
+++++ __RPCs__
+[[module ListPages created_by="DrPierson" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="DrPierson" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="DrPierson" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="DrPierson" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="DrPierson" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Contributions__
+Contributor to [[[groups-of-interest#toc6 |GOI-MI13]]]
+Contributor to [[[writers-guide|Writers Guide]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Dr Vaughn" hide="Hide"]] 
+[[*user dr-vaughn]]
+++++ __RPCs__
+[[module ListPages created_by="Dr Vaughn" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Dr Vaughn" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Dr Vaughn" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Dr Vaughn" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Dr Vaughn" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Contributions__
+[[[formatting-guide |Formatting Guide]]]
+[[[scripting-guide |Scripting Guide]]]
+[[/collapsible]]
+[[/div]]
+----
++ -E-
+----
++ -F-
+----
++ -G-
+----
++ -H-
+[[div class="quote"]]
+[[collapsible show="Hellsverg" hide="Hide"]] 
+[[*user hellsverg]]
+++++ __RPCs__
+[[module ListPages created_by="Hellsverg" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Hellsverg" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Hellsverg" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Hellsverg" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Hellsverg" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Contributions__ 
+Contributor to [[[marion-valerie-riviera | POI Marion Valerie Riviera]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Hyze" hide="Hide"]] 
+[[*user hyze]]
+++++ __RPCs__
+[[module ListPages created_by="Hyze" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Hyze" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Hyze" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Hyze" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Hyze" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -I-
+----
++ -J-
+[[div class="quote"]]
+[[collapsible show="Jerry John" hide="Hide"]] 
+[[*user Jerryjohn]]
+++++ __RPCs__
+[[module ListPages created_by="Jerry John" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Jerry John" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Jerry John" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Jerry John" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Jerry John" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Jetairliner" hide="Hide"]] 
+[[*user Jetairliner]]
+++++ __RPCs__
+[[module ListPages created_by="Jetairliner" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Jerairliner" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Jerairliner" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Jetairliner" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Jerairliner" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -K-
+----
++ -L-
+----
++ -M-
+[[div class="quote"]]
+[[collapsible show="Moenennbys" hide="Hide"]] 
+[[*user Moenennbys]]
+++++ __RPCs__
+[[module ListPages created_by="Moenennbys" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Moenennbys" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Moenennbys" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Moenennbys" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Moenennbys" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Moist Bread" hide="Hide"]] 
+[[*user moist-bread]]
+++++ __RPCs__
+[[module ListPages created_by="Moist Bread" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Moist Bread" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Moist Bread" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Moist Bread" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Moist Bread" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="MrBazzle" hide="Hide"]] 
+[[*user mrbazzle]]
+++++ __RPCs__
+[[module ListPages created_by="MrBazzle" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="MrBazzle" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="MrBazzle" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="MrBazzle" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="MrBazzle" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -N-
+----
++ -O-
+----
++ -P-
+----
++ -Q-
+----
++ -R-
+[[div class="quote"]]
+[[collapsible show="Researcher Ezekiel" hide="Hide"]] 
+[[*user researcher-ezekiel]]
+++++ __RPCs__
+[[module ListPages created_by="Researcher Ezekiel" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Researcher Ezekiel" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Researcher Ezekiel" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Researcher Ezekiel" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Researcher Ezekiel" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Robert Bernard" hide="Hide"]] 
+[[*user Robert Bernard]]
+++++ __RPCs__
+[[module ListPages created_by="Robert Bernard" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Robert Bernard" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Robert Bernard" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Robert Bernard" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Robert Bernard" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -S-
+[[div class="quote"]]
+[[collapsible show="Sinaticus" hide="Hide"]] 
+[[*user sinaticus]]
+++++ __RPCs__
+[[module ListPages created_by="Sinaticus" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Sinaticus" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Sinaticus" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Sinaticus" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Sinaticus" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Contributions__
+Contributor to [[[object-classes |Object Classes]]]
+Contributor to [[[acquired-media |Acquired Media]]]
+Contributor to [[[site-index |Site Index]]]
+Contributor to [[[groups-of-interest |Groups of Interest]]]
+Contributor to [[[threats-hazards |Threats & Hazards]]]
+Contributor to [[[writers-guide|Writers Guide]]]
+[[/collapsible]]
+[[/div]]
+----
++ -T-
+[[div class="quote"]]
+[[collapsible show="ThermicLine" hide="Hide"]] 
+[[*user thermicline]]
+++++ __RPCs__
+[[module ListPages created_by="ThermicLine" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="ThermicLine" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="ThermicLine" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="ThermicLine" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="ThermicLine" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Contributions__
+[[[guide-for-newbies |Guide For Newbies]]]
+[[/collapsible]]
+[[/div]]
+----
++ -U-
+----
++ -V-
+[[div class="quote"]]
+[[collapsible show="Victor117" hide="Hide"]] 
+[[*user victor117]]
+++++ __RPCs__
+[[module ListPages created_by="Victor117" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Victor117" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Victor117" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Victor117" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Victor117" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Vizlox" hide="Hide"]] 
+[[*user Vizlox]]
+++++ __RPCs__
+[[module ListPages created_by="Vizlox" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Vizlox" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Vizlox" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Vizlox" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Vizlox" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Acquired Writings__
+[[[a-017-john-plexett |A-017]]] 
+[[[a-005-the-box-from-site-77 |A-005]]] 
+++++ __Site Contributions__
+Contributor to [[[gear-hub |Gear Hub]]]
+Contributor to [[[groups-of-interest#toc4 |GOI-GEAR]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Von Pincier" hide="Hide"]] 
+[[*user von-pincier]]
+++++ __RPCs__
+[[module ListPages created_by="Von Pincier" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Von Pincier" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Von Pincier" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Von Pincier" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Von Pincier" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Site Content__
+[[[http://www.rpc-wiki.net/editing-policy | Editing Policy]]]
+[[/collapsible]]
+[[/div]]
+----
++ -W-
+----
++ -X-
+[[div class="quote"]]
+[[collapsible show="Xedric" hide="Hide"]] 
+[[*user xedric]]
+++++ __RPCs__
+[[module ListPages created_by="Xedric" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Xedric" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Xedric" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Writings__
+[[module ListPages created_by="Xedric" separate="no" tags="writings" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Personnel Files__
+[[module ListPages created_by="Xedric" separate="no" tags="personnel" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __MST__
+[[[hotel-1-the-highlanders |Hotel 1 The Highlanders]]]
+[[/collapsible]]
+[[/div]]
+----
++ -Y-
+----
++ -Z-
+
+[[/div]]
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #05214f;"]]
+[[div style="margin-left: 30px; margin-right: 30px"]] 
+Message [[user croal]] if you wish to be added to this list and only submit pages that you have heavily contributed to. Format creations and themes will not be accepted for this list. If your article is deleted for whatever reason, your placement within this list is subject for removal.
+[[/div]]
+[[/div]]
+
