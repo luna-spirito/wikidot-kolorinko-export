@@ -1,0 +1,85 @@
+---
+title: "Winter Theme"
+tags: ["theme"]
+page_id: "397128429"
+site: "rpcauthority"
+slug: "component:winter-theme"
+revision: 13
+revision_id: "1530469656"
+author: 9161410
+timestamp: 1749671139
+---
+
+[[module css]]
+@import url(/component:winter-theme/code/1);
+[[/module]]
+
+[[code type="css"]]
+/*
+This Winter Seasonal Theme was created and designed by Dr. Pierson
+for the purpose of the winter seasonal events of the Authority Website.
+*/
+ 
+@import url('https://www.cssfontstack.com/Century-Gothic');
+ 
+:root {
+     --body-background: #0b0f11 url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterThemeBG.png);
+     --header-text-visibility: hidden;
+     --header-background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterTheme%282020%29.png);
+     --page-title-color: #1749A8;
+     --sidebar-header-color: #1749A8;
+
+     --WT-header-text-visibility: hidden;
+     --WT-header-background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterTheme%282020%29.png);
+} 
+ 
+/* Background Theme */
+ 
+div#container-wrap {
+     background-size: 100% 402px;
+}
+ 
+/* Background Logo */
+ 
+#header {
+    background-image: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterThemeHeader.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(9.5rem - 2.125rem);
+    background-position: 15px 12px;
+}
+ 
+/* Page Title */
+ 
+#page-title {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+ 
+/* Sidebar Header */
+ 
+#side-bar .heading {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+ 
+/* Mobile Compatibility */
+ 
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+ 
+/* Background Logo */
+ 
+#header { 
+    background-size: auto calc(7.5rem - 2.125rem);
+    background-position: left 0rem top 3.5em;
+} 
+ 
+div#container-wrap {
+    background-size: auto 402px !important
+} 
+ 
+}
+[[/code]]
+
+[[include :rpcsandbox:pallet]]
+

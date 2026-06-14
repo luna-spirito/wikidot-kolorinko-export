@@ -1,0 +1,59 @@
+---
+title: "Новый контент на всём сайте"
+tags: []
+page_id: "877872231"
+site: "scientific-alliance"
+slug: "every-main"
+revision: 0
+revision_id: "924191720"
+author: 754405
+timestamp: 1567358425
+---
+
+[[module CSS]]
+#page-title {visibility: hidden; font-size: 0}
+table.wiki-content-table td {padding: 7px 10px}
+[[/module]]
+
+[[div style="margin-top: -10px"]]
+[[=]]
+[[tabview]]
+
+[[tab   ]]
+[[div style="margin-top: 30px"]]
+Страница для тех, кому не хочется возиться с тремя отдельными ссылками.
+
+Ещё можно использовать [[[every-word|вот]]] [[[every-page|эти]]] более компактные версии её оформления.
+
+Для большего удобства их можно добавить в закладки браузера, например.
+[[/div]]
+[[/tab]]
+
+[[tab Обсуждения]]
+[[<]]
+[[module RecentPosts]]
+[[/<]]
+[[/tab]]
+
+[[tab Правки просто]]
+[[div style="text-align: left; margin-top: 10px"]]
+[[module ListPages order="updated_at desc" separate="false" perPage="30"]]
+|| %%title_linked%% || %%updated_by%% || %%updated_at|%H:%Mᅠ%d.%m.%Y%% || Комментариев  %%comments%% || Рейтинг  %%rating%% ||
+[[/module]][[/div]]
+[[/tab]]
+
+[[tab Правки сложно]]
+[[<]]
+[[module SiteChanges]]
+[[/<]]
+[[/tab]]
+
+[[tab Новые статьи]]
+[[div style="text-align: left; margin-top: 10px"]]
+[[module ListPages order="created_at desc" separate="false" perPage="30"]]
+|| %%title_linked%% || %%updated_by%% || %%created_at|%H:%Mᅠ%d.%m.%Y%% || Комментариев  %%comments%% || Рейтинг  %%rating%% ||
+[[/module]][[/div]]
+[[/tab]]
+
+[[/tabview]][[/=]][[/div]]
+

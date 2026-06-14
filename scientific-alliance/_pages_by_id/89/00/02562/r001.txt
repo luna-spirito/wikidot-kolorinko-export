@@ -1,0 +1,43 @@
+---
+title: "Новое на сайте"
+tags: []
+page_id: "890002562"
+site: "scientific-alliance"
+slug: "new-1"
+revision: 1
+revision_id: "970232981"
+author: 754405
+timestamp: 1571599326
+---
+
+[[module CSS]]
+#page-title {visibility: hidden; font-size: 0}
+[[/module]]
+
+[[div class="search" style="margin-top: -26px"]]
+[[tabview]]
+
+[[tab  ]][[/tab]]
+
+[[tab Сообщения]]
+[[module RecentPosts]]
+[[/tab]]
+
+[[tab Правки просто]]
+[[div style="float: left; margin: -13px 0 0 1px"]]
+[[module ListPages order="updated_at desc" separate="false" perPage="30"]]
+|| %%title_linked%% || %%updated_by%% || %%updated_at|%H:%M %d.%m.%Y%% ||
+[[/module]][[/div]][[/tab]]
+
+[[tab Правки сложно]]
+[[module SiteChanges]]
+[[/tab]]
+
+[[tab Новые статьи]]
+[[div class="search" style="float: left; margin: -13px 0 0 1px"]]
+[[module ListPages order="created_at desc" separate="false" perPage="30"]]
+|| %%title_linked%% || %%updated_by%% || %%created_at|%H:%M %d.%m.%Y%% ||
+[[/module]][[/div]][[/tab]]
+
+[[/tabview]][[/div]]
+

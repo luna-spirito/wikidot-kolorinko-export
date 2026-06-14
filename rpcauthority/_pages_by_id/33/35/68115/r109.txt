@@ -1,0 +1,317 @@
+---
+title: "Project Blue Book"
+tags: ["bluebook", "hub"]
+page_id: "333568115"
+site: "rpcauthority"
+slug: "project-blue-book"
+revision: 109
+revision_id: "1528621997"
+author: 9487909
+timestamp: 1742778254
+---
+
+[[module css]]
+#side-bar {
+display: none;
+}
+ 
+#main-content {
+margin: 0 2em;
+border-left: none;
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[module css]]
+@import url(/component:bluebook-theme/code/1);
+[[/module]]
+
+[[module css]]
+#page-title {display: none;}
+[[/module]]
+> Welcome to Project Blue Book. We are humanity's best and brightest, and we have one goal: Protect mankind from any entity that would do it harm. Below you will find everything you need to know to be successful within the organization. Terra Invicta. 
+> 
+> //- Commander [REDACTED]//
+
+------
+
+[[=]]
++++ Overview
+[[/=]]
+
+------
+
+[[tabview]]
+[[tab Establishment]]
+
+[[div class="content-panel standalone" style="color:black;font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://rpcsandbox.wdfiles.com/local--files/project-blue-book/a-dynamic-texture-of-mud-spots-and-smears-over-a-white-background-composite-this-over-your-footage-or-use-for-transitions-to-give-your-footage-a-grunge-style_vkwbeh56__F0000.png) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
+++ From the desk of General Dwight D Eisenhower, 1951:
+[[=image http://rpcsandbox.wdfiles.com/local--files/nato-blue/BBLogoBlack.png width="140px"]]
+
+------
+
+In the course of history, mankind has faced innumerable threats. From the beasts over the next hill during prehistoric times to the monster that plagued Europe very recently. Mankind has dealt with all these challenges head-on and has emerged time and time again the victor. Humanity has shown itself to be strong but it needs to be prepared for all issues that may plague it, from the deepest depths to the furthermost stars. In agreement with this, the various member states of NATO have agreed to fold their respective intelligence agencies together and to pool resources both military and civil from each of the member states, to investigate threats deemed an "unusual" or "severe" threat to human safety. To that end, I have appropriated the name "Project Blue Book" from the United States Department of Defense, it is our hope that using an existing project name will create an additional layer of deniability and will allow us to act with some air of anonymity. Our duty is to defend mankind and that includes shielding them from the truth.[[=image http://rpcauthority.wdfiles.com/local--files/project-blue-book/1024px-Dwight_Eisenhower_Signature.svg.png width="540px" size="small"]]
+[[/div]]
+[[/tab]]
+
+[[tab Political Details]]
+[[div class="content-panel standalone" style="color:black;font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://rpcsandbox.wdfiles.com/local--files/project-blue-book/a-dynamic-texture-of-mud-spots-and-smears-over-a-white-background-composite-this-over-your-footage-or-use-for-transitions-to-give-your-footage-a-grunge-style_vkwbeh56__F0000.png) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
+++ From the desk of Project Blue Book Commander [REDACTED]:
+[[=image http://rpcsandbox.wdfiles.com/local--files/nato-blue/BBLogoBlack.png width="140px"]]
+
+------
+
+Project Bluebook operates as a global entity, originally formed as a branch of NATO in 1951 in response to increased activity from "Foo Fighters".  Originally formed from the United States, West Germany, the British commonwealth, Italy, and Japan. It has since expanded to encompass a great deal of the globe. The most notable expansion being the 1986 Warsaw-Nato agreement that saw the USSR and NATO unite their up until this point separate space defense branches. Previous to this NATO and the USSR maintained an incredibly strong rivalry, and it is believed that this rivalry is what lead to the space race that dominated the 50s and 60s.
+[[=]]
+[[=image http://rpcauthority.wdfiles.com/local--files/project-blue-book/Blue_Book_Signatory_Status%20%281%29.png width="900"]]
+[http://rpcauthority.wdfiles.com/local--files/project-blue-book/Blue_Book_Signatory_Status%20%281%29.png Expanded Map View]
+[[/=]]
+The most notable exceptions to the Blue Book agreement are the various central African nations and South American nations as well as the Peoples Republic of China and its sphere. While not a signatory, these members do allow limited operations within their borders in exchange for a nominal amount each quarter.
+[[=]]
+[[=image http://rpcauthority.wdfiles.com/local--files/project-blue-book/Manpower%20Chart width="900"]]
+[http://rpcauthority.wdfiles.com/local--files/project-blue-book/Manpower%20Chart Expanded Chart View]
+[[/=]]
+Notably, while nearly every member state of Blue Book offers resources, manpower, or both to Project Blue Book, The United Kingdom offers neither and has not for several decades. At this point in time, the U.K. is in the process of being removed from the program.
+ 
+[[/div]]
+[[/tab]]
+
+
+[[tab Operational Details]]
+[[div class="content-panel standalone" style="color:black;font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://rpcsandbox.wdfiles.com/local--files/project-blue-book/a-dynamic-texture-of-mud-spots-and-smears-over-a-white-background-composite-this-over-your-footage-or-use-for-transitions-to-give-your-footage-a-grunge-style_vkwbeh56__F0000.png) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
+++ From the desk of Project Blue Book Operations Director [REDACTED]:
+[[=image http://rpcsandbox.wdfiles.com/local--files/nato-blue/BBLogoBlack.png width="140px"]]
+
+------
+[[=]]
++ Overview
+[[/=]]
+------
+
+Project Blue Book is divided into 3 separate branches, the Xeno Defense Bureau (XDB), the Scientific Research Bureau (SRB), and the Engineering and Manufacturing Bureau (EMB). All operations that involve Blue Book are conducted by at least one of these branches. Blue Books modus operandi as an organization is that while battles are fought in the field, wars are won in the lab. The principles taught by the horrors of World War 2 have shown that the application of force AND technology are vital to victory. To that end, the number 1 priority of all Blue Book field agents is the retrieval of intact field samples.
+
+The second major principle of Blue Book is the belief in the application of force, wars are not won through mercy, and they are not won through holding back. Blue Book supports the proliferation and use of all weapons and operates on a doctrine of massive and superior firepower.
+
+------
+[[=]]
++ Xeno Defense Bureau
+[[/=]]
+------
+Composed of volunteer forces culled from the various Blue Book member states armed forces, the Xeno Defense Bureau serves as the military apparatus of Project Blue Book.
+
+The XDB is further divided into Blue Book Intelligence (BBI), Blue Book Land Command (BBLC), Blue Book Air Command (BBAC) Blue Book Space Command (BBSC), and Blue Book Naval Command (BBNC).
+
+The "Sword and Shield" of humanity, the XDB is the first on the ground in the event of combat. With a standing policy of threat elimination and resource acquisition, the XDB sees combat as a small part of the job that Blue Book holds.
+
+------
+[[=]]
++ Scientific Research Bureau
+[[/=]]
+------
+Composed of recruited scientists from across the globe, The Scientific Research Bureau is the Scientific arm of Project Blue Book.
+
+The SRB is the beating heart of Blue Book. Encounters and combat against T-001 have shown that in order to stand against foreign invaders, we must not only conquer them on the field we must dominate them in the lab. Reverse Engineering the tools and weapons used against us and turning them against their masters is what has allowed us victory time and time again.
+
+------
+[[=]]
++ Engineering and Manufacturing Bureau
+[[/=]]
+------
+Composed of engineers, architects, and scientists recruited globally, the Engineering and Manufacturing Bureau holds the responsibility of crafting and fielding all equipment in use by Blue Book.
+
+Early on it was determined that for Blue Book to function to its maximum potential, they could not afford to outsource the various pieces of equipment, this became more and more true as Blue Books standard arms were supplemented by first captured and then human-made variants of ET technology. Outsourcing Blue Books mag sails alone could allow for a substantial breach in security let alone the more delicate equipment Blue Book makes use of.
+
+At this point in time, over 85% of Blue Books arms and equipment are made in-house by the EMB.
+
+
+[[/div]]
+[[/tab]]
+
+[[tab Current Relations]]
+[[div class="content-panel standalone" style="color:black;font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://rpcsandbox.wdfiles.com/local--files/project-blue-book/a-dynamic-texture-of-mud-spots-and-smears-over-a-white-background-composite-this-over-your-footage-or-use-for-transitions-to-give-your-footage-a-grunge-style_vkwbeh56__F0000.png) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
+++ From the desk of Project Blue Book Diplomatic Director [REDACTED]:
+[[=image http://rpcsandbox.wdfiles.com/local--files/nato-blue/BBLogoBlack.png width="140px"]]
+
+------
+
+[[=]]
++ Overview
+[[/=]]
+Project Blue Book maintains relations with several organizations. Given its capacity as an extension of NATO, it finds itself dealing with the bureaucracy of these relations frequently.
+
+
+[[=]]
+++ **United Nations Anomalous Activities Committee**
+[[/=]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/UNAAC.png width="220px"]]
+
+**Threat:** None
+
+**Relations:** Healthy
+
+**Details:** The United Nations Anomalous Activities Committee (UNAAC) is the representative body of the anomalous community which operates through the UN.  While we have had occasional run-ins with their body, much like the UN as a whole they are rather fangless.
+
+@@ @@
+
+
+@@ @@
+
+[[=]]
+++ **Military Intelligence Section XIII**
+[[/=]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/XIII.png style="width: 220px;"]]
+
+**Threat:** Mild; Caution
+
+**Relations:** Uneasy
+
+**Details:** Military Intelligence Section XIII, otherwise known as Monarch Security, is a government agency of the British Government, with legal authority in the Commonwealth of Nations. MI13, as well as the British Government, do not recognize Project Blue Book as an international entity nor a governing body due to historical tensions from the 1950s. All diplomatic discussions directed at MI13 have been met with refusal, as such, all diplomatic discussions have been held via NATO.
+
+
+[[=]]
+++ **People's Committee for the Acquisition of Anomalous Objects**
+[[/=]]
+
+
+**Threat:** Mild; Dangerous
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/PCAAO1.png style="width: 220px;"]]
+
+**Relations:** Uneasy
+
+
+**Details:** The People's Committee for the Acquisition of Anomalous Objects (PCAAO) is for the most part not of interest to Project Blue Book. the PCAAO and Blue Book very rarely ever interact and so we maintain an overall neutral disposition to each other. There has been a recent rise in hostilities between our 2 parties due to the ET-003 incident however diplomats are currently smoothing these issues out. If contact is made with PCAAO operatives please inform the mission commander before proceeding. Agents on the ground should remember that China itself is not a Blue Book signatory and simply acts as a host nation for the few facilities we have in their territory, therefore agents assigned there are to operate with complete professionalism.
+@@@@
+[[=]]
+++ **RPC Authority**
+[[/=]]
+
+**Threat:** High; Unknown
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/project-blue-book/RPC_3.png style="width: 200px;"]]
+
+**Relations:** Cooperative, but tense.
+
+
+**Details:** The RPC Authority is the parent organization to the AEDF, which is our largest rival for the protection of Earth from space-bound threats. The RPC Authority itself is an international organization dedicated to the protection of humanity from the Anomalous. Because of the fact that they have the UNAAC wrapped around their finger, they have the ability to claim any alien craft is "anomalous" and take possession of it for themselves which inevitably leads to a great deal of bureaucracy as we fight to maintain control of said spacecraft. Despite this, they seem to share many of the same goals as Project Blue Book, including the protection of humanity from the truth of the universe.
+@@@@
+@@@@
+@@@@
+[[/div]]
+[[/tab]]
+
+
+[[/Tabview]]
+
+------
+
+
+[[=]]
++++ Project Data Nodes
+[[/=]]
+
+------
+
+
+[[tabview]]
+[[tab Articles]]
+
+[[html]]
+<style>
+@import url('http://rpcsandbox.wikidot.com/terminal-style/code/1');
+/* importing because im lazy */
+
+.term-link {
+color: white;
+text-decoration: none;
+}
+
+.term-link:active, .link-inactive {
+color: black;
+background-color: white;
+}
+</style>
+
+<div id="terminal" class="on">
+<div class="layer">
+ALERT: YOU ARE ATTEMPTING TO ACCESS THE BLUE BOOK DATA NETWORK. WOULD YOU LIKE TO CONTINUE?<br><br>
+<div id="choice-block">
+<a class="term-link" href="#" onclick="document.getElementById('choice-block').innerHTML = '<span class=\'link-inactive\'>YES</span><br><br>'; document.getElementById('typing-block').innerHTML = '> '; textDisplayLoop();">YES</a> | <a class="term-link" href="#" onclick="window.parent.location.href = 'http://rpc-wiki.net/rpc-archive';">NO</a> | <a class="term-link" href="#" onclick="displayInfo();">INFORMATION</a>
+</div>
+<div id="typing-block">
+</div>
+</div>
+</div>
+
+<script defer>
+var listOfStrings = ["ESTABLISHING CONNECTION", "> BYPASSING FIREWALL", "> ESTABLISHING CONNECTION WITH BLUE BOOK SERVERS", "> CONNECTING TO FILE INDEX", "> CONNECTION ESTABLISHED. REDIRECTING…"];
+var infoText = "<br>Through the use of hacking, we have gained control of a number of Blue Book files, the following list is all files we have been able to bug.";
+var infoTextShown = false;
+
+var i = 1;
+var a = 0;
+
+function displayInfo() {
+if (infoTextShown == false) {
+document.getElementById('typing-block').innerHTML = infoText;
+infoTextShown = true;
+} else {
+document.getElementById('typing-block').innerHTML = '';
+infoTextShown = false;
+}
+}
+
+function textDisplayLoop() {
+if (a < listOfStrings[i-1].length) {
+var speed = Math.floor(Math.random()*25) + 20;
+document.getElementById('typing-block').innerHTML += listOfStrings[i-1].charAt(a);
+a++;
+setTimeout(textDisplayLoop, speed);
+} else if (a == listOfStrings[i-1].length) {
+if (i < listOfStrings.length) {
+a = 0;
+i++;
+document.getElementById('typing-block').innerHTML += "<br><br» "
+setTimeout(textDisplayLoop, 1375);
+} else if (i == listOfStrings.length) {
+setTimeout(function(){window.parent.location.href="http://www.rpc-wiki.net/files-network";}, 2000);
+}
+}
+}
+</script>
+
+[[/html]]
+[[/tab]]
+[[tab Documents]]
++++ Project Blue Book RPCs
+[[module ListPages separate="no" tags="+bluebook +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Tales
+
+[[module ListPages separate="no" tags="+bluebook +tale" perPage="50" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="bluebook -rpc -tale -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
++++ Articles That Reference Project Blue Book
+[[[RPC-058]]] - And The Spiders From Mars
+[[[RPC-316]]] - Grand Director of Global Directors, Sole True Founder of the RPC Authority
+[[[RPC-886]]] - The Last Fox
+[[[RPC-950]]] - The Venus Assimilation
+
+[[[An Incomplete History of the Authority]]]
+[[/tab]]
+[[/tabview]]
+

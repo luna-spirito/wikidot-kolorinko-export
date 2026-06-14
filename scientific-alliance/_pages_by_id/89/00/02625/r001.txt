@@ -1,0 +1,48 @@
+---
+title: "Новое на сайте"
+tags: []
+page_id: "890002625"
+site: "scientific-alliance"
+slug: "new-3"
+revision: 1
+revision_id: "970232984"
+author: 754405
+timestamp: 1571599331
+---
+
+[[module CSS]]
+#page-title {visibility: hidden; font-size: 0}
+[[/module]]
+
+[[div class="search" style="margin-top: -26px"]]
+[[tabview]]
+
+[[tab Статьи]]
+
+[[div style="margin-top: -5px"]]
+[[collapsible show="Поиск по всем правкам" hide="Поиск по всем правкам"]]
+[[div style="margin-top: -4.1em"]]
+[[module SiteChanges]]
+[[/div]][[/collapsible]][[/div]]
+
+[[table style="margin: 0 -30px 0 -20px"]][[row]]
+
+[[cell style="padding-right: 12px"]]
+[[module ListPages order="created_at desc" separate="false" perPage="30" prependLine="||||||~ Статьи ||"]]
+|| %%title_linked%% || %%updated_by%% || %%created_at|%H:%M %d.%m.%Y%% ||
+[[/module]][[/cell]]
+
+[[cell]]
+[[module ListPages order="updated_at desc" separate="false" perPage="30" prependLine="||||||~ Правки ||"]]
+|| %%title_linked%% || %%updated_by%% || %%updated_at|%H:%M %d.%m.%Y%% ||
+[[/module]][[/cell]]
+
+[[/row]][[/table]][[/tab]]
+
+[[tab Сообщения]]
+[[div style="margin-top: -2.9em"]]
+[[module RecentPosts]]
+[[/div]][[/tab]]
+
+[[/tabview]][[/div]]
+

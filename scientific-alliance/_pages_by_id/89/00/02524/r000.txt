@@ -1,0 +1,28 @@
+---
+title: "Новые правки"
+tags: []
+page_id: "890002524"
+site: "scientific-alliance"
+slug: "new-changes"
+revision: 0
+revision_id: "936349131"
+author: 754405
+timestamp: 1567630818
+---
+
+[[div class="search" style="margin-top: -10px"]]
+[[tabview]]
+
+[[tab Просто]]
+[[div style="float: left; margin-top: -13px"]]
+[[module ListPages order="updated_at desc" separate="false" perPage="30"]]
+|| %%title_linked%% || %%updated_by%% || %%updated_at|%H:%M %d.%m.%Y%% ||
+[[/module]][[/div]][[/tab]]
+
+[[tab Сложно]]
+[[div style="margin-top: -3em"]]
+[[module SiteChanges]]
+[[/div]][[/tab]]
+
+[[/tabview]][[/div]]
+

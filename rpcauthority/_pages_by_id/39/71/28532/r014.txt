@@ -1,0 +1,86 @@
+---
+title: "Winter Contest"
+tags: ["contest"]
+page_id: "397128532"
+site: "rpcauthority"
+slug: "winter-2018"
+revision: 14
+revision_id: "1288968866"
+author: 3118961
+timestamp: 1595796033
+---
+
+[[module css]]
+@import url(/component:winter-theme/code/1);
+[[/module]]
+
+> ++ Here are the winners of our Winter contest. Very nice job everyone! 
+> 
+> First place for the In the Dead of Winter Contest is [[[contest:winterentrylogangreenjeans |The Shepard and His Flock]]] by [[*user logangreenjeans]] with 22 upvotes. They have won the RPC-563 slot!
+> 
+> First place in the New Beginnings Contest is [[[contest:winterentrymrpines |Nothing's ever gonna make me forget her]]] by [[*user MrPines]] with 23 upvotes. They win the RPC-365 slot!
+> 
+> In a very close race in the Winter tales Contest, [[[contest:winterentryvizlox |Cogs]]] by [[*user Vizlox]] has won with 12 upvotes!
+> 
+> Second place in the Dead of Winter contest goes [[[contest:winterentrymoistbread |Christmas With Amazing! Co.]]] by [[*user moist-bread]]! They had 21 upvotes!
+> 
+> Second place in the New Beginings Contest goes to [[[contest:winterentrygoogle-chrome |A parting gift from an immortal bird]]] by [[*user Google_chrome]]! They had 21 upvotes!
+
+[[collapsible show="Show Rules and Regulations" hide="Hide Rules and Regulations"]]
+++  [[span style="color:#383D53;"]]Welcome to our Winter Contest page. We are opening the following four separate contests.[[/span]]
+
+ [[span style="color:#454B77;"]]**IN THE DEAD OF WINTER -**[[/span]] Our first Winter Contest is for RPC-563. You must write an RPC inspired by winter, unforgiving cold, the relentlessness of mother nature, tradition or holiday. 
+
+ [[span style="color:#454B77;"]]**NEW BEGINNINGS -**[[/span]] Our second Winter Contest is for RPC-365. You must write an RPC inspired by regrowth, rebirth or starting over. 
+
+ [[span style="color:#454B77;"]]**WINTER TALE -**[[/span]] You may write an entirely new Winter/holiday tale or rewrite a traditional story to have an RPC twist. 
+
+ [[span style="color:#454B77;"]]**SNOWMAN CONTEST -**[[/span]] The person with the best snowman wins. You may make the snowman out of anything you choose. Be creative! You must include a timestamp. 
+
+Contact [[*user Croal]] if you have any questions about the contests. 
+
++ [[span style="color:#383D53;"]]To Enter[[/span]]
+ [[span style="color:#454B77;"]]**Submissions Open:**[[/span]] January 25th
+ [[span style="color:#454B77;"]]**Submissions Close:**[[/span]] January 28th
+ [[span style="color:#454B77;"]]**Winners are to be announced on:**[[/span]] February 1st 
+
+Do not coldpost. You must receive feedback before posting. Post your entry to the site with the url "Contest:WinterEntry<yourusername>" with your site user name in place of <yourusername.> For example, if a user named Chad were to post an entry it would have the URL Contest:WinterEntrychad. This page must be posted by you (or, if it is a collaboration, one of the partners). 
+
+ [[span style="color:#454B77;"]]**Add the proper tag to your entry so it shows up on this page.**[[/span]] 
+To enter into the In the Dead of Winter contest use the tag "WinterRPC"
+To enter into the New Beginnings contest use the tag "NewRPC"
+To enter into the Winter Tale contest use the tag "WinterTale"
+To enter the snowman contest message [[*user Croal]] 
+
++ [[span style="color:#383D53;"]]Rules[[/span]]
+* You are not limited to write about any specific holiday. Hanukkah, the Winter Solstice, Christmas, New Year's, Groundhog day and Chinese New Year are all great options, but many other holidays throughout the year are interesting as well. 
+* Anyone is allowed to participate
+* Do not coldpost. You must receive feedback in the drafts forum for RPC's and Tales 
+* Wait until the submission period begins to upload your page
+* You may submit to multiple contests, but only one work to each individual contest 
+* Anyone found using alt accounts to upvote their submissions will be disqualified and banned from entering any further contests 
+* Submissions must match the theme in a justifiable way
+* Pre-existing drafts are allowed, so long as they have never been posted to the wiki
+* Edits to works are allowed
+
+The submission for each category with the most upvotes will win. The winners of each contest will win bragging rights and a featured spot on the front page. The winner of the In the Dead of Winter RPC will receive the RPC-563 slot. The winner of the New Beginnings RPC will receive the RPC-365 slot. Those who do not win are encouraged to re-upload their submissions.
+[[/collapsible]]
+
++ In the Dead of Winter Entries 
+
+[[module ListPages separate="no" category="*" tags="+WinterRPC -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
++ New Beginnings Entries 
+
+[[module ListPages separate="no" category="*" tags="+NewRPC -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
++ Winter Tale Entries 
+
+[[module ListPages separate="no" category="*" tags="+wintertale -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+

@@ -1,0 +1,17 @@
+---
+title: "Новые статьи"
+tags: []
+page_id: "890002538"
+site: "scientific-alliance"
+slug: "new-pages"
+revision: 0
+revision_id: "936349147"
+author: 754405
+timestamp: 1567630830
+---
+
+[[div class="search" style="float: left; margin-top: -13px"]]
+[[module ListPages order="created_at desc" separate="false" perPage="30"]]
+|| %%title_linked%% || %%updated_by%% || %%created_at|%H:%M %d.%m.%Y%% ||
+[[/module]][[/div]]
+

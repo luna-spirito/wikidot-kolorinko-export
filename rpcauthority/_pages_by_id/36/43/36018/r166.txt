@@ -1,0 +1,225 @@
+---
+title: "Authority Government Information Database"
+tags: ["hub", "information", "lore"]
+page_id: "364336018"
+site: "rpcauthority"
+slug: "governments-of-interest"
+revision: 166
+revision_id: "1532653422"
+author: 5258122
+timestamp: 1759570457
+---
+
+[[module css]]
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777; 
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #29292f;
+    --WT-v7: var(--primary-background);
+}
+
+.textBlock {
+    background-color: var(--primary-background);
+    border: var(--basic-border);
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; border: solid 2px #000; border-radius: 10px; margin: 0 auto; padding: 10px 30px; background: var(--v7);"]]
+
+[[div style="line-height: normal; text-align: center; font-size: 250%; font-weight: bold;"]]
+{{Authority Government}} 
+{{Information Database}}
+[[/div]]
+
+----
+
+[[size 112%]]
+**Overview:** The Authority must deal with many and varied Entities involved with the anomalous; for the most part these are fringe groups, much like the Authority themselves. However, some Entities operate within the framework of the non-anomalous world, as agencies for nations and international organizations. Dealing with the population-control cult of Malthus is very different form negotiating with the legitimate representatives of China; whether hostile or cooperative, the power dynamics and threat that the latter may pose is radically different. Such Groups are registered within the Authority Global Information Database, colloquially known as the Agencies of Interest. The Database contains entries on these Groups as well as government programs related to the anomalous.
+[[/size]]
+> = **Table of Contents**
+> [#pcaao People's Committee for the Acquisition of Anomalous Objects]
+> [#mi13 Military Intelligence Section XIII]
+> [#unaac United Nations Anomalous Activities Committee]
+> [#bluebook Project Blue Book]
+> [#vatican Vatican Primacy]
+> [#foa Federal Occult Agency]
+* [[[canon-policy|Canon Policy]]]
+[[/div]]
+
+[[div class="textBlock"]]
++ Threat Code
+
+[[collapsible]]
+||||~ Affiliations||
+||##var(--v1)|Proxy##||The Agency is under direct control by the Authority.||
+||##var(--v2)|Allied##||The Agency is consistently cooperative with and/or helpful to the Authority.||
+||##var(--v3)|Neutral##||The Agency has little or no affiliation with the Authority.||
+||##var(--v4)|Ambiguous##||The Agency displays varying or contradictory affiliation with the Authority.||
+||##var(--v5)|Hostile##||The Agency is motivated to harm or destroy humanity and/or the Authority.||
+||##var(--v6)|Unknown##||The Agency has unknown motives in relation to the Authority.||
+
+||||~ Attributes||
+||Authority-Aware||The Agency is aware of the existence of the Authority.||
+||Veiled||The Agency is unaware of the existence of the anomalous.||
+||Unveiled||The Agency is aware of the existence of the anomalous.||
+||Seeker||The Agency actively collects anomalies.||
+||Sculptor||The Agency is capable of creating anomalies.||
+||Multinational||The Agency spans multiple nations.||
+||National||The Agency exists within a single nation.||
+[[/collapsible]]
+[[/div]]
+
+[[# pcaao]]
+[[div class="textBlock"]]
++ [[[pcaao-hub|People's Committee for the Acquisition of Anomalous Objects]]] (China)
+
+++ ##var(--v4)|Ambiguous##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* National
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/PCAAO1.png width="200px"]]
+
+**Overview:** A primary influence in the Asian Pacific, the PCAAO is built with a mix of leading Chinese scientists and battalions supplied by the People’s Liberation Army. Created in the wake of the Communist victory in the Chinese Civil War, the PCAAO rose to prominence after the Korean War and further grew in power throughout the years.
+
+The PCAAO is a valuable ally and formidable opponent. The rise of China parallels the PCAAO's expanding influence across Asia and Africa, bringing the organization into the global anomalous community. And yet the PCAAO is just as likely to cooperate with the ASF in Nigeria as it is to assault a dig team in Mongolia; it has carried out friendly and hostile acts in the same hour. The PCAAO of the 21st century is seemingly torn between opposite impulses; the international agency that works for the good of mankind versus the ruthless paramilitaries that protect China and her people from the anomalous at any cost, often at others' expense. Authority personnel are warned to approach the PCAAO with significant caution. It is often difficult to predict whether it will act in cooperation or violent self-interest.
+[[/div]]
+
+
+[[# mi13]]
+[[div class="textBlock"]]
+
++ [[[mi13-hub|Monarch Security]]] (UK)
+
+++ ##var(--v2)|Allied##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Multinational
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/MI13.png width="200px"]]  
+
+**Overview:**  Monarch Security, commonly referred to as Military Intelligence Section XIII (MI13) in the global sphere, was established following centuries of covert interactions between Britain and the hidden supernatural realm. Recognizing the unprecedented threats emerging from these mystical forces, the Crown and its Royal Congregation deemed it essential to create a dedicated agency tasked with safeguarding the United Kingdom, its allies, and the natural order.
+
+Under the legislative direction of the Royal Congregation of Sorcerers (RCS), Monarch Security has assumed responsibility for regulating thaumaturgy, as well as investigating and correcting rituals that may pose a threat to the veiled order.
+
+Historically, the role of British anomalous defence was upheld by a series of successive agencies, including His Majesty’s Subjugation Office (HMSO), the Black Hunters Corps (BHC), the RCS, and MI-13.  In 1964, these organisations merged to form Monarch Security, with MI13 established as the public face of Monarch Security on the global stage.
+
+All members of Monarch Security are subjects of the Crown’s Curseship. Under this binding status, subjects gain accelerated and heightened aptitude in the mastery of thaumaturgy. However, this gift carries the ever-present risk of succumbing to the curse that looms over Britain, should a thaumaturgist lose vigilance.
+
+[[/div]]
+
+[[# unaac]]
+[[div class="textBlock whiteThemeInvert"]]
++ [[[unaac-hub|United Nations Anomalous Activities Committee]]]
+
+++ ##var(--v4)|Ambiguous##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Multinational
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/UNAAC_Main_Symbol.png width="200px"]]
+
+**Overview:** The United Nations Anomalous Activities Committee (UNAAC) is an international regulatory body with the support of major national governments. While officially as a separate independent organization, the UNAAC is part of the United Nations System with its own charter and structure in comparison to that of the International Monetary Fund (IMF). Established under the International Anomalous Accords, after the United Nations Anomalous Peace Conference, in 1945, directs the UNAAC to restrict and enforce the regulations and actions of all anomalous activity within the international scale. However, actionable enforcement of the accords is often weak and mostly left to the collective pressure of the World Security Council, consisting of members from the United Nations, during particularly outrageous rule violation, such as the unauthorized practice of anomalous activities. 
+
+In practice, the UNAAC is a negotiations table where The Authority carries the most weight, often needing the support of other nations to carry out its interests. Relatively impotent by itself, the UNAAC is valuable as a forum to redress grievances and smooth competition from interests between other nations in an established, diplomatic environment. Secretly, there are members within the UNAAC that push their own ideals and agendas to strengthen their geopolitical power. The Seventh Pact is one of these ambiguous, albeit unofficial, pacts within the World Security Council that tries to push the establishment of a separate entity that would overrule WSC decisions, often leading to disruption within international affairs.
+
+**Further Reading:**
+[[collapsible show="[+] Armed Forces/Operations Briefing (UNISAAF/ISA) " hide="- hide this content"]]
+> In the field, UNAAC maintains a small (low thousands) armed force - the United Nations International Security Anomalous Assistance Force (UNISAAF), commonly referred to as the ISA. Though powerless to physically enforce the Accords on UNAAC members, the ISA serves a valuable and often overlooked role in the forgotten, miserable corners of the globe; operating openly in the guise of regular UN peacekeepers, the ISA suppresses anomalous trafficking and nasty operations by Malthus and others in conflict-prone regions. Notably, these operations often occur in remote areas where Authority presence is light or nonexistent. Often, ISA peacekeepers are the only forces capable of fighting anomalous experiments, massacres, or worse on remote and vulnerable populations; Authority agents are expected to liaise with UNAAC peacekeepers when applicable, and the ASF has provided support for UNAAC operations on certain, desperate occasions. Dangerous anomalies that fall into UNAAC's hands during these operations are sent to the Authority due to our resources, expertise, and clout.
+[[/collapsible]]
+[[/div]]
+
+[[# bluebook]]
+[[div class="textBlock"]]
++ [[[project-blue-book|Project Blue Book]]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/project-blue-book/BBLogoBlue.png width="240px"]]
+++ ##var(--v4)|Ambiguous##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Multinational
+
+**Overview:**  Project Blue Book is a large-scale multinational government agency formed by NATO to resist Incursion and assault by non-human entities and research technologies for use in the defense of humanity. Project Blue Book maintains multiple theaters of operation and can be found globally, of particular note is Blue Books "Solar" theater tasked with the defense of Earth by Space-born threats.
+
+Blue Book operates in several subdivisions, not too dissimilar from the Authority. The Xeno Defense Bureau (XDB), Scientific Research Bureau (SRB), and the Engineering and Manufacturing Bureau (EMB) serve as the primary operational arms of Project Blue Book; however, there are a great many smaller bureaus and sub-bureaus that operate both dependent and independently of the primary three. The nature of these smaller bureaus are wildly varied and many are created and disbanded as needed by the wider organization.
+
+The RPC maintains a tenuous relation with Blue Book dependent on the circumstances, they could either be at odds or working together. Blue Book as an entity receives a great deal of support from the NATO member states who feel that Blue Book is "More loyal and properly checked in comparison to the RPC". Many nations support Blue Book in some way or another whether it's allocating funds, providing troops, or hosting bases. It is particularly important to note that while Blue Book falls under NATO. Many treaties see non-NATO member states participating in some capacity.
+
+While in the past this caused few problems in recent years Blue Book has found itself becoming more and more involved with the anomalous world as a whole.
+
+[[/div]]
+
+[[# vatican]]
+[[div class="textBlock whiteThemeInvert"]]
++ [[[vatican-primacy-hub|The Vatican Secretariat of Supernatural Primacy]]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png width="240px"]]
+++ ##var(--v4)|Ambiguous##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Structured
+* Multinational
+
+**Overview:** The Vatican Secretariat of Supernatural Primacy ("The Primacy") is the containment agency of the Vatican City-State established in response to the Papal Auctoritas Imperata declaring independence from the Roman Catholic Church and becoming the modern Authority. Tracing their origins to an obscure precursor organization known as the Auctorias Ecclesiastica, the Vatican Primacy is committed to preserving the holy relics and sacred doctrines of the faith and defending the Roman Papacy from supernatural threats.
+
+Initially comprised of traditional Catholic mercenary units known as the Military Vicarate of the Papal States, The Primacy was reformed during the First Vatican Council into a dicastery of the Roman Curia in order to combat the Authority's jurisdiction over the anomalous in a period known as the Arcane Schism. This defensive and war-like mentality resulted in numerous clashes with the agency. However, since the Second Vatican Council, The Primacy has moderated its aggressive behavior and now cooperates with the Authority and UNAAC on a case-by-case basis.
+
+This state of affairs is not likely to last. Recently, a rise in religious fanaticism has been observed among VSSP operatives, reflecting changing mentalities in the Catholic Church proper. Ideas that were once fringe in Catholic thought, such as declaring a new Crusade, restoring the Christianized Roman Empire, or calling for a Third Vatican Council are now gaining wide support within the agency. With over a billion Catholics worldwide, if The Primacy were to follow through on any of these objectives, they would present a significant threat to the Veil.
+
+[[/div]]
+
+[[# foa]]
+[[div class="textBlock"]]
+
++ [[[foa-hub|Bundesokkultabteilung]]] (Busoka/FOA)
+
+++ ##var(--v3)|Neutral##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* National
+
+[[f>image http://rpcauthority.wikidot.com/local--files/archived-agid/bundessmall.png width="225px"]]
+
+**Overview:** The //Bundesokkultabteilung// (Federal Occult Agency, frequently shortened to Busoka or FOA), is a governmental department of the Federal Republic of Germany charged with the investigation, containment and elimination of anomalous objects, persons, entities and organizations that threaten the German nation and its people. The FOA answers directly to the German Chancellor, and is afforded substantial independence in its operations, with the natural exception of consistent UNAAC oversight.
+
+The FOA traces a direct descent from several semi-organized groups of witch-hunters operating in the central and northeastern Holy Roman Empire during the 15th and 16th century, many of which regularly cooperated with or worked against agents of the Papal //Auctoritas Imperata//. However, these groups were never formalized or actively recognized by any of the German princely states, and their powers and influence declined over the course of the 17th and 18th centuries. During the reign of Frederick the Great, several unsuccessful attempts were made to organize groups of experienced witch-hunters to operate alongside the Prussian army, which were foiled by intense sectarianism and internal conflicts within the witch-hunting groups themselves. Nonetheless, small groups of such experts would continue to be covertly employed by the various monarchies of Germany on an ad hoc basis for the next century.
+
+The FOA, under the original title //Reichsokkultabteilung// (Imperial Occult Agency) was formally founded in 1878, by order of Kaiser Wilhelm I, and remained Germany's official government-sanctioned anti-anomaly organization until the end of the First World War. The heavily monarchist and conservative FOA broke ties with the newly-founded Weimar government, operating under the auspices of several different military-backed //Freikorps//. Through 1919-1924, the FOA was involved in heavy fighting with the Communist forces in Germany who also sought to acquire the country's remaining anomalous resources. These conflicts led to the growth of an increasingly radical movement within the FOA, who sought the restoration of the German monarchy. A secret clause of the Dawes Plan integrated the FOA with the German branch of the Authority in 1924.
+
+Many FOA radicals aligned closely with the goals of the German National Socialist Worker's Party, and in 1934 supported the German branch of the Authority in its bid for independence. This hardline splinter would eventually form the founding basis for [http://www.rpc-wiki.net/groups-of-interest#gard GARD/DAFA], the NSDAP anti-anomaly agency. FOA moderates remained semi-integrated with Authority branches in Switzerland and Sweden. The organization was restored, using its present name, under the auspices of the UNAAC and the West German government in 1949.
+[[/div]]
+

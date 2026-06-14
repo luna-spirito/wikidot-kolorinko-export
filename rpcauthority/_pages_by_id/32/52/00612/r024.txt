@@ -1,0 +1,81 @@
+---
+title: "Bluebook Theme"
+tags: ["theme"]
+page_id: "325200612"
+site: "rpcauthority"
+slug: "component:bluebook-theme"
+revision: 24
+revision_id: "1530350572"
+author: 9161410
+timestamp: 1748927525
+---
+
+[[module css]]
+@import url(/component:bluebook-theme/code/1);
+[[/module]]
+
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css?family=Teko');
+ 
+/* Project Blue Book
+   [2018 Wikidot Theme]
+   Created for the RPC Wiki by Dr Vaughn */
+ 
+/* HEADER */
+ 
+div#container-wrap {
+    background: url(http://rpcsandbox.wikidot.com/local--files/bluebook-theme/headerC.png) top left repeat-x;
+}
+ 
+#header {
+    background: url(http://rpcsandbox.wikidot.com/local--files/bluebook-theme/logoC.png) 50% 22px no-repeat;
+}
+ 
+#header h1, #header h2 {
+    margin-left: 25px;
+}
+ 
+#header h2 {
+    text-align: center;
+}
+ 
+#header h1 a, #header h2 span {
+    color: transparent;
+    text-shadow: none;
+    font-size: 0;
+}
+ 
+#header h2 span {
+    all: unset;
+    font-size: 0;
+}
+ 
+#header h1 a::before {
+    color: white; 
+    text-shadow: 3px 3px 5px #000;
+    font-family: 'Teko', sans-serif;
+    content: "";
+    font-size: 50px;
+}
+ 
+#header h2 span::before {
+    color: #e3e3e3;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+    font-size: 95%;
+    content: "";
+    font-size: 13px;
+    font-style: oblique;
+}
+
+#search-top-box, #top-bar .search-button a {display: none;}
+
+#top-bar ul {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+[[/code]]
+
+[[include :rpcsandbox:pallet]]
+
