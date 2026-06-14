@@ -1,0 +1,14 @@
+---
+title: "Infobox"
+tags: ["component"]
+page_id: "822461887"
+site: "rpcauthority"
+slug: "component:infobox"
+revision: 11
+revision_id: "1367510602"
+author: 5258122
+timestamp: 1628547980
+---
+
+[[include component:infobox-base canon={$canon}|canon=none|series={$series}|series=none]]
+

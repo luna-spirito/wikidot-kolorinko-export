@@ -1,0 +1,421 @@
+---
+title: "The Engineer and the AEDFS Lupin"
+tags: ["004"]
+page_id: "790020361"
+site: "rpcauthority"
+slug: "contest:004contestgoogle-chrome"
+revision: 8
+revision_id: "1516993290"
+author: 5982545
+timestamp: 1703520004
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-654
+|title=	RPC-654
+]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[module CSS]]
+.scp-image-block .scp-image-caption {
+    background-color: #161616
+}
+[[/module]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+|name= http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/clockwork.gif
+|caption=null 
+]]
+[[/div]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[div style="center no-repeat; background-color: #333; float: center; border: solid 2px #444; padding: 1px 15px; "]]
+[[=]]
+[[=image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/MainSign.png style="filter: invert(100%);"]]
+
++ [[size 150%]][[span style="color:#db2626;"]]<< WARNING >>[[/span]][[/size]]
+
+++ THE FOLLOWING FILE CONTAINS INFORMATIONAL HAZARDS.
+------
++++ PERSONNEL WITH LOW COGNITIVE HAZARDOUS RESISTANCE ARE PROHIBITED FROM ACCESSING THIS FILE.
+[[/=]]
+[[/div]]
+@@@@
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/theta-black.png]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[span class="tooltip"]][[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch1 style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Proto-Mechanical[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch2 style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Proto-Physical[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch3 style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]] Proto-Sapient[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-terrestrial.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Extra-Terrestrial[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-gravitational.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Gravitational[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/divine-hazard style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Divine[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-infohazard.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Informational[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Ideological[[/span]][[/span]] 
+|align=right
+|name=http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/clockwork.gif
+|caption=Recorded loop of [https://tenor.com/view/gears-clock-mechanical-gif-3579790 RPC-004] from the AEDF Observer satellite.
+|width=300px
+]]
+
+**Registered Phenomena Code:** 004
+
+**Object Class:** Theta-Black
+
+**Hazard Types:** Proto-Mechanical, Proto-Physical, Proto-Sapient, Extra-terrestrial, Gravitational, Divine, Informational, Ideological
+
+**Containment Protocols:** All space and land based telescopes capable of visually identifying RPC-004 are to be placed under Authority control by any means. Any and all investigation into the space in which RPC-004 occupies by these telescopes is forbidden.
+
+Additionally, the AEDF Observer satellite has been placed into orbit of RPC-004 and is to relay an uninterrupted video feed of RPC-004's surface at all times. Personnel with advanced cognitive hazard resistance training are to observe this footage for review, and document their findings.
+
+In order to ensure RPC-004's continued functionality, efforts to neutralize all GOI-008 ("Children of Nihil") groups that do not worship The Engineer are to be undertaken whenever a new group is discovered. Additionally, the neutralization of GOI-008 groups that worship the Engineer is prohibited outside of emergency circumstances. 
+
+**Description:** RPC-004 is the designation of an object currently 18 AU from the edge of Neptune's orbital path in the solar system. RPC-004 is composed of sixteen (16) gears that range in diameter from 420,000-870,000km. These gears are made out of complex lattices of smaller gears, cogs, driveshafts and other mechanical parts. The Anderson Coherency[[footnote]] A measure of the coherency of reality. A brief summary on the ACS can be found   [[[http://www.rpc-wiki.com/acs-guide | here]]][[/footnote]] around RPC-004 increases as one approaches its center, with an ACS value of 4.97 on its outer sections and a theorized ASC value of 6 at its center. If this is true, then that would mean that RPC-004 breaks the Law of Conservation of Chaos.
+
+No effects on gravitation are exerted by RPC-004 despite the immense size of RPC-004. However, when an object gets within 3 AU of RPC-004 it will begin to experience the gravitational effects of RPC-004. This has allowed Authority astrologists to determine that RPC-004 has a mass that is notably greater than that of the sun, but exact measurements have proven impossible.
+
+RPC-004-1 is the designation of an entity that occasionally appears in the dreams of individuals aware of RPC-004. RPC-004-1 is a robotic entity that is 1.67 meters tall, with a shape similar to that of a human female. While in dreams, RPC-004-1 has the ability to freely manipulate the environment without the restrictions of reality. In addition to this, individuals that have had dreams with RPC-004-1 in them report that the dreams feel "more real than [their] other dreams" the exact reason for this is unknown. 
+
+Subjects that make visual contact with RPC-004-1 will undergo a massive change in their ideologies and beliefs over an indeterminate amount of time. After this time the subject view RPC-004-1 as their god, and begin to worship and pray to it. If the subject was previously religious, they will carry out their previous religious actions/ceremonies in the name of RPC-004-1. Over time subjects will become heavily interested in cybernetics; often viewing cybernetics as a higher form of worship.
+
+RPC-004 is the home of a race of robotic entities, designated as RPC-004-2. RPC-004-2 are robotic entities with varing amounts of limbs ranging from 4-24. RPC-004-2 society is built around the maintenance of RPC-004, which they refer to as "The Sixteen Gears" or simply as "The Machine". RPC-004-2 worship RPC-004-1, which they refer to as "The Engineer of the Machine" or as "Machina the bringer of order", as their god. 
+
+Examination of GOI-008 religious texts has lead Authority researchers to the conclusion that RPC-004-1 is the Engineer[[footnote]]An entity referred to in various GOI-008 religious texts as the entity that created the laws of reality, and banished the 9 suns.[[/footnote]]. Additional examination has allowed researchers to conclude that RPC-004 is the machine created by the engineer to establish the laws of reality and banish the 9 suns. 
+
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+++++ **Addendum.1: Discovery** 
+
+RPC-004 was first detected by an AEDF observation satellite that was dispatched to detect anomalous occurrences near the edge of the solar system. The following is a transcript of the transmission sent by the satellite to the AEDFS Lupin, which was in Neptune's orbit at the time. 
+
+[[collapsible show="[+] Show transmissions" hide="[-] Displaying..."]]
+[[div style="display: inline-block; color: #00a80e; border:solid 1px #00a80e; background-color: #000000;  float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+{{gravitational abnormality detected}}
+{{course of action: approach for further scanning}}
+
+{{commencing action...}}
+
+{{approach successful}}
+{{commencing scan...}}
+
+{{-- critical error --}}
+{{collision course with abnormality detected}}
+{{engaging emergency thrusters}}
+
+{{commencing action..}}
+
+{{action failed}}
+{{collision eminent}} 
+[[/div]] 
+[[/collapsible]]
+
+Following this transmission, the AEDFS Lupin moved to the satellites last recorded location and made visual contact with the gravitational abnormality.
+
+[[collapsible show="[+] Display AEDF report" hide="[-] Displaying..."]]
+[[div style="color:black;display: inline-block; border:solid 1px #000000; background:#FFFFFF; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[=]]
+++ ##black|**>> Authority Extraterrestrial Defense Force <<**##
+
++++ -- ##black|Observation Report## --
+[[/=]]
+
+on ██/██/1998 the AEDFS Lupin went to investigate the last location of an AEDF Observation satellite that had ceased transmitting after encountering a gravitational anomaly. The AEDFS Lupin then encountered an extremely large extra-terrestrial construct resembling 16 gears. This object was then designated as UFO-1998-9. 
+
+The AEDFS Lupin then proceeded to conduct simple experiments on UFO-1998-9 for the following 72 hours, before deciding to launch an observation satellite into orbit around it. Afterwards the AEDFS Lupin tried to return to Earth. 
+
+When the AEDFS Lupin was near Jupiter's orbital path the SOS signal was activated. Due to outside circumstances AEDF forces were unable to respond until the AEFDS Lupin was near the Martian orbital path. No survivors were found on the AEDFS Lupin when AEDF rescue vessels arrived, and the observation deck window was found to have been completely shattered. Investigations into what occurred on the AEDFS Lupin are ongoing. 
+[[/div]]
+[[/collapsible]]
+@@@@
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+++++ **Addendum.2: Recovered files from the AEDFS Lupin**
+
+[[collapsible show="[+] Display Captain's Logs UFO-1998-9" hide="[-] Displaying..."]]
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/1
+
+Today we arrived at where the satellite went missing, and we instantly saw it. A massive mechanical construct, made of 16 gears. 
+
+We are going to stay here for a couple of days to conduct some simple experiments. I am going to inform command of this thing, and its location. Because there is no way that this can stay hidden if we do not forcibly avert telescopes from it. 
+
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/2
+
+We are going to be making our way back to Earth due to the recent developments regarding the ship's automated systems. I have attached a report on the current state of the ship below. 
+
+[[div style="color:black;background-color: white; float: center; border: solid 1px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]] 
+[[=]]
+[[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/engineering-logo width="75px"]]
+++ **Engineering** Report: AEDFS Lupin 
+[[/=]]
+-----
+**Attending Engineer:** Jerry Connors
+-----
+**Written Report:** While doing maintenance on the observation deck I discovered that the emergency isolation system is non-functional. Which means if a structural failure occurs in the observation deck which would lead to decompression, then the whole ship will be affected until someone manually activates the isolation system in that section. 
+
+I don't have the parts on hand that would be required to fix this. So I suggest that we avoid debris filled areas. 
+[[/div]]
+
+But before we leave I am ordering that we deploy an observer satellite to orbit UFO-1998-9.
+
+Also, from what I have been hearing, the men have been having some strange dreams. This may sound like an odd detail to record, and I don't quite get why I am doing it. But it's what I was trained to do, so there must be a reason for it. 
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/3
+
+After some further interviews with the men, I have determined that they are having similar dreams. Under normal circumstances, I would disregard that as coincidence. But they, no, we have been dreaming of 16 Gears, like that anomaly we saw.  
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/4
+
+One of the security officers went mad, started raving about "Machina and the Sixteen Gears" Before he collapsed and entered a coma. I have attached the medical report here. 
+
+[[div class="document"]]
+[[=]]
+[[f=image http://rpcsandbox.wdfiles.com/local--files/mrpines-365-008/site008logo2.png width="75px"]]
+++ Medical Report: AEDFS Lupin
+-----
+**Patient:** Agent John Smith
+
+**Attending Doctor:** Dr. Samantha Crow (Authority Medical and Health Care)
+[[/=]]
+-----
+
+**Written Report:** The patient entered a schizophrenic state and began rambling about entity he referred to as "Machina and the Sixteen Gears"and was determined to be in a comatose state. He was brought to the medical bay with mild dehydration. 
+
+**Current Treatment:** Patient will receive an IV, due to the anti-gravity of space we are having to use the "IV pump" to keep it entering his blood stream. 
+[[/div]]
+
+I see why I have been told not to believe in coincidence now. Poor bastard was under the effect of this thing and now he has paid the price. 
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/5
+
+After going through John's belongings we have found his journal. I have decided to attach all relevant entries below. 
+@@@@
+[[div class="page" style="color:black;"]]
+[[size 150%]]
+Today I saw my first anomaly, it was an enormous machine made from 16 gears... A bit underwhelming to be honest. I hear all of this talk of all these amazing things that introduced people to what anomalies are. But I get stuck with 16 boring gears as my first anomaly. 
+@@@@
+I mean... they are mesmerizing to look at from the observation deck. But that's about it. It doesn't do anything, it just stays there always turning. 
+@@@@
+I am not even that new to the Authority... I guess there aren't that many anomalies in space.
+@@@@
+[[/size]]
+[[/div]]
+@@@@
+[[div class="page" style="color:black;"]]
+[[size 150%]]
+I had an odd dream last night. Let me write down what I remembered happened.
+@@@@
+First it was like I woke up, on the observation deck. I was looking at those 16 gears. I was pulled towards them by something, and I was consumed by them. Only to have them chaotically shift and twirl around me. I could see that the 16 gears were made from many smaller mechanical parts. Finally, I saw two black eyes illuminated by their white pupils appear before me, with one eye above the other eye.
+@@@@
+Then I woke up, and that was the end of that. I normally don't record my dreams... but dreaming about the anomaly I just discovered is a pretty large coincidence. 
+@@@@
+[[/size]]
+[[/div]]
+@@@@
+[[div class="page" style="color:black;"]]
+[[size 150%]]
+I had another dream last night, only this one felt... more "real" than when I was awake. I can't really think of another way to describe it. 
+@@@@
+When I fell asleep I found myself in a different land. I looked around, and all I saw was a landscape covered with clockwork. Over the sea of clockworks I saw catwalks upon catwalks. All overlapping in an esoteric, yet beautifully understandable way. 
+@@@@
+I looked up to see infinite darkness only broken up by 15 enormous gears, that are part of the same enormous mechanism. Which probably meant that I was also on a very large gear. I walked around this place for what felt like an eternity of tranquility. Eventually I made my way to a domed room, in the center I saw a mechanical woman sat on top of a mechanical throne. 
+@@@@
+And then I woke up. 
+@@@@
+[[/size]]
+[[/div]]
+@@@@
+[[=]]
++++ {{**[Further Attachments Redacted]**}}
+[[/=]]
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/6
+
+Many of the crew members have become obsessed with cybernetics over the last couple of days. so much so that they have been deconstructing the ship to create them. Even the doctor appears to be affected, as she has been willingly amputating people's limbs so they can be replaced by cybernetics. Because of this I have locked the bridge down, no one in or out. 
+
+In all of my years of service for the Authority, I have never actually had to deal with an emergency before. One would think that operating a nuclear submarine during the Cuban missile crisis would have had some interesting moments. But it didn't.
+
+The only reason that I haven't been affected must be my high cognitive hazard resistance... well... I am probably not immune, but it will take longer to affect me the way it has done with the others. 
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/7
+
+So I have been receiving medical reports for the people getting cybernetics. And it appears that the majority of them are unwilling. I have taken the liberty of attaching the reports below. 
+
+[[div class="document"]]
+[[=]]
+[[f=image http://rpcsandbox.wdfiles.com/local--files/mrpines-365-008/site008logo2.png width="75px"]]
+++ Medical Report: AEDFS Lupin
+-----
+**Patient:** Engineer Jerry Connors
+
+**Attending Doctor:** Dr. Samantha Crow (Authority Medical and Health Care)
+[[/=]]
+-----
+
+**Written Report:** Patient is unable to see the glorious light of our Engineer, and must be upgraded to allow for such. Additionally, he must have the corrupted flesh of his left leg replaced by her blessed metal. 
+
+**Current Treatment:** The patient was restrained and his broken eyeballs were removed. Then we replaced them with functional eyes made from Machina's holy metal. I then proceeded to saw off the patient's left leg, and replace it with one made of metal. Now the patient is able to see the light of our magnificent goddess, and pray upon her. 
+[[/div]]
+`
+[[div class="document"]]
+[[=]]
+[[f=image http://rpcsandbox.wdfiles.com/local--files/mrpines-365-008/site008logo2.png width="75px"]]
+++ Medical Report: AEDFS Lupin
+-----
+**Patient:** Agent Marshall Booth
+
+**Attending Doctor:** Dr. Samantha Crow (Authority Medical and Health Care)
+[[/=]]
+-----
+
+**Written Report:** Patient presented with symptoms of deviation from our goddess's grand plan. This will need to be treated swiftly if they are to remain on course. 
+
+**Current Treatment:** The patient was restrained and their corrupted heart was replaced by a pure one made of divine steel and copper. Unfortunately the patient was unable to survive the procedure. But their spirit had been purified as a result of this operation. 
+[[/div]]
+`
+[[div class="document"]]
+[[=]]
+[[f=image http://rpcsandbox.wdfiles.com/local--files/mrpines-365-008/site008logo2.png width="75px"]]
+++ Medical Report: AEDFS Lupin
+-----
+**Patient:** Agent Zachary Ellis 
+
+**Attending Doctor:** Dr. Samantha Crow (Authority Medical and Health Care)
+[[/=]]
+-----
+
+**Written Report:** Patient presented a case of heresy, and needed to be cured of their belief in other gods. 
+
+**Current Treatment:** The patient was restrained and their mind was reformatted using metal and divine light. This resulted in the patient finishing the operation in a far better state then before it had started.  
+[[/div]]
+`
+[[div class="document"]]
+[[=]]
+[[f=image http://rpcsandbox.wdfiles.com/local--files/mrpines-365-008/site008logo2.png width="75px"]]
+++ Medical Report: AEDFS Lupin
+-----
+**Patient:** Captain Maxwell Stewart
+
+**Attending Doctor:** Dr. Samantha Crow (Authority Medical and Health Care)
+[[/=]]
+-----
+
+**Written Report:** Patient has an extreme case of hesitation in embracing our newfound goddess. This must be rectified by showing him what it means to worship Machina and the Sixteen Gears. 
+
+**Current Treatment:** [N/A]
+[[/div]]
+
+That last one indicates that they know I am holding out in the bridge. Fortunately for me there is enough food here for me to survive until we would be rescued. But I would need to activate the SOS signal first. I can do that from the bridge, so it won't be too much trouble. 
+[[/div]]
+@@@@
+[[div style="color: #00a80e; background: black; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;"]]
+**LOG:**  UFO-1998-9/8
+
+After giving it some more thought, I have come to the conclusion that the rescue crew sent to us will also be infected by whatever is causing the crew act this way. The only way that I can think of to prevent this would be to kill the whole crew. This is far from an ideal solution, but I must prevent this from spreading. 
+
+Normally if the glass was broken, an automatic system would seal off that section of the ship. But that system shorted out while we were near the Sixteen Gears. So breaking the glass would depressurize the entire ship. This would likely kill everyone on board.
+
+I should also label my logs and the feed from the observation satellite as an information hazard, that would restrict the amount of people that could be infected by whatever is causing this.
+
+I say that like this would be an easy task. Considering that the window is a good foot of the best bullet proof glass money can buy, it really won't be easy.... 
+
+-Captain Maxwell Stewart
+[[/div]]
+@@@@
+[[/collapsible]]
+@@@@
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
++++ **Addendum.3:** Administrative Clearance Required.  
+
+[[collapsible show="Administrative Clearance Required" hide="- Close" hideLocation="both"]]
+[[div style="display: inline-block;border:dashed 1px #444444; background: #edd36d;"]] 
+= ##red|**ADMINISTRATIVE CLEARANCE REQUIRED**##
+
+= ##black|The following file requires administrative to access. Unauthorized access will result in penalties ranging from pay cuts, to summary execution.##
+
+= ##black|If you accessed this file by accident, please close this file and report to your facility manager immediately; if you do so you will not be punished.##
+[[/div]]
+-----
+
+> 
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Foreword:**__ The following is an audio recording made by Agent John Smith and was redacted from Captain's log UFO-1998-9/5. 
+
+__**Transcript:**__ "...I saw her again in my dreams. The mechanical woman on top of the mechanical throne descended towards me, "Lift your head up" she instructed me. I looked in the eyes, and I just felt... lesser, as if my body knew that this was a superior being. "I need to show you something" she spoke as her hands grasped my forehead. 
+
+It was only then that I got a good look at her. White plastic filaments emerged from her scalp in like long white hair. She had an infinite amount of arms, but I could only see one of them. Her eyes had white pupils with the rest being black, located in the center of her face with one eye above the other. She had no mouth, but could still speak. 
+
+The room appeared to disintegrate, and it was just me and her in an endless void. I was pulled out to space, I saw the whole of the Earth. She spoke "this is your Earth, is it not?" it began to spin faster and faster. She spoke again, "then you may want to look to the future." I was pulled forward, I saw our sun consume our world. The little blue marble, gone in an instant
+
+She pulled me even further forward, and I watched as all the stars went out, one by one the light vanished until there was only the void. The Goddess pulled me to a world built around a black hole. "Life is very resilient" she said to me, just as the lights went out, "but [http://www.rpc-wiki.net/rpc-579 everything dies eventually.]" 
+
+"But it doesn't have to be this way" she spoke again, "I can show you an alternative." 
+
+I was pulled back to before our world was consumed by our star. And I saw something beautiful. Sixteen gears, much larger than any planet, sprouted from the blue marble. Their clockwork began to spread across the cosmos, every driveshaft, cog, and lever perfectly arranged working in unison. I was pulled further forward, and the clockwork followed, bringing order absolute. The symphony of copper, brass, iron, and nickel spinning together completely filled the void that once was; bringing work ever after.  
+
+Every gear was completely unique, yet utterly the same. Working together to fulfill an unknown purpose that we all knew. The clockwork spoke to me telling me things wonderful, horrible, beautiful, disgusting things. There was nothing out of place, yet everything was different. There were things that made perfect sense yet completely incomprehensible. "Do you like what you see?" the Goddess asked me as we witnessed entropy never more.
+
+But there are those that would oppose the conventions that she has created. When she created the rules, there was one that would always have be true. Everything can be named, and it was from this rule that the rest of reality sprouted. 
+
+Even the 9 suns have to obey this rule of hers. But there is one that doesn't follow this rule. It's nothing and everything, a completely [[[http://www.rpc-wiki.net/rpc-866|Faceless God]]], the final flood that will cleanse it all. We must help the Engineer, keep her functioning, prevent the final flood and bring order absolute.
+[[/div]]
+[[/collapsible]]
+@@@@
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+[[=]]
+<< [[[RPC-003]]] | RPC-004 | [[[RPC-005]]] >>
+[[/=]]
+

@@ -1,0 +1,94 @@
+---
+title: "Protection Rpc Tone"
+tags: ["component"]
+page_id: "827347563"
+site: "rpcauthority"
+slug: "component:protection-rpc-tone"
+revision: 9
+revision_id: "1367510601"
+author: 5258122
+timestamp: 1628547974
+---
+
+[[code]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+
+.heading {
+   position: relative;
+   top: -10px;
+   display: block;
+   margin-left: 3%;
+   font-family: 'Allerta Stencil', sans-serif;
+   font-size: 3.5em;
+   transform: rotate(-1deg);
+}
+
+.type {
+   float: left;
+   margin-right: 7px;
+   font-family: 'Special Elite', cursive;
+   font-size: 1.2em;
+}
+
+.write {
+   display: block;
+   overflow: hidden;
+   vertical-align: middle;
+   border-bottom: solid 1px #333;
+   color: #222;
+   font-family: 'Permanent Marker', cursive;
+   font-size: 1.8em;
+}
+
+.write-p {
+   display: block;
+   overflow: hidden; color: #222;
+   vertical-align: middle;
+   font-family: 'Permanent Marker', cursive;
+   font-size: 1.8em;
+}
+
+.flexcont {
+   display: flex;
+   justify-content: center;
+   flex-direction: row;
+   flex-wrap: wrap;
+   background-color: #eee;
+   color: #333;
+   width: 90%;
+   margin: auto;
+   border: solid 1px #888;
+   box-shadow: inset 0px 0px 10px #888;
+}
+
+.flexdiv {
+   margin: 10px;
+   flex-grow: 0.5;
+   width: 30%;
+}
+[[/module]]
+
+[[div class="flexcont"]]
+[[div style="width: 100%; margin-top: 5px;"]]
+[[div style="float: left; margin-left: 10px;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aprotection-theme/Protection-logo.png style="width: 90px;"]]
+[[/div]]
+[[span class="heading"]]DECLASSIFIED[[/span]]
+[[/div]]
+[[div class="flexdiv"]]
+[[span class="type"]]Name & Rank:[[/span]] [[span class="write"]]Pvt. Sample[[/span]]
+[[span class="type"]]Unit:[[/span]] [[span class="write"]]MST Sample[[/span]]
+[[span class="type"]]Date:[[/span]] [[span class="write"]]00/00/00[[/span]]
+[[/div]]
+[[div class="flexdiv"]]
+[[span class="type"]]Authorized By:[[/span]] [[span class="write"]]Sgt. Sample[[/span]]
+[[span class="type"]]Site:[[/span]] [[span class="write"]]Site-000[[/span]]
+[[span class="type"]]Reason:[[/span]] [[span class="write-p"]]Sample.[[/span]]
+[[/div]]
+[[/div]]
+
+[[/code]]
+
