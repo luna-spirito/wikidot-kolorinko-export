@@ -1,0 +1,336 @@
+---
+title: "MrPines Winter Fragment 6"
+tags: []
+page_id: "592742842"
+site: "rpcauthority"
+slug: "fragment:mrpineswinter-6"
+revision: 1
+revision_id: "635881269"
+author: 2241229
+timestamp: 1548423719
+---
+
+[[=]]
+++ Revision null/null/null
+[[/=]]
+
+@@ @@
+
+[[include :rpcsandbox:mrpines-css-include]]
+@@ @@
+@@ @@
+= [[size 400%]] ... [[/size]]
+@@ @@
+@@ @@
+[[div class="fakeCode"]]
+{{anon@008term97:~$}} {{query: 'incident,injury,dead,coma ++ rpc-365 @@--@@ canton' -sm}}
+
+{{including similar phrases ...}}
+
+{{showing (10) results, extraneous data removed}}
+[[/div]]
+@@ @@
+[[div class="request"]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Marcus Seib
+[[/=]]
+
+**Site Occupation:** Janitorial Staff
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:** 7 meters
+
+**Notes on Discovery:** Collapsed in Medical Wing.
+
+**Additional Notes:** Mentioned visual anomalies shortly before expiring.
+@@ @@
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Celia Davis
+[[/=]]
+
+**Site Occupation:** Medical Staff
+
+**Current Status:** Comatose
+
+**Relative Distance to RPC-365:** 18 meters
+
+**Notes on Discovery:** N/A
+
+**Additional Notes:** N/A
+@@ @@
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Norman Hickman
+[[/=]]
+
+**Site Occupation:** Medical Staff
+
+**Current Status:** Comatose
+
+**Relative Distance to RPC-365:** 16 meters
+
+**Notes on Discovery:** Found collapsed in Break Room 8A.
+
+**Additional Notes:** N/A
+@@ @@
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Javier Cossio
+[[/=]]
+
+**Site Occupation:** Senior Medical Staff
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:** 9 meters
+
+**Notes on Discovery:** Discovered deceased in his home.
+
+**Additional Notes:** A hastily drawn picture of what appears to be a celestial body was found next to his corpse.
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Sascha Cratt
+[[/=]]
+
+**Site Occupation:** Medical Staff
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:** Unknown, assumed less than 10 meters.
+
+**Notes on Discovery:** Collapsed during entry to Site-008.
+
+**Additional Notes:** N/A
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Elias Boothman
+[[/=]]
+
+**Site Occupation:** Maintenance Staff
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:** 5 meters
+
+**Notes on Discovery:** Found at his home.
+
+**Additional Notes:** In a room adjacent to RPC-365 during activation, fixing electrical issues.
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Dana Keir
+[[/=]]
+
+**Site Occupation:** Security Personnel
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:**  9 meters
+
+**Notes on Discovery:** 
+
+**Additional Notes:** Patrolling hallway during RPC-365's activation.
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Linden Harrison
+[[/=]]
+
+**Site Occupation:** Assistant Researcher
+
+**Current Status:** Comatose
+
+**Relative Distance to RPC-365:** 2 meters
+
+**Notes on Discovery:** Collapsed during the study of an unrelated anomaly.
+
+**Additional Notes:** --N/A-- It is currently unknown why Linden was not subjected to a more severe outcome considering his short distance from RPC-365 upon its activation.
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Garret Elliston
+[[/=]]
+
+**Site Occupation:** Research Personnel
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:** 9 meters
+
+**Notes on Discovery:** Found collapsed in a hallway.
+
+**Additional Notes:** N/A
+[[/div]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Caroline Afton
+[[/=]]
+
+**Site Occupation:** Research Personnel
+
+**Current Status:** Deceased
+
+**Relative Distance to RPC-365:** 1 meter
+
+**Notes on Discovery:** Unknown, moved to Medical Wing
+
+**Additional Notes:** Underwent severe mental deterioration in a span of four years following RPC-365's initial activation. 
+@@ @@
+= {{Document has (1) attatched file: cantonlog1.doc}}
+[[/div]]
+-----
+[[/div]]
+@@ @@
+[[div class="fakeCode"]]
+{{anon@008term97:~$}} {{pwd}}
+
+{{/}}
+
+{{anon@008term97:~$}} {{cd /home/s008/files/reports/365misc}}
+
+{{anon@008term97:~/home/s008/files/reports/365misc$}} {{cat cantonlog1.dov}}
+
+{{-bash: cantonlog1.dov: No such file or directory.}}
+
+{{anon@008term97:~/home/s008/files/reports/365misc$}} {{cat cantonlog1.doc}}
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[=]]
+**cantonlog1.doc**
+[[/=]]
+**Interviewed:** Nicholas Canton
+ 
+**Interviewer:** Dr. Emile Nowak
+ 
+**Foreword:** N/A
+
+-----
+**<BEGIN LOG>**
+
+**Emile Nowak:** Evening, Nick.
+
+**Nicholas Canton:** How goes it?
+
+**Emile Nowak:** Bland, usual day. You know how it is.
+
+**Nicholas Canton:** You can say that again.
+
+**Emile Nowak:** I presume you know why you're here.
+
+**Nicholas Canton:** Caroline?
+
+**Emile Nowak:** Mhm.
+
+//Emile takes a drink of coffee.//
+
+**Nicholas Canton:** So do you want a general background of her personality?
+
+**Emile Nowak:** Just a brief summary of the past four years would be good.
+
+**Nicholas Canton:** Honestly, since that event, she hadn't been acting too off. There was the memory, however... Dementia at thirty, that must've been hard.
+
+**Emile Nowak:** Anything more specific?
+
+**Nicholas Canton:** Like?
+
+**Emile Nowak:** Conversations you //didn't// have over email. The uh, ones we have are few and far between.
+
+**Nicholas Canton:** On breaks, she would constantly ramble about space and philosophy, but I mostly tuned that out. I guess I subconsciously tried to push her away. 
+
+**Emile Nowak:** Space and philosophy?
+
+**Nicholas Canton:** Yeah, she would always tell me about the stars she saw when she dreamt and how each one is linked to a person. Something along those lines.
+
+//Emile unlocks his phone and scrolls through his notes.//
+
+**Emile Nowak:** Stars huh? 
+
+//5-second pause.//
+
+**Emile Nowak:** That will be all Nicholas. Thank you for your time.
+
+**<END LOG>**
+
+-----
+[[/div]]
+@@ @@
+[[div class="fakeCode"]]
+{{anon@008term97:~/home/s008/files/reports/365misc$}} ls
+{{365report1.doc}}
+{{365report2.doc}}
+{{365report3.doc}}
+{{365report4.doc}}
+{{365report5.doc}}
+{{365report6.doc}}
+{{365report7.doc}}
+{{365report8.doc}}
+{{365report9.doc}}
+{{365report10.doc}}
+{{365report11.doc}}
+{{cantonlog1.doc}}
+
+{{anon@008term97:~/home/s008/files/reports/365misc$}} {{cat 365report11.doc}}
+[[/div]]
+@@ @@
+[[div class="request"]]
+-----
+[[div class="request rpc"]]
+[[=]]
+++ Nicholas Canton
+[[/=]]
+
+**Site Occupation:** Research Personnel
+
+**Current Status:** Alive
+
+**Relative Distance to RPC-365:** 20 meters
+
+**Notes on Discovery:** N/A
+
+**Additional Notes:** Claims to have been "leeched into a collective conciousness by [RPC-365]." Mentioned stars and memories.
+@@ @@
+[[/div]]
+-----
+[[/div]]
+@@ @@
+[[div class="fakeCode"]]
+{{anon@008term97:~/home/s008/files/reports/365misc$}} {{rm 365report11.doc}}
+
+{{rm: cannot remove '365report11.doc': Permission denied}}
+
+{{anon@008term97:~/home/s008/files/reports/365misc$}} {{sudo rm 365report11.doc}}
+
+{{[sudo] password for anon:}} {{@@*************@@}}
+
+{{Sorry, try again.}}
+
+{{[sudo] password for anon:}} {{@@**************@@}}
+
+{{rm: successfully deleted (1) file}}
+
+{{anon@008term97:~/home/s008/files/reports/365misc$}} {{sudo poweroff}}
+
+{{...}}
+
+[[/div]]
+@@ @@
+

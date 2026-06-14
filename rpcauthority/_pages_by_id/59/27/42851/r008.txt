@@ -1,0 +1,59 @@
+---
+title: "Nothing's ever gonna make me forget her"
+tags: ["newrpc"]
+page_id: "592742851"
+site: "rpcauthority"
+slug: "contest:winterentrymrpines"
+revision: 8
+revision_id: "1516983626"
+author: 5982545
+timestamp: 1703449811
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-365
+|title=	RPC-365
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :rpcsandbox:mrpines-365-008]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+[!--
+[[=]]
+<< [[[RPC-PREV]]] | RPC-NOW | [[[RPC-NEXT]]] >>
+[[/=]]
+--]
+[!-- IMAGE ATTRIBUTION
+Nick's profile picture: CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:Sea_urchins_DSC00657.JPG
+
+RPC-365 image: Public Domain CC0
+https://commons.wikimedia.org/wiki/File:BodPod.jpg
+
+MR Coronal image, modified by me: CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:Glioblastoma_-_MR_coronal_with_contrast.jpg
+
+Default profile picture: Public Domain CC0
+https://svgsilh.com/image/1633249.html
+ --]
+
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:mrpineswinter-1
+http://www.rpc-wiki.net/fragment:mrpineswinter-2
+http://www.rpc-wiki.net/fragment:mrpineswinter-3
+http://www.rpc-wiki.net/fragment:mrpineswinter-4
+http://www.rpc-wiki.net/fragment:mrpineswinter-5
+http://www.rpc-wiki.net/fragment:mrpineswinter-6
+
+and crit:
+
+http://www.rpc-wiki.net/forum/t-9094282/nothing-s-ever-gonna-make-me-forget-her
+--]
+

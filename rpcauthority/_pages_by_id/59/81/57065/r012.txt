@@ -1,0 +1,154 @@
+---
+title: "MrPines Winter 3"
+tags: []
+page_id: "598157065"
+site: "rpcauthority"
+slug: "fragment:mrpineswinter-3-365"
+revision: 12
+revision_id: "704964015"
+author: 2241229
+timestamp: 1553799554
+---
+
+[!-- dont fix the broken title on this page, it looks normal on the main page --]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[module css]]
+
+#header h1 a::before{
+    content: 'NULL';
+    color: #f1f1f1 !important;
+    text-shadow: 2px 2px 4px #222;
+}
+
+#header h2 span::before{
+    content: ' ';
+}
+
+div#container-wrap{
+    background: url(http://www.rpc-wiki.net/local--files/rpc-365/email_header.gif) top left repeat-x;
+}
+
+.fakePageTitle {
+    color: #2766bb;
+    font-size: 200%;
+    font-weight: bold;
+    padding: 0 0 0.25em;
+    margin: 0 0 0.6em;
+    border-bottom: 1px solid #bbb;
+    top: -2.1em;
+    padding-right: 93.2%;
+    position: relative;
+}
+
+#page-title {
+    display: none;
+}
+
+.rateContainer {
+    position: relative !important;
+    top: 8.22em;
+}
+
+[[/module]]
+
+[[span class="fakePageTitle"]]
+???
+[[/span]]
+
+[[=]]
+++ 05/21/2008
+[[/=]]
+
+@@ @@
+
+@@ @@
+@@ @@
+= [[size 400%]] ... [[/size]]
+
+@@ @@
+
+[[div class="document"]]
+[[=]]
+[[span class="emailN"]][[collapsible show="You have (1) new email!" hide=" "]][[/span]]
+[[/=]]
+
+[[<]]
+[[=]]
+++ Hey Caroline
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/urch.png class="profile"]] 
+[[span class="name"]] **Nick Canton** [[/span]] 
+[[span class="email"]] <@@cantonnicholas008@authority.rpc@@> [[/span]]  [[span class="dateR"]] May 21, 2008, 2:16 PM (3 hours ago) [[/span]]
+
+@@ @@
+
+-----
+
+Hey Caroline, this is your new email right? I guess I'll find that out soon.
+
+Anyway, I noticed some of the plants near 46-B are dying and thought I'd remind you because, y'know, it's your little hobby around here. Or... it was? I don't remember you telling me you wouldn't do it anymore, so I'm just gonna assume you still do.
+
+Also, if you don't mind me asking, how are those kids you're taking care of? I don't know if you checked on them recently, but they've been complaining of headaches, so you should probably head over to the medical wing soon.
+
+One more thing: you should talk to the IT guys about getting your old email back to make it less confusing for higher-ups when they need you.
+
+@@ @@
+Nick
+
+-----
+[[=]]
+[[include :scp-sandbox-3:component:collapsible-top show=Send reply|hide=.]]
+[[<]]
+[[=]]
+++ Re: Hey Caroline
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]] 
+[[span class="name"]] **Caroline afton** [[/span]] 
+[[span class="email"]] <@@aftoncaroline3-008@authority.rpc@@> [[/span]]  [[span class="dateR"]] May 22, 2008, 9:26 AM (4 minutes ago) [[/span]]
+
+@@ @@
+
+-----
+
+Hey Nick, sorry about the new email. I've had some trouble with my memory the past month, but I'm sure it's nothing.
+
+I've been meaning to water those plants and stop by to check on the kids in the medical wing, but I always remember last minute. Thanks for reminding me though, I'll have to do those today.
+
+@@ @@
+Caroline
+
+-----
+[[/<]]
+[[include :scp-sandbox-3:component:collapsible-bottom]]
+[[/=]]
+
+[[/collapsible]]
+[[/<]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="revL"]]
+
+
+**{{[http://www.rpc-wiki.net/rpc-365/offset/1 ❮❮❮ Return to revision 04/05/2008]}}**
+
+[[/div]]
+
+[[div class="revR"]]
+[[>]]
+**{{[http://www.rpc-wiki.net/rpc-365/offset/3 View revision 09/14/2012 ❯❯❯]}}**
+[[/>]]
+[[/div]]
+
+~~~~
+

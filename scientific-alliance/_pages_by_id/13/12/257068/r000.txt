@@ -1,0 +1,25 @@
+---
+title: "Поиск по тегам"
+tags: []
+page_id: "1312257068"
+site: "scientific-alliance"
+slug: "system:page-tags"
+revision: 0
+revision_id: "1366779845"
+author: 754405
+timestamp: 1625001759
+---
+
+[[div style="float: right; text-transform: capitalize; line-height: 30px; margin: -5px 140px 0 0; width: 0"]]
+[[module TagCloud minFontSize="150%" maxFontSize="150%" minColor="201,202,185" maxColor="0,0,0"]]
+[[/div]]
+
+[[module PagesByTag]]
+
+[[module CSS]]
+#page-title {display: block}
+h2 {visibility: hidden; font-family: Arial; padding: 2px 0 8px; margin: 0}
+h2 em {float: left; visibility: visible; font-style: normal; text-transform: capitalize}
+.pages-list {line-height: 18px; margin-top: 5px}
+[[/module]]
+
