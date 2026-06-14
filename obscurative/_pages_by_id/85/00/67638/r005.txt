@@ -1,0 +1,90 @@
+---
+title: "Alandaris"
+tags: []
+page_id: "850067638"
+site: "obscurative"
+slug: "draft:alandaris"
+revision: 5
+revision_id: "896087240"
+author: 3146689
+timestamp: 1564563585
+---
+
+> Обычный цитатоблок
+@@
+@@
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#f7f7f7; float:top; width:95%; padding:10px"]]
+
+Необычный цитатоблок
+
+[[/div]]
+@@
+@@
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#f7f7f7; float:top; width:25%; padding:10px"]]
+
+Сжатый цитатоблок
+
+[[/div]]
+@@
+@@
+
+[[collapsible]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background:#9D93E5; float:top; width:90%; padding:10px"]]
+
+Цветной цитатоблок
+
+[[/div]]
+
+[[/collapsible]]
+
+
+[[tabview]]
+
+[[tab 1]]
+
++ Текст
+
+[[/tab]]
+
+[[tab 2]]
+
+++ Еще текст
+
+[[/tab]]
+
+[[tab 3]]
+
++++ И еще текст
+
+[[/tab]]
+
+[[/tabview]]
+
+[[module css]]
+#page-content .collapsible-block {  
+  max-width: 100%;
+background-color: #FFFFFF;
+text-color: black;
+   border-color: #878787;
+    border: solid 1px #878787;
+padding: 5px;
+}
+.collapsible-block-content p {
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+.collapsible-block-content{
+text-align: left;
+}
+
+.collapsible-block-folded, .collapsible-block-unfolded{
+text-align: center;
+text-color: black;
+}
+[[/module]]
+

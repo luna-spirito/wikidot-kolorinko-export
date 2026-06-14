@@ -1,0 +1,16 @@
+---
+title: "Spoiler"
+tags: []
+page_id: "852933854"
+site: "obscurative"
+slug: "include:spoiler"
+revision: 0
+revision_id: "898973072"
+author: 4518363
+timestamp: 1564766912
+---
+
+[[collapsible show="[+ {$n}]" hide="[- {$n}]" hideLocation="both"]]
+{$t}
+[[/collapsible]]
+

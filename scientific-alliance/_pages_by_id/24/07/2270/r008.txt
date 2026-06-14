@@ -1,0 +1,114 @@
+---
+title: "Блок классификации"
+tags: []
+page_id: "24072270"
+site: "scientific-alliance"
+slug: "class"
+revision: 8
+revision_id: "1544370980"
+author: 754405
+timestamp: 1780260324
+---
+
+[[div class="roll" style="height: 16px"]]
+
+[[div class="show1" style="right: 77px"]]
+[[span class="{$P} link"]]**[[[{$P}|]]]**[[/span]][[span class="{$P} lock"]]**[НЕДОСТУПНО]**[[/span]][[/div]]
+[[div class="show2"]]
+[[span class="{$P} link"]]**[[[{$P}|]]]**[[/span]][[span class="{$P} lock"]]**[НЕДОСТУПНО]**[[/span]][[/div]]
+
+[[div class="show1" style="right: 31px"]]
+[[span class="{$N} link"]]**[[[{$N}|]]]**[[/span]][[span class="{$N} lock"]]**[НЕДОСТУПНО]**[[/span]][[/div]]
+[[div class="show2"]]
+[[span class="{$N} link"]]**[[[{$N}|]]]**[[/span]][[span class="{$N} lock"]]**[НЕДОСТУПНО]**[[/span]][[/div]]
+
+[[/div]]
+
+[[div class="{$img} rimg"]]
+[[image {$img} style={$style}]]
+[[span]]{$text}[[/span]][[/div]]
+
+[[div class="{$img} meme"]]
+[[include meme-check |0={$text}]]
+[[/div]]
+
+[[div class="{$warn1}"]]
+[[include caution-{$warn1}]]
+[[/div]]
+
+[[div class="{$warn2}"]]
+[[include caution-{$warn2}]]
+[[/div]]
+
+[[div class="{$warn3}"]]
+[[include caution-{$warn3}]]
+[[/div]]
+
+[[div class="{$warn4}"]]
+[[include caution-{$warn4}]]
+[[/div]]
+
+[[table class="show3"]][[row]][[cell style="text-align: right; padding-right: 5px"]]
+**Категория:
+Опасность:
+Изоляция:**
+[[/cell]][[cell]]
+{$1}
+{$2}
+{$3}
+[[/cell]][[/row]][[/table]]
+
+[[table class="show4"]]
+
+[[row]][[cell]]
+[[size 125%]]**Категория**[[/size]]
+
+[[image items/I.gif]] **Индиго** - часть базовой структуры реальности, например аксиматическое уравнение.
+[[image items/A.gif]] **Аргус** - метаптический, существует сразу на нескольких ярусах как единая система.
+[[image items/E.gif]] **Энигма** - не требует особого метаптоза, обычно чисто физический или меметический.
+[[image items/O.gif]] **Отион** - установить природу объекта для назначения категории пока ещё не удалось.
+[[/cell]][[/row]]
+
+[[row]][[cell]]
+[[size 125%]]**Опасность**[[/size]]
+
+0 [[span style="margin-left: 3px"]]**Минимальная** - аномалия совершенно безвредна и едва ли способна быть оружием.[[/span]]
+1 [[span style="margin-left: 3px"]]**Низкая** - при определённых условиях свойства объекта могут причинить явный вред.[[/span]]
+2 [[span style="margin-left: 3px"]]**Средняя** - подвергнуться нежелательному эффекту можно даже вдали от источника.[[/span]]
+3 [[span style="margin-left: 3px"]]**Высокая** - объект может легко вызвать локальные разрушения и гибель сотрудников.[[/span]]
+4 [[span style="margin-left: 3px"]]**Чрезвычайная** - если аномалию не сдерживать, произойдёт глобальная катастрофа.[[/span]]
+[[/cell]][[/row]]
+
+[[row]][[cell]]
+[[size 125%]]**Изоляция**[[/size]]
+
+4 [[span style="margin-left: 3px"]]**Полная** - абсолютно все проявления объекта ограничены областью его содержания.[[/span]]
+3 [[span style="margin-left: 3px"]]**Приемлемая** - риск побега или воздействия на внешний мир невелик, но постоянен.[[/span]]
+2 [[span style="margin-left: 3px"]]**Ограниченная** - сдерживаются только некоторые свойства или экземпляры объекта.[[/span]]
+1 [[span style="margin-left: 3px"]]**Невозможна** - ограничить аномалию не могут никакие доступные Альянсу средства.[[/span]]
+0 [[span style="margin-left: 3px"]]**Не нужна** - объект является деталью самого мира или просто достаточно безопасен.[[/span]]
+[[/cell]][[/row]]
+
+[[row]][[cell style="padding-top: 10px"]]В такой системе нулевой класс изоляции не сочетают с третьим и четвёртым опасности.[[/cell]][[/row]]
+
+[[/table]]
+
+[[module CSS]]
+.link, .n.lock {display: block}
+.lock, .n.link {display: none}
+.rimg img {margin-bottom: 1px; width: 300px}
+.roll .show1 {position: absolute; top: 159px; height: 10px}
+.roll .show1 strong:hover {outline-color: #555; background: #C9CAB9}
+.roll .show1 strong {outline: solid 1px #AAA; background: #EEE; font-size: 0; line-height: 0; padding: 10px 0}
+.roll .show1 a, .show1 .n.lock strong {padding: 10px 20px}
+.roll .show2 {position: absolute; top: 150px; right: 130px; text-align: right}
+.show3 {line-height: 18px; padding: 6px; margin: -25px 0 -9px -6px}
+.show3:hover {position: relative; z-index: 1; border: solid 1px #555; background: #F1F2E1; padding: 5px}
+.show3:hover + .show4 {visibility: visible}
+.show4 {position: absolute; border-collapse: collapse; visibility: hidden; margin: 8px -6px}
+.show4 td {border: solid 1px #555; background: #F1F2E1; line-height: 18px; padding: 0 10px 10px}
+.meme .rimg {margin-top: 15px !important}
+.particle {margin-top: 15px}
+.particle .rimg {margin-top: -44px}
+[[/module]]
+
