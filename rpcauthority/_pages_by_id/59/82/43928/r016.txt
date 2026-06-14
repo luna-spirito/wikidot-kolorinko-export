@@ -1,0 +1,85 @@
+---
+title: "Staff Guide"
+tags: []
+page_id: "598243928"
+site: "rpcauthority"
+slug: "_staff-guide"
+revision: 16
+revision_id: "1525708863"
+author: 5982545
+timestamp: 1731278441
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+
+[[/module]]
+
+[[div style="font-weight: 550; text-align: center;"]]
+
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Staff Guide
+[[/div]]
+
+------
+[[/div]]
+
+[[div class="content-panel"]]
+
+++ Site Activity
+* Punish all rules fairly and equally. 
+* Featured articles should be changed every other month. 
+* Accepted and denied applications are to be saved and a copy placed in #application-log. Crosscheck before you accept. Denied applications are to be told why they have been denied. These messages must be sent in PM's, the automatic decline does not work.
+
+----
+
+++ Tips
+* Adhere to all of the site and Discord rules. You are an example to the community and your behavior reflects upon the community, the rest of the staff team and the site itself. You are held to higher standards than others.
+* Any issues with other staff or situations need to be brought up in a report or to the person in question; bringing problems up in general chats or to others doesn’t accomplish anything but bad blood.
+* If you’re getting angry at a user, another staff member, or a situation, just walk away. Just taking a break is so much easier and looks a lot better than losing your cool.
+* If you feel like your suggestion is being drowned out, don’t be afraid to get annoying. Don’t ping everyone but do feel free to bring it up again (when appropriate).
+*  Do your best to get to know others on staff a little. You don’t have to like them but knowing who they are and how they deal with stress can only be helpful for difficult situations.
+* Your ideas/concepts are just as important as anyone else’s. Just because you’re not on lore team doesn’t mean you shouldn’t voice an opinion.
+* Treat all members equally. We have members from many different backgrounds and life experiences.
+
+----
+
+++ Procedures 
+[[# coldpost-deletion]] **Coldpost Deletion**
+Coldposts will be deleted without warning. Take a copy and message the user explaining why the post was deleted. Use [[code]] (article) [[/code]] and send a copy.
+
+[[# deletion-threshold]] **Deletion Threshold**
+Deletion threshold is under 2.7 stars after 6 votes. Check to make sure that none of the votes are from raiders. If any are (and they still have 6 votes otherwise), calculate and see the right rating. Post the [http://rpcsandbox.wikidot.com/timer-gen timer] and come back in 24 hours. Take a copy and message the user explaining why the post was deleted. Use [[code]] (article) [[/code]] and send a copy. Send any useful discussion posts from the discussion page as well in order to help the user improve.
+
+Before deleting, check the article's backlinks ("Options" -> "Backlinks") and clean up lingering references. In the case of an RPC article, remove it from its respective Archive and Site pages if applicable.
+
+Also check the following conditions for page archival:
+* If a page in the process of deletion is significantly backlinked on or referenced by another page, archival should be considered.
+* Pages with badges should be archived by default.
+* [[*user Ashtor3th]]'s pages have a special deletion exemption. If one meets the threshold, it should be archived.
+[[# badge-guide]] **Badge Guide**
+[[[*badge-guide|See here]]]
+
+[[# draft-thread-archival]] **Draft Thread Archival**
+Move threads from [/forum/c-4288628/drafts drafts] to [/forum/c-4399690/archived-drafts archived drafts] when:
+* The page is uploaded to the site;
+* The author announces that they have abandoned the draft; or
+* 100 days have passed since the last reply.
+
+[[# staff-punishment]] **Staff Punishment**
+If a staff member is found to have acted in misconduct they may be punished on a case by case basis. Staff members may have roles and responsibilities taken away or undergo a probationary period.
+
+[[# site-news]] **Site News**
+To make a news update, [/forum:new-thread/c/4269934 open a thread in the Announcements forum]. Wrap the excerpt that you want to show on the front page in a div with the "frontpage-show" class:
+> @@[[div class="frontpage-show"]]@@
+> Front page content.
+> @@[[/div]]@@
+Try to keep the featured excerpt short and sweet, 1-3 sentences max. You can use the "hidden area" outside to provide extra information that an interested reader would like to know.
+
+If you do not specify an excerpt, the first paragraph will be used, but this is fallback behavior that might not render properly on older browsers.
+
+[[/div]]
+

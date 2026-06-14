@@ -1,0 +1,78 @@
+---
+title: "_docs Test"
+tags: []
+page_id: "598176375"
+site: "rpcauthority"
+slug: "_docs-test"
+revision: 5
+revision_id: "641451984"
+author: 3646714
+timestamp: 1549141407
+---
+
+[[tabview]]
+[[tab Operations]]
+
+**Foreword:** Operations are essential to the continued functions of the Authority.
+To both keep an official record and to learn from past mistakes, all known operations are recorded here.
+
+The template can be found **[[[formatting-guide|Here]]]**
+
+To add a new entry, input the Operation's name and the Operation's Codename (ex. Operation Bluebeam) and hit create: 
+[[module NewPage order="rating desc" tags="operation"]]
+
+------
+
+[[module ListPages tags="operation" order="rating desc" perPage="10" ]]
+**%%linked_title%%** by %%author%% %%date%%
+
+**Rating:** %%rating%%
+
+%%preview%%
+
+
+[[/module]]
+
+[[/tab]]
+[[tab Incident Reports]]
+
+**Foreword:** Operations are essential to the continued functions of the Authority.
+To both keep an official record and to learn from past mistakes, all known operations are recorded here.
+
+The template can be found **[[[formatting-guide|Here]]]**
+
+To add a new entry, input the Operation's name and the Operation's Codename (ex. Operation Bluebeam) and hit create: 
+[[module NewPage order="rating desc" tags="operation"]]
+
+------
+
+[[module ListPages tags="incident-report" order="rating desc" perPage="10" ]]
+**%%linked_title%%** by %%author%% %%date%%
+
+**Rating:** %%rating%%
+
+%%preview%%
+[[/module]]
+[[/tab]]
+[[tab GOI Documentations ]]
+
+**Foreword:** Operations are essential to the continued functions of the Authority.
+To both keep an official record and to learn from past mistakes, all known operations are recorded here.
+
+The template can be found **[[[formatting-guide|Here]]]**
+
+To add a new entry, input the Operation's name and the Operation's Codename (ex. Operation Bluebeam) and hit create: 
+[[module NewPage order="rating desc" tags="operation"]]
+
+------
+
+[[module ListPages tags="goi-doc" order="rating desc" perPage="10" ]]
+**%%linked_title%%** by %%author%% %%date%%
+
+**Rating:** %%rating%%
+
+%%preview%%
+[[/module]]
+[[/tab]]
+[[/tabview]]
+

@@ -1,0 +1,47 @@
+---
+title: "_bottom Text"
+tags: []
+page_id: "598241939"
+site: "rpcauthority"
+slug: "_bottom-text"
+revision: 1
+revision_id: "641556573"
+author: 3118961
+timestamp: 1549409948
+---
+
+[[module css]]
+#page-options-bottom{
+    margin-top: 1em;
+}
+
+#page-options-bottom a,
+.form-actions a,
+.action-area-close,
+.action-area-close:hover{
+    background-color: #35b !important;
+    color: #f1f1f1 !important;
+    padding: 8px 7px !important;
+}
+
+.form-actions{
+    margin-top: 1.3em;
+}
+
+#rename-move-button,
+#delete-button{
+    top: 1.5em;
+    position: relative;
+}
+
+#page-info {
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #36a;
+}
+
+#action-area {
+    margin-top: 2.3em;
+}
+[[/module]]
+

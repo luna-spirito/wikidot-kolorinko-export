@@ -1,0 +1,117 @@
+---
+title: "Site-008 Theme"
+tags: ["theme"]
+page_id: "598238988"
+site: "rpcauthority"
+slug: "component:site-008-theme"
+revision: 4
+revision_id: "683458991"
+author: 2241229
+timestamp: 1553020783
+---
+
+[[module css]]
+@import url('/component:site-008-theme/code/1');
+[[/module]]
+
+[[code type="css"]]
+
+#header h2 span{
+    color: transparent;
+    text-shadow: none;
+}
+
+#header h2 span::before{
+    content: 'Non sibi sed omnibus';
+    color: #f1f1f1;
+    text-shadow: 1px 2px 4px #222;
+    font-style: italic;
+}
+
+#header h1 a{
+    color: transparent;
+    text-shadow: none;
+}
+
+#header h1 a::before{
+    content: 'Site-008';
+    color: #f1f1f1 !important;
+    text-shadow: 2px 2px 4px #222;
+}
+
+div#container-wrap{
+    background: url(http://rpcsandbox.wikidot.com/local--files/mrpines-365-008/site008header2.png) top left repeat-x;
+}
+
+#top-bar{
+    padding-bottom: 10px; !important
+}
+
+.top-bar ul li a{
+    position: relative !important;
+    transition: all 0.07s ease-in-out;
+    display: flex !important;
+}
+
+.sfhover a{
+    background: #252525 !important;
+    color: #f1f1f1 !important;
+    border-color: transparent !important;
+}
+
+.top-bar ul li a:hover {
+    background: #2566dd !important;
+}
+
+#main-content{
+    border: none;
+}
+
+#side-bar .menu-item > a:hover {
+    background: #2566dd !important;
+}
+
+#side-bar .heading{
+    border-color: #4f92ff;
+    margin-left: -6px;
+}
+
+#header .search-query,
+#header .button{
+    background: #4c83e8 !important;
+    color: #f1f1f1 !important;
+    border-color: #f1f1f1 !important;
+    transition: all 0.07s ease-in-out !important;
+}
+
+#header .search-query:hover,
+#header .button:hover{
+    background: #3868c0 !important;
+}
+
+#login-status .printuser {
+    color: #f1f1f1;
+}
+
+#side-bar .heading {
+  text-decoration: none !important;
+}
+
+a{
+    color: #3374ea;
+}
+
+a:hover{
+    color: #254f9e;
+}
+
+#header {
+    background: url(http://rpcsandbox.wikidot.com/local--files/mrpines-365-008/site008logo2.png) 5px 22px no-repeat;
+}
+
+#top-bar li ul {
+    border: none !important;
+}
+
+[[/code]]
+

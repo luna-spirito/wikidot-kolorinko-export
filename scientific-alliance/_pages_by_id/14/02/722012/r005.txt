@@ -1,0 +1,158 @@
+---
+title: "Предварительная схема ауры 032"
+tags: []
+page_id: "1402722012"
+site: "scientific-alliance"
+slug: "test-032-alphischeme"
+revision: 5
+revision_id: "1460799865"
+author: 6800964
+timestamp: 1651586463
+---
+
+[[module CSS]]
+
+.base
+{
+  /*Кароче, это чтобы дерьмо не расплывалось. Я про блоки схемы.*/
+  position: relative;
+  /*background-color: yellow; - чтобы видеть, где он.*/
+}
+
+.block
+{
+  border: 2px solid #000;
+  width: 120px;
+  position: absolute;
+  text-align: center;
+}
+.block:hover
+{
+  border: 2px solid #555;
+  color: red;
+}
+.block:hover::after
+{
+  content: attr(data-title);
+  position: absolute;
+  z-index: 1;
+  padding: 5px 10px;
+  border: 2px solid #000;
+  background-color: white;
+  color: #555;
+}
+
+.hor
+{
+  height: 0px;
+  border-bottom: 2px solid #000;
+  position: absolute;
+}
+.ver
+{
+  width: 0px;
+  border-left: 2px solid #000;
+  position: absolute;
+}
+.arrow
+{
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-top: 2px solid #000;
+  border-right: 2px solid #000;
+}
+
+[[/module]]
+
+[[div class="base" style="height: 360px"]]
+
+[[div class="block" style="left: 280px; top: 0px" data-title="Различные настройки ауры, не представляющие интереса"]]
+Мелкие корректировки ауры
+[[/div]]
+
+[[div class="block" style="left: 0px; top: 60px" data-title="Изменение твёрдости"]]
+Изменение твёрдости
+[[/div]]
+
+[[div class="block" style="left: 140px; top: 60px" data-title="Обнаружение углублений и измерение их параметров"]]
+Регистрация прикосновений
+[[/div]]
+
+[[div class="ver" style="top: 45px; left: 200px; height: 16px"]]
+[[/div]]
+[[div class="arrow" style="top: 46px; left: 197px; transform: rotate(-45deg)"]]
+[[/div]]
+
+[[div class="ver" style="top: 120px; left: 200px; height: 20px"]]
+[[/div]]
+[[div class="arrow" style="top: 132px; left: 197px; transform: rotate(135deg);"]]
+[[/div]]
+
+[[div class="hor" style="top: 90px; left: 122px; width: 18px"]]
+[[/div]]
+[[div class="arrow" style="top: 87px; left: 124px; transform: rotate(225deg)"]]
+[[/div]]
+
+[[div class="block" style="left: 140px; top: 280px" data-title="Цвета: жемчужный, красный и синий"]]
+Изменение цвета
+[[/div]]
+
+[[div class="block" style="left: 140px; top: 140px" data-title="Настройка позволяет веществу «поглощать» тела"]]
+Изменение текучести
+[[/div]]
+
+[[div class="ver" style="top: 200px; left: 200px; height: 20px"]]
+[[/div]]
+[[div class="arrow" style="top: 212px; left: 197px; transform: rotate(135deg);"]]
+[[/div]]
+
+[[div class="hor" style="top: 160px; left: 122px; width: 18px"]]
+[[/div]]
+[[div class="arrow" style="top: 157px; left: 124px; transform: rotate(225deg)"]]
+[[/div]]
+[[div class="arrow" style="top: 157px; left: 132px; transform: rotate(45deg)"]]
+[[/div]]
+
+[[div class="hor" style="top: 160px; left: 262px; width: 18px"]]
+[[/div]]
+[[div class="arrow" style="top: 157px; left: 272px; transform: rotate(45deg)"]]
+[[/div]]
+
+[[div class="block" style="left: 140px; top: 0px"  data-title="Цель и алгоритм получения значения массы неизвестны"]]
+Изменение массы
+[[/div]]
+
+[[div class="block" style="left: 0px; top: 0px" data-title="[НЕДОСТУПНО]"]]
+[НЕДОСТУПНО]
+[[/div]]
+
+[[div class="hor" style="top: 12px; left: 122px; width: 18px"]]
+[[/div]]
+[[div class="hor" style="top: 32px; left: 122px; width: 18px"]]
+[[/div]]
+[[div class="arrow" style="top: 9px; left: 132px; transform: rotate(45deg)"]]
+[[/div]]
+[[div class="arrow" style="top: 29px; left: 124px; transform: rotate(225deg)"]]
+[[/div]]
+
+[[div class="block" style="left: 0px; top: 140px" data-title="[НЕДОСТУПНО]"]]
+[НЕДОСТУПНО]
+[[/div]]
+
+[[div class="block" style="left: 280px; top: 140px" data-title="Необходима для создания невидимости"]]
+Управление фотонами
+[[/div]]
+
+[[div class="block" style="left: 140px; top: 220px" data-title="[НЕДОСТУПНО]"]]
+[НЕДОСТУПНО]
+[[/div]]
+
+[[div class="ver" style="top: 265px; left: 200px; height: 15px"]]
+[[/div]]
+[[div class="arrow" style="top: 272px; left: 197px; transform: rotate(135deg);"]]
+[[/div]]
+
+[[/div]]
+[!--Хотел сделать, чтобы блоки различались по цвету, в зависимости от изученности, но хз, как сделать, чтоб красиво--]
+

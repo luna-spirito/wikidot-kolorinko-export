@@ -1,0 +1,130 @@
+---
+title: "Theme Directory"
+tags: []
+page_id: "598239044"
+site: "rpcauthority"
+slug: "_theme-directory"
+revision: 13
+revision_id: "1033664716"
+author: 5330965
+timestamp: 1578085045
+---
+
++ How To Import Themes
+
+[[code]]
+[[module css]]
+@import url(put theme URL here);
+[[/module]]
+[[/code]]
+
+or
+
+[[code]]
+[[include (insert component here)]]
+[[/code]]
+
+[[[http://www.rpc-wiki.net/_theme-testpage|Theme Testing Page]]]
+
+------
+
++ Primary Themes
+
+++ Main Themes
+
+http://www.rpc-wiki.net/component:theme
+http://www.rpc-wiki.net/dark-theme
+http://www.rpc-wiki.net/component:dark-theme-2
+http://www.rpc-wiki.net/component:dark-theme-2-b
+
+++ Research Division Themes
+
+http://www.rpc-wiki.net/component:research-theme
+http://www.rpc-wiki.net/component:research-theme-b
+
+++ Protection Division Themes
+
+http://www.rpc-wiki.net/component:protection-theme
+
+++ Containment Division Themes
+
+http://www.rpc-wiki.net/component:containment-theme
+
+++ Administrative Division Themes
+
+http://www.rpc-wiki.net/component:administration-theme
+http://www.rpc-wiki.net/component:financial-theme
+
+------
+
++ EOI Themes
+
+++ Amazing Co Themes
+
+http://www.rpc-wiki.net/component:amazing-theme
+http://www.rpc-wiki.net/component:amazingco-theme
+
+++ GEAR Themes
+
+http://www.rpc-wiki.net/component:gear-theme
+
+++ Children Of Nihil Themes
+
+http://www.rpc-wiki.net/component:nihil-theme
+
+++ AEP Themes
+
+http://www.rpc-wiki.net/component:aep-theme
+
+++ Project Blue Book Themes
+
+http://www.rpc-wiki.net/component:bluebook-theme
+
+++ PCAAO Themes
+
+http://www.rpc-wiki.net/component:pcaao-theme
+
+++ Sons of Yggdrasil Themes
+
+http://rpcsandbox.wikidot.com/component:sons-theme
+
+------
+
++ Site Themes
+
+++ Site-008
+
+http://www.rpc-wiki.net/component:site-008-theme 
+
+------
+
++ Contest Themes
+
+++ Winter Contest
+
+http://www.rpc-wiki.net/component:winter-theme
+
+++ Halloween Contest
+
+http://www.rpc-wiki.net/halloween-theme
+
+------
+
++ April Fools Themes
+
+++ April Fools 2019 Theme
+
+http://www.rpc-wiki.net/component:aprilfools2019-theme
+
+------
+
++ Misc Themes
+
+++ New Dawn Initiative Theme
+
+http://www.rpc-wiki.net/component:ndi-theme
+
+++ BlackSite Theme
+
+http://www.rpc-wiki.net/blacksite-theme
+
