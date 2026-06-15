@@ -1,0 +1,268 @@
+---
+title: "Fuerzas Especiales Moviles"
+tags: ["renovacion-edc"]
+page_id: "1305054470"
+site: "agiat"
+slug: "help:fuerzas-especiales-moviles"
+revision: 118
+revision_id: "1541836769"
+author: 1765227
+timestamp: 1770511073
+---
+
+[[tabview]]
+
+[[tab Introducción]]
+
+[[=image http://filedmns.wikidot.com/local--files/archivos/FuerzasEspeciales.png width="350"]]
+[[==]]
+Las unidades conocidas como Fuerzas Especiales Móviles son pelotones militarizados de individuos que se encargan de facilitar las labores de la AGIAT al lidiar con amenazas fuera de las Bases y de vez en cuando dentro de ellas. Algunas son creadas y mantenidas en funciones de manera indefinida, interviniendo en el control de más de un OTS o grupo de interés. Incluso en casos raros, más de una FEM contribuye en la contención y/o manejo de un OTS.
+
+Otras, en cambio se forman de manera situacional y tan pronto se dejen de necesitar son disueltas.
+Por último existen aquellas que son formadas exclusivamente para un único propósito, como el tener bajo control un OTS mientras este siga representando un riesgo para las personas.
+
+¿Cuál FEM utilizar? ¿Debo crear una nueva? ¿Qué características debe tener? Mientras siga los lineamientos aquí planteados, las respuestas dependen de tí como autor.
+
+Pero si aún así tienes dudas, consulta con otros miembros y busca orientación de parte de moderadores y administradores .
+[[/==]]
+
+[[/tab]]
+
+[[tab Categorías]]
+------
+[[table]]
+[[row]]
+[[cell style="border: 1px solid transparent" colspan="2"]]
+[[image http://galeria-random.wikidot.com/local--files/iniciogaleria/RookAGIAT.png]]
+[[/cell]]
+[[cell style="border: 1px solid transparent" colspan="8"]]
+[[==]]
+**Bastión:** Esta categoría se refiere a las Unidades FEM que tienen la tarea de proteger, orientar y defender a la población civil de las entidades, objetos o fenómenos que suponen un riesgo directo para ellas.
+[[/==]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid transparent" colspan="2"]]
+[[image http://galeria-random.wikidot.com/local--files/iniciogaleria/KnightAGIAT.png]]
+[[/cell]]
+[[cell style="border: 1px solid transparent" colspan="8"]]
+[[==]]
+**Caballero:** De esta manera se nombra a aquellas unidades que tienen como objetivo la aniquilación, supresión o terminación de cualquier amenaza o agresión directa de manera rápida y eficiente.
+[[/==]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid transparent" colspan="2"]]
+[[image http://galeria-random.wikidot.com/local--files/iniciogaleria/BishopAGIAT.png]]
+[[/cell]]
+[[cell style="border: 1px solid transparent" colspan="8"]]
+[[==]]
+**Alfil:** Se designa de esta forma a las Unidades FEM que se encargan de la custodia, recuperación, obtención y transporte de objetos y entidades por motivos estratégicos, como lo sería el llevarlo a una base o devolverlo a su lugar de origen.
+[[/==]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid transparent" colspan="2"]]
+[[image http://galeria-random.wikidot.com/local--files/iniciogaleria/QueenAGIAT.png]]
+[[/cell]]
+[[cell style="border: 1px solid transparent" colspan="8"]]
+[[==]]
+**Dama:** Las Unidades "Dama" ejercen tareas de espionaje y/o sabotaje de misiones o proyectos de gobiernos o grupos de interés que puedan poner en peligro a las personas. Esto incluye el despliegue de agentes dobles, topos y el filtrado deliberado de información falsa.
+[[/==]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid transparent" colspan="2"]]
+[[image http://galeria-random.wikidot.com/local--files/iniciogaleria/KingAGIAT.png]]
+[[/cell]]
+[[cell style="border: 1px solid transparent" colspan="8"]]
+[[==]]
+**Rey:** Se denomina así a unidades FEM de élite encargadas de realizar operaciones dentro de la Agencia misma, para suprimir cualquier brote de corrupción o agentes infiltrados de otras organizaciones. Actúan de manera sigilosa, siendo básicamente un brazo armado de Asuntos Internos.
+[[/==]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+-------
+
+[[collapsible show=" " hide="ACCESO NO AUTORIZADO. EJECUTANDO PURGA."]]
+[[table]]
+[[row]]
+[[cell style="border: 1px solid transparent" colspan="2"]]
+[[image http://galeria-random.wikidot.com/local--files/iniciogaleria/PawnAGIAT.png]]
+[[/cell]]
+[[cell style="border: 1px solid transparent" colspan="8"]]
+[[==]]
+**Peón:** "Peón" no figura propiamente entre las categorías de fuerzas especiales móviles. Son unidades formadas y disueltas de manera situacional siendo conformadas por elementos bajo custodia de grupos de interés, prisioneros y con toda clase de personal poco ortodoxo.
+Si bien la fidelidad a AGIAT no está plenamente asegurada, se les han ofrecido generosos tratos debido a sus habilidades y conocimientos que se prestan como un valioso recurso para una serie de circunstancias específicas.
+Las acciones que realizan nunca se registran de manera oficial para AGIAT y una vez en operación la Agencia negará cualquier nexo con ellos si son atrapados o eliminados por otras organizaciones.
+[[/==]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/collapsible]]
+
+[[/tab]]
+
+
+[[tab Nomenclaturas]]
+
+La nomenclatura estándar para una Fuerza Especial Móvil es FEM+[Categoría]-[Número] "[Nombre Clave o Apodo]". Por ejemplo: //FEM Caballero-23 "Segadores Lúgrubes"//.
+
+Los integrantes de una Unidad se identifican mediante el alfabeto radiofónico/militar y un número. La organización suele variar por motivos tácticos y estratégicos de una FEM a otra, pero por lo general, el integrante designado Alfa-1 es el comandante de todo el destacamento en cuestión. Otros integrantes numerados con 1 igualmente cuenta con una posición de liderazgo en sus respectivos escuadrones.
+
+Cuando más de una FEM está involucrada en un suceso, los activos en la operación se denominan en los registros con la inicial de la categoría y el número, más la denominación dentro de su equipo. Por ejemplo:
+
+[[=]]
+//C23 Tango 13//.
+[[/=]]
+
+Esto nos indica que es pertenece a la FEM Caballero-23 "Segadores Lúgubres" y que forma parte de escuadrón Tango dentro de este, siendo el integrante número 13.
+
+Si no hay más FEMs interviniendo en un operativo, se puede omitir la inicial de la categoría y el número del destacamento si previamente se ha especificado en el documento que sólo ellos intervienen. Así el ejemplo anterior puede quedar registrado tan solo como //Tango 13//.
+Ésto último queda a criterio del autor.
+
+[[/tab]]
+
+[[tab Lista De FEMs]]
+
+
+[[div class="generic_noticeV2_byTarro"]]
+
+[[=]]
+-----
++ Criterios Para Canonizar
+-----
+[[/=]]
+
+Para canonizar a un FEM y enlistarlo es necesario que el FEM tenga:
+
+* Al menos 1 aparición **clara** en 3 artículos distintos escritos por 2 autores, donde participe de alguna forma relevante. Si el FEM solo se menciona en los protocolos de control, en el personal a cargo o en los anexos, no se contará como participación a menos que en el mismo artículo tenga otra participación de relevancia.
+
+* La alternativa es que un único autor escriba 5 artículos que cumplan con el criterio de relevancia.
+
+A la hora de enlistar el FEM para tenerlo catalogado y a disposición de otros usuarios se debe obedecer el siguiente formato, esto con el fin de dar toda la información relevante:
+
+> [Número y Nombre En Clave/Apodo]
+> 
+> [Imágen del escudo de FEM, si es que lo tiene]
+> 
+> **Objetivo:** En este apartado debe explicarse porqué o para qué fue creado el FEM. Cuál es su función.
+> 
+> **Estado:** Puede ser Activo o Inactivo, y se debe dar una explicación del porqué de ser necesario (normalmente algo reservado a los FEM's inactivos).
+> 
+> **Funcionamiento:** Acá se debe describir a detalle cómo suelen llevar a cabo sus operaciones o cual es su modus operandi en general. Es el apartado donde puedes ahondar también en la utilidad del FEM.
+> 
+> **Activos:** En principio tanto este como el siguiente apartado funcionan para dar una visión cuantitativa y material del tamaño y alcance del FEM, pero también se puede utilizar como apartado donde exponer miembros relevantes del FEM, como un Coronel o Sargento que por X o Y motivo merece una mención. Cabe aclarar que estas menciones deben limitarse a **personajes canónicos** dentro de la wiki. Colocar menciones a personajes que no aparecen en ninguna parte, o que aparecen solo como una mención vacía no es válido y llevará a que se remueva la mención.
+> 
+> **Recursos:** Acá en principio se deben enlistar los recursos materiales del FEM, como armas, vehículos y demás. Eso incluye equipamiento único para ese FEM, hecho exclusivamente para ellos en particular. No se recomienda explayarse mucho aquí a menos que sea para elaborar más los equipamientos exclusivos, que son los que pueden requerir de más información de su utilidad y funcionamiento, por ejemplo[[footnote]]Es decir: no es necesario enlistar cada casco de cada FEM con lujo de detalles, mostrando hasta que el casco #87 del Agente Mario Mario y Luigi Mario tiene una pegatina de Hello Kitty. Eso haría que la lectura sea lenta y tediosa[[/footnote]].
+> 
+> **Autor:** Autor [Aquí y en los demás apartados se sigue el mismo formato que se utiliza [https://agiat.wikidot.com/expedientes en los expedientes] para enlistar las apariciones, al autor y escritores frecuentes]
+> **Escritores Frecuentes:** [Omitible si solo hay 1 escritor frecuente]
+> **Apariciones:** Apariciones
+@@ @@
+
+Si tienen problemas rellenando los datos no teman en tomar de ejemplo otras fichas. A continuación se dejará la lista completa de todos los FEM's utilizados en la wiki.
+
+[[/div]]
+
+
+-----
+
+[[=]]
+-----
+++ __FEM's Rey__
+-----
+[[/=]]
+@@ @@
+
+[[=]]
++++ __002 "Policía Del Pensamiento"[[footnote]]De momento se incluye este FEM solo a modo de ejemplo[[/footnote]]__
+-----
+[[/=]]
+
+[[include component:image-block
+    name= https://agiat.wikidot.com/local--files/help:fuerzas-especiales-moviles/logo_PoliciaDelPensamiento_V1.png|
+    caption=//El Control es la Paz//
+    //La Vigilancia es la Libertad//
+    //La Lealtad es la Fuerza//
+    Lema del FEM|
+]]
+
+**Objetivo:** Mantener vigilados a **todos** los miembros de la AGIAT en busca de comportamientos que delaten o lleven a pensar que se está por llevar a cabo una tración directa hacia la Agencia y sus objetivos. También se les adjunta a proyectos u operaciones para mantener el secretismo de dichos proyectos/operaciones, pues ellos son el intermediario durante transferencias de información o redacción de documentos.
+
+**Estado:** Activo.
+
+**Funcionamiento:** A través de las IVM[[footnote]]Instalaciones de Vigilancia Masiva[[/footnote]] destinadas a la vigilancia del personal, el FEM recopila y almacena todos los datos posibles para su posterior análisis. Sus operaciones suelen limitarse a las bases de operaciones de la Agencia, puestos de avanzada y semejantes, extendiendo sus competencias fuera de las bases solo en casos excepcionales o en caso de seguimiento de objetivos sospechosos. Al determinar que un objetivo es sospechoso, se realiza un seguimiento intensivo que confirme las sospechas, enviando un pelotón de captura en caso positivo.
+
+El FEM brilla sobre todo por sus métodos de captura: cada activo sin excepción debe someterse a un procedimiento donde se mezclan a nivel conceptual su cuerpo físico y espitirual, dejándolos en un estado intermedio donde están y no están en el plano físico, permitiéndoles alcanzar un estado intangible. Esto les facilita atravesar suelos, muros y techos tangibles, además de gran variedad de barreras místicas. Esto se hace con el fin de maximizar la taza de captura de objetivos.
+
+Una vez capturados, los sospechosos suelen ser eliminados o se les incorpora al FEM luego de extraerles toda la información que posean.
+
+A diferencia de otros FEM's, Policía Del Pensamiento no recluta activamente miembros para sus filas. Cada activo en sus filas está formado por objetivos que fueron capturados, de los cuales algunos fueron seleccionados como candidatos compatibles para la Lobotomía Metafísica, proceso en el que se //desglosa// su cuerpo mental, y se les despoja de sus recuerdos, personalidad, noción del Ego y del Yo. De forma ulterior se les somete a terapia genética y procedimientos quirúrgicos que les vuelve obedientes y completamente leales a la Agencia, y sobre todo a Magnus Secundus. 
+
+**Activos:** Actualmente cuentan con más de 750.000 de activos a nivel global.
+
+**Recursos:** Debido a que Policía Del Pensamiento no utiliza armas convencionales estos no disponen por ejemplo de armas de fuego. Su repertorio ofensivo está completamente centrado en conjuros y hechízos pensados para incapacitar al objetivo. El caso paradigmático es la Morfeo-M50, una pistola tranquilizante modular. Suele utilizarse para disparar dárdos tranquilizantes de hielo u otro material que se desintegre sin dejar rastros. Es famosa por permitir gran variedad de modificaciones, al punto en que no cuenta con un estándar definido por sus pocos despliegues y su amplio rango de modificación, relegando al arma a casos particulares donde una respuesta mágica no es viable.
+
+El resto del equipamiento gira siempre en torno a trajes y herramientas que sean compatibles con el estado intangible del usuario y a la captura de objetivos. Debido a esto también se revoca la necesidad de vehículos para el FEM, pues todos sus activos dominan la teletransportación instantánea. 
+
+**Autor:** [[*user Tartaro]]
+
+**Apariciones:** [https://agiat.wikidot.com/ots-099 OTS-099]: Aparición breve al inicio.
+
+-----
+
+
+
+[[=]]
+-----
+++ __FEM's Dama__
+-----
+[[/=]]
+
+
+
+
+
+
+[[=]]
+-----
+++ __FEM's Alfil__
+-----
+[[/=]]
+
+
+
+
+
+
+[[=]]
+-----
+++ __FEM's Caballero__
+-----
+[[/=]]
+
+
+
+
+
+[[=]]
+-----
+++ __FEM's Bastión__
+-----
+[[/=]]
+
+
+[[/tab]]
+
+[[/tabview]]
+
+
+= [[size 90%]] Si crees que podrían faltar datos en esta guía o que la información se expone de manera confusa, ¡no dudes en contactar a  [[*user Richard Llamas]] para arreglarlo! [[/size]]
+

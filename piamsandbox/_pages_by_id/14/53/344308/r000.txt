@@ -1,0 +1,19 @@
+---
+title: "Image Block Base"
+tags: []
+page_id: "1453344308"
+site: "piamsandbox"
+slug: "component:image-block-base"
+revision: 0
+revision_id: "1519625219"
+author: 7670356
+timestamp: 1713191173
+---
+
+[[div class="scp-image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} style="width:{$width};" link={$link}]]
+[[div class="scp-image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

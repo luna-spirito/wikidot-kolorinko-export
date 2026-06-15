@@ -1,0 +1,61 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "1453330221"
+site: "piamsandbox"
+slug: "nav:side"
+revision: 4
+revision_id: "1519605490"
+author: 7286218
+timestamp: 1713107253
+---
+
+[[module CSS]]
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+
+@media (min-width: 768px) {
+#header h2 span::before {
+    content: "Protegiendo el presente, transformando la normalidad y formando el nuevo futuro.";
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+}
+
+@media (max-width: 768px) {
+#header h2 span::before {
+    content: "Proteger, Transformar, Comprender";
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+}
+
+[[/module]]
+
+[[div class="side-block" style="border: 1px solid #666; border-radius: 7px; background: linear-gradient(to bottom, #051f0f, #000000); padding-bottom:10px; padding:10px;"]]
+
+* [[[system:welcome-the-sandbox|Home]]]
+[[module ListUsers users="."]]
+**//[/%%name%% My drafts]//**
+[[/module]]
+------
+**__Idioma/Lenguage__**
+* [[[http://piamsandbox.wikidot.com|English sandbox]]]
+* [[[http://borradores-omccea.wikidot.com/system:welcome|Spanish sandbox]]]
+
+
+------
+**__Workshop__**
+* [[[members-drafts|Members' drafts]]]
+* [[[repository-of-ideas|Repository of ideas]]]
+
+[[image https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CC_BY-SA_3.0.png/800px-CC_BY-SA_3.0.png link ="http://creativecommons.org/licenses/by-sa/3.0/deed.es "style =" margin-bottom: 10px; width: 165px;"]]
+[[/div]]
+[[a href="##" class="close-menu"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav%3Aside/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

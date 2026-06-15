@@ -1,0 +1,344 @@
+---
+title: ""
+tags: []
+page_id: "1312535870"
+site: "laomccea"
+slug: "system:welcome"
+revision: 221
+revision_id: "1525949797"
+author: 7670356
+timestamp: 1732413886
+---
+
+[[include :scp-wiki:component:scp-hover-box-styling]]
+
+[[include fragment:nav-generic-css]]
+[[include :laomccea:component:fancy-collapsible]]
+
+[[module CSS]]
+:root {
+
+ 
+/* Content Panels */
+
+--content-panel-border-radius: var(--element-border-radius);
+--content-panel-background: #174522;
+--content-panel-border: none;
+--content-panel-padding: 10px 20px;
+--content-panel-box-shadow: var(--content-box-shadow);
+--content-bar-color: #a8ffa8;
+--news-block-body-panel-background-even: #a8ffa8;
+--content-box-border-color: #00915e;
+--nested-content-border: 1px solid #333; /* border of content when inside other content elements (blockquotes, tabview, content-panels, etc.) */
+
+
+
+}
+
+ 
+.featured-title {
+    font-weight: bold;
+    height: 35px;
+    font-size: 110%;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--content-block-border);
+}
+
+.news-block, .info-block {
+    margin: 15px 0;
+    box-shadow: var(--content-box-shadow);
+}
+
+.news-block .body-panel {
+    background: trasparent;
+    padding: 10px;
+}
+
+.news-block .body-panel .news-date {
+    color: #777;
+    font-size: 80%;
+}
+
+.news-block .body-panel .news-content {
+    margin: 10px 0px 10px 30px;
+}
+
+.info-block .body-panel {
+    background: transparent;
+    padding: 10px;
+    font-size: 90%;
+}
+
+.info-block .body-panel.centered {
+    text-align: center;
+}
+
+.header-panel {
+    background: #a8ffa8;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 80%;
+    color: black;
+}
+
+.footer-panel {
+    background: #dde388;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 75%;
+    text-align: right;
+    Color: var(--content-bar-color);
+}
+
+.news-block .footer-panel a {
+    color: #dde388;
+}
+
+.news-block .body-panel:nth-child(even) {
+    background: #dde388;
+}
+
+.featured-block {
+    box-shadow: var(--content-box-shadow);
+    margin: 15px 0;    
+}
+
+.featured-block .body-panel {
+    background: #174522;
+    text-align: left;
+    padding: 10px;
+    height: 100%;
+    overflow-y: hidden;
+}
+
+.featured-block.left-column .body-panel, .featured-block.right-column .body-panel {
+    height: 150px;
+}
+
+.featured-block .body-panel.short {
+    height: auto;
+}
+
+.featured-block {
+margin-right: 1rem;
+margin-left: 0rem;
+padding-right: 0rem;
+}
+
+.content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    background: var(--horizontal-rule-secondary-background);
+}
+
+ 
+.featured-block.left-column .body-panel, .featured-block.right-column .body-panel {
+
+padding-right: 1.5rem;
+}
+ 
+.featured-block .body-panel.short {
+
+padding-right: 1.5rem;
+}
+
+.featured-block .header-panel {
+
+padding-right: 1.5rem;
+}
+
+.info-block.left-column, .info-block.right-column, .featured-block.left-column, .featured-block.right-column {
+    width: 48%;
+}
+ 
+.left-column {
+    float: left;
+    width: 40%;
+    margin: 10px 0;
+}
+ 
+.right-column {
+    float: right;
+    width: 40%;
+    margin: 10px 0;
+}
+
+/* Mobile Compatibility */
+@media (max-width: 768px) {
+
+
+.left-column, .right-column  {
+    width: 100%;
+    float: center;
+    padding-right: 10rem;
+    margin-right: 0rem;
+}.
+
+
+info-block.left-column, .info-block.right-column, .featured-block.left-column, .featured-block.right-column {
+    float: center;
+    float: left;
+    width: 100%;
+}
+
+}
+
+[[/module]]
+
+
+[[div style="border: 5px ridge #818181; background:#000; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+[[f<image http://laomccea.wdfiles.com/local--files/system%3Awelcome/THE-ORGANISATION.png width="150"]]
+[[module ListUsers users="."]]
+[[size x-large]]**Bienvenid@ a //La Organización//, %%title%%**[[/size]]
+[[/module]]
+
+**Protegemos el presente, transformamos la normalidad y formamos el nuevo futuro**
+------
+{{**Todo individuo no relacionado a la Organización ni sus divisiones, se verá sometido a acciones diciplinarias tales como la perdida de memoria o la** **##red|MUERTE##**.}}
+[[/=]]
+[[/div]]
+[[include component:audio-player-woed-source
+|unique-name=secretparty
+|audio-file=https://laomccea.wdfiles.com/local--files/system%3Awelcome/Caminando%20por%20lo%20extra%C3%B1o
+|background-color=rgb(0, 68, 32)
+|border-color=rgb(3, 39, 0)
+|border-radius=0.313rem
+|dropshadow-color=rgba(12, 12, 12, 0.15)
+|text-color=rgb(175, 215, 40)
+|icons-color=rgb(80, 215, 40)
+|player-color=rgb(22, 54, 12)
+|progress-color=rgb(31, 226, 2)
+]]
+[[div class="content-panel standalone series"]]
+[[=]]
+**¿Quieres saber como hacerte miembro? 
+¡Entonces fijese en la [[[Guia para los nivel 1]]]!**
+
+**¿Ya eres miembro y no sabes como participar y contribuir a la wiki?**
+**Dirijase a donde puede saber [[[como contribuir]]]**
+[[/=]]
+[[/div]]
+
+[[include Noticias-anuncios-nuevos-y-concursos]]
+
+[[div class="content-type-footer"]]
+[[/div]]
+------
+
+[[tabview]]
+[[tab ▼]]
+[[=]]
+> +++ Explora la colección anómala
+[[/=]]
+[[include explora-el-sitio]]
+[[/tab]]
+[[tab Articulos destacados]]
+[[div class="featured-block left-column"]]
+[[div_ class="header-panel"]]
+Anomalía Destacada
+[[/div]]
+[[div_ class="body-panel" style="border: 3px solid #007400;"]]
+[[div_ class="featured-title"]]
+[[[An.C-1_005.R]]]
+{{**La Princesa de Kharnivaz**}}
+[[/div]]
+//Hace mucho tiempo existe una princesa de bella piel blanca como la nieve. De algo nos está protegiendo... Pero ¿De que?//
+[[/div]]
+[[/div]]
+
+[[div class="featured-block right-column"]]
+[[div_ class="header-panel"]]
+Segunda anomalia Destacada
+[[/div]]
+[[div_ class="body-panel" style="border: 3px solid #007400;"]]
+[[div_ class="featured-title"]]
+[[[An.N-002]]]
+{{**ME DAS ASCO**}}
+[[/div]]
+//Una pequeña sin hogar es encontrada por La Organización, todos creeríamos que dejaría de sufrir con nosotros, ¿No? Lo lamento, es difícil quererte cuando eres tan __asquerosa__.//
+[[/div]]
+[[/div]]
+
+[[div class="featured-block left-column"]]
+[[div_ class="header-panel"]]
+Relato Destacado
+[[/div]]
+[[div_ class="body-panel" style="border: 3px solid #007400;"]]
+[[div_ class="featured-title"]]
+[[[Innombrable]]]
+Autor: [[*user Lluzyferr Naleany]]
+[[/div]]
+//Azazel tiene inquietudes tetricas tras participar en la investigación semanal de un paraorganismo. Quizás, sean peores de lo esperado...//
+[[/div]]
+[[/div]]
+
+
+[[div class="featured-block right-column"]]
+[[div_ class="header-panel"]]
+Empleado Destacado
+[[/div]]
+[[div_ class="body-panel" style="border: 3px solid #007400;"]]
+[[div_ class="featured-title"]]
+[[[563421-rak-azi|56.34.21 RAK_AZI]]] 
+Autor: [[*user Dr_Niko_25]]
+[[/div]]
+//Salida del Programa RMU, es igual a las otras pero totalmente distinta. Ella es útil, es hábil y bajo su nacimiento hay un misterio que Rak no entiende…//
+[[/div]]
+[[/div]]
+~~~~
+[[/tab]]
+[[/tabview]]
+------
+[[=]]
++ **__Comunidad__**
+
+[[div class="grid"]]
+[[include fragment:front-page-artist-showcase
+|artblurb= Dr_Niko_25
+
+[!-- SLIDESHOW IMAGE URLS. IF IT'S ONLY ONE IMAGE STICK IT IN ALL THREE--]
+
+|art1url= http://laomccea.wdfiles.com/local--files/una-galeria-de-horrores/An.C-1_020.V.jpg
+
+|art2url= http://laomccea.wdfiles.com/local--files/una-galeria-de-horrores/An.C-2_001.N.jpg
+
+|art3url= http://laomccea.wdfiles.com/local--files/una-galeria-de-horrores/An.C-3_025.V.jpg]]
+[[/div]]
+
+
+[[div class="featured-block center-column"]]
+[[div_ class="header-panel"]]
+Anomalía del día 
+[[/div]]
+[[div_ class="body-panel" style="border: 3px solid #007400;"]]
+
+[[include :scp-wiki:component:scp-hover-box-structure
+|container-number=two
+|corner-cutout=0.5em
+|container-bgcolor=rgba(15, 91, 0)
+|container-txtcolor=rgba(252, 252, 252)
+|container-hover-bgcolor=rgba(4, 24, 0)
+|container-hover-txtcolor=rgba(252, 252, 252)
+|container-stroke-color=rgba(12, 88, 0)
+|container-hover-stroke-color=rgba(37, 180, 35)
+|background-url=http://laomccea.wikidot.com/local--files/an-c-1-001-b/8163451207_feb7e29977_o.jpg
+|background-vertical-position=30%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=487
+|link=http://laomccea.wikidot.com/an-c-1-001-b
+|title=An.C-1_001.B
+|sub-title=Saltadora Galáctica🌌 
+|blerb={{**"Una pequeña arañita, más tierna de lo que crees. Una linda saltarina que viene del cosmos y consigo, su ayuda trae a los atormentados."**}} 
+]]
+
+
+[[/div]]
+[[/div]]
+[[/=]]
+
+[!-- listpages --]
+[[include actividad-reciente]]
+

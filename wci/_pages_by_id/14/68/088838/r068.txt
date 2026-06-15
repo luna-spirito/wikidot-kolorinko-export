@@ -1,0 +1,51 @@
+---
+title: "Theme"
+tags: ["noedit"]
+page_id: "1468088838"
+site: "wci"
+slug: "component:theme"
+revision: 68
+revision_id: "1542498652"
+author: 9526041
+timestamp: 1772958696
+---
+
+[[include component:do-not-edit | extra= ////]]
++ Site's theme
+
+++ This theme can be freely used and mofied. All credits for the creation of the base theme go to the [https://scp-wiki.wikidot.com/ SCP Foundation].
+----
+[[code type="css"]]
+@import url(https://scp-wiki.wdfiles.com/local--code/component%3Atheme/1);
+ 
+/*This imports the logo*/ 
+
+#header {
+    background-image: url(http://wci.wikidot.com/local--files/component:theme/WCI-Logo.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(7rem - 2.125rem);
+    background-position: left 1rem top 3rem;
+}
+ 
+/*This imports the background*/ 
+div#container-wrap {
+    background-image: url(https://wci.wdfiles.com/local--files/component%3Atheme/BT-3.png);
+}
+
+/*Remove search button since it doesn't work*/
+#search-top-box {
+    position: absolute;
+    top: 79px;
+    right: 9000px;
+    width: 0px;
+    text-align: right;
+}
+
+@media (max-width: 768px) {
+#header {
+    background-size: auto calc(6rem - 2.145rem);
+    background-position: left top 4.4rem;
+}
+}
+[[/code]]
+

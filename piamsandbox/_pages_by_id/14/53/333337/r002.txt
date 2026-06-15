@@ -1,0 +1,137 @@
+---
+title: "Home"
+tags: []
+page_id: "1453333337"
+site: "piamsandbox"
+slug: "system:welcome-the-sandbox"
+revision: 2
+revision_id: "1519605583"
+author: 7286218
+timestamp: 1713107403
+---
+
+[[div style="border:solid 1px #fff; background:#000; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+[[module ListUsers users="."]]
+[[size x-large]]**Welcome to //the Organization's sandbox//, %%title%%**[[/size]]
+[[/module]]
+------
+**We create the present, establish normality and write the new future.**
+[[/=]]
+[[/div]]
+
+[[div class="row"]]
++ Feel free to write all your ideas
+[[/div]]
+The Organization (or PIAM Project) is a site where we write science fiction and fantasy, in this site any member of the Organization can write and develop their own ideas.
+**Not a member of the sandbox yet? Go and send a private message to an admin to join.**
+> + **##red|RULES##**
+> — Do not rewrite other people's drafts unless you have express permission from the author, editing other people's drafts will result in penalties.
+> — Do not delete files of other writers, this will be considered a serious offense and you will be removed from the drafts page.
+> — Do not write profanity or attack other writers, insulting the work of others without being finished or harassing writers will be considered a serious offense or you will be banned.
+> — Exclusivity, use this site only to write things that are going to be published in the Organization.
+> — Members only, if you do not belong to the Organization do not try to access or write on this site nor try to convince an administrator to invite you to be part of it, if you do, the penalty will be your total rejection from the project.
+> — Don't write things that will not be published.
+> — Always ask for feedback to make sure everything is going well.
+> — To post on the main page you must have at least three (3) green lights from other users to post, coldposting (posting without feedback) will be penalized with the deletion of your article.
+[[=]]
+//**Ignorance of the law does not exempt from its compliance.**//
+[[/=]]
++ To start writing your draft it is as simple as creating your page.
+
+Creating a draft is very simple. Use the following module to create your draft:
+[[module NewPage size="16" button="New page"]]
+
+Don't forget to place a tag with your username, go to "tag" and create a tag with your username. Try not to place other tags to make it easier to review the pages and not to flood the whole Sandbox with unnecessary tags. You can use this tab module to evenly divide your drafts on a single page:
+
+[[tabview]]
+[[tab tab 1]]
+These are tabview or tabs. You can compress a large amount of text in them, without the need to create another page for another draft, thus dividing your drafts into a single page.
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/tab]]
+[[tab Tab 2]]
+You can fill them with as much text as you want. You can add images, tables, gifs, videos, etc. They may not look good, but after you finish creating them, ask for feedback and it has passed you can freely take it out of the tab and publish it, it's that simple.
+ @@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/tab]]
+[[tab Tab 3]]
+You can create as many tabs as you want. There can be 1, 3, 5, 20, etc... As long as you check that each tab is well placed so as not to make a novice code error.
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/tab]]
+[[/tabview]]
+
+Module syntax:
+
+[[code]]
+[[tabview]]
+[[tab title]]
+Your text here
+[[/tab]]
+[[tab title]]
+Your text here
+[[/tab]]
+[[tab title]]
+Your text here
+[[/tab]]
+[[/tabview]]
+[[/code]]
+

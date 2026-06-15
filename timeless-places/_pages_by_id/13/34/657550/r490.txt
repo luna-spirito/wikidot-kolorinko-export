@@ -1,0 +1,83 @@
+---
+title: "Main Hub"
+tags: ["information", "site"]
+page_id: "1334657550"
+site: "timeless-places"
+slug: "landing-zone"
+revision: 490
+revision_id: "1544446863"
+author: 3437739
+timestamp: 1780615099
+---
+
+> +++ Timeless Places is an anthological collection of literary compositions exploring the hidden sides of the real and imaginary, the out-of-bounds areas that live in the planes of our universe. We exist to write about these worlds outside of time, places that will be here long after everything else is gone.
+-----
+@@@@
+[[div class="small-block-left"]]
+[[image http://timeless-places.wikidot.com/local--files/landing-zone/Discord%20Icon height="45" width="45" style="opacity: 1; margin-bottom: -19px;" link="https://discord.gg/ERAqUH6hWk"]] 
+++++ [[[https://discord.gg/ERAqUH6hWk | Discord]]]
+[[/div]]
+
+[[div class="small-block-center"]]
+[[image http://timeless-places.wikidot.com/local--files/landing-zone/Join%20Icon height="40" width="40" style="opacity: .8; margin-bottom: -16px; margin-top: 2.5px;" link="/system:join"]] 
+++++ [[[/system:join | Join!]]]
+[[/div]]
+
+[[div class="small-block-right"]]
+[[image http://timeless-places.wikidot.com/local--files/landing-zone/Sandbox_Icon height="40" width="40" style="opacity: 1; margin-bottom: -16px; margin-top: 3px;" link="http://timeless-places-sandbox.wikidot.com"]] 
+++++ [[[http://timeless-places-sandbox.wikidot.com | Sandbox]]]
+[[/div]]
+~~~~
+----
+@@@@
+[[div class="scroll-holder"]]
+[[size 110%]]
++ FEATURED ARTICLE
+[[/size]]
+-----
++ [[[/Our-Hope| Our Hope]]] 
+> ++ "Even as I began to suffocate within the darkness of my mortality, I saw that faint light, buzzing as it granted me life. The soft beacon allowed me to a semi-clarity, to see the brown sand between my toes, making temporary imprints into the earth."
+[[/div]]
+~~~~~
+@@@@
+-----
+~~~~
+@@@@
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]]
++ TOP RATED  
+[[/size]] 
+-----
+[[module ListPages rating=">-1" order="rating desc" tags="+article" limit="10"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+[[/div]]
+
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]] 
++ NEW PAGES
+[[/size]]
+-----
+[[module ListPages  order="creationdate asc" tags="+article" limit="10"]]
+> +++ > %%title_linked%% - ##00ff00 | +%%rating%%##
+[[/module]]
+[[/div]]
+~~~~
+@@@@
+[[div class="scroll-holder"]]
+[[size 110%]]
++ UNDERRATED CONTENT
+[[/size]]
+-----
+[[module listPages votes="<6" rating=">-1" order="random" tags="+article" limit="10" perPage="999"]]
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%## 
+[[/module]] [[/div]]
+-----
+[[=]]
+[[image http://timeless-places.wikidot.com/local--files/landing-zone/White-Eye-Logo%20%281%29.png height="65" width="65" style="opacity: 0.2; margin-bottom: -25px; margin-top: 10px;"]] 
++++ 2022 - 2026 | Timeless Places 
+[[/=]]
+@@@@
+-----
+> +++ The Timeless Places CSS theme was created by [[*user Ferrante]].
+

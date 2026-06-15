@@ -1,0 +1,71 @@
+---
+title: "image test"
+tags: []
+page_id: "1450073376"
+site: "adr-sandbox"
+slug: "image-test"
+revision: 30
+revision_id: "1533781672"
+author: 4632971
+timestamp: 1761515447
+---
+
+[[div style="float:right; width:320px; margin:0 2em 1em 2em; border:0;"]]
+[[html]]
+<style type="text/css">
+body
+{
+    font-family: verdana,arial,helvetica,sans-serif;
+    font-size: 0.82em;
+}
+table.wiki-content-table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0.5em auto;
+}
+table.wiki-content-table td{
+    border: 1px solid #888;
+    padding: 0.3em 0.7em;
+}
+table.wiki-content-table th{
+    border: 1px solid #888;
+    padding: 0.3em 0.7em;
+    background-color: #EEE;
+}
+</style>
+<table class="wiki-content-table">
+<tbody><tr>
+<td colspan="2">
+<script language="JavaScript">
+var imgs=
+[
+"http://adr-sandbox.wikidot.com/local--files/image-test/0.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/1.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/2.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/3.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/4.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/5.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/6.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/7.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/8.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/9.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/10.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/11.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/12.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/13.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/14.png",
+"https://adr-sandbox.wdfiles.com/local--files/image-test/15.png",]
+var q = imgs.length;
+var which=Math.round(Math.random()*16);
+function show(){document.write("<img src=\""+imgs[which]+"\" alt=\"image\" class=\"image\" width=\"300px\">");}
+show();
+</script></td>
+</tr>
+<tr>
+<th colspan="2"><sup>Clearest photo of ADF-001, taken from a safe distance.</sup></th>
+</tr>
+</tbody>
+</table>
+[[/html]]
+[[/div]]
+

@@ -1,0 +1,49 @@
+---
+title: "Top Navigation"
+tags: []
+page_id: "1453330222"
+site: "piamsandbox"
+slug: "nav:top"
+revision: 3
+revision_id: "1519607138"
+author: 7286218
+timestamp: 1713110641
+---
+
+[[ul class="nav navbar-nav"]]
+**[[[*http://theomccea.wikidot.com/|Main site]]]**
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]writers help [[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/how-to-write-an-anomaly"]]How to write an anomaly[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]][[span class="fa fa-cog"]]@< >@[[/span]]Information center[[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/sistema-de-clasificacion-de-anomalias"]]Anomaly Classification System[[/a]][[/li]]
+  [[li]][[a href="/http://theomccea.wikidot.com/personnel-classification-system"]]Personnel Classification System[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+
+[[li class="dropdown admin-only"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]Admin[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/_admin"]]Site Manager[[/a]][[/li]]
+  [[li]][[a href="/nav:top"]]Edit Top Bar[[/a]][[/li]]
+  [[li]][[a href="/nav:side"]]Edit Side Bar[[/a]][[/li]]
+  [[li]][[a href="/css:_home"]]CSS Manager[[/a]][[/li]]
+  [[li]][[a href="/system:recent-changes"]]Recent Changes[[/a]][[/li]]
+  [[li]][[a href="/system:list-all-pages"]]List All Pages[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[/ul]]
+
+[!-- DO NOT REMOVE THE BELOW --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: none; }
+[[/module]]
+
+[[div style="display : none;"]]
+[[module ListUsers users="."]]
+[[include admincss:%%name%%]]
+[[/module]]
+[[/div]]
+
