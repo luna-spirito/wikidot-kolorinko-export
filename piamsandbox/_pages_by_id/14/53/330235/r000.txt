@@ -1,0 +1,25 @@
+---
+title: "admincss: _template"
+tags: []
+page_id: "1453330235"
+site: "piamsandbox"
+slug: "admincss:_template"
+revision: 0
+revision_id: "1519595763"
+author: 7286218
+timestamp: 1713051459
+---
+
+%%content%%
+[[html]]
+<script type="text/javascript">
+history.go(-2);
+</script>
+[[/html]]
+===========
+[!-- Do not edit this page; Press Save! --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: block !important; }
+.admins-only-inline{  display: inline !important; }
+[[/module]]
+

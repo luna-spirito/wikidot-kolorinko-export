@@ -1,0 +1,67 @@
+---
+title: "_template"
+tags: ["_admin", "_template"]
+page_id: "1311587262"
+site: "harp-wiki"
+slug: "_template"
+revision: 27
+revision_id: "1528435528"
+author: 7523875
+timestamp: 1741972124
+---
+
+[[module css]]
+#page-content { min-height:600px; }
+[[/module]]
+
+%%content%%
+
+@@@@
+@@@@
+[[iftags +hca]]
+[[>]]
+[[collapsible show="[View author]" hide="[Close author]"]]
+**Title:** %%title%%
+**Author:** %%author%%
+**Date:** %%created_at%%
+**Update:** %%updated_at%%, %%updated_by%%
+[[/collapsible]]
+[[/>]]
+[[/iftags]]
+
+[[iftags +tale]]
+[[>]]
+[[collapsible show="[View author]" hide="[Close author]"]]
+**Title:** %%title%%
+**Author:** %%author%%
+**Date:** %%created_at%%
+**Update:** %%updated_at%%, %%updated_by%%
+[[/collapsible]]
+[[/>]]
+[[/iftags]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="harp-content-bar"]]
+**© 2021, H.A.R.P**. The themes and all coding were by the HARP teams - All Rights Reserved. H.A.R.P **© 2021-%%updated_at|%Y%%**.
+[[/div]]
+
+[[html]]
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+</body>
+</html>
+[[/html]]
+

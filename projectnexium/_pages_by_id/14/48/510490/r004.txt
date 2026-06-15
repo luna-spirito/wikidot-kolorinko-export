@@ -1,0 +1,35 @@
+---
+title: "Topbar Menu"
+tags: []
+page_id: "1448510490"
+site: "projectnexium"
+slug: "nav:top"
+revision: 4
+revision_id: "1542034652"
+author: 9624521
+timestamp: 1770913245
+---
+
+* [/ Home]
+* [# Pages]
+ * [[[About]]]
+ * [[[Contact]]]
+ * [[[Favourites]]]
+* [[[Gallery]]]
+* [# Admin]
+ * [[button edit text="Edit page"]]
+ * [[button print text="Print page"]]
+ * [/nav:top/edit/true Edit this menu]
+ * [/nav:side/edit/true Edit side menu]
+ * [/system:list-all-categories Page categories]
+ * [/system:recent-changes Recent changes] 
+ * [/admin:themes Change theme]
+ * [[[/_admin|Manage site]]]
+* [# Help]
+ * [/help Wiki syntax]
+ * [/modules-reference Modules reference]
+* Sister Sites
+  * [http://www.sirens-cavern.wikidot.com Siren's Cavern]
+  * [http://www.wci.wikidot.com WCI]
+  * [http://www.projectnexium-sandbox.wikidot.com Sandbox]
+

@@ -1,0 +1,21 @@
+---
+title: "Image Block Base"
+tags: []
+page_id: "57687335"
+site: "scp-sandbox-3"
+slug: "component:image-block-base"
+revision: 3
+revision_id: "1508370039"
+author: 4598089
+timestamp: 1678293538
+---
+
+[[include :scp-wiki:component:image-block-base
+| name={$name}
+| caption={$caption}
+| width={$width}
+| link={$link}
+| align={$align}
+| alt={$alt}
+]]
+

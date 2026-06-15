@@ -1,0 +1,35 @@
+---
+title: ""
+tags: ["test"]
+page_id: "1459097501"
+site: "sandboxhyrox-es"
+slug: "start"
+revision: 27
+revision_id: "1541801252"
+author: 9161410
+timestamp: 1770333613
+---
+
+[[div class="unmargined" style="text-align: center; font-size: 350%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Bienvenido a la Sandbox
+Welcome to the Sandbox
+[[/div]]
+
+[[=]]
++ [[[http://sandboxhyrox-es.wikidot.com/system:join|Unete al Sandbox/Join the Sandbox]]]
+
++++ [[[http://sandboxhyrox-es.wikidot.com/system:members|Miembros de la Sandbox/Sandbox Members]]]
+[[/=]]
+
+[[=]]
+Por favor escribe el nombre de tu borrador (O hub de borradores) y dale click al botón Crear Borrador
+
+[[module NewPage category="borrador" parent="borrador:_start" button="Crear Borrador" size="40"]]
+[[/=]]
+
+[[=]]
+If you are from a non-Spanish speaking branch, please create your draft in this section. I promise to make a Sandbox for other non-Hispanic branches later.
+
+[[module NewPage category="draft" parent="borrador:_start" button="Create Draft" size="40"]]
+[[/=]]
+

@@ -1,0 +1,68 @@
+---
+title: "Top Navigation"
+tags: []
+page_id: "1331827956"
+site: "timeless-places"
+slug: "nav:top"
+revision: 85
+revision_id: "1544504031"
+author: 3437739
+timestamp: 1780865260
+---
+
+[[ul class="nav navbar-nav"]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]‎Content[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+ [[li]][[a href="/Spaces"]]Spaces[[/a]][[/li]]
+ [[li]][[a href="/Anomalies"]]Anomalies[[/a]][[/li]]
+ [[li]][[a href="/Summaries"]]Summaries[[/a]][[/li]]
+ [[li]][[a href="/Archived-spaces"]]Archives[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]Wiki[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+ [[li]][[a href="/system:join"]]Join The Site![[/a]][[/li]]
+ [[li]][[a href="/Staff-List"]]Staff List[[/a]][[/li]]
+ [[li]][[a href="/Credits"]]Credits[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]Info[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+ [[li]][[a href="/faq"]]FAQ[[/a]][[/li]]
+ [[li]][[a href="/site-rules"]]Site Rules[[/a]][[/li]]
+ [[li]][[a href="/licensing"]]Licensing[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]‎Community[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+ [[li]][[a href="/Author-Pages"]]Author Pages[[/a]][[/li]]
+ [[li]][[a href="http://timeless-places-sandbox.wikidot.com"]]Sandbox Site[[/a]][[/li]]
+ [[li]][[a href="https://discord.gg/ERAqUH6hWk"]]Discord[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li]][[a href="/random-entry"]]‎Random[[span class="fa fa-code"]]@< >@[[/span]][[/a]][[/li]]
+
+[[li class="dropdown admins-only"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]][[span class="fa fa-cog"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/_admin"]]Site Manager[[/a]][[/li]]
+  [[li]][[a href="/nav:top"]]Edit Top Bar[[/a]][[/li]]
+  [[li]][[a href="/nav:side"]]Edit Side Bar[[/a]][[/li]]
+  [[li]][[a href="/css:_home-edit"]]CSS Manager[[/a]][[/li]]
+  [[li]][[a href="/system:recent-page-changes"]]Recent Changes[[/a]][[/li]]
+  [[li]][[a href="/system:all-pages"]]List All Pages[[/a]][[/li]]
+  [[li]][[a href="/main:layout-edit"]]HTML Layout[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[/ul]]
+
+[!-- DO NOT REMOVE THE BELOW --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: none; }
+[[/module]]
+
+[[div style="display : none;"]]
+[[module ListUsers users="."]]
+[[include admincss:%%name%%]]
+[[/module]]
+[[/div]]
+

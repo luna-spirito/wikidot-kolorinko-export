@@ -1,0 +1,45 @@
+---
+title: "Your Photostream"
+tags: []
+page_id: "1459773262"
+site: "srddf"
+slug: "gallery"
+revision: 0
+revision_id: "1530428564"
+author: 9720100
+timestamp: 1749399198
+---
+
+[[module FlickrGallery photosetId="72157606160056258" size="square" sort="interestingness-desc" perPage="42"]]
+
+[!-- This page pulls in a set of photos from Flickr using the 'FlickrGallery' module.  Modules are little applications you can embed in your wiki pages.  FlickrGallery is an easy way to show photos on your Wikidot blog.  You can select photos by photo set ID, or just show all photos for your name.
+
+Sample photostream is by Pieter Hintjens.
+
+Here is a summary of the options the FlickrGallery module lets you use:
+
+[[module FlickrGallery
+    userName="any valid Flickr user name"
+    tags="list of tags, separated by commas"
+    sort="how to sort pictures" 
+        "date-posted-asc"
+        "date-posted-desc" (default)
+        "date-taken-asc"
+        "date-taken-desc"
+        "interestingness-desc"
+        "interestingness-asc"
+        "relevance"
+    photosetId="photoset id"
+    perPage="number between 1 and 100"
+    limitPages="1 or more"
+    size="size of image thumbnail"
+        "square" - 75x75 pixels
+        "thumbnail" - 100 on longest side
+        "small" - 240 on longest side
+        "medium", 500 on longest side
+    disableBrowsing="yes"/"true"
+    ]]
+
+Read the the FlickrGallery documentation at http://www.wikidot.com/doc:flickrgallery-module for more details.
+--]
+

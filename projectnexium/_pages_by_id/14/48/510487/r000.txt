@@ -1,0 +1,19 @@
+---
+title: "Page categories"
+tags: []
+page_id: "1448510487"
+site: "projectnexium"
+slug: "system:list-all-categories"
+revision: 0
+revision_id: "1511362056"
+author: 8358201
+timestamp: 1687069155
+---
+
+[[module Categories]]
+----
+++ Hidden Pages
+[[module ListPages category="*" pagetype="hidden" order="fullname" separate="no"]]
+%%category%% - %%title_linked%%
+[[/module]]
+

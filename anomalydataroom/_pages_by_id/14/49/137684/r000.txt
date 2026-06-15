@@ -1,0 +1,35 @@
+---
+title: "home:_template"
+tags: []
+page_id: "1449137684"
+site: "anomalydataroom"
+slug: "home:_template"
+revision: 0
+revision_id: "1512492985"
+author: 4632971
+timestamp: 1690306139
+---
+
+[[div class="feature feature-header"]]
+%%form_raw{header}%%
+[[/div]]
+
+%%form_raw{content}%%
+
+[[module CSS]]
+@import url('http://css.wikidot.com/theme:standard-cover/code_');
+[[/module]]
+
+=========
+[[form]]
+fields:
+  header:
+    label: Header
+    type: wiki
+    height: 6
+  content:
+    label: Content
+    type: wiki
+    height: 12
+[[/form]]
+

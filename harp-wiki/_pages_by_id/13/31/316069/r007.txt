@@ -1,0 +1,21 @@
+---
+title: "Retranslate"
+tags: ["component"]
+page_id: "1331316069"
+site: "harp-wiki"
+slug: "component:retranslate"
+revision: 7
+revision_id: "1388092795"
+author: 7460495
+timestamp: 1641528773
+---
+
+[!-- {$es}
+[[>]]
+[[collapsible show="[Ver retraducir]" hide="[Ver redtraducir]"]]
+**Traductor original:** {$translate}
+**Retraducción:** {$retranslate}
+[[/collapsible]]
+[[/>]]
+[!----]
+

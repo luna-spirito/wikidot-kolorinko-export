@@ -1,0 +1,19 @@
+---
+title: "Image Block Base"
+tags: []
+page_id: "106208483"
+site: "fasa-sandbox"
+slug: "component:image-block-base"
+revision: 5
+revision_id: "1519211424"
+author: 8285008
+timestamp: 1711372425
+---
+
+[[div class="scp-image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} {$alt}="{$alt-text}" link={$link}]]
+[[div class="scp-image-caption"]]
+{$caption}
+[[/div]]
+[[/div]]
+

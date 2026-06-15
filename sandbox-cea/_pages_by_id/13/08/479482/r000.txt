@@ -1,0 +1,35 @@
+---
+title: "Chatter: Live template"
+tags: []
+page_id: "1308479482"
+site: "sandbox-cea"
+slug: "chatter:_template"
+revision: 0
+revision_id: "1362054674"
+author: 2954516
+timestamp: 1617623129
+---
+
+[[div style="float:left; width: 68%"]]
+%%content%%
+
+[[module Comments title=""]]
+[[/div]]
+[[div style="float:right; width:30%; border:1px solid #cedff2; background:#f5faff; padding: 5px 5px 5px 5px"]]
+[[button edit text="Edit"]] | [[button files text="Files"]] | [[button tags text="Tags"]] | [[button source text="Source"]] | [[button print text="Print"]]
+[[module Rate]]
+
+++ Recent chatter
+
+[[module ListPages category="chatter"]]
+**%%linked_title%%**
+%%summary%%
+
+[[/module]]
+[[/div]]
+~~~~
+
+====
+
+Paragraph of text
+

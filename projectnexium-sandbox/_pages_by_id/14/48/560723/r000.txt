@@ -1,0 +1,17 @@
+---
+title: "Page Tags"
+tags: []
+page_id: "1448560723"
+site: "projectnexium-sandbox"
+slug: "system:page-tags"
+revision: 0
+revision_id: "1511453974"
+author: 8358201
+timestamp: 1687293904
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+

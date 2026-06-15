@@ -1,0 +1,163 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "1312535865"
+site: "laomccea"
+slug: "nav:side"
+revision: 181
+revision_id: "1543887633"
+author: 7286218
+timestamp: 1778696128
+---
+
+[[module CSS]]
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+
+@media (min-width: 768px) {
+#header h2 span::before {
+    content: "Protegiendo el presente, transformando la normalidad y formando el nuevo futuro.";
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+}
+
+@media (max-width: 768px) {
+#header h2 span::before {
+    content: "Proteger, Transformar, Comprender";
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+}
+
+[[/module]]
+
+[[div class="side-block" style="border: 1px solid #666; border-radius: 7px; background: linear-gradient(to bottom, #051f0f, #000000); padding-bottom:10px; padding:10px;"]]
+
+[[image http://laomccea.wdfiles.com/local--files/nav%3Aside/DiscordPIAM width="25" link="https://discord.gg/xEEt6ZPt52" alt="Discord"]]
+
+[[/div]]
+
+[[div class="side-block" style="border: 1px solid #666; border-radius: 7px; background: linear-gradient(to bottom, #051f0f, #000000); padding-bottom:10px; padding:10px;"]]
+
+**[[size large]]##00C70A|◉##[[/size]]** [[[system:welcome|Inicio]]] 
+
+[[div class="heading"]]
+**Idioma/Lenguage**
+[[/div]]
+**[[size large]]##00C70A|◉##[[/size]]** **[[[http://theomccea.wikidot.com|English site]]]**
+**[[size large]]##00C70A|◉##[[/size]]** **[[[http://laomccea.wikidot.com/system:welcome|Spanish site]]]** 
+
+[[div class="heading"]]
+**Centro de información**
+[[/div]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[sistema-de-clasificacion-de-anomalias|Sistema de Clasificación de Anomalías]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[sistema-de-clasificacion-del-personal|Sistema de Clasificación del Personal]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[Glosario-de-terminos-anomalos|Glosario de términos anómalos]]]
+
+[[collapsible show="[▶ Grupos de Interes]" hide="[▼ Grupos de Interes]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]**[[[grupos-de-interes|GdI 「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]**[[[en-grupos-de-interes|GdI 「EN」]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ Archivero de Empleados]" hide="[▼ Archivero de Empleados]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[archivero-de-empleados|Empleados 「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-archivero-de-empleados|Empleados 「EN」]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ Programas de La Organización]" hide="[▼ Programas de La Organización]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[programas-de-la-organización|Proyectos 「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-programas-de-la-organización|Proyectos「EN」]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ Bases de La Organización]" hide="[▼ Bases de La Organización]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]**[[[Bases-instalaciones-y-puestos|Registro「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]**[[[en-bases-instalaciones-y-puestos|Registro「EN」]]]
+[[/collapsible]]
+
+
+[[div class="heading"]]
+**Biblioteca**
+[[/div]]
+[[collapsible show="[▶ Crónicas de La Organización]" hide="[▼ Crónicas de La Organización]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[cronicas|Relatos「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-cronicas|Relatos「EN」]]]
+[[/collapsible]]
+
+
+[[div class="heading"]]
+**Colección de Anomalías**
+[[/div]]
+[[collapsible show="[▶ An.C-1]" hide="[▼ An.C-1]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[an-c-1|An.C-1 「ORIGINAL」 ]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-an-c-1|An.C-1 「EN」 ]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ An.C-2]" hide="[▼ An.C-2]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[an-c-2|An.C-2 「ORIGINAL」 ]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-an-c-2|An.C-2 「EN」 ]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ An.C-3]" hide="[▼ An.C-3]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[an-c-3|An.C-3 「ORIGINAL」 ]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-an-c-3|An.C-3 「EN」 ]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ An.IC-1]" hide="[▼ An.IC-1]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[an-ic-1|An.IC-1 「ORIGINAL」 ]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-an-ic-1|An.IC-1 「EN」 ]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ An.IC-2]" hide="[▼ An.IC-2]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[an-ic-2|An.IC-2 「ORIGINAL」 ]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-an-ic-2|An.IC-2 「EN」 ]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ An.IC-3]" hide="[▼ An.IC-3]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[an-ic-3|An.IC-3 「ORIGINAL」 ]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-an-ic-3|An.IC-3 「EN」 ]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ An.BIs]" hide="[▼ An.BIs]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[anomalias-de-baja-importancia|An.BI「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-anomalias-de-baja-importancia|An.BI「EN」]]]
+[[/collapsible]]
+
+[[collapsible show="[▶ Anomalías No Estándar]" hide="[▼ Anomalías No Estándar]"]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[anomalias-no-estandar|No Estándares「ORIGINAL」]]]
+##transparent|★## **[[size large]]##00C70A|↳##[[/size]]** [[[en-anomalias-no-estandar|No Estándares「EN」]]]
+[[/collapsible]]
+
+**[[size large]]##00C70A|◉##[[/size]]** [[[todas-las-anomalias|Todas las anomalías]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[anomalia-aleatoria|Anomalía Aleatoria]]]
+
+[[div class="heading"]]
+**Comunidad**
+[[/div]]
+
+**[[size large]]##00C70A|◉##[[/size]]** [[[http://laomccea.wikidot.com/forum:start|Foros]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[*http://borradores-omccea.wikidot.com|Borradores PIAM]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[http://laomccea.wikidot.com/fichas-de-autor|Fichas de los miembros]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[sala-de-arte|Sala de Arte]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[redes-sociales|Redes Sociales]]]
+
+[[div class="heading"]]
+**Guías**
+[[/div]]
+
+**[[size large]]##00C70A|◉##[[/size]]** [[[formato-de-an-y-su-escritura|Formato de An. y su escritura]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[sintaxis-wikidot|Sintaxis Wikidot]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[uso-de-imagenes|Uso de Imágenes]]]
+**[[size large]]##00C70A|◉##[[/size]]** [[[Conducta-y-contenido|Conducta y contenido]]]
+
+[[image CC_BY-SA_3.0.png.webp link ="http://creativecommons.org/licenses/by-sa/3.0/deed.es "style =" margin-bottom: 10px; width: 165px;"]]
+[[/div]]
+
+[[a href="#" class="close-menu"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav%3Aside/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

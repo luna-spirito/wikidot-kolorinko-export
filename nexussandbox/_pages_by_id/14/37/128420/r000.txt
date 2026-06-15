@@ -1,0 +1,17 @@
+---
+title: "Page Tags"
+tags: []
+page_id: "1437128420"
+site: "nexussandbox"
+slug: "system:page-tags"
+revision: 0
+revision_id: "1497363029"
+author: 6602770
+timestamp: 1668313017
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+

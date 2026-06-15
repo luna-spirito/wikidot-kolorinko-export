@@ -1,0 +1,16 @@
+---
+title: "Customize your theme"
+tags: []
+page_id: "1459097508"
+site: "sandboxhyrox-es"
+slug: "admin:themes"
+revision: 0
+revision_id: "1529077356"
+author: 9161410
+timestamp: 1743892763
+---
+
+[[code type="css"]]
+/* No theme defined on top of Base */
+[[/code]]
+
