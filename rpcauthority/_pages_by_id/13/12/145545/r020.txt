@@ -1,0 +1,725 @@
+---
+title: "Remnants Theme"
+tags: ["theme"]
+page_id: "1312145545"
+site: "rpcauthority"
+slug: "component:remnants-theme"
+revision: 20
+revision_id: "1383794440"
+author: 4981794
+timestamp: 1634104004
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:remnants-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+
+[[code type="css"]]
+
+/*
+    Remnants Theme (made by Qual; requested by Blairin and loosely based on the proposed aesthetic by Dr.Pierson)
+    [2020 Wikidot Theme]
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+/* General Variables Section: */
+
+#container {
+    font-family: 'Special Elite', cursive;
+
+    box-shadow: inset 0px -20em 15em 20em rgb(0 0 0 / 75%);
+    text-shadow: 0px 0px 1px var(--sidebar-hover-background);
+}
+
+body {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aremnants-theme/Remnants_Background.png);
+    background-size: auto;
+    background-repeat: repeat;
+}
+
+#page-content {
+    font-family: verdana;
+    font-size: 100%;
+
+    font-style: normal;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    padding-left: 0.5em;
+}
+
+#page-title {
+    font-family: 'IM Fell English', serif;
+    color: var(--primary-text-color);
+    letter-spacing: 1px;
+    text-shadow: 2px -3px 1px rgb(255 255 255 / 15%), -4px 3px 2px rgb(255 255 255 / 10%);
+    font-size: 2.5em;
+
+    border-bottom: 2px solid rgb(103 103 103);
+    box-shadow: 0px 2px 0px rgb(128 128 128 / 30%);
+}
+
+li, p {
+    line-height: 143%;
+}
+
+
+
+/* Top and Side bar Section: */
+
+#top-bar ul li ul {
+    box-shadow: 0px 0px 8px rgb(246 230 116 / 10%);
+}
+
+#top-bar ul li.sfhover a:hover, #top-bar ul li:hover a:hover {
+    text-shadow: 0px 0px 10px var(--nav-hover-background), 1px -1px 2px rgb(255 255 255 / 15%), -1px 2px 2px rgb(255 255 255 / 15%);
+}
+
+.heading {
+    font-family: 'IM Fell English', serif;
+    font-weight: 100;
+    text-shadow: 2px -3px 1px rgb(255 255 255 / 15%), -4px 3px 2px rgb(255 255 255 / 15%);
+    letter-spacing: 1px;
+}
+
+#side-bar div.menu-item a {
+    border: 1px solid transparent;
+    font-family: 'Special Elite', cursive;
+    font-weight: 100;
+    padding-left: 1em;
+}
+
+#side-bar div.menu-item a:hover {
+    border: 1px solid var(--main-border-color);
+    box-shadow: 0px 0px 10px rgb(246 230 116 / 77%);
+}
+
+
+
+/* Header Section: */
+
+#header h1 a::before {
+    font-family: 'IM Fell English', serif;
+    margin-left: 25px;
+    text-decoration: none;
+    text-shadow: 0px 0px 10px rgb(204 204 204 / 30%), 10px -10px 3px rgb(255 255 255 / 15%), -11px 7px 4px rgb(255 255 255 / 10%), 40px 8px 4px rgb(255 255 255 / 10%);
+    letter-spacing: 0.9px;
+    color: rgb(255 255 255 / 85%);
+}
+
+#header h2::before {
+    color: rgb(241 229 148 / 50%);
+    font-family: 'Special Elite', cursive;
+    margin-left: 50px;
+    text-shadow: 0px 0px 8px rgb(241 229 148 / 40%), 10px -10px 3px rgb(255 255 255 / 5%), -11px 7px 3px rgb(255 255 255 / 4%), 40px 8px 2px rgb(255 255 255 / 4%);
+    font-size: 100%;
+    font-weight: 100;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+}
+
+h1, h2 {
+    color: #e2e2e2;
+    font-family: 'IM Fell English', serif;
+    font-weight: bold;
+
+    text-shadow: 2px -3px 1px rgb(255 255 255 / 15%), -4px 3px 3px rgb(255 255 255 / 15%);
+}
+ 
+ h3, h4, h5, h6 {
+    font-family: 'Special Elite', cursive;
+    text-shadow: 0px 0px 5px #7d7d7d;
+}
+
+
+
+/* Link Variable Section: */
+
+a {
+    font-weight: bold;
+    transition: all 0.2s ease-in;
+    text-shadow: 0px 0px 10px var(--nav-hover-background), 1px -1px 2px rgb(255 255 255 / 8%), -1px 2px 2px rgb(255 255 255 / 8%);
+}
+
+#page-content li a {
+    text-shadow: 0px 0px 2px black, 0px 0px 10px var(--nav-hover-background), 1px -1px 2px rgb(255 255 255 / 15%), -1px 2px 2px rgb(255 255 255 / 15%);
+    letter-spacing: 2px;
+}
+ 
+a.newpage {
+    text-shadow: none!important;
+    font-weight: normal;
+}
+ 
+a:hover {
+    font-weight: bold;
+    transition: all 0.2s ease-in;
+    text-shadow: 0px 0px 20px rgb(246 230 116), 3px -5px 1px rgb(255 255 255 / 15%), -3px 4px 2px rgb(255 255 255 / 15%);
+}
+
+#page-content a:hover {
+    text-shadow: 0px 0px 20px rgb(246 230 116), 3px -5px 1px rgb(255 255 255 / 15%), -3px 4px 2px rgb(255 255 255 / 15%);
+}
+
+strong {
+    font-weight: bold;
+    color: #d4d4d4;
+    letter-spacing: 1px;
+    text-shadow: 0px 0px 2px rgb(204 204 204 / 50%);
+}
+
+
+
+
+/* Divider Variable Section: */
+
+hr {
+    background: linear-gradient(90deg, #a2a2a2 30%, #666 80%, transparent 100%);
+    Margin: 1em 1em;
+    height: 1px;
+    box-shadow: 0px 1px 3px rgb(204 204 204 / 60%);
+}
+
+#side-bar hr {
+    Margin: 1em 0em;
+}
+
+.content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    background: linear-gradient(90deg, #a2a2a2 30%, #666 80%, transparent 100%);
+}
+
+
+
+/* Side Tabview Section: */
+
+.yui-nav li {
+    min-height: 24px;
+}
+
+.sideTabview .yui-nav {
+    border: var(--main-border) !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--main-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--main-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.sideTabviewMini .yui-navset .yui-nav {
+    border: none!important;
+}
+ 
+.sideTabviewMini .yui-navset .yui-content {
+    border-top: var(--tabview-border)!important;
+}
+
+.sideTabviewMini .yui-nav li a {
+    width: 104%;
+}
+
+.yui-navset .yui-nav .selected {
+    margin: none!immportant;
+}
+
+.yui-navset a, .yui-navset a:hover {
+    text-shadow: none!important;
+}
+
+
+
+
+/* Font Variable Section: */
+
+.IM-Fell {
+    font-family: 'IM Fell English', serif;
+    line-height: 18px;
+}
+
+.NewTegomin {
+    font-family: 'New Tegomin', serif;
+    font-size: 160%;
+    line-height: 26px;
+}
+
+
+
+/* Rating Module Variable Section: */
+
+.rateContainer {
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+
+
+/* Sidenote Variable Section: */
+
+.sidenote.sidenoteLock-false:hover .sidenoteH {
+    background: var(--sidenote-open-background);
+    color: white;
+    box-shadow: 0 0 5px var(--nav-hover-background);
+}
+
+@media (max-width: 999px) {
+.sidenoteH {
+    background: var(--sidenote-open-background);
+    color: white;
+    box-shadow: 0 0 5px var(--nav-hover-background);
+    }
+}
+
+
+/* Bottom Variable Section: */
+
+.license-area
+    background: rgb(47 47 51 / 30%);
+}
+
+.hovertip {
+    border: var(--main-border)!important;
+}
+
+
+
+/* Miscellaneous Variable Section: */
+
+.open-themes-container {
+    display: none;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--main-border);
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-primary-text-color);
+}
+
+.content-box, .content-panel, #toc, .image-block, .sidenoteContainer, .tableStyle, .yui-navset, blockquote, table.wiki-content-table, .content-block, .info-block, .featured-block, .news-block, .sideTabview .yui-navset {
+    box-shadow: inset 0px 0px 5px rgb(0 0 0 / 30%), 0px 0px 8px rgb(246 230 116 / 10%)
+}
+
+
+
+/* User Name*/
+
+#printuser {
+    color: var(--text-color);
+    background-color:transparent;
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: var(--text-color);
+    box-shadow: 0.5px 1px 3px #4e4e4e;
+    text-shadow: 1px 1px 2px #fff;
+    background: rgb(255 255 255 / 8%);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+#login-status a {
+    color: var(--text-color);
+ 
+}
+ 
+#login-status a:hover {
+    color: var(--link-color);
+}
+ 
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: 0px solid #ccc;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.6);
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    box-shadow: 0px 0px 10px rgb(246 230 116 / 77%);
+    color: white;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    box-shadow: 0 0px 5px var(--nav-hover-background);
+    color: var(--text-color);
+}
+ 
+
+
+/* Buttons Variable Section: */
+
+#h-perpage:hover, .optionstd a:hover, .new-post .btn:hover, #history-form-1 .btn-sm:hover, .well .btn-sm:hover, .change-textarea-size a:hover, .buttons .btn-small:hover, .action-area .btn-default:hover, .action-area .btn-primary:hover, .col-lg-10 .form-control:hover, .form-actions .btn-danger:hover, .buttons .btn-default:hover, .target a:hover, .buttons .btn-danger:hover, #edit-cancel-button:hover, #edit-save-button:hover, .button-close-message:hover, .button-close-window:hover, .button-cancel:hover, .button-insert-code:hover, #wd-ed-codewizard-type:hover, #wd-ed-imagewizard-position:hover, #wd-ed-imagewizard-uri:hover, #wd-ed-imagewizard-byuri .button:hover, #wd-ed-imagewizard-flickr:hover, #wd-ed-imagewizard-byflickr .button:hover, .query-area .button:hover, .button-close:hover, .button-rename:hover, .button-no\,-cancel:hover, .button-yes\,-delete:hover, #file-upload-form .btn-primary:hover, .button-move:hover, #action-area .buttons .btn-primary:hover, #edit-page-form .buttons .btn-info:hover, #view-diff-div .button:hover, .button-yes\,-revert:hover, .modal-footer .btn-danger:hover, .modal-footer .btn-default:hover, .modal-footer .btn-primary:hover, #mba-apply:hover, .yui-content .button:hover, .btn-warning:hover, #edit-meta-newtag-form div .btn:hover, .new-page-box .button:hover, #page-templates:hover, #recent-posts-category:hover, .forum-recent-posts-box form .btn:hover, .owindow .button-bar .btn:hover {
+    box-shadow:0px 0px 5px rgb(246 230 116 / 77%)
+}
+
+
+:root {
+
+/* Text Variable Section: */
+
+    --text-color: #bcbcbc; 
+    --primary-text-color: #bababa;
+    --nav-hover-background: rgb(246 230 116 / 50%);
+
+/* Background Variable Section: */
+
+    --body-background: #2f2f33;
+
+    --primary-background: #262528;
+    --content-bar-background: #1f1d21;
+    --news-block-body-panel-background-even: #2f2f33;
+
+    --template-block-background: #1a1414;
+
+/* Header Variable Section: */
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'The Remnants';
+    --header-tagline-custom-text: 'Reality Torn Asunder';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aremnants-theme/Remnants-Theme_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aremnants-theme/Remnants_Header.png);
+    --header-tagline-top: 8px;
+
+/* Link Variable Section: */ 
+
+    --link-color: rgb(195 179 64 / 90%);
+    --link-hover-color: #d4c773;
+    --new-page-color: rgb(97 88 30 / 50%);
+
+    --sidebar-crit-corner-color: var(--link-hover-color);
+    --star-rating-hue: 200deg;
+
+
+/* Button Variable Section: */ 
+
+    --button-border: 1px solid #ccc;
+    --button-background: var(--main-border-color);
+    --button-hover-border: 1px solid #e0e0e0;
+    --button-hover-background: var(--nav-hover-background);
+
+/* Search Variable Section: */ 
+ 
+    --search-button-background: var(--primary-background);
+    --search-button-hover-background: var(--nav-hover-background);
+    --search-input-color: var(--primary-background);
+    --search-input-hover: 
+    --search-input-text: #ccc;
+ 
+/* Topbar Variable Section: */ 
+
+    --topbar-dropdown-background: #171717;
+    --topbar-hover-background: var(--main-border-color);
+    --topbar-divider: 1px solid #222;
+    --topbar-dropdown-border-color: var(--main-border-color);
+  
+/* Tabview Variable Section: */ 
+ 
+    --tabview-background: var(--content-bar-background);
+    --tabview-bar-border: 5px solid var(--main-border-color);
+    --tabview-button-selected-background: var(--main-border-color);
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: #505050;
+ 
+/* Side-Tabview Variable Section: */ 
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--main-border-color);
+    --tabview-side-button-divider: 1px solid var(--main-border-color);
+ 
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: var(--tabview-side-button-selected-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--tabview-side-button-hover-background);
+ 
+
+/* Side-Tabview Variable Section: */ 
+ 
+    --BT-resizer-background: #111;
+    --BT-scrollbar-thumb-background: #38363a;
+    --BT-scrollbar-thumb-hover-background: #3b3e32;
+
+/* Border Variable Section: */ 
+
+    --basic-border: 1px solid #666666;
+
+    --main-border: 1px solid var(--main-border-color);
+    --main-border-color: #5f5f61;
+
+    --tabview-side-border: var(--main-border);
+    --owindow-border: var(--main-border);
+    --footnote-border: var(--main-border);
+    --account-options-border: var(--main-border);
+    --toc-border: var(--main-border);
+    --content-panel-border: var(--main-border);
+    --blockquote-border: 3px dashed var(--main-border-color);
+    --image-block-border: var(--main-border);
+    --star-rating-border: var(--main-border);
+    --tabview-border: var(--main-border);
+    --table-border: var(--main-border);
+    --template-block-border: var(--main-border);
+    --tags-border: 2px solid var(--main-border-color);
+    --sidenote-contents-border: 1px dashed var(--main-border-color);
+    --sidenote-figure-border: var(--main-border);
+
+/* Misc. Variable Section: */ 
+
+    --sidenote-open-background: var(--nav-hover-background);
+    --account-options-border: 1px solid var(--nav-hover-background);
+
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+
+}
+
+
+/* File General Variables Section: */
+
+.remnants-file {
+    font-family: 'Special Elite', cursive;
+    font-size: 110%; 
+
+    background: #e5d7c1;
+    margin: 0.5em 1em;
+    padding: 1.5em;
+    padding-left: 2em;
+    box-shadow: 2px 2px 1px #171717, inset 0px 0px 1em black, inset 0 0 100px rgb(185 185 185 / 30%);
+    border: 2px solid rgb(128 128 128 / 50%);
+    border-left: 4px solid rgb(128 128 128 / 50%);
+}
+
+.remnants-file p {
+    text-indent: 5px;
+    transform: rotateZ(0.2deg);
+}
+
+
+
+/* File Text-Color Variables Section: */
+
+.remnants-file, 
+.remnants-file .decimalStyle,  .remnants-file table.wiki-content-table td, .remnants-file table.wiki-content-table th,
+.remnants-file .sidenoteH, .remnants-file .sidenoteC, .remnants-file blockquote, .remnants-file #toc,  .remnants-file .header-panel,  .remnants-file .footer-panel, .remnants-file .yui-nav li a em {
+    color: #31312c;
+}
+
+.remnants-file .sidenote.sidenoteLock-false .sidenoteC, .remnants-file .sidenote.sidenoteLock-false .sidenoteI {
+    color: #31312c;
+}
+
+.remnants-file strong {
+    color: #4e4e46;
+    text-shadow: 0 0 3px rgb(0 0 0 / 40%);
+}
+
+.remnants-file hr {
+    background: #3a342f;
+}
+
+
+
+/* File Link Variables Section: */
+
+.remnants-file a {
+    color: #2522cc;
+    text-decoration: underline;
+    text-shadow: 0 0 10px #8c8c8c, 2px -2px 1px rgb(0 128 128 / 30%);
+    padding: 1px 2px;
+    transition: all 0.2s ease-in;
+    font-weight: normal;
+}
+
+.remnants-file a.newpage {
+    color: rgb(128 0 128 / 50%);
+    text-decoration: line-through;
+    padding: 1px 2px;
+    text-shadow: 0px 0px 10px #8162ff73, 0px -3px 1px #ff00ff38, 0px 2px 1px rgb(255 0 255 / 30%) !important;
+}
+ 
+.remnants-file p a:hover, .remnants-file .collapsible-block a:hover, .remnants-file .footnotes-footer a:hover, .remnants-file #toc a:hover {
+    color: #000;
+    transition: 0.3s;
+    padding: 1px 2px;
+    background: #fbfb38;
+    border: none;
+}
+
+
+
+/* Shadow Variables Section: */
+
+.remnants-file .content-box, .remnants-file .content-panel, .remnants-file #toc, .remnants-file .image-block, .remnants-file .sidenoteContainer, .remnants-file .tableStyle, .remnants-file .yui-navset, .remnants-file  blockquote, .remnants-file table.wiki-content-table, .remnants-file .content-block, .remnants-file  .info-block, .remnants-file .featured-block, .remnants-file .news-block, .remnants-file .sideTabview .yui-navset {
+    box-shadow: inset 0px 0px 5px rgb(0 0 0 / 30%), 0px 0px 8px rgb(0 0 0 / 30%), 10px -10px 6px rgb(37 34 202 / 5%), -10px 10px 6px rgb(37 34 202 / 5%);
+    transform: rotate(0.1deg);
+}
+
+/* Light Box Background Variables Section: */
+
+.remnants-file .image-block img,
+.remnants-file .starStyle, .remnants-file .decimalStyle, .remnants-file  table.wiki-content-table td,
+.remnants-file blockquote, .remnants-file .body-panel,  .remnants-file .news-block .body-panel:nth-child(even), .remnants-file .content-panel, .remnants-file #toc,  .remnants-file .sidenoteH, .remnants-file .sidenoteC {
+    background: #d0bfa5;
+}
+
+.remnants-file .yui-navset .yui-content, .remnants-file .yui-navset .yui-nav .selected a, .remnants-file .yui-navset .yui-nav .selected a:focus, .remnants-file .yui-navset .yui-nav .selected a:hover {
+    color: #31312c;
+    background: #d0bfa5;
+}
+
+
+
+/* Dark Box Background Variables Section: */
+
+.remnants-file .cellStyle, .remnants-file .translationStyle, .remnants-file .readingStyle, .remnants-file .header-panel, .remnants-file .footer-panel, .remnants-file table.wiki-content-table th, .remnants-file .yui-nav, .remnants-file .compactTabview .yui-nav {
+    background: #a59c8b;
+}
+
+
+
+/* Tabview Variables Section: */
+
+.remnants-file .compactTabview .yui-nav, .remnants-file .yui-navset .yui-nav, .remnants-file .yui-navset .yui-navset-top .yui-nav {
+    border: var(--main-border)!important;
+}
+
+.remnants-file .yui-navset .yui-nav a:hover, .remnants-file .yui-navset .yui-nav a:focus {
+    background: #bfb4a1;
+}
+
+.remnants-file .compactTabview .yui-navset {
+    background: none;
+    box-shadow: none!important;
+}
+
+.remnants-file .sideTabviewMini .yui-nav li a {
+    width: 96%;
+    font-size: 85%;
+}
+
+.remnants-file .sideTabview .yui-navset {
+    background: linear-gradient(to right, #a59c8b 25%, #d0bfa5 0);
+}
+
+.remnants-file .sideTabview .selected em {
+    background: #d0bfa5!important;
+}
+
+
+
+/* File Image Variables Section: */
+
+.remnants-file .image-block {
+    border: 10px solid #eaece2;
+}
+
+.remnants-file .image-block .image-caption {
+    font-weight: 200;
+    background: #eaece2;
+    border-top: 4px solid #b3b3b3;
+}
+
+
+
+/* File Misc. Variables Section: */
+
+.remnants-file h1, .remnants-file h2 {
+    color: #232323;
+    text-shadow: 2px -3px 1px rgb(0 0 0 / 15%), -4px 3px 3px rgb(137 137 137 / 15%);
+}
+
+.remnants-file blockquote {
+    border: 1px solid #5f5f61;
+}
+
+@media (max-width: 999px) {
+.remnants-file .sidenoteH {
+    background: var(--sidenote-open-background)!important;
+    color: white!important;
+    box-shadow: 0 0 5px var(--nav-hover-background)!important;
+    }
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Assets (Images & Fonts)" hide="- Assets (Images & Fonts)"]]
+
+[[=]]
+++ **Remnants Assets:**
+[[/=]]
+
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Remnants Logo
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aremnants-theme/Remnants_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+----
+
+[[=]]
+++ **Remnants Class Fonts:**
+[[/=]]
+
+[[span class="IM Fell"]] IM Fell Text [[/span]]
+> @@ [[span class="IM Fell"]] IM Fell Text [[/span]] @@
+
+[[span class="SpecialElite"]] SpecialElite Text [[/span]]
+> @@ [[span class="SpecialElite"]] Special Elite Text [[/span]] @@
+
+----
+[[/collapsible]]
+
+[[=]]
+++ **File Block:**
+[[/=]]
+
+**Remnants File Block:** Based on [http://rpcauthority.wikidot.com/component:remnants-office-theme-archived Remnants File Theme]
+> @@ [[div class="remnants-file"]] @@
+> @@ Remnants File Contents @@
+> @@ [[/div] @@
+
+[[div class="remnants-file"]]
+[[include :rpcsandbox:pallet]]
+
+**To remove the ink bleed effect on bold text, simply copy paste:**
+> @@ [[module css]] @@
+> @@ .remnants-file strong {  @@
+> @@      color: #4a4a21; @@
+> @@      text-shadow: none;  @@
+> @@ }  @@
+> @@ [[/module]] @@
+
+[[/div]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:remnants-theme/code/1); @@
+> @@ [[/module]] @@
+

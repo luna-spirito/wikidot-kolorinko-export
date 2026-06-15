@@ -1,0 +1,31 @@
+---
+title: "GRP-014 — \"Temple of Psyche\""
+tags: ["contact-hazard", "cosmic-embers", "destabilization-hazard", "document", "extra-dimensional-hazard", "extra-terrestrial-hazard", "grp", "sensory-hazard", "teleportation-hazard"]
+page_id: "1312091667"
+site: "rpcauthority"
+slug: "temple-of-psyche"
+revision: 25
+revision_id: "1524050325"
+author: 3050074
+timestamp: 1724285012
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Temple of Vision[[/span]]
+
+[[include component:rate]]
+
+[[module css]]
+@import url(https://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+
+/*
+http://rpcauthority.wikidot.com/fragment:psyche-0
+http://rpcauthority.wikidot.com/fragment:psyche-1
+*/
+
+[[/module]]
+
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+

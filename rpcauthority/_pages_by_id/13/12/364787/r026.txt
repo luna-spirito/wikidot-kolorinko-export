@@ -1,0 +1,1017 @@
+---
+title: "Blue Star Theme"
+tags: ["theme"]
+page_id: "1312364787"
+site: "rpcauthority"
+slug: "component:blue-star-theme"
+revision: 26
+revision_id: "1523154961"
+author: 5982545
+timestamp: 1721595632
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:blue-star-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+
+/*
+    Blue Star Theme (made by Qual; requested by Sovereign Authority)
+    [2020 Wikidot Theme]
+*/
+
+
+
+/* General Content Section: */
+
+#content-wrap {
+    text-shadow: var(--blue-star-text-shadow);
+    max-width: 1250px;
+    margin: 3px auto 0;
+}
+
+body {
+    font-family: var(--body-font);
+    letter-spacing: 1px;
+
+    background-image: var(--body-background-pattern);
+    background-size: 30%;
+}
+
+#main-content {
+    border-left: var(--main-content-border);
+    border-right: var(--main-content-border);
+    box-shadow: 3px 0px 0 rgb(0 0 0 / 15%), var(--blue-fade-shadow);
+    background: var(--main-content-background);
+}
+
+#page-content {
+    font-size: 110%;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: 3px;
+
+    padding: 1em;
+    margin: 1em;
+
+    background: var(--body-background);
+    border: 4px double var(--faint-border-color);
+    box-shadow: var(--blue-fade-shadow);
+}
+
+#page-title {
+    font-family: var(--title-font);
+    font-size: 2.5em;
+    letter-spacing: 1px;
+
+    padding: 0.25em;
+    padding-left: 0.5em;
+    padding-bottom: 0px;
+
+    margin-left: -0.4em;
+    margin-right: -0.4em;
+    margin-top: -0.45em;
+
+    background: var(--title-background);
+    border-bottom: var(--page-title-border);
+
+    text-shadow: var(--page-title-text-shadow);
+    box-shadow: var(--page-title-box-shadow);
+}
+
+
+
+#page-title:before {
+    content: "»";
+}
+
+
+
+/* Inscribed Hebrew Variables Section: */
+
+#page-content:before, #page-content:after {
+    color: var(--faint-border-color);
+    font-family: var(--title-font);
+    word-spacing: 16px;
+
+    text-align: center;
+    display: block;
+    border-top: 4px double var(--faint-border-color);
+    border-bottom: 4px double var(--faint-border-color);
+}
+
+#page-content:before {
+    content: 'אמונה בעם האמיתי האחד של אלוהים, לאורך כל הזמן';
+
+    font-size: 100%;
+    text-shadow: var(--before-hebrew-shadow);
+    margin-bottom: 1em;
+}
+
+#page-content:after {
+    content: 'למען ביטחון העם היהודי';
+
+    font-size: 200%;
+    text-shadow: var(--after-hebrew-shadow);
+}
+
+
+
+/* Page Header Section: */
+
+.starStyle {
+    box-shadow: none!important;
+}
+
+#header h1 a::before {
+    font-family: var(--title-font);
+    font-size: 101%;
+    font-weight: 600;
+    letter-spacing: 2px;
+
+    text-decoration: none;
+    text-shadow: 3px 0px 0 rgb(0 0 0 / 15%);
+
+    margin-left: 0px;
+}
+
+#header h2::before {
+    font-family: var(--title-font);
+    font-size: 179%;
+    letter-spacing: 8px;
+    text-shadow: 3px 0px 0 rgb(0 0 0 / 15%);
+
+    margin-left: 0px;
+    line-height: 23px;
+}
+
+
+
+/* Headers Section: */
+
+h1 {
+    color: var(--blue-color);
+    font-family: var(--title-font);
+    font-weight: bold;
+    text-shadow: 2.5px 0px 0 rgb(0 0 0 / 10%), var(--blue-star-text-shadow);
+}
+ 
+h2, h3, h4, h5, h6 {
+    color: var(--blue-color);
+    font-family: var(--title-font);
+    font-weight: bold;
+    text-shadow: 2px 0px 0 rgb(0 0 0 / 15%), var(--blue-star-text-shadow);
+}
+
+
+
+ /* Link Variables Section: */
+
+a {
+    font-weight: bold;
+}
+ 
+a.newpage {
+    font-weight: bold;
+    text-shadow: none;
+}
+ 
+a:hover {
+    font-weight: bold;
+}
+
+
+
+/* Sidebar Section: */
+
+#side-bar {
+    width: 17.5em;
+    padding: 1em;
+    padding-top: 0px;
+ }
+
+#side-bar .heading, #side-bar div.menu-item a {
+    font-family: var(--body-font);
+    box-shadow: var(--side-bar-shadow);
+}
+
+#side-bar .heading {
+    color: #e4e4e4;
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 2px 0px 0px rgb(0 0 0 / 50%);
+
+    background: var(--blue-color);
+
+    border-top: 2px solid var(--dark-blue-color);
+    border-bottom: 2px solid var(--dark-blue-color);
+
+    padding: 0.4em 1em 0.4em 1em;
+    padding-left: 1em;
+    margin: 0px calc(0.5em - -2px) 0px -0.4em;
+}
+
+#side-bar div.menu-item a {
+    background: var(--main-content-background);
+    border-bottom: 1px solid var(--blue-color);
+    margin: 0 calc(-1em - 1px) 0 -0.45em;
+    width: 207px;
+}
+
+#side-bar div.menu-item a:before {
+    content: "►";
+}
+
+#top-bar ul li ul li a {
+    font-family: var(--block-font);
+    text-shadow: var(--blue-star-text-shadow);
+}
+
+#side-bar hr {
+    margin: 1em 0em;
+    display: none;
+}
+
+hr, .content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    margin: 1em -0.5em;
+    box-shadow: var(--divider-shadow);
+}
+
+hr {
+    height: 2px;
+}
+
+.content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    height: 1px;
+}
+
+
+
+/* Sidetab Section: */
+
+.sideTabview .yui-nav {
+    border: var(--basic-border) !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--basic-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--basic-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.sideTabviewMini .yui-navset .yui-nav {
+    border: none!important;
+}
+ 
+.sideTabviewMini .yui-navset .yui-content {
+    border-top: var(--tabview-border)!important;
+}
+
+
+/* Rating Module Section: */
+
+
+.rateContainer {
+    font-family: var(--block-font);
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+/* Edit Box Section: Makes sure editing looks okay */
+
+#action-area h1 {
+    margin: 1em;
+}
+
+.pager .current {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: 2px solid var(--link-color);
+}
+
+form#edit-page-form {
+    border: 6px double var(--faint-border-color);
+    border-left: 7px solid var(--faint-border-color);
+    border-right: 7px solid var(--faint-border-color);
+
+    background: var(--primary-background);
+    box-shadow: var(--blue-fade-shadow);
+    padding: 10px 40px 1em 10px;
+}
+ 
+table.edit-page-bottomtable {
+    margin: 10px 10px;
+}
+ 
+.page-options-bottom a {
+    padding: 0px 7px;
+}
+
+
+
+/* Scrollbar Variables Section: */
+
+::-webkit-scrollbar-track {
+    border: 2px solid rgb(0 0 0 / 8%);
+/* for vertical scrollbars */
+    width: 7px;
+/* for horizontal scrollbars */
+    height: 7px;
+}
+
+
+
+ /* Font Variation Section: */
+
+.Ruhl {
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Roboto {
+    font-family: 'Quantico', sans-serif;
+}
+
+
+
+/* Miscellaneous Variables Section: */
+
+strong {
+    color: var(--bold-color);
+}
+
+#footer {
+    margin-top: 0px;
+}
+
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus,
+#top-bar .search-button a:hover {
+    color: var(--link-color);
+}
+#top-bar .search-button a { line-height: 1.2em;}
+
+.modal-body {
+    background: var(--news-block-body-panel-background-even);
+}
+
+.sidenoteI {
+    padding: 0px;
+    border: var(--basic-border);
+}
+
+
+#license-area {
+    background: var(--primary-background);
+}
+
+#account-options, #top-bar ul li ul, 
+.compactTabview .yui-nav, .compactTabview .yui-content, 
+#search-top-box-form input[type=submit], #top-bar .search-button a, #search-top-box input.empty, 
+.content-box, .content-panel, #toc, .image-block, .sidenoteContainer, .tableStyle, .yui-navset, blockquote, table.wiki-content-table, .content-block, .info-block, .featured-block, .news-block, .sideTabview .yui-navset {
+    box-shadow: 5px 5px 0px rgb(0 0 0 / 10%), var(--blue-fade-shadow);
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    font-family: var(--block-font);
+}
+
+.sidenoteC {
+    font-family: var(--block-font);
+}
+
+table.page-history td.optionstd a {
+    font-size: 80%;
+}
+
+
+.hovertip {
+    border: var(--basic-border)!important;
+}
+
+
+
+@media (max-width: 768px) {
+
+#main-content {
+    max-width: 90%;
+    margin: 0 5%;
+    padding: 40px 10px;
+    padding-top: 15px;
+    }
+}
+
+
+
+/* User Name*/
+
+#printuser {
+    color: var(--text-color);
+    background-color:transparent;
+    font-family: var(--body-font);
+}
+ 
+#login-status {
+    color: var(--text-color);
+    font-size: 90%;
+    text-shadow: 1px 0px 0px rgb(255 255 255 / 50%), var(--blue-star-text-shadow);
+
+    padding: 3px 5px;
+    padding-left: 4px;
+
+    background: var(--login-background);
+    z-index: 30;
+    border-radius: 6px;
+    box-shadow: 0.5px 1px 3px #1e1e1e;
+}
+ 
+#login-status a {
+    color: var(--text-color);
+ 
+}
+ 
+#login-status a:hover {
+    color: var(--link-color);
+}
+ 
+#login-status ul a {
+    color: var(--blue-color);
+    background: var(--primary-background);
+    font-family: var(--block-font);
+    text-shadow: var(--blue-star-text-shadow);
+}
+ 
+#login-status ul a:hover {
+    color: var(--login-hover);
+    background: var(--nav-hover-background);
+}
+ 
+#account-options, a#account-topbutton {
+    color: var(--text-color);
+    font-family: var(--body-font);
+}
+
+:root {
+
+/* General Variables Section: (Main Var., Sidebar, put Custom/Reference Variables here) */
+ 
+    --text-color: #333;
+    --primary-text-color: var(--blue-color);
+    --topbar-dropdown-color: var(--link-color);
+
+    --sidebar-color: var(--nav-hover-background);
+    --sidebar-hover-color: #fcfcfc;
+    --sidenote-figure-open-color: var(--primary-background);
+    --sidenote-open-background: var(--blue-color);
+
+
+/* Background Variables Section: (Important) */
+ 
+    --body-background: #e6e9ec;
+    --nav-hover-background: var(--blue-color);
+
+    --primary-background: #f3f4f5;
+    --content-bar-background: #d9d9d9;
+    --content-panel-background: #f1f1f1;
+    --news-block-body-panel-background-even: #e5e7ea;
+
+    --modal-header-background: var(--primary-background);
+    --blockquote-background: var(--primary-background);
+    --horizontal-rule-background: var(--blue-color);
+
+/* Header Variables Section: */
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Blue Star';
+    --header-tagline-custom-text: 'כָּחוֹל כוכב';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/BT_Header_Icon.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/Blue_Star_Header.png);
+    --header-color: var(--blue-color);
+    --header-tagline-color: var(--dark-blue-color);
+    --header-tagline-top: 8px;
+ 
+/* Redirect Variables Section: (links, buttons) */
+ 
+    --link-color: #1a65af;
+    --link-hover-color: #3683d0;
+    --new-page-color: #999fa5;
+
+/* Button Variables Section: */ 
+
+    --button-border: var(--basic-border);
+    --button-background: var(--content-bar-background);
+    --button-hover-border: 2px solid var(--link-color);
+    --button-hover-background: var(--news-block-body-panel-background-even);
+    --button-hover-color: var(--dark-blue-color);
+ 
+/* Search Bar Variables Section: (in header: top of pg.) */
+ 
+    --search-button-background: var(--content-bar-background);
+    --search-button-border: var(--basic-border);
+
+    --search-button-hover-background: var(--news-block-body-panel-background-even);
+    --search-button-hover-border: 2px solid var(--link-color);
+
+    --search-input-color: var(--news-block-body-panel-background-even);
+    --search-input-hover-color: var(--dark-blue-color);
+
+    --search-input-border: var(--basic-border);
+    --search-input-hover: var(--content-panel-background);
+    --search-input-hover-border: 2px solid var(--link-color);
+ 
+/* Topbar Variables Section: */
+ 
+    --topbar-dropdown-background: var(--content-panel-background);
+    --topbar-text-color: #ccc;
+    --topbar-hover-background: var(--dark-blue-color);
+    --topbar-divider: var(--basic-border);
+    --topbar-dropdown-border-color: var(--blue-color); 
+ 
+ 
+/* Tabview Variables Section: (Reg., Large, Hidden...) */
+ 
+    --tabview-background: var(--content-panel-background);
+    --tabview-bar-border: 5px solid var(--nav-hover-background);
+    --tabview-button-selected-background: var(--nav-hover-background);
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: rgb(19 75 131 / 30%);
+ 
+/* Side-Tabview Variable Section: */ 
+ 
+    --tabview-side-tabs-background: var(--content-panel-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--nav-hover-background);
+    --tabview-side-button-divider: var(--blue-border);
+ 
+    --tabview-side-scrollbar-background: var(--content-bar-background);
+    --tabview-side-scrollbar-thumb-background: var(--nav-hover-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--dark-blue-color);
+
+/* Scrollbar Variables Section: (Use usually in random with "--tabview-side-scrollbar..." var.) */
+ 
+    --BT-resizer-background: var(--news-block-body-panel-background-even);
+    --BT-scrollbar-thumb-background: var(--dark-blue-color);
+    --BT-scrollbar-thumb-hover-background: var(--blue-color);  
+
+/* Tables Variables Section: */
+ 
+    --table-header-color: var(--dark-blue-color);
+    --table-cell-color: var(--text-color);
+    --table-box-shadow: var(--content-box-shadow);
+ 
+/* Plain Variables Section: (Used to make custom WT-varaibles work) */
+
+    --v1: #134b83;
+    --v2: #0d3761;
+    --v3: var(--v2);
+    --v4: #cfd1d4;
+    --v5: 0px 0px 2px rgb(19 75 131 / 30%);
+    --v6: 0px 0px 15px rgb(19 75 131 / 10%);
+    --v7: 'Frank Ruhl Libre', serif;
+    --v8: 'Recursive', sans-serif;
+    --v9: 'Recursive', sans-serif;
+    --v10: rgb(217 217 217 / 40%);
+    --v11: rgb(230 233 236 / 40%);
+    --v12: 5px solid var(--v4);
+    --v13: 3px 0px 0px rgb(255 255 255 / 50%);
+    --v14: 0px 2px 0px rgb(0 0 0 / 20%);
+    --v15: 3px solid var(--v1);
+    --v16: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/Blue_Star_Background.png);
+    --v17: rgb(217 217 217 / 85%);
+    --v18: 0px -1px 0px rgb(29 29 29 / 50%), 0px 2px 0px rgb(0 0 0 / 20%);
+    --v19: 0.5px 0px 0px rgb(188 192 197 / 20%), 0px 0px 12px rgb(255 255 255 / 40%);
+    --v20: 1px 0px 0px rgb(188 192 197 / 20%), 0px 0px 12px rgb(255 255 255 / 40%);
+    --v21: -3px 0px 0 rgb(0 0 0 / 15%), 3px 0px 0 rgb(0 0 0 / 15%), var(--v6);
+    --v22: #fff;
+
+    --WT-v1: #1d5d5d;
+    --WT-v2: #185252;
+    --WT-v3: #c5c5c5;
+    --WT-v4: rgb(38 123 123 / 50%);
+    --WT-v5: 0px 0px 15px rgb(38 123 123 / 15%);
+    --WT-v6: 0px 0px 15px rgb(38 123 123 / 20%);
+    --WT-v7: 'Frank Ruhl Libre', serif;
+    --WT-v8: 'Recursive', sans-serif;
+    --WT-v9: 'Recursive', sans-serif;
+    --WT-v10: rgb(48 51 61 / 40%);
+    --WT-v11: rgb(19 20 25 / 40%);
+    --WT-v12: 5px solid rgb(59 255 246 / 15%);
+    --WT-v13: 3px 0px 0px rgb(0 0 0 / 50%);
+    --WT-v14: var(--v13) 0px 2px 0px rgb(59 255 246 / 15%);
+    --WT-v15: 3px solid var(--WT-v1);
+    --WT-v16: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/WT_Blue_Star_Background.png);
+    --WT-v17: rgb(19 20 25 / 40%);
+    --WT-v18: 0px -1px 0px var(--WT-v4), 0px 2px 0px var(--WT-v4);
+    --WT-v19: 0.5px 0px 0px rgb(255 255 255 / 20%), 0px 0px 12px var(--WT-v5);
+    --WT-v20: 1px 0px 0px rgb(243 243 243 / 20%), 0px 0px 12px var(--WT-v5);
+    --WT-v21: -3px 0px 0 rgb(59 255 246 / 15%), 3px 0px 0 rgb(59 255 246 / 15%), var(--WT-v6);
+    --WT-v22: #fff;
+
+
+/* Custom Variables Section: (Variables made specifically for this theme that are hard-coded in) */
+
+    --blue-color: var(--v1);
+    --dark-blue-color: var(--v2);
+    --bold-color: var(--v3);
+    --WT-blue-color: var(--WT-v1);
+    --WT-dark-blue-color: var(--WT-v2);
+    --WT-bold-color: var(--WT-v3);
+
+    --faint-border-color: var(--v4);
+    --blue-star-text-shadow: var(--v5);
+    --blue-fade-shadow: var(--v6);
+    --WT-faint-border-color: var(--WT-v4);
+    --WT-blue-star-text-shadow: var(--WT-v5);
+    --WT-blue-fade-shadow: var(--WT-v6);
+
+    --title-font: var(--v7);
+    --body-font: var(--v8);
+    --block-font: var(--v9);
+    --WT-title-font: var(--WT-v7);
+    --WT-body-font: var(--WT-v8);
+    --WT-block-font: var(--WT-v9);
+
+    --title-background: var(--v10);
+    --main-content-background: var(--v11);
+    --main-content-border: var(--v12);
+    --WT-title-background: var(--WT-v10);
+    --WT-main-content-background: var(--WT-v11);
+    --WT-main-content-border: var(--WT-v12);
+
+    --page-title-text-shadow: var(--v13);
+    --page-title-box-shadow: var(--v14);
+    --page-title-border: var(--v15);
+    --WT-page-title-text-shadow: var(--WT-v13);
+    --WT-page-title-box-shadow: var(--WT-v14);
+    --WT-page-title-border: var(--WT-v15);
+
+    --body-background-pattern: var(--v16);
+    --login-background: var(--v17);
+    --WT-body-background-pattern: var(--WT-v16);
+    --WT-login-background: var(--WT-v17);
+
+    --divider-shadow: var(--v18);
+    --before-hebrew-shadow: var(--v19);
+    --after-hebrew-shadow: var(--v20);
+    --side-bar-shadow: var(--v21);
+    --login-hover: var(--v22);
+    --WT-divider-shadow: var(--WT-v18);
+    --WT-before-hebrew-shadow: var(--WT-v19);
+    --WT-after-hebrew-shadow: var(--WT-v20);
+    --WT-side-bar-shadow: var(--WT-v21);
+    --WT-login-hover: var(--WT-v22);
+
+
+/* Miscellaneous Variables Section: (Text, template, critcorner, star hue) */
+
+ 
+    --text-box-form-background: #fcfcfc;
+    --text-box-form-border: var(--basic-border);
+    --template-block-background: var(--news-block-body-panel-background-even);
+
+    --code-background: var(--primary-background); 
+    --sidebar-crit-corner-color: var(--link-hover-color);
+    --star-rating-hue: 0deg;
+
+    --star-rating-background: var(--content-panel-background);
+    --star-rating-cell-background: var(--content-bar-background);
+    --star-rating-reading-background: var(--content-bar-background); 
+    --star-rating-stars-box-shadow: none!important;
+
+    --footer-color: #ccc;
+    --footer-background: var(--blue-color);
+
+/* Borders Variables Section: (Sect. Size may vary based on Theme; Check for dead custom var., either clump variables together or put them in the corresponding sect.) */
+ 
+    --basic-border: 2px solid var(--blue-color);
+    --dashed-border: 1px dashed var(--text-color);
+    --thick-border: 2px solid var(--text-color);
+ 
+    --content-block-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --content-box-border-color: var(--blue-color);
+ 
+    --topbar-dropdown-border-color: var(--blue-color);
+    --tabview-side-border: var(--basic-border);
+    --owindow-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --tags-border: var(--basic-border);
+    --toc-border: var(--basic-border);
+    --blockquote-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --tabview-border: var(--basic-border);
+    --table-border: var(--basic-border);
+    --template-block-border: var(--basic-border);
+    --sidenote-contents-border: var(--basic-border);
+    --sidenote-figure-border: var(--basic-border);
+ 
+
+/* Account Opt. (Don't put w/ rest of borders, to be used in tandem w/ Hover box in extended options)*/
+ 
+    --account-options-border: var(--basic-border);
+
+
+
+/* White Theme General Variables Section: (Main Var., Sidebar, put Custom/Reference Variables here) */
+ 
+    --WT-text-color: #ccc;
+    --WT-content-bar-color: #777;
+    --WT-primary-text-color: var(--WT-blue-color);
+    --WT-topbar-dropdown-color: var(--WT-link-color);
+
+    --WT-sidebar-color: var(--link-color);
+    --WT-sidebar-hover-color: #fcfcfc;
+    --WT-sidenote-figure-open-color: #ccc;
+    --WT-sidenote-open-background: var(--WT-blue-color);
+
+
+/* White Theme Background Variables Section: (Important) */
+ 
+    --WT-body-background: #131419;
+    --WT-nav-hover-background: var(--WT-blue-color);
+
+    --WT-primary-background: #0e0e0e;
+    --WT-content-bar-background: #262626;
+    --WT-content-panel-background: #0e0e0e;
+    --WT-news-block-body-panel-background-even: #1f1f1f;
+
+    --WT-modal-header-background: var(--content-bar-background)!important;
+    --WT-blockquote-background: var(--WT-primary-background);
+    --WT-horizontal-rule-background: var(--blue-color);
+
+/* White Theme Header Variables Section: */
+ 
+    --WT-header-text-visibility: hidden;
+    --WT-header-custom-text: 'Blue Star';
+    --WT-header-tagline-custom-text: 'כָּחוֹל כוכב';
+    --WT-header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/WT_Header_Icon.png);
+    --WT-header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/WT_Blue_Star_Brick_Header%20.png);
+    --WT-header-color: var(--WT-blue-color);
+    --WT-header-tagline-color: var(--WT-dark-blue-color);
+    --WT-header-tagline-top: 8px;
+ 
+/* White Theme Redirect Variables Section: (links, buttons) */
+ 
+    --WT-link-color: #319c9c;
+    --WT-link-hover-color: #5bb3b3;
+    --WT-new-page-color: #4a4a52;
+
+/* White Theme Button Variables Section: */
+
+    --WT-button-border: var(--WT-basic-border);
+    --WT-button-background: var(--WT-content-bar-background);
+    --WT-button-hover-border: 2px solid var(--WT-link-color);
+    --WT-button-hover-background: var(--WT-news-block-body-panel-background-even);
+    --WT-button-hover-color: var(--WT-link-color);
+ 
+/* White Theme Search Bar Variables Section: (in header: top of pg.) */
+ 
+    --WT-search-button-background: var(--WT-content-bar-background);
+    --WT-search-button-border: var(--WT-basic-border);
+
+    --WT-search-button-hover-background: var(--WT-news-block-body-panel-background-even);
+    --WT-search-button-hover-border: 2px solid var(--WT-link-color);
+
+    --WT-search-input-color: var(--WT-news-block-body-panel-background-even);
+    --WT-search-input-hover-color: var(--WT-text-color);
+
+    --WT-search-input-border: var(--WT-basic-border);
+    --WT-search-input-hover: var(--WT-content-panel-background);
+    --WT-search-input-hover-border: 2px solid var(--WT-link-color);
+ 
+/* White Theme Topbar Variables Section: */
+ 
+    --WT-topbar-dropdown-background: var(--WT-content-panel-background);
+    --WT-topbar-text-color: #ccc;
+    --WT-topbar-hover-background: var(--WT-dark-blue-color);
+    --WT-topbar-divider: var(--WT-basic-border);
+    --WT-topbar-dropdown-border-color: var(--WT-link-color);
+ 
+ 
+/* White Theme Tabview Variables Section: (Reg., Large, Hidden...) */
+ 
+    --WT-tabview-background: var(--WT-content-panel-background);
+    --WT-tabview-bar-border: 5px solid var(--WT-nav-hover-background);
+    --WT-tabview-button-selected-background: var(--WT-nav-hover-background);
+    --WT-tabview-button-selected-color: #fff;
+    --WT-tabview-button-hover-background: var(--WT-faint-border-color);
+ 
+/* White Theme Side-Tabview Variable Section: */
+ 
+    --WT-tabview-side-tabs-background: var(--WT-content-panel-background);
+    --WT-tabview-side-button-hover-background: var(--WT-tabview-button-hover-background);
+    --WT-tabview-side-button-selected-background: var(--WT-nav-hover-background);
+    --WT-tabview-side-button-divider: var(--WT-blue-border);
+ 
+    --WT-tabview-side-scrollbar-background: var(--WT-content-bar-background);
+    --WT-tabview-side-scrollbar-thumb-background: var(--WT-nav-hover-background);
+    --WT-tabview-side-scrollbar-thumb-hover-background: var(--WT-dark-blue-color);
+
+/* Scrollbar Variables Section: (Use usually in random with "--tabview-side-scrollbar..." var.) */
+ 
+    --WT-resizer-background: var(--WT-news-block-body-panel-background-even);
+    --WT-scrollbar-thumb-background: var(--WT-dark-blue-color);
+    --WT-scrollbar-thumb-hover-background: var(--WT-blue-color);
+ 
+
+/* White Theme Tables Variables Section: */
+ 
+    --WT-table-header-color: #74a09c;
+    --WT-table-cell-color: var(--WT-text-color);
+    --WT-table-box-shadow: var(--WT-content-box-shadow);
+
+/* White Theme Miscellaneous Variables Section: (Text, template, critcorner, star hue) */
+ 
+    --WT-text-box-form-background: #242a2d;
+    --WT-text-box-form-border: var(--WT-basic-border);
+    --WT-template-block-background: var(--WT-news-block-body-panel-background-even);
+
+    --WT-code-background: var(--WT-primary-background);
+    --WT-sidebar-crit-corner-color: var(--WT-link-hover-color);
+ 
+    --WT-star-rating-background: var(--WT-content-panel-background);
+    --WT-star-rating-cell-background: var(--WT-content-bar-background);
+    --WT-star-rating-reading-background: var(--WT-content-bar-background); 
+
+    --WT-footer-background: var(--WT-dark-blue-color);
+
+
+/* White Theme Borders Variables Section: (Sect. Size may vary based on Theme; Check for dead custom var., either clump variables together or put them in the corresponding sect.) */
+ 
+    --WT-basic-border: 2px solid var(--WT-blue-color);
+    --WT-dashed-border: 1px dashed var(--WT-text-color);
+    --WT-thick-border: 2px solid var(--WT-text-color);
+ 
+    --WT-content-block-border: var(--WT-basic-border);
+    --WT-content-panel-border: var(--WT-basic-border);
+    --WT-content-box-border-color: var(--WT-blue-color);
+ 
+    --WT-tabview-side-border: var(--WT-basic-border);
+    --WT-owindow-border: var(--WT-basic-border);
+    --WT-footnote-border: var(--WT-basic-border);
+    --WT-tags-border: var(--WT-basic-border);
+    --vtoc-border: var(--WT-basic-border);
+    --WT-blockquote-border: var(--WT-basic-border);
+    --WT-image-block-border: var(--WT-basic-border);
+    --WT-star-rating-border: var(--WT-basic-border);
+    --vtabview-border: var(--WT-basic-border);
+    --WT-table-border: var(--WT-basic-border);
+    --WT-template-block-border: var(--WT-basic-border);
+    --WT-sidenote-contents-border: var(--WT-basic-border);
+    --WT-sidenote-figure-border: var(--WT-basic-border);
+
+
+/* Variables Specific to White Theme  */
+    --WT-open-themes-border: 2px solid var(--blue-color);
+    --WT-open-themes-background: var(--primary-background);
+    --WT-open-themes-color: var(--dark-blue-color);
+    --WT-open-themes-hover-color: var(--link-hover-color);
+    --WT-open-themes-hover-border: solid 2px var(--WT-link-color);
+    --WT-misc-1: #c0c0c0;
+
+/* Variables Specific to Black Theme */
+    --BT-open-themes-border: 2px solid var(--WT-blue-color);
+    --BT-open-themes-background: var(--WT-primary-background);
+    --BT-open-themes-color: var(--WT-dark-blue-color);
+    --BT-open-themes-hover-color: var(--WT-link-hover-color);
+    --BT-open-themes-hover-border: solid 2px var(--WT-link-color);
+ 
+
+/* Account Opt. (Don't put w/ rest of borders, to be used in tandem w/ Hover box in extended options)*/
+ 
+    --WT-account-options-border: var(--WT-basic-border);
+}
+
+
+
+theme:white {
+#login-status {
+    background: var(--WT-login-background);
+}
+
+body {
+    background-image: var(--WT-body-background-pattern);
+}
+
+#main-content {
+    border-left: var(--WT-main-content-border);
+    border-right: var(--WT-main-content-border);
+    background: var(--WT-main-content-background);
+    }
+}
+
+[[/code]]
+
+[[/collapsible]]
+
+> "I'm finally getting the recognition that I deserve."
+>     - Sinaticus (probably)
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Assets (Images and Fonts)" hide="- Assets (Images and Fonts)"]]
+----
+[[=]]
+++ **Blue Star Assets:**
+[[/=]]
+
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Blue Star Insignia
+++++ (Current Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/Blue_Star_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Blue Star Old Logo
+++++ (Legacy Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/Blue_Star_Insignia.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Alternate Insignia
+++++ (White Theme Icon)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/WT_Header_Icon.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Israeli-Authority Logo
+++++ (Made by Blairin)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/Israeli_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Israeli-Authority Flag
+++++ (Made by Blairin)
+[[/div]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ablue-star-theme/Israeli_Authority_Flag.png width="100%"]]
+[[/div]]
+[[/div]]
+
+----
+
+[[=]]
+++ **Blue Star Class Fonts:**
+[[/=]]
+
+[[span class="Ruhl"]] "Ruhl Text" [[/span]]
+> @@ [[span class="Ruhl"]] Ruhl Text [[/span]] @@
+
+[[span class="Roboto"]] "Roboto Text" [[/span]]
+> @@ [[span class="Roboto"]] Roboto Text [[/span]] @@
+
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:blue-star-theme/code/1); @@
+> @@ [[/module]] @@
+

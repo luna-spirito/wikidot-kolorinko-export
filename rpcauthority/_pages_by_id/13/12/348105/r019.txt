@@ -1,0 +1,301 @@
+---
+title: "Protocol Laboratory Tone"
+tags: ["containment-tone", "format", "information"]
+page_id: "1312348105"
+site: "rpcauthority"
+slug: "protocol-laboratory-tone"
+revision: 19
+revision_id: "1462142564"
+author: 3638389
+timestamp: 1655668556
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+@import url(http://rpcauthority.wikidot.com/component:apd-background/code/1);
+[[/module]]
+
+
+> In-universe, an Anomaly Processing Documents (APD) is utilized by Prolab to formulate a Containment Protocol for an anomaly. Often, it is a loose collection of paperwork, physical notes, scraps, and test logs collected by File Managers. Their paperwork is often rough around the edges: Usually broken into multiple pages at a time and riddled with numerous revisions and excerpts of team discussions debates. It is also common for the format to be [http://rpcauthority.wikidot.com/rpc-110-j modified.]
+> 
+> Out-of-universe, this is another way to approach an anomaly through trial and error. Observation is key for harder-to-contain anomalies, and conjecture is documented at every step of the process. 
+
+
++ Main Page(s):
+
+[[div class="prolab-apd"]]
+
+[[include component:apd-classification 
+
+Title = Anomaly Processing Document |
+
+Codename = "XXXX"[[footnote]] An informal anomaly designation used before proper RPC designation is assigned. May put actual RPC File number or N/A if it is an existing anomaly under re-review. Example titles include: "Latenight Fling" "Free-Ninty-Nine" or "Toleless Bellcurve" [[/footnote]] |
+
+Lethality = XXXX[[footnote]] A rough approximation. Ex's: "red," "--red-- black" or "red-black" [[/footnote]] |
+
+Specialist = XXXX [[footnote]] Containment Specialist leading the Project: Title and Name. 
+Ex's: Engr. W.D. Taylor, Dr.Sherman [[/footnote]] | 
+
+Type = Object / Entity / Location / Other | 
+
+Properties = XXX, XXX, XXX[[footnote]] Limit to three properties. [[/footnote]] 
+]]
+
+
+++ **Overview:**
+
+[Provide a short description of the anomaly. Describe basic physical attributes,[[footnote]] dimensions (width, length, and height), weight, volume (if feasible), affected area, possible age, and/or personal traits. [[/footnote]] and properties. Additionally, you may make inferences on how traits may impact logistics in the form of //quotes.//]
+
+**Example:**
+> //"Quotes can be added throughout each section to add flare, commenting on how progress with the anomaly is going."//
+> 
+> - [Prolab Personnel]
+
+
+----
+
+
+++ **Precautions:**
+
+[Provide a brief description on how to interact with anomaly/how the anomaly is currently being kept subdued. Although similar, this section is  //is **not** a substitute for Containment Protocol and are often temporary/jerry-rigged precautions.//[[footnote]] If it is an object, mainly focus on how transporting/experimenting without activating any possible effects. If it is an entity and/or sentient, consider its living situation, hostility, and abilities. If it is a location, consider its properties, any related entities originating from it, how you might traverse it, how you might nullify its effects, or prevent/secure outside contact. 
+
+You may also make inferences on lethality/possible future difficulties. [[/footnote]]]
+
+> # [Adding a listicle/collapsible can help to transcribe the specific steps or equipment required for the safe activation of an anomaly.]
+> # [Your writing style should informal yet precise.]
+
+[[/div]]
+
+
+
+[[div class="prolab-apd"]]
+
+
+++ **Discovery:**
+
+[Provide a short, non-clinical summary of where, when, and how the anomaly was acquired by Containment. Treat it as if part of a written police report. Try to keep under or at 3 paragraphs.]
+
+----
+
+
+++ **Exploration Log/Interviews:** Optional
+
+[Provide a written transcript of dialog/events relating to any significant anomalous encounter.[[footnote]] Prolab interviews are gruffer, to the point, and key on small details. The closing statements may also include any inferences on how information gathered can inform/affect final procedures and/or testing. [[/footnote]]]
+
+[[collapsible show="[+] Action Log/Interview Formats" hide="[-] Action Log/Interview Formats"]]
+
+**Exploration Log Format:**
+
+> > **Foreword:** [Small passage describing or giving context to the footage or recording]
+> > 
+> > **Person(s) Involved:** [Note signifgant individuals or crucial equipment involved]
+> >
+> > **<Begin Log, [optional time of day and date]>**
+> >
+> > **00:00 - 00:50:** [written action]
+> >
+> > [Repeat as necessary]
+> >
+> > **<End Log, [optional time of day and date]>**
+> >
+> > **Closing Statement:** [Small summary and passage on what transpired afterward and any inferences that could be made by Prolab]
+
+**Interview Log Format:**
+
+> > **Interviewed:** [The person, persons, or RPC being interviewed]
+> >
+> > **Interviewer:** [Interviewer, can be blocked out using █]
+> >
+> > **Foreword:** [Small passage describing the interview]
+> >
+> > **<Begin Log, [optional time info]>**
+> >
+> > **Interviewer:** [speech]
+> >
+> > **Person:** [speech]
+> >
+> > [Repeat as necessary]
+> >
+> > **<End Log, [optional time info]>**
+> >
+> > **Closing Statement:** [Small summary and passage on what transpired afterward and any inferences that could be made by Prolab]
+
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+
+
++ Addenda Page(s):
+
+[[div class="prolab-apd"]]
+
+
+++ **Test, Exploration Logs/Addendum:**
+
+[Provide a series of tests in an attempt to contain the anomaly. Tests are done either as a proof of concept, construct mock cells, or to specifically see how to best neutralize a specific trait.]
+
+[[collapsible show="[+] Test/Event Log Formats" hide="[-] Test/Event Log Formats"]]
+
+**Test/Mock-Containment Log Format:**
+
+> > **Test Log:** [XXX; List the tests in numerical order (ala, Test #32)]
+> > 
+> > **Date:** [XX/XX/XX, Time of Day (optional)]
+> > 
+> > **Equipment:** [List any/all equipment or resources used in the experiment (CSDs, protective equipment)]
+> > 
+> > **Procedure:** [Explain the experiment's procedure, purpose, and give a closing hypothesis.]
+> > 
+> > **Results:** [Summarize the events of the experiment and any reaction(s) by the anomaly.]
+> > 
+> > **Notes:** [Provide a concluding statement on the experiment, as well any inferences made by the team.]
+
+**Event Log Format:**
+
+> > **Event-Log:** [XX; List tests in numerical order (Log 03)]
+> > 
+> > **Location:** [Facility and Wing; Community, Country]
+> > 
+> > **Date:** [XX/XX/XX]
+> > 
+> > **Involved Personnel:** [List any significant Authority staff]
+> > 
+> > **Description:** [Provide a detailed summary of the anomalous incident, including timestamps, casualties, damages, and duration of the entire event.]
+> > 
+> > **Notes:** [Optional; Provide any inferences/commentary on the results of the event.]
+[[/collapsible]]
+@@@@
+
+[[/div]]
+
+
+
+[[div class="prolab-apd"]]
+
+
+++ **Conclusion:**
+
+[Write a detailed report/synopsis on what should be used to contain an anomaly.[[footnote]] Proposals can be potentially optional; can end the article on a note of 'needing further testing.' [[/footnote]] Although typically at the end, they can be included throughout the addendum portion of the article.]
+
+> > **Protocol Proposal:** [Informal Designation ("XXXX"), date when officially filed (XX/XX/XX)]
+> > 
+> > **Description:** [A brief description of final thoughts and a proposed containment protocol. Provide specifics on classification, accommodations, cell dimensions, and needed-staff.]
+> > 
+> > **Resources:** [A rough list of material(s) and (optionally) estimated total cost.]
+> > 
+> > **Result:** [List whether it was approved/disapproved and results of the tallied vote.[[footnote]] All intended final Protocol Proposals must be approved by a seven-person Procedural Inquisition by a majority vote of at least four. Additional personnel that can both approve a Containment Procedure are Containment Managers and Site-Directors. [[/footnote]] If disapproved, provide a summary of the official reason/concerns. If approved, state additional information such as the anomaly being handed off to other depts., assigned Register Phenomena Code, and where the anomaly will be housed.]
+
+
+[[collapsible show="[+] Footnote" hide="[-] Footnote"]]
+[[footnoteblock]]
+[[/collapsible]]
+
+[[/div]]
+
+----
+
++ Format:
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:apd-background/code/1); @@
+> @@[[/module]]@@
+> 
+> @@[[div class="prolab-apd"]]@@
+> 
+> @@[[include component:apd-classification@@
+> @@Title = Anomaly Processing Document |@@
+> 
+> @@Codename = "XXXX"[[footnote]] An informal anomaly designation used before proper RPC designation is assigned. May put actual RPC File number or N/A if it is an existing anomaly under re-review. Example titles include: "Latenight Fling" "Free-Ninty-Nine" or "Toleless Bellcurve" [[/footnote]] |@@
+> 
+> @@Lethality = XXXX[[footnote]] A rough approximation. Ex's: "red," "--red-- black" or "red-black" [[/footnote]] |@@
+> 
+> @@Specialist = XXXX [[footnote]] Containment Specialist leading the Project: Title and Name.@@
+> @@Ex's: Engr. W.D. Taylor, Dr.Sherman [[/footnote]] |@@
+> 
+> @@Type = Object / Entity / Location / Other |@@
+> 
+> @@Properties = XXX, XXX, XXX[[footnote]] Limit to three properties. [[/footnote]] @@
+> @@]]@@
+> 
+> @@++ **Section Header:**@@
+> @@Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.@@
+> 
+> @@[[/div]]@@
+>  
+
+----
+
++ Extra Info:
+
+[[collapsible show="[+] Tips on How-to-Write" hide="[-] Tips on How-to-Write"]]
+
++ **Tips on How-to-Write:**
+
+* __Not every anomaly is worth investigation, especially if it's simple.__ Pre-built chambers exist for a reason. Usually, only specific anomalies require a lot of attention needed.
+
+* Write from Containment's Perspective; be essentialist and inferential based on available data. Use excerpts to communicate viewpoints throughout the piece.
+
+* __Use a blended/informal tone;__ be conversational and to-the-point. In-universe, this document is a collection of physical notes. While they're still scientists, excessive formalization only bogs down their fast-paced nature.
+
+* Add lively debate -- but remember, show don't tell. Use a smart mix of excerpts to tell part of your story. Documented debates when deliberating finalized classes/lethality are common. 
+
+* Testing is both the core of the article and the heart of Prolab. Everything in Containment is trial and error. Failure is common, and suggestions are frequent.
+
+* __Reign testing in.__ While AET is an apt comparison, ProLab isn't Research. Above all else, their job is to test anomalies for exploits and to them into containment chambers. Every move is deliberate towards containing phenomena.
+
+* Not even final proposals are __final.__ Even when finalized, Protocol is modified when new/substantial information comes to light. It is not uncommon for Prolab to revisit an anomaly more than once.
+
+* //**Go hog-wild.**// Prolab is one of the few departments in containment not held down by many budgetary constraints when specifically testing. Use eccentric methods: Rocket launchers, actors, thaumaturgical explosives -- their Division is founded on a myth-busters-esque mantra of seeing whatever will get the job done.
+
+----
+[[/collapsible]]
+
+[[collapsible show="[+] APD Optional Fonts" hide="[-] APD Optional Fonts"]]
+
+Here are some optional fonts you can use throughout the format to add variety.
+
+* [[span class="Inconsolata"]] **Inconsolata Font:** [[/span]]
+> @@[[span class="Inconsolata"]] Inconsolata Text [[/span]]@@
+> ----
+> [[span class="Inconsolata"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."  [[/span]]
+
+* [[span class="RobotoMono"]] **Roboto Font:** [[/span]]
+> @@[[span class="RobotoMono"]] Roboto Text [[/span]]@@
+> ----
+> [[span class="RobotoMono"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Lemonada"]] **Lemonada Font:** [[/span]]
+> @@[[span class="Lemonada"]]Lemonada Text  [[/span]]@@
+> ----
+> [[span class="Lemonada"]]"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Fugaz"]] **Fugaz Font:** [[/span]]
+> @@[[span class="Fugaz"]] Fugaz Text [[/span]]@@
+> ----
+> [[span class="Fugaz"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="OleoScript"]] **Oleo Script Font:** [[/span]]
+> @@[[span class="OleoScript"]] Oleo Script Text [[/span]]@@
+> ----
+> [[span class="OleoScript"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Courgette"]] **Courgette Font:** [[/span]]
+> @@[[span class="Courgette"]] Courgette Text [[/span]]@@
+> ----
+> [[span class="Courgette"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Caveat"]] **Caveat Font:** [[/span]]
+> @@[[span class="Caveat"]] Caveat Text [[/span]]@@
+> ----
+> [[span class="Caveat"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="CoveredByYourGrace"]] **Covered By Your Grace Font:** [[/span]]
+> @@[[span class="CoveredByYourGrace"]] Covered By Your Grace Text [[/span]]@@
+> ----
+> [[span class="CoveredByYourGrace"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+----
+[[/collapsible]]
+

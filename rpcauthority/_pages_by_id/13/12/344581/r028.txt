@@ -1,0 +1,269 @@
+---
+title: "RPC-423"
+tags: ["alpha", "emotional-hazard", "rpc", "toxic-hazard", "transmutation-hazard", "utility", "yellow"]
+page_id: "1312344581"
+site: "rpcauthority"
+slug: "rpc-423"
+revision: 28
+revision_id: "1516631682"
+author: 3050074
+timestamp: 1702329475
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+[[/module]]
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Humorism[[/span]]
+
+[[module CSS]]
+
+sup {
+    vertical-align: top;
+    position: relative;
+    top: -0.5em;
+}
+
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif,
+    font-style: normal;
+    color: black;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[include component:rate]]
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/rpc-423/four-temperaments.jpeg|caption=The Four Temperaments as depicted in an 18th-century woodcut.]]
+
+[[span class="tooltip"]][[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Alpha-Yellow.png style="margin: -10px 0px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]][[/span]][[/span]]
+[[span class="tooltip"]] [[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Utility.png style="margin: -10px 45px; height: 45px"] class="tooltip"]] [[span class="tooltiptext"]]Secondary Class:
+Utility[[/span]][[/span]]
+
+**Registered Phenomena Code:** 423
+
+**Object Class:** Alpha-Yellow ##004FFF|(UT)##
+
+[[include component:hazards transmutation=true|toxic=true|emotional=true]]
+
+**Containment Protocols:** Thaumaturgical knowledge of RPC-423 is to be spread amongst individuals approved by the Containment team. Usage of RPC-423 outside of the testing environment is to follow Site-008's patient priority guidelines.
+
+All historical records of RPC-423 are to be erased or labelled as a hoax by the DHPS.[[footnote]]Directorate for Historical and Pseudohistorical Studies. [[/footnote]]
+
+**Description:** RPC-423 is a thaumaturgical system concerning the human body, psyche, and medicine colloquially referred to as Humorism. 
+
+RPC-423 is capable of curing genetic, pathological, and physical ailments deemed terminal and incurable by mainstream medicine. This is done by the injection of RPC-423-1 into the affected organs through textile interaction between the caster and the target during a period of strong emotional response.
+
+RPC-423-1 acts as a fuel used in the casting of RPC-423. While chemically identical to urea, RPC-423-1 is created through biological means; urea produced from inorganic material is not an applicable substitute. Although naturally present in most forms of life, RPC-423-1 is inert without proper training and as such not an issue of secrecy.
+
+RPC-423 can be divided into 4 schools, designated RPC-423-A, RPC-423-B, RPC-423-C, and RPC-423-D. While functionally similar, the disparities between the organs affected by any specific variety and their high degrees of required proficiency prompt an average caster to focus on a singular school.
+ 
+Each school of RPC-423 includes a source (an area where RPC-423-1 is produced) and sink (the area of the body where RPC-423-1 is stored). Both the production rate and capability for the storage of RPC-423-1 are directly related to the physical health of the sources and sinks. Should either the source or the sink be incapable of performing its usual function through genetic, pathological, or physical means, the subject will become incapable of both producing and using RPC-423-1, even if said usage would remedy the aforementioned limitation.
+
+An imbalance of any variety of RPC-423-1 will result in significant mood swings manifesting as the temperament related to the school the presence of which is insufficient. Both overuse and overexposure to RPC-423-1 will result in the subject and the patient developing deficiencies related to the targeted systems, usually manifesting in the form of reduced bodily fluid production, swelling, and malabsorption. The nature of the aforementioned symptoms often results in the user of RPC-423 being incapable of using the sources and sinks affected by the deficiency. While similar to those manifested through non-anomalous means, the symptoms are incapable of being targeted and cured by another form of RPC-423. The application of mainstream medicine in these instances is therefore appropriate.
+
+||~ Designation||~ Temperament||~ Source ||~ Sink ||~ Affected Systems ||
+|| RPC-423-A || Phlegmatic[[footnote]]Unemotional and stolidly calm disposition.[[/footnote]] || Brain || Spinal Cord|| Nervous, Immune, Integumentary ||
+|| RPC-423-B || Choleric[[footnote]]Bad-tempered or irritable.[[/footnote]] || Gallablader || Stomach|| Exctretory, Exocrine, Digestive ||
+|| RPC-423-C || Sanguine[[footnote]]Optimistic or positive.[[/footnote]] || Liver || Veins || Circulatory, Respiratory, Reproductive ||
+|| RPC-423-D || Melancholic[[footnote]]Expressing pensive sadness.[[/footnote]] || Spleen || Bone Marrow || Endocrine, Muscular, Skeletal||
+
+First instructions regarding the usage of RPC-423 with empirical effect on the baseline reality were published in 1789 by French philosophers Rogerus Lacan and Baudoin Du Toit under the title of “Humorism: The Humor Irregularities in Human Behaviour and Their Effect on the Material Plane”. Their book drew from the teachings of Galen, Hippocrates, and Alcmaeon of Croton amongst others.
+
+------
+
++++ Timeline
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/rpc-423/Dominique-Jean-Larrey.jpeg|caption=Dominique Jean Larrey, an outspoken critic of RPC-423.]]
+
+600 BC - 1782 AD: Many cultural and medical texts relating to Humorism were produced throughout Europe and the Middle East, yet no empirical proof that either was of anomalous origins is present.
+
+1782: “Humorism: The Humor Irregularities in Human Behaviour and Their Effect on the Material Plane” is published by  Rogerus Lacan and Baudoin Du Toit in secret and shared exclusively amongst their social groups.
+
+1780s: Following its initial printing, the book concerning RPC-423 is leaked to Venice and spreads rapidly throughout its intellectual and occult communities, as it was favoured as opposed to Witchcraft. Through its efforts, the Papal State prevented the proliferation of manuscripts throughout the Italian peninsula. While initial suppression by the //Auctoritas// in France was attempted, the unrest amidst the French Revolution (1789 – 1799) made any organized efforts ineffective.
+
+1789: Counter-revolutionary philosophers, mostly originating from the Action Française,[[footnote]]French counter-revolutionary Monarchist movement.[[/footnote]] attempted to smuggle the information regarding RPC-423 out of the country by sea amidst the French Revolution and continue its proliferation throughout French colonial territory. //Auctoritas// vessels intercepted the ship, seizing the texts.
+
+1798: Following the French conquest of Egypt, the //Commission des Sciences et des Arts// commented on the medical achievements of the Egyptian people, especially in Cairo, despite their lack of knowledge regarding RPC-423 in the //Description de L'Égypte//.
+
+During their time in Egypt, French soldiers were routinely treated for sexually transmitted diseases due to their frequent sexual interactions with natives. This led to overexposure to RPC-423-C, as documented by Dominique Jean Larrey, French surgeon and military doctor.
+
+[[div class="page"]]
+"The testicles lose their sensitivity, become debilitated, gradually diminish in volume and appear to wither. Most commonly, the change affects one then both. The afflicted [person] only notices this destruction, that occurs imperceptibly, when the testicle is reduced in volume; [by then] it is found to be annular in form and of the size of a white haricot bean. It is indolent and of a very hard consistency; the spermatic cord is similarly reduced and experiences atrophying."
+@@ @@
+[[>]]
+- Dominique Jean Larrey examining French soldiers affected by overexposure to RPC-423-C.
+[[/>]]
+[[/div]]
+
+1809: During the Battle of Ratisbon,[[footnote]]The Battle of Ratisbon was fought on 23 April 1809, during the Napoleonic Wars, between the army of the First French Empire and Austria.[[/footnote]] French Emperor Napoléon Bonaparte was wounded in action. Bonaparte mentions his contusion being healed by a user of RPC-423-C in his memoirs.
+
+1815: With the collapse of the Napoleonic government, //Auctoritas// forces were capable of extracting the majority of scholarly texts relating to RPC-423 from Paris. This was followed by a period during which texts relating to RPC-423 were routinely acquired and catalogued. Authors of the said texts, alongside any disciples, were detained.
+
+1850s: With the rising popularity of Germ Theory and active Authority suppression of the disciples, the study of RPC-423 became less popular amongst the many European Occult and intellectual communities.
+
+------
+
+[[collapsible show="[+] Addendum-1 Experiment Log#423:██/04/1962 [Clearance Level 3]" hide="[-] Close Log"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
++++ Test A
+**Schools(s)**: RPC-423-A
+@@ @@
+**Subject**: Adult male //Pan troglodytes//.[[footnote]]Also known as the common chimpanzee.[[/footnote]]
+@@ @@
+**Purpose**: Determine the utility of RPC-423 on species with similar biology to //Homo sapiens//.
+@@ @@
+**Foreword**: The subject suffered from cerebral infarction prior to the experiment.
+@@ @@
+**User**: César Ventura, Magus Primis
+@@ @@
+**Outcome**: No change in the subject’s condition was noted.
+@@ @@
+**Closing Statement**:  The subject passed away due to an untreated infarction. The use of RPC-423 seems to be exclusively applicable to //Homo sapiens//, whether due to anatomical limitations or otherwise.
+
+------
+
++++ Test B
+**School(s)**: RPC-423-C
+@@ @@
+**Subject**: CSD-8649
+@@ @@
+**Purpose**: Determine the utility of RPC-423 on foreign organs.
+@@ @@
+**Foreword**: The subject underwent a heart transplant 2 months before the experiment. Cardiomyopathy was induced.
+@@ @@
+**User(s)**: Sheridan Gusikowski, Magus Secundus
+@@ @@
+**Outcome**: The subject made a full recovery through the use of  RPC-423.
+@@ @@
+**Closing Statement**: The origin of the organ seems to be a non-issue.
+
+------
+
++++ Test C
+**Schools(s)**: RPC-423-C
+@@ @@
+**Subject**: CSD-2880 (deceased)
+@@ @@
+**Purpose**: Determine the utility of RPC-423 on dead tissue.
+@@ @@
+**Foreword**: Usage of RPC-423 was applied on the heart of a recently deceased CSD-2880.
+@@ @@
+**User(s)**: Sheridan Gusikowski, Magus Secundus
+@@ @@
+**Outcome**: Circulatory function returned to subject's heart. Movement of the Cardiac muscle was noted. Signs of cell growth were noted around the reanimated organ. After 6 hours, all functions ceased despite further attempts.
+@@ @@
+**Closing Statement**: While a singular dead organ can be reanimated, it can't be sustained without additional organ systems.
+
+------
+
++++ Test D
+**Schools(s)**: RPC-423-A, RPC-423-B, RPC-423-C, RPC-423-D
+@@ @@
+**Subject**: CSD-3552 (deceased)
+@@ @@
+**Purpose**: Attempt reanimation through the use of RPC-423.
+@@ @@
+**Foreword**: The usage of RPC-423 was applied on a recently deceased corpse of CSD-3552. 4 high-ranking Magi, each specialized in a school of RPC-423, were tasked with reanimating every organ system of the cadaver simultaneously through combined effort.
+@@ @@
+**User(s)**: ████████ ██████, Archmagus / Alexie Feeney, Magnificum / Laurine Will, Magnificum / Dorothy Lemke, Maior
+@@ @@
+**Outcome**: Brain functions returned immediately. Roughly 10 minutes following the test's beginning, CSD-3552 regained consciousness. As the experimentation team became strained, the subject experienced several organ failures due to the inadequate supply of RPC-423-1. While strongly requesting to be kept alive, euthanasia was performed.
+@@ @@
+**Closing Statement**: While unsustainable, reanimation of a deceased subject is possible.
+
+[[div style="center no-repeat; background-color: #0b1014; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++++ ##232f5d|Notice:##
+[[/=]]
+
+[[=]]
++++++ ##aaaaa9|Further attempts at reanimation of sapient subjects are denied by the Office of Ethics and Review.##
+[[/=]]
+[[/div]]
+
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[collapsible show="[+] Addendum-2 Dr. Nikoloz Proposal#423:██/03/1971 [Clearance Level 4]" hide="[-] Close Log"]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
+++++++ ##606060|March ██, 1971, 14:32##
++++++ From: <gogi.nikoloz@authority.rpc>
++++++ Subject: The Medical Use of RPC-423
+------
+Dear Global Directors,
+
+I believe that the public release of RPC-423 — as outlined in the 1918 proposal[[footnote]]Amidst the Spanish Flu pandemic (1918-1920), the public use of RPC-423 was recommended. The request was ultimately denied.[[/footnote]] — should be reconsidered. We can cure AIDS, Leukemia. We can even cure cancer, and yet we do nothing.
+
+Now, I understand the concerns regarding breaking the veil, but I had a team perform some hypothetical calculations. If we were to slowly introduce the use of RPC-423 to the hospitals, and if we were to slowly and steadily introduce an augmented version of the RPC-423 file into the public, its study should become accepted as scientific truth in about 15 years.
+
+I don’t want to paint a picture of some perfect world where the disease is a nonissue, as having the users of RPC-423 readily available to cure the population — considering their high maintenance cost concerning both their physical and mental health — is pricey. But it could be done. People will ask questions, sure, but it could be done. We’ve dealt with larger coverups and normalizations in the past.
+
+I would appreciate it if my revision of the 1918 proposal is reconsidered and the Global Directorate voted on the issue again.
+
+With all due respect,
+
+-Dr. Nikoloz
+[[/div]]
+
+------
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
+++++++ ##606060|March ██, 1971, 18:55##
++++++ From: <andreas.bernhard@authority.rpc>
++++++ Re: The Medical Use of RPC-423
+Dear Dr. Nikoloz,
+
+I am Dr. Andreas Bernhard, the Research Overseer of RPC-423. Due to your current rank within the Authority, I was tasked with assessing your proposal before it is to be passed onto the Board.
+
+To put it simply; your request is denied. On my end, at least. I don't have complete authority over what the Board gets to see if you can imagine, and your proposal will be seen by essentially all branches of the Administration, as is usually the case with an attempt at normalizing an anomaly. But as I am the Research Overseer on the project, I am required to help you in deciding whether to re-phrase, alter, or disband your proposal.
+
+I understand your concerns — I really do. Yes, we contain several objects that would assist in the development of humanity. Yes, by releasing several of them to the public the overall state of the human species could improve. And yes, we could reduce the net misery of all mankind. If the veil is to be upheld through such efforts, I find it worth the trade-off.
+
+In your original proposal, you undermined the actual effect that releasing RPC-423 to the public will have, even under our regulation. We can normalize it all we want. We can label the people who think that a form of magic cured their muscular dystrophy as conspiracy theorists.
+
+At the end of the day, we will have access to something that the other medical companies will not. People will call us out, practically forcing us to release the patent. But we can't do that. And a global pharmaceutical operation is not just something we can sweep under the rug without disbanding all of our front companies. That is if the entire operation can even be swept under the rug.
+
+I can assist in your request getting forwarded to the Board, but I recommend you reconsider.
+
+-Dr. Bernhard
+
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[=]]
+<< [[[RPC-422]]] | RPC-423| [[[RPC-424]]] >> 
+[[/=]]
+
+[[footnoteblock]]
+

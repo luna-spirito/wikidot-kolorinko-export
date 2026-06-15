@@ -1,0 +1,579 @@
+---
+title: "RPC-632"
+tags: ["extra-dimensional-hazard", "immeasurable-hazard", "info-hazard", "research-tone", "rpc"]
+page_id: "1312322202"
+site: "rpcauthority"
+slug: "rpc-632"
+revision: 21
+revision_id: "1531675030"
+author: 4318134
+timestamp: 1755757471
+---
+
+[[include component:rate]]
+
+[[module CSS]]
+
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+
+.blockquote {
+  margin: 5px 5px;
+  padding: 20px 20px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  padding: var(--blockquote-padding);
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+/* Selected Centered Tabview Section */
+
+.centeredTabview .yui-navset {
+    box-shadow: none!important;
+}
+.centeredTabview .yui-nav {
+     border-bottom: 3px solid #3b3f44!important;
+}
+
+.centeredTabview .yui-navset .yui-nav .selected a,
+.centeredTabview .yui-navset .yui-nav .selected a:focus,
+.centeredTabview .yui-navset .yui-nav .selected a:hover {
+    background: #3b3f44;
+    color: #ccc;
+}
+
+.centeredTabview .yui-navset .yui-nav a:hover,
+.centeredTabview .yui-navset .yui-nav a:focus {
+    background: #46494e;
+}
+
+/* Centered Tabview Section: reconfigured by Qual, adopted from the Floppystyle CSS Page and BHL */
+
+
+.centeredTabview .yui-navset .yui-nav,
+.centeredTabview .yui-navset .yui-navset-top .yui-nav{
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0 auto;
+}
+
+.centeredTabview .yui-navset .yui-nav li,
+.centeredTabview .yui-navset .yui-navset-top .yui-nav li{
+     position: relative;
+     display: flex;
+     flex-grow: 2;
+     max-width: 100%;
+     margin: 0;
+     padding: 0;
+}
+.centeredTabview .yui-navset .yui-nav li a,
+.centeredTabview .yui-navset-top .yui-nav li a,
+.centeredTabview .yui-navset-bottom .yui-nav li a{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 100%;
+}
+
+.centeredTabview .yui-navset .yui-nav .selected a {
+     margin-right: none;
+}
+
+/* Make sure selected tabs work: */
+
+.centeredTabview .yui-navset .yui-nav .selected {
+    margin: 0 0em 0 0;
+}
+
+.centeredTabview .yui-nav li.selected em {
+    /* top: -1px!important; */
+    border: 0px solid transparent!important;
+}
+
+[[/module]]
+
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/location-orange.png]]
+
+**Registered Phenomena Code:** 632
+
+**Item Type:** Location
+
+**Lethality Rating:** Orange
+
+**Hazard Types:** Extra-Dimensional Hazard, Info-Hazard, Immeasurable Hazard
+
+**Involved Research Personnel:** Dr. Quint Mallabar, Magus Damien Moriarty[[footnote]] Given title/name, formerly Bobby Williams.[[/footnote]]
+
+-----
+
+**Abstract:** RPC-632 is an extra-dimensional plane in which the physical manifestation of all abstract concepts is believed to exist. Access to RPC-632 for the retrieval of said concepts is possible, although highly dangerous. Entry methods are only to be performed by qualified DOC personnel, and must be immediately shut down should the Groves count reach critical levels within the vicinity.
+
+-----
+
+**Safe Handling and Usage:** Due to RPC-632’s existence as an extra-dimensional space, no protocols are required for its seclusion from the common populace. Exploration of RPC-632 is only to be performed by selected individuals from Project Eidos. Requirements for voluntary enlistment into the project can be seen here:
+
+[[collapsible show="[+] Open Requirements List" hide="[-] Close List"]]
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+**MANDATORY REQUIREMENTS:**
+
+* The complete reading of this document and its attached files
+* No mental or physically impairing disabilities
+* Work experience around low-coherency areas
+* The ability for lucid dreaming
+* Certificate for expertise in swimming and/or water sports
+* Basic understanding of esoteric arts and rituals[[footnote]] Further context will be provided as needed during training.[[/footnote]]
+
+While not required, it is highly recommended that volunteers also possess:
+
+* Proper understanding of the Model of Planes[[footnote]] Proposed model by Dr. Lawrence of the Department of Physics: a model which seeks to explain the different overlapping “planes” of our universe. For more information, contact your local OAS administration.[[/footnote]]
+* Proper understanding of the Theory of Forms by Plato
+
+For any questions, contact Site-112’s [http://rpcauthority.wikidot.com/the-bureau-of-acquisition Department of Occult Concerns] (DOC) Chief, Magus Damien Moriarty or standing [http://rpcauthority.wikidot.com/the-office-of-analysis-and-science OAS] Head Researcher, Dr. Quint Mallabar.
+[[/div]]
+[[/collapsible]]
+Exploration of RPC-632 can be highly dangerous: anomalies that may result from Aberrations[[footnote]] See: “Groves Radiation: Measurements, General Properties, and Precautions”[[/footnote]] following the performance of the //Traumwandern//[[footnote]] Outlined series of steps, incantations, and materials by Volker von Groves to allow unconscious access into RPC-632.[[/footnote]] are to be expected. Personnel must follow certain safety criteria to prevent accidents during testing:
+
+# Personnel performing the //Traumwandern// must first be approved by the Site-112’s DOC.
+# Testing will be shut down once ambient Groves in the room reach a count of 60 Vi.[[footnote]] Testing may not resume until the area has been completely sterilized by Maintenance Union personnel.[[/footnote]]
+# A minimum of four Groves-Flint Counters are to be present in the testing room, three meters apart from each other.
+# Test subjects are to be contained in separate, bullet-proof cubicles within the testing chamber.
+# 1 bucket of specialized detergent is to be installed inside and outside the testing room to quickly remove chalk from the floor.
+# Site-112’s RSS team is to be stationed outside the testing room at all times during the procedure.
+# 6 censers are to be installed in the testing room, filled with different mixtures of incense, such as olive oil, stacte, white poppy petals, oak wood, mauve carnation petals, amongst others (this has been shown to be an effective way to dissipate Groves Radiation).
+
+In the case of an accidental Groves overflow, [http://rpcauthority.wikidot.com/anomaly-experimentation-team RSS] units will proceed to evacuate and flash-sterilize the area. All of the victims that sustained ill-effects of the Aberrations will be immediately transported to Site-112’s Medical Bay for treatment.
+
+All subjects venturing inside RPC-632 in search of RPC-632-1 instances must only retrieve, interact, or try to visualize/comprehend the specified concepts for testing. Attempts to retrieve any of the following concepts may severely endanger the lives of all Site-112’s personnel:
+
+* Life
+* Death
+* Fields of science
+* Scientific concepts
+* Religious concepts
+* Consciousness
+* Specific Individuals
+* The Ideal concept itself
+* Concepts relating to the field of anomalies
+__**Recent List Update:**__
+* Colors
+
+-----
+
+[[collapsible show="[+] Groves Radiation: Measurements, General Properties and Precautions" hide="[-] Close Document"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++++ Groves Radiation: Measurements, General Properties, and Precautions
+
+Dr. Quint Mallabar  - Magus Damien Moriarty
+Department of Occult Concerns - OAS’ Chemistry Department
+25th of March, 2020
+[[/=]]
+
+//Viotto | Sulphur | Silver | Aberration | Groves | RPC-632//
+
+-----
+
+Groves Radiation, commonly measured in Viottos (Vi),[[footnote]]
+**Groves Radiation:** Formal name given in honor of its discovery, Volker von Groves. A member of the German Tailbone Society and first scholar to fully record the effects and nature of the phenomena. Sometimes simply called Groves.
+**Viottos:** Unit measure name given by Dr. Viotto of Site-112’s DOC, having written several papers that eventually became the modern basis for studying Groves Radiation.[[/footnote]] is the name given to a form of radiation generated by both the interaction between different planes of reality⁠—Baseline Reality, the [http://rpcauthority.wikidot.com/rpc-131 Infoplane] and more specifically, RPC-632⁠—and the performance of what can be understood as “magic.” Due to its unique nature, Groves Radiation is not well understood and will likely never be completely analyzed with current technology. The following is a list of known facts about this type of radiation:
+
+(1) Current theories suggest that Groves Radiation exists on the edges of Baseline Reality that connect to the Infoplane and RPC-632. Interaction between these planes, as well as certain anomalies within them,[[footnote]] Specifically those that heavily affect the general laws of physics, such as magic, fluctuations in ACS, and dimensional rifts.[[/footnote]] causes it to enter Baseline in the form of an invisible energy.
+
+(2) Groves Radiation does not interact with matter in the same way as normal types of radiation, with most of its effects appearing to be random. An exception to this rule is its interactions with Sulphur and Silver:
+* **Sulfur:** In the presence of ambient Groves, sulfur will reach its fusion point without any present heat. This property has been used to measure the amount of Groves Radiation in any given area, that being:
+
+= 1 Vi = 1 gram of sulfur per second (1gS/s)[[footnote]]In the past, these measurements were taken with the use of 1kg sticks of sulfur. Nowadays, there exist various alternatives that can more accurately quantify ambient Groves by utilizing sulfur dioxide detectors and silver plating contained within small hand-held devices, such as the Groves-Flint Counter.[[/footnote]]
+
+* **Silver:** In the presence of ~10 Vi, silver will become fluorescent; its intensity increases as does ambient Groves. While archaic, this has become the standard for security protocols and alarms when dealing with this type of radiation.
+
+(3) As ambient Groves increase, so does the likelihood of a Grovian Aberration. Aberrations present themselves as varying anomalies generated in the vicinity of the affected area. While Aberrations are highly specific to the test being performed at the moment, some of the most common ones are:
+* The self-sustained suspension of objects in the air.
+* The sudden combustion of objects.
+* The ionization of the air.
+* In extremely high doses, starting at around 120 Vi, ambient groves may cause internal hemorrhages, internal brain-chemistry changes, cancer, seizures, irreparable bodily alterations, and/or total organ failure.
+[[/div]]
+[[/collapsible]]
+@@@@
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/rpc-632/shoresofthesea.png|caption=”At the Shores of the Sea” by Agent William A. Lavoe - 08/11/2019[[footnote]] Painted following the first documented incursion into RPC-632, and the origin for the name “Sea of Forms.” Several constructs can be seen far in the horizon from the shore, as well as clouds that cover most of the sky. Agent Lavoe described them all as “incomprehensibly perfect,” and expressed severe frustration when unable to accurately represent them in his craft.[[/footnote]]|width=100%|align=center]]
+
+**Description:** RPC-632[[footnote]] First documented by von Groves, and passed down within the Tailbone Society up to its current iteration: Site-112’s DOC.[[/footnote]] is an extra-dimensional plane believed to exist intercrossed to the Infoplane, with only its outer edges coming into contact with Baseline Reality. Going by existing testimony from members of Project Eidos, RPC-632 is measured to have a Coherency between [http://rpcauthority.wikidot.com/acs-guide ACS-2 and 3].[[footnote]] Not a completely accurate measurement due to the unusual nature of RPC-632, and the inability for subjects to bring proper equipment with them.[[/footnote]] Access to RPC-632 is currently only available by means of lucid dreaming, which has been researched from the works of Volker von Groves. This method, however, has been proven to cause major spikes of Groves Radiation within the area.
+
+The nature of RPC-632 is tied to that of abstract concepts, both in their basic and superordinate form,[[footnote]] i.e. pants and grey-blue jeans respectively[[/footnote]] which first take form from the general consciousness and memories stored in the Infoplane. These can range from the generally perceived form and identity of various religious, spiritual, political, and economic concepts, as well as those from physical entities such as buildings, objects, or people. Concepts manifest within RPC-632 in their “ideal” form, referred to as RPC-632-1. Most concepts quickly disappear from RPC-632 as they travel⁠—in the form of memotic quanta⁠—into Baseline Reality. In this process, they lose their ideal properties until reaching a “stable” form, an imperfect representation of the ideal. This process is best described by Dr. Mallabar during one of his lectures:
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+||= __**Dr. Mallabar - 30th Decennial Research Fair - “The Idea of the Ideal”**__ ||
+
+[. . .] Now, imagine the most beautiful chair you possibly can: crimson red leather, filled with Goose feathers, wood carved by the hands of a Hellenic deity, all the gist. That is the “Ideal” form a chair would take within the Sea.[[footnote]] Within the DOC, RPC-632 is also commonly referred to as “The Sea of Forms.”[[/footnote]] But for something to take an ideal form, it first requires the thought of its existence and the action of its creation. Because as we now know, the Sea is merely a passing state between the incorporeal and the material.
+
+As someone tries to replicate the ideal within the physical world, that chair begins to take form, slowly fading away from the Sea as it becomes reality. But sadly, nothing truly perfect can exist in the world, and that perfect idea for a chair becomes a Monobloc chair. This is the ultimate fate for most of the concepts that inhabit the Sea. Be it a perfect formula, a perfect building, compound, or even a perfect deity. They all become imperfect shadows of themselves within our reality. Now, any questions?
+[[/div]]
+
+However, some instances of RPC-632-1 are not capable of departing from RPC-632:
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[ You said “most.” Does that mean that some concepts behave differently? ]
+
+Quite so! You see, for something to leave the Sea, it must take form within reality, the “action” of its creation, as said before. But these actions can also simply be the thought of, or have been actions that once took place, but were never finished. They can also be concepts so recurrent that they can never fully exit the Sea. Let's think of the Eiffel tower, for example, the design it currently holds was not the one first designed, the one first thought of. It was simply one of the many ideals of its concept. It lacks its ideal magnificence, its gothic design, its cathedral look, or spiral shape…
+
+The action of their creation was taken, but never fully completed. As such, these discarded ideals are forever stuck in the sea, timeless monuments of perfect craft standing within the waves of imagination. Some, on the other hand, are permanent ideas that will never take their full form in reality. They are our colors, the ideas of our sciences, the concepts of our religions, and our psychology. They are the eternal monoliths casting a shadow upon our world.
+[[/div]]
+
+It is possible to retrieve purely ideal instances of RPC-632-1 directly from RPC-632 using a complex series of rituals devised by Volker von Groves during the 18th century, known as the //Traumwandern//. A summary of the process is as follows:
+
+# Using hand-made chalk,[[footnote]]Common chalk may be used, but that which is sourced from Italian limestone deposits is preferable.[[/footnote]] one must draw a hexagon on the floor. Each side must measure exactly two meters in length.
+# In each vertex of the hexagon, one must draw a circle with a diameter of 60cm. Each member of any given team of Project Eidos must sit within each one of those outer circles.
+# Directly in front of these circles, a new set equal in measurements must be drawn. If done correctly, a total of 12 circles must have been drawn in total across the design.
+# Lines must be drawn connecting the center of each circle to one another, thus creating a hexagram and an inner hexagon in the process. The final design should have a total of 78 lines.
+# A 2.5 meter-tall obelisk of silver, tipped with a golden pyramid, is to sit in the exact center of the design. Each person in the outer circles is to face it at all times.
+# Six members of the DOC are to stand in the center of the inner circles, facing the outer ones. They are to carry burning rods made from the //Fraxinus’// wood.[[footnote]] Also known as Ash Tree[[/footnote]] The rods shall be held above their heads while chanting the required invocations, imbuing the obelisk with the “desire” to seek a certain idea.[[footnote]]See: Volker von Groves, //Das Arkana der Ideen: Revised Edition// (Authority Press, 2011), p. 88-113.[[/footnote]]
+# Personnel within the outer circles are to consume 25gms of Fromtol-A22 to achieve REM sleep and synchronized neural oscillations with one another.[[footnote]] Commonly, this would require deep meditation, but the usage of recently manufactured drugs has been proven much more effective at allowing consistent success for the activation of the //Traumwandern.//[[/footnote]]
+
+Should all steps be followed correctly, the //Traumwandern// will activate, and the consciousness of the sleeping participants will be transported into RPC-632. During this out-of-body expedition, personnel may attempt to find and retrieve a previously determined -1 instance[[footnote]] The complexity of certain -1 instances—such as life, death, or scientific concepts—will severely hinder the ability for localization and retrieval, even with the correct desire being imbued within the obelisk.[[/footnote]] and utilize its unique properties within a certain object or place in space within Baseline Reality. The way this is done is through the usage of the burning //Fraxinus// rods, which are able to direct the physical ideal concept (materialized on top of the silver obelisk) into the desired location. Results are highly variable even when repeated multiple times.
+
+-----
+
+**Expeditions, Ideals and their Inherent Qualities:**
+
+Due to the nature of RPC-632, physical recording is impossible. As such, the following documents will be close approximations of the events as gathered from personnel testimony. For a complete list of all expeditions from Project Eidos, consult your local Office of Information Records and Security’s archive.
+
+[[collapsible show="[+] Project Eidos - Expedition #A31 - Ideal: Motion" hide="[-] Hide Expedition"]]
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+------
+[[=]]
+++ Approved by the Administration of Site-112 - Project Eidos
+[[/=]]
+------
+
+**Participants:**
+
+* 6 Members of Project Eidos - Team #Y3 (named E-1 to -6)
+* 5 Approved Members of the DOC and Magus Damien Moriarty
+* [http://rpcauthority.wikidot.com/dr-david-bucher-keller Dr. David B. Keller][[footnote]] Site-112 had rejected requests for recently deceased subjects. However, Dr. Keller from Site-151 offered to help in light of his peculiar biology: that of perpetual biological decomposition with assisted motion as a result of reanimation with the use of anomalous technology.[[/footnote]]
+* Dr. Quint Mallabar (supervising Dr. Keller)
+
+------
+
+**Foreword:**
+
+DOC personnel had attempted to perform “Necromancy” in the past with the use of different concepts, as the retrieval of the ideal of “Life” had been proven near impossible to achieve following several dozen failed expeditions (with each retrieved -1 instance only being marginally related concepts). Instead, the Department has begun to search for alternative methods to achieve reanimation through RPC-632. The current instance of -1 up for testing is the one of “motion.”
+
+-----
+
+**Traumwandern Performance:**
+
+* Magus Moriarty brings several instruments and chalk to properly draw the design of the hexagon. This process goes on for 30 minutes. Dr. Keller is sitting on a chair nearby, waiting for the expedition to be completed; Dr. Mallabar sits next to him.
+* The last line of von Groves’ diagram is drawn, and all personnel enter their respective circles. DOC personnel light their rods one by one as the rest enter deep sleep with the help of Fromtol-A22.
+* DOC personnel raise their rods and begin chanting, bringing forth the desire to “locate that which is of motion.” Slowly, the smoke divides into two streams. They float towards the nose of sleeping personnel as well as the gold pyramid on top of the obelisk, connecting them all together.
+* The glowing of the gold signals that the //Traumwandern// has been correctly performed, and personnel have entered RPC-632.
+
+A full run-through of the expedition and ensuing testing follows:
+
+[[div class="centeredTabview"]]
+[[tabview]]
+[[tab Expedition Transcript]]
+
+All six personnel wake up laying down in the sand of a small piece of land, their specialized swimming suits still with them. Around them, water covers most of the visible space, with similar landmasses spread evenly around. Of note, several buildings of different making can be seen in the distance—of different size and positioning, some even floating as water runs upwards to their coasts—, and far into the horizon, a giant grey pyramid covers part of the sky, too large in size to fully make out.
+
+E-2 begins asking the rest of the present personnel [http://rpcauthority.wikidot.com/the-anderson-eckhardt-coherency-test AECT] questions in order to assess the current coherency of RPC-632. After several minutes of discussion, all personnel came to agree on ACS-2.7 as an adequate measurement. E-1, the leader of the group, decides to choose a building off in the distance as their destination; this appears to be slowly moving towards a distant mountain, one seemingly made out of shoes. And so, they begin swimming towards the selected destination, although E-5 decides to walk.
+
+During their journey, personnel can see multiple objects floating in the water: chairs, tables, books, half-buried constructs of unidentifiable style, themselves in the distance, turtles with shining shells, and several golden jellyfish. After two days of swimming, personnel arrive at the building. It appears to be a skyscraper of the Art-Deco style, mixed with several additions from Roman architecture, as well as an angel of steel above the entrance. A motor-like mechanism sticking from the right side of the building appears to be powering a set of four mechanical arachnid legs, which allows the building to move on its own across the surface of the water. They use the elevator to enter, with E-4 waiting for them inside.
+
+Personnel begins heading downstairs, following the sound of the engine. The hallways of the building are decorated in gold, with paintings of all styles covering its walls. This causes the team to take several detours, admiring the scenery. Eventually, they decide to rent some rooms using E-7’s credit card. The rooms resemble those of high-end five-star hotels. After their week-long stay expires, they begin heading once again towards the engine, finally encountering a room named “Motion Room.”
+
+Inside the room, there is only a single mechanism: a great wheel that siphons water from the sea, that it uses to spin itself as well as to siphon more water. This, in turn, causes a series of gears to spin, allowing the legs to operate at full capacity. Personnel agree with one another that the concept enabling this contraption to operate must be their objective. E-1 retrieves a small gear from the machine, causing it to cease movement. It is at this point that all personnel wake up.
+
+= Overall Expedition Duration: 10 Minutes
+[[/tab]]
+
+[[tab Retrieved Ideal/Effects]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+||= __**Attempt #133 of Necrotic Reanimation**__ ||
+
+**MATERIALS:**
+
+* RPC-632-1 “Motion”
+* Dr. Keller’s Right Arm
+
+= @@--------------------@@
+
+**PROCEDURE/PURPOSE:**
+
+The usage of the ideal of “Motion” as a method of temporary reanimation.
+ 
+Should the current hypothesis be correct, Dr. Keller will be able to manipulate his hand without the assistance of the GH-P01 helmet. To confirm this, Dr. Mallabar will temporarily disconnect the mechanism from Dr. Keller's right arm.
+
+**OBSERVATIONS:**
+
+As personnel wake up, a luminescent sphere —the retrieved -1 instance—manifests above the obelisk’s tip. Groves-Flint Counters in the room show a sudden spike of ~54 Vi, accompanied by the glow of the obelisk’s silver-making.
+
+All DOC personnel point their rods towards the sphere; the smoke slowly envelops its shape, allowing for transportation. Magus Moriarty takes hold of the sphere while continuing to chant the required verses.
+
+Ambient Groves continues to rise to ~57 Vi. Small objects in the room begin to spin around their axis and the lights flicker. Moriarty slowly lowers the sphere into Dr. Keller’s right arm, which he reports as feeling “warm.”[[footnote]] A surprising fact given the deteriorated nature of his nervous system. Study into the application of -1 instances for temporary tissue repair is underway.[[/footnote]]
+
+Once they make contact, the sphere demanifests, as does most of the Groves Radiation.
+
+* Dr. Mallabar disconnects the link between the GH-P01 helmet and Dr. Keller’s right arm
+* Before Dr. Mallabar can begin testing, Dr. Keller’s arm begins to act independently, moving each individual finger in ways that would not be normally possible for most individuals.
+
+However, Dr. Keller appears unable to control the movement of the arm. Dr. Mallabar offers the arm a small stick, which it grabs on its own and begins to spin around its fingers. Personnel report on the exceptional dexterity of the arm. Several other items are offered, resulting in similar interactions.
+
+After 10 minutes, the arm accidentally drops a pencil which it was currently toying with. Attempts to offer other items result in similar incidents. Eventually, the arm becomes slower and finally drops down, motionless. Dr. Mallabar connects the arm to the GH-P01 helmet again.
+[[/div]]
+
+//While it is obvious that we managed to animate deceased material, it is not in the way we intended. Dr. Keller possessed no agency over the arm’s movement, and the arm did not appear to have any other goals than to simply “move” as much as possible. While elegant and somewhat entertaining, we are far from our current objective.//
+
+//Our next candidate will have to be “duty”, as we believe that in this way, we will be able to assert commands into inanimate matter. Testing is scheduled for next month, as Team #Y3 is currently unavailable for repeated testing.// - Dr. Quint Mallabar
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="[+] Previous Candidates and Side-Projects" hide="[-] Hide List"]]
+
+The following is a compilation of several failed candidates in the reanimation of deceased subjects. A small number of side-projects will also be found within this list:
+@@@@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+= __**Attempt #65: Puppeteering**__
+
+**Ideal Form/Encounter:** Team #C1 found this instance of -1 within a theater off the top right side of a mountain. The building in question appears to have been carved directly from the stone of the mountain, with a single set of stairs circling it three times before allowing access into the theater. Personnel were permitted entry to witness a play of James Sallis's “Drive” recreated entirely with puppets (including vehicles and special effects).
+
+Personnel described the play as “incredibly heart-touching,” with performance by the puppets as being “miles better” than that of real-life actors. They were even invited backstage by the master-puppeteer in order to “know the place better.”
+
+Once there, E-4 grabbed the puppet meant to represent the Unnamed Driver, waking up the team. Personnel were permitted access into the break room following the expedition to watch Drive (2011).
+
+**Test Subject:** Recently Euthanized Fox
+
+**Results:** When Magus Moriarty introduces the ideal to the corpse, he and it appear to become momentarily linked. As Moriarty moved his fingers, multiple segments of the fox reacted accordingly. He was fully capable of operating its legs, head, tongue, ears, eyes and to some extent, internal organs.
+
+While efficient in allowing full range of movement back into the deceased fox, Moriarty⁠—nor any other personnel within Site-112⁠—possessed the technical skills to operate the fox in any meaningful capacity. With time, the link between Moriarty and the fox became weaker, until no further actions were able to be commanded into it.
+
+Soon thereafter, the fox’s remains had to be scraped off the floor. Groves Radiation produced within its corpse during the course of the link appears to have burned most internal and external tissue in the process, causing it to dissolve into an orange tar-like substance once fully severed from Magus Moriarty.
+
+= ##red|Failure: Lack of Technical Skill over Ideal Form of Puppetry##
+[[/div]]
+@@@@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+= __**Attempt #77: Self-Preservation**__
+
+**Ideal Form/Encounter:** Team #T7 found the -1 instance within a snow rabbit. The rabbit had been spotted by the team running from a pack of grey wolves, nearly avoiding death.
+
+While harmed, the rabbit continued its path across the snow looking for food. Going up trees and underground in order to obtain sustinance, while the team followed behind. With time, the rabbit appeared to heal, at which point it made its way back into a burrow.
+
+The team followed the rabbit inside it, accessing an underground set of caves too large for any animal to manufacture on its own. Descending into the depths of the tunnels, the team was able to locate the rabbit in question once again, sleeping alongside many more of its species.
+
+However, the rabbit quickly woke up and attacked E-5, likely believing him to be a threat. This caused the team to wake up, having retried the -1 instance.
+
+**Test Subject:** Meat Mannequin[[footnote]] Humanoid figure made by stitching various cuts of meat. Created as a result of denied corpse requests and believed to behave similarly to a real subject for testing purposes.[[/footnote]]
+
+**Results:** Upon contact, the mannequin immediately sprung into motion. The subject lashed out towards all nearby personnel, and attempted to exit the test chamber. Attempts by the RSS to contain the subject were met with extreme resistance. However, continuous struggle caused the stitches holding the subject together to snap, at which point it became inert once more.
+
+Following this event, all separate instances of meat began to develop cancerous growths at highly accelerated rates (believed to be an Aberration caused by high Groves count). Contaminated elements were properly discarded, and testing with Meat Mannequins put on hold.
+
+= ##orange|Mild Success: Full Set of Motion - Unresponsive to Commands - Overtly-Aggressive##
+[[/div]]
+@@@@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+= __**Side-Project: Sandwich[[footnote]] Testing of RPC-632-1 in regards to edible substances.[[/footnote]]**__
+
+**Ideal Form/Encounter:** Found by Team #C1 within a food establishment named “Fort’s Dinner Shack,” located in the water near the team’s waking location. The building was of simple making: wood being its primary material. The interior, however, was far more larger and modern than the outside, resembling an 80’s cafe complete with a disco player and pool table.
+
+Inside, the team found several people already eating. Some were people known to the members, some resemble the present personnel themselves. They ended up sitting at a table for six in the far-left corner of the establishment. A waitress then immediately appeared out of view to take their order.
+
+The team ordered the “House Special,” consisting of a serving of sandwiches with large fries. Personnel described the food as unmatched in quality by anything they ate before. Upon finishing the meal, the team woke up, not without paying the bills before departing (how this was accomplished despite the lack of wallets is unknown).
+
+**Test Subject:** Simple Cheese and Ham Sandwich
+
+**Results:** The obtained sandwich immediately began to morph in shape into that of the Bedford Supreme with double cheese that is served in Site-112's cafeteria: its ingredients included poppy seed bread, high-quality cheese and meat (specific ingredients redacted at the request of Site-112’s cafeteria), and red wine vinegar, among others. Team #C1 personnel reported the sandwich as having the same taste as the one consumed during the expedition into RPC-632.[[footnote]] Personnel later reported mild stomach aches, believed to be the result of Ideal deterioration of the -1 instance.[[/footnote]]
+
+In-depth examination of the -1 instance and the one served in the cafeteria revealed a chemical match of 80%. Research into the unique and almost ideal properties of this food item shall be continued in the following weeks.
+
+= ##green|Success: First Encounter of an Almost-Ideal Object in Baseline Reality##
+[[/div]]
+
+[[/collapsible]]
+
+-----
+
+**Incident - 12/4/2021**
+
+During routine testing in search of the RPC-632-1 instance of “permanence,” it is believed that E-2 of Team #Z5 accidentally terminated the expedition before planned by interacting with a non-desired -1 instance, henceforth referred to as -1A.
+
+Before waking personnel could notify present DOC members, -1A had already been linked to the test subject (one dying brown rat). The resulting events that led to the death of five personnel are unknown, as camera equipment failed immediately after the subject’s contact with -1A. Upon break-in by RSS personnel, the test subject appeared to have solidified into a non-organic stone-like formation. All non-deceased personnel had experienced similar injuries, having parts of their limbs and face transmuted into the same material.
+
+E-2, however, was unharmed. She was instead found on the floor, staring at the remains of the test subject. An interview with E-2 for the assessment of the situation follows:
+
+[[collapsible show="[+] Open Recorded Document" hide="[-] Close Document"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+------
+[[=]]
++ Post-Incident Interrogation
+@@--------------------@@
++ Approved for Release by Site-112 Administration
+[[/=]]
+------
+
+**Participants:**
+
+* Dr. Quint Mallabar
+* Agent Joey Hamilton (E-2)
+
+-----
+
+**Foreword:**
+
+E-2 appeared to have been left in a semi-catatonic state following the incident, although she was able to comply with, and follow RSS personnel into Interview Room 2C. Dr. Mallabar had been tasked with questioning E-2 to understand the nature of -1A and the incident.
+
+----
+
+= **<Begin Recording>**
+
+**[Following 13 minutes of waiting, Dr. Mallabr enters the Interview Room with two cups of coffee in hand. He leaves one cup in front of E-2.]**
+
+**Mallabar:** Joey, it’s good to see you well! The guns from the RSS notified me of the incident and I came as quickly as possible. They are doing everything they can in the med-bay, but we’ve not seen something like this before. I see you are not harmed, is that correct?
+
+**[E-2 nods. She does not seem to notice the cup of coffee, and instead stares at her hands, as if holding something.]**
+
+**Mallabar:** I see… I know this must have been a stressful situation, but I need you to tell me everything you can about you and your team’s incursion into the Sea. It may hold crucial information to help them out of this. Is that possible?
+
+**[E-2 nods slowly.]**
+
+**Mallabar:** That’s very good to know, Joey. Let’s see... what’s the last thing you remember?
+
+**[E-2 does not respond.]**
+
+**Mallabar:** All right. What is the first thing you can remember of the incursion, Joey?
+
+**E-2:** We.. We fell asleep after taking the pills.
+
+**Mallabar:** Yes, that's common during expeditions. What else can you recall?
+
+**E-2:** I was-  we were drowning. We woke up under the water, but we could still breathe. And we climbed off to the surface, then the water was only heel-deep.
+
+**[E-2 touches her face, and arms. Her stare seems lost, looking at the wall behind Dr. Mallabar.]**
+
+**Mallabar:** Such lapses in general coherency are common within the Sea, but it is good that you can recall them. Some teams have also reportedly woken up within rocks or in the clouds! But clearly, this was not the cause of the incident. Did something else occur, Joey?
+
+**[E-2 remains unresponsive.]**
+
+**Mallabar:** Did you witness something out of the ordinary from previous incursions? Something in the water? Maybe-
+
+**E-2:** There was something… in the water, yes. The water seemed different. I couldn’t see it, but I could feel it.
+
+**[Dr. Mallabar takes out his notebook.]**
+
+**Mallabar:** Could you please elaborate on that, Joey? What did you feel?
+
+**E-2** I-I don’t know. It was… alive. It felt alive, the water.
+
+**Mallabar:** How did it “feel”? Was it a physical sensation?
+
+**[E-2 grabs her head, seemingly in pain]**
+
+**E-2:** No no no no… It was like… when you see a color, and you know it is that color's specific color, and not another one. You know?
+
+**Mallabar:** I… think so. Apologies for the insistence, but this is the first time I’ve heard of any such abnormality within the Sea. What did this color feel like, Joey?
+
+**[E-2 remains still and in silence for several seconds before answering.]**
+
+**E-2** It felt… alive
+
+**Mallabar:** Alive?
+
+**E-2:** I couldn’t see it… but I could feel it was alive. It felt like looking at a tree, or a baby. It had life in it, even if it seemed like just a different shade in the waves. I could feel it all over me. I felt alive, like the Sea.
+
+**[Dr. Mallabar leans closer to E-2.]**
+
+**Mallabar:** That’s quite fascinating. And what else happened after you “felt” this? Did anyone else on your team feel it too?
+
+**E-2:** No. They all began walking away to find our target, but I couldn’t.
+
+**Mallabar:** You couldn’t follow them?
+
+**E-2:** No, I-I couldn’t. I just kept looking at the water. Trying to find that feeling. And then, it began to grow on me. I could feel it more intensely the more I thought of it.
+
+**Mallabar:** Grow? How did this color “grow,” Joey?
+
+**[E-2 begins to touch her left arm, running her fingers across it.]**
+
+**E-2:** I could feel my arms, more than I’ve ever felt them before. My chest began to feel like the entire Sea, and I could feel the waves in my legs, in my face, everywhere. But the Sea was also feeling “me.” It started to become like me… I could see my color on the shore. Filling the water with me.
+
+**Mallabar:** And what happened next?
+
+**E-2:** We all woke up and I… I didn’t know why, we hadn’t yet found our objective. But when I saw Mike[[footnote]] DOC member present at the time.[[/footnote]] move the sphere, I could feel that life inside it. That feeling hadn’t left me, and it wanted to go back. My colors too, wanted to return. They were not where they were meant to be.
+
+**Mallabar:** You accidentally retrieved the color you felt, then? What do you mean by “it wanted to go back”? How did it want to go back?
+
+**[E-2 begins to tear up, trying to cover her face with both hands.]**
+
+**E-2:** Th- The color didn’t want to be here. It tried to escape, and it took “that” feeling away with it- I… I-I couldn’t feel anything alive in the room anymore, it had all gone back with it, into the Sea. I could only feel my own color as it ran back into me… I swear I-I didn’t want any of this to happen, I-
+
+**Mallabar:** It's ok, Joey. I’m not blaming you for anything that happened in the testing room. Everyone there knew that these rituals could go south at any moment.
+
+**[E-2 stays silent, looking at her arms. Small visual glitches start occurring within the cameras.]**
+
+**Mallabar:** Is everything fine, Joey?
+
+**[E-2 begins to scrape off her hands. Pieces of skin easily fall from it, revealing a white-colored muscle below. She does not bleed, and instead appears to sweat profusely.]**
+
+**E-2:** I-It wants to go back, through me. The feeling, the color of the Sea needs to return to the sea. My color isn’t his, it isn’t mine anymore.
+
+**[Water starts to leak from the mouth of E-2. She tries to stand up but falls to the ground. Her skin starts to dry up and crack, leaking more water from within.]**
+
+**[Dr. Mallabar presses the room’s emergency button as he jumps on top of his chair.]**
+
+**[Dr. Mallabar appears to try to speak to E-2, but no audio can be captured as cameras begin to fail. Groves-Flint counters within the room display readings of over 100 Vi]**
+
+**E-2:** Don’t you want to feel alive too?
+
+= **[Video feed completely cuts off.]**
+
+**[RSS personnel equipped with sensory-dampening equipment break into the room, which has been filled with seawater. Dr. Mallabar can be seen on top of the table, covering his eyes with his notebook.]**
+
+
+**[E-2 is laying in a pool of water on the floor. Her skin and the surrounding area closely resemble stone, and no vital signs can be picked up from her. RSS personnel consider the subject to have been terminated by the effects of an Aberration, and leave the area with Dr. Mallabar.]**
+
+
+= **<End Recording>**
+
+-----
+
+**Closing Statement:**
+
+
+//Can a concept have a color of its own? The color of life, how does it look? The color of a whole plane of existence, that makes it all. It is something that would never be able to exist outside of thought. But an ideal version of it could force its way into existence, becoming real, even if for a mere second. But as with any ideal, it became imperfect and vanished. However, this one took much more than simply itself when it left. It took the feeling of “being alive,” that Joey had described, back with it.//
+
+//We currently believe this was the fate of Team #Z5, and two members of the DOC. We believe that this living feeling, or the color of it, kept hold of Joey even when she was out of the Sea, trying to brute-force its way back home, as did her own color. In the meantime, expeditions to the Sea will be put into a temporary halt until we can create measures to prevent such an event from occurring again.//
+
+//To all the families of the affected personnel, I’m sorry. I’m sorry I did not take more precautions in this crusade of mine. And I’m sorry that it all had to come to this. I hope you may one day forgive me.// 
+[[>]]
+//- Dr. Quint Mallabar//
+[[/>]]
+
+[[/div]]
+[[/collapsible]]
+
+
+
+[[div style="color: #c8c8c8; margin: 10px; padding: 10px; border: #666666 1px solid; background: #242424; background-image: url(http://rpcsandbox.wikidot.com/local--files/mrpines/logo_doc3.png); background-position: center; background-repeat: no-repeat; background-size: 175px; border-left: #666666 10px solid;"]]
+[[=]]
+[[collapsible show="[+] Footnotes" hide="[-] Close Footnotes"]]
+[[<]]
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+
+[[=]]
+<< [[[RPC-631]]] | RPC-632 | [[[RPC-633]]] >>
+[[/=]]
+

@@ -1,0 +1,139 @@
+---
+title: "ACI-TONE"
+tags: ["format", "information"]
+page_id: "1311748116"
+site: "rpcauthority"
+slug: "aci-tone"
+revision: 10
+revision_id: "1523254027"
+author: 5982545
+timestamp: 1722110838
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aci-theme/code/1);
+[[/module]]
+
+Here, I will be teaching you how to write an ACI article. ACI articles are very precise in their nature, as they contain nearly no fluff, no "scientific language," and are supposed to be to the point. When you write an ACI article, you should think about writing a master's thesis and wanting to get across the information promptly, never repeating yourself and only touching on the relevant information at hand.
+
+Fluff, overly scientific terminology that a commander would need to ask a researcher about, or tangential information is not to be recorded unless it's relevant to the article at hand. Professional wording is to be used at all times, and while humor is not supposed to be in these documents, black or sardonic humor can be slipped in as long as attention is not called to it.
+
+I have toyed a lot around with this tone to make it as visually appealing as possible, and some of the tones I would use are my opinion. I will mark these with a:
+
+> quote box
+
+... so that you may ignore them if you wish.
+
+We must first start out with our formatting. We use the ACI Tone, found here:
+
+[[code]]
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aci-theme/code/1);
+[[/module]]
+[[/code]]
+
+... as it gives a much more futuristic and utilitarian look to the article which creates a great contrast between our modules.
+
+[[collapsible show="+ Add. Font Options" hide="- Add. Font Options"]]
+[[=]]
+++ **Authority Central Intelligence Class Fonts:**
+[[/=]]
+
+[[span class="Courier"]] "Courier Text" [[/span]]
+> @@ [[span class="Courier"]] Courier Text [[/span]] @@
+
+[[span class="Quantico"]] "Quantico Text" [[/span]]
+> @@ [[span class="Quantico"]] Quantico Text [[/span]] @@
+
+[[span class="Kufam"]] "Kufam Text" [[/span]]
+> @@ [[span class="Kufam"]] Kufam Text [[/span]] @@
+
+[[span class="Dosis"]] "Dosis Text" [[/span]]
+> @@ [[span class="Dosis"]] Dosis Text [[/span]] @@
+
+[[span class="RobotoSlab"]] "Roboto Slab Text" [[/span]]
+> @@[[span class="RobotoSlab"]] Roboto Text [[/span]] @@
+
+[[/collapsible]]
+
+
+[[include component:protection-note-base name=Agent Example|authorized=GD-~~~~ |unit=ACI BLANKCOM Field Operations Unit|site=RS-04|date=2/9/20xx|reason= ~~~~~|color={$color}|color=manila]]
+
+The module above us is a standard filing manila folder, which can give someone a brief bit of knowledge of who made it, what its about, who authorized it, and when.
+
+> I almost always use the manila notecard with this theme because it contrasts nicely. It also gives the feeling of an actual manila folder someone would use to hold the document it is in.
+
+[[div class="ACI_Paperback"]]
+[[html]]
+<div align="center"><font color="#7c8c54"  face = "courier new" size="6"><u><b>AUTHORITY REPORT №792</u></font>
+<p><font color="#7c8c54" face = "courier new" size="4">Report: "On the Anomalous Example"</b></font></p></div>
+[[/html]]
+[[div style="color:#000000;"]]
+We use the report format to name our documents a certain way. The titles are supposed to be somewhat professional, but they can edge upon sardonic humor or surrealist if the report in question that they're writing upon exists in that sphere.
+
+> I wouldn't suggest messing with the formatting here, as it'll severely contrast with the rest of the reports on file.
+[[/div]]
+
+[[div style="color:#000000;"]]
+[[<]]
+{{**Purpose:** To assess the threat presented by blah blah blah}}
+{{**Author(s):** Agent Example, John Placeholder M.A., Dr. Bonehead}}
+{{**Commissioned By:** ACI Head of Intelligence "Lightning Rod", GD-EURA & GD-ASIA.}}
+{{**To:** Global Directorate, ACI DEP-022 (Counter Intel).}}
+{{**Date:** X/XX/XXXX}}
+
+Simply repeat what you formatted in the manila folder, with a few additions. If your research included medical, you should add a doctor, and depending on its location, their names may be more oriental, Slavic, or Sino.
+[[/div]]
+
+[[/<]]
+
+[[div style="color:#000000;"]]
+[[==]]
++++ {{**Prelude - A Short History:**}}
+
+While you can do whatever you really want with the ACI tone, you should always base it in reality. Everywhere in the world has a long history that may or may not coincide with anomalies. This history could build up over time to make them a powerhouse, or give their countries government an abject hatred of the anomalous and all that associate with it. Or, the history of any given people or place could coincide directly with the report you're giving. Regardless, history is important, and ACI needs to deliver the most amount of intelligence in the least amount of time.
+
+> While you don't have to use my example tabs, they do convey a better sense of ACI existing in the world, rather than above it.
+-----
++++ {{**Current State of (Example):**}}
+
+Every person, place, government, or anomaly exists in a current state of being with its own resources and equipment. ACI tries its best to catalog all of this thoroughly and to leave no stone unturned, but they are just human. Remember when you categorize that ACI can't know everything, and there may be uncertain or even falsified data within their own files from faulty sources. The existence of ACI, in reality, is something you should really try to hammer home.
+
+> Never. ever. use the word "I" or something referring to yourself. While this isn't something I can really put as a rule, even if a single agent wrote this, you should never refer to the author as I; only at the worst use "we," but usually as a distant observer is best.
+-----
++++ {{**Authority involvement:**}}
+
+The Authority is a longstanding organization with connections all across the world and a rich history. From their Spanish missionaries, conquistadors, emissaries, and agents all around the globe, the Authority usually has one hand in every single pot. This is somewhere you should really flex your alternate history muscles and include the Auctoritas as a mainstay, or perhaps not? Maybe it's in China, where we had little to no history, which makes information gathering extremely difficult. You should always take into account the Authority history when writing an ACI article.
+
+> Though this goes for countries or governments, for reports on individuals or single new anomalies, I would nyx this part. Unless the individual has a long history with the Authority, it is safe to say that this section will not have a substantial amount of data to make it worthwhile.
+-----
++++ {{**Authority Central Intelligence Actions:**}}
+
+While this section may seem identical to the previous, ACI is much different. Authority involvement is intertwined with both the organization's history and its day-to-day interactions with the subject of a report before they were classified as a threat or as an anomaly. On the contrary, ACI involvement centers around events having occurred //after// a report was drafted up, and what actions were taken on a broader scale against this threat. Whether it be propaganda campaigns, black op kidnappings, or other covert and subversive operations, ACI never acts in a frontal advance unless they absolutely have to.
+
+ACI prefers to meddle in the background, especially politically. Lobbying in Congress, the UN, and the EU, especially in order to get certain restrictions placed upon threats without even having to lift a finger, greatly reducing their abilities to move and operate.
+
+> Here is where you show what the agents did. But remember that you have to never refer to an agent individually, or in the self tense. A correct example: "Agents were dispatched to divert power away from the station to depower the anomaly." Bad example: "Agent Jenkins and I diverted power away from the station to depower the anomaly."
+
+Remember: You should be reading this as if you were the commander of the operation.
+[[/div]]
+
+
++++ {{**Recommendations:**}}
+In regards to the above-mentioned series of events, we recommend:
+> # {{##RED|The Authority continue to take "X Action."##}}
+> # {{##RED|The Authority gather more intelligence on "X Incident."##}}
+> # {{##RED|The Authority continue their counter-intelligence on "X Regional Entity of Interest."##}}
+> # {{##RED|The Authority divert more personnel to "X Region or Area."##}}
+> # {{##RED|The Authority lobby in the EU and Congress for "X sanctions, international aid, or assistance."##}}
+
+Recommendations are where you give future strategies for the ACI to continue utilizing. Perhaps throughout the article, you've been showing a trend for them to rely on a particular anomaly or a specific material and want to restrict that by lobbying against it in courts tactically. ACI has the entire intelligence world at its disposal, so don't be afraid to use it.
+[[/div]]
+
+[[/==]]
+
+**ACI Report Block:**
+> @@[[div class="ACI_Paperback"]]@@
+> @@Report Content@@
+> @@[[/div]]@@
+

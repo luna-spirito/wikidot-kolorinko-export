@@ -1,0 +1,554 @@
+---
+title: "RPC-009"
+tags: ["animated-hazard", "beta", "contact-hazard", "contestwinner", "esoteric-hazard", "organic-hazard", "rpc", "sapient-hazard", "vssp", "white"]
+page_id: "1312333765"
+site: "rpcauthority"
+slug: "rpc-009"
+revision: 32
+revision_id: "1512824789"
+author: 3970162
+timestamp: 1691457051
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]The Lich Pope[[/span]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+
+/* Table Section */
+table.wiki-content-table td {
+    background-color: #32353b;
+    border: 2px solid #515151;
+}
+[[/module]]
+
+[[include component:rate |winner=show]]
+
+[[span style="font-size: 165%; font-weight: bold;"]] Registered Phenomena Code: 009 [[/span]]
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+**Assigned Facility:** Site-073
+
+**Director of Research:** Dr. Abbondanzio Impellizzeri
+
+**Assigned MST(s):** MST Bravo-6 ("Knockin' on Heaven's Door"), MST Echo-73 ("The Bastards")
+
+**Director of Containment:** Dr. Alighiero D'Angelo]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/beta-white.png]]
+[[/cell]]
+[[cell style="width: 60%;"]]
++++ **Object Class:**
+##white|Beta - White##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Responsible Departments:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/History.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of History[[/span]][[/span]]
+
+[[span class="tooltip"]][[image BoA_Theistic_Department.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Theistics[[/span]][[/span]]
+
+[[table]]
+[[row]]
+[[cell style="width: 67%;"]]
++++ **Hazard Types:**
+[[include component:hazards type=none
+|divine=true
+|contact=true
+|sapient=true]]
+[[/cell]]
+[[cell]]
++++ **General Properties:**
+[[include component:hazards type=none
+|animated=true
+|organic=true]]
+[[/cell]]
+[[/row]]
+[[/table]]
+------
++++ **Containment Protocols:**
+RPC-009 is to be contained in a 5m x 5m statuary room within Site-073 located at Tuscany, Italy. RPC-009 should be subject to standard preservation methods for wood and textile artifacts as determined by the [[[Protocol Laboratory]]]. In the event RPC-009 awakens from stasis, assigned research staff are to conduct an immediate on-site interview with the entity to discover more information about its anomalous nature.[[footnote]] This interview may be administered in-person or through the containment room's intercom system. [[/footnote]]
+
+RPC-009 is currently speculated to be in the possession of the [[[Vatican Primacy Hub|Vatican Secretariat of Supernatural Primacy]]] at their containment vault embedded within St. Peter's Basilica, Vatican City State. MST Bravo-6 ("Knockin' on Heaven's Door")[[footnote]] Mobile Specialized Team Bravo-6 is a regional task force assigned to the containment of anomalies related to religious iconography, especially that of Christian origin. [[/footnote]] and MST Echo-73 ("The Bastards") have been assigned to recover RPC-009 from the Primacy should an opportunity for asset retrieval become possible.
+
+The information contained within this file is based on archival records of RPC-009 created during the Papal Auctoritas Imperata era. These documents have been translated from the original ecclesiastical Latin into English text, and are presented here in modern formatting. As such, information on RPC-009 is subject to revisions as more data becomes available.
+------
++++ **Description:**
+[[include component:image-block name=LichPope.png|caption=Painting of RPC-009|width=380px]]
+RPC-009 is the cadaver of the former ecclesiarch of the Roman Catholic Church identified as Pope Formosus. Despite its death in 896, RPC-009 displays only an average amount of decomposition, forensically similar to that of a body which has been buried for around 11 months.[[footnote]] This effect does not extend to RPC-009's papal robes, which have become intertwined with its flesh, and are disintegrating at non-anomalous rates. [[/footnote]] This evidence suggests RPC-009 is in an unconventional state of partial incorruptibility.[[footnote]] The belief in Catholic and Orthodox Christianity that a saint's body is protected from decomposition by divine intervention. [[/footnote]]
+
+RPC-009 displays signs of a prominent injury on its right hand, with its index, middle, and ring fingers appearing to have been severed off its body. RPC-009 is propped up against a  painted wooden throne engraved on its front face with the Latin phrase //Cathedra Petri//, translated as "the Chair of St. Peter." [[footnote]] No anomalous phenomena has been associated with the throne. [[/footnote]]
+
+RPC-009's anomalous properties manifest when a human being makes physical contact with any part of its body. Subjects will begin to experience anomalous effects resembling those typically associated with divine miracles from touching a Christian saints' first-class relics.[[footnote]] Divine Hazard denotes anomalies which posses anomalous properties culturally considered as acts of a deity. Due to RPC-009 possessing anomalous properties in this regard, RPC-009 was thereby given the specified Hazard Type. [[/footnote]] In rare circumstances, RPC-009 is capable of spontaneous reanimation back to life. In this resurrected state, RPC-009 is capable of fine motor movement and verbal communication, irrespective of its physical condition.
+------
++++ **Discovery:**
+In January 897, the cadaver of RPC-009 was exhumed and dressed in papal robes on the orders of Pope Stephen VI in order for RPC-009 to stand trial postmortem for crimes related to its papal election. It was contended that RPC-009's position as the Cardinal Bishop of Porto[[footnote]] A suburbicarian diocese in Rome. [[/footnote]] rendered its papal election illegitimate. This was due to a prohibition in canon law forbidding bishops from administering more than one district.
+
+After RPC-009 was found guilty by the //Aula Pontificia//[[footnote]] Papal Court [[/footnote]], three fingers on its right hand were cut off, and its body was thrown into the Tiber River. It was at this point that an unknown individual, identified in primary texts as "the Necromancer", retrieved the body of RPC-009 after it washed ashore on the river bank and reportedly performed miracles on those who made physical contact with its remains.
+
+The history of RPC-009 during the Cadaver Synod is recorded in classified pages of the //Liber Episcopalis//, a biographical tome on the Bishops of Rome up to Pope Stephen V[[footnote]] Additional papal biographies up to Pope Pius II were added in further revisions under the title of //Liber Pontificalis//. [[/footnote]] written by papal notaries. These pages have been provided below, translated from their original ecclesiastical Latin into English.
+
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show="[+] Liber Episcopalis Text Excerpt" hide="[-] Close"]]
+
+[[tabview]]
+[[tab Carta I]]
+[[div style="padding: 5px 20px; background-color:#baac94; box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 1.25em; background-image: url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png); font-family: Goudy Old Style, serif;"]]
+[[=]]
+@@@@
+[[span style="font-size: 335%; font-weight: bold; font-family: 'UnifrakturMaguntia', cursive;"]] Synodus Horrenda [[/span]]
+@@@@
+[[span style="font-size: 110%;"]] IANUARIUS 897 ANNO DOMINI [[/span]]
+[[/=]]
+------
+[[span style="font-size: 110%; font-weight: bold;"]] In the Year of our LORD 897, [[/span]] the bishop Stephen VII[[footnote]] The regnal numbering of popes was later revised to account for anomalies in the chronological record. This pope is now referred to as Stephen VI. [[/footnote]] called forth the prosecution of the deceased bishop Formosus. Never had there been before such a crisis within the universal church such as this. Accusations of crimes against the Holy See had been made by the Pontifex against his predecessor. Opinion in Rome remained divided, the eternal city now split between two allegiances. Transgressions of the past, shrouded in history, had become unveiled. In those days, the words of the living spoke out against the silence of the dead. However, by some necromancy to come, things once dead were to live yet again.
+
+= [[span style="font-size: 125%;"]] **PONTIFICATE OF FORMOSUS** [[/span]]
+The Holy Father Nicholas I had directed Formosus, who was then the Cardinal Bishop of Porto, to lead an active missionary effort to the Bulgars in 866 AD. It is said Tsar Boris I regarded Formosus highly, requesting his appointment as the Archbishop of Bulgaria, yet this petition was denied. Sacred law forbids such an appointment, for it is anathema that a bishop should rule more than one see, as has been stated by Pope St. Julius I and written in the canons of Nicaea II.
+
+In Rome, Formosus opposed the election of Pope John VIII in December 872 AD, along with the //Primicerius//[[footnote]] Administrative Secretary [[/footnote]], //Secundicerius//[[footnote]] Assistant Secretary [[/footnote]], and George of the Aventine.[[footnote]] A Roman criminal who committed several murders before being executed by Pope St. Adrian III. [[/footnote]] As Carolingian imperialists, they were against the aristocratic faction aligned with that holy father. After the death of the emperor Louis the Younger in 879 AD, all three were excommunicated by John VII.
+
+After years of exile in France, this excommunication was removed on the condition Formosus promised to never return to Rome and reclaim his diocese. Through an act of grace, the chief pontiff Marinus I issued a pardon to Formosus in 882, sanctioning his return to the city, and granting his election to the throne of St. Peter in October 891 AD.
+
+Greatly respected by the people of Rome, Formosus was unanimously elected by its cardinals and citizens. From that day forth, a commanding force had been coronated on St. Peter's throne. Formosus dealt swiftly with the aftermath of the schism inflicted by Photius[[footnote]] Photius was the Patriarch of Constantinople who triggered the Photian schism between Constantinople and Rome after deposing his predecessor Ignatius. [[/footnote]], that prideful and arrogant Patriarch brought down at the Council of Constantinople IV. Formosus's deep love for the Carolingians led him to support the enthronement of Charles the Straightforward in West Francia, preserving Charlemagne's dynasty for generations to come.
+
+Formosus encountered greater political difficulties within Italy. The Duke of Spoleto Guy III, and his son Lambert II, demanded an imperial co-coronation from the holy father in 892. Although conceding to their requests, Formosus was struck by the brutality of his other son, Guy IV, during his conquest of Benevento from the Greeks. Formosus believed Italy's only salvation lied with Arnulf of Carinthia, the bastard son of King Carloman of Bavaria, who would liberate Rome and unite Italy under its rightful Carolingian monarch.
+
+At last the prayers of Formosus were answered, as the King of Germania crossed the Alps towards Rome. The last attempts by Lambert, who had now succeeded Guy III after his death, to prevent the inevitable faltered. Fleeing to his stronghold in Spoleto, Emperor Lambert had vacated the Italian throne. In February 896 AD, the rightful king Arnulf was crowned by the Vicar of Christ, the cities of God and Man reunited as one by our Lord Almighty. With this final action, Formosus secured his legacy in the world, resting then in deserved peace.
+[[/div]]
+[[/tab]]
+
+[[tab Carta II]]
+[[div style="padding: 5px 20px; background-color:#baac94; box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 1.25em; background-image: url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png); font-family: Goudy Old Style, serif;"]]
+= [[span style="font-size: 125%;"]] **THE CADAVER SYNOD** [[/span]]
+
+At this time a corrupt man seized St. Peter's Thone, abetted by those enemies of the Carolingians in Spoleto. Stephen VII, once appointed by Formosus as the Cardinal Bishop of Anagni, sanctioned a tragedy to befall the universal church. These events occurred after the death of Pope Boniface VI.[[footnote]] The pope preceding Stephen VI who died 15 days after his election. [[/footnote]]
+
+On his consecration as our newly-elected pontifex in May 896 AD, Stephen VII announced to the Roman Curia that the pontificate of Formosus had been illegitimate. A shockwave swept over the //iudices palatini//[[footnote]] Administrative Judges [[/footnote]]. How could such an accusation be true?
+
+"The canons state that no man shall become the commander of two sees, yet Formosus disregarded these prohibitions. It seems nothing on Earth could hold back the ambitions of this sinful bishop, not even the admonitions of our father John VIII. Do not be surprised at these allegations! A man whose forges friendships with those like George of the Aventine was not one who should have trusted with the Apostle's keys."
+
+Few could fathom the venom of the pontifex's statements on his predecessor. No one believed what was commanded next.
+
+"Disinter his corpse from the sacred tombs, and dress him up before Rome to stand trial for his crimes!"
+
+His Holiness Formosus, deserving of eternal rest in Paradise, was cast back into the world. The lid of stone coffin sliding away from its base, ancient dust glistening in the dim light of the catacombs, awakening something that should have been left buried. The soldiers did as were told, carrying his corpse up to the surface to the Lateran Palace.
+
+Behold the sacrilegious spectacle: The body of Formosus seated on the papal throne dressed in his pontifical robes. The darkened flesh of his cadaver peaking through the vibrant colors of his regal clothes. Eyes dark and hollow stared at the crowd of jurors assembled, as if Formosus was there watching. The body seated upon a replica of our holy Apostle's chair was not out of reverence but mockery, like the crown of thorns around the head of Christ.
+
+The trial was conducted as such: Stephen VII would prosecute Formosus, describing in depth the serious nature of Formosus's crimes. It was suggested by some clergy present that if this was to be a fair trial, Formosus should be given representation deserving of a holy father. A young deacon was appointed as his defender, and the trial began.
+
+"Formosus, why did you covet the throne of the universal church? Were your ambitions so unbridled not even the sacred canons prevented your decision?"
+
+Silence.
+
+"You know this to be true. From the very first moment you were made a bishop, you desired authority. Did you think the wise pontiff Nicholas I would be fooled by your attempt to be appointed the Archbishop of the Bulgars? He saw through your mask, as do I. It is written, for a reason, no bishop shall be the lord over two sees, yet you disregarded this. In fact, your very election is compromised by this prohibition! Explain yourself before the council."
+
+The deacon replied on his behalf.
+
+"Pope Stephen VII, it was not I, but the Tsar who requested my appointment. He saw in me my passion and love for the Vicar of St. Peter, the rock upon which Christ built his church, the one bestowed the keys to the Kingdom of Heaven. As Bishop of Rome, I defended the Holy See against the heresiarch in Constantinople, and his missionaries who sought to subdue us in Illyricum.[[footnote]] A province of Rome previously under the religious jurisdiction of the Bishop of Rome before Byzantine Emperor Leo III transferred it to the Patriarch of Constantinople. [[/footnote]] Never would I seek to harm the way, the truth, and the life preserved on Earth in the Bride of Christ."
+
+Stephen VII derided this statement.
+
+"Truly there is no more pious action than fleeing Rome with the treasury, as what happened when you fled from our predecessor John VII with George of the Aventine. Pope St. Adrian III dealt firmly with that man, as this synod will do to you. Despite being warned against returning to Rome, you dropped the pretense of loyalty to the pontiff right after his death. Who absolved you of your oath to that holy father? No power below the spheres of Paradise can command such authority."
+
+Again the deacon defended the honor of Formosus.
+
+"Have you not read the biographical texts of the notaries? My history is laid bare before the judgement of this council. 'For there is not any thing secret that shall not be made manifest, nor hidden, that shall not be known.' Pope Marinus I pardoned me of my transgressions. To speak against my friends is to commit injustice onto them, for who is to judge but Christ alone? Their sins, as all sins of the penitent, can be forgiven. If the Popes are the Vicar of Christ, surely this power was bestowed onto us as well."
+
+One could sense consternation growing among the clerical jury. Stephen VII began responding, impassion by anger.
+
+"Of course I am the Vicar, but I'm afraid thou art not. You have broken laws inviolable, for no man before ever sought to become the Supreme Pontiff of all the Church of Rome from the ranks of a Cardinal Bishop! Your very election is a travesty, a blight upon our history that needs to be condemned."
+
+The deacon spoke out strongly.
+
+"But holy father, were you not also a Cardinal Bishop before you became the Bishop of Rome?"
+
+At that moment, the stoic face of Stephen VII cracked ever so slightly, revealing a tinge of fear beneath.
+
+"My election was different...Formosus forced me to become a cardinal bishop. He knew that if I were elected after him, he could hold that position against me. Yet he failed to recognize that his pontificate was illegitimate from its very origin. Any actions and orders he decreed from St. Peter's chair are therefore nullified. No Pope is above our canon law."
+
+As the hours stretched into days, the jury had grown concerned about Stephen VII's behavior. After calling Formosus a schemer, a swindler, a perjurer, an anti-Pope, and several other professions of ill-repute, the trial ended.
+
+"Enough! I have stated all of your crimes to the jury. It is time to let the Holy Sprit act within us."
+
+The practice in those days was for the Pontifex to appoint the cardinalate directly from his supporters. It should be of no surprise then that Formosus was found guilty. A most abhorrent punishment was then issued by the Pontifex.
+
+"Cut off the three fingers used for seals, and toss his corpse into the Tiber River. This way nobody shall ever know the name of Formosus again."
+
+A despondent atmosphere fell upon the Lateran. Those who believed in the legitimacy of Formosus were disillusioned. In their eyes, the only illegitimate pontiff that day was Stephen VII.
+
+They watched as Formosus's body was mangled, carried to the top a bridge, and thrown head-first into rushing rapids below. His body hit the water with a terrible impact, as if a boulder tenfold larger and denser had fallen instead.
+
+That day, many wondered was if the Gates of St. Peter had fallen to the Devil.
+[[/div]]
+[[/tab]]
+
+[[tab Carta III]]
+[[div style="padding: 5px 20px; background-color:#baac94; box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 1.25em; background-image: url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png); font-family: Goudy Old Style, serif;"]]
+= [[span style="font-size: 125%;"]] **THE NECROMANCER** [[/span]]
+
+Formosus, the blessed pontiff, had been condemned, the fulfillment of Stephen VII's inquisition and the dukes of Spoleto. It is a strange world we live in, with stranger forces within it. It is with great trepidation that this scribe conveys the events of what happened after the horrendous synod, fearful of those powers God laid beyond the comprehension of the human race.
+
+Formosus's corpse thrashed down the river, sailing adrift in the waterway, like a captain plunging into the deep abyss, cast from his ship in mutiny. The details concerning the body's appearance on the shore remain unknown, though some say the Tiber washed Formosus upon the islets in the delta of Ostia. After several days, the citizens had found the deceased pontiff and delivered him to a church in the city.
+
+It is rumored some of these citizens then reported miracles after handling the bones of Formosus. A leper who had first come across the pontiff noticed suddenly the sores on his body healed, his skin returning to its natural complexion. A woman whose eyesight had long since faded away saw her vision return greater than it had been in her youth. It is even said a Byzantine who had fled from the Saracens in Sicily confessed before the archbishop his desire to convert to our Latin-rite after carrying Formosus's remains!
+
+The veracity of these reports cannot be ascertained. What has been discovered is that hours after finding Formosus an unknown man requested to see the bones of the pontiff, which was granted. This man provided no identity, saying only he was sent to supervise the remains. The archbishop believed the man to be a Roman legate[[footnote]] A representative of the Roman Catholic Church granted certain legal and religious powers. [[/footnote]], thus leaving him with the body.
+
+The archbishop sent for confirmation from the Holy See to the man's identity, but news of Formosus's cadaver appearing in Ostia spread like fire throughout the populace. Many had since turned against Stephen VII for his egregious actions in the trial. Nobody knew this man's identity, certainty he was not sent from the Church in Rome.
+
+The Lateran Palace quickly dispatched several soldiers to recover the body. Although only a few truly know the inner workings of that military, many clergymen believed that Stephen VII dispatched the units himself, so as to see finished what he had started.
+
+In traveling to Ostia, what those soldiers would find was far more dangerous than anyone at the time could have expected. You see, that man claiming to be a representative of Rome was not just a deceiver, but a magician of the dark arts, a necromancer, who had performed sorcery with the bones of Formosus.
+
+Once these soldiers had arrived in Ostia, they found the pontiff's cadaver surrounded by strange geometric symbols drawn in chalk on the floors and walls. Rare scents of incense wafted throughout the building, and herbs sourced from across the known world had been diffused over the corpse. Oil poured over the body was soaking into the pontiff's robes and glistening his white bones.
+
+This Necromancer was nowhere to be found, but partially concealed beneath Formosus's bones was a scrap of parchment with a short letter written on it. This message was a verse from scripture with uncertain meaning to this ritual.
+
+> [[span style="color: black"]] "And Eliseus died, and they buried him. And the rovers from Moab came into the land the same year. And some that were burying a man, saw the rovers, and cast the body into the sepulchre of Eliseus. And when it had touched the bones of Eliseus, the man came to life, and stood upon his feet." (//II Iudices XIII//) [[/span]]
+
+The sacred military collected the body, intending to transport it back to Rome, but once they had touched the flesh of Formosus, they saw something strange. A radiant light emerged from the body, blinding the soldiers. No one is certain what occurred next, but somehow Formosus returned to Rome. Before the chariot's arrival, this knowledge remained known, yet after, many wished it had never been known.
+[[/div]]
+[[/tab]]
+
+[[tab Carta IV]]
+[[div style="padding: 5px 20px; background-color:#baac94; box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 1.25em; background-image: url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png); font-family: Goudy Old Style, serif;"]]
+= [[span style="font-size: 125%;"]] **PENANCE** [[/span]]
+
+Outside of the Lateran, shouting could be heard echoing down the city roads. A small mob had assembled and was marching towards the palace. In the center of their procession was a chariot belonging to those soldiers who had traveled to Ostia, now returning.
+
+Those in the pontifical court who saw the assembled crowd knew something very wrong was happening.
+
+Seated upon that chariot besides the soldiers was a figure wearing bright robes. As the rioters overwhelmed the Lateran guards, storming the palace entrance, one could identify that this figure was His Holiness Formosus.
+
+At first, those who saw his visage believed the crowd was merely parading the remains of Formosus, like the procession of a holy relic before a pagan village to cleanse it of demons. This was not so, Formosus was alive again.
+
+Chaos erupted in the palace, as the discontent citizens and clergy surrounded Stephen VII and his retinues. Dragging the Pontiff into the assembly room, they tossed his body onto the stone floor, as one does to a prisoner locked in the dungeons. In that moment, Stephen VII cursed the crowd for violence against the Apostolic Vicar, condemning them to death.
+
+Then death itself arrived.
+
+"Stephen!"
+
+The complexion of Stephen VII drained to a pale white.
+
+"Behold, the dead rise!"
+
+A fearful silence engulfed the room.
+
+" As the Apostle St. Paul said, 'there is a natural body, and there is a spiritual body'. I am the //accident//, not the //substance// of Formosus. I have been called from temporal rest, and there I sat awaiting judgement. "
+
+Formosus points at the mock throne with a long bony finger.
+
+"I have met the great saints born before me, and I now know of those who have yet to be born. For there are ten hundred of ten thousand seats awaiting their master in the Heavenly Court. There I have seen armies of angels awaiting the sound of the trumpets, and the day when the Son returns."
+
+"I have gazed upon our Savior as he bled and died on the cross, every sin manifesting another slash across his flesh. My sins in life were shown before me, and though I thought I would be sentenced to the endless misery for all eternity, by the grace of God Almighty, I was saved by that greatest divine love."
+
+"Yet you, in your vainglory, believed I am forced to answer to you? Clever you are to try me after death, yet you failed to realize that God is able to resurrect even from the dead. If this were not sinful enough, you had the depravity to desecrate my hand and discard my corpse in the River. You are not the Vicar of Christ but the Anti-Christ!"
+
+"Your allegiance is not to the Church of Rome but the dukes of Spoleto! Repent, for the hour cometh wherein all that are in the graves shall hear the voice of the Son of God! As the Apostle St. John said, 'They that have done good things, shall come forth unto the resurrection of life, but they that have done evil, unto the resurrection of judgment.'"
+
+"Stephen, I am your resurrection of judgement."
+
+Stephen VII, whose blood had frozen in perpetual fear at the sight of the living dead, summoned all his faltering nerves to respond.
+
+"Formosus...I, holy father, surely there must be a way to resolve this?"
+
+Formosus replied.
+
+"Yes, there is. Pray."
+
+Behind Stephen VII, a member of the crowd wrapped a wire around the pontiff's throat and pulled upward. Stephen VII struggled with the man while he chocked in agony; flailing, twisting his body, and kicking his feet in the air; yet there was nothing in his power capable of saving him from death.
+
+Watching the spectacle was Formosus, silent and unmoving, and as quickly as the carnage began, it was brought to an end. The limp corpse of Stephen VII crashed into the ground: The once dead now alive, and the once alive now dead.
+
+The living Formosus, whose sentence of death deposed the Bishop of Rome, kneeled over Stephen VII, and began to pray in silence. Addressing the crowd assembled, the holy father issued his final statement.
+
+"It is done."
+
+The body of Formosus stiffened and ceased breathing, resting once again. The mob that had stormed the Palace disbursed, surely content with their actions against Stephen VII. Silence fell upon the Lateran Palace again. The palace soldiers carried Formosus and his throne into the living room of Stephen VII, where he remained for three months.
+[[/div]]
+[[/tab]]
+
+[[tab Carta V]]
+[[div style="padding: 5px 20px; background-color:#baac94; box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 1.25em; background-image: url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png); font-family: Goudy Old Style, serif;"]]
+= [[span style="font-size: 125%;"]] **RESOLUTIONS** [[/span]]
+
+The church militant, now without its chief pontiff, seemed destined for ruin. What could mortal men do now to save it? Yet by the grace of God, the men of Rome came together and found a solution, guaranteeing the survival of the church another day. The pontificate of Stephen VII, ended in that act of horrific violence, would be resolved though an act of peace.
+
+Once peace reappeared in Rome, the holy father Romanus was elected as the next pontiff. A steadfast supporter of Formosus, Romanus worked to rehabilitate his legacy in history by retracting the condemnation of memory, and granted his reburial in St. Peter's Basilica. The palace soldiers swiftly carried Formosus to the tomb, resealing him beneath the slab stone.
+
+That December, the new Bishop of Rome Theodore II swiftly repudiated the horrendous synod established by Stephen VII and invalided its findings. A prohibition was issued against future trials against the dead, fearful of what other consequences might happen should it be attempted again.
+
+Despite the setbacks to their cause, those resentful supporters of Stephen VII and the Duke of Spoleto renewed their war against the church leadership. Events in Italy fell into the chaotic void prior to the arrival of the Carolingians. The duke Berengar I of Friuli seized the throne from Louis III "the Blind" during the pontificate of Benedict IV in 900 A.D. His successor Leo V found himself imprisoned by the wicked anti-pope Christopher in August 904 A.D.
+
+At this time, a brutal man named Sergius III ascended the sacred throne and ordered the execution of the Anti-Pope Christopher and Leo V. Not satisfied with the death of both these men, Sergius III again condemned Formosus, reaffirming the horrendous synod and the judgement against him.
+
+As if he had known what Sergius III had done, the body of Formosus was brought to life once more. The stone slab of his tomb was thrown so violently from the chamber it shattered into a thousand rocks on the floor. The palace military, fearful of the strength Formosus could wield, stood out in his way.
+
+The doors of Lateran were thrown open, surprising Sergius III and his mistress Marozia in the assembly chamber. Formosus walked forward to the chief pontiff, whose body trembled like the rest at the sight of Formosus. Within the assembly room, situated near its center, was that crude wooden throne.
+
+Formosus made his way towards that chair built to mock his memory and sat upon it once more. There, the holy father issued his final warning.
+
+"Behold, Sergius, death commands the See of Rome, and death will fall upon you and your lover! Upon your dynasty, there will be the weeping and gnashing of teeth. Oh Church of Rome, the New Israel, you are led by King Ahab and his harlot Jezebel! Sergius, repent for your sins, or you shall agonize over them. Choose your fate wisely."
+
+Formosus's body stiffened and ceased movement as before. After the shock of his reappearance had passed, Sergius III ordered Formosus and the mock throne to be sealed together in the room where his tomb was, so that no one would confuse the legitimate pontiff for the illegitimate pontiff, as he had done to Leo V and Christopher.
+
+Now it is known that grisly warning of Formosus came true. In April 911 A.D, Sergius III died and was mourned by few in Rome. The pontiff John X, the cousin of the mistress Marozia, was smothered to death with a pillow in 928. The son of Marozia, Alberic III, threw his own mother in prison where she died in 935.
+
+The pontiff John XII, grandson of Marozia, whose coronation of Emperor Otto I in 962 ended the Carolingian union with Rome, was just found this year murdered by his mistress's husband in 964 A.D.
+
+The faithful may read these words and lament over what has become of the universal church. How could such mortal sin flourish in the hearts of those bishops in the eternal city of Rome? Though many consider Formosus an omen of the end times, this scribe does not. Formosus, that most blessed father, had been chosen to return to the world and warn us against our transgressions to God, like the great prophets of Israel.
+
+Do not lose faith that Christ's promise to St. Peter was abandoned, it has not been and it never will be. Though the Devil rule around us, Christ still reigns within us, and the Blessed Mother watches over us. The saints that live amongst God Almighty, interceding between creation and our creator, continue to pray for our salvation.
+
+Remember the eternal promise: "Thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it."
+
+In desperate times such as these, we must hold on deeply to that promise that this universal church will endure eternal, and that those malicious forces both spirit and flesh promising desolation shall not prevail.
+
+Amen.
+[[/div]]
+[[/tab]]
+[[/tabview]]
+[[/div]]
+[[/collapsible]]
+------
++++ **Addendum-01:**
+Following RPC-009's entombment in St. Peter's Basilica, it is believed that the //Milites Sacra Laterani// [[footnote]] The Sacred Military of the Lateran Palace, a pre-modern AoI of the Papal States formed after the Aghlabid Emirate's Raid on Rome in 846. [[/footnote]] oversaw the protection of RPC-009's crypt throughout the succeeding centuries before responsibility was later transferred to the //Auctoritas Ecclesiastica// in 1216 and then the //Auctoritas Imperata// in 1456. The organization documented RPC-009 at that time.
+
+The //Auctoritas// conducted several tests with RPC-009 to determine if any of its abilities described in the Liber Episcopalis were still active, or if events after the //Saeculum Obscurum//[[footnote]] A phrase referring to the "papal dark age" when the Papacy was contested by rival factions among the Roman nobility, notably the Theophylact dynasty of Tusculum. [[/footnote]] had neutralized the anomaly. Although researchers were unable to trigger RPC-009's secondary ability, several subjects did experience anomalous effects similar to those described in the text and associated with sanctified relics.
+
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show="[+] Auctoritas Imperata Document" hide="[-] Close"]]
+
+[[div style="padding: 15px 20px; margin: 5px; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aresearch-style/paper3.png); box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 120%; font-family: 'Palatino Linotype';"]]
+
+[[=]]
+[[image PiercerCrucemScriptor.png width="20%"]]
+------
+[[span style="font-size: 110%; font-weight: bold;"]] Most Holy Father Callixtus III, Bishop of Rome, Supreme Pontiff, Servant of the Servants of God, for an everlasting remembrance. [[/span]]
+[[/=]]
+------
+The Auctoritas has concluded testing with //Anomalia Supernaturalis// DCCCXCVII. Great discoveries have been made regarding the cadaver of this holy father. We found that Christians with a professed belief in Roman or Eastern Catholicism experienced supernatural events associated with those divine miracles the faithful receive from touching sanctified relics. This has included:
+
+* Healing of physical ailments or injuries
+* Psychological and emotional stability
+* Answering of personal prayers
+* Renewed religious convictions
+* Mystical visions
+
+Despite the beneficial nature of these powers, I remain deeply concerned over this anomaly. According to our understanding, this holy father was an ordinary man endowed with extraordinary authority as a chief pontiff. Even during the horrendous synod, nothing supernatural occurred, except the boundless immorality of Pope Stephen VII calling for this trial. Only after the body was found did something unusual happen.
+
+Then ,the Archbishop of Ostia allowed an unknown man access to the corpse. When it had been located by the Sacred Military, the cadaver came to life. Necromancy, the dark art of revivifying the dead, certainly must have occurred here. It would explain the herbs, the oils, and the incense.
+
+Some say there are other explanations, that perhaps the Anomalia never really returned to life, and the scribes were simply exaggerating this story. This is doubtful, what benefit comes from amplifying an already disreputable event? The Franticelli[[footnote]] A faction of radical Franciscan mendicant friars who believed the Papacy had become irreversibly corrupt and those who were a part of it would be damned. [[/footnote]] could not come up with a better story than this.
+
+Other say, perhaps the pontiff never died. To these people, I ask you what man do you know who can survive eleven months buried beneath a tomb, deprived of food and drink? Even then, surely no one could maintain their silence in the agony of having their fingers chopped off, or drowning in the Tiber River.
+
+Lastly, some say this resurrection could have been a divine miracle, but this theory is equally as flawed as the rest. When the saints bring the dead back to life, no matter how decayed the flesh of their body is, they always retain the beauty of their prime years. Yet the Anomalia appeared not as he was before his death but a skeleton.
+
+Secondly, when the dead are resurrected in justice, their body and soul return together. However, in the case of this Anomalia, he states that he is the //accident//, not the //substance// of Formosus, a body without its soul. They even called him "death itself".
+
+Does this sound like a miracle to you? What holy father would allow his successors to be murdered by the mobs of Rome, or condemn to death the descendants of an entire dynasty? None returned by the spirit of righteousness but the spirit of vengeance.
+
+There is a reason this pontiff was never canonized as a saint even by his supportive successors. It is my belief that this Necromancer, undoubtedly a supporter of the Anomalia, used the pontiff's body to turn him into a servant for his own vengeance against the Bishop of Rome.
+
+I have therefore concluded the supernatural abilities of this cadaver are not a product of intercession but sorcery. Let us leave this Anomalia sealed in his resting chamber, buried with the history of this shameful era of the Papacy.
+[[>]]
+[[span style="font-size: 150%; font-weight: bold; font-family: 'Brush Script MT';"]] ~ Father Vittorio Violante [[/span]]
+[[/>]]
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+------
++++ **Addendum-02:**
+
+Following the secularization of the Auctoritas at the 8th French National Exhibition in 1834, the original location of Site-001 in Rome which housed RPC-009 was occupied by the newly-formed Papal States Military Vicariate before its transfer to the Vatican Primacy in 1870.
+
+Attempts to reclaim this containment facility and repossess the anomalies located within St. Peter's Basilica to this date have been unsuccessful. As of this data entry, RPC-009 remains in the possession of the Primacy. The following files were obtained by MST Echo-73 operatives during an undercover operation to retrieve papal anomalies during the Vatican Necropolis excavations.[[footnote]] //See the Discovery section of [[[RPC-227]]]//. [[/footnote]]
+
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show="[+] Vatican Primacy Files" hide="[-] Close"]]
+
+[[tabview]]
+[[tab Anomaly Document]]
+
+[[div style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; color: #ccc; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Dark.png);"]]
+ 
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); background-color: #100c08; border: 4px double #939393; padding: 5px 15px;"]]
+ 
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 95%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+ 
+[[=]]
+[[span style="color: #efc156;"]]
++++ SACRED PHENOMENON INQUEST NO.900 [[/span]]
+[[/=]]
+ 
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| ENTITY || CRUCIS || 01 || CATHEDRA ||
+ 
+[[table style="border-top: 4px double #939393; width: 100%"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: VITA-00
+ 
+**RELIGION**: Christian
+ 
+**REGISTRATION**: October 20, 1870
+ 
+**AUTHORIZATION**: Cardinal Giacomo Antonelli, Preeminent Inquisitor
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Pius IX
+[[/cell]] [[/row]] [[/table]] [[/div]]
+------
+[[include component:image-block name=PopeFormosus.png|caption=Portrait of SPI-900 prior to becoming anomalous.|width=290px]]
+
+++ **REGULATIONS**:
+SPI-900 is to be kept contained within its designated chamber in the Vatican Grottoes Vault of Sanctum-001, ideally situated upon the painted wooden throne carved with the inscription "the Chair of St. Peter", or within the stone tomb located next to it. Should SPI-900 return to life, personnel are to immediately notify an Arcane Inquisitor.
+ 
+++ **DESCRIPTION**:
+SPI-900 is the partially-incorruptible body of the former supreme pontiff of the One Holy and Apostolic Roman Catholic Church known as Pope Formosus. SPI-900's properties are consistent with those of sanctified remains in spite of its lack of official canonization.
+
+Several miracles have been reported amongst lay members of the Church who have made physical contact with SPI-900. SPI-900 is equally endowed by God with the power of reviving itself from the dead. During these events, SPI-900 will convey an important religious message to the faithful regarding the moral and ethical state of the institutional church.
+ 
+++ **HISTORY**:
+SPI-900 was first documented by the Sacred Military during the regrettable spectacle of the Cadaver Synod of 897 AD when the body of Pope Formosus performed miracles and converted people to the true faith when they made physical contact with his remains. SPI-900 revivification ability was discovered when Sacred Military soldiers attempted to return the cadaver to Rome. More information on this event is documented in the //Liber Episcopalis//.
+
+Since this initial event, and the subsequent condemnation of Pope Sergius III, SPI-900 abilities have been documented on several occasions, mostly in audience with the Holy Fathers before or shortly after a significant event occured in the Church. //Auctoritas// records reveal Pope St. Gregory VII, Pope Innocent III, Pope Callixtus III, Pope Clement V, Pope Paul III, and Pope Pius VI had an encounter with SPI-900.
+
+The most recent resurrection event occurred on May 22, 1834 AD. Pope Gregory XVI's rightful excommunication of the First Directorate for secularizing the //Auctoritas// immediately resulted in hostilities between the newly-formed Authority and the Papacy, which had lost around 85% of its supernatural forces. Within Demonymless, a regiment of mercenaries known as the Papal Zouaves was hired and immediately sent into battle against Authority combat personnel under the banner of the Military Vicarate.
+
+According to reports, SPI-900 broke out of his containment chamber in the Grottoes, at this time being contested by Authority and Vicariate operatives. It was reported that SPI-900 moved to the bodies of wounded soldiers from both sides and healed their wounds through contact. When Vicarate forces finally captured Sanctum-001, SPI-900 returned to its throne and began reciting Ephesians 4: 1-6 in Latin before returning to stillness.
+ 
+++ **VERDICT**:
+SPI-900 is an immensely valuable relic to the Primacy given its allegiance to the Roman Catholic Church and the Papacy. SPI-900's extensive history interacting with the earliest precursors of the Roman Curia's supernatural dicasteries is equally of great historical value to the Primacy.
+
+++ **APPENDIX-01**:
+On November 15, 1848, SPI-900 became active again. //See Interrogation Record IR-900-01//.
+
+[[/div]]
+[[/tab]]
+
+[[tab Interview Transcript]]
+[[div style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; color: #ccc; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Dark.png);"]]
+ 
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); background-color: #100c08; border: 4px double #939393; padding: 5px 15px;"]]
+
+[[=]]
++ **INTERROGATION RECORD**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**ENTITY**: SPI-900
+
+**INQUIRY DATE**: November 15, 1848
+
+**LOCATION**: Sanctum-001
+
+**INQUISITOR**: The Papacy
+
+**AUTHORIZATION**: Cardinal Giacomo Antonelli, Preeminent Inquisitor
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Pius IX
+[[/cell]] [[/row]] [[/table]] [[/div]]
+----
+= **NOTE**: //The following interview was transcribed from Latin into English.//
+
+[[div style="padding: 5px 20px;"]]
+[[=]]
+++++ <//BEGIN TRANSCRIPTION//>
+[[/=]]
+@@@@
+
+**THE PAPACY**: My God! What they told me is true...the dead are still alive.
+
+**SPI-900**: In this state, I am more alive than you will be if you do not heed my warnings closely.
+
+**THE PAPACY**: I have read the sacred texts, I know your history, but I thought these were myths.
+
+**SPI-900**: This is because you have fallen for the mythmakers' shadows, and you cannot see the light of truth. I know this condition well, for I once was the same as you.
+
+**THE PAPACY**: What did you do to become like this?
+
+**SPI-900**: I was but a mortal man, tainted by that original sin of our father Adam. If you know my history, then you will know I stood against the election of Pope John VII. My friends were murderers and bandits, and I found myself outcast from the eternal city. Yet by the grace of God, Pope Marinus I forgave my transgressions.
+
+**SPI-900**: Later, I was chosen by the Holy Spirit to lead the universal church, the bride of Christ. Every moment I lived, I defended St. Peter's throne from those that sought to subjugate it. In my days, a wicked clan ruled the duchy of Spoleto…they sought to usurp the rightful rule of Charlemagne's dynasty. Though Arnulf triumphed against them, I did not live long after his ascension to the throne.
+
+**SPI-900**: Content with my actions, I fell into that final rest all mankind will know at time's end. There I remained, the darkness falling upon me, and I felt my spirit severed from my temporal body. Trapped in this void, gradually the light returned to me, and I found myself standing trial in the heavenly court.
+
+**SPI-900**: Beside me was the old //Primicerius//, //Secundicerius//, and George of the Aventine. Judging us was a woman who I recognized to be the //Mater Dei//, the Blessed Mary. She declared to the papal assistants, "To the Purgation." A blue flame consumed them, but they were not afraid, in fact, their faces were smiling.
+
+**SPI-900**: Then she turned to George of the Aventine and declared, "To the Inferno." Suddenly, a lighting bolt struck the man, and he burst into common flames, yelling in agony and jerking his body as his skin blackened and charred. His body bowed backwards in the opposite direction of his spine. His figure collapsed, shaking until it was reduced to ashes. She then turned to me, and I bowed my head in shame towards her.
+
+**SPI-900**: "Behold my Son," I heard. Then I saw Him, our Lord and savior, on the cross at Calvary, and I saw St. Peter at his weakest moment, denying Christ before him. I sobbed, then Christ turned his head up to me and spoke, saying "I am the resurrection and the life: he that believeth in me, although he be dead, shall live. For the Lord is not the God of the dead, but of the living."
+
+**SPI-900**: Then the vision ended, and I returned to the heavenly court. The Blessed Mother then reassured me that what I had seen was only a symbolic vision, and that Christ reigned supreme in Heaven. I travelled with her outside the courtroom. Turning upwards, I saw the most radiant star in creation, its body moving so quickly it appeared perfectly still. 
+
+**SPI-900**: Outside the courtroom, I saw Paradise filled with angels and saints immeasurable in number praising the Lord in harmonious hymns. My eyes gazed at Christ ruling from his celestial throne surrounded by all of his disciples. Joy overtook my heart and soul, and the psalms flowed forth from my mouth in ecstasy. 
+
+**SPI-900**: The Blessed Mother then declared, "Devote this sight to the center of your being, for it is not time for you to join us here yet." The vision slowly faded away and I was back in the Void. A ghastly skeletal figure appeared before me, wielding a scythe in black robes.
+
+**SPI-900**: He then spoke to me, "Remember your predecessor, Pope John VIII? Because you opposed his election to the throne of St. Peter, you transgressed the will of the Holy Spirit. As a result, the Lord has appointed you to perform a special task on Earth to make up for your sin, which upon fulfillment will end your time in Purgatory."
+
+**SPI-900**: "This will not be easy for you. The punishment you will receive is to witness the Church Militant's struggle against sin and evil, yet refrain from intervening. You will wear this sentence on your flesh, appearing as one between the living and the dead."
+
+**SPI-900**: You see now though I am risen flesh, my spirit is still there inside that dark room. Century after century, I have witnessed Popes and Anti-Popes depose one another, and claim the throne of St. Peter for themselves. Some on their own volition made pilgrimage to my ancient throne, like the blessed Pope St. Gregory VII and Innocent III, but many did not answer me. Thus, I had to call them to account.
+
+**SPI-900**: Now, Holy Father, I am calling you to account. You have fallen for the soothsayers who weaken the power of the Papacy. Thus, the Church in Rome shall undergo a crucifixion, and the States will be reduced to a remnant. The separated Authority will grow stronger than all that have come before it, and they will reforge the world order. 
+
+**THE PAPACY**: My Lord, this cannot be true; the Romans would never betray the institutional church. Furthermore, I have published a constitution for the Papal States[[footnote]] The Fundamental Statute for the Secular Government of the States of the Church was issued by Pope Pius IX on March 14, 1848.[[/footnote]] just like other governments have done. Since I signed the Authority Agreement, we have not had any new problems from them.
+
+**SPI-900**: Believe my words or not at your peril. I have not come to compromise with you, but to command.
+
+**THE PAPACY**: By what authority do you command me, revenant?! The papal records say a Necromancer resurrected you, that is why you appear the way you do. No sanctified body I know of looks the way you do. Why should I listen to you?
+
+**SPI-900**: Because I am the successor of St. Peter too! The Holy Spirit chose us to be the servant of the servants of God. Though I am now a member of the Church Penitent, my mission does not end at my death. I live on through the body of Christ. 
+
+**SPI-900**: The one who brought me back to life was not a Necromancer, but a Benedictine friar whom the Holy Spirit directed to find me. The message I send, Holy Father, is not my own, but that of the pre-existent Church reigning above us, the Church Triumphant.
+
+**THE PAPACY**: I did not know...I am sorry for my obstinacy. Thank you for alerting me of these dangers the Church will soon face. I will make preparations to protect and defend this sacred institution from all evil. Blessed Formosus, I will pray that your trial in Purgatory may one day soon come to an end.
+
+**SPI-900**: Agonize over my fate not, Holy Father, for I have seen the end already. I know the Reedeemer liveth, and in the last day my body and soul shall reunite as one and return in full glory in the world to come, for Jesus Christ has destroyed death. I shall be clothed again with my skin, my soul and body brought together as one, and in my flesh I shall see my God again.
+
+**THE PAPACY**: Amen!
+@@@@
+[[=]]
+++++ <//END TRANSCRIPTION//>
+[[/=]]
+[[/div]] [[/div]]
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+[[/collapsible]]
+
+[[div style="color: #c8c8c8; margin: 10px; padding: 10px; border: var(--dashed-border); background: var(--background-4); border-left: #666666 10px solid;"]]
+[[footnoteblock]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-008]]] | RPC-009 | [[[RPC-010]]] >>
+[[/=]]
+

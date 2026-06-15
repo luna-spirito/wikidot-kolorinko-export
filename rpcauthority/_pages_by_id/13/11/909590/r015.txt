@@ -1,0 +1,116 @@
+---
+title: "Award Tool"
+tags: []
+page_id: "1311909590"
+site: "rpcauthority"
+slug: "_award-tool"
+revision: 15
+revision_id: "1523079295"
+author: 5982545
+timestamp: 1721227340
+---
+
+[[module CSS]]
+.recentListRow:nth-child(2n) {
+  background: #0002;
+}
+.recentListRow td {
+  padding: 2px;
+}
+[[/module]]
+
+[[div class="content-panel"]]
+**Display pages for:**
+
+[[collapsible show="+ Articles by Year"]]
+[[div style="display: flex; flex-wrap: wrap;"]]
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc/created_at/2018/order/created_at RPCs 2018]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc/created_at/2019/order/created_at RPCs 2019]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc/created_at/2020/order/created_at RPCs 2020]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc/created_at/2021/order/created_at RPCs 2021]
+[[/div]]
+
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc-j/created_at/2018/order/created_at RPC-Js 2018]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc-j/created_at/2019/order/created_at RPC-Js 2019]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc-j/created_at/2020/order/created_at RPC-Js 2020]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/rpc-j/created_at/2021/order/created_at RPC-Js 2021]
+[[/div]]
+
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/tale/created_at/2018/order/created_at Tales 2018]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/tale/created_at/2019/order/created_at Tales 2019]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/tale/created_at/2020/order/created_at Tales 2020]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/tale/created_at/2021/order/created_at Tales 2021]
+[[/div]]
+
+[[div style="width: 50%;"]]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/document/created_at/2018/order/created_at Documents 2018]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/document/created_at/2019/order/created_at Documents 2019]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/document/created_at/2020/order/created_at Documents 2020]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/document/created_at/2021/order/created_at Documents 2021]
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+» [http://rpcauthority.wikidot.com/_award-tool/tags/mst MSTs]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/personnel Personnel]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/site Sites]
+
+----
+
++ ##f00|LORE AND INFORMATION:##
+
+» [http://rpcauthority.wikidot.com/_award-tool/tags/lore,-document,-tale Lore Pages]
+» [http://rpcauthority.wikidot.com/_award-tool/tags/information,-lore,-document,-tale/pagetype/* Information Pages]
+
+[[/div]]
+
+[[div class="content-panel"]]
+++ Article Listing
+
+----
+
+[[module ListPages pagetype="@URL" tags="@URL" category="@URL|*" created_at="@URL" order="@URL|title" perPage="250" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: top;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Page
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Date Created
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Votes
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #666; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%created_at%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%rating_votes%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+[[/div]]
+

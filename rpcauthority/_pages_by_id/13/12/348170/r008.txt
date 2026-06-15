@@ -1,0 +1,45 @@
+---
+title: "Prolab APD Classification"
+tags: ["component"]
+page_id: "1312348170"
+site: "rpcauthority"
+slug: "component:apd-classification"
+revision: 8
+revision_id: "1367510524"
+author: 5258122
+timestamp: 1628547737
+---
+
+[[table style="border-bottom: solid 3px; width: 100%; border-radius: 6px; padding: 0em;"]]
+[[row]]
+
+[[cell class="desktopOnly" style="float: none; padding: none;" rowspan="4"]]
+[[f=image http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Stamp.png width="110px" padding="none"]]
+[[/cell]]
+[[hcell colspan="2"]]
+++ [[span class="ClassTitle"]]{$Title}[[/span]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="Classification"]]**Codename:**[[/span]] {$Codename}
+[[/cell]]
+[[cell]]
+[[span class="Classification"]]**Lethality:**[[/span]] {$Lethality}
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="Classification"]]**Lead Sp.:**[[/span]] {$Specialist}
+[[/cell]]
+[[cell]]
+[[span class="Classification"]]**Item Type:**[[/span]] {$Type}
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell colspan="2"]]
+[[span class="Classification"]]**ID Properties:**[[/span]] {$Properties}
+[[/cell]]
+[[/row]]
+[[/table]]
+

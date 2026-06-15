@@ -1,0 +1,504 @@
+---
+title: "Trollface Theme"
+tags: ["theme"]
+page_id: "1311919424"
+site: "rpcauthority"
+slug: "component:trollface-theme"
+revision: 8
+revision_id: "1523155256"
+author: 5982545
+timestamp: 1721597265
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:trollface-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+/*
+    Trollface Theme (made by Qual; requested by Worm of the Walks)
+    [2021 Wikidot Theme]
+*/
+
+
+
+/* General Variables Section: */
+
+body {
+    font-family: "Comic Sans MS";
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Atrollface-theme/Trollface_Background_Transparent.png);
+    background-repeat: repeat;
+    background-size: 30px;
+}
+
+#main-content {
+    background: #fff;
+    box-shadow: 0px 3px 5px 0px #8c8c8c;
+}
+
+#page-content {
+    font-size: 110%;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Atrollface-theme/Bottom_Text.png);
+    background-position: bottom center;
+    background-size: 85%, contain;
+    background-repeat: no-repeat;
+
+    padding-bottom: 80px;
+    padding-left: 20px;
+}
+
+#page-title {
+    color: #f5f5f5;
+    letter-spacing: 3px;
+    padding: 0px 0 0em;
+    margin: 0px 0 0.2em;
+
+    font-size: 5em;
+    font-weight: bold;
+    font-family: 'Squada One', cursive;
+
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 2px 2px #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000;
+}
+
+/* Variables to make Main Content Background Seamless: */
+
+form#edit-page-form {
+    background: #f9f9f9;
+    padding: 10px 40px 1em 10px;
+    box-shadow: 0px 3px 5px 0px #8c8c8c;
+}
+
+table.edit-page-bottomtable {
+    margin: 10px 10px;
+}
+
+.page-options-bottom a {
+    padding: 0px 7px;
+}
+
+
+
+/* User Name */
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #ccc;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #d4d4d4;
+}
+ 
+#login-status a:hover {
+    color: #e6e6e6;
+}
+ 
+/* Hover box in extended options (in tandom w/ variable --account-options-border) */
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+ 
+/* Regular Extended User Opt. Var. */
+ 
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: 0px solid #ccc;
+    text-shadow: none;
+    transition: background-color 0s ease 0s;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #e4e4e4;
+}
+ 
+/* DO NOT TOUCH UNLESS PLANNED, WHITE THEME VARIABLES */
+ 
+.open-themes-container {
+    display: none;
+}
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-primary-text-color);
+}
+
+
+
+/* Searchbar, Topbar, Sidebar Section: */
+
+#search-top-box-form input[type=submit]:hover, #search-top-box-form input[type=submit]:focus, #top-bar .search-button a:hover {
+    color: #2b2b2b;
+}
+
+#top-bar {
+    font-family: 'Patua One', cursive;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+#top-bar ul li ul li a {
+    font-family: 'Comic Sans MS';
+}
+
+#side-bar {
+    width: 17.5em;
+    padding: 1em;
+    background: #fff;
+    box-shadow: 0px 3px 5px 0px #8c8c8c;
+}
+
+#side-bar div.menu-item a {
+    transition: all 0.1s ease-in-out;
+    display: block;
+    margin: 0 calc(-1em - 1px) 0 -0.5em;
+    padding: 0.4em 1em 0.4em 1em;
+    font-size: 12.8px;
+    color: var(--sidebar-color);
+    width: 210px;
+}
+
+#side-bar .heading {
+    color: #e8e8e8;
+    letter-spacing: 2.5px;
+
+    font-size: 1.6em;
+    font-weight: bold;
+    font-family: 'Squada One', cursive;
+
+    text-transform: uppercase;
+    text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+#side-bar hr {
+    background-color: #868585;
+    width: 220px;
+}
+
+
+
+/* Header Section: */
+
+#header h1 a::before {
+    font-family: 'Squada One', cursive;
+    margin-left: 30px;
+    text-decoration: none;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 2px 2px #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000;
+    letter-spacing: 2px;
+}
+
+#header h2::before {
+    font-family: 'Patua One', cursive;
+    font-size: 100%;
+    margin-left: 30px;
+    text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+    letter-spacing: 1.5px;
+}
+
+h1 {
+    color: #fff;
+    letter-spacing: 2.5px;
+
+    font-size: 265%;
+    font-weight: bold;
+    font-family: 'Squada One', cursive;
+
+    text-transform: uppercase;
+    text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+h2, h3 {
+    color: #eaeaea;
+    letter-spacing: 2.5px;
+
+    font-size: 1.8em;
+    font-weight: bold;
+    font-family: 'Squada One', cursive;
+
+    text-transform: uppercase;
+    text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+ 
+h4, h5, h6 {
+    color: #e8e8e8;
+    font-family: 'Patua One', cursive;
+    text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+    letter-spacing: 1.5px;
+}
+
+
+
+/* Link Section: */
+
+a {
+    font-weight: bold;
+}
+ 
+a.newpage {
+    font-weight: bold;
+}
+ 
+a:hover {
+    font-weight: bold;
+}
+
+
+
+/* ------------- Tabview Borders Section: Beginning ------------- */
+
+/* Fixes Selected Tab Issues: */
+
+.yui-navset .yui-nav .selected a em {
+    padding: 0.37em 0.75em;
+}
+
+/* Selection Tabview Borders Section: */
+ 
+.compactTabview .yui-nav, .yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    border: var(--black-border);
+}
+
+/* Side Tabview Section: */
+
+.sideTabview .yui-nav {
+    border: var(--black-border) !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--black-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--black-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+
+
+/* Images and Sidenote Section: */
+
+.image-block .image-caption {
+    background: #000000;
+    border-top: 10px solid black;
+    padding: 2px 0;
+    font-size: 110%;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+    color: #fff;
+    font-family: Times New Roman;
+}
+
+.sidenote.sidenoteLock-false:hover .sidenoteH {
+    background: var(--nav-hover-background);
+    color: #fff;
+    font-weight: bold;
+}
+
+.sidenoteI {
+    border: var(--sidenote-contents-border);
+    padding: 0px;
+    border-top: none;
+}
+
+
+
+/* Miscellaneous Important Stuff Section: */
+
+.modal-header, .owindow, .owindow .title {
+    background: #f2f2f2!important;
+}
+
+hr {
+    background: #000;
+    Margin: 1em 0;
+}
+
+.hovertip {
+    border: var(--black-border)!important;
+}
+
+.cellStyle {
+    height: 21px;
+}
+
+.starStyle {
+    padding: 1px 4px 0px 4px;
+}
+
+.rateContainer {
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--black-border);
+}
+
+.code {
+    background: #e7e7e7;
+}
+
+#footer a {
+    color: #000;
+    background: transparent;
+}
+
+#license-area {
+    background: #d9d9d9;
+}
+
+.image-block {
+    border: 10px solid black;
+    background: #d9d9d9;
+}
+
+:root {
+    --text-color: #000;
+    --body-background: #e7e7e7;
+    --primary-text-color: #cc9a3d;
+
+    --nav-hover-background:#366499;
+    --primary-background: #fff;
+    --content-bar-background: #e7e7e7;
+
+    --text-box-form-background: #e7e7e7;
+    --content-box-shadow: 0px 3px 5px 0px #8c8c8c;
+    --tabview-side-tabs-box-shadow: 1px 0 3px 0px #8c8c8c;
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    --header-custom-text: 'Problem?';
+    --header-tagline-custom-text: 'TROLLED!!!';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Atrollface-theme/Trollface_Schizo_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Atrollface-theme/Trollface_Theme_Header.png);
+    --header-tagline-color: #ccc;
+    --header-tagline-top: 8px;
+ 
+    --link-color: #236ec4;
+    --link-hover-color: #5a91d0;
+    --new-page-color: #94afce;
+
+    --button-border: 1px solid #777777;
+    --button-background: #d0d0d0;
+    --button-hover-border: 1px solid #2b2b2b;
+    --button-hover-background: var(--nav-hover-background);
+    --button-hover-color: #fdfdfd;
+ 
+    --search-button-background: #c7c7c9;
+    --search-button-border: 1px solid #777;
+    --search-button-hover-border: 1px solid #2b2b2b;
+    --search-button-hover-background: #d7d6d8;
+
+    --search-input-color: #c7c7c9;
+    --search-input-hover: #d7d6d8;
+    --search-input-hover-color: #2b2b2b;
+    --search-input-hover-border: 1px solid #2b2b2b;
+    --search-input-text: #070100;
+
+ 
+    --topbar-dropdown-background: #ffffff;
+    --topbar-hover-background: #243b78;
+    --topbar-divider: 1px solid #000;
+    --topbar-dropdown-border-color: #000;
+ 
+    --news-block-body-panel-background-even: #d2d2d2;
+ 
+    --sidebar-crit-corner-color: #5da9ff;
+    --star-rating-hue: yellow;
+ 
+    --text-box-form-background: #f5f5f5;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid var(--nav-hover-background);
+    --tabview-button-selected-background: var(--nav-hover-background);
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: #b6beca;
+ 
+    --tabview-side-tabs-background: var(--text-box-form-background);
+    --tabview-side-button-hover-background: #b6beca;
+    --tabview-side-button-selected-background: var(--nav-hover-background);
+    --tabview-side-button-divider: 1px solid var(--nav-hover-background);
+ 
+    --tabview-side-scrollbar-background: #e8e8e8;
+    --tabview-side-scrollbar-thumb-background: #366499;
+    --tabview-side-scrollbar-thumb-hover-background: #4578b3;
+
+    --BT-scrollbar-background: #efecec;
+    --BT-scrollbar-thumb-background: #cacaca;
+    --BT-scrollbar-thumb-hover-background: #bbbbbb;
+ 
+    --account-options-border: 1px solid var(--nav-hover-background);
+    --basic-border: 1px solid #666666;
+    --black-border: 1px solid #000;
+    --content-box-border-color: #000;
+    --page-title-border: none;
+ 
+    --tabview-side-border: var(--black-border);
+    --owindow-border: var(--black-border);
+    --footnote-border: var(--black-border);
+    --account-options-border: var(--black-border);
+    --toc-border: var(--black-border);
+    --content-panel-border: var(--black-border);
+    --blockquote-border: var(--black-border);
+    --image-block-border: var(--black-border);
+    --star-rating-border: var(--black-border);
+    --content-panel-border: var(--black-border);
+    --tabview-border: var(--black-border);
+    --table-border: var(--black-border);
+    --template-block-border: var(--black-border);
+    --tags-border: 1px solid var(--link-color);
+    --sidenote-contents-border: 1px solid #000;
+    --sidenote-figure-border: 1px solid #000;
+
+    --modal-header-background: #ffffff;
+    --account-options-background: var(--nav-hover-background);
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:aedf-theme/code/1); @@
+> @@ [[/module]] @@
+

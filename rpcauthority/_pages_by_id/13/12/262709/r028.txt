@@ -1,0 +1,266 @@
+---
+title: "The Yarabara's LitterEaters"
+tags: ["mythsmagic-writing"]
+page_id: "1312262709"
+site: "rpcauthority"
+slug: "contest:mythsmagiccontestkloth2"
+revision: 28
+revision_id: "1517007333"
+author: 5982545
+timestamp: 1703630222
+---
+
+[[include component:contest-entry]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+[[/module]]
+[[include :rpcsandbox:mrpines-css-include]]
+[[module CSS]]
+
+#page-title {
+
+     display: none;
+
+}
+
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[=]]
+[[span style="color: #3e6aa3; font-weight: bold;
+    padding: 0 0 0.25em;
+    margin: 0 0 0.6em;
+    border-bottom: var(--page-title-border);
+    word-wrap: break-word;
+    position: relative;
+    top: 1px;"]] [[/span]] 
+[[/=]]
+-----
+
+
+[[span style="font-size: 170%; font-weight: bold; color:#e5e5e5"]] Registered Phenomena Code: [[/span]] [[span style="font-size: 200%; font-weight: bold; color:#296cc6"]] 009 [[/span]]
+
+-----
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards=[[span style="font-size: 165%; font-weight: bold;"]] << [[/span]]  [[span style="font-size: 150%; font-weight: bold;"]] 2/009 [[/span]] [[span style="font-size: 165%; font-weight: bold;"]] >> [[/span]] 
+|align=right
+|name=https://i.pinimg.com/originals/9c/e0/3a/9ce03af30ba075e5019f9cca03a1a16d.jpg
+|width= 280px
+|caption= RPC-009 Replica made by a professional taxidermist. 
+|position=center
+]]
+
+[[table style="border: none; width: 246px;"]]
+[[row]]
+[[cell]]
+[[size 125%]][[image http://www.rpc-wiki.net/local--files/component:icons/beta-red.png]][[/size]]
+[[/cell]]
+[[cell]]
++++ **Object Class:**
+--Alpha-White-- ##eb1c23|Beta-Red##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Responsible Departments:** 
+[[span style="font-size: 57%; font-weight: bold;color:#272a31;"]] _ [[/span]]
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Biology2.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of 
+Biology[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of 
+Chemistry[[/span]][[/span]]
+@@@@
+@@@@
++++ **Hazard Types:**
+@@@@
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Organic Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Grouped Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sentient.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sentient Hazard[[/span]][[/span]] 
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutation.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Transmutation Hazard[[/span]][[/span]]
+@@ @@
+@@ @@
+----
+
++++ **Containment Protocols:** 
+> ++++ **Notice From Research Team-009**:
+>
+> As of 20^^th^^ May, 2014, the containment protocols entailed within the current Registered Phenomena document are considered outdated and awaiting revision. Authority personnel are advised to see the Incident-S031-357 as a reference point for what is to come.
+
+RPC-009 instances are currently contained within [[[Site-031]]]'s Biome Containment Dome-B. The reserve is to be closely monitored by the Biome Management Department Divison B (BMD-B), and sustenance is to be handled by the assigned Research Team-009. The total population of RPC-009 is to be monitored monthly. Whenever the total population within the natural reserve exceeds 15, BMD-B staff are to locate all RPC-009-1 instances and branches produced by RPC-009 and dispose of them via incinerator.
+
+Research of the anomaly is to be done by Research Team-009 personnel at 01:30 PM and must be kept inside of Research Sector-02 until the daily research sections are done. As approved by Site-031's Director Gilda Jair, RPC-009 will be permitted to roam Site-031 biweekly. While the entity is docile, it must be supervised at all times by at least one member of site staff. It is allowed to walk around Site-031's common spaces, excluding the cafeteria, private rooms, parking lots, and restrooms. RPC-009 is permitted access to On-Site Staff Sectors while accompanied by Site Protection ASF members. 
+
+[[collapsible show="[+] Containment Protocols Revisions" hide="[-] Containment Protocols Revision"]]
+> Update (01/02/2014):
+> 
+> Due to increasing suspicious activities, and increasing unauthorized personnel spotted outside of Site-031, as of 1^^st^^ February 2014, additional members of Mobile Specialised Team-Sierra-17 "The Wild Wranglers" are to station within the Site-031 BCD-B[[footnote]]Biome Containment Dome[[/footnote]] at all times.
+> 
+
+> Update (20/05/2014):
+> 
+> All RPC-009 instances are currently being kept as two instances of RPC-009-2, and are to be kept in storage until confirmation of the harmful effects on RPC-009 de-manifest. Because Site-031 was destroyed during the raid, the seeds are being transported to a new site. For further information, see Incident-S031-357.
+> 
+[[/collapsible]]
+
+----
+
++++ **Description:** 
+RPC-009 instances are an anomalous species of plant that resembles //Myrmecophaga tridactyla//.[[footnote]] Giant Anteater. [[/footnote]] The biology of RPC-009 is arranged in such a way that it mimics the anatomy of organisms found in the kingdom //Animalia//. Despite its already larger than average body size of 2.38m compared to its non-anomalous counterpart,[[footnote]]1.85m.[[/footnote]] matured instances can achieve even larger sizes due to their plant biology. RPC-009 bodies are generally comprised of clusters of rootless stem structures that support each other. 
+
+Effectively, the stems of RPC-009 instances serve as both a skeletal and muscular structure. The entire is capable of locomotion through the hydraulic action of pumping sap or water at locations all across the body where a joint would be, causing its 'limbs' to bend. This property seems to be facilitated by small salt-crystal structures located at each of the 'joints.' [[footnote]]Physical examinations on RPC-009 instances reveal the presence of animal and blood cells located within root-like veins throughout the entities' body, as well as in the muscle tissues and limbs.[[/footnote]]
+
+While the outer layer of RPC-009 instances consists mainly of chloroplasts, and although the leaves throughout their bodies had enabled photosynthesis, the process alone is not enough to provide sufficient energy for the instances to maintain their activities. RPC-009’s primary way of gaining sustenance is through the consumption of litter, mainly plastic, but recently it was found to be capable of eating most types of litter. It is also capable of gaining energy through photosynthesis. Litter consumed by RPC-009 is led through a pseudo-digestive track and into a hollowed cavity that serves as a stomach. Objects are then broken down through the conversion of matter by thaumaturgic symbols located all across the stomach. Converted material always comes from edible products similar to fruits, which are then excreted out by RPC-009 instances. These fruits (designated RPC-009-1) share no common form, but they appear to be physically identical to their previous form.
+
+The current known alterations that turn --plastic-- litter into fruit, both instances produced by RPC-009, are:
+
+* The object's interior mass is converted into the pericarp[[footnote]] The part of a fruit that forms from the wall of the ripened ovary. [[/footnote]] of a fruit.
+* The object's exterior now features a layer of exocarp or mesocarp[[footnote]]Both outer layers of the fruit.[[/footnote]] of fruit.
+
+--RPC-009-1 conversion beyond these 2 parameters has never been observed by personnel.--
+
+RPC-009 is capable of reproduction through two means. Reproduction is achieved either through seeds (designated RPC-009-2) that are sometimes located within RPC-009-1, created along with the fruit during initial thaumaturgic conversion, or branches fallen off of matured instances of RPC-009. If left alone, RPC-009 will bury the RPC-009-1 instances or larger branches within fertile soils. Both instances will initially grow as plants with no anomalous effects. When under semi-humid environments and provide sufficient sunlight, water, and any other substances that a plant would require for development. They will converge upon maturing, losing their roots and forming the shape of an anteater. [[footnote]] This process would require at least 4 RPC-009-1 to complete.[[/footnote]] RPC-009 instances are capable of reaching lifespans of up to at least 32 years of age.[[footnote]]As no RPC-009 instances within Authority containment have ever died of natural causes, and instances have been determined to be able to live beyond the lifespans of anteaters, their full lifespan is currently undetermined. PCAAO-Affiliate personnel within Research Team-009 had theorized that by determining their lifespans through their plant biology, instances of RPC-009 are estimated to be able to reach ages of 120 to 150.[[/footnote]]
+
+----
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards=[[span style="font-size: 165%; font-weight: bold;"]] << [[/span]]  [[span style="font-size: 150%; font-weight: bold;"]] 2/009 [[/span]] [[span style="font-size: 165%; font-weight: bold;"]] >> [[/span]] 
+|align=right
+|name=http://rpcsandbox.wikidot.com/local--files/ttpy:rpc357/map
+|width= 200px
+|caption= Area of Discovery
+]]
+
++++ **Discovery:** 
+RPC-009 was initially found in one of the forested areas within Thailand and eastern Cambodia. Possible anomalous activities regarding "wooden creatures" were reported to the Authority across eastern parts of the Cardamom Mountains of the Southeast Asia region, but were not pursued by the responsible administrative branches for the regions. These reports eventually culminated in an incident on 07/11/2010, in which a swarm of 30~ instances of RPC-009 stormed a village located in the Provinces of Cambodia in search of litter. 
+
+Mobile Specialized Team-Foxtrot-4 "Prey" deployed to contain the instances were met by Mobile Formation detachments of PCAAO[[footnote]]People's Committee for the Acquisition of Anomalous Objects: an Agency of Interest of the People’s Republic of China, with the Mobile Formation as their standing combat units.[[/footnote]] stationed there[[footnote]]This incident has been brought before United Nations Anomalous Activities Committee. Members are currently in discussion on whether or not the PCAAO violated treaties in regards to the “Global Influence of Organizations”.[[/footnote]]. MST-Foxtrot-4 and PCAAO personnel were able to work together to contain RPC-009. MST-Foxtrot-4 was able to secure 12 instances of RPC-009 while the remaining 30~ instances were either terminated[[footnote]]Neutralization efforts had been attempted by members of PCAAO forces on several instances of RPC-009.[[/footnote]] during initial efforts or were captured by PCAAO.
+
+Due to the previous activities to the anomaly, the Agency of Interest PCAAO was contacted and questioned for possible connection to RPC-009. While PCAAO denied having any involvement in creating the RPC-009, the group showed interest in the anomaly and had requested help to analyze the instances of RPC-009. After discussions between the Authority and PCAAO staff, a research collaboration between the two organizations was then held at Site-031. The aforementioned AoI has already played an important role in the domestication and domiciliation of the entities and helping to lay the groundwork for the current article.
+
+Authority ASIA Command is currently cross-referencing sources for more information on RPC-009's origin.
+
+----
+
++++ **Experiment Log:**
+Below is a list of experiments conducted upon RPC-009.
+
+[[collapsible show="[+] Test Log 01" hide="[-] close"]]
+> **Date:** 01/27/2013[[footnote]]This test was made during the intial capturing of the anomaly to test their supposed anomalous effects.[[/footnote]]
+> **Procedure:** A 4^^3^^cm plastic cube is given to the anomaly in order to determine RPC-009’s abilities.
+> **Result:** RPC-009 consumes the cube, an orange cube of 4^^3^^ cm is excreted 3 hours later. Examination upon the cube determined it to be an instance of //Citrus Sinensis//[[footnote]]Sweet Orange[[/footnote]].
+> **Notes:** Test-01 establishes the thaumaturgic capabilities of RPC-009. With the confirmation of the anomalous effects of plastic consumption, plans for a new recycling station were made.
+
+[[/collapsible]]
+
+[[collapsible show="[+] Test Log 03" hide="[-] close"]]
+> **Date:** 02/08/2013
+> **Procedure:** A newly produced RPC-009 instance (designated RPC-009-TIA) would be monitored. This was done as an observation into the life cycles of an RPC-009 instance.
+> **Result:** Test-03 has yet to be concluded.
+> **Notes:** N/A
+[[/collapsible]]
+
+[[collapsible show="[+] Test Log 13" hide="[-] close"]]
+> **Date:** 20/05/2014
+> **Procedure:** A repeat of Test-01
+> **Result:** Instead of an outcome similar to Test Log-01, RPC-009 produced a fruit that was filled with scraps of metal, found after a CSD bit into the fruit, and started bleeding profusely.
+> **Notes:** Tested instance is one of the oldest instances captured during the initial sighting; further research is required. But supposedly: Quality of fruit produced by RPC-009 seems to worsen with age.
+[[/collapsible]]
+
+
+[[collapsible show="[+] Test Log 17" hide="[-] close"]]
+> **Date:** 08/06/2014
+> **Procedure:** Give RPC-009 a ball made of plastic straws
+> **Result:** A fruit composed of a taste similar to Lemon, however more acidic in nature, that was capable of almost melting the insides of the CSD that bit it.
+> **Notes:** It appears that RPC-009 can change the Ph of fruits, and perhaps their chemical composition?
+[[/collapsible]]
+
+[[collapsible show="[+] Test Log 20" hide="[-] close"]]
+> **Date:** 11/06/2014
+> **Procedure:** Give RPC-009 scraps of an old trash bag.
+> **Result:** Upon biting the fruit produced by RPC-009, the CSD was instantly killed by the explosion of the fruit. A portion of the body of RPC-009 had as well been detached due to the explosion.
+> **Notes:**  The chemicals found inside the incomplete fruit had explosives in it. For future tests: Don't give more used trash bags to RPC-009 tests. 
+[[/collapsible]]
+
+[[collapsible show="[+] Test Log 21" hide="[-] close"]]
+> **Date:** 19/06/2014
+> **Procedure:** Let it rest under sunlight
+> **Result:** The creature appears to stand in a strange position and heal faster.
+> **Notes:** As this was an unplanned and unexpected test, it accidentally showed a supposed effect and probable ritual between species not known before
+[[/collapsible]]
+
+
+[[collapsible show="[+] Test Log 22" hide="[-] close"]]
+> **Date:** 20/06/2014
+> **Procedure:** Leave 39 small cuts in the body of RPC-009 and let it rest under sunlight.
+> **Result:** The same position from Test Log-21. Healing the wounds completely.
+> **Notes:** This appears to be a new known effect. However, testing must continue to prove the consistency before adding it to the main description. 
+[[/collapsible]]
+
+> **Note for future tests:**
+> 
+> These fruits produced recently appear to be way more aggressive and dangerous for some unknown reason. Even the back then soft lime taste of these fruits became extremely acidic. Therefore, stop wasting CSD's to test if something that might probably kill them, will.
+
+----
+
+
+
+
++++ **Incident-S031-357:**
+[[div class="content-panel"]]
+On 17/05/2014 at 23:44, unexpected weather conditions led to the start of a wildfire at OL-Site-357. The resultant generator failure, which led to the shutdown of the perimeter’s electric fence, effectively causing the breach in containment procedures of RPC-███. Despite its believed passive nature, Mobile Specialized Team-Sierra-17 "The Wild Wrangler's" 357-assigned personnel dispatched to OL-Site-357 and re-establish said containment failure. Site-031 was later assaulted by a hostile group of armed individuals[[footnote]] These individuals are believed to be the ones responsible for the increase in unauthorized personnel sighted all over Site-031 ever since 11/01/2014.[[/footnote]] using both traditional and paranormal weaponry. The group was divided into two fronts, while being assisted by the reappearance of RPC-███, with the entity breaching through Sector-5 and advancing to Sector-4 of Site-031.
+
+Several instances of RPC-009 were kept within Research Sector-2 before the testing incident. At 00:36, all RPC-009 instances' eyes, thaumaturgic symbols, and crystalline structures began to glow red.[[footnote]]No discernible cause for the change has not been identified but was speculated to be a long-distance-affecting anomaly due to the changes in the signs found on the creature's stomach.[[/footnote]] Surviving personnel reported that instances had become extremely hostile, resulting in the deaths of most members of Research Team-009. Staff maintaining Site-031's natural reserve had reported similar experiences with the rest of RPC-009's present. 
+
+The swarm of RPC-009 had resulted in the deaths of 2 MST-Sierra-15's 009-assigned personnel as well as the harming of 3 anomalous fauna inside. While all instances of RPC-009 started creating biological weapons with their anomalous effects by creating compounds of various chemicals such as acidic substances oozing out of the thrown instances of RPC-009-1, explosive substances oxidized upon breaking the outer layer of RPC-009-1. And on a single occasion sulfur mustard gas was released upon breaking the outer layer of RPC-009-1.
+
+Mobile Specialized Team-November-7 "Hammer the Gamma" were called in to respond to the incident, arriving three hours after the current Protection Team was defeated by the abundance of enemies, who had fled to Sector-04. After reinforcements arrived, 90% of the RPC-009 instances were terminated, with their remains incinerated after post-mortem examinations.[[footnote]]Remaining instances would later be discovered and neutralized similarly during Post-Incident Clean up.[[/footnote]]
+
+After Incident-S031-357, Site-031's Directors of Anomaly Containment re-evaluated RPC-009's classification, updating its object class level to Beta-Red. The re-established Research Team-009 dispatched all instances of RPC-009-1 still contained in the remnants of Site-031. [[footnote]]now designated Site-031-1.[[/footnote]]
+
+After confirmation of similar hostile behavior observed in the RPC-009 instance within PCAAO confinement. Personnel found in other sites with instances of RPC-009 were alerted of this new development by Authority's ASIACOM. Some theories lead to the possibility of PCAAO using RPC-009 for weaponry. This topic will be brought up during the next UNAAC summit on "Global Anomalous Activities." It was then discovered that two of the current six seeds (four of which were destroyed by orders of the site director) were missing from containment. This discovery made PCAAO the primary suspect responsible for these actions, however; no answer was given. For precautions, a letter was sent to the current PCAAO representative Xiao Li.
+[[/div]]
+------------------------------------------------
+
+
+---------------------
+
++++ **Explanation for the Organic Thaumaturgy**
+
+[[collapsible show="[+] Open Explanation" hide="[-] close"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+During research made close to the area of discovery, an Asian indigenous village was found. Locals started mentioning to have known the aforementioned "green anteaters" for a while, but they mentioned these weren't originally from the place. Further discussion found that it was a group named "Eden's Garden" that brought the specimen after an expedition from South America. However, they mentioned that these RPC-009 instances did not eat ants and rarely moved, confusing them for statues. After a while, researchers found out that, because of the village's low plastic usage, RPC-009 instances only used photosynthesis. After further investigation, they mentioned that the place of origin of the type of Giant Anteaters was actually a tribe found in the Amazon, the Yarabara.
+
+After locating the tribe, they were found with many instances of RPC-009, unaffected by incident-S031-357's harmful effects, the locals had domesticated them. After discussion, they talked about the effects of the creatures, mentioning how they are capable of grabbing the energy from the environment; and use that to transform "city corruption"[[footnote]]Possibly in reference to litter.[[/footnote]] into fruits for consumption. They mention how they are possibly related to the evil ogre Ucara,[[footnote]]A Yarabara folklore, where the evil ogre Ucara is transformed into a giant anteater by the Sun.[[/footnote]] who was cursed to have their descendants eat litter and keep the world clean for the Sun.
+
+While studying those specimens, it was discovered that they're able to transform any type of litter into fruits by shapeshifting their own body, merging both to then modify the litter. This way making the fruits, in a way, a self-sacrificial ritual to turn litter into edible offspring. However, they are also capable of regenerating the lost biomass over time. As the tribespeople mentioned, they are capable of "absorbing the energy from nature" to restructure their bodies. 
+
+The aforementioned ritual for both regeneration and creation of fruits requires them to pause, stand up on their hind legs with arms extended at their sides while facing the direction of the Sun. Specimens have been observed to remain in this state for hours, only moving slightly to follow the trajectory of the Sun across the sky. This allows the creature to both grow the fruits sprouting in their backs and to regenerate lost parts of their bodies. It might also be related to the folk tale of how the descendants once cursed by the Sun, now praise it as a sign of forgiveness. These thaumaturgic rituals are natural, and it seems to be ingrained in their genetic code.
+
+[[include component:image-block name=https://media.discordapp.net/attachments/714347134668898304/858386493164224512/Greennnn.png|caption=RPC-009 instance during the Sun ritual.|align=center]]
+
+[[/div]]
+[[/collapsible]]
+
+-----
+
+[[size 140%]] [[collapsible show="Footnotes" hide="Footnotes"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+
+[[/collapsible]]
+
+[[=]]
+<< [[[RPC-008]]] | RPC-009 | [[[RPC-010]]] >>
+[[/=]]
+

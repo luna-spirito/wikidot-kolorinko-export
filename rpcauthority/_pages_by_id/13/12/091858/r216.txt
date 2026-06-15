@@ -1,0 +1,1941 @@
+---
+title: "Cosmic Embers Theme"
+tags: ["theme"]
+page_id: "1312091858"
+site: "rpcauthority"
+slug: "component:cosmic-embers-theme"
+revision: 216
+revision_id: "1523154628"
+author: 5982545
+timestamp: 1721592943
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+
+[[code type="css"]]
+
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
+/*
+    Galactic Ranger Protection Corp Theme (made by Qual; requested by canon creator Red; Terminal Blocks made by DoubleDenial)
+    [2020 Wikidot Theme]
+*/
+
+div#container::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: repeating-linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,.10) 5px, rgba(0,0,0,0) 10px);
+  z-index: 20;
+  pointer-events: none;
+}
+
+
+/* General Content Section: */
+
+#container {
+    box-shadow: inset 0px 0em 15em 5em rgb(0 0 0 / 80%);
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    letter-spacing: 1px;
+}
+
+#main-content {
+    padding: 1.5em;
+    background: rgb(78 87 132 / 20%);
+
+    border: 6px double rgb(61 118 197 / 50%);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    transition: box-shadow 0.5s ease-out;
+    box-shadow: inset 0px 1px 7px 0px #0000005c;
+    text-shadow: 1px 1px 1px black;
+
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Terminal_Bar.png);
+    background-position: bottom center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+
+}
+
+#page-title {
+    color: #cc8c13;
+    border-bottom: 2px solid rgb(61 118 197 / 50%);
+    letter-spacing: 1px;
+
+    font-weight: bold;
+    font-size: 225%;
+    padding: 10px;
+    font-family: var(--header-font-family);
+    font-weight: 100;
+
+    padding-left: 0.5em;
+    transition: all 0.2s ease-out;
+    border-radius: 10px;
+    background: rgb(0 0 0 / 10%);
+
+    box-shadow: inset 0px 1px 7px 0px #00000026;
+    text-shadow: 3px 3px 4px #0000007a;
+}
+
+div#page-title::before {
+    color: #ff9944;
+    content: "> ";
+}
+
+#page-content {
+    color: var(--text-color);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 110%!important;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    min-height: 90.5em;
+}
+
+strong {
+    color: #f1f0f0;
+    font-size: 105%;
+    font-weight: bolder;
+}
+
+::marker {
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+/* Topbar Bug FixesSection: */
+
+#top-bar {
+    background: linear-gradient(to right, transparent 0%, transparent 30%, rgb(30 58 93) 60%, transparent 100%);
+}
+
+#top-bar li a {
+    margin-top: -4px;
+}
+
+#top-bar ul li ul li a {
+    margin-top: 0px;
+}
+
+
+
+/* Edit Box Section: Makes sure editing looks okay */
+
+form#edit-page-form {
+    padding: 10px 40px 1em 10px;
+
+    border: 6px double rgb(61 118 197 / 50%);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(41 47 74 / 70%);
+
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: inset 0px 1px 7px 0px #0000005c;
+
+}
+ 
+table.edit-page-bottomtable {
+    margin: 10px 10px;
+}
+ 
+.page-options-bottom a {
+    padding: 0px 7px;
+}
+
+
+
+/* Sidebar Section: */
+ 
+.sideTabview .yui-nav {
+    border: var(--main-border) !important;
+}
+
+#side-bar {
+    width: 17.5em;
+    padding: 1em;
+ 
+    background: rgb(78 87 132 / 20%);
+
+    border: 6px double rgb(61 118 197 / 50%);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: inset 0px 1px 7px 0px #0000005c;
+    transition: box-shadow 0.5s ease-in-out;
+    transition: box-shadow 0.5s ease-in-out;
+}
+
+#side-bar .heading {
+    padding-left: 15px;
+    font-weight: lighter;
+    margin: 1em calc(0em + 2px) 0.5em 0;
+    background: linear-gradient(99deg, transparent 2%, rgb(0 126 255 / 30%) 41%, transparent 100%);
+}
+
+.heading {
+    font-family: var(--title-font);
+    font-weight: bold !important;
+    letter-spacing: 1px;
+}
+
+.heading::before {
+    color: #ff9944;
+    content: "> ";
+}
+
+ 
+#side-bar div.menu-item a:hover {
+    color: var(--sidebar-hover-color);
+    box-shadow: 0px 0px 5px teal;
+    text-decoration: none;
+    padding-left: 1em;
+    width: 208px;
+}
+
+#side-bar div.menu-item a {
+    width: 208px;
+}
+
+#side-bar a:hover::before {
+    transition: all 0.2s ease-in-out;
+    content: "» ";
+}
+
+
+/* Topbar Section: */
+
+#top-bar ul li ul {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+}
+
+#top-bar ul li.sfhover a:hover, #top-bar ul li:hover a:hover {
+    box-shadow: 0px 0px 5px teal;
+}
+
+
+
+/* Header Section: */
+
+#header h1 a::before {
+    font-family: var(--header-font-family);
+    font-weight: 100;
+
+    text-decoration: none;
+    letter-spacing: 0.9px;
+
+    margin-left: 25px;
+}
+
+#header h2::before {
+    font-size: 100%;
+    font-family: 'Titillium Web', sans-serif;
+    margin-left: 25px;
+    transition: all 0.3s ease-out;
+}
+
+h1, h2 {
+    font-weight: bold;
+    text-shadow: 3px 3px 4px #0000007a;
+}
+
+h1 {
+    font-family: var(--title-font);
+    color: var(--primary-text-color);
+}
+ 
+h2 {
+    font-family: var(--title-font);
+    color: #fff;
+}
+
+
+h3, h4 {
+    color: #fff;
+}
+
+
+h5, h6 {
+    font-family: 'Titillium Web', sans-serif;
+    color: #fff;
+}
+
+
+
+/* Link Section: */
+
+a {
+    font-weight: normal;
+}
+ 
+a.newpage {
+    font-weight: normal;
+    text-shadow: none;
+}
+ 
+a:hover {
+    font-weight: normal;
+}
+
+
+
+/* Page Content Link Variables: */
+
+#page-content a {
+    padding: 1px 2px;
+}
+
+#page-content .yui-navset a {
+    font-family: 'Titillium Web', sans-serif;
+
+    transition: none;
+    padding: 0;
+    height: 100%;
+}
+
+.yui-navset .yui-nav a:hover, .yui-navset .yui-nav a:focus {
+    background: var(--tabview-button-hover-background);
+    min-height: 25px;
+    box-shadow: 0px 0px 5px solid var(--tabview-button-hover-background);
+}
+
+
+#page-content .yui-content a {
+    padding: 1px 2px;
+}
+
+#page-content  p a:hover {
+    color: #fff;
+    transition: 0.3s;
+    padding: 1px 2px;
+    background: var(--nav-hover-background);
+    box-shadow: 0px 0px 5px teal;
+
+}
+
+/* (Variables to make other pts. of the highlight hover show up) */
+.collapsible-block a:hover, .footnotes-footer a:hover, #toc a:hover {
+    color: #fff;
+    transition: 0.3s;
+    padding: 1px 2px;
+    background: var(--nav-hover-background);
+    box-shadow: 0px 0px 5px teal;
+    border: none;
+}
+
+
+
+.yui-navset .yui-nav li a em, .yui-navset-top .yui-nav li a em, .yui-navset-bottom .yui-nav li a em {
+    font-weight: bold;
+    font-size: 110%;
+}
+
+/* Centered Tabview Section: reconfigured by Qual, adopted from the Floppystyle CSS Page and BHL */
+
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav{
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0 auto;
+}
+
+.yui-navset .yui-nav li,
+.yui-navset .yui-navset-top .yui-nav li{
+     position: relative;
+     display: flex;
+     flex-grow: 2;
+     max-width: 100%;
+     margin: 0;
+     padding: 0;
+}
+
+.yui-navset .yui-nav li a,
+.yui-navset-top .yui-nav li a,
+.yui-navset-bottom .yui-nav li a{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 100%;
+}
+
+.yui-navset .yui-nav .selected a {
+     margin-right: none;
+}
+
+/* Make sure selected tabs work: */
+
+.yui-navset .yui-nav .selected {
+    margin: 0 0em 0 0;
+}
+
+.yui-nav li.selected em {
+    /* top: -1px!important; */
+    border: 0px solid transparent!important;
+}
+
+/* Fixing Centered Tabview CSS Problems Section */
+
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-size: 90%;
+    margin: 0;
+}
+
+.compactTabview .yui-navset .yui-nav, .compactTabview .yui-navset .yui-navset-top .yui-nav {
+    margin: none!important;
+}
+
+.sideTabviewMini .yui-navset .yui-nav {
+    border: none!important;
+}
+
+.sideTabviewMini .yui-navset .yui-content {
+    border-top: var(--tabview-border)!important;
+}
+
+.yui-navset .yui-nav li a, .yui-navset-top .yui-nav li a, .yui-navset-bottom .yui-nav li a {
+    width: 100%;
+}
+
+.sideTabview .yui-nav li a em {
+    width: 100%;
+}
+
+
+
+/* SideTabview Section: */
+ 
+.sideTabview .yui-nav {
+    border-right: var(--main-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.compactTabview .yui-nav::before {
+    top: 0;
+    content: "» ";
+}
+
+
+
+/* Sidenote Section: */
+
+.sidenoteH {
+    font-weight: bold;
+}
+
+.sidenoteC {
+}
+
+
+
+/* Rating Module Sectio: */
+
+.rateContainer {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.starStyle {
+    font-family: normal;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+.readingStyle {
+    background: var(--primary-background);
+}
+
+
+
+/* Image Block Section: */
+
+.image-block {
+    font-family: 'Titillium Web', sans-serif;
+    border-left: 6px solid var(--main-border-color);
+    border-right: 6px solid var(--main-border-color);
+}
+
+
+
+/* Divider Section */
+
+hr, .content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    height: 2px;
+    background: linear-gradient(45deg, transparent, var(--main-border-color), #fcb274, var(--main-border-color), transparent);
+}
+
+#side-bar hr {
+    background-color: none;
+}
+
+
+/* Tags Section: */
+
+.page-tags a {
+    transition: all 0.1s ease-out;
+}
+
+.page-tags a:hover::before {
+    transition: all 0.1s ease-in-out;
+    content: "» ";
+}
+
+
+
+/* Liscensing Section: */
+
+#license-area {
+    background: rgb(33 44 60 / 20%);
+}
+
+#footer {
+    margin-top: 3em;
+    padding: 3px 10px;
+    box-shadow: 37px 0em 65em 25em rgb(0 0 0 / 80%);
+    background: rgb(42 48 76 / 5%);
+}
+
+/* Mobile Comparability (Get rid of everything header and only keep Pg title var.) */
+
+@media (max-width: 775px) {
+#side-bar {
+    display: none;
+    }
+}
+
+@media (max-width: 768px) {
+
+#header {
+    background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Mobile_Icon.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(6.5rem - 2.125rem);
+    height: 7.5rem;
+    background-position: left .2em top 4rem;
+}
+ 
+#header h1 a::before {
+    content: none;
+}
+ 
+#header h2::before {
+    content: none;
+}
+
+#header h2:hover::before {
+    display: none;
+}
+
+#top-bar {
+    background: linear-gradient(to left, transparent 0%, transparent 20%, rgb(30 58 93) 82%, transparent 100%)
+}
+
+#top-bar ul li ul li a:hover::before, #login-status ul a:hover::before, #side-bar a:hover::before {
+    display: none;
+}
+
+#side-bar:target {
+    background: rgb(60 81 134 / 80%);
+    border-top-left-radius: 0px;
+    border: 6px double rgb(61 118 197 / 50%);
+}
+
+#main-content {
+    margin: 40px 10px;
+    }
+}
+
+
+
+
+
+
+/* File Request Block Section: */
+
+.file-request-block {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_File_Request_Background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+
+    border-radius: 3px;
+    border: 1px solid var(--main-border-color);
+    background-color: #333;
+    color: #c0c0c0;
+    padding: 10px;
+    box-shadow: 0px 3px 3px 2px var(--content-box-shadow-color);
+    transition: all 0.5s ease-out;
+
+    margin: 12px;
+    padding: .5em;
+    min-height: 100%;
+    width: auto;
+}
+
+.file-request-block .collapsible-block-folded, .file-request-block .collapsible-block-unfolded-link {
+    text-align: center;
+}
+
+.file-request-block blockquote {
+    background: #e6a52c1a;
+    border: 1px solid var(--main-border-color);
+}
+
+.file-request-block:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+}
+
+.file-request-block table.wiki-content-table th {
+    background: #fcb274bd;
+}
+
+.file-request-block table.wiki-content-table td {
+    background: #f9b84303;
+}
+
+
+
+/* Body Panel Block Section: (Color Panel, Text Message) */
+
+.color-panel, .color-secondary-panel, .text-message-center, .text-message-left, .text-message-right {
+    color: #d7d7d7 !important;
+    text-shadow: 1px 1px 1px black !important;
+}
+
+.color-panel {
+
+    border: var(--color-panel-border);
+    border-left: 6px solid var(--color-panel-border-color);
+    border-right: 6px solid var(--color-panel-border-color);
+    border-radius: 15px;
+
+    box-shadow: var(--content-box-shadow);
+    transition: all 0.5s ease-out;
+
+    margin: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+    padding-left: 1.5em;
+    padding: 1em;
+}
+
+.color-panel blockquote, .color-secondary-panel blockquote {
+    background: #00000047;
+}
+
+.color-secondary-panel {
+    box-shadow: var(--content-box-shadow);
+    border-radius: 15px;
+    transition: all 0.5s ease-out;
+    margin: 0.5em 3.5em 0.5em 3.5em;
+
+    padding-left: 1.5em;
+    padding: 1em;
+
+    border-left: 6px solid var(--color-panel-border-color);
+    border-right: 6px solid var(--color-panel-border-color);
+    border-top: none;
+    border-bottom: none;
+}
+
+.color-panel:hover, .color-secondary-panel:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+    transition: all 0.5s ease-out;
+}
+
+.color-panel strong, .color-secondary-panel strong {
+    color: #ffffff;
+    font-size: 115%;
+    font-weight: bolder;
+}
+
+.text-message-center {
+font-family: 'Saira', sans-serif;
+    font-weight: bold;
+
+    border: 2px solid var(--color-panel-border-color);
+    box-shadow: var(--content-box-shadow);
+
+    transition: all 0.5s ease-out;
+    width: 55%;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+
+    margin-left: 21%;
+    margin-right: 21%;
+    clear: both;
+}
+
+.text-message-center:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+    transition: all 0.5s ease-out;
+}
+
+.text-message-left {
+    font-family: 'Saira', sans-serif;
+    font-weight: bold;
+
+    border: 2px solid var(--color-panel-border-color);
+    box-shadow: var(--content-box-shadow);
+    transition: all 0.5s ease-out;
+
+    width: 55%;
+    
+    margin-left: 0em;
+    margin: 1em;
+
+    padding: 1em;
+    padding-left: 1.5em;
+
+    border-radius: 1em;
+    border-bottom-left-radius: 0em;
+    
+    float: left;
+    clear: left;
+}
+
+.text-message-left:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+    margin-left: 1.5em;
+    transition: all 0.5s ease-out;
+}
+
+.text-message-right {
+    font-family: 'Saira', sans-serif;
+    font-weight: bold;
+
+    border: 2px solid var(--color-panel-border-color);
+    box-shadow: var(--content-box-shadow);
+    transition: all 0.5s ease-out;
+
+    width: 55%;
+    
+    margin-right: 0em;
+    margin: 1em;
+
+    padding: 1em;
+    padding-right: 1.5em;
+
+    border-radius: 1em;
+    border-bottom-right-radius: 0em;
+    
+    float: right;
+    clear: right;
+}
+
+.text-message-right:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+    margin-right: 1.5em;
+    transition: all 0.5s ease-out;
+}
+
+
+
+/* Body Panel Block Section: (Background Colors) */
+
+.terminal-initializing {
+    border-bottom: 3px dashed var(--main-border-color);
+    margin: 1em;
+    margin-top: 0em;
+
+    padding: 0.5em;
+    padding-bottom: 1em;
+}
+
+.terminal-initializing li, .terminal-initializing p {
+    margin: 0em;
+}
+
+.terminal-initializing li:before, .terminal-initializing p:before {
+    content: ">: ";
+    font-weight: bold;
+    color: #fbb479!important;
+}
+
+.introduction-box {
+    background: rgb(78 87 132 / 20%);
+    border: 6px double rgb(61 118 197 / 50%);
+    box-shadow: var(--content-box-shadow), inset 0px 1px 16px #00000073;
+
+    padding: 10px 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.introduction-box:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%), inset 0px 1px 16px #00000073;
+}
+
+
+.red-tinge {
+    background: rgb(197 61 61 / 25%);
+}
+
+.orange-tinge {
+    background: rgb(197 136 61 / 25%);
+}
+
+.yellow-tinge {
+    background: rgb(182 197 61 / 25%);
+}
+
+.green-tinge {
+    background: rgb(63 197 61 / 25%);
+}
+
+.cyan-tinge {
+    background: rgb(0 255 255 / 25%);
+}
+
+.teal-tinge {
+    background: rgb(46 187 197 / 25%);
+}
+
+.blue-tinge {
+    background: rgb(61 84 197 / 25%);
+}
+
+.indigo-tinge {
+    background: rgb(128 90 156 / 25%);
+}
+
+.violet-tinge {
+    background: rgb(238 130 238 / 25%);
+}
+
+.magenta-tinge {
+    background: rgb(197 61 193 / 25%);
+}
+
+.grey-tinge {
+    background: rgb(169 169 169 / 10%);
+}
+
+
+
+/* Font Section: */
+
+.Saira {
+    color: white;
+    font-family: 'Saira', sans-serif;
+    font-size: 95%;
+}
+
+.Cairo {
+    font-family: 'Cairo', sans-serif;
+    word-spacing: 6px;
+    line-height: 27px;
+}
+
+.Exo {
+    font-family: 'Exo', sans-serif;
+    font-size: 95%;
+    line-height: 24px;
+    word-spacing: 6px;
+}
+
+.Titillium {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 100%;
+    word-spacing: 6px;
+}
+
+.Orbitron  {
+    color: #ccc;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 90%;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+}
+
+
+
+/* Miscellanious Hub Code Section: */
+
+/* Blurry Text Section: */
+
+.blurry p {
+    text-shadow: 0px 0px 5px #f1f1f1, 0px 0px 20px #f1f1f1, 0px 0px 30px #f1f1f1, 0px 0px 5px #f1f1f1, 0px 0px 20px #f1f1f1, 0px 0px 30px #f1f1f1;
+    color: #c7c7c721;
+    transition: ease-in 0.2s;
+}
+
+.blurry p strong {
+    color: #ffffff30;
+    transition: ease-in 0.2s;
+}
+
+.blurry:hover p {
+    text-shadow: 1px 1px 1px black, 0px 1px 4px rgb(253 253 253 / 60%);
+    color: var(--text-color);
+    transition: ease-in 0.4s;
+}
+
+.blurry:hover p strong {
+    color: #ffffff;
+    transition: ease-in 0.4s;
+}
+
+/* Terminal Block Section: */
+
+.terminal-initializing {
+    color: white !important;
+
+    border-bottom: 3px dashed var(--main-border-color);
+    margin: 1em;
+    margin-top: 0em;
+
+    padding: 0.5em;
+    padding-bottom: 1em;
+}
+
+.terminal-initializing li, .terminal-initializing p {
+    margin: 0em;
+}
+
+.terminal-initializing li:before, .terminal-initializing p:before {
+    content: ">: ";
+    font-weight: bold;
+    color: #fbb479!important;
+}
+
+ .blinkbar{
+    animation: blink 1.5s infinite;
+}
+
+@keyframes blink {
+  00%   {opacity: 1.0;}
+  10%   {opacity: 1.0;}
+  20%   {opacity: 1.0;}
+  30%   {opacity: 1.0;}
+  40%   {opacity: 1.0;}
+  50%   {opacity: 0.9;}
+  60%   {opacity: 0.9;}
+  70%   {opacity: 0.7;}
+  80%   {opacity: 0.2;}
+  90%   {opacity: 0.0;}
+  100% {opacity: 0.9;}
+  }
+}
+
+/* Command CSS Section: */
+
+.Command-title {
+    font-size: 130%;
+    color: var(--primary-text-color);
+    font-weight: bolder;
+}
+
+.overview {
+    padding-left: 40px;
+    margin-top: -1em;
+    text-align: justify;
+}
+
+.location {
+    margin-top: -15px;
+    padding-left: 10px;
+}
+
+.sorted-header-box {
+    text-align: center;
+    border-bottom: 2px solid rgb(61 118 197 / 50%);
+
+    padding: 0.5em;
+    padding-left: 0.5em;
+
+    transition: all 0.2s ease-out;
+    border-radius: 10px;
+    background: rgb(0 0 0 / 10%);
+    box-shadow: inset 0px 1px 7px 0px #00000078;
+}
+
+.sorted-header-box h1, .sorted-header-box h2, .sorted-header-box h3, .sorted-header-box h4, .sorted-header-box h5, .sorted-header-box h6 {
+    font-family: var(--title-font);
+    font-weight: lighter;
+
+    color: #cc8c13;
+    letter-spacing: 1px;
+}
+
+.left-column.sorted, .right-column.sorted, .center-column.sorted {
+    margin: 0px;
+    padding: 5px;
+}
+
+.left-column.sorted, .right-column.sorted {
+    width: 46%;
+}
+
+.sorted ::marker {
+    color: #fbb479;
+    font-weight: bolder;
+    content: ">: ";
+}
+
+
+.article-block-even {
+    background: var(--primary-background);
+}
+
+.article-block-odd {
+    background: #3c4864;
+}
+
+.article-block-even, .article-block-odd {
+    margin: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+    border: 2px solid var(--main-border-color);
+    border-left: 6px solid var(--main-border-color);
+    border-right: 6px solid var(--main-border-color);
+    border-radius: 16px;
+
+    width: 90%;
+    box-shadow: inset 0px 0px 10px #1b202ecf, 1px 1px 10px #fcb27473;
+
+    transition: all 0.2s ease-in;
+    align-content: center;
+}
+
+.article-block-even:hover, .article-block-odd:hover {
+    margin-left: 1.8em;
+    transition: all 0.2s ease-out;
+    box-shadow: inset 0px 0px 10px #fcb27473, 1px 1px 10px #fcb27473, -4px 0px 15px 1px #fcb27473;
+}
+
+.article-main {
+    padding-right: 0.5em;
+    padding-left: 1em;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.play-article a::before {
+    content: "> PLAY: ";
+}
+
+.play-article a {
+    text-shadow: 1px 1px 1px black, -4px 0px 1px rgb(255 0 0 / 20%), 4px 0px 1px rgb(26 0 255 / 20%), 0px 1px 7px rgb(253 253 253 / 89%);
+}
+
+.author-quoted {
+    padding-left: 30px;
+    margin-top: -12px;
+}
+
+.article-quoted {
+    padding: 1em;
+    padding-left: 1em;
+    background: #2659775e;
+    text-align: justify;
+    font-size: 85%;
+    box-shadow: inset 0px 0px 10px #1f2126a8, 0px -10px 27px -15px var(--main-border-color);
+    border-top: 1px solid var(--main-border-color);
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.article-quoted p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.flex-container, .nav-container {
+    display: flex;
+}
+
+.directive .collapsible-block-folded, .directive .collapsible-block-unfolded-link {
+text-align: center;
+    color: #2fbdcb;
+    margin: 0.5em 0 0em;
+    padding: 0;
+    letter-spacing: 1px;
+    font-size: 130%;
+}
+
+
+
+
+.tagline p {
+    text-align: center;
+    font-style: italic;
+    margin: -0.3em 0em -1em;
+}
+
+.fakeheader p {
+    font-family: var(--title-font);
+    color: var(--primary-text-color);
+    font-size: 190%;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.spaced li {
+     margin-bottom: 0.5em;
+}
+
+.back {
+    padding: 0.7em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+}
+
+.back hr {
+    height: 1px;
+    margin: .3em 0em 0em;
+    background: #ffffff2e;
+}
+
+.back p {
+    text-align: right;
+    font-size: 90%;
+    margin-block-start: 2px;
+    margin-block-end: 2px;
+}
+
+
+.shortermargins h4 {
+    margin: 0.5em 0 -0.7em;
+}
+
+.centered, .centered .collapsible-block-folded, .centered .collapsible-block-unfolded-link {
+    text-align: center;
+}
+
+
+.Medium {
+    font-size: 110%;
+}
+
+.Normal {
+    font-size:90%;
+}
+
+.wider blockquote {
+    margin: 0.2em;
+    margin-top: 2em;
+}
+
+
+
+
+
+
+
+
+
+/* Miscellanious Section: */
+
+td.optionstd {
+    width: 7em;
+}
+
+
+li, p {
+    line-height: 157%;
+}
+
+::-webkit-scrollbar {
+    border: 2px solid rgb(255 255 255 / 8%);
+}
+
+::selection {
+    background: rgb(41 130 130 / 60%);
+    box-shadow: 1px 1px 0px black, 0px 1px 6px rgb(253 253 253 / 60%);
+}
+
+blockquote {
+    font-size: 90%;
+    word-spacing: 0.6em;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--main-border);
+}
+
+.news-block .body-panel .news-date {
+    color: #9c9c9c;
+}
+
+.content-panel .content-panel, .yui-content .content-panel, .body-panel .content-panel, .content-panel blockquote, .yui-content blockquote, .body-panel blockquote, .content-panel .yui-navset, .yui-content .yui-navset, .body-panel .yui-navset {
+    border-left: 6px solid var(--main-border-color);
+    border-right: 6px solid var(--main-border-color);
+}
+
+.hovertip {
+    border: var(--main-border)!important;
+}
+
+.content-box, .content-panel, #toc, .image-block, .tableStyle, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+}
+
+.content-box, .content-panel, #toc, .image-block, .sidenoteContainer, .tableStyle, .yui-navset, blockquote, table.wiki-content-table, .content-block, .info-block, .featured-block, .news-block {
+    transition: all 0.5s ease-out;
+}
+
+table.wiki-content-table th {
+    border: 3px solid rgb(255 153 68 / 70%);
+    color: #ffca5b;
+    text-align: center
+}
+
+.content-panel, #toc, blockquote { 
+    border-radius: 15px;
+    border-left: 6px solid var(--main-border-color);
+    border-right: 6px solid var(--main-border-color);
+}
+
+.compactTabview .yui-navset:hover {
+    box-shadow: none;
+}
+
+.content-box {
+    border-radius: 15px;
+    border-left: 6px solid var(--content-box-border-color);
+    border-right: 6px solid var(--content-box-border-color);
+}
+
+#search-top-box-input, #search-top-box-form input[type=submit], #top-bar .search-button a {
+    box-shadow: 0px 0px 5px teal;
+}
+
+.small-text {
+    margin-top: -5px;
+    text-align: center;
+    text-shadow: none;
+    color: #ffffff7d;
+    font-size: 75%;
+    font-style: italic;
+    margin: 0px;
+}
+
+.image-block.block-right {
+    margin: 0 0em 1em 1em;
+}
+
+.spaced li {
+     margin-bottom: 0.5em;
+}
+
+:root {
+    --text-color: #d5d9db;
+    --body-background: #212c3c;
+    --primary-text-color: #de9c13;
+
+    --favorable: #84e7e7;
+    --mixed: #ff9337;
+    --adverse: #f55b5b;
+    --indeterminate: #d7d7d7;
+    --beneficiary: #58cf58;
+
+    --content-box-shadow: 0px 3px 3px 2px var(--content-box-shadow-color);
+    --content-box-shadow-color: rgb(19 27 37 / 50%);
+
+    --nav-hover-background: rgb(46 187 197 / 40%);
+    --primary-background: rgb(41 47 74 / 40%);
+    --content-bar-background: rgb(73 123 191 / 20%);
+    --news-block-body-panel-background-even: rgb(57 68 93 / 30%);
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Cosmic Embers';
+    --header-tagline-custom-text: 'A Spark of Life into our Oldest Horizon';
+    --header-icon-size: auto calc(11.5rem - 2.125rem);
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/CE_Canon_Header.png);
+    --header-tagline-color: #ccc;
+    --header-tagline-top: 8px;
+ 
+    --header-font-family:  'Russo One', sans-serif;
+    --title-font: 'Aldrich', sans-serif;
+
+    --link-color: #0eb7c4;
+    --link-hover-color: #4bd8e2;
+    --new-page-color: #ad36a9b5;
+
+    --button-border: 2px solid var(--main-border-color);
+    --button-background: rgb(46 187 197 / 20%);
+    --button-hover-border: 2px solid rgb(255 153 68 / 70%);
+    --button-hover-background: var(--nav-hover-background);
+ 
+    --search-button-background: var(--content-bar-background);
+    --search-button-hover-background: rgb(46 187 197 / 35%);
+    --search-input-color: var(--primary-background);
+    --search-input-hover: var(--content-bar-background);
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: rgb(41 47 74 / 70%);
+    --topbar-hover-background: var(--nav-hover-background);
+    --topbar-divider: 1px solid var(--primary-text-color);
+    --topbar-dropdown-border-color: var(--main-border-color);
+
+    --account-options-background: var(--topbar-dropdown-background);
+    --footnote-background: #292f4a;
+  
+    --sidebar-crit-corner-color: #68bec4;
+    --external-graphic-color: 320deg;
+    --unmargined-color: var(--text-color);
+    --star-rating-hue: 200deg;
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+    --content-bar-color: #858585;
+ 
+    --template-block-background: #1a1414;
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid var(--main-border-color);
+    --tabview-button-selected-background: var(--main-border-color);
+    --tabview-button-selected-color: #e2e2e2;
+    --tabview-button-hover-background: rgb(255 153 68 / 20%);
+  
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: rgb(255 153 68 / 20%);
+    --tabview-side-button-selected-background: #a87f64;
+    --tabview-side-button-divider: 1px solid var(--main-border-color);
+
+    --tabview-side-scrollbar-background: var(--secondary-background);
+    --tabview-side-scrollbar-thumb-background: var(--tabview-side-button-selected-background);
+    --tabview-side-scrollbar-thumb-hover-background: #ab866d;
+
+    --sidebar-divider-color: transparent;
+    --sidenote-open-background: var(--main-border-color);
+    --basic-border: 1px solid #ccc;
+ 
+    --BT-resizer-background: #242d42;
+    --BT-scrollbar-thumb-background: #314361;
+    --BT-scrollbar-thumb-hover-background: #405577;
+
+    --main-border: 3px solid var(--main-border-color);
+    --main-border-color: #fcb27499;
+    --color-panel-border: 3px solid var(--color-panel-border-color);
+    --color-panel-border-color: rgb(255 255 255 / 70%);
+
+    --page-title-border: ​var(--main-border);
+    --tabview-side-border: var(--main-border);
+    --owindow-border: var(--main-border);
+    --footnote-border: var(--main-border);
+    --account-options-border: var(--main-border);
+    --toc-border: var(--main-border);
+    --content-panel-border: var(--main-border);
+    --blockquote-border: none;
+    --image-block-border: var(--main-border);
+    --star-rating-border: var(--main-border);
+    --tabview-border: var(--main-border);
+    --table-border: var(--main-border);
+    --template-block-border: var(--main-border);
+    --tags-border: 1px solid rgb(14 183 196 / 50%);
+    --sidenote-contents-border: var(--main-border);
+    --sidenote-figure-border: var(--main-border);
+    --sidenote-figure-open-color: #e2e2e2;
+}
+
+
+/* User Name */
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #b3b3b3;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+ 
+    background: rgba(0,0,0,0.1);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #aaaaaa;
+}
+ 
+#login-status a:hover {
+    color: #d0d0d0;
+}
+ 
+#printuser {
+    color: #ccc;
+    background-color:transparent;
+}
+ 
+#login-status ul a {
+    background: var(--news-block-body-panel-background-even);
+    color: var(--text-color);
+    border: none;
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    box-shadow: 0px 0px 5px teal;
+    color: #fff;
+}
+
+#login-status ul a:hover::before {
+    transition: all 0.1s ease-in-out;
+    content: "» ";
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #ccc;
+}
+
+#account-options {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+}
+
+.open-themes-container {
+    display: none;
+}
+
+@keyframes dd-animatedTerminal-open-container {
+    from {transform: translateY(-50%) scaleY(0);}
+    to {}
+}
+@keyframes dd-animatedTerminal-open-content {
+    0% {opacity: 0;}
+    45% {opacity: 0;}
+    100% {opacity: 1;}
+}
+.animatedTerminal {
+    background: linear-gradient(#3e3e3e, black);
+    font-family: monospace;
+    font-size: 1.2em;
+    padding: 10px 10px 8px;
+    border-bottom: 2px solid rgb(44, 75, 122);
+    box-shadow: 2px 2px 5px black inset;
+    color: #ececec;
+    text-shadow: 1px 1px 1px black;
+    animation: dd-animatedTerminal-open-container 0.5s;
+}
+.animatedTerminal.red {
+    background: linear-gradient(#480000, black);
+    color: #ff3b3b;
+}
+.animatedTerminal.orange {
+    background: linear-gradient(#481b00, black);
+    color: #df7744;
+}
+.animatedTerminal.yellow {
+    background: linear-gradient(#483300, black);
+    color: #dfaa44;
+}
+.animatedTerminal.green {
+    background: linear-gradient(#00480f, black);
+    color: #92df44;
+}
+.animatedTerminal.blue {
+    background: linear-gradient(#020048, black);
+    color: #44a5df;
+}
+.animatedTerminal.purple {
+    background: linear-gradient(#270048, black);
+    color: #9944df;
+}
+.animatedTerminal.pink {
+    background: linear-gradient(#420048, black);
+    color: #df44c0;
+}
+.animatedTerminal.blackBg { background: black !important; }
+.animatedTerminal.dontAnimateOpen { animation: none; }
+
+@keyframes dd-animatedTerminal-contentFlicker {
+    from {opacity: 0.95;}
+    to {opacity: 1;}
+}
+.animatedTerminal > * {
+    animation: dd-animatedTerminal-open-content 1s, dd-animatedTerminal-contentFlicker 0.1s infinite 1s;
+}
+.animatedTerminal.dontAnimateOpen > * {
+    animation: dd-animatedTerminal-open-content 0.45s, dd-animatedTerminal-contentFlicker 0.1s infinite 1s;
+}
+
+ 
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="[+] Assets (Images & Fonts)" hide="[-] Assets (Images & Fonts)"]]
+----
+[[=]]
+++ **Cosmic Embers Canon Assets:**
+[[/=]]
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Cosmic Embers Logo
+++++ (Theme Header)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/Cosmic_Embers_Canon_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ GRPC Logo
+++++ (Neo Authority)
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Remants GRPC Logo
+++++ (Unused Concept)
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Remants_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Independent Faction Logo
+++++ (Group Designation Insignia)
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/Independent_Faction_Logo_%28CE_Canon%29.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ FSM Logo
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/FSM_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ FSM Flag
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/FSM_Flag.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ USSR Logo
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/SFUH_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ USSR Flag
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/SFUH_Flag.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ GRPC Icon
+++++ (Mobile Compatibility)
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Mobile_Icon.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ GRPC Galaxy Header
+[[/div]]
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/CE_Canon_Header.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ GRPC Copyright Bar
+++++ (Outernet Connection)
+[[/div]]
+
+[[div class="art"]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acosmic-embers-theme/GRPC_Terminal_Bar.png width="100%"]]
+[[/div]]
+[[/div]]
+
+----
+
+[[=]]
+++ **Color Panel Blocks:**
+[[/=]]
+
+[[div class="color-panel red-tinge"]]
+**Red Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel red-tinge"]] Orange Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel orange-tinge"]]
+**Orange Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel orange-tinge"]] Orange Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel yellow-tinge"]]
+**Yellow Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel, yellow-tinge"]] Yellow Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel green-tinge"]]
+**Green Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel green-tinge"]] Green Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel cyan-tinge"]]
+**Cyan Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel cyan-tinge"]] Cyan Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel teal-tinge"]]
+**Teal Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel teal-tinge"]] Teal Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel blue-tinge"]]
+**Blue Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[https://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="blue-tinge"]] Blue Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel indigo-tinge"]]
+**Indigo Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel Indigo-tinge"]] Indigo Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel violet-tinge"]]
+**Violet Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel violet-tinge"]] Violet Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel magenta-tinge"]]
+**Magenta Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel magenta-tinge"]] Magenta Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel grey-tinge"]]
+**Grey Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel grey-tinge"]] Grey Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-panel"]]
+**Transparent Panel**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-panel"]] Transparent Panel Text [[/div]]@@
+[[/div]]
+
+[[div class="color-secondary-panel"]]
+**Secondary Color Panel** (Transparent)
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="color-secondary-panel"]] Secondary Color Panel Text [[/div]]@@
+[[/div]]
+
+----
+
+[[=]]
+++ **File Request Block:**
+[[/=]]
+
+[[div class="file-request-block"]]
+
+**File Request Block**
+
+----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Code:** Centered Collapsible //not//  included
+> @@[[div class="file-request-block"]]@@
+> @@File Request Block Content@@
+> @@[[/div]]@@
+
+[[/div]]
+
+----
+
+[[=]]
+++ **Text Message Blocks:**
+[[/=]]
+
+~~~~
+
+[[div class="text-message-left"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+[[/div]]
+
+[[div class="text-message-right"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[[/div]]
+
+~~~~
+
+**Code:** Add any color tinge variable available in the Color Panels
+> @@~~~~@@
+> @@ [[div class="text-message-right"]] @@
+> @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. @@
+> @@ [[/div]] @@
+> 
+> @@ [[div class="text-message-left"]] @@
+> @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. @@
+> @@ [[/div]] @@
+> @@~~~~@@
+
+----
+
+[[=]]
+++ **Animated Terminal Blocks:**
+[[/=]]
+
+> @@[[div class="animatedTerminal"]]@@
+> Box content.
+> @@[[/div]]@@
+
+[[div class="animatedTerminal"]]
+Box content.
+[[/div]]
+
+[[=]]
++++ **Colored Terminal Blocks:**
+[[/=]]
+
+**The colors available are:**
+* "red"
+* "orange"
+* "yellow"
+* "green"
+* "blue"
+* "purple"
+* "pink"
+
+> @@[[div class="animatedTerminal blue"]]@@
+> Box content.
+> @@[[/div]]@@
+
+[[div class="animatedTerminal blue"]]
+Box content.
+[[/div]]
+
+[[=]]
++++ **Black BG Terminal Blocks:**
+(Both subtypes are mixable)
+[[/=]]
+
+> @@[[div class="animatedTerminal blackBg"]]@@
+> Box content.
+> @@[[/div]]@@
+
+[[div class="animatedTerminal  blackBg"]]
+Box content.
+[[/div]]
+
+----
+
+[[=]]
+++ **Galactic Ranger Protection Corp Class Fonts:**
+[[/=]]
+
+
+[[span class="Saira"]] Saira Text [[/span]]
+> @@ [[span class="Saira"]] Saira Text[[/span]] @@
+
+[[span class="Cairo"]] Cairo Text [[/span]]
+> @@ [[span class="Cairo"]] Cairo Text [[/span]] @@
+
+[[span class="Exo"]] Exo Text [[/span]]
+> @@ [[span class="Exo"]] Exo Text [[/span]] @@
+
+[[span class="Titillium"]] Titillium Text [[/span]]
+> @@ [[span class="Titillium"]] Titillium Text [[/span]] @@
+
+[[span class="Orbitron"]] Orbitron Text [[/span]]
+> @@ [[span class="Orbitron"]] Orbitron Text [[/span]] @@
+
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1); @@
+> @@ [[/module]] @@
+

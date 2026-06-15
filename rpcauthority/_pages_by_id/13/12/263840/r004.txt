@@ -1,0 +1,1155 @@
+---
+title: "The Virgin's Wake"
+tags: ["mythsmagic-writing"]
+page_id: "1312263840"
+site: "rpcauthority"
+slug: "contest:mythsmagiccontestfortuna"
+revision: 4
+revision_id: "1517007350"
+author: 5982545
+timestamp: 1703630337
+---
+
+[[include component:contest-entry]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[module CSS]]
+ 
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+ 
+#main-content {
+    border-left: none;
+}
+ 
+#page-title {
+    color: #9535AD;
+    font-weight: normal;
+    font-family: 'Lobster', cursive;
+    border-bottom: 1px solid #555;
+}
+ 
+a {
+    color: #9535AD;
+}
+ 
+a:hover {
+    color: #72008e;
+    text-decoration: none;
+}
+ 
+a.newpage {
+    color: #90cc9a;
+}
+ 
+/* Background */
+ 
+div#container-wrap {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Akkaltheme/kkbg.png) top left no-repeat !important;
+    background-size: 100% 402px !important;
+ 
+}
+ 
+/* Logo */
+ 
+#header {
+    background-image: url(http://rpcsandbox.wdfiles.com/local--files/component%3Akkaltheme/kkheader.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(9.5rem - 2.125rem);
+    height: 7.5rem;
+    background-position: 15px 12px;
+}
+ 
+/* Header */
+ 
+#header > h1 > a > span {
+    display: block;
+    opacity: 0;
+}
+ 
+/* Sidebar */
+ 
+/* Sidebar */
+ 
+#side-bar hr {
+    display: none;
+}
+ 
+#side-bar .heading {
+  font-family: 'Lobster', cursive;
+  padding: 0.8em 1em 0 -0;
+  position: relative;
+  border-top: 1px solid #555;
+  margin: 1em calc(-1em + 2px) 0.5em 0;
+  font-weight: inherit;
+  color: #9535AD;
+}
+ 
+#side-bar div.menu-item a {
+  font-family: Calibri, sans-serif;
+  font-size: 115%;
+}
+ 
+#side-bar .menu-item>img {
+  display: none;
+}
+ 
+#side-bar .menu-item>a {
+  transition: all 0.2s ease-in-out;
+}
+ 
+#side-bar div.menu-item a:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: #9535AD;
+  text-decoration: none;
+}
+ 
+/* SEARCH BAR */
+ 
+#search-top-box-input {
+    color: #c0c0c0;
+    background: #72008e;
+    box-shadow: inset 0px 0px .8px .8px rgb(31, 35, 64);
+    border: 1px solid #052248;
+    height: 14.9px;
+}
+ 
+#search-top-box-input:hover, #search-top-box-input:focus {
+    border: 1px solid #0e2f06;
+    background: linear-gradient(to bottom, #9535AD, #72008e);
+    transition: 0.6s ease-in;
+}
+ 
+#search-top-box-form input[type="submit"] {
+    border: 1px solid #084805;
+    color: #fff;
+    background: linear-gradient(to bottom, #9535AD, #72008e);
+    transition: 0.6s ease-in-out;
+    border-radius: 2px;
+    height: 23px;
+}
+ 
+#search-top-box-form input[type="submit"]:hover, #search-top-box-form input[type="submit"]:focus {
+    border: 1px solid #0c2f06;
+    color: white;
+    background: linear-gradient(to bottom, #72008e, #9535AD);
+    transition: 0.2s ease-in-out;
+}
+ 
+/* Headings */
+ 
+h1 {
+    font-family: 'Lobster', cursive;
+    color: #9535AD;
+ 
+}
+ 
+h2, h3, h4, h5, h6 {
+    color: #E5E5E5;
+}
+ 
+/* Account */
+ 
+#login-status {
+    color: #E5E5E5;
+    shadow-box: 0px 1px 6px rgba(0,0,0,.25);
+}
+ 
+#login-status a {
+    color: #C0C0C0;
+}
+ 
+#login-status a:hover {
+    color: #7A7A7A;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+}
+ 
+#login-status ul a {
+    background: #3F3F3F;
+    color: #E2E2E2;
+    border-opacity: 2%;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+ 
+#login-status ul a:hover {
+    color: white;
+    background-color: #9535AD;
+    transition: all 0.1s ease-in-out;
+}
+ 
+#account-options {
+    border: solid 1px #A374B9;
+}
+ 
+/* Tables */
+ 
+table.wiki-content-table {
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.50);
+}
+ 
+table.wiki-content-table th {
+    border: 1px solid #24272A;
+    color: #ccc;
+    background-color: #24272A;
+    padding: 0.3em 0.7em;
+    font-family: Calibri, sans-serif;
+    font-size: 115%;
+ }
+ 
+table.wiki-content-table td {
+    background-color: #1d2022;
+    border: 1px solid #24272A;
+    padding: 0.3em 0.7em;
+    color: #ccc;
+    font-family: Calibri, sans-serif;
+    font-size: 115%;
+}
+ 
+/* Topbar */
+ 
+top-bar a {
+    color: white;
+    background: #23303D;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+ 
+#top-bar ul li ul {
+    border: transparent !important;
+}
+ 
+#top-bar ul li a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 21px;
+    color: #E5E5E5;
+    border: transparent;
+}
+ 
+#top-bar ul li.sfhover a, #top-bar ul li:hover a {
+    border: transparent;
+}
+ 
+#top-bar ul li.sfhover ul li a, #top-bar ul li:hover ul li a {
+    border-width: 0;
+    width: 150px;
+    height: 21px;
+    max-height: 21px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+ 
+#top-bar ul li.sfhover a:hover, #top-bar ul li:hover a:hover { /* Perfect Sample */
+    transition: all 0.2s ease-in-out;
+    color: white;
+    background-color: #9535AD;
+    border-radius: 5px;
+}
+ 
+#top-bar ul li ul a, #top-bar a:hover {
+    color: white;
+}
+ 
+.interwiki_title {
+    color: black;
+}
+ 
+.interwiki_entry a {
+    color: black;
+}
+ 
+/* Tabs */
+ 
+.yui-nav {
+    border-bottom: 5px solid #9535AD !important;
+    background-color: #24272A;
+}
+ 
+.yui-navset {
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    background: #232324;
+    font-family: Calibri,sans-serif;
+    font-size: 115%;
+}
+ 
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a:focus, /* no focus effect for selected */
+.yui-navset .yui-nav .selected a:hover { /* no hover effect for selected */
+    background:#9535AD url(../images/yuitabs.png) repeat-x left -1400px; /* selected tab background */
+    color:#ccc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+ 
+.yui-navset .yui-content, .yui-navset .yui-navset-top .yui-content {
+    border: 1.5px solid #1A1919 !important;
+    background: #1F2125;
+    border-top-color: transparent !important;
+}
+ 
+.yui-navset .yui-nav a:hover,
+.yui-navset .yui-nav a:focus {
+    background:#6a5169 url(../images/yuitabs.png) repeat-x left -1300px;
+    text-decoration: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+ 
+.footnotes-footer {
+    background:#1F2125;
+    border: 1px dashed #666666;
+    width: 90%;
+    margin: 1em auto;
+    font-size: 115%;
+ 
+    font-size: 12px;
+    padding: .15em 1em;
+}
+ 
+.footnotes-footer, .page-options-bottom, .owindow .title, .math-equation, .bibitem, .thread-container .post .long .options {
+    height: auto !important;
+ 
+}
+ 
+.footnote-footer{
+     display: block;
+     position: relative;
+     width: 95%;
+     margin: .5rem 1.5rem
+}
+ 
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 8px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+}
+ 
+#header h2 span::before {
+    content: "" transparent;
+    color: #E7D9B5;
+}
+ 
+code {
+    font-family: Encode Sans, sans-serif;
+    background-color:
+}
+ 
+/* Mobile Comparability */
+ 
+@media screen and (orientation:portrait) {
+ 
+#header {
+    background-size: auto calc(6.5rem - 2.125rem);
+    height: 7.5rem;
+    background-position: left .5em top 4rem;
+}
+ 
+#search-top-box {
+    display: none;
+}
+ 
+}
+ 
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+ 
+#top-bar {
+    font-size: 12px;
+ 
+}
+ 
+#header { /* Logo */
+    background-size: auto calc(8.5rem - 2.125rem);
+    background-position: left 1.65em top 1.6rem;
+}
+ 
+body {
+   font-size: 8px;
+}
+ 
+.footnotes-footer .title {
+    font-size: 15px;
+}
+ 
+.yui-navset .yui-nav .selected a, .yui-navset .yui-nav .selected a:focus, .yui-navset .yui-nav .selected a:hover {
+    font-size: 12px;
+}
+ 
+.yui-navset .yui-nav li a, .yui-navset-top .yui-nav li a, .yui-navset-bottom .yui-nav li a {
+    font-size: 12px;
+}
+ 
+}
+ 
+/* Custom Codes */
+ 
+blockquote {
+    border: 1px dashed #666666;
+    background: #1F2125;
+    border-radius: 3px;
+    font-family: Calibri, sans-serif;
+    font-size: 115%;
+    box-shadow: 2px 1px 3px rgba(0,0,0,.2);
+}
+ 
+tt {
+    font-size: 84%;
+}
+ 
+hr {
+    border-bottom: dashed 1px #716e6e;
+    background: none;
+}
+ 
+.paragraph1 {
+    color: #c0c0c0;
+    display: inline-block; border:
+    dashed 1px #666666;
+    background: #1F2125;
+    float: center;
+    margin: 0.3rem 60px;
+    width: 80.2%;
+    padding: 0 .88em;
+    box-shadow: 2px 1px 3px rgba(0,0,0,.2);
+    font-size: 115%;
+    font-family: Calibri, sans-serif;
+}
+ 
+.image-block {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
+ 
+.image-block {
+        border: solid 1.5px #171717;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+ 
+.image-block .image-caption {
+    border-top: 1.5px solid #222;
+    background: #222;
+    -shadow: 1px 1px 1px #6054544d;
+    color: #F5F4F4;
+    font-family: Calibri,sans-serif;
+}
+
+[[/module]]
+
+And he saith unto them, Follow me,
+and I will make you fishers of men.
+
+ They immediately left //their// nets, and followed Him.
+
+Matthew 4:19
+
+-----
+Memories are difficult things. They’re like little birds, crawling out of trees for the first time to stretch their wings. They will either fly and live, or fall and die. Ashes to ashes, dust to dust. Fleeting fickle seeds they may be, but they were all too sweet not to hold onto. That was the one lesson the boy had learned growing up - holding onto things.
+
+This child had come into this world a babe in a septic tank, eyes wide and plastic caul sloughed off by prying gloves. The man above him had been smiling, smiling brighter than the white floor beneath the tank, brighter than any star in that forlorn sky from the stories the boy had read when he grew older.
+
+That was all he remembered, from back then. His daddy's smile and voice; his sweet gravelly voice that had grown so sour all those years later.
+
+‘My shining star, my baby boy, my //beautiful baby boy//,’ the boy remembered, stubble scratching against his then-baby’s cheek as daddy hugged him and rocked him, back and forth, back and forth.
+
+‘Your future is brighter than all the sweet starlight there is,’ Daddy would say then, putting the boy on his lap and feeding him solution through a tube. It was good food, worm-food. It was food for the birds.
+
+He’d had sisters then, brothers too. Other numbers that roosted in the rafters and tanks on the cold counter behind. They didn’t speak much, and Daddy covered their tank-houses too often then for the boy to try anyway. It didn’t matter.
+
+The first few years had been like that. Just him, and Daddy, and the white room. A predestination, a beautiful world of blood and fluid and LED lights on pipe-worn walls that was //for them//, and //for no one else//. A quiet little place for songs and food and stories it was, found beneath sweet iridescence. It was what heaven looked like, Daddy’d say, rocking him back and forth and back again as he’d hooked the child onto the machines to make him walk proper. ‘You n’ me, always.’
+
+It made the boy happy, to see Daddy proud. And so, when his first words came, it was a surprise to neither of them what they’d be.
+
+Daddy had never smiled so bright again.
+
+-----
+
+He’d been older when Daddy had taken him to the black room. Before then, he’d met no real friends, no real men with needles outside of Daddy.
+
+The door outside of it was a patchwork thing, scraped fingers hurriedly carved and splattered blood and fluid into some old graffiti’d image. It was a large woman, with big breasts like the one who’d come to see Daddy in the white room sometimes, with snakes for legs, eyes of coal, horns made of wood chips. Daddy had said his prayers then, cut his hand and cried. The boy had asked daddy what it meant. The man had only looked on, all grim-like.
+
+‘You’ll get it when you’re older, son.’ he’d hummed. ‘Daddy must always bow to the Virgin-queen, her hand all cloaked in rime.’
+
+The black room was cold. It had no bright lights but one, one pale bulb above a toddler’s cot in its midst. The gloom ate at the edges of it like the black of Daddy’s eyes, but with none of the pride the boy knew his Daddy prized so much. Low winds came in and out, a tide of worry. It was like the room was breathing, a soft //thumpity-thumpity-thump// in the darklight.
+
+‘Time for play, little star,’ his Daddy’d said, pushing the child into the room. The dark door shut. The Virgin’s grand old fatness was painted inside the door too, but this time it was all white like milk-teeth. Little ribbons were tied to the broken wood, bright little ribbons, the same sweet pink colour as the boy’s own tongue. They flapped this way and that.
+
+There was someone painted next to her on the door in the pack, all shrouded. It was the only thing with colour on the wall, a thousand skins all-drawn sideways. The boy was so frightened, so scared. He clasped his hands by his head, whispering to himself. He wanted the white room. He wanted his Daddy.
+
+‘Looking to pray, ‘little star’?’ Another voice said all mocking, little laughs half-stifled in the dark. ‘//Ol’ Father Merciless by black-wood trees, the Virgin is his queen//. Didn’t think your dear Daddy cared all too much about our creeds. But you’re drawn to it anyway, no?’
+
+Father Merciless, the Virgin. The boy didn’t know these names. They frightened him. The breathing only grew louder, louder and more unbearable. The names, the names echoed in his mind. At last, he looked up, and his eyes met yellow.
+
+This was where he met Master. The monster’s old piss-stained suit bobbed up and down as the dark-breaths sucked at it like some mouth, obscured partly by a shadow. The Master had no eyes, only a mouth, a red mouth that smiled redder smiles. He’d coughed a lot, then.
+
+The Master didn’t say anything more than what he had after that, didn’t speak but to utter strange prayer. Something about the air, it caught in his lungs. Then he gave the boy little candy, and started his work all songlike.
+
+He sung of a thousand things in a thousand tongues, songs of something called Karkinos-by-the-mists, songs of stars unborn by a sea of blood as saw-toothed scalpel sunk into the boy’s supple skin. His words waxed wonders in the air, his smiles mocking child-screams with some kind of voided hate. The Master ruled the black room after all, and he’d rule the boy too. The boy cried and cried and cried, but the Master kept cutting. Wires laced inside, bit by bit, piece by piece, as the skin was hacked away, all to that dreadful, droning song.
+
+//Ol’ Father Merciless by black-wood trees, the Virgin is his queen...// What did it mean? What did it mean?
+
+When they were done, the boy felt nothing. Heard nothing. Didn’t speak for several days, even when Daddy came in afterward.
+
+This was the first meeting between Master and his slave. There would be many after.
+
+-----
+
+The boy remembered the relentless light in the white room later that day, his arm a lump swelled up like a balloon from whatever Master had put in him. He remembered sobbing softly. He clawed at the tanks near him, tried calling to the other children. They made no answer.
+
+He’d been about to scream again when Daddy came back, the scent of sweet tea on his lips.
+
+‘I don’t like playing with him,’ the boy told his Daddy. ‘Not one bit.’
+
+Then Daddy had knelt down, patting the boy’s back as the boy retched onto the floor. He had a book in his hand, red leather.
+
+‘Sometimes, little star, friends are just like that. They //hurt//,’ he announced, lips all thin. ‘Come. Let’s take you outside. See the world, yeah?’
+
+They’d hugged then. Daddy had taken him to play with Master, but he hugged him back. Daddy //still cared.//
+
+They’d left the white room’s comfort then, walking up through a thousand little bee-passages lit only by something called a moon through the windows, all the way to a balcony on the east side of whatever big house was above them the boy hadn’t known to exist. A little lantern dangled down above two seats, with orbs and stars set in iron to let out the light so as to tress the terrace in little lights.
+
+‘Sit down.’ Daddy said. The boy sat, and for a while they looked out over the… the city. It had so many lights.
+
+‘Is this what a star is?’ the child had foolishly asked then. ‘Is that where they’re made?’
+
+Daddy only tutted softly, tapping the book’s cover as if the boy had asked something silly. He said something all wistful. 'Lo, I have had still another dream; and behold, the sun and the moon and eleven stars were bowing down to me.’’
+
+‘What’sat mean?’
+
+Daddy sat back in the chair, giving the leather book to the boy. ‘It’s from here. This book, it’s your dream-song. Your only way out of this ‘ere mess.’
+
+The leather-bound cover was warm and red, like some of the blood in the tubes of the white room by rack-hounds. The boy’s eyes widened at the warm and feathery paper, soft beneath his fingers.
+
+The star-shaped tracery from the lantern glimmered this way and that over them all, the soft breeze breaking the boy from reverie. And the sounds, all the sounds…
+
+‘S-so loud,’ the boy cried, the city sounds wailing.
+
+‘Hush, little star.’ Daddy said then, sweet-tea stronger. ‘I’ll have you, till the earth spills over into Eden. I’ll have you, my Galatea. Beyond the womb of the world, I’ll have you.’
+
+‘W-what about Master? What about… the Vir-’
+
+‘//Don’t say their names here!//’ Daddy almost shouted then. ‘They watch me, with sticky fingers. They want to take you from me, but I was a good old Daddy, eh? I protected you. You only need visit the black room once a while now, all because. I. Cared.’
+
+Daddy was smiling again, the storm-shadows passed. It was warm, so warm in the summer night air, warm like pancakes. Warm like blood. Then, they hugged.
+
+‘I love you, Daddy,’ the boy said, nuzzling.
+
+“I love you too, so so much.’ Daddy’s gravelly voice stained the air. ‘My second star. How I love you, little Seven.’
+
+What did love even mean?
+
+-----
+
+Some time passed when the suit-men came. Daddy had prepared the boy all day for it, gave the boy his Sunday-clothes, all yellow and plastic.
+
+Even the Master was there, in the white room, standing in the corner, his bone-white teeth discoloured in the light.
+
+‘Top of the line. We’ve been working hard on this one.’
+
+‘Won’t fail us, will it?’
+
+‘No. It’s perfect.’
+
+‘Show us.’
+
+Daddy’d nodded to the Master, then. The dreadful man bowed as if it were the most beautiful time in the world, giving a little twirl.
+
+‘By the Father’s graces I worked, I toiled. The night is long.’ Master crowed. ‘Watch, and behold!’
+
+He drew out a pale little remote, twisting it amid lithe fingers. He paused for a moment, savouring the strange tool, and then… pointed it at the boy, jamming a button. The ache in the boy’s arm throbbed, he felt little light-voices in head, in his hands, in his arms. He was walking, but not of his own volition. He was-
+
+‘Stage one complete,’ Master said now, voice drolling. Daddy only nodded along, though he seemed irked with something Master said. //It’s because he cares about me,// the boy knew. It’s because of love. ‘We will have stage two worked on soon.’
+
+The boy felt pins and needles in his head. It all hurt so much. The suit-men were talking, talking long and hard amid their little clump. They had loud whispers.
+
+‘Impressive.’ the old man at the front of the lot said at last, his fat folds rolling beneath his purple suit. ‘I’ll give you two the latest models to work with for parts, straight from our chapters in Russia. This holds a certain promise.’
+
+Both Master and Daddy smiled at once, then. They made a sign over their chests with their fingers, all squiggly.
+
+‘What of the others?’ another suit-man asked. ‘All these trials, just...  failures?’
+
+‘They will burn,’ Daddy said, straightening his tie. ‘Then we will make better ones, and freeze them until the time is ripe.’
+
+‘And when will that be?’
+
+Silence. Then the Master spoke, all whiny.
+
+‘When the cock crows past Pleiades, and the Skinsman shambles off his throne,’ he spoke like a mystic from old stories, mumbling off as if lost in some air of prophecy. At last, he said something clear. ‘As I said. When the time is ready, you'll all know.’
+
+The room chilled. For a moment, all stood still, silent.
+
+Then business resumed as usual.
+
+-----
+
+Bitter smoke-smell filled his wet nose. The boy was sweating, hot air sinking over his shuddering form. They'd removed him from the tank early today.
+
+He felt fingertips past dusk. He felt them on his chin, on his back. The veiled women had come, with carts of bodies into the white room. They were touching him. They wanted him to say 'aaah'. They were holding him close, fiddling with skinny hands and long tools. Daddy'd said it was because they had new shipments. Gifts from Japan. Excess Dolls. The suit-men had been happy, and they'd sent presents. The women needed to check on him first. The Master was not there.
+
+One by one, the week before, he'd seen his brothers and sisters disappear, trickling away like sand in the desert. The veiled women were there too, bringing them off with their shaking hands and hunched backs. Faint cries from distant corridors. He'd asked Daddy about that, too.
+
+'It's like the story in the red book, little star. The one with three nice men, Shadrach, Meshach, and Abednego. They stepped into the fire, remember? Stepped into flame, and the Father held them close to his breast, and they were saved.'
+
+//Yes//, the boy thought to himself, for he had long since been old enough to think. The candy helped. //They are safe, safe from the king of Babylon, safe and delivered.//
+
+And now he was alone, alone not before any distant king, but rather the whores of Babylon, all close with prying hands and curious fingers. The body piles were filling the room, and strange men in yellow suits moved about, carting and dumping. Soon they were done, and they left. Soon the women were done, and they left also.
+
+Daddy never left, only smiled his lovely smile. The boy liked that. It meant Daddy cared.
+
+-----
+
+'Daddy, what did you mean that one time?' the boy asked. They were on the balcony again, looking at the city-stars. Daddy shook himself: he'd been lost in thought.
+
+'What?'
+
+'What did you mean about friends?'
+
+Daddy sighed, leaning back into his chair. The boy shivered as the wind blew.
+
+'Friends always let you down, little star,' he said, gritting his teeth. 'I know that best of all.'
+
+'Is Master your friend?'
+
+'No,' he licked his lips. 'I did have one once, though.'
+
+'Where'd they go?'
+
+'He left me on a train. We were supposed to be together, thick and thin. He left me on a train to die.'
+
+'That's not nice.'
+
+The boy felt Daddy's hands clasp around his face, weathered lips pressed to his forehead.
+
+'Nothing is nice in this dark land. Nothing at all,' he mused, pausing as his eyes shone under the lamp-glow. 'It's why I gave you the book.'
+
+The boy clenched the leather thing like a lifeline. Something in his thoughts still niggled at him, though, even as Daddy rose out of his chair.
+
+'Was your friend like Master?'
+
+The man froze. Winds blew wildly in the distance. He turned around, kneeling before the boy. Their eyes locked.
+
+'No. Master is not like him, far from it.' It was almost like Daddy was looking through him, all transparent-like. 'My friend was a small, selfish man, one who desperately wanted to mean something for himself. He stole what we had. He made his own path on shaky ground, and I made mine with what little rock remained.'
+
+Whispers.
+
+//Not like my friend at all. Master's not a man, after all. Master's a-//
+
+'It's not fair. Why did he have to leave us?'
+
+//A demon.//
+
+A slow, sad smile.
+
+//A pimp.//
+
+'Who knows, little star. I often find myself wondering the same, on stormy nights like these.' Daddy ran a shaky hand over the boy's shoulder once more. 'Oh well. It's best to leave the past to ghosts, no? Come, let's go in.'
+
+//He's watching us. Grinning, even.//
+
+So they left, the clouds just now blotting the moon. Old lady cold was biting again. The white room beckoned.
+
+-----
+
+New children in the tubes. Growing, growing. The boy was still the seventh trial, though. Production lines.
+
+He had red hands.
+
+-----
+
+More training. More work. The boy could walk and run and talk, quicker and better than anyone. He still had to go to the black room, but it had been better. Master didn't sing so much anymore.
+
+It was only after that when they went to the House, and the boy found love for the first time.
+
+-----
+
+They were... driving, at the time. That was Daddy said. Driving somewhere new.
+
+The boy was in the back of the strange thing. Master sat across from him, smiling his horrid smile. The car stopped with a jolt, in the middle of no where, black trees stretching out behind a painted fence. Moonlit saudade.
+
+'Where are we going, Daddy?' the boy'd asked, avoiding Master's stupid smiling eyeless face. 'W-where are we going?'
+
+Daddy said nothing at the time, only grunted. They got out of the car, stepping into the strange twirling darkness. It was Master who answered in the end, black lips curled like a dog from Hell.
+
+'The House, dear friend,' he'd said, the same voice he used when they did their sessions in the black room - when he'd cut into the boy's skin and make the boy know things, terrible things. 'We three kings walk under the sky, the doors to await us in the land of the Arimi. The House of a Hundred Heads. Oh, Father, forgive me!'
+
+Master did nothing but sob weirdly for the rest of the walk in. The house was a rickety thing, dark in the night. All its windows had been boarded up, painted. Strong winds blew, and the boy could swear it nearly blew along with them. The door was painted white. Thrice Master knocked on it. Daddy only stared, eyes glassy. //Thinking about friends//, the boy garnered.
+
+There'd been coloured lights inside all strung up on long ropes, brighter than the stars in the city above the white room -- a feat the boy could barely believe possible. Rich suit-men and women in veils wheeled around before him, everything red and white and black, dancing and dancing away. The boy saw cages in the corner, cages with little hands in them. When he passed, he could see the whites of their eyes.
+
+'Who's there?' he asked Daddy.
+
+'The little children in the land. They're fairy-children, stock plucked fresh for Paradise. Do not concern your-self with them.'
+
+The boy frowned. He wanted to meet them. Perhaps he could be friends. //No, that can't work.// Master was his only friend.
+
+ Some singer was singing a shanty in the front, her voice hoarse above accordion-sounds. She wore her hair all bound like snakes-tails, and half was dyed green. The song was strange and lilting. It reminded the boy of Master's song, something about a Virgin and trees, but this time - it felt, nice. Homely. //Loving.//
+
+Two youths approached them, each some years older than the boy - years three and ten, if he could guess. They barely wore anything, and their skin had lots of colours, all black and blue and green. Master called them kith to Ganymede. The right one gave Master a bucket of candy, which he refused. Daddy didn't though. He got two pieces.
+
+'Here, little star,' he held out one for the boy, a warm smile on his face. 'Let's both treat ourselves to-night.'
+
+The candy wasn't like the one in the black room. This one made him feel things, wonderful things. Soon all the colours began to blur. The music grew louder, louder, louder...
+
+Master's hand shot out, clasping onto the boy's. There was something wild in his eyes.
+
+'It's starting. It's starting!'
+
+Drums rolled once. Women danced, ripping off their clothes. Men screamed. Drums rolled twice. Red curtains drew back behind the singer's stage. A third time, and everything stood still, as if taking a strange breath.
+
+A black passage opened behind, walls stained with old blood. The candy made the boy's head warm. It looked like the walls were dancing too. The crowd surged in.
+
+--
+
+Their way through it all was glacial, but it didn't matter. The throb of the drum, the excitement of everything, it stirred something other. Masks torn off. Belief. Solidarity. Even the kith had joined in.
+
+The throbbing mass burst into a wider room. At the far end, the boy saw something, something beautiful yet terrible all the same.
+
+'The Virgin-Mother!' Master'd screamed, scrambling out to reach it along with the other fanatics in the crowd. Daddy only cried softly, his head in his hands.  
+
+It was an ugly lump of a thing, similar in likeness to the door of the black room, only... larger. Deeper. Its eyes moved, even as the warmth of the candy crept into his mind. Below it, between its two snake-tails, a vat was there. The thing didn't move, but...
+
+Chanting broke about the room. Three women, clad in golden robes, stood at the front of it. Their nails were really long. They rang unlovely bells. And then, the voice came in.
+
+//My dear boy//...
+
+Her voice. Distantly, he saw children moving through the crowd on ropes, seeking the fatal altar. Oh God, oh-
+
+//Step forth.//
+
+And so the boy pushed into the psyche of blood and bone and sweat, fighting with his nails and boney arms until he stood kneeling before the wretched, twisting image. He was so hot now. The women looked down onto him, eyes on fire.
+
+//Step in.//
+
+He couldn't feel. The statue was alive now. He was in the Virgin's embrace, warm and wet like mother's milk, except his mouth was filled with iron. Master was smiling, smiling behind him. He couldn't know.
+
+The room melted away, and he felt his eyes open - not physical eyes, but sight-eyes, mind-eyes. Before him stretched in a land of shed snakeskin, dead trees whistling over a barren plain, blood-plasma pools. All roads led inward, and in the sky, half blotted by cloud and thunder, he saw two great shapes. Snake-cords rapped around his ankles, dragging him in, in, //in//. The candy was so warm.
+
+He saw Her. The Virgin-Mother, a woman's face wrought of porcelain with eyes of coal. She was no longer some statue in a room. She was there, and her eyes were terrible. Every scale on her snake-legs was rotting, and a noxious smell issued from the cavernous space between dry, scaled legs.
+
+//Remember//, her voice cried. //Remember where you came from//.
+
+The rot-smell only grew, and he saw little hands clawing out of the darkness of her womb-gate. Little hands breaking membranes, little hands emerging. A figure stumbled out before him, gasping for air.
+
+//Remember....//
+
+The storm clouds swirled around, the black trees bristling. The other being on the throne behind Her shuddered and shambled, half-obscured by rising mist. His blood-stitched hands leered over the plain, falling apart as if made of a million skins. Child-skins.
+
+The boy clasped the hand of the thing she'd birthed, pulling it up from the ground where it had fell. It had his face, //his hands//. His face, but the eyes were all black. The boy hated himself, hated this. He hated the feeling of love that it brought out of him. He hated how he felt when he saw the Virgin-Mother call to him. He hated how much he liked the way the candy made him feel. But he couldn't regret it.
+
+It had been his choice, after all, his choice alone. Water washed over him as the Virgin took him to her womb. The House of a Hundred Heads, and all it'd taken was one to get lost in.
+
+-----
+
+
+The black room was dark today.
+
+'Do you know why you're here?' Master asked as he stood over him, yellow suit blurring in the fading light. His mask looked fleshy.
+
+The boy gave no answer.
+
+'Tut-tut,' Master scolded, reaching for his blasted controls. The room was breathing again. The boy felt his mouth open, his tongue rolling out. Words were not his own. Thoughts were not his own. It was too much.
+
+He tried to scream, but master onto continued thrusting the remote.
+
+'Come on, boy. Play along!'
+
+'W-why?' he forced out at last.
+
+Master smiled radiantly. There was blood in his teeth.
+
+'We're gonna teach you something, today. A bird has been flightless for too long.'
+
+He tried squirming, but Master leaned in closer, gloved hands running down the boy's ruined wrists. The dark drew closer like a cloak of despair around them. //I want Daddy. I want the White Room.//
+
+'And you'll get them soon enough.'
+
+The boy was unstrapped from the table, and Master tugged him into the endless gloom behind it. For a long while they walked in the black space, until finally a pinprick of light appeared. As they grew closer, the boy saw it a lamp-post. Below it lay a pile of bodies, plastic flesh just like the mask his Master bore.
+
+There was a tub beneath it.
+
+'I'm going to blindfold you. Then you're going to get in the water. Let the voices in. Let them in.'
+
+The boy could barely say anything before he was pushed in to the watery voice, sinking in an ocean of screaming tongues that battered at his mind.
+
+//I don't wanna, I don't wanna, I-//
+
+Then the Virgin's voice came to him again, soothing him, washing over him. In the dark he saw a thousand lights, and he chose them all.
+
+A crab was above him. Karkinos-by-the-mists. A cancer.
+
+At last, he felt Master's hand on his shoulder, pulling him out. He gasped for breath. He'd felt the voices. He'd reached for them.
+
+'Open your eyes, red one,' Master crowed. 'Open your eyes and see your magic.'
+
+When the blindfold fell, he saw the bodies all around him.
+
+//They were dancing.//
+
+-----
+
+Magic was an addictive thing.
+
+When he'd come out of the black room, his flesh all raw and red from controlling the horrid things for the first time proper after letting their voices in, he'd screamed, shivered, wretched. Hugging his little red book, he'd sank down to the tiled floor.
+
+'I will never do it,' he choked out. 'Never again, never ever.'
+
+Daddy had pulled him out and hit his hands, frowning. The boy just kept sobbing. He didn't want to see his friend anymore. He didn't want to go to the black room.
+
+'You will go there, and you will pay your respects,' Daddy scolded, eyes looking skyward even though there was no sky. 'They will not allow us any other choice.'
+
+The boy was locked then by the veiled woman in his tank until evening, after that. The days slipped by, then the weeks, then the months. Each time he was taken into the black room, forced to listen to the voices by the Master, forced to let them in.
+
+'It's in her name, after all,' the Master would say. Images both desired and not filtered into the boy's little head, dreams of the Virgin-Mother on her throne in the old house in the woods. 'You can't deny her name, can you not?'
+
+The Virgin-Mother, her eyes of coal, reigned in his thoughts. Snakes slithered about in his mind and heart, corpse-flesh withering. She had awoke something within him, something terrible. The boy despised it, but drank it in all the same. He was powerful. His magic was good, right?
+
+It'd started with the little things. He'd been bored in the white room, when Daddy was upstairs attending guests. He'd wanted to be happy, and that was good, right?
+
+He'd conjured food for himself, stolen it from bodies. He'd moulded tools. Used them to explore. Daddy'd never found out. The boy was smart, and he didn't want Daddy to get angry with him. And the Master... that wasn't important.
+
+One day, the boy hadn't been good. He'd gone to the body-racks, and made a friend out of the meat-pile. He hadn't forgotten the little boys in cages from the house. This friend was lifeless, but he heard its singing voice in its head, all droll and sad. He called to it.
+
+'I will make you beautiful,' the boy said as if speaking to a real friend rather than some plastic reflection. 'I can do magic now and I can make you beautiful and normal and real. Then you can replace Master as my friend and I can be happy.'
+
+He'd smiled, making his friend do a little dance. It felt nice to have a friend. They didn't hurt you, it was good, and-
+
+ //Bee-Oop, Bee-Oop//. Sirens. He heard thumping down the stairs, and suddenly his friend fell apart before his eyes, a bloody sludge on the floor. Someone was pulling at him now, someone made him stand up. A yellow stain.
+
+'What have you done?' Daddy cried out, hands to the boy and his eyes filled with... fear? 'Oh, why did you do this?'
+
+Even has Daddy held him, strapping him back in his tank, the boy's eyes didn't find him. Only Master.
+
+The man was humming.
+
+-----
+
+They were on the balcony. It was a cold day. Clouds gathered over the city below.
+
+'A-are you angry with me?' the question slipped out of the boy's mouth as if aided by butter. Daddy didn't even look down. His eyes were staring at the clouds.
+
+'No.'
+
+This confused the boy. Perhaps Master needed to know more?
+
+'I've been good, Daddy, I promise. I'm working on my magic. Master is happy. He doesn't cut me anymore, I've been good. I've-'
+
+'I know. Listen-' Daddy turned, fire in his eyes. Soon enough that cooled, too. 'Damn it all.'
+
+'Daddy?'
+
+ 'Just be quiet, O.K.? I'm-' he took a breath, fuming. 'I'm trying to think.'
+
+The storm clouds brewed darker. Thunder-sounds. Master told the boy that thunder was how the Skinsman talked, how Father Merciless punished the children that did wrong things. Thunder and magic, cleanliness and rot, those were the tools of the shambling ones in the dark. The boy had all these things and more, and so of course it was a gift to be treasured.
+
+ Faint rain was falling below them, old rags from the storm-cloud. Small tears slipped down the boy's face, but soon Daddy was there, chasing the dark away.
+
+'I'm just... confused. That's all. Grown-Ups are allowed to be confused.' He didn't sound sure of himself.
+
+'They are?'
+
+No answer. A thunderclap echoed over the valley, and they went inside after that.
+
+The storm consumed them all.
+
+-----
+
+Singing sounds, in the closet. Sour candy in his mouth.
+
+//The Little Skinsman behind grey curtains, burning bloody bones//
+//Past Karkinos's knee.//
+//The fog boils.//
+//Ol' Father Merciless by blackwood trees, the Virgin his queen.//
+//Mother of Monsters, sexless thing,//
+//Beneath old Pleiades.//
+
+Do your magic, the voices said in her raspy voice. Make us dance. Make us sing. Do your magic, little star. Make us proud. Make the Virgin-Mother sing, the storm-lord tremble.
+
+The boy did all of it and more, and the Master smiled ever brighter. It was well. It was-
+
+It was well. That's all that mattered.
+
+-----
+
+Daddy and Master weren't getting along very well anymore.
+
+The boy wasn't dumb. He'd seen it soon enough, through the small happenings in the day. Daddy taking the boy on longer walks. Master being more silent during their sessions in the black room. Little cues, a rift between them. One day, the boy had heard them arguing from his perch on the shelf. The boy had been trying to play with some severed hands, make them dance. //Little mummers.//
+
+//'He's my creation. I funded everything you did, I-'//
+
+//'You and I both know you have no real vision nor piety, pawn.'// it was the Master. The boy would know that dry voice anywhere. //'Don't forget who made you what you are, gave you all you had.'//
+
+//'I could cut funding, here and now.'//
+
+//'Typhoeus haunts the skies, dear friend. Would you incur his wrath?'//
+
+//'Typh-'// Daddy was laughing now. //'What, is the Virgin going to come and strike me, too? I might play your little pretenses for the boy's sake, but come on. It's not real. You know it's no-'//
+
+Not real? How could it not be real? The boy had seen it with his own eyes in the House. He'd felt her womb open, he knew where he'd come from. It had been Daddy who first told him to pay his respects to the Virgin, anyway. How could he lie?
+
+Burning sounds, sizzling flesh that screamed loud in the boy's head. Daddy was crying.
+
+//'I am real. This brand that's sinking into your stomach is real. The House of a Hundred Heads is real.'// Banging. Words the boy didn't know, couldn't dare to understand. //'Don't forget who built you, son. A storm covers all eyes, all faces.'//
+
+Daddy spat, or at least the boy thought as much. There was a crunch, and then Master came out of the black room, yellow shirt stained triumphant. He was fixing his gloves. He clenched around the boy's arms.
+
+'Come, child. Magic-time comes early, today.'
+
+The hands that took him then were strong as iron, red as blood. The boy could only follow. Neither of them could have seen Daddy's eyes as they left, burning with a flame unimaginable. That didn't matter anyway.
+
+-----
+
+They were inside the House again, the black winds blowing through the pines outside. The ugly maw, that old virgin's twisted statue made of bone and hair and blood and skin, loomed up before them in the midst of the floorboards. Mother-Rot, the voices called her in his sleep. Mother-Rot, where you were born. Mother-Rot, where you must go again.
+
+No one was in the house but them, today. No one but Master, Daddy, the boy and the priestesses, their robes all spun of gold.
+
+//Let the voices in//. The boy heard so much more, all swimming in his head now that he was before this dreaded lump. Master's voice, the Mother's, and an older, darker one, like wind rustling through dry grass. //Old Father Merciless//. If it were his head or reality, he could not know. He wanted his red book, the one with the stories. There was less dark there.
+
+ The Virgin-Mother towered over him, the blood-basin at its feet now filled with naught but water. He was kneeling today, kneeling as Master smiled to the women. Their skin was soft. Daddy hung back behind them, scowling.
+
+Hands traced over the boy's neck, the same hands as those that had touched him in preparation in the White Room, so many years ago. Nails raked at his skin.
+
+'He is ready?'
+
+'Yes,' Master said, voice dripping with joy. 'He is ready for the agreement.'
+
+'Agreement?' Daddy's voice cut in. 'What agreement? I was not told.'
+
+Her voice washed over the room like a summer storm.
+
+'Richer, bigger men than you desire what your program has to offer. Typhoeus bespoke the end to the oracle, beneath the bleeding stars. We are to bring the boy to the Vine-land, where grapes will grow anew.'
+
+'W-what? But-' Daddy gaped and goggled, eyes puffing out like a fish. He pointed his finger at Master. 'You told me I was going to- we were going to use the boy for my purposes. Find my friend. And-'
+
+Master slammed his foot into the floor, red mouth bleeding in the darkened light, hand clenching around Daddy's throat. The boy's heart nearly stopped in fear. The Virgin-Mother's whispers were louder now in his mind, but he knew he could not use his magic. Not with the remote so near.
+
+'The terms were clear when you enlisted our services, son. You knew this would happen,' Masters fingers waxed around the remote, dancing. Then, he pocketed it. 'The boy will be given to Vinland-Pyre by the end of the week.'
+
+'We haven't tested it, not really. The others all failed in-'
+
+Master only laughed.
+
+'Do you not trust the Skinsman? Do not trust his sculptor's hand?'
+
+'I don't care about him! //I don't-//'
+
+A slap cut Daddy off, the boy flinching in tandem. Master's lips were fixed in a grim frown, so alien to his former moods. For a moment, silence again. Daddy was led away, and Master too. Then it was just the maidens and the boy, alone, together. Sweet-smoke filled the room, beautiful and bountiful. Even as the boy slipped away, he felt the roaring waves of the Virgin crashing into him, dirty nails raking his chest.
+
+He wanted his Daddy. He wanted his book.
+
+The priestess's voice came to him from a lofty place, blurring with the Mother's. Drowsiness seeped into him like an ill-begotten cloud.
+
+'Hush now, red one. Bed-time for the robins.'
+
+-----
+
+Daddy woke him up later that night, deep in the white room. His eyes were rimmed red.
+
+'Curse them. Curse them all. I wanted - I wanted so much. They didn't give-'
+
+He pulled the boy out of the tube, rough hands.
+
+'What's wrong? Daddy? Dad-'
+
+'Shush,' he whispered harshly. 'Not so loud, he'll hear.'
+
+They were walking down hallways. Daddy carried a gun, his forehead plastered with sweat.
+
+'I'm not going to let them take you away from me. You're too perfect. My star-child.'
+
+The boy nodded. Daddy loved him, after all. But the voices - the voices kept whispering. Even has they passed rack after rack, the boy heard their cries, their pleas. The Seven Sisters called past the blackwood trees, the Skinsman's arm outstretched. Typhon was singing in his mind, cutting into his sides. They had a task for the boy, after all. He heard Master's voice above all, humming in some room they hadn't gotten too yet. Was that real, too?
+
+But he loved Daddy too much to do what they wanted him to. Even when he was muttering all loud and weird like this.
+
+They left the manor in the black of night. Street lights faded behind them as they went out swiftly and wordlessly into the countryside. The voices didn't quell, even then.
+
+Daddy spoke loud now.
+
+'We're going to fix this, you and me,' he announced. 'We're going to make them pay, every one of them. Then everyone will know you are mine.'
+
+The black house by the pines jutted out of the night-mists. In the distance, past the moon's saucer-light, the faint baying of hunting horns could be heard over the windless plain. They sounded like farts.
+
+'The rich men are out hunting, to-night. Stray animals, lost children. Don't you hear their horns?' The boy couldn't see Daddy, but he knew the man was smiling. 'It's our only chance. I can finally leave this filth behind us, and we can do what's necessary.'
+
+The boy didn't know what that entailed, but followed Daddy anyway. He knew what was best, after all.
+
+Everything was still in that silent house. The air crackled with electricity. A lone light was in the dark beyond, cold and merciless. The dark doors opened. A breeze from within. Master lit a match.
+
+There it was. The idol of darkness, three maids asleep on its steps. They looked as if cut by marble.
+
+'Fix them, boy.'
+
+The voices in his head screamed not to. The boy didn't want to. The Virgin-Mother had been good to him, given him magic. But-
+
+Daddy drew the remote out, cold and dark.
+
+'I took it from Master. Turns out the holy man couldn't hold his alcohol well,' Daddy smiled. 'Make them dance.'
+
+The boy felt his hands rise, the flesh singing. The big women could barely scream, their orifices filling before the basin, until all that remained was a big blob of fat, roiling on the floor. The master hummed, then flicked the match. Fire-smoke burned before the bone-mound.
+
+The Virgin-Mother didn't care. Blood was blood. Without the drugs, the thing seemed almost... normal. Not some great Mother-Rot, but rather just what it really was - a pile of old bones, in an attic.
+
+The boy knew better than to trust his eyes. Her presence was so strong in this place. She was pounding in his head.
+
+Daddy stole things from the chest at the base, papers and tool, stuffing them in his pack. 'We burn this house tonight,' he said. 'We make them all pay. I will win. I cannot do otherwise.'
+
+He sounded manic.
+
+Even as he made to pull the pack up, the door creaked. Framed in its entrance, Master stood, flanked by two of the kith of Ganymede. He was half-naked.
+
+'What do you do in this manse of mine tonight? Are you mad?'
+
+Daddy raised his gun, and let fire. One of the children jumped in front just in time, and Master leapt back, laughing.
+
+'Two can play at this game.'
+
+Master raised his hand, and out of the shadows behind more children shambled, skeleton-things lost from their cages. They weren't just anyone. They were the boy's brothers, the boy's sisters. They'd gone, he didn't understand, what...
+
+Daddy's eyes widened. 'We burned those. Together.'
+
+Master simply twirled his wrists, jumping with glee.
+
+'Typhoeus gives many gifts, he of many heads. Nothing dies in this House.'
+
+The shambling things came closer, closer. Daddy pushed the remote, urging the boy forth. The boy was crying. He didn't want to do this. This was his own blood. The same blood that was crying in his ears, burning, burning away.
+
+'Going to use your magic for your little Daddy now, are you?' Master crooned. 'Even after I taught you so much?'
+
+'I...' The boy tried so hard, but he couldn't. The emotions tore him apart, and his hands obeyed someone other. Daddy was screaming, firing his gun wildly. The boy couldn't stop as his hands parsed the flesh of his kin. He couldn't stop as he tore them apart, one by one, until even their bodies couldn't sing anymore. He couldn't stop.
+
+Soon the room was half on-fire, the maiden-bodies burning bright and tall now. Master still blocked their exit. The floor was pooling with blood, dead skeletons littering it. Daddy fired ones more, but the gun clicked. There were no more bullets.
+
+'Kill him, boy!' Daddy screamed, hoarsely. Something had fallen on him, and his foot was stuck. Why was he so angry? Didn't he love the star-child? Why- 'Kill him now!'
+
+Memories unwilling filtered through the boy's head, even has he saw Master before him, skinny-fat belly sagging. Memories of both scalpels and magic, light rooms and dark. There was storm-breath in the room.
+
+The boy couldn't move. Something was stopping him from lifting his arms. He couldn't kill him, even though he wanted to, so bad. Why couldn't he kill him?
+
+'He's never told you about our early mistakes, has he, red one?' Master smiled, licking his lips. His mask was off, now. There was only skin where his eyes ought to be.
+
+'Y-you have n-no eyes.'
+
+'Aye,' Master said, chuckling. 'I have the second sight, like you. That's not important.' He leaned in. 'Your Daddy wanted to kill his friend so much, he made and murdered a thousand-thousand children, all for this. We did it together. Typhoeus gave us a dream, under the stars. Your father failed to meet it, and the black hand covers us all, now.'
+
+//'Kill him!'// Daddy screamed. The boy couldn't. He could scarcely move. Horns were braying outside the manor. Distant horns drawing closer. The voices came to a crescendo.
+
+'Even now, they'll come. They'll find you burned the alter. They'll kill you, and-'
+
+Suddenly Daddy's boot came flying. He'd gotten free. Master's face was bleeding, and the boy was in his Daddy's arms.
+
+'Get away from him,' he spat at Master, kicking the man's ribs with a sick crunch. 'Get away from us.'
+
+Master screamed horribly, but a beam fell over his broken body. The Master's wings clipped, he would not harm the slave again, at least for not now. Whispers, whispers in the firelight. And so father and son fled wildly, the red light becoming but a speck in the distance. Devil-wolves converged on the flaming place behind them, and there were shouts and screams. Child-screams, like the ones Master used to love so dearly.
+
+'It's over now, star-child.' Daddy was smiling, but it was a false-smile. 'We can finally make things right.'
+
+A breath had been taken that night, another breath given. They drove back in silence.
+
+-----
+
+It was the following day, now. The boy and Daddy were sitting together on their special balcony, watching the clouds drift by. The sun was shining. It was first time the boy had seen daylight.
+
+He was holding his Daddy's hand close to his chest. The man had dead eyes.
+
+"Daddy?" He asked softly. The other man said nothing for a while, pebble-eyes gleaming black. Black like Mother-Rot's.
+
+“What will we gain if we kill our brother and cover up his blood?" He said at last, asking of the air. "Come, let’s sell him to the Ishmaelites and not lay our hands on him; after all, he is our brother, our own flesh and blood.”
+
+It was a quote the man said. A quote from the red book. His eyes were unfocused.
+
+'Our own flesh, our own- oh God. Oh God. What will I do.' He put his head in his hands.
+
+ Someone had stolen most of the bodies in the white room in the night, before Daddy had used the boy to protect them. Whoever had owned the House of a Hundred Heads, was not pleased with Daddy's actions. Only a few bodies remained, feeble racks in the room.
+
+//'It's no matter,'// his Daddy had said then, lips firm. //'We'll just use your magic to make more.'//
+
+The boy didn't tell Daddy the Virgin didn't like him. The boy didn't tell Daddy he could still hear Master, snaking and sniveling in his head. Daddy showed none of the resolve from last night now. The boy clenched his hand tighter.
+
+'Daddy, can't you read to me? You helped me get better with that, didn't you? You were good to me. Maybe it can help you too!'
+
+Daddy's eyes sifted over his progeny. The boy knew Daddy wasn't his real father, but it was fine. It was good. They could be good together. Little hands held out the red book to the man, eyes shining.
+
+All this and more happened, only for Daddy's lips to curl into an ugly sneer. He picked up the book, and started yelling, snarling, ripping at the pages. One by one, they fell away into the wind, until finally he pulled out a match and lit the remaining clump aflame.
+
+'W-what?' The boy choked out, hands reaching for the scraps on the floor as the fire burned. Daddy gave no comfort.
+
+'The time for dreams is over, 007,' he said, lips firm. Daddy's - no, he was Father now - eyes had that far-off look again, the same he always had when he was thinking about his friend that left him on the train. He held the match-box to his chest, fingers bone-white. 'There is no use for them anymore.'
+
+A cold hand clenched around the boy's heart. //What did love even mean?// he'd asked himself long ago. He found that he still had no real answer.
+
+Had Father ever loved him at all?
+
+The boy, though closer to his father than ever, had never felt so alone. His heart broke, then.
+
+ He would never find its pieces again.
+
+-----
+
+
+He retreated after that, retreated into his mind.
+
+Father had grown much harsher, much rougher now. Something had snapped in his head. Something purposeful. He'd stopped calling the boy star-child. There were no more hugs, no more embrace. it didn't matter. The voices carried on.
+
+'You are mine, my boy,' he'd said. A tear ran down the boy's cheek. 'Mine forever. Together, we will be fishers of men, and the rest can burn for all I care.'
+
+He'd push the boy to do many things after that. Shape more flesh, change more meat. 'It's over,' Father kept saying. 'They won't bother you anymore'. The boy knew better. Master's screams were palpable. He heard everything, all the whispers. He'd tried telling Father once, but Father didn't care. Daddy was mad, mad as a hatter. He didn't care about anything, anymore.
+
+Sometimes the crab still haunted the boy's dreams. Sometimes he could still see the twin-thrones on the black plain, though he took no candy any longer.
+
+'We'll fix this. I still have contacts, for Kabushiki. I can tell them things. Tell them what the others were doing. We can fix this, and I can find him. Trial seven is all that matters. I can-'
+
+He kept muttering to himself, shoving the boy to the side. He didn't come back for a long while, after that.
+
+-----
+
+The boy shivered, sobs caught in the dusty air by his tank. Bodies danced at his finger tips.
+
+ It was so easy to do magic, now - so easy to make miracles. It didn't stop him from feeling hollow, though. It didn't stop him from crying.
+
+He wept in the night for the loss of his dreams. He'd liked those. But, he liked Father too, so he'd stay in the white room. He wouldn't leave; he'd be a good boy, a tin-soldier marching on, wasting away, even through all his tears, all his love laid bare on the floor. That was all that mattered. Delusions of old friendship had long since sapped out of him.
+
+The white light in the cold room with the racks burned them away.
+
+For now, he'd play with the ghosts in his head. He'd ignore the world as Father controlled him. He'd make everything fade away, make it all perfect. He was fine with that. That was okay. The days turned to weeks, the weeks to years, the years all drained away in that quiet world.
+
+One day, he'd broken out laughing at his fate. His voice still fraught with the trappings of boyhood, its high-pitch only further reminded him of what had been stolen from him - but given, too. That was fine, too - he was nothing but rot incarnate anyway, meat layered in a dry-bar. The White Room became stained with yellow. But it was fine. Everything was fine.
+
+He might not have a red book to make everything better on those darker nights, but he had his mind. He could make his own stories, stories with magic. They were black and sad and lonely, but they worked. He'd become good with working with what he had.
+
+It would be okay. Nothing would change anymore. They'd found balance, an amiable balance, some rare form of peace. He'd been assured in that. It was his pillar, his one rock that reminded him of himself, of Father's love. It was unshakable, even as the testing-date drew near.
+
+There was lightning in the air. Lightning he should have known spelled doom.
+
+-----
+
+Then one day, that doom came with a vengeance not even the Virgin's whispers could have said to him in his mind-songs. He should have seen it coming. Even as he moved through that dark corridor, standing before that door to open it, he should have seen it coming. A star had fizzled out in the night sky, after all.
+
+A girl was before him, her hands smoking. A woman with a fake eye. A manic man, a captor. And below them all, a body, a smoking ruin. A story from the red book flitted through the boy's mind, something his father had said to him long ago, when his old siblings disappeared for new ones to grow beside them.
+
+//It's like the story in the red book, little star. The one with three nice men, Shadrach, Meshach, and Abednego. They stepped into the fire, remember?//
+
+The face on the corpse was ruined, skull half fried off. Even in the moonlight, he could see the faint purple-red of it gleaming. It had Father's nose. It-
+
+//...Stepped into flame, and the Father held them close to his breast, and they were saved.//
+
+A cold hand clenched around the boy's heart, and his entire world slipped from his fingers, still bloody from the men he'd shaped.
+
+Father was dead. Father was gone. The boy struggled to catch his breath, salty water drowning his vision.
+ _
+ _
+ _
+
+He was alone.
+
+-----
+

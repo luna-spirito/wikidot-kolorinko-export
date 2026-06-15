@@ -1,0 +1,330 @@
+---
+title: "Humorism"
+tags: ["mythsmagic-writing"]
+page_id: "1312256947"
+site: "rpcauthority"
+slug: "contest:mythsmagiccontestthe-son-of-man"
+revision: 12
+revision_id: "1517007305"
+author: 5982545
+timestamp: 1703629954
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-423
+|title=	RPC-423
+]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+[[/module]]
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]RPC-J-OURNAL[[/span]]
+
+[[module CSS]]
+
+sup {
+    vertical-align: top;
+    position: relative;
+    top: -0.5em;
+}
+
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif,
+    font-style: normal;
+    color: black;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/mann-and-his-sandbox/four%20temperaments|caption=The Four Temperaments as depicted in an 18th-century woodcut.]]
+
+[[span class="tooltip"]][[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Alpha-Yellow.png style="margin: -10px 0px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]][[/span]][[/span]]
+[[span class="tooltip"]] [[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Utility.png style="margin: -10px 45px; height: 45px"] class="tooltip"]] [[span class="tooltiptext"]]Secondary Class:
+Utility[[/span]][[/span]] 
+
+**Registered Phenomena Code:** 009
+
+**Object Class:** Alpha-Yellow ##004FFF|(UT)##
+
+[[include component:hazards transmutation=true|toxic=true|emotional=true]]
+
+**Containment Protocols:** All historical records of RPC-009 are to be erased or labeled as a hoax by the DHPS.[[footnote]]Directorate for Historical and Pseudohistorical Studies. [[/footnote]] 
+
+Thaumaturgical knowledge of RPC-009 is to be spread amongst individuals approved by the Containment team. Usage of RPC-009 outside of the testing environment is only to be performed on those affected by terminal or otherwise incurable diseases. Said usage is to follow Site-008's patient priority guidelines.
+
+Should the Site’s request for an MST Papa-3 garrison for the purposes of RPC-009 usage be granted, the Containment Specialist assigned to RPC-009 is to act as a liaison. Should a misuse be noted, disciplinary actions are to be carried out and the garrison may be withdrawn. 
+
+**Description:** RPC-009 is a form of thaumaturgical system concerning the human body, psyche, and medicine colloquially referred to as Humorism. While different schools of Humorism were oftentimes associated with [[[http://rpcauthority.wikidot.com/thaumaturgy |Elementalism]]], no such connections with RPC-009 were noted. While at once a popular European thaumaturgical system, the study of RPC-009 was considered outdated following the popularization of the germ theory.
+
+RPC-009 is capable of curing genetic, pathological, and physical ailments deemed terminal and incurable by mainstream medicine. This is done by the injection of RPC-009-1 into the affected organs through textile interaction between the caster and the target during a period of strong emotional response (see: Addendum-2).
+
+RPC-009-1 acts as a fuel used in the casting of RPC-009. While chemically identical to urea, RPC-009-1 is created through biological means; urea produced from inorganic material is not an applicable substitute. Although naturally present in most forms of life, RPC-009-1 is inert without proper training and as such not an issue of secrecy.
+
+RPC-009 can be divided into 4 schools, designated RPC-009-A, RPC-009-B, RPC-009-C, RPC-009-D. While functionally similar, the disparities between the organs affected by any specific variety and their high degrees of required proficiency prompt an average caster to focus on a singular school.
+ 
+Each school of RPC-009 includes a source (an area where RPC-009 -1 is produced) and sink (the area of the body where RPC-009-1 is stored). Both the production rate and capability for the storage of RPC-009 -1 are directly related to the physical health of the sources and sinks. Should either the source or the sink be incapable of performing its usual function through genetic, pathological, or physical means, the subject will become incapable of both producing and using RPC-009-1, even if said usage would remedy the aforementioned limitation.
+
+An imbalance of any variety of RPC-009-1 will result in significant mood swings manifesting as the temperament related to the school the presence of which is insufficient. Both overuse and overexposure to RPC-009-1 will result in the subject and the patient developing deficiencies related to the targeted systems, usually manifesting in the form of reduced bodily fluid production, swelling, and malabsorption. The nature of the aforementioned symptoms often results in the user of RPC-009 incapable of using the sources and sinks affected by the deficiency. While similar to those manifested through non-anomalous means, the symptoms are incapable of being targeted and cured by another form of RPC-009. The application of mainstream medicine in these instances is therefore appropriate.
+
+||~ Designation||~ Temperament||~ Source ||~ Sink ||~ Affected Systems ||
+|| RPC-009-A || Phlegmatic[[footnote]]Unemotional and stolidly calm disposition.[[/footnote]] || Brain || Spinal Cord|| Nervous, Immune, Integumentary || 
+|| RPC-009-B || Choleric[[footnote]]Bad-tempered or irritable.[[/footnote]] || Gallablader || Stomach|| Exctretory, Exocrine, Digestive || 
+|| RPC-009-C || Sanguine[[footnote]]Optimistic or positive.[[/footnote]] || Liver || Veins || Circulatory, Respiratory, Reproductive || 
+|| RPC-009-D || Melancholic[[footnote]]Expressing pensive sadness.[[/footnote]] || Spleen || Bone Marrow || Endocrine, Muscular, Skeletal|| 
+
+First instructions regarding the usage of RPC-009 with empirical effect on the baseline reality were published in 1789 by French philosophers Rogerus Lacan and Baudoin Du Toit under the title of “Humorism: The Humor Irregularities in Human Behaviour and Their Effect on the Material Plane”. Their book drew from the teachings of Galen, Hippocrates, and Alcmaeon of Croton amongst others. 
+
+------
+
++++ Timeline
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/mann-and-his-sandbox/Dominique%20Jean%20Larrey|caption=Dominique Jean Larrey, an outspoken critic of RPC-009.]]
+
+600 BC - 1782 AD: Many cultural and medical texts relating to Humorism were produced throughout Europe and the Middle East, yet no empirical proof that either was of anomalous origins is present.
+
+1782: “Humorism: The Humor Irregularities in Human Behaviour and Their Effect on the Material Plane” is published by  Rogerus Lacan and Baudoin Du Toit in secret and shared exclusively amongst their social groups.
+
+1780s: Following its initial printing, the book concerning RPC-009 is leaked to Venice and spreads rapidly throughout its intellectual and occult communities, as it was favored as opposed to Witchcraft. Through its efforts, Papal State prevented the proliferation of manuscripts throughout the Italian peninsula. While initial suppression by the //Auctoritas// in France was attempted, the unrest amidst the French Revolution (1789 – 1799) made any organized efforts ineffective.
+
+1789: Counter-revolutionary philosophers, mostly originating from the Action Française,[[footnote]]French counter-revolutionary Monarchist movement.[[/footnote]] attempted to smuggle the information regarding RPC-009 out of the country by sea amidst the French Revolution and continue its proliferation throughout French colonial territory. //Auctoritas// vessels intercepted the ship, seizing the texts.
+
+1798: Following the French conquest of Egypt, the //Commission des Sciences et des Arts// commented on the medical achievements of Egyptian people, especially in Cairo, despite their lack of knowledge regarding RPC-009 in the //Description de L'Égypte//. 
+
+During their time in Egypt, French soldiers were routinely treated for sexually transmitted diseases due to their frequent sexual interactions with natives. This led to overexposure to RPC-009-C, as documented by Dominique Jean Larrey, French surgeon and military doctor.
+
+[[div class="page"]]
+"The testicles lose their sensitivity, become debilitated, gradually diminish in volume and appear to wither. Most commonly, the change affects one then both. The afflicted [person] only notices this destruction, that occurs imperceptibly, when the testicle is reduced in volume; [by then] it is found to be annular in form and of the size of a white haricot bean. It is indolent and of a very hard consistency; the spermatic cord is similarly reduced and experiences atrophying."
+@@ @@
+[[>]]
+- Dominique Jean Larrey examining French soldiers affected by overexposure to RPC-009-C.
+[[/>]]
+[[/div]]
+
+1809: During the Battle of Ratisbon,[[footnote]]The Battle of Ratisbon was fought on 23 April 1809, during the Napoleonic Wars, between the army of the First French Empire and Austrian.[[/footnote]] French Emperor Napoléon Bonaparte was wounded in action. Bonaparte mentions his contusion being healed by a user of RPC-009-C in his personal memoirs. 
+
+1815: With the collapse of the Napoleonic government, //Auctoritas// forces were capable of extracting the majority of scholarly texts relating to RPC-009 from Paris. This was followed by a period during which texts relating to RPC-009 were routinely acquired and cataloged. Authors of the said texts, alongside any disciples, were detained. 
+
+1850s: With the rising popularity of Germ Theory and active Authority suppression of the disciples, the study of RPC-009 became less popular amongst the many European Occult and intellectual communities.
+
+------
+[[collapsible show="[+] Addendum-1 Psychoanalysis#009:██/10/1901" hide="[-] Close Log"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+Following extended usage of RPC-009, rapid shifts in behavioral patterns were noted amongst the MST Papa-3 (“Doctors of the Church”) members. Psychoanalysis of the affected Magi was performed by Dr. Noel from the Psychology department.
+[[div class="page"]]
+The issue isn’t psychological in the way that we understand it. While Psychology can be explained by Biology, the condition affecting the Papa-3 members is not equivalent to some chemical imbalance in their brain or hard-wired mental response. For all intents and purposes, they are choosing to act the way they are. Or rather, they think that they are.  
+@@ @@
+Since their behavioral patterns are not a major issue to their functionality, the majority of the members should not be decommissioned. They still respond to physical stimuli such as pain accordingly.
+@@ @@
+While there are mild variations in their behavior, as emotional states cannot be grouped so neatly into 4 categories and exist more on a spectrum, their responses amount to levels of their dedicated temperaments. 
+@@ @@
+No matter what drugs we give them, this won’t go away.
+@@ @@
+[[>]]
+-Dr. Noel
+[[/>]]
+[[/div]]
+
+[[/div]]
+[[/collapsible]]
+
+------
+[[collapsible show="[+] Addendum-2 Survey#009:██/12/1898" hide="[-] Close Log"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+For the purposes of understanding the at the time poorly documented phenomena of the usage of RPC-009 and the exact thaumaturgical requirements, members of MST Papa-3 (“Doctors of the Church”) specialized in RPC-009 were asked to give an account of their experiences.
+[[div class="page"]]
+There is never a need to be aggressive or in a hurry. Once you properly learn to use RPC-009-A, the patient's brain will tell you. Its chemical and electrical signals will be like a data report tailored specifically for you. You will know exactly how much time they have. Use that to your advantage. 
+ @@ @@
+All ailments have a cause. Focus on dismantling the cause. On a microscopic level, focus on the cell wall of individual pathogens imploding in on themselves and all the neurons snapping back into place. On a macroscopic scale, imagine the flesh knitting together.
+ @@ @@
+There is no need for you to romanticize mental illnesses as something "special" or "directly related to human nature". It's just the patient's brain not functioning as it should, as is with any other organ. You can fix that.
+ @@ @@
+Visualize an anatomical model within your mind. You are repairing the model. You know how to repair the model. Every human being is just a model that needs fixing, with all the pieces clicking neatly into place. 
+ @@ @@
+[[>]]
+-Magus Laura Allegra describing the usage of RPC-009-A.
+[[/>]]
+[[/div]]
+
+[[div class="page"]]
+It's really simple: get angry. Anger is a very valid emotion. Don't let anyone tell you otherwise. You are angry, as you should be. 
+ @@ @@
+There are fucking parasites within your body trying to leech off it. Everything on this godforsaken planet wants to kill us. Entire species evolved to become more proficient at making sure we end up dead — or worse — they evolve to ride our bodies as long as possible before leaving us debilitated. There are poor chaps out there coughing their lungs out with tuberculosis just because a bacterium wanted to cling onto its meaningless existence. 
+ @@ @@
+Even your own fucking body wants to kill you, it seems. Focus on that anger. Project your pain onto the pathogens and tumors that plague humankind, making their primitive sensory organelles capable of experiencing pain not only physically, but also mentally — just like a human might.
+ @@ @@
+[[>]]
+-Magus Alexie Feeney describing the usage of RPC-009-B.
+[[/>]]
+[[/div]]
+
+
+[[/collapsible]]
+
+------
+
+[[collapsible show="[+] Addendum-3 Experiment Log#009:██/04/1962" hide="[-] Close Log"]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
++++ Test A
+**Schools(s)**: RPC-009-A
+@@ @@
+**Subject**: Adult male //Pan troglodytes//[[footnote]]Also known as the common chimpanzee.[[/footnote]], “Sigmund”.
+@@ @@
+**Purpose**: Determine the utility of RPC-009 on species with similar biology to //Homo sapiens//.
+@@ @@
+**Foreword**: The subject suffered from cerebral infarction prior to the experiment.
+@@ @@
+**User**: César Ventura, Magus Primis
+@@ @@
+**Outcome**: No change in the subject’s condition was noted.
+@@ @@
+**Closing Statement**:  The subject passed away due to an untreated infarction. The use of RPC-009 seems to be exclusively applicable to //Homo sapiens//, whether due to anatomical limitations or otherwise.
+
+------
+
++++ Test B
+**School(s)**: RPC-009-C
+@@ @@
+**Subject**: CSD-8649
+@@ @@
+**Purpose**: Determine the utility of RPC-009 on foreign organs.
+@@ @@
+**Foreword**: The subject underwent a heart transplant 2 months before the experiment. Cardiomyopathy was induced.
+@@ @@
+**User(s)**: Sheridan Gusikowski, Magus Secundus
+@@ @@
+**Outcome**: The subject made a full recovery through the use of  RPC-009.
+@@ @@
+**Closing Statement**: The origin of the organ seems to be a non-issue.
+
+------
+
++++ Test C
+**Schools(s)**: RPC-009-C
+@@ @@
+**Subject**: CSD-2880 (deceased)
+@@ @@
+**Purpose**: Determine the utility of RPC-009 on dead tissue.
+@@ @@
+**Foreword**: Usage of RPC-009 was applied on the heart of a recently deceased CSD-2880.
+@@ @@
+**User(s)**: Sheridan Gusikowski, Magus Secundus
+@@ @@
+**Outcome**: Circulatory function returned to subject's heart. Movement of the Cardiac muscle was noted. Signs of cell growth were noted around the reanimated organ. After 6 hours, all functions ceased despite further attempts. 
+@@ @@
+**Closing Statement**: While a singular dead organ can be reanimated, it can't be sustained without additional organ systems. 
+
+------
+
++++ Test D
+**Schools(s)**: RPC-009-A, RPC-009-B, RPC-009-C, RPC-009-D
+@@ @@
+**Subject**: CSD-3552 (deceased)
+@@ @@
+**Purpose**: Attempt reanimation through the use of RPC-009.
+@@ @@
+**Foreword**: The usage of RPC-009 was applied on a recently deceased corpse of CSD-3552. 4 high-ranking MST Papa-3 members, each specialized in a school of RPC-009, were tasked with reanimating every organ system of the cadaver simultaneously through combined effort.
+@@ @@
+**User(s)**: ████████ ██████, Archmagus / Alexie Feeney, Magnificum / Laurine Will, Magnificum / Dorothy Lemke, Maior
+@@ @@
+**Outcome**: Brain functions returned immediately. Roughly 10 minutes following the test's beginning, CSD-3552 regained consciousness. As the experimentation team became strained, the subject experienced several organ failures due to the inadequate supply of RPC-009-1. While strongly requesting to be kept alive, euthanasia was performed. 
+@@ @@
+**Closing Statement**: While unsustainable, reanimation of a deceased subject is possible.
+
+[[div style="center no-repeat; background-color: #0b1014; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++++ ##232f5d|Notice:##
+[[/=]]
+
+[[=]]
++++++ ##aaaaa9|Further attempts at reanimation of sapient subjects are denied by the Office of Ethics and Review.##
+[[/=]]
+[[/div]]
+
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[collapsible show="[+] Addendum-4 Dr. Nikoloz Proposal#009:██/03/1971" hide="[-] Close Log"]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
+++++++ ##606060|March ██, 1971, 14:32##
++++++ From: <gogi.nikoloz@authority.rpc>
++++++ Subject: The Medical Use of RPC-009 
+------
+Dear Global Directors, 
+
+I believe that the public release of RPC-009 — as outlined in the 1918 proposal[[footnote]]Amidst the Spanish Flu pandemic (1918-1920), the public use of RPC-009 was recommended. The request was ultimately denied.[[/footnote]] — should be reconsidered. We can cure AIDS, Leukemia. We can even cure cancer, and yet we do nothing.
+
+Now, I understand the concerns regarding breaking the veil, but I had a team perform some hypothetical calculations. If we were to slowly introduce the use of RPC-009 to the hospitals, and if we were to slowly and steadily introduce an augmented version of the RPC-009 file into the public, its study should become accepted as scientific truth in about 15 years. 
+
+I don’t want to paint a picture of some perfect world where the disease is a nonissue, as having the users of RPC-009 readily available to cure the population — considering their high maintenance cost concerning both their physical and mental health — is pricey. But it could be done. People will ask questions, sure, but it could be done. We’ve dealt with larger coverups and normalizations in the past. 
+
+I would appreciate it if my revision of the 1918 proposal is reconsidered and the Global Directorate voted on the issue again. 
+
+With all due respect, 
+
+-Dr. Nikoloz 
+[[/div]]
+
+------
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
+++++++ ##606060|March ██, 1971, 18:55##
++++++ From: <andreas.bernhard@authority.rpc>
++++++ Re: The Medical Use of RPC-009
+Dear Dr. Nikoloz,
+
+I am Dr. Andreas Bernhard, the Research Overseer of RPC-009. Due to your current rank within the Authority, I was tasked with assessing your proposal before it is to be passed onto the Board. 
+
+To put it simply; your request is denied. On my end, at least. I don't have complete authority over what the Board gets to see if you can imagine, and your proposal will be seen by essentially all branches of the Administration, as is usually the case with an attempt at normalizing an anomaly. But as I am the Research Overseer on the project, I am required to help you in deciding whether to re-phrase, alter, or disband your proposal.
+
+I understand your concerns — I really do. Yes, we contain several objects that would assist in the development of humanity. Yes, by releasing several of them to the public the overall state of the human species could improve. And yes, we could reduce the net misery of all mankind. If the veil is to be upheld through such efforts, I find it worth the trade-off.
+
+In your original proposal, you undermined the actual effect that releasing RPC-009 to the public will have, even under our regulation. We can normalize it all we want. We can label the people who think that a form of magic cured their muscular dystrophy as conspiracy theorists. 
+
+At the end of the day, we will have access to something that the other medical companies will not. People will call us out, practically forcing us to release the patent. But we can't do that. And a global pharmaceutical operation is not just something we can sweep under the rug without disbanding all of our front companies. That is if the entire operation can even be swept under the rug.
+
+I can assist in your request getting forwarded to the Board, but I recommend you reconsider.
+
+-Dr. Bernhard
+
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[footnoteblock]]
+

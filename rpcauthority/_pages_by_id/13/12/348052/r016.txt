@@ -1,0 +1,573 @@
+---
+title: "Prolab APD Background"
+tags: ["containment-tone", "format", "information"]
+page_id: "1312348052"
+site: "rpcauthority"
+slug: "component:apd-background"
+revision: 16
+revision_id: "1462142689"
+author: 3638389
+timestamp: 1655668949
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+@import url(http://rpcauthority.wikidot.com/component:apd-background/code/1);
+[[/module]]
+
+[[collapsible show="[+] Code" hide="[-] Code"]]
+[[code type="css"]]
+
+/*
+    Anomaly Processing Document Class Code (made by Qual; All images edited/repurposed by Qual; Additional Credits: Thanks to Alma and Tarb for providing feedback on the format itself.
+ 
+     Partially inspired by the PCAOO Format Coding (http://rpcsandbox.wikidot.com/ttpy-pcaao), created by TTYP; Partially inspired by the Research Style Formatting (http://rpcauthority.wikidot.com/component:research-style), created by Vizlox and Tarbolin; Main Paper Backgrounds took from TTYP (https://www.freepik.com/); Secondary Paper Backgrounds took from Vellum Background Tiles (https://1-background.com/vellum_background_tiles.htm)
+ 
+     Prolab Logo made by Qual; Prolab Classifications made by Qual; Mock Example Article made by Tarbolin.
+ 
+    [2021 Wikidot CSS]
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+
+/* APD General Variables Section: */
+
+.prolab-apd {
+    border: 4px solid var(--apd-white);
+    border-radius: 5px;
+    
+    padding: 15px;
+    padding-bottom: 45px;
+    
+    margin: 15px 5px;
+    box-shadow: 3px 3px 6px #4e4e4e, inset 25px 0px 90px 10px rgba(0,0,0,0.4);
+    
+    background: #ece3df;
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Paper_Insignia.png), url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Main_Paper_Background.png);
+    background-position: right bottom, left top;
+    background-size: 50px, auto;
+    background-repeat: no-repeat, repeat;
+}
+
+.prolab-apd p {
+    line-height: 141%;
+    word-wrap: break-word;
+    margin-left: 0.9em;
+}
+
+.prolab-apd .collapsible-block {
+    margin-left: 0.5em;
+}
+
+/* APD Link Section: */
+
+.prolab-apd a {
+    color: #cc0000;
+}
+
+.prolab-apd a:hover {
+    color: #ff4c4c;
+}
+
+.prolab-apd a.newpage {
+    color: #661414;
+}
+
+
+
+/* APD Header Section: */
+
+.prolab-apd h1 {
+    color: var(--apd-red);
+    font-family: 'Inconsolata', monospace;
+    text-shadow: var(--apd-white-shadow);
+    font-weight: 900;
+}
+
+.prolab-apd h2, .prolab-apd h3 {
+    font-family: 'Inconsolata', monospace;
+    text-shadow: var(--apd-white-shadow);
+    color: #252525;
+    font-weight: 900;
+}
+
+.prolab-apd h4, .prolab-apd h5, .prolab-apd h6 {
+    font-family: 'Roboto Mono', monospace;
+    text-shadow: var(--apd-white-shadow);
+    font-weight: 800;
+}
+
+
+
+/* APD Text and Font Family Section: */
+
+.prolab-apd div#toc,
+.prolab-apd, .prolab-apd li, .prolab-apd p,
+.prolab-apd .yui-navset .yui-nav li a em, .prolab-apd .yui-navset-top .yui-nav li a em, .prolab-apd .yui-navset-bottom .yui-nav li a em,
+.prolab-apd table.wiki-content-table th, .prolab-apd table.wiki-content-table td {
+    color: #313131;
+    font-family: 'Lemonada', cursive;
+    text-shadow: var(--apd-white-shadow);
+}
+
+.prolab-apd .compactTabview .yui-nav::before {
+    color: var(--apd-red);
+    font-family: Montserrat, sans-serif;
+    text-shadow: var(--apd-white-shadow);
+    top: 2px!important;
+}
+
+.prolab-apd .rateContainer {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 5px;
+}
+
+.prolab-apd .decimalStyle {
+    font-family: Montserrat, sans-serif;
+}
+
+
+
+/* APD Main Font Modifiers: */
+
+.Inconsolata {
+    font-family: 'Inconsolata', monospace;
+    font-size: 130%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+.RobotoMono {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 125%;
+    letter-spacing: 0.5px;
+    word-spacing: 5px;
+    line-height: 21px;
+}
+
+.Lemonada {
+    font-family: 'Lemonada', cursive;
+    line-height: 25px;
+    word-wrap: break-word;
+}
+
+/* APD Font Modifiers: */
+
+.Fugaz {
+    font-family: 'Fugaz One', cursive;
+    font-size: 125%;
+    letter-spacing: 0.5px;
+    word-spacing: 3px;
+    line-height: 25px;
+}
+
+.OleoScript {
+    font-family: 'Oleo Script', cursive;
+    font-size: 170%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    line-height: 30px;
+}
+
+.Courgette {
+    font-family: 'Courgette', cursive;
+    font-size: 140%;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+
+.Caveat {
+    font-family: 'Caveat', cursive;
+    font-size: 200%;
+    line-height: 33px;
+} 
+
+.CoveredByYourGrace {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 195%;
+    line-height: 34px;
+}
+
+
+
+/* APD Classification Modifiers: */
+
+.Classification {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 115%;
+    letter-spacing: 0px;
+    word-spacing: -3px;
+}
+
+.ClassTitle {
+    color: #593535;
+    font-family: 'Inconsolata', monospace;
+    font-size: 110%;
+}
+
+
+/* APD Divider Section: */
+
+.prolab-apd hr {
+    background: #4e4e4e;
+    border-bottom: 2px solid #a7a7a7;
+    margin: 0 2em;
+}
+
+.prolab-apd .content-panel hr, .prolab-apd .body-panel hr, .prolab-apd .news-block .body-panel:nth-child(even) hr {
+    background: var(--apd-red);
+    border-bottom: 1px solid #a7a7a7;
+    margin: 0 2em;
+    padding: 0.5px;
+}
+
+
+
+/* APD Image Block Section: */
+
+.prolab-apd .image-block img {
+    border: var(--apd-white-border);
+    box-shadow: var(--apd-shadow);
+}
+
+.prolab-apd .image-block .image-caption, .prolab-apd .image-block img, .prolab-apd .image-block, .prolab-apd .image-caption {
+    background: none;
+    box-shadow: none;
+}
+
+
+
+/* APD Table Section: */
+
+.prolab-apd table.wiki-content-table {
+    border-left: 3px solid var(--apd-red);
+    border-right: 3px solid var(--apd-red);
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Transparent_Overlay.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+.prolab-apd table.wiki-content-table td {
+    border: var(--apd-border);
+    background: rgb(222 222 222 / 0.2);
+}
+
+.prolab-apd table.wiki-content-table th {
+    border: var(--apd-border);
+    background: rgb(139 0 0 / 0.12);
+}
+
+
+/* 
+Background Variables Sections: 
+*/
+
+
+/* APD Paperstyle Background Section: */
+
+.prolab-apd blockquote, .prolab-apd #toc {
+    border: var(--apd-white-border);
+    border-radius: 5px;
+    box-shadow: var(--apd-shadow);
+    
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+.prolab-apd .footnotes-footer {
+    border: var(--apd-white-border);
+    border-radius: 5px;
+    padding: 15px 10px;
+    margin: 0 1em;
+    margin-bottom: 10px;
+    
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+.prolab-apd .hovertip {
+    border:     border: var(--apd-white-border);
+    border-radius: 2px;
+    
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+/* APD Red-Border Background Section: */
+
+.prolab-apd .content-panel, .prolab-apd .body-panel {
+    border: var(--apd-border);
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+    
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.pngf);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+.prolab-apd .news-block .body-panel:nth-child(even) {
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+    
+    background: #fff;
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+.prolab-apd .header-panel, .prolab-apd .footer-panel {
+    border-top: var(--apd-border);
+    border-bottom: var(--apd-border);
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+    
+    color: var(--apd-red);
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Selected_Background.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow-inset);
+}
+
+
+/* 
+Background Variables Sections: 
+*/
+
+
+
+/* 
+Tabview Variables: 
+*/
+
+
+/* APD Tabveiw Bar Section: */
+
+.prolab-apd .yui-navset .yui-nav .selected a em {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Selected_Background.png);
+}
+
+.prolab-apd .sideTabview .selected em {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Selected_Background.png)!important;
+    background-repeat: repeat;
+}
+
+.prolab-apd .yui-navset .yui-nav .selected a, .prolab-apd .yui-navset .yui-nav .selected a:focus, .prolab-apd .yui-navset .yui-nav .selected a:hover {
+    background: none;
+}
+
+/* APD Tabveiw Content Section: (Backgrounds, Borders) */
+
+.prolab-apd .yui-navset .yui-content, .prolab-apd .yui-navset .yui-navset-top .yui-content,     .prolab-apd .sideTabview .yui-navset {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    background-repeat: repeat;
+    box-shadow: var(--apd-shadow);
+    
+    border: var(--apd-border);
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+}
+
+.prolab-apd .yui-navset .yui-content {
+    border: var(--apd-border)!important;
+    border-right: var(--apd-white-side-border)!important;
+    border-left: var(--apd-white-side-border)!important;
+}
+
+.prolab-apd .sideTabview .yui-navset .yui-content {
+    border: none!important;
+    box-shadow: none;
+}
+
+/* APD Tabveiw Bar Section: (Genral Variables) */
+
+.prolab-apd .sideTabview .yui-nav,
+.prolab-apd .yui-navset .yui-nav, .prolab-apd .prolab-apd .yui-navset .yui-navset-top .yui-nav {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Clean_Paper_Background.png);
+    background-repeat: repeat;
+}
+
+/* APD Tabveiw Selection Section: (Top-bar content and borders) */
+
+.prolab-apd .yui-nav {
+    border-top: var(--apd-border);
+    border-bottom: none!important;
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+    box-shadow: var(--apd-shadow);
+}
+
+.prolab-apd .sideTabview .yui-nav {
+    border-right: var(--apd-border)!important;
+    border-bottom: none!important;
+    box-shadow: none;
+}
+
+.prolab-apd .sideTabview .yui-nav li {
+    border-bottom: var(--apd-border);
+}
+
+/* Tabveiw Scroll Bar Section: */
+
+.prolab-apd .sideTabview .yui-nav::-webkit-scrollbar-track,
+.prolab-apd .sideTabview .yui-nav::-webkit-scrollbar-corner {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+}
+
+.prolab-apd .yui-nav::-webkit-scrollbar-thumb {
+    background: var(--apd-red);
+}
+
+.prolab-apd .yui-nav::-webkit-scrollbar-thumb:hover {
+    background: #a50000;
+}
+
+
+/* 
+Tabview Variables: 
+*/
+
+
+
+/* 
+Sidenote: 
+*/
+
+/* Opened: */
+
+.prolab-apd .sidenote.sidenoteLock-false:hover .sidenoteH {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Selected_Background.png);
+    border: var(--apd-border);
+    box-shadow: var(--apd-shadow);
+}
+
+/* Closed: */
+
+.prolab-apd .sidenoteH {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    border: var(--apd-border);
+    box-shadow: var(--apd-shadow);
+}
+
+/* Text: */
+
+.prolab-apd .sidenoteC {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    border: var(--apd-border);
+    border-top: none;
+    box-shadow: var(--apd-shadow);
+}
+
+/* Image: */
+
+.prolab-apd .sidenoteI {
+    border: var(--apd-border); 
+    border-top: none; 
+    padding: 0px;
+    box-shadow: var(--apd-shadow);
+}
+
+
+/* 
+Sidenote: 
+*/
+
+
+
+/* Rating System Section: */
+
+
+.prolab-apd .starStyle {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Rough_Paper_Background.png);
+    background-repeat: repeat;
+}
+
+.prolab-apd .cellStyle, .prolab-apd .decimalStyle {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aapd-background/APD_Clean_Paper_Background.png);
+}
+
+.prolab-apd .tableStyle {
+    background: none;
+    border: 2px solid #c7c7c7;
+    border-radius: 3px;
+    box-shadow: var(--apd-shadow);
+}
+
+.prolab-apd .readingStyle {
+    background: #9e9d9a;
+}
+
+:root {
+    --apd-red: #8b0000;
+    --apd-white: #ccc2c2;
+
+    --apd-border: 2px solid var(--apd-red);
+    --apd-white-border: 2px solid var(--apd-white);
+    --apd-white-side-border: 4px solid var(--apd-red);
+
+    --apd-shadow: 3px 3px 10px var(--apd-white);
+    --apd-shadow-inset: 3px 3px 10px var(--apd-white), inset 0px 0px 20px 2px rgba(0,0,0,0.4);
+    --apd-white-shadow: 2px 2px 20px var(--apd-white);
+
+}
+[[/code]]
+[[/collapsible]]
+
+[[div class="prolab-apd"]]
+[[include :rpcsandbox:pallet]]
+[[/div]]
+
+[[collapsible show="[+] APD Optional Fonts" hide="[-] APD Optional Fonts"]]
+
+* [[span class="Inconsolata"]] **Inconsolata Font:** [[/span]]
+> @@[[span class="Inconsolata"]] Inconsolata Text [[/span]]@@
+> ----
+> [[span class="Inconsolata"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."  [[/span]]
+
+* [[span class="RobotoMono"]] **Roboto Font:** [[/span]]
+> @@[[span class="RobotoMono"]] Roboto Text [[/span]]@@
+> ----
+> [[span class="RobotoMono"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Lemonada"]] **Lemonada Font:** [[/span]]
+> @@[[span class="Lemonada"]]Lemonada Text  [[/span]]@@
+> ----
+> [[span class="Lemonada"]]"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Fugaz"]] **Fugaz Font:** [[/span]]
+> @@[[span class="Fugaz"]] Fugaz Text [[/span]]@@
+> ----
+> [[span class="Fugaz"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="OleoScript"]] **Oleo Script Font:** [[/span]]
+> @@[[span class="OleoScript"]] Oleo Script Text [[/span]]@@
+> ----
+> [[span class="OleoScript"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Courgette"]] **Courgette Font:** [[/span]]
+> @@[[span class="Courgette"]] Courgette Text [[/span]]@@
+> ----
+> [[span class="Courgette"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="Caveat"]] **Caveat Font:** [[/span]]
+> @@[[span class="Caveat"]] Caveat Text [[/span]]@@
+> ----
+> [[span class="Caveat"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+* [[span class="CoveredByYourGrace"]] **Covered By Your Grace Font:** [[/span]]
+> @@[[span class="CoveredByYourGrace"]] Covered By Your Grace Text [[/span]]@@
+> ----
+> [[span class="CoveredByYourGrace"]] "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [[/span]]
+
+[[/collapsible]]
+

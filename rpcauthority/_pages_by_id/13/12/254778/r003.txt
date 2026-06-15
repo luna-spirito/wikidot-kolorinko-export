@@ -1,0 +1,820 @@
+---
+title: "One Elusive Bat"
+tags: ["mythsmagic-writing"]
+page_id: "1312254778"
+site: "rpcauthority"
+slug: "contest:mythsmagiccontestphoenixofhope"
+revision: 3
+revision_id: "1517007286"
+author: 5982545
+timestamp: 1703629845
+---
+
+[[include component:contest-entry]]
+
+[[module css]]
+.clipL{
+    width: 15px;
+    padding-right: 5px;
+}
+
+.addition{
+    line-height: 40px
+}
+[[/module]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[div style="background-color: #191b1d; border: solid 0.5px #000000; margin: 0px 40px; padding: 0px 1em; text-align: center;"]]
+++++ NOTICE FROM THE OFFICE OF INFORMATION RECORDS AND SECURITY
+
+The following file is subject to further alteration, as the data collected are not fully understood and complete so far. For more information on the current version, please contact an OIRS liaison.
+[[/div]]
+@@@@
+
+[[span style="font-size: 175%; font-weight: bold; color: #E5E5E5"]] Registered Phenomena Code: 009 [[/span]]
+
+[[include component:sidenote figure=Project Personnel Info|content-align=true
+|contents= **Assigned Facility:** OL-Site-009
+
+**Assigned MST:** MST Echo-25 ("Dreaded Out")]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/gamma-yellow.png]]
+[[/cell]]
+[[cell style="width: 60%;"]]
++++ **Object Class:**
+##FFFF00|Gamma - Yellow##
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="width: 100%;"]]
++++ **Responsible Departments:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Biology.png style="margin: -6px 2px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Cryptozoology[[/span]][[/span]]
+[[/div]]
+
+[[table]]
+[[row]]
+[[cell style="width: 67%"]]
++++ **Hazard Types:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aggression.png style="margin: 0px 2px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Aggression Hazard[[/span]][[/span]]
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin: 0px 2px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sapient Hazard[[/span]][[/span]]
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png style="margin: 0px 2px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Contact Hazard[[/span]][[/span]]
+
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-biohazard.png style="margin: 0px 2px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Bio-Hazard[[/span]][[/span]]
+[[/cell]]
+[[cell]]
++++ **General Properties:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png style="margin: 0px 2px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Organic Property[[/span]][[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+------
+
+**Containment Protocols:** Due to the nigh-impossibility of successful capture of RPC-009, Project Ceram has been halted indefinitely. RPC-009 is to be allowed in the wild, as it has shown minimal to no risk to its own secrecy and the lives of civilians.
+
+Annually, on the 23rd of April[[footnote]]Note that this will possibly be subject to alteration due to condition in the future[[/footnote]], 5 adult goats are to be cruised down several rivers, marked for RPC-009 sighting, in an unmanned vessel; said vessel is to be viewed from afar. No electronic device or human being is to be near the boat during the protocol for the ease of observation.
+
+--100-- 61 Personnel are currently stationed across Seram Island for observational purposes with OL-Site-009 serving as their main headquarters. Assigned personnel are all already residences of Seram Island. Should RPC-009 derail from its usual behavior(Hunting more than once annually, attacking civilians, etc), personnel aware of this must report to the Authority through OL-Site-009. Project Ceram may be reactivated.
+
+**Containment Protocol Update 01/02/2018:** Personnel must be cautious not to make contact with RPC-009's skin, as it is possible that it is a host of the Nipah virus. If contact was made, especially when attacked and caused an external bleeding wound, medical treatment is to be done to the victim immediately.
+
+**Containment Protocol Update 06/03/2020:** 
+> Personnel must not attempt to search RPC-009 without proper backup.
+
+-----
+
+**Description:** RPC-009 is a humanoid entity that closely resembles a common primate[[footnote]]This description later is questionable and might be inaccurate upon further investigation.[[/footnote]], with the exception of its forelimbs, which have elongated fingers(save from the thumbs), with each joined with a thin, hairless layer of skin, extending from each finger to the side of its body. This grants RPC-009 the capability of flight.
+
+RPC-009 is a carnivore, with mammals such as goats being its primary target. It is presumed that it used to target humans, especially children below the age of ten, but not anymore[[footnote]]Considering that the original myth this RPC based on and the actual fact contradict each other[[/footnote]]. RPC-009 usually begins hunting from around 19:00 PM until around 06:00 AM by flying above several rivers on Seram Island, With some identified rivers being its favorite spots. Once found, it will dive towards the target while sometimes letting out a loud shriek and attempting to physically harm/damage its target. The usual tactic from RPC-009 is from attacking the back, usually be done by grabbing the target using its hind legs or bitting the target's neck and proceed to carry them upward. It is uncertain whether RPC-009 will consume the target while on the flight or after landed. RPC-009 may return to the same river for hunting again after finished consuming the previous target.
+
+RPC-009 used to hunt more than a day, but since the initial containment attempt conducted by the Authority, RPC-009 will not hunt more than a single day every year. It should be noted that RPC-009 tends to avoid direct interaction with humans and electronic devices and won't approach if it detecting such hindrance nearby. How it capable of detecting these are unknown. It has been changing its hunt schedule due to the Authority's interference since initial containment, with the 23rd of April being its current hunt schedule now.
+
+During research conducted, it is possible that RPC-009 is a host for the Nipah virus, as the trace of it can be seen in person attacked by RPC-009. The virus is not anomalous in nature, as a normal treatment for such cases presumed to be capable of curing the victim if done properly and immediately.
+
+-----
+
+**Discovery:** The Authority first aware of RPC-009 existence on 24/10/2017 when news media on the nation highlighted multiple cases of missing livestock on Seram Island, Indonesia. Local news media connected these cases with the local myth “Orang Bati”[[footnote]]Literally means “Winged man”, a local myth about a half-bat, half-human entity that preys upon children at night.[[/footnote]] [[footnote]]Not to be disambiguated with the members of the Bati Tribe which has the same name[[/footnote]], causing this to be trending news on the nation. The Authority decided to fully investigate this in search of the potential anomalous creatures.
+
+The investigation of RPC-009 existence began on 26/10/2017, marked by the start of Project Ceram, which is RPC-009 investigation and hunt project, with search range started from the last place RPC-009 spotted until the entire Seram Island. The project lasted for 3 years. The following are the update listed by date:
+
+-----
+
+**Incident 009-1:** On 13/01/2018, Personnel attempted to navigate the [REDACTED] river using two large vessels with a herd of livestock at 21:00 p.m. This is the 16th attempt to lure RPC-009 since the start of the project. At 22:57, personnel reported being attacked by RPC-009 and requested backup. When backup arrived, two personnel MIA(one presumed to be drowned and dragged by the stream), while 6 others were injured.
+
+[[collapsible show="Show Post-Mission Files" hide="Hide Post-Mission Files" hideLocation="both"]]
+[[tabview]]
+[[tab Recorded Footage]]
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+**Media ID#:** M-009-130118
+> **Foreword:** Footage recorded by one of the personnel shoulder-cam
+> 
+> **<Begin Video>**
+> 
+> **00:00 -** Seven Personnel visible on the boat. Casual conversation can be heard. The camera also turned to the back frequently, revealing two more personnel with a herd of livestock on the second boat. No unusual occurrence at this point.
+> 
+> **1:17:45 -** Faint shriek can be heard, personnel seemed to be slightly alarmed and began to look around[[footnote]]On the first attempt, personnel stated hearing the same sound, but nothing occurs[[/footnote]].
+> 
+> **1:23:17 -** Shrieking sounds can be heard again, louder than before. Personnel began to standby.
+> 
+> **1:25:01 -** Loud splashing and shouting sounds can be heard from the back. The camera turned to the back, only to see two personnel and several goats fell to the river. The starboard of the boat seems to be badly damaged, as the boat leaned more to the right side as it began sinking.
+> 
+> **1:26:12 -** Multiple personnel fired above.
+> 
+> **1:27:30 -** A large entity briefly visible, covered the screen for a few seconds. It crashed the first boat and knocked multiple personnel before going upward. One personnel seemed to be taken with its hind legs as well.
+> 
+> **1:27:57 -** Remaining personnel, including the camera owner, lost balance and fell to the river.
+> 
+> **1:29:26 -** Camera owner managed to hold the side of the boat, which already upside down. Multiple personnel attempted to reach the boat as well.
+> 
+> **2:14:00 -** Backup arrived
+> 
+> **<End Video>**
+**Addendum:** Interview with survivors conducted promptly
+[[/div]]
+[[/tab]]
+
+[[tab Post-Mission Interview]]
+> **Interviewed:** Agent Thomas Hughes
+> 
+> **Interviewer:** Dr. Oesman Pramono
+> 
+> **Foreword:** Interview conducted with one of the survivors for further clarity of information. Translated from Indonesian to English.
+> 
+> **<Begin Log>**
+> 
+> **Dr. O. Pramono:** Alright, interview with agent Thomas Hughes, begin now.
+> 
+> **Agent T. Hughes:** Do I- Uhm, do I start speaking or-
+> 
+> **Dr. O. Pramono:** No, I ask first, for the record.
+> 
+> **Agent T. Hughes:** Okay, sir.
+> 
+> **Dr. O. Pramono:** Alright, now. My first question is, can you explain what exactly happened to your team during the mission?
+> 
+> **Agent T. Hughes:** From the beginning of the mission or-
+> 
+> **Dr. O. Pramono:** Few moments before your encounter.
+> 
+> **Agent T. Hughes:** So, we heard these loud sounds, like you know, eagle sounds but more- actually no. It’s not really like-
+> 
+> **Dr. O. Pramono:** We may have captured the sounds of the mission’s footage, so you may want to move on.
+> 
+> **Agent T. Hughes:** Right. Sorry, I- I just... still proceeding what just happened before...
+> 
+> **Dr. O. Pramono:** Agent Thomas, I understand you are shocked due to what’s happened to your teammates, but we need some information about what actually happened. You simply the only one that capable to talk, since the rest of the team still on the medical ward. We need context.
+> 
+> **Agent T. Hughes:** Okay, I’ll continue. The first that got attacked back then is the boat on my back, the one that carried the goats. It's happened too fast. When we turned around, it already happened. So we look around and saw that //thing//, flying right on top of us.
+> 
+> **Agent T. Hughes:** We then began to shot that thing. That's when we even more screwed up. That thing dived right into us and crash the boat, made me fell from the boat. I must say to you, sir, I feel really lucky to be alive.
+> 
+> **Dr. O. Pramono:** I'm glad you survived the mission as well. Now if you don't mind, my second question is, what exactly the entity that attacked you looks like?
+> 
+> **Agent T. Hughes:** Didn't- Didn't the camera captured that creature's looks?
+> 
+> **Dr. O. Pramono:** Sir, it was at night, the body cam’s feed is rather unclear due to the night vision’s color, and it showed up only for a few seconds as well. We don't get a clear picture from it.
+> 
+> **Agent T. Hughes:** Damn it. That thing, it's- It's like a half-human, half-bat I guess. Sharp teeth, c- creepy eyes, and yes, black fur as well. Wait, no, red! I saw a bit of bright re- No, hold on, it’s more like dark orange-colored skin on it. Damn it, it happened too fast.
+> 
+> **Dr. O. Pramono:** Anything more detailed? Body shape? Facial structure?
+> 
+> **Agent T. Hughes:** That's all I could remember. Things are too blurry.
+> 
+> **Dr. O. Pramono:** Alright, next-
+> 
+> **[At this point, two personnel wearing medical protective suit entered the interview room]**
+> 
+> **Dr. O. Pramono:** Excuse me, sir. Is there any problem?
+> 
+> **Medical Personnel:** We are sorry to interrupt the interview, but we have to take agent Thomas for a medical checkup, two personnel involved in the mission complained to have a fever after the mission. We suspect this due to them fell into the river, but due to their fever getting worse, we gathered everyone involved for a check. Just in case.
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** [8 out of 10 personnel involved in the mission infected with Nipah virus. Further research conducted.]
+
+During Operation Ceram, it has been found that it is possible that RPC-009 is a host for the Nipah virus, as the trace of it can be seen in person attacked by RPC-009. The virus is not anomalous in nature, as a normal treatment for such cases is capable of curing the victim. Project Ceram halted until all personnel nursed back to health. Containment Protocol updated.
+
+**Update 14/01/2018:** 5 personnel died due to late-treated wounds, blood loss, and Nipah virus. 2 personnel critical.
+
+**Update 15/01/2018:** 2 personnel died due to late-treated wounds, blood loss, and Nipah virus. Project Ceram halted indefinitely.
+
+**Update 04/02/2018:** Project Ceram re-activated. The project now aided by MST Echo-25 due to consideration that RPC-009 similarly related to a local mythical entity, which may have certain anomalous capability causing it to be elusive in capture attempts.
+
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+
+-----
+
+**Update 16/02/2018:** On 16/02/2018, a joint search team consisted of OL-Site-009 and Echo-25 personnel managed to capture a potential instance of RPC-009.
+
+[[collapsible show="Show Email Logs" hide="Hide Email Logs" hideLocation="both"]]
+[[tabview]]
+[[tab Mission Email 1]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Potential Culprit Caught 
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]] 
+[[span class="name"]] **Amir M** [[/span]] 
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] February 4th, 2018, 02:18 AM[[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+This is our fourth attempt at catching this RPC-009 and tonight we think we caught it. It’s around 9 p.m we saw this thing flying around the river. It flew few meters right next to us while we rowed our boat, so we shoot the net gun and it managed to catch it.
+
+It’s a big bat. Literally just a really big bat. Definitely doesn’t match up with the description of it being a primate, so I had some of my men staying on the river and continue the search while I and some others went to the facility to bring this bat. We let the researcher do their job while we wait outside.
+
+At 1 a.m, the result came, and it doesn’t sound good. They confirmed that this is a normal flying fox bat.
+
+I will give further reports on the mission, but that’s all I can give for now. Below this message attached some photos of it. Before and after brought into the facility.
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander 
+[[/>]]
+[[div class="clipL"]]
+[[f<image https://i.imgur.com/STKWLoh.png class="clipL"]]
+[[/div]][[span class="email addition"]]attachment "Foxbat-photos.zip" [[/span]] 
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+
+[[tab Mission Email Reply 1]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Re:Potential Culprit Caught
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Hamid A** [[/span]]
+[[span class="email"]] <@@strip3z@authority.rpc@@> [[/span]]  [[span class="dateR"]] February 4th, 2018, 09:34 AM [[/span]]
+
+@@ @@
+
+-----
+
+For Major Amir,
+
+Good work so far. Continue the mission and report further update. 
+
+@@ @@
+[[>]]
+Hamid A 
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Mission Email 2]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Enough Catch? 
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]] 
+[[span class="name"]] **Amir M** [[/span]] 
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] April 29th, 2018, 07:30 AM [[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+I’m contacting you to give a report regarding this operation. We still unable to caught RPC-009 until now, but instead, we encountered more problems. We have been caught at least 3 of these flying foxes until now. The worse is that two of them carried the Nipah virus, which matches some of its descriptions.
+
+Sir, are you sure we’re catching a legendary local myth? I feel something is rather off.
+
+Attached below are some more photos of our bats. As you can see there, the staff on the facility placed them in one chamber, which intended for RPC-009 at first. Just so that we don’t catch the same bat on the field. Notice the two of them are really big.
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander 
+[[/>]]
+[[div class="clipL"]]
+[[f<image https://i.imgur.com/STKWLoh.png class="clipL"]]
+[[/div]][[span class="email addition"]]attachment "Captured-Instances.zip" [[/span]] 
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+
+[[tab Mission Email Reply 2]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Re:Enough Catch?
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Hamid A** [[/span]]
+[[span class="email"]] <@@strip3z@authority.rpc@@> [[/span]]  [[span class="dateR"]] April 29th, 2018, 10:21 AM [[/span]]
+
+@@ @@
+
+-----
+
+For Major Amir,
+
+Reminder that we have an incident from our own side, an eyewitness to describe what this entity’s capable of. Plus the whole fuss about it from last year. It is our job to contain whatever threat that still out there, understand?
+
+I thought you’re more interested in this than I am, am I wrong?
+
+@@ @@
+[[>]]
+Hamid A 
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Mission Email 3]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Understood
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]] 
+[[span class="name"]] **Amir M** [[/span]] 
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] April 29th, 2018, 13:47 PM [[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+When you mentioned the news part, I had the Project Ceram team to do some internal investigations, especially on the first case of the missing livestock, which attracted the media in the first place.
+
+The result is rather absurd.
+
+I have a map of the case here, in fact. As you can see in the attached file below, the areas of all recorded missing livestock cases are concentrated on two parts, two red circles near [REDACTED] river, and nine others a few hundred kilometers away. Doesn’t really make sense, right?
+
+Last January, local police on the [REDACTED] district caught a man which was a goat thief, he claimed has been operated on for at least three years due to his economic pressure. Where does he operate? On the yellow circle there on the map, near those nine red circles. If we didn’t do the latest re-check on the local news, this would have been slipped away.
+
+We have done a further check on two other families with the missing livestock case(two red dots near the river) and it may be RPC-009’s doing. Problem is, one family didn’t see how the culprit looks like, only the shrieking and few flapping sounds, and the other ones claim to see a large bat flying away. Not primate, let alone half-human, half-bat; it’s just a large-sized bat.
+
+Sir, if I may speak honestly to you, I do believe in some of our nation’s mythology. Some of those are actually real. But some others, like this Orang Bati, it’s rather an uncertainty itself. It was based on multiple unclear sightings of a half-man, half-bat. No clear background of it; it just exists one day long ago. Those who believe it did say they saw it firsthand. Seeing is believing, as the old saying goes. But if it’s hard enough to see it for myself, is it possible to even find it out there?
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander 
+[[/>]]
+[[div class="clipL"]]
+[[f<image https://i.imgur.com/STKWLoh.png class="clipL"]]
+[[/div]][[span class="email addition"]]attachment "InternalResearch.zip" [[/span]] 
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Mission Email Reply 3]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Re:Enough Catch?
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Hamid A** [[/span]]
+[[span class="email"]] <@@strip3z@authority.rpc@@> [[/span]]  [[span class="dateR"]] April 29th, 2018, 10:21 AM [[/span]]
+
+@@ @@
+
+-----
+
+For Major Amir,
+
+For further complaints, you can refer those to Project Ceram’s team. I rather advise you to set aside such doubt as they seem to hinder the mission.
+
+I must re-state it again, we are not facing a normal bat. I’ve looked about the Flying Fox bat species and they eat fruits, not civilian’s livestock, let alone civilian. It is an uncontained threat, and it’s in our jurisdiction, so it’s our job to secure this nation from such a threat.
+
+Do you understand?
+
+@@ @@
+[[>]]
+Hamid A 
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Mission Email 4]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Understood
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]] 
+[[span class="name"]] **Amir M** [[/span]] 
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] April 29th, 2018, 13:47 PM [[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+Understandable, sir. Will continue assisting the mission.
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander 
+[[/>]]
+
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+
+[[/tabview]]
+[[/collapsible]]
+
+-----
+
+**Update 23/11/2019:** After nearly three years of Project Ceram with no clear result, MST Echo-25, which has been tasked to aid the Project over nearly a year, has submitted multiple requests of their sign out from the project.
+
+[[collapsible show="Show Email Logs" hide="Hide Email Logs" hideLocation="both"]]
+[[tabview]]
+[[tab Request Email 1]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Sign Out Request
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Amir M** [[/span]]
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] December 23rd, 2019, 12:30 AM[[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+Echo-25 along with the personnel of OL-Site-009 has conducted the investigation on this presumed RPC for nearly one year now. And we still can't find this RPC. One month from now, the annual RPC-308 protocol must be done, so we have to sign out from the project for a while. Last January incident must not be repeated, we intended to secure the perimeter three weeks prior to the event.
+
+If things still are like this for the next two months, I’m requesting to end the mission. Request made by considering the personnel's valuable time.
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Request Email Reply 1]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Re:Sign Out Request
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Hamid A** [[/span]]
+[[span class="email"]] <@@strip3z@authority.rpc@@> [[/span]]  [[span class="dateR"]] December 24th, 2019, 04:26 AM[[/span]]
+
+@@ @@
+
+-----
+
+For Major Amir,
+
+You may place 30 personnel for RPC-308 Containment Protocol. All OL-Site-308 ASF personnel are also allowed to aid the protocol. The rest of the MST is to remain in Seram Island.
+
+I understand your concern, but your mission remains the same. Finish it until the end.
+
+@@ @@
+[[>]]
+Hamid A 
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Request Email 2]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Proposal
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Amir M** [[/span]]
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] February 28th, 2020, 11:30 AM[[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+I am, as the leader of Echo-25, on behalf of the Echo-25 personnel, requesting to terminate this mission.
+
+We have conducted a full search on the entire island last year. Seram Island is vast, but years sweeping it yields no significant result until now. The incident that leads to the death of almost all of the first team may still be fresh in some of our personnel’s minds, but the lack of evidence significantly hindered our investigation. I reminded you that we have collected enough evidence to backed up our statement.
+
+We held voting whether the personnel of Echo-25 wish to continue aiding this mission or not, with the voting result is 80% chose to no longer aid this mission.
+
+Below is the documentation of the meeting along with the complete voting result.
+
+In short, sir, I do not believe this entity exists. This was all a misunderstanding and a waste of time.
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander 
+[[/>]]
+[[div class="clipL"]]
+[[f<image https://i.imgur.com/STKWLoh.png class="clipL"]]
+[[/div]][[span class="email addition"]]attachment "Decision.zip" [[/span]] 
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Request Email Reply 2]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Re:Proposal
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Hamid A** [[/span]]
+[[span class="email"]] <@@strip3z@authority.rpc@@> [[/span]]  [[span class="dateR"]] March 1st, 2020, 07:21 AM[[/span]]
+
+@@ @@
+
+-----
+
+For Major Amir,
+
+You will need to consult with the RPC-009 research team. Especially with their Head Researcher, Dr. Pramono.
+
+If the majority of the team agrees to end the project with the majority of 9:10, I will put your proposal into consideration and will forward it to my higher up.
+
+Until then, I wish that your team remains operational for the next search.
+
+@@ @@
+[[>]]
+Hamid A 
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+
+[[tab Request Email 3]]
+
+[[div class="document"]]
+[[<]]
+[[=]]
+++ Understood
+[[/=]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]] 
+[[span class="name"]] **Amir M** [[/span]] 
+[[span class="email"]] <@@amirm55@authority.rpc@@> [[/span]]  [[span class="dateR"]] March 1st, 2020, 09:01 AM [[/span]]
+
+@@ @@
+
+-----
+
+For Site Director Hamid,
+
+We’ll conduct the meeting soon. Will notify you of the result as soon as possible.
+
+@@ @@
+[[>]]
+Amir M, MST Echo-25 Commander 
+[[/>]]
+
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+
+-----
+
+**Update 02/03/2020:** On 02/03/2020, a meeting conducted between MST Echo-25 Representative, Captain H. Setya, and Project Ceram Head, Dr. O. Pratama. Several Personnel from both sides also attended the meeting. Meeting conducted on OL-Site-009 at 20:00 PM local time with the focus of considering whether Project Seram remain conducted or not.
+
+[[collapsible show="Show Meeting Record" hide="Hide Meeting Record" hideLocation="both"]]
+> 
+> **In Attendance:**
+> 
+> **Offline**[[footnote]]Following the health protocol at that time[[/footnote]]**:**
+> **Head Researcher(Project Ceram Head):** Dr. O. Pramono
+> **MST Echo-25 Field Division Commander(MST Echo-25 Representative):** Capt. H. Setya
+> **MST Echo-25 Personnel:** 5 personnel
+> **OL-Site-009 Personnel:** 5 personnel
+> 
+> **Online:**
+> **MST Echo-25 Commander:** Maj. Amir M.
+> **MST Echo-25 Personnel:** 29 personnel
+> **OL-Site-009 Personnel:** 32 personnel
+> 
+> -----
+> 
+> **<Begin Log>**
+> 
+> **Capt. H. Setya:** I guess we should start the discussion now. I am here, representing Major Amir and Echo-25, would like to discuss the current status of this project and our proposal.
+> 
+> **Capt. H. Setya:** As you know, Project Ceram has been conducted for at least three years since 2017. And since that three years, no clear result regarding whether RPC-009 really exist until now.
+> 
+> **Capt. H. Setya:** The most obvious result of the project from the beginning until now would be the one and only incident that occurred three years ago. Of course, we all dedicated ourselves since then to catch this entity so none of our personnel and civilian would be harmed by it. Problem is, no further incident occurred after this. Not even a single clear sighting of it. Case of //”mysterious”// missing livestock no longer heard, and if there were, only one or two in a year. Even personnel back on the main site forget this used to be a thing, let alone the nation. Our Orang Bati here simply returns to be a myth. An existence that can’t be proven its existence.
+> 
+> **Capt. H. Setya:** In short, I, on behalf of Echo-25, requesting to end Project Ceram.
+> 
+> **Dr. O. Pramono:** I heavily disagree, sir. The collected evidence may be too limited, but it is a piece of factual information. After the incident, we become more cautious, right? My theory is that RPC-009 began limiting its appearance since then, down to it only hunt at least once a year. So the most effective method in studying and eventually catching this RPC is to observe it steadily. This will be a long project, sir, I won’t lie. But there will be a result.
+> 
+> **Maj. Amir:** If I may, doctor. If it took three years just to gain a mere photograph of its existence, and no, I’m not counting the first incident for this, then I’m afraid that the project could be inactive slowly and eventually abandoned as time goes. Such wasted time could be used for more beneficial research.
+> 
+> **Agent T. Hughes:** Excuse me, but isn’t it too early to make such prediction? This only comes from Echo-25, not a whole opinion from the entire team.
+> 
+> **Maj. Amir:** Ech- Wait, who’s the person speaking there?
+> 
+> **Dr. O. Pramono:** Agent Thomas, sir. He’s the sole survivor of the first incident. I allowed him to join to give his thought about this since he has a huge contribution to this project.
+> 
+> **Maj. Amir:** Now isn’t this convenient. Agent Thomas, right? Now, I want you to tell me about this entity we hunting. Are you sure what you saw is correct?
+> 
+> **Agent T. Hughes:** What kind of question is that? That thing slaughtered my colleagues! Which part of it that you don’t believe?
+> 
+> **Maj. Amir:** The cause of it. Your colleagues died due to blood loss and the Nipah virus if I’m correct. And we caught at least five giant bats now, with two of them are host to the said virus. I want you to reassure me that what you saw is an entirely different entity and not one of those bats.
+> 
+> **Agent T. Hughes:** It attacked us! Dive down and attacked us like a predator! Do normal bat did that?
+> 
+> **Maj. Amir:** It could be just a huge coincidence, really. You accidentally met an aggressive one, or maybe you got attacked by other animals like a crocodile as well, or-
+> 
+> **Agent T. Hughes:** What?! No, it //attacked// us! I can’t-
+> 
+> **Maj. Amir:** I will ask you again, did you see //exactly// how the entity looks like?
+> 
+> **Agent T. Hughes:** It’s… I’m not sure… but-
+> 
+> **Maj. Amir:** Face fact, kid. The whole thing is a coincidence since it only happened once.
+> 
+> **Agent T. Hughes:** No it’s not, I’ll- **[Standing up]** I’ll bring it! **[Walking to the exit]** I’ll bring it to you all!
+> 
+> **Capt. H. Setya:** Damn it, calm down everyone! The meeting is postpon-
+> 
+> **Maj. Amir:** Continue, Hendra. We’re close to the end.
+> 
+> **Capt. H. Setya:** We continue? Okay, alright. Uhh… So do you have any preferable alternative in your mind, Dr. Oesman?
+> 
+> **Dr. O. Pramono:** Well, I do hear that your team currently also troubled as well right now on Java, so I understand the reason why you wish to end this project. I just propose that the project should not end, we on this site will continue the project on our own.
+> 
+> **Maj. Amir:** Negative, doctor. We have been ordered by the higher-up to keep assist this project until it’s over. We are tangled with this tighter than you think.
+> 
+> **Dr. O. Pramono:** So we end this project and just let this thing on the wild?
+> 
+> **Capt. H. Setya:** No, we just propose to end Project Ceram, which as you know, an active search mission all across Seram Island. We still consider this RPC is real and continue carrying on the Containment Protocol.
+> 
+> **Dr. O. Pramono:** I see your point, but still, that means we let this entity free, right?
+> 
+> **Capt. H. Setya:** Yes, we have considered this and agreed that RPC-009 is already self-containing since it keeps avoiding humans. Carry on the Containment Protocol should keep it that way.
+> 
+> **Dr. O. Pramono:** But what if it’s not one day?
+> 
+> **Capt. H. Setya:** Then we will re-activate the project.
+> 
+> **Dr. O. Pramono:** I see… We will discuss this further by considering the fact that you gave.
+> 
+> **Capt. H. Setya:** Well then, this meeting is concluded.
+> 
+> **<End Log>**
+> 
+[[/collapsible]]
+
+-----
+
+**Incident 009-2:** Shortly after the meeting concluded, Agent T. Hughes reported being missing. Multiple cameras' footage showed that he exited the site right after he left the meeting. One of the trucks for carrying standard operation boat was also missing. His current whereabouts were unknown at that time.
+
+On 03/03/2020 at 09:43 AM, the joint-search team found the missing boat drifted on [REDACTED]’s riverside. Its bow heavily damaged along with some minor damage on both gunwales. Multiple bullet casings and a note were found on the boat’s bottom, belonged to Agent T. Hughes. The note recovered seems to be rushed when written.
+
+[[collapsible show="Show Recovered Note" hide="Hide Recovered Note"]]
+[[div class="page"]]
+@@@@
+[[<]]
+[[span style="color: #000000;font-family: 'Ink Free'; font-size: 15px;"]]
+--Bring goat.-- No access, can’t do it alone.
+--Sacrifice.-- No. Moral.
+__Shout its name.__ Scream it.
+@@@@
+A myth is something that’s talked about, that’s believed by a lot of people, but can’t be proven. It made its appearance to be known to exist, but not enough to be proven to exist. It’s a state of uncertainty.
+@@@@
+Said state in some of the most famous cases lasts long. Told from generation to generation. From centuries to centuries. It escalated to an urban legend at that point. Myth only exists for several decades, or a century or two. It either escalated to the next state or go down into being unknown.
+@@@@
+A myth requires only a few things,
+- Some questionable witnesses
+- Some uncertain records of it.
+@@@@
+Below that, it’s bullshit.
+@@@@
+Above that, it’ll a fine addition to our collection of dozens of paranormal entities.
+@@@@
+Such a magnificent bastard, right? It managed to stay in that state for a long time. We probably caught Bigfoot or Loch Ness at one point, but this jackass still chilling here for god knows how long.
+@@@@
+It knows the rule of a myth, and it following it obediently. I’m here to prove that. I’m all alone. Only me, a flashlight, and a gun. No camera, because it hates those. It somehow knows enough to save itself.
+@@@@
+See, it shrieking, flying, and mocking me around. I’m alone. Come at me. It's either it or me. I don’t care if it’ll be dead, consider that’s for killing my friends. To be honest, I don’t really know them, but I know how desperate they are when they shot, only to be written die due to some common virus.
+@@@@
+It hasn’t finished the job. I’m still alive.
+It wants me, the last witness. I know what it wants.
+@@@@
+Seeing is believing,
+I saw it, it’s real.
+And I’ll bring it to
+@@@@
+Fired my gun at it, it too fast.
+@@@@
+It right in fron
+[[/span]]
+[[/<]]
+[[/div]]
+
+The current whereabouts of Agent T. Hughes remain unknown.
+[[/collapsible]]
+
+-----
+
+**Update 06/03/2020:** Decision regarding Project Ceram’s continuity has been made. Project Ceram has been halted indefinitely, with Containment Protocol remain to be carried annually. For more information, refer to the current Containment Protocol. If the circumstance changed, the project is to be re-activated immediately. 
+
+[[footnoteblock]]
+[[=]]
+<< [[[RPC-008]]] | RPC-009 | [[[RPC-010]]] >>
+[[/=]]
+

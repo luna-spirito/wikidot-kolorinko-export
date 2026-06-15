@@ -1,0 +1,266 @@
+---
+title: "Thaumaturgy"
+tags: ["lore"]
+page_id: "1311639412"
+site: "rpcauthority"
+slug: "thaumaturgy"
+revision: 24
+revision_id: "1531712741"
+author: 3641050
+timestamp: 1755908650
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+[[/module]]
+
+[[module css]]
+:root {
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'Myths and Magic Contest';
+}
+[[/module]]
+
+[[module css]]
+.round img {
+    border-radius: 10px;
+}
+
+@media (min-width: 769px) {
+.enlarge-banner {
+    transition: .05s;
+    position: relative;
+}
+ 
+.enlarge-banner:hover {
+    transform: scale(1.5);
+    transition: .05s;
+    transition-delay: .2s;
+    z-index: 15;
+}
+
+.flex-box {
+  display: flex;
+}
+
+.flex-box div {
+  width: 50%;
+}
+
+.flex-box .image-block, .flex-box blockquote {
+  margin: 10px 40px;
+}
+}
+[[/module]]
+
+[[div class="round enlarge-banner"]]
+[[image http://rpcauthority.wikidot.com/local--files/thaumaturgy/magicchart-small.png width="100%"]]
+[[/div]]
+
+[[=]]
++++ [*http://rpcauthority.wikidot.com/local--files/thaumaturgy/magicchart.png View Full Size »]
+[[/=]]
+
+----
+
+[[tabview]]
+[[tab Overview]]
+[[=]]
++++ Basic Magic, as we understand it.
+[[/=]]
+
+> //"A knife in the hands of a child is dangerous - but one in the hands of a cook, can create wonders. What laymen call 'magic' is the same. It is a volatile, beautiful thing - a power that our predecessors ignored to their detriment. But thaumaturgy is just waiting to be researched, resourced, refined. Countless cultures throughout history have drawn on the wellspring in their own way. Now it's our turn."//
+> 
+> -Excerpt from the preface to //Arcanum Vestrale//, a 1983 publication of Prometheus Primogenitus[[footnote]] The Department of Occult Concerns, as officially assimilated into the Authority in the later 1800s[[/footnote]] Sibyl Dr. Harold Rand.
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Sephirotic%20Christ.png|align=right|width=250px|caption=Christ as an abstract representation of the Kabbalah, a classic example of Theogonic thaumaturgy.]]
+
+Magic is difficult and perplexing to grasp. It is, appropriately enough, arcane in its complexity. Certain rituals, potions, runes, totems, idols, and elemental manipulation seems to completely fail under some circumstances and function in others, with little logical consistency - certainly nothing that lends itself to scientific rigor. A researcher looking to approach magic from the traditional experimental perspective will need to throw away all prerequisites of the scientific method, materials testing, or even the notion of quantifiable results.[[footnote]] Adaptation of scientific methodology for various occult studies has as much precedent as the use of magical application within scientific study in certain branches of our Research Division.[[/footnote]] Magic functions by its own rules, most of the time.
+
+One of the most deeply troubling factors of the study of thaumaturgy is how little different schools share in methods and technique. Alchemy, for instance, shares much with modern chemistry - in part no doubt due to being its predecessor - and on the above diagram those branches of alchemical thought closest to the central label demonstrate the most internal consistency. Naturally, on the opposite end of the thaumaturgic map lies theogony or belief, one of the least rational and most difficult to study of the Thaumaturgic schools. The Authority and its researchers are unsure how theogonic thaumaturgy works in any capacity. We are aware that it can manifest supernatural and anomalous effects, and we know that the strength and intensity of these effects are correlated with the level of trust or faith that humans have in the potency of their religion and deities. Beyond that, we are blind.[[footnote]] Opinion on exactly //how// blind we are is divided among our research circles. Those within the theological branches - such as the Congregance - argue that such blindness exists for a reason, and research should not try to push beyond it. Conversely, the more occult societies and sensationalists within the Primogenitus believe that in time, given enough sacrifice, even blind eyes can be opened to absolute truth.[[/footnote]]
+
+A similar dichotomy can be witnessed in the divide between ritual thaumaturgy and elementalist thaumaturgy. Rituals are a slow, methodical approach to the craft - sacrificing, communing with the wilds, or imbibing potions and tinctures that thin the barriers between the human mind and the powers of the natural world. These rituals are generally a human invention, and allow a talented practitioner to interact with their beliefs in a measurable and frequently permanent fashion. Elementalism, on the other hand, draws on those same natural powers far more directly, and in a way that seems substantially more arbitrary. Skilled elementalists can, through their worship of the fundamental forms of matter, move rock, breathe underwater, soar through the skies and walk across searing coals with no evidence of what we might consider ritual acts or preparation. 
+
+To compound matters, the thaumaturgic map is not strictly two-dimensional. The craft is riddled with overlaps, inconsistencies and loopholes that defy explanation or rational cataloguing. Indeed, many elements of alchemy are functionally similar to ritual, yet possess completely different cause-and-effect systems. Thaumaturgic smithing can in many ways be regarded as a subset of elementalism. Even concepts which are classified as opposites are often closely interlinked; witness the alchemical practices of the Hermetic thaumaturges, or the elementalism of traditional European druidry. Fundamentally, understanding the intricacies, inconsistencies and fundamental lack of logical rhyme or reason to the thaumaturgic craft is a vital skill for any Authority researcher seeking to delve into this rich and fascinating field.
+
+~~~~
+[[/tab]]
+
+[[tab Rituals]]
+
+[[=]]
++++ Rituals
+[[/=]]
+
+> //"My mentor at the Blacklake Institute was dour and bitter, but certainly not godless. He'd served many years in one of the Roundtree orders in his youth, but left because of his... 'personal convictions'. He told me once that we, as creatures lost under heaven, were cursed... Cursed by our own consciousness.//
+> //We are automata, see: mired down by time and space, enduring our damnation with what he called the 'simple pleasures', those little things at the root of all religion and belief - though some in the Congregance[[footnote]] Department of Theistic Studies.[[/footnote]] might argue otherwise. Tapping into the other side, elevating yourself out of the corporeal even for a single moment via repetition, reenactment, unique trust... It takes you to a whole other world.//
+> 
+> //That's why rituals are so powerful, you see. They're reciprocal altruism, distilled. They're what makes us human."//
+> 
+> - Dr. Else Hansen, Para-anthropologist, Site-136 (San Gimignano, Italy)
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Sun%20Dance.jpg|align=right|width=250px|caption=A Shoshone Sun Dance, circa 1925.]]
+
+Ritualistic thaumaturgy - present in most belief systems knowingly or not - dates to the age of the hunter-gatherers, whose shamans sacrificed the hearts of animals of the field and the woods to ancestor-gods for their own 'simple pleasures': fair weather, prosperity, or good health. There is a fairly simple methodology to its craft. A certain number of steps must be performed in an area in order to produce viable results. If results are not forthcoming, the ritual was either performed incorrectly, or the entity responsible for producing these results did not accept the cost/sacrifice/offering that the ritual performer gave.
+
+**Actuating Rituals**: Rituals are most frequently passed down by word of mouth or in heavily cloistered and secretive communities. While Authority staff have on occasion managed to "crack" rituals through brute-force experimentation, most of our knowledge on the subject is received from isolated traditional cultures, religious groups, and other social organizations that maintain ritual tradition. Most rituals, even at their most efficient, involve a substantial material component which is offered to invoke or "pay off" a supernatural force; this encompasses everything from animal sacrifice through the simple lighting of fires.
+
+**Ritual Effects**: Cataloging the sheer range of effects which can be generated through ritual thaumaturgy is a monumental task, too large in scope for this document. A brief summary of each can be found below.
+
+//Spiritualism//: Often focusing on matters of the dead, these are mediums, exorcists, and occultists who claim to be able to commune and banish lingering spirits of the dead, or seek advice from ancestral figures for help answering questions of personal importance. 
+
+//Shamanism//: Shamans function similarly to Spiritualists, save that their rituals use the dead as an intermediary to directly contact the natural world. Shamanistic rituals are frequently aimed less at a single individual than at a group of individuals, such as a tribe, clan or extended family. This leads to a frequent difficulty in replicating this form of thaumaturgy, as many shamanistic practitioners are adamant that their craft only effects the immediate sphere of their social group. Due to this cultural foundation, Shamanism is generally understood to share substantial links with Theogonics. Shamanistic rituals can heal injuries or diseases, cultivate good fortune, ward off evil spirits, divine the future and gain insight into distant events.
+
+//Animism//: Animists act in much the same way as Shamans, with a much greater focus on the environment, and far less on the tribe. They commune with the animals around them and talk directly to their spirits. Frequently characterized as "wild men" or "animal whisperers," they regularly demonstrate the ability to commune with animals and, in rarer cases, take on animalistic forms. Despite the preponderance of shape-altering anomalies present in the Authority's collection, data on thaumaturgic shapeshifting has proven remarkably difficult to gather; there remains some debate over whether animists are actually capable of changing form as a result. 
+
+//Druidry//: Druids respect, ward, and protect nature from a variety of threats, and often live in remote and isolated areas,  becoming intimately connected with their environment. While many also believe in conglomerated religions, such as the Irish Druids, most develop thaumaturgic concepts closely tied with the biomes and environments they are most familiar with. Druids can commune with trees and forest spirits, accelerate the growth of plants, extend their lifespans to great lengths, and, in some isolated cases, become plant-like beings themselves.
+
+The Authority is currently aware of a single druidic practitioner of considerable age who has rendered himself functionally immortal due to the integration of his biology with plant life. Unfortunately, due to his reclusiveness and disdain for human contact, communications with this unidentified individual have only been opened on a single occasion, in Giant's Grove, Ireland.
+
+//Herbology//: Herbology is one of the closest connections that ritualistic practices have to alchemy, as many of the herbs, plants, and produce that Herbologists grow are also the base ingredients for alchemical products and medicines. Herbology is notable as one of the few true thaumaturgic practices whose existence somewhat coexists with the general public, though distinguishing between new-age quack naturopathy and true herbology is often difficult. The practice of herbology emphasizes the cultivation of rare and unusual plants, creating a wide variety of potions, tinctures and thaumaturgic effects, and knowledge of supernatural or anomalous plant life forms and their properties.
+
+[[=]]
++++ Idols, Runes, and Totems
+[[/=]]
+
+[[div class="flex-box"]]
+[[div]]
+> //"There's something special about transference. It's a tacit pact between the self and the venerated. The believer gives up a piece of their own essence to magnify, to strengthen, to connect beyond the veil. There are presences in idols, in long-worshipped stones. The Egyptians understood this power well. When Akhenaten died, they destroyed the statues of Aten, to break the link between the pharaoh and his invented god. You can never leave an image of undesirable spirits intact. Not unless you want... guests"//
+> 
+> - Professor H. Abara, Congregance historiographer of African and Near Eastern religions
+[[/div]]
+[[div]]
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Congolese%20idol.jpg|align=right|width=250px|caption=A Congolese idol recovered by Belgian researchers, date unknown. Possibly LO-███.]]
+[[/div]]
+[[/div]]
+
+Between rituals and beliefs lie the idols, runes, and totems that many so-called 'pagan' cultures all commonly used and worshipped. These physical objects are used to ward of evil spirits, or in some cases, such as the Nordic religions, are used to instill power in mundane tools and weaponry. The power of such physical thaumaturgy has a fundamental theogonic link, as we will touch upon shortly.
+~~~~
+[[/tab]]
+
+[[tab Theogony]]
+
+[[=]]
++++ Theogony
+[[/=]]
+
+> //"Some of the more shuttered minds in the OAS scoff at belief as nothing more than a linguistic memetic virus, deeming our work here as pointless or inane. Maybe it is, maybe it isn't. I believe otherwise, at least. As a man of faith first and a researcher second, I have to. Simply put, too much in our world revolves around faith for it to not be important."//
+> 
+> - Brother Ambrose Germaine, Applied Theogonics, Site-286.
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Hamatsa_shaman.jpg|align=right|width=250px|caption=A Kwakwaka'wakw Hamatsa shaman possesed by supernatural powers, circa 1914.]]
+
+Theogonic thaumaturgy, the thaumaturgy of belief, is an incredibly oblique form of the craft that despite our best efforts is still not fully understood. We know the basic operation of the craft; theogonics are actuated by a mass of humans, usually, but not always, geographically in one location, believing in something, and manifesting that idea into reality through their collective consciousness. This power can be amplified many times depending on the amount of believers involved, but their attention and collective will must be directed towards a specific goal.
+
+For instance, though Christianity is one of the widest-spread religions in the world, it does not necessarily have the amount of power that its scale might imply. The numerous different sects and denominations of Christianity, and their wide geographical spread, diffuse the theogonic energies they produce. Conflicts between denominations, such as the long-running Protestant/Catholic schism, also consume substantial amounts of this thaumaturgic output.
+
+This diffusion of belief is generally theorized by the Authority as the reason for the seeming preponderance of the "mythic past." The cultures and religions of, for instance, the Akkadians or the First Peoples of North America were smaller and more concentrated, more likely to direct their beliefs towards single objects. It is thus that we see fears of starvation beget Wendigos, or populations in need of saviors manifest demigods like Raven and Heracles, or committers of evil acts call down lightning on their own heads.
+
+A curious and still poorly-understood component of theogonics is the power of sacrifice; it is generally accepted that a minimum mass of around 10,000 believers concentrated in a geographic location creates sufficient thaumaturgic pressure to alter reality, but this power can be concentrated or spike in intensity when focused through the catalyst of offerings or sacrifices. These might be figurative offerings of gold or foodstuffs, or, at their most effective, the sacrifice of living humans, whether willing or unwilling. The historical concept of martyrdom shared by many major world religions is believed to be a direct offshoot of this fundamental thaumaturgic expression.
+
+It is usually the case that theogonic thaumaturgy develops naturally and spontaneously in a social group. It is difficult or impossible to induce belief artificially, as can be attested by several failed Authority attempts to "construct" religions in lab settings.
+
+**Theogonics in Practice:** As mentioned, theogonic thaumaturgy manifests itself in ways appropriate to the belief system it operates within. Worshippers of Zeus call forth lightning bolts, Osirian mystery cults resurrect the dead and raise floods, and certain Judaic mystics have been known to turn people into pillars of salt. Often, this requires that the wishes and thoughts of numerous believers be concentrated on a single target, but this can be bypassed if these believers have a human focus or prophet who they believe conveys the will of their deity. Thaumaturgical abilities demonstrated by certain Popes and Orthodox Patriarchs are classic examples.
+
+As the representative of an extremely ancient lineage of such figureheads, various generations of Popes have become some of the most powerful figures in thaumaturgy known to the Authority. Though different holders of the office have demonstrated both highly variable abilities and willingness to employ them, those entrusted with the Papal seal can, in some cases, literally move mountains. Despite the somewhat checkered history between the Authority and the Papacy, it is an unquestionable fact that the thaumaturgic deterrent presented by the Papacy has saved the world on numerous occasions.
+
+As a rule, when discussing belief in the thaumaturgic context, prophets, holy men, and mouthpieces of a god - whichever that might be - alike retain immense power, even if they are not aware of it. These figures act with the full mythological and spiritual power of their believers.
+
+[[=]]
++++ Worship and Channeling of the Natural Elements 
+[[/=]]
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Dolmen.jpg|align=right|width=250px|caption=A dolmen on Ganghwa Island, South Korea.]]
+
+Theogonics often overlap with Elementalism, especially when groups worship the elements. This is true for a number of groups, such as the Zoroastrian worshippers of the Eternal Flame, the devotees of Ganga in Hinduism who hold that the waters of the river purify the soul, and naturally the ancient Druidic worship of the Earth itself. These groups manifest a form of theogonic thaumaturgy aimed at base matter itself, cultivating and deepening the supernatural connection between worshipper and element. Such "pure" elementalism will be discussed in the next section.
+~~~~
+[[/tab]]
+
+[[tab Elementalism]]
+
+[[=]]
++++ Elementalism
+[[/=]]
+
+[[div class="flex-box"]]
+[[div]]
+> //"The definition of the 'elements' has obviously shifted dramatically, and in this context it's easy to discard ancient wisdom. Hell, I used to do just that. Then I saw a man summon living salamanders out of the heart of a Bunsen burner. Nearly died from the shock of it all, but it helped me see the light."//
+> 
+> Dr. V. Fawcett, Chemistry Department.
+[[/div]]
+[[div]]
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Firewalk.jpeg|align=right|width=250px|caption=A Tamil elementalist on Wake Island walks on 700-degree coals, circa 2017.]]
+[[/div]]
+[[/div]]
+
+Elementalism is composed of two things: the manipulation of the elements as borrowed from Alchemy, and the worship of said elements, as borrowed from Theogony. These two combine to create a thaumaturgic form that is extraordinarily variable in its scope and degree of power, even by the highly unusual standards of the craft. One of the many ways that elementalism distinguishes itself is that, while all Elementalists can manipulate their chosen elements, not all elementalists worship their chosen form.
+
+Worship of the Polynesian sea-deity Tangaloa is a classic example of this; as the personification of the water itself, many Polynesian religions place a great importance on this deity, but Polynesian elementalism, combined as it is with traditional oceangoing navigational skills, has little to do with worship. Indeed, extensive observation and interview of expert Maori elementalists revealed that they saw their manipulation of the water when boating as something more akin to a practical skill like knot-tying or woodworking than as something of religious import.
+
+Many in the Authority theorize that elementalism is a form of hereditary thaumaturgy, given its tendency for subtlety and practitioners who are unaware of the anomalous nature of their abilities. Whether or not this is true is very much a matter of debate, but the fact remains that elementalist practices, like Theogony, have a strong localized and cultural component, and tend to dissipate upon the destruction or scattering of the "host" culture.
+
+To compound matters, different "schools" of elementalism are wildly different in both practice and praxis.
+
+//Fire//: Fire is rarely sourced internally, and is nearly always presented as both a blessing and a curse. Nearly every flame-based elementalist group known to the Authority emphasizes the dangers of fire, and its tendency to consume if left unchecked. At their peak, masters of the element, such as the cloistered monks at Daishō-in, are capable of total control over heat and flame, usually at the cost of horrific scarring and the loss of limbs.
+
+//Wind//: Wind elementalists are nearly always nomadic in culture, whether over land and sea. Wind elementalism is the most subtle of the schools, and the one that goes most frequently unnoticed by its practitioners. A wide variety of Eurasian horse cultures practice such subconscious elementalism, and it is an integral part of a variety of horse-riding and archery techniques.
+
+//Water//: Water elementalism is the most widespread of the schools, and unquestionably the most varied, since its use encompasses notions of calming and purification, but also unstoppable destruction. As mentioned, many Polynesian cultures practice subconscious elementalism while at sea, while many cultures with a tradition of pearl-diving or underwater activities seem to have cultivated elementalism spontaneously. It remains the subject of great debate whether elementalism involving ice and snow should be counted as part of this subgroup.
+
+//Earth//: Everything from sand to rocks and magma can be manipulated by terrestrial elementalists, and the school naturally overlaps heavily with Druidry. The counterpoint of druidic protection of the Earth in its natural state versus the elementalist manipulation of the earth is one of the most vexing and contenious fields of study in this branch of thaumaturgy, yet again demonstrating the fundamental contradictions in the "study" of thaumaturgy. Older systems of elementalist classification within the Authority viewed the manipulation of wood and plants as a distinct school of elementalism; at present it is generally accepted that "wood elementalism" is simple a subset or specific focus of earth elementalism.
+
+//Metal//: The elementalism of metals is almost vanishingly rare, normally because it is very nearly impossible to distinguish from high-level alchemy. Since purified and refined metals almost never occur naturally, such elemental practices can usually only be accomplished after a long and complicated process of preparing ingredients, furthering the confusion. The one saving grace which permits some classification of this unusually esoteric field is that metal elementalists usually construct and form their element, while alchemists mix and alter the substance of their materials.
+
+----
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Daoist%20Alchemy.jpg|align=right|width=250px|caption=The Daoist transmutation technique known as "collecting fire", from a 17th-century Ming dynasty text.]]
+
+[[=]]
++++ Transmutation
+[[/=]]
+
+Transmutation is an almost-abandoned field of thaumaturgy that has largely fallen out of fashion since the rise of modern nuclear physics. The conversion of base elements into others is now entirely scientifically feasible, though at great cost in time and resources. Many former transmuters obsessed with converting materials into gold have seen the writing on the wall, and invested their energies in more fruitful pursuits. The fact that other materials, such as diamonds, lithium, radioisotopes and platinum are frequently more valuable than gold is also a contributing factor.
+~~~~
+[[/tab]]
+
+[[tab Alchemy]]
+
+[[=]]
++++ Alchemy
+[[/=]]
+
+> //"Turning shit into gold is a party trick, but we do use alchemy in Research Division; I could point out any number of OAS old-timers who take notes using ancient alchemic signs. When it comes to the parasciences, alchemy is really one of our foundational pillars. For every dozen homeopathic swindlers out there, or chemiosophic charlatans, there are a few true visionaries who can revolutionize our understanding of the sciences.//
+> 
+> - Dr. Xi Yang, Laboratory Head at Site-002, 1957.
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Tablets.jpg|align=right|width=250px|caption=The Emerald Tablets of Hermes Trismegistus, containing all alchemical knowledge, as depicted by German alchemist Heinrich Khunrath.]]
+
+The most logical of all thaumaturgies, alchemy is one of the ancestors of modern science, and its principles can still be seen in evolved form in modern academia. While chemistry, meteorology and geology, which were once a subset of alchemical study, have become sciences, many aspects of alchemy remain out of reach of conventional understanding.
+
+Alchemical crafts, such as anomalous metalworking crafts, brewing, apothecary admixture, and atomic purification all demand intense concentration, dedication, and the collection of a huge range of strange and exotic ingredients and reagents. Most of these crafts have been at least partially systematized and understood, and the Authority employs a large number of personnel trained in elements of basic alchemy to assist in the research of supernatural objects and phenomena.
+
+//Anomalous alloying and metallurgy//: Alloying is not in and of itself a supernatural craft, but the inclusion of anomalous materials within alloys and metallurgic compounds can yield substances with spectacular and useful properties. The advanced chemical and parachemical processes of anomalous metallurgy are of day-to-day use to the Authority, and are employed in a huge range of Authority R&D [[[http://rpcauthority.wikidot.com/protectorate| projects]]]. The use of anomalous metallurgy to shape and form metals in physically impossible ways have yielded [[[http://rpcauthority.wikidot.com/biomechanical-module| devices and machinery]]] of incredible sophistication.
+
+//Apothecary admixture//: A close cousin to herbology, admixture involves the combination of inorganic substances to produce remedies, cures and stimulants. Admixture is very poorly understood, as many of its most effective products are clearly totally opposed to even the most basic of medical logic. There also appears to be a theogonic component involved, as belief in the effectiveness of an apothecaric treatment can produce results of massively greater potency than can be explained by the placebo effect or random chance. Admixture techniques are one of the most common forms of "folk magic", usually passed down along family lines or within small groups of informal practitioners.
+
+//Atomic Purification//: Possibly the newest of the thaumaturgic crafts, the limits of atomic alchemy are still being discovered. A direct result of cross-experimentation between alchemical techniques and nuclear physics, atomic purification allows the practitioner to reverse radioisotope decay, "reconstructing" decaying isotopic material into its base form. In addition to its obvious benefits in the production of rare and unstable elements, atomic purification also has substantial health applications in the treatment and cure of radiation injuries.
+
+//Brewing//: An obscure form of classical alchemy that many classify as a subset of either admixture or herbology, brewing involves the refining and processing of chemicals and edible medicines over extremely long periods of time to produce potions whose strength is far greater than the sum of their parts. Most commonly associated with Masonic thaumaturgy, properly-prepared brews, often centuries or decades old, can instill the drinker with superhuman physical resistance and strength, sharpening the mind and encouraging the spirit.
+
+[[=]]
++++ Ritual Alchemy, Medicine, and Smithing
+[[/=]]
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/thaumaturgy/Mary.jpg|align=right|width=250px|caption=Mary the Jewess, semi-legendary 1st-century figure credited with knowing the secret to the Philosopher's Stone, but more practically inventing the double-boiler and the systematic process of distillation.]]
+
+//Ritual Alchemy//: Only invoked at the highest levels of alchemic craft, ritual alchemy integrates both appeals to higher powers and more shamanistic elements, characterized by incantations and the use of semi-mathematical runes. The processes, and indeed the beings so invoked are poorly understood by the Authority, though they are repeatable; Authority alchemists have on at least three occasions been able to reproduce the fabled "tincture of omnipotence," though subjects who consumed it inveriably perished after reciting complicated and meaningless strings of numbers. As with many forms of high-level thaumaturgy, ritual alchemy seems to require an emotional component as well, an opening or purification of the soul to recieve higher knowledge needed to complete the task.
+
+//Medicine and Smithing//: Modern medicine and metalworking are both direct descendants of traditional alchemy, but share ever-waning ties with their ancestor. That said, sufficient mysteries or gaps in knowledge exist to see these fields studied as fringe elements of thaumaturgy. The production of "true" Damascus steel and the fabled panacea are both classic examples of "lost" or "forgotten" medicine and metalwork, though an expedition by the Axton-Hornsby Exploration Society[[footnote]] AKA Department for Cultural Affairs. Focused on the acquisition or investigation of rare anomalies directly for AETs within the Research Division, usually outside of other divisions' interference.[[/footnote]] claimed to have recovered a single example of an ingestible panacea in 1925.
+~~~~
+[[/tab]]
+[[/tabview]]
+
+[[div class="content-box" style="margin: 10px 0;"]]
+[[footnoteblock]]
+[[/div]]
+

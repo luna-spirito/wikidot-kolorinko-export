@@ -1,0 +1,136 @@
+---
+title: "Sovereign's Author Page"
+tags: ["author-page"]
+page_id: "1311884678"
+site: "rpcauthority"
+slug: "sovereignauthority"
+revision: 16
+revision_id: "1517094316"
+author: 4870061
+timestamp: 1704085123
+---
+
+[[include component:rate]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+
+:root {
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'Research, Protection, Containment';
+--header-icon: url("https://rpcsandbox.wdfiles.com/local--files/axietheaxolotl-page/PROGRESSRPCBLACK.svg") !important;
+}
+[[/module]]
+
+[[div style="background-color: #191b1d; border: solid 0.5px black; padding: 0px 1em;"]]
+
+[[=]]
++ **A MESSAGE FROM THE AUTHOR**
+------
+[[module ListUsers users="."]]
+Welcome, %%title%%, to my RPC author page.
+[[/module]]
+[[/=]]
+
+[[include component:image-block name= GDSovereign.png|width=200px|caption= Profile by [[*user TTPY]]]]
+
+Greetings! I am [[*user SovereignAuthority]], formerly known as RealAmerican. Initially, I was an SCP writer before I left to join the RPC community on February 3, 2020. This page contains an index of my articles and sandbox pages.
+
+Although I enjoyed writing for the SCP community, I was searching for an alternative containment fiction project which was more dedicated to classic horror themes and the exploration of in-universe geopolitics. I discovered the RPC Authority after coming across a YouTube video on the site by Dr. Cimmerian, and so I joined soon afterwards and slowly ported my old articles to here.
+
+Ever since joining the RPC Authority, I have had a blast contributing to the growth of the site and the expansion of the canon. Thank you to everyone who has read and rated my articles, and to the talented individuals who have created fanart inspired by my anomalies!
+
+I fully welcome and support people of all gender identities and ethnic backgrounds participating in this community. I hope as time goes on, RPC finally sheds those reactionary elements of its founding like SCP did and move forward to a brighter future. Hate has absolutely no place in containment fiction, and nobody should remain silent about this issue.
+[[/div]]
+
+[[=]]
++ **Articles**
+[[/=]]
+
+[[module ListPages created_by="SovereignAuthority" perPage="250" separate="no" tags="rpc" order="title" prependLine="||~ Registered Phenomena Code ||~ Reviews ||~ Creation Date||"]]
+|| %%title_linked%% || %%rating%% || %%created_at%% ||
+[[/module]]
+
+[[=]]
++ **Tales**
+[[/=]]
+
+[[module ListPages created_by="SovereignAuthority" perPage="250" separate="no" tags="tale" order="title" prependLine="||~ Tale Title ||~ Reviews ||~ Creation Date||"]]
+|| %%title_linked%% || %%rating%% || %%created_at%% ||
+[[/module]]
+
+[[=]]
++ **Documents**
+[[/=]]
+
+[[module ListPages created_by="SovereignAuthority" perPage="250" separate="no" tags="-tale, -rpc, -author-page, -lore, -canon, -personnel" order="title" prependLine="||~ Document Label ||~ Reviews ||~ Creation Date||"]]
+|| %%title_linked%% || %%rating%% || %%created_at%% ||
+[[/module]]
+
+[[=]]
++ **Extra Pages**
+[[/=]]
+
+||~ Name||~ Description||
+|| [[[GD-OCEA]]] || GD-OCEACOM Contest Submission ||
+|| [[[http://rpcsandbox.wikidot.com/SovereignAuthority|SovereignAuthority]]] || Active Sandbox Page ||
+|| [[[http://rpcsandbox.wikidot.com/SOVEREIGN-GD-CMDR-PROPOSAL|SOVEREIGN-GD-CMDR-PROPOSAL]]] || GD-CMDR Contest Page Entry ||
+|| [[[http://rpcauthority.wikidot.com/contest:mythsmagiccontestsovereignauthority|Vicarius Leti: The Lich Pope]]] || Myths and Magic Contest Submission ||
+|| [[[Vatican Primacy Format]]] || Vatican Primacy AoI Format Page ||
+------
+[[=]]
++ **Favorite Articles**
+[[/=]]
+
+||~ Article Designation  ||~ Description||
+|| [[[RPC-359]]] || Best RPC article by [[*user TheGreatTarbolin69]] ||
+|| [[[The Fall]]] || Best RPC tale by [[*user Fortunae]] & [[*user Almarduk]] ||
+|| [[[RPC-987]]] || Gothic Horror RPC article by Moenennbys ||
+|| [[[RPC-296]]] || Scariest RPC article by [[*user Yoknapatawpha]] ||
+|| [[[RPC-387]]] || Fantasy Horror RPC article by [[*user moist bread]] ||
+
+[[=]]
++ **Favorite Submissions**
+[[/=]]
+
+||~ Article Designation  ||~ Description||
+|| [[[RPC-435]]] || Best RPC submission for [[[New Frontier|New Frontier Event]]] by [[*user bXluYW1lamVmZg]] ||
+|| [[[The Roar of War]]] || Best RPC submission for [[[Myths and Magic Contest]]] by [[*user Doctor Lupin]] ||
+|| [[[RPC-647]]] || Best RPC submission for [[[Budget Cuts|Budget Cuts Event]]] by [[*user Almarduk]] ||
+|| [[[http://rpcauthority.wikidot.com/contest:misfortunecontestlogangreenjeans|The Endless Allegiance]]] || Best RPC submission for [[[Misfortune2020 Contest|Misfortune Contest]]] by [[*user Logangreenjeans]] ||
+|| [[[RPC-931]]] || Best RPC submission for [[[Cair Aisling Event]]] by [[*user KaiserXI]] ||
+|| [[[The Maw]]] || Best Tale submission for [[[Sub Vesuvia Event]]] by [[*user Prototype_Toaster]] ||
+|| [[[Caligula]]] || Best Tale submission for [[[Below Zero Event]]] by [[*user SticksNTricks]] ||
+
+[[=]]
++ **Recommended Articles**
+[[/=]]
+
+||~ Article Designation  ||~ Description||
+|| [[[RPC-200]]] || Mathematic Horror RPC article by [[*user Almarduk]] ||
+|| [[[RPC-227]]] || Supernatural Horror RPC article by [[*user Doctor Lupin]] ||
+|| [[[RPC-455]]] || Gothic Horror RPC article by [[*user Ion_12]] ||
+|| [[[RPC-947]]] || Financial Horror RPC article by [[*user Almarduk]] & [[*user ieatcrepes]] ||
+|| [[[Site-286]]] || Cool Authority Site article by  [[*user 8ismo]] ||
+------
+[[=]]
++ **Award Information**
+[[/=]]
+
+[[div style="background-color: #1d2022; border: solid 1px black; padding: 5px;"]]
+* Winner of Critic's Corner: July 06, 2020 | July 19, 2021 | November 11, 2021
+* Dual-Winner of Critic's Corner: August 17, 2020 with [[*user TTPY]]
+* Winner of OCEACOM Regional Global Director Contest: January 17, 2021
+* Winner of [[[Myths and Magic Contest]]]: First Place - July 08, 2021
+[[/div]]
+@@@@
+
+[[div style="background-color: #1d2022; border: solid 1px black; padding: 15px 20px; text-align: center"]]
+[[collapsible show="[+] Contingency Protocols" hide="[-] Close"]]
+
+[[<]]
+In the event I **quit/retire/am unable to be contacted for 3-6+ months** by any member of the RPC community, all of my articles and created content will be free for use. Site administrators may restore any deleted media if it is deemed important to the site canon by a community vote.
+[[/<]]
+[[/div]]
+[[/collapsible]]
+
