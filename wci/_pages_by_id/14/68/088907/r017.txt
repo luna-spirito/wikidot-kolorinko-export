@@ -1,0 +1,48 @@
+---
+title: "Wikis List"
+tags: []
+page_id: "1468088907"
+site: "wci"
+slug: "wikis-list"
+revision: 17
+revision_id: "1542051167"
+author: 9546096
+timestamp: 1770981667
+---
+
+[[module css]]
+#page-content h2 {
+    margin-top: 1.125rem;
+    margin-bottom: 0.75rem;
+}
+table.wiki-content-table {
+    min-width: 99%;
+}
+table.wiki-content-table td {
+    background-color: #fff7e0;
+}
+.withnotes table.wiki-content-table tr th:last-of-type,
+.withnotes table.wiki-content-table tr td:last-of-type {
+    width: 33%;
+}
+[[/module]]
+
+++ Member wikis
+[[div style="overflow-x:auto; width:100%; border: 1px solid white;"]]
+||~ Site ||~ Main Language ||~ Date of entrance ||~ Sandbox ||~ Chat ||
+|| [*http://projectnexium.wikidot.com/ Nexium] || English || 28/01/2026[[footnote]]Founding wiki[[/footnote]] || [*http://projectnexium-sandbox.wikidot.com Sandbox] || [*https://discord.gg/yBq6sQpQFD Discord] ||
+|| [*http://fasa.wikidot.com/ FASA] || English || 28/01/2026[[footnote]]Founding wiki[[/footnote]] || [*http://fasa-sandbox.wikidot.com Sandbox] || [*https://discord.gg/yBq6sQpQFD Discord] ||
+|| [*http://hyroxcorp-es.wikidot.com/ Hyrox] || Spanish || 28/01/2026[[footnote]]Founding wiki[[/footnote]] || [*http://sandboxhyrox-es.wikidot.com Sandbox] || [*https://discord.gg/yBq6sQpQFD Discord] ||
+|| [*http://it-cea-wiki.wikidot.com/ CEA] || Italian || 28/01/2026 || [*http://sandbox-cea.wikidot.com Sandbox] || [*https://discord.gg/52vTjbhN4H Discord] ||
+|| [*http://laomccea.wikidot.com/ PIAM] || Spanish || 29/01/2026 || [*http://piamsandbox.wikidot.com Sandbox] || [*https://discord.com/invite/xEEt6ZPt52 Discord] ||
+|| [*http://anomalydataroom.wikidot.com/ ADR] || English || 29/01/2026 || [*http://adr-sandbox.wikidot.com Sandbox] || [*https://discord.com/invite/k8P7qbNfQS Discord] ||
+|| [*http://nesa-wiki.wikidot.com NESA] || English || 30/01/2026 || [*http://nexussandbox.wikidot.com Sandbox] ||= -- ||
+|| [*http://timeless-places.wikidot.com Timeless Places] || English || 02/02/2026 || [*http://timeless-places-sandbox.wikidot.com Sandbox] || [*https://discord.com/invite/ERAqUH6hWk Discord] ||
+|| [*http://harp-wiki.wikidot.com/ Vendera] || English || 03/02/2026 ||= -- || [*https://discord.gg/exBfNsRma Discord] ||
+|| [*https://sun.miraheze.org/wiki/Main_Page SUN] || English || 13/02/2026||= -- ||= -- ||
+[[/div]]
+
+++ Observant wikis
+||~ Site ||~ Main Language ||~ Sandbox ||~ Chat ||
+||||||||= **N/A**||
+

@@ -1,0 +1,88 @@
+---
+title: "Sidebar menu"
+tags: []
+page_id: "1459097495"
+site: "sandboxhyrox-es"
+slug: "nav:side"
+revision: 19
+revision_id: "1541128403"
+author: 9161410
+timestamp: 1766865180
+---
+
+[!--
+    Modified by Vizlox for the RPC Authority
+
+    Original sidebar code by Croquembouche from the SCP Wiki
+    http://www.wikidot.com/user:info/croquembouche
+--]
+
+[[div_ class="side-block"]]
+
+[[div_ class="menu-item"]]
+[/ Menú Principal]
+[[/div]]
+
+[[module ListUsers users="."]]
+[[div_ class="menu-item"]]
+[/system:my-sandboxes/created_by/%%name%% Mis Sandbox]
+[[/div]]
+[[/module]]
+
+[[div_ class="menu-item"]]
+[/system:recent-changes Cambios Recientes]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[/system:all-sandboxes Todas las Sandbox]
+[[/div]]
+
+------
+
+[[div_ class="heading"]]
+Sitio
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[http://hyroxcorp-es.wikidot.com/sintaxis-wikidot|Sintaxis Wikidot]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[http://rpcauthority-es.wikidot.com/writers-guide|Guía de Escritura]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[system:join|Únete a la Sandbox]]]
+[[/div]]
+
+------
+
+[[div_ class="heading"]]
+Links Externos
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[http://hyroxcorp-es.wikidot.com/|Sitio Principal]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[http://hyroxcorp-es.wikidot.com/forum/c-8080376/borradores|Foro de Borradores]]]
+[[/div]]
+
+----
+
+[[div_ class="heading"]]
+Prueba de Temas
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[a href="http://www.rpcauthority-es.wikidot.com/criticcorner"]] Este es el [[span style="color: var(--sidebar-crit-corner-color);"]]Color del rincón de críticas[[/span]] [[/a]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[a href="#" class="close-menu"]]
+[[image http://rpcsandbox.wikidot.com/local--files/nav:side/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

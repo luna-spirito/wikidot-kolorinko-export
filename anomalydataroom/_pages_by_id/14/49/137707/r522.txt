@@ -1,0 +1,538 @@
+---
+title: "theme:site"
+tags: []
+page_id: "1449137707"
+site: "anomalydataroom"
+slug: "theme:site"
+revision: 522
+revision_id: "1539815146"
+author: 4632971
+timestamp: 1763823729
+---
+
+[[code type="css"]]
+
+@import url("https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+/* --------------------------------------------- */
+/*        ADR Custom Theme         */
+/*        Built on Sigma-10             */
+/* --------------------------------------------- */
+
+#header h1 a {
+    margin-left: 10px;
+}
+
+#header h2 {
+    margin-top: 5px;
+}
+
+[[module CSS]]
+/*
+    Powered on 2023/07/27 03:02:19
+    [2023 Wikidot Theme]
+    Created by Zenion
+    CC BY-SA 3.0
+*/
+
+#login-status {
+    color: #B653FC;
+    font-size: 0.9em;
+    z-index: 30;
+}
+
+#login-status a {
+    background: transparent;
+    color: #B653FC;
+}
+
+#login-status ul a {
+    color: #65EA5A;
+    background: transparent;
+    background-color: #56376C;
+}
+
+#login-status ul a:hover {
+    color: #a1fc99;
+    font-weight: bold;
+}
+
+#search-top-box-form input[type='submit'] {
+    border: solid 1px #782EAC;
+    border-radius: 5px;
+    padding: 2px 5px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #B653FC;
+    background-color: #2a5733;
+    background-image: linear-gradient(to bottom, #122415, #2a5733, #497a52);
+    box-shadow: 0 0px 5px rgba(0, 0, 0, 0.5);
+    text-shadow: 0px 0px 10px #000;
+    cursor: pointer;
+}
+
+#search-top-box-form input[type='submit']:hover,
+#search-top-box-form input[type='submit']:focus {
+    border: solid 1px #782EAC;
+    color: #49ac03;
+    text-shadow: 0 0 10px #ffffff;
+    background-color: #d5a8cc;
+    background-image: linear-gradient(to bottom, #eddbea, #d5a8cc, #b685ad);
+    box-shadow: 0 0px 5px #ffffff;
+}
+
+div#page-title {
+    color: #770FC1;    
+}
+
+body {
+    background: #FBF8FF;
+}
+
+a {
+    color: #782EAC;
+}
+
+a:visited,
+a:focus {
+    color: #9B71B9;
+}
+
+a:hover {
+    color: #3d6f2f;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #7B42A4;
+}
+
+div#container-wrap {
+    background: url(/local--files/css:adr-1/header) top left repeat-x;
+}
+
+div#header {
+    background: url(/local--files/css:adr-1/logo3) 10px 40px no-repeat;
+    overflow: visible !important;
+}
+
+@keyframes move-logo {
+  0%   { background-position: 436px 10px; }
+  25%  { background-position: 441px 12px; }
+  50%  { background-position: 436px 15px; }
+  75%  { background-position: 431px 12px; }
+  100% { background-position: 436px 10px; }
+}
+
+div#header {
+  background-repeat: no-repeat;
+  animation: move-logo 10s ease-in-out infinite;
+}
+
+div#header h1 a span {
+    font-size: 0px;
+}
+
+div#header h1 a:before {
+    content: "Anomaly Data Room";
+    text-shadow: 0px 5px 5px #000;
+    font-family: 'Righteous', cursive;
+    color: #eee;
+    text-align: center;
+}
+
+@keyframes pulse-h1 {
+  0%, 100% {
+    transform: scale(1);
+    text-shadow: 0 5px 5px #000, 0 0 5px #fff;
+  }
+  50% {
+    transform: scale(1.1);
+    text-shadow: 0 8px 10px #000, 0 0 20px #fff;
+  }
+}
+
+div#header h1 a:before {
+  animation: pulse-h1 3s ease-in-out infinite;
+}
+
+div#header h2 span {
+    font-size: 0px;
+    padding: 4px;
+}
+
+div#header h2:after {
+    content: "The Public Anomaly Library!";
+    font-family: 'Black Ops One', cursive;
+    font-weight: bold;
+    color: #5aca0a;
+    padding: 19px 0;
+    text-shadow: 0px 0px 5px #000000;
+    white-space: pre;
+}
+
+div#side-bar div.side-block {
+    border: 1px solid;
+    box-shadow: 0 2px 6px #904DC0;
+    border-radius: 10px;
+}
+
+div#side-bar div.side-block {
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid #782EAC;
+  box-shadow: 0 0 8px rgba(120, 46, 172, 0.3);
+}
+
+div.yui-navset ul.yui-nav a:hover,
+div.yui-navset ul.yui-nav a:focus {
+    background: #CDBBED;
+}
+
+div.yui-navset ul.yui-nav .selected a,
+div.yui-navset ul.yui-nav .selected a:focus,
+div.yui-navset ul.yui-nav .selected a:hover {
+    background: #782EAC;
+}
+
+div#side-bar .menu-item a {
+    color: #782EAC;
+}
+
+div#side-bar .heading {
+    color: #588A44;
+    font-size: 0.90em;
+    font-family: 'Franklin Gothic Medium', franklin-gothic-medium;
+}
+
+div#top-bar ul li.sfhover a,
+div#top-bar ul li:hover a {
+    background: #56376C;
+    color: #65EA5A;
+    transition: color 0.4s, width 0.4s;
+}
+
+div#top-bar ul li:hover a:hover {
+    background: #421264;
+    transition: background 0.4s, color 0.4s, width 0.4s;
+}
+
+div#top-bar {
+  text-align: center;
+  float: none;
+}
+
+div#top-bar li {
+  text-align: left;
+}
+
+div#top-bar ul {
+  display: inline-block;
+  float: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (min-width: 768px) {
+
+        .close-menu {
+            display: none !important;
+        }
+
+  div#side-bar {
+      clear: none;
+      float: left;
+      position: sticky;
+  }
+
+  div#main-content {
+    margin: 0 auto 0 auto;
+    position: relative;
+    width: 808px;
+  }
+
+  div#header {
+    background-position: 438px 10px;
+  }
+
+  div#header h1 {
+    margin-left: 270px;
+    margin-top: -42px;
+    padding: 0;
+    float: left;
+    max-height: 95px;
+  }
+
+  div#header h2 {
+    margin-left: 362px;
+    margin-top: 20px;
+    padding: 0;
+    clear: left;
+    float: left;
+    font-size: 1.05em;
+    max-height: 38px;
+  }
+}
+
+div#main-content {
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+
+a.newpage {
+    color: #c6b82b;
+    text-decoration: none;
+    background: transparent;
+}
+
+#footer {
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  font-size: 0.85em;
+  color: #782EAC;
+  background: linear-gradient(to right, #fbf8ff, #e7daf9);
+  border-top: 2px solid #782EAC;
+  padding: 10px 0;
+  box-shadow: inset 0 2px 5px rgba(0,0,0,0.1);
+}
+
+div#content-wrap {
+    max-width: 100%;
+}
+
+@media (max-width: 767px) {
+
+    body, html, 
+    div#container-wrap, 
+    div#header, 
+    div#content-wrap, 
+    div#main-content,
+    div#page-title {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        box-sizing: border-box !important;
+        float: none !important;
+    }
+
+div#container-wrap {
+        margin-top: -20px !important; 
+        padding-top: 20px !important;
+        background-size: auto 220px !important; 
+        background-repeat: repeat-x !important;
+        background-position: center top !important;
+    }
+
+    div#header {
+        background-position: center top !important;
+        height: auto !important;
+        padding-bottom: 20px;
+    }
+    
+    div#header h1, div#header h2 {
+        margin: 10px 0 !important;
+        float: none !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    div#main-content {
+        padding: 10px !important;
+        width: 95% !important;
+        margin: 0 auto !important;
+    }
+    
+    #search-top-box {
+        display: none !important; 
+    }
+
+html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100vw !important;
+        overflow-x: hidden !important;
+        background-color: #FBF8FF !important;
+    }
+
+}
+
+/* BURGER MENU */
+
+.open-menu {
+    display: none;
+}
+
+@media (max-width: 767px) {
+
+    .open-menu {
+        display: block !important;
+    }
+    
+    #top-bar .open-menu a {
+        position: fixed !important; 
+        display: block !important;
+        top: 15px !important;
+        left: 15px !important;
+        z-index: 9999 !important;
+        background: #b4e0b4 !important;
+        border: 2px solid #56376C !important;
+        color: #56376C !important;
+        width: 45px !important; 
+        height: 45px !important;
+        line-height: 40px !important;
+        text-align: center !important;
+        font-size: 28px !important;
+        border-radius: 50% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        transition: all 0.1s ease !important;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.4) !important;
+    }
+
+    #top-bar .open-menu a:active {
+        background: #92c292 !important;
+        border-color: #301934 !important;
+        color: #301934 !important;
+        transform: scale(0.90) !important;
+    }
+
+    div#side-bar {
+        background-color: #56376C !important; 
+        box-shadow: 2px 0 10px rgba(0,0,0,0.5) !important;
+        z-index: 1000 !important; 
+    }
+
+    #side-bar:target {
+        left: 0 !important;
+    }
+
+    div#side-bar::before {
+        content: " " !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        background-color: rgba(0,0,0,0.7) !important;
+        backdrop-filter: blur(3px) !important;
+        z-index: -1 !important;
+        opacity: 0 !important;
+        transition: opacity 0.5s ease-in-out !important;
+        pointer-events: none !important;
+    }
+
+div#side-bar:target::before {
+        opacity: 1 !important;
+        pointer-events: auto !important;
+    }
+
+    #side-bar:target .close-menu {
+        display: block !important;
+        position: relative !important;
+        width: 100% !important;
+        height: auto !important;
+        background: transparent !important;
+        z-index: 100 !important;
+        margin-bottom: 15px;
+        pointer-events: auto !important;
+    }
+
+     .close-menu {
+        display: block !important; 
+        position: relative !important;
+        width: 100% !important;
+        margin-bottom: 15px;
+        z-index: 10;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+    }
+
+    .close-menu a {
+        display: block;
+        background: #833b96; 
+        color: #fff !important;
+        font-weight: bold;
+        text-align: center;
+        padding: 10px;
+        border-radius: 8px;
+        text-decoration: none;
+        border: 2px solid #4a1a1a;
+    }
+
+    .close-menu a:hover {
+        background: #b654c7;
+        text-decoration: none;
+    }
+
+/* SCUFFED TOP BAR */
+#top-bar {
+        display: block !important;
+        position: static !important;
+        height: auto !important;
+        width: 100% !important;
+
+        background: #56376C !important;
+        border-top: 2px solid #782EAC;
+        border-bottom: 2px solid #782EAC;
+        padding-top: 2px !important; 
+        padding-bottom: 5px !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-top: 10px !important;
+        min-height: 0 !important;
+        overflow: visible !important;
+        line-height: 0 !important;
+    }
+
+    #top-bar ul {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        float: none !important;
+        width: 100% !important;
+        margin: 0 !important; 
+        padding: 0 !important;
+    }
+
+    #top-bar li {
+        float: none !important;
+        display: inline-block !important;
+        width: auto !important;
+        margin: 2px !important;
+        position: relative !important;
+    }
+
+    #top-bar li a {
+        display: block !important;
+        padding: 8px 12px !important;
+        background: rgba(0,0,0,0.2) !important;
+        border-radius: 5px !important;
+        font-size: 12px !important;
+        white-space: nowrap !important;
+        line-height: 1.2 !important;
+    }
+
+    #top-bar ul li ul {
+        position: absolute !important;
+        left: 50% !important;
+        transform: translateX(-50%) !important;
+        width: 160px !important;
+        z-index: 200 !important;
+        background: #301934 !important;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+        line-height: normal !important;
+    }
+    
+    #top-bar ul li ul li {
+        width: 100% !important;
+        text-align: center !important;
+        margin: 0 !important;
+    }
+}
+
+[[/module]]
+
+[[/code]]
+

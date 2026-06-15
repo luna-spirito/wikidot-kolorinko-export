@@ -1,0 +1,69 @@
+---
+title: ""
+tags: []
+page_id: "1468088820"
+site: "wci"
+slug: "nav:top"
+revision: 19
+revision_id: "1543837440"
+author: 9215658
+timestamp: 1778442707
+---
+
+[[div class="top-bar"]]
+* Socials
+ * [[image https://it-cea-wiki.wdfiles.com/local--files/nav%3Atop/discord2.png link="https://discord.gg/kYf9kEyG9H" width="30px"]]
+*  |
+* Info
+ * [/about About the WCI]
+ * [/site-rules Rules]
+ * [/entry Prerequisites]
+ * [/system:join Join the site]
+ * [/meet-the-staff WCI's staff]
+* Wikis
+ * [/wiki-list Wiki members]
+ * [/wikis-database Wikis database]
+* |
+* Staff Tools
+ * [/_admin Console]
+ * [/system:members Members list]
+ * [/system:list-all-pages All pages]
+ * [/system:recent-changes Recent changes]
+ * [/nav:top Top bar]
+ * [/nav:side Side bar]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+* Socials
+ * [[image https://it-cea-wiki.wdfiles.com/local--files/nav%3Atop/discord2.png link="https://discord.gg/kYf9kEyG9H" width="30px"]]
+* |
+* Info
+ * [/about About the WCI]
+ * [/site-rules Rules]
+ * [/entry Prerequisites]
+ * [/system:join Join the site]
+ * [/meet-the-staff WCI's staff]
+* Wikis
+ * [/wiki-list Wiki members]
+ * [/wikis-database Wikis database]
+* |
+* Staff Tools
+ * [/_admin Console]
+ * [/system:members Members list]
+ * [/system:list-all-pages All pages]
+ * [/system:recent-changes Recent changes]
+ * [/nav:top Top bar]
+ * [/nav:side Side bar]
+[[/div]]
+
+[[module CSS]]
+#page-content .mobile-top-bar {
+display: none;
+}
+[[/module]]
+

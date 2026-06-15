@@ -1,0 +1,30 @@
+---
+title: "Side"
+tags: ["admin"]
+page_id: "1311587238"
+site: "harp-wiki"
+slug: "nav:side"
+revision: 27
+revision_id: "1479419519"
+author: 7460495
+timestamp: 1659230132
+---
+
++ [[[/start | Home]]]
+
+[[[/system:join | Join This Site]]] | [[[/system:members | Members]]]
+
+[[[/random:random-kad | Random KAD]]] | [[[/random:random-tale | Tale]]]
+
+[[[/forum:start | Forum]]]
+
+[[[Top rating page]]] | [[[New page]]]
+
+[[module NewPage size="20" button="New page"]]
+
+[[include component:language-bar]]
+
+[[a href="#" class="close-menu"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav%3Aside/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

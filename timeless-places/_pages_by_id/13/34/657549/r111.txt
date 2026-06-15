@@ -1,0 +1,50 @@
+---
+title: "Spaces"
+tags: ["site"]
+page_id: "1334657549"
+site: "timeless-places"
+slug: "spaces"
+revision: 111
+revision_id: "1544501435"
+author: 3437739
+timestamp: 1780851563
+---
+
+[[=]]
++++ Spaces | [[[/joke-spaces | Joke Spaces]]] >>
+[[/=]]
+~~~~
+> +++ Spaces are places you might find in the real world, in the deepest reaches of your mind, or in other alternative mediums that fit into one of Timeless Places' five categories: The Kenopsic, The Surreal, The Melancholic, The Eerie, and The Nostalgic.
+@@@@
+-----
+~~~~
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]]
++ TOP RATED  
+[[/size]] 
+-----
+[[module ListPages rating=">-1" order="rating desc" tags="+space -joke" limit="999" perPage="999"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+[[/div]]
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]] 
++ NEW PAGES
+[[/size]]
+-----
+[[module ListPages  order="creationdate asc" tags="+space -joke" limit="999" perPage="999"]]
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+[[/div]]
+~~~~
+-----
+[[div class="scroll-holder"]]
+[[size 110%]]
++ A-Z  
+[[/size]]
+-----
+[[module ListPages rating=">-1" order="title desc desc" tags="+space -joke" limit="999" perPage="999"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%## 
+[[/module]]
+[[/div]]
+

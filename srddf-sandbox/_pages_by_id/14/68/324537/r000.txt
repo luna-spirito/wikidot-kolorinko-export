@@ -1,0 +1,19 @@
+---
+title: "Page categories"
+tags: []
+page_id: "1468324537"
+site: "srddf-sandbox"
+slug: "system:list-all-categories"
+revision: 0
+revision_id: "1542785451"
+author: 9720100
+timestamp: 1773930653
+---
+
+[[module Categories]]
+----
+++ Hidden Pages
+[[module ListPages category="*" pagetype="hidden" order="fullname" separate="no"]]
+%%category%% - %%title_linked%%
+[[/module]]
+
