@@ -1,0 +1,31 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 41
+revision_id: "143616121"
+author: 4473061
+timestamp: 1534859715
+---
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[[Start|Главная]]]
+* [[[rpc list-1|Серия I]]]
+* [[[rpc list-ru|Серия RU]]]
+ _
+[[[forum:start|Форум]]]
+* [[[forum:recent-posts|Новые сообщения]]]
+ _
+[[[system:recent-changes|Свежие правки]]]
+ _
+[[[faq|FAQ]]]|[[[rules|Правила сайта]]]
+ _
+[[module ListUsers users="."]]
+[[[draft:%%name%% | Мой черновик]]]
+
+ _
+[[[system:join|Стать участником]]]
+[[/div]]
+

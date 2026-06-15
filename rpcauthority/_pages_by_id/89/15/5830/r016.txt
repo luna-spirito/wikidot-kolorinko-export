@@ -1,0 +1,28 @@
+---
+title: "Random RPC"
+tags: []
+page_id: "89155830"
+site: "rpcauthority"
+slug: "random:random-rpc"
+revision: 16
+revision_id: "1234973144"
+author: 3118961
+timestamp: 1594735621
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+}
+[[/module]]
++ Redirecting...
+[[div style="display: none;"]]
+[[module ListPages category="*" order="random" limit="1" tag="rpc, rpc-j"]]
+[[embed]]
+<iframe src="http://snippets.wdfiles.com/local--code/code:iframe-redirect#%%link%%" frameborder="0" scrolling="no" style="width: 9px; height: 9px;"></iframe>
+[[/embed]]
+[[/module]]
+[[/div]]
+

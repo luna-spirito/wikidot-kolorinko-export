@@ -1,0 +1,45 @@
+---
+title: "Random RPC"
+tags: []
+page_id: "89155830"
+site: "rpcauthority"
+slug: "random:random-rpc"
+revision: 21
+revision_id: "1234973750"
+author: 3118961
+timestamp: 1594737961
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.waitAppear {
+    animation: appear 1s linear 2s 1;
+}
+[[/module]]
+
+[[div class="waitAppear"]]
+If you can see this, try switching to http://www.rpc-wiki.net/random:random-rpc.
+[[/div]]
+
++ Redirecting...
+
+[[div style="display: none;"]]
+[[module ListPages category="*" order="random" perPage="25" limit="25" tag="rpc, rpc-j"]]
+[[include :snippets:redirect url=%%link%%]]
+[[/module]]
+[[/div]]
+

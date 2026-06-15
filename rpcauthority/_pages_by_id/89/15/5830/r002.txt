@@ -1,0 +1,26 @@
+---
+title: "Random RPC"
+tags: []
+page_id: "89155830"
+site: "rpcauthority"
+slug: "random:random-rpc"
+revision: 2
+revision_id: "544789923"
+author: 3118961
+timestamp: 1546207734
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+}
+[[/module]]
+
+[[module ListPages category="*" order="random" limit="1" tag="rpc, rpc-j"]]
+[[include :snippets:redirect url=%%link%%]]
+[[/module]]
+
++ Redirecting...
+

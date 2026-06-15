@@ -1,0 +1,32 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 49
+revision_id: "144613915"
+author: 4473061
+timestamp: 1535118808
+---
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[[Start|Главная]]]
+* [[[object list|Список объектов]]]
+ _
+[[[forum:start|Форум]]]
+* [[[forum:recent-posts|Новые сообщения]]]
+ _
+[[[system:recent-changes|Свежие правки]]]
+ _
+[[[faq|FAQ]]]|[[[rules|Правила сайта]]]
+ _
+[[module ListUsers users="."]]
+[[[draft:%%name%% | Мой черновик]]]
+[[/module]]
+ _
+[[[users | Пользователи]]]
+ _
+[[[system:join|Стать участником]]]
+[[/div]]
+
