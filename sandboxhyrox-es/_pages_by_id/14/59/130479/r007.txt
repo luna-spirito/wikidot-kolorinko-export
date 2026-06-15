@@ -1,0 +1,56 @@
+---
+title: "Inicios De Sesion"
+tags: []
+page_id: "1459130479"
+site: "sandboxhyrox-es"
+slug: "inicios-de-sesion"
+revision: 7
+revision_id: "1530016756"
+author: 9161410
+timestamp: 1746772658
+---
+
+[[module CSS]]
+@import url(http://gaybox.wdfiles.com/local--code/component:theme/1);
+[[/module]]
+
+[[module CSS]]
+.fakeprot .mailform-box .buttons{display:none;}
+.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}
+.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}
+.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}
+.mailform-box td:first-child {width: 80px;}
+[[/module]]
+[[div class="fakeprot"]]
+[[module MailForm to="aaaa (DUMMY)" button=""]]
+# name
+ * title: CORREO ELECTRÓNICO
+ * default: <INGRESA CORREO ELECTRÓNICO>
+ * type: text
+ * rules:
+  * required: true
+  * maxLength:10
+  * minLength: 100
+[[/module]]
+[[div class="passw"]]
+[[module MailForm to="aaaa (DUMMY)" button=""]]
+# affiliation
+ * title: CONTRASEÑA
+ * default: ••••••••
+ * rules:
+  * required: true
+  * maxLength:10
+  * minLength: 100
+[[/module]]
+[[/div]]
+[[/div]]
+[[collapsible show="Acceder" hide="Cerrar Sesión"]]
+[[module ListPages limit="1" category="*" order="updated_at desc"]]
+> ¡Hoy es %%updated_at|%d/%m/%Y%%!
+[[/module]]
+[[[Inicios de Sesión Bonitos]]]
+[[/collapsible]]
+

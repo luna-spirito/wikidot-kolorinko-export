@@ -1,0 +1,21 @@
+---
+title: "Image Block"
+tags: []
+page_id: "1449886645"
+site: "adr-sandbox"
+slug: "component:image-block"
+revision: 1
+revision_id: "1513774403"
+author: 4632971
+timestamp: 1694144631
+---
+
+[[include :anomalydataroom:component:image-block
+| name={$name}
+| caption={$caption}
+| width={$width}
+| link={$link}
+| align={$align}
+| alt={$alt}|alt-text={$alt-text}
+]]
+

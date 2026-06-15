@@ -1,0 +1,14 @@
+---
+title: "List Pages Prepend"
+tags: []
+page_id: "1024192650"
+site: "fasa-sandbox"
+slug: "inc:list-pages-prepend"
+revision: 0
+revision_id: "1073009793"
+author: 4293614
+timestamp: 1586041314
+---
+
+[[table]][[row]][[cell style="{$styleT}"]]//Page Name//[[/cell]][[cell style="{$styleE}"]]//Last Edited//[[/cell]][[cell style="{$styleC}"]]//Date Created//[[/cell]][[/row]][[row]][[cell style="{$styleT}"]][[size 80%]]Sort [/{$page}/order/titleAsc#A_{$anchor} ascending]/[/{$page}/order/titleDesc#A_{$anchor} descending][[/size]][[/cell]][[cell style="{$styleE}"]][[size 80%]]Sort [/{$page}/order/dateEditedDesc#A_{$anchor} newest first]/[/{$page}/order/dateEditedAsc#A_{$anchor} oldest first][[/size]][[/cell]][[cell style="{$styleC}"]][[size 80%]]Sort [/{$page}/order/dateCreatedDesc#A_{$anchor} newest first]/[/{$page}/order/dateCreatedAsc#A_{$anchor} oldest first][[/size]][[/cell]][[/row]]
+

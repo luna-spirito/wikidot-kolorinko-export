@@ -1,0 +1,31 @@
+---
+title: "Top Navigation"
+tags: []
+page_id: "1449885446"
+site: "adr-sandbox"
+slug: "nav:top"
+revision: 5
+revision_id: "1539847853"
+author: 4632971
+timestamp: 1763898153
+---
+
+* [[span class="open-menu"]] [#side-bar ≡] [[/span]]
+[[ul class="nav navbar-nav"]]
+[[li]][[a href="/join-site"]]Join the Site!!!!!![[/a]][[/li]]
+
+
+[[/ul]]
+
+
+[!-- DO NOT REMOVE THE BELOW --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: none; }
+[[/module]]
+
+[[div style="display : none;"]]
+[[module ListUsers users="."]]
+[[include admincss:%%name%%]]
+[[/module]]
+[[/div]]
+

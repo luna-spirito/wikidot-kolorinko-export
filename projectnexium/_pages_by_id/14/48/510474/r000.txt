@@ -1,0 +1,58 @@
+---
+title: "Example Posting"
+tags: []
+page_id: "1448510474"
+site: "projectnexium"
+slug: "blog:_example"
+revision: 0
+revision_id: "1511362043"
+author: 8358201
+timestamp: 1687069155
+---
+
+##gray|[[date 1246972174 format="%e %B %Y, %H:%M"]]##
+Tags This will disappear when you make your first blog post
+
+[[div style="overflow: hidden"]]
+[[div style="overflow: hidden; float: left; clear: left"]]
+[[module PreviousPage by="date"]]
+**Previous: %%linked_title%%**
+[[/module]]
+[[/div]]
+[[div style="overflow: hidden; float: right"]]
+[[module NextPage by="date"]]
+**Next: %%linked_title%%**
+[[/module]]
+[[/div]]
+[[/div]]
+
+**[/blog:_start Back to list of posts]**
+
+[[div style="text-align: justify;"]]
+[[f>image http://blog-template.wikidot.com/local--resized-images/blog:_example/photo.jpg/medium.jpg size="medium"]]
+
+Wikidot expert James Kanjo calls it "//an extremely powerful Web 2.0 engine. With its powers, it is easy to create sleek and uniform websites; for business, for education and for personal use. It is also powerful enough to create web applications; this blog, for example.//"
+
+**Welcome to your new blog project.**  This site runs on Wikidot.com, one of the world's largest wiki farms.  But Wikidot.com is more than just a wiki, as you'll discover.  Wikidot.com is a community of free and professional websites, each doing something special.  You'll find it familiar in some ways, but more flexible than anything you're used to.  Whatever your web project, and especially for community-style projects, Wikidot helps you make it faster and better.
+
+Here is a tutorial by James and others on [http://community.wikidot.com/howto:create-a-fully-functional-blog how to create a fully functional blog].  This site uses many of the techniques described in that tutorial.  You might want to bookmark that link and come back to it later.
+
+We suggest you now:
+
+# Try every option on the top menu.
+# Change your blog's title in the //Admin// //Manage Site// General settings.
+# [[button edit text="Edit this page"]] and read the hidden instructions.
+# [/about/edit/true Edit the About page] and [/contact/edit/true the Contact page].
+# Delete this example blog posting (at bottom of page: +options, delete), and make your own.
+# Start blogging!
+
+You can tag your Blog posts - this helps your readers find back interesting stories.  Use tags in any way you like.
+
+And as usual, if you need help with anything, ask the [http://community.wikidot.com Wikidot community]!
+[[/div]]
+
+[[# comments]]
+++ Comments: 0
+[[module Comments title="" order="reverse"]]
+----
+

@@ -1,0 +1,14 @@
+---
+title: "Redirect"
+tags: []
+page_id: "1308479515"
+site: "sandbox-cea"
+slug: "inc:redirect"
+revision: 0
+revision_id: "1362054707"
+author: 2954516
+timestamp: 1617623129
+---
+
+[[module Redirect destination="{$link}"]]
+

@@ -1,0 +1,39 @@
+---
+title: "Theme"
+tags: []
+page_id: "57678420"
+site: "scp-sandbox-3"
+slug: "component:theme"
+revision: 30
+revision_id: "1526025486"
+author: 4598089
+timestamp: 1732876491
+---
+
+See [https://scpwiki.com/theme:sigma Sigma-10] for information on this theme. The below code mirrors whatever is present there.
+
+----
+
+[[code type="css"]]
+/* Copy styling from SCP-EN Sigma-10 */
+@import url('https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css');
+
+/* Adjust header and background image */
+#header {
+    background-image: url('https://scp-sandbox-3.wdfiles.com/local--files/component%3Atheme/header-logo-sandbox.svg');
+}
+
+div#container-wrap {
+    background-image: url('https://scp-sandbox-3.wikidot.com/local--files/component%3Atheme/body_bg.svg');
+}
+
+/*
+ * Disable the "save draft" feature, due to security and usability issues.
+ * See https://scp-sandbox-3.wikidot.com/no-drafts
+ */
+#edit-save-draft-button,
+.button-cancel-and-leave-draft {
+    display: none;
+}
+[[/code]]
+

@@ -1,0 +1,24 @@
+---
+title: ""
+tags: []
+page_id: "1459773252"
+site: "srddf"
+slug: "system:page-tags"
+revision: 0
+revision_id: "1530428554"
+author: 9720100
+timestamp: 1749399198
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+
+[!--
+
+You can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module 
+But if you want to keep the tag functionality working - do not remove these modules.
+
+--]
+

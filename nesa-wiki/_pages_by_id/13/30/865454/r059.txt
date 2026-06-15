@@ -1,0 +1,164 @@
+---
+title: "Top Navigation"
+tags: []
+page_id: "1330865454"
+site: "nesa-wiki"
+slug: "nav:top"
+revision: 59
+revision_id: "1518698746"
+author: 8285008
+timestamp: 1709280788
+---
+
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[include :scp-wiki:component:centered-header-bhl]]
+[[include :scp-wiki:component:interwiki-style
+| priority=0
+| theme=https://scp-wiki.wdfiles.com/local--code/component%3Atheme/1
+]]
+
+[[include :scp-wiki:component:interwiki-style
+| priority=1
+| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.css
+]]
+
+[[include :scp-wiki:component:interwiki-style
+| priority=2
+| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css
+]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+:root {
+    --logo-image: url("http://scp-sandbox-3.wikidot.com/local--files/nesa-theme/1708668631716.png");
+    --header-title: "NESA";
+    --header-subtitle: "Nexus Exploratory Space Administration";
+    --header-font: 'Orbitron', serif;
+    --title-font: 'Orbitron', serif;
+    --body-font: 'Talex', sans-serif;
+    --bright-accent: 0, 0, 0;
+    --medium-accent: 0, 0, 0;
+    --dark-accent: 0, 0, 0;
+
+    --link-color: var(--medium-accent);
+}
+
+#extra-div-1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+}
+
+[[/module]]
+
+[[div class="top-bar"]]
+
+[[ul class="nav navbar-nav"]]
+[[li]][[a href="http://nesa-wiki.wikidot.com/"]]Home[[span class="fa fa-info-circle"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="http://nesa-wiki.wikidot.com/system:list-all-pages"]]All Pages[[span class="fa fa-code"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="*http://nexussandbox.wikidot.com/"]]Nexus Sandbox[[span class="fa fa-user"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="/help:_home"]]User Guide [[span class="fa fa-exclamation-circle"]]@< >@[[/span]][[/a]][[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]For Newcomers[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="http://nesa-wiki.wikidot.com/introduction-to-nesa"]]Introduction to NESA[[/a]][[/li]]
+  [[li]][[a href="/help:first-time-user"]]Rules of the site[[/a]][[/li]]
+  [[li]][[a href="/help:quick-reference"]]Greenlighting process[[/a]][[/li]]
+  [[li]][[a href="/help:creating-pages"]]Staff members[[/a]][[/li]]
+  [[li]][[a href="/help:editing-pages"]]Forums[[/a]][[/li]]
+  [[li]][[a href="/help:navigation-bars"]]Navigation Bars[[/a]][[/li]]
+  [[li]][[a href="/help:using-modules"]]Using Modules[[/a]][[/li]]
+  [[li]][[a href="/help:templates"]]Templates[[/a]][[/li]]
+  [[li]][[a href="/help:css-themes"]]CSS Themes[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li]][[a href="/main:contact"]]Contact [[span class="fa fa-envelope"]]@< >@[[/span]][[/a]][[/li]]
+[[li class="dropdown admins-only"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]#[[span class="fa fa-cog"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/_admin"]]Site Manager[[/a]][[/li]]
+  [[li]][[a href="/nav:top"]]Edit Top Bar[[/a]][[/li]]
+  [[li]][[a href="/nav:side"]]Edit Side Bar[[/a]][[/li]]
+  [[li]][[a href="/help:_home"]]User Guide[[/a]][[/li]]
+  [[li]][[a href="/help:first-time-user"]]First Time User[[/a]][[/li]]
+  [[li]][[a href="/help:quick-reference"]]Quick Reference[[/a]][[/li]]
+  [[li]][[a href="/help:creating-pages"]]Creating Pages[[/a]][[/li]]
+  [[li]][[a href="/help:editing-pages"]]Editing Pages[[/a]][[/li]]
+  [[li]][[a href="/help:navigation-bars"]]Navigation Bars[[/a]][[/li]]
+  [[li]][[a href="/help:using-modules"]]Using Modules[[/a]][[/li]]
+  [[li]][[a href="/help:templates"]]Templates[[/a]][[/li]]
+  [[li]][[a href="/help:css-themes"]]CSS Themes[[/a]][[/li]]
+  [[li]][[a href="/css:_home"]]CSS Manager[[/a]][[/li]]
+  [[li]][[a href="/system:recent-changes"]]Recent Changes[[/a]][[/li]]
+  [[li]][[a href="/system:list-all-pages"]]List All Pages[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[/ul]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+[[ul class="nav navbar-nav"]]
+[[li]][[a href="http://nesa-wiki.wikidot.com/"]]Home[[span class="fa fa-info-circle"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="http://nesa-wiki.wikidot.com/system:list-all-pages"]]All Pages[[span class="fa fa-code"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="*http://nexussandbox.wikidot.com/"]]Nexus Sandbox[[span class="fa fa-user"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="/help:_home"]]User Guide [[span class="fa fa-exclamation-circle"]]@< >@[[/span]][[/a]][[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]For Newcomers[[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="http://nesa-wiki.wikidot.com/introduction-to-nesa"]]Introduction to NESA[[/a]][[/li]]
+  [[li]][[a href="/help:first-time-user"]]Rules of the site[[/a]][[/li]]
+  [[li]][[a href="/help:quick-reference"]]Greenlighting process[[/a]][[/li]]
+  [[li]][[a href="/help:creating-pages"]]Staff members[[/a]][[/li]]
+  [[li]][[a href="/help:editing-pages"]]Forums[[/a]][[/li]]
+  [[li]][[a href="/help:navigation-bars"]]Navigation Bars[[/a]][[/li]]
+  [[li]][[a href="/help:using-modules"]]Using Modules[[/a]][[/li]]
+  [[li]][[a href="/help:templates"]]Templates[[/a]][[/li]]
+  [[li]][[a href="/help:css-themes"]]CSS Themes[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li]][[a href="/main:contact"]]Contact [[span class="fa fa-envelope"]]@< >@[[/span]][[/a]][[/li]]
+[[li class="dropdown admins-only"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]#[[span class="fa fa-cog"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/_admin"]]Site Manager[[/a]][[/li]]
+  [[li]][[a href="/nav:top"]]Edit Top Bar[[/a]][[/li]]
+  [[li]][[a href="/nav:side"]]Edit Side Bar[[/a]][[/li]]
+  [[li]][[a href="/help:_home"]]User Guide[[/a]][[/li]]
+  [[li]][[a href="/help:first-time-user"]]First Time User[[/a]][[/li]]
+  [[li]][[a href="/help:quick-reference"]]Quick Reference[[/a]][[/li]]
+  [[li]][[a href="/help:creating-pages"]]Creating Pages[[/a]][[/li]]
+  [[li]][[a href="/help:editing-pages"]]Editing Pages[[/a]][[/li]]
+  [[li]][[a href="/help:navigation-bars"]]Navigation Bars[[/a]][[/li]]
+  [[li]][[a href="/help:using-modules"]]Using Modules[[/a]][[/li]]
+  [[li]][[a href="/help:templates"]]Templates[[/a]][[/li]]
+  [[li]][[a href="/help:css-themes"]]CSS Themes[[/a]][[/li]]
+  [[li]][[a href="/css:_home"]]CSS Manager[[/a]][[/li]]
+  [[li]][[a href="/system:recent-changes"]]Recent Changes[[/a]][[/li]]
+  [[li]][[a href="/system:list-all-pages"]]List All Pages[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[/ul]]
+[[/div]]
+
+[!-- DO NOT REMOVE THE BELOW --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: none; }
+[[/module]]
+
+[[div style="display : none;"]]
+[[module ListUsers users="."]]
+[[include admincss:%%name%%]]
+[[/module]]
+[[/div]]
+

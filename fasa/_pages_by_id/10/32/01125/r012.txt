@@ -1,0 +1,109 @@
+---
+title: ""
+tags: []
+page_id: "103201125"
+site: "fasa"
+slug: "deleted:site-generation"
+revision: 12
+revision_id: "1073080329"
+author: 6295671
+timestamp: 1586249689
+---
+
+[[module CSS]]
+@import url(/component:darkheader/code/1);
+[[/module]]
+
+[[html]]
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title></title>
+    	<link rel="stylesheet" href="http://rpcsandbox.wdfiles.com/local--files/ideas/blink.css">
+    </head>
+    <body onload="displayText()">
+            <style>
+@import url('http://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css');
+
+.terminal {font-family: Hack, monospace; font-size: 14px; padding: 2%; color: #5192e1; background-color: black; border: 3px solid #141414; border-radius: 3px; line-height: 24px;}
+
+.terminal hr {border: 1px solid #121212;}
+
+.options {font-family: Hack, monospace; font-size: 16px; padding: 2%; margin: 2% 5% 0 5%; color: #5192e1; background-color: black; border: 0;}
+
+#button {
+    display: block;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    width: 40%;
+    text-decoration: none;
+    font-family: Hack, monospace;
+    font-size: 18px;
+    color: #5192e1;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    margin-bottom: 1%;
+    transition: all 0.25s ease;
+    transform: scale(1);
+    background-color: black;
+}
+
+#button:hover {
+    cursor: pointer;
+}
+
+                </style>
+    	<hr>
+    	<div class="terminal">
+    	<span>FASA [DATABASE]<br><br>A:\main\.dat\generator2\></span><span id="typing1"></span>
+    	<span id="site"></span>
+    	<span class="blink">█</span>
+    	<hr>
+        <button id="button" onclick="generateList()"> Generate Site </button>
+    	</div>
+    	<hr>
+        <br>
+        <p style="text-align: center; font-family: verdana,arial,helvetica,sans-serif; font-size: 0.82em;">
+             <a style="color: #5192e1; text-decoration: none;" href="http://aepassociation.wikidot.com/generation" target="_blank"></a>
+        </p>
+    	<script>
+    	var month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+        var century = ["18", "19"];
+        var decade = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+        var year = decade;
+        var siteNumA = year;
+        var siteNumB = siteNumA;
+        var siteNumC = siteNumB;
+        var sitePos = ["Northern", "Northeastern", "Eastern", "Southeastern", "Southern", "Southwestern", "Western", "Northwestern", "Central"];
+        var region = ["North America", "Central America", "South America", "Caribbean", "Scandinavia", "Europe", "Russia", "Asia", "Middle East", "Africa", "Oceania"];
+        var siteOcc = ["Analysis", "Development", "DA Containment", "Administration", "Medical", "Inmate-Class Holding", "A.E.T. Operations", "Manufacturing"];
+
+// ---------------------------------------------------
+
+function generateList() {
+      document.getElementById('site').innerHTML = '<hr><br><strong>Designation: </strong>Site-' + siteNumA[Math.floor(Math.random()*siteNumA.length)] + siteNumB[Math.floor(Math.random()*siteNumB.length)] + siteNumC[Math.floor(Math.random()*siteNumC.length)] + '. <br><strong>Founded: </strong>' + month[Math.floor(Math.random()*month.length)] + ' ' + century[Math.floor(Math.random()*century.length)] + decade[Math.floor(Math.random()*decade.length)] + year[Math.floor(Math.random()*year.length)] + '. <br><br><strong>Location: </strong>' + sitePos[Math.floor(Math.random()*sitePos.length)] + ' ' + region[Math.floor(Math.random()*region.length)] + '. <br><br><hr><br><strong>Total Area: </strong>' + Math.round(Math.random() * 200 + 1) + ' km<sup>2</sup>.<br><br><strong>Primary Occupation: </strong>' + siteOcc[Math.floor(Math.random()*siteOcc.length)] + '. <br>';
+};
+    	</script>
+    	<script>
+    	var i = 0;
+        var txt = ' run site-generator.bat -t -w '
+
+        function displayText() {
+            if (i < txt.length) {
+                var speed = Math.floor(Math.random()*20) + 90;
+                document.getElementById("typing1").innerHTML += txt.charAt(i);
+                i++;
+                setTimeout(displayText, speed);
+            } else if (i === txt.length) {
+                document.getElementById("typing1").innerHTML += "<br><br>";
+                i++;
+            }
+        }
+        </script>
+    </body>
+</html>
+[[/html]]
+
