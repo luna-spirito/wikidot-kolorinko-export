@@ -1,0 +1,15 @@
+---
+title: "The Sandbox"
+tags: []
+page_id: "1449885464"
+site: "adr-sandbox"
+slug: "home:home"
+revision: 13
+revision_id: "1514056620"
+author: 4632971
+timestamp: 1695132502
+---
+
+header: "[[=]]\n++ Welcome fellow writer!\n[[/=]]\n----\nThis site can be used for writing drafts, practicing formatting, testing stuff out, and basically anything else.\n@@@@"
+content: "* **Make sure you read the [[[http://anomalydataroom.wikidot.com/main:writing-guide|Writing Guide]]] on the main site**\n\n* **All main [[[http://anomalydataroom.wikidot.com/main:rules|site rules]]] apply to this site as well.**\n\n* **Pages that are empty, have little text, are created by accident, break any rules, etc. will be deleted because yes.**\n\n* **Anyone can create as many pages as they want after they [[[join-site|Join the Site!!!!!!]]]**\n\n* **Only the page creator can edit their page. Which means you can rest assured no-one will vandalize your beautiful drafts**\n\n* **Rating modules are disabled on this site.**\n\n* **Make sure you remember your page name so that you don't lose it.**\n\n* **Please don't upload too many files to your page as it can make the site incredibly slow.**\n\n* **Please make sure to have fun :)**\n\n[[div style=\"display: block ; border : dashed 1px #444444 ; background :#F5F5F5 ; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px\"]]\n\n[[=]]\n++++ To create a page, simply write your page name below and hit \"Create page\"\n[[/=]]\n[[module NewPage]]\n\n[[/div]]\n----\n**If you want to have multiple drafts on one page you can do so by using tabs.**\n\nHere's the code:\n\n[[code]]\n[[tabview]]\n[[tab Title 1]]\nThis is your 1st draft.\n[[/tab]]\n[[tab Title 2]]\nAnd this is your 2nd draft. WOW!\n[[/tab]]\n[[/tabview]]\n[[/code]]\n\nUsing this should give the following result:\n\n[[tabview]]\n[[tab Title 1]]\nThis is your 1st draft.\n[[/tab]]\n[[tab Title 2]]\nAnd this is your 2nd draft. WOW!\n[[/tab]]\n[[/tabview]]"
+

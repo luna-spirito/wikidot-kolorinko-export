@@ -1,0 +1,44 @@
+---
+title: "Sidebar menu"
+tags: []
+page_id: "106208486"
+site: "fasa-sandbox"
+slug: "nav:side"
+revision: 24
+revision_id: "1520412581"
+author: 8285008
+timestamp: 1716363160
+---
+
+[[div class="side-block media" style="padding: 10px 0;"]]
+[[=]]
+[[size 135%]]##8E4545|**Site**:## [[/size]]
+[[/=]]
+[[div style="background-color:#F6FCFF; border: solid 1px #263562; color: #F6FCFF; margin: 6px auto 0; text-align: left; box-shadow: 1 2px 6px rgba(0,0,0,.5); padding: 0 10px;"]]
+[[div class="menu-item"]]
+[[[http://fasa.wikidot.com/da-formatting-guide|✪ DA Format]]]
+[[[http://fasa.wikidot.com/writing-guide|✪ Writer's Guide]]]
+[[[system:join|✪ Join the Sandbox]]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="side-block resources"]]
+[[=]]
+[[size 135%]]##8E4545|**External Links**:## [[/size]]
+[[/=]]
+[[div style="background-color:#F6FCFF; border: solid 1px #263562; color: #F6FCFF; margin: 6px auto 0; text-align: left; box-shadow: 1 2px 6px rgba(0,0,0,.5); padding: 0 10px;"]]
+[[div class="menu-item"]]
+[[[http://www.fasa.wikidot.com/start|✪ FASA Main]]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[a href="##" class="close-menu"]]
+[[image https://scp-wiki.wdfiles.com/local--files/nav:side/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+
+[[module CSS]]
+iframe.scpnet-interwiki-frame { height: 0; }
+[[/module]]
+

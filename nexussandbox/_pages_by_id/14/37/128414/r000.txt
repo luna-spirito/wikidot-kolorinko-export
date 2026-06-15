@@ -1,0 +1,55 @@
+---
+title: "Top Navigation"
+tags: []
+page_id: "1437128414"
+site: "nexussandbox"
+slug: "nav:top"
+revision: 0
+revision_id: "1497363023"
+author: 6602770
+timestamp: 1668313017
+---
+
+[[ul class="nav navbar-nav"]]
+[[li]][[a href="/main:about"]]About [[span class="fa fa-info-circle"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="/main:layout"]]Layout [[span class="fa fa-code"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="/system:join"]]Membership [[span class="fa fa-user"]]@< >@[[/span]][[/a]][[/li]]
+[[li]][[a href="/help:_home"]]User Guide [[span class="fa fa-exclamation-circle"]]@< >@[[/span]][[/a]][[/li]]
+[[li class="dropdown"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]]Help Docs [[span class="fa fa-question-circle"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/help:_home"]]User Guide[[/a]][[/li]]
+  [[li]][[a href="/help:first-time-user"]]First Time User[[/a]][[/li]]
+  [[li]][[a href="/help:quick-reference"]]Quick Reference[[/a]][[/li]]
+  [[li]][[a href="/help:creating-pages"]]Creating Pages[[/a]][[/li]]
+  [[li]][[a href="/help:editing-pages"]]Editing Pages[[/a]][[/li]]
+  [[li]][[a href="/help:navigation-bars"]]Navigation Bars[[/a]][[/li]]
+  [[li]][[a href="/help:using-modules"]]Using Modules[[/a]][[/li]]
+  [[li]][[a href="/help:templates"]]Templates[[/a]][[/li]]
+  [[li]][[a href="/help:css-themes"]]CSS Themes[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[li]][[a href="/main:contact"]]Contact [[span class="fa fa-envelope"]]@< >@[[/span]][[/a]][[/li]]
+[[li class="dropdown admins-only"]]
+[[a href="#" class="dropdown-toggle" data-toggle="dropdown"]][[span class="fa fa-cog"]]@< >@[[/span]][[/a]][[ul class="dropdown-menu"]]
+  [[li]][[a href="/_admin"]]Site Manager[[/a]][[/li]]
+  [[li]][[a href="/nav:top"]]Edit Top Bar[[/a]][[/li]]
+  [[li]][[a href="/nav:side"]]Edit Side Bar[[/a]][[/li]]
+  [[li]][[a href="/css:_home"]]CSS Manager[[/a]][[/li]]
+  [[li]][[a href="/system:recent-changes"]]Recent Changes[[/a]][[/li]]
+  [[li]][[a href="/system:list-all-pages"]]List All Pages[[/a]][[/li]]
+[[/ul]]
+[[/li]]
+[[/ul]]
+
+
+[!-- DO NOT REMOVE THE BELOW --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: none; }
+[[/module]]
+
+[[div style="display : none;"]]
+[[module ListUsers users="."]]
+[[include admincss:%%name%%]]
+[[/module]]
+[[/div]]
+

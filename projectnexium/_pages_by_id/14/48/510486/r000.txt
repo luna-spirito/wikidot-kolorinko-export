@@ -1,0 +1,24 @@
+---
+title: ""
+tags: []
+page_id: "1448510486"
+site: "projectnexium"
+slug: "system:page-tags"
+revision: 0
+revision_id: "1511362055"
+author: 8358201
+timestamp: 1687069155
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+
+[!--
+
+You can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module 
+But if you want to keep the tag functionality working - do not remove these modules.
+
+--]
+

@@ -1,0 +1,39 @@
+---
+title: "Image Block"
+tags: ["component"]
+page_id: "1331228534"
+site: "harp-wiki"
+slug: "component:image-block"
+revision: 3
+revision_id: "1388091783"
+author: 7460495
+timestamp: 1641523235
+---
+
+[[module CSS]]
+.image-block {
+border-bottom: 2px solid #000; border-top: 2px solid #000; border-left: 2px solid #000; border-right: 2px solid #000; background: #fff;
+  }
+}
+[[/module]]
+
+[[module CSS]]
+.caption-block {
+border-top: 2px solid #000; border-bottom: 1px solid #9C2525; border-left: 1px solid #9C2525; border-right: 1px solid #9C2525; background: #9C2525; font-weight: bold; color: #000;
+  }
+}
+[[/module]]
+
+[[iftags +component]]
+[[module Rate]]
+[[/iftags]]
+
+[[div style="float:{$align}; margin:0 2em 1em 2em; width:300px; border:0;"]]
+[[div class="image-block"]]
+[[image {$image} width="{$width}"]]
+[[div class="caption-block"]]
+{$caption}
+[[/div]]
+[[/div]]
+[[/div]]
+

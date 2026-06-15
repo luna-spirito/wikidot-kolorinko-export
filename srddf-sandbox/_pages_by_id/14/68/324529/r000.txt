@@ -1,0 +1,22 @@
+---
+title: "Customize your theme"
+tags: []
+page_id: "1468324529"
+site: "srddf-sandbox"
+slug: "admin:themes"
+revision: 0
+revision_id: "1542785443"
+author: 9720100
+timestamp: 1773930653
+---
+
+[[div style="max-width:750px"]]
+[[include :modules:include:15 prepend=--] ]]
+
+[[code type="css"]]
+@import url(http://themes.wikidot.com/silent-silver/code/1);
+[[/code]]
+
+[[include :modules:include:15 append=--] ]]
+[[/div]]
+

@@ -1,0 +1,30 @@
+---
+title: "Site Members"
+tags: []
+page_id: "1437128417"
+site: "nexussandbox"
+slug: "system:members"
+revision: 0
+revision_id: "1497363026"
+author: 6602770
+timestamp: 1668313017
+---
+
+[[div class="row"]]
+[[div class="col-md-7"]]
+++ Members
+
+[[module Members]]
+
+[[/div]]
+[[div class="col-md-5"]]
+++ Moderators
+
+[[module Members group="moderators"]]
+
+++ Admins
+
+[[module Members group="admins"]]
+[[/div]]
+[[/div]]
+

@@ -1,0 +1,143 @@
+---
+title: "Recent changes"
+tags: []
+page_id: "1459097498"
+site: "sandboxhyrox-es"
+slug: "system:recent-changes"
+revision: 8
+revision_id: "1540769589"
+author: 9161410
+timestamp: 1766210430
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+.changes-list-item a {color: #2560a8 !important}
+
+.content-panel a{
+color: #4d83c9 !important;
+word-break: normal;
+}
+
+.recentListRow:nth-child(2n) {
+  background: #0002;
+}
+.recentListRow td {
+  padding: 2px;
+}
+[[/module]]
+
+[[div class="centerTabview"]]
+[[tabview]]
+[[tab Cambios Recientes]]
+[[div style="color: #4d83c9; font-weight: 550; font-size: 350%; text-align: center;"]]
+Cambios Recientes
+[[/div]]
+
+[[module SiteChanges]]
+
+[[/tab]]
+[[tab Páginas Recién Creadas]]
+[[div style="color: #4d83c9; font-weight: 550; font-size: 350%; text-align: center;"]]
+Páginas Recién Creadas
+[[/div]]
+
+[[module ListPages tags="@URL" category="@URL|*" order="created_at desc" perPage="50" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: top;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Pagina
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Fecha de Creación
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Votos
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Comentarios
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #666; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%created_at%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%rating_votes%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%comments%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+[[/tab]]
+[[tab Páginas Recién Editadas]]
+[[div style="color: #4d83c9; font-weight: 550; font-size: 350%; text-align: center;"]]
+Páginas Recién Editadas
+[[/div]]
+
+[[module ListPages order="updated_at desc" category="*" perPage="100" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: top;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Página
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Ultima Edición
+[[/cell]]
+[[cell style="padding: 0 2px;"]]
+Editado por
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #666; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%updated_at%%
+[[/cell]]
+[[cell style="text-align: left; overflow: hidden; white-space: nowrap;"]]
+%%updated_by_linked%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+

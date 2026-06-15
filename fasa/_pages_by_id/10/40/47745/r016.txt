@@ -1,0 +1,50 @@
+---
+title: ""
+tags: []
+page_id: "104047745"
+site: "fasa"
+slug: "tales"
+revision: 16
+revision_id: "1520036852"
+author: 4293614
+timestamp: 1714966666
+---
+
+[[module css]]
+#page-title {
+display: none
+}
+
+.listresize {
+font-size: 12px !important;
+line-height: 141%;
+}
+[[/module]]
+[[# top]]
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Tales
+[[/div]]
+This document is an index of all Agency Tales, sorted in alphabetical order.
+
+**Notice:** Pages created using this form will automatically be tagged as a //tale//. For non-//tale// pages, use the generic page form at the bottom of this page.
+
+[[module NewPage size="1" tags="tale" button="Create Tale"]]
+
+Once you have created your page, be sure to add "tale" to the list of tags. It will automatically be added to the list below.
+
+[[div style="text-align: center;"]]
+[[div class="content-panel standalone series"]]
++ Agency Tales
+[[module ListPages tags="tale, document" order="title" perPage="250"]]
+------
+%%title_linked%%
+%%created_at%% by [[*user %%created_by%%]]
+%%rating%% %%rating_votes%%
+[[/module]]
+------
+[[>]]
+[#top Back to Top]
+[[/>]]
+[[/div]]
+[[/div]]
+

@@ -1,0 +1,60 @@
+---
+title: "Contact"
+tags: []
+page_id: "1449137679"
+site: "anomalydataroom"
+slug: "main:contact"
+revision: 8
+revision_id: "1513186507"
+author: 4632971
+timestamp: 1692710969
+---
+
+[[=]]
+> THE FORM IS CURRENTLY NOT WORKING FOR SOME USERS SO FEEL FREE TO MESSAGE [[*user Zenion]] DIRECTLY FOLLOWING THE TEMPLATE BELOW
+[[/=]]
+
+= **Use this form in case you want to help out the wiki in any way, or if you have complaints or any questions, or anything ADR related basically:**
+
+[[module MailForm to="Zenion" title="Contact via Wikidot.com" format="csv" successPage="contact:thanks"]]
+
+# name 
+ * title: Your name
+ * type: text
+ * rules:
+  * required: true
+# username
+ * title: Wikidot username
+ * type: text
+ * rules:
+  * required: true
+# email
+ * title: Email
+ * type: text
+ * rules:
+  * required: true
+  * match: /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+$/
+# reason
+ * title: Reason for contact
+ * type: select
+ * options:
+  * help: I want to help out
+  * question: I have a question
+  * report: I want to report a problem
+  * other: Other (specify what below)
+# comment
+ * type: textarea
+ * title: Your message 
+ * rules:
+  * maxLength: 5000
+# mycaptcha
+ * title: What's 9+10?
+ * type: text
+ * hint: Please don't write "21"
+ * rules:
+  * required: true 
+  * match: /^(19)$/
+[[/module]]
+= **Please only use this if absolutely necessary**
+= [[size 60%]]//However I can allow pictures of cute dogs every now and then.//[[/size]]
+

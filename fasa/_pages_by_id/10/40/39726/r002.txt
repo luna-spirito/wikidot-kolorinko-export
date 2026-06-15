@@ -1,0 +1,80 @@
+---
+title: "Top Rated Pages This Month"
+tags: []
+page_id: "104039726"
+site: "fasa"
+slug: "top-rated-pages-this-month"
+revision: 2
+revision_id: "1067225955"
+author: 5865769
+timestamp: 1585736853
+---
+
++ Monthly Rated Pages
+
+[!-- IO Block --]
+
+[[div class="feature-block"]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Top Rated DAs This Month
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating=">10" tags="io" order="rating desc" separate="false" date="2018.08"]]
+%%title_linked%% (+%%rating%%)
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!-- Tale Block --]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+Top Rated Tales This Month
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating=">10" tags="tale" order="rating desc" separate="false" date="2018.08"]]
+%%title_linked%% (+%%rating%%)
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[!-- Other Block --]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+Other Top Rated Pages This Month
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating=">10" tags="-io,-tale,-goi" order="rating desc" separate="false" date="2018.08"]]
+%%title_linked%% (+%%rating%%)
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+~~~~
+----
+
++ Archive
+
+[[[top-rated-pages | Top Rated Pages of All-Time]]]
+

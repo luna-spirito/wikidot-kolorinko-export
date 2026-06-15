@@ -1,0 +1,80 @@
+---
+title: "_template [ES]"
+tags: ["_template"]
+page_id: "1330473080"
+site: "harp-wiki"
+slug: "es:_template"
+revision: 7
+revision_id: "1388092685"
+author: 7460495
+timestamp: 1641528139
+---
+
+[[module CSS]]
+/* Hide header text, change new text */
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+font-family: 'Aclonica', sans-serif;
+}
+ 
+#header h1 a::before {
+    content: "H.A.R.P.";
+    color: #000;
+    text-shadow: 3px 3px 5px #FFFFFF;
+}
+ 
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+    font-family: 'Aclonica', sans-serif;
+}
+#header h2 span::before {
+    content: "Humano. Anomalía. Investigación. Protección.";
+    color: #FFF;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+ 
+ #header h1 {
+     margin-right: 100px;
+     padding: 0;
+     float: right:
+     max-height: 120px;
+}
+ #header h2 {
+     margin-left: 125px;
+     padding: 0;
+     clear: left;
+     float: left;
+     font-size: 130%;
+     max-height: 38px;
+[[/module]]
+
+[[module CSS]]
+#page-title {
+ display: none;
+[[/module]]
+
++ %%title%%
+[[div class="horizontal-line"]]
+[[/div]]
+%%content%%
+
+[[iftags +es-hca]]
+[[>]]
+[[collapsible show="[Ver traductor]" hide="[Ver traductor]"]]
+**Título:** %%title%%
+**Original:** [[[%%page_name%% | Enlace]]]
+**Traductor:** %%author%%
+**Fecha:** %%created_at%%
+**Actualizar:** %%updated_at%%, %%updated_by%%
+[[/collapsible]]
+[[/>]]
+[[/iftags]]
+
+@@@@
+@@@@
+[[div class="harp-content-bar"]]
+© 2021, H.A.R.P. El tema "basado-17" para la wiki de H.A.R.P. Fue diseñado por [[*user Mr Jack456]] el **[[[http://jack-team.wikidot.com  | Equipo Jack]]]**- Todos los derechos reservados. H.A.R.P **© 2021-%%updated_at|%Y%%**.
+[[/div]]
+

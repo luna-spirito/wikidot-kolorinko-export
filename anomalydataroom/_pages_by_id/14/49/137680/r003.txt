@@ -1,0 +1,79 @@
+---
+title: "About"
+tags: []
+page_id: "1449137680"
+site: "anomalydataroom"
+slug: "main:about"
+revision: 3
+revision_id: "1513124105"
+author: 4632971
+timestamp: 1692549834
+---
+
+Heya! So, you're probably wondering, what's this whole "Anomaly Data Room" thing about?
+Well, if that's the case here's some info that might help answer your question:
+
++ General Site Info
+
+Anomaly Data Room (ADR) is a **fictitious** community-driven data bank, and my personal collection, full of weird, strange, unexplainable, mysterious, obscure, [INSERT MORE WORDS HERE] things. And, of course, a way to creatively express yourself with little to no limitations.
+The "weird things", which we call **Anomalies** can be anything from living entities to obscure concepts. Basically, anything that is considered anomalous is welcome here.
+
+At ADR, our main focus is the anomaly itself, with studying and explaining it being our main goal. We want to see how creative a writer can get with not only their concepts but their whole presentation as well.
+
+As the data room is relatively new, it's almost completely empty!
+----
+++ FAQ
+
+* **[*http://getbootstrap.com Twitter Bootstrap] is integrated** into the site's layout and design so that your site will look good regardless of the device viewed upon.
+* **The home page is designed as a cover**, giving you all the code necessary to adapt it to your own needs.
+* **Top and Side navigation bars** are provided and easily customizable
+* **All pages use categories** for stronger organization
+* **A standard [[[main:layout|HTML layout]]]** allows for consistent theme creation and theme compatibility
+* Let others discuss your site on a **[[[forum:start|public forum]]]** provided by the template
+
+Special thanks goes to the following users for their contribution to this template site:
+
+[[table class="user-table"]]
+[[row]][[cell]]
+[[image http://css.wikidot.com/local--files/admin:template-files/wikidot_avatar_128x128.png class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ The Wikidot Team
+
+[[span class="text-muted"]]For providing the platform upon which the site stands[[/span]]
+[[/cell]]
+[[/row]]
+[[row]][[cell]]
+[[image http://www.wikidot.com/avatar.php?userid=197988 class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ Timothy Foster
+
+[[span class="text-muted"]]For developing the HTML layout and CSS theme[[/span]]
+[[/cell]]
+[[/row]]
+[[row]][[cell]]
+[[image http://www.wikidot.com/avatar.php?userid=38854 class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ Ed Johnson
+
+[[span class="text-muted"]]For work concerning the Administrator Link and Bootstrap pioneer site, the [*http://bootstrap-playground.wikidot.com/ Bootstrap Playground][[/span]]
+[[/cell]]
+[[/row]]
+[[row]][[cell]]
+[[image http://d2qhngyckgiutd.cloudfront.net/default_avatar class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ Everyone Else
+
+[[span class="text-muted"]]Special thanks goes to [[user RobElliott]] and [[user Helmut_pdorf]] for their front-line support on the Community site, and to [[user James Kanjo]], [[user leiger]] and [[user tsangk]] for the development of [*http://snippets.wikidot.com snippets] integrated into this site.[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[module CSS]]
+table.user-table td img{  width: 64px; }
+table.user-table td{  padding: 10px 16px; }
+[[/module]]
+

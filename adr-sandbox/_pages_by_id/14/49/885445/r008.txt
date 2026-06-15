@@ -1,0 +1,36 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "1449885445"
+site: "adr-sandbox"
+slug: "nav:side"
+revision: 8
+revision_id: "1539847838"
+author: 4632971
+timestamp: 1763898120
+---
+
+[[div class="close-menu"]]
+[#a ✖ Close Menu]
+[[/div]]
+
+[[div class="side-block resources"]]
+
+[[=]]
+[[div_ class="menu-item"]]
+[[[home:home|Home]]]
+[[/div]]
+[[/=]]
+
+[[/div]]
+
+[[div class="side-block media"]]
+
+[[=]]
+[[div_ class="menu-item"]]
+[[[http://anomalydataroom.wikidot.com/|Main Site]]]
+[[/div]]
+[[/=]]
+
+[[/div]]
+
