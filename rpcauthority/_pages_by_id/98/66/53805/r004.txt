@@ -1,0 +1,75 @@
+---
+title: "Hazard Image Block"
+tags: ["component"]
+page_id: "986653805"
+site: "rpcauthority"
+slug: "component:hazard-image-block"
+revision: 4
+revision_id: "1367510517"
+author: 5258122
+timestamp: 1628547719
+---
+
+[!-- Modified from MrPines' hazard image block --]
+[[include component:hazard-image-block-base aggression={$aggression}|aggression=none|
+animated={$animated}|animated=none|
+aquatic={$aquatic}|aquatic=none|
+ballistic={$ballistic}|ballistic=none|
+climatological={$climatological}|climatological=none|
+ecological={$ecological}|ecological=none|
+extra-terrestrial={$extra-terrestrial}|extra-terrestrial=none|
+geological={$geological}|geological=none|
+grouped={$grouped}|grouped=none|
+incorporeal={$incorporeal}|incorporeal=none|
+mechanical={$mechanical}|mechanical=none|
+microscopic={$microscopic}|microscopic=none|
+organic={$organic}|organic=none|
+psychotronic={$psychotronic}|psychotronic=none|
+regenerative={$regenerative}|regenerative=none|
+sapient={$sapient}|sapient=none|
+replicating={$replicating}|replicating=none|
+sentient={$sentient}|sentient=none|
+titanic={$titanic}|titanic=none|
+transmutation={$transmutation}|transmutation=none|
+invisibility={$invisibility}|invisibility=none|
+bio-hazard={$bio-hazard}|bio-hazard=none|
+contact={$contact}|contact=none|
+corrosive={$corrosive}|corrosive=none|
+electric={$electric}|electric=none|
+electromagnetic-force={$electromagnetic-force}|electromagnetic-force=none|
+explosive={$explosive}|explosive=none|
+extreme-temperature={$extreme-temperature}|extreme-temperature=none|
+magnetic={$magnetic}|magnetic=none|
+radiation={$radiation}|radiation=none|
+toxic={$toxic}|toxic=none|
+destabilization={$destabilization}|destabilization=none|
+extra-dimensional={$extra-dimensional}|extra-dimensional=none|
+gravitational={$gravitational}|gravitational=none|
+immeasurable={$immeasurable}|immeasurable=none|
+newtonian={$newtonian}|newtonian=none|
+temporal={$temporal}|temporal=none|
+teleportation={$teleportation}|teleportation=none|
+tychokinetic={$tychokinetic}|tychokinetic=none|
+auditory={$auditory}|auditory=none|
+emotional={$emotional}|emotional=none|
+ideological={$ideological}|ideological=none|
+info-hazard={$info-hazard}|info-hazard=none|
+memory-alteration={$memory-alteration}|memory-alteration=none|
+mind-control={$mind-control}|mind-control=none|
+mind-regression={$mind-regression}|mind-regression=none|
+ontological={$ontological}|ontological=none|
+sensory={$sensory}|sensory=none|
+visual={$visual}|visual=none|
+divine={$divine}|divine=none|
+hallucinogen={$hallucinogen}|hallucinogen=none|
+high-velocity={$high-velocity}|high-velocity=none|
+proto-mechanical={$proto-mechanical}|proto-mechanical=none|
+proto-newtonian={$proto-newtonian}|proto-newtonian=none|
+proto-sapient={$proto-sapient}|proto-sapient=none|
+align={$align}|align=right|
+width={$width}|width=300px|
+name={$name}|
+caption={$caption}|
+link={$link}|link=#|
+hazards={$hazards}|hazards=none]]
+

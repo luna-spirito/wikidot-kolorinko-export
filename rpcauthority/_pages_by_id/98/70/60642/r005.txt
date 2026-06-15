@@ -1,0 +1,63 @@
+---
+title: "ArcOS Verison 4.9.2"
+tags: []
+page_id: "987060642"
+site: "rpcauthority"
+slug: "_000-2"
+revision: 5
+revision_id: "1085023876"
+author: 3118961
+timestamp: 1589288806
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 1px 15px;"]]
+@@@@
+@@@@
+[[=image http://rpcauthority.wdfiles.com/local--files/site-index/site-header-white.png width="60%"]]
+[[=]]
+[[size xx-large]]
+**Accessing ArcOS Verison 4.9.2**
+[[/size]]
+@@@@
+[[size x-large]]
+**Please Enter Credentials**
+[[/size]]
+----
+[[image http://www.rpc-wiki.net/local--files/_000-2/Credentials.jpg width="650px"]]
+----
+
+[[/=]]
+[[/div]]
+
+@@@@
+
+-----
+
+@@@@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="New Message Received" hide="---"]]
+[[/=]]
+
+[[span style="color:black;"]]
+[[<]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+You have accessed a prior build of RPC OS. You will not have access to current generation RPC documentation. Please contact a member of your site's IT department for assistance.
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/eskalion.png]]
+
+- Anomalous Research and Containment Bot
+[[/div]]
+[[/<]]
+[[/span]]
+[[/collapsible]]
+[[/div]]
+-----
+

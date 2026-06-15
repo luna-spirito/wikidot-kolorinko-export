@@ -1,0 +1,64 @@
+---
+title: "Kabushiki Kawaii Hub"
+tags: ["hub", "kabushiki-kawaii"]
+page_id: "986362353"
+site: "rpcauthority"
+slug: "kabushiki-kawaii-hub"
+revision: 28
+revision_id: "1524964616"
+author: 605953
+timestamp: 1727870800
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:kawaii-korps-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[tabview]]
+[[tab Main]]
+[[div class="content-panel"]]
++++ Overview
+
+Kabushiki Kawaii is an underground, black market company which specializes in humanoid anomalies. The company's main focus is the creation, training, and sales of these anomalies, selling them as servants to wealthy customers or corporations.
+
+Kabushiki Kawaii is known for its ability to create anomalous humanoids, which are primarily sold into the sex trade. These anomalous humanoids are the company's biggest export, who through a combination of genetic manipulation, brainwashing, and intimidation are often groomed to act as an individual's ideal sex slave or servant, depending on what is specified by the customer. The exact method that Kabushiki uses to create these products is unknown, but it is implied to be a mixture of biological science and anomalous technology. The reach of Kabushiki's genetic manipulation extends beyond the ability to create humanoid anomalies, but the company focuses on humanoids due to their popularity.
+
+Although the main storefronts of Kabushiki Kawaii are known to reside somewhere in Japan, the company has offices, laboratories, and testing centers scattered across the world. Assistance from anomalous items, front companies, and under-the-table dealings are commonly used to prevent discovery. Individuals stumbling across the group by mistake are often bribed into silence or become products themselves. Kabushiki Kawaii is strictly focused on maintaining a low profile, and will not actively confront the Authority- but will make every attempt to stay hidden when discovered. Authority agents who have attempted to infiltrate Kabushiki laboratories have been rumored to become victims of their experimentation, although this cannot be fully confirmed.
+
+The Authority works to apprehend any anomalies created by Kabushiki Kawaii for questioning and proper containment. Should a front company, laboratory, or testing center be identified, Authority forces are to clear the location and recover any anomalies or files found for research and containment purposes.
+[[/div]]
+
+[[div class="content-panel"]]
++++ Kabushiki Kawaii RPCs
+[[module ListPages separate="no" tags="+kabushiki-kawaii +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%% 
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="kabushiki-kawaii -rpc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+[[/tab]]
+[[tab How to Write for Kabushiki Kawaii]]
+[[div class="content-panel"]]
+When creating a KK article it is important to keep in mind that KK articles should not be pornographic, arousing, or erotic. __**Do not write articles about the exploitation or sexualization of children. It is against the site rules to create this kind of content.**__ This is a human trafficking group selling mistreated human chattel modified or created to be used for the pleasure of the customers (whether that be in an overtly sexual way, or otherwise). There is nothing "hot" about KK as a group, or the products they produce, and any article should be entirely framed around the horrors of what they're doing and the harm they're putting on their products, more than the wish fulfillment they offer their customers.
+
+KK brands itself with an air of deniability around the sexual nature of their products; while it's pretty much an unspoken understanding that what they're producing are for sexual use, their marketing does not directly focus or draw attention to this element of their business practices in overt ways. They frame themselves as producing a high class luxury item for distinguished clientele, rather than glorified brothels.
+
+KK is also incredibly discreet about their operations, striving to keep their own messes clean. Partly to maintain their image, and partly to ensure groups like the Authority view them as lower threats (perhaps even as an unspoken understanding, that they keep their own operations clean, and they benefit from being a lesser focus). If, say, a catgirl breaks her conditioning and kills a wealthy oil baron, KK will dispatch a squad not only to hunt down the escaped product, but to cover up the crime itself and keep their record clean.
+
+You do not need to lay out every detail of the anomaly in question; if it's not relevant to the story you're telling through the article, it's not going to make it more interesting. If you write unprompted about the sphincter elasticity of an anomaly, it's just going to make it worse.
+
+KK is a Western company that markets itself using "Kawaii", or cute, Japanese aesthetic as marketing.
+
+KK's employees come from a wide range of acceptance of their actions, from dejected scientists working only for the pay, to marketing staff who get by through not viewing their products as human, or even those who actively take pleasure in abusing their produce. KK tolerates all these viewpoints within reason (damaging products is, of course, treated appropriately) and remains safe in the knowledge that their generous pay and deadly repercussions for trying to speak out or act a hero are enough to keep such a broad group functioning.
+[[/div]]
+[[/tab]]
+[[/tabview]]
+

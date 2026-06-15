@@ -1,0 +1,49 @@
+---
+title: "AEP Hub"
+tags: ["aep", "hub", "non-canon"]
+page_id: "986579097"
+site: "rpcauthority"
+slug: "aep-hub"
+revision: 7
+revision_id: "1459217517"
+author: 5258122
+timestamp: 1647907604
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aep-theme-old-2/code/1);
+[[/module]]
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+The AEP is a highly secretive multinational fringe organization originating from those members of the Papal Auctoritas Impertus who rejected the secularization of that organization into the modern Authority in 1834. It is believed that the group's methods, scope, and organizational structure have changed dramatically throughout their history. The sources of the AEP's substantial funds remain unclear, as is the nature of its leadership. Despite their European religious roots, the group has become substantially more multinational and secular in nature, though it maintains a solid core of hardline conservative Christian personnel operating outside the purview of the Vatican.
+
+The AEP possesses extremely extensive intelligence-gathering networks, which likely exceed the Authority's own in reach and capacity. Though the organization actively seeks out and contains anomalies, their criteria for doing so and the purposes to which they are employed remain unclear. AEP officials have shown willingness to collaborate with other Entities of Interest, including the Authority and the UNAAC, though only for short periods of time and usually under extremely specific circumstances.
+
+The current scale and goal of the AEP remains unclear to the Authority, due to a heavily hierarchical leadership system that encourages the spread of internal disinformation in the guise of a kaballic "secret society." Different ranks and "orders" within the AEP have shown a degree of internal competitiveness that verges on internecine conflict, but in all cases any external action to suppress or infiltrate the AEP power structure have resulted in a unified and well-organized response from all branches of the organization. An obsession with the number 5 is endemic within the organization's members- whether references to "The Five" within AEP documentation are to a group of individuals, a code of values or some other esoteric concept is as yet unknown.
+[[/div]]
+
+[[div class="content-panel"]]
++++ AEP Anomalies
+[[module ListPages separate="no" tags="+aep +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+aep +goi-doc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="aep -rpc -goi-doc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

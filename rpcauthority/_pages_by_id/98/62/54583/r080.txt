@@ -1,0 +1,66 @@
+---
+title: "_rate"
+tags: []
+page_id: "986254583"
+site: "rpcauthority"
+slug: "_rate"
+revision: 80
+revision_id: "1073388839"
+author: 3118961
+timestamp: 1586806899
+---
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+
+table.rating {
+     counter-reset: line-number;
+}
+
+table.rating .counter:before {
+    content: counter(line-number) ".";
+    counter-increment: line-number;
+    padding-right: 1em;
+    color: #666;
+    font-size: 85%;
+}
+
+table.rating td.blockEnd {
+    padding-right: 1.5em;
+}
+[[/module]]
+
+[[div class="content-panel compact"]]
+[[module ListPages category="-contest" votes=">=15" tags="rpc, rpc-j" perPage="50" limit="50" order="rating desc" separate="false"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell class="blockEnd"]]
+##666|stars##
+[[/cell]]
+[[cell]]
+%%rating_votes%%
+[[/cell]]
+[[cell class="blockEnd"]]
+##666|votes##
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+

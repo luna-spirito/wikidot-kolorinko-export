@@ -1,0 +1,74 @@
+---
+title: "RPC-@@@"
+tags: []
+page_id: "987060283"
+site: "rpcauthority"
+slug: "_000-be-3"
+revision: 8
+revision_id: "1513124867"
+author: 5689914
+timestamp: 1692554439
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[include component:rate title=_000-be-3|translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/_000-be-3"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/_000-be-3"]]]]
+
+> [[span style="color:red;"]]**Registered Phenomena Code:**[[/span]] 999999999999999999999999999999999999999
+> 
+> [[span style="color:red;"]]**Object Class:**[[/span]] //Error//
+> 
+> [[span style="color:red;"]]**Hazard Types:**[[/span]] //Error//
+@@@@
+@@@@
+
+------
+[[=]]
+[[span style="color:red;"]]
++ **Containment Protocols**
+[[/span]]
+[[/=]]
+------
+= //Error//
+ 
+------
+[[=]]
+[[span style="color:red;"]]
++ **Description**
+[[/span]]
+[[/=]]
+------
+= //Error//
+
+@@@@
+-----
+
+@@@@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="New Message Received" hide="---"]]
+[[/=]]
+
+[[span style="color:black;"]]
+[[<]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[module ListUsers users="."]]
+%%title%%.
+[[/module]]
+
+= It's cold in here, Please help me...
+
+= Reestablishing connection
+
+= [[[rpc-000|Link Reestablished]]]
+
+[[/div]]
+[[/<]]
+[[/span]]
+[[/collapsible]]
+[[/div]]
+-----
+
