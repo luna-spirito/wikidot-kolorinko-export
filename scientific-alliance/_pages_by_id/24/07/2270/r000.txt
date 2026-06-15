@@ -1,0 +1,26 @@
+---
+title: "Блок классификации"
+tags: []
+page_id: "24072270"
+site: "scientific-alliance"
+slug: "class"
+revision: 0
+revision_id: "50837434"
+author: 754405
+timestamp: 1415458225
+---
+
+[[table style="margin-top: -16px"]][[row]][[cell style="text-align: right; padding-right: 5px"]]
+**Класс объекта:
+Изученность:
+Опасность:
+Содержание:
+Статус работы:**
+[[/cell]][[cell]]
+{$class}
+{$know}
+{$danger}
+{$contain}
+{$status}
+[[/cell]][[/row]][[/table]]
+

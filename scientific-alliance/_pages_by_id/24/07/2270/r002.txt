@@ -1,0 +1,57 @@
+---
+title: "Блок классификации"
+tags: []
+page_id: "24072270"
+site: "scientific-alliance"
+slug: "class"
+revision: 2
+revision_id: "94286853"
+author: 754405
+timestamp: 1514581214
+---
+
+[[module CSS]]
+.show3:hover {border: solid 1px #555; background: #F1F2E1; padding: 5px; margin: -22px 0 -6px -6px !important}
+.show4 {position: absolute; border: solid 1px #555; background: #F1F2E1; visibility: hidden; width: 540px}
+.show3:hover + .show4 {visibility: visible}
+[[/module]]
+
+[[table class="show3" style="margin-top: -16px"]][[row]][[cell style="text-align: right; padding-right: 5px"]]
+**Категория:
+Опасность:
+Изоляция:**
+[[/cell]][[cell]]
+{$1}
+{$2}
+{$3}
+[[/cell]][[/row]][[/table]]
+
+[[div class="show4" style="margin: 5px 0 0 -6px; padding: 0 10px"]]
+[[size 125%]]**Категория**[[/size]]
+
+[[image items/A.gif]] **Аргус** - метаптический, прямо взаимодействует с глубокими уровнями реальности.
+[[image items/E.gif]] **Энигма** - для полного описания хватает физики, аллаксии, меметики и аксиматики.
+[[image items/O.gif]] **Отион** - определить природу объекта для выбора категории до сих пор не удалось.
+
+[[div style="border: solid 1px #555; margin: 12px -11px 0; padding: 0 10px"]]
+[[size 125%]]**Опасность**[[/size]]
+
+0 [[span style="margin-left: 3px"]]**Минимальная** - аномалия совершенно безвредна и едва ли способна быть оружием.[[/span]]
+1 [[span style="margin-left: 3px"]]**Низкая** - при определённых условиях свойства объекта могут причинить явный вред.[[/span]]
+2 [[span style="margin-left: 3px"]]**Средняя** - подвергнуться нежелательному эффекту можно даже вдали от источника.[[/span]]
+3 [[span style="margin-left: 3px"]]**Высокая** - объект может легко вызвать локальные разрушения и гибель сотрудников.[[/span]]
+4 [[span style="margin-left: 3px"]]**Чрезвычайная** - если аномалию не сдерживать, произойдёт глобальная катастрофа.[[/span]]
+[[/div]]
+
+[[size 125%]]**Изоляция**[[/size]]
+
+4 [[span style="margin-left: 3px"]]**Полная** - абсолютно все проявления объекта ограничены областью его содержания.[[/span]]
+3 [[span style="margin-left: 3px"]]**Приемлемая** - риск побега или воздействия на внешний мир невелик, но постоянен.[[/span]]
+2 [[span style="margin-left: 3px"]]**Ограниченная** - сдерживаются только некоторые свойства или экземпляры объекта.[[/span]]
+1 [[span style="margin-left: 3px"]]**Невозможна** - ограничить аномалию не могут никакие доступные Альянсу средства.[[/span]]
+0 [[span style="margin-left: 3px"]]**Не нужна** - объект является деталью самого мира или просто достаточно безопасен.[[/span]]
+
+[[div style="border-top: solid 1px #555; margin: 12px -11px 0; padding: 0 10px"]]
+В такой системе нулевой класс изоляции не сочетают с третьим и четвёртым опасности.
+[[/div]][[/div]]
+
