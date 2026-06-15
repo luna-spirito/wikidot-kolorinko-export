@@ -1,0 +1,277 @@
+---
+title: "Broader Horizons Theme"
+tags: ["broaderhorizons2022", "theme"]
+page_id: "1331694548"
+site: "rpcauthority"
+slug: "component:broader-horizons-theme"
+revision: 22
+revision_id: "1496554410"
+author: 5258122
+timestamp: 1666235675
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:broader-horizons-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+/*
+    Broader Horizons Theme (made by Qual; requested by Administration for Official Contest Use)
+*/
+
+body {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Abroader-horizons-theme/Broader_Horizons_Bottom_Fade.png);
+    background-size: 70%;
+    background-position: bottom;
+    background-repeat: repeat-x;
+}
+
+#header h1 a::before, #header h2::before {
+    text-shadow: 0px 0px 13px #ac8f6580, 0 0 7px #ffff0017;
+    margin-left: 10px;
+}
+
+#main-content p a {
+    text-shadow: 0px 0px 5px #ac8f6580, 0 0 15px #8f0303ab;
+}
+
+#main-content p a:hover {
+    text-shadow: 0px 0px 5px #ac8f6580, 0 0 15px #8f0303ab;
+}
+
+#main-content p a.newpage {
+    text-shadow: none;
+}
+
+#page-title {
+    border-bottom: 2px solid var(--primary-text-color);
+    box-shadow: inset 0px -1px 1px #c66513, 0px 9px 14px -6px #ac8f6580;
+    text-shadow: 0px 0px 5px #ac8f6580, 0 0 7px #ffff0017;
+}
+
+#side-bar .heading {
+    text-shadow: 0px 0px 5px #ac8f6580, 0 0 7px #ffff0017;
+}
+
+#side-bar div.menu-item a:hover {
+    box-shadow: 0px 0px 5px #ac8f6580, 0 0 7px #ffff0017;
+}
+
+#side-bar hr {
+    background: linear-gradient(46deg, #c68c45, var(--primary-text-color), var(--basic-border-color));
+    width: 220px;
+    height: 1px;
+    box-shadow: 0px 0px 5px #ac8f6580, 0 0 7px #ffff0017;
+}
+
+hr {
+    Margin: 1em 0;
+    height: 2px;
+    box-shadow: 0px 0px 10px #ffff0096;
+}
+
+.open-themes-container {
+    display: none;
+}
+ 
+:root {
+
+/* General Variables Section: (Main Var., Sidebar, put Custom/Reference Variables here) */
+    --text-color: #bab5b0;
+    --primary-text-color: #ac7531;
+    --light-text-color: #e2ddd3;
+    --star-rating-hue: 183deg;
+
+    --sidebar-hover-color: var(--light-text-color);
+    --sidebar-hover-background: var(--primary-text-color);
+    --sidenote-figure-open-color: var(--primary-background);
+    --sidenote-open-background: var(--primary-text-color);
+
+/* Font Variables Section: (Categorizes Fonts used in Theme to a Few Changeable Variable) */
+
+    --header-font: 'Castoro', serif;
+    --subheader-font: 'Castoro', serif;
+    --title-font: 'Playfair Display SC', serif;
+    --body-font: helvetica;
+    --block-font: 'Asap', sans-serif;
+
+/* Background Variables Section: (Important) */
+    --body-background: #1c2231;
+    --control-content-background: #22243d;
+
+    --nav-hover-background: var(--new-page-color);
+
+    --body-background: #1c2231;
+    --control-content-background: #6167ad;
+    --nav-hover-background: var(--new-page-color);
+    --primary-background: #2e2b3e;
+    --content-bar-background: #322230;
+    --content-panel-background: #2d2b3e;
+
+    --modal-header-background: var(--primary-background);
+    --modal-body-background: var(--primary-background);
+
+    --blockquote-background: #40304a91;
+    --blockquote-border: var(--basic-border);
+    --horizontal-rule-background: linear-gradient(45deg, var(--primary-text-color), var(--basic-border-color), var(--basic-border-color), var(--basic-border-color), var(--primary-text-color));
+    --horizontal-rule-secondary-background: var(--horizontal-rule-background);
+
+/* Header Variables Section: */
+
+    --header-text-visibility: hidden;
+    --header-font-family: normal;
+    --header-custom-text: 'Broader Horizons';
+    --header-tagline-custom-text: 'Trapped Beyond the Pale';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Abroader-horizons-theme/Broader_Horizons_Icon.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Abroader-horizons-theme/Broader_Horizons_Header.png);
+
+    --header-tagline-color: #f49d42d4;
+    --header-tagline-top: 8px;
+    --header-icon-size: auto calc(10.5rem - 2.125rem);
+    --header-color: #f0813ad9;
+
+/* Link Variables Section:  */
+ 
+    --link-color: #c59050;
+    --link-hover-color: #d7b58d;
+    --new-page-color: #685732;
+
+/* Button Variables Section: */
+
+    --button-hover-color: var(--link-hover-color);
+    --button-background: #332230;
+    --button-hover-background: var(--primary-background);
+
+    --button-border: 2px solid var(--link-color);
+    --button-hover-border: 2px solid var(--link-hover-color);
+
+/* Search Bar Variables Section: (in header: top of pg.) */
+
+    --search-button-background: var(--content-bar-background);
+    --search-button-border: 2px solid var(--link-color);
+
+    --search-button-hover-background: 2px solid var(--link-hover-color);
+    --search-button-hover-border: 2px solid var(--link-hover-color);
+
+    --search-input-text: var(--page-title-color);
+    --search-input-hover-color: var(--primary-text-color);
+
+    --search-input-color: var(--content-panel-background);
+    --search-input-border: var(--search-button-border);
+
+    --search-input-hover: var(--primary-background);
+    --search-input-hover-border: var(--search-button-hover-border);
+
+/* Topbar Variables Section: */
+
+    --topbar-dropdown-color: var(--sidebar-header-color);
+    --topbar-dropdown-background: var(--primary-background);
+    --topbar-text-color: var(--sidebar-header-color);
+    --topbar-hover-background: var(--primary-text-color);
+    --topbar-hover-color: var(--light-text-color);
+    --topbar-divider: #fd5e5e;
+    --topbar-dropdown-border-color: var(--primary-text-color);
+
+/* Tabview Variables Section: (Reg., Large, Hidden...) */
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: var(--basic-border);
+    --tabview-button-selected-background: var(--primary-text-color);
+    --tabview-button-selected-color: var(--light-text-color);
+    --tabview-button-hover-background: var(--link-color);
+
+/* Side-Tabview Variable Section: */
+
+    --tabview-side-tabs-background: var(--content-panel-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--tabview-button-selected-background);
+    --tabview-side-button-divider: var(--basic-border);
+
+    --tabview-side-scrollbar-background: var(--news-block-body-panel-background-even);
+    --tabview-side-scrollbar-thumb-background: var(--tabview-side-button-selected-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--tabview-button-hover-background);
+
+/* Scrollbar Variables Section: (Use usually in random with "--tabview-side-scrollbar..." var.) */
+
+    --BT-scrollbar-background: #4d496a;
+    --BT-resizer-background: var(--primary-text-color);
+    --BT-scrollbar-thumb-background: var(--primary-text-color);
+    --BT-scrollbar-thumb-hover-background: var(--link-color);
+
+/* Tables Variables Section: */
+ 
+    --table-header-color: var(--primary-text-color);
+    --table-cell-color: var(--text-color);
+
+/* Custom Variables Section: (Variables made specifically for this theme that are hard-coded in) */
+
+/* Miscellaneous Variables Section: (Text, template, critcorner, star hue) */
+
+    --text-box-form-background: var(--news-block-body-panel-background-even);
+    --text-box-form-border: var(--basic-border);
+    --template-block-background: var(--primary-background);  
+
+    --code-background: var(--primary-background);
+    --sidebar-crit-corner-color: #c7a37d;
+    -star-rating-hue: 180deg;
+
+    --star-rating-background: var(--content-panel-background);
+    --star-rating-cell-background: var(--content-bar-background);
+    --star-rating-reading-background: var(--content-bar-background);
+    --star-rating-stars-box-shadow: none!important;
+
+    --footer-color: var(--sidebar-header-color);
+    --footer-background: var(--news-block-body-panel-background-even);
+
+ /* Borders Variables Section: (Sect. Size may vary based on Theme; Check for dead custom var., either clump variables together or put them in the corresponding sect.) */
+
+    --basic-border-color: #8b7842;
+    --basic-border: 2px solid var(--basic-border-color);
+    --dashed-border: 1px dashed var(--basic-border-color);
+    --thick-border: 2px solid var(--basic-border-color);
+
+    --content-block-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --content-box-border-color: var(--basic-border-color);
+
+    --content-box-shadow: var(--main-outer-box-shadow), var(--main-inner-box-shadow);
+    --template-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --tags-border: 2px solid var(--link-color);
+
+    --content-box-shadow: 0px 0px 5px #ac8f6580, 0 0 7px #ffff0017;
+
+/* Variables Out of Commission for Theme: (Ridge was mainly hardcoded; Emergency Border in case hard coding goes haywire) */
+
+    --table-border: var(--basic-border);
+    --tabview-border: none;
+    --image-block-border: var(--basic-border);
+
+    --tabview-side-border: var(--basic-border);
+    --owindow-border: var(--basic-border);
+    --toc-border: var(--basic-border);
+    --sidenote-contents-border: var(--basic-border);
+    --sidenote-figure-border: var(--basic-border);
+
+/* Account Opt. (Don't put w/ rest of borders, to be used in tandem w/ Hover box in extended options)*/
+
+    --account-options-border: var(--basic-border);
+
+[[/code]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Assets (Images & Fonts)" hide="- Assets (Images & Fonts)"]]
+
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:broader-horizons/code/1); @@
+> @@ [[/module]] @@
+

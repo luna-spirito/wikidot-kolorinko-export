@@ -1,0 +1,26 @@
+---
+title: "Outside the Inside"
+tags: ["broaderhorizons2022"]
+page_id: "1402050752"
+site: "rpcauthority"
+slug: "contest:broaderhorizonscontest8ismo"
+revision: 3
+revision_id: "1517008986"
+author: 5982545
+timestamp: 1703643375
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-321
+|title=	RPC-321
+]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+

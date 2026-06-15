@@ -1,0 +1,769 @@
+---
+title: "Cosmic Embers Writer's Guide"
+tags: ["cosmic-embers", "guide"]
+page_id: "1402274934"
+site: "rpcauthority"
+slug: "cosmic-embers-hub-writers-guide"
+revision: 137
+revision_id: "1530853224"
+author: 3293845
+timestamp: 1751825190
+---
+
+[[module css]]
+@import url(https://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+[[/module]]
+
+[[=]]
+++ HARK! Spoilers Ahead:
+[[/=]]
+
+[[tabview]]
+[[tab Overview: Opening Blurb ]]
+
+> //"It was endless possibilities on an infinite canvas... [Originally,] I saw how constrictive one-canon was, for better or worse. So, one Armageddon later, we realized how we could make the most of no worlds."//
+>
+> [[div style="margin-left: 2em;"]]
+> **-- [[*user Mr Makor]], Director of CE Lore and Management.**
+> [[/div]]
+
+------
+
+Do you enjoy golden age science-fiction and fantastical settings? Do you want to see through the glimmer of a species snuffed out before its prime? ###cc8c13|**COSMIC EMBERS**## is a space opera canon that centers on Cold-War-era humanity forced to traverse an uncaring universe. Rebranded to the //GRPC,// this Neo-Authority must learn to adapt science, the anomalous, and humanitarian wit to unite an embittered masses of the cosmos against a slew of existential threats.
+
+[[div class="fake-end"]]
+[[collapsible show="The end result, however, is in your hands." hide="Or is it?"]]
+
+//The Authority has evolved, and like the mythic hydra, when you cut off one head, two more shall take its place. Rather than let their secrets die in the light, the __"Old Guard"__ of senior personnel knew they had to create a new face for their organization. Any hints of its precursor origin are now brushed off as the work of a reclusive group of gilded-age explorers. Now, a shadowy hand looms over the Corps. To piece together interstellar knowledge toward a new homeworld able to shape even the constellations themselves. How this will be achieved, however, is still unknown.//
+
+[[/collapsible]]
+[[/div]]
+
+[[div class="back"]]
+------
+[#Overview > Back to Nav.]
+[[/div]][[/tab]]
+
+
+
+
+[[tab Article Formats: ]]
+
+[[=]]
+++ Article Formats:
+[[/=]]
+
+[[collapsible show="-> ▶️ Open CSS Code" hide="-> ⏏️ Close Instructions"]]
+
+CSS Code which you copy and paste (Put at the top of your articles) 
+
+++ To view
+ 
+Step 1. Go to the bottom of the page.
+Step 2. Click (+ Options) at the bottom right of this page.
+Step 3. Click Page Source.
+Step 4. Do Ctrl + F ("type this").
+Step 5. Pick the second option, "Hint: It's in the Page Source".
+Step 6. Copy and paste everything below this message up until the stop.
+
+Page source
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[module CSS]]
+
+.animatedTerminal .yui-navset {
+    margin-bottom: 0px;
+}
+
+table.beginningbox {
+    border: var(--image-block-border) !important;
+    border-left: 6px solid var(--main-border-color) !important;
+    border-right: 6px solid var(--main-border-color) !important;
+
+    background: var(--tabview-background) !important;
+    box-shadow: var(--image-block-box-shadow) !important;
+    font-family: 'Changa', sans-serif !important;
+    font-size: 90% !important;
+    
+    padding: 5px 0px;
+    margin: 10px 10px 10px 0px;
+    line-height: 110%;
+    overflow-x: auto;
+    width: 100%;
+}
+
+[[/module]]
+
+--STOP--
+
+Step 7. Paste the above information into your sandbox
+
+[[/collapsible]] 
+
+[[collapsible show="-> ▶️ Open Base GRP Article Format" hide="-> ⏏️ Close Instructions"]]
+
+[[table class="beginningbox"]]
+[[row]]
+[[cell class="specialBoxClassCell" style="border-right: 2px solid var(--main-border-color) !important; background-image: url(http://www.rpc-wiki.net/local--files/component:icons/**omega-black**.png); background-position: center; background-repeat: no-repeat; width: 95px; height: 80px;}"]]
+[[/cell]]
+
+[[cell class="specialBoxRPCCell" style="border-right: 2px solid var(--main-border-color) !important; padding: 0px 0px 0px 10px;"]]
+**Galactic Registered Phenomena:** 000
+@@ @@
+**Containment Rating:** Containment Rating
+@@ @@
+**Lethality Rating:** Color
+[[/cell]]
+
+[[cell class="hazardBlock" style="width: 100%; height: 4.2em; padding-top: 1em; padding-bottom: 1em;"]]
+[[=]]
+
+(REPLACE THESE WITH YOUR PREFERED HAZARDS)
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-dimensional.png style="width: 35px" title=" Extra-Dimensional"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-terrestrial.png style="width: 35px" title=" Extra-Terrestrial Hazard"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-immeasurable.png style="width: 35px" title=" Immeasurable Hazard"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png style="width: 35px" title=" Mechanical Hazard"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-radiation.png style="width: 35px" title=" Radiation Hazard"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-titanic.png style="width: 35px" title=" Titanic Hazard"]]
+[[/=]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[include component:image-block name= https://rpcsandbox.wdfiles.com/local--files/your-sandbox-page/grp-image.png | caption=Photograph of GRP, etc, etc |width=300px|]]
+
+
+**Containment Protocols:**
+
+**Description:**
+
+**Discovery:**
+
+**Exploration Logs:** 
+
+**Addendum:**
+
+[[/collapsible]] 
+
+[[collapsible show="-> ▶️ Open Alien Report" hide="-> ⏏️ Close Instructions"]]
+
+[[div class="content-panel"]]
+**Designation:** RA-XXX ([actual alien name])
+**Psychological Human Likeness:** #0.0 to 0.99#
+**Affiliation:** (##[COLOR]/[FACTION]##)
+[[/div]]
+
+[Image block code if available]
+
+[Quick summary of alien’s features]
+
+++ Biology
+[write about the alien’s biology]
+------
+
+++ Technology
+
+[Explanation about aliens' tech level and capabilities, focus on specifically what they specialize in.]
+
+
+------
+
+++ History
+
+[History of the alien, going back as far as they or other aliens have recorded]
+
+------
+
+++ Culture and Psychology
+
+[Alien Culture and psychology. How they view the world, their beliefs, and other aliens around them.]
+
+------
+
+++ Government and Religion
+
+[Star Wars Prequel trilogy fanfiction]
+
+------
+
+++ Roles and Positions
+
+[The species has a hierarchy filled with particular roles and positions. Outline them here]
+
+
+------
+
+++ Diplomatic Procedures
+
+[How the GRPC should interact with this alien. Either as allies or enemies.]
+
+
+[[/div]]
+
+------
+
+
+[[size 120%]] [[collapsible show="[+] Footnotes: Condensed" hide="[-] Footnotes: Expanded"]]
+[[/size]]
+------
+[[footnoteblock]]
+------
+[[/collapsible]]
+
+------
+[#Overview > Back to Nav.]
+[[/tab]]
+
+
+
+
+[[tab Tone & Lore: ]]
+
+
+[[=]]
+++ Tone & Lore:
+[[/=]]
+
+> "Momma always told me that there's no stupid question besides the one you just asked me."
+>
+> [[div style="margin-left: 2em;"]]
+> — [[*user Televisionist]], **curation; CSS technician.**
+> [[/div]]
+
+###cc8c13|**COSMIC EMBERS**## is a space opera inspired by the Golden Age of SciFi coupled with the sinister implication of Cosmic Horror. Hope, despair, exploration, forbidden knowledge -- the works of both Ray Bradbury and Franz Kafka come to mind. Here is a list of primary themes to keep in mind:
+
+[[div class="spaced"]]
+# **Isolation --** While not exclusive to sci-fi, the cosmos only exacerbates the ever-looming dread of being alone. Miles or even light-years from the closest human civilization, isolation gives way to helplessness, and helplessness gives way to paranoia, superstition, and fear.
+# **Wonder --** While seeming contradictory, wonder, even in the face of danger, is present in nearly every story set in space. Mankind seeks knowledge, even at its peril.
+ * This motif is often most present within descriptions of the setting or fantastical elements.  
+# **Humanity --**  The chance to see, explore, and understand the untamed holds up mankind to a backdrop of oddities. With a substantial distinction between the alien and man, we can see who we are.
+# **Pragmatism:** As a __humanitarian organization,__ the GRPC often deals with new aliens, anomalies, and resources to further their goals of galactic stability. Whether it's a valuable resource, endangering a community, or an endangered species, rarely are things cataloged for the sake of being cataloged anymore.
+# **The Mythic Cowboy:** Instead of taking a 100% clinical tone, give it a Buffalo Bill-like flare. Use the later sections to write pseudo-embellishments of heroic hearsay.
+# **Concepts:** Try to pair an anomaly with a piece of tech or concept that interacts with it to deter or aid the anomaly.
+# **Implications:** Alternatively, use light techno-babble and illusions to far historical/cultural motifs to give the illusion of a grander world. Articles can gain a lot of weight through the direction they //point in// rather than explicitly //go in.//
+[[/div]]
+
+++ GROUPS OF INTEREST
+
+[[div class="file-request-block"]]
+[[collapsible show="[+] The Galactic Treaty & Galactic Rangers Protection Corps" hide="[-] The Galactic Treaty & Galactic Rangers Protection Corps" hideLocation="both"]]
+------
+[[=]]
+++ "PEACE THROUGH SOVEREIGNTY"        
+[[/=]]
+------
+> "Imagine taking a stroll through Manhattan, somewhere north of 68th street, deep inside Central Park, late at night. It would be nice to meet someone friendly, but you know that the park is dangerous at night. That's when the monsters come out. There's always a strong undercurrent of drug dealings, muggings, and occasional homicides.
+> 
+> It is difficult to distinguish the good from the bad guys. They dress alike, and the weapons are concealed. The only difference is intent, and you can't read minds.
+> 
+> Stay in the dark long enough, and you may hear an occasional distance shriek or blunder across a body.
+> 
+> How do you survive the night? The last thing you want to do is shout, "I'm here!" The next to last thing you want to do is reply to someone who shouts, "I'm a friend!"
+> 
+> What you would like to do is find a policeman or get out of the park. But you don't want to make noise or move towards a light where you might be spotted, and it is difficult to find either a policeman or your way out without making yourself known. Your safest option is to hunker down and wait for daylight, then safely walk out.
+> 
+> There are, of course, a few obvious differences between Central Park and the universe.
+> 
+> There is no policeman.
+> 
+> There is no way out.
+> 
+> And the night never ends."
+> [[div style="margin-left: 2em;"]]
+> ― Charles Pellegrino, The Killing Star
+> [[/div]]
+------
+
++++ The Galactic Treaty recognizes the fear of a hostile universe and yet opposes it. Those in the GT can sleep soundly on this lethal night, knowing the Galactic Rangers stay vigilant. In addition, the open air of transparency and communication between GT members has loosened the chain of suspicion. While no two members of the GT are alike nor united, those who sign the Galactic Treaty recognize the sovereignty of their neighbor. 
+
++++ Peace within the Galactic Treaty is not maintained with any standing army. Rather, the fear of revoking your faction's name from the Treaty is enough to maintain peace. The Treaty is more or less a formal agreement to do unto others what you'd want done to you. Parties who refuse the Treaty are not subject to its protective rights. A lethal option when alone in a dark, hostile universe.  
+
+------
+
+++ __Council Races__ 
+
+++++ ###ff9944|Wayxer## - 1st Administrator of the GT - __Founder of the Psychic Defense Corps__
+[[div class="spaced"]]
+* **Webwork** Humane and good-hearted race of brain-like creatures suspended in mechanical fluid-filled robots. Wayxers, a mighty race, have an expansive catalog of memetic abilities. With their skills in insight, they've specialized in the __Research__ of interstellar phenomena.  
++++ Articles of appearance:
+[https://rpcauthority.wikidot.com/grp-010-dream-aliens GRP-010 — "Dream Aliens"]
+* Psy Corps saves Human Ark ship.  
+[[/div]]
+
+++++ ###ff9944|Karza## - 2nd Administrator of the GT - __Founder of the Protection Corps__
+[[div class="spaced"]]
+* **New Karzyioe' Republic** An elusive and mysterious cabal of space wizards called the Karza. Powerful proto-"reptilian/avian bipeds, the Karza put great importance into concepts such as fate, entropy, and destiny. With their powers of foresight, they naturally involve themselves in the __Protection__ of others.     
++++ Articles of appearance: 
+[http://rpcauthority.wikidot.com/thats-all-he-wrote GRP-002 — "That's All He Wrote"] 
+* Introduces a powerful Karza artifact
+* States the location of the Karzyioe Republic (Orion Nebula).
+* Long ago, the Karzyioe Empire of old had enslaved the Iskoins.   
+[https://rpcauthority.wikidot.com/grp-010-dream-aliens GRP-010 — "Dream Aliens"]  
+*  GD-FRONT, aka Oxýees Pterión, makes her first appearance.
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]  
+* Administrator Gl'da makes his first appearance.
+* Gl'da demonstrates his ability of foresight. 
+[[/div]]
+
+++++ ###ff9944|Kermiter## - 3rd Administrator of the GT - __Founder of the Travelers Corps__ 
+[[div class="spaced"]]
+* **Exuvian Houses** A paradoxical race of xenophobic xenophobe proto-crab. A very secretive race, the Kermiters don't openly share their secrets or locations with strangers. Due to their innate paranoia, their advice in trapping and __Containment__ is highly sought after.    
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/zidophant-alien-report Document — "Zidophant Alien Report"]  
+* An excerpt by the Travelers Corps advises tourists on how to vacation in a high-gravity world. 
+[[/div]]
+[[/div]]
+
+++ __Other Races__
+
+++++ ###ff9944|Humanity## - Starborn Vagabonds   
+[[div class="spaced"]]
+* **Free Systems of Monoceros** A nearly extinct, yet still a major player. The Humans of the Free Systems are refugees. Exiled from their home system after a bloody Interplanetary War. Those evicted have taken refuge in the Monoceros Constellation proper. It's from these wayward men and women that the GRPC pulls most of its Human cadets. The culture within each Ark ship of the FSM is heavily dominated by its respective international pre-60s origins. With an added mix of modern interstellar sensibilities, the FSM does its best to integrate quietly into the Galactic Treaty while desperately scrounging for lucrative business prospects.             
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/grp-010-dream-aliens GRP-010 — "Dream Aliens"]
+Mentions FSM Ark Ships in the Alfirk Systems
+* (Titanic) Origin is Belfast, the Capital of Northern Ireland. 
+* (Aurora) Origin is Letterkenny, a North-Eastern city in Northern Ireland.
+* (Carfax) Origin is Cork, a city on the south coast of Ireland   
+ [https://rpcauthority.wikidot.com/temple-of-psyche GRP-014 — "Temple of Psyche"]
+ Mentions the FSM Ark Ship 4.2ly from the Vega System 
+* (Big Apple) Origin is the city of New York on the USA's East Coast
+[https://rpcauthority.wikidot.com/grp-020 GRP-020 - "Septeds"]
+[https://rpcauthority.wikidot.com/grp-243 GRP-243 — "The World Eaters"]
+ Mentions the FSM's Capital Station, an O'Neil Cylinder
+* (Endeavor) 
+[https://rpcauthority.wikidot.com/cosmic-randy GRP-026 — "Cosmic Randy"]
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+Mentions the FSM Ark Ships
+* (Hilo) Origin is the largest settlement Hilo in Hawaii County
+* (Hollywood) Origin is the city of Los Angeles in Southern California
+* (The Rock) Origin is Detroit, a City in North Eastern USA.
+[https://rpcauthority.wikidot.com/grp-239-bobo-the-clown GRP-239 — "Bobo the Clown"]
+Mentions the FSM Ark Ships
+* (Beehive) Origin is Salt Lake City, in the Southern USA
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Androids & Gynoids## - Children of Humanity
+[[div class="spaced"]]
+* **Free Systems of Monoceros** Machine Human hybrids. These man-made creatures operate off an organoid brain, a freakish mix of biological neurons intertwined between mechanical switchboards. Androids (male) and Gynoids (female) are generally seen beneath their Human counterparts. While employed by the GRPC, their status can vary from temp-CSD to Galactic Director.         
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/temple-of-psyche GRP-014 — "Temple of Psyche"] 
+* Introduced to Gynoid NCC1701-D aka GD-NULL.
+[https://rpcauthority.wikidot.com/grp-020 GRP-020 - "Septeds"]
+* An Anti Tech anomaly kills Gynoid News reporter Jane Crocker.
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"]
+* Android Ranger A-A-77244 gives his life killing 2D holographic aliens.
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+* Chief Officer Garcon of the GRPC states that GRP-112 considers Humans and Androids the same race.
+[https://rpcauthority.wikidot.com/grp-239-bobo-the-clown GRP-239 — "Bobo the Clown"]
+* Ranger A-A-78934 is made to talk to a hostile killer alien robot.
+* Android-A-78934 shows signs of self-preservation when said alien robot starts a self-destruct countdown.  
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Slyth## - Counts of the Free Systems
+[[div class="spaced"]]
+* **Free Systems of Monoceros** The Slyth are an enigmatic race originating from the planet Nyx, which orbits the blackhole "Unicorn." Hurt by direct starlight, the Slyth have opted to live in dark environments, finding their way around through electromagneticsensors. This adaptation has made the Slyth favor aliens who naturally or cybernetically emit electrical fields.          
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/grp-239-bobo-the-clown GRP-239 — "Bobo the Clown"]
+* Slyth GRPC researcher is immune to GRP-239's Human mind control effects.
+* 25 Slyth are killed aboard the Ark Ship (Beehive).
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Iskoins## - The Galaxy's Harlot 
+[[div class="spaced"]]
+* **United Clans of Heurískō** Iskoins are a 20-legged, four-armed, 3-meter tall, centipede/mantis-like alien. Originating from the high-oxygen desert world of Heurískō Prime, Iskoins are naturally adept at arid and jagged terrain combat. The species is hermaphroditic, requiring an instinctual worldview of dominant/submissive to achieve communal stability. Forced into servitude by races that see Iskoins as a threat, some young Iskoins take the opportunity to assert themselves as //The Man// by enlisting in the GRPC.    
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[http://rpcauthority.wikidot.com/thats-all-he-wrote GRP-002 — "That's All He Wrote"]
+* The GRPC is helping the Iskoins build a Lithium refinery on Heurískō III.
+* Ranger Fleeb tries to urinate on GRP-002 to exert dominance. 
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"]
+* Ranger Viss Sarkio plays the role of the snarky, gung-ho protagonist. 
+* States that Iskoins are good climbers 
+* Rangers draws visual connections between Sarkio's appearance and a prehistoric centipede.   
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Alfirkian## - First Victims of the Parasomnoids
+[[div class="spaced"]]
+* **Alfirkianian Planetary City** Native to the Alfirk System, the Alfirkians were enslaved by a race of memetically hostile nightmare aliens. This takeover was easily achieved because Alfirkians cannot dream about positive things.                
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/grp-010-dream-aliens GRP-010 — "Dream Aliens"]
+* 1/3rd of their home planet is destroyed by a powerful Neutron Bomb
+* Freed and integrated into the GT by Psy Corps.   
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Aqua Trunci## - A One Man Army 
+[[div class="spaced"]]
+* **GRPC** The Aqua Trunci is a small race of 0.75-meter blobs originating from Poul III. A naturally evolved shapeshifter, Aqua Trunci can take the form and memories of any creature they eat. Due to this powerful anomalous effect, Poul III and its inhabitants have been cordoned off by the GRPC.                       
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/cosmic-randy GRP-026 — "Cosmic Randy"]
+* Ranger Randal Sinclare becomes a clone template for the Aqua Trunci. 
+* Randy Clones are integrated into the GRPC.
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+* Randy Clone #3142 dies taking out a Soshi ship.
+* GRP-112 recognizes Randy Clones and Humans as different species.    
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Hopkins## - Ship Scrappers and Skivvies 
+[[div class="spaced"]]
+* **NOT STATED** The Hopkins are a race of proto-amphibious bat-like creatures, standing at 1 meter tall. While some Hopkins are members of the GRPC and GT by proxy, most operate as mechanics for hire. Driven by a simple pursuit of growing their technological understanding. This drive is often all-consuming. Hopkins cannot design technology from the ground up, oblivious to imaginary concepts or social situations.                                
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance: 
+[https://rpcauthority.wikidot.com/cosmic-randy GRP-026 — "Cosmic Randy"]
+* A Hopkin "nicknamed Chuck" is kidnapped from a Space Pirate hydroponics lab.
+* Chuck is skilled enough to crash a ship despite being locked in its lavatory.
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"]
+* The Hopkin Tonny fails to understand the concept of cruelty when asked.    
+* Ranger Tonny can recompile a 3D environment in his head seconds after seeing a 2D breakdown.
+[http://rpcauthority.wikidot.com/laknoctua-alien-report Document — "Laknoctua Alien Report"]   
+* The Laknoctua despises Hopkins due to an attempted sacking of their Library/Generation Ship thousands of years ago. 
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|J'ba Fo## - Stubborn as a Muel   
+[[div class="spaced"]]
+* **NOT STATED** The J'ba Fo are a race of ten-legged spiders with a camel-like head. Each arm is triple-jointed, terminating at a hand with six fingers. The J'ba Fo are a stubborn species, refusing to change their minds once it has already been made, and possess a near-perfect photographic memory. They are Rangers in the GRPC, taking the role of scouts.                                     
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance:      
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"]
+* Ranger Uttu Tuut plays the role of a straight man and historian.
+* Uttu Tuut recollects on a visit to Earth he had decades prior with.  
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Tibicen## - Hell Dogs of the Corps  
+[[div class="spaced"]]
+* **NOT STATED** A Tungsten - Dimethyl Sulfoxide-based lifeform. Due to their unique physiology, Tibicens are immune to temperatures exceeding 650C-2,500C. However, due to their high-density composition, worlds with gravity that exceeds 1.5g pose a risk to their health.                                     
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance:      
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"]
+* Ranger Altisimo plays the role of a self-interested scoundrel.   
+* Altisimo requires a personal null gravity generator on his person to move around in normal gravity.   
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Kymen## - Born Again Barbarians  
+[[div class="spaced"]]
+* **Kymenna Body** The Kymen are a race of short-lived moth-analog life forms. Lacking an emotional gradient or transitional states of mind, Kymen are often misinterpreted as being bipolar or quick to anger. Responsible for many bloody wars in the past, the Kymenna ruling body has upheld a strict zero-violence policy for the last fifty thousand years. Kymen worlds within the Rosette Rebula are off-limits to all GT members except the GRPC's Rangers. All Kymen are required to wear emotion-hiding masks. Photographing the face of a Kymen, deliberately or accidentally, is a punishable offense.                                       
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance:     
+[https://rpcauthority.wikidot.com/kymen-alien-report Document — "Kymen Alien Report"]
+* Have advanced hard light technology used exclusively for defense.
+* Specifics on culture, behavior, and history.  
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"] 
+* Researcher Iluiktal is characterized as a caring but slightly detached mission prepper. 
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+* Ohtli is a Krovo, a designated butcher, and outsider within Kymenna society.  
+* POPS mentions that Non-Ranger Kymen are prohibited from owning military books.
+* A Kymen raising their wings is analogous to blushing.
+* A Kymen is strong enough to rip someone's arm off accidentally. 
+[https://rpcauthority.wikidot.com/grp-239-bobo-the-clown GRP-239 — "Bobo the Clown"]
+* 25 Kymen were killed by a killer robot clown while visiting the Ark Ship Beehive.
+* Kymen Researcher ████ ████ easily restrained a fellow Human researcher controlled by by GRP-239. 
+[http://rpcauthority.wikidot.com/laknoctua-alien-report Document — "Laknoctua Alien Report"]
+* The Laknoctua worship the Kymen as Moth-like Gods due to their inadvertent rescue of them thousands of years ago. 
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Salkai## - Victorian Era Fishman  
+[[div class="spaced"]]
+* **NOT STATED** A race of amphibious aliens with fish-like traits originating from the rocky river world of TRAPPIST-1f. Salkai-Human relations are quite high, with both having similar thought processes. The Salkai advanced to an early industrial state of civilization before losing their homeworld. While having rudimentary space travel, a total evacuation of their planet required the aid of the GT. This great act of generosity has made many Salkai feel indebted to the races of the GRPC, primarily Humans who made first contact.                                         
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance:      
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+* Jackson asks Captain Nemo about his heroic efforts in the evacuation of Salkai from TRAPPIST-1f.
+* The Salkai Purpura Family pioneered early-era space travel on TRAPPIST-1f, which boomed shortly after its loss.
+* Lucet Purpura, the 24th daughter of the Purpura family, expresses her willingness to join Captain Nemo's crew.  
+[https://rpcauthority.wikidot.com/grp-178 GRP-178 — "Planet Devourers"]
+* The Salkai ranks as 0.9 on the Human psychological likeness scale. 
+* There were 373 casualties between Humans and Salkai during the destruction of TRAPPIST-1f.      
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Penganoids## - Children with a Radioactive Glow 
+[[div class="spaced"]]
+* **Observers Of Life** A race of 3-meter tall machines powered by fission reactors. The Penganoids are dangerous, posing a radioactive health risk to anyone around them not properly protected. Created for the express of burning all life in the Galaxy by a long-gone race. Despite this, these machines demonstrate a childlike wonder and an unwillingness to harm others. Led by their living ship and leader, Great Unit, the Penganoids have slowly begun integrating into the GT.                                    
+[[div style="margin-left: 3em;"]]
+++ Articles of appearance:      
+[https://rpcauthority.wikidot.com/grp-774 GRP-774 — "Alien Robots from Outer Space"] 
+* Observers Of Life are situated in and around the WASP-33 System. 
+* Penganoids gift the GRPC high anti-rad protective gear.
+[https://rpcauthority.wikidot.com/grp-048-the-holodeck GRP-048 — "The Holodeck"]
+* Penganoid Rangers help in the containment of highly radioactive items.   
+[[/div]]
+[[/div]]
+
+++++ ###ff9944|Laknoctua## - Historians of the Ages 
+[[div class="spaced"]]
+* **Council of Ba** A race of illusive but well-meaning psychic record keepers. The Laknoctua, based out of their library/generation ship, The Vimana, came to the Milky Way thousands of years ago. A once pacifistic race that came only to explore, a chance run-in with the Hopkins and Kymen has shifted their views. In the modern era, Laknotua are active members of the Psychic Defense Corps, protecting the minds of the GT in exchange for safer travels. While their relationship with Humanity is tenuous, they are slowly becoming more acquainted with the idea of having them be leaders of the GRPC.                                       
+[[div style="margin-left: 3em;"]]
++++ Articles of appearance:      
+[http://rpcauthority.wikidot.com/laknoctua-alien-report Document — "Laknoctua Alien Report"] 
+* Their Society is broken up into four casts. Ba, Ru, Shiv, and Kai.
+* No one, except Kymen and fellow Laknotua, is permitted within The Vimana.
+* In 1952, two Laknoctua children accidentally ended up on Earth after a portal mishap. Blue Book would later kill them.
+[https://rpcauthority.wikidot.com/grp-010-dream-aliens GRP-010 — "Dream Aliens"]  
+* 9,824 Psy Corps Agents died in the Alfirk War. It's not specified how many were Laknoctua.  
+[[/div]]
+[[/div]]
+
+------
+
+[[=]]
+++ Q&A:
+[[/=]]
+
+++++ ###ff9944|Qu.## What Does Humanity Offer the Galactic Treaty?
+[[div class="spaced"]]
+**-- from [[*user Dattop]]**
+* **Ans.** While many longer-lived aliens look down on the insignificant race of Man, the Karza saw an opportunity. Using their extra-judicial power, they founded the GRPC and put Humanity in charge of its management. Since then, the Rangers of Humanity have aided the defeated, downtrodden, and destitute aliens of the cosmos. By offering their assistance, the GRPC now hosts an impressive roster of loyal worlds who aid Humanity and its humanitarian endeavors. 
+[[/div]]
+
+++++ ###ff9944|Qu.## What Does the Galactic Treaty's Supply Chain Look Like?
+[[div class="spaced"]]
+**-- from [[*user Generic3]]**
+* **Ans.** While trade is not forced or mandated by the Galactic Treaty, many of its members voluntarily exchange goods with each other. Elements such as water, iron, and magnesium are common within systems and traded in bulk for cheap. If a species's home system is particularly low in metals, it'll be more likely to mine the closest metal-rich system rather than trade with a foreign power. The primary interests of the Galactic Treaties market are rare elements, such as uranium, helium 3, and anti-matter. In addition, produced goods, such as ray guns, rocket ships, medical devices, robots, etc, are regularly traded. Services like indentured servants, military assistance, and IOUs are highly valued. The most lucrative items on the GT market are anomalous utility items, such as FTL devices, super alloys, or mystic artifacts.                 
+[[/div]]
+
+++++ ###ff9944|Qu.## Does the Galactic Treaty have a Universally Recognized Currency? 
+[[div class="spaced"]]
+**-- from [[*user Capitano Nox]]**
+* **Ans.** Yes, those in the GT who partake in the open market utilize an agreed-upon currency. Jettons, as Humans refer to them, are tokens with a registered quantum signature. They can not be replicated. These coins can be used at any GRPC Embassy, Kermiter Call House, or Sanctioned Relay Station. When inserted into a "payphone" at the previously stated locations, an FTL call can be made to any radio wave-receiving device in the Galaxy. These calls are not instantaneous, utilizing a network of automated switchboard operators who bounce the FTL signal to the caller's designated target and then back to the caller. Most GT aliens utilize this mode of communication, so a Jettons' intrinsic value is constant and unchanging. 
+
+
+* As of 12/26/2023
+1 Jeton = 500 USD $ / 452.80 EUR € / 392.95 GBP £      
+[[/div]]
+
+++++ ###ff9944|Qu.## What is the Galactic Treaty's Policy Regarding Foreign Negotiations?
+[[div class="spaced"]]
+**-- from [[*user Bro dude]]**
+* **Ans.** The Galactic Treaty, as the name implies, is a formal agreement between two parties that have already negotiated for mutually assured peace. Any foreign body can sign the Galactic Treaty, but the offer is only extended to organizations one of the three in the Administration Council deems deserving. While each council member has different criteria for opening negotiations, some logical and stated actions will not win a faction any favors. Space pirates, interstellar conquerors, and xenophobic exterminators are some examples of alien groups who will not get the option of signing the Galactic Treaty. Depending on the damage caused by the aggressor before their defeat, a Council member can make a GT signing mandatory. This ensures the defeated party's safety from other GT races, who will seek retribution. Once integrated into the GT, the offending party may be forced to compensate those they offended before enlisting. While the payment method, amount, and time frame are all decided by the GT Council, the sentences are often considerate of the offender's capabilities and proportional to their crimes.  
+[[/div]]
+------
+
+[[/collapsible]] [[/div]]
+
+[[div class="file-request-block"]]
+[[collapsible show="[+] Soshi Slave Empire" hide="[-] Soshi Slave Empire" hideLocation="both"]]
+
+------
+[[=]]
+++ "PEACE THROUGH CONQUEST"        
+[[/=]]
+------
+> “‘In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. 
+> I think it’s impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. 
+> And then, in that very moment when I love them-….. I destroy them. I make it impossible for them to ever hurt me again. I grind them and grind them until they don’t exist.’”
+> [[div style="margin-left: 2em;"]]
+> ― Ender Wiggin, Enders Game
+> [[/div]]
+------
+
+++ __Overlords__ 
+
+++++ ###ff9944|Selohssa## - Rulers of the Empire 
+[[div class="spaced"]]
+* **Omega Centauri House** The Selohssa are a race of reptilian-analog lifeforms. Utilizing cells similar to Chromatophores found in octopuses, a single Selohssa can spell out a book's worth of content in the color pattern of its skin. As an ancient race, the Selohssa have had thousands of years to perfect the art of slavery. This desire to own others is subconsciously innate due to an odd quirk of their psychology that forces them to see everything in an owner/owned dichotomy. To a Selohssa, if they can't own their family, the world, or history, it must be destroyed.  
++++ Articles of appearance:
+[https://rpcauthority.wikidot.com/grp-020 GRP-020 - "Septeds"]
+* Snee mentions how the Soshi ruined her plans by invading Earth in 1969.
+[http://rpcauthority.wikidot.com/grp-077 GRP-077 — "Whispers Beyond Light"]
+* In 1967, they abducted the leader of a UFO cult.
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+* One of their ships is destroyed by overloading its Anti-Matter generators. 
+* Actively go out of their way to destroy an anomalous planet.
+[http://rpcauthority.wikidot.com/grp-115 GRP-115 — "Celliuts"]
+* Highest Father Cleonymus the Wise uses their psychic powers on the Celliuts around Karne's body and sets up a fake distress signal to lure in unfortunate victims.
+* Cleonymus spares the lives of Captain Clyglin and his surviving crew members for unclear reasons.
+[http://rpcauthority.wikidot.com/ectype-alien-report Document — "Ectype Alien Report"]
+* Invaded the Earth in 1938.
+* Their Second Invasion wiped out all of Earth's space-based military assets.  
+[[/div]]
+
+++ __Subjects__  
+
+++++ ###ff9944|Sub-Karne## - Right Hands of the Empire 
+[[div class="spaced"]]
+* **Disciples of Karne** A small brain-like creature with technopathic abilities. This creature is the last of his species, a Biological AI construct of the powerful psychic Karne. Sub-Karne is the mad scientist and leading engineer in the extermination campaign of Humanity. While his anomalous implements don't always operate as intended, he is still a dangerous mastermind.   
++++ Articles of appearance:
+[http://rpcauthority.wikidot.com/grp-077 GRP-077 — "Whispers Beyond Light"]
+* Orders the Soshi to abduct a Human cultist in 1967.
+[http://rpcauthority.wikidot.com/grp-115 GRP-115 — "Celliuts"]
+* The Celliuts are revealed to be rebuilding the original Karne's body.
+[https://rpcauthority.wikidot.com/grp-239-bobo-the-clown GRP-239 — "Bobo the Clown"]
+* Constructs a "friendly" clown robot that kills 50 Humans.  
+* Attempted and failed to mind-control an Ark Ship full of Humans.
+[[/div]]
+
+++++ ###ff9944|Ectypes## - Traitors of Humanity 
+[[div class="spaced"]]
+* **Red Wake** The first Ectype was a French-German man named Torrent Schuyl. A thaumaturgist, medium, and coroner by trade, Schuyl would unlock the mysteries of corpse possession. This ritual, "Walking the Grey," gave the possessor a total understanding of their puppet. With a need to go further, Schuyl, with the aid of his cult, the Red Wake, would abduct his fellow men. These missing persons would be modified into Ectypes. These modified Humans could project their consciousness into the cadavers of things lightyears away. The Ectypes would learn about new technologies through their escapades across the cosmos, mostly from the Soshi. After Humanity lost Earth, the Soshi would take those Ectypes who had survived and modify them into a state devoid of self-consciousness or awareness.      
++++ Articles of appearance: 
+[http://rpcauthority.wikidot.com/ectype-alien-report Document — "Ectype Alien Report"]
+* Schuyl and the Red Wake archives interstellar travel 1906.
+* Most of German Space Tech was built off their discovered alien designs.
+* The Ectypes supplied the Soshi with the 'Schuyl Report,' a comprehensive list of most Earth defense tech.  
+[[/div]]
+
+------
+[[=]]
+++ Q&A:
+[[/=]]
+
+++++ ###ff9944|Qu.## How Does the Soshi Slave Empire Maintain Cohesion?
+[[div class="spaced"]]
+**-- from [[*user Mr Makor]]**
+* **Ans.** The Selohssa maintain control of their conquered systems through noble houses- akin to medieval fiefdoms- each swearing fealty to the emperor and the imperial religion and ruling over one or multiple systems via mass-produced military robots. Each House patrols their conquered worlds and ensures the slave races are kept in line. Usually, each family will have a pseudo-"liaison" from the church, who oversees the production of these religiously sanctioned hunter-killer machines. These machines range from interstellar crafts with onboard rudimentary AI to self-replicating war machines who can lead entire campaigns by themselves to, in some cases, modeled after the local slave populace's fears and religious beliefs. 
+
+++++ ###ff9944|Qu.## How do the Alien Civilizations of the Cosmos Perceive the Soshi?
+[[div class="spaced"]]
+**-- from [[*user H F Dummie]]** 
+* **Ans.** The short answer is that they hate them. However, while the Soshi Slave Empire might be a cosmic alien horror to most, to some, it is a form of salvation. Alien races suffering from chronic genetic disorders, societal instability, or too primitive to survive alone may accept Soshi slavery willingly. To many others, integration into the Soshi means the end of one's self-autonomy, bodily rights, and legacy.       
+
+ [[/collapsible]] [[/div]] [[/div]] [[/div]]
+
+[[div class="file-request-block"]]
+[[collapsible show="[+] Consortium of Corprate Worlds" hide="[-] Consortium of Corprate Worlds" hideLocation="both"]]
+
+------
+[[=]]
+++ "PEACE THROUGH EXPLOITATION"        
+[[/=]]
+------
+> “Empires are synonymous with centralized—if occasionally schismatized—hierarchical power structures in which influence is restricted to an economically privileged class retaining its advantages through—usually—a judicious use of oppression and skilled manipulation of both the society’s information dissemination systems and its lesser—as a rule nominally independent—power systems. In short, it’s all about dominance.”
+> ― Worthil, The Player of Games
+> [[div style="margin-left: 2em;"]]
+> [[/div]]
+------
+
+++ __Overlords__ 
+
+++++ ###ff9944|Zidophants## - Economic Bedrock of the Association
+[[div class="spaced"]]
+* **Board of Directors & Co.** The Zidophants are the founders and primary shareholders in the Consortium. As a powerful psychic race in tune with the collective unconscious, they've become the __Masters of Manipulating Market Forces__. As a pseudo-gestural hivemind, those linked by their psychic web generally act in unison against those outside the telepathic network. This xenophobic propensity has led to the Zidophants indenturing those of whom they could pose a risk to them.        
++++ Articles of appearance:
+[http://rpcauthority.wikidot.com/zidophant-alien-report - "Zidophants"]
+* Goes into detail about the life and history of the Zidophant species.
+[http://rpcauthority.wikidot.com/grp-112 GRP-112 — "The Moribund Wish"]
+* We are introduced to the Zidophant Alganky, a wealthy businessman who does not survive. 
+* Our Heroes mentions that Alganky could have lethal telepathic powers, common for Zidophants.
+[http://rpcauthority.wikidot.com/intaremreport — "Intarem Report"]
+* A Report on the existence of a powerful, but financially unstable Zidophant corporation. 
+[[/div]]
+
+++ __Employees__ 
+
+++++ ###ff9944|The Flare Form## - A Clone Army
+[[div class="spaced"]]
+* **Symbol-Zastępczy Co.** Previously a translation software and technology company, Symbol Co. was able to crack the language of the Flare Form. A dangerous and genocidal species, the Flare had been defeated and expunged from the Galaxy an Epoch ago. In that modern age, they had returned to seek their vengeance against an enemy long since gone. Before the Flare could destroy the Consortium, Symbol Co. bought the interlopers' loyalty with the DNA of their precursors. As a race of clones, the Flare now desperately fight in endless wars of conquest for their masters as __Shock Troops__ and __Occupying Forces__, believing they will someday pay off their debt.  
++++ Articles of appearance:
+[http://rpcauthority.wikidot.com/flare-alien-report — "Flare Alien Report"]
+* Article about the details, life, culture, and vague history of the nearly forgotten Flare.  
+[[/div]]
+
+++++ ###ff9944|Tetranaughts## - Intersteller Blood Hounds 
+[[div class="spaced"]]
+* **Tetranaught Reclaimer Co.** Loyal __Repo Men__ and __Bounty Hunters__ of the Consortium. The Tetranaught, long before achieving space flight, were recognized for their powerful psychic abilities. Able to track the temporal aura of items, many aliens would seek their aid as historians. However, fearing their powers would someday rival theirs, the Zidophants orchestrated their demise. Now, they work as servants of the Consortium, hunting down thieves and traitors of the alien corporations.
++++ Articles of appearance:
+[http://rpcauthority.wikidot.com/the-tetranaughts-and-their-stolen-sleigh — "The Tetranaughts"] 
+* Tetranught brainwashing and mental blocking are so intrusive that the concept of charity does not register in their minds. 
+* The Tetranaughts have attacked multiple Human and GT outposts in search of Santa Claus on behalf of Intarem Co.
+
+++++ ###ff9944|Iskoins## - Call Girls of the Cosmos 
+[[div class="spaced"]]
+* **Bagnio Sultanate** The Iskoins' jihad fleet, which refused to rejoin their brothers, would fly off into the cosmos. During their travels, they would revert to their old ways and enslave their fellow men. The final betrayal against their faith would come in the form of selling their kin into bondage. Such practices would become so widespread and prosperous that the rogue Iskoins would form their own Brothal Kingdom, ruled over by a Sultan and wealthy Consortium investors. In the current age, the efforts of the Sultanate have made the Iskoin race synonymous with pleasure slaves across the cosmos, a reputation those in authority would like to uphold. 
+[http://rpcauthority.wikidot.com/iskoin-alien-report — "Iskoin Alien Report"]   
+* Alien Report that goes into the history and cause of the Iskoin split, which created the Bagnio Sultanate.        
+[[/div]]
+
+
+
+ [[/collapsible]] [[/div]] [[/div]]
+
+------
+
+[[include :rpcsandbox:component:starmap]]
+
+------
+[[/div]]
+
+
+[[=]]
++++ Q&A Misc:
+[[/=]]
+
+[[div class="file-request-block"]]
+[[collapsible show="[+]Miscellaneous Questions & Answers " hide="[-] Miscellaneous Questions & Answers" hideLocation="both"]]
+
+++++ ###ff9944|Qu.## Do Aliens and their Civilizations Adhere to Borders?
+[[div class="spaced"]]
+**-- from [[*user Generic3]]**
+* **Ans.** Yes, and no. 
+* To paint a clear picture, imagine a vast, untamed valley with rivers, forests, and grasslands. Within this landscape, random settlements and towns exist. A town mayor might claim he owns the whole valley or everything south of a river. In addition, the mayor may claim trespassers in his territory will be shot. The Mayor may have a hundred armed men, but the valley is vast. Any swift-footed explorer could traverse the valley in relative peace if he didn't stop and rest for too long. 
+* Now, imagine the valley at the interstellar scale. Each town is a star system, isolated, light years away from its closest neighbor. Even with an FTL drive, patrolling all the space between your stars would be a fool's errand. Like the traveler, movement with an FTL drive makes the user invisible to normal means of detection, as they can exceed the speed of their reflected light. The only true way to maintain a border is by consolidating one's weapons in or around your Star Systems. In addition, fast response FTL capable ships or stationed garrisons ensure that unsuspected attacks can be repelled. 
+* TL;DR Due to how expansive the universe is, borders are confined to systems. A quiet and unexpected explorer can travel through the empty gaps between a civilization's conquered systems.           
+
+[[/collapsible]] [[/div]] [[/div]]
+
+[[div class="back"]]
+------
+[#Overview > Back to Nav.]
+[[/div]][[/tab]]
+
+[[tab Rules: ]]
+
+[[=]]
+++ __Rule #1: Respect What Has Been Written Before__
+[[/=]]
+
+++++ ###ff9944|Applicable to Vapor Lore?## 
+[[div class="spaced"]]
+* **Ans.** No. Unwritten lore, conceptual concepts, or info in drafts/docs will be judged as __non-Canon until officially published on the wiki__. Discussions and private agreements regarding soon-to-be Non-Canon concepts can be had, but no writer will be expected to uphold their privately made promises.      
+[[/div]]
+
+
+++++ ###ff9944|Filling in the gaps?## 
+[[div class="spaced"]]
+* **Ans.** In cases where a story has been told or is unfolding over multiple articles, there can be times when some aspects of the narrative are implied or left blank. This "Implied Lore" sits somewhere between "written lore" and "Vapor Lore" in terms of its importance. If someone wants to "continue" another's story, they will be expected to understand the writer's written work and obtain the original writer's permission.            
+[[/div]]
+
+++++ ###ff9944|Mass Canonization events?## 
+[[div class="spaced"]]
+* **Ans.** Staff-sponsored or group-coordinated lore-defining projects are permitted. However, single articles written by a lone writer can not drastically redefine lore. 
+* To add a major GoI (a coalition of at least 100+ systems or four+ civilizations), the group must have __four+__ articles or tales written by __three+ writers__.  
+* Additions of alien civilizations are limited to one max per article. (two if a collab) (references to pre-established alien civilizations are allowed) 
+------
+
+[[=]]
+++ __Rule #2: No more than One of a Kind__
+[[/=]]
+
+++++ ###ff9944|What is this applicable to?## 
+[[div class="spaced"]]
+* **Ans.** Anomalies, FTL drives, Planets, Aliens, Faction Goals, and customs. The universe is massive, and this is a creative writing site. Every writer must strive to make their written work unique from their peers. Concepts can be shared across works, such as visited planets and modes of FTL, but if a concept is already established, don't copy it.          
+[[/div]]
+
+++++ ###ff9944|How different must things be?## 
+[[div class="spaced"]]
+* **Ans.** Differences/Similarities can be classified by two metrics, Conceptually and Thematically, which will be evaluated on a case by case basis. Concepts are easily differentiated, corresponding directly to each other (Spider-like aliens, desert planets with red forests, quantum teleportation, etc.). Suppose a concept is similar to another writer's posted work. In that case, the original writer or 2/3rds of CE Moderators can force its creator to make literary alterations to include distinctions. If two articles have nearly identical themes, all CE moderators must agree for changes to be made.
+* If the accused disagrees with the accusations of plagiarism, they can appeal to RPC Lore Staff.  
+[[/div]]
+
+------
+[#Overview > Back to Nav.]
+[[/div]][[/tab]]
+[[/tabview]]
+

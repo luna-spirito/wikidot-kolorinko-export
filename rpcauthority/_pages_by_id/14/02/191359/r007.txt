@@ -1,0 +1,97 @@
+---
+title: "_vizloxindex"
+tags: []
+page_id: "1402191359"
+site: "rpcauthority"
+slug: "_vizloxindex"
+revision: 7
+revision_id: "1459977006"
+author: 3118961
+timestamp: 1649451569
+---
+
+[[module css]]
+
+.rating-bar {
+  text-align: left;
+  width: 58px;
+  color: #666;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100% 3px;
+  border-radius: 3px;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.flex-table tbody {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  position: relative;
+  bottom: 25px;
+}
+
+.flex-table tr {
+  height: 25px;
+}
+
+.stars-index .pager {
+  display: none;
+}
+
+.stars-index p {
+  line-height: 25px;
+  margin: 0;
+}
+
+.rating-note {
+  text-align: center;
+}
+
+@media (min-width: 769px) {
+  .rating-note {
+    padding: 0 80px;
+  }
+
+  .rating-flex {
+    display: flex;
+  }
+
+  .rating-flex>div {
+    width: 50%;
+  }
+
+  .split-block {
+    width: 90px;
+  }
+}
+[[/module]]
+
+[[module ListPages category="contest" order="rating desc" tags="broaderhorizons2022" separate="false"]]
+[[head]]
+[[table class="flex-table"]]
+[[/head]]
+
+[[body]]
+[[row style="order: [[#expr 100-(((((%%rating_votes%%)+%%rating%%)/(2*%%rating_votes%%)* (-1 / (0.5 * %%rating_votes%% + 1) + 1)))*100)%100]]; width: 100%; [[#ifexpr (((%%rating_votes%%)+%%rating%%)/(2*%%rating_votes%%)) == 1 | order: 1]]"]]
+[[cell style="min-width: 30px; text-align: right; font-size: 75%; [[#ifexpr %%rating%% > 0 | color: #888;]] [[#ifexpr %%rating%% < 0 | color: #f44;]] [[#ifexpr %%rating_votes%% == 0 | visibility: hidden;]]"]]
+[[#ifexpr %%rating%% >= 0 | + ]]%%rating%%
+[[/cell]]
+[[cell class="rating-bar" style="min-width: 60px;"]]
+[[span style="[[#ifexpr %%rating_votes%% == 0 | display: none;]]"]][[#expr ((((((%%rating_votes%%)+%%rating%%)/(2*%%rating_votes%%)*5) * (-1 / (0.5 * %%rating_votes%% + 1) + 1))*10)%100)/10]]★[[/span]][[span style="color: var(--text-color); display: none; [[#ifexpr %%rating_votes%% == 0 | display: unset;]]"]]0 votes[[/span]]
+[[/cell]]
+[[cell style="padding-left: 5px;"]]
+%%title_linked%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+

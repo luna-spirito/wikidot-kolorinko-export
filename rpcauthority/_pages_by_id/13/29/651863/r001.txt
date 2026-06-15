@@ -1,0 +1,544 @@
+---
+title: "RPC-562 [ES]"
+tags: ["translation"]
+page_id: "1329651863"
+site: "rpcauthority"
+slug: "rpc-562-es"
+revision: 1
+revision_id: "1385343670"
+author: 3535580
+timestamp: 1634909983
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]**Martillo de Pompeya**
+Original: [[[RPC-562]]]
+Translated by: [[user morhadow]]
+[[/span]]
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/us.png link="RPC-562"]]]]
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Martillo de Pompeya[[/span]]
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[module CSS]]
+
+.oi {
+    background-color: #f0f0f0; padding: 4%; margin: 1% 6%; color: #393939;
+}
+
+.textBlock {
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777;
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #29292f;
+    --WT-v7: var(--primary-background);
+}
+
+[[/module]]
+
+
+
+[[div style="background-image: url(http://www.rpcauthority.wikidot.com/local--files/component:icons/omega-red.png); background-position: 0% 50%; background-repeat: no-repeat; padding-left: 85px;"]]
+
+**Código de Fenómeno Registrado:** 562
+
+**Clasificación de Objeto:** Omega-Rojo [EX]
+
+**Tipos de Peligro:** --Mnemónico--[[footnote]]Declarado incorrecto después del Incidente 12022005/562.[[/footnote]], Agresión, Agrupado, Consciente, ¿Inteligente?, Orgánico
+[[/div]]
+------
+
+**Protocolos de Contención:** Aunque RPC-562 en sí mismo se considera Explicado, ahora se sabe que sus causas son anómalas y hostiles, y permanecen activas e incontenidas. Por ello, se ha emitido una orden de captura pendiente para RPC-562-A.
+
+RPC-562 sigue siendo una gran amenaza para la seguridad operativa, por lo que los protocolos de luz de gas están en plena vigencia para la Comunidad de Madrid. Los rastreadores web desplegados en la región de la Unión Europea deben buscar posibles referencias a la Agrupación de Interés "Ciudadanos Preocupados de Plaza Mayor", así como a las denuncias de personas desaparecidas de la ciudad de Madrid presentadas entre 2001 y 2005. Los resultados se comunicarán a las autoridades de la División de Protección EUROCOM.
+
+------
+
+> ##red|**ORDEN DE CAPTURA PENDIENTE:**## **06/07/2006 - PRESENTE**
+> **Autoridad:** Dir. Regional PD Lauro Osorio de la EUROCOM 
+> **Objetivo Actual:** RPC-562-A, España, Portugal y Francia
+
+------
+
+**Descripción:** RPC-562 designa una serie de desapariciones ocurridas en los alrededores de Madrid, capital de España, entre 2001 y 2005. Aunque ya se identificaron casos potenciales en 1999, solo se han confirmado 162 desapariciones como consecuencia del fenómeno, cada una de ellas designada individualmente como RPC-562-1 a -162. Para ver la lista completa de casos y las pruebas asociadas a cada uno de ellos, consulte el ###5295e1|Documento 562-A/#814-3-B##.
+
+Los casos de RPC-562 siguen un patrón invariable de eventos en tres fases, organizado de la siguiente manera;
+
+# El sujeto, en adelante denominado RPC-562-A, afirma sentirse acosado por una silueta humana única cada vez que sale de su casa. Esta figura siempre camina de pie, y su rostro permanece oculto en todas las descripciones. Parece conocer de forma innata la ubicación exacta y el campo de visión de los dispositivos de vigilancia colocados en sus proximidades, y aprovecha con éxito sus limitaciones para no ser visto o huir rápidamente.
+# Al cabo de un tiempo indefinido, RPC-562-A desaparece en circunstancias poco claras, con ausencia total de pruebas o insuficientes para discernir el momento exacto de la desaparición. La progresión a la fase 2 se produce cuando RPC-562-A está solo fuera de su casa, pero puede no desencadenarse inmediatamente.
+# Entre 3 y 6 meses después de la desaparición, RPC-562-A reaparecerá, inconsciente, cerca del lugar de la desaparición. Las instancias de la Fase 3 de RPC-562-A llevan una ropa idéntica a la que llevaban antes de desaparecer, aunque ligeramente dañada y rota. RPC-562-A muestran una condición amnéstica similar al Síndrome de Korsakoff[[footnote]] Normalmente se desarrolla como consecuencia de la desnutrición o del consumo prolongado de alcohol [[/footnote]], cuyo síntoma principal es la amnesia retrógrada generalizada que afecta a todos los recuerdos anteriores a la aparición: los individuos son incapaces de recordar la mayoría de los acontecimientos anteriores a la Fase 3, y no recuerdan su relación anterior con personas que reconocen, como familiares u otros seres queridos.
+
+La progresión de la Fase 1 a la Fase 2 ha sido detenida con éxito temporalmente por algunos individuos afectados evitando zonas despobladas o permaneciendo dentro de sus casas, pero la desaparición final parece ser inevitable.
+
+RPC-562 se considera Explicado tras el incidente 12022005/562, pero la investigación sobre las causas del fenómeno sigue en curso.
+
+------
+
+**__Apéndice 562-01: Investigación.__**
+
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» ARCHIVO BLOQUEADO: Validar Credenciales de NV3 «" hide="« Cerrar »"]]
+[[/=]]
+[[<]]
+Aunque la Autoridad conocía RPC-562 desde 2003, la investigación inicial de RPC-562 fue llevada a cabo por una comunidad basada en un foro de Internet autodenominada "Ciudadanos Preocupados de Plaza Mayor".[[footnote]] Este nombre deriva de una organización similar con sede en Argentina, Madres de Plaza de Mayo, fundada en 1977 como respuesta a las desapariciones forzadas provocadas por la entonces dictadura militar. [[/footnote]] Fundado en 2001 tras RPC-562-29 y compuesto originalmente por solo 26 miembros, experimentó una importante expansión tras el Incidente 12022005/562, llegando a tener 279 miembros registrados antes de la intervención de la Autoridad.
+
+Los miembros originales del grupo creían que RPC-562 era una serie de desapariciones forzadas llevadas a cabo por el cuerpo de policía de Madrid en posible colaboración con el gobierno español y otros gobiernos u organizaciones internacionales con fines desconocidos, potencialmente dirigidos a individuos en posesión de datos sensibles. Sin embargo, tras un pequeño aumento de la popularidad después de RPC-562-98, el grupo se centró en las creencias paranaturales, intentando explicar RPC-562 como un fenómeno paranormal. Las explicaciones populares producidas por el grupo van desde la abducción extraterrestre hasta una especie de "rapto temporal" o experiencia religiosa parecida a los eventos de la //Divina Comedia.//
+
+El grupo nunca llegó a tener la suficiente repercusión como para suponer una amenaza significativa para la seguridad, ya que los medios de comunicación españoles no dieron a conocer los casos de RPC-562 ni detectaron las similitudes entre los casos que sí se dieron a conocer.
+
+Ciudadanos Preocupados fue clasificado oficialmente como un Grupo de Interés después de noviembre de 2005, y se consideró desmantelado en julio del año siguiente, tras la captura, el interrogatorio y la liberación de los individuos implicados. El conocimiento que el grupo tenía de RPC-562 era erróneo, y ninguno de sus miembros había conseguido ponerse en contacto con instancias de RPC-562-A o con sus familias antes de la intervención de la Autoridad, con una excepción importante. Sin embargo, su sitio web, ya desaparecido, albergaba una gran cantidad de pruebas relativas a los sucesos que creían asociados a RPC-562, de las cuales una cantidad significativa ha resultado esencial para la investigación de la Autoridad sobre el fenómeno. 
+
+[[/<]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» A#1 [562-98] «" hide="« Cerrar »"]]
+[[/=]]
+[[<]]
+
+++ ARCHIVO #1: RPC-562-98
+
+El 20 de agosto de 2003, el moderador del foro Ciudadanos Preocupados, Julián Ortega[[footnote]] Con el nombre de usuario "misantr0p0_es" en el sitio web  [[/footnote]], abrió un hilo administrativo en el que afirmaba que le seguía una figura anodina. Aunque en un principio se recibió con escepticismo, el hilo no tardó en recibir una amplia atención en el foro después de que se informara de su desaparición en un periódico menor de Madrid.
+
+Cuatro meses después de su último mensaje, Julián Ortega reapareció en las inmediaciones de Plaza Mayor, y no se sabe que haya participado en ningún otro suceso relacionado con RPC-562.
+
+
+
+> ##red|[MOD] misantr0p0_es## -- 20/08/2003 11:34 **[POST PRIORITARIO]**
+> 
+> Chicos, creo que me están siguiendo. Siempre que salgo a la calle veo que me sigue... probablemente un dinosaurio[[footnote]] Apodo despectivo para policías o soldados en algunos países hispanos [[/footnote]] de algún tipo. Siempre va encapuchado y trata de permanecer lejos, pero siempre lo veo. No he podido tomar una fotografía o ver su rostro, pero dudo que pueda hacer algo con eso de todos modos.
+> 
+> Solo os lo hago saber, por si de repente dejo de publicar. Todos sabéis que no soy muy privado con mi información personal, y probablemente por eso me han encontrado. EN CASO DE QUE ALGUIEN QUE NO SEA YO NO ESTÉ USANDO UNA VPN, POR FAVOR HACEDLO. Fue un error por mi parte asumir que la policía no se daría cuenta de nuestra presencia o nos consideraría una amenaza real.
+> 
+> A los demás miembros del staff: Pido que se retire la condición de moderador de esta cuenta lo antes posible. No quiero que la policía borre todo lo que hemos recogido aquí. 
+> 
+> -----
+> ##green|FireStorm109## -- 20/08/2003 11:36 
+> 
+> ¡Oh, genial! Me llega un correo de prioridad mod y es otro puto post de misan. ¡Joder, qué perfecto!
+> 
+> -----
+> ##green|LaLawliet## -- 20/08/2003 11:36 
+> 
+> pesadilla gangstalk capítulo III: por qué coño me uní
+> 
+> -----
+> 
+> ##green|[INVITADO] jetfuelsteelbeams## -- 20/08/2003 11:37 
+> 
+> Esta es la razón por la que no se registra la cuenta en █████, gente. Os dije que era una trampa. 
+> 
+> Si ya tenéis una cuenta no hay mucho que podáis hacer ahora, pero os sugiero que la borréis y utilicéis la VPN de todos modos, por si acaso.
+> 
+> -----
+> 
+> ##green|[INVITADO] ArcoRayo## -- 20/08/2003 11:42
+> 
+> ¿Cómo podría una VPN hacer algo aquí? █████ guarda tu correo electrónico e IP, e incluso podría seguir haciéndolo si borras tu cuenta. Sois carne de cañón.
+> 
+> -----
+> 
+> ##green|lord_sifr## -- 20/08/2003 11:42
+> 
+> joder, ¿qué vamos a hacer ahora?
+
+@@ @@
+ 
+> ##yellow|[ADMIN] FRANCISCOELFRANCO## -- 20/08/2003 11:55
+> 
+> Sí, misantr0p0, tu condición de moderador será revocada, pero no porque estés "en peligro" o porque todo el Cuerpo de Superhackers del Estado Islámico vaya detrás de ti (sí, no creas que lo he olvidado), sino porque has demostrado una y otra vez que echas cortinas de humo de forma recurrente. Cada vez que haces una de estas, provocas confusión y difundes datos dudosos, incluso para los estándares de una web conspiranoica.
+> 
+> Se te permitirá permanecer como usuario, siempre y cuando admitas haber fingido todo este asunto de ser seguido. Este sitio no es tu puesto de atención personal, es un esfuerzo para que se haga justicia a las víctimas de las élites mundiales.
+> 
+> Todos los demás: por favor, mantened la calma. No estáis siendo perseguidos por la policía, y vuestra seguridad y la de vuestra familia no está en riesgo. █████ no lleva un registro de IPs, aunque os sugiero que uséis una cuenta de correo electrónico desechable.
+> 
+> -----
+> 
+> ##green|[INVITADO] jetfuelsteelbeams## -- 20/08/2003 12:00
+> 
+> *aplausos* ya era hora de que alguien hiciera esto lol. Báneenlo ya, no va a admitir de repente que está mintiendo.
+> 
+> -----
+> 
+> ##green|misantr0p0_es## -- 20/08/2003 12:20
+> 
+> No estoy mintiendo. Os prometo que no lo hago. Lo prometo, joder. Sé que he mentido en el pasado, pero JURO que esto no es lo mismo. No estaba en un buen momento entonces, pero ahora he cambiado. Sé que es estúpido que diga esto porque solo han pasado tres meses, pero por favor, creedme por esta vez. 
+> 
+> ¿Sabéis qué? A la mierda con esto. Voy a enfrentarme a este cabrón. Lo más probable es que finalmente deje de publicar después de esto. Espero que estéis todos contentos.
+> 
+> -----
+> ##red|[MOD] 4puntos## -- 20/08/2003 12:28
+> 
+> buena suerte con eso. ¡vamos a ver tu próximo video de no-disculpa llorando en tres meses!
+
+@@ @@
+
+> ##green|trece## -- 22/08/2003 14:10
+> 
+> JODER tios
+> 
+> comprad la edición de Iceberg de hoy
+> 
+> -----
+> ##green|lord_sifr## -- 22/08/2003 14:03
+> 
+> TENÍA RAZÓN
+> 
+> LO SABÍA, JODER
+> 
+> -----
+> ##green|Torquemada## -- 22/08/2003 14:05
+> 
+> ¿Estás seguro de que esto no es una especie de broma? Él es totalmente el tipo de persona que trata de hacer esta mierda IRL y reaparecer más tarde
+> 
+> -----
+> ##green|lord_sift## -- 20/08/2003 12:00
+> 
+> {{> Él es totalmente el tipo de persona que trata de hacer esta mierda IRL y reaparecer más tarde}}
+> 
+> venga tronco, no puedes hablar en serio
+
+@@ @@
+
+> ##green|misantr0p0_es## -- 27/08/2003 22:12
+> 
+> hey chicos, ¿estáis todos bien?
+> 
+> -----
+> ##green|trece## -- 27/08/2003 22:14
+> 
+> ¿QUÉ MIERDA?
+> 
+> Colega, ¿estás bien? ¿Los polis te soltaron?
+> 
+> -----
+> ##green|Torquemada## -- 27/08/2003 22:14
+> 
+> Os lo dije.
+> 
+> -----
+> ##green|misantr0p0_es## -- 27/08/2003 22:17
+> 
+> {{> Colega, ¿estás bien? ¿Los polis te soltaron?}}
+> 
+> estoy bien, creo. solo estoy un poco mareado.
+> 
+> -----
+> ##green|lord_sifr## -- 27/08/2003 22:17
+> 
+> ¿Dónde coño estás? ¿Estás herido?
+> 
+> -----
+> ##green|misantr0p0_es## -- 27/08/2003 22:20
+> 
+> No lo sé, pero es bastante oscuro y estrecho. Parece de hormigón. aquí hay una foto
+> 
+> ##5295e1|[DESCARGAR ARCHIVO ADJUNTO]##
+> 
+> -----
+> ##green|lord_sifr## -- 27/08/2003 22:17
+> 
+> qué cojones... 
+> 
+> -----
+> ##red|[MOD] 4puntos## -- 27/08/2003 22:26
+> 
+> amigo, déjate de chorradas AHORA MISMO. no sé cómo has hecho para que la gente del Iceberg se lo crea, pero nosotros no. eres un puto psicópata de cuidado.
+> 
+> -----
+> ##black|misantr0p0_es## -- 27/08/2003 22:32
+> 
+> ¿queeé es lo que pasa? de verdad que no sé qué te pasa, 4puntos. 
+> 
+> de todos modos chicos. estoy como muy hambriento ahora mismo, y he intentado comer pero no funciona. ¿alguno de vosotros puede recogerme?
+> 
+> ##black|[USUARIO BANEADO]##
+
+@@ @@
+
+> -----
+> ##yellow|[ADMIN] FRANCISCOELFRANCO## -- 28/08/2003 03:22
+> 
+> Cerraré este hilo ahora. No va a producir nada de valor.
+> 
+> No vamos a desbanear a misan. Todo el mundo, por favor, mantened los ojos en la pelota, sé que permitimos teorías alienígenas y demás en hilos anteriores, pero no quiero que afecte a todo el foro. Mantened las cosas realistas.
+
+------
+
+[[=]]
+[[include component:image-block align=center|name=http://rpcsandbox.wikidot.com/local--files/oialma/fig1|caption={{img 1.1: Imagen subida por Julián Ortega}}]]
+[[/=]]
+
+[[/<]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» A#2 [29/06/2004] «" hide="« Cerrar »"]]
+[[/=]]
+[[<]]
+
+++ ARCHIVO #2: 29/06/2004
+
+El 29 de junio de 2004, un usuario anónimo[[footnote]] Con el nombre de usuario "Fobos" [[/footnote]] subió un vídeo de 34 minutos de duración a un hilo off-topic del foro Ciudadanos Preocupados, en el que afirmaba que se trataba de la exploración de un edificio abandonado en las afueras de Madrid. Al ser preguntado por otros miembros del foro, el usuario se negó a dar detalles sobre el lugar en el que se había grabado el vídeo, asegurando en cambio a los demás usuarios que "el lugar era peligroso". Cuatro horas después de la publicación, parece que un usuario identificó el lugar en cuestión, lo que provocó la retirada del vídeo y la eliminación de los mensajes que lo mencionaban por motivos de seguridad. 
+
+Antes de que se retirara el vídeo, un segundo usuario identificó un lugar similar a la fotografía adjunta al Archivo nº 1, lo que podría relacionar al usuario anónimo con RPC-562-98. Algunos usuarios del foro creen que el que subió el archivo fue Julián Ortega empleando un dispositivo diferente, pero no han encontrado pruebas que corroboren esa afirmación.
+
+Como el archivo original no pudo ser adquirido por la Autoridad, su contenido se desconoce. Sin embargo, se ha construido un resumen fragmentado a través del análisis del hilo.
+
+> **00:00 -- 00:22:** El sujeto entra en el edificio a través de puertas dobles, encontrándose con lo que parece ser un salón de una mansión.
+> 
+> **14:55:** Toma panorámica: el exterior de una gran máquina no identificada en funcionamiento. Está cubierta de óxido, y varias secciones parecen no ser funcionales o no funcionar correctamente. Está compuesta principalmente por tanques de almacenamiento de líquido o gas, así como por tubos y engranajes. De su estructura principal salen varios tubos, algunos de los cuales pierden pequeñas cantidades de vapor.
+> 
+> **22:10 -- 26:30:** El sujeto explora lo que parece ser una sala de reuniones, con una larga mesa en el centro. La mesa está cubierta con un surtido de papeles y fotografías. En el lado opuesto a la entrada se ha retirado un trozo de pared, dejando al descubierto un incinerador inactivo. En su interior hay trozos de papel parcialmente quemados.
+> 
+> **28:11:** Breve imagen de un arsenal de armas. La mayoría de las armas que contiene siguen siendo desconocidas, pero los usuarios del foro identificaron al menos un único fusil de asalto M16 modificado. En general, se cree que este rifle es un primer modelo de un M16A2 fabricado entre 1983 y 1986, pero la naturaleza de sus modificaciones permanece incógnita.
+> 
+> **33:42 -- 34:00:** El sujeto registra cuidadosamente su entorno, estando dentro de una sala de observación con un único panel de cristal sobre un espacio oscuro. Junto al panel de cristal se encuentra una puerta metálica reforzada. Más tarde, el sujeto se esfuerza por abrir esta puerta y desciende por una escalera enrejada. Los usuarios del foro que comentan este segmento señalan que la escalera está fijada a una pared a su izquierda, que parece estar compuesta de roca pero está ampliamente pulida, sin rugosidades o irregularidades visibles en la cámara.
+> 
+> **34:00 -- 34:47:** El sujeto termina de descender, y avanza por un estrecho camino anodino, similarmente pulido a la pared descrita anteriormente. Los ecos de los pasos son audibles, y crecen en volumen y proximidad hasta que la grabación termina.
+
+[[/<]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» A#3 [OP. MARTILLO] «" hide="« Cerrar »"]]
+[[/=]]
+[[<]]
+
+++ ARCHIVO #3: OPERACIÓN MARTILLO
+
+Los siguientes documentos fueron adquiridos entre el 07/2005 y el 06/2007 durante la Operación Martillo, un esfuerzo conjunto de la División de Protección de EUROCOM en España y un número limitado de miembros de Ciudadanos Preocupados para localizar las posibles causas de RPC-562 tras el incidente 12022005/562. 
+
+La ayuda de estas personas fue vital para el éxito de la operación, ya que habían llevado un cuidadoso registro de la actividad inexplicable de individuos armados y vehículos sin marcar en torno a varios edificios que se creían abandonados. Se sabe que este tipo de movimientos estuvo muy extendido en Madrid hasta 1998, año en que cesó bruscamente toda actividad inexplicable. 
+
+Actualmente se cree que ciertos elementos del Ayuntamiento de Madrid colaboraban estrechamente con un pequeño número de conocidas an-orgs[[footnote]] Organizaciones anómalas [[/footnote]] independientes que operaban públicamente como una variedad de pequeñas empresas, incluyendo la construcción, la demolición y el control de plagas. Sin embargo, un cuidadoso escrutinio de los edificios abandonados conocidos como epicentros de la mencionada actividad inexplicable logró recuperar una cantidad limitada de correspondencia y documentación que los vinculaba. Se cree que la correspondencia entre estas organizaciones utiliza un método único de encriptación o argot diseñado para ocultar su significado previsto, enmascarándolo como datos logísticos o comunicación amistosa entre miembros individuales.
+
+Aunque se logró demostrar la existencia de actividad anómala en Madrid antes de 1998, los datos adquiridos durante las primeras fases de la Operación Martillo fueron limitados y no permitieron describir su finalidad ni vincularla a RPC-562, ya que se cree que los documentos verdaderamente sensibles fueron destruidos antes de la intervención de las autoridades.
+
+La Operación Martillo supuso un gran avance durante el 08/02/2006, cuando se descubrieron una serie de documentos indebidamente destruidos en un horno oculto en el Sanatorio de la Marina. Estos documentos vinculaban directamente la actividad anómala anterior a 1998 con el conglomerado paranormal Omega Iota y RPC-562, y permitieron a la Autoridad comprender adecuadamente las causas y consecuencias del fenómeno anómalo. Investigaciones más recientes descubrieron una actividad generalizada del Instituto de Investigación Vinland-Pyre, una de las tres mayores organizaciones miembros de Omega Iota, en todo Madrid entre 1980 y 1984.
+
+------
+
+[[div class="oi"]]
+[[table style="border: none; border-bottom: 1px dotted black; width: 100%; color: black; background-color: none;"]]
+[[row]]
+[[cell]]
+**Autor:** Demoliciones Alsina 
+[[/cell]]
+[[cell]]
+**Destinatario:** Comunicaciones Omega Iota 
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Asunto:** Sala Cerrada (17/7/1983)
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div style="float:right;"]]
+[[size 300%]]##darkred|{{ΩΙ-R}}##[[/size]]
+[[/div]]
+~~~~
+
+Por la presente y a los interesados, informamos del éxito del hallazgo de la "sala cerrada", tal y como se trató en la Sesión Administrativa 16. 
+
+Se accedió a la sala en cuestión a partir de ayer, y se encontró en el estado esperado. El equipo de descubrimiento no pudo encontrar ninguna contaminación exterior.
+
+En su interior se encontraron un centenar de entidades inactivas, inmovilizadas mediante camisas de fuerza especializadas con un logotipo único no identificado. Su claro estado de desnutrición nos hizo pensar que podrían haber sido neutralizados por una fuerza exterior, pero un examen más detallado reveló que la mayoría de ellos siguen vivos. 
+
+El análisis de la propia estructura ha sido improductivo, sin que se hayan encontrado más datos sobre sus constructores. Sin embargo, como las entidades están sujetas con camisas de fuerza, su fecha de construcción no puede ir más allá del siglo XIX.
+
+No estamos seguros del alcance de las propiedades de las entidades, y realizaremos más pruebas.
+
+[[/div]]
+@@ @@
+
+[[=]]
+[[include component:image-block |width=600px|align=center|name=http://rpcsandbox.wdfiles.com/local--files/oialma/mumies.jpg|caption={{img 1.2: Desconocido. Imagen fechada en 1962.}}]]
+[[/=]]
+
+@@ @@
+[[div class="oi"]]
+[[table style="border: none; border-bottom: 1px dotted black; width: 100%; color: black; background-color: none;"]]
+[[row]]
+[[cell]]
+**Autor:** Demoliciones Alsina 
+[[/cell]]
+[[cell]]
+**Destinatario:** Comunicaciones Omega Iota 
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Asunto:** Sala Cerrada (24/9/1986)
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div style="float:right;"]]
+[[size 300%]]##darkred|{{ΩΙ-R}}##[[/size]]
+[[/div]]
+~~~~
+
+Hemos tenido un éxito inmenso. 
+
+Las pruebas realizadas a las entidades reanimadas nos han llevado a creer que son de naturaleza estigia, y como tal, son particularmente vulnerables a los peligros meméticos e informativos.
+
+Proponemos que se empleen como sujetos de prueba para el Proyecto Bauhaus, mediante la preparación de varias instalaciones de prueba subterráneas en todo Madrid. Cada grupo de entidades se expondría visualmente a un estilo arquitectónico concreto y se emparejaría con una cepa particular de DA1839 durante un periodo de hasta diez años, con el fin de observar las particularidades de cada cepa y la arquitectura resultante, así como la posible interferencia de la contaminación informativa de los madrileños. Las camisas de fuerza deberán ser sustituidas para garantizar un transporte seguro.
+
+Como prueba de concepto, sugerimos colocar unas pocas docenas de entidades y una única instancia DA1839 modificada en una cavidad subterránea durante algo más de un mes. Si funciona como se espera, no solo la arquitectura resultante será idéntica a la de la "sala cerrada", sino que todas las entidades deberían mostrar una mayor sumisión y una menor hostilidad. Además, una manipulación más cuidadosa de DA1839 les permitiría comportarse normalmente en la mayoría de las situaciones y entrar en un estado de comportamiento servil tras la exposición a un desencadenante o frase memética. 
+
+Si tiene éxito, DA1839 podría desplegarse en lugares frecuentados por dignatarios de estado y otras personas importantes.
+
+Esperamos una respuesta. 
+
+[[/div]]
+@@ @@
+[[div class="oi"]]
+
+[[>]]
+++ ##black|{{**ΩΙ-R**}}##
+[[/>]]
+
+[[div style="border: 1px black solid; padding: 1%; float: right; width: 45%; margin: 1%;"]]
+
+**Activo Documentado:** DA162
+
+**Código de Amenaza:** Delta
+
+**Escala Cognitiva:** 2
+
+**Nombre del Activo:** Resonador Subterráneo/Distribuidor de Infoenzimas
+
+**Autor:** Gerardo Kleiman
+
+[[/div]]
+
+**Descripción:** DA162 es un dispositivo mecánico construido para la contención de parásitos infovoros y entidades estigias específicas del Proyecto Bauhaus. Originalmente un Resonador Subterráneo estándar, ha sido modificado para incorporar un distribuidor automatizado de infoenzimas.
+
+DA162 consta de dos partes principales interdependientes: el dispositivo resonador y el productor de infoenzimas. Como el dispositivo resonador funciona principalmente mediante una forma anómala de ondas mecánicas, parte del dispositivo debe estar enterrado para evitar su detección, lo que dificulta la interacción con el líquido precursor empleado por el productor de infoenzimas. Sin embargo, colocar el precursor cerca del segmento de superficie de DA162 ha demostrado ser una solución eficaz. 
+
+Mientras que las ondas anómalas producidas por DA162 pueden tanto coincidir con la frecuencia específica requerida para incapacitar a las entidades estigias como codificar las infoenzimas, ciertos parásitos infovoros no pueden interpretar las infoenzimas codificadas en las frecuencias requeridas. Por ello, el dispositivo está preparado para cambiar automáticamente entre ambas en breves intervalos.
+
+DA162 se encuentra actualmente en la Fortaleza Franciscana, cerca de Madrid, la capital. Para garantizar su correcto funcionamiento, se han instalado una serie de estaciones repetidoras en las instalaciones de prueba.
+
+**Procedimientos de Observación:** DA162 en sí mismo no presenta ninguna amenaza para el personal, salvo para aquellos que se expongan directamente a sus mecanismos. Sin embargo, el mantenimiento es intensivo y riguroso, y requiere exámenes diarios y la sustitución frecuente de los componentes.
+
+~~~~
+[[/div]]
+@@ @@
+[[div class="oi"]]
+[[table style="border: none; border-bottom: 1px dotted black; width: 100%; color: black; background-color: none;"]]
+[[row]]
+[[cell]]
+**Autor:** Demoliciones Alsina 
+[[/cell]]
+[[cell]]
+**Destinatario:** Comunicaciones Omega Iota 
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Asunto:** Bauhaus (12/4/1997)
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div style="float:right;"]]
+[[size 300%]]##darkred|{{ΩΙ-R}}##[[/size]]
+[[/div]]
+~~~~
+
+La eficacia de DA162 a la hora de mantener las zonas de prueba bajo control ha sufrido un descenso fatal. 
+
+El estado de contención en las áreas de prueba 7 y 12 ha sufrido un golpe drástico, ya que sus equipos de inspección han sido devorados rápidamente durante su examen diario de las cavidades y un total de 8 personas más han sido atraídas posteriormente. Los guardias estacionados han conseguido hacer volver a los humanoides al interior de sus cavidades, pero solo después de dispararles una inmensa cantidad de munición en sus cuerpos. Son tan hostiles y resistentes como se esperaba, así como astutos, muy capaces de mimetizarse, y superarán rápidamente a nuestro personal si se les da más tiempo.
+
+Hemos descubierto que el mantenimiento de DA162 ha sido negligente, y varias secciones vitales han sufrido daños mortales. La sustitución de estas partes no es factible, y sin ellas la contención será imposible. Se espera que la eficacia de DA162 se degrade rápidamente en los próximos años, permitiendo finalmente una ruptura completa en todas las áreas de prueba alrededor del año 2002.
+
+Almagro ha sugerido que intentemos apaciguar a las entidades saciando su hambre de carne humana, pero simplemente no poseemos suficiente para alimentarlas a todas. No estamos seguros de que sea suficiente, y de que no aumente su hostilidad e inteligencia.
+
+Solicitamos permiso para eliminar manualmente todas las instancias de DA1839 desplegadas para evitar su eventual expansión fuera de las zonas seguras. Las áreas de prueba serán entonces selladas temporalmente hasta que las pruebas puedan reanudarse de forma segura. Se necesitarán más fondos y personal para sustituir a DA162 y recuperar el control de las zonas de prueba. Es imprescindible tener en cuenta que todas las medidas de seguridad que hemos podido poner en marcha son estrictamente temporales y que serán necesarias nuevas acciones.
+
+[[/div]]
+@@ @@
+[[div class="oi" style="font-family: 'Merriweather', serif;"]]
+[[>]]
+[[image http://rpcsandbox.wikidot.com/local--files/omega-iota-hub/oi_dark.png style="width: 20%;"]]
+[[/>]]
+
+++ [[span style="font-family: 'Merriweather', serif; color: black;"]]A quien corresponda,[[/span]]
+Este es un mensaje del Alto Ministerio de Omega Iota. Se recomienda encarecidamente al destinatario que lea detenidamente esta carta a instancias de:
+# Ministro VII
+
+= ******
+
+Se le ordena concluir el desarrollo del Proyecto Bauhaus en la Ciudad de Madrid.
+
+Se le pedirá que recupere al menos una instancia de DA1839 de cada Área de Pruebas antes de sellarlas, con el fin de asegurar el análisis posterior de las modificaciones realizadas en el código memético. Se destruirá la documentación no esencial relativa al Proyecto Bauhaus, los registros logísticos y otras cartas del Alto Ministerio de Omega Iota.
+
+Debido al deterioro de nuestra relación con el Ayuntamiento de Madrid, se prohíbe toda acción posterior relativa a las entidades humanoides empleadas para las pruebas. Deben retirarse de Madrid y dejarlos contenidos con cualquier medida temporal disponible. Asegúrese de que DA162 siga funcionando durante este proceso, e ignore todas las peticiones que reciba de él.
+
+Debe elaborar una lista del personal implicado en el mantenimiento de DA162 y enviarla al Alto Ministerio.
+
+[[/div]]
+@@ @@
+[[/<]]
+[[/collapsible]]
+[[/div]]
+
+
+------
+
+**__Apéndice 562-02: Incidente 12022005/562__**
+
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» ARCHIVO BLOQUEADO: Validar Credenciales BS-3+ «" hide="« Cerrar »"]]
+[[/=]]
+[[<]]
+
+[[=]]
+[[include component:image-block align=right|name=http://rpcsandbox.wikidot.com/local--files/oialma/TorreWindsor1.jpg|caption={{img 1.3: Torre Windsor, 13/02/2005}}]]
+[[/=]]
+
+El 12 de junio de 2005 se detectó un incendio en la planta 21 de la Torre Windsor, un edificio de oficinas en el centro financiero de Madrid. El fuego se extendió rápidamente al resto del edificio, provocando el derrumbe de su capa de acero más externa. La destrucción de la Torre Windsor fue casi total, y llevó a que sus restos fueran demolidos posteriormente.
+
+Sin embargo, durante la evaluación realizada por el Ayuntamiento, se detectó un agujero en sus cimientos que conectaba la planta más baja con una inmensa cavidad subterránea sin iluminación. Este descubrimiento provocó la intervención de las autoridades, que enviaron un equipo de exploración de 20 personas a la cavidad, y encontraron un enorme espacio rectangular de aproximadamente 2 km de longitud, 600 m de anchura y 5 km de profundidad. Lo que parecen ser partes de veinte edificios de apartamentos de seis pisos están tallados en la piedra, todos vacíos excepto por treinta y seis cuerpos humanos desnudos en varios lugares. Estos cuerpos están en varios estados de descomposición y han sido parcialmente devorados por una entidad carnívora desconocida.
+
+Una vez puestos en marcha los protocolos de desinformación, los treinta y seis cuerpos fueron identificados como víctimas de RPC-562 que habían reaparecido y habían sido interrogados por la Autoridad en los últimos meses. Las investigaciones posteriores en el subsuelo de Madrid consiguieron descubrir 53 cavidades similares a la de la Torre Windsor, pobladas con los cuerpos de las 162 víctimas de RPC-562.
+
+Sin embargo, cuando se intentó contactar o capturar a los "resurgidos", se descubrió que habían vuelto a desaparecer menos de 24 horas después del incendio de la Torre Windsor, siendo vistos por última vez huyendo de sus casas. Los intentos de localizarlos han fracasado, y los familiares cercanos han afirmado de manera uniforme que han tenido un comportamiento inusual y hostil desde su regreso a sus hogares. Se están llevando a cabo investigaciones para intentar relacionar un reciente aumento de los asesinatos caníbales en Europa Occidental con la reaparición de las víctimas de RPC-562.
+
+Todas las víctimas de RPC-562 "resurgidas" están bajo una ##red|orden de captura pendiente## y deben ser consideradas como anomalías hostiles de tipo Gamma-Rojo.
+
+[[/<]]
+[[/collapsible]] 
+[[/div]]
+
+------
+

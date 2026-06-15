@@ -1,0 +1,87 @@
+---
+title: "GD-ANTC"
+tags: ["document", "personnel"]
+page_id: "1329994914"
+site: "rpcauthority"
+slug: "gd-antc"
+revision: 8
+revision_id: "1541748936"
+author: 5982545
+timestamp: 1770050162
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=]]
+++ ##ccc|>> Office of the Directorate <<##
+[[/=]]
+
+----
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aadministration-theme/Administration.png width="150px"]]
+
+[[=]]
++ ##ccc|GLOBAL DIRECTOR "ANTARCTICOM"##
+[[/=]]
+----
+
+[[# GD-NORTH]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022_1%5D%20Antarctica%20Command.png width="200px"]]
+
+**GD-ANTC:** Global director representative for Antarctica, international territory, and tie-breaker vote
+
+**Personality Archetype:** Despite his old age, he remains one of the greatest minds and leaders the Containment Division has ever had.
+
+GD-ANTC was born in Eastern Europe, but has spent much of his life in the Antarctic, overseeing the containment of anomalies in the bitter snowscape. He's one of the last men alive with first-hand involvement in the New Swabia //Austral War//, seeing himself as carrying the torch of that victory; but he was only a logistics officer and gets brittle when confronted about his actual service record.
+
+**Relationships:** The Divisions had yet to exist during the Austral War, but to GD-ANTC, the modern Protection Division still embodies the heart and soul of the men who fought in that time; he ultimately belongs to and favors Containment for his years managing Antarctic containment sites, but he will always hold strong support for Protection.
+
+GD-ANTC supports the Research Division as long as the study of anomalies grants the Authority a better mind for containing them. Additionally, he has a strong hatred for the various extra-divisional departments that tend to work under the Directorate's nose, but serves as the primary indirect manager of these departments.
+
+----
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/gd-antc/ANTARTICOM_Drakes_Expedition.png|caption=Drake's Expedition patch|width=200px|align=right]]
+
+Drake's Expedition is the unit of MST Alpha-1 tasked with protecting the current ANTARCTICOM GD at all times. The unit traditionally consists of ten members, and are hand-selected by the current GD-ANTC, a mix of ASF and Protectorate personnel with at least 5 years of experience in Antarctic conflict and logistical intuition, chosen for their history and loyalty to the current GD-ANTC.
+
+Reflected in the unit patch, Drake's Expedition and GD-ANTC are heavily associated with the cosmos and the Authority's space presence, seen as the ultimate international territory to all of mankind. It is tradition for each new GD-ANTC to be proclaimed the protector for the sun and the solar system — with each member of Drake's Expedition ordained as the protector for one of the eight planets, Pluto, and the moon — during the Directorate's ceremonial first meeting of the office cycle.
+
+Each member of Drake's Expedition is code-named by the celestial body they represent.
+
+----
+
+**Rap Sheet**
+
+* **Bodyguards:** 3 Personnel (Jupiter, Saturn, Uranus)
+* **Overwatch:** 2 Personnel (Mercury, Pluto)
+* **Logistics:** 2 Personnel (Mars, Venus)
+* **Comms/Technical Support:** 2 personnel (Earth, the Moon)
+* **Medical Support:** 1 personnel (Neptune)
+* **Rifle:** 1 Grand Slamwich
+
+----
+
+Articles involving GD-ANTC or Drake's Expedition:
+[[module ListPages separate="no" tags="+gd-antc +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-antc -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+
+[[=]]
+> +++++ [ DECLASSIFICATION PENDING GD APPROVAL ]
+[[/=]]
+[[/div]]
+

@@ -1,0 +1,123 @@
+---
+title: "RPC-258 [ES]"
+tags: ["translation"]
+page_id: "1329878792"
+site: "rpcauthority"
+slug: "rpc-258-es"
+revision: 6
+revision_id: "1386031500"
+author: 3535580
+timestamp: 1635769866
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]**Teleseguimiento**
+Original: [[[RPC-258]]]
+Translated by: [[user morhadow]]
+[[/span]]
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/us.png link="http://rpcauthority.wikidot.com/rpc-258"]]]]
+
+
+[!--Imagen de Kari Jokinen - Transferida de fi.wikipedia a Commons., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3806166--]
+
+@@@@
+@@@@
+[[tabview]]
+[[tab NOMBRE EN CLAVE: TELESEGUIMIENTO]]
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/alpha-yellow.png]]
+
+[[include component:image-enlarge name=http://rpcauthority.wdfiles.com/local--files/rpc-258/Move90.jpg |width=…px|caption= RPC-258 en el hangar █ del Sitio-███.]]
+
+**Código de Fenómeno Registrado:** 258
+
+**Clasificación de Objeto:** Alfa-Amarillo
+
+**Tipos de Peligro:** Peligro Mecánico, Peligro Transmutador
+
+**Protocolos de Contención:** RPC-258 se encuentra en el hangar █ del Sitio-███. El artículo debe permanecer bajo llave y no puede ser utilizado a menos que esté directamente autorizado por ████████████ y La Administración de Nivel-4 del Sitio-███.  //Actualización: La investigación fue completada el 08/02/19.//
+
+
+**Descripción:** RPC-258 es una locomotora de carga de 252 toneladas métricas //"Clase 95"// de marca y materiales no anómalos que lleva marcas de fabricación así como las de ████████████ Co.[[footnote]]Ha sido catalogada para su vigilancia estándar.[[/footnote]] La empresa no tiene constancia de la base de datos del modelo ni de sus planos y renuncia a participar en su producción o funcionamiento. Además, los equipos de fabricación necesarios para la ingeniería de la locomotora no están presentes en los centros de producción de la empresa. La locomotora no está numerada, por lo que no se puede obtener el historial de producción. Las ruedas están fundidas, lo que impide su transporte.
+
+A pesar de tener una designación numérica de fábrica (//"95"//) que es posterior a las de locomotoras similares y conocidas (por ejemplo, la actual "//Clase 93//"), el diseño y la tecnología de RPC-258 son anteriores a éstas en varias décadas. Está pintada de amarillo oscuro con una estilizada franja negra que circunscribe la locomotora. 
+
+Cuando la bocina de RPC-258 se activa, esta emite un tono de marcación estándar de ~60dB. El origen y el efecto del tono de marcación están siendo investigados empíricamente. La anomalía no fue reconocida durante algún tiempo después de la adquisición (██/██/18), debido a las similitudes entre el tono de marcación de un teléfono y la bocina de un tren de mercancías.
+
+//Nota del Editor: Lo anterior se ha presentado como "Incompleto" con el fin de agilizar la presentación para la investigación y se actualizará en consecuencia.//
+@@@@
+@@@@
+-----
+[[div style="text-align: center;"]]
++++ Documentación Adicional
+[[/div]]
+-----
+
+||~ Evento/Observaciones ||~ Notas||
+|| Tono continuo de 350 y 440 Hz, según la norma de la industria de telecomunicaciones. No se observaron secuelas anómalas. || Bocina activada. ||
+|| El tono continuo termina, adoptando un patrón de repetición de tonos cortos y percusivos consistentes con las señales permanentes estándar.[[footnote]]Señales utilizadas para indicar que un teléfono está descolgado durante un periodo de tiempo prolongado.[[/footnote]] || Bocina activada durante >18 segundos. ||
+|| No se observan cambios en los tonos ni fenómenos anómalos. || Varios intentos de manipular partes móviles, palancas y pantallas de botones, incluyendo el terminal/canales de comunicaciones sobre y dentro de la locomotora mientras la bocina está activada. ||
+|| El tono continuo termina bruscamente tras un pitido audible, seguido de un silencio. Finalmente, suena la señal permanente estándar. || Un contenedor de carga intermodal acoplado a la locomotora. ||
+|| El tono continuo termina bruscamente tras un pitido audible, seguido de un silencio. Finalmente, suena la señal permanente estándar. (No hay cambios.) || Un contenedor de carga intermodal secuencial acoplado a remolque. ||
+|| El tono continuo termina abruptamente después de dos pitidos audibles, después es el mismo patrón de un pitido. || Dos contenedores de carga separados en dos vagones de plataforma diferentes a remolque. ||
+|| Una voz no identificada emite la bocina de aire después de siete pitidos audibles.[[footnote]]"Lo sentimos, su llamada no puede ser completada tal como fue realizada. Por favor, cuelgue y vuelva a intentarlo."[[/footnote]] || Siete contenedores de carga se colocan en siete vagones de plataforma, uno en cada uno, a remolque. ||
+|| Véase el //Anexo 258.1// || Los contenedores de carga se colocan en siete vagones de plataforma en diversas cantidades que van de 0 a 9. ||
+@@@@
+@@@@
++ Autorización de Seguridad de Nivel 2 Requerida 
+[[collapsible show="Verificar Credenciales" hide="Credenciales Verificadas"]]
+//Lo siguiente ha sido reclasificado de la Autorización de Seguridad de Nivel 1 a la Autorización de Seguridad de Nivel 2 con fecha de 10/01/19.//
+
+**Anexo 258.1:** Cuando se acoplaban siete vagones de plataforma a RPC-258, se oían siete pitidos audibles seguidos del timbre estándar de un teléfono. El tono de cada pitido correspondía a valores numéricos conocidos en los teléfonos estándar; por ejemplo, un vagón de plataforma que tiene 3 contenedores de carga encima representaba marcar un "3". Esto confirmó las teorías de que cada vagón de carga actuaba como un marcador de posición numérico en un número de teléfono local. 
+
+Los primeros "números" que se introdujeron en el mecanismo anómalo de RPC-258 dieron lugar a una recepción telefónica en la otra línea, en la que los individuos solían responder de forma típica y cordial. Con cada llamada surgía un patrón, cuyos acontecimientos se resumen a continuación:
+* El individuo responde al teléfono.
+* El individuo cuelga o repite su saludo como si no escuchara a nadie/algo al otro lado.[[footnote]]Esto es así a pesar de todos los intentos de discusión o manipulación de señales.[[/footnote]]
+* Las personas que permanecen en el teléfono pueden sentir cada vez más pánico, sobre todo en sus consultas a lo que está ocurriendo en el extremo de la línea que marcan.
+* Se producen interferencias fuertes y abrasivas y se pierde la conexión.
+
+Las encuestas de seguimiento revelaron información adicional:
+* RPC-258 solo puede hacer llamadas a teléfonos fijos.
+* Una llamada puede terminarse en cualquier momento soltando la bocina.
+* Las llamadas fuera del código de área local pueden lograrse utilizando tres vagones iniciales adicionales a remolque.
+* Los mismos números que seguían el patrón anterior podían volver a marcarse, pero nunca se conseguía que una persona cogiera la línea. En su lugar sonaba un tono de ocupado.
+* La interferencia no se produce si hay un contestador automático ocupado.
+
+
+**Anexo 258.2:** Administración e Investigación coordinaron diseños de pruebas más controlados, reacondicionando una red de comunicaciones terrestre de la Autoridad que había sido inhabilitada, MAGCOMM. Los teléfonos se colocaron en una variedad de estaciones abandonadas de la Autoridad y fueron equipados con paratransmisores[[footnote]]Utilizado para la centralización de la información total de las comunicaciones de ██████ en el Sitio-███ según el Proyecto [DATOS BORRADOS].[[/footnote]] de grabación avanzados de última generación que proporcionaron un análisis detallado y en tiempo real del audio recibido a través de los equipos de telecomunicaciones de la Autoridad. A continuación se resumen los puntos de los informes, presentados desde el ██/██/19:
+
+
+> * No hay --rasgos rastreables, ni siquiera-- coordenadas físicas al extremo instigador de la comunicación.[[footnote]]La triangulación por satélite o torre no es posible debido a la incapacidad de RPC-258 para marcar teléfonos móviles.[[/footnote]]
+> * Cuando se descuelga, el receptor emite un débil tono de llamada que se hace cada vez más fuerte a un ritmo de ~5dB por segundo en el transcurso de 18,4 segundos. A un nivel máximo de decibelios (92dB), se produce una explosión cuya carga útil se localiza en cualquier objeto que se fije en el receptor del teléfono. La letalidad de esta explosión para los objetos orgánicos es inevitable.
+> * Los daños observados son coherentes con las fuerzas de impacto de alta velocidad y/o con las lesiones por onda expansiva radial. Ni el entorno inmediato ni el propio teléfono se ven afectados por la fuerza. La explosión no se produce si el comunicador se desconecta antes de los 18,4 segundos.
+> * Si se deja descolgado a perpetuidad, la explosión volverá a producirse aproximadamente a la misma hora en que se descolgó el teléfono cada día posterior, siempre que haya un objeto fijado. De lo contrario, el ruido simplemente crece y decrece sin que se produzca.
+> * El análisis de los aumentos indica que después de que se produzca una explosión o de que esta pueda suceder, el tono de llamada disminuye en volumen y frecuencia según los principios del efecto Doppler.
+ 
+
+Otras pruebas han confirmado los siguientes datos teóricos:
+> * Las fuerzas de explosión entregadas al recipiente se acercan a los 1,9x 10^^7^^ N.
+> * La velocidad teórica de un objeto que exhiba la periodicidad media del desplazamiento Doppler observado sería de ~80 km por hora, cerca del máximo de las locomotoras conocidas.
+> * Las fuerzas de explosión medidas sugieren una masa teórica de ~1,6x10^^7^^ kg.
+[[/collapsible]]
+
++ Autorización de Seguridad de Nivel 3 Requerida 
+[[collapsible show="Verificar Credenciales" hide="Credenciales Verificadas" hideLocation="Both"]]
+**Anexo 258.3:** Los datos anteriores se correlacionan con el tonelaje de la configuración de RPC-258 en el momento de las pruebas. Los cálculos posteriores fueron coherentes con las modificaciones de los pesos de carga.
+
+Se confirmó que las capacidades de RPC-258 eran fiables. En todas las pruebas se contactó con el personal de las fuerzas policiales y las unidades de investigación cercanas a estos números; se están llevando a cabo operaciones de salvamento con forenses y morgues dentro de la red.
+
+Aunque RPC-258 no puede ser rastreado hasta una ubicación, el equipo de escucha proporciona regularmente un número de teléfono local: ██-██-██-95, que no está registrado oficialmente. Este número es inalcanzable a través de dispositivos de comunicación telefónica, incluidos los teléfonos fijos. Sin embargo, si el número se introduce en dispositivos con capacidad de videollamada, la llamada se responde --indicada por iconos en pantalla controlados por el firmware -- a pesar de que los dispositivos de vídeo utilizan la misma tecnología de comunicaciones que los teléfonos móviles (torre y/o satélite). Cuando es marcado de esta manera, la bocina de RPC-258 sonará sin intervención manual durante la duración de la "conexión" y como se ha teorizado automáticamente [DATOS BORRADOS].
+
+La señal de vídeo y audio no capta ninguna señal, mostrando solo una pantalla negra y silencio. Hasta la fecha, no se ha obtenido ningún dato procesable de estas llamadas. Cabe destacar que la señal de vídeo se interrumpe automáticamente después de unos 18 segundos. 
+[[/collapsible]]
+
++ Autorización de Seguridad de Nivel 4 Requerida 
+[[collapsible show="Verificar Credenciales" hide="Credenciales Verificadas"]]
+**Incidente 258.4:** El 07/02/19 a las ████ hora local, la bocina de RPC-258 sonó a pesar de cualquier intento conocido de conexión. El último número de teléfono que se había marcado utilizando los medios de conectividad de RPC-258, varios meses antes, era una instalación de entrenamiento de la Autoridad abandonada que participaba en el reinicio de MAGCOMM. Los sonidos que emanaban de RPC-258 terminaron espontáneamente a las ████, hora local, y la llamada duró [DATOS CENSURADOS].
+
+Tras el suceso, los operativos de campo de la Autoridad descubrieron que este lugar había sido arrasado en su totalidad por una gran fuerza explosiva. Utilizando las pruebas de los restos, los forenses confirmaron que el sitio había sido requisado en algún momento después del reinicio, y había sido reutilizado por una reciente célula disidente de la Autoridad que estaba compitiendo por el poder. Al parecer, los miembros de la célula con inclinaciones tecnológicas habían modificado el teléfono fijo para recibir datos que pudieran descifrarse en forma de vídeo, con el fin de establecer comunicaciones encubiertas. Esta célula ha sido neutralizada por completo.
+
+**Anexo 258.4:** Las repetidas ponderaciones de RPC-258 (sin accesorios) mostraron discrepancias con respecto a las medidas iniciales. Finalmente se descubrió el peso extra, localizado en la cánula de admisión del motor de la locomotora, que se encontró rebosante de [DATOS CENSURADOS], incluyendo los de [DATOS CENSURADOS], como confirman los registros de RRHH de la Autoridad. 
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+

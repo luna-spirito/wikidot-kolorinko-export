@@ -1,0 +1,202 @@
+---
+title: "RPC-435"
+tags: []
+page_id: "1329874451"
+site: "rpcauthority"
+slug: "fragment:435-0"
+revision: 6
+revision_id: "1509991157"
+author: 5982545
+timestamp: 1683116942
+---
+
+[[=]]
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin-top: 1px; width: 35px;" title="Sapient"]] [[image http://rpcauthority.wdfiles.com/local--files/threats-hazards/Psychotronic.png style="margin-top: 1px; width: 35px;" title="Psychotronic"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png style="margin-top: 1px; width: 35px;" title="Ideological"]]  
+|align=center
+|name=http://rpcsandbox.wdfiles.com/local--files/gemini/New%20Project%20-%202021-10-27T090011.769.png
+|width=100%
+|caption=Depiction of a scene reminiscent of an RPC-435 adjacent narrative, found in Faussegrott Cave. (1988)
+]]
+[[/=]]
+
+[[module CSS]]
+
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.container {
+  color: #FFF;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 1200;
+}
+
+.sub_title {
+  font-family: 'Open Sans', sans-serif;
+  float: center;
+  width: 79%;
+  border: none;
+  margin: auto;
+}
+
+.block {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+
+  position: relative;
+  background-color: #FFC;
+  padding: 2rem;
+  max-width: 480px;
+}
+
+.block_b {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+
+  position: relative;
+  background-color: #e1c699;
+  padding: 2rem;
+  max-width: 480px;
+}
+
+.prompt {
+    float: center;
+    border: none;
+    border-radius: 4px;
+    background:#333;
+    color: #FFF;
+    width: 89%;
+    padding: 7px 17px;
+    margin: auto;
+}
+
+[[/module]]
+
+[[module CSS]]
+.blinkbar {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}
+.blinkmessage .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.blinkmessage a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+[[f<image https://rpcauthority.wdfiles.com/local--files/component%3Aicons/alpha-white.png]]
+
+**Registered Phenomena Code:** 435
+
+**Object Class:** Alpha-White [Explained]
+
+**Containment Protocols:** Currently the phenomenon designated RPC-435 does not require active containment. Any activities regarding RPC-435 follow Division guidelines regarding anomalies considered to be explained. Previous attempts at containment have been permanently halted pursuant to these regulations. Research materials related to RPC-435 can be accessed at authorized databases, however certain documents may require a corresponding clearance level in addition to a notice of express permission by a Site Director for access to be granted. As well, the research committee assigned to the evaluation of RPC-435 has concluded that further research regarding the anomaly is not needed, and the remaining research materials are on file for archival purposes only.
+
+Given the explained designation now assigned to this anomaly, personnel are recommended not to pursue any further action regarding its presence or manifestation. If any personnel believe they have further input concerning its designation as Explained, they are recommended to indicate this to former Project Director Baumann, and if required Research may reform the committee for evaluation in accordance with any new developments. Director Baumann has indicated, however, that further inquiries concerning RPC-435's status are discouraged at the current juncture, as the committee for evaluation performed an exhaustive effort prior to their final decision.
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+//"Following in my Great Uncle's footsteps has been a challenging endeavor, but the efforts of the RPC-435 Committee for Evaluation have finally put an end to this long and storied controversy. We put everything we had into it, and our decision reflects our passionate fervor. Hopefully you all know how much this decision means to me and so many others. Thank you for the opportunity to put this thing to rest."//
+[[>]]
+-Project Director Anthony Baumann
+[[/>]]
+[[/div]]
+
+**Description:** RPC-435 refers to a persistent phenomenon recurrent in the cultural framework of a non-insignificant subset of human societies with an as of now indeterminant origin. The phenomenon is most often associated with any number of malevolent religious, philosophical, or cultural entities, manifesting as the belief that one has traded an ascendantly valuable asset for some desired outcome from said entity. Disregarding outlier cases, for this exchange to occur, these supposed trades are made at some location the culture deems to be spiritually liminal. Contact with the malevolent entities must occur at a location between the plane of the ascendant entity and the physical world, and as such the fabled exchanges have a high probability of occurring at culturally relevant sacred sites. In approximately 94% of manifestations considered to be RPC-435, these encounters are associated with a crossroads.
+
+[[<]]
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/gemini/gram.png|
+    caption=A traditional African cosmogram depicting the intersection of the physical and spiritual worlds. Practitioners of "Hoodoo" often utilize crossroads as they resemble its appearance.|
+]]
+[[/<]]
+
+A vast majority of civilizations within accepted human history have some reverence for the concept of the crossroads. A place where two paths converge can represent any number of ideals in a cultural canon. Conceptions of divergence, a point where two metaphorical paths split, and a choice must be made. The crossroad matches exceptionally well with the metaphorical liminality required for the mythical bargains that recur within these cultural frameworks. From a Jungian perspective, the crossroads could be a physical manifestation of this archetype of the "place between worlds",[[footnote]]"Unabridged Works of Carl Jung", Authority Archive Ref. 1184-J[[/footnote]] a point which exists in both the world of the real and the world of the ideal. This status of remaining in both places, yet in neither place, gives a narrative significance to the crossroads as the point of decision, where folkloric hero figures might be given the opportunity to determine their destiny, resolve an inner conflict and continue to where they are needed most. It is for these reasons that researchers have concluded that the inclusion of the crossroads is ancillary, and their use in these narratives is largely born of convenience rather than actual significance.
+
+The current consensus among researchers concerning RPC-435 is that these manifestations are largely not anomalous in nature. Evidence asserts that documents once believed to be historical accounts are in actuality folkloric narratives, devised as cultural morality plays or religious parables. This hypothesis matches well with the theories of Project Director Baumann, who in contrast to his predecessors asserted the usage of crossroad imagery was a narrative contrivance and that the crossroads themselves harbored no inherent anomalous qualities. In accordance with this consensus, more recent accounts of manifestations are agreed to be the result of mass psychogenic illness. These bouts of psychosis are likely encouraged by the larger cultural framework, as it is documented that schizophrenics will often utilize religious or culturally significant imagery in their delusions. Researchers serving as members of the RPC-435 committee for evaluation have concluded that these hypotheses when in tandem exhibit a phenomenon with no tangible anomalous qualities. Pursuant to this, RPC-435 has officially been redesignated as an explained phenomenon.
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+//"Don't think me entirely without awareness, as I am conscious that by enacting this decision I am condemning those we once considered credible to the depths of insanity. Reverend Horace Baumann was without doubt one of our greatest early researchers, and his work as I'm sure you know is greatly respected not just by me but by so many in this organization. But we in the committee cannot deny that what his partner did was not the result of anything but his own actions, and my Great Uncle was wrong to think him and those like him innocent. It's a difficult choice for all of us, but here we are dedicated to the truth and nothing else."//
+[[>]]
+-Project Director Anthony Baumann
+[[/>]]
+[[/div]]
+
+------
+
+[[=]]
+++ __Significant Manifestations__
+[[/=]]
+
+------
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**RPC-435-2 Case File**__
+
+RPC-435-2 is an individual who became the subject of several urban legends throughout the 1920's and early 1930's largely in the Southwest regions of the United States, some which persist in certain circles even to this day. The specifics of the narrative vary but there is a core set of elements that a majority of the tellings include. In nearly every version, RPC-435-2 is born into poverty and seeks to escape it. He is often framed as a form of trickster figure, stealing a guitar from a former slave master to start a music career. This archetype is quite common in both African and Afro-American cultural folklore[[footnote]]Baumann, Anthony "Archetypes of the Soul", Authority Archive Ref. 3814-B[[/footnote]]. The single detail that remains the same in every version of the story is the exchange, the RPC-435 manifestation. In most retellings RPC-435-2 makes his deal with the Devil, though in some it's merely a demon or unnamed evil spirit. The trade is usually framed as RPC-435-2 trading his soul for the ability to play guitar, however what RPC-435-2 offers in exchange can vary. Many believe this was originally told by RPC-435-2 to explain his masterful playing of the guitar, however researchers have traced the tale to an account of a close friend rather than from the individual himself.
+
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/gemini/unidentified.png|
+    caption=The only known photograph of RPC-435-2
+]]
+
+Accounts concerning the actual events in the life of RPC-435-2 are scarce, and many are likely fabricated. What is known is that despite his supposedly masterful musicianship, RPC-435-2 received very little recognition or success. In fact it is argued by some that his playing was in reality only mediocre. There are no recordings that exist of RPC-435-2 actually performing, though he is credited as the writer of several songs. One of which is supposedly related to his deal at the crossroads, based on a poem by a "Hoodoo priestess". A cover of said song is included below, with lyrical transcript.
+
+The death of RPC-435-2 is also an unknown factor. There are medical records of his death, but the cause of death is not listed. Researchers have since determined he likely died of exposure, as he was homeless at the time and died sometime in December. The recovered medical records also make records of several burns across the body, which had to have occurred around the time of death, though it is unlikely he died of these wounds.
+
+Testimony indicates the body of RPC-435-2 was acquired by federal authorities shortly after it was recovered. Individuals have alleged that it was acquired by the Smithsonian Institute, which at the time had jurisdiction over anomalous phenomena in the United States, though if this is true it has since been lost as there has been no record of it found in any of the recent Authority Audits of the Smithsonian. These same individuals assert it was part of a project referred to internally as "Operation Mill Stone", of which one document was acquired in the recent audit. Said document is included below.
+
+[[=]]
+[[collapsible show="- Access Audited Document -" hide="| Close |"]]
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/gemini/CIA-RDP96-00792R000100140055-2-pdf.png|caption=Redacted portions yet to be recovered.|align=center|width=800px]]
+[[/collapsible]]
+[[/=]]
+
+----
+
+[[/div]]
+
+------
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**RPC-435-1 Case File**__
+
+[[=]]
++ [[span style="color:red"]] **[REDACTED]** [[/span]]
+[[/=]]
+
+----
+
+[[=]]
+**This file has been removed from the page as requested by Project Director Baumann. Its inclusion is no longer relevant given the redesignation of RPC-435. Several full accounts of the career of Reverend Horace Baumann can be found in the Authority Archive by request if any personnel are in need of more information.**
+[[/=]]
+
+[[/div]]
+
+[[footnoteblock]]
+
+[[div class="blinkmessage"]]
+[[collapsible show="Show Credentials" hide="_______"]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+**I do apologize for the misdirection. Deceiving my colleagues in this way is not a decision I make lightly. I would have preferred to enact traditional containment procedures, but in every case we've seen, high levels of cognitive anchoring in the phenomenon correlate with exponentially higher rates of manifestation. Restricting the information on RPC-435 is the only viable way of containing the suffering it causes. Though dishonest, we have made this decision in an effort to keep our colleagues safe. It is my hope that you can forgive us our misdoings, once you understand the nature of this beast. To that end, the original documentation of the anomaly from 1882, written by my great uncle, can be accessed below. Good luck.**
+
+[[>]]
+--Project Director Anthony Baumann
+[[/>]]
+
+-----
+[[=]]
+[http://rpcauthority.wikidot.com/rpc-435/offset/1 >>>>ACCESS ORIGINAL DOCUMENTATION<<<<]
+[[/=]]
+
+[[/div]]
+[[/collapsible]]
+[[/div]]
+

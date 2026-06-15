@@ -1,0 +1,1153 @@
+---
+title: "Vatican Primacy Format"
+tags: ["format", "information", "vssp"]
+page_id: "1402051112"
+site: "rpcauthority"
+slug: "vatican-primacy-format"
+revision: 19
+revision_id: "1513109963"
+author: 3050074
+timestamp: 1692478443
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:vssp-theme/code/1);
+[[/module]]
+
++ PRIMACY THEME
+
+[[div class="invertedMarble"]]
+* Theme Page: http://rpcauthority.wikidot.com/component:vssp-theme
+[[/div]]
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:vssp-theme/code/1);
+[[/module]] [[/code]] [[/collapsible]]
+------
++ AOI FORMAT TEMPLATES
+
+[[tabview]]
+[[tab VSSP Format (Black Version)]]
+
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 80%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[=]]
+[[span style="color: #efc156;"]]
++++ SACRED PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #910505;"]]
++++ DEMONIC PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #4d7cb1;"]]
++++ OBSCURE PHENOMENON INQUEST NO.0000 [[/span]]
+[[/=]]
+
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| [Type] || [Military Order] || 00 || [Security Level] ||
+
+[[table style="border-top: 4px double #939393; width: 100%;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: [Ability]-00
+
+**RELIGION**: [Religion]
+
+**REGISTRATION**: Month Day, Year
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+[[include component:image-block name=Image.png|caption=Image Caption|width=250px]]
+
+++ **REGULATIONS**:
+Containment Protocols
+
+++ **DESCRIPTION**:
+Anomaly Description
+
+++ **HISTORY**:
+Discovery
+
+++ **EVIDENCE**:
+Test Logs
+
+++ **VERDICT**:
+Value Assessment
+
+++ **APPENDIX**:
+Addendums
+
+> Blockquote
+
+[[/div]]
+------
+++ FOR PRIMACY THEME
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 80%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+
+[[=]]
+[[span style="color: #efc156;"]]
++++ SACRED PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #910505;"]]
++++ DEMONIC PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #4d7cb1;"]]
++++ OBSCURE PHENOMENON INQUEST NO.0000 [[/span]]
+[[/=]]
+
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| [Type] || [Military Order] || 00 || [Security Level] ||
+
+[[table style="border-top: 4px double #939393; width: 100%;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: [Ability]-00
+
+**RELIGION**: [Religion]
+
+**REGISTRATION**: Month Day, Year
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+++ **REGULATIONS**:
+Containment Protocols
+
+++ **DESCRIPTION**:
+Anomaly Description
+
+++ **HISTORY**:
+Discovery
+
+++ **EVIDENCE**:
+Test Logs
+
+++ **VERDICT**:
+Value Assessment
+
+++ **APPENDIX**:
+Addendums
+
+> Blockquote
+
+[[/div]] [[/code]] [[/collapsible]]
+------
+++ FOR OTHER THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+[[div style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; color: #ccc; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Dark.png);"]]
+
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); background-color: #100c08; border: 4px double #939393; padding: 5px 15px;"]]
+
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 95%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+
+[[=]]
+[[span style="color: #efc156;"]]
++++ SACRED PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #910505;"]]
++++ DEMONIC PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #4d7cb1;"]]
++++ OBSCURE PHENOMENON INQUEST NO.0000 [[/span]]
+[[/=]]
+
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| [Type] || [Military Order] || 00 || [Security Level] ||
+
+[[table style="border-top: 4px double #939393; width: 100%;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: [Ability]-00
+
+**RELIGION**: [Religion]
+
+**REGISTRATION**: Month Day, Year
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+------
+++ **REGULATIONS**:
+Containment Protocols
+
+++ **DESCRIPTION**:
+Anomaly Description
+
+++ **HISTORY**:
+Discovery
+
+++ **EVIDENCE**:
+Test Logs
+
+++ **VERDICT**:
+Value Assessment
+
+++ **APPENDIX**:
+Addendums
+
+> Blockquote
+
+[[/div]] [[/code]] [[/collapsible]] [[/tab]]
+
+[[tab VSSP Format (White Version)]]
+
+[[div class="VSSP-light-textured"]]
+[[div class="VSSP-light-inquest"]]
+
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo_Dark.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 80%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[=]]
+[[span style="color: gold;"]]
++++ SACRED PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #910505;"]]
++++ DEMONIC PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #4d7cb1;"]]
++++ OBSCURE PHENOMENON INQUEST NO.0000 [[/span]]
+[[/=]]
+
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| [Type] || [Military Order] || 00 || [Security Level] ||
+
+[[table style="border-top: 4px double #939393; width: 100%;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: [Ability]-00
+
+**RELIGION**: [Religion]
+
+**REGISTRATION**: Month Day, Year
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2"]]
+----
+[[/div]]
+
+[[include component:image-block name=Image.png|caption=Image Caption|width=250px]]
+
+++ **REGULATIONS**:
+Containment Protocols
+
+++ **DESCRIPTION**:
+Anomaly Description
+
+++ **HISTORY**:
+Discovery
+
+++ **EVIDENCE**:
+Test Logs
+
+++ **VERDICT**:
+Value Assessment
+
+++ **APPENDIX**:
+Addendums
+
+> Blockquote
+
+[[/div]]
+------
+++ FOR PRIMACY THEME
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+
+[[div class="VSSP-light-textured"]]
+[[div class="VSSP-light-inquest"]]
+
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo_Dark.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 80%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[=]]
+[[span style="color: gold;"]]
++++ SACRED PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #910505;"]]
++++ DEMONIC PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #4d7cb1;"]]
++++ OBSCURE PHENOMENON INQUEST NO.0000 [[/span]]
+[[/=]]
+
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| [Type] || [Military Order] || 00 || [Security Level] ||
+
+[[table style="border-top: 4px double #939393; width: 100%;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: [Ability]-00
+
+**RELIGION**: [Religion]
+
+**REGISTRATION**: Month Day, Year
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2"]]
+----
+[[/div]]
+
+++ **REGULATIONS**:
+Containment Protocols
+
+++ **DESCRIPTION**:
+Anomaly Description
+
+++ **HISTORY**:
+Discovery
+
+++ **EVIDENCE**:
+Test Logs
+
+++ **VERDICT**:
+Value Assessment
+
+++ **APPENDIX**:
+Addendums
+
+> Blockquote
+
+[[/div]] [[/code]] [[/collapsible]]
+------
+++ FOR OTHER THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+[[module css]]
+
+/* VSSP White Theme Textured*/
+
+.VSSP-white-theme-textured .image-block {
+    box-shadow: none!important;
+    border: 1px solid #666!important;
+}
+
+.VSSP-white-theme-textured table.wiki-content-table {
+    box-shadow: none!important;
+}
+
+.VSSP-white-theme-textured table.wiki-content-table th {
+    box-shadow: none;
+    box-shadow-color: white;
+    background-color: #c0c0c0;
+    border: 1px solid #666;
+    color: #333;
+    background-alt: #24272a;
+    table-box-shadow: none;
+}
+
+.VSSP-white-theme-textured table.wiki-content-table td {
+    color: #333;
+    background: none;
+    border: 1px solid #666;
+    box-shadow: none;
+    box-shadow-color: white;
+    table-box-shadow: none;
+}
+
+.VSSP-white-theme-textured blockquote {
+    background-color: #e0e0e0;
+    border: 1px dashed #666;
+    padding: 1px 10px;
+    color: #333;
+    box-shadow: none!important;
+}
+
+.VSSP-white-theme-textured .image-block .image-caption {
+    color: #333;
+    background-color: #c0c0c0;
+    border-top: 1px solid #666;
+}
+
+.VSSP-white-theme-textured .image-block .block-right {
+    border: 1px solid #666;
+    background-image: none;
+    background-color: #666;
+}
+[[/module]]
+
+[[div class="VSSP-white-theme-textured" style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Shade.png); color: black;"]]
+
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); border: 4px double #939393; padding: 5px 15px;"]]
+
+[[table style="border-bottom: 4px double #939393;"]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo_Dark.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 95%]]
++ **SECRETARIAT OF SUPERNATURAL PRIMACY**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+
+[[=]]
+[[span style="color: darkgoldenrod;"]]
++++ SACRED PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #910505;"]]
++++ DEMONIC PHENOMENON INQUEST NO.0000 [[/span]]
+
+[[span style="color: #4d7cb1;"]]
++++ OBSCURE PHENOMENON INQUEST NO.0000 [[/span]]
+[[/=]]
+
+||~ CLASS||~ ORDER||~ FACILITY||~ SANCTION||
+|| [Type] || [Military Order] || 00 || [Security Level] ||
+
+[[table style="border-top: 4px double #939393; width: 100%;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%;"]]
+**ABILITIES**: [Ability]-00
+
+**RELIGION**: [Religion]
+
+**REGISTRATION**: Month Day, Year
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+------
+++ **REGULATIONS**:
+Containment Protocols
+
+++ **DESCRIPTION**:
+Anomaly Description
+
+++ **HISTORY**:
+Discovery
+
+++ **EVIDENCE**:
+Test Logs
+
+++ **VERDICT**:
+Value Assessment
+
+++ **APPENDIX**:
+Addendums
+
+> Blockquote
+
+[[/div]] [[/code]] [[/collapsible]] [[/tab]] [[/tabview]]
+------
++ DOCUMENT TEMPLATES
+
+[[tabview]]
+[[tab Interrogations]]
+
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[=]]
++ **INTERROGATION RECORD**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**PERSON/ENTITY**: SPI/DPI/OPI-000
+
+**INQUIRY DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**INQUISITOR**: Name [Rank]
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+[[div style="padding: 5px 20px;"]]
+[[=]]
+++++ <//BEGIN TRANSCRIPTION//>
+[[/=]]
+@@@@
+
+**INQUISITOR [NAME]**: [Dialogue]
+
+//Actions/events occurring in the background.//
+ 
+**[SPI/DPI/OPI-000/PoI]**: [Dialogue]
+
+@@@@
+[[=]]
+++++ <//END TRANSCRIPTION//>
+[[/=]]
+[[/div]] [[/div]]
+------
+++ FOR PRIMACY THEME
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[=]]
++ **INTERROGATION RECORD**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**PERSON/ENTITY**: SPI/DPI/OPI-000
+
+**INQUIRY DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**INQUISITOR**: Name [Rank]
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+[[div style="padding: 5px 20px;"]]
+[[=]]
+++++ <//BEGIN TRANSCRIPTION//>
+[[/=]]
+@@@@
+
+**INQUISITOR [NAME]**: [Dialogue]
+
+//Actions/events occurring in the background.//
+ 
+**[SPI/DPI/OPI-000/PoI]**: [Dialogue]
+
+@@@@
+[[=]]
+++++ <//END TRANSCRIPTION//>
+[[/=]]
+[[/div]] [[/div]]
+[[/code]] [[/collapsible]]
+------
+++ FOR OTHER THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+
+[[div style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; color: #ccc; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Dark.png);"]]
+ 
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); background-color: #100c08; border: 4px double #939393; padding: 5px 15px;"]]
+
+[[=]]
++ **INTERROGATION RECORD**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**PERSON/ENTITY**: SPI/DPI/OPI-000
+
+**INQUIRY DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**INQUISITOR**: Name [Rank]
+
+**AUTHORIZATION**: Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+----
+[[div style="padding: 5px 20px;"]]
+[[=]]
+++++ <//BEGIN TRANSCRIPTION//>
+[[/=]]
+@@@@
+
+**INQUISITOR [NAME]**: [Dialogue]
+
+//Actions/events occurring in the background.//
+ 
+**[SPI/DPI/OPI-000/PoI]**: [Dialogue]
+
+@@@@
+[[=]]
+++++ <//END TRANSCRIPTION//>
+[[/=]]
+[[/div]] [[/div]]
+[[/code]] [[/collapsible]] [[/tab]]
+
+[[tab Phenomenon Assessments]]
+
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[=]]
++ **PHENOMENON ASSESSMENT**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**PERSON/ENTITY**: SPI/DPI/OPI-000
+
+**TEST DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**THEOLOGIAN**: [Title] Name [Rank]
+
+**AUTHORIZATION**: [Title] Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+++ **THEORY**:
+Hypothesis
+
+++ **PROCEDURE**:
+Testing Process
+
+++ **OUTCOME**:
+Results
+
+++ **ANALYSIS**:
+Conclusion
+[[/div]]
+------
+++ FOR PRIMACY THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[=]]
++ **PHENOMENON ASSESSMENT**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**PERSON/ENTITY**: SPI/DPI/OPI-000
+
+**TEST DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**THEOLOGIAN**: [Title] Name [Rank]
+
+**AUTHORIZATION**: [Title] Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+++ **THEORY**:
+Hypothesis
+
+++ **PROCEDURE**:
+Testing Process
+
+++ **OUTCOME**:
+Results
+
+++ **ANALYSIS**:
+Conclusion
+[[/div]]
+[[/code]] [[/collapsible]]
+------
+++ FOR OTHER THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+
+[[div style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; color: #ccc; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Dark.png);"]]
+ 
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); background-color: #100c08; border: 4px double #939393; padding: 5px 15px;"]]
+
+[[=]]
++ **PHENOMENON ASSESSMENT**
+[[/=]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+**PERSON/ENTITY**: SPI/DPI/OPI-000
+
+**TEST DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**THEOLOGIAN**: [Title] Name [Rank]
+
+**AUTHORIZATION**: [Title] Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+----
+++ **THEORY**:
+Hypothesis
+
+++ **PROCEDURE**:
+Testing Process
+
+++ **OUTCOME**:
+Results
+
+++ **ANALYSIS**:
+Conclusion
+[[/div]]
+[[/code]] [[/collapsible]] [[/tab]]
+
+[[tab Archive Record]]
+
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 90%]]
++ **SECRETUM ARCHIVUM PRIMATUS**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+
+**DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**DIVISION**: VSSP Division
+
+**SANCTION**: Security Level
+
+**AUTHORIZATION**: [Title] Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+[Addressed],
+
+[Letter Text]
+
+~ [Title] Name [Rank]
+[[/div]]
+------
+++ FOR PRIMACY THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+[[div class="VSSP-dark-textured"]]
+[[div class="VSSP-dark-inquest"]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 90%]]
++ **SECRETUM ARCHIVUM PRIMATUS**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+
+**DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**DIVISION**: VSSP Division
+
+**SANCTION**: Security Level
+
+**AUTHORIZATION**: [Title] Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+
+[[div class="custom-divider-2" style="filter: invert(1);"]]
+----
+[[/div]]
+
+[Addressed],
+
+[Letter Text]
+
+~ [Title] Name [Rank]
+[[/div]]
+[[/code]] [[/collapsible]]
+------
+++ FOR OTHER THEMES
+
+[[collapsible show="[+] Wikidot Code" hide="[-] Close"]]
+[[code type="css"]]
+
+[[div style="padding: 20px; margin: 10px; text-shadows: 0px 20px 10px #0000002e, 1px 1px 5px #61232391; border: 2px ridge #efc156; border-left: 10px ridge #efc156; color: #ccc; background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture%20Dark.png);"]]
+ 
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Document%20Texture.png); background-color: #100c08; border: 4px double #939393; padding: 5px 15px;"]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="80px"]]
+[[/cell]]
+[[cell style="text-align: center; width: 100%;"]]
+[[size 90%]]
++ **SECRETUM ARCHIVUM PRIMATUS**
+[[/size]]
+= NUNC MULTUM MEMBRUM SED UNUM CORPUM
+[[/cell]] [[/row]] [[/table]]
+
+[[table style="border-top: 4px double #939393;"]]
+[[row]]
+[[cell style="border-right: 4px double #939393; width: 60%"]]
+
+**DATE**: Month Day, Year
+
+**LOCATION**: [Facility]-000
+
+**DIVISION**: VSSP Division
+
+**SANCTION**: Security Level
+
+**AUTHORIZATION**: [Title] Name [Rank]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/PapacyKeys.png style="width: 75px;"]]
+**PONTIFICATE**: Pope Name [Number]
+[[/cell]] [[/row]] [[/table]] [[/div]]
+----
+[Addressed],
+
+[Letter Text]
+
+~ [Title] Name [Rank]
+[[/div]]
+[[/code]] [[/collapsible]] [[/tab]] [[/tabview]]
+------
++ WRITER RESOURCES
+
+[[tabview]]
+[[tab Facility Index]]
+
+[[span class="drop-cap"]] T [[/span]] he Primacy maintains a network of facilities throughout the world. Various monasteries, supernatural pilgrimage sites, and cathedrals provide logistical and liturgical functions for the agency. Citadels, containment castles, and Sanctums, holy buildings and locations, are utilized to protect Catholic artifacts and contain dangerous entities from harming the faithful.
+------
+[[=]]
+++ Facility Designations
+[[/=]]
+
+||~ Designation||~ Description||
+|| Citadel || Agency bases, military castles, and other stand-alone facilities used to store supernatural phenomena. Citadels may also have holding cells for heretical Persons of Interest and weapons storage. ||
+|| Dungeon || Containment rooms reserved for the storage of demonic and other unknown phenomena in Citadels. Only in incredibly rare instances are dungeons located near Sanctums, and only for neutralization purposes. ||
+|| Sanctum || Church buildings, pilgrimage sites, and other holy locations are used to house sacred relics and other holy artifacts. Sanctums may also be used for non-supernatural purposes as well. ||
+|| Vault || Containment rooms reserved for the storage of sacred phenomena in Sanctums. Some vaults may be found in Citadels that contain multiple categories of supernatural phenomena. ||
+------
+[[=]]
+++ Prime Citadels
+[[/=]]
+
+||~ Designation ||~ Codename ||~ Rooms ||~ Location||
+|| CITA-I || "Castel Sant’Angelo" || Dungeon, Prison, Vault || Rome, Italy ||
+|| CITA-V || "Mare Castellum" || Armory, Dungeon || Civitavecchia, Italy ||
+|| CITA-LXXII || "Valère Basilica" || Dungeon, Vault || Sion, Switzerland ||
+|| CITA-XXII || "Papal Palace" || Armory, Vault || Avignon, France ||
+|| CITA-CLXX || "Tartarus" || Dungeon || Concordia, Antarctica ||
+------
+[[=]]
+++ Prime Sanctums
+[[/=]]
+
+||~ Designation ||~ Codename ||~ Rooms ||~ Location||
+|| SANC-I || "Necropolis" || Armory, Vault || Città del Vaticano, Vatican City-State ||
+|| SANC-CLI || "Our Lady of Arabia" || Vault || Awali, Bahrain ||
+|| SANC-CLXX || "Old St. Patrick" || Vault || New York City, United States ||
+|| SANC-CCCL || "Grotto Sanctuary" || Vault || Portland, United States ||
+|| SANC-DCCLXXXIX || "Tjodhilde’s Church" || Vault || Qaqortoq, Greenland ||
+|| SANC-CMXV || "Crystal Cathedral" || Vault || Garden Grove, United States ||
+[[/tab]]
+
+[[tab Classification Index]]
+
+[[span class="drop-cap"]] T [[/span]] he Primacy uses a variety of classifications in order to catalog supernatural phenomena. This information assists the agency in containment efforts, as well as potential use cases an anomaly may provide to the Roman Papacy. One of the six military orders are assigned responsibility for protecting the agency's supernatural objects based on their specialization.
+------
+[[=]]
+++ Inquiry Categories
+[[/=]]
+
+||~ Category||~ Description||
+|| Sacred || The anomaly is of Christian origin and/or is venerated by the Catholic Church. ||
+|| Demonic || The anomaly is not of Christian origin and/or is potentially dangerous to the Catholic Church. ||
+|| Obscure || The anomaly's origins are unknown at the time of the inquiry. ||
+------
+[[=]]
+++ Phenomenon Classes
+[[/=]]
+
+||~ Class Types||~ Description||
+|| RELIC || Supernatural Items, Objects ||
+|| LOCATION || Supernatural Buildings, Areas, Spaces ||
+|| ENTITY || Supernatural Persons, Spirits, Creatures ||
+|| BELIEF || Supernatural Ideas, Thoughtforms, Memes ||
+------
+[[=]]
+++ Military Orders
+[[/=]]
+
+||~ Abbreviation||~ Military Order||~ Specialization||
+|| CHRIST || Knights of Christ || Covert Operations, Urban Combat, Target Tracking ||
+|| CRUCIS || Knights of The True Cross || General Protection & Containment, Supernatural Ministry ||
+|| LAZARUS || Knights of Saint Lazarus || Biological Research, Botanical Anomalies ||
+|| MALTA || Knights of Malta || Aquatic Environments, Naval Combat, Ocean Exploration ||
+|| SEPULCHRE || Knights of the Holy Sepulchre || Desert Combat, Biblical Anomalies, Abrahamic Faiths ||
+|| TEUTONS || Teutonic Knights || Arctic Environments, Cold Weather Combat, Pagan Faiths ||
+------
+[[=]]
+++ Sanction Ranks
+[[/=]]
+
+||~ Ranks||~ Description||
+|| LAITY || Access to the anomaly is available to any ordained members of the Catholic Church. Sacred relics are often classified under this sanction if the general public can access them. ||
+|| MAGISTERIUM || Access to the anomaly is available for any VSSP personnel. Demonic phenomena is automatically classified under this sanction, as well as more dangerous relics. ||
+|| CATHEDRA || Access to the anomaly is restricted to the VSSP Prelates and the Bishop of Rome. Direct approval from the Pope is required for all personnel below this ranking. ||
+------
+[[=]]
+++ Ability Classes
+[[/=]]
+
+||~ Ability Designation (Power Level) ||~ Designation||~ Description ||
+|| DIGT-(0-5) || Digital || Any supernatural phenomena that is digital in nature and uses a digital medium for its effects. ||
+|| DIMT-(0-5) || Dimensional || Any supernatural phenomena that is from another dimensional plane or has the power to manipulate the nature of baseline reality. ||
+|| CHEM-(0-5) || Chemical || Any supernatural phenomena that is chemically based or uses a chemical reaction for its effects. ||
+|| COGN-(0-5) || Cognitive || Any supernatural phenomena that is activated or transferred through mental cognition or memetic influence. ||
+|| PHYS-(0-5) || Physical || Any supernatural phenomena that exhibits unnatural durability or non-conformity with the laws of physics. ||
+|| PATH-(0-5) || Pathogen || Any supernatural phenomena that is a virus or bacterium in nature or can inflict a disease that has anomalous effects or properties. ||
+|| VITA-(0-5) || Vita || Any supernatural phenomena that is beneficial to the Catholic Church or sanctified in nature. This designation is reserved for utility anomalies. ||
+|| NULL-(0-5) || Non-Designated || If your VSSP article requires a particular supernatural hazard that is not currently listed, you are free to add one. Make sure to keep it preferably around 4 characters long and add it to this hub. ||
+------
+[[=]]
+++ Power Levels
+[[/=]]
+
+||~ Power Level ||~ Description ||
+|| 0 || The supernatural phenomenon presents no threat to the Primacy or to the Roman Papacy. Utility anomalies are typically classified under this level. ||
+|| 1 || The supernatural phenomenon is minimally hazardous to the Primacy or the Papacy. Nominal security procedures will prevent any threat from this anomaly. ||
+|| 2 || The supernatural phenomenon is somewhat hazardous to the Primacy or the Papacy. More complex security procedures than usual will be needed to minimize the threat from this anomaly. ||
+|| 3 || The supernatural phenomenon is moderately hazardous to the Primacy or the Papacy. Extensive measures need to be taken to reduce the threat of these anomalies from the public. ||
+|| 4 || The supernatural phenomenon is dangerously hazardous to the Primacy or the Papacy. The full resources of the VSSP should be used to contain these anomalies that have the power to threaten the Veil or cause widespread devastation. ||
+|| 5 || The supernatural phenomenon is catastrophically hazardous to the Primacy or the Papacy. Any anomaly that could wipe out Catholicism from existence, resulting in the eschatological defeat of the Christian God, or abolish the office of the Bishop of Rome is classified under this level. ||
+------
+[[=]]
+++ Religion Categories
+[[/=]]
+
+||~ Abbreviation||~ Religion||
+|| Christian || Catholicism ||
+|| Heretical || Gnosticism, Heresies, Protestantism ||
+|| Schismatic || Eastern/Oriental Orthodox ||
+|| Infidel || Judaism, Islam, Baháʼí ||
+|| Pagan || Non-Abrahamic Religions, Anomalous Faiths ||
+|| None/Unknown || Atheist, Non-Religious, Unknown ||
+[[/tab]]
+
+[[tab Icon Index]]
+
+[[=]]
+++ Primacy Logos
+[[/=]]
+
+||~ Logo Type ||~ Image ||
+|| [*http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png Primacy Logo] || [[=image Primacy_Logo.png style="width: 100px;"]] ||
+|| [*http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo_Dark.png Primacy Logo Dark] || [[=image Primacy_Logo_Dark.png style="width: 100px;"]] ||
+|| [*http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/AEP_Legacy_Logo.png AEP Legacy Logo] || [[=image AEP_Legacy_Logo.png style="width: 100px;"]] ||
+|| [*http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/AEP_Legacy_Logo_Dark.png AEP Legacy Logo Dark] ||[[=image AEP_Legacy_Logo_Dark.png style="width: 100px;"]] ||
+------
+[[=]]
+++ Papal Crests
+[[/=]]
+
+||~ Logo Type ||~ Image ||
+|| [*http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Official%20Seal.png Vatican Primacy Crest] ||[[=image http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP%20Official%20Seal.png style="width: 100px;"]] ||
+|| [*http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP_OVC_Crest.png Ordo Veri Crucis Crest] ||[[=image http://rpcauthority.wdfiles.com/local--files/component%3Avssp-theme/VSSP_OVC_Crest.png style="width: 100px;"]] ||
+------
+[[=]]
+++ Primacy Infographs
+[[/=]]
+
+||~ Infograph ||~ Image ||
+|| [*http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Branches.png Primacy Branches] || [[=image Primacy_Branches.png style="width: 325px;"]] ||
+|| [*http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Org_Chart.png Primacy Organizational Chart] || [[=image Primacy_Org_Chart.png style="width: 325px;"]] ||
+[[/tab]] 
+
+[[tab Project Credits]]
+[[=]]
+++ Launch Credits
+[[/=]]
+
+[[div class="invertedMarble"]]
+* [[span style="color: var(--link-color);"]] **Plasmium** [[/span]] - Project Creator
+* [[span style="color: var(--link-color);"]] **Dxtryctugi** [[/span]] - Project Creator
+* [[*user SovereignAuthority]] - Project Creator
+
+* [[*user VANTA]] - Project Developer
+* [[span style="color: var(--link-color);"]] **Liberonscien** [[/span]] - Project Developer
+* [[*user Doctor Lupin]] - Project Developer
+* [[*user Von Pincier]] - Project Developer
+* [[*user televisionist]] -  Project Developer
+
+* [[*user DrXOUBLE D]] - Launch Writer ([[[RPC-251]]])
+* [[*user Big Mark]] - Launch Writer ([[[the-order-of-the-cross|Ordo Veri Crucis]]])
+* [[*user Almarduk]] - Launch Writer ([[[RPC-538]]])
+* [[*user SovereignAuthority]] - Launch Writer ([[[RPC-009]]])
+* BetterMyButter - Launch Writer ([[[RPC-613]]])
+
+* [[span style="color: var(--link-color);"]] **Plasmium** [[/span]] - Logo Designer
+* [[*user Mr Makor]] - Logo Designer
+* [[*user Atari-Jimbo]] - Template Designer
+* [[*user SovereignAuthority]] - Template Designer
+* [[*user televisionist]] -  Theme Creator ([[[component:vssp-theme|Vatican Secretariat of Supernatural Primacy Theme]]])
+[[/div]] [[/tab]] [[/tabview]]
+

@@ -1,0 +1,120 @@
+---
+title: "GRPC Fleet Manifest"
+tags: ["cosmic-embers", "document"]
+page_id: "1331411615"
+site: "rpcauthority"
+slug: "grpcmanifest"
+revision: 11
+revision_id: "1508120555"
+author: 5258122
+timestamp: 1677428095
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+[[/module]]
+
+[[include component:rate title=grpc-fleet-manifest]]
+
+[[module css]]
+.aedf img {
+max-width: 100%;
+}
+[[/module]]
+
+Last Updated ██/██/2021, ██:██ GST
+
+@@ @@
+
+[[div style="background: none; border-top: solid 4px #c0c0c0; border-bottom: solid 4px #ccc; box-shadow: 0px 6px 8px #000; border-radius: 10px; padding: 10px 10px;"]]
+
+[[div class="aedf"]]
+[[=image https://rpcauthority.wdfiles.com/local--files/grpcmanifest/Jupiter_3.png width="1000px"]]
+[[/div]]
+
+[[/div]]
+@@@@
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/aedfmanifest/TERFLT.png width="100px"]]
+
++++ Jupiter-III Light Interstellar Craft
+
+**Length:** 38m
+**Beam:** 16m
+**Crew:** 5-10
+**Adopted:** 1991
+
+The lightest vessel within the GRPC capable of operating independently from larger stations for extended periods, the Jupiter-III is one of the fastest, cheapest ships equipped with a Drunkmann drive. However, this small size comes at the cost of limited core internal modules, restricting its FTL time due to heat and power management issues.
+
+Despite its size, the Jupiter-III possesses highly modular auxiliary systems, allowing it to function at various roles. Furthermore, many of the vessel core internal modules are (unlike most other human vessels) surprisingly intuitive and durable, with many onboard faults easily fixable by a crew distant from human settlements.
+
+An "expedition" configuration of the Jupiter-III may forgo various defense systems such as chaff launchers, electronic countermeasures for redundant life support systems, and additional radiation shielding, while a "skirmisher" may equip quality LIDAR sensors and increased armor at the cost of long-term reliability.
+
+The Jupiter-Class vessels were created by DIK Manufacturing[[footnote]]The title is primarily intended as a legal formality, as Dankers, Ip, & Kaiser Manufacturing consisted of only 3 "employees" at the time.[[/footnote]] as a hobbyist project, who entered it into a NATO competition in the early 1970s for a multipurpose, low-cost vessel. Their vessel significantly outperformed many of its competitors, while being one of the first designs to feature atmospheric landing & advanced dogfighting capabilities. 
+
+While pressure from more prominent spacecraft manufacturers resulted in the rejection of the Jupiter-class from NATO usage, the GRPC has adopted the Jupiter-Class and financed further upgrades, culminating in the Jupiter-III,  which the GRPC has sole ownership of licensing and manufacturing.
+
+//We entered the original Jupiter prototype as a joke and somehow won handily. If that doesn't show how terrible the designs were before us, I do not know what will. -CMDR Rag E. Dankers//
+
+------
+[[div style="background: none; border-top: solid 4px #c0c0c0; border-bottom: solid 4px #ccc; box-shadow: 0px 6px 8px #000; border-radius: 10px; padding: 10px 10px;"]]
+
+[[div class="aedf"]]
+[[=image https://rpcauthority.wdfiles.com/local--files/grpcmanifest/Mueller.png width="1000px"]]
+[[/div]]
+[[/div]]
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/aedfmanifest/INFLT.png width="100px"]]
++++ Mueller-Class Interstellar Cruiser
+
+**Length:** 113m
+**Beam:** 20m
+**Crew:** 80-100
+**Adopted:** 2002
+
+Named in memoriam to Freiherr Mueller[[footnote]]Freiherr Mueller was a Canadian adventure-science fiction novelist active during the 1970s just post Embers Day, best known for //Love, Luck, and Zombies//.[[/footnote]], the Mueller-Class Interstellar Cruiser was directly developed by NATO in an attempt to create a low-cost, multirole vessel of medium size, intending to replace several outdated NATO models with a new spacecraft platform. The decision to force all NATO services to use a single frame for versatile roles significantly increased the costs and difficulty of the project, with cost overruns of up to 150% while failing to deliver a serviceable spacecraft by 1972, the initial target date. The project was shelved after the dissolution of NATO until 1994 when GRPC engineers acquired the design from the Free Systems of Monoceros.
+
+The resultant vessel, the Mueller-Class Interstellar Cruiser, was not a craft well suited for the GRPC's various functions but a victim of directionless designs barely suited for any specified role. For example, Muellers possess spacious living quarters for long-term comfort but do not possess atmospheric landing capabilities or the capacity for redundant systems to be used by expeditions. The small cargo hatch, intentionally designed for increased hull integrity in combat roles, limits the class of cargo that the Mueller's large cargo hold and dedicated onboard transport pods may deliver.
+
+The overengineered Muellers also suffer from reliability issues, with 80% of crews reporting experiences with critical system failures[[footnote]]Critical systems include thrusters, reaction control systems, power plants, and Drunkmann drives.[[/footnote]] during its first 9 months of operations. The high amount of specialized parts also increases maintenance costs and complexity.
+
+The Mueller-Class frame officially replaced multiple Cruiser-sized vessels used by the GRPC and NATO too much controversy, with many crews demanding its removal almost instantly. However, the current administration remains firm in the Mueller's adoption. The exact reasons remain unknown, though leaked communications between the McDonnell-Douglass Corporation[[footnote]]A major American aerospace manufacturing corporation.[[/footnote]] and NATO researchers suggest that the Mueller's design was not as in-house as initially presumed.
+
+In 2003, the GRPC announced that a replacement vessel for the Mueller-class would be designed due to its mediocre performance, but progress remains slow. Individual crews, however, often conduct unsanctioned modifications to their Mueller Cruisers either to better suit their roles or out of necessity (owing to the quality of Mueller).
+
+For example, a Mueller Cruiser for low-risk transport purposes would often be capable of transporting large cargo owing to the crew's implementation of a structurally unsound hatch, a Mueller tasked with anomalous transportation may feature multiple redundant systems and advanced cargo monitors, while a Mueller-Class designated for combat may see parts of its cargo bay and crew quarters repurposed as heat sinks or ammunition dumps. In that sense, the Mueller-Class is successful in being a medium-sized multirole vessel though that can only be attributed to the intelligence of the GRPC's crew.
+
+------
+
+[[div style="background: none; border-top: solid 4px #c0c0c0; border-bottom: solid 4px #ccc; box-shadow: 0px 6px 8px #000; border-radius: 10px; padding: 10px 10px;"]]
+[[div class="aedf"]]
+[[=image https://rpcauthority.wdfiles.com/local--files/grpcmanifest/Highland.png width="1000px"]]
+[[/div]]
+[[/div]]
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/aedfmanifest/OUTFLT.png width="100px"]]
++++ Highland Observation Post
+
+**Length:** 52m
+**Beam:** 20m (55m with solar panels extended)
+**Crew:** -
+**Adopted:** 2007
+
+Due to the logistical difficulties of communications and transport in the considerable volume of space between major human settlements, various observation posts were created for resupply, observation, and forward operating outposts. Of these, the Highland configuration remains the most popular.
+
+The initial designs of the Highland Observation Posts came not through aerospace companies but through the modifications made by the crews to their preexisting facilities, eventually developing into a somewhat similar design through convergent evolution. Further simplification and standardization efforts eventually led to the current design.
+
+Similar to any other vessels listed in this document, the modularity of the Highland allows it to remain a popular configuration. Furthermore, as the Highland traces its roots to a form of convergent design, many of its systems, most notably its ALOS FTL communications array, are compatible with different manufactured parts.
+
+While many of its parts are far from durable, it is often easy and unintrusive to replace many components to the point where a cybernetic canine could perform such a task without human intervention, a trait well appreciated by the understaffed crews of a GRPC outpost.
+
+------
+
+
+[[size 120%]] [[collapsible show="[+] Footnotes: Condensed" hide="[-] Footnotes: Expanded"]]
+[[/size]]
+------
+[[footnoteblock]]
+------
+[[/collapsible]]
+

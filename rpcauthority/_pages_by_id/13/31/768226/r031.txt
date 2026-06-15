@@ -1,0 +1,179 @@
+---
+title: "Kymen Alien Report"
+tags: ["ce-lore", "cosmic-embers", "document"]
+page_id: "1331768226"
+site: "rpcauthority"
+slug: "kymen-alien-report"
+revision: 31
+revision_id: "1508120479"
+author: 5258122
+timestamp: 1677427775
+---
+
+[[module css]]
+@import url(https://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+
+.yui-navset .yui-content {
+    background-color: #2a3348!important;
+    border: none!important;
+    border-top: none!important;
+}
+
+.yui-navset {
+    margin: 5px -14px!important;
+    box-shadow: none!important;
+}
+
+.image-block.block-right {
+    margin: 0 0em 1em 1em;
+}
+
+[[/module]]
+
+[[include component:rate]]
+[[toc]]
+
+[[div style="background:var(--background-4); border: var(--dashed-border); border-radius: 25px;  margin: 0 auto; padding: 10px 38px;"]]
+
+
+[[div class="content-panel"]]
+**Designation:** RA-099 (Kymenna/Kymen)
+**Psychological Human Likeness:** 0.9
+**Affiliation:** 
+(Path Cells ##yellow|- Independent##)
+(Kymenna Body ##cyan|- GT##)
+[[/div]]
+
+[[include component:image-block name= https://rpcauthority.wdfiles.com/local--files/kymen-alien-report/Kymen.jpeg |caption=Illustration from //W.B Plaxter’s Field Guide to Alien Life//, Chapter 3: Kymen Biology. The artist's depiction of the face beneath the mask is based on descriptions provided by cooperative Kymen.|width=200px|]]
+
+The Kymenna, commonly referred to as "Kymen," are an insectoid species originating from the Rosette Nebula which resides in the outer rim of the Monoceros constellation.
+
+++ Biology
+
+When upright, the average Kymen has an average height of 3 meters. Dimorphism between sexes is negligible, with no major impact on size. Kymen possess four arms, two legs, and a pair of wings, with a wingspan that can reach up to 5 meters, capable of sustaining flight in short bursts.
+
+The Kymennic equivalent of a nervous system does not limit their strength. Whereas humans can only utilize the full extent of their muscles when under extreme duress, Kymen have no such limitations. While this allows for incredible feats of strength, this also means that the Kymen has to consciously limit themselves to prevent damaging their muscles, as seen with humans when under the effects of epinephrine[[footnote]]Commonly referred to as adrenaline.[[/footnote]].
+
+The Kymenna possesses an incredibly durable exoskeleton capable of enduring high-pressure and low-pressure environments, comprised of a material relatively similar to chitin in composition but with a more complex matrix, not unlike a continuously reinforced carbon polymer. This similarity is likely due to extensive genetic modification, although it is uncertain as to how this was achieved. This is not only due to the fact that such a modification would be practically impossible to perform even with incredibly advanced technology, but also because Kymen do not appear to have any genetic manipulation technology more advanced than what is available to the GRPC. In addition, the genetic equipment that such a process would require would surely be used to lengthen their fairly brief lifespan of 30 to 40 years of age.
+
+Kymen possess two mouths, an "outer jaw" and a smaller "inner jaw." While the "outer jaw" is used for breaking down tough substances, the "inner jaw," located entirely within the mouth, is used for fine chewing of food. This inner jaw bears a dental structure exactly identical to that of humans, down to the number of teeth and the location of specific muscles, akin to their vocal cords which can produce almost the exact same range of sounds as the Human equivalent. There is no identifiable cause for this aspect of Kymen biology.
+
+------
+
+++ Technology
+
+Kymen technology is utterly beyond the ken of our current understanding of the sciences, anomalous or not. Their equipment, particularly their FTL systems, relies on principles that are as of yet completely unknown to us, and the incredibly rare opportunities to reverse-engineer them often prove unsuccessful and often result in diplomatic disaster.
+
+The "Queshir System" is a Kymen-developed device that utilizes a currently unknown process where gaseous photon particles are converted into "hard light" through electromagnetic impulses. This technology is utilized for various purposes, namely portable tools, bridges, and protective fields, powered by fuel cells that only the Kymen possess and sell. However, only Queshir Systems that are sold to non-Kymen require these cells. Systems utilized by Kymenna have no need to "refuel".
+
+The word "Queshir", possibly of Russian origin (Kymen refer to it as "the indivisible"), refers to the particles distributed by these devices. From what can be determined, the particles are somewhere between a gaseous state and light itself, that rapidly condense into a solid form when alternating currents are applied. This alternating current causes the "hard light" (A misnomer, as in a solid-state the Queshir are no longer photons) to vibrate at a high frequency.
+
+If it were to be used offensively, the Queshir System could cut through practically any material, not unlike a high-frequency blade utilized by other alien species, but far more effective due to the incredible durability of the Queshir particles once condensed. However, any attempt to make the System take on an offensive form causes the machine to immediately deactivate as the fuel cell dies. 
+
+Path Cells claim to have "restored" Queshir equipment to an offensive capacity, but this cannot be confirmed as no information has been disclosed by the Body.
+
+The Riza Mode is the Kymennic method of FTL. A ship, usually accompanied by a group of 5-10 other crafts, deploys a single probe from its bow which floats several kilometers ahead. The probe flashes a blue light at its top twice, before the ship and any other Kymen spacecraft in proximity to it are instantly (or rather, moved so quickly that the speed is beyond the capability of any device to record) brought to the target destination. This process has been observed by the GRPC on only a few occasions, and little can be discerned from its operation. 
+
+The Riza Mode appears to be restricted to most Kymennic vessels, as civilian craft (such as trade ships) often utilize more conventional sub-FTL methods of propulsion. This complicates trade between systems, which is likely intentional in order to curb unification among disparate states.
+
+[[include component:image-block name= https://rpcauthority.wdfiles.com/local--files/kymen-alien-report/Moons.jpeg | caption=Photo of the Twin Moons that orbit Tlalli, provided by the Body's GRPC ambassador. Angle suggests it was taken from Tlalli's surface. Beyond telescopic observation from outside of the system, this is the only known photograph of the Twin Moons. |width=200px||width=200px|]]
+
+------
+
+++ History
+
+Kymennic History is convoluted and difficult to parse, not only due to its scale across both time and space but also the secrecy with which it is treated, with only fragments being disclosed even to high-ranking members of the Corp, and entirely unknown to the civilian population, human or Kymen.
+
+From what can be understood, the Kymen was once an incredibly violent militaristic species with an uncanny resemblance to Aztec practices and tradition. While similar militarized factions exist and had existed, only the Kymen appear to have had such a major impact on galactic history.
+
+Despite the fact that their homeworld is within the Perseus Arm[[footnote]]A spur of the Milky Way Galaxy adjacent to Orion.[[/footnote]], evidence of their presence (or rather, their conquest) can be found in systems across Orion and within Sol's own cluster. The Kymen described by these ruins are unlike their contemporaries in every capacity- a single monolithic species-state, united in all facets.
+
+Their technology was likewise incredibly advanced, at least in a military capacity, with accounts of their FTL being "practically instantaneous" and weaponry capable of "shattering stars." One such record describes the usage of this weapon on a rival empire's home system, although this record is assumed to be fabricated as the system described does not exist. Most of their history is likewise exaggerated by existing records, because if these documents are accurate, it would suggest that the Kymen would have exterminated approximately 3 million civilizations, the majority of which would be spacefaring.
+
+The conquest was ended by the "Grand Pacification," a species-wide cultural revolution espousing values of peace and conservative development of technology. This event, regarded as a "miracle of circumstance" by Kymen diplomats, eventually resulted in the entirety of Kymen culture being effectively reversed. Languages were divided, the government was federalized and devolved, organized religion was dismantled, the autocracy collapsed, and the Kymen that remained had disarmed themselves, centralized within a region of space "many times smaller than what they had conquered."
+
+This revolution was so intense that even certain words were banned outright by the various governments to prevent their usage. Terms such as "war" do not exist in any Kymennic language according to Kymen linguists, instead translating the term as "prolonged series [of] conflicts." While Kymen are perfectly aware of what the practice of war is and can identify it, they cannot express it in their own native tongue. Since the word has been banned for millennia, it went from taboo to completely forgotten. 
+
+Superstition and ancient cultural traditions have likewise been suppressed, but some cling to them still, even after thousands of years. Namely, a fixation on "moons" and numerology. This aspect of their culture is generally kept secret and if exposed, is usually met with anger otherwise uncommon among their species.
+
+However, recent encounters with Human traders have "reintroduced" concepts and terms to Kymen. Weapon-sellers slip by and distribute arms to Kymen that have not held such weapons in thousands of years. It is not understood how this has not occurred with other species, such as the Soshi, but by all accounts, other alien species have never approached Kymennic space, reportedly due to a "treaty." This is particularly unusual for the Soshi, with whom a treaty (or their equivalent of such an agreement) has been practically unheard of.
+
+The reactionary "Path Cells" (A loose translation, as the word "terrorist", does not exist in any Kymennic language), often found along the edges of Kymennic space, are reactionary groups to the expansion of Human territory and other alien activity along their border. The Cells call for a return to the Old Path via remilitarization and rapid technological development, hoping to remove the borders between Kymen by developing a monolithic culture.
+
+The Cells operations are simple. Terrorist activity in an urban center forces the Kymennic governments to respond- if they do not, the Cells spread in influence and can commit increasingly violent acts. If they do respond, they must militarize, an objective of the Cells.
+
+While these Cells have existed for thousands of years, only recently has the Body recorded them as being as active as they are now.
+
+------
+
+++ Culture and Psychology
+
+Unlike most sapient species, all Kymen can trace their culture to the single monolithic culture that was the Old Path. All contemporary ethnic groups bear similar cultural memes, albeit with some variations. Language is fairly diverse, with an estimated 14,595 different languages across Kymennic space.
+
+However, this is only a little over twice as many tongues that existed when Humanity resided on Earth. Given that Kymen are spread across hundreds of different systems and possibly thousands of worlds, it would be expected that more languages would exist, giving credence to the theory that the Old Path also featured a single universal Kymennic tongue.
+
+To a degree, these differences (particularly in language) between the different groups of Kymen are fostered by the Body to ensure there is not a return to the "Old Path" and its singular culture. In contrast to this diversity, all Kymen wear masks when in public, as the variety of Kymennic languages lack any facial or gestural elements and actively avoid those features in order to prevent "grave miscommunication." These masks are never removed in the presence of non-Kymen, and only Path Cells actively display their face.
+
+Kymen psychology is poorly understood, as what little is known is that Kymen have a very reserved and "hidden" mental state, with aspects such as inquisitiveness, curiosity, and anger heavily discouraged and suppressed by Kymen governments. The average Kymen citizen is "robotic" in their behavior, using only verbal communication to express themselves. Their unique fixation on numerology is strongly reminiscent of OCD[[footnote]]A chronic mental disorder among humans characterized by recurring obsessions and compulsions to repeat certain actions or behaviors.[[/footnote]] or in some cases, schizophrenia.[[footnote]]A serious mental disorder resulting in an abnormal interpretation of reality, and can often result in hallucinations, delusions, and unusual thinking patterns.[[/footnote]] It is unclear whether this typical of Kymen or the result of a common medical condition that is as of yet unidentified.
+
+Nonetheless, Kymen appear to have a range of emotions almost identical to that of humankind. Their culture differs from Humans, especially on a political level, but in comparison to other alien species the Kymen are possibly the most familiar race. Anger, joy, love, hate, and even more niche emotions such as melancholy or trepidation, albeit in a more limited capacity, have been observed in Kymenna. Despite lacking their own gestures or facial expressions, Kymen have been able to identify and react to a variety of Human-exclusive behaviors, such as waving, smiling, and frowning.
+
+This similarity is statistically impossible. Even when not considering the obvious biological connection between the two, the psychological commonalities cannot be due to sheer chance. This, combined with the fact that the Kymen predate Human civilization by tens of thousands of years and have never entered Sol itself has baffled the GRPC and civilian research studies. Given the size and scope of the Kymenna and their interaction with humanity, this data is difficult to suppress and risks causing severe civil/spiritual unrest.
+
+------
+
+++ Roles and Ranks
+
+Unlike other aspects of their culture, the hierarchy of Kymen and notable positions within their society are almost universal across the Body. Given the complexities of each separate Kymen government, some roles are abridged and simplified to the more relevant ranks. Note that most of these positions are found in the more homogenous "core region" of Kymennic space, and more removed societies may have different terminology entirely. Nonetheless, in foreign relations, these roles are usually the only roles represented.
+
++++ Hierarchy:
+
+Shorn: A Kymen Shorn (plural and singular) is entrusted with a specific region of a celestial body or interplanetary structure(s). A Shorn governs and enforces anything from a small city to a space station. Shorn are often elected alone locally, separate from any noble affairs.
+
+Shear: A Shear controls an entire world and everything within and orbiting it. Shears are usually elected in the "democratic monarchy" found throughout the Body, and as such are often the close relative to the head of their political family if they are not the head themselves.
+
+Sceran: A Sceran is rare, as few governments in the Body control an entire star system. However, the breadth of their control should not be mistaken for power, as a Sceran can rarely override the orders of a Shear in the affairs of their individual planets. As such, Scerans are seen as more of a "first among equals" to represent the will of the collective Shears in the Body.
+
+
++++ Notable Positions:
+
+Krovo: Known bloodletters, the one who euthanizes cattle within an abattoir. The rank of Krovo is incredibly taboo within Kymen society, as the murder of any living thing, even for food, is seen as a violation of the principles of the Grand Pacification. Krovo are more common among outer worlds without access to synthesized meat to satisfy parts of the Kymen diet. Also can refer to those directing weapon batteries on a spacecraft or other vehicle, who are likewise a pariah.
+
+------
+
+++ Government
+
+The Kymen as a species are not a single unified nation but rather a wide variety of individual governments often divided among solar systems or among worlds, each varying wildly in their political systems.
+
+More commonly is a form of "elective monarchy" where certain families of Kymen are voted into office, with the executive "head" of the family then placing his family members into appropriate roles in the legislative and bureaucratic branches. Rather than political parties (common among human democracies), partisanship is between these hereditary groups. Nepotism is instead sought after to achieve "collective responsibility" between aspects of the state. The specifics of the system (such as how they are voted into power or if they are voted for at all) is rarely consistent between states.
+
+However, all are member states of "The Body," a confederation that encompasses the entire species designed to enforce peace and communication among and between Kymen and other alien factions. The Body is practically powerless and is moreso a platform for debate and communication to prevent war. Some believe it is intentionally crippled due to the Kymen's fear of a return to a monolithic state. This weakness means that the Body cannot enforce trade bans across Kymennic space, so certain system/planet-states can continue to trade with non-Kymen.
+
+The systems of government the Kymen employ are disastrously inefficient, and despite the fact that they are fully aware of and capable of implementing more effective systems, they actively avoid advancing.
+
+The unification of all Kymen governments under the Body has complicated alien diplomacy, as Kymen struggle to understand the separation between the FSM, the FSHS, and other Human organizations, as they regard all of humanity as one single faction, not unlike their own Body or other alien groups. This was revealed when a Kymen system-state contacted their FSM liaison for an explanation when the FSHS had expanded dangerously close to their territory. While the situation was eventually resolved by GRPC intervention, it has further soured relations between the Body and the human race.
+
+------
+
+++ Diplomatic Procedures
+
+Tlalli, their homeworld, is forbidden to non-Kymen and the system it occupies.
+
+Personnel are required to respect the Body and its strict pacifistic laws when applicable and to avoid angering individual Kymen. Any form of photography performed by non-Kymen is banned while within Kymennic space, due to their "photosensitivity." This is likely a lie, as not only do Kymen possess eyes far more robust than Humans, but also due to the fact that Kymen frequently utilize their own camera-equivalent technology. Nonetheless, personnel are not allowed to bring any form of photo or video capturing devices into Kymennic space as per the agreement between the GRPC and the Body.
+
+Efforts to translate the many Kymennic languages are ongoing- however, Kymen have already translated the majority of Human tongues, so communication is possible.
+
+It is critical that the GRPC cooperate with the Body in its attempts to maintain order and to prevent its militarization in response to Path Cells and alien species. By all historic accounts, if the Old Path were to return, there would be no method available to the GRPC to prevent its rapid expansion.
+
+[[/div]]
+
+------
+
+
+[[size 120%]] [[collapsible show="[+] Footnotes: Condensed" hide="[-] Footnotes: Expanded"]]
+[[/size]]
+------
+[[footnoteblock]]
+------
+[[/collapsible]]
+

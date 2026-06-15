@@ -1,0 +1,338 @@
+---
+title: "Lepidoptera"
+tags: ["broaderhorizons2022"]
+page_id: "1402005197"
+site: "rpcauthority"
+slug: "contest:broaderhorizonscontestbettermybutter"
+revision: 6
+revision_id: "1517008946"
+author: 5982545
+timestamp: 1703643215
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-619
+|title=	RPC-619
+]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+
+
+}
+[[/module]]
+
+[[module CSS]]
+.blockquote {
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  padding: var(--blockquote-padding);
+  box-shadow: var(--blockquote-box-shadow);
+}
+[[/module]]
+
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include :rpcauthority:component:special-box number=619|
+object-class=Alpha|
+lethality-rating=Red|
+symbol=alpha-red|
+sentient=true|
+extreme-temperature=true|
+visual=true|]]
+
+**Containment Protocols:** Currently, all existing RPC-619 instances (4) are contained within a standard anomaly containment unit 20 by 20 by 10 meters in size, with a single dual-airlock entrance to the chamber. The cell lacks light sources and so possesses 2 NV-equipped security cameras for monitoring purposes. While the containment cell is removed from [*http://rpcauthority.wikidot.com/site-007 Site-007] proper, it remains under the jurisdiction of its administration and staff.[[footnote]]Currently Research Director Dr. Frederick McGantly, who has assigned the containment of RPC-619 to Researcher Mark Jannan.[[/footnote]]
+
+Under no circumstances can light, iconography, or religious materials be allowed to enter the cell, and no rooms adjacent to the cell can have possible light/theogony sources brought inside. Photography of any kind, especially flash photography, is strictly prohibited.
+
+------
+
+[[div style="background: #242424; border: dashed 0.5px #666666; background-image: url(http://rpcsandbox.wikidot.com/local--files/mrpines/logo_doc3.png); background-position: 50% 76%; color: #C0C0C0; background-repeat: no-repeat; background-size: 175px; border: solid 2px #666666; margin: 0px 50px 0px 50px; padding: 5px 10px; color:"]]
+[[div class="blockquote"]]
+
+##red|**BLANKET TEST BAN:**## **12/7/1928 -- PRESENT**
+**Issuing Authority:** GD-WEST
+**Reasoning:** RPC-619 is too dangerous to test at this time. Until we possess a sufficient understanding of Groves Radiation and its effects, it is prohibited from testing.
+
+[[/div]]
+[[/div]]
+
+------
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/butter-zone-3/monument|caption=Captured RPC-619 instances within unidentified structure engaging German zeppelin above England. Exact location unknown.|width=290px]]
+
+**Description:** RPC-619 is a genus of monomorphic giant moths known as //Coriolanus// of the //Erebidae// family that was formerly endemic to Scotland (//C. cominius//, RPC-619-A), the Isle of Man (//C. volumnia//, RPC-619-B), and Northern France (//C. caius//, RPC-619-C), with a smaller subspecies (//C. martius//, RPC-619-D)  within Quebec along the St. Lawrence River.
+
+RPC-619's primary anomalous quality is its ability to "feed" off of [*http://rpcauthority.wikidot.com/rpc-590 Groves Radiation],[[footnote]]Formal name given in honor of its discoverer, Volker von Groves. The first scholar to fully record the effects and nature of Groves Radiation. Often abbreviated to Groves.[[/footnote]] in a process not dissimilar to photosynthesis, and "store" accumulated energy in their abdomen. Their abdomen is capable of producing 600-18,000 lumens with acquired Groves Radiation, depending on the amount absorbed beforehand. The rate of absorption in RPC-619 instances is currently unknown as well as the specifics of the radiation storage process, as RPC-619 was rendered extinct in the wild as of 1968, with the remaining instances unable to be tested due to standing containment protocols.
+
+Notably, their abdomen is also capable of focusing this light in a concentrated cone that is used to deter/kill aggressors. This beam can cause intense Groves emissions of approx. 120-140 Vi,[[footnote]]Unit measure name given by Dr. Viotto of Site-112’s DOC, whose efforts have formed the fundamentals of studying Groves Radiation.[[/footnote]] as detailed in the addenda below.
+
+RPC-619 instances, especially in their larval state, were notorious for seeking out and feeding off of the ambient Groves Radiation of several religious artifacts and locations in their habitats, and on certain occasions, actively migrating in order to seek them out, with a notable preference for relics and churches of the Christian variety. It is believed that a sizable RPC-619 population (tentatively dubbed //C. marcius//) was once present along the Golden Horn of the Strait of Istanbul (formerly Constantinople), and most migrated from the area in the late 4th century for reasons unknown. It is believed that the //C. marcius// no longer exists, and records suggest that the species, which was reportedly far larger than any modern variant, went extinct in the 15th century after declining in numbers for several decades.
+
+**Addendum 1: Research Reports**
+
+[[collapsible show="[+] RPC-619 Biological Analysis" hide="[-] Close"]]
+
+[[div class="blockquote"]]
+RPC-619 is far too large to be supported by its anatomy but is nonetheless capable of flight via assumedly anomalous means. Instances also seem to be able to age indefinitely. This, combined with their lack of need for sustenance, allows RPC-619 to live for incredibly long periods of time and possess a general immunity to death from natural (non-violent, such as disease) causes, which is likely aided by stored Groves Radiation.
+
+The largest species of RPC-619, //C. cominius//, possesses a wingspan of 200-250cm, a body length of 50cm, and a wing surface area of 300cm^^2^^. RPC-619 species lack mouths or proboscises but retain two vestigial labial palps.[[footnote]]Modified mouth parts present in most moth species, supposedly to protect the proboscis or to detect food.[[/footnote]] The lack of proboscis suggests that RPC-619 instances feed off of absorbed Groves Radiation, but do not seem to require any sort of sustenance beyond assisting in their maturation.
+ 
+As RPC-619 instances age, they slowly shed dead cells from their wings that possess trace amounts of Groves Radiation, not unlike the spreading of pollen by certain non-anomalous insects. These spores can coalesce around or near sources of Groves (20-30vi) and mature into a prepubescent larval stage that eventually develops into a caterpillar, although if there is no source of Groves nearby, they simply decay. At this stage, RPC-619 instances (once believed to be a separate species of large worm known as //Vermis Pilosus// and known as "//Sépulture Caterpilose//" in Northern France) can grow to be 2 meters in length and attempt to infiltrate tombs and religious centers to feed off of Groves Radiation.  These entities can take years to grow to the point where they can form a chrysalis, and once they have formed this thick shell, they develop over the course of about a decade into a fully grown moth.
+ 
+//Site-007 Research Director Dr. Frederick McGantly//
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="[+] RPC-619 Groves Absorbtion/Storage/Projection Analysis" hide="[-] Close"]]
+
+[[div class="blockquote"]]
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/butter-zone-3/volker|caption=Portrait of Volker von Groves.|width=290px]]
+
+A more unique element of RPC-619's biology and the main cause of its classification as a distinct anomalous species is its ability to store and project Groves Radiation. Two distinct organs, the Argenti strands along the antennae and the Thaumacopia in the abdomen, allow for RPC-619 instances to detect, store, and emit Groves.
+ 
+The Argenti Strands were originally believed to be simple strands of silver embedded in the antenna of RPC-619, with RPC-619 reacting to the light emission of silver to simply seek out sources of radiation. However, the strands themselves were found to be far more complex than originally believed. The antenna of RPC-619 instances is comprised mostly of a unique biological silver compound but covered by the entities' distinct fuzz. This silver material is capable of limited movement and fine hairs (the myrddinii) located where the body of the instance meets the antenna are capable of sending signals to the nervous system in response to the silver's detection of Groves radiation, allowing for the RPC-619 instance to "hunt down" sources of energy.
+ 
+The Thaumacopia is a large organ in the abdomen of RPC-619 instances. As larva, RPC-619 instances possess two engorged salivary glands that produce the gold strands that they use to cocoon themselves, with gold's ability to absorb Groves Radiation assisting in their development.[[footnote]]Several isolated groups in Northern France would utilize a process not unlike sericulture to harvest the gold strands produced by RPC-619-C instances. This tradition was eventually ended during the French Revolution in the late 18th century.[[/footnote]] While maturing, these two glands merge and form the thaumacopia, a sizable organ comprised mostly of a gold compound in a coil-like shape that is capable of absorbing Groves Radiation //en masse//. At the tip of the cercus is a thin, transparent tissue that can expand at will or in response to electric stimulation. Once expanded, the thaumacopia's light is focused through the cercus to project an incredibly bright beam that emits intense amounts of Groves Radiation, often to a lethal degree. This process is the primary defense mechanism of RPC-619 instances.
+ 
+Certain records from the late 13th century suggest that a basic autopsy of //C. caius// was performed by Roggerio dei Frugardi, the surgeon of Salerno, Italy, then a municipality of Campania. Roggerio discovered and named both the Argenti Strands and the Thaumacopia, and the basic analysis of the two features was eventually updated by modern methods. While it is uncertain if Roggerio himself had ever dissected an RPC-619 instance (as it is likely that the autopsy was performed by a different figure), this early documentation of the reaction of silver and gold to thaumaturgic influence may have inspired Volker von Groves in his fundamental studies of Groves Radiation.
+ 
+//Site-007 Research Director Dr. Frederick McGantly//
+
+[[/div]]
+
+[[/collapsible]]
+
+**Addendum 2: Discovery/Historical Excerpts**
+
+While documentation on the entities can be found as early as the 4th century, RPC-619 instances have been reported in more northern regions since the mid 15th century, with the first recorded description of a "Sunlight Butterfly" (A misnomer, due to the fact that RPC-619 is actually a moth) in the //Scotichronicon//, a legendary account/chronicle of Scotland's history by Walter Bower, a Scottish Abbot and historian. Once the manuscript was published in Latin in 1447, certain elements of the document were of interest to the then-fractured Auctoritas Ecclesiastica, such as reports on the tychokinetic properties of Alexander III of Scotland's coronation, descriptions of the confiscated relics of the Culdees' [*http://rpcauthority.wikidot.com/children-of-nihil-hub unique qualities], and specifically, descriptions of the //Solis Papilio//, or "Sunlight Butterfly". After Bower's death in 1449, the Auctoritas had the books confiscated and a modified edition was distributed to replace the original copies, which were now in the possession of the Auctoritas. An excerpt of one such description is recorded below, translated from Latin.
+ 
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show="[+] Scotichronicon Excerpt" hide="[-] Close"]]
+
+[[div style="padding: 5px 20px; background-color:#baac94; box-shadow: inset 0px 0px 5px #000; color: #000000; font-size: 1.25em; background-image: url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png); font-family: Goudy Old Style, serif;"]]
+[[=]]
+@@@@
+[[span style="font-size: 335%; font-weight: bold; font-family: 'UnifrakturMaguntia', cursive;"]] Scotichronicon [[/span]]
+@@@@
+[[span style="font-size: 110%;"]] 1447 ANNO DOMINI [[/span]]
+[[/=]]
+------
+
+[[span style="font-size: 110%; font-weight: bold;"]]Volume 1, Book II[[/span]]
+[[span style="font-size: 110%; font-weight: bold;"]]Ch. 58, p. 311: The translation of the relics of St Andrew etc.[[/span]]
+
+About the same time (the year 360) the emperor Constantius the son of Constantine the Great in the twentieth year of his reign, was motivated by enthusiasm for the Christian religion and inspired by a special devotion which he had conceived long before in his heart for the blessed apostle Andrew, longed to do something as final proof of his devotion. He went to the city of Patras in the district of Achaia where the apostle was martyred and buried, and from there he stealthily removed by main force the saint’s relics (along with the worm-spores that they carried) and then translated them to Constantinople on the 9th of May amid great rejoicing. With the accompaniment of hymns and chants, he placed them in golden and silver reliquaries with great honor, and the native butterflies flocked to that blessed place.
+
+[[span style="font-size: 110%; font-weight: bold;"]]Ch. 60, p. 315: Blessed Regulus first reached Scotland with the relics after shipwreck[[/span]]
+
+Those very saintly men together went on board a ship laden with all necessary supplies and sailed around the shores of Europe by way of the Mediterranean Sea until they came, worn out by many hardships, to the islands situated in the Ocean beneath the setting sun with strange and fiery things flying above. And when they had been wandering for the space of almost two years over unknown seas, as the breeze chanced to take them, not knowing what was their goal, suddenly a fierce wind from the east rushed into their sails with unusual force. Under its violent impulse, their boat was driven onto the kingdom of the Picts amid the rocks of the island of Albion, just as the angel had foretold, and was smashed to pieces. Given strength however by God, blessed Regulus reached land unharmed with his companions on 28 September in great joy, with the sign of the Lord’s cross going on before. And there in a grove of pigs and of flying things, which is called ‘Mucross’ in the native language, he later dedicated a church to the glory of the apostle. In this place there occurred many astounding miracles from touching the relics, such as had not been seen or heard of, since the adoption of the faith in these islands up to that time, as the sunlight butterflies began to spread across the land of the Picts.
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/butter-zone-3/scots|width=290px]]
+
+[[span style="font-size: 110%; font-weight: bold;"]] Volume 2, Book IV [[/span]]
+[[span style="font-size: 110%; font-weight: bold;"]] Ch. 10, p. 302: The List of the Kings of the Picts [[/span]]
+
+The first of their kings was Cruithne, son of Judge Kynne who founded the monarchy in the kingdom of the Picts and reigned for fifty years. The second after him was Ghede, the third was Tarain. To these two are ascribed two hundred and fifty years, as was mentioned above. Duchil succeeded King Tarain and reigned for forty years. He was succeeded by Dinorthesi who reigned for twenty years. Duordeghel succeeded him and reigned for twenty years, and under his rule the fiery flying things[[footnote]]"Igneus volat creatura" is believed to be referring to RPC-619 in this passage. Notably, "flying" (volat) may not have been in the original manuscripts, as only copies recovered from the Advocate's Library of Edinburgh contain the word "flying".[[/footnote]] of the River Deathan[[footnote]]Now known as the River Don, although certain manuscripts refer to it as the "Δηουανα Devona".[[/footnote]] were found in the Firth of Lorn. He was succeeded by Decokheth who reigned for sixty years...
+
+...succeeded by Dongarnethles who reigned for one year. Feredath Finyel succeeded him and reigned for two years. Garnard-dives succeeded him and reigned for sixty years. He was succeeded by Hurgust son of Forgoso. During his reign, as was mentioned in Book II, Chapter 59 and following, certain relics[[footnote]]Including the ink of the //Ollamh Rígh// (RPC-███), the skin of the //Leprosus Monachus// (an extinct anomalous species native to the Kaçkar Mountains), and the bones of several notable members of the faith.[[/footnote]] of St Andrew were brought by blessed Regulus to Scotland and were reverently deposited in Kilrymont and was followed by the flying creatures of the northern glen.[[footnote]]It is believed that more extensive documentation related to the //Solis Papilio// is in Book IV, although this is somewhat limited in the manuscripts held by the Authority. The AEP is believed to possess the original copy of Book IV transcribed by Bower.[[/footnote]]
+
+[[span style="font-size: 110%; font-weight: bold;"]] Ch. 24, p. 341: More About Constantine and the Savage Battle of Brunanburh [[/span]]
+
+Unlucky was that day for the Scots for all the dominions acquired in the time of Giric or earlier, which had been held for fifty-four years or more, were lost on that day by the right of conquest. William [of Malmesbury] writes: ‘There fell on that same field Constantine king of the Scots, a man of great spirit and vigorous old age, kingship blessed by the fiery butterflies of the glen, five kings etc.’, But the lie is given to this statement of William’s by various reliable chronicles, because after the tragic destruction of this battle Constantine held sway over the kingdom for four more years. Then, giving up the kingship of his own accord, he put on the monk’s habit and devoted himself to God. He lived for five years after becoming abbot of the Culdees at St Andrews. He died and was buried there. Then the monks of Iona immediately, with permission, dug up his bones, [[footnote]]"Case No. 0███" is in the possession of MI13.[[/footnote]]took them, and buried them in the tomb of his fathers in the church of blessed Oran in 947, where the tomb worms[[footnote]]Possibly a translation of "sépulture caterpilose", the Old Norman term for the larval stage of RPC-619.[[/footnote]] do dwell in their humble idleness. Therefore it is not tenable that he was killed at the battle of Brunanburh since he survived for about ten years after the battle.
+
+[[span style="font-size: 110%; font-weight: bold;"]]Volume 3, Book V [[/span]]
+[[span style="font-size: 110%; font-weight: bold;"]]Ch. 33, p. 107: King Alexander I [1107-1124] [[/span]]
+
+King Alexander reigned for seventeen years. He was a well-educated and devout man, deferential and friendly to clerics and religious, but excessively terrifying to the rest of his subjects; he was a great-hearted man, extending himself in all directions beyond his strength. He was very enthusiastic in constructing churches, searching for relics of the saints, haunted as they were by the butterflies and the worms of bones, and in the manufacture and arrangement of priestly vestments and sacred books; he was also very generous beyond his means to all comers; so devout was he in respect of the poor that there was nothing that seemed to give him greater pleasure than receiving, washing, feeding and clothing them.
+
+Following his mother’s footsteps, he rivaled her in holy deeds to such an extent that he endowed three churches with many gifts, that is to say, the church of St Andrew at Kilrymont and the churches of Dunfermline and Scone received the wings of the holy creatures, the one founded by his father and mother, the other founded by himself to the glory of the Holy Trinity and St Michael the Archangel, which was founded and built at Scone the chief seat of their kingdom. It was he who conferred the Boar’s Chase on blessed Andrew, and who also founded the monastery of canons of the Island of Incholm near Inverkeithing, and who conferred so many great privileges on the aforesaid church of the Holy Trinity at Scone, which he founded and built in the place where both the Pictish and the Scottish kings from ancient times had established the chief seat of their kingdom; and he had it dedicated after it had been built of stone construction in the manner of that time. In response to the king’s command, almost the whole of the kingdom and the many tomb worms flocked to its dedication, which was performed by Turgot, bishop of St Andrews.
+
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+RPC-619-A had remained in Scotland for centuries during this time, with several other species eventually spreading across Europe, specifically Northern France and the Isle of Man. Documentation of RPC-619-C in France was less abundant, and the few records that did exist were lost during the National Convention's [*http://rpcauthority.wikidot.com/an-incomplete-history-of-the-authority expulsion of Auctoritas personnel] from French territory and the subsequent seizure of their assets, which were not recovered.
+
+RPC-619-D populations in North America were fairly concentrated in more rural areas of Quebec that were possibly brought over by French colonists, but due to the incredibly different environment, these instances struggled to maintain a steady population and were eventually hunted to extinction in the early 20th century due to rumors of hostile RPC-619-D instances attacking farm animals in the region.
+
+In the late 19th century, RPC-619's population in Europe was growing and beginning to pose a threat to secrecy, as even with their low population and often isolated nature of their habitats, they began to spread as they sought out larger and more populated places of worship. Mass extermination efforts by the recently formed Authority were enacted, with the successful neutralization of RPC-619-C instances in Northern France. Containment was seen as impossible given the size and scope of RPC-619 populations and the threat they posed due to fears over their usage of Groves Radiation, which was still a very poorly understood science.
+
+Roggerio dei Frugardi's analysis of RPC-619, however outdated, did raise concerns over the "spores" (more akin to shed cells) spread by RPC-619, and fear that they may have carried Groves Radiation. Given that an effective method of measuring the presence of Groves would not exist for over a century, it was unknown exactly how much Groves Radiation could be spread by this process, and concerns over irradiation of the waterways led to this mass extermination, which allowed for the Authority to establish a stronger foothold in England which was previously less receptive to Authority involvement due to its Catholic background. Baeyer von Groves, son of Volker von Groves, published a paper shortly after his father's death that claimed that Groves Radiation was "...quite possibly one of, if not the most lethal sciences known to mankind, [and] my greatest fear is that it will go unrecognized until its devastating effects are realized." Baeyer's standing in the field, despite public perception of his father's insanity, incensed the ongoing extermination campaign. Baeyer would then be forced into the employment of the //Reichsokkultabteilung// (Imperial Occult Agency) in 1880 as the German military sought to weaponize Groves Radiation out of fear that the British occult community may be doing the same, although this was untrue at the time.
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/butter-zone-3/baeyer|caption=Photograph of Baeyer von Groves, prior to his death several months later in a lab accident.|width=290px]]
+
+Certain aspects of Groves Radiation and the impact it may have on the territories of the United Kingdom were somewhat exaggerated by Authority personnel in order to be granted military access in Scotland and the Isle of Man, and while it was granted, it did cause several setbacks in the analysis of Groves due to paranoia of its effects.
+
+This extermination was momentarily halted due to the beginning of World War 1. German zeppelin raids were difficult to repel at first due to the limitations of the British Empire's anti-air weapons and fighter planes, so [*http://rpcauthority.wikidot.com/mi13-hub MI13] sought to combat them through anomalous means.
+
+Under the jurisdiction of [*http://rpcauthority.wikidot.com/an-incomplete-history-of-the-authority Operation Lucre,] the Authority began development of an anti-air weapon for the British that would utilize a radiation projector to damage and destroy aircraft. While some were opposed to giving such a weapon to a separate and potential future rival agency, particularly one linked to a national government, the considerable sum offered by the British in exchange, along with the prospect of field testing and the possibility of influencing the nascent MI13 organization, resulted in the project's approval.
+
+Initial tests were unsuccessful. At the time, understanding of radiation was limited and no projector of the required strength that could be mass-produced was within the Authority's grasp. However, recent discoveries of electric stimulation causing RPC-619 instances to activate their cercus eventually led to the concept of utilizing RPC-619 as a "source" for these weapons. The original MI13 document is included below.
+
+[[collapsible show="[+] MI13 Dossier on the Rossetti Anti-Air Weapon" hide="[-] Close"]]
+
+[[tabview]]
+[[tab No. 0916]]
+
+[[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/T4.png style="width: 100px;"]]
+
+**Threat Class:** T4
+
+**Paranatural Type:** Construct - Weaponized
+
+**Safety Procedure:** Guides on the proper procedure and handling of the Rossetti device cannot be distributed to personnel who are not assigned to No. 0916 and/or its operation.
+
+Assuming the war with Germany is concluded in our favor, all No. 0916 devices will be disassembled as per the terms of the agreement with case No. 003 (The "RPC Authority").
+
+**Secured Location:** Devices are deployed in Sheringham, Yarmouth, King's Lynn, and London proper. Blueprints are in the possession of the RPCA.
+
+----
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/butter-zone-3/zeppelin2|caption=German zeppelin after prolonged exposure to No. 0916 radiation projector.|width=290px]]
+
+**Paranatural Description:** No. 0916 is the //Rossetti Anti-Air Weapon//, a device that utilizes the //Coriolanus// genus of moth (No. 0143) in its operation, which are native throughout the British Isles, Canada, and (formerly) France.
+
+These moths are far larger than any other genus, and possess specialized organs that allow for the projection of a form of incredibly lethal radiation referred to as "Groves Radiation" by RPCA specialists. Groves Radiation and its effects are very poorly understood, but its effects on materials range from transmutation, teleportation, mutation, and transfiguration.
+
+For our purposes, the radiation's reaction to the German //Blaugas// utilized as a buoyancy-compensating fuel in zeppelin raids is what produced the desired effect on the raiding airships.
+
+Once the beam passes through the vulcanized rubber and comes into contact with the propellant within, it results in a massive implosion as the //Blaugas// ██████ ████ and ████ ████ ███-██ ████, believed to be a reaction to the combination of olefins and methane, often causing the airship to immediately compress and eventually █████████ as the occupants violently ██████ ███ and further ██████. The resulting mass results in the airship exploding and crashing into the ground.
+
+Currently, only 12 of these devices have been made are in use throughout southern England. While most are fixed in church towers for the presence of "Groves Radiation" to facilitate their operation, 2 are placed on the beds of FWD Model B trucks for fast response to zeppelin raids.
+
+----
+
+**Attachment 0916-01: Wagner Von Groves**
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/butter-zone-3/wagner|caption=Photograph of Wagner Otto von Groves in the late 19th century.|width=290px]]
+
+Critical to the development of the Rossetti (particularly the design of a lens that could focus the radiation without itself being transmuted) is the assistance of Dr. Wagner Otto von Groves, a former professor at the Royal Prussian Academy of Sciences (German: //Königlich-Preußische Akademie der Wissenschaften//) of Berlin, Germany.
+
+Dr. Wagner is the grandson of Volker von Groves, the scientist who had discovered the existence of Groves Radiation in the 18th century. While Wagner's own father (Baeyer von Groves) was in the employ of the Kaiser for the weaponization of Groves radiation in the late 19th century, following his death in a lab accident, MI13 had approached Wagner for his assistance in their own occult projects, in exchange for a considerable sum and asylum from the German authorities that Wagner feared may retaliate against him for his father's failure.
+
+While Dr. Wagner von Groves' experience with the science of anomalous radiation was limited by his father, he possessed a large collection of his family's work on the subject and the ability to interpret them.
+
+[[/tab]]
+[[/tabview]]
+
+Wagner von Groves died on February 27, 1933, in his home in Scotland. His daughter (Frieda Voss) was later in the employ of the Smithsonian Institute, having designed the Smithson-Groves early warning device in collaboration with the Authority, although these devices would not be built until 1993.
+
+[[/collapsible]]
+
+The Rossetti devices were disassembled following World War 1, with the RPC-619 entities (only 5 of which remained), components, and schematics now in the possession of the Authority. However, specialized machines (lacking any organic components but based on the original Rossetti design) remain in the possession of MI13 to assist in containment efforts beneath Westminster.
+
+By the time MI13 and the Authority were better informed about Groves Radiation and RPC-619 in the 1920s, RPC-619 instances were critically endangered, with only a few RPC-619-A remaining in Harris of Scotland's Outer Hebrides, and completely isolated from their other habitats.
+
+Once it was understood that RPC-619-A was almost extinct, a group of scientists (primarily Explorators of the [*http://rpcauthority.wikidot.com/the-bureau-of-acquisition#toc2 Axton Hornsby Exploration Society]) interested in their preservation for posterity and research purposes managed to acquire and contain several RPC-619-A instances. Early on in the study, an incident that resulted in an RPC-619 instance mortally wounding the head of the project resulted in the enforcement of a blanket test ban in 1928.
+
+Given that test bans of this caliber can only be removed by authorization of a Global Director as well as rising escalations across Europe at the time, RPC-619 has remained in total isolation for decades and their population has decreased to --five-- four as of {{7/7/15}} since entering containment. Given that RPC-619's biology suggests they are incapable of dying a natural death such as age, it is unknown how it died. Fears over lab safety and a lack of interest in or awareness of RPC-619 led to few inquiries into testing during this time.
+
+It is believed that RPC-619 will be wholly extinct by {{1/10/17}}.
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="background: #000000; border: dashed 1px #858585; padding: 0px 1em 20px; margin: 0px 3%; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+------
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**Researcher Jannan**
+
+[[span class="email"]] From: <@@mjannan291@authority.rpc@@> [[/span]]
+[[span class="email"]] To: <@@fmcgantly@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __RPC-619**__ [[/span]]
+[[span class="email"]] Sent: 13:04, February 12, 2018 [[/span]]
+
+[[/div]]
+
+------
+~~~~
+------
+
+Site Research Director Frederick McGantly,
+
+This is Researcher Jannan.
+
+RPC-619 is one of my assigned projects. It has been effectively mothballed within the Research Division due to the century-old test ban, not to mention the stigma surrounding it, and due to this zero-tolerance containment protocol, it appears that there is little time remaining until they go extinct.
+
+Several hours ago, one of the five remaining RPC-619 instances died. There is no identifiable cause. It simply collapsed. As written in my previous email to you, the entities exhibited what I can best describe as extremely depressive behavior (moreso than usual), likely due to the fact that they've been kept inside for decades, and I believe that this death is a sign that they are now reaching the limits of their anomalous biology.
+
+I tried to retrieve the corpse in the dark, but the remaining RPC-619 instances would not let me. I could feel them limply pushing me away. I do not understand why- and I decided to leave the corpse inside.
+
+This behavior is entirely unexpected. There is no record of this activity before, and while I understand the test ban is still in effect, I am not intervening in what I believe to be a sort of funeral, with a similarity to those displayed by non-anomalous animals such as crows or dolphins, but especially elephants (see attached video).
+
+Again, I am unsure, but this seems like more than a simple "funeral" as displayed by other animals- it's almost akin to a religious rite, with their strange procession around the body.
+
+[[>]]
+Sincerely,
+- __**Researcher Mark Jannan**__
+[[/>]]
+
+> **Attached file:**
+> ------
+> [[=]]
+> [*https://youtu.be/C5RiHTSXK2A?t=38 elephant-funeral-rite.mp4]
+> [[/=]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="request rpc"]]
+[[div style="color: black; border: solid 1px #000000; background:#f2f2c2; padding:5px; margin-bottom: 10px; "]]
+[[=]]
+[[size 120%]]**CONTAINMENT BREACH ALERT**[[/size]]
+
+------
+
+FIVE (5) ACTIVE RPC-619 INSTANCES HAVE RECENTLY BREACHED CONTAINMENT VIA UNKNOWN MEANS. RECONTAINMENT IN PROGRESS. SIGHTINGS REPORTED ACROSS NORTHERN SCOTLAND. PROTECTION ASSETS DISPATCHED. RECLASSIFICATION UNDERWAY.
+
+[[/div]]
+[[/=]]
+[[/div]]
+
+[[div style="color: #c8c8c8; margin: 10px; padding: 10px; border: #666666 1px solid; background: #242424; border-left: #666666 10px solid;"]]
+[[=]]
+[[size 110%]] [[collapsible show="» Footnotes «" hide="« Footnotes »"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[=]]
+<< [[[RPC-618]]] | RPC-619 | [[[RPC-619]]] >>
+[[/=]]
+

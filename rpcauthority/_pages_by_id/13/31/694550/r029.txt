@@ -1,0 +1,92 @@
+---
+title: "Broader Horizons"
+tags: ["broaderhorizons2022", "contest"]
+page_id: "1331694550"
+site: "rpcauthority"
+slug: "broader-horizons"
+revision: 29
+revision_id: "1496554183"
+author: 5258122
+timestamp: 1666234658
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:broader-horizons-theme/code/1);
+[[/module]]
+
+[[module css]]
+:root {
+--v1: transparent;
+--WT-v1: #170a15;
+}
+
+.image {
+background: var(--v1);
+}
+[[/module]]
+
+[[div class="image"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/broader-horizons/the_handshake.png width="100%"]]
+[[/div]]
+
+
+++ ##BD2578|Official Placements##
+> First place goes to [[[rpc-880 | RPC-880]]] by [[*user 8ismo]] with +15!
+> 
+> Second place goes to [[[rpc-619 |Lepidoptera]]] by [[*user BetterMyButter]] with +13
+> 
+> Third place is a tie and goes to: 
+> [[[dead-bird|The Mandorla Part 1: Dead Bird]]] by [[*user vizlox]] with +11!
+> and [[[rpc-470 |There Are No Angels Here]]] by [[*user almarduk]] and [[*user prototype_toaster]] with +11!
+> 
+
+[[div style="font-size: 120%; margin: 0 2em 2em 2em;"]]
+{{Every day, the sun rises in the east so it can set in the west. Yet, the world is driven by a thousand, loose cogs grinding against each other. Past the veil, it is no different. A clip-on tie salesman knocks on your door with an impossibly wide smile; A group of teens are radicalized to give their minds and bodies in the promise to become more than human; Her Majesty's finest serve to protect god and country against forces incomprehensible.}}
+
+{{No, this story was never meant to be told from one perspective. In this great chess match, too many hands are at play to not seize the day. How the cogs interact is simply driven by their ego. But every day presents a new challenge, a fresher start. }}
+[[/div]]
+
++ Submissions Info
+
+##9F0943|**The Broader Horizons Contest**:## Create an RPC article or tale within already established lore, such as [[[http://rpcauthority.wikidot.com/groups-of-interest| GoIs]]], [[[http://rpcauthority.wikidot.com/governments-of-interest| AoIs]]], or any [[[http://rpcauthority.wikidot.com/authority-events-hub| past events]]], such as official ones like [[[http://rpcauthority.wikidot.com/budget-cuts| Budget Cuts]]], or unofficial in world events such as the Austral War. The submission with the highest final rating will win. The winner of the Broader Horizons Contest will get bragging rights, a **commissioned piece of art** of their RPC, the RPC-321 slot, and a featured spot on the front page. Those who do not win are encouraged to upload their submissions.
+
+* ##8f13bd|**Optional Challenge**:## Write a GoI in a past event where they previously did not appear! Those who vote on more than half of entries will be able to vote for which entry they think did it the best. (Leave a comment in the discussion forum to say when you no-vote an article!) The winner will be awarded with the special challenge badge and a featured spot on the front page.
+
+* Contact [[*user croal]] ##666|(Coupon#1773)## to enter
+
+##9F0943|**Discord Art Contest**:## Create a piece of art, focused around an already established piece of lore in the RPC world, such as a **GoI**, **AoI** or **Event**. To join, simply post your art in #art-repository on discord while pinging ##666|(Coupon#1773)## or ##666|(!Zingo Zango Zalgo Zongo Bongo#6309#2181)## with the caption "to Broader Horizons". **The winner will get an Intuos 5 drawing tablet -- with paid shipping!**
+
+* Contact [[*user croal]] ##666|(Coupon#1773)## or [[*user televisionist]] ##666|(!Zingo Zango Zalgo Zongo Bongo#6309#2181)## to enter
+
++ Dates
+
+##8f13bd|**Submissions Open**:## 6th of March, 12AM EST
+##8f13bd|**Submissions Close**:## 3rd of April, 11:59PM EST
+##8f13bd|**Voting Begins**:## 4th of April
+Winners will be announced on the **10th of April**
+
++ Rules
+
+* Do not coldpost. Writing submissions must receive two pieces of feedback in the drafts forum.
+* Wait until the submission period begins to upload your page.
+* Submissions must match the theme in a justifiable way.
+* Pre-existing drafts are allowed, so long as they have never been posted to the wiki.
+* Edits to works are allowed.
+* Do not request for people to change their vote on your entry, excessively push or pester people to rate it, or message an overtly substantial amount of people to read your entry such that it may provide you an unfair advantage.
+* Attempting to manipulate votes using alt accounts or other deceitful means will result in your entry being disqualified; you may also be barred from future contests or banned from the site.
+* You may write multiple contest entries, but only your highest rated entry will count for the purposes of rewards.
+
++ To Enter
+
+1. Write your article and get feedback on the forums.
+
+2. Post your entry to the site with the URL "Contest:BroaderHorizonsContest<YourUserName>" with your site user name in place of <YourUserName>. For example, if a user named Chad were to post an entry it would have the URL rpcauthority.wikidot.com/Contest:BroaderHorizonsContestChad. This page must be posted by you or a collaboration partner. You must receive feedback before posting.
+
+3. Add the tag "BroaderHorizons2022" to your entry so it shows up on this page.
+
+
++ Submissions
+[[module ListPages separate="no" category="contest" tags="+BroaderHorizons2022 -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
