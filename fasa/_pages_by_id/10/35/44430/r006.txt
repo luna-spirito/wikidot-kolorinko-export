@@ -1,0 +1,39 @@
+---
+title: ""
+tags: []
+page_id: "103544430"
+site: "fasa"
+slug: "personnel-database"
+revision: 6
+revision_id: "1073036861"
+author: 4293614
+timestamp: 1586134433
+---
+
+[[module css]]
+#page-title {
+display: none
+}
+
+.listresize {
+font-size: 12px !important;
+line-height: 141%;
+}
+[[/module]]
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Personnel Database
+[[/div]]
+
+**Foreword:** This document is a collection of all notable Agency personnel for official archival and internal matters.
+
+Template can be found **[[[http://fasa.wikidot.com/template:personnel| here]]]**
+
+To add a new entry, input personnel's name and hit create: 
+[[module NewPage order="rating desc" tags="personnel" parent="personnel-database" template="template:personnel"]]
+
+------
+
+[[module ListPages tags="personnel" order="rating desc" perPage="10" ]]
+**%%linked_title%%** - **Rating:** %%rating%%
+[[/module]]
+

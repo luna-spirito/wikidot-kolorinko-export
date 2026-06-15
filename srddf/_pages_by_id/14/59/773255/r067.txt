@@ -1,0 +1,47 @@
+---
+title: "Side"
+tags: []
+page_id: "1459773255"
+site: "srddf"
+slug: "nav:side"
+revision: 67
+revision_id: "1539812849"
+author: 9720100
+timestamp: 1763818991
+---
+
+[[div style="border: 2px solid #000000; border-radius: 12px; padding: 15px; box-shadow: inset 4px 4px 6px #808080, inset -4px -4px 6px #808080, 0px 0px 8px #808080; background-color: #fff;"]]
+
+[[image SRDDF_Logo_Facebook link="https://www.facebook.com/groups/srddffoundation/"]][[image SRDDF_Logo_Discord link="https://discord.gg/uq7VTPFT/"]][[image SRDDF_Logo_Youtube link="https://www.youtube.com/@SRDDFOfficial"]][[image SRDDF_Logo_Tiktok link="https://www.tiktok.com/@srddffoundationofficial"]]
+ [[/div]]
+
+[[div style="border: 2px solid #000000; border-radius: 12px; padding: 15px; box-shadow: inset 4px 4px 6px #808080, inset -4px -4px 6px #808080, 0px 0px 8px #808080; background-color: #fff; max-height: 400px; overflow-y: auto; overflow-x: hidden;"]]
+
+[[module NewPage category="blog" parent="blog:_start" button="Create Post" size="18"]]
+
+**[/legal:start Legal] | [/about About] | [/contact Contact]**
+
+[[button tags text="Tags"]] | [[button edit text="Edit"]] | [[button source text="Source"]] | [[button print text="Print"]]
+-----
+[[span style="color:#000"]]**SRDDF Series Grand File**[[/span]]
+ [[[SRDDF Series| 𝗦𝗲𝗿𝗶𝗲𝘀 𝗜]]] **|** [[[SRDDF Series 2| 𝗦𝗲𝗿𝗶𝗲𝘀 𝗜𝗜]]]
+-----
+**Posts by date**
+
+[[module PageCalendar category="blog" targetPage="blog:_start"]]
+
+**Posts by tags**
+
+[[module TagCloud minFontSize="80%" maxFontSize="200%"  maxColor="8,8,64" minColor="100,100,128" category="blog" target="blog:_start"  limit="30"]]
+
+[!-- Google translate from English (see 'up_source_language=en' below) --]
+[[embed]]
+<script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&up_source_language=en&w=160&h=60&title=&border=&output=js"></script>
+[[/embed]]
+
+**Watchers**
+
+[[module Watchers]]
+
+[[/div]]
+

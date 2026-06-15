@@ -1,0 +1,79 @@
+---
+title: "Start"
+tags: ["_admin", "information"]
+page_id: "1331200115"
+site: "harp-wiki"
+slug: "start"
+revision: 37
+revision_id: "1497415109"
+author: 7460495
+timestamp: 1668467610
+---
+
+[[module CSS]]
+#page-title {
+ display: none;
+[[/module]]
+
+[[include component:language-bar |en= --]
+|link-es=es:start
+]]
+
+[[=]]
+[[module ListUsers users="."]]
++ Welcome, %%title%% to the H.A.R.P.
+[[/module]]
+[[/=]]
+
+------
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="title-panel-left"]]
++++ Put your featured article here.
+[[div class="body-panel-left"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="title-panel-right"]]
++++ Put your featured article here.
+[[div class="body-panel-right"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[[/div]]
+[[/div]]
+
+[[module CSS]]
+.body-panel-left {
+border-bottom: 2px solid #000; border-top: 2px solid #000; border-left: 2px solid #000; border-right: 2px solid #000; background: #fff; color: #000; padding: 0 7%; width: 67%;
+
+  }
+}
+[[/module]]
+
+[[module CSS]]
+.title-panel-left {
+border-top: 2px solid #000; border-bottom: 1px solid #9C2525; border-left: 1px solid #9C2525; border-right: 1px solid #9C2525; background: #9C2525; font-weight: bold; color: #fff; float: left; padding: 0 2%; width: 45%;
+  } 
+}
+[[/module]]
+
+[[module CSS]]
+.body-panel-right {
+border-bottom: 2px solid #000; border-top: 2px solid #000; border-left: 2px solid #000; border-right: 2px solid #000; background: #fff; color: #000; padding: 0 7%; width: 67%;
+  }
+}
+[[/module]]
+
+[[module CSS]]
+.title-panel-right {
+border-top: 2px solid #000; border-bottom: 1px solid #9C2525; border-left: 1px solid #9C2525; border-right: 1px solid #9C2525; background: #9C2525; font-weight: bold; color: #fff; float: right; padding: 0 2%; width: 45%;
+  }
+}
+[[/module]]
+

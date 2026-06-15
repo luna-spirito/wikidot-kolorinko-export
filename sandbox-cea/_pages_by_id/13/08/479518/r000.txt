@@ -1,0 +1,24 @@
+---
+title: "Talk page for nav:side"
+tags: ["delete-this-page"]
+page_id: "1308479518"
+site: "sandbox-cea"
+slug: "talk:nav:side"
+revision: 0
+revision_id: "1362054710"
+author: 2954516
+timestamp: 1617623129
+---
+
+**leiger wrote:**
+I tried using [[module Search mini="true"]] but for some reason I can't seem to make it appear at the right size.
+It works perfectly fine on my website (http://cyclods.wikidot.com/start), so I'm not sure why it's not working here.
+Being able to use the search module will remove the need to edit the CSS every time a menu item is added/removed.
+------
+
+[[module Search mini="true"]]
+----
+
+**pieterh wrote:**
+Size of the input field seems fixed to 30.  I'll make a change request that the 'mini' form has a smaller field, maybe half that.
+

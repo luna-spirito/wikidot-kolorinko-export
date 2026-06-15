@@ -1,0 +1,150 @@
+---
+title: "David Richman"
+tags: []
+page_id: "1024237869"
+site: "fasa-sandbox"
+slug: "david-richman"
+revision: 20
+revision_id: "1073112723"
+author: 4293614
+timestamp: 1586339120
+---
+
+[[module CSS]]
+.fakeprot .mailform-box .buttons{display:none;}
+.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}
+.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}
+.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}
+.mailform-box td:first-child {width: 80px;}
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[div style="text-align: center; color: #a90a0a;"]]
+[[div class="unmargined" style="font-size: 300%; font-weight: bold; margin: 2px 0 5px;"]]
+**WARNING!**
+[[/div]]
+[[div class="unmargined" style="font-size: 200%; color: #a90a0a;"]]
+THIS DOCUMENT IS LIMITED TO YELLOW-XXX OR HIGHER SECURITY CLEARANCES
+[[/div]]
+[[div class="unmargined" style="font-size: 150%; color: #a90a0a;"]]
+**VIOLATORS WILL BE APPREHENDED AND AMNESTICIZED**
+[[/div]]
+[[/div]]
+@@@@
+[[include component:image-block name=http://fasa-sandbox.wdfiles.com/local--files/wiljir123/DA|caption=DA-XXX with its tongue sticking out|height=350px|width=350px]]
+
+
+**DA Index**: DA-XXX
+**Codename**: David Richman
+**Current Status**: Contained 
+
+**Containment Level**:  Easy
+**Usability Level**: 2-Star
+**Danger Level**:  Pearl 
+**Public Status**: U 
+
+**Containment Protocols**: DA-XXX is to be contained at Site-[**DATA EXPUNGED**] in a standard humanoid containment cell. DA-XXX has no security clearances, and is not allowed to leave their containment unit without the written and spoken approval of three members of Red security clearance or the Site Manager at Site-[**DATA EXPUNGED**]. Between the hours of 05:00 and 20:00, DA-XXX is permitted to request an interview with Site Personnel in regards to its predictions or any new information regarding [**REDACTED**].
+
+**Description:** DA-XXX has the appearance of a male humanoid who refers to themselves as David Richman. DA-XXX is of 34 years of age; having a weight of 89 kilograms and a height of 1.86 meters. DA-XXX has basalt black skin, though DNA testing has otherwise proved its heritage to be of Caucasian origin. All organic tissue within DA-XXX's body are a similar shade of black, the only exception being the skeletal structure. Research on the DA-XXX's bones have revealed that they are composed of a material with an appearance similar to gold, otherwise having non-anomalous bone-like properties.
+
+DA-XXX's face does not possess any soft tissue, revealing the bone structure. The only exception to this is a 46cm long golden tongue-like appendage within DA-XXX's mouth. Though DA-XXX lacks eyes, they have been recorded to have 20/15 vision. DA-XXX is capable of speaking in a non-anomalous manner, despite lacking facial muscles in the oral region.
+
+DA-XXX used to be an non-anomalous human male, but through an unknown process was turned into an anomalous entity. DA-XXX has the anomalous capability to predict the future with incredible accuracy in regards to anomalous events. These events, due to the nature of it's containment, typically pertain to the Agency and its personnel. Though these predictions are rare, they are accurate ~66% of the time. 
+[[div class="unmargined" style="text-align: center; font-size: 150%; color: #a90a0a;"]]
+FURTHER ACCESS TO PREDICTIVE PROPERTIES LIMITED TO RED-XXX or MAROON PERSONNEL. 
+[[/div]]
+[[div class="unmarginated" style="text-align: center; font-size: 125%; color: #a90a0a;"]]
+Please insert Red-XXX of Maroon-level security clearance login credentials.
+[[/div]]
+[[div class="fakeprot"]]
+[[module MailForm to="aaaa (DUMMY)" button=""]]
+# name
+ * title: PERSONNEL ID
+ * default: YOUR ID
+ * type: text
+ * rules:
+  * required: true 
+  * maxLength:10
+  * minLength: 100
+[[/module]]
+[[div class="passw"]]
+[[module MailForm to="aaaa (DUMMY)" button=""]]
+# affiliation
+ * title: PASSWORD
+ * default: ・・・・・・・・・
+ * rules:
+  * required: true 
+  * maxLength:10
+  * minLength: 100
+[[/module]]
+[[/div]]
+[[/div]]
+[[collapsible show="Login" hide="Logout"]]
+[[div class="unmargined" style="text-align: justified; font-size: 125%; color: #a90a0a;"]]
+By the order of The ASRC, the true identity of the entity mentioned by DA-XXX has been rescinded until further information is confirmed. All instances of their name have been replaced by Codename "Alibi".
+[[/div]]
+In additions to predictions made by DA-XXX, DA-XXX occasionally reports various visions from an unknown entity in their predictions. The official name of this entity has been confirmed to be [[span style="background-color: #333333; color: #FFFFFF;"]]**Alibi**[[/span]]. While being interviewed, DA-XXX will periodically go on tangents about the messages of [[span style="background-color: #333333; color: #FFFFFF;"]]**Alibi**[[/span]], as well as requests made to DA-XXX by [[span style="background-color: #333333; color: #FFFFFF;"]]**Alibi**[[/span]]. Investigation into the nature of Alibi have resulted in little additional information, due to the vague and unspecified nature of [[span style="background-color: #333333; color: #FFFFFF;"]]**Alibi**[[/span]]. However, personnel assigned to DA-XXX theorize that  [[span style="background-color: #333333; color: #FFFFFF;"]]**Alibi**[[/span]] is the name given to a god-like entity in direct contact with DA-XXX. It is also theorized that the transformation of David Richman into DA-XXX caused trauma, and that [[span style="background-color: #333333; color: #FFFFFF;"]]**Alibi**[[/span]] is merely a psychological side-effect to DA-XXX's transformation.
+[[/collapsible]]
+
+**Interview Log:** 
+
+The following interviews are files relating to the past and transformation of DA-XXX. All other interviews have been archived, and can be viewed upon request by a member of Yellow-XXX or higher security clearance.
+@@@@
+[[collapsible show="Interview-XXX-011 "History of David Richman"" hide="Showing Interview "History of David Richman". . ."]]
+> **Interviewed:** [The person, persons, or anomaly being interviewed]
+> 
+> **Interviewer:** [Interviewer, can be blocked out using █]
+> 
+> **Foreword:** [Small passage describing the interview]
+> 
+> **<Begin Log, [optional time info]>**
+> 
+> **Interviewer:** [speech]
+> 
+> **Person:** [speech]
+> 
+> [Repeat as necessary]
+> 
+> **<End Log, [optional time info]>**
+> 
+> **Closing Statement:** [Small summary and passage on what transpired afterward]
+[[/collapsible]]
+
+[[collapsible show="Interview-XXX-014 "Transformation"" hide="Showing Interview "Transformation". . ."]]
+> **Interviewed:** [The person, persons, or SCP being interviewed]
+> 
+> **Interviewer:** [Interviewer, can be blocked out using █]
+> 
+> **Foreword:** [Small passage describing the interview]
+> 
+> **<Begin Log, [optional time info]>**
+> 
+> **Interviewer:** [speech]
+> 
+> **Person:** [speech]
+> 
+> [Repeat as necessary]
+> 
+> **<End Log, [optional time info]>**
+> 
+> **Closing Statement:** [Small summary and passage on what transpired afterward]
+[[/collapsible]]
+
+
+**Proposal of Destruction:** [Details explaining the possible ways to destroy this irregularity. It can be approved or denied by the ASRC at the discretion of the writer. Objects that have not been approved for destruction or use are to be contained.]
+
+**Proposal of Usage:** [Details explaining the possible ways to use this irregularity. It can be approved or denied by the ASRC at the discretion of the writer. Objects that have not been approved for destruction or use are to be contained.]
+
+**ASRC Verdict:** [This is where you place the verdict of the two proposals listed above. This part of the letter is to be written from the standpoint of the Anomalous Sciences Review Counsel (ASRC), which consists of the top 100 scientists of the Agency. If a verdict has not been reached, simple place "A verdict has not been reached." in this section.]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[DA-PREVIOUS DA]]] | DA-CURRENT DA | [[[DA-NEXT DA]]] >>
+[[/=]]
+

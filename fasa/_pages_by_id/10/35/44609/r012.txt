@@ -1,0 +1,14 @@
+---
+title: "Image Block"
+tags: []
+page_id: "103544609"
+site: "fasa"
+slug: "component:image-block"
+revision: 12
+revision_id: "1519209055"
+author: 8285008
+timestamp: 1711356184
+---
+
+[[include component:image-block-base name={$name}|caption={$caption}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=center]]
+

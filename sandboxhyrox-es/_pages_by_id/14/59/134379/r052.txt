@@ -1,0 +1,161 @@
+---
+title: "Amly 000 0"
+tags: []
+page_id: "1459134379"
+site: "sandboxhyrox-es"
+slug: "fragment:amly-000-0"
+revision: 52
+revision_id: "1531955615"
+author: 9161410
+timestamp: 1756719615
+---
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&display=swap');
+
+.textBlock {
+    background: #1C2023 url(http://sandboxhyrox-es.wikidot.com/local--files/notas-de-los-altos-mandos/LogoSpecial.png) center center no-repeat;
+    background-size: 115%;
+    border: var(--basic-border);
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+
+#page-title {
+    display: none;
+}
+
+.special {
+    font-family: 'Libertinus Math';
+    font-size: 110%;
+}
+[[/module]]
+
+[[=]]
+[[div class="textBlock"]]
++ ##FFFFFF|>> ATENCIÓN <<##
+----
++ ##990011| {{**AMLY-000**}}##
+----
++++ **##808080|PARA GANAR ACCESO AL DOCUMENTO 000, DEBE INICIAR SECIÓN DE MANERA OBLIGATORIA, FALLAR EN ESTA PETICIÓN CONLLEVARÁ AL ESCRUTINIO POR PARTE DEL CONSEJO DE ADMINISTRACIÓN.##**
+[[/=]]
+[[/div]]
+[[html]]
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Verdana;
+      background-color: #0a0a0a;
+      color: #0ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    .input-container {
+      display: flex;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    
+    .input-field {
+      width: 100%;
+      padding: 10px;
+      outline: none;
+      background-color: #111;
+      color: #00eaff;
+      border: 1px solid #006064;
+      transition: 0.5s;
+    }
+
+    .input-field:focus {
+      border-style: solid;
+      border-color: #00bcd4;
+      border-width: 2px;
+    }
+    
+    .btn {
+      background-color: #006064;
+      color: #ffffff;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      width: 50%;
+      opacity: 0.9;
+      transition: 0.5s;
+      border-radius: 3px;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      opacity: 1;
+      box-shadow: 0 2px 4px 0 #00bcd4;
+    }
+
+    .btn:active {
+      transform: translateY(1px);
+      box-shadow: none;
+    }
+
+    p {
+      font-family: Helvetica;
+      margin-bottom: 5%;
+      color: #0ff;
+    }
+
+    .error-message {
+      color: #ff1744;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+  </style>
+  <script>
+    function validateLogin(e) {
+      e.preventDefault();
+      var correctUser = "Fundador";
+      var correctPass = "SoledadAbsoluta";
+      var user = document.getElementsByName("Fundador")[0].value;
+      var pass = document.getElementsByName("SoledadAbsoluta")[0].value;
+      
+      if (user === correctUser && pass === correctPass) {
+        window.open('http://sandboxhyrox-es.wikidot.com/amly-000/offset/2','_parent');
+      } else {
+        var errorMsg = document.getElementById("error-message");
+        errorMsg.textContent = "Credenciales incorrectas. Inténtalo de nuevo.";
+      }
+    }
+  </script>
+</head>
+<body>
+  <form autocomplete="off" style="max-width:450px; text-align:center; margin: auto;" onsubmit="validateLogin(event);">
+    <p style="font-size:55px; font-weight: bold;">HYROXnet</p>
+    <p style="font-size:15px;">⟨⟨Red international de la Corporación Hyrox⟩⟩</p>
+    <div class="input-container">
+      <input class="input-field" type="text" placeholder="Usuario" name="Fundador" required>
+    </div>
+    <div class="input-container">
+      <input class="input-field" type="password" placeholder="Contraseña" name="SoledadAbsoluta" required>
+    </div>
+    <button id="start_button" class="btn" type="submit">INGRESAR</button>
+    <div id="error-message" class="error-message"></div>
+  </form>
+</body>
+</html>
+[[/html]]
+
+[[size 4px]][[collapsible show=" " hide=". . .Sigue persiguendome, este sentimiento aunque sea "invisible" lo puedo sentir siguiendome"]][[/size]]
+[[span style="color:#15161B"]]...Siempre ha rondado en mi mente la misma pregunta escalofriante:
+...¿Por qué sigo huyendo?
+
+Ser el **Fundador** de este lugar me ha llevado a descubrir secretos oscuros que el mundo moderno jamás podría comprender. He encontrado aliados en los abismos de lo prohibido, enemigos que acechan en las sombras más densas, y entidades cuyo mero nombre podría hacer temblar incluso al hombre más valeroso. Desde el primer día en que me enfrenté a esta realidad paralela, supe que mi existencia jamás volvería a ser la misma.
+
+He aprendido a convivir con el terror de lo inexplicable, pero una pesadilla me persigue cada noche: en mis sueños, //El//; esa presencia, se desliza fuera de las fronteras de mi control, liberando a su dron; que alguna vez fue un ser humano, y borrando de la faz de la existencia todo lo que alguna vez fue. Cada vez que cierro los ojos, veo cómo, en un abrir y cerrar de ojos, se deshacen nuestras certezas y la vida misma se pierde en la nada.
+
+Llevo un secreto tan insoportable que me impide dormir; las noches se alargan en un infierno de cafeína y remordimiento. Observo, con una impotente angustia, a mis hijos en el Sitio-0, a mis empleados repartidos entre la Tierra y Arknares, sabiendo que les oculto esta verdad que podría destruirnos a todos. ¿Cuánto tiempo más podré aguantar la carga de ocultar este abismo de horror?
+
+Quizás, //El// y su dron sigan sellados por mi sangre, por taumaturgia impuesta por mi propia sanidad mental, cargando con una maldición que me condena para mí eternidad. Pero una verdad permanece inmutable: este secreto, tan oscuro y devastador, arranca mi alma y me condena a una existencia de **SoledadAbsoluta**, una soledad absoluta que ni siquiera las sombras se atreven a quebrantar.[[/span]]
+[[/collapsible]]
+

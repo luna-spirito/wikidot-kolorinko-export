@@ -1,0 +1,350 @@
+---
+title: "Sidebar menu"
+tags: []
+page_id: "1468088819"
+site: "wci"
+slug: "nav:side"
+revision: 51
+revision_id: "1544505808"
+author: 9161410
+timestamp: 1780875025
+---
+
+[[image http://scp-int.wdfiles.com/local--files/main/250_int_logo.png width="0" height="0"]]
+
+[[module css]]
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    text-align: center;
+    grid-gap: 0.25rem;
+    margin: 0.5rem 0 1rem
+}
+#side-bar .branch a:hover img, #side-bar .branch a:focus img {
+    transition: 100ms;
+    transform: scale(1.2)
+}
+
+#side-bar .hover {
+    color: #bb0011;
+    font-weight: bold
+}
+#side-bar .hover .hover-text {
+    position: absolute;
+    display: none;
+    z-index: 5;
+    margin: 1rem;
+    height: auto;
+    width: auto;
+    background: white;
+    border: 2px solid black;
+    color: black;
+    padding: 0.5rem;
+    pointer-events: none;
+    transition: opacity 0.15s linear, right 0.3s cubic-bezier(.08,.72,.5,.94)
+}
+
+#side-bar .hover:hover {
+    text-decoration: none;
+    border-bottom: none;
+    color: #333;
+    cursor: help
+}
+#side-bar .hover:hover .hover-text {
+    display: inline
+}
+[[/module]]
+
+[[div class="side-bar-container"]]
+[[div class="side-block"]]
+
+[[div class="menu-item home"]]
+[/ Main]
+[[/div]]
+
+[[div class="heading"]]
+[[[scp-international|Branches Hubs]]]
+[[/div]]
+
+[[div class="grid-container"]]
+[[tabview]]
+[[tab Containment Fiction Wikies]]
+[[div class="branch"]]
+[[image https://hyroxcorp-es.wdfiles.com/local--files/component%3Atema/HexaPenrose.png width="50rem" style="filter: invert(100%);" link="http://hyroxcorp-es.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Hyrox Corp [[/span]] HC [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://hyroxcorp-es.wdfiles.com/local--files/autoridades-de-interes/FASA.png width="50rem" link="https://fasa.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] FASA [[/span]] FASA [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://it-cea-wiki.wdfiles.com/local--files/lore/pic8.png width="50rem" link="http://it-cea-wiki.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] IT CEA [[/span]] IT-CEA [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://laomccea.wdfiles.com/local--files/system%3Awelcome/THE-ORGANISATION.png width="50rem" link="http://laomccea.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] LAOMCCEA [[/span]] LAO [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://anomalydataroom.wikidot.com/local--files/css:adr-1/logo3 width="50rem" link="http://anomalydataroom.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Anomaly Data Room [[/span]] ADR [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://wci.wikidot.com/local--files/start/Harp-logo.png width="50rem" link="https://harp-wiki.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] HARP [[/span]] HARP [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://castopia-wiki.wdfiles.com/local--files/admin:themes/castopia_logo1x1.png width="50rem" link="https://castopia.site"]]
+[[span class="hover"]][[span class="hover-text"]] Castopia [[/span]] CAST [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://fisliteng6character.wdfiles.com/local--files/theme%3Asap-repository-site/Logo%20SAP%20V2.png width="50rem" link="http://s-a-p.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] WARNEN [[/span]] SAP [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://wci.wikidot.com/local--files/start/image-42-removebg-preview.png width="50rem" link="https://scp-fanon.fandom.com"]]
+[[span class="hover"]][[span class="hover-text"]] SCP Fanon [[/span]] FANON [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://destinox.wdfiles.com/local--files/agiat-css/AGIATlogoTransparente.png width="50rem" style="filter: invert(100%);" link="https://agiat.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] AGIAT [[/span]] AGIAT [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://lifefoundation.wdfiles.com/local--files/main/250_logo.png width="50rem" link="https://lifefoundation.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Life Foundation [[/span]] LIFE [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://generalarchivesdirectorate1.wikidot.com/local--files/blog:_start/SRDDF_Logo.png width="50rem" link="http://srddf.wikidot.com"]]
+[[span class="hover"]][[span class="hover-text"]] SRDDF [[/span]] SRDDF [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://wci.wikidot.com/local--files/start/8gen_sari.png width="50rem" link="http://kard.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] KARD [[/span]] KARD [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://oculi-initiative.wdfiles.com/local--files/home%3Ahome/NEWICON.png width="50rem" link="http://oculi-initiative.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Oculi Initiative [[/span]] OCULI [[/span]]
+[[/div]]
+
+[[/tab]]
+[[tab Liminal Fiction Wikies]]
+
+[[div class="branch"]]
+[[image https://timeless-places.wdfiles.com/local--files/landing-zone/White-Eye-Logo%20%281%29.png width="50rem" link="http://timeless-places.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Timeless Places [[/span]] TP [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://backrooms-exploration.wikidot.com/local--files/start/meglogo.png width="50rem" style="filter: invert(100%);" link="http://backrooms-exploration.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Backrooms Exploration [[/span]] BRE [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://bgpd.wikidot.com/local--files/start/bgpd-logo-new width="50rem" link="http://bgpd.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] BGPD [[/span]] BGPD [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://backroomsclassified.wikidot.com/local--files/blog:_start/LOGO%20TBC%20V2.png width="50rem" link="http://backroomsclassified.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Backrooms Classified [[/span]] BRC [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://backroomarchivesandbox.wikidot.com/local--files/testingforfrontpage/image-removebg-preview%20(17).png width="50rem" link="https://backroomsarchiveunit.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Backrooms Archive Unit [[/span]] BAU [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://wci.wikidot.com/local--files/start/favi.png width="50rem" link="https://the-backrooms-isolation-v2.fandom.com/wiki/The_Backrooms_Isolation_(REMAKE)_Wiki"]]
+[[span class="hover"]][[span class="hover-text"]] Backrooms Isolation [[/span]] BRI [[/span]]
+[[/div]]
+[[/tab]]
+[[tab World Building Wikies]]
+[[div class="branch"]]
+[[image http://wci.wikidot.com/local--files/wiki-list/IMG_20260221_141644.png width="50rem" link="http://projectnexium.wikidot.com"]]
+[[span class="hover"]][[span class="hover-text"]] Project Nexium [[/span]] NEX [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://scp-sandbox-3.wikidot.com/local--files/nesa-theme/1708668631716.png width="50rem" link="https://nesa-wiki.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] NESA [[/span]] NESA [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://sultansundernorth.wdfiles.com/local--files/start/Logo width="50rem" link="https://sun.miraheze.org/wiki/Main_Page/"]]
+[[span class="hover"]][[span class="hover-text"]] Sultan's Undergound North [[/span]] SUN [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://nationarea.wdfiles.com/local--files/special%3Amain/Logo.svg width="50rem" link="https://nationarea.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Nation Area [[/span]] NA [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image http://keatren.wikidot.com/local--files/start/keatrenlogo.png width="50rem" link="http://keatren.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] Keatren [[/span]] KEAT [[/span]]
+[[/div]]
+
+[[div class="branch"]]
+[[image https://i.imgur.com/VuD9owT.png width="50rem" link="http://mtri.wikidot.com/"]]
+[[span class="hover"]][[span class="hover-text"]] MTRI [[/span]] MTRI [[/span]]
+[[/tab]]
+[[/tabview]]
+[[/div]]
+[[/div]]
+[[div class="heading"]]
+Site
+[[/div]]
+[[div class="menu-item main"]]
+[[[system:recent-changes|Recent Changes]]]
+[[/div]]
+[[div class="menu-item default"]]
+[[[new-pages-feed|New Pages]]]
+[[/div]]
+[[div class="menu-item default"]]
+[[[top-rated-pages|]]]
+[[/div]]
+[[div class="menu-item default"]]
+[[[random:random-scp|Random SCP]]] | [[[random:random-tale|Tale]]]
+[[/div]]
+[[div class="menu-item main"]]
+[[[tag-search|]]]
+[[/div]]
+[[div class="menu-item main"]]
+[[[review-attention-levels|]]]
+[[/div]]
+[[div class="menu-item main"]]
+[[[review-team|Review Team]]]
+[[/div]]
+[[div class="menu-item main"]]
+[[[translation-requests|]]]
+[[/div]]
+
+[[div class="heading"]]
+Community
+[[/div]]
+[[div class="menu-item default"]]
+[[[system:members|Members]]] | [[[members-pages|Translators]]]
+[[/div]]
+[[div class="menu-item default"]]
+[[[artwork-hub|Artists and Artwork]]]
+[[/div]]
+[[div class="menu-item main"]]
+[*http://scp-int-sandbox.wikidot.com/ Sandbox]
+[[/div]]
+[[div class="menu-item main"]]
+[[[system:join|Join the Site!]]]
+[[/div]]
+[[div class="menu-item main"]]
+[[[forum:start|Forum]]] | [[[forum:recent-posts|Recent Posts]]]
+[[/div]]
+
+[[/div]]
+
+[!-- [[div class="side-block green"]]
+[[div class="heading"]]
+Information
+[[/div]]
+[[div class="menu-item help"]]
+[[[Site Rules]]]
+[[/div]]
+[[div class="menu-item help"]]
+[[[Chat Guidelines]]]
+[[/div]]
+[[div class="menu-item help"]]
+[[[What is this?]]]
+[[/div]]
+[[div class="menu-item help"]]
+[[[FAQ]]]
+[[/div]]
+[[div class="menu-item help"]]
+[[[Contact/Disclaimer]]]
+[[/div]]
+[[/div]] --]
+
+[[div class="side-block side-links blue"]]
+[[image discord_icon.png link="http://scp-int.wikidot.com/chat-guidelines" title="Chat"]] [[image http://scp-int-sandbox.wdfiles.com/local--files/component%3Atheme/logo.png link="http://scp-int-sandbox.wikidot.com/" title="Sandbox"]] [[image icon-twitter-50.png link="https://twitter.com/SCP_INT" title="Twitter"]]
+[[/div]]
+
+[[div class="side-block red"]]
+[[collapsible show="User Resources" hide="User Resources"]]
+[[div class="menu-item default"]]
+[[[system:page-tags|Tag Cloud]]] | [[[tag-guide|Guide]]]
+[[/div]]
+[[div class="menu-item default"]]
+[*http://o5command-int.wikidot.com/ Staff site] | [*http://o5command-int.wikidot.com/staff-structure Team]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[!-- Ad Start
+[[div class="floating-ad"]]
+[[image http://scp-int.wdfiles.com/local--files/review-attention-levels/RT-Recruitment.png link="review-attention-levels"]]
+[[/div]]
+[[module css]]
+.floating-ad {
+    display: block;
+}
+.floating-ad img {
+    background-image: linear-gradient(to right, #F3ECED, #FEFFF8);
+    border: 1px solid #600;
+    border: var(--ct_brd_sidebar-elements);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border-radius: var(--ct_dim_sidebar-border-radius);
+    -webkit-box-shadow: 0 2px 6px rgba(102,0,0,.5);
+    -moz-box-shadow: 0 2px 6px rgba(102,0,0,.5);
+    box-shadow: 0 2px 6px rgba(102,0,0,.5);    
+    -webkit-box-shadow: var(--ct_shd_sidebar-block);
+    -moz-box-shadow: var(--ct_shd_sidebar-block);
+    box-shadow: var(--ct_shd_sidebar-block);
+    height: auto;
+    margin-bottom: 15px;
+    width: 215.6px;
+}
+[[/module]]
+Ad End --]
+
+[!-- Old interwiki
+[[div class="scpnet-interwiki-wrapper"]]
+[[module ListPages range="." limit="1"]]
+      [[iframe http://interwiki.scpdb.org/?wiki=scp-int&lang=en&page=%%category%%:%%name%% class="scpnet-interwiki-frame"]]
+[[/module]]
+[[/div]]
+--]
+
+[[module CSS]]
+iframe.scpnet-interwiki-frame { height: 0; }
+[[/module]]
+
+[[include :scp-int:nav:interwiki
+| lang=int
+| community=scp
+]]
+
+[[include :scp-int:component:interwiki-style
+| priority=0
+| theme=https://fondationscp.github.io/theme/int/sigma9int.min.css
+]]
+
+[[/div]]
+
+[[a href="###" class="close-menu"]]
+[[image black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

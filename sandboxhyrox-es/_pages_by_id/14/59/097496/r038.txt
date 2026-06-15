@@ -1,0 +1,61 @@
+---
+title: "Top"
+tags: []
+page_id: "1459097496"
+site: "sandboxhyrox-es"
+slug: "nav:top"
+revision: 38
+revision_id: "1541143466"
+author: 9161410
+timestamp: 1766892632
+---
+
+[[module listPages limit="1" category="theme" name="@URL|black" urlAttrPrefix="theme"]]
+%%content%%
+[[/module]]
+
+[[div class="open-themes-container"]]
+[[module listPages pagetype="*" category="-nav -forum" limit="1" range="."]]
+[[div class="open-themes themes-white"]]
+[%%link%%/theme_name/white ⬢]
+[[/div]]
+[[div class="open-themes themes-black"]]
+[%%link%% ⬢]
+[[/div]]
+[[/module]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+* [/system:recent-changes Recientes]
+* [/nav:top Top-Bar]
+* Menú
+ * [[[admin:manage|Administración]]]
+ * [[[start | Menu Principal]]]
+ * [http://hyroxcorp-es.wikidot.com/ Wiki Principal]
+[[/div]]
+
+[[div class="top-bar"]]
+* [/system:recent-changes Recientes]
+* [/nav:top Top-Bar]
+* Menú
+ * [[[admin:manage|Administración]]]
+ * [[[start | Menu Principal]]]
+ * [http://hyroxcorp-es.wikidot.com/ Wiki Principal]
+[[/div]]
+
+[[span class="search-button"]][[[search:buscador|Buscar]]][[/span]]
+
+[!-- Code to only display on this site --]
+
+[[module css]]
+#page-content .mobile-top-bar {
+display: none;
+}
+
+[[/module]]
+

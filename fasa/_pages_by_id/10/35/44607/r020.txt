@@ -1,0 +1,33 @@
+---
+title: "Image Block Base"
+tags: []
+page_id: "103544607"
+site: "fasa"
+slug: "component:image-block-base"
+revision: 20
+revision_id: "1520425704"
+author: 4293614
+timestamp: 1716412418
+---
+
+[[module CSS]]
+.enlarge{
+transition: .20s;
+}
+
+.enlarge:hover{
+transform: scale(1.4);
+transition: .10s;
+transition-delay: .2s;
+z-index: 1000;
+}
+
+[[/module]]
+
+[[div class="scp-image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} class="enlarge" style="width:{$width};" link={$link}]]
+[[div class="scp-image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

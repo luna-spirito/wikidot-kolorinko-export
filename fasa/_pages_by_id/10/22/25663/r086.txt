@@ -1,0 +1,77 @@
+---
+title: "Topbar menu"
+tags: []
+page_id: "102225663"
+site: "fasa"
+slug: "nav:top"
+revision: 86
+revision_id: "1521408882"
+author: 8285008
+timestamp: 1720068860
+---
+
+[!--
+> **Page Notes**
+>
+> This is your topbar, as the name suggests. The topbar contains the normal topbar and the mobile-topbar, which is a little different.
+>
+> In addition to translation, make adjustments as you feel necessary. You are not obliged to just copy the English site. Anyway translate only each articles display-name, not the URL-name (should look like [[[groups-of-interest|Interessengruppen]]])
+--]
+
+[[div class="top-bar"]]
+* Today's FASA
+ * [[[About-Us | About Us]]]
+ * [[[organization | Organization & Structure]]]
+ * [[[mission-vision | Mission & Vision]]]
+ * Our Relations
+  * [[[agencies | Global Agencies]]]
+  * [[[groups-of-interest | Fringe Entities]]]
+  * [[[the-veil | The Public]]]
+* Archive
+ * [[[archive#20th-century| 20th Century Archive]]]
+ * [[[archive#21st-century| 21st Century Archive]]]
+ * [[[non-canon | False Document Registry]]] 
+* Library
+ * [[[Tales | Tales]]]
+ * [[[Operations | Operations]]]
+ * [[[Enigmas | Enigmas]]]
+ * [[[Experiments | Experiments]]]
+* Resources
+ * [[[AnomDocs-Guideline | Document Naming Guide]]]
+ * [[[Anomaly-Classifications | Anomaly Classifications]]]
+ * [[[Security-Clearance-Guide | Security Clearances]]]
+* Careers
+ * [[[facilities | Our Facilities]]]
+ * [[[Personnel-Database | Staff Directory]]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+* Today's FASA
+ * [[[About-Us | About Us]]]
+ * [[[organization | Organization & Structure]]]
+ * [[[mission-vision | Mission & Vision]]]
+ * Our Relations
+  * [[[agencies | Global Agencies]]]
+  * [[[groups-of-interest | Fringe Entities]]]
+  * [[[the-veil | The Public]]]
+* Archive
+ * [[[archive#20th-century| 20th Century Archive]]]
+ * [[[archive#21st-century| 21st Century Archive]]]
+ * [[[non-canon | False Document Registry]]] 
+* Library
+ * [[[Tales | Tales]]]
+ * [[[Operations | Operations]]]
+ * [[[Enigmas | Enigmas]]]
+ * [[[Experiments | Experiments]]]
+* Resources
+ * [[[AnomDocs-Guideline | Document Naming Guide]]]
+ * [[[Anomaly-Classifications | Anomaly Classifications]]]
+ * [[[Security-Clearance-Guide | Security Clearances]]]
+* Careers
+ * [[[facilities | Our Facilities]]]
+ * [[[Personnel-Database | Staff Directory]]]
+[[/div]]
+

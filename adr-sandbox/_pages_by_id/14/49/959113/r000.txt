@@ -1,0 +1,67 @@
+---
+title: "Recent Pages"
+tags: []
+page_id: "1449959113"
+site: "adr-sandbox"
+slug: "system:recent-pages"
+revision: 0
+revision_id: "1513887936"
+author: 4632971
+timestamp: 1694453597
+---
+
+[[=]]
+++ LIST OF NEWLY CREATED PAGES
+[[/=]]
+
+[[module ListPages tags="@URL" category="@URL|*" order="created_at desc" perPage="50" separate="false"]]
+[[head]]
+[[table style="width: 100%; border-collapse: collapse;"]]
+[[row style="font-weight: bold; height: 30px; vertical-align: center; border-top: solid #782EAC; border-bottom: solid #782EAC;"]]
+[[cell]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+[[div class="fa fa-file-text"]]
+[[/div]]
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+[[div class="fa fa-calendar"]]
+[[/div]]
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+[[div class="fa fa-star"]]
+[[/div]]
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+[[div class="fa fa-comment"]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/head]]
+
+[[body]]
+[[row class="recentListRow"]]
+[[cell style="color: #503578; font-size: 85%;"]]
+%%index%%.
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%created_at%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%rating_votes%%
+[[/cell]]
+[[cell style="text-align: center;"]]
+%%comments%%
+[[/cell]]
+[[/row]]
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+----
+

@@ -1,0 +1,34 @@
+---
+title: "Topbar Menu"
+tags: []
+page_id: "1459773256"
+site: "srddf"
+slug: "nav:top"
+revision: 4
+revision_id: "1533089992"
+author: 9720100
+timestamp: 1760798441
+---
+
+* [/ Home]
+* [# Series]
+ * [[[SRDDF Series|Series I]]]
+ * [[[SRDDF Series 2|Series II]]]
+* [# Pages]
+ * [[[About]]]
+ * [[[Contact]]]
+ * [[[Favourites]]]
+* [[[Gallery]]]
+* [# Admin]
+ * [[button edit text="Edit page"]]
+ * [[button print text="Print page"]]
+ * [/nav:top/edit/true Edit this menu]
+ * [/nav:side/edit/true Edit side menu]
+ * [/system:list-all-categories Page categories]
+ * [/system:recent-changes Recent changes] 
+ * [/admin:themes Change theme]
+ * [[[/_admin|Manage site]]]
+* [# Help]
+ * [/help Wiki syntax]
+ * [/modules-reference Modules reference]
+
