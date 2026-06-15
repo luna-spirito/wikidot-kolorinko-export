@@ -1,0 +1,135 @@
+---
+title: "RPC-006-J"
+tags: ["alpha", "emotional-hazard", "esoteric-hazard", "organic-hazard", "red", "rpc-j", "sensory-hazard", "sentient-hazard", "translated"]
+page_id: "1436310027"
+site: "rpcauthority"
+slug: "rpc-006-j"
+revision: 27
+revision_id: "1532249669"
+author: 5982545
+timestamp: 1757682226
+---
+
+[[include component:rate | translations=show | translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/rpc-006-J"]]]]
+
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/rpc-006-j/chicken-mugshot.png|caption=RPC-006-J]]
+
+[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-red.png]]
+
+**Registered Phenomena Code:** 006-J
+
+**Object Class:** Alpha-Red --(Utility)--
+
+[[div class="manual-hazards"]]
+Hazard Types:
+* [[image https://rpcauthority.wdfiles.com/local--files/component:icons/h-organic.png]][[span]]Organic[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-sentient.png]][[span]]Sentient[[/span]]
+* [[image h-high-velocity.png]][[span]]High Velocity[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-sensory.png]][[span]]Sensory[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-emotional.png]][[span]]Emotional[[/span]]
+[[/div]]
+
+**Containment Protocols:** Under normal circumstances, RPC-006-J should be present in its designated cell in Site-079. Food and water supplies are to be delivered regularly. RPC-006-J may not come into contact with RPC-006-J-1 outside of a controlled testing environment; experiments may only be performed with explicit permission from the site administration.
+
+------
+
+**Description:** RPC-006-J is a male organism of the subspecies //Gallus gallus domesticus//[[footnote]]Chicken[[/footnote]], standing 73 centimeters tall and weighing about 3.5 kilograms. Though RPC-006-J appears initially unremarkable, it can be distinguished from normal members of its species through its ability to ride atop RPC-006-J-1, an elastic red ball 1 meter in diameter. RPC-006-J showcases a remarkable aptitude in handling the ball; by using its feet to manipulate the ball's trajectory and velocity, RPC-006-J is capable of propelling itself at speeds surpassing ██ km/h.
+
+RPC-006-J is most significant, however, for its memetic property: any human subject who observes RPC-006-J in its mounted position will break into a state of panic and hysteria. This state can become aggravated as the subject remains exposed to RPC-006-J for a longer duration of time. When questioned, subjects are unable to rationalize their fear, but will still perceive RPC-006-J as an extreme threat. Auditory recognition of RPC-006-J can also cause this effect, albeit less prominently. [[footnote]]Due to ethical concerns, trials involving smell, touch, and taste have been denied for the time being.[[/footnote]]
+
+Prolonged exposure to RPC-006-J can inflict lasting effects on a subject's psyche, including symptoms akin to anxiety disorders, depression, and post-traumatic stress disorder. It has been postulated that the effects of RPC-006-J could even bring about psychogenic death.
+
+[[collapsible show="[+] Message from the Site-079 Directorate" hide="[-] Message from the Site-079 Directorate"]]
+[[div class="email"]]
+[[div class="meta"]]
+**From:** Site-079 Directorate <[[span class="fakeLink"]]@@sitedirector079@authority.rpc@@[[/span]]>
+**To:** Schwartz, Meade <[[span class="fakeLink"]]@@meadeschwartz25@authority.rpc@@[[/span]]>
+**Subject:** Re: Proposed RPC-006-J Reclassification
+**Sent:** //July 9th, 2022, 11:56 AM (16 minutes ago)//
+[[/div]]
+
+------
+
+[[div class="body"]]
+Dr. Schwartz,
+
+I have received your proposal to utilize RPC-006-J as a tool for interrogations. The matter was quite intriguing to me; the item's capabilities are remarkable.
+
+After some consideration, we have chosen to decline this suggestion. I would like to make our stance very clear: the RPC Authority does not deem it ethical, nor practical, to conduct interrogations through the use of cock and ball torture.
+
+Thank you for your time.
+-The Site-079 Directorate
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+[[module CSS]]
+div.email::before {
+    content: url(https://rpcauthority.wdfiles.com/local--files/rpc-006-j/email-top-triangle.png);
+    position: absolute;
+    left: 99px;
+    top: -10px;
+}
+div.email {
+    background: white;
+    color: black;
+    border: 1px solid;
+    padding: 13px 10px 0;
+    margin-top: 20px;
+    position: relative;
+    animation: email-open 0.5s;
+}
+div.email > * { animation: email-fadeInContent 1s; }
+div.email span.fakeLink {
+    color: gray;
+    cursor: pointer;
+}
+div.email span.fakeLink:hover { text-decoration: underline; }
+div.email div.meta::before {
+    content: url(https://rpcauthority.wdfiles.com/local--files/component%3Atheme/AuthorityLogoSVG.svg);
+    float: left;
+    margin-right: 5px;
+    height: 5em;
+    filter: invert(100%);
+    position: relative;
+    bottom: 1px;
+    width: 64px;
+    animation: email-fadeInContent 1s;
+}
+div.email div.meta p {
+    margin-top: 0;
+    line-height: normal;
+}
+div.email div.body p { line-height: 2em; }
+
+@keyframes email-open {
+    from {font-size: 0;}
+    to {font-size: 12.8px;}
+}
+@keyframes email-fadeInContent {
+    0% {opacity: 0;}
+    45% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+div.preloadImages {
+    visibility: hidden;
+    position: absolute;
+    width: 0;
+    height: 0;
+}
+[[/module]]
+
+------
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-005-J]]] | RPC-006-J | [[[RPC-042-J]]] >>
+[[/=]]
+
+[[div class="preloadImages"]]
+[[image https://rpcauthority.wdfiles.com/local--files/rpc-006-j/email-top-triangle.png]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Atheme/AuthorityLogoSVG.svg]]
+[[/div]]
+

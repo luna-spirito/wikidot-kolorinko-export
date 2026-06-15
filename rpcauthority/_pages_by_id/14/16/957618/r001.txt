@@ -1,0 +1,33 @@
+---
+title: "Top Test"
+tags: []
+page_id: "1416957618"
+site: "rpcauthority"
+slug: "nav:top-test"
+revision: 1
+revision_id: "1475631939"
+author: 3118961
+timestamp: 1656780315
+---
+
+[[module listPages pagetype="*" category="-forum" limit="1" range="."]]
+Page will redirect to: www.rpc-wiki.net/%%fullname%%
+[[/module]]
+
+Will not automatically redirect pages from these categories:
+* nav
+* forum
+* fragment
+* component
+* template
+* system
+* contest
+* special
+* theme
+* ....
+
+[[module listPages pagetype="*" category="-nav,-forum,-_default,-deleted,-fragment,-component,-template,-system,-contest,-special,-theme,"]]
+%%category%%
+%%link%%
+[[/module]]
+

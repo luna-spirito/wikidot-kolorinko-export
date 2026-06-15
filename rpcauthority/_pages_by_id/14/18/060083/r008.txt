@@ -1,0 +1,148 @@
+---
+title: "Delta-1 \"The Keepers\""
+tags: ["document", "mst", "translated"]
+page_id: "1418060083"
+site: "rpcauthority"
+slug: "delta-1-the-keepers"
+revision: 8
+revision_id: "1526684365"
+author: 9487909
+timestamp: 1734020561
+---
+
+[[module CSS]]
+
+@import url(http://www.rpc-wiki.net/component:protection-theme/code/1);
+
+hr {
+    height: 2px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+[[/module]]
+
+[[include component:rate | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/delta-1-os-guardioes"]] ]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 1px 15px; "]]
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/main-page-iv/RPCA.png style="width: 68%;"]]
+
+-----
+[[=]]
++ **Overview**
+[[/=]]
+-----
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/delta-1-the-keepers/Delta-1.png width="250px"]]
+
+**Designation:** Delta-1
+
+**Codename:** The Keepers
+
+**Garrison/HQ:** [REDACTED]
+
+**Role:** Asset Protection, Asset Retrieval
+
+**Motto:** //"Radix Malorum Est Cupiditas"// (The Root Of Evil Is Desire)
+
+**Established:** 1895-1896
+
+**Description:** Delta-1 is a combined asset retrieval and protection task force of anomalies that are considered potentially exploitable or otherwise sought after by entities of interest, initially established as an acquisition task force retrieving items suspected to be anomalous in nature from the Imperial Japanese Army.
+
+In order to prevent potential document leaks and espionage to foreign interests, information pertaining to protected assets are expunged from the general database. Clearance on the true nature of assets retrieved and protected by Delta-1 is provided only to authorized individuals.
+
+During transport of an anomalous asset to an Authority installation, Delta-1 operatives are disguised as on-site security to protect the identity of operatives and to prevent the discovery of the anomaly by unauthorized personnel. Site staff, regardless of clearance, are not to be informed of the asset's nature, up to and including the Site Director.
+
+While Delta-1 remains an Authority asset, their assistance in protection services can and has been requested by other agencies, namely the United Nations Anomalous Activities Committee (UNAAC) for international protection of anomalies deemed a threat to world security.
+
+-----
+[[=]]
++ **History**
+[[/=]]
+-----
+
+[[include component:image-block name= http://rpcauthority.wikidot.com/local--files/delta-1-the-keepers/Map_of_Japan_and_Korea_%281945%29%2C_National_Geographic.jpg|caption= "Korean Peninsula Occupied by Imperial Japan" |width=auto|height=auto]]
+
+Created between 1895 to 1896, Delta-1 was predominately focused on anomaly retrieval from the Japanese in the Southeast Asia sphere during Japan's early expansionism. The Imperial Army’s occupation of the Korean Peninsula resulted in violence and looting that escalated at such an unprecedented rate that it inevitably involved anomalous assets employed in several incidents, namely massacres of civilians.
+
+Due to increasing tensions within the Southeast Asia region by the span of the late 1930s, retrieval operations were initiated at the order of the highest-echelons of the Authority to prevent any further anomaly retrieval by the Imperial Army that could be used in a potential conflict. A joint-initiative with local Authority assets thwarted several utilization of stolen anomalies, but was halted following the withdrawal of Authority presence after the Japanese Invasion in 1941. 
+
+Retrieval operations resumed with the assistance of the Allied Forces following a counter-invasion to liberate most of the region. However, following the liberation and defeat of Japan, there was a strong disagreement with General Douglas McArthur in regards to retrieving stolen items and objects deemed anomalous from the Japanese. Due to stoking tensions with the Soviet Union and the advent of the Cold War, General McArthur feared that //"embittering the Japanese people towards us and making Japan vulnerable to ideological pressures and a fertile ground for subversive action."// As a result of this inconvenience, operations of anomaly retrieval continued without any Allied Support in the region. 
+
+In 1947, the Directorate designated Delta-1 to contain and protect certain anomalies deemed "dangerous or exploitable for use." This designation came following a concern of item misuse or potential exploitation of the anomalous by certain corporations or national governments. Between 1952 to 1978, Delta-1 were involved in a joint-operation with the Authority Central Intelligence (ACI) and [http://rpcauthority.wikidot.com/tango-12-eye-from-the-sky Mobile Specialized Team Tango-12] to retrieve several anomalous assets, resulting in several corporations being closed and government programs shutdown. 
+
+-----
+[[=]]
++ **Taskforce Composition**
+[[/=]]
+-----
+
+[[=]]
+> ++++ Task Force Commanding-Officers
+[[/=]]
+
+* **Taskforce Commander:** LT.Col Kawaski
+
+* **Taskforce Coordinator:** Capt. Yisrael
+ 
+* **Intelligence Liaison:** Supervisory Agent Desmond
+
+@@ @@
+
+[[=]]
+> ++++ Primary Personnel
+[[/=]]
+
+**Field Operations Wing**
+
+*  **Stationary Protection Unit:** Responsible for ad-hoc and protection of anomalous assets on-site.
+
+* **Mobile Protection Unit:** Responsible for the protection and transport of anomalous assets that are required to be transported on a daily basis due to security-concerns.
+
+* **Special Protection Unit:** Responsible for the protection of anomalies assets deemed "high-risk" and are categorized between Purple-rating and Black-rating.
+
+**Support Operations Wing**
+
+*  **Intelligence and Survey Unit:** Responsible for the unit's intelligence gathering and embedding assets within national museums and archives. Coordinates with Tango-12.
+
+* **CBRN Unit:** A specialized division that is responsible for performing containment for hazardous assets within hazardous environments. Coordinates with Echo-8 and Foxtrot-4.
+
+**Total Personnel:** ██
+
+@@ @@
+
+[[=]]
+> ++++ Armaments
+[[/=]]
+
+* **Pistol:** SIG Sauer P320 _
+Manufacturer: SIG Sauer Inc, SIG Sauer GmbH  _
+Cartridge: Varies
+
+* **Rifle:** Heckler & Koch H&K416 _
+Manufacturer: Heckler & Koch _
+Cartridge: 5.56×45mm NATO
+
+* **Submachine Gun:** UMP-40 _
+Manufacturer: Heckler & Koch _
+Cartridge: .40 S&W
+
+* **Designated Marksman Rifle:** Stoner Rifle-25 _
+Manufacturer: Knight's Armament Company _
+Cartridge: 7.62x51mm NATO
+
+-----
+[[=]]
++ **Protected Assets**
+[[/=]]
+-----
+
+[[[RPC-342]]]
+[[[RPC-361]]]
+[[[RPC-560]]] 
+[[[RPC-806]]]
+[[[RPC-896]]]
+
+[[/div]]
+

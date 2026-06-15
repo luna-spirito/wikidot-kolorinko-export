@@ -1,0 +1,517 @@
+---
+title: "Operational Districts"
+tags: ["lore"]
+page_id: "1445895365"
+site: "rpcauthority"
+slug: "operational-districts"
+revision: 13
+revision_id: "1530940778"
+author: 2776183
+timestamp: 1752242857
+---
+
+[[module CSS]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.information-panel {
+
+     background-color: #1F2125; 
+     border: solid 3px #1b2d6e; 
+     margin: 15px 0;
+     padding: 0 15px; 
+     line-height: 141%
+
+} 
+
+.collapsible-block {
+     margin-bottom: 15px;
+} 
+
+#toc-list {
+     margin: 0; 
+}
+
+[[/module]]
+
+[[include component:image-block-static
+|name= https://genetics.wisc.edu/wp-content/uploads/sites/90/2017/02/Banner_AdvCourseGenetics_2ndSemester_13May1918-1600x500.jpg
+|width=100%
+|align=center
+|caption= Regional Directors Association, //circa 1956.//
+]]
+
+[[div style="float: left; padding: 15px;"]]
+[[toc]]
+[[/div]]
+
++ **Overview**
+
+Smaller sub-regions within the established regional commands are referred to as "operational districts" (OpDis). These sub-regions were established in an effort to prevent future nationalization of Authority institutes. 
+
+As cultural and national movements influenced the growth of branches, linguistic identities spread throughout the Authority hierarchy during the development of operational districts.[[footnote]]See //[http://rpcauthority.wikidot.com/branches Authority Branches.]// [[/footnote]]
+
+Operational districts vary in size and shape within a regional command, and are led by a Regional Director who are appointed by their respective regional representative. However, the number of operational districts has since decreased steadily with the last district expansion authorized back in late 1996. While regional representatives have the power to expand districts, they require the approval of the Regional Directors Association, which has the authority to adopt resolutions opposing any proposed district expansion. [[footnote]]See //Regional Directors Associations//.[[/footnote]]
+
++ **Operational Districts**
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueNorthcom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Northern Command**
+
+[[collapsible show="+ Northern Command" hide="- Close"]]
+
+> [[size 95%]] //Considered the 'heart' of the modern Authority apparatus, Northern Command is the third oldest regional command, having existed prior to the Authority's existence as the 'Auctoritas New World Interest Group,' predating Columbus' arrival in the Americas. North America would grow to become one of the Auctoritas', and eventually the Authority's, largest frontiers, with settlements spanning the continent's two coasts.// 
+> 
+> //A tense rivalry would develop with the rise of the United States, which, under the Jackson administration, kicked off several 'silent wars' with the Authority, that would never truly be resolved even into the new millennium. When considering this region, one might be tempted to consider the tragedies that occurred at Site-014 or Site-313 as the 'dark chapter' of Northern Command, but they should never forget the 'Great Breach' of 1979, during which GD-North authorized several highly questionable operations in Middle America, as well as the subsequent occupation of the Mexican Branch entirely.//
+> 
+> //There have only been times when interactions with the United States government have been tenuous, but none more so than after the Fail-Safe Incident of 2019. The Authority compensated the outraged United States in order to safeguard Northern American operations from prospective force removal.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BNORTHCOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Northern Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: New England
+* OPDIS-2: Quebec Peninsula
+* OPDIS-3: Dixie South
+* OPDIS-4: Midwest-Heartland
+* OPDIS-5: West Coast
+* OPDIS-6: Far North
+* OPDIS-7: Mexico
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueSouthcom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Southern Command**
+
+[[collapsible show="+ Southern Command" hide="- Close"]]
+
+> [[size 95%]] //South America played a significant role in the early development of Authority presence on the continent. Prior to the establishment of a region wide command, the Auctoritas influenced the continent's culture and politics with ease, thanks in part to the assistance of the Spanish and Portuguese.//
+> 
+> //Most natives embraced their arrival on the continent, with the exception of a few who considered them incursions or conquerors of their sovereignty. Resistance from a small number of tribes became common, forcing the Auctoritas to resort to military intervention and a full-fledged territorial conquering. Their actions prompted the 'Great Tribe Question' period, during which the Auctoritas conducted some of the earliest and most contentious human experimentation using anomalies. These experiments continued well into the nineteenth century, but the Auctoritas institute refused to acknowledge them. As the Authority was formed, many of the scientists involved defected and continued their work until [REDACTED].//
+> 
+> //Southern Command faced numerous political and dictatorial retaliations as a result of centuries of colonialism and revolutionary movements once the twentieth century came to a close. Dictators, such as Argentina's President Juan Perón, were among those in Latin America who posed a threat to the Authority's mission.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BSOUTHCOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Southern Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: Greater Colombia 
+* OPDIS-2: Brazil-Amazon
+* OPDIS-3: Andean-North
+* OPDIS-4: Southern Cone
+* OPDIS-5: Caribbean-Atlantic 
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueWestcom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Western Command**
+
+[[collapsible show="+ Western Command" hide="- Close"]]
+
+> [[size 95%]] //As the birthplace of the Auctoritas and the Authority, Western Command is one of the oldest institutions of regional structure. Previously consisting of various centralized commands, Western Command was founded in the 1950s as part of a reformed effort to de-centralize and separate power across the European continent to expand command and control capabilities. Despite its roots to the Catholic Church, Western Command is regarded as a "conservative structure" that holds a mixed perception on religious identity, particularly Catholicism. Catholics within the command, allegedly, are often shown prejudiced in certain regions. This sentiment has been held across many districts since the late 1800s.//
+> 
+> //For the longest time, Western Command was the Authority's command center until reforms made decentralization a focal policy into the twenty-first century. Considerations for an "Authority headquarters" within Europe was initially drafted in the 1900s, although this was largely postponed due to the Great War and tenuous relations with Europe in this period. As the Second World War began, Authority-European operations were exiled to the British Isles.//
+> 
+> //Western Commands holds a special relations status with the European continent, particularly the European Union and the Council of Europe. Unlike its other regional counterparts, Western Command has full autonomy within the continent with strong cooperation agreements with local governments, and has the most influence in any other continental regions. However, despite this, the eastern regions of the command are often influenced by Eastern Command despite these regions under the jurisdiction of Western Command.//
+> 
+> //As of 2008, Western Command remains an Authority stronghold in its existing iteration, containing the majority of the world's installations.//
+> 
+> -- REDACTED
+> [[/size]]
+
+@@ @@
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BWESTCOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Western Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: British Isles
+* OPDIS-2: Nordic Region
+* OPDIS-3: Western Europe
+* OPDIS-4: Central Europe
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueEastcom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Eastern Command**
+
+[[collapsible show="+ Eastern Command" hide="- Close"]]
+
+> [[size 95%]] //Previously part of Western Command under "West-East Command" in the 1950s, Eastern Europe was subjected to the watchful eyes of the Soviet Union. Prospering under a new era and eventual turmoil into the Cold War, influence into the east became strenuous to stabilize as the Authority would become a target by communist elements. Eastern Command replaced West-East Command as the Soviet Union advanced its political authority over the Eastern Bloc, posing a serious threat to Authority sovereignty.//
+> 
+> //Eastern Command continued to function with scarce site operations inside the communist state while confronted with adversity from the Soviet government, including the Iron Initiative. This did not deter Eastern Command from operating within the Eastern Bloc, benefiting from political influence of certain party members and corruption in government.//
+> 
+> //Some within the Authority suspected Eastern Command of harboring Marxism, culminating in an institutional red scare and accusation within the command's early days, though these proved to be unsubstantiated. When the Soviet Union broke up in 1991, Western Command took over a large portion of its territory. Many had expected for greater cooperation within the established federation, but that would only be temporary after Vladimir Putin ascended the presidency and pushed for a tougher stance against the Authority.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BEASTCOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Eastern Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: Moscow
+* OPDIS-2: Siberia
+* OPDIS-3: Central Asia
+* OPDIS-4: Caucasus
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueAfricom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Africa Command**
+
+[[collapsible show="+ Africa Command" hide="- Close"]]
+
+> [[size 95%]] //Establishing their first foothold in the newly discovered African continent, Africa Command is the second oldest regional command after Northern Command. The first exploration to the west coast of Africa was led by Diogo Cão, supported by the Portuguese royal family and the Papacy and sailed in 1480. Further expeditions into the African plane continued well-into the Age of Discovery, heralding a new continental foothold for the Auctoritas. Much of its earlier precedents and onsets were focused on the expansion and influence across the continent, through European expeditions and colonial expansion. It was foretold by encountered shamans that the continent harbored cryptid creatures that were unimaginable, many of which considered too dangerous to interact or explore further into the depths of the African plane.//
+> 
+> //As the Auctoritas expanded its supremacy, institutional authority within the Auctoritas' Africa branch becomes unstable in 1828. This came after Pope Pius VII instructed for the apprehension of Zikali, a chief witch-doctor to Shaka Zulu. This resulted in his disappearance and the death of Shaka Zulu, causing the withdrawal of financial backers of the Auctoritas outside the Papacy. It is believed by historians that this action paved for the successful uprising of the Authority.//
+> 
+> //Into the coming 20th Century, the Authority would face instability and regional conflicts as colonial empires withdrew from the continent. Civil wars and colonial independence would briefly interrupt the expansionist African branches with foreign African armies utilizing anomalies in various regional conflicts and civil war, such as the First Congo War. Stability within the African plane would be soften by UNISAAF intervention, but African insurgency and containment of anomalous species endangering the ecosystem continued to become a regional issue for the exhausted Africa Command.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BAFRICOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Africa Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: Northern District
+* OPDIS-2: Eastern District
+* OPDIS-3: Western District
+* OPDIS-4: Central District
+* OPDIS-5: Southern District
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueEurasiacom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Eurasia Command**
+
+[[collapsible show="+ Eurasia Command" hide="- Close"]]
+
+> [[size 95%]] //As a growing powerhouse within the Arabic region by the middle of the twentieth century, Eurasia Command plays a vital role in the Authority's economic growth and financial stability. As the Authority transitioned into the 1960s, Eurasia Command was the most under-budgeted in comparison to its regional counterparts as financial priorities were allocated to Eastern Command following Soviet tension.//
+> 
+> //In 1961, Global Director "Eurasia" began negotiations with several Arabic nations to discuss economic and security co-operation when it came to the veil. Promising assurance to these nations, particularly Saudi Arabia, Eurasia Command would be supplied with the necessary resources and a sum of economic support from the oil industry. These resources would, in the eyes of Global Director "Eurasia", would help their regional command to prosper from the lack of financial support that the Directorate had imposed. This view was not shared with GD-Eurasia's counterparts as they misinterpreted these financial backings from Arab nations, such as Iraq and Syria, as communist elements. Further concerns were raised after an economics report published by the Office of Financial Affairs (OFA) predicted a substantial increase in Eurasia Command's budget would exceed the rest of the regional commands for the next half-decade. To ensure that Global Director "Eurasia" does not cause an unbalanced power with the other regions, the Directorate divided Eurasia Command to establish Asia Command (ASIACOM) in 1967.//
+> 
+> //Stability within the region was questioned by the Directorate as concerns for the veil succumbing to terrorist organizations were heightened after several coup d'etats between 1948 to 1956. By 1958, an economic package was authorized to Eurasia Command that allowed security to be increased within installations. Between 1970 to 2002, Eurasia Command faced several terrorist and insurgency attacks from Al Qaeda and the Church of Malthus. A coalition with Western nations' special operation forces was established in 2002 under the "750th Intelligence Combatant", and absorbed by the Joint Task Force Occult in 2013.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= https://rpcauthority.wdfiles.com/local--files/operational-districts/EURASIACOM_OpDis.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Eurasia Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: Arabia
+* OPDIS-2: Crescent-Persia
+* OPDIS-3: Indian Subcontinent
+* OPDIS-4: Near East
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueAsiacom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Asia Command**
+
+[[collapsible show="+ Asia Command" hide="- Close"]]
+
+> [[size 95%]] //Controversially a cultivating regional element within East Asia, Asia Command was created as a result of increasing Eurasian's sphere across the Authority apparatus. Beginning operations in 1968, Asia Command absorbed the eastern and south-east regions of Eurasia and Antarctica-Oceania Commands respectively. Mainland China became the focal-center operations across the East and South-East Asia, with many regional branches brushed aside by the growing power-houses of the Chinese and Japanese branches.//
+> 
+> //Various branches within the newly formed command contested for control due to cultural and operability differences. Between 1968 to 1974, the Japanese Branch steadily became a recognizing power within Asia Command as the hierarchy slowly became dominated by personnel from the Japanese mainland. The Japanese Branch grew uncontested, resulting in majority of the regional command's hierarchy consisting of Japanese personnel by the mid-late 1970s.//
+> 
+> //However, due to the increasing ethnic control by the Japanese branch, the Chinese branch increasingly became tenuous with their Japanese counterparts. These tensions with the two branches culminated instability within Asia Command's structure, with many from the Chinese branch demanding a "power-share" in the hierarchy. The-then Global Director "Asia" refused these demands, and instead reduced the finances of the Chinese branch. Demands for a "power-share" slowly disappeared as the branch weakened, and caused rupture in containment operations within the Chinese region.//
+> 
+> //Further weakening within Asia Command became apparent in 1976 after the People's Republic of China declared a "General Operation Zone" that resulted in the removal of almost all Authority presence within mainland China. Tenuous ethnic struggle between the Japanese and Chinese continued until the 21st Century, with South-East Asia transferred to Oceania Command allowing Asia Command to focus operations within East Asia and mainland China.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BASIACOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Asia Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: East Pacific
+* OPDIS-2: South-East
+* OPDIS-3: Sino-Himalayans
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueOceania.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Oceania Command**
+
+[[collapsible show="+ Oceania Command" hide="- Close"]]
+
+> [[size 95%]] //Due to the ineffective capabilities and effort by the former Antarctica-Oceania Command, Oceanic Command was created as a reformed effort to revitalize containment operations within the Southeast Asia, Oceanic, and Pacific areas. As a region consisting mainly of maritime islands, many Authority sites are consistently located in naval bases within a mainland or artificial island. Operating as a maritime regional command, Oceanic Command was one of inconvenient creations that was the result of an agreement back in the 1950s. Southeast Asia was originally under their domain until the establishment of Asia Command, which took over the territory for a brief period between 1968 to the early 1990s.//
+> 
+> //There was resentment between these periods towards Asia Command's takeover of the Southeast Asia region mainly due to historical sentiment towards Communist China to Imperialist Japan in the prevailing 1940s. The Australasian Branch, recognized as an ascending Oceanic branches in this period, grew its regional capabilities that extended towards the Polynesian region. It's predecessor, the Antarctica-Oceania Command, was largely controlled by the Australasian Branch and was frequently considered as an "Australian Command" by foreign observers.//
+> 
+> //Following the return of Southeast Asia to Oceanic Command, the Australasian Branch's influence into the returning territory was often subjugated into controversy by many Southeast Asian counterparts, particularly the Filipino and Indonesian branches. Whilst Oceanic Command is, to this day, largely controlled by Canberra, its influence towards its northern counterparts is weighed down by imperialist sentiments.//
+> 
+> //The Authority Naval Force (ANF) is primarily located in the jurisdiction of Oceanic Command due to the lack of territory that consisted of mostly islands, and thus holds most of the Authority's naval installations across the Authority structure.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BOCEACOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Oceanic Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+* OPDIS-1: Australasia
+* OPDIS-2: Melanesia-Pacific
+* OPDIS-3: Greater Malaysia
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="information-panel" style="background: url(http://rpcsandbox.wdfiles.com/local--files/main-page-i/OpaqueAntaritcom.png) center center no-repeat; background-size: 400px;"]]
+
+++ **Antarctica Command**
+
+[[collapsible show="+ Antarctica Command" hide="- Close"]]
+
+> [[size 95%]] //Located in the southernmost region of the planet, Antarctica Command is situated in the Territorial South Pole that is responsible for not only the Antarctic continent but also, since [REDACTED], space affairs of the Authority. Original conceptions for a regional command within the antarctic region was a question of necessity during the late 1940s, with early Authority expeditions into the continent dating far back as the early-twentieth Century.// 
+> 
+> //These discussions were, much like Eurasia and Oceanic Commands, held to further separate regional powers concentrated in the Australasia region. When Antarctica was considered for special status as a unique regional operations structure, hierarchy and oversight largely lacked in its inclusion when Antarctica Command was formed. A power-struggle shifted in the region, resulting in various Site and Area Directors to unilaterally be recognized as an equivalence to that of a Regional Site, though this was never approved by the Global Directorate.//
+> 
+> //Antarctica Command held its first elections in the mid-late 1970s after its establishment. However, this election resulted in a power vacuum and eventual crisis that was intervened by the Directorate. Provisions for the regional elections in Antarctica Command were introduced to allow personnel within the Antarctic theater to vote for their regional representative as opposed to a Regional Director due to the lack of regional sites.//
+> 
+> //Territorial claims into the continent have complicated logistical and containment efforts. With jurisdictional claims by international observers creating complex diplomatic and territorial recognition in the continent. Site and Area installations became almost impossible to construct due to differing agreements with varying territorial claims by nations.//
+> 
+> -- REDACTED
+> [[/size]]
+
+[[include component:image-block-static
+|name= http://rpcsandbox.wdfiles.com/local--files/main-page-i/%5BANTARTICOM%5D%20Operational%20Districts.png
+|width=100%
+|align=center
+|caption= //Operational Districts of Antarctica Command.//
+]]
+
+[[size 150%]]**Jurisdictions**[[/size]]
+
+//Note: Operational districts do not exist within Antarctica Command due to its unique nature. Local facilities within the Antarctica sphere function similarly to operational districts, with the position of Site Directors replaced by Regional Directors to replace the issue of electing Antarctica's regional representative.//
+
+[[/collapsible]]
+
+[[/div]]
+
++ **The Calamity of the 80s**
+
+[[include component:image-block-static
+|name= CENT-COM2.png
+|width=100%
+|align=center
+|caption= //The Annexation of Central America Command by Northern Command and Southern Command.//
+]]
+
+The Calamity of the 80s refers to a period of regional and geopolitical tension within the former command of Central America Command. This event is thought to have begun with the "'79 Rebellion", leading into successive crisis experienced. The time span is generally considered to be from the start of the '79 Rebellion in 1979 to the dissolution of the Central America Command in 1981.
+
+For more information about the Great Breach, see the "Dissolution of Central America Command."
+
+[[collapsible show="+ The '79 Rebellion (1979)" hide="- Close"]]
+
+++ **The '79 Rebellion (1978-1979)**
+
+As the 1970s approaches, a new undercurrent has been fermented over the Authority's policies on the anomalous. So-called "Theta Movement" -- named after the recently defunct Theta class -- newer, low-ranking personnel calls for an expanded qualification for anomalies deemed beneficial to their clauses, arguing their value in face of the continuing competition the Authority faced with the United States and Soviet Union, and ineffectual efforts of the Authority in confronting previous crisis "with one hand tied behind its back".
+
+Their view was met in opposition by the establishment, with veterans of the Second World War and Austral War, whom called for a more cautious approach to the utility of anomalies in-containment, keeping note of their inherent unpredictability and the prices paid for their exploitation. Without the support of the upper echelon, the Theta Movement could not have existed beyond mere talks.
+
+[[include component:image-block-static
+|name= https://www.sandboxx.us/wp-content/uploads/2022/01/MACV-SOG-8.jpg
+|align=right
+|caption= //Operation Clean Sweep, circa. 1979.//
+]]
+
+The balance of power changed on September 13rd, 1979; Multiple rebellions had simultaneously took place across Western Authority Sites, with the rebels succeeding in ceasing majority control of [[[Site-002]]], Site-005, [[[Site-074]]], and Site-███. Between May 23rd and May 27th, 1979, Authority Central Intelligence (ACI) intercepted multiple reports of a potential premature uprising by unnamed assailants but did not act on it.
+
+Despite intelligence about the seriousness of the uprising, its nature has been kept hidden within the Authority's upper echelons out of fear of a mole among senior management. It remains contentious to this day as to [[[rcpa-hub|whom]]] or where the rebel faction was able to secure their support from.
+
+As the veracity of the uprising became doubtful over time, parts of Northern Command and Central America Command maintained high levels of security, as per ACI's intelligence assessment. The worst fears were revealed on October 6th, when Northern Command facilities as well as parts of other regional commands, were struck by perpetrators under the moniker "The Reorganization." Central America Command was heralded as the epicenter of the rebellion, with multiple Sites becoming contested and briefly taken over before the arrival of reinforcement, which sees the application of Authority VTOL aircrafts on a major scale for the first time.
+
+By November 28th, Mobile Specialized Team Alpha-1 led a counter-operation that swept through Site-002 and other affected facilities. Following this, measures were put in place, and individuals involved in the rebellion were sentenced by the Authority Compact Commission (ACC). It's believed that [DATA EXPUNGED] were involved, with three members allegedly connected to the Presidium, though this remains pure conjecture.
+
+[[/collapsible]]
+
+[[collapsible show="+ The Great Breach (1979-1985)" hide="- Close"]]
+
+++ **The Great Breach (1979-1985)**
+
+Over the course of the '79 Rebellion, the Containment directive of the Authority has been greatly compromised, as personnel armed themselves and fought against each other, the upkeep of containment becomes neglected, at times failing to ensure the security of anomalies, while other times deliberately breached and set free by rebels to sabotage Authority efforts to reclaim a Site or even stolen for personal gain.
+
+Central America Command, which had already been facing the brunt of the rebellion, was left completely paralyzed by the incidents, being completely unable to cope with the cascading number of containment breaches. By December 2nd 1979, Central American Branches such as Mexico had essentially collapsed, with local Sites operating on their own without a centralized command. Order would not have been re-established until additional Protection personnel moves into Central America to stabilize the situation and quell the rebellion.
+
+An upwards estimate of approximately 200 anomalies were lost by 1980. In the following years much of the economic aid allocated to CENTCOM was invested into the Containment Division, dedicating the majority of the fund in recovering and recontaining anomalies that often wound up returning to urban centers. The effects of the Great Breach would not subside until the later half of the '80s, which also saw the widespread adoption of [[[Amnestics]]] by the Authority, it remains arguable that the recovery of Central America continue to this very day. It is believed that some of the lost anomalies ended up on civilian hands, contributing to the rise of new Central American GOIs such as the //Cartel de los Milagros//[[footnote]] A cartel group of interest that previously rose to prominence thanks to its distribution of anomalous drugs. [[/footnote]]
+
+[[/collapsible]]
+
+[[collapsible show="+ The Union Strikes (1979-1980)" hide="- Close"]]
+
+++ **The Union Strikes (1979-1980)**
+
+[[include component:image-block-static
+|name=gettyimages-51714772.jpg
+|width=650px
+|align=center
+|caption= //Protection Workers Union Organizing Strikes, circa. 1980.//
+]]
+
+After oil production in Iran significantly decreased and oil prices sharply increased as a result of the Iranian revolution, there was an economic oil crisis. The Office of Financial Affairs (OFA) discovered that the Protection Division had misappropriated its finances, resulting in substantial setbacks in annual income and stability of several front companies. A Division-wide austerity scheme was launched in response to the OFA's recommendations to mitigate economic difficulties on international operations, but it was deeply unpopular within the Authority, particularly the Protection Division.
+
+As the austerity program progresses, the Protection Division took the biggest hit in financial cost-cutting, coinciding with the peak of Authority instability during the '79 Rebellion and Great Breach. Such measures were purportedly implemented due to the financial misappropriation and poor performance months before the economic crisis. Global Director "Commander" protested the cost-cutting measures that put their respective division under pressure during an ongoing crisis, but their counterparts disagreed.
+
+[[include component:image-block-static
+|name= https://rpcsandbox.wikidot.com/local--files/main-page-i/bored-meeting.jpg
+|align=left
+|caption= //Union Leaders with the Presidium, circa. 1980.//
+]]
+
+When the Presidium-Protection Financial Committee announced economic measures affecting employee benefits and wages to be implemented in early 1980, there was a dramatic rise in strike. In response to the common sentiment of "betrayal" by the Authority to Protection sacrificed in the '79 Rebellion and Great Breach, approximately 80-90 percent of the Protection Division's non-essential personnel embarked on a strike. Senior officers associated in the strike formed a labor union between February and March. Soon after, the Research Division entered the strike with their Protection counterparts, effectively bringing international operations to a deadlock.
+
+The economic crisis to the austerity program transitioned into a management crisis as initiatives by the Presidium to neutralize the strikes through contingent deliberations were delayed or curtailed largely by increasing conditions that became impossible to comply with. As the Presidium became almost dysfunctional as a result of the strikes, Research and Protection attempted to gain control of the situation.
+
+Between August 7th and 15th, 1980, months after the Worker's Union from the Research and Protection Division was formed and generalized the strikes, the Presidium negotiated with the union leaders to create a comprehensive agreement. The //Authority Labor Agreement// was signed on August 15th, and further strikes across the Authority hierarchy were to be ceased. Despite the ongoing economic crisis, this agreement expanded the Office of Human Resources (OHR) and authorized them to ensure fair wages and appropriate working conditions for all personnel.
+
+However, under this agreement, both the Research and Protection Division Worker's Union and the right to form a labor organization were to be formally abolished. Due to operational and structural differences, this agreement did not apply to the Containment Division and its respective Worker's Union.
+
+[[/collapsible]]
+
+[[collapsible show="+ The Dissolution of the Central America Command (1980)" hide="- Close"]]
+
+++ **The Dissolution of CENTCOM (1980)**
+
+[[include component:image-block-static
+|name= https://media.defense.gov/2014/Dec/19/2000976614/1920/1080/0/141219-A-YG824-007.JPG
+|width=100%
+|align=center
+|caption= //Northern Command Forces Push into Mérida, RS-03, circa. 1980.//
+]]
+
+Authority austerity program in the early-1980s was most damaging to the Central America Command, which received the most cost-cutting measures of any regional command. This move was seen as one of the many dominos that led to the total collapse of the Command during the Calamity of the 80s.
+
+Central America Command, established in the 1950s under the new regional management system, was in charge of operations in Mexico and Central America. It was a striving region that was closely associated with Southern Command, but developed an animosity with their northern counterparts due to alleged northern clandestine operations.
+
+[[include component:image-block-static
+|name= http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%20Defunct%5D%20Central%20America%20Command.png
+|width=250px
+|align=left
+|caption= //Seal of the Central America Command, circa. 1950-1980.//
+]]
+
+Being the epicenter for both the Authority Internal Rebellion and Great Breach within less than a year, Global Director "Central" dedicated the entirety of their term trying to mend the regional command, but by the 1980s, Central America Command had suffered far too much internally to continue in any operational capacity. Central America Command experienced multi-site failures across the region as a result of these events. With the regional command's logistics crumbling and its inability to maintain containment, the Directorate convened an emergency meeting to discuss the intervention and takeover of the Central America Command. 
+
+Global Director "North" advocated for the integration of Mexico, whilst the rest of Central America was transferred to Southern Command. The Directorate was opposed to GD North's controversial proposal, with Global Director "Central" marking them a "war-mongering imperialist." Despite the controversy, Global Director "North" continued unabated with his proposal.
+
+On April 15, 1981, Global Director "Central" boarded an aircraft bound for Regional Site-02, Colorado Springs, to meet with Global Director "North." However, GD-Central was declared missing after his aircraft crashed into the Gulf of Mexico several hours into the flight. Following a thorough investigation led by GD-North, it was determined that the plane's vertical stabilizer may have broken off, resulting in a crash-nose dive.
+
+Following the death of Global Director "Central," Northern Command forces were mobilized to annex Mexico, while Southern Command forces occupied the rest of Central America. Central America Command was disbanded on September 18, 1981.
+
+[[/collapsible]]
+
++ **Regional Directors Association**
+
+The Regional Directors Association, abbreviated as RDA, is a national assembly body and forum between Regional Directors from across the Authority's regional commands. It was established shortly after divisional conflict between the Global Directors and Regional Directors in 1955.[[footnote]]See //National Authority Accords.//[[/footnote]] Their primary goal as an association is to coordinate management, procedures, and logistics so that regional operations can be facilitated while still achieving the organization's objectives.
+
+Members of the association, like the Site-Area Directors Association (SDA),[[footnote]]An organization comparable to the //Regional Directors Association//, but with a stronger emphasis on managing and coordinating site operations.[[/footnote]] are Regional Directors and their respective staff and advisors. It is frequently stated that the person who chairs the association holds the same authority as a Global Director, but this is more of a ceremonial respect than a legitimate power.
+
+++ **National Authority Accords**
+
+The //National Authority Accords// is a statue founded in 1955, which formed the association as an autonomous body with certain powers that the Directorate, despite rejecting to its terms, recognized as a statue agreement. Several amendments have been passed over the years that have restricted or excluded some of the constitutional authority of the Regional Directors.[[footnote]]See //Power and Impeachment.//[[/footnote]].
+
+Many newly appointed Regional Directors struggled to maintain some level of authority shortly after the position of Regional Directors was incorporated into the hierarchy, as directives from the Directorate conflicted with many regional-level decisions. 
+
+This prompted many Regional Directors across the Authority structure to form an association in order to equalize institutional authority at the regional level, which resulted in the 1955 "National Authority Statue," which stated that //"Directorships at the global level must allow regional-level autonomy to balance the issue, and allow the Regional Directors to maintain authority before the Directorate."//
+
++++ **Power and Impeachment**
+
+In accordance to the //National Authority Accords//, the Regional Directors Association has the authority to oversee and conduct special-elections for regional representatives of the Global Directorate. As opposed to electing the divisional representatives, who are voted by electorates across the divisions, regional representatives are voted by their [http://rpcauthority.wikidot.com/authority-regional-sites#toc14 respective Regional Director who are considered electorate members].
+
+Their authority also works in the opposite when it comes to the impeachment and removal of Global Directors, these including the divisional representatives despite not voting on their seats. The process for the removal of an incumbent divisional/regional representative is in accordance to the //Misconduct and Removal// protocol.
+
+[[collapsible show="+ Misconduct and Removal Protocol" hide="- Close"]]
+
+> ++++ Section 7. Misconduct and Removal
+> 
+> +++++ Subsection A.
+> 
+> A representative's seat must be held accountable for the actions and conduct of the organization they represent. As a result, no representative is empowered to violate the Code of Conduct, which they swore to uphold and enforce. The process of a removal shall be done when: 
+> 
+> * a) The representative(s) is called forth by the electorates to testify under an impeachment trial;
+> 
+> * b) The representative(s) has knowingly violated the code that they swore to uphold and enforce, and thus must testify during an impeachment trial;
+> 
+> * c) The representative is to testify under an impeachment trial when a regional or divisional representative calls for such impeachment the accused representative.
+> 
+> +++++ Subsection B.
+> 
+> If the representative(s) are tried for impeachment and convicted, the electorates must obtain an absolute majority to proceed. Should the motion be successfully passed by the electorate, the representative(s) are to be stripped from their title and removed from their seat. 
+
+The protocol's rules do not stipulate to a specific individual as the protocol recurrently alludes to either a group of representatives or an individual representative. Thus, under a warranted circumstance, the Regional Directors Association may theoretically be able to impeach all incumbent Global Directors. This has never occurred due to the uncertainty whether the Regional Directors Association can lawfully pass a motion to remove the Directorate collectively.
+
+[[/collapsible]]
+

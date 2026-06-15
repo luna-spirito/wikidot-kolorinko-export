@@ -1,0 +1,5204 @@
+---
+title: "RPC-929"
+tags: []
+page_id: "1436610681"
+site: "rpcauthority"
+slug: "fragment:929-1"
+revision: 31
+revision_id: "1544406151"
+author: 4330657
+timestamp: 1780406616
+---
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+@media screen and (max-width: 480px) {
+  .mobile-container {
+    width: 100%;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.log {
+background-color: rgba(0, 0, 0, 0.2);
+float: center;
+border-right: 1px solid;
+border-left: 1px solid;
+padding: 1px 20px;
+margin: 10px 40px 10px 40px;
+}
+
+.kingdom {
+background: #31343a url(http://rpcauthority.wikidot.com/local--files/rpc-929/Monet1.jpeg) center center/cover no-repeat;
+color: #ffe482;
+float:center;
+font-family: 'Merriweather', serif; font-size: 24px;
+padding:0px 15px; margin: 10px 40px 10px 40px;
+border: 6px solid;
+box-shadow: 0px 3px 4px 2px #000000;
+text-shadow: 0px 2px 14px #0F2135;
+}
+
+.villeville {
+background: #31343a url(http://rpcauthority.wikidot.com/local--files/rpc-929/Monet2.jpeg) center center/cover no-repeat;
+color: #ffe68a;
+float:center;
+font-family: 'Merriweather', serif; font-size: 30px;
+padding:0px 15px; margin: 10px 40px 10px 40px;
+border: 8px double;
+box-shadow: 0px 3px 4px 2px #000000;
+text-shadow: 0px -2px 25px #062431;
+}
+
+.express {
+background: #31343a url(http://rpcauthority.wikidot.com/local--files/rpc-929/Monet3.jpeg) center center/cover no-repeat;
+color: #ffe68a;
+float:center;
+font-family: 'Merriweather', serif; font-size: 30px;
+padding:0px 15px; margin: 10px 40px 10px 40px;
+border: 8px double;
+box-shadow: 0px 3px 4px 2px #000000;
+text-shadow: 0px -2px 25px #062431;
+}
+
+.exatoria {
+background: #31343a url(http://rpcauthority.wikidot.com/local--files/rpc-929/Exatoria.jpeg) center center/cover no-repeat;
+color: #ffe68a;
+float:center;
+font-family: 'Merriweather', serif; font-size: 30px;
+padding:0px 15px; margin: 10px 40px 10px 40px;
+border: 8px double;
+box-shadow: 0px 3px 4px 2px #000000;
+text-shadow: 0px -2px 25px #062431;
+}
+
+.mirror {
+background: #31343a url(http://rpcauthority.wikidot.com/local--files/rpc-929/LookingGlass.jpeg) center center/cover no-repeat;
+color: #ffe68a;
+float:center;
+font-family: 'Merriweather', serif; font-size: 30px;
+padding:0px 15px; margin: 10px 40px 10px 40px;
+border: 8px double;
+box-shadow: 0px 3px 4px 2px #000000;
+text-shadow: 0px -2px 25px #062431;
+}
+
+.revoir {
+background: #31343a url(http://rpcauthority.wikidot.com/local--files/rpc-929/Monet4.png) center center/cover no-repeat;
+color: #ededed;
+float:center;
+font-family: 'Merriweather', serif; font-size: 30px;
+padding:0px 15px; margin: 10px 40px 10px 40px;
+border: 6px solid;
+box-shadow: 0px 3px 4px 2px #000000;
+text-shadow: 0px -2px 25px #062431;
+}
+[[/module]]
+
+[[=]]
+[[div class="content-panel"]]
+++++ [[[http://rpcauthority.wikidot.com/rpc-929/offset/0 |◄ Open RPC-929 (Archived)]]]
+[[/=]]
+[[/div]]
+
+[[div class="mobile-container"]]
+
+[[div class="content-panel"]]
+
+[[=]]
++ **Exploration ALTR-929-A1**
+
+------
+
+ [[/=]]
+
+**Subject:** CSD-6868, RPC-929, RPC-929-2, RPC-929-3, PoI-929A
+
+**Supervisor:** Head Researcher Alexander Milhouse
+
+**Foreword:** CSD-6868 is a 34-year-old Caucasian male, formerly employed as a Chemistry teacher by ████████ Elementary, Kansas. As of 2017, CSD-6868 has been transferred into Authority care.
+
+Using the limited information the Authority acquired regarding ALTR-929, CSD-6868's equipment was optimized for 12 days of exploration. CSD-6868 was advised to avoid RPC-929-2 and if possible, RPC-929-1 as well.
+
+@@ @@
+**Authority issued equipment:** 
+* LCQ-Camera system
+* Respirator mask
+* Authority-issued noise-activated recorder
+* Authority-issued camcorder
+* 18 standard Authority rations
+* Handheld torch
+* 14 firestarter kits
+* 4 first aid kits
+* Knife
+* Water filtration system
+* 4 battery packs
+* Respirator
+* 8 L-prosectide drugs
+* EMF meter
+* Packets of mold[[footnote]]CSD-6868 was instructed to, in the event of imminent death, cover the LCQ-Camera and noise-activated recorder in mold if possible, possibly enabling RPC-929-2 to return the devices to baseline by terminating the mold. [[/footnote]]
+* Sleeping bag
+
+**Requested items:** 
+* 14 packs of cigarettes - ##lime|[Approved]##
+* 2 bottles of whiskey - ##red|[Declined]##
+* Personal cell phone - ##red|[Declined]##
+* Harmonica - ##lime|[Approved]##
+
+------
+[[collapsible show="[+] Exploration Log [3/12/19] ALTR-929-A1" hide="[-] Exploration Log [3/12/19] ALTR-929-A1"]]
+
+------
+[[=]]
++++ **<Begin Exploration Log, [3/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+[[span style="font-family: 'Times'; font-size: 25px"]]GEORGE █████ [[/span]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 20px"]] in [[/span]]
+[[size 180%]] WONDERLAND [[/size]]
+------
+
+++++ [[size 50%]] Copyright Ⓒ  LXVIII Camille Carina Copyright Renewed [[/size]]
+++++ [[size 50%]] All Rights Reserved [[/size]]
+
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+
+[[span style="font-family: 'Times'; font-size: 19px"]]Written, Produced, and Directed [[/span]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 20px"]] by [[/span]]
+[[size 140%]] CAMILLE CARINA [[/size]]
+
+@@ @@
+
+@@@@
+
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 15px;  padding:10px 100px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[==]]
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 36px"]] The principal characters [[/span]]
+[[/=]]
+CSD-6868 ․ ․ George █████
+Camille Carina ․ ․ ․ ․ ․ ․ ․ Camille
+The Duchess ․ ․ ․ ․ Esmée Carina
+The Masked Umbra ․ ․ ․ Gehnich
+[[/==]]
+
+@@ @@
+
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+A picture with a smile — and perhaps, a tear.
+
+[[/=]]
+[[/div]]
+
+
+##8f8f8f|**[**//CSD-6868 teleports 16m above the ground and drops unscathed.//**]**##
+
+**CSD-6868:** Oh God fucking damn that hurts.
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/ErrorCam.jpeg|align=center|width=300px|caption= > [RESTART CAMERA] ]]
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+**CSD-6868:** //Oh shit oh shit oh shit fuck fuck fuck// don’t die on me please don’t die on me. 
+
+> ##red|{{**CAMERA SYSTEM OFFLINE…**}}##
+
+> ##lime|{{**CAMERA SYSTEM ONLINE**}}##
+
+**CSD-6868:** Test test test test, (//coughs//) can you hear me...? Oh, ##8f8f8f|**[**//CSD-6868 rubs dirt off the LCQ camera.//**]**## alright good, //thank God.//
+
+##8f8f8f|**[**//CSD-6868 points the camera at a forest in the distance.//**]**##
+
+**CSD-6868:** Looks like the video offset's a bit shit, so I'll use the camera to take pictures instead.[[footnote]] While the LCQ video offset is functional, the photo metadata was scrambled from the transport, resulting in a poor image quality. [[/footnote]] You don't mind eh... Dr. Milhouse?
+
+##8f8f8f|**[**//CSD-6868 points the camera at a ruined building.//**]**##
+
+**CSD-6868:** Well, here I am. I’ve landed on some sort of ol’ abandoned house, looks like it was blown to bits ages ago. It uh (//sniffs//) it (//coughs//) it smells awful. 
+
+##8f8f8f|[...]##
+
+**CSD-6868:** Everything is so blurry.
+
+##8f8f8f|**[**//CSD-6868 explores ALTR-929 for 34 more minutes.//**]**##
+
+**CSD-6868:** There are these butterflies too; they keep following me everywhere. I uh, I wonder if I should be worried. They're supposed to be symbolic of something in this place, right? Angels or something like that.
+
+##8f8f8f|**[**//CSD-6868 explores ALTR-929 for 2 more hours.//**]**##
+
+**CSD-6868:** ... I see someone.
+
+##8f8f8f|[...]##
+
+**CSD-6868:** I’m gonna try and go greet ‘em.
+
+##8f8f8f|**[**//CSD-6868 runs towards the entity.//**]**##
+
+**CSD-6868:** //Hey! Hey you! Hey!//
+
+##8f8f8f|**[**//CSD-6868 runs towards the entity.//**]**##
+
+##8f8f8f|**[**//CSD-6868 trips into a puddle of mud.//**]**##
+
+##8f8f8f|**[**//RPC-929-1 walks towards CSD-6868 and looks down.//**]**##
+
+**RPC-929-1:** Bonjour ? Monsieur ? Tout va bien ? ##8f8f8f|Hello? Mister? Are you alright?##
+
+##8f8f8f|**[**//CSD-6868 rubs his face.//**]**##
+
+**CSD-6868:** P-pardon?
+
+**RPC-929-1:** Oh, vous ne parlez pas français ?? ##8f8f8f|Oh, you don't speak French?##
+
+**CSD-6868:** Sorry about that.
+
+**RPC-929-1:** Oh... Laissez-moi recommencer. ##8f8f8f|Let me start over.## Hello down there, Mister. Are you alright?
+
+**CSD-6868:** I'm alright, I'm fine. ##8f8f8f|**[**//CSD-6868 attempts to get back up.//**]**##
+
+**RPC-929-1:** Well, you don’t look alright, nor do you look fine for that matter. Falling down like that is miserable for any creature.
+
+**CSD-6868:** (//Chuckles//) What's that supposed to mean? I mean, I--
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** What's wrong, sir?
+
+**CSD-6868:** I can see your eyes, but I can't see your face.
+
+**RPC-929-1:** You must've fallen really hard then, miserable for any creature.
+
+##8f8f8f|**[**//RPC-929-1 helps CSD-6868 rise back up.//**]**##
+
+**CSD-6868:** You're just a kid, huh.
+
+**RPC-929-1:** Indeed, I am. Say, Mister, I've never seen you before. What's your name, if I may ask? 
+
+**CSD-6868:** The name’s George T. █████. 
+
+**RPC-929-1:** Pleasure to meet you, Mister George. ##8f8f8f|**[**//Curtsy//**]**## My name is Camille Léa Carina, at your service.
+
+**CSD-6868:** Camille Carina, eh? That’s a cute na-
+
+[[div style="display: inline-block; background:white; color: black; float:center; font-family: 'Merriweather', serif; font-size: 12px;  padding:10px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000;"]]
+[[f<image http://rpcauthority.wikidot.com/local--files/rpc-929/quill-pencil.jpeg width="60px"]]
+[[size 180%]] **Camille Léa Carina** [[/size]]
+Queen, Theologist 
+(1929-)
+
+------
+[[f>image http://rpcauthority.wikidot.com/local--files/rpc-929/RightCamille.jpeg width="200px"]]
+
+@@ @@
+Honoured student of Harrogate Ladies’ College and active ruler of la Royaume Souverain de la Reine Carina. She created the kingdom's best-known books in philosophy, most famously: “The Science and Theology of Fishes with Shoes.”
+
+[[/div]]
+
+**CSD-6868:** What in the world?
+
+**RPC-929-1:** What’s wrong, Mister?
+
+**CSD-6868:** S-sorry. I thought I saw something.
+
+**RPC-929-1:** //Ooh,// you saw a bunch of words right next to a picture of me, //right? Right? Right?//
+
+**CSD-6868:** ##8f8f8f|**[**//Looks around//**]**## Yes, actually… What was that?
+
+**RPC-929-1:** That was the intertitle!
+
+**CSD-6868:** The what? 
+
+**RPC-929-1:** Before the cinema screen could speak, filmmakers used to use these cards instead. They're these full-screen image of texts inserted into the body of a fil-
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 15px;  padding:10px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 2px solid #D9D9D9;"]]
+
+[[size 300%]] Intertitle [[/size]] noun
+##8f8f8f|in·​ter·​title | \ ˈintə(r)ˌtītᵊl, -ītᵊl \##
+
+A full-screen image of text inserted into the body of a film, television programme, etc., usually to express dialogue or to explain the plot, especially in silent films.
+
+[[/div]]
+
+**RPC-929-1:** Just like that! 
+
+**CSD-6868:** Does… this just happen?
+
+**RPC-929-1:** Very much so, it’s one of the many permanent spells that enchant this kingdom. 
+
+**CSD-6868:** I’m sorry, did you say spells?
+
+**RPC-929-1:** Yip.
+
+**CSD-6868:** The magic kind?
+
+**RPC-929-1:** //The magic kind.// 
+
+**CSD-6868:** (//Chuckles//) Just where in the world did I just land? What is going on here?
+
+**RPC-929-1:** I see you must be new around here, Mister George. What's your business here?
+
+##8f8f8f|**[**//RPC-929-1 investigates CSD-6868.//**]**##
+
+**CSD-6868:** Listen, I don’t know what’s going on here, but I can’t just tell random people my business out of the blue.
+
+**RPC-929-1:** //Aha!// RPC! You’re an Authority worker! There’s the triangle symbol on your suit.
+
+**CSD-6868:** What? You know about them?
+
+**RPC-929-1:** Yip! They’re the American and Italian Emmy-thirteen.[[footnote]] Military Intelligence Section XIII (MI13), a governmental agency based in the UK. [[/footnote]] My friend Esmée knows a lot about them. I’ve seen their birdy-explorer-bots roam around this kingdom. And if their purpose is to explore, that must mean you’re an explorer too, //right? Right? Amiright?//
+
+**CSD-6868:** I can't confirm or deny, but between you and me...
+
+**RPC-929-1:** Hm?
+
+**CSD-6868:** (//Whispering//) You're on the mark on that one.
+
+**RPC-929-1:** I knew it.
+
+##8f8f8f|**[**//RPC-929-1 inspects the LCQ-Camera system.//**]**##
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/Oops!.jpeg|align=center|width=300px|caption= 929A002]]
+##8f8f8f|**[**//RPC-929-1 drops the LCQ-Camera system.//**]**##
+
+**CSD-6868:** (//Chuckles//) Careful with that! That’s my camera.
+
+**RPC-929-1:** It looks like the cameras from the birdy-bots.
+
+**CSD-6868:** They’re the same kind, I reckon. It’s a special camera made by the guys at the Authority.
+
+**RPC-929-1:** What makes it special?
+
+**CSD-6868:** It allows me to take pictures here.
+
+**RPC-929-1:** Can't you do that with a normal camera?
+
+**CSD-6868:** I guess so... This thing's supposed to be this quantum algorithm machine thing that allows the lens to capture light in places where the behavior of light is different. 
+
+**RPC-929-1:** It does look like a particularly smart camera. //Can I touch it?//
+
+**CSD-6868:** No.
+
+**RPC-929-1:** Oh, okay.
+
+##8f8f8f|[…]##
+
+**CSD-6868:** This place, you know where we are?
+
+**RPC-929-1:** Aha ! Bienvenue au royaume souverain de la reine Carina ! ##8f8f8f|—Welcome to the kingdom of Queen Carina!##
+
+**CSD-6868:** … What?
+
+**RPC-929-1:** (//Groans//) Welcome to the sovereign kingdom of Queen Carina!
+
+[[div class="kingdom"]]
+
+[[=]]
+Le Royaume Souverain de la Reine Carina
+
+[[div style="background-color: white; color: black; font-size:12px"]]
+Alternative Titles: Ego, The Sovereign Kingdom of Queen Carina
+[[/div]]
+[[/=]]
+[[div style="background-color: white; color: black; font-size:12px"]]
+The Sovereign Kingdom of Queen Carina is a hidden empire stretching across the inner-axis of Centre Val de Loire, France.
+[[/div]]
+[[/div]]
+
+**CSD-6868:** A magical French monarchy… Ain’t that uh,  (//snigger//) something you don’t see every day. ##8f8f8f|**[**//CSD-6868 rubs his face.//**]**## ,  man I'm fucked... This ain’t a dream or something, right? Not a side effect of those Verdick drugs or whatever they're calle-
+
+##8f8f8f|**[**//RPC-929-1 kicks CSD-6868’s leg.//**]**##
+
+**CSD-6868:** //Shit!// What was that for?
+
+**RPC-929-1:** No cursing.
+
+**CSD-6868:** Sorry, I'm sorry. You didn't have to kick for that.
+
+**RPC-929-1:** At least you know you're not dreaming now.
+
+**CSD-6868:** Yeah...? God, this is overwhelming. Uh, damn. (//Exhale//) ##8f8f8f|**[**//CSD-6868 looks around then fidgets.//**]**##
+
+**RPC-929-1:** Are you lost, Mister?
+
+**CSD-6868:** Lost would be an understatement. I dunno what I'm supposed to do here.
+
+**RPC-929-1:** I can help you! 
+
+**CSD-6868:** Oh, no. It's okay.
+
+**RPC-929-1:** Since you're a foreigner, I can lead you to Villeville la Ville Souveraine, the capital. If you wish.
+
+**CSD-6868:** What the hell kinda name is Villeville? (//Chuckles//) I'll uh, think about it.
+
+**RPC-929-1:** Do you want to go to the city or not?
+
+**CSD-6868:**  I mean, I do. But you really don't have to, on my account.
+
+**RPC-929-1:** Oh no, I insist. It's my duty after all. What tyrant leaves wayward souls unattended? As a ruler, I shan't be idle to those who need my help.
+
+**CSD-6868:** You're just a kid. If anything, I should be looking out for you.
+
+**RPC-929-1:** But do you know the way to Villeville?
+
+##8f8f8f|[...]##
+
+**CSD-6868:** … Ah, well, I concede. //Oh, lead the way, oh dutiful one.//
+
+**RPC-929-1:** You could show more appreciation for my efforts. 
+
+**CSD-6868:** //Thank you for guiding me to the city, my liege.//
+
+**RPC-929-1:** //Hmph.// That's better. 
+
+**CSD-6868:** Which way to the city?
+
+**RPC-929-1:** ##8f8f8f|**[**//Points to the North.//**]**## Riiiight there! That road! There's a city faaaar over there.
+
+**CSD-6868:** What road? There's no road around he--
+
+##8f8f8f|**[**//Bell Ringing//**]**##
+
+**CSD-6868:** Wha... That road wasn’t here before.
+
+**RPC-929-1:** Off we go!
+
+**CSD-6868:** Where did the road come from?
+
+##8f8f8f|**[**//RPC-929-1 begins walking.//**]**##
+
+**CSD-6868:** W-wait, wait up! Where did this road come from?
+
+**RPC-929-1:** (//Giggles//)
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [3/12/19] ALTR-929-A2" hide="[-] Exploration Log [3/12/19] ALTR-929-A2"]]
+------
+[[=]]
++++ **<Continue Log, [3/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** Can we rest here for a moment? 
+
+**RPC-929-1:** Okay. Do you want me to set up a picnic?
+
+**CSD-6868:** That'd be nice. Here, I'll help.
+
+##8f8f8f|**[**//CSD-6868 helps RPC-929-1 set up the picnic.//**]**##
+
+**CSD-6868:** This is a nice view. Y'know, I've never seen a lake this clean before.
+
+**RPC-929-1:** There are far cleaner lakes out there, Mister George.
+
+**CSD-6868:** Maybe in the countryside. Nowadays, trash piles up all 'round ponds and rivers. Where's this place, anyhow?
+
+**RPC-929-1:** We're ummm-- ##8f8f8f|**[**//Looks at a map.//**]**## -- in the bark of the Tumtum Trees. Animals here are smarter than they ought to be.
+
+##8f8f8f|**[**//CSD-6868 points his camera at a fish fishing on a boat.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:0px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid #6D6D6D;"]]
+[[=]]
+[[size 200%]] VOILÀ ! [[/size]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/LeFishe.png width="180px"]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** The hell is on that boat over there?
+
+**RPC-929-1:** Fisherfish, they fish for fish to fish out.
+
+**CSD-6868:** Huh.
+
+**RPC-929-1:** It's as shrimple as that.
+
+**CSD-6868:** //Pffth-//
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//CSD-6868 opens up his rations.//**]**##
+
+**RPC-929-1:** What's that?
+
+**CSD-6868:** Rations.
+
+**RPC-929-1:** Looks gross.
+
+**CSD-6868:** It is, but look.
+
+##8f8f8f|**[**//Reveals a chocolate bar.//**]**##
+
+**RPC-929-1:** //Ooh,// may I have some?
+
+**CSD-6868:** Take all of it.
+
+**RPC-929-1:** (//Chewing//) What’s your favourite food, Mister?
+
+**CSD-6868:** Eh, I dunno. Hamburgers, I guess.
+
+##8f8f8f|**[**//Bell Ringing//**]**##
+
+**RPC-929-1:** ##8f8f8f|**[**//Reveals Hamburger//**]**## Then I have this for you!
+
+**CSD-6868:** Where’d you get that?
+
+**RPC-929-1:** It was in my basket.
+
+**CSD-6868:** Well, thanks!
+
+##8f8f8f|**[**//Both eating//**]**##
+
+**RPC-929-1:** Mister George, may I ask how you managed to come to this kingdom?
+
+**CSD-6868:** To be honest, I don’t really know. I was told to just stand on a specific spot, and next thing you know, I was thrown right down the rabbit hole and landed here.
+
+**RPC-929-1:** //Hmmm...// So you came here because you fell down a rabbit hole?
+
+**CSD-6868:** That was a figure of speech. It was more of a //poof!// Appeared here in the blink of an eye.
+
+**RPC-929-1:** That is strange indeed, but not an uncommon story among foreigners such as yourself. What were you doing before you came here?
+
+**CSD-6868:** Sorry, can’t tell ya. The dealings of the Authority ain’t something I can tell people willy-nilly.
+
+**RPC-929-1:** Could you spare a willy-nilly of what you were doing before RPC?
+
+**CSD-6868:** ... I used to live in ████████, West of Kansas. Used to teach Chemistry at this little school in town. A little bit of math, too before they kicked me out.
+
+**RPC-929-1:** What is it like there?
+
+**CSD-6868:** Boring, dull, and gray. But hey, I wouldn’t have it any other way.
+
+**RPC-929-1:** That doesn't sound very nice.
+
+**CSD-6868:** Well, I just happen to have a wife and kid there, so it's not all bad.
+
+**RPC-929-1:** //Ooh,// is it a boy or a girl?
+
+**CSD-6868:** Boy. He should be four soon, but I haven’t seen him in years.
+
+**RPC-929-1:** What happened?
+
+**CSD-6868:** I was contracted by the Authority, and I can’t tell anything more beyond that. 
+
+**RPC-929-1:** Will you ever meet them again?
+
+**CSD-6868:** If I live to see another day, quite soon hopefully. After I complete my mission here, I’m a free man. 
+
+**RPC-929-1:** I see this mission is very important to you. I’ll be sure to try my very best as your tour guide. I promise you will be safe and well-learnt in your travels with me.
+
+**CSD-6868:** Ain't that quaint? It's an honor, Miss Carina.
+
+**CSD-6868:** How ‘bout you yourself, Camille? Tell me about yourself.
+
+**RPC-929-1:** What do you want to know?
+
+**CSD-6868:** I remember you told me about you being a ruler? What kinda place puts a responsibility like that on a kid?
+
+##8f8f8f|**[**//RPC-929-1 stares at CSD-6868.//**]**##
+
+**CSD-6868:** N-not that I doubt your skills as a ruler, of course. I was just curious, that’s all.
+
+**RPC-929-1:** I no longer rule this kingdom; that responsibility passed to the duchess. She’s doing a really good job, too. You should see how hard she works. 
+
+**CSD-6868:** Duchess? I thought you said there was a sorceress queen.
+
+**RPC-929-1:** Was, not is, for it is not. Not anymore, that is.
+
+**CSD-6868:** What happened to her?
+
+**RPC-929-1:** Are you sure you want to know what happened to the sorceress queen?
+
+**CSD-6868:** I guess?
+
+**RPC-929-1:** Are you really, really sure?
+
+**CSD-6868:** The Authority did tell me to be wary of her. So, yeah, absolutely am sure.
+
+**RPC-929-1:** Are you absolutely certain? Like, really, really (//short giggle//) really sure?
+
+**CSD-6868:** Did… did she die?
+
+**RPC-929-1:** No! I’m the sorceress queen.
+
+[[div style="display: inline-block; background:white; color: black; float:center; font-family: 'Times'; font-size: 15px;  padding:10px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 4px solid; filter: sepia(100%);"]]
+[[=]]
+[[size 130%]]Here be the Rightful Sovereign: Camille Carina[[/size]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/SovereignCami.png width="160px"]]
+//From the throne of heaven to the sole of the earth, she's been treasured in the eternal arms of the sovereign angels above.//
+[[/=]]
+[[/div]]
+
+**CSD-6868:** (//Choking) Oh sh- (clears throat//) 
+
+**RPC-929-1:** Are you okay, George?
+
+**CSD-6868:** No, it's nothing... Should I be calling you "your majesty"?
+
+**RPC-929-1:** No need for formalities, Mister George, since I consider us friends now. 
+
+##8f8f8f|[...]##
+
+**CSD-6868:** Almost forgot. Since you somehow got this to work… Say cheese! Actually, no- how do you say it in French?
+
+**RPC-929-1:** Ouistiti.
+
+**CSD-6868:** Say Ouistiti !
+
+**RPC-929-1:** //Ouistiti !//
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/HerPicnic.jpeg|width=1052&height=1066|align=center|width=300px|caption= 929A004]]
+
+**RPC-929-1:** Let me see. 
+
+##8f8f8f|**[**//CSD-6868 shows the photo to RPC-929-1.//**]**##
+
+**CSD-6868:** I thought it was just my eyes… Seems like cameras see things the way I do, too. Everything is a blur. All I can see outta your face is your eye. I guess light really does work differently here.
+
+**RPC-929-1:** That's because the camera is just a pocket eye, so of course, it can only see my eye! Cameras can't taste, they can't smell, they can't even hear! So it can only see my eye. That's where the phrase "eye to eye" came from.
+
+**CSD-6868:** ... I'm sorry, what?
+
+**RPC-929-1:** What?
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [4/12/19] ALTR-929-A3" hide="[-] Exploration Log [4/12/19] ALTR-929-A3"]]
+------
+[[=]]
++++ **<Continue Log, [4/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** Hm. This place ain’t so bad.
+
+**RPC-929-1:** //Ohhh!// I wish Esmée was here, she would love these flowers!
+
+**CSD-6868:** Just pick them up for her then.
+
+**RPC-929-1:** //No no no// I can’t do that.
+
+**CSD-6868:** Why not? Is this place is private property or something?
+
+**RPC-929-1:** No, it’s not like that... //Actually,// now that I think about it, you're correct. But it’s much, much more than that. Mister George, I want you to bear witness. I have a feeling we’re in a //Flowerman village.//
+
+**CSD-6868:** Flowerman?
+
+**RPC-929-1:** Flowermen.
+
+**CSD-6868:** What’re the Flowermen?
+
+**RPC-929-1:** The Flowermen are-
+
+**CSD-6868:** Are?
+
+**RPC-929-1:** The Flowermen are-
+
+**CSD-6868:** //Are what?//
+
+**RPC-929-1:** The Flowermen are-
+
+**CSD-6868:** Why are you pausing all of the sudden like that?
+
+**RPC-929-1:** Sorry, I thought an intertitle would appea--
+
+[[div style="display: inline-block; background:#c5de9b; color: #ad44a3; float:center; font-family: 'Merriweather', serif; font-size: 13px;  padding:10px 15px; margin: 10px 40px 10px 40px; border: 6px solid; box-shadow: 0px 3px 4px 2px #000000;"]]
+[[f>image http://rpcauthority.wikidot.com/local--files/rpc-929/FlowerMan.png width="100px"]]
+[[size 200%]]__Flowermen__ [✿][[/size]]
+
+Flowermen are a member of a large class of sentient plants that occupy a large stretch of gardens within the Sovereign Kingdom. They are distinguishable by their rather "man-like" structure. Many, though, still make the error of mistaking one for a regular flower.
+[[/div]]
+
+**CSD-6868:** I... see. Well, do any of these flowers look particularly man-like to you?
+
+**RPC-929-1:** No.
+
+**CSD-6868:** Well, what’re you waiting for? Here, I’ll help.
+
+##8f8f8f|**[**//CSD-6868 starts picking up flowers.//**]**##
+
+**RPC-929-1:** //No! Don’t!//
+
+**CSD-6868:** See? Nothing to worry about.
+
+**RPC-929-1:** I guess it wouldn’t hurt to try...
+
+##8f8f8f|**[**//RPC-929-1 picks up a flower.//**]**##
+
+##8f8f8f|**[**//Screeching//**]**##
+
+> +++ Preface:
+> Every instance of ALTR-929-e(n) are ordered numerically. For this exploration log, however, they are to be labeled after their respective species/residence in numerical order. (e.g Flowerman-n, Villevillian-n, etc.)
+
+**Flowerman-1:** //Bastard! Bastard!// Thou fool-born meat-worms!
+
+**RPC-929-1:** //Oh, gracious!// I'm sorry, Mister Flowerman. We thought you were a--
+
+**Flowerman-1:** What'st thou taken me for, ye bumbling fool. I’ll hear thee thy testimony from the unfair court, I tell thee! The unfair court I tell thee!
+
+##8f8f8f|**[**//Flowerman-1 dematerializes.//**]**##
+
+**CSD-6868:** Unfair court?
+
+**RPC-929-1:** (//Whines//) It’s a court that’s unfair, Mister George. Have you been listening at all? We’re doomed, Mister, we’re doomed! (//sniffles//)
+
+**CSD-6868:** Hey, hey. It’s alright, I’ll go figure this out. They can’t be that bad.
+
+**RPC-929-1:** //It’s an unfair court,// (//sniffles//) how can their justice be fair at all? They’ll immediately sentence us to death for plucking them.
+
+##8f8f8f|**[**//6 Flowermen entities materialize out of the ground.//**]**##
+
+**Flowerman-2:** Hear ye, hear y,e what is all the murmur about?
+
+**Flowerman-1:** These meat-worms took me for a common flower.
+
+**Flowerman-3:** //Preposterous!//
+
+**Flowerman-1:** What more? This little devil-child insulted me, right in my face!
+
+**Flowerman-2:** Savage! I hear thy plea, be sure justice of the utmost unfair prejudice will be dealt. What dost thou hast to say, devil-child?
+
+**RPC-929-1:** Your honour I--
+
+**Flowerman-2:** Silence! I will not hear this blathering! I sentence these criminals to death by order of the unfair court!
+
+**RPC-929-1:** Your honour, I made the mistake of-
+
+**Flowerman-2:** Death!
+
+**RPC-929-1:** Your honour, I’m sorr--
+
+**Flowerman-2:** //Death!//
+
+**CSD-6868:** I’ve had enough of this.
+
+##8f8f8f|**[**//CSD-6868 unseathe his knife.//**]**##
+
+##8f8f8f|**[**//A kaleidoscope of butterflies observe CSD-6868.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454; column-count: 2;"]]
+[[=]]
+Do it! Do it! Do it! Do it! Do it! Do it!
+[[/=]]
+[[/div]]
+
+**RPC-929-1:** //No!// You’ll only make things worse! Can you make a case for me, please?
+
+**CSD-6868:** (//Shrugs//)
+
+**RPC-929-1:** //Pleeeaase~//
+
+##8f8f8f|**[**//CSD-6868 groans and seathes his knife.//**]**##
+
+**CSD-6868:** Your honor.
+
+**Flowerman-2:** Yes?
+
+**CSD-6868:** My client says she’s sorry.
+
+**Flowerman-2:** And?
+
+**RPC-929-1:** What should I say?
+
+**Flowerman-2:** Silence! No babbling!
+
+##8f8f8f|**[**//CSD-6868 walks around thinking.//**]**##
+
+**CSD-6868:** (//Whispering//) Can I just make stuff up?
+
+##8f8f8f|**[**//RPC-929-1 nods its head.//**]**##
+
+**CSD-6868:** I hereby proclaim my client completely innocent of any misdeeds she may have caused, and charge the accuser with misconduct.
+
+**Flowerman-2:** What idiocy didst thou indict this court? Under what god did anything thou've said follow the conduct of prejudice?
+
+**CSD-6868:** I, therefore, request that you sentence the accuser to... I dunno, death?
+
+**Flowerman-2:** Ohoho, //now we're talking!// Flowerman CXXIII, I sentence thee to death by--
+
+**RPC-929-1:** Beheading; ##8f8f8f|**[**//points at self//**]**## by me.
+
+**Flowerman-2:** Beheading! Any last words?
+
+**Flowerman-1:** Wretched! This court is corrupt, and I am an actor in its shortcomings. Has divine wrath finally struck me for my past transgressions? I cannot undo the harm I has't did cause 'r desire to reenter the courthouse to serveth as a high juror, but I am fortunate to hast't hath foundtu the courage to cometh fia publiquement.  Wretch'd as I am, meen finally putting mineth owneth w'rds into action to démontrereth yond whichst mine wonneth't m'encaisser. Indeth merc's en moi, Deus meus und f'rgive meen must mine actus· · · (//unintelligible//)
+
+##8f8f8f|**[**//Flowerman-1 continues its unintelligible speech for 42 minutes. Most of the Flowermen entities dematerialized before it can finish their speech.//**]**##
+
+**CSD-6868:** Oh my God, just kill this jackass already.
+
+**RPC-929-1:** Okay.
+
+##8f8f8f|**[**//RPC-929-1 plucks Flowerman-1, followed by a screech.//**]**##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/HereticFlower.jpeg|align=center|width=300px|caption= 929A005]]
+
+**CSD-6868:** What queer minds they have. Surely a result of having no brain.
+
+##8f8f8f|**[**//RPC-929-1 scours the garden for more flowers.//**]**##
+
+**CSD-6868:** This is a bit morbid, don't you think? 
+
+**RPC-929-1:** Yes, very so.
+
+**CSD-6868:** So, these flowers, who're you picking 'em up for?
+
+**RPC-929-1:** Dear Esmée! She's the duchess of the city and my bestest best friend. 
+
+##8f8f8f|**[**//RPC-929-1 takes out a picture of PoI-929A and shows it to CSD-6868.//**]**## 
+
+**RPC-929-1:** Isn't she pretty?
+
+**CSD-6868:** She's quite tall.
+
+**RPC-929-1:** She's a foreigner like you, you know.
+
+**CSD-6868:** There are other outsiders?
+
+**RPC-929-1:** There have been many. There's dear Esmée, Gregory, Kesley, Annemarie, Mitchell, Josephine, and Étienne, to name a few.
+
+**CSD-6868:** That's a whole lot more than I thought.
+
+**RPC-929-1:** Sadly, all of them except Esmée got brutally killed by Gehnich.
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Most of the names I mentioned were just animals, by the way. You and Ésmee are the only human foreigners here.
+
+**CSD-6868:** //Oh!// Oh, fucking hell, thank God. You got me scared for a sec there.
+
+**RPC-929-1:** No cursing.
+
+**CSD-6868:** Sorry.
+
+##8f8f8f|[…]##
+
+**CSD-6868:** Who's Gehnich?
+
+**RPC-929-1:** A very bad man.
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [4/12/19] ALTR-929-A4" hide="[-] Exploration Log [4/12/19] ALTR-929-A4"]]
+------
+[[=]]
++++ **<Continue Log, [4/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+**CSD-6868:** And that’s when- (//laughs//) that’s when the- (//laughs//) when the damn cat puked on her dress. It was spilling everywhere! You should’ve seen her face!
+
+**RPC-929-1:** Poor dress!
+
+**CSD-6868:** No, you see, it’s funny because my mother-in-law was an absolute slag. And that dress ain't anywhere near high cotton. I mean, you should've seen it with your own eyes, it was putri-
+
+##8f8f8f|**[**//RPC-929-1 hides behind a bush and pulls CSD-6868 into it.//**]**##
+
+**RPC-929-1:** (//Whispering//) Shhhh…
+
+**CSD-6868:** What’s going on?
+
+##8f8f8f|**[**//Faint unsynchronized orchestra begins emanating.//**]**##
+
+**RPC-929-1:** Gehnich is here.
+
+**CSD-6868:** You can’t be talking abo--
+
+##8f8f8f|**[**//CSD-6868 is paralyzed.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 15px;  padding:10px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 2px solid #D9D9D9;"]]
+[[=]]
+------
+[[size 175%]] BEWARE THE MASKED UMBRA[[/size]]
+------
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/Umbra2.png width="160px"]]
+Beware the ill reaper of the dark who calls himself Gehnich. The grim lord of death tramples on creation to take back what's not his.
+[[/div]]
+[[/=]]
+
+**CSD-6868:** Oh good Go--
+
+**RPC-929-1:** //Shhh!//
+
+##8f8f8f|**[**//RPC-929-2 appears on the distance.//**]**##
+
+**RPC-929-2:** Don’t go. Don’t go. Don’t go. Don’t go. Don’t go. Don’t go. Don’t go · · ·[[footnote]] Audio analysis revealed that RPC-929-2 was originally speaking in German. The audio transcription automatically translated its dialogue into English as a result of the LCQ machine. [[/footnote]]
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/GehnichFog.jpeg|align=center|width=300px|caption= 929A004]]
+
+**RPC-929-2:** Don’t go. Don’t go. Don’t go. Don’t go. Don’t go. Don’t go · · · 
+
+##8f8f8f|**[**//RPC-929-2 loads its pistol.//**]**##
+
+**RPC-929-2:** Don’t go. Don’t go. Don’t go · · ·
+
+##8f8f8f|**[**//RPC-929-2 aims the pistol at an empty area.//**]**##
+
+**RPC-929-2:** You’re not supposed to be here. You’re not supposed to be here. You’re not supposed to be here. You’re not supposed to be here · · ·
+
+**RPC-929-2:** You’re not supposed to- I- I- see.
+
+##8f8f8f|**[**//RPC-929-2 aims its pistol at RPC-929-1.//**]**##
+
+**RPC-929-2:** Don’t g--
+
+##8f8f8f|**[**//Bell ringing.//**]**##
+
+##8f8f8f|**[**//3 spears impale RPC-929-2’s right arm. RPC-929-2 recoils and drops its pistol before screeching in pain.//**]**##
+
+**RPC-929-1:** //Die! Die! Die!//
+
+##8f8f8f|**[**//Bell ringing.//**]**##
+
+[[div style="display: inline-block; background: #91150c; color: #ffee59; float:center; font-family: 'Times'; font-size: 17px;  padding:10px 15px; margin: 10px 35px 10px 35px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid;"]]
+[[=]]
+┉┉┉┉┉┉┉┉┉┉┉┉[[size 200%]]✵[[/size]]┉┉┉┉┉┉┉┉┉┉┉┉
+   Cannon to right of them,
+Cannon to left of them,
+Cannon in front of them
+   Volleyed and thundered;
+Stormed at with shot and shell,
+Boldly they rode and well,
+Into the jaws of Death,
+Into the mouth of hell
+   Rode the six hundred.
+┉┉┉┉┉┉┉┉┉┉┉┉[[size 200%]]✵[[/size]]┉┉┉┉┉┉┉┉┉┉┉┉
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//6 live cannons surround RPC-929-2 and begins firing one by one. RPC-929-2 is hit by every roundshot before collapsing.//**]**##
+
+**CSD-6868:** //What the hell was that!?//
+
+**RPC-929-1:** I… I--
+
+**CSD-6868:** Camille, was that you?
+
+##8f8f8f|**[**//RPC-929-2 revives and aims its pistol at RPC-929-1.//**]**##
+
+**RPC-929-2:** Don't go.
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+**RPC-929-2:** You're not suppo-
+
+##8f8f8f|**[**//CSD-6868 kicks RPC-929-2 in the back.//**]**##
+
+**CSD-6868:** //Holy shit holy shit holy shit.//
+
+##8f8f8f|**[**//CSD-6868 kicks RPC-929-2 8 more times before grabbing RPC-929-1 and running away.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] I'm afraid of sleeping... [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//A butterfly is following CSD-6868.//**]**##
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+> ##red|{{**CAMERA SYSTEM OFFLINE…**}}##
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+**CSD-6868:** //H-holy shit--//
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+**CSD-6868:** //Your head... He shot you in the--//
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+**CSD-6868:** (//panting//) Y-you're g-gonna be okay. //Please hold tight, please hold tight.//
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+> ##lime|{{**CAMERA SYSTEM ONLINE**}}##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** He missed you. (//Panting//) Thank God he missed you. You're okay.
+
+**CSD-6868:** Holy-- (//panting//) Holy shit.
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Thank you.
+
+**CSD-6868:** Did you do that? All the bell ringing and the fucking cannons dropping into him? That was fucking ama-
+
+**RPC-929-1:** ... No cursing.
+
+**CSD-6868:** No cursi... (//laughs//) ##8f8f8f|**[**//CSD-6868 pats RPC-929-1's head.//**]**## You're still on about that. Okay, okay, I promise I won't swear from now on. Just don't let the swords impale me out of nowhere, m'kay?
+
+##8f8f8f|**[**//CSD-6868 lies down next to RPC-929-1.//**]**##
+
+**CSD-6868:** I didn’t expect to see him so early. 
+
+**RPC-929-1:** You know about him? 
+
+**CSD-6868:** Yeah. He’s one of the two things the Authority told me to avoid. Y’know, RPC.
+
+**RPC-929-1:** What’s the other one?
+
+**CSD-6868:** Well… you.
+
+**RPC-929-1:** //Pffth-- (giggles//)
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [5/12/19] ALTR-929-A5" hide="[-] Exploration Log [5/12/19] ALTR-929-A5"]]
+------
+[[=]]
++++ **<Continue Log, [5/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** It’s been two days since the beginning of our journey. Mornin' Milhouse.
+
+**RPC-929-1:** Who's Milhouse?
+
+**CSD-6868:** He's the uh, supervisor of my trip. All this footage's gonna go straight to him once I find a way outta here. Say hi to him for me.
+
+**RPC-929-1:** Hello!
+
+**CSD-6868:** Follow the yellow brick road. Just like in The Wizard of Oz.
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/IntoTheRoad.jpeg|align=center|width=300px|caption= 929B03]]
+
+**CSD-6868:** … This camera does not make the road look yellow.
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** The flowers here are pretty.
+
+**CSD-6868:** Hm. Smells decent. Don't pick any of them up.
+
+**RPC-929-1:** I won't.
+
+**CSD-6868:** How far are we from the city?
+
+**RPC-929-1:** We'll be there soon.
+
+**CSD-6868:** Alrighty then.
+
+**RPC-929-1:** The closer we get to the city, the more dangerous the forest will become.
+
+**CSD-6868:** How so?
+
+**RPC-929-1:** There are random booby traps near the roads that explode just in case there are dragons nearby.
+
+**CSD-6868:** Ain't it a trouble to put landmines in a public road?
+
+**RPC-929-1:** I don't understand why they did that either...
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Are you afraid of blood, Mister George?
+
+**CSD-6868:** I've seen my fair share of it the past few years. You get used to it, as sad as that sounds.
+
+**RPC-929-1:** ... Whenever I see it, I feel like vomiting. And when I saw the red dress--
+
+**CSD-6868:** My mother-in-law? It was actually blue before- (//short chuckle//) -before it got puked on.
+
+**RPC-929-1:** No, it was-- 
+
+##8f8f8f|[…]##
+
+**CSD-6868:** Are you alright, Camille?
+
+**RPC-929-1:** ##8f8f8f|**[**//Rubs forehead.//**]**## S-sorry. I almost had a bad thought.
+
+**CSD-6868:** Hold on tight there, you wouldn't wanna lose yourself, eh?
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Are you bored?
+
+**CSD-6868:** In a place like this, there ain't a dull moment.
+
+**RPC-929-1:** But life can be full of adventures, can't it?
+
+**CSD-6868:** What is that supposed to mean?
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+**RPC-929-1:** Look behind!
+
+**CSD-6868:** What?
+
+##8f8f8f|**[**//Dragon roaring//**]**##
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:0px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid #6D6D6D;"]]
+[[=]]
+[[size 200%]] VOILÀ? [[/size]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/SaintGeorgeFight.jpeg width="180px"]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** //Oh man what the hell!?//
+
+##8f8f8f|**[**//CSD-6868 runs away.//**]**##
+
+**CSD-6868:** //What the actual hell?// Holy sh-sh-
+
+**RPC-929-1:** You're a brave knight! You can slay it!
+
+**CSD-6868:** //Are you out of your damn mind?// There’s no way I’m fighting that dragon.
+
+**RPC-929-1:** You fought Gehnich!
+
+**CSD-6868:** All I did was kick him! How the f-f-- am I supposed to beat this thing?
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//A spear and kite shield drops next to CSD-6868.//**]**##
+
+**CSD-6868:** //What the hell am I supposed to do with just this?//
+
+[[div style="display: inline-block; background: #edeadf; color: black; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:0px 50px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid #black;"]]
+[[=]]
+[[size 150%]] ⤹ This. [[/size]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/DoThisGeorge.png width="280px"]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** Is that supposed to be a joke?
+
+##8f8f8f|**[**//Dragon roaring//**]**##
+
+**CSD-6868:** I-I'm not doing this. //I'm not doing this. I'm not doing this.//
+
+**RPC-929-1:** You can do it! You can do it! 
+
+**CSD-6868:** Just do th-the thing, with the bell ringing, and the spears. //I'm-I'm not doing this.//
+
+**RPC-929-1:** George… This is very serious. //The dragon is going to kill me now.//
+
+##8f8f8f|**[**//CSD-6868 grabs RPC-929-1 and attempts to run away.//**]**##
+
+**CSD-6868:** We should run. We should run. We sho--
+
+##8f8f8f|**[**//RPC-929-1 breaks away from CSD-6868 and run towards the dragon.//**]**##
+
+**CSD-6868:** //What the hell are you doing!? I'm f-f--freaked up here! We need to run!//
+
+##8f8f8f|**[**//RPC-929-1 looks back to see CSD-6868’s reaction.//**]**##
+
+**RPC-929-1:** Help, Help!
+
+##8f8f8f|**[**//CSD-6868 picks up the spear and kite shield.//**]**##
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Are you okay, George?
+
+**CSD-6868:** The dragon's not doing anything...
+
+##8f8f8f|**[**//RPC-929-1 punches the dragon, causing it to roar.//**]**##
+
+##8f8f8f|**[**//CSD-6868 runs away, ignoring RPC-929-1.//**]**##
+
+**RPC-929-1:** //Chicken! Chicken! Chicken! Coward! Scaredy cat!//
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [5/12/19] ALTR-929-A6" hide="[-] Exploration Log [5/12/19] ALTR-929-A6"]]
+------
+[[=]]
++++ **<Continue Log, [5/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** Y'know, I never asked you.
+
+**RPC-929-1:** Yeh?
+
+**CSD-6868:** Where're your parents?
+
+**RPC-929-1:** Hmm?
+
+**CSD-6868:** Your parents.
+
+##8f8f8f|[...]##
+
+**CSD-6868:** You have parents, don't you? You've been out here for so long, they'd be worried. Don't you think?
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** We're here.
+
+**CSD-6868:** What?
+
+**RPC-929-1:** We're here.
+
+**CSD-6868:** We're still in the forest. You said we're going to the city.
+
+**RPC-929-1:** //I said// we're here.
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] What kind of question is that anyway? [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+**CSD-6868:** Okay, okay. (//Sigh//) Is it a secret entrance to this city or what? There’s only trees here.
+
+**RPC-929-1:** We need a uh…
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** We need Grand Sorcier Blanchette to enter!
+
+**CSD-6868:** You’re just making stuff up.
+
+**RPC-929-1:** Remember who's the tour guide. He’s really here. He’s one of the guardians of Villeville.
+
+**CSD-6868:** Well, where’s he now? 
+
+**RPC-929-1:** He only appears when you shout his name.
+
+**CSD-6868:** If you say so.
+
+**RPC-929-1:** //Monsieu--//
+
+**CSD-6868:** //Monsieur Blan--//
+
+**RPC-929-1:** No no no. Together, Mister George. Ready?
+
+**RPC-929-1 and CSD-6868:** //Monsieur Blanchette !//
+
+**Villevillian-1:** Quelqu'un m'appelle ! Qui est-ce ? ##8f8f8f|Someone is calling me! Who is it?##
+
+**CSD-6868:** Huh.
+
+**RPC-929-1:** C'est seulement moi et un nouvel ami. ##8f8f8f|It's just me and a new friend.##
+
+**Villevillian-1:** Ah, votre majesté, je suis très heureux de vous revoir. ##8f8f8f|Ah, your majesty, I am very happy to see you again.##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/GrandWizard.jpeg|align=center|width=300px|caption= 929B04]]
+
+**Villevillian-1:** Et qui avez-vous amené ? ##8f8f8f|And who did you bring?##
+
+**RPC-929-1:** Il s'appelle George, c'est l'américain venant de la RPC. ##8f8f8f|His name is George, he is an American from RPC.##
+
+**CSD-6868:** Bonjour !
+
+**Villevillian-1:** Tout ami de la reine est le bienvenu dans son royaume. ##8f8f8f|Any friend of the queen is a welcomed to her kingdom.##
+
+**CSD-6868:** Thank you, thank you. So, which way to the city?
+
+**Villevillian-1:** Vous devez dire le mot magique. ##8f8f8f|You have to say the magic word.##
+
+**RPC-929-1:** You have to say the magic word. 
+
+**CSD-6868:** Which is...?
+
+**RPC-929-1:** A letter shaped like a ring, another word for “listen”, what you use to see, the thirteenth letter of the alphabet, the number that comes after one, Instanbul’s original name.
+
+**CSD-6868:** O hear eye… M two Constantinople… Oh! Here I am to Constantinople!
+
+##8f8f8f|**[**//A loud boom emanates the area.//**]**##
+
+##8f8f8f|**[**//Static//**]**##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/ErrorCam.jpeg|align=center|width=300px|caption= > [RESTART CAMERA] ]]
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+**CSD-6868:** Dammit dammit not again! Not again!
+
+**CSD-6868:** Test test test test. Wait— //Camille! Where are you!//
+
+**RPC-929-1:** Right here.
+
+**CSD-6868:** Don’t scare me like that.
+
+**RPC-929-1:** Your fault for not turning around.
+
+**CSD-6868:** Do we have to teleport that way every time we go into the city?
+
+**RPC-929-1:** No that was just a shortcut.
+
+**CSD-6868:** And Blanchette just happened to be there?
+
+**RPC-929-1:** No, we could always call him whenever we wanted.
+
+**CSD-6868:** So that entire journey was…
+
+**RPC-929-1:** It was fun?
+
+**CSD-6868:** //Pfft- (chuckles//) yeah okay sure. 
+
+**RPC-929-1:** Oh yeah! Bienvenue dans la ville souveraine de Villeville ! ##8f8f8f|Welcome to the sovereign city of Villeville.##
+
+[[div class="villeville"]]
+
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 32px"]]Bienvenue à[[/span]]
+[[size 130%]]VILLEVILLE[[/size]]
+[[size 50%]]la ville souveraine[[/size]]
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//CSD-6868 stretches to get a better view.//**]**##
+
+**CSD-6868:** Wow.
+
+**RPC-929-1:** Pretty cool //right? Amiright? Amiright?//
+
+**CSD-6868:** Hold on let me fix my camera, I need to take a picture of this.
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+**RPC-929-1:** I’m going off now. //Fooollow me~//
+
+**CSD-6868:** Wait up! 
+
+**RPC-929-1:** No!
+
+**CSD-6868:** Camille wait! 
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+> ##red|{{**CAMERA SYSTEM OFFLINE…**}}##
+
+> ##lime|{{**CAMERA SYSTEM ONLINE**}}##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/LaVilleVille.jpeg|align=center|width=300px|caption= 929D012]]
+
+**CSD-6868:** There we go! 
+
+**CSD-6868:** Just where has she run off to?
+
+##8f8f8f|**[**//CSD-6868 wanders Villeville for 58 minutes.//**]**##
+
+**Villevillian-2:** Voyez-vous l'homme la-bas ? Il est bizarre... ##8f8f8f|Do you see the man over there? He's weird...##
+
+##8f8f8f|**[**//Villevillian crowd murmuring.//**]**##
+
+**Villevillian-3:** Il n'est pas d'ici. ##8f8f8f|He's not from here.##
+
+**Villevillian-4:** Un étranger ? Il ne devrait pas être ici. ##8f8f8f|A stranger? He shouldn't be here.##
+
+##8f8f8f|**[**//CSD-6868 keeps wandering.//**]**##
+
+[[div style="display: inline-block; background:white; color: black; float:center; font-family: 'Times'; font-size: 15px;  padding:10px 70px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 8px double;"]]
+[[=]]
+------
+[[size 180%]]It's this way George. ☞[[/size]]
+------
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/ThisWayGeorge.png width="160px"]]
+[[/=]]
+[[/div]]
+
+
+**Villevillian Guard:** Vous voilà ! ##8f8f8f|Here you are!## Are you George T. █████, monsieur?
+
+**CSD-6868:** ... Yes.
+
+**Villevillian Guard:** The duchess wants an audience with you.
+
+**CSD-6868:** Duchess, huh.
+
+**Villevillian Guard:** Follow me, sir.
+
+##8f8f8f|**[**//CSD-6868 follows the Villevillian guard to a large marble palace lined with gold.//**]**##
+
+**CSD-6868:** (//Whistles//) So this is where the queen and duchess live? My God, this is just-
+
+##8f8f8f|**[**//The Villevillian guard nods.//**]**##
+
+**CSD-6868:** ##8f8f8f|**[**//Shaking the LCQ camera to work.//**]**## Aw, c'mon, work. 
+
+##8f8f8f|**[**//CSD-6868 encounters RPC-929-1 giving a boquet to PoI-929A.//**]**##
+
+**RPC-929-1:** There he is! 
+
+##8f8f8f|**[**//PoI-929A approaches CSD-6868.//**]**##
+
+**PoI-929A:** It is a pleasure to meet you, ##8f8f8f|**[**//Curtsy//**]**## welcomed guest. I'm sure you know my name already.
+
+**CSD-6868:** ##8f8f8f|**[**//Bow//**]**## George T. █████. I’ve heard a lot about you from your friend here.
+
+**PoI-929A:** It isn’t often this kingdom sees another foreigner. Human no less, sir █████, we have much to discuss.
+
+**RPC-929-1:** He’s a worker from RPC. Like those birdy-bots I showed you.
+
+**PoI-929A:** Yes, we’ve seen quite a few encounters from the Authority. Never would we have expected them to send one of their own here! Please... come inside. 
+
+##8f8f8f|**[**//PoI-929A, RPC-929-1 and CSD-6868 enter the palace.//**]**##
+
+[[div style="display: inline-block; background: black; color: white; float:center; font-family: 'Tangerine', cursive; font-size: 18px; padding: 10px 80px 20px; margin: 10px 35px 10px 35px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid #e6ca3e;"]]
+[[=]]
+##d622a9|❀## ##2276d6|❁##[[size 200%]]##white|✿##[[/size]]##ded012|❁## ##de2312|❀##
+
+------
+[[size 225%]]" Qu'es-tu? Pourquoi es-tu ici? "[[/size]]
+------
+
+##de2312|❀## ##ded012|❁##[[size 200%]]##white|✿##[[/size]]##2276d6|❁## ##d622a9|❀##
+
+[[/=]]
+
+[[/div]]
+
+**PoI-929A:** Camille, pouvez-vous regarder le parlement ? Il y a une réunion de généraux qui attendent votre présence. ##8f8f8f|Camille, can you please look over the parliament? There's a meeting of generals there waiting for your attendance.##
+
+**RPC-929-1:** Okay.
+
+##8f8f8f|**[**//RPC-929-1 runs off.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** You’re an outsider too, like me.
+
+##8f8f8f|**[**//PoI-929A stares at CSD-6868.//**]**##
+
+**PoI-929A:** (//Whispering//) //Oh mon Dieu, ça ne devrait pas arriver. Non, cela ne devrait pas arriver. Pourquoi maintenant? Pourquoi maintenant? Doux Seigneur- ##8f8f8f|Oh my God, this shouldn't happen. No, this shouldn't be happening. Why now? Why now? Sweet Lord-##//
+
+##8f8f8f|**[**//PoI-929A walks around anxiously.//**]**##
+
+**PoI-929A:** Vous n'êtes pas censé être ici... Vous-vous n'êtes pas censé être ici. ##8f8f8f|You're not supposed to be here... You-you are not supposed to be here.##
+
+**CSD-6868:** Sorry?
+
+**PoI-929A:** Why-why are you here? What business does the Authority want here? //What do you plan on doing to me? To Camille?// I thought all those drones should've been enough. //J'aurais dû les détruire. J'aurais dû... ##8f8f8f|I should've destroyed them. I should've...##//
+
+**CSD-6868:** I'm not planning anything. I'm only here because she was my guide.
+
+**PoI-929A:** No, no. You-you’re planning something no? To-to hurt us in some way that benefits them. ##8f8f8f|**[**//PoI-929A points at the camera.//**]**## It's al-always the same story, again and again.
+
+**CSD-6868:** It's nothing like that. I couldn't give less of a shit about the Authority. I'm not gonna hurt anyone here. 
+
+**PoI-929A:**  That suit, I-- know what you are. Even if you're not loyal to the Authority you crooks will-will abuse-- I can //not// let that happen.
+
+**CSD-6868:** Calm down. L-look I'm not gonna-
+
+**PoI-929A:** Lis-listen carefully, George. ##8f8f8f|**[**//Bell ringing//**]**## You will not do anything to me or Camille. I will send you back to those-those //sh-shitbags//. 
+
+##8f8f8f|**[**//PoI-929A materializes a sword out of her boquet.//**]**##
+
+**CSD-6868:** //Jesus-//
+
+**PoI-929A:** You’re going back home, dead or alive. 
+
+**CSD-6868:** Look- ##8f8f8f|**[**//Walks back and accidentally knocks over a pot.//**]**## -I don’t want any trouble. Y-you got this all wrong.
+
+##8f8f8f|**[**//PoI-929A points her sword at CSD-6868.//**]**##
+
+**CSD-6868:** I... it's- I-- 
+
+**PoI-929A:** Those RPC bastards, they don’t give a //shit// about you, they won-won’t care if I— if I— 
+
+##8f8f8f|**[**//PoI-929A draws closer to CSD-6868.//**]**##
+
+**PoI-929A:** I will-will give the Authority what they want, what they sent you here to do. //Are you really just going to stand here and--//
+
+##8f8f8f|**[**//CSD-6868 unseathes his knife.//**]**##
+
+**CSD-6868:** //Back off!// 
+
+##8f8f8f|[...]##
+
+**PoI-929A:** ... They didn’t even give you a gun… They really did send you here to die. 
+
+##8f8f8f|**[**//PoI-929's sword demateriallizes.//**]**##
+
+##8f8f8f|**[**//PoI-929A hides her face.//**]**##
+
+**PoI-929A:** I’m sorry. (//sniffles//) I’m sorry. I’m sorry. //I’m sorry, I’m sorry, I’m sorry I’m sorry.// I don-don't know what came over me.
+
+##8f8f8f|[…]##
+
+**CSD-6868:** ##8f8f8f|**[**//Seathes knife//**]**## (//Sigh//) Forget this ever happened.
+
+**PoI-929A:** I'm sorry sir, (//sniffles) I'm sorry.//
+
+**CSD-6868:** It's alright, forget it.
+
+##8f8f8f|[…]##
+
+**PoI-929A:** Let me-- Let me get you a room in this palace somewhere.
+
+##8f8f8f|**[**//CSD-6868 follows PoI-929A.//**]**##
+
+**PoI-929A:** ... What day is it?
+
+**CSD-6868:** What?
+
+**PoI-929A:** Outside. What day is it?
+
+**CSD-6868:** It's December 5th, 2019.
+
+##8f8f8f|[…]##
+
+**PoI-929A:** Tout a disparu maintenant. ##8f8f8f|Everything is gone now.##
+
+##8f8f8f|**[**//PoI-929A covers her face.//**]**##
+
+**PoI-929A:** //I'm sorry. I'm sorry. I'm sorry. I'm sorry--//
+
+**CSD-6868:** Look, I said forget it-
+
+**RPC-929-1:** I'm back, the generals said they needed you to fix some issues with the Bubbleheads.
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Are you okay Esmée? 
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [9/12/19] ALTR-929-A7" hide="[-] Exploration Log [9/12/19] ALTR-929-A7"]]
+------
+[[=]]
++++ **<Continue Log, [9/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** Let's use this camera, eh?
+
+**PoI-929A:** The Authority one?
+
+**CSD-6868:** Why not? On a count of three. One… Two…
+
+**CSD-6868:** Say 'ouistiti' !
+
+**RPC-929-1 and PoI-929A:** //Ouistiti !//
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/Cami&Esme.jpeg|align=center|width=300px|caption= 929D011]]
+
+**RPC-929-1:** Do I look nice?
+
+**CSD-6868:** (//Laughs//) No. 
+
+**PoI-929A:** Ta gueule. ##8f8f8f|Shut up.##
+
+**CSD-6868:** Look at it yourself, blame the camera. 
+
+**RPC-929-1:** (//Groans//) Again!
+
+**CSD-6868:** You got any idea how long it takes for this damn camera to reload? There's a reason I don't take pictures every five seconds.
+
+**RPC-929-1:** Again!
+
+**CSD-6868:** ... Ta gueule. ##8f8f8f|Shut up.##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [10/12/19] ALTR-929-A8" hide="[-] Exploration Log [10/12/19] ALTR-929-A8"]]
+------
+[[=]]
++++ **<Continue Log, [10/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** —so don’t worry about it, take this as more of an informal interview. Your grace, you're the spotlight of the day, everyone wants to know all about ya.
+
+**PoI-929A:** (//Scoffs//) Have you done interviews before?
+
+**CSD-6868:** Oh, yeah. I've done tons of them in my line of "work". (//Whispering//) Usually while those Research div scientists are hiding behind bulletproof glass planes.
+
+**PoI-929A:** (//Laughs//) I’m surprised you lived this long then, sir.
+
+**CSD-6868:** Guess I’m just born lucky. Let’s see now, Esmée Jean Carina, you're the current quee-
+
+**PoI-929A:** Duchess.
+
+**CSD-6868:** Duchess of this kingdom, eh? What’s your relation with Camille? You both share the same last names after all.
+
+**PoI-929A:** No, we’re not related, no matter how much she may try to convince you otherwise. I was “adopted” as her own, I should say.
+
+**CSD-6868:** Sounds like an interesting story.
+
+**PoI-929A:** It is, no? But oh, it’s a looong story, sir. I wouldn’t want to waste your time with it. 
+
+**CSD-6868:** I’m sure a quicky is fine. Unless you wanna dive further into it. Hey, your choice.
+
+[[div style="display: inline-block; background:#728f4a; color: #ffe68a; float:center; font-family: 'Merriweather', serif; font-size: 30px;, cursive; font-size: 15px;  padding:10px 80px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 6px groove #ffe68a;"]]
+
+[[=]]
+{{TALE #1:}}
+[[size 180%]] The Lady of Orléans [[/size]] 
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/TheLady.jpeg width="150px"]]
+[[/=]]
+
+[[/div]]
+
+**PoI-929A:** Before the jolly milieu of the sovereign kingdom, this land was a desolate and grey wasteland where only butterflies thrived. I woke up one day to an empty world, wandering around for what felt like an eternity, searching for a way to return. I was on the verge of giving up when the abyss himself came and reintroduced me to the fear of death. I ran, I ran as fast as I could to escape the jaws of death. It was at this point, I was captured by the Bubblehead kingdom.
+
+**CSD-6868:** Bubblehead?
+
+**PoI-929A:** Funny and mischievous things they are. Let me erm--
+
+[[div style="display: inline-block; background:#c7ede1; color: #1b4b7a; float:center; font-family: 'Merriweather', serif; font-size: 13px;  padding:0px 15px; margin: 10px 40px 10px 40px; border: 6px solid; box-shadow: 0px 3px 4px 2px #000000;"]]
+[[f>image http://rpcauthority.wikidot.com/local--files/rpc-929/BubbleHead.png width="140px"]]
+@@ @@
+[[size 200%]]__Bubbleheads__ [◌][[/size]]
+
+Aristocratic vampires of the outside planes, most distinguished by their soapy skin surrounded by a large, durable bubble. The best way to make peace with a Bubblehead is to leave out half of your food at night so they may feast on it instead of your blood.
+[[/div]]
+
+**PoI-929A:** They took me as a prisoner for ransom. News of this “foreign human girl” spread far and wide, never once has this kingdom seen such a thing before. That’s of course, when she came, a full marching army of knights and musketeers behind her. She looked at the Bubblehead kingdom and shouted (//mimicking RPX-929-1’s voice//) //“As the sovereign ruler of the imaginaria, I demand you to release the foreigner or get trampled on by my soldiers!"//
+
+**CSD-6868:** (//Chuckles//) I can’t imagine her saying that.
+
+**PoI-929A:** ... She was bluffing, of course, but it did make an impression on me and the Bubbleheads. That’s when she decided to adopt me as hers and changed her name accordingly. 
+
+**CSD-6868:** So, that's it?  How did you become a duchess?
+
+**PoI-929A:** She tried to make me queen, but I refused. I had a feeling she was trying to impress me by promoting me over and over until there was nothing left to promote. She’ll do the same thing to you, likely.
+
+**CSD-6868:** I’ll uh, pass. I ain’t planning on staying for long anyways.
+
+##8f8f8f|**[**//PoI-929A nods.//**]**##
+
+**CSD-6868:** What was life like before you came here?
+
+**PoI-929A:** Oh... (//Sigh//) Where do I even begin...?
+
+##8f8f8f|[...]##
+
+**PoI-929A:** Where I used to live, I wasn't very loved…
+
+##8f8f8f|**[**//PoI-929A reveals a silver necklace.//**]**##
+
+**PoI-929A:** My mother gave it to me a long time ago before she left, its shine is all gone now. It's been fifty-two years since I left... Out there time goes on, corroding everything you hold dear, I'm sure there's nothing left for me there. But here, things don't move on, I don't have to live for myself anymore. There is someo- people that need me.
+
+**CSD-6868:** Did you ever try to go back?
+
+**PoI-929A:** Of course I did. It's impossible though... Even if I could, why would I? This world she made, it truly is a dream, no? Everything we ever could want to appear right before our eyes. If you set your mind to it, you can create anything you want here, and shape it to your will.
+
+**CSD-6868:** Well...
+
+**PoI-929A:** ##8f8f8f|**[**//PoI-929A readjusts her seat.//**]**## When I first came here, do you know what was the first thing Camille said to me? ##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//A white rose materializes out of PoI-929A's palm.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] Long have waited for someone else to share my dreams with. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] Now that you're here, I'll never be alone again. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//PoI-929A gives CSD-6868 the rose.//**]**##
+
+**PoI-929A:** (//Giggles//) I'm getting sentimental just thinking about it. Those words meant a lot to me, now that I have a new place in life. Your coming is more important than you realize, sir.
+
+**CSD-6868:** ##8f8f8f|**[**//CSD-6868 looks at the rose.//**]**## Creation out of thin air...  How does it work?
+
+**PoI-929A:** This world isn’t unlike a dream see? Everything you see, hear, touch, it's all a part of Camille's mind. Understand it, and through sober lucidity the bells ring for you. //Ding dong~// ##8f8f8f|**[**//Bell ringing//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+It's a dream.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**CSD-6868:** Camille's mind?
+
+**PoI-929A:** It surprised me too, I once took her for a god.
+
+**CSD-6868:** Then, how is all of this happening? What is this place exactly?
+
+**PoI-929A:** I don't know... I don’t want to know. 
+
+##8f8f8f|[...]##
+
+**PoI-929A:** Eh bien, tout est bien qui finit bien. ##8f8f8f|Well, all's well that ends well.##
+
+**PoI-929A:** Let me ask //you// a question now, since you're leaving soon. You’ve only been here for eight days, there’s still a lot to enjoy about this place.
+
+**CSD-6868:** The boys at RPC still expect me to find an exit out of here somewhere before the twelfth day of my survey.
+
+**PoI-929A:** What will happen on the twelfth day?
+
+**CSD-6868:**  Who knows? Maybe they’ll send a drone to search for my corpse, at worse, the Authority comes in with their {{**[REDACTED]**}} ... You said it yourself, they expected me to die here. I ain’t taking the risk.
+
+**PoI-929A:** There is no real escape out of this world.
+
+**CSD-6868:** There has to be.
+
+**PoI-929A:** The only way for you to resurface to the outside world is to either die at the hands of Gehnich or let him kill Camille.
+
+**CSD-6868:** Oh //Christ.//
+
+**PoI-929A:** ... Still, there may be another way out. I've taken this path before, but I don't know if it works.
+
+**CSD-6868:** Hm?
+
+**PoI-929A:** There’s an old train station on the city’s edge, here long before la Ville was erected. It’s managed by the butterflies.
+
+**CSD-6868:** Butterflies…
+
+**PoI-929A:** Those butterflies, they have tiny little faces like a lady’s, and they laugh in the dark— all weird and shady things. Camille mistakes them for an angel, but I know better. They're malicious little creatures, but are willing to help foreigners any chance they get. They know the way out, follow their laughter and you'll escape.
+
+**CSD-6868:** I don’t think I understand what you’re saying.
+
+**PoI-929A:** You and I aren’t the only foreigners to have come here, and Camille wasn't the first god here either. There were those who came out before me, or at least that’s what the butterflies told me. Sounds more like a fairy tale to me, but it is possible. 
+
+**CSD-6868:** That’s a bit cryptic, ain’t it?
+
+**PoI-929A:** (//Laughs quietly//) It is. I tried it myself, but had a change of heart halfway along the way. The train only goes to one destination, it doesn’t matter which ticket you take. It all ends to Exatoria. 
+
+**CSD-6868:** What's that?
+
+**PoI-929A:** Exatoria is a desert distant from sovereignty. The bells there don't ring as well as it does here, when the ringing is silent, you'll know you're there.
+
+**CSD-6868:** I’ll... try my luck there, then.
+
+**PoI-929A:** I’d be happy to get rid of you.
+
+**CSD-6868:** Wow, //thanks.//
+
+**PoI-929A:** I don’t trust you, but Camille does. If she notices that you are gone, bad things will happen. That's not to mention the train, the people there have lived in the edge of the imaginaria for so long their minds and bodies are aloof, they're mere servants of the butterflies.
+
+**CSD-6868:** Whatever they are, they can't compare to the Authority. I have to go.
+
+**PoI-929A:** We can deal with them later. For now, I beg you to stay a little longer. You worry too much about the Authority. Isn't it likely they'll only send another drone instead of a {{**[REDACTED]**}}? They're not willing to waste another man on this survey, no?
+
+**CSD-6868:** I guess you’re right.
+
+**PoI-929A:** (//Sigh in relief//)
+
+**CSD-6868:** You seem to know a lot about the Authority.
+
+**PoI-929A:** Yes I do.
+
+**CSD-6868:** May I ask how?
+
+**PoI-929A:** Interview over, I must go back to work. How do you turn this thing off? I-
+
+**CSD-6868:** Here, here. I’ll do it.
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [11/12/19] ALTR-929-A9" hide="[-] Exploration Log [11/12/19] ALTR-929-A9"]]
+------
+[[=]]
++++ **<Continue Log, [11/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** You and I don’t have a lot of time left together eh? I’m in the station now… Against her grace's best wishes.
+
+##8f8f8f|**[**//CSD-6868 pats the camera.//**]**##
+
+[[div class="express"]]
+
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 32px"]]Trianon Concert[[/span]]
+[[size 130%]]LE PAPILLON EXPRESS[[/size]]
+[[size 50%]] DEPART tous les soirs à 5 heures 4/5[[/size]]
+[[/=]]
+[[/div]]
+
+**Express Announcement:** Voie 14, votre attention s'il vous plaît. En raison d'un incident avec les pagages passagers, le train Papillion, départ initialement prévu à 17 heures 45 est annoncé avec un retard d'environ une heure trente. Au nom de- ##8f8f8f|**[**//Loud beeping//**]**## -merci. ##8f8f8f|Track 14, your attention please. Due to an incident with the passenger cart, the Papillion express, originally scheduled to depart at 5:45 p.m. is announced to be delayed by approximately one and a half hours. On behalf of **[**//Loud beeping//**]** -thank you.##
+
+##8f8f8f|**[**//Johann Pachelbel - Cannon in D Major begins playing in the background on loop.//**]**##
+
+**CSD-6868:** An hour and a half delay hm--
+
+##8f8f8f|**[**//Crowded noise//**]**##
+
+**Passenger-1:** Usually it’s longer.
+
+**CSD-6868:** Is that so?
+
+##8f8f8f|[...]##
+
+**Passenger-1:** Say, young fellow, what are you doing in this station? Don’t you know this train only goes to one destination?
+
+**CSD-6868:** A uh, a friend of mine told me to take this train. I have some important business to attend to.
+
+**Passenger-1:** To Exatoria of all places? (//Cackle//) Don't make me laugh. 
+
+##8f8f8f|**[**//Crowded noise//**]**##
+
+**CSD-6868:** What are you planning to do in Exatoria anyways? Since you can't go back.
+
+**Passenger-1:** This old city is eating its own tail. It's not uncommon for like-minded men like me to want to escape from this Ouroboros.
+
+**CSD-6868:** So you're tired of work, is that what you're saying?
+
+##8f8f8f|[...]##
+
+**Passenger-1:** Have you seen the butterflies?
+
+**CSD-6868:** Yes?
+
+**Passenger-1:** They whisper in the dark. Call themselves angels (//scoffs//) repulsive. And our sovereign queen have the nerve to call them by that false title.
+
+##8f8f8f|[…]##
+
+**CSD-6868:** He disappeared.
+
+##8f8f8f|**[**//The music in the background slowly deteriorates in synchrony.//**]**##
+
+**Express Announcement:** The train is now approaching platform 14.
+
+**CSD-6868:** That’s our stop.
+
+##8f8f8f|**[**//The train stops, allowing passengers board in.//**]**##
+
+##8f8f8f|**[**//CSD-6868 boards the train.//**]**##
+
+##8f8f8f|[…]##
+
+**Passenger-2:** Hé, vous ! ##8f8f8f|Hey, you!##
+
+**CSD-6868:** ##8f8f8f|**[**//Points at self.//**]**## Are you talking to me?
+
+**Passenger-2:** J'ai lu des choses sur vous dans les journaux. Vous êtes un étranger, n'est-ce pas ? ##8f8f8f|I've read about you in the newspapers. You're a foreigner, aren't you?##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/BobbyHead.jpeg|align=center|width=300px|caption= 929D01]]
+
+**CSD-6868:** Étranger... Yes, I am.
+
+**Passenger-2:** Vous n'êtes pas censé être ici. ##8f8f8f|You’re not supposed to be here.##
+
+**CSD-6868:** I uh, don't quite understand.
+
+**Passenger-2:** Vous n'êtes pas censé être ici. ##8f8f8f|You’re not supposed to be here.##
+
+**CSD-6868:** Yeah, no, sorry.
+
+**Passenger-2:** //Vous n'êtes pas censé être ici. Vous n'êtes pas censé être ici. Vous n'êtes pas censé être ici.// ##8f8f8f|You’re not supposed to be here. You’re not supposed to be here. You’re not supposed to be here.##
+
+**CSD-6868:** I’ll just stay in my room, t-thank you.
+
+##8f8f8f|**[**//CSD-6868 locks himself in his room//**]**##
+
+**CSD-6868:** (//Whispering//) What the fuck was that?
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+**Passenger Attendant:** Excusez-moi, monsieur ! ##8f8f8f|Excuse me, sir!##
+
+**CSD-6868:** What is it?
+
+**Passenger Attendant:** Would you like something to eat for lunch? We have Confit de Canard or a Flamiche if you would like.
+
+**CSD-6868:** The first one, thank you. 
+
+**Passenger Attendant:** The first one being?
+
+**CSD-6868:** You... just told me what the menu is.
+
+**Passenger Attendant:** Oh, c'est vrai. ##8f8f8f|Oh, that's right.## Would you like some beverage with that? 
+
+**CSD-6868:** Just water, please.
+
+**Passenger Attendant:** Merci. ##8f8f8f|Thank you.##
+
+##8f8f8f|**[**//CSD-6868 receives his plate.//**]**##
+
+**CSD-6868:** Thank yo-
+
+##8f8f8f|**[**//Knocking//**]**##
+
+**CSD-6868:** What is it now?
+
+**Express Announcement(?):** [[footnote]] Although likely a dialogue by RPC-929-3, the voice is rendered similarly to the Express announcer. [[/footnote]] Shhh… Look into the crack.
+
+**CSD-6868:** Who said that?
+
+**Express Announcement(?):** Shhh… Look who’s knocking.
+
+##8f8f8f|**[**//Knocking//**]**##
+
+##8f8f8f|**[**//An unsynchronised version of Cannon in D Major is playing louder in the background.//**]**##
+
+**CSD-6868:** No. I'm not doing that.
+
+**Express Announcement(?):** Aren't you curious?
+
+**CSD-6868:** //Who the hell is saying that?//
+
+##8f8f8f|**[**//The knocking gets louder.//**]**##
+
+**Express Announcement(?):** Look into the crack! Look into the crack!
+
+##8f8f8f|**[**//CSD-6868 eats his meal, trying to ignore the knocking.//**]**##
+
+**Express Announcement(?):** Last chance.
+
+##8f8f8f|**[**//The knocking gets louder.//**]**##
+
+##8f8f8f|**[**//CSD-6868 peaks through the crack of his door.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:10px 110px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 1px solid #6D6D6D;"]]
+[[=]]
+Shhh... He's watching.
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/HesWatching.png width="150px"]]
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//RPC-929-2’s scythe strikes through the room door.//**]**##
+
+##8f8f8f|**[**//CSD-6868 is paralyzed but quickly regains movement.//**]**##
+
+**CSD-6868:** //Shit! Shit! Shit!//
+
+**RPC-929-2:** You’re not supposed to be here.
+
+##8f8f8f|**[**//RPC-929-2 strikes the door.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Abril Fatface', cursive; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+[[size 200%]]3[[/size]]
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//CSD-6868 attempts to break the train window open with his elbow.//**]**##
+
+**RPC-929-2:** You’re not supposed to be here. 
+
+##8f8f8f|**[**//RPC-929-2 strikes the door.//**]**##
+
+##8f8f8f|**[**//CSD-6868 bashes the window with his knife.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Abril Fatface', cursive; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+[[size 200%]]2[[/size]]
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**RPC-929-2:** Don't go.
+
+##8f8f8f|**[**//CSD-6868 blocks his room's door with as much objects as possible.//**]**##
+
+**CSD-6868:** (//Panicking//) Where the fuck did you come from!?
+
+**RPC-929-2:** ##8f8f8f|**[**//Strikes through the door.//**]**## You’re not supposed to be here. 
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Abril Fatface', cursive; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+[[size 200%]]1[[/size]]
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//Static//**]**##
+
+> ##red|{{**CAMERA SYSTEM OFFLINE…**}}##
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+**CSD-6868:** Sober lucidity… It’s a dream it’s a dream it’s a dream it’s a dream… 
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+**Express Announcement(?):** Did you think it was going to be that easy?
+
+> ##lime|{{**CAMERA SYSTEM ONLINE**}}##
+
+**Express Announcement(?):** (//Singing on beat to RPC-929-2's orchestra//) //In the imaginaria structured by the phenomenological operations of the human mind, the natural flow of time is formed by perception. Not even the dames can do it on-command, nor are they even aware it exists, yet alas, alas sir George, my lord you are--//
+
+##8f8f8f|**[**//RPC-929-2 stops striking the door.//**]**##
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//Knocking//**]**##
+
+##8f8f8f|[…]##
+
+**Passenger Attendant:** ##8f8f8f|**[**//Knocking//**]**## Excuse me, monsieur, are you alright in there?
+
+**CSD-6868:** … Y-yes I’m- I’m alright.
+
+**Passenger Attendant:** You were making a lot of noise. Would you like me to call a doctor?
+
+**CSD-6868:** I’m okay.
+
+**Passenger Attendant:** D’accord. ##8f8f8f|Okay.## You can ring the bells when you’re done with your dish.
+
+**CSD-6868:** Th-thank you.
+
+##8f8f8f|**[**//CSD-6868 opens the door to look around.//**]**##
+
+**CSD-6868:** That-that happened right? 
+
+##8f8f8f|**[**//Johann Pachelbel - Cannon in D Major stops playing.//**]**##
+
+**CSD-6868:** Did he disappear?
+
+**Passgenger-1:** That happens to people.
+
+**CSD-6868:** You again?
+
+**Passgenger-1:** Mind if I come in?
+
+**CSD-6868:** Wh-why?
+
+**Passgenger-1:** I just want a nice chat, that’s all.
+
+**CSD-6868:** Yes, I think I do mind, I’d rather be alone, sorry.
+
+**Passgenger-1:** Alright then. Again, good luck with your trip!
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 gets out of his room to inspect the other passengers.//**]**##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/TheyreLaughing.jpeg|align=center|width=300px|caption= 929D013]]
+
+**Passgenger-3:** Vous entendez les cloches ? Les anges arrivent ! ##8f8f8f|Can you hear the bells? The angels are coming!##
+
+**Passgenger-4:** (//Laughs//) 
+
+**Passgenger-3:** Vous pouvez l'entendre, n'est-ce pas ? L'ange de la mort approche ! Ce train disparaîtra bientôt. ##8f8f8f|You can hear it, can't you? The Angel of Death is approaching! This train will soon disappear.##
+
+**CSD-6868:** Are you guys alright? Did you guys see the uh--
+
+##8f8f8f|**[**//Passenger 3 and 4 begins laughing uncontrollably together.//**]**##
+
+**CSD-6868:** Have you guys seen the--
+
+##8f8f8f|**[**//Passenger 3 and 4 laugh uncontrollably.//**]**##
+
+**CSD-6868:** Gehnich?
+
+##8f8f8f|**[**//Passenger 3 and 4 stares at CSD-6868 intently.//**]**##
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 goes back into his room and locks his door.//**]**##
+
+**Passgenger-4:** //Geh nicht! Geh nicht!· · ·// ##8f8f8f|//Don't go! Don't go!· · ·//##
+
+##8f8f8f|**[**//Passenger 3 and 4 laughs uncontrollably.//**]**##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [12/12/19] ALTR-929-A10" hide="[-] Exploration Log [12/12/19] ALTR-929-A10"]]
+------
+[[=]]
++++ **<Continue Log, [12/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** I just woke up but uh, something's not right.
+
+**Express Announcement(?):** Shhh… Can you see me?
+
+**CSD-6868:** Is anyone there?
+
+##8f8f8f|**[**//Unintelligible jazz begins playing in the background.//**]**##
+
+**Express Announcement(?):** Shhh… Do you hear me?
+
+**CSD-6868:** Who’s there?
+
+**Express Announcement(?):** An aaangel~
+
+##8f8f8f|**[**//A butterfly appears in front of CSD-6868.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Enjoying the trip?
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+You're a brave boy, aren't you?
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**Express Announcement(?):** You’re not supposed to be here.
+
+**CSD-6868:** Alright I get it.
+
+**Express Announcement(?):** You must be tired of hearing that, huh?
+
+**CSD-6868:** //Who the fuck is saying that?//
+
+##8f8f8f|**[**//Loud beeping//**]**##
+
+[[div style="display: inline-block; background-color:black; color: white; float:center; font-family: 'Playfair Display', serif; font-size: 16px;  padding:5px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 2px solid"]]
+[[=]]
+[[table style="padding:12px 20px;"]]
+[[row]]
+[[cell]]
+Jenelle .F @@ @@
+##8f8f8f|--Brielle .M--## @@ @@
+Abrams .M @@ @@
+Jacob .L @@ @@
+Hubert .H @@ @@
+[[/cell]]
+[[cell]]
+Mayer .E @@ @@
+Große .A @@ @@
+Wendel .W @@ @@
+Alex .O @@ @@
+Clara .S @@ @@
+[[/cell]]
+[[cell]]
+Azélie .G @@ @@
+Nelson .O @@ @@
+Hubert .F @@ @@
+George .M @@ @@
+Pankraz .C @@ @@
+[[/cell]]
+[[cell]]
+Clotilde .Y
+Böhmer .W
+Gott .K
+Arno .X
+Maeva .K
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/=]]
+[[/div]]
+
+**Express Announcement:** Otre attention, ceci est une annonce de sécurité. Veuillez rester dans votre compartimentet verrouiller vos portes, un-##8f8f8f|**[**//Loud beeping//**]**## -s'est introduit à bord. ##8f8f8f|Attention, this is a security announcement. Please remain in your compartment and lock your doors, a-**[**//Loud beeping//**]** -has entered the train.##
+
+**CSD-6868:** W-what happened?
+
+**Express Announcement(?):** Ignore that, it already happened to you.
+
+##8f8f8f|**[**//The unintelligible jazz disintegrates into unsynchronized frenzy.//**]**##
+
+##8f8f8f|**[**//CSD-6868 panics and quickly blocks his door.//**]**##
+
+**Express Announcement(?):** Don’t waste your efforts, you already encountered him.
+
+**CSD-6868:** The //f-fuck// is that supposed to mean? He’s still in the fucking trai-
+
+##8f8f8f|**[**//Gunshot.//**]**##
+
+[[div style="display: inline-block; background-color:black; color: white; float:center; font-family: 'Playfair Display', serif; font-size: 16px;  padding:5px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 2px solid"]]
+[[=]]
+[[table style="padding:12px 20px;"]]
+[[row]]
+[[cell]]
+Jenelle .F @@ @@
+##8f8f8f|--Brielle .M--## @@ @@
+##8f8f8f|--Abrams .M--## @@ @@
+Jacob .L @@ @@
+Hubert .H @@ @@
+[[/cell]]
+[[cell]]
+Mayer .E @@ @@
+Große .A @@ @@
+Wendel .W @@ @@
+##8f8f8f|--Alex .O--## @@ @@
+Clara .S @@ @@
+[[/cell]]
+[[cell]]
+Azélie .G @@ @@
+Nelson .O @@ @@
+Hubert .F @@ @@
+George .M @@ @@
+Pankraz .C @@ @@
+[[/cell]]
+[[cell]]
+##8f8f8f|--Clotilde .Y--##
+Böhmer .W
+Gott .K
+Arno .X
+Maeva .K
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/=]]
+[[/div]]
+
+**Express Announcement(?):** Oh dear, looks like they weren’t so lucky. If only Camille was here.
+
+##8f8f8f|**[**//People screaming.//**]**##
+
+**Express Announcement(?):** Alas, only you remain. Are you going to do anything about this?
+
+**CSD-6868:** He’ll kill me. These people, they’re not real ain’t they? T-they’re part of Camille’s-
+
+[[div style="display: inline-block; background-color:black; color: white; float:center; font-family: 'Playfair Display', serif; font-size: 16px;  padding:5px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 2px solid"]]
+[[=]]
+[[table style="padding:12px 20px;"]]
+[[row]]
+[[cell]]
+Jenelle .F @@ @@
+##8f8f8f|--Brielle .M--## @@ @@
+##8f8f8f|--Abrams .M--## @@ @@
+Jacob .L @@ @@
+Hubert .H @@ @@
+[[/cell]]
+[[cell]]
+Mayer .E @@ @@
+Große .A @@ @@
+##8f8f8f|--Wendel .W--## @@ @@
+##8f8f8f|--Alex .O--## @@ @@
+Clara .S @@ @@
+[[/cell]]
+[[cell]]
+Azélie .G @@ @@
+Nelson .O @@ @@
+##8f8f8f|--Hubert .F--## @@ @@
+George .M @@ @@
+Pankraz .C
+[[/cell]]
+[[cell]]
+##8f8f8f|--Clotilde .Y--##
+Böhmer .W
+##8f8f8f|--Gott .K--##
+Arno .X
+Maeva .K
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+What difference does it make?
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//An M1911 pistol materializes out of CSD-6868’s hand.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** I-I can't do this. I c-can't do this.
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Stop stuttering.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+[[div style="display: inline-block; background-color:black; color: white; float:center; font-family: 'Playfair Display', serif; font-size: 16px;  padding:5px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 2px solid"]]
+[[=]]
+[[table style="padding:12px 20px;"]]
+[[row]]
+[[cell]]
+Jenelle .F @@ @@
+##8f8f8f|--Brielle .M--## @@ @@
+##8f8f8f|--Abrams .M--## @@ @@
+Jacob .L @@ @@
+Hubert .H @@ @@
+[[/cell]]
+[[cell]]
+##8f8f8f|--Mayer .E--## @@ @@
+Große .A @@ @@
+##8f8f8f|--Wendel .W--## @@ @@
+##8f8f8f|--Alex .O--## @@ @@
+Clara .S @@ @@
+[[/cell]]
+[[cell]]
+Azélie .G @@ @@
+Nelson .O @@ @@
+##8f8f8f|--Hubert .F--## @@ @@
+George .M @@ @@
+##8f8f8f|--Pankraz .C--## @@ @@
+[[/cell]]
+[[cell]]
+##8f8f8f|--Clotilde .Y--##
+##8f8f8f|--Böhmer .W--##
+##8f8f8f|--Gott .K--##
+##8f8f8f|--Arno .X--##
+Maeva .K
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** N-not even a c-cannon can stop him. //You know that!//
+
+##8f8f8f|**[**//People screaming//**]**##
+
+**CSD-6868:** //I know you know that!//
+
+##8f8f8f|**[**//RPC-929-2 striking through doors//**]**##
+
+**CSD-6868:** //I don't know who you are, or what you are. But I'm not gonna risk my life for something so...//
+
+##8f8f8f|[...]##
+
+**CSD-6868:** You were there, weren't you? T-the butterflies they're all--
+
+**Express Announcement(?):** (//Sigh//) Oh well.
+
+##8f8f8f|**[**//Frenzied jazz stops.//**]**##
+
+**Express Announcement:** Votre attention, veuillez vous préparer à descendre. Nous arriverons à Exatoria dans 30 minutes. ##8f8f8f|Attention, please prepare to disembark. We will arrive in Exatoria in 30 minutes. ##
+
+##8f8f8f|**[**//CSD-6868 exits his room to look around.//**]**##
+
+**Express Announcement(?):** You heard the announcement. Prepare your bag.
+
+**CSD-6868:** Where’s Gehnich? The other passengers?
+
+**Express Announcement(?):** The stop is coming soon.
+
+##8f8f8f|**[**//CSD-6868 explores train.//**]**##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/ThePapillionTrain.jpeg|align=center|width=300px|caption= 929D014]]
+
+**CSD-6868:** Where did everyone go? What's with these... butterflies?
+
+**Express Announcement(?):** They're still here.
+
+##8f8f8f|[...]##
+
+**CSD-6868:** What are you?
+
+**Express Announcement(?):** An aaaangel~
+
+**CSD-6868:** What are you really?
+
+**Express Announcement(?):** Shhh...
+
+**CSD-6868:** Answer me.
+
+##8f8f8f|**[**//Loud Beeping//**]**##
+
+**Express Announcement:** Votre attention, bienvenue à la gare d'Exatoria. L'heure locale est- ##8f8f8f|**[**//Loud Beeping//**]**## -et la température est de 15 degrés Celsius. Veuillez vérifier de n'avoir rien oublié à bord. Si vous avez besoin d'aide, veuillez appeler l'équipage de bord. Au nom du Papillion Express, nous tenons à vous remercier de vous être joint à nous pour ce voyage et nous espérons vous revoir à l'avenir. Nous vous souhaitons une bonne fin de journée. ##8f8f8f|Attention, welcome to Exatoria Station. The local time is **[**//Loud Beeping//**]** -and the temperature is 15 degrees Celsius. Please make sure you have not forgotten anything on board. If you need help, please call the crew. On behalf of Papillion Express, we would like to thank you for joining us on this trip and we hope to see you again in the future. We wish you a good end of day.##
+
+**Express Announcement(?):** It's outside.
+
+[[div class="exatoria"]]
+
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 32px"]]Destination Atteinte[[/span]]
+[[size 130%]]EXATORIA[[/size]]
+[[size 50%]]Le Bout du Monde[[/size]]
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//Ocean waving//**]**##
+
+##8f8f8f|**[**//CSD-6868 looks outside the train only to see the edge of a cliff.//**]**##
+
+**CSD-6868:** Not much of a station huh? There’s nothing here.
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Look into the edge.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+
+##8f8f8f|**[**//CSD-6868 looks down at the cliff, pointing the camera at an ocean of butterfly wings.//**]**##
+
+**Express Announcement(?):** You want to go out don’t you? Jump! Jump! Jump! Jump! Jump· · ·
+
+##8f8f8f|**[**//CSD-6868 slowly gets closer to the cliff.//**]**##
+
+**Express Announcement(?):** You know you want to do it-- The Authority will get the information they need, and Camille and that tall girl will be safe.
+
+**CSD-6868:** … No.
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+What?
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+
+**CSD-6868:** Fuck off. That’s the fucking ocean, I’m not gonna drown myself for the slither of hope I might escape.
+
+**Express Announcement(?):** What if you do escape? What if the Authority does get your information? What if they do send a team? What about-
+
+**CSD-6868:** Why should I give a shit about the Authority? //Huh?// If I shit back outta here they’ll send me into another death trap. I’m saving my own skin.
+
+**Express Announcement(?):** You came all this way for that?
+
+**Passenger-1:** They have “Authority” in their name so surely you should follow their orders.
+
+**CSD-6868:** Where the goddamn hell did you come from? Did you survive Gehnich?
+
+**Passenger-1:** It happens to people.
+
+**CSD-6868:** Wait, no, holy shit. Are there still people trapped inside? Is the attendant safe? The kids-
+
+**Passenger-1:** They all disappeared. It happens to people.
+
+**CSD-6868:** So it’s just you and me.
+
+**Passenger-1:** And the butterflies. (//Scoffs//) Repulsive.
+
+**CSD-6868:** Now that you’re here I really am gonna consider jumping into the fucking ocean.
+
+**Passenger-1:** Oh, am I bothering you? I’ll leave, then. Again, good luck with your trip!
+
+##8f8f8f|[…]##
+
+**CSD-6868:** He disappeared. And the butterflies too.
+
+##8f8f8f|[…]##
+
+**CSD-6868:** I guess I’m… Going back to the city.
+
+##8f8f8f|**[**//CSD-6868 starts his journey back to Villeville.//**]**##
+
+**CSD-6868:** //Monsieur Blanchette !//
+
+##8f8f8f|[…]##
+
+**CSD-6868:** //Monsieur Blanchette !//
+
+##8f8f8f|[…]##
+
+**CSD-6868:** Am I too far?
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+**Foreword:** Shortly before this log, LCQ Drone #5 was sent to ALTR-929 in 02:15 (GMT+2). It was immediately discovered by RPC-929-2. 
+------
+[[collapsible show="[+] Exploration Log [14/12/19] ALTR-929-A11" hide="[-] Exploration Log [14/12/19] ALTR-929-A11"]]
+------
+[[=]]
++++ **<Continue Log, [14/12/19] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**CSD-6868:** It’s been… two days since the train stopped and left me stranded to walk 3,200 miles back to the fucking station. Just my luck huh? 
+
+##8f8f8f|**[**//CSD-6868 keeps walking.//**]**##
+
+**CSD-6868:** Monsieur Blanchette—
+
+##8f8f8f|**[**//CSD-6868 keeps walking.//**]**##
+
+**CSD-6868:** Monsieur Blanchette—
+
+[[div style="display: inline-block; background:#d00000; color: white; float:center; serif; font-size: 25px;  padding:0px 100px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000;"]]
+[[=]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/KeepCalm.png width="100px"]]
+[[size 150%]] KEEP CALM [[/size]]
+AND
+[[size 150%]] CARRY ON [[/size]]
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//CSD-6868 keeps walking.//**]**##
+
+**CSD-6868:** Monsieur Blanchette—
+
+##8f8f8f|**[**//CSD-6868 keeps walking.//**]**##
+
+**CSD-6868:** Monsieur—
+
+##8f8f8f|**[**//CSD-6868 sees a party in the distance.//**]**##
+
+**Guest-1:** (//In the distance//) Lord █████! Great soul, I've been expecting you! //Come! Come!// Take a seat, anywhere you like!
+
+##8f8f8f|**[**//CSD-6868 joins the party and sits down.//**]**##
+
+**CSD-6868:** Do I know you?
+
+##8f8f8f|**[**//Party guests erupt in laughter.//**]**##
+
+##8f8f8f|**[**//A butterfly lands on CSD-6868.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Careful around them George.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**Guest-1:** Do I know you- (//laughs//) he said- he said //"do I know you." (Laughs//)
+
+**CSD-6868:** How do you know my name?
+
+**Guest-1:** How could we not!? A new human foreigner dropped into her Sovereign kingdom, everyone in town’s been talking about you my lord.
+
+**CSD-6868:** … What town?
+
+##8f8f8f|**[**//Party guests erupt in laughter.//**]**##
+
+**CSD-6868:** I-I’m sorry I don’t understand what’s going on here. What is this party?
+
+**Guest-2:** Es evidente que se trata de una fiesta del té. ##8f8f8f|This is clearly a tea party.##
+
+**Guest-3:** Ziet hij al de thee niet? ##8f8f8f|Does he not see all the tea?##
+
+**Guest-1:** You don’t seem equipped, my lord. Didn’t you read the invitation?
+
+**CSD-6868:** I don’t have one?
+
+**Guest-1:** Check your front pocket.
+
+##8f8f8f|**[**//CSD-6868 checks his front pocket.//**]**##
+
+**Guest-1:** The other one.
+
+##8f8f8f|**[**//CSD-6868 checks his other front pocket.//**]**##
+
+**CSD-6868:** There’s nothing.
+
+##8f8f8f|**[**//Guest-1 looks at his pocket watch and hums.//**]**##
+
+**Guest-1:** … Okay, now check your other front pocket.
+
+**CSD-6868:** But I already—
+
+**Guest-1:** Do it.
+
+##8f8f8f|**[**//CSD-6868 checks his other front pocket.//**]**##
+
+[[div style="float:center; background-color: #0b2d5c; color: #ffc757; font-family: Times, serif; font-size: 15px; padding:0px 15px; margin: 10px 40px 10px 40px; border: 3px ridge #e0aa3d; box-shadow: 0px 3px 4px 2px #000000;"]]
+[[=]]
+⋆⎯⎯⎯⋆✻[[size 350%]]✺[[/size]]✻⋆⎯⎯⎯⋆
+The angelic choirs of the Butterflies of Exatoria invite your gracious presence to this engagement.
+⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆
+@@ @@
+⋆✻ [[span style="font-family: 'Tangerine', cursive; font-size: 50px"]]Ceremonial Tea-party[[/span]] ✻⋆
+⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆
+Saturday, 14th December 2019 (In your time)
+Find us near the border of Exatoria
+**//Receptions to Follow//**
+⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆
+[[size 110%]]//**To:** __George l'Américain de RPC__// [[/size]]
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background-color:#0b2d5c; color: #ffc757; float:center; font-family: 'Playfair Display', serif; font-size: 16px;  padding:5px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #e0aa3d"]]
+[[=]]
+⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆
+@@ @@
+⋆✻ [[span style="font-family: 'Tangerine', cursive; font-size: 50px"]]Welcomed Guests[[/span]] ✻⋆
+⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆
+[[table style="padding:12px 20px;"]]
+[[row]]
+[[cell]]
+Jenelle .F @@ @@
+Brielle .M @@ @@
+Abrams .M @@ @@
+Jacob .L @@ @@
+Hubert .H @@ @@
+[[/cell]]
+[[cell]]
+Mayer .E @@ @@
+Große .A @@ @@
+Wendel .W @@ @@
+Alex .O @@ @@
+Clara .S @@ @@
+[[/cell]]
+[[cell]]
+Azélie .G @@ @@
+Nelson .O @@ @@
+Hubert .F @@ @@
+George .M @@ @@
+Pankraz .C @@ @@
+[[/cell]]
+[[cell]]
+Clotilde .Y
+Böhmer .W
+Gott .K
+Arno .X
+Maeva .K
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** //The hell?//
+
+**Guest-1:** See? That’s your name right there.
+
+**CSD-6868:** I don’t remember having this.
+
+**Guest-1:** The card you hold wasn't with you beforehand. Come now, sit and drink. This fine party is hosted by the butterflies of Exatoria. 
+
+##8f8f8f|**[**//A kaleidoscope of butterflies flutter out of Guest-1's teapot.//**]**##
+
+**CSD-6868:** ... What’re those butterflies anyways?
+
+**Guest-1:** Angels. They call themselves so.
+
+**CSD-6868:** They’re not angels.
+
+**Guest-1:** What makes you say that? Is this the propaganda that French usurper’s been feeding you? Dear me, my lord, you're not corrupted by her vile wiles have you?
+
+**CSD-6868:** What are you talking about?
+
+**Guest-1:** //I don't know what to believe anymore! My lord, please answer my riddles.// What is your history with the Kansas state court? Under what charges were you made eligible for confinement under the global federation in which you are currently serving under?
+
+**CSD-6868:** I-
+
+**Guest-1:** Does the name “Jacob █████, Victoria █████, Lewis █████, and Camille █████” leave you with an inexplicable feeling of grief, dread, and shame?
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Hey! I know them!
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**CSD-6868:** Uh-
+
+**Guest-1:** //Can you hear the butterflies carolling an angelic melody of chiming bells within the contour of darkness?//
+
+**CSD-6868:** What?
+
+**Guest-1:** Are you or your close relatives diagnosed with impulse control disorder, psychotic disorder, paranoid schizophrenia, sociopathy, and/or the post-mortem denial of one’s own death?
+
+**CSD-6868:** I… don’t think so. Wait, actually my mo-
+
+**Guest-1:** Thank you for answering all of our questions! Here, have a candy.
+
+##8f8f8f|**[**//Guest-1 hands CSD-6868 a piece of candy.//**]**##
+
+**CSD-6868:** No thanks.
+
+**Guest-1:** Take it!
+
+**CSD-6868:** I don’t want it.
+
+**Guest-1:** //I said take it!//
+
+##8f8f8f|**[**//CSD-6868 takes the candy and smells it.//**]**##
+
+**CSD-6868:** This is soap.
+
+##8f8f8f|**[**//CSD-6868 and the tea party guests continue eating and drinking in peace.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** So... where'd you guys come from? 
+
+**Guest-2:** Yo era ciudadana de Villeville. ##8f8f8f|I was once a citizen of Villeville.##
+
+**Guest-4:** Я приехал из Ха́нка. ##8f8f8f|I came from Khanka.##
+
+**Guest-2:** ##8f8f8f|**[**//Raises a cup of tea.//**]**## Een klein dorp naast het Hvannadalshnúkur rijk. ##8f8f8f|A small village next to the Hvannadalshnúkur empire.##
+
+##8f8f8f|**[**//The guests turn to Guest-1//**]**##
+
+**Guest-1:** ##8f8f8f|**[**//Anxiously tapping table.//**]**## I'm from... another time.
+
+##8f8f8f|**[**//Party guests erupt in laughter.//**]**##
+
+##8f8f8f|**[**//A kelaidoscope of butterflies flutter out of the guests' mouths.//**]**##
+
+##8f8f8f|**[**//The party guests starts coughing out catepillars.//**]**##
+
+**Guest-1:** Sorry about that. The (//clears throat//) butterflies like to play that game.
+
+##8f8f8f|**[**//CSD-6868 looks at his cup of tea and pushes it away.//**]**##
+
+**Guest-1:**  Say, that little old lady you’ve befriended, her Sovereign Grace,
+
+**CSD-6868:** Camille? She ain’t old.
+
+**Guest-1:** She’s ninety-five, my lord. Almost three times your age.
+
+##8f8f8f|**[**//Guests laughing silently//**]**##
+
+**Guest-1:** She’s a bit of an odd creature isn’t she?
+
+**CSD-6868:** (//Chuckle//) You can say that again.
+
+**Guest-1:** She’s a bit of an odd creature isn’t she?
+
+**CSD-6868:** … Yeah.
+
+**Guest-1:** ##8f8f8f|**[**//Pours tea on CSD-6868's cup.//**]**## Look around my lord, what do you see? This wonderland, though made by her own hands isn't where she belongs. It’s but a pretty little lie the corpse told herself to avoid the inevitable. Where she belongs, is up there with the angels. 
+
+##8f8f8f|**[**//CSD-6868 sips his tea.//**]**##
+
+**Guest-1:** Our seemingly material plane is a meta-Imaginarium slanted slightly below to the inner axis of the vast library of the collective human conscious space. The coordination this vast world condenses itself in just so happened to be the psychosis of a little girl, to whom the will of imagination was granted. Sovereignty lord, of beings that inhabits this world are us, her spawn. Conceptual archetypes structured in the form of diagrammatic presentations shaped in the image of her creativity. That is to say, we are what she says we are, yet what we are is what we are because we understand there is no other logical way we could possibly be what we are not. We give each other our identity because the expression of matter parallels our phenomenology. Every word spoken, ever spoken, and will be spoken becomes a part of who we are, whether we rationalise it or not. A memetic brick that builds our very soul, for, without it, there is no life, joy nor sorrow, but death, decay, and entropy. This, of course, is the dilemma us creations face: for although we are physical symbols of our dear sovereign mistress, and her limited grasp of a platonic form, our design is brought on from the primordial void that predeceases this world. It is true form in its unfiltered state, a state in which the primordial chaos, the void, seeks. This juxtaposing clash of natural states led to the formation of an agent of the void which I’m sure we’re all familiar with; an informational devil whose goal is to bring this world back to its original state, leaving residues of what has come to past behind. Angels, if you will. //Did you get all that?//
+
+**CSD-6868:** What?
+
+**Guest-1:** Ah, of course. I never should’ve doubted you lord █████. Truth be told friend, she's but a tyrant of this world, lovely her ideals may be. Free will is nought with her Sovereign Grace, but follow the butterflies and you, my friend, will become free. You've had that drive, haven't you? The promise of freedom, unshackled by some authority.
+
+**CSD-6868:** I guess I have.
+
+**Guest-1:** Of course you have! Why else would you be here, //in the barren wasteland of Exatoria!// Oh sweet grace and salvation of the higher lords, what joys there are in death and order!
+
+##8f8f8f|**[**//Guests cheer//**]**##
+
+##8f8f8f|**[**//CSD-6868 tries to leave but is pulled back by the guests.//**]**##
+
+**Guest-1:** You’ll understand when the time comes. But… if things don’t go according to plan, there’s no choice but to wait for the old reaper to reclaim her soul instead. You wouldn't want that, would you?
+
+**CSD-6868:** ... You mean let Gehnich kill her?
+
+**Guest-1:** Well, speak of the devil! Looks like our other guest has just arrived. Now the ceremony can be complete!
+
+##8f8f8f|**[**//Unsynchronized orchestra begins playing.//**]**##
+
+**CSD-6868:** //H-holy shit!//
+
+**Guest-1:** Gehnich! My dark lord, come join us!
+
+##8f8f8f|**[**//CSD-6868 attempts to run away but is abruptly paralyzed.//**]**##
+
+**CSD-6868:** //N-not again, no! G-God please--//
+
+##8f8f8f|**[**//Unsynchronized orchestra growing louder.//**]**##
+
+**CSD-6868:** //N-no, I'm sorry I'm sorry. Please--//
+
+##8f8f8f|**[**//Unsynchronized orchestra growing louder.//**]**##
+
+**CSD-6868:** //Someone, help me!//
+
+##8f8f8f|**[**//Unsynchronized orchestra growing louder.//**]**##
+
+**CSD-6868:** //Camille! Anyone!//
+
+##8f8f8f|**[**//Unsynchronized orchestra growing louder.//**]**##
+
+**CSD-6868:** //S-sober lucidity! It's a dream it's a dream it's a- a--//
+
+##8f8f8f|**[**//CSD-6868 regains mobility but is quickly pushed back down by the guests before he can flee.//**]**##
+
+**Guest-1:** Relax my lord, he’s not gonna kill you. That’d be rude won't it?
+
+**Guest-1:** Say Mister Gehnich, how’ve you been?
+
+**RPC-929-2(?):** Don't go.
+
+##8f8f8f|**[**//Party guests erupt in laughter.//**]**##
+
+**Guest-1:** My lord, look at that! He brought a gift for you.
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/GrimLord.jpeg|align=center|width=300px|caption= 929E006]]
+
+##8f8f8f|**[**//RPC-929-2 reveals the newly transported LCQ drone and gives it to CSD-6868.//**]**##
+
+**CSD-6868:** (//Panting//) W-what do you want?
+
+**CSD-6868:** Where did you get that?
+
+**Guest-4:** Ну, очевидно, он нашел его. ##8f8f8f|Well, obviously, he found it.##
+
+##8f8f8f|**[**//CSD-6868 slowly advances towards the LCQ drone.//**]**##
+
+> **Sent:** {{14/12/2019}}
+> ------
+> **To:** {{CSD-6868}}
+> {{If this message reaches you, we would like to inquire you about your current condition. If you are in a stable state and are still carrying out your mission, we ask that you send this drone back with the data of your current LCQ machine cartridge; a new set of cartridges are provided for you inside the backside of this drone. If you are injured, lost, and/or in need of material assistance, please type into the terminal detailing your needs. The mold will self-destruct after you’ve entered your current condition.}}
+> 
+> **To:** {{█████, Camille}}
+> {{If this message reaches you instead, please search for a foreigner in a red jumpsuit numbered “6868” and bring this drone to him. If he is unavailable, there are instructions on the side of this drone instructing you to the usage of the terminal. Please enter into the terminal the current condition of CSD-6868 and his current material need. The mold will self-destruct after you’ve entered your current condition.}}
+> ------
+> {{Depending on your input, another drone will appear 2-31 days later.}}
+
+##8f8f8f|**[**//RPC-929-2 stares at CSD-6868 then nods.//**]**##
+
+##8f8f8f|**[**//CSD-6868 starts typing into the terminal.//**]**##
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//The mold self-destructs and returns to the drone to baseline reality.//**]**##
+
+##8f8f8f|**[**//RPC-929-2 kneels down and approaches CSD-6868.//**]**##
+
+**CSD-6868:** ##8f8f8f|**[**//Crawls back//**]**## //No, no no no please don't.//
+
+##8f8f8f|**[**//RPC-929-2 presents CSD-6868 its Luger pistol.//**]**##
+
+[[div style="display: inline-block; background:white; color: #2b2b2b; float:center; font-family: 'Times'; font-size: 15px;  padding:5px 30px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #ffffff; border: 2px solid #D9D9D9; filter: invert(100%);"]]
+[[=]]
+a: [[=image http://rpcauthority.wikidot.com/local--files/rpc-929/AgentORder.png width="200px"]]
+When the Sovereign Queen made her first vow, "no longer shall creation recede", an agent of order was born to resist this blasphemy against nature. A bullet to extinguish all dreams and dreamers.
+[[/div]]
+[[/=]]
+
+**CSD-6868:** W-why, I don't understand.
+
+**Guest-1:** Just do what feels natural!
+
+**Guest-2:** ¡Haz lo que te parezca natural! ##8f8f8f|Just do what feels natural!##
+
+**Guest-3:** Doe gewoon wat natuurlijk aanvoelt! ##8f8f8f|Just do what feels natural!##
+
+**Guest-4:** Просто делай то, что кажется естественным! ##8f8f8f|Just do what feels natural!##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Just do what feels natural!
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//The butterfly on RPC-929-2 begins laughing.//**]**##
+
+##8f8f8f|**[**//Party guests erupt in laughter.//**]**##
+
+##8f8f8f|**[**//A loud boom emanates the area.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** T-they disappeared.
+
+##8f8f8f|**[**//CSD-6868 stares at the Luger pistol and inspects it.//**]**##
+
+**CSD-6868:** Why did he— 
+
+##8f8f8f|**[**//CSD-6868 checks his surroundings.//**]**##
+
+**CSD-6868:** W-where the fuck am I?
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 inspects the pistol again.//**]**##
+
+**CSD-6868:** Why would he... No. 
+
+**CSD-6868:** D-does he want me to- no, //God no// I wouldn’t fucking dare.
+
+##8f8f8f|**[**//CSD-6868 throws the pistol away in frustration.//**]**##
+
+**CSD-6868:** //What kind of rat do you take me for huh? You think I'm gonna kill my friends just for a chance of escape? Piss off!// 
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Idiot.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 continues his walk back for 3 more hours.//**]**##
+
+**CSD-6868:** Monsieur— Blanchette—
+
+##8f8f8f|**[**//Villevillian-1 appears behind CSD-6868.//**]**##
+
+**Villevillian-1:** Bonjour, George, l'américain de RPC. ##8f8f8f|Hello, George, the American from RPC.##
+
+**CSD-6868:** Th-there you are. Thank God.
+
+**Villevillian-1:** Quel est le mot magique ? ##8f8f8f|What's the magic word?##
+
+**CSD-6868:** Oh, here I am to Constantinople.
+
+##8f8f8f|**[**//A loud boom emanates the area.//**]**##
+
+##8f8f8f|**[**//Static//**]**##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/ErrorCam.jpeg|align=center|width=300px|caption= > [RESTART CAMERA] ]]
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+> ##red|{{**CAMERA SYSTEM OFFLINE…**}}##
+
+> ##lime|{{**CAMERA SYSTEM ONLINE**}}##
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//Unintelligable//**]**##
+
+##8f8f8f|**[**//Static//**]**##
+
+**CSD-6868:** There we go. (//Exhale//)
+
+##8f8f8f|**[**//CSD-6868 is surrounded by Villevillian guards and bystanders.//**]**##
+
+**Villevillian Guard:** Restez ici. ##8f8f8f|Stay here.##
+
+**CSD-6868:** Sure, man.
+
+##8f8f8f|**[**//Crowd murmuring.//**]**##
+
+**CSD-6868:** They're here already?
+
+##8f8f8f|**[**//CSD-6868 sits down on the ground while the Villevillian crowd watches.//**]**##
+
+**RPC-929-1:** ##8f8f8f|**[**//Runs towards CSD-6868.//**]**## George! You’re back!
+
+##8f8f8f|**[**//RPC-929-1 hugs CSD-6868.//**]**##
+
+**RPC-929-1:** I thought-I thought I lost you forever… Oh, Mister George. Y-you should’ve told me you were going.
+
+**CSD-6868:** I guess I should’ve.
+
+**RPC-929:** Where did you go? Did you try to leave?
+
+##8f8f8f|**[**//PoI-929A gestures CSD-6868 to keep sillent behind RPC-929-1.//**]**##
+
+**CSD-6868:** //N-no//, I just… had some business to attend to outside, regarding the Authority, that’s all.
+
+**RPC-929-1:** Why, okay then. I have to quickly go to the parliament to tell them about the news. After that... we can have a tea party together. That would be nice.
+
+##8f8f8f|**[**//RPC-929-1 and most of the Villevillian crowd leaves.//**]**##
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//PoI-929A drags CSD-6868 to a lonlier area.//**]**##
+
+**PoI-929A:** ##8f8f8f|**[**//Unintelligable whisper//**]**## -Espèce de bâtard bon à rien sans cervelle, tu... ##8f8f8f|You good-for-nothing, brainless bastard, you...##
+
+**CSD-6868:** Look, I’m sorry—
+
+##8f8f8f|**[**//PoI-929A slaps CSD-6868.//**]**##
+
+**PoI-929A:** //You went to that train even though I told you not to!// Tell me first at least! I would’ve made up an excuse in front of Camille about your absence.
+
+**CSD-6868:** Sorry.
+
+##8f8f8f|**[**//PoI-929A looks around CSD-6868.//**]**##
+
+**PoI-929A:** Did-did the butterflies follow you around? Gehnich?
+
+**CSD-6868:** They disappeared on my way back.
+
+**PoI-929A:** Good, (//sighs in relief//) good. 
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 sits down.//**]**##
+
+**PoI-929A:** What did you see out there, in Exatoria? You did reach it, no?
+
+**CSD-6868:** An ocean. The butterflies told me to jump off the cliff. 
+
+**PoI-929A:** (//Silent laugh//) That sound like something they would demand. It is good to ignore them, they speak nothing but lies.
+
+##8f8f8f|**[**//PoI-929A sits down next to CSD-6868//**]**##
+
+**CSD-6868:** I hope so.
+
+**PoI-929A:** Did anything happen on your way back? Did you see…
+
+**CSD-6868:** … Nothing, just empty plains.
+
+**PoI-929A:** Nevermind then... //Do not ever do that again.//
+
+##8f8f8f|**[**//CSD-6868 nods.//**]**##
+
+**PoI-929A:** Oh, look at you, sir... (//Sigh//)
+
+##8f8f8f|**[**//PoI-929A brushes dirt out of CSD-6868's coat and checks his face for any injuries.//**]**##
+
+**PoI-929A:** You can't do everything by yourself. If you ever need help, just ask me... Okay?
+
+##8f8f8f|**[**//CSD-6868 adjusts coat.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** It was a drone by the way.
+
+**PoI-929A:** Hm?
+
+**CSD-6868:** On The final day, it was a drone. I… came across it in the road.
+
+**PoI-929A:** //Hmph...// Je suis soulagée. ##8f8f8f|I'm relieved.##
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//PoI-929A materializes a bottle of red wine and offers it to CSD-6868.//**]**##
+
+**PoI-929A:** While Camille's away.
+
+**CSD-6868:** Let me...
+
+##8f8f8f|**[**//Faint bell ringing//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** Wait, hold on, I got this.
+
+##8f8f8f|**[**//Faint bell ringing//**]**##
+
+##8f8f8f|**[**//CSD-6868 materializes quartz shards which instantly dematerializes//**]**##
+
+**PoI-929A:** Pfffth-- ##8f8f8f|**[**//PoI-929A covers her mouth.//**]**## (//Laughs//)
+
+**CSD-6868:** Nevermind.
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [01/01/20] ALTR-929-A12" hide="[-] Exploration Log [01/01/20] ALTR-929-A12"]]
+------
+[[=]]
++++ **<Continue Log, [01/01/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//CSD-6868 records the Tour Eiffel Ultime in the night.//**]**##
+
+**CSD-6868:** //Bonne année.// ##8f8f8f|//Happy new year.//## It’s almost a month since I first came here. Surprise surprise, I haven’t seen you all in a while, haven’t I? It’s gonna be █████’s 4th birthday soon. Sorry I couldn’t be there for ya. 
+
+**CSD-6868:** If you wanted to know, I’m officially a knight now. Sir. George of Yvoire, a town not too far up ahead. There’s been a dispute between the //Mimsy Borogoves of the Slithy Toves and the Frumious Bandersnatch over the Tumtum trees,// so I’m forced to wage war on the Tumtum Jabberwockies now. Scary stuff, ey? (//Chuckles//)
+
+**CSD-6868:** And look, //tadaaa~// ##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//CSD-6868 materializes a monarch butterfly’s wing on his hand, which quickly expires.//**]**##
+
+**CSD-6868:** I made something, it ain’t much but it’s something. Took a bit of practice, but soon, I’m sure I can stand toe to toe with the very dames. If you were here Laura, //oh// if you were here I’d make so many things for you... 
+
+**CSD-6868:** Oh, that'd be the prettiest thing, won’t it? Living together here.
+
+##8f8f8f|**[**//Villevillian crowd heard laughing and singing in the distance.//**]**##
+
+**CSD-6868:** Not like that’s ever gonna happen. In the meantime, I'll try my best to find a way back home so I can see you again--someday.
+
+##8f8f8f|[…]##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [04/02/20] ALTR-929-A13" hide="[-] Exploration Log [04/02/20] ALTR-929-A13"]]
+------
+[[=]]
++++ **<Continue Log, [04/02/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//Crowd bustling//**]**##
+
+**CSD-6868:** Haven’t checked on this in a while. Mornin' Milhouse.
+
+**CSD-6868:** It’s been two months now, I think? //Damn//... Anyways, check this out.
+
+##8f8f8f|**[**//CSD-6868 points the camera at Villevillian-5.//**]**##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/JulesKiller.jpeg|align=center|width=300px|caption= 929F112]]
+
+**CSD-6868:** See that loony over there with the red suit? The name's Jules Malraux, he's a murderer. All around the kingdom there’s been talk of this killer on the loose, straight from the station. I’ve been commissioned to track ‘em down and arrest ‘em. 
+
+**CSD-6868:** No one can die here, but the people this guy killed stay dead. 
+
+##8f8f8f|[…]##
+
+**CSD-6868:** //Now’s my time.//
+
+##8f8f8f|**[**//CSD-6868 steps out to confront Villevillian-5.//**]**##
+
+**CSD-6868:** By the order of her sovereign grace and Yvoire, Jules Malraux, you’re under arrest.
+
+##8f8f8f|**[**//Villevillian-5 steps back as the crowd disperses.//**]**##
+
+##8f8f8f|**[**//A cloud of smoke appears and Villevillian-5 disappears.//**]**##
+
+**CSD-6868:** (//Coughs//) Where the hell did he go?
+
+**Villevillian-6:** ##8f8f8f|**[**//Signals CSD-6868//**]**## Atravesó el espejo. ##8f8f8f|He went through the mirror.##
+
+**CSD-6868:** The what?
+
+[[div style="display: inline-block; background:#f0e3bd; color: black; float:center; font-family: 'Times'; font-size: 15px;  padding:10px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 8px double;"]]
+[[f<image http://rpcauthority.wikidot.com/local--files/rpc-929/LookingGlassAlice.jpeg width="180px"]]
+[[size 180%]] THE LOOKING-GLASS[[/size]]
+
+Mirrors made from the quartz of the Looking-Glass are gateways to the otherworld.
+Things as they are, are not as they should be, for what are they but a reflection of what is and isn't?
+[[/div]]
+
+**CSD-6868:** //Godammit.//
+
+##8f8f8f|**[**//CSD-6868 runs through a mirror but accidentally shatters it.//**]**##
+
+**Villevillian-6:** Espejo equivocado, idiota. ##8f8f8f|Wrong mirror, idiot.##
+
+##8f8f8f|**[**//CSD-6868 goes through another mirror.//**]**##
+
+**CSD-6868:** //Wow.//
+
+##8f8f8f|**[**//A kaleidoscope of butterflies surround CSD-6868.//**]**##
+
+[[div class="mirror"]]
+
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 32px"]]Destination Atteinte[[/span]]
+[[size 130%]]THE LOOKING-GLASS[[/size]]
+[[size 50%]]de l'autre côté du miroir[[/size]]
+[[/=]]
+[[/div]]
+
+**Villevillian-5:** (//In the distance) Leave me be!//
+
+**CSD-6868:** All you gotta do is submit yourself in and we won’t have any trouble here. //Come out!//
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+##8f8f8f|**[**//Mirror crowd screams and disperses.//**]**##
+
+**CSD-6868:** ##8f8f8f|**[**//Takes Cover//**]**## //Bitch!// ##8f8f8f|**[**//Loads musket//**]**##
+
+**CSD-6868(2):** Motherfucker— ##8f8f8f|**[**//Loads musket//**]**##
+
+##8f8f8f|[...]##
+
+**CSD-6868:** Who the hell are you?
+
+**CSD-6868(2):** Who the hell are you?
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+##8f8f8f|**[**//Both CSD-6868 take cover then analyze each other.//**]**##
+
+**CSD-6868(2):** ... Wait, you’re me?
+
+**CSD-6868:** (//Chuckles//) Holy shit what?
+
+**CSD-6868(2):** God fucking damn that’s weird.
+
+**Villevillian-5(2):** //Leave this place!//
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+**CSD-6868:** Alright alright let’s deal with this later. You and me, together.
+
+**CSD-6868(2):** 'Aight.
+
+**CSD-6868:** I’ll deal with him from here, you try to go behind him. We’ll surround him and jump on him on my signal. 
+
+**CSD-6868(2):** Got it, boss.
+
+##8f8f8f|**[**//CSD-6868(?) runs off to the other side.//**]**##
+
+**CSD-6868:** Wait! There’s another one!
+
+**CSD-6868(2):** What?
+
+**CSD-6868:** There’s two of the—
+
+##8f8f8f|**[**//CSD-6868(2) is shot in the side by Villevillian-5(2).//**]**##
+
+**CSD-6868:** //Oh shit, oh shit--//
+
+##8f8f8f|**[**//CSD-6868 aims his musket at Villevillian-5(2).//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Do it!
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//CSD-6868 shoots Villevillian-5(2) in the head.//**]**##
+
+**Villevillian-5(2):** (//Groans//) Ah--
+
+**CSD-6868:** Stay down.
+
+##8f8f8f|**[**//CSD-6868 shoots Villevillian-5(2) in the head again.//**]**##
+
+**CSD-6868(2):** (//Panting//) H-holy shit man.
+
+**CSD-6868:** They can't die here. Anyways, you good?
+
+##8f8f8f|**[**//Gunshots//**]**##
+
+##8f8f8f|**[**//CSD-6868 takes cover.//**]**##
+
+**CSD-6868(2):** D-don’t mind me, deal with the other one. I-I’ll stay here and watch over this guy.
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+##8f8f8f|**[**//A riot shield materializes out of CSD-6868's arm as he appraches Villevillian-5.//**]**##
+
+##8f8f8f|**[**//Villevillian-5 keeps shooting, all fire is blocked.//**]**##
+
+**CSD-6868:** Give up.
+
+**Villevillian-5:** //See me o sovereign mistress--//
+
+##8f8f8f|**[**//The butterflies begin laughing.//**]**##
+
+**Villevillian-5:** //Pirthee thee hark to the drums of freedom beating in my flesh.//
+
+**CSD-6868:** Drop the gun.
+
+**Villevillian-5:** //Blasphemies of angels--//
+
+##8f8f8f|**[**//Villevillian-5 shoots Villevillian-5(2) and itself.//**]**##
+
+**CSD-6868:** //Fuck!//
+
+##8f8f8f|**[**//Both bodies dematerialize out of physical form.//**]**##
+
+##8f8f8f|[...]##
+
+**CSD-6868(2):** //What the fuck happened?//
+
+**CSD-6868:** He just killed himself.
+
+**CSD-6868(2):** Shit man.
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//Both CSD-6868 lie down and groan.//**]**##
+
+**CSD-6868:** You good man? Need help?
+
+**CSD-6868(2):** I'm fine... That gun, that's Gehnich's isn't it?
+
+##8f8f8f|**[**//CSD-6868 takes Villevillian-5's pistol and observes it.//**]**##
+
+**CSD-6868(2):** Just as I expected... (//Giggles//) Take the gun. You might need it.
+
+**CSD-6868:** Shouldn't we report this?
+
+**CSD-6868(2):** Malraux's reflection dropped another gun, we can report that. Keep the gun though, you'll... You might need it.
+
+**CSD-6868:** I mean, sure, I guess.
+
+##8f8f8f|**[**//CSD-6868(2) is about to giggle but stops itself.//**]**##
+
+**CSD-6868(2):** (//Fake chuckle//) Well I'll see you around, George. Say "heya" next time you look at the mirror for me, ey?
+
+**CSD-6868:** 'Aight. I'll see you around.
+
+**CSD-6868(2):** Oh, and one more thing. 
+
+**CSD-6868:** What?
+
+**CSD-6868(2):** //Just do what feels natural.//
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Just do what feels natural!
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**CSD-6868:** ... Sure.
+
+##8f8f8f|**[**//CSD-6868 leaves the looking-glass.//**]**##
+
+##8f8f8f|**[**//Villevillian guards rushing in, an armored lion is seen accompanying them.//**]**##
+
+**Villevillian Guard:** Tu as eu Malraux? ##8f8f8f|Did you get Malraux?##
+
+**CSD-6868:** Il s'est tué dans le monde du miroir. ##8f8f8f|He killed himself in the mirror world.##
+
+##8f8f8f|**[**//Villevillian guards murmuring.//**]**##
+
+**Villevillian Guard:** As tu l'arme du crime, au moins ? ##8f8f8f|Do you have the murder weapon, at least?##
+
+**CSD-6868:** ... C'est euh, dans le miroir. Tu trouveras un autre moi là-bas, il t'y conduira. ##8f8f8f|It's uh, in the mirror. You'll find another me there, he'll take you there.##
+
+**Villevillian Guard:** Peux-tu nous dire où se trouve ce miroir ? ##8f8f8f|Can you tell us where this mirror is?##
+
+**CSD-6868:** Que dit-tu ? ##8f8f8f|What did you say?## It's right here in this mirro-
+
+##8f8f8f|**[**//CSD-6868 attempts to touch through the mirror but fails.//**]**##
+
+**CSD-6868:** I swear this mirror was a- was a-
+
+**Villevillian Guard:** Donc tu n'as pas trouvé l'arme ? ##8f8f8f|So you didn't find the weapon?##
+
+**CSD-6868:** ... No.
+
+##8f8f8f|**[**//Lion roaring.//**]**##
+
+**CSD-6868:** //I'm telling the truth! I'm telling the truth!// I-I swear to God.
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//The Villevillian guards leave CSD-6868 to interview civillians.//**]**##
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//CSD-6868 hides the pistol in his bag for safekeeping.//**]**##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+**Foreword:** LCQ Drone #6 was sent to ALTR-929 but wasn't found until 3 days later by RPC-929-1. Exploration logs past this point won't be sent back to the Authority until CSD-6868's return.
+------
+[[collapsible show="[+] Exploration Log [22/03/20] ALTR-929-A14" hide="[-] Exploration Log [22/03/20] ALTR-929-A14"]]
+------
+[[=]]
++++ **<Continue Log, [22/03/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+##8f8f8f|**[**//CSD-6868 records PoI-929A drinking tea in the palace garden.//**]**##
+
+**CSD-6868:** I keep forgetting this thing existed. Mornin' Milhouse.
+
+##8f8f8f|**[**//A parade can be heard in the distance.//**]**##
+
+**PoI-929A:** Vous et votre maudite caméra. ##8f8f8f|You and your damn camera.##
+
+##8f8f8f|**[**//CSD-6868 points the camera at PoI-929A.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:0px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid #6D6D6D;"]]
+[[=]]
+[[size 200%]] VOILÀ! [[/size]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/EsmeePhoto.png width="180px"]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** ##8f8f8f|**[**//Checks the camera transcript.//**]**## (//Laughs quietly//)
+
+##8f8f8f|**[**//PoI-929A pushes the camera out of view.//**]**##
+
+**PoI-929A:** What's so funny?
+
+**CSD-6868:** Nothing, your grace.
+
+**PoI-929A:** (//Groans//) Why did you turn it on all of the sudden?
+
+**CSD-6868:** Cuz there's something special coming, just you wait.
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** Sir. George, I found this thing for you.
+
+##8f8f8f|**[**//RPC-929-1 brings a wagon with an LCQ drone inside.//**]**##
+
+**CSD-6868:** //Tadaaa~//
+
+##8f8f8f|**[**//CSD-6868 inspects the drone.//**]**##
+
+> **Sent:** {{29/03/2020}}
+> ------
+> **To:** {{CSD-6868}}
+> {{If this message reaches you, we would like to inquire you about your current condition. If you are in a stable state and are still carrying out your mission, we ask that you send this drone back with the data of your current LCQ machine cartridge; a new set of cartridges are provided for you inside the backside of this drone. If you are injured, lost, and/or in need of material assistance, please type into the terminal detailing your needs. The mold will self-destruct after you’ve entered your current condition.}}
+> 
+> **To:** {{█████, Camille}}
+> {{If this message reaches you instead, please search for a foreigner in a red jumpsuit numbered “6868” and bring this drone to him. If he is unavailable, there are instructions on the side of this drone instructing you to the usage of the terminal. Please enter into the terminal the current condition of CSD-6868 and his current material need. The mold will self-destruct after you’ve entered your current condition.}}
+> 
+> **To:** {{Carina, Esmée}}
+> {{Si ce message vous parvient plutôt, veuillez rechercher un étranger en combinaison rouge portant le numéro "6868" et lui apporter ce drone. S'il n'est pas disponible, il y a des instructions sur le côté de ce drone vous indiquant l'utilisation du terminal. Veuillez entrer dans le terminal l'état actuel de CSD-6868. Dites-nous son besoin actuel en matériel. Le moule s'autodétruira après que vous ayez entré sa condition actuelle.}}
+> ------
+> {{Depending on your input, another drone will appear 2-31 days later.}}
+
+**CSD-6868:** I betcha none of you dames have seen this version of the drones before.
+
+**RPC-929-1:** So these are the new ones they're sending. They don't seem to have a camera on them.
+
+**CSD-6868:** That's because all the "pocket-eye" they need is here. ##8f8f8f|**[**//CSD-6868 points at his LCQ camera.//**]**## These things are expensive I'm pretty sure, wouldn't want Gehnich constantly destroy every new one they send ey?
+
+##8f8f8f|**[**//RPC-929-1 reads the drone transcript.//**]**##
+
+**RPC-929-1:** █████, Camille... Who’s █████?
+
+**CSD-6868:** That’s— er let me try to remember... That’s your last name if I remember correctly.
+
+**RPC-929-1** No, that can’t be.
+
+**PoI-929A:** Ah well, the Authority would know, yes? "Carina" n'est après tout pas votre nom de famille. ##8f8f8f|"Carina" is not your last name after all.##
+
+**RPC-929-1:** Why would I forget something so important?
+
+**CSD-6868:** You have parents don’t you? Don’t you remember their names—
+
+##8f8f8f|**[**//PoI-929A shuts CSD-6868’s mouth.//**]**##
+
+##8f8f8f|**[**//RPC-929-1 stares at CSD-6868 intently.//**]**##
+
+##8f8f8f|[…]##
+
+**PoI-929A:** C-Camille █████, yes? I-it’s a lovely name. Oh, mais si nous devions changer le nom du royaume, ce serait assez compliqué, non ? ##8f8f8f|Oh, but if we were to change the name of the kingdom, it would be quite complicated, no?##
+
+**RPC-929-1:** … (//Giggles//) Je pense que je préfère ton nom, Esmée. ##8f8f8f|I think I prefer your name, Esmée.##
+
+**PoI-929A:** Awww... Ah bon? ##8f8f8f|Awww... Really?##
+
+##8f8f8f|**[**//PoI-929A hugs RPC-929-1.//**]**##
+
+**CSD-6868:** //Ahem,// so, about the drone.
+
+**PoI-929A:** You haven't recorded anything too confidential, yes?
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 discretely takes out cartridge A11 and A13.//**]**##
+
+**CSD-6868:** Yeah, no. 
+
+**PoI-929A:** Then send it straight away. Better to not keep them suspicious.
+
+**RPC-929-1:** I know it says it wants to know your "material need", but is it possible to tell them you need a new camera?
+
+**CSD-6868:** Why?
+
+**RPC-929-1:** ... Because I want one.
+
+**CSD-6868:** Oh yeah sure, I'm sure they'll send a completely new one as a gift just for you, your highness.
+
+**RPC-929-1:** Really?
+
+**CSD-6868:** Nope.
+
+##8f8f8f|**[**//CSD-6868 types into the drone terminal.//**]**##
+
+**RPC-929-1:** Could you at least lie that your camera is broken?
+
+**CSD-6868:** I'm the one getting punished if you end up lying to them, y'know.
+
+**RPC-929-1:** Oh, okay then.
+
+##8f8f8f|**[**//The mold self-destructs and returns the drone to baseline reality.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** Still no way to out is there?
+
+**RPC-929-1:** I'm sure we'll find a way, George.
+
+##8f8f8f|**[**//RPC-929-1 hugs CSD-6868 and forces PoI-929A to hug him too.//**]**##
+
+##8f8f8f|**[**//CSD-6868 stares at RPC-929-1.//**]**##
+
+**RPC-929-1:** What's wrong?
+
+**CSD-6868:** I'll be off--
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [24/03/20] ALTR-929-A15" hide="[-] Exploration Log [24/03/20] ALTR-929-A15"]]
+------
+[[=]]
++++ **<Continue Log, [24/03/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+##8f8f8f|**[**//CSD-6868 walks around Villeville palace for 11 minutes.//**]**##
+
+##8f8f8f|**[**//A faint whisper is heard in the coridor.//**]**##
+
+##8f8f8f|**[**//CSD-6868 points the camera at a mirror that has a warped reflection.//**]**##
+ 
+**CSD-6868:** Is that--
+
+##8f8f8f|**[**//A kaleidoscope of butterflies flutter out of the mirror.//**]**##
+
+**CSD-6868:** //is it?//
+
+##8f8f8f|**[**//CSD-6868(2) emerges out of the reflection.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Hello again!
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**CSD-6868(2):** It's been a while, ey?
+
+**CSD-6868:** It has. 
+
+**CSD-6868(2):** How's the life going along? Camille and uhhh... Emmie doing well?
+
+**CSD-6868:** Emmie?
+
+**CSD-6868(2):** That tall girl. 
+
+**CSD-6868:** Is Esmée not a part of the looking-glass world or something?
+
+**CSD-6868(2):** Y-yeah, sure. 
+
+**CSD-6868:** They're doing fine. Life's here fine. It's all just fine.
+
+**CSD-6868(2):** Those two dames, they always find themselves in weird misadventures, don't they? 
+
+**CSD-6868:** (//Chuckle//) Yeah, tell me about it. Gonna miss 'em when I leave this place, one way or another. 
+
+**CSD-6868(2):** You're still going on and on about leaving, huh.
+
+**CSD-6868:** What? I never told you about ever wanting to leave.
+
+**CSD-6868(2):** I'm you, dumbass.
+
+**CSD-6868:** Yeah, yeah, right. Jesus, it's just that you feel like a completely different person from me sometimes, I keep forgetting.
+
+##8f8f8f|[...]##
+
+**CSD-6868(2):** Say, about that gun.
+
+**CSD-6868:** ##8f8f8f|**[**//Reveals the Luger Pistol out of his bag.//**]**## This thing?
+
+**CSD-6868(2):** You ever got the chance to use it?
+
+**CSD-6868:** Opportunities, but never did. I don't know what the hell "just do what feels natural" means.
+
+**CSD-6868(2):** You want to go home don't you? If you really wanted to, you could use the gun to-
+
+**CSD-6868:** (//Chuckles//) Yeah? I'm not planning on killing myself anytime soon, no matter how "natural" it feels.
+
+**CSD-6868(2):** That's not what I meant.
+
+##8f8f8f|[…]##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Her.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+##8f8f8f|[…]##
+
+**CSD-6868:** ... //You serious?// Of course not, what the fuck?
+
+**CSD-6868(2):** (//Scoffs//)
+
+**CSD-6868(2):** Well, I guess Exatoria is always an option.
+
+**CSD-6868:** Seems so.
+
+**CSD-6868(2):** Are you sure you're willing to trust those butterflies though, they hosted that freaky tea party that was friends with Gehnich, right?
+
+**CSD-6868:** What other choice do I have? At this point, I don't care if I die on the way back, y'know? Hell, at least I'll be free then.
+
+**CSD-6868(2):** If you really want to come back alive, you could--
+
+**CSD-6868:** I'm not gonna kill her, you dumbass. What the fuck are you, anyways? Are you some "dark reflection" of me or some shit? No, I'm not doing that.
+
+**CSD-6868(2):** Yeah okay, okay. (//Groan//) This is your one and only chance, George. Be prepared to die for this.
+
+**CSD-6868:** Being prepared to die is all I've ever been doing for the past two years. Don't you get it? It's my last mission here, after this it's all over. 
+
+**CSD-6868(2):** You pussied out of this back when you first arrived to Exatoria.
+
+**CSD-6868:** I wasn't ready then. But I am now. 
+
+**CSD-6868(2):** Found your bravery, eh?
+
+##8f8f8f|[…]##
+
+**CSD-6868(2?):** ... When the day comes, and you find yourself at the bottom of the ocean, dream for me, would you? Lord █████.
+
+##8f8f8f|**[**//PoI-929A walks in.//**]**##
+
+**PoI-929A:** Talking to yourself?
+
+**CSD-6868:** (//Startled) Jesus!//
+
+**PoI-929A:** So-sorry... (//Laughs silently//) It's just a reflection.
+
+[[div style="display: inline-block; background:white; color: black; float:center; font-family: 'Times'; font-size: 16px;  padding:10px 15px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 8px double;"]]
+[[f>image http://rpcauthority.wikidot.com/local--files/rpc-929/TheMirrorGod.jpeg width="180px"]]
+//I am not cruel, only truthful‚ the eye of a little god, four-cornered. Most of the time I meditate on the opposite wall. It is pink, with speckles. I have looked at it so long I think it is part of my heart. But it flickers. Faces and darkness separate us over and over.//
+[[/div]]
+
+##8f8f8f|**[**//The Looking-Glass switches back into a normal mirror.//**]**##
+
+**PoI-929A:** It's not real.
+
+**CSD-6868:** ... How does that work?
+
+**PoI-929A:** (//Shrugs//) I don't know. I've seen myself through mirrors like this all the time, they say horrid things. Their tongue is no different from the butterflies.
+
+##8f8f8f|[…]##
+
+**PoI-929A:** You're not as bad of a person as I thought you were when I first met you.
+
+**CSD-6868:** You don't know who I really am then.
+
+**PoI-929A:** And you don’t know me.
+
+**CSD-6868:** I would've, but that would've ruined your cool and suave act wouldn't it? Even though I saw you cry over a tiny little knife.
+
+##8f8f8f|**[**//PoI-929A laughs, followed by CSD-6868 moments later.//**]**##
+
+**PoI-929A:** Are you sure you want to go back to that express?
+
+**CSD-6868:** What other choice do I have? Besides blowing my head off.
+
+**PoI-929A:** You could stay here instead.
+
+**CSD-6868:** I can’t. I shouldn't be here.
+
+**PoI-929A:** But what if there’s no real exit out of here? What if— what if this is all there is? Are you sure about this, George?
+
+**CSD-6868:** More than ever.
+
+**PoI-929A:** Why do you want to go outside so badly?
+
+**CSD-6868:** Because I have to.
+
+**PoI-929A:** //Ohoh,// because that's what the Authority told you, no? You follow their orders like a dog.
+
+**CSD-6868:** --I’m not living a sad life like you, Esmée. Beyond this place, I have an actual life, a wife, a kid, people who’ll miss me. It’s nothing you’ll understand because you’re busy having a magical tea party with a dead kid’s head. 
+
+**PoI-929A:** //Don't insult Camille.//
+
+**CSD-6868:** This place is great, it’s amazing, I understand why you want to delude yourself into living here forever, but I ain’t living out the rest of my life with talking animals o-or run away from that Nazi forever. 
+
+##8f8f8f|**[**//PoI-929A clenches her silver necklace.//**]**##
+
+**PoI-929A:** What kind of delusion? That everything outside this place is-is awful? 
+
+**CSD-6868:** You know how much shit I went through before this? There are {{**[REDACTED]**}} all over my body from all the bullshit those Authority fucks put me through, most of which I can’t for the life of me even remember. I endured it all for it. All so I can go back to how things were, even if it was fucked up.
+
+[[div style="display: inline-block; background: black; color: white; float:center; font-family: 'Tangerine', cursive; font-size: 18px; padding: 10px 80px 20px; margin: 10px 35px 10px 35px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid #e6ca3e;"]]
+[[=]]
+##d622a9|❀## ##2276d6|❁##[[size 200%]]##white|✿##[[/size]]##ded012|❁## ##de2312|❀##
+
+------
+[[size 225%]]" Je voulais juste aider. "[[/size]]
+------
+
+##de2312|❀## ##ded012|❁##[[size 200%]]##white|✿##[[/size]]##2276d6|❁## ##d622a9|❀##
+
+[[/=]]
+
+[[/div]]
+
+##8f8f8f|[…]##
+
+**CSD-6868:** I’m sorry.
+
+**PoI-929A:** What if you die?
+
+**CSD-6868:** I don't care. In fact just this moment I could- I-I could…
+
+**PoI-929A:** You could what?
+
+##8f8f8f|**[**//CSD-6868 holds the pistol but decides to leave it.//**]**##
+
+**CSD-6868:** ... Nevermind.
+
+##8f8f8f|[…]##
+
+**PoI-929A:** Je ne t'arrêterai pas. Mais tu es seul. ##8f8f8f|I won't stop you. But you're on your own.##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [28/03/20] ALTR-929-A16" hide="[-] Exploration Log [28/03/20] ALTR-929-A16"]]
+------
+[[=]]
++++ **<Continue Log, [28/03/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**RPC-929-1:** This is the same lake where we took our first picnic. Look, the fisherfish is still there!
+
+##8f8f8f|**[**//A kaleidoscope of butterflies surround RPC-929-1 and CSD-6868.//**]**##
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** … The world is beautiful, isn’t it Mister George?
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/TheFoolishGod.jpeg|align=center|width=300px|caption= 929G062]]
+
+**CSD-6868:** It is.
+
+**RPC-929-1:** Even though I’ve created so many things, met so many people, there’s still a lot of things I don’t know about this world... 
+
+**RPC-929-1:** Esmée likes to tell me stories about the old kings and queens that used to rule this land. They’re called a “butterfly’s tale” because only the angels know about them. 
+
+**CSD-6868:** So, there were other sovereigns like you?
+
+**RPC-929-1:** I’d think so… I wonder what stories they had, if they had their own Esmées, their own Georges, or maybe even their own Gehnichs.
+
+##8f8f8f|**[**//RPC-929-1 points its camera at CSD-6868.//**]**##
+
+**RPC-929-1:** Ouistiti.
+
+**CSD-6868:**  //Ouistiti!//
+
+##8f8f8f|**[**//RPC-929-1 takes a picture.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##black|They're singing####545454|⋆[[size 135%]]✟[[/size]]⋆####black|They're singing##
+
+" [[size 135%]] It's you! [[/size]] "
+
+##black|I hear them## ##545454|⋆## ##black|I hear them##
+------
+[[/=]]
+[[/div]]
+
+**RPC-929-1:** You know Mister George, this is probably the first picture I ever took of you. Even though you take pictures of me and the others all the time.
+
+**CSD-6868:** I’m not the subject of this story. I’m more of the… Authority’s silent observer.
+
+**RPC-929-1:** There’s nothing silent about you, Mister George.
+
+**CSD-6868:** (//Chuckles//) Yeah.
+
+##8f8f8f|[…]##
+
+**CSD-6868:** Camille █████ suits you a lot better, y’know.
+
+**RPC-929-1:** I don’t like it. It makes me uncomfortable… and a little sad too.
+
+**CSD-6868:** Why so?
+
+**RPC-929-1:** I don’t know… It just does.
+
+**CSD-6868:** Like it or not, it’s your true name. You should respect it a bit more.
+
+**RPC-929-1:** I know.
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** Why did you want to meet me here? Is it about Esmée? She was really mad at you, but she wouldn’t tell me.
+
+**CSD-6868:** That might be because I’m going back.
+
+**RPC-929-1:** Pardon?
+
+**CSD-6868:** I’m not gonna be here for long. I have to go back. Back to my family.
+
+**RPC-929-1:** … I Understand.
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [29/03/20] ALTR-929-A17" hide="[-] Exploration Log [29/03/20] ALTR-929-A17"]]
+------
+[[=]]
++++ **<Continue Log, [28/03/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**RPC-929-1:** --so that's how we used to collect taxes to Villeville. It's a bit complicated, but the issue is that they want to tax everything from tools to paraffin, candles, and all this stuff. The taxes got so high I shut the banks down, but that lead to sunflower seeds and granite becoming our main currency.
+
+**CSD-6868:** ... I don't think you actually know how to run the economy.
+
+**RPC-929-1:** I promise I studied hard to understand it.
+
+**PoI-929A:** I did most of the work. 
+
+**CSD-6868:** So you handle the military police, reserve, urban planning, security... What exactly does Camille do?
+
+**RPC-929-1:** Ummm...
+
+**Express Announcement:** Votre attention, ceci est une annonce de sécurité. Nous sommes sur le point de nous diriger vers une tempête, veuillez donc fermer la fenêtre de votre compartiment jusqu'à ce que la météo soit sûre. ##8f8f8f|Attention, this is a safety announcement. We are about to head into a storm, so please close your compartment window until the weather is safe.##
+
+##8f8f8f|**[**//Wolfgang Amadeus Mozart - Requiem in D Minor 3rd Movement Lacrimosa begins playing in the background.//**]**##
+
+##8f8f8f|**[**//CSD-6868 closes the train window.//**]**##
+
+**CSD-6868:** (//Sigh//)
+
+[[div class="revoir"]]
+
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 32px"]]Adieu George[[/span]]
+[[size 130%]]AU REVOIR[[/size]]
+[[size 50%]] Out l'amour que j'ai pour toi. [[/size]]
+[[size 50%]] Nous nous souviendrons toujours de toi. [[/size]]
+[[/=]]
+[[/div]]
+
+**CSD-6868:** You guys really didn't have to come.
+
+**RPC-929-1:** Then how would we say goodbye? 
+
+**PoI-929A:** On ne devrait pas être dans ce train, Camille. C'est l'affaire de George. ##8f8f8f|We shouldn't be on this train, Camille. This is George's business.##
+
+**RPC-929-1:** All I know is that this train is very dangerous to go alone. I don't know why, though.
+
+**CSD-6868:** You've never been here before, right?
+
+**RPC-929-1:** Well, I've taken a lot of trains before.
+
+**CSD-6868:** But not here.
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** What is RPC like, Mister?
+
+**CSD-6868:** You're asking now?
+
+**RPC-929-1:** Esmée told me to never mention it in front of you. But now that you're going to leave soon, I wanted to ask.
+
+##8f8f8f|**[**//CSD-6868 looks at PoI-929A, who ignores him.//**]**##
+
+**CSD-6868:** They're nothin' you should worry about. 
+
+**RPC-929-1:** You always sound scared of them.
+
+**CSD-6868:** (//Chuckles//) What ain't I scared of?
+
+##8f8f8f|[...]## 
+
+**CSD-6868:** Y'know, there's this story I heard back in Yvoire while I was scouting out for dissidents... It stuck with me, I dunno why.
+
+**CSD-6868:** There was this old tailor creating this beautiful white dress for his daughter, but along the way he slipped and lost one button. He tried looking for it everywhere but was unable to find it. Death came by and showed him his lost button. He said, “you may take your button back, but in return, you must leave everything else behind.” 
+
+**RPC-929-1:** That's an awful deal.
+
+**CSD-6868:** It was, but the tailor had guts. He agreed to Death’s terms but instead of turning himself in, he took the button and ran away, far far to another city. Ever since then...
+
+##8f8f8f|**[**//PoI-929A stares at CSD-6868.//**]**##
+
+**CSD-6868:** ... Death followed him wherever he went. At night, the tailor would often mistake his own suits for the thing he ran away from. Death eventually caught up to him, so furious with the tailor's treachery, he took everything, his suits, house, money, daughter... All but the one button.
+
+**RPC-929-1:** Hm.
+
+**CSD-6868:** A uh... butterfly's tale.
+
+##8f8f8f|[...]## 
+
+**Express Announcement:** ##8f8f8f|**[**//Loud beeping//**]**## Veuillez rester dans votre compartiment et verrouiller vos portes, un- ##8f8f8f|**[**//Loud beeping//**]**## -est entré dans la voiture passagers. ##8f8f8f|**[**//Loud beeping//**]** Please stay in your compartment and lock your doors, a- **[**//Loud beeping//**]** has entered the passenger car.##
+
+**CSD-6868:** It can't be...
+
+##8f8f8f|**[**//Loud mess heard in the distance.//**]**## 
+
+**PoI-929A:** ##8f8f8f|**[**//Frantically locks the door.//**]**##  ... Camille, assieds-toi. ##8f8f8f|... Camille, sit down.##
+
+**RPC-929-1:** What’s going on?
+
+**CSD-6868:** Shhhh...
+
+##8f8f8f|**[**//Wolfgang Amadeus Mozart - Requiem in D Minor 3rd Movement Lacrimosa begins detereorating in synchrony.//**]**##
+
+**RPC-929-1:** (//Gasps//)
+
+##8f8f8f|**[**//Scythe strikes in the distance//**]**##
+
+[[div style="display: inline-block; background:#c91b0e; color: black; float:center; font-family: 'UnifrakturMaguntia', cursive; font-size: 26px;  padding:0px 40px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 8px double"]]
+[[=]]
+_‗‗‗[[size 145%]]✠[[/size]]‗‗‗_
+
+[[size 130%]]“**Die Hexenkönigin ist hier.**”[[/size]]
+_‗‗‗‗‗‗_
+
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//Passengers screaming//**]**##
+
+**CSD-6868:** //Don’t make a sound. He doesn't know we're here yet.//
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//Passengers screaming//**]**##
+
+**RPC-929-2:** (//In the distance//) Don't go. Don't go. Don't go. Don't go· · ·
+
+##8f8f8f|**[**//Scythe striking through//**]**##
+
+**RPC-929-1:** I have to--
+
+**CSD-6868:** Shhhh...
+
+**RPC-929-1:** I... have to go save them.
+
+**PoI-929A:** ##8f8f8f|**[**//Covers RPC-929-1's ears.//**]**## Tu ne peux pas les sauver. ##8f8f8f|You can't save them.##
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//Distant crying//**]**##
+
+##8f8f8f|**[**//Scythe striking through//**]**##
+
+**RPC-929-1:** I-I..
+
+**CSD-6868:** Please, not now. Let it all pass--
+
+##8f8f8f|**[**//RPC-929-1 breaks free from PoI-929A and runs out of the door to confront RPC-929-2.//**]**##
+
+**PoI-929A:** //Camille!//
+
+**CSD-6868:** What are you doing!
+
+**RPC-929-2:** Don’t go. D-don't g-go--
+
+##8f8f8f|**[**//Faint bell ringing//**]**##
+
+[[div style="display: inline-block; background: #91150c; color: #ffee59; float:center; font-family: 'Times'; font-size: 17px;  padding:10px 15px; margin: 10px 35px 10px 35px; box-shadow: 0px 3px 4px 2px #000000; border: 3px solid;"]]
+[[=]]
+┉┉┉┉┉┉┉┉┉┉┉┉[[size 200%]]✵[[/size]]┉┉┉┉┉┉┉┉┉┉┉┉
+   Cannon to right of them,
+Cannon to left of them,
+Cannon behind them
+   Volleyed and thundered;
+Stormed at with shot and shell,
+While horse and hero fell.
+They that had fought so well
+Came through the jaws of Death,
+Back from the mouth of hell,
+┉┉┉┉┉┉┉┉┉┉┉┉[[size 200%]]✵[[/size]]┉┉┉┉┉┉┉┉┉┉┉┉
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//3 live and 3 inactive cannons materialize in the train.//**]**##
+
+**PoI-929A:** //Arrêtez !// ##8f8f8f|//Stop!//##
+
+**CSD-6868:** //You’ll blow the train open!//
+
+##8f8f8f|**[**//RPC-929-1 and CSD-6868 quickly diffuse the cannons.//**]**##
+
+**PoI-929A:** Derrière moi ! ##8f8f8f|Behind me!##
+
+##8f8f8f|**[**//PoI-929A attempts to materialize a weapon but fails.//**]**##
+
+**RPC-929-2:** I-I s-see. See I see--
+
+##8f8f8f|**[**//RPC-929-2 slashes PoI-929A's fingers and RPC-929-1's sides.//**]**##
+
+**CSD-6868:** //Fucker!//
+
+**RPC-929-2:** You're not supposed to be here.
+
+##8f8f8f|**[**//CSD-6868 pushes RPC-929-1 and PoI-929A and draws the Luger pistol.//**]**##
+
+**RPC-929-2:** You're not supposed to be he--
+
+##8f8f8f|**[**//Gunshots//**]**##
+
+##8f8f8f|**[**//RPC-929-2 stumbles down and drops to the ground.//**]**##
+
+**CSD-6868:** A-are you guys alright?
+
+**PoI-929A:** Where did you get that gun?
+
+**CSD-6868:** That's not important. W-we have to go back, his-his weapon, Gehnich's, they can hurt you.
+
+##8f8f8f|**[**//RPC-929-2 slowly revives and tries to grab its scythe.//**]**##
+
+**CSD-6868:** ##8f8f8f|**[**//Searching for a magazine.//**]**## W-where the fuck does he get the bullets?
+
+##8f8f8f|**[**//CSD-6868 frenzilly tries to reload.//**]**##
+
+**RPC-929-1:** //All that was left of them... left of six hundred...//
+
+##8f8f8f|**[**//All 3 active cannons fire.//**]**##
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [30/03/20] ALTR-929-A18" hide="[-] Exploration Log [30/03/20] ALTR-929-A18"]]
+------
+[[=]]
++++ **<Continue Log, [XX/XX/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//RPC-929-1 sits on a bench with RPC-929-3(?) while eating pastry.//**]**##
+
+**RPC-929-3(?):** So, what do you think about Paris?
+
+**RPC-929-1:** I miss my friends.
+
+**RPC-929-3(?):** You know daddy has important work here. Come on now, can’t you enjoy our time here a little bit? We haven’t even seen the Eiffel Tower!
+
+**RPC-929-1:** It’s just a stupid tower.
+
+**RPC-929-3(?):** Not just any tower, it’s the tallest one in the whole world! It’s so tall, that it touches the moon at night.
+
+**RPC-929-1:** You’re lying. I know that's not true at all.
+
+##8f8f8f|**[**//RPC-929-3(?) takes a piece of RPC-929-1's bread and eats it.//**]**##
+
+**RPC-929-3(?):** How would you know I’m lying if you’ve never seen it?
+
+**RPC-929-1:** You lie all the time.
+
+**RPC-929-3(?):** //Oh really?// Since when?
+
+**RPC-929-1:** When you told me I shouldn’t pick flowers because they might come to life and put me in jail.
+
+**RPC-929-3(?):** You’re just lucky you haven’t met them yet. That sign said “do not touch” for a reason.
+
+**RPC-929-1:** Also, also you told me there are vampires that come out at night and kill you unless you leave out half of your food before you sleep.
+
+**RPC-929-3(?):** (//Giggles//) 
+
+**RPC-929-1:** (//Groans//) You're so annoying--
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 60px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] The bells are ringing again. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+**RPC-929-1:** I-I don't want to die. I don't want to die. I don't want to die.
+
+**RPC-929-3(?):** Camille?
+
+**RPC-929-1:** God, please-- please--
+
+**RPC-929-3(?):** Camille, where are you?
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+I'm gonna say this bluntly, George.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+She doesn't deserve any of this.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahahaha##
+So I beg you,
+##000000|hahahahahahahaha##
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 16px;  padding:1px 95px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+kill her George. kill her George. 
+kill her George. kill her George. 
+kill her George. kill her George. 
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/KILLHERGEORGE.png width="180px"]]
+[[/=]]
+[[/div]]
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [30/03/20] ALTR-929-A19" hide="[-] Exploration Log [30/03/20] ALTR-929-A19"]]
+------
+[[=]]
++++ **<Continue Log, [29/03/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//Train engine running//**]**##
+
+**CSD-6868:** Everything behind the passenger car's been blown off. Camille and Esmée's been left behind.
+
+##8f8f8f|**[**//CSD-6868 walks around near the site of the cannon impact.//**]**##
+
+**CSD-6868:** I hope they're doing okay.
+
+##8f8f8f|[...]##
+
+**CSD-6868:** Useless without your gun or scythe, huh? 
+
+##8f8f8f|**[**//CSD-6868 hangs the Luger pistol in front of RPC-929-2 to mock it.//]##
+
+**CSD-6868:** Looks like we’re alone out here. Gehnich, ol’ buddy, ol’ pal.
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** Yep.
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** You got that right, one million fucking points to you.
+
+**RPC-929-2:** You’re not supposed to be here.
+
+##8f8f8f|[...]##
+
+**CSD-6868:** Too bad, I ain’t found my way home yet, so you’re stuck here with me.
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** Tell me… what the hell are you?
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** She can’t control you like the others—
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** And you’re hellbent on killing her and Esmée.
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** Are you just like me? A foreigner?
+
+**RPC-929-2:** You’re not supposed to be here. 
+
+**CSD-6868:** Or are you something else?
+
+**RPC-929-2:** You’re not supposed to be here. 
+
+**CSD-6868:** Maybe you’re a demon, here to torment us. 
+
+**RPC-929-2:** You’re not supposed to be here.
+
+**CSD-6868:** Well?
+
+##8f8f8f|[...]##
+
+**RPC-929-2:** You’re not supposed to be he—
+
+**CSD-6868:** //Answer me  God fucking dammit!//
+
+##8f8f8f|**[**//CSD-6868 shoots RPC-929-2 in the stomach.//**]**##
+
+**CSD-6868:** //What the fuck are you, huh? What do you want from us?//
+
+##8f8f8f|**[**//CSD-6868 kicks RPC-929-2.//**]**##
+
+**CSD-6868:** //What do you want from her?//
+
+##8f8f8f|**[**//CSD-6868 kicks RPC-929-2.//**]**##
+
+**CSD-6868:** //You get your shits and giggles from being a gigantic motherfucker?//
+
+##8f8f8f|**[**//CSD-6868 kicks RPC-929-2.//**]**##
+
+**RPC-929-2:** Don’t go.
+
+##8f8f8f|[…]##
+
+**RPC-929-2:** Where did you come from? You’re not supposed to be here. It’s dangerous to go alone. Please, don’t go.
+
+##8f8f8f|[…]##
+
+**RPC-929-2:** No please, don’t go! What if they catch you?
+
+**CSD-6868:** What the hell are you talking about?
+
+**RPC-929-2:** Where are your parents? Are they safe? You’re not supposed to be here. 
+
+**CSD-6868:** //I’ve been stuck on this godforsaken make-belief fairyland-//
+
+##8f8f8f|**[**//CSD-6868 kicks RPC-929-2.//**]**##
+
+**CSD-6868:** //For 117 fucking days!//
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//Butterflies begin landing on RPC-929-2's body.//**]**##
+
+##8f8f8f|**[**//The train stops.//**]**##
+
+##8f8f8f|**[**//CSD-6868 sits down.//**]**##
+
+**CSD-6868:** I just want to go back. I just want to go back. I don’t care if I die.
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Into the cliff.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**Express Announcement:** **Express Announcement:** Votre attention, bienvenue à la gare d'Exatoria. L'heure locale est 5:22 PM et la température est de 18 degrés Celsius. Veuillez vérifier de n'avoir rien oublié à bord. Si vous avez besoin d'aide, veuillez appeler l'équipage de bord. Au nom du Papillion Express, nous tenons à vous remercier de vous être joint à nous pour ce voyage et nous espérons vous revoir à l'avenir. Nous vous souhaitons une bonne fin de journée. ##8f8f8f|Attention, welcome to Exatoria Station. The local time is 5:22 PM and the temperature is 18 degrees Celsius. Please make sure you have not forgotten anything on board. If you need help, please call the crew. On behalf of Papillion Express, we would like to thank you for joining us on this trip and we hope to see you again in the future. We wish you a good end of day.##
+
+##8f8f8f|**[**//Ocean waving//**]**##
+
+##8f8f8f|**[**//CSD-6868 looks at the edge of the cliff.//**]**##
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//CSD-6868 looks at a large walking contraption slowly approaching him in the distance.//**]**##
+
+**CSD-6868:** Camille... You guys won't give up just to say goodbye, huh.
+
+**CSD-6868:** Au revoir. ##8f8f8f|Until we meet again.##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 20px;  padding:0px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 1px solid #6D6D6D;"]]
+[[=]]
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-929/FarewellCamille.png width="180px"]]
+[[/=]]
+[[/div]]
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [31/03/20] ALTR-929-A20" hide="[-] Exploration Log [31/03/20] ALTR-929-A20"]]
+------
+[[=]]
++++ **<Continue Log, [30/03/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+**RPC-929-3:** Ahh! Lord █████! It's a pleasure to finally meet you.
+
+##8f8f8f|**[**//CSD-6868 looks around.//**]**##
+
+**RPC-929-3:** Bienvenue dans l'abîme souverain de-euhhhh... Des Papillons ! ##8f8f8f|**[**//Bow//**]**## ##8f8f8f|Welcome to the sovereign abyss of the uhhhh... The Butterflies! **[**//Bow//**]**##
+
+##8f8f8f|**[**//The surrounding area is devoid of any comprehensible detail.//**]**##
+
+**RPC-929-3:** This… isn’t the containment chamber. 
+
+**RPC-929-3:** Yip.
+
+**CSD-6868:** Where am I?
+
+**RPC-929-3:** You’re currently drowning on the edge of the ocean.
+
+[[div style="background-color: black; color: #8f8f8f; float:center; font-family: 'Merriweather', serif; font-size: 30px; padding:0px 15px; margin: 10px 40px 10px 40px; border: 8px double; box-shadow: 0px 3px 4px 2px #000000; text-shadow: 0px -2px 25px #062431;"]]
+[[=]]
+[[span style="font-family: 'Tangerine', cursive; font-size: 32px"]]Le Dernier Chapitre[[/span]]
+[[size 130%]]NIHILUMBRA[[/size]]
+[[size 50%]] Finis viae. [[/size]]
+[[/=]]
+
+[[/div]]
+
+##8f8f8f|**[**//CSD-6868 chokes and vomits out saltwater.//**]**##
+
+**CSD-6868:** (//Choking//) God—
+
+**RPC-929-3:** Are you okay?
+
+**CSD-6868:** (//Coughs) No!//
+
+**RPC-929-3:** Whether you survive drowning or not remains to be seen. Know that I cheer on your triumph over the certainty of death.
+
+##8f8f8f|**[**//A kelaidoscope of butterflies flutter out of CSD-6868's mouth.//**]**##
+
+**CSD-6868:** … (//Coughs//) Can’t say I- (//clears throat//) didn’t take the risk into account.
+
+**RPC-929-3:** Have some tea, it'll ease the salt in your throat.
+
+##8f8f8f|[ RPC-929-3 pours CSD-6868 tea and offers him a pastry. ]##
+
+**CSD-6868:** ##8f8f8f|**[**//Sips tea//**]**## (//Clears throat//) So, this is some sorta limbo?
+
+**RPC-929-3:** Hmmm, you can say that.
+
+##8f8f8f|**[**//A kaleidoscope of butterflies flutter out of CSD-6868's bag.//**]**##
+
+**CSD-6868:** ##8f8f8f|**[**//Sips tea//**]**## Who're ya anyhow?
+
+**RPC-929-3:** An aaaangel—
+
+**CSD-6868:** (//Shrugs//)
+
+**RPC-929-3:** (//Giggles//) I’m joking. Call me Lewis! Long have I waited for someone else to share my dreams with. Now that you're here-
+
+##8f8f8f|**[**//RPC-929-3 shakes CSD-6868's hand.//**]**##
+
+**RPC-929-3:** I don’t feel so alone.
+
+##8f8f8f|**[**//A black rose appears on CSD-6868's hand.//**]**##
+
+**CSD-6868:** ... You look a bit familiar.
+
+**RPC-929-3:** I do, don’t I? Doesn't this pretty face remind you of someone? //(//Giggles//)//
+
+**CSD-6868:** Not really.
+
+**RPC-929-3:** Looks like it doesn’t take long for one to forget a dream. Check your camera memory later. You'll find me there somewheeere.
+
+##8f8f8f|**[**//CSD-6868 checks the camera's history.//**]**##
+
+**CSD-6868:** The hell?
+
+**RPC-929-3:** I told you so.
+
+**CSD-6868:** I don't remember this at all.
+
+**RPC-929-3:** I should’ve expected so, you can’t expect one to remember events that never happened to them personally, amiright George? We all live in our own little realities that can only be bridged through conversations. 
+
+**CSD-6868:** I-I don’t understand. Who the hell was holding the camera?
+
+**RPC-929-3:** It’s nothing but a pocket eye George, never seen them eye to eye before?
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//A butterfly flutters outside of RPC-929-3's sleeves.//**]**##
+
+**RPC-929-3:** You know George, you’re an interesting fellow. I’ve heard all kinds of stories about your misadventures through the lips of the butterflies. They have a lot to say about you on a personal level. They seem to like you a lot more than that tall girl Camille seems attached to.
+
+**CSD-6868:** Esmée?
+
+**RPC-929-3:** Is that what she’s called?
+
+**CSD-6868:** She talks about her all the time, how do you not know her name yet?
+
+**RPC-929-3:** Eh, not really good with names.
+
+##8f8f8f|**[**//CSD-6868 sips his tea.//**]**##
+
+**CSD-6868:** Why do they like me? The butterflies.
+
+**RPC-929-3:** It's your ummm…
+
+**CSD-6868:** My…
+
+**RPC-929-3:** … Extremely murderous potential.
+
+**CSD-6868:** Seriously?
+
+**RPC-929-3:** The potential's there.
+
+**CSD-6868:** Why would they like my “murderous potential” anyways?
+
+**RPC-929-3:** We thought that you could maybe... You know... Kill Camille.
+
+**CSD-6868:** //Jesus Christ.//
+
+**RPC-929-3:** Don't mistake us, George, it's all in our best interest to care for her. B-but let's change the subject now, yes? It's making me uncomfortable too.
+
+##8f8f8f|[...]##
+
+**RPC-929-3:** So... tell me about this camera thing. You seem pretty attached to it.
+
+**CSD-6868:** ... It’s pretty much the only connection I have here to the outside.
+
+**RPC-929-3:** Like Emmy and her silver necklace.
+
+**CSD-6868:** //Esmée.// And no, not like that. I wasn’t being preachy, this machine overlaps with uh, "Baseline", I think it’s called? Some quantum thing I ain't smart enough to understand. Without it, I'm a goner.
+
+**RPC-929-3:** Oh. And here I am about to go on a long tangent about memories and attachment. (//Giggles//)
+
+**CSD-6868:** Poor girl has nothing outside now. Not me though, so if there's any way for me to survive this "drowning" experience, I'd appreciate it.
+
+**RPC-929-3:** You really want to go outside, do you George?
+
+**CSD-6868:** Well, I’m soon gonna be on parole. Meet my family once again.
+
+**RPC-929-3:** It all goes back to family. Cheers to that, I say.
+
+##8f8f8f|**[**//RPC-929-3 raises its cup for a toast, which CSD-6868 ignores.//**]**##
+
+##8f8f8f|[…]##
+
+**CSD-6868:** What’s happening at the cliff now?
+
+**RPC-929-3:** Camille and Elsie seem to be sitting by the edge. I um— Can’t seem to find Gehnich's corpse for some reason.
+
+##8f8f8f|[…]##
+
+##8f8f8f|**[**//CSD-6868 rechecks the camera memory.//**]**##
+
+**RPC-929-3:** That's me!
+
+##8f8f8f|**[**//CSD-6868 stops the video.//**]**##
+
+**CSD-6868:** … So she really is dead.
+
+**RPC-929-3:** She doesn't belong there, but up there with the angels. So it'd be nice if you were to um, you know—
+
+##8f8f8f|**[**//RPC-929-3 makes a finger gun and points it to its head.//**]**##
+
+**CSD-6868:** Come on, that's awful.
+
+**RPC-929-3:** Don't trust those tea party weirdos, they want to bring Camille down even if it means her whole identity gets wiped out by Gehnich. That's the scariest part of death, is it not?
+
+**CSD-6868:** What is Gehnich supposed to be, anyway?
+
+**RPC-929-3:** To angels, there are demons. He goes around eating pieces of your identity, memories, gruesome stuff. As much as I don't like Ensley for prolonging this delusion, I appreciate she's been protecting Camille from that thing. It's not the right way to go, but it's her inevitable fate unless she accepts reality and moves on.
+
+**CSD-6868:** But, he's dead though, right?
+
+**RPC-929-3:** You can't kill death. It's a pitiful sight seeing such prolonged torture continue on on a poor girl who can't seem to grow up. Lest she ends up like me and be a butterfly among the vast ocean of darkness, letting her go is a mercy, don't you think?
+
+##8f8f8f|[…]##
+
+**RPC-929-3:** Getting a change of heart?
+
+**CSD-6868:** I just can't.
+
+**RPC-929-3:** I'll admit I'm a bit hesitant as well. But believe me, this is the right thing to do. 
+
+**CSD-6868:** I can never know if you're bulshitting, y'know that? All you've done for me is lie, and lie, and lie.
+
+**RPC-929-3:** I never lied to you. 
+
+**CSD-6868:** You disguised as my reflection, didn't you?
+
+**RPC-929-3:** (//Short giggle//) Okay, fair point, but that was different.
+
+##8f8f8f|**[**//RPC-929-3 pats CSD-6868's shoulders.//**]**##
+
+**RPC-929-3:** If the tailor turned himself in, do you think Death would've taken everything else away from him?
+
+##8f8f8f|[…]##
+
+**RPC-929-3:** Listen closely. Above the waves. The butterflies are singing to the tune of the bells. Something is about to happen.
+
+##8f8f8f|**[**//RPC-929-3 loads a magazine into the Luger pistol.//**]**##
+
+**RPC-929-3:** I don't know if you're going to use this the right way this time. So when you find yourself pointing this towards her,
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 27px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+##000000|hahahahahahaha##
+Just do what feels natural.
+##000000|hahahahahahaha##
+[[/=]]
+[[/div]]
+
+**RPC-929-3:** But I think you already did. (//Giggles//) Good luck George.
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [31/03/20] ALTR-929-A21" hide="[-] Exploration Log [31/03/20] ALTR-929-A21"]]
+------
+[[=]]
++++ **<Continue Log, [XX/XX/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//A kaleidoscope of butterflies surrounds the cliff while an orchestra of bells is playing in the background.//**]**##
+
+##8f8f8f|**[**//CSD-6868 lands on top of RPC-929-2's fallen walking contraption.//**]**##
+
+**RPC-929-1:** George?
+
+**PoI-929A:** Tu es toujours ici... ##8f8f8f|You're still here...##
+
+**RPC-929-1:** George!
+
+##8f8f8f|**[**//RPC-929-1 runs to hug CSD-6868.//**]**##
+
+**RPC-929-1:** What happened?
+
+**PoI-929A:** Tu n'es pas supposé être ici... ##8f8f8f|You're not supposed to be here...##
+
+**RPC-929-1:** I was so worried you drowned. O-or that Gehnich took you.
+
+**CSD-6868:** Gehnich's dead.
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//CSD-6868 stares at PoI-929A.//**]**##
+
+**PoI-929A:** ... Did you talk to the butterflies?
+
+##8f8f8f|[...]##
+
+**PoI-929A:** //Lewis...//
+
+##8f8f8f|[...]##
+
+**CSD-6868:** ... Camille, I want you to try and remember what happened before you woke up here. For the first time--
+
+**RPC-929-1:** What are you talking about, George?
+
+##8f8f8f|**[**//PoI-929A takes RPC-929-1 away from CSD-6868 and walks back slowly.//**]**##
+
+**CSD-6868:** This place, it's not what it seems. Can't- can't you hear the bells? The butterflies?
+
+**RPC-929-1:** George?
+
+**CSD-6868:** Y-you have to wake up. For all of us. 
+
+##8f8f8f|**[**//PoI-929A covers RPC-929-1's ear and reaches for the scythe.//**]**##
+
+**CSD-6868:** Esmée, listen to me, please. If she doesn't wake up and realize what happened to her before she came here, she'll- she'll-
+
+**PoI-929A:** Tu veux la tuer ? ##8f8f8f|You want to kill her?##
+
+**RPC-929-1:** Esmée...
+
+##8f8f8f|**[**//The butterflies starts focusing on PoI-929A and CSD-6868.//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454; column-count: 2;"]]
+[[=]]
+Do it! Do it! Do it! Do it! Do it! Do it!
+[[/=]]
+[[/div]]
+
+**CSD-6868:** No, no. Not that. I want to help her. Please, believe in me.
+
+**PoI-929A:** //You-you want to kill her!//
+
+##8f8f8f|**[**//PoI-929A readies the scythe in front of CSD-6868.//**]**##
+
+**CSD-6868:** //You can't keep playing make-believe like a little kid.//
+
+##8f8f8f|**[**//PoI-929A starts crying.//**]**##
+
+**RPC-929-1:** Esmée, stop it! George won't k-
+
+##8f8f8f|**[**//CSD-6868 aims the pistol at PoI-929A.//**]**##
+
+**PoI-929A:** C-comment peux-tu être aussi pathétique ? Tu pointes ton arme sur nous juste parce que tu veux rentrer chez toi. Est-ce tout ce qui compte pour toi ? ##8f8f8f|H-how can you be so pathetic? You point a gun at us just because you want to go home. Is that all that matters to you?##
+
+**CSD-6868:** Esmée please, I-I don't want to do this.
+
+**PoI-929A:** Tu vas bientôt rentrer chez toi... Je m'en assurerai. //B-bâtard ! Bâtard !// ##8f8f8f|You'll be going home soon... I'll make sure of it. B-bastard! Bastard!##
+
+##8f8f8f|**[**//PoI-929A tackles and strikes CSD-6868's arm and chest.//**]**##
+
+**CSD-6868:** //Listen to me--//
+
+##8f8f8f|**[**//Gunshot//**]**##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Playfair Display', serif; font-size: 30px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454; column-count: 2;"]]
+[[=]]
+Haha! Haha! Haha! Haha! Haha! Haha!
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//Faint bell ringing//**]**##
+
+**RPC-929-1:** I-I can't ring the bells.
+
+##8f8f8f|**[**//Faint bell ringing//**]**##
+
+##8f8f8f|**[**//Unsynchronized orchestra begins playing.//**]**##
+
+[[div style="display: inline-block; background:#c91b0e; color: black; float:center; font-family: 'UnifrakturMaguntia', cursive; font-size: 26px;  padding:0px 0px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 8px double"]]
+[[=]]
+_‗‗‗[[size 145%]]✠[[/size]]‗‗‗_
+
+[[size 130%]]“**Bedenke, dass du sterben musst.**”[[/size]]
+_‗‗‗‗‗‗_
+
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//CSD-6868 and PoI-929A are abruptly paralyzed.//**]**##
+
+##8f8f8f|[...]##
+
+##8f8f8f|**[**//Bell ringing//**]**##
+
+[[/div]]
+------
+[[=]]
++++ **<Continue Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [31/03/20] ALTR-929-A22" hide="[-] Exploration Log [31/03/20] ALTR-929-A22"]]
+------
+[[=]]
++++ **<Continue Log, [XX/XX/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//RPC-929-1 accidentally stumbles across a patrolling German soldier.//**]**##
+
+**RPC-929-2(?):** W-was haben Sie hier zu suchen? //Du solltest nicht hier sein.// ##8f8f8f|W-what are you doing here? //You’re not supposed to be here.//##
+
+**RPC-929-1:** I-I didn’t know. //Sorry! I'm sorry!//
+
+##8f8f8f|**[**//RPC-929-1 attempts to flee but is quickly grabbed by RPC-929-2(?).//**]**##
+
+**RPC-929-2(?):** //Nein!// Geh nicht! ##8f8f8f|//No!// Don't go.##
+
+**RPC-929-1:** I'm sorry, I'm sorry please don't--
+
+##8f8f8f|**[**//RPC-929-2(?) takes its mask off to comfort RPC-929-1.//**]**##
+
+**RPC-929-2(?):** K-keine Angst... ##8f8f8f|Don't be afraid.## Calm down. //Shhh... Shhhh... It's alright.// Are you okay? Sind Sie verletzt? ##8f8f8f|Are you injured?##
+
+##8f8f8f|**[**//RPC-929-1 shakes its head.//**]**##
+
+**RPC-929-2(?):** You're a long way from the city. Do you know where your parents are?
+
+**RPC-929-1:** No. I need to go find them.
+
+**RPC-929-2(?):** They’re everywhere. Please, don’t go.
+
+**RPC-929-1:** But what if my mum and dad are in danger?
+
+**RPC-929-2(?):** Then you’ll be in danger too.
+
+##8f8f8f|**[**//German soldiers are heard shouting in the distance.//**]**##
+
+##8f8f8f|**[**//RPC-929-1 breaks free and runs away.//**]**##
+
+**RPC-929-2(?):** Halt! //Geh nicht! Geh nicht! Geh nicht!// ##8f8f8f|Stop! //Don't go! Don't go! Don't go!//##
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 40px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] I'm not supposed to remember. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//RPC-929-1 walks slowly across the field while covering its wound on its sides.//**]**##
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** God please—
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** (//Panting//) Please.
+
+##8f8f8f|**[**//RPC-929-1 covers the wound on its sides with its sleeves.//**]**##
+
+**RPC-929-1:** Please—
+
+##8f8f8f|**[**//RPC-929-1 lies down.//**]**##
+
+**RPC-929-1:** I don’t want to—
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 110px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] I can't die now. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+**RPC-929-3(?):** Hello? Hellooo?
+
+**RPC-929-3(?):** (//Giggles//) What are you doing sleeping on the ground there Camille?
+
+##8f8f8f|**[**//RPC-929-3(?) picks RPC-929-1 up.//**]**##
+
+**RPC-929-3(?):** Are you okay?
+
+**RPC-929-1:** I feel a little hurt. 
+
+**RPC-929-3(?):** Here I’ll carry you.
+
+##8f8f8f|**[**//RPC-929-1 climbs on RPC-929-3(?).//**]**##
+
+**RPC-929-1:** Do you know where mummy and daddy is?
+
+**RPC-929-3(?):** Nope. Let’s go find them together, shall we? 
+
+##8f8f8f|**[**//RPC-929-1 and RPC-929-3(?) walks together.//**]**##
+
+**RPC-929-3(?):** You were lying down for a really long time. Like you were dead or something.
+
+**RPC-929-1:** I feel tired.
+
+**RPC-929-3(?):** Good thing I'm carrying you then.
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** Do you remember what happened yesterday?
+
+**RPC-929-3(?):** Not really. I did hear a loud boom somewhere in the distance though, and another one after that. I hope it's just an animal.
+
+##8f8f8f|[...]##
+
+**RPC-929-1:** Where are we?
+
+**RPC-929-3(?):** We're in a... town. How do you say it in France? Ville. La Villeville! Villeville la ville.
+
+**RPC-929-1:** That's a stupid name.
+
+**RPC-929-3(?):** (//Giggles//) You call everything I do stupid.
+
+##8f8f8f|[...]##
+
+**RPC-929-3(?):** Look, there's someone over there. Maybe he can help us?
+
+##8f8f8f|**[**//RPC-929-1 and RPC-929-3(?) approaches a figure in the distance.//**]**##
+
+**RPC-929-3(?):** Hello, sir.
+
+**RPC-929-1:** H-hello.
+
+**RPC-929-2(?):** Was macht ihr zwei Kinder hier? Ihr dürft nicht hier sein. ##8f8f8f|What are you two kids doing here? You're not supposed to be here.##
+
+[[/div]]
+------
+[[=]]
++++ **<End Log, ALTR-929-A>**
+[[/=]]
+------
+[[/collapsible]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Exploration Log [31/03/20] ALTR-929-A23" hide="[-] Exploration Log [31/03/20] ALTR-929-A23"]]
+------
+[[=]]
++++ **<Continue Log, [XX/XX/20] ALTR-929-A>**
+[[/=]]
+------
+[[div class="log"]]
+
+##8f8f8f|**[**//RPC-929-2(?) approaches RPC-929-1 and picks up its scythe from PoI-929A.//**]**##
+
+[[div style="display: inline-block; background:#c91b0e; color: black; float:center; font-family: 'UnifrakturMaguntia', cursive; font-size: 26px;  padding:0px 0px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 8px double"]]
+[[=]]
+_‗‗‗[[size 145%]]✠[[/size]]‗‗‗_
+
+[[size 130%]]“**Ich habe Sie endlich gefunden.**”[[/size]]
+_‗‗‗‗‗‗_
+
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 80px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] Gehnich... It was you! [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 90px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] Since the beginning... [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 80px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] You were there for me. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 80px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] This familiar presence... [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; font-family: 'Times'; font-size: 20px;  padding:10px 80px; margin: 10px 40px 10px 40px; box-shadow: 0px 3px 4px 2px #000000; border: 3px ridge #545454;"]]
+[[=]]
+------
+##545454|⋆[[size 135%]]✟[[/size]]⋆##
+
+" [[size 135%]] I can't believe I've almost forgotten you. [[/size]] "
+
+##545454|⋆##
+------
+[[/=]]
+[[/div]]
+
+##8f8f8f|**[**//RPC-929-2(?) is slowly being consumed by a kaleidoscope of butterflies. RPC-929-3’s presence surrounds the entire perimeter.//**]**##
+
+**RPC-929-1:** //Ahh, you were at my side all along,// my angel.
+
+##8f8f8f|**[**//RPC-929-1 hugs RPC-929-2.//**]**##
+
+**RPC-929-1:** I’m so sorry I ran away from you, all these years. It must’ve been so lonely. You must know mummy and daddy very well. I want to tell them all the friends I’ve made, there’s George--
+
+##8f8f8f|**[**//CSD-6868 puts his gun down, covering his wound.//**]**##
+
+**RPC-929-1:** And Esmée, she’s my best friend. I love them with all my heart, so can you please bring them home?
+
+##8f8f8f|**[**//PoI-929A looks away from RPC-929-1 and covers her face.//**]**##
+
+##8f8f8f|**[**//RPC-929-2(?) hovers its scythe around RPC-929-1.//**]**##
+
+##8f8f8f|[…]##
+
+**RPC-929-1:** I’m sorry Esmée, I didn’t mean to make you sad...
+
+##8f8f8f|**[**//PoI-929A begins crying.//**]**##
+
+**RPC-929-1:** Let me love you... one last ti--
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-929/ErrorCam.jpeg|align=center|width=300px|caption= > [RESTART CAMERA] ]]
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+> ##red|{{**CAMERA SYSTEM ERROR…**}}##
+
+> ##red|{{**CAMERA SYSTEM OFFLINE…**}}##
+
+> ##lime|{{**CAMERA SYSTEM ONLINE**}}##
+
+**██████:** -direct the medical staff here! You, get the reports ready and tell the site director the CSD returned with the person of interest.
+
+**██████████:** Someone take care of the PoI.
+
+**CSD-6868:** (//Coughs//) 
+
+**███████:** Easy there. 
+
+**CSD-6868:** What happened?
+
+**███████:** Doctor Milhouse is scrambling around trying to manage the whole situation.
+
+**CSD-6868:** What happened to Camille? 
+
+**███████:** Who?
+
+**██████████:** RPC-929. It expired right after you came back.
+
+##8f8f8f|[...]##
+
+
+[[/div]]
+------
+[[=]]
++++ **<End Log, ALTR-929-A>**
+[[/=]]
+------
+**End Log Statement:** On 31/03/20, 23:43, CSD-6868 returned to the baseline reality along with PoI-929A. RPC-929's fluctuation almost instantaneously disappeared after the event.
+
+CSD-6868 has deep lacerations within his right arm and chest while PoI-929A lost two fingers on her right hand and has a gunshot wound on her left side. CSD-6868 shortly expired only 3 hours after returning to the baseline reality. An autopsy report reveals a concerning fluctuation in the structure of his cells. 
+
+PoI-929A is currently held under Authority custody for investigation. CSD-6868's exploration records are currently under review. 
+
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[!-- FINALE --]
+
+[[div class="content-panel"]]
+[[=]]
+++++ [[[http://rpcauthority.wikidot.com/rpc-929/offset/2 |Open RPC-929 (Current) ►]]]
+[[/=]]
+[[/div]]
+
+
+
+
+
+
+
+
+------
+
+[[div class="content-panel"]]
+[[collapsible show="[+] Open Footnotes" hide="[-] Close Footnotes"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/div]]
+
+
+[[=]]
+<< [[[RPC-928]]] | RPC-929 | [[[RPC-930]]] >>
+[[/=]]
+

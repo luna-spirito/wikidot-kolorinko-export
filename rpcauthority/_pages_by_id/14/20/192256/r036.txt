@@ -1,0 +1,1572 @@
+---
+title: "Carribean Deep Theme"
+tags: ["theme"]
+page_id: "1420192256"
+site: "rpcauthority"
+slug: "component:carribean-deep-theme"
+revision: 36
+revision_id: "1523155040"
+author: 5982545
+timestamp: 1721596060
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:carribean-deep-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+/*
+    The A.T. of the Caribbean Deep Theme (made by Qual, background by Boson; requested by Administration for Official Contest Use) Additional Credits:  Pirate Map by Von, Hide-Out Sketch by Gismo, Sailing Sketch by Jokezm, Bounty Board Wooden Panel Image taken from user Anne Gaal (https://www.pinterest.com/pin/240661173815148808/), Rest of Images by Qual.
+
+The theme was inspired by the SCP Foundation Unusual Cargo Theme.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Texturina:opsz@12..72&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+
+/* General Section: */
+
+#container {
+    font-family: Texturina;
+}
+
+body {
+    background-image: var(--body-deep-water-background-image), var(--body-wave-background-image);
+    background-repeat: no-repeat, repeat;
+    background-size: 100%, 50%;
+    background-position: bottom;
+}
+
+#page-title {
+    text-align: center;
+
+    border-top: var(--golden-border-bold);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    text-shadow: var(--primary-text-shadow);
+
+    font-family: 'Pirata One';
+    font-size: 350%;
+    font-weight: 100;
+    word-spacing: 1px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
+
+div#page-content {
+    border-bottom: var(--golden-border-bold);
+    padding: 1em;
+    border-bottom-left-radius: 0em!important;
+    border-bottom-right-radius: 0em!important;
+    border-radius: 10px;
+
+    font-family: 'Playfair Display', serif;
+    font-size: 120%;
+    word-spacing: 5px;
+    letter-spacing: 0px;
+}
+
+#main-content {
+    border-radius: 5px;
+    padding: 1em 1em 2.5em 1em;
+    margin: 0px 2em 2em 23em;
+}
+
+#main-content .page-tags {
+    max-width: 100%;
+    margin: 0em;
+    padding: 0.5em 1em 1em 1em;
+    border-bottom: var(--golden-border);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: var(--primary-background);
+    background-image: var(--paper-secondary-background-image);
+    background-size: 250%;
+    box-shadow: var(--page-panel-box-shadow);
+    margin-bottom: 0em;
+}
+
+#main-content, #side-bar {
+    background-color: var(--wooden-panel-background-color)!important;
+    background-image: var(--panel-wooden-background-image)!important;
+    background-size: 95%!important;
+
+    border-top: var(--wooden-panel-border-top) !important;
+    border-bottom: var(--wooden-panel-border-bottom) !important;
+    border-left: var(--wooden-panel-border-left) !important;
+    border-right: var(--wooden-panel-border-right) !important;
+    box-shadow: var(--wooden-panel-primary-box-shadow) !important;
+}
+
+#page-title, #page-content, #account-options, .alert-info {
+    background-color: var(--primary-background-color) !important;
+    background-image: var(--panel-paper-background-image)!important;
+    background-size: 100%!important;
+
+    border: var(--golden-border);
+    box-shadow: var(--page-panel-box-shadow);
+}
+
+
+@media (max-width: 768px) {
+#main-content {
+    max-width: 90%;
+    margin: 0 5%!important;
+    margin: 0;
+    }
+}
+
+@media (max-width: 768px) {
+#top-bar ul li a {
+    font-size: 80%;
+    }
+}
+
+
+
+/* Search Box and Search Button Section: */
+
+#search-top-box input.empty {
+    color: var(--main-border-color);
+}
+
+#search-top-box-input {
+    width: 145px;
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+#search-top-box-form input[type=submit], #top-bar .search-button a {
+    color: var(--text-secondary-color);
+    font-family: 'Texturina', serif;
+}
+
+#search-top-box-input, #search-top-box-form input[type=submit], #top-bar .search-button a {
+    background-color: var(--primary-background-color) !important;
+    color: var(--text-color);
+
+    border-left: var(--secondary-golden-border-left) !important;
+    border-right: var(--secondary-golden-border-right) !important;
+    border-top: var(--secondary-golden-border-top) !important;
+    border-bottom: var(--secondary-golden-border-bottom) !important;
+
+    background-image: var(--paper-secondary-background-image)!important;
+    background-size: 100%!important;
+    box-shadow: var(--content-box-shadow);
+
+    margin: 5px 0px 5px 5px;
+    height: 25px;
+}
+
+/* Search Box and Search Button Hover Section: */
+#search-top-box-input:hover, #search-top-box-input:focus,
+#search-top-box-form input[type=submit]:hover, #search-top-box-form input[type=submit]:focus,
+#top-bar .search-button a:hover {
+    background-color: var(--primary-background-hover-color) !important;
+    color: var(--primary-text-color);
+
+    border-top: var(--secondary-golden-hover-border-top) !important;
+    border-bottom: var(--secondary-golden-hover-border-bottom) !important;
+    border-left: var(--secondary-golden-hover-border-left) !important;
+    border-right: var(--secondary-golden-hover-border-right) !important;
+
+    background-image: var(--paper-secondary-background-image)!important;
+    background-size: 250%;
+    box-shadow: var(--content-box-hover-shadow);
+}
+
+
+
+/* Sidebar Section: */
+
+#side-bar .menu-item.discord a:hover::before {
+    content: url(http://rpcauthority.wdfiles.com/local--files/nav%3Aside/discord.png);
+    position: absolute;
+    left: 15em;
+}
+
+#side-bar .menu-item.lore a:hover::before {
+    content: url('http://www.rpc-wiki.net/local--files/nav:side/lore.png');
+    position: absolute;
+    left: 15em;
+}
+ 
+#side-bar .menu-item.reddit a:hover::before {
+    content: url('http://rpcauthority.wdfiles.com/local--files/nav%3Aside/reddit.png');
+    position: absolute;
+    left: 15em;
+}
+ 
+#side-bar .menu-item.steam a:hover::before {
+    content: url('http://rpcauthority.wdfiles.com/local--files/nav%3Aside/steam.png');
+    position: absolute;
+    left: 15em;
+}
+ 
+#side-bar .menu-item.twitter a:hover::before {
+    content: url('http://rpcauthority.wdfiles.com/local--files/nav%3Aside/twitter.png');
+    position: absolute;
+    left: 15em;
+}
+
+#side-bar .menu-item.redbubble a:hover::before {
+    content: url(http://rpcauthority.wdfiles.com/local--files/nav%3Aside/redbubble.png);
+    position: absolute;
+    left: 15em;
+}
+
+
+
+/* Mega Topbar Section: */
+
+/* Topbar Collapsed Regular Display */
+#top-bar ul li a::first-letter {
+    color: var(--topbar-collapsed-link-hover-color);
+    font-size: 140%;
+    text-shadow: var(--primary-text-shadow);
+}
+
+#top-bar ul li a {
+    color: var(--topbar-collapsed-link-color);
+
+    border-left: 2px solid #5c4434;
+    border-right: 2px solid #916d55;
+
+    background-size: 200px;
+    background-color: var(--wooden-panel-background-color);
+    box-shadow: inset var(--page-panel-primary-fade-shadow);
+    background-image: var(--panel-wooden-background-image);
+}
+
+/* Code that makes sure Collapsed shadows and extra bits don't impede on Collapsed-Hovering part */
+#top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    box-shadow: none;
+}
+
+/* Topbar Collapsed Hovering Over */
+#top-bar ul li:hover>a {
+    color: var(--text-secondary-color);
+    text-shadow: var(--primary-text-shadow);
+
+    border-left: var(--golden-border);
+    border-right: var(--golden-border);
+    box-shadow: var(--hover-panel-box-shadow);
+
+    background-color: var(--primary-background-hover-color);
+    background-image: var(--paper-secondary-background-image);
+}
+
+#top-bar ul li:hover>a:first-letter {
+    color: var(--primary-text-color);
+}
+
+/* Topbar Uncollapsed */
+#top-bar ul li ul {
+    border: var(--golden-border);
+    background-color: var(--primary-background-color);
+    background-image: var(--panel-paper-background-image) !important;
+    box-shadow: var(--wooden-panel-secondary-box-shadow);
+}
+
+#top-bar ul li:hover ul a:first-letter {
+    color: var(--topbar-dropdown-color);
+    font-size: 100%;
+    text-shadow: var(--primary-text-shadow);
+}
+
+/* Topbar Collapsed Hovering Over Option: */
+#top-bar ul li.sfhover a:hover,
+#top-bar ul li:hover a:hover {
+    color: var(--primary-text-color);
+    text-shadow: var(--primary-text-shadow);
+
+    background-color: var(--primary-background-hover-color);
+    background-image: var(--paper-secondary-background-image) !important;
+    box-shadow: var(--hover-panel-box-shadow);
+}
+
+#top-bar ul li.sfhover a:hover:first-letter,
+#top-bar ul li:hover a:hover:first-letter {
+    color: var(--primary-text-color);
+}
+ 
+
+
+/* Side Bar Section: */
+ 
+#side-bar {
+    width: 19.5em;
+    padding: 1em;
+}
+ 
+#side-bar .side-block {
+    border-radius: 10px;
+    background-color: var(--primary-background-color);
+    background-position: top;
+    background-repeat: repeat, no-repeat;
+    background-size: 93%, 96%;
+    background-image: var(--panel-paper-background-image), var(--side-bar-inquistion-seal-image);
+    border: var(--golden-border);
+    box-shadow: var(--page-panel-box-shadow);
+    width: 17.8em;
+    padding: 10px;
+    padding-top: 25em!important;
+}
+
+#side-bar .heading {
+    font-family: 'EB Garamond';
+    font-size: 1.6em;
+    letter-spacing: 1px;
+    font-weight: 500;
+
+    text-shadow: var(--primary-text-shadow);
+    text-indent: 1em;
+    width: 100%;
+    margin-top: 1em;
+
+    border-top: var(--basic-border);
+    border-radius: 10px;
+    padding-top: 3px;
+    color: var(--text-secondary-color);
+}
+
+#side-bar .heading:first-letter {
+    font-size: 130%;
+    color: var(--page-title-color);
+}
+ 
+#side-bar hr {
+    width: 220px;
+    display: none;
+}
+ 
+#side-bar div.menu-item a {
+    display: block;
+    margin: 5px calc(-1em - 1px) 0px -0.3em;
+    padding: 0.2em 0.5em 0.2em 0.5em;
+    font-size: 12.8px;
+    color: var(--sidebar-color);
+    width: 95%;
+    transition: all 0.5s ease-in, background-image 0.5s ease-in;
+    border-radius: 3px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#side-bar div.menu-item a:hover {
+    box-shadow: var(--hover-panel-box-shadow);
+    background-color: var(--primary-background-hover-color);
+    background-image: var(--paper-secondary-background-image);
+    background-size: 250%;
+}
+
+#side-bar div.menu-item a:before {
+    content: " ☐ ";
+}
+
+#side-bar div.menu-item a:hover:before {
+    content: " ☒ ";
+}
+
+
+
+/* Header Section: */
+
+h1 {
+    font-family: 'Pirata One', cursive;
+    font-size: 300%;
+    color: var(--page-title-color);
+    text-shadow: var(--primary-text-shadow);
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    letter-spacing: 4px;
+}
+
+h2 {
+    font-size: 180%;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+h2, h3 {
+    font-family: 'IM Fell DW Pica', serif;
+    font-weight: bold;
+    color: var(--text-secondary-color);
+    text-shadow: var(--primary-text-shadow);
+    margin: 5px 0px;
+    letter-spacing: 1px;
+}
+
+h4, h5, h6 {
+    color: #9e6549;
+    font-family: 'New Tegomin', serif;
+}
+
+
+
+/* Blocks and Panels Section: */
+
+.header-panel, .footer-panel,
+.image-block .image-caption,
+.cellStyle, .readingStyle, .sidenoteH,
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    background-image: var(--paper-tertiary-background-image)!important;
+    background-size: 200%!important;
+}
+
+#toc, .starStyle, blockquote,
+.image-block, .image-caption,
+.yui-navset .yui-content, .sideTabview .yui-navset,
+.content-panel, .content-panel .left-column, .content-panel .right-column,
+.info-block .body-panel, .news-block .body-panel, .featured-block .body-panel, .news-block .body-panel:nth-child(even),
+.sidenoteH, .sidenote.sidenoteLock-false:hover .sidenoteC, .sidenote.sidenoteLock-false:hover .sidenoteI {
+    background-image: var(--paper-primary-background-image);
+}
+
+
+
+
+
+/* Dividers Section: */
+
+hr {
+    background: var(--main-border-color);
+    height: 1.5px;
+    box-shadow: 0px 0px 10px 2px #956d2882, 0px 2px 0px #721a1a6b;
+}
+
+.content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    background: var(--main-border-color);
+    box-shadow: 0px 0px 7px #956d28;
+    height: 2px;
+}
+
+
+
+/* Star Rating & Extra Bits Section: */
+
+.starStyle {
+    word-spacing: 1px;
+}
+
+.starStyle, .body-panel {
+    box-shadow: var(--lesser-biblichor-inset-shadow);
+}
+
+.cellStyle, .header-panel, .footer-panel {
+    box-shadow: var(--paper-panel-secondary-inset-shadow);
+}
+
+
+
+/* Table Section: */
+
+table.wiki-content-table {
+    border: var(--basic-border);
+    background-image: var(--paper-primary-background-image);
+    box-shadow: var(--page-panel-secondary-fade-shadow);
+}
+
+table.wiki-content-table th {
+    font-family: 'EB Garamond', serif;
+    background-color: var(--table-header-background);
+    border: var(--table-border);
+    color: var(--table-header-color);
+    padding: 0.3em 0.7em;
+    background-image: var(--paper-secondary-background-image)!important;
+    box-shadow: var(--paper-panel-secondary-inset-shadow);
+    background-size: 200%!important;
+}
+
+table.wiki-content-table td {
+    background-color: transparent;
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 88%;
+    color: var(--text-color);
+    box-shadow: var(--lesser-biblichor-inset-shadow);
+}
+
+
+
+/* Tabview Section: */
+
+.yui-navset .yui-content {
+    border-top: none;
+}
+
+
+
+ul.yui-nav {
+    border: var(--tabview-border) !important;
+}
+
+.sideTabview .yui-nav {
+    border-right: var(--basic-border) !important;
+}
+
+.sideTabviewMini .yui-content {
+    border-left: none!important;
+    border-top: var(--basic-border) !important;
+}
+
+.yui-navset .yui-content {
+    box-shadow: var(--paper-panel-secondary-inset-shadow);
+}
+
+.compactTabview .yui-content {
+    box-shadow: var(--content-box-shadow) !important;
+    border-top: var(--tabview-bar-border) !important;
+}
+
+.sideTabview .yui-navset .yui-content {
+    box-shadow: none;
+}
+
+.sideTabview .yui-nav li.selected em,
+.yui-navset .yui-nav .selected a, .yui-navset .yui-nav .selected a em,
+.yui-navset .yui-nav .selected a:hover, .yui-navset .yui-nav .selected a em:hover {
+    color: var(--tabview-button-selected-color);
+    background-image: var(--paper-secondary-background-image)!important;
+    box-shadow: var(--paper-panel-secondary-inset-shadow);
+    background-color: var(--tabview-background);
+    background-size: 200%!important;
+}
+
+.yui-navset .yui-nav a:hover, .yui-navset .yui-nav a:focus,
+.sideTabview .yui-nav li:hover, yui-navset .yui-nav li a em:hover, .yui-navset-top .yui-nav li a em:hover, .yui-navset-bottom .yui-nav li a em:hover {
+    color: var(--text-color);
+    background-color: var(--tabview-button-hover-background)!important;
+    background-image: var(--panel-paper-background-image)!important;
+    box-shadow: var(--hover-panel-secondary-inset-shadow);
+}
+.yui-navset .yui-nav li a em, .yui-navset-top .yui-nav li a em, .yui-navset-bottom .yui-nav li a em {
+    color: #66000080;
+}
+
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-size: 90%;
+}
+
+
+
+/* Sidenote Section: */
+
+.sidenoteC {
+    box-shadow: var(--lesser-biblichor-inset-shadow);
+}
+
+.sidenoteH {
+    box-shadow: var(--paper-panel-secondary-inset-shadow);
+}
+
+.sidenoteI {
+    border: var(--basic-border);
+    border-top: none;
+    padding: 0px;
+}
+
+
+
+/* Page Options Section: */
+
+form#history-form-1 {
+    overflow-x: scroll;
+}
+
+table.page-history {
+    min-width: 590px!important;
+}
+
+#page-options-container {
+    border: var(--golden-border);
+    padding: 5px;
+    border-radius: 20px;
+    background-color: var(--primary-background);
+    background-image: var(--paper-secondary-background-image);
+    background-size: 250%;
+    box-shadow: var(--page-panel-box-shadow) !important;
+    margin: 2em 0em 0em 0em;
+}
+
+.page-options-bottom, .page-watch-options {
+    margin: 1em;
+}
+
+td.optionstd {
+    width: 8em!important;
+    height: 3em!important;
+}
+
+#action-area h1 {
+    text-align: center;
+}
+
+#action-area {
+    background-color: var(--primary-background);
+
+    border: var(--golden-border);
+    border-bottom: var(--golden-border);
+    padding: 5px;
+    border-radius: 10px;
+    background-image: var(--paper-secondary-background-image);
+    background-size: 250%;
+    box-shadow: var(--page-panel-box-shadow) !important;
+    margin-top: 2em;
+    max-width: 97%;
+}
+
+@media (min-width: 1200px) {
+#edit-page-form {
+    margin-left: 0em;
+    margin-right: 0em;
+    }
+}
+
+.code {
+    background-color: var(--code-background);
+    border: var(--code-border);
+    padding: 15px;
+    background-image: var(--paper-secondary-background-image);
+}
+
+.highlight td {
+    background-image: var(--paper-secondary-background-image);
+    background-size: 250%;
+    background-color: var(--primary-background);
+}
+
+
+
+/* Button Section: */
+
+#h-perpage, .optionstd a, .new-post .btn, #history-form-1 .btn-sm, .well .btn-sm, .change-textarea-size a, .buttons .btn-small, .action-area .btn-default, .action-area .btn-primary, .col-lg-10 .form-control, .form-actions .btn-danger, .buttons .btn-default, .target a, .buttons .btn-danger, #edit-cancel-button, #edit-save-button, .button-close-message, .button-close-window, .button-cancel, .button-insert-code, #wd-ed-codewizard-type, #wd-ed-imagewizard-position, #wd-ed-imagewizard-uri, #wd-ed-imagewizard-byuri .button, #wd-ed-imagewizard-flickr, #wd-ed-imagewizard-byflickr .button, .query-area .button, .button-close, .button-rename, .button-no\,-cancel, .button-yes\,-delete, #file-upload-form .btn-primary, .button-move, #action-area .buttons .btn-primary, #edit-page-form .buttons .btn-info, #view-diff-div .button, .button-yes\,-revert, .modal-footer .btn-danger, .modal-footer .btn-default, .modal-footer .btn-primary, #mba-apply, .yui-content .button, .btn-warning, #edit-meta-newtag-form div .btn, .new-page-box .button, #page-templates, #recent-posts-category, .forum-recent-posts-box form .btn, .owindow .button-bar .btn {
+font-family: 'Texturina';
+    background-color: var(--primary-background-color) !important;
+    color: var(--text-color);
+
+    border-left: var(--secondary-golden-border-left) !important;
+    border-right: var(--secondary-golden-border-right) !important;
+    border-top: var(--secondary-golden-border-top) !important;
+    border-bottom: var(--secondary-golden-border-bottom) !important;
+
+    background-image: var(--paper-secondary-background-image)!important;
+    background-size: 80%!important;
+    box-shadow: var(--content-box-shadow);
+    margin: 5px;
+}
+
+.pager .current, #h-perpage:hover, .optionstd a:hover, .new-post .btn:hover, #history-form-1 .btn-sm:hover, .well .btn-sm:hover, .change-textarea-size a:hover, .buttons .btn-small:hover, .action-area .btn-default:hover, .action-area .btn-primary:hover, .col-lg-10 .form-control:hover, .form-actions .btn-danger:hover, .buttons .btn-default:hover, .target a:hover, .buttons .btn-danger:hover, #edit-cancel-button:hover, #edit-save-button:hover, .button-close-message:hover, .button-close-window:hover, .button-cancel:hover, .button-insert-code:hover, #wd-ed-codewizard-type:hover, #wd-ed-imagewizard-position:hover, #wd-ed-imagewizard-uri:hover, #wd-ed-imagewizard-byuri .button:hover, #wd-ed-imagewizard-flickr:hover, #wd-ed-imagewizard-byflickr .button:hover, .query-area .button:hover, .button-close:hover, .button-rename:hover, .button-no\,-cancel:hover, .button-yes\,-delete:hover, #file-upload-form .btn-primary:hover, .button-move:hover, #action-area .buttons .btn-primary:hover, #edit-page-form .buttons .btn-info:hover, #view-diff-div .button:hover, .button-yes\,-revert:hover, .modal-footer .btn-danger:hover, .modal-footer .btn-default:hover, .modal-footer .btn-primary:hover, #mba-apply:hover, .yui-content .button:hover, .btn-warning:hover, #edit-meta-newtag-form div .btn:hover, .new-page-box .button:hover, #page-templates:hover, #recent-posts-category:hover, .forum-recent-posts-box form .btn:hover, .owindow .button-bar .btn:hover {
+    background-color: var(--primary-background-hover-color) !important;
+    color: var(--primary-text-color);
+
+    border-top: var(--secondary-golden-hover-border-top) !important;
+    border-bottom: var(--secondary-golden-hover-border-bottom) !important;
+    border-left: var(--secondary-golden-hover-border-left) !important;
+    border-right: var(--secondary-golden-hover-border-right) !important;
+
+    background-image:  var(--paper-secondary-background-image)!important;
+    background-size: 250%;
+    box-shadow: var(--content-box-hover-shadow) !important;
+}
+
+#thread-description, #np-text, #post-edit, .field-header .form-wiki, .field-content .form-wiki, .text.form-control, #file-comments, .form .text, #edit-meta-newtag-form .text, .new-page-box .text, #edit-page-textarea, #edit-page-title, #edit-page-comments, .query-area .text, #membership-by-apply-text, .yui-content .text {
+    border: var(--golden-border);
+    box-shadow: var(--content-box-shadow);
+
+    border-left: var(--secondary-golden-border-left) !important;
+    border-right: var(--secondary-golden-border-right) !important;
+    border-top: var(--secondary-golden-border-top) !important;
+    border-bottom: var(--secondary-golden-border-bottom) !important;
+
+    padding: 5px;
+    background-color: var(--primary-background-color) !important;
+    background-image: var(--panel-paper-background-image) !important;
+}
+
+
+
+/* Footer & Attributions Section: */
+
+#footer a {
+    color: var(--topbar-collapsed-link-hover-color);
+    background-color: transparent;
+    text-shadow: var(--primary-text-shadow);
+}
+
+#footer a:hover {
+    color: var(--topbar-collapsed-link-hover-color);
+}
+
+#footer {
+    clear: both;
+    font-size: 77%;
+    color: var(--footer-color);
+    margin-top: 15px;
+    padding: 3px 10px;
+    background-color: var(--wooden-panel-background-color)!important;
+    background-image: var(--panel-wooden-background-image)!important;
+    background-size: 54%!important;
+    border-top: var(--wooden-panel-border-top);
+    box-shadow: var(--wooden-panel-primary-box-shadow);
+}
+
+#license-area {
+    border-top: var(--golden-border) !important;
+    box-shadow: var(--page-panel-box-shadow) !important;
+}
+
+#breadcrumbs {
+    text-align: center;
+    border-bottom: var(--golden-border);
+    padding: 5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: var(--primary-background);
+    box-shadow: var(--page-panel-box-shadow) !important;
+}
+
+#breadcrumbs, .license-area {    
+    background-image: var(--paper-secondary-background-image);
+    background-size: 250%;
+    background-color: var(--primary-background-color);
+}
+
+#lock-info {
+    background-color: var(--primary-background-color) !important;
+    background-image: var(--panel-paper-background-image) !important;
+    background-size: 100%!important;
+    border: var(--golden-border);
+    box-shadow: var(--blockquote-box-shadow);
+}
+
+/* Error and Saving Window Section: */
+
+div#owindow-1.owindow.error, div#owindow-1.owindow {
+    font-family: 'Playfair Display', serif;
+    background-color: var(--wooden-panel-background-color)!important;
+    background-image: var(--panel-wooden-background-image)!important;
+    background-size: 95%!important;
+
+    border-top: var(--wooden-panel-border-top) !important;
+    border-bottom: var(--wooden-panel-border-bottom) !important;
+    border-left: var(--wooden-panel-border-left) !important;
+    border-right: var(--wooden-panel-border-right) !important;
+
+    box-shadow: var(--wooden-panel-primary-box-shadow) !important;
+    padding: 1em;
+}
+
+.owindow .button-bar {
+    margin: 1em;
+}
+
+.title.modal-header {
+    text-align: center;
+    border-top: var(--golden-border);
+    padding: 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: var(--primary-background);
+    box-shadow: var(--page-panel-box-shadow) !important;
+    background-image: var(--paper-secondary-background-image) !important;
+}
+
+.owindow .content {
+    padding: 1em!important;
+    background-color: var(--primary-background-color) !important;
+    background-image: var(--panel-paper-background-image) !important;
+    background-size: 100%!important;
+    box-shadow: var(--page-panel-box-shadow);
+    border: var(--golden-border);
+}
+
+div#odialog-container {
+    background-color: var(--primary-background);
+    padding: 5px;
+    background-image: var(--paper-secondary-background-image);
+    border-top: var(--wooden-panel-border-top) !important;
+    border-bottom: var(--wooden-panel-border-bottom) !important;
+    border-left: var(--wooden-panel-border-left) !important;
+    border-right: var(--wooden-panel-border-right) !important;
+    box-shadow: var(--wooden-panel-primary-box-shadow) !important;
+}
+
+
+
+.document {
+    font-family: verdana;
+    font-size: 80%;
+}
+
+.document a {
+    color: #5295e1;
+    font-weight: bold;
+}
+
+.document a:hover {
+    color: #84b7f5;
+}
+
+.document hr {
+    margin: 1em 0;
+    box-shadow: none;
+    background: hsl(0deg 0% 40%);
+}
+
+.document h1, .document h2, .document h3 {
+    color: #c0c0c0;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+    text-shadow: 0px 0px 0px black;
+}
+
+
+
+:root {
+
+--text-secondary-color: #5b402e;
+
+--primary-background-color: #f0e4d0;
+--primary-background-hover-color: #e2d1b3;
+
+--wooden-panel-border-top: 3px solid #72513b;
+--wooden-panel-border-bottom: 3px solid #5b402e;
+--wooden-panel-border-left: 5px solid #5c4434;
+--wooden-panel-border-right: 3px solid #916d55;
+
+--golden-border: 2px solid goldenrod;
+--golden-border-bold: 5px solid goldenrod;
+
+--secondary-golden-border-top: var(--golden-border);
+--secondary-golden-border-left: 4px solid #966f11;
+--secondary-golden-border-bottom: 2px solid darkgoldenrod;
+--secondary-golden-border-right: 2px solid #f6ce6a;
+
+--secondary-golden-hover-border-top: 2px solid #eebc3e;
+--secondary-golden-hover-border-bottom: var(--golden-border);
+--secondary-golden-hover-border-left: 4px solid #bc9b45;
+--secondary-golden-hover-border-right: 2px solid #f2d99f;
+
+
+--paper-panel-box-shadow: var(--paper-panel-secondary-inset-shadow), var(--page-panel-primary-fade-shadow);
+
+--hover-panel-box-shadow: var(--hover-panel-primary-inset-shadow), var(--hover-panel-secondary-inset-shadow);
+--page-panel-box-shadow: var(--page-panel-primary-inset-shadow), var(--page-panel-primary-fade-shadow);
+
+--wooden-panel-primary-box-shadow: var(--wooden-panel-outside-shadow), var(--wooden-panel-fade-shadow), inset 0px 0px 15px #721a1a;
+--wooden-panel-secondary-box-shadow: var(--wooden-panel-outside-shadow), var(--wooden-panel-fade-shadow), var(--page-panel-primary-inset-shadow);
+
+--content-box-hover-shadow: inset 2px -2px 7px #956d28, 0px 0px 4px #721a1a, -2px 3px 3px #4224247a;
+
+
+--wooden-panel-outside-shadow: -5px 5px 10px -3px #422424d9;
+
+/* Fade shadow */
+--page-panel-primary-fade-shadow: 0px 0px 10px #721a1a;
+--page-panel-secondary-fade-shadow: 0px 0px 10px #721a1a57;
+
+--wooden-panel-fade-shadow: 0px 0px 15px #c78b2459;
+
+/* Inset shadow */
+--page-panel-primary-inset-shadow: inset 0px 0px 10px 2px #956d28;
+--paper-panel-secondary-inset-shadow: inset 0px 0px 10px 2px #956d2882;
+
+--hover-panel-primary-inset-shadow: inset -2px 2px 7px -2px #721a1a;
+--hover-panel-secondary-inset-shadow: inset 0px 0px 5px #956d28;
+
+--lesser-biblichor-inset-shadow: inset 0px 0px 7px -2px #956d2882;
+
+
+
+/* Text-shadow: */
+--drop-cap-text-shadow: 0 0 5px var(--primary-text-color);
+--primary-text-shadow: -1px 1px 4px #956d28;
+
+   --wooden-panel-background-color: #f9b568;
+
+    --body-wave-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Body%20Wave%20Background.png);
+    --body-deep-water-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Body%20Deep%20Water%20Background.png);
+
+    --side-bar-inquistion-seal-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Inquisition%20Sidebar%20Seal.png);
+
+   --panel-wooden-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Panel%20Wooden%20Background.png);
+   --panel-paper-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Panel%20Paper%20Background.png);
+
+
+   --paper-primary-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Paper%20Primary%20Background.png);
+   --paper-secondary-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Paper%20Secondary%20Background.png);
+   --paper-tertiary-background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Paper%20Tertiary%20Background.png);
+
+
+/* Sidenotes */
+--sidenote-open-background: var(--news-block-body-panel-background-even);
+--sidenote-closed-background: var(--primary-background);
+--sidenote-background: var(--content-panel-background);
+
+--sidenote-contents-open-color: var(--text-color);
+--sidenote-figure-open-color: var(--text-color);
+
+--sidenote-contents-closed-color: var(--text-color);
+--sidenote-figure-closed-color: var(--text-color);
+
+
+ 
+   --table-cell-background: var(--news-block-body-panel-background-even);
+   --tabview-side-tabs-box-shadow: var(--paper-panel-secondary-inset-shadow), 0px -10px 10px 2px #956d2882;
+
+    --topbar-collapsed-link-color: #f7ed7c;
+    --topbar-collapsed-link-hover-color: #fff7a5;
+
+/* General Variables Section: (Main Var., Sidebar, put Custom/Reference Variables here) */
+    --text-color: #660000;
+    --page-title-color: var(--primary-text-color);
+    --sidebar-header-color: #8b1a1a;
+
+    --light-text-color: none;
+    --primary-text-color: #9a0a0a;
+
+    --sidebar-hover-color: var(--primary-text-color);
+    --sidenote-figure-open-color: none;
+    --sidenote-open-background: none;
+
+/* Font Variables Section: (Categorizes Fonts used in Theme to a Few Changeable Variable) */
+
+    --header-font: none;
+    --subheader-font: none;
+    --title-font: none;
+    --body-font: none;
+    --block-font:  none;
+
+/* Background Variables Section: (Important) */
+
+    --body-background: #329296;
+    --nav-hover-background: #efe4d0;
+
+    --primary-background: #e9d9bf;
+    --content-bar-background: #efdccae3;
+    --content-panel-background: var(--primary-background);
+    --news-block-body-panel-background-even: #e4cead;
+
+    --modal-header-background: var(--content-bar-background);
+    --modal-body-background: var(--primary-background);
+
+--blockquote-background: var(--primary-background);
+    --horizontal-rule-background: ; /* unused due to fading effect */
+
+/* Header Variables Section: */
+
+    --header-text-visibility: hidden;
+    --header-custom-text: '';
+    --header-tagline-custom-text: '';
+
+
+    --header-icon-adv: left 0.2em top -1rem no-repeat;
+    --header-icon-size: auto calc(16rem - 2.125rem);
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Deep%20Icon.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Deep%20Header.png);
+    --header-color: none;
+    --header-tagline-color: none;
+    --header-tagline-top: none;
+/* Link Variables Section:  */
+ 
+    --link-color: #cd1819;
+    --link-hover-color: #cd18198f;
+    --new-page-color: #d4974b;
+ 
+/* Link Variables Section:  */
+
+  --custom-paper-background-1: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%201.png);
+  --custom-paper-background-2: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%202.png);
+  --custom-paper-background-3: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%203.png);
+  --custom-paper-background-4: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%204.png);
+  --custom-paper-background-5: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%205.png);
+  --custom-paper-background-6: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%206.png);
+
+/* Button Variables Section: */
+ 
+    --button-hover-color: none;
+    --button-background: var(--primary-text-color);
+    --button-hover-background: var(--link-color);
+
+    --button-border: none;
+    --button-hover-border: none;
+
+/* Search Bar Variables Section: (in header: top of pg.) */
+
+    --search-button-background: var(--content-bar-background);
+    --search-button-border: none;
+
+    --search-button-hover-background: var(--content-panel-background);
+    --search-button-hover-border: none;
+
+    --search-input-text: var(--primary-text-color);
+    --search-input-hover-color: var(--primary-text-color);
+
+    --search-input-color: var(--content-panel-background);
+    --search-input-border: var(--search-button-border);
+
+    --search-input-hover: var(--primary-background);
+    --search-input-hover-border: none;
+
+/* Topbar Variables Section: */
+
+    --topbar-dropdown-color: var(--text-color);
+    --topbar-dropdown-background: none;
+    --topbar-text-color: var(--sidebar-header-color);
+    --topbar-hover-background: var(--primary-text-color);
+    --topbar-hover-color: var(--light-text-color);
+    /* --topbar-divider: ; */
+    --topbar-dropdown-border-color: var(--primary-text-color);
+  
+
+/* Tabview Variables Section: (Reg., Large, Hidden...) */
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: var(--tabview-border);
+    --tabview-button-selected-background: var(--tabview-background);
+    --tabview-button-selected-color: var(--primary-text-color);
+    --tabview-button-hover-background: var(--primary-background);
+
+
+/* Side-Tabview Variable Section: */
+
+    --tabview-side-tabs-background: var(--content-bar-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--tabview-button-selected-background);
+    --tabview-side-button-divider: none;
+
+    --tabview-side-scrollbar-background: var(--news-block-body-panel-background-even);
+    --tabview-side-scrollbar-thumb-background: var(--tabview-button-hover-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--content-bar-background);
+
+/* Scrollbar Variables Section: (Use usually in random with "--tabview-side-scrollbar..." var.) */
+
+    --BT-scrollbar-background: #e9d9bf85;
+    --BT-resizer-background: #be804b;
+    --BT-scrollbar-thumb-background: #9a775ad6;
+    --BT-scrollbar-thumb-hover-background: #b98050a6;
+
+/* Tables Variables Section: */
+ 
+    --table-header-color: var(--primary-text-color);
+    --table-cell-color: var(--text-secondary-color);
+    --table-box-shadow: none;
+
+/* Custom Variables Section: (Variables made specifically for this theme that are hard-coded in) */
+
+    --main-border-color: #6600004f;
+
+
+
+
+/* Miscellaneous Variables Section: (Text, template, critcorner, star hue) */
+
+    --text-box-form-background: var(--news-block-body-panel-background-even);
+    --text-box-form-border: none;
+    --template-block-background: var(--primary-background);  
+
+    --code-background: var(--primary-background);
+    --sidebar-crit-corner-color: var(--link-color);
+    --star-rating-hue: 170deg;
+
+    --star-rating-background: var(--content-panel-background);
+    --star-rating-cell-background: var(--content-bar-background);
+    --star-rating-reading-background: var(--content-bar-background);
+    --star-rating-stars-box-shadow: none!important;
+
+    --footer-color: var(--primary-text-color);
+    --footer-background: var(--news-block-body-panel-background-even);
+
+ /* Borders Variables Section: (Sect. Size may vary based on Theme; Check for dead custom var., either clump variables together or put them in the corresponding sect.) */
+    --blockquote-border: var(--basic-border);
+    --basic-border: 2px solid var(--main-border-color);
+    --dashed-border: 1px dashed var(--main-border-color);
+    --thick-border: 4px solid var(--main-border-color);
+
+    --content-block-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --content-box-border-color: var(--main-border-color);
+
+    --template-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --footnote-border: none;
+    --tags-border: none;
+
+/* Variables Out of Commission for Theme: (Ridge was mainly hardcoded; Emergency Border in case hard coding goes haywire) */
+
+    --table-border: none;
+    --tabview-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+
+    --emergency-border: 3px dotted #ff83fb;
+
+    --tabview-side-border: var(--basic-border);
+    --owindow-border: var(--emergency-border);
+    --toc-border: var(--basic-border);
+    --sidenote-contents-border: var(--basic-border);
+    --sidenote-figure-border: var(--basic-border);
+
+/* Account Opt. (Don't put w/ rest of borders, to be used in tandem w/ Hover box in extended options)*/
+    --content-box-shadow: -4px 4px 10px -5px #00000078, var(--paper-panel-secondary-inset-shadow), var(--page-panel-secondary-fade-shadow);
+}
+
+
+
+
+.open-themes-container {
+    display: none;
+}
+
+.hovertip {
+    font-family: 'Texturina', serif;
+
+    border-left: var(--secondary-golden-border-left) !important;
+    border-right: var(--secondary-golden-border-right) !important;
+    border-top: var(--secondary-golden-border-top) !important;
+    border-bottom: var(--secondary-golden-border-bottom) !important;
+
+    box-shadow: var(--page-panel-box-shadow);
+    background-color: var(--footnote-background) !important;
+    background-image: var(--panel-paper-background-image) !important;
+    background-size: 100% !important;
+    padding: 5px !important;
+}
+
+#login-status {
+    padding: 5px;
+    border-radius: 10px;
+    border-bottom: var(--golden-border);
+    background-color: var(--primary-background-color) !important;
+    background-image: var(--panel-paper-background-image)!important;
+    box-shadow: var(--paper-panel-box-shadow);
+}
+
+#account-options {
+    color: var(--text-color) !important;
+    border: var(--golden-border);
+
+    background-color: var(--primary-background-color);
+    background-image: var(--panel-paper-background-image)!important;
+    box-shadow: var(--wooden-panel-secondary-box-shadow);
+}
+
+#account-options li a:hover {
+    color: var(--primary-text-color);
+    text-shadow: var(--primary-text-shadow);
+    box-shadow: var(--hover-panel-box-shadow);
+
+    background-color: var(--primary-background-hover-color);
+    background-image: var(--paper-secondary-background-image);
+}
+
+
+
+/* Font Family Section: */
+
+.Pirata {
+    font-family: 'Pirata One', cursive;
+}
+
+.Texturina {
+    font-family: 'Texturina', serif;
+}
+
+.Garamond {
+    font-family: 'EB Garamond', serif;
+}
+
+.Playfair {
+    font-family: 'Playfair Display SC', serif;
+}
+
+.Tegomin {
+    font-family: 'New Tegomin', serif;
+}
+
+.Pica {
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+.Tangerine {
+    font-family: 'Tangerine', cursive;
+    font-size: 170%;
+}
+
+
+
+/* Font Variation Section: */
+
+.indent li, .indent p {
+    text-indent: 1.5em;
+}
+
+.drop-cap {
+font-family: var(--header-font);
+    font-size: 530%;
+    text-transform: uppercase;
+    text-shadow: var(--drop-cap-text-shadow);
+    color: var(--primary-text-color);
+
+    padding: 3px;
+    margin-right: 7px;
+    margin-left: 1px;
+
+    float: left;
+    line-height: 65px;
+}
+
+.drop-cap-fancy {
+font-family: var(--title-font);
+    font-size: 530%;
+    text-transform: uppercase;
+    text-shadow: var(--drop-cap-text-shadow);
+    color: var(--primary-text-color);
+
+    padding: 3px;
+    margin-right: 7px;
+    margin-left: 1px;
+
+    border: 2px solid var(--primary-text-color);
+    border-bottom: 3px solid var(--primary-text-color);
+    border-radius: 2px;
+
+    float: left;
+    line-height: 65px;
+    box-shadow: 0 0px 5px var(--primary-text-color), inset 0 0 5px var(--primary-text-color);
+}
+
+::selection {
+    background-color: #b28822bd;
+    color: floralwhite;
+    text-shadow: 0px 0px 15px #9a0a0ad4;
+    box-shadow: 0px 0px 15px #b28822bd!important;
+}
+
+::-webkit-scrollbar-track {
+    border: 2px solid rgb(0 0 0 / 15%);
+}
+
+::-webkit-scrollbar-thumb {
+    border: 1px solid rgb(0 0 0 / 8%);
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+
+/* Custom Paper Block Section: */
+
+.paper-bg-1, .paper-bg-2, .paper-bg-3, .paper-bg-4, .paper-bg-5, .paper-bg-6 {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Custom%20Paper%20Style%20One%20Background%20Image.png);
+    padding: 1em;
+    margin: 1em;
+    box-shadow: var(--content-panel-box-shadow);
+    border-radius: 5px;
+}
+
+.paper-bg-1 {
+    background-color: #e6ddb7;
+}
+
+.paper-bg-2 {
+    background-color: #ece7cc;
+}
+
+.paper-bg-3 {
+    background-color: #ffebc9;
+}
+
+.paper-bg-4 {
+    background-color: #efdab9;
+}
+
+.paper-bg-5 {
+  background-color: #d9c1b0;
+}
+
+.paper-bg-6 {
+  background-color: #fce3bb;
+}
+
+/* Divider hr Section: */
+
+.gold-sliver-divider hr {
+    height: 3px;
+    background: linear-gradient(45deg, transparent, #c5ae79, goldenrod, darkgoldenrod, goldenrod, #c5ae79, transparent);
+    box-shadow: 0px 4px 3px -1px #956d28;
+}
+
+.fancy-divider-1 hr {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Fancy%20Divider%20One.png);
+    height: 80px;
+    background-color: transparent;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    background-position: center;
+}
+
+.fancy-divider-2 hr {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Fancy%20Divider%20Two.png);
+    height: 100px;
+    background-color: transparent;
+    background-size: 110%;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    background-position: center;
+}
+
+.fancy-divider-3 hr {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Fancy%20Divider%20Three.png);
+    height: 123px;
+    background-color: transparent;
+    background-size: 110%;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    background-position: center;
+}
+
+.fancy-divider-4 hr {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Fancy%20Divider%20Four.png);
+    height: 120px;
+    background-color: transparent;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    background-position: center;
+}
+
+.fancy-divider-5 hr {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Fancy%20Divider%20Five.png);
+    height: 90px;
+    background-color: transparent;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    background-position: center;
+}
+
+.fancy-divider-6 hr {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Fancy%20Divider%20Six.png);
+    height: 55px;
+    background-color: transparent;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    background-position: center;
+}
+
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Assets (Images and Fonts)" hide="- Assets (Images and Fonts)"]]
+
+
+----
+
+[[=]]
+++ **Caribbean Deep Custom Paper Backgrounds:**
+[[/=]]
+
+[[div class="paper-bg-1"]]
+Paper Background 1:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-1"]] Paper Background One Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-2"]]
+Paper Background 2:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-2"]] Paper Background Two Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-3"]]
+Paper Background 3:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-3"]] Paper Background Three Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-4"]]
+Paper Background 4:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-4"]] Paper Background Four Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-5"]]
+Paper Background 5:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-5"]] Paper Background Five Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-6"]]
+Paper Background 6:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-6"]] Paper Background Five Text [[/div]]@@
+[[/div]]
+
+------
+
+[[=]]
+++ **Drop Cap & Indent Classes:**
+[[/=]]
+
+[[span class="drop-cap"]] L [[/span]]orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+> @@ [[span class="drop-cap"]] D [[/span]] rop Class Fancy Text @@
+
+[[span class="drop-cap-fancy"]] L [[/span]]orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+> @@ [[span class="drop-cap-fancy"]] D [[/span]] rop Class Fancy Text @@
+
+[[div class="indent"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[[/div]]
+
+> @@ [[div class="indent"]] Indent Text [[/div]] @@
+
+
+
+----
+
+[[=]]
+++ **Carribean Deep Fancy Dividers:**
+[[/=]]
+
+[[div class="gold-sliver-divider"]]
+----
+[[/div]]
+
+> @@[[div class="gold-sliver-divider"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-1"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-1"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-2"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-2"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-3"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-3"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-4"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-4"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-5"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-5"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-6"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-6"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+
+
+------
+
+[[=]]
+++ **Caribbean Deep Class Fonts:**
+[[/=]]
+
+[[span class="Pirata"]] "Pirata Text" [[/span]]
+> @@ [[span class="Pirata"]] Pirata Text [[/span]] @@
+
+[[span class="Texturina"]] "Texturina Text" [[/span]]
+> @@ [[span class="Texturina"]] Texturina Text [[/span]] @@
+
+[[span class="Garamond"]] "Garamond Text" [[/span]]
+> @@ [[span class="Garamond"]] Garamond Text [[/span]] @@
+
+[[span class="Playfair"]] "Playfair Text" [[/span]]
+> @@ [[span Playfair="Anton"]] Playfair Text [[/span]] @@
+
+[[span class="Tegomin"]] "Tegomin Text" [[/span]]
+> @@ [[span class="Tegomin"]] Tegomin Text [[/span]] @@
+
+[[span class="Asap"]] "Asap Text" [[/span]]
+> @@ [[span class="Asap"]] Asap Text [[/span]] @@
+
+[[span class="Tangerine"]] "Tangerine Text" [[/span]]
+> @@ [[span class="Tangerine"]] Tangerine Text [[/span]] @@
+
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:carribean-deep-theme/code/1); @@
+> @@ [[/module]] @@
+

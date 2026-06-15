@@ -1,0 +1,495 @@
+---
+title: "Memetics Analysis"
+tags: ["document", "lore", "research"]
+page_id: "1445877364"
+site: "rpcauthority"
+slug: "memetics-analysis"
+revision: 6
+revision_id: "1514875188"
+author: 8622928
+timestamp: 1697162166
+---
+
+[[include component:rate]]
+
+[[module CSS]]
+.blockquote {
+  margin: 12.8px 40px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  padding: var(--blockquote-padding);
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+[[/module]]
+
+[[module CSS]]
+
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #40;
+/* black shadow at the top of the terminal */
+    background-image:
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #10);
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #BBBBBB
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 17s linear 0s infinite;
+    animation: scan 12s linear 0s infinite;
+    background: linear-gradient(to bottom, rgba(40, 66, 92,0), rgba(40, 66, 92,0.1)) !important;
+}
+
+div.text{
+    color: rgba(128,255,128,0.8);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);}
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+
+[[module css]]
+@import url(http://rpc-wiki.net/component:research-theme/code/1);
+[[/module]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+[[/module]]
+
+[[div class="research-paper"]]
+
+------
+
+[[=]]
+[[collapsible hideLocation="both" show="[+] Excerpt from 'Introduction to Memetics'" hide="[-] Close"]]
+[[/=]]
+
+[[div class="blockquote"]]
+
+The field of memetics is, if nothing else, horribly flimsy. It is a new, frantic kind of science for which no answers are truly certain, and ignorance is the first and last line of protection. The term "meme" — itself ill-defined — represents the smallest measure of cultural information, explicit in thought or implicit in memory. While not perfect parallels, the meme's behavior is more like a protein, while the breadth of its influence is akin to the gene.
+
+The importance of individual memes cannot be understated, but their influence is best expressed when in groups, known as meme-clusters, meme-complexes or simply 'memeplexes'. These are the DNA chains of culture. Ideologies, cultural concepts, art currents, business strategies, and methods of study are all different expressions of meme complexes that drive our collective consciousness forward. Building blocks of society.
+
+Consider the prion. A misfolded protein, with the invasive capability to impress its misfolded shape onto other proteins, breaking down biological processes as it does. Prions are linked to certain neurodegenerative diseases: Alzheimer's, Parkinson's, and Huntington's, among others, most of which are as of yet incurable by civilian science.
+
+Now apply this concept to the culture. What do you consider pathological ideologies? Communism or capitalism may come to mind, and while these have certainly impacted culture in an irreversible way, they are a drop in the pond compared to the devastating influence and unstoppable spread of memetic illnesses. The vector for spread is a single word, and its power over the infected mind is unknowable and unstoppable.
+
+The Department of Anti-Memetics was founded when the realization you're now feeling swept through the higher echelons of the Authority. Someone in the upper brass scrambled together a team of expert psychologists and totally ignorant memeticists and ordered them to figure out how to build a defense against the perfect memetic machine. They were ill-prepared.
+
+Truth is, we still are, but the reality of our situation is that pathogens like the one I described are indescribably rare. Much like the perfect virus, the perfect meme can only exist through devilish ingenuity and the action of a human hand, which as of yet remains a problem for future generations. Our current understanding is too flimsy to warrant worrying. We are Alexander Flemings to a world full of disease — but what we have in our hands is penicillin.
+
+Most of the memes we know today are cognitohazards, which are anomalous consequences to the perception and interpretation of visual stimulus or, with infohazards, mere information that often irreversibly alters our way of thought. For a field as new as memetics, we depend upon the research of those that came before us to parse the memetic world. Elements of the Dyad Classification are derived from a guide against possession, scanned from a disintegrating vellum scroll abandoned in a European site, and transcribed into readable English, as should be evident from the antiquated look of its various designations. Even today, the ghost of old Auctoritas guards us from what we are too young to know.
+
+— Dr. A. Petrocchi
+[[=]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+------
+
+[[=]]
+**DESCRIPTION** 
+[[/=]]
+
+A meme is data transferred via writing, speech, gestures, rituals, or any phenomena that can be imitated and/or replicated. Information that can be perceived and copied through any medium. Behaviors, words, dances, among many other subjects are classified as memes.
+
+Memetics refers to the field of study that applies to memes and their effects. Memetic is also an adjective that refers to anything that has the qualities of a meme.
+
+Mimesis, the act of imitation, is the vector through which memes can spread. Memes as a whole are, technically, not anomalous, and to a degree are recognized by the public.
+
+[http://rpcauthority.wikidot.com/memotics-hub Memotics] is the study of memory. Memes carry quanta in some capacity, and certain kinds can transform scalars to vectors.
+
+The Authority is the leading organization in memetics research and development, with the largest and most comprehensive repository of memes stored in Authority databases all over the world. Nonetheless, the field is largely unexplored. It is estimated that only 0.49% of all existing memes have been isolated, leaving an unknown number of memes that influence the behavior of human beings.
+
+The impact these memes can have are vast, including but not limited to emotional effects, ideological effects, (mis)information effects/vectors, memory alteration capabilities, mind control capabilities, mind regression capabilities, and most, if not all senses (Visual/Auditory/Haptic/Olfactory/Gustatory/Kinesthetic[[footnote]]Thermoceptive memes are currently purely theoretical.[[/footnote]]) can be used as vectors for memes. Given that memes cannot universally be contained, containment protocols are allocated on a case-by-case basis.
+
+A cognitohazard describes anything that can cause an anomalous effect once perceived. Infohazards are often used interchangeably but are a distinct subtype that is limited to information alone that proves hazardous once understood. While memes can be cognitohazardous, and cognitohazards can imprint memes, cognitohazards usually do not compel replication.
+
+[[div class="blockquote"]]
+
+Not unlike the relationship between a bird and a tree's fruit, memes grow and develop to be consumed by humans, usually for some social or survival benefit, that lay the seeds for the strain to spread. Some compare it to a virus, which carries a negative connotation. Memes and men can and must coexist. Neither survives without the other. No memes means no language, no religion, no ideas. Even the most remote tribes have memes. Certain animals have instinctual memes to hunt and to kill.
+
+- [*http://rpcauthority.wikidot.com/rpc-001-2 Dr. Kurt Gödel PhD]
+
+[[/div]]
+
+------
+
+[[=]]
+**GÖDEL-FARENIGHT DYAD CLASSIFICATION SYSTEM (GFDCS)**
+[[/=]]
+
+The Gödel-Farenight Dyad Classification System (GFDCS) is a proposed system for the classification of memes that, despite being utilized by several sites and certain prominent researchers, remains largely unrecognized by the Authority. While fairly effective in asserting a meme's infectiveness and impact, it is considered by some to be too broad and/or vague in its classifications and is still under development[[footnote]]Rahman, Dakota. 1998. “Against The GFDC System: Pebble in a River” //Authority Educational Research Journal// 6 (2): 11–14. [[/footnote]].
+
+Two distinct components are classified through the GFD: The primer, and the payload. The primer is the trigger of the meme itself, while the payload is the effect of that exposure. Each component is classified, and then measured on a scale of 1-5 by their spread and severity respectively.
+
+Severity and spread are more controversial elements that further define the capacity of the meme. Spread is the limitation of the concept to which the meme is tied- that is, a meme linked to a niche idea that exists in only a handful of separated languages has low spread, while a meme with high severity is able to overcome that limitation thanks to its potency.
+
++++ Scaling Chart:
+
+||~ Level ||~ Severity ||~ Spread ||
+||~ 0 || Effect is limited to one individual. || Incapable of spreading, not a meme. ||
+||~ 1 || Memetic effect can influence multiple individuals. || Culturally embedded. Meme spreads among families and immediate relations. Spreads among small communities or specialists, such as aerospace engineers. ||
+||~ 2 || Meme can influence a localized organization or society. A shared workspace, a frequently-visited building, and a park are all common vectors. || Meme features elements recognizable by entire cultures. Limited namely by language. However, certain Level 2 memes can still spread across typical cultural boundaries if their cultural vector is religion, such as Roman Catholicism. ||
+||~ 3 || Entire civilizations can be affected. || Meme spreads among multiple cultures and languages. "Multilingual" memes. ||
+||~ 4 || Meme can affect the sum total of the human race and influence other species. || Meme can spread across context and culture. The progress of time does not dilute the spread of the meme, even as cultures and beliefs change, and has infected multiple //lingua franca//, such as Spanish, English, and Mandarin Chinese. ||
+||~ 5 || Meme is cognitive- anything capable of thought and awareness can be affected. || Ontological meme, linked to a concept as a vector. Darkness, heat, death.||
+
+------
+
+++ Primers
+
+A series of classes that specify the vector through which the meme spreads.
+
+++++ Meduses:
+
+Primary vector relies on visual recognition.
+
+* Gilgamesh: Vector incorporates the written word.
+
+* Pheidias: Vector incorporates elements of visual art, including sculptures and paintings.
+
+* Mozi: Photographs and digital art. Controversial designation, since a Mozi can feature elements of a Gilgamesh or a Pheidias in its composition. The majority of artificial memes are Mozi.
+
+++++ Siren:
+
+Primary vector is based on sound.
+
+* Seikilos: Meme is a song of some form, with or without lyrical components. Also includes recited poetry.
+
+* Iliad: Meme spreads through the spoken word.
+
+++++ **Eidolon:**
+
+Theoretical "maximum meme", capable of instantly spreading between individuals, triggered by the communication of the meme through any medium. The nature of the meme transcends language and the senses, and so long as the idea can be recognized in any capacity, it can influence the victim.
+
+------
+
+++ Payloads
+
+The effect of the meme once the primer has been triggered.
+
+++++ Motus:
+
+Manipulates and stimulates instinctual parts of the subject's mind to produce certain emotional behavior. Purely mental and the most common type of non-anomalous meme. Can include ideologies, religions, and philosophies. While it can lead to performing certain external actions, the action itself is not the meme.
+
+++++ Phlegethon:
+
+Effect manipulates neuron firings in the brain resulting in new sensations in the body, i.e. drowsiness, pain of any sort, or visual/auditory hallucinations.
+
+* Basilisk: Effect invariably results in death of the subject, whether after a certain period of time or instantly, by compromising the human brain through its manipulations.
+
+++++ Lethe:
+
+Effect revises the consumption of information resulting in a different perception of said information, or parts of the information being removed from recall. Examples include viewing the statement "I ate too much today" and registering the information within that statement as "I haven't eaten at all today." Another example would be viewing a dog and registering it as another animal, such as a rat.
+
+++++ Potentia:
+
+Effect reorders any unconscious bias the subject possesses to elicit a new system of mental priorities within the subject. Results can range from opinions changing to a complete removal of priorities in the brain, such as the perceived value of eating food to stay alive.
+
+++++ Proxior:
+
+Payload is only delivered through in-person exposure. Proxior memes are often too intricate for the payload to trigger through even the most minute filtering, such as a camera lens. The high level of detail is often connected to a more severe payload, however. Proxior memes can be replicated, but their design and nature are usually too complex for the majority of humanity to be affected.
+
+Non-anomalous Proxior memes include notable math equations or certain structures in engineering that have been propagated throughout their respective fields.
+
+> A notorious Proxior meme with an anomalous nature were the blueprints for the lakehouse for a "Joseph Welkard". The schematics would not trigger in anyone without the necessary architectural knowledge to truly understand it, but should an unfortunate engineer parse it, they would be compelled to replicate elements of the lakehouse's design on any future projects, leading to several apartment complexes having bizarre staircases and kitchen layouts. These blueprints would likewise carry the Proxior, leading to several notable architects in the county of Swansea in Wales having to be retired.
+
+------
+
+++ Unique Classifications
+
+Unique classifications may or may not replace elements of the designation, or be tagged at the end of the meme's classification.
+
+++++ Antimeme:
+
+Self-redacting information. Antimemes can have any level of severity but are usually mild as they redact themselves before they can have any major impact. Often classified with a spread level of "-1".
+
+++++ Lambda:
+
+Spread level of memes that are carried by cognitohazards. The meme cannot spread by the behaviors it encourages. Technically not memes, but often similar in effect.
+
+++++ Advena:
+
+Memes that do not effect human minds barring extreme exposure circumstances or cognitohazards. The majority of Advena memes are those spread among animals.
+
+++++ Gamma:
+
+Memes with effects beneficial or ambivalent to the human mind, either encouraging necessary behaviors or filtering dangerous elements of human perception. Gamma memes may be produced from or encouraged by the neurotransmitter Anopticin, and therefore can be disabled by [http://rpcauthority.wikidot.com/viderics-guide Viderics]. This is partially why Viderics often have such a negative impact on the user's health, as certain essential impulses are repressed. Non-chemical methods of suppressing filtering Gamma memes have been proposed, but these methods risk disabling memes that encourage life-preserving behaviors. Certain artificial memes have become so ingrained among some populations that they have become almost as vital as other natural Gamma memes.
+
+++++ Aleph:
+
+Also known as "chained memes," Alephs can produce other memes. Difficult to classify, as whether the "produced meme" is a separate meme or simply a secondary effect is often indiscernible.
+
+++++ Null:
+
+Also known as "impossible memes." Null memes are antimemes that can spread, transforming information from bound scalars to vectors freed from the system. While often targeting specific types of information, certain Nulls transform vital Gamma memes, which can make them lethal Basilisks. Nulls cannot transform themselves, and remain until all information that they target is removed from the ground.
+
+* Cockatrice: Effect invariably and directly results in death of the subject, whether after a certain period of time or instantly, by disabling vital Gamma memes. While Potentia memes can affect Gamma memes to reduce the priority of eating food, Cockatrice memes may disable or manipulate Gamma memes that filter dangerous elements from our perception.
+
+* Rasa: Nulls capable of redacting all possible information within a system. Does not self-redact until only it remains. While their vector may vary, Rasa are not limited by subject or theme as they transform information.
+
+> Pheidias-Proxior Null S2S3 #10949 was a small sculpture of a long-haired woman clutching a pillar to her chest, carved in granite and recovered from a digsite in modern Athens. Firsthand exposure to the sculpture removed any and all information regarding plants and plant byproducts in the Zea genus[[footnote]]A genus that includes corn and similar plants.[[/footnote]] over several days.
+
+------
+
+[[=]]
+**MENTAL STABILITY CHECKS**
+[[/=]]
+
+The Authority often integrates memes into its daily operations, either in the creation of Gamma Memes that develop Theophan Resistance or implementing memes in certain announcements or security procedures. Besides the AGT system[[footnote]]Security system that, using strobe lights, high-pitched audio, and disorienting memes, represses hostiles.[[/footnote]], one of the more obvious usages of memes are in Mental Stability Checks (MSCs) that are tests required every month as per the terms of Authority employment.
+
+The Office of Ethics and Review's "Title II" operates and designs MSCs with the assistance of Shibboleth, an advanced Machine Intelligence Program that enables the in-depth personalization of each MSC as information is acquired.
+
+MSCs come in several varieties, but only 3 major classifications exist, with a Theophan 3 (T3) MSC corresponding to Severity 3 memes. Samples are provided below, transcribed without the visual memetic elements.
+
+**MSC-T3:** Most common MSC, assigned to the majority of personnel every month. Questions implement several minutely anomalous memes that encourage certain responses. With programs determining if the responses are within an "acceptable range", MSC T3s are capable of identifying the presence of severe anomalous influence, and thanks to the lack of severity, are able to discern certain qualities such as loyalty or morale.
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+
+> **NAME:** MIKHAIL LUYTEN
+> **CLEARANCE LEVEL:** LEVEL 1-341 CONTAINMENT-MAINTENANCE
+> **DATE:** 2.21.23
+> **TIME (UTC):** 09:02
+>
+> //Answer each question to the best of your ability. There are no wrong answers. Try to keep your responses under 200 characters.//
+>
+> ------
+>
+> {{**QUESTION:** You're walking home after a long day of work. You look down the street and you see your house. Describe it in your response.}}
+>
+> {{**INPUT RESPONSE:** __I live in an apartment complex, I don't have my own home. It's colored beige, and I'm up on the fourth floor.__}}
+>
+> {{**QUESTION:**  Does your house have more than one entrance?}}
+>
+> {{**INPUT RESPONSE:** __The hallway door, and I have also had to make my way inside through the balcony's screen door a few times.__}}
+>
+> {{**QUESTION:** Is there a key to any of the entrances of your house? How many?}}
+>
+> {{**INPUT RESPONSE:** __Yes. I have two copies, because I've lost them a few times at work.__}}
+>
+> {{**QUESTION:** Who is with you in your house? Type "N/A" if you are alone.}}
+>
+> {{**INPUT RESPONSE:** __My older brother.__}}
+>
+> {{**QUESTION:** Is your house safe?}}
+>
+> {{**INPUT RESPONSE:** __I'm concerned about a mold spreading on my bathroom wall, but we haven't had any break-ins.__}}
+>
+> {{**QUESTION:** Tell us your older brother's full name.}}
+>
+> {{**INPUT RESPONSE:** __Petr Rigil Luyten.__}}
+
+[[/div]]
+[[/div]]
+
+**MSC-T4:** Carries Authority-designed cognitohazards in the questions asked. Often utilized in Mental Stability Checks performed in more dire circumstances to determine the presence of any anomalous influence, and provided to medical staff for examinations. Also implemented in monthly MSCs required for high-ranking staff who often have increased Theophan Resistance. Usually less capable of determining more minute differences (such as loyalty) due to the severity of the memes employed.
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+
+> **NAME:** D.X. KAPTEYS
+> **CLEARANCE LEVEL:** LEVEL 3-058 PROTECTION
+> **DATE:** 12.1.15
+> **TIME (UTC):** 11:02
+>
+> //Have your camera unblocked and online as you answer each question to the best of your ability. Keep your responses under 200 characters.//
+>
+> ------
+>
+> {{**QUESTION:** There is a house in the middle of a field. Its walls are red, and the roof is yellow. Do you recognize it?}}
+>
+> {{**INPUT RESPONSE:** __No. My house is white, and the roof is grey.__}}
+>
+> {{**QUESTION:** The door is unlocked. The handle feels cool in your hand. Which way does the handle turn?}}
+>
+> {{**INPUT RESPONSE:** __Clockwise.__}}
+>
+> {{**QUESTION:** The house is empty. It smells of rotten fruit. What fruit is rotting?}}
+>
+> {{**INPUT RESPONSE:** __Oranges and pears.__}}
+>
+> {{**QUESTION:** Who is with you?}}
+>
+> {{**INPUT RESPONSE:** __There is no one with me.__}}
+>
+> {{**QUESTION:** Does this house seem safe to you?}}
+>
+> {{**INPUT RESPONSE:** __The smell of fruit could attract flies.__}}
+>
+> {{**QUESTION:** Tell us the name of the house.}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** Tell us what you are to this house.}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+>
+> {{**QUESTION:** Tell us what you are.}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+
+
+[[/div]]
+[[/div]]
+
+
+**MSC-T5:** Most extreme MSC employed. Implements the most powerful memes in possession of the Authority. If a T5 MSC does not produce the desired response, the entity receiving the meme is not human.
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+
+> **NAME:** DANIEL REIKOWSKI
+> **CLEARANCE LEVEL:** LEVEL 4-611 RESEARCH
+> **DATE:** 2.1.19
+> **TIME (UTC):** 07:02
+>
+> //Answer each question. Do not turn away from the screen while responding. You will not blink.//
+>
+> ------
+>
+> {{**QUESTION:** Where are you?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** There is no one with me.}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+>
+> {{**QUESTION:** What is my home?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** Who is with you?}}
+>
+> {{**INPUT RESPONSE:** __There is no one with me.__}}
+>
+> {{**QUESTION:** What is safe?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** Where are you?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** What is safe?}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+>
+> {{**QUESTION:** What are you?}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+
+[[/div]]
+[[/div]]
+
+
+------
+
+[[=]]
+**THEOPHAN RESISTANCE**
+[[/=]]
+
+[[div class="blockquote"]]
+
+Theophan Resistance is a quality recorded on the profiles for the majority of all Authority personnel, below blood type. It is difficult to define, and often improperly recognized, but it generally is a measure of an individual's ability to recognize and resist a meme of any kind, even anomalous ones. It refers only to the spread of the meme- once a meme has infected personnel, the severity is generally unable to be mitigated by preexisting resistance, only by training.
+
+It is measured with a rank of 0 to 5, with 5 being the lowest and 0 being the greatest resistance, measured alongside memetic spread. With a resistance of 4, an individual can recognize memes that spread across context and culture. The average human has a resistance of 5.
+
+Theophan Resistance is difficult to measure as it would require being exposed to a meme of that level in order to be deemed resistant to it. Usually, it is tested by applying memes of slowly rising intensity until their effect is applied and recording the minimum and maximum of the threshold of resistance. It is fairly common to see individuals whose resistance "varies" between different levels rather than entirely within a single class of meme.
+
+This is also comparable to the inundation training designed to improve one's resistance to memes, but it is not desirable for all employees to possess a high level of resistance, as that would result in difficulty applying MSCs or certain security/loyalty-based memetics.
+
+Autism spectrum disorder (ASD), antisocial personality disorder (ASPD) and attention deficit hyperactivity disorder (ADHD) have all been linked to high levels of Theophan Resistance, with high levels of psychopathy usually correlating to the highest natural (that is, untrained) levels of resistance.
+
+"Antimemetipath" is a currently unofficial diagnosis of an individual whose resistance has reached such a degree that they are generally incapable of imitating human behavior and struggle to gain new information- Antimemetipaths are most recognizable due to the "lack of an accent." Without proper training, this condition can become pathological. However, it is immensely beneficial to researchers and MSTs who are often exposed to dangerous memes.
+
+Antimemetipaths are incredibly uncommon. The biological prerequisites and the living environment in which an individual would need to be raised within in order to develop this condition rarely occurs by circumstance, and while artificially induced antimemetipathy has been performed in the past (see: "Project Plato, 1989") it has not been attempted again since.
+
+[[/div]]
+
+------
+
+[[=]]
+**ARTIFICIAL/UTILIZED MEMES**
+[[/=]]
+
+Artificial memes usually feature elements that make them unclassifiable within the GFDCS. Artificial cognitohazards such as the ones utilized via the Cognitohazard Projection System are likely connected to a meme.
+
+[[div class="blockquote"]]
+
+**Inundator:** Memes that feature diluted elements of severe and anomalous memes to inundate victims. Progressive buildup with Inundators allow for the development of increased Theophan Resistance, or the expansion of already existing resistance. Inundator memes are the most common memes utilized by the Authority, as they are often displayed in announcements, memos, signs, names, etc. in order to ensure all Authority staff possess at least a limited resistance to common pathological memes and cognitohazards. Carefully designed to prevent inundation against security cognitohazards and/or Gamma memes.
+
+The [http://rpcauthority.wikidot.com/lexicon-auctoritas#a Addams-Merryweather Subliminal Memetic Payload] is a reliable low-level audiovisual memetic carrier suitable for the long-term memetic inoculation of large populations. Certain AMSMPs are already operating to a limited degree to filter previously categorized Basilisk memes.
+
+**Implantor:** Aleph meme designed to "carry" a certain meme as a payload to be delivered. Generally utilized when a more severe meme lacks spread.
+
+**Suppressor:** Advanced Null Meme intended to eliminate hostile memes in the public consciousness. Very mild Suppressors developed by the Authority have already been released on certain occasions, but Severity 4 Suppressors do exist that are kept for worldwide emergencies. These S4S4 Suppressors may also eliminate memes that are not the targeted meme in question, resulting in the erasure of cultures, communities, and possibly certain Gamma memes. Requires Board approval to release.
+
+**Annihilator:** S4S3 Null meme designed to completely wipe all non-essential memes from the brain. More extreme (and possibly lethal) form of Suppressor.
+
+**Trisagion:** S5S5 Null Meme designed to eliminate the unconscious Gamma Memes of the brain that keep us alive- when released, would neutralize most, if not the entirety of the human race in several hours. Does not exist, but with the unanimous approval of the Board, the meme would be "assembled" and deployed. Currently, the components of the Trisagion are stored in three separate parts, each implanted in the minds of 3 Authority personnel. These personnel are screened for certain qualities and have the component unconsciously implanted via an Implantor, and the component can be retrieved when they hear a certain keyword chain. Can be designed to only target certain communities, cultures, or other demographics. Developed by GD-WAR as a response to the nuclear arsenal of several world powers.
+
+[[/div]]
+
+[[/div]]
+

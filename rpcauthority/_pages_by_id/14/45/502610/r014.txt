@@ -1,0 +1,87 @@
+---
+title: "GRP-077 — \"Whispers Beyond Light\""
+tags: ["cosmic-embers", "document", "esoteric-hazard", "grp", "incorporeal-hazard", "mincon2023", "omega", "psychotronic-hazard", "sapient-hazard", "translated", "uncontained", "yellow"]
+page_id: "1445502610"
+site: "rpcauthority"
+slug: "grp-077"
+revision: 14
+revision_id: "1510263816"
+author: 3722979
+timestamp: 1684188362
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+[[/module]]
+
+[[include component:rate | translations=show | translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/grp-077"]]]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-psychotronic.png title="Psychotronic"]] [[image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf-1-1/HallucinogeneHazard.png title="Hallucinogen"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png title="Sapient"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-incorporeal.png title="Incorporeal"]] 
+|align=right
+|name=https://rpcauthority.wdfiles.com/local--files/grp-077/lightcone.png
+|width=300px
+|caption=GRP-077 diagrammed on a lightcone. White indicates Slower-Than-Light trajectory, yellow indicates safe Faster-Than-Light trajectory, orange indicates danger, and red indicates ship destruction. Unreachable past FTL region not shown.
+]]
+
+> [[f<image http://www.rpc-wiki.net/local--files/component:icons/omega-yellow.png]]
+> 
+> **Galactic Registered Phenomena:** 077
+> 
+> **Object Class:** Omega-Yellow
+
+**Containment Protocols:** Higher-order effects of GRP-077 are mostly self-containing due to current technological limitations. Lower-order effects of GRP-077 are to be combatted via psychological resistance training. All GRPC pilots are to complete basic impaired cognition and mental resistance exercises. Pilots of experimental and captured craft not limited by Drunkmann Reluctance are to have extensive experience with psychotronic anomalies.
+
+**Description:** GRP-077, more commonly known as Pilot Sickness or Void Mirage, is a progressively worsening anomalous effect observed by both probes and manned vessels traveling at superluminal velocities of 100c and above. Its manifestations occur in stages that correspond to orders of magnitude in the ship's velocity. 
+
+
+
+||~ Stage ||~ Range ||~ Effects ||
+|| **Stage 1** || 100-1000c || Auditory hallucinations of animal noises. 30-decibel range, intervals from 33 to 2 minutes. Frequency of hallucinations increases with velocity. "Distant" and "searching." Minor digital interference. ||
+|| **Stage 2** || 1000-10000c || Increased auditory hallucinations, early visual hallucinations. 60-decibel range, "close" and "angry." Introduction of "ambient" hallucinatory sounds, beating heart/hearts, wind, echoing. Darkening of lights and darting shadows at edges of vision. Computers receive false malfunction reports.||
+|| **Stage 3** || 10000-100000c || No consistent patterns. Full auditory and visual hallucination. Non-responsive voices. Content of hallucinations specific to the victim's psyche. Risk of overheating in computers from the increasing volume of false alerts. Malfunction reports, sensor ghosts, and unauthorized access attempts from an unknown source. ||
+|| **Stage 4** || 100000-1000000c || Data corrupted and survivors incoherent. Permeant psychosis. Hallucinations act with intelligence and malice. Impersonation of shipmates, loved ones, and inner dialog. Coercion, manipulation, and psychological torture. Increase in adrenaline and overstimulation of the amygdala/equivalent. Homicides common. Vessel frequently sabotaged and/or destroyed by its crew and/or computer.||
+|| **Stage 5** || 1000000c || Vessel destroyed by unknown means. ||
+Drunkmann Reluctance is a direct effect of GRP-077. The diminishing returns given by the biotics within the human-developed Drunkmann Drive as the vessel surpasses 100c are currently believed to be the result of an evolved aversion to GRP-077 and its effects rather than an inherent limitation of the biotics themselves. Current Drunkmann Drives have a maximum velocity of approximately 1000c, allowing occasional exposure to the effects of Stage 2 but mostly limiting exposure to Stage 1. It is unknown precisely what effects GRP-077 has on Drunkmann Biotics that prompted the evolution of Drunkmann Reluctance. However, testing of Drunkmann Biotics forcibly accelerated past this self-imposed limit by captured alien drives has shown that past 10000c, the diminishing Drunkmann Field will reverse polarity and begin fighting against the alien propulsion device.
+
+**Discovery:** GRP-077 was formally discovered in 1991 when early Drunkmann Drive technology surpassed the 100c threshold for the first time. However, the existence of an anomaly similar to GRP-077 was speculated over a decade earlier in 1977. Attached below is the transcript of a lecture given at the University of Sol on the topic of reverse-engineering extraterrestrial FTL technology.
+[[collapsible show="+Transcript" hide="-Transcript"]]
+> Hello everyone, thank you for coming. I know the title of this lecture must have sounded rather strange, and half of you are probably expecting me to put on a tinfoil hat at any moment.
+> 
+> //Polite laughter//
+> 
+> Now I think everyone with at least a passing knowledge of xenotechnology should already know about the so-called "Expanded Lightcone Problem," but there are students from our slightly less-then-prestigious rivals in the Oort Cloud with us here today, so I'll be explaining it again.
+> 
+> //Mixture of laughter and mock jeers from the audience//
+> 
+> Since the loss of Earth, we've come to know our galactic neighbors quite a bit better than we might otherwise like to. Especially the Selohssa — I think we can all be thankful they never thought to read the English name we gave them backwards.
+> 
+> And one of the most obvious things about these various alien races we've encountered is their ships. Specifically, their ships' ability to travel faster than light, something that has allowed them to enter and leave our solar system while we remain more or less confined within it.
+> 
+> Finding a way to breach the light barrier ourselves is one of the most pressing scientific endeavors of our time, ranking in importance only just below the problems of space habitation and survival. The most expedient way to do this, of course, is to steal it from our neighbors.
+> 
+> Many of us xenotechnologists have enjoyed quite sizable grants for research projects studying alien ship movements to glean some small piece of information from them as to just how it is they are able to break the lightspeed barrier. And from this emerging field of study has risen a simple yet vexing question: "Why is there no time travel?"
+> 
+> Similar to the Fermi Paradox of pre-embers day astronomy, the Expanded Lightcone Problem is the seeming contradiction between the facts that FTL travel exists and yet time travel does not, despite the fact that the two technologies, according to General Relativity, should be one and the same.
+> 
+> Various solutions have been proposed. A popular one among the more naïve and optimistic of my colleagues is that time travel is possible but merely prohibited by some kind of galactic treaty, or by a simple standoff of Mutually Assured Destruction. Now I can see the looks some of you are giving me for calling the idea that the galaxy might be in a MAD stalemate "naïve" and "optimistic". It is. Because if the galaxy were in such a standoff, it would never have lasted this long. MAD is not stable, especially not when it can be broken by any idiot with an FTL-capable ship. Galactic civilization is simply not capable of such self-restraint.
+> 
+> The second most popular theory, which I will be proposing a variation of today, is the Universal Reference Limit. While the Collective Agreement Theory posits a social explanation, the Universal Reference Limit gives a physical explanation. Of course, this theory is only the //second// most popular for a reason — it violates relativity. If General Relativity predicts that FTL and time travel should be the same, and the evidence shows that they are not, then as the Universal Reference Limit reasons, some part of General Relativity must be wrong. In the case of this theory, that part is the absence of a universal reference frame.
+> 
+> General Relativity tells us that any reference frame is as good as any other. The different observations of different observers are all equally true because they are merely taking different three-dimensional cross-sections of the same four-dimensional spacetime. The snag, of course, comes when we introduce Faster-Than-Light travel. Anything traveling slower than light will trace out a world line within the future lightcone, the region of spacetime that is indisputably in the future. Anything traveling faster than light will trace out a world line //outside// the future lightcone, in the region of spacetime that could be either past or future depending on the reference frame of the observer. For this reason any FTL trajectory could be seen as traveling into the past from a certain reference frame. And if FTL ships travel into the past, what's to stop them from simply looping back around and entering the past lightcone to create a paradox?
+> 
+> This is where the Universal Reference Limit comes in. The Universal Reference Limit postulates that there is some universal reference frame from which a sort of speed limit is imposed upon FTL travel. The ideal candidate for this reference frame is the Cosmic Microwave Background, or CMB, which is the closest we can get to a "reference frame of the universe." By imposing a universal limit and keeping all FTL trajectories above this limit, any possible FTL trajectory will always be moving forwards in time relative to the universal reference frame. Even though there will still exist reference frames from which the FTL trajectory is moving backwards in time, it will never be able to complete a full time loop and re-enter the past lightcone because such a loop would have to move backwards through all reference frames, and the limit imposed by the universal reference frame makes this impossible.
+> 
+> My congratulations to the three of you that actually understood that. For the rest of you, just remember that FTL trajectories can't cross the CMB plane of simultaneity, and this prevents paradoxes from forming. Now on to the more esoteric half of this lecture.
+> 
+> If we're being honest, nobody came here to hear me talk about physics. You all came because you heard we were going to talk about cults. And yes, we are. "Bob's UFO Cult" was an actual cult. The Authority had to raid them in '67 and break up their operations. Despite presenting themselves to the public as a harmless group of sci-fi cosplayers and crackpot conspiracy theorists, their fanaticism extended beyond fiction and into theology. They were discovered to have hoarded various anomalous artifacts, especially those of extraterrestrial origin, and the holy book their founder was in the process of writing has the mild memetic effect of giving anyone who reads it a headache — presumably as a result of a memetic compulsion that was never completed.
+> 
+> The only reason the Authority caught wind of the group's activities was because of a schism which broke the cult open. There was a violent disagreement among its members as to whether the "whispers beyond light" were a malevolent force or a "gift from the blessed Karne." A growing splinter faction within the cult voiced the "heresy" that these "visions of terror and madness" were a warning to travelers who strayed too close to crossing the "veil of time." This of course, may sound a bit familiar — because if rephrased into scientific terms, it would sound a lot like the Universal Reference Limit.
+> 
+> Now this may all seem like a bit of a coincidence to you. The mad ravings of a cult happen to look a bit like current scientific theory. But consider this — all of this took place before Embers Day. And yet if we look at the sketches in their holy book of the "divine UFO" that carried their founder across the heavens on a pilgrimage to Karne, we can see that it looks identical to a Selohssa scout ship.
+> 
+> While the cult was clearly crazy, the evidence would seem to suggest that their founder really was abducted by aliens. And the "whispers beyond light" he wrote of that caused the heresy may very well be a crazed description of an actual physical phenomenon he witnessed while carried faster than light on the alien vessel. Ladies and gentlemen, it is my conclusion that both the predictions of science and the testimony of a mad alien abductee point to the existence of some terrible warping effect that occurs when one travels too far past lightspeed relative to the CMB, some terrible whispering beyond the speed of light that wards us away from crossing into our own pasts.
+> 
+> And that is my tinfoil hat conspiracy theory. I look forward to being fired.
+[[/collapsible]]
+

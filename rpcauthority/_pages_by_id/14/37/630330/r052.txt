@@ -1,0 +1,189 @@
+---
+title: "Minimalism Contest"
+tags: ["contest"]
+page_id: "1437630330"
+site: "rpcauthority"
+slug: "mincon-2023"
+revision: 52
+revision_id: "1523830105"
+author: 3050074
+timestamp: 1723830352
+---
+
+[[module css]]
+@import url(https://rpcauthority.wikidot.com/component:theme/code/1);
+
+
+@media (max-width: 1099px) {
+.submissionsContainer {
+display: none;
+}
+}
+
+@media (min-width: 1100px) {
+.submissionsContainer {
+position: absolute;
+left: 730px;
+}
+}
+
+.submissions {
+  background: var(--content-panel-background);
+  padding: 5px;
+  box-shadow: var(--content-box-shadow);
+}
+
+.submissions a {
+  text-decoration: none;
+}
+
+table.wiki-content-table td {
+    padding-bottom: 1em;
+    border: none !important;
+}
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[div class="submissionsContainer"]]
+[[div class="submissions"]]
+Submissions
+[[size 150%]]
+= [#submissions ▼]
+[[/size]]
+[[/div]]
+[[/div]]
+
+[[div class="image"]]
+[[=image https://rpcauthority.wdfiles.com/local--files/mincon-2023/Corperate%20Clip%20Art.png width="90%"]]
+[[/div]]
+
+[[div style="font-size: 110%"]]
+##var(--primary-text-color)|**The Minimalism Contest**:## Words, words, words. There're too many of them. Too much time is wasted slogging through 10k plotlines, convoluted crosslinks, and every slasher cliche in between. Flash fiction is meant to be efficient -- impactful. You get in; you get out. Bing, bang, boom! So, for the end of the year, let's keep it simple. 
+
+Post a short article in two months: No theme, no format, and no strings attached. Lay off the custom code & the deep-lore documents. 1st Place goes to the highest-rated article. __Most Minimalist Article__ goes to the highest-scored article (see "Points System" Tab). 1500 words are the goal, but there's a 3k word limit. The shorter the better. What's not to like?
+
+[[/div]]
+
+[[div class="content-panel"]]
+
++ Official Placements
+
+**1st Place** ties between [http://rpcauthority.wikidot.com/rpc-781 RPC-781] by [[*user MF_TOMB]] and [http://rpcauthority.wikidot.com/rpc-155 RPC-155] by [[*user DrPierson]], sharing a 4.7 star rating.
+
+**2nd Place** ties between [http://rpcauthority.wikidot.com/rpc-622 RPC-622] by [[*user JimmyBoyHaha]] and [http://rpcauthority.wikidot.com/rpc-373 RPC-373] by [[*user Almarduk]], sharing a 4.4 star rating.
+
+**3rd Place** ties [http://rpcauthority.wikidot.com/rpc-354 RPC-354] by [[*user Juiceoverflow]] and [http://rpcauthority.wikidot.com/rpc-936 RPC-936] by [[*user Superspambot]] , sharing a 4.3 star rating.  
+
++++ Secondary Challenges
+
+[[*user DoubleDenial]] is the **Media Contest winner,** with [http://rpcauthority.wikidot.com/a-rudimentary-depiction-of-rpc-996 A Rudimentary Depiction of RPC-996] garnering 4.4 stars.
+
+Last but not least, the title of __**Most Minimalist Author**__ goes to... [[*user Juiceoverflow]], netting a whopping [http://rpcauthority.wikidot.com/rpc-354 340 points!]
+[[/div]]
+
+----
+
+[[# submissions]]
++ MinCon Entries
+[[div class="content-panel"]]
+++++ Writing Submissions:
+[[module ListPages separate="no" tags="+MinCon2023 -art -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+++++ Art Pieces:
+[[module ListPages separate="no" tags="+minconart2023 -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+[[/div]]
+
+
+
+----
+
+[[collapsible show="[+] Archived Contest Rules & Challenges" hide="[-] Archived Contest Rules & Challenges"]]
+
+[[tabview]]
+[[tab Contest Rules]]
+
+**SUBMISSIONS ARE BEING STREAMLINED:** To enter, upload your contest entry as if it were a normal article and tag it using "MinCon2023"
+
++ Rules & Article Requirements:
+* __Articles do not have to be about minimalism,__ the contest is about quickly executing expressive ideas about any subject.
+* Your article must receive **two pieces** of crit posted in the [https://rpcauthority.wikidot.com/forum/c-4288628/drafts drafts forum.] DO NOT COLD POST.
+* Your article cannot exceed a **3k word count** or use a custom theme.[[footnote]] Documents or tales from an Alt-Canon, AR, or EoI perspective can still be submitted and tagged as such. [[/footnote]]
+* Multiple contest submissions and editing of already submitted contest entries are allowed. Furthermore, submitting reworked articles or pre-existing drafts that have gone unpublished before the announcement of the contest is also allowed.
+* Do not excessively advertise, vote-hound, or request a vote change for your submissions.
+* Using alt accounts or other deceitful means of vote manipulation will result in a life ban and disqualification from future contests.
+* To qualify for **Most Minimalist Article,** article submissions must have at least four users vote on it and require a minimum rating of **3.2/5 stars** or beyond[[footnote]] To workshop or advertise your articles, consider posting them in the RPC Official Discord, linked in the sidebar (use #Discovery). [[/footnote]]
+
+Word count will be determined based solely on text printed directly on the website page itself, meaning that CSS and other invisible do-dads that show up in the Page-Source, or raw text, DO NOT COUNT toward the total.[[footnote]] All offsets contribute to one grand word count. [[/footnote]]
+
+[[/tab]]
+[[tab Point System]]
+
+++ **BONUSES:** //Writing Submissions can score points based on the following...//
+
+|| Most Highly-Rated Contest Article || 100 Points ||
+|| 2nd Most Highly-Rated Contest Article || 75 Points ||
+|| 3rd Most Highly-Rated Contest Article ||  50 Points ||
+|| Less than 1000 words || 100 Points ||
+|| Includes ONE Image (Properly cited without staff) || 50 Points || 
+|| Newbie bonus: The author has never written for a contest/event.[[footnote]] Contact [[*user televisionist]] to receive the bonus. [[/footnote]] || 50 Points || 
+|| No Format Breaks/Any formatting not found in [https://rpcauthority.wikidot.com/formatting-guide Formatting Guide Content.][[footnote]] **Use Common Sense:** This rule applies to sidenotes, hazard images, info boxes, etc. Adding section dividers, "archived containment protocols" or otherwise, or transcribing letters or shipment manifest in a blockquote are okay, just as long as it's not CSS-intensive or a massive GoI document. If you're on the fence, contact [[*user televisionist]] for a case-by-case clarification. [[/footnote]] || 50 Points ||
+|| No Entities of Interest || 25 Points ||
+|| No Past-Event/Contest Involvement || 25 Points ||
+
+++ **Penalties:**
+|| Word count above 1500 || -100 Points || 
+|| Word count above 2000 || -150 Points || 
+|| Includes offsets and/or supplemental pages || -50 points || 
+|| Includes crosslink(s) || -25 Points || 
+|| Includes footnote || -10 Points (per footnote) || 
+
+Points will be tallied by staff after the submission period. The Article with the most points will be dubbed "Most Minimalist Article." This is a secondary challenge category separate from the top-three winners.
+
+[[/tab]]
+[[/tabview]]
+
+[[include component:sidenote
+figure=//MOTIVATIONAL POSTER// {circa. 1973}|
+name=https://rpcauthority.wdfiles.com/local--files/mincon-2023/Motivational%20Poster.png |
+type=image
+]]
+
+##var(--primary-text-color)|**MinCon Multimedia Contest**:## Upload your RPC-related art directly to the Site under the tags "MinConArt2023" and "art." The highest-rated art piece wins. Art, video, infographics, and audio are all good mediums.
+* __ART ENTRIES DON'T NEED TO BE MINIMALIST:__ but should deal with themes of abstraction, brevity, or minimalism either visually or thematically.
+
+----
+
+[[div style="padding-left: 5%;"]]
++++ Submission Dates:
+[[div style="padding-left: 3%;"]]
+##var(--primary-text-color)|**Writing & Multi-Media Submissions Open**:## 9th of December, 3:30PM EST
+##var(--primary-text-color)|**Writing & Multi-Media Submissions Close**:## 17th of February, 11:59PM EST
+Winners will be announced on **February 24th, 2023**
+*  Contact [[*user televisionist]] (!Zingo Zango Zalgo Zongo Bongo#6309#2181) for any questions/concerns.
+[[/div]]
+[[/div]]
+
+**1st Place** with the highest-rated article will win the [http://rpcauthority.wikidot.com/rpc-024 RPC-024 Slot] and a 50k Toddbux Prize in the Main Discord. The **Top Three Entrants** will be featured on the front page. **"Most Minimalist Article"** will net its Author the "Writing-Challenge" Site Badge & Discord Role, a 50k Toddbux Prize. The **Media Contest winner** will also receive the Top-Artist Site Badge and Discord Role. So good luck!
+
+[[/collapsible]]
+
+----
+
+[[div style="font-size: 95%"]]
+[[collapsible show="[+] Contest Credits" hide="[-] Contest Credits"]]
+----
+++++++ A Special Thank You To:
+Directed by [[*user Televisionist]] (did both the poster and main title card as well),
+And with creative input & idea brainstorming from: [[*user SuperSpambot]], [[*user Almarduk]], [[*user 8ismo]], and [[*user Blairin]]
+
+----
+[[footnoteblock]]
+
+[[/collapsible]]
+[[/div]]
+

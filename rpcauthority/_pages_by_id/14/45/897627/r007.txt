@@ -1,0 +1,165 @@
+---
+title: "Global Operations"
+tags: ["lore"]
+page_id: "1445897627"
+site: "rpcauthority"
+slug: "global-operations"
+revision: 7
+revision_id: "1523254083"
+author: 5982545
+timestamp: 1722111742
+---
+
+[[module css]]
+
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+#main-content a[href^="http"]::after {
+    background-image: none; 
+    padding-right: 0 !important; 
+} 
+
+.container {
+  position: relative;
+}
+
+.customImage {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.imageDisplay {
+  color: white;
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -48%);
+}
+[[/module]]
+
+[[div style="float: left; padding-right: 15px;"]]
+[[toc]]
+[[/div]]
+
++ **Overview**
+
+The global management of the organization is largely overseen by the Global Directorate, but entrusts those within the site and regional managements to handle affairs regionally that otherwise do not concern their purview. New employees, however, are often confused to as how the inner-workings, operations, and resources of the Authority even function. 
+
+As per recommendations by the Presidium and the Office of Human Resources (OHR), this hub serves as a information hub concerning the structure, operations, management, and departments of the Authority. 
+
+For more information on a specific top, refer to the links provided or allocated over by the table of contents.
+
++ **Hierarchy & Structure**
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/progression-page-vii/Director%20Hierarchy%20Chart.png|caption=Director Hierarchy]]
+
+Organizations and institutes are largely dependent on decision makings of a leadership, or in this case a collective leadership. The concept of an organization-structure or hierarchy largely pivots on the resources and manpower, in which the ability to soldify its role across the globe enhances their ability to complete their mission objectives. However, the fundamental issue boils down to centralization and decentralization types of structure. Now, the Authority organization previously approached both these types with earlier efforts, between mid-nineteenth century to the mid-late twentieth century, decisively held on a centralization type organization.
+
+There are advantageous and disadvantageous to centralization, although earlier organization efforts into centralization made sense during that period due to its efforts for organizational maturity. However, this wouldn't stay into the modern era as micro-managing regions and logistics would be a nuisance for the Global Directorate, let alone interrupt their ability to govern the organization as a whole. 
+
+As the world had recently went through a global conflict and began transitioning to a more internationalist period, the Global Directorate followed by shifting from a centralized institute to a more de-centralized one. Decentralization made sense as it would ease organizational operations, but it would also allow the Global Directorate to function in governing global management. These efforts also resulted in the creation of "Regional Managements." 
+
+Regional managements are basically the middle people between site management and global management, in which issues that are site or regional would be adjudicated by the respective regional management. Most regional managements, led by a Regional Director, do often report to the Global Directorate on certain issues that may be outside of their region or simply relate to global issues. 
+
+++ **Leadership** 
+
+The Authority operates on a global-scale, its resources and logistics capable reaching the far-corners of our planet, and able to deploy containment teams on a moments notice. All these resources and organization are fairly difficult to maintain which is why the organization maintains three levels of management: 
+
+||||||~ Site Management||~  ||~ Regional Management||~ ||||~ Global Management||
+||= Area Directors||= Site Directors||||= >>||= Regional Directors||||= >>||= Global Directors||
+
+It's important to note that the hierarchy outlined above also works as a succession process. In which a Site Director is appointed by a Regional Director, and a Regional Director is appointed by the Global Director. Unlike a Site Director or Regional Director, Global Directors are instead elected through a democratic process. This process is held differently for both Divisional and Regional representatives as both undergo different elections and appointing process.
+
+For more information about the election process, see the [http://rpcauthority.wikidot.com/authority-regional-sites#toc14 Global Representative Voting Process].
+
+For more information about the hierarchy, see the [http://rpcsandbox.wdfiles.com/local--files/progression-page-vii/Director%20Hierarchy%20Chart.png Authority Departmental Hierarchy]. 
+
+++ **Divisions**
+
+Divisions are the main bodies that govern three aspects of the organization: Research, Protection, and Containment. The three divisions share the same name, and are led by divisional representatives. Within these divisions contain many departments and personnel, where they interact with each other on a daily basis to achieve their missions. 
+
+For more information pertaining to each divisions, see [https://rpcauthority.wikidot.com/research-hub Research], [https://rpcauthority.wikidot.com/protection-hub Protection], and [https://rpcauthority.wikidot.com/containment-hub Containment].
+
+For information pertaining to the Presidium or Administration, see the [http://rpcauthority.wikidot.com/administration-hub Administration hub].
+
+
++++ [[size 130%]]**Regional Commands**[[/size]]
+----
+
+[[div class="container"]]
+[[div class="overlay"]]
+[[div class="imageDisplay"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/executiontester/RegionalHeader2.png link="https://rpcauthority.wikidot.com/authority-regional-sites" width="100%"]]
+[[/div]]
+[[/div]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ttpy18/Regions.png class="customImage"]]
+[[/div]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 3px #1b2d6e; padding: 0px 15px; margin: 15px 0px; font-family: Verdana; line-height: 141%"]]
+
+The Authority employs a worldwide network of facilities that functions as research and containment installations. Sites, Areas, and OL-Sites are essential elements to the operational security of the Authority. While an appointed administration oversees many of these facilities, external oversight is conducted by the highest levels of the Presidium. Specifically within Regional Commands, or commonly known as Regional Sites.
+
+Regional Sites are the highest point of local administration, in which it overseas Area, Site, and OL-Site Directors to provide support and oversight. These administrative hubs are a focal point for administrative affairs that carry out the Authority's interest, often the directives of the Directorate.
+
+[[/div]]
+
++++ [[size 130%]]**Districts**[[/size]]
+----
+
+[[div class="container"]]
+[[div class="overlay"]]
+[[div class="imageDisplay"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/executiontester/DsitrictsHeader.png link="https://rpcauthority.wikidot.com/operational-districts" width="100%"]]
+[[/div]]
+[[/div]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ttpy18/Districts.png class="customImage"]]
+[[/div]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 3px #1b2d6e; padding: 0px 15px; margin: 15px 0px; font-family: Verdana; line-height: 141%"]]
+
+Smaller sub-regions within the established regional commands are referred to as "operational districts" (OpDis). These sub-regions were established in an effort to prevent future nationalization of Authority institutes.
+
+Operational districts vary in size and shape within a regional command, and are led by a Regional Director who are appointed by their respective regional representative. However, the number of operational districts has since decreased steadily with the last district expansion authorized back in late 1996. While regional representatives have the power to expand districts, they require the approval of the Regional Directors Association, which has the authority to adopt resolutions opposing any proposed district expansion.
+
+[[/div]]
+
++++ [[size 130%]]**Branches**[[/size]]
+----
+
+[[div class="container"]]
+[[div class="overlay"]]
+[[div class="imageDisplay"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/executiontester/BranchesHeader.png link="https://rpcauthority.wikidot.com/branches" width="100%"]]
+[[/div]]
+[[/div]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ttpy18/Branches.png class="customImage"]]
+[[/div]]
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 3px #1b2d6e; padding: 0px 15px; margin: 15px 0px; font-family: Verdana; line-height: 141%"]]
+
+Over the years, many Branches have been established across the globe, overseeing the diplomatic dialogues between their governments and the Authority, as well as coordinating the facilities placed under its care. These Branches, encompassing countries on both a national or cultural level, serve to represent the Authority's entrusted mission in upholding the veil of secrecy between mankind and the anomalous.
+
+[[/div]]
+
+[[footnoteblock]]
+

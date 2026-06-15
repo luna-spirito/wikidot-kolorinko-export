@@ -1,0 +1,78 @@
+---
+title: "Auptics Author Quote Module Guide"
+tags: ["guide"]
+page_id: "1436651769"
+site: "rpcauthority"
+slug: "auptics-author-quote-module-guide"
+revision: 5
+revision_id: "1544174621"
+author: 5982545
+timestamp: 1779889767
+---
+
+> If there's any suggestions or bugs you'd like to report, feel free to message me on the main discord, my username is Dexo.
+
+++ Purpose
+The purpose of this module is to allow writers to use their creative power to create a custom embed when their RPC or Tale or whatever is invoked by the Auptics III Bianhua discord bot on the RPC Authority discord. 
+
+By default, the bot will select appropriate portions from the page source to create an aesthetically-pleasing summary embed that links to a desired RPC or tale. However, authors very often will have a portion of their article in mind that they would rather want showcased instead, as they may believe it would be more hooking, eye-catching, or for a multitude of other reasons. It's for this reason that I created the author quote module, or AQM. 
+
+Furthermore, Auptics isn't perfect. While it is incredibly robust in how it determines the key information of a given article even in the wake of organic, unpredictable formatting/styling/syntax used in many articles, some things may rarely slip through the cracks. Most commonly when this happens, the object class won't get detected by Auptics since the formatting may be too unique for the bot to encapsulate its detection. With the AQM, authors can manually fix anything that slips through. I don't have all the time in the world to spend on fixing every article's little edge case of an edge case, so instead I can make a tool to let you do it instead, on the off chance you need it.
+
+-----
+
+++ Diagram:
+
+This is an embed for RPC-159.
+
+[[image embedexample.png width="75%"]]
+
+-----
+
+++ Syntax:
+
+[[div class="content-panel"]]
+[[span style="background-color:red;color:white"]]@@[!--@@[[/span]][[span style="background-color:yellow;color:black"]]{[A3AQM::!::[[/span]]
+[[span style="background-color:blue;color:white"]]maintext[[/span]][[span style="background-color:orange;color:black"]]="[[/span]][[span style="background-color:green;color:white"]]Main text of embed.[[/span]][[span style="background-color:orange;color:black"]]"[[/span]][[span style="background-color:magenta;color:white"]]::[[/span]]
+[[span style="background-color:blue;color:white"]]objectclass[[/span]][[span style="background-color:orange;color:black"]]="[[/span]][[span style="background-color:green;color:white"]]Specific Object Class.[[/span]][[span style="background-color:orange;color:black"]]"[[/span]][[span style="background-color:magenta;color:white"]]::[[/span]]
+[[span style="background-color:blue;color:white"]]title[[/span]][[span style="background-color:orange;color:black"]]="[[/span]][[span style="background-color:green;color:white"]]Custom Title[[/span]][[span style="background-color:orange;color:black"]]"[[/span]][[span style="background-color:magenta;color:white"]]::[[/span]]
+[[span style="background-color:blue;color:white"]]imglink[[/span]][[span style="background-color:orange;color:black"]]="[[/span]][[span style="background-color:green;color:white"]]Image Link.png[[/span]][[span style="background-color:orange;color:black"]]"[[/span]][[span style="background-color:magenta;color:white"]]::[[/span]]
+[[span style="background-color:blue;color:white"]]planttruncationlink[[/span]][[span style="background-color:orange;color:black"]]=[[/span]][[span style="background-color:green;color:white"]]false[[/span]]
+[[span style="background-color:yellow;color:black"]]]}[[/span]][[span style="background-color:red;color:white"]]@@--@@][[/span]]
+[[/div]]
+
+
+
+||~ Color ||~ Description||~ Optional ||
+|| [[span style="background-color:red;color:white"]] Red [[/span]]|| Wikidot invisible text syntax.||= ✘ ||
+||  [[span style="background-color:yellow;color:black"]] Yellow [[/span]] || Flag used to signal to Auptics that there exists an AQM within the article. ||= ✘ || 
+||  [[span style="background-color:blue;color:white"]] Blue[[/span]] || Optional parameters. Any can be used in any combination in any order between each other.||= ✔ ||
+||  [[span style="background-color:orange;color:black"]] Orange [[/span]] || Connection/encapsulation symbols. Equals sign  always immediately connect Blue and Green text. Quotes go around any Green text that isnt a boolean true or false. ||= ✘ ||
+||  [[span style="background-color:green;color:white"]] Green [[/span]]||User-specified value for a parameter. Discord formatting applies.||= ✔||
+||  [[span style="background-color:magenta;color:white"]] Magenta [[/span]]||Separator blocks.||= ✘ ||
+
+-----
+
+++ Parameters
+
+* Parameters are case-sensitive. 
+* Do not use spaces unless between orange text/quotes. 
+* Line breaks are ignored.
+
+||~ Parameter ||~ Description ||
+|| maintext || Replacement for the "Description:" portion of the embed. Limited to 500 characters.||
+|| objectclass || Specifies Object Class. Limited to 30 characters.||
+|| title || Replacement for the title. Limited to 100 characters. ||
+|| imglink || Replacement for the image. Must be a URL. ||
+|| planttruncationlink || Can only be manually set to false. If unspecified, will be assumed true. If set to false, the embed will not end the maintext/description with the "..." truncation link that links to the article.||
+
+-----
+++ Special Flags
+
+||~ Flag ||~ Description ||
+||<br> || Gets replaced with a proper line break in the embed. This must be used for when line breaks are desired, since Auptics ignores all natural line breaks when reading the AQM.||
+||<aqmdl>|| Replaces text with an anchor text that links to the article. Used only when customizing the maintext parameter. Must be encapsulated around desired anchor text. Ex. <aqmdl>Kentucky-Fried Smegma</aqmdl> -->  [[[auptics-author-quote-module-guide|Kentucky-Fried Smegma]]] || 
+
+-----
+More may be added in the future.
+
