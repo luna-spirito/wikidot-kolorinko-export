@@ -1,0 +1,27 @@
+---
+title: "RPC-306"
+tags: ["j2020"]
+page_id: "1002272266"
+site: "rpcauthority"
+slug: "contest:j2020jokah"
+revision: 10
+revision_id: "1516995139"
+author: 5982545
+timestamp: 1703539083
+---
+
+[[include component:contest-entry]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:jokahj2020-1
+http://www.rpc-wiki.net/fragment:jokahj2020-2
+--]
+[[footnoteblock]]
+

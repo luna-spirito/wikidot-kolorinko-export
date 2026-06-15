@@ -1,0 +1,44 @@
+---
+title: "Extended Tales Lists"
+tags: ["supplemental"]
+page_id: "1002343289"
+site: "rpcauthority"
+slug: "top-rated-extended-tales"
+revision: 7
+revision_id: "1288971974"
+author: 3118961
+timestamp: 1595796102
+---
+
+[[# top]]
+[[tabview]]
+[[tab Highest Rated Tales]]
+[[=]]
+++ **Highest Rated Tales**
+**Tales sorted by stars**
+[[/=]]
+----
+[[module ListPages category="-contest" tags="tale" votes=">=8" perPage="250" limit="250" order="rating desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/tab]]
+[[tab Most Popular Tales]]
+[[=]]
+++ **Most Popular Tales**
+**Tales sorted by total votes**
+[[/=]]
+----
+[[module ListPages category="-contest" perPage="250" limit="250" tags="tale" rating=">0" order="votes desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/tab]]
+[[/tabview]]
+

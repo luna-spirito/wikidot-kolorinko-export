@@ -1,0 +1,14 @@
+---
+title: "Rating"
+tags: ["component"]
+page_id: "999918392"
+site: "rpcauthority"
+slug: "component:rating"
+revision: 6
+revision_id: "1367510598"
+author: 5258122
+timestamp: 1628547945
+---
+
+[[include component:rating-base align={$align}|align=right|votes={$votes}|votes=right|stars={$stars}|decimal={$decimal}|decimal=none]]
+

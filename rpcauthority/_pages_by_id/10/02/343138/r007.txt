@@ -1,0 +1,28 @@
+---
+title: "250 Highest Rated RPCs"
+tags: ["supplemental"]
+page_id: "1002343138"
+site: "rpcauthority"
+slug: "top-rated-extended-highest-rated-rpcs"
+revision: 7
+revision_id: "1288970573"
+author: 3118961
+timestamp: 1595796069
+---
+
+[[# top]]
+[[div class="content-panel"]]
+[[=]]
++ __Highest Rated of All Time__
+**RPCs sorted by stars**
+[[/=]]
+----
+[[module ListPages category="-contest" votes=">=15" tags="rpc, rpc-j" perPage="250" limit="250" order="rating desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/div]]
+

@@ -1,0 +1,279 @@
+---
+title: "RPC-530"
+tags: ["alpha", "rpc", "white"]
+page_id: "999696339"
+site: "rpcauthority"
+slug: "rpc-530"
+revision: 7
+revision_id: "1362077141"
+author: 3672751
+timestamp: 1617731262
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1); 
+
+hr {
+    color: #A8A8AA;
+    height: 0px;
+    border-top: none;
+    border-bottom: dashed 1px #716e6e;
+    background: transparent;
+}
+
+[[/module]]
+
+[[include component:rate]]
+
+[[include :rpcsandbox:component:gd-warning
+|bg-image=http://rpcsandbox.wdfiles.com/local--files/component%3Agd-warning/arrpeesee.png
+|bg-opacity=0.1
+|text-top=BY ORDER OF THE GLOBAL DIRECTORATE
+|text-bottom=The following file describes an anomalous historical notebook, and is Level 4/530 Classified
+@@ @@
+**Unauthorized access is forbidden.**
+|phenomena-code=530]]
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+
+**Assigned Facility:** [CLASSIFIED]
+
+**Director of Research:** Dr. Lorenzo Mayes-Sinclair
+
+**Assigned MST(s):** Delta-1 "The Keepers"
+
+**Director of Containment:** SFA. Holo
+]]
+
+[[span style="font-size: 165%; font-weight: bold; color:#C0C0C0"]] Registered Phenomena Code: [[/span]] 530
+
+[[table style="border: none; width: 214px;"]]
+[[row]]
+[[cell]]
+[[size 125%]][[image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]][[/size]]
+[[/cell]]
+[[cell]]
++++ **Object Class:**
+##FFFFFF|Alpha-White (Utility)##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Hazard Types:**
+@@@@
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-immeasurable.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Immeasurable Hazard[[/span]][[/span]]
+
+----
+
++++ **Containment Protocols:**
+
+RPC-530 is to be kept within a standard Alpha-class storage room in Site-███ in the █████ sector of the ██████ Containment Level. RPC-530's containment room is to be isolated from Authority personnel and may only be accessed by the Site Director and other Level-5 personnel. 
+
+[[collapsible show="Open Note from the Global Directorate" hide="Close Note"]]
+> To: RPC-001 Personnel
+> From: The Board
+> Subject: RPC-530 Security
+
+> {{Hello, those trusted by the Authority. After several discussions on how we can prevent classified information on RPC-001 being acquired by RPC-530, it is to restrict those employed with RPC-001's containment, protection, or research from RPC-530. It makes it more difficult for us to find efficient trustworthy researchers for RPC-530, but unfortunately, this is our only way of protecting some of the most delicate information on the RPC Authority.}}
+> 
+> {{**RPC Authority**}}
+> {{**Office of the Global Directorate**}}
+[[/collapsible]]
+
+RPC-530's containment room is to be equipped with a pedestal and pressure plate, which RPC-530 will rest on. In the event that RPC-530 is moved, a sector lockdown is to be initiated and Delta-1 "The Keepers" deployed.
+
+Tests conducted on RPC-530 by select researchers must be approved by the Site Director. In the event of a test being accepted, automatic security protocols are to be deactivated. All tests conducted on RPC-530 must be surveilled by at least one Delta-1 operative and the hallway leading to its containment is to be locked down until conclusion, and no matter the circumstances, all personnel within the room during a test are to have Class A-1 amnestics administered when concluded.
+
+[[include component:image-enlarge name=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0ESD3mkTJO-mRSsDvXe87eG-K1JVRdw5AzhOeZ23Z8fL1fuZY|width=300px|caption= RPC-530 upon retrieval. Taken from Spc. Skyscraper's body-cam.]]
+
+----
+
++++ **Description:** 
+
+RPC-530 takes the appearance of a college-ruled notebook, from approximately mid-1780s, with the text "Anne Churchill II" labeled on the front of the notebook. After extended research, Anne Churchill II was a French woman, who participated in the French Revolution and was executed on November 7, 1989. Anne Churchill II was the owner of a family library in Paris, France.
+
+RPC-530 is an old notebook, which has been observed to write information on any person, item, or event in its proximity of 13.5 meters. This includes information like criminal records, personal information, relationship status, and even other information that has been fully redacted. RPC-530 has a tendency to have discrepancies when it comes to time-related information. 
+
+At this time, it is unknown whether or not there is an end to the notebook. As of right now, there are 523 pages. Once each page is complete, a new one is made in an instant. There has not been any halt in writing once a person enters its radius.
+
+In extreme cases, RPC-530 has been used as a benefit to the Authority for finding unknown information. The use of RPC-530 must be approved by the Department Director that the action is affiliated to and then two Global Directors.
+
+[[collapsible show="RPC-530 Use Requests" hide="Close 'RPC-530 Use Requests"]]
+-----
+//Listed from newest to oldest.//
+> January 7, 2020, | Special Agent Derek ████████
+Reason: Monthly audit of ACI operatives;
+Department: Authority Central Intelligence;
+- Approved: ACI Director ███ "Stagger" ███████, Global Director 05 & Global Director 03
+Result: [REDACTED]
+
+> October 17, 2019 | Agent TC ███████
+Reason: Attempting the relocation of RPC-042
+Department: Mobile Specialized Teams; Foxtrot-04
+- Approved; MST Director Gabe Peploe, Global Director 06 & Global Director 02
+Result: Pending publication.
+
+> November 9, 2019, | Dr. Cory Klemens
+Reason: Disciplinary hearing on Dr. Tod Elonard. Research on unauthorized RPC. Suggested punishment: Medium Security detainment; 8 years, Treason.
+Department: Office of Ethics and Review
+- Approved; EaR Director Khaleb Lowery, Global Director 03 & Global Director 07
+Message to Dr. Cory Klemens: This is the first time the Board will see RPC-530 used as a resource for Authority ethics. Use it wisely and properly, punishment will follow otherwise. - Global Director 03
+Result: Dr. Tod Elonard charged with Treason and given 8-years of Medium Security detainment in a federal prison.
+-----
+[[/collapsible]]
+
+-----
+
++++ **Discovery:** 
+
+RPC-530 was found after a book was located in an antique shop known as Abélia's History in Manchester, England. Originally, the book was posted as a regular book from the 1700s. It was believed by the owner that it was a regular book compiled of information from a census in France. Renters of the book returned it claiming it "wrote on its own" and "knew what they were thinking" and so on. 
+
+After the Authority became aware of the RPC, Alpha-3 "Scavengers" were dispatched to the location at 1:03 a.m. Greenwich Mean Time on October 1, 2019. Upon arrival in a dark utility van with a U.K. Ministry of Defense decal. The van was parked in the West alleyway. After approaching the building, Spc. Skyscraper picked the lock on the side entrance on the west alley of the building. After breaching the room, each operative searched the shelves carefully, putting anything that changed back to its original state. Unfortunately, RPC-530 was not secured, and the owner claimed the notebook went missing the night before, though there was no evidence of forceful entry or robbery.
+
+After further satellite research, an abandoned building within a field NW of Abélia's History. After ground recon, it was confirmed the building was a schoolhouse closed in 1920 and has not been inspected or worked on since. Alpha-3 "Scavengers" was deployed once again after a recording was published to YouTube at 12:42 a.m. GMT October 3, 2019, demonstrating the general capabilities of RPC-530. The video was taken down and files removed from the uploader's device. After tracking down the uploaders, Class A-1 amnestics were administered.
+
+
+[[collapsible show="[Open File: AL.530.RC]" hide="[Close File]"]]
+> The following file is an audio recording of the second attempt at recovery of the phenomenon.
+> People within recording:
+> * FA. Shogun
+> * Spc. Skyscraper
+> * ASA. Raven
+> * SA. Will 0-2
+> Date: October 3, 2019
+> Start Time: 12:53 a.m. GMT
+> End Time: 12:56 a.m. GMT
+
+
+> **Will 0-2:** [00:02] //chuckles, sighs// "Here we go again."
+> 
+> **Spc. Skyscraper:** [00:04] //scoffs// "Well I guess it wouldn't hurt to go again."
+> 
+> **Will 0-2:** [00:08] "Mm, even though it was a 2-hour waste of my time. Sure, it wouldn't hurt..."
+> 
+> **FA. Shogun:** [00:10] "Heh, we complaining about the op? I'm wondering why Will is on CO[[footnote]] Commanding Officer [[/footnote]] this operation. What a duckling, young one."
+> 
+> [00:13] //All chuckle//
+> 
+> [00:14] //A thud is heard//
+> 
+> **Will 0-2:** [00:15] "Alright, lets go boys."
+> 
+> **FA. Shogun:** [00:17] "No problem, son."
+> 
+> **Will 0-2:** [00:20] "As we discussed boys. Shogun, take point, Skyscraper, your fourth, watch our six, Raven, keep on my six.
+> 
+> **Will 0-2:** [00:24] //sighs// "Linear stack, let's move, keep it tight, only a 4m gap."
+> 
+> **FA. Shogun:** [00:26] //clears throat// "Wilco."[[footnote]] Another word used for understanding, sometimes used in the military. [[/footnote]]."
+> 
+> **Spc. Skyscraper:** [00:27]  "Roger."
+> 
+> **ASA. Raven:** [00:27] "Got it."
+> 
+> **Will 0-2:** [00:30] "Crossing."
+> 
+> **Will 0-2:** [00:32] "Set."
+> 
+> **Spc. Skyscraper:** [00:35] "Last man set."
+> 
+> **Will 0-2:** [00:38] "Moving, keep low. Main entrance spotted, 11 o' clock."
+> 
+> **Will 0-2:** [00:45] "Bow-tie breach. Send it."
+> 
+> [00:48] //The sound of Spc. Skyscraper setting up a recon drone is audible.//
+> 
+> **Spc. Skyscraper:** [00:53] "Drone deployed."
+> 
+> **Spc. Skyscraper:** [01:01] "Entrance clear."
+> 
+> **Will 0-2:** [01:09] "Roger. Light breach. 3, 2, 1, go."
+> 
+> [01:10] //The pin of a flashbang is pulled.//
+> 
+> [01:15] //A yelling and grunting sound is heard.//
+> 
+> [01:16] //The door slams open.//
+> 
+> **Spc. Skyscraper:** [01:20] "Wrapping left."
+> 
+> **FA. Shogun:** [01:21] "Wrapping right."
+> 
+> **ASA. Raven:** [01:22] "Taking six."
+> 
+> **Will 0-2:** [01:23] "Take straight."
+> 
+> **Spc. Skyscraper:** [01:26] "Clear! Got a civi!"
+> 
+> [01:27] //A man is heard sounding drunk and confused.//
+> 
+> **Jackson:** [01:29] "Move! Move! Light, light, light. The book. Light, light light. Where's the book."
+> 
+> **Spc. Skyscraper:** [01:30] "Shut the hell up and get down on the ground!" 
+> 
+> **Spc. Skyscraper:** [01:32] "Secured the package. Got the notebook, finally..."
+> 
+> **FA. Shogun:** [01:39] "Searching the civi..." 
+> 
+> [01:40] //Rustling of the pants the man was wearing//
+> 
+> **FA. Shogun:** [01:50] "No I.D., nor is he armed. We got a John Doe wearing cargo pants in winter weather?" //chuckles// 
+> 
+> **FA. Shogun:** [01:56] "I've never seen anyone high enough to do this to themselves in England during winter.
+> 
+> **Spc. Skyscraper:** [01:58] "Eh. We don't know his life story Shogun."
+> 
+> **Will 0-2:** [02:09] //sighs// "Alright, let's load up. Call in for detained transport. We'll get him identified soon."
+> 
+> [2:12] //The sound of a door being opened is heard before the recording cuts off//
+[[/collapsible]]
+RPC-530 was later secured to Site-███ before further testing was conducted and RPC-530 received its classification.
+
+Due to the uncertainty whether or not this person is affiliated with or has anything to do with the notebook or may be part of an EoI, the following person has officially been put under Authority Watch for a time TBD[[footnote]] To be determined. [[/footnote]] upon publishment of the notice. We are working alongside the MI5 for tracking of the activities of this person until further notice.
+
+This picture was taken within an RPC operated detention center in Manchester, England. He was given Class A-1 amnestics upon release.
+
+> [[=image http://rpcauthority.wikidot.com/local--files/rpc-530/530-2.png]]
+> 
+> [[=]]
+> Jackson Shepherd, 31
+> Race: Black
+> Hair: Faded sides, short curls, black hair.
+> Eyes: Brown
+> Facial Hair: Black ear-to-ear beard.
+> Weight: 104 kg
+> Height: 175 cm
+> Alias: N/A
+> Occupation: Garbage Collector
+[[/=]]
+
+-----
+
++++ **Footnotes**
+
+[[collapsible show="[+] Show" hide="[-] Hide"]]
+
+[[div style="background:#1F2125; border:dashed 1.5px #666666; border-radius: 3px;  margin: 0 auto; padding: 10px 38px; color:"]]
+[[footnoteblock]]
+[[/div]]
+
+[[/collapsible]]
+----
+[[=]]
+<< [[[RPC-529]]] | RPC-530 | [[[RPC-531]]] >>
+[[/=]]
+

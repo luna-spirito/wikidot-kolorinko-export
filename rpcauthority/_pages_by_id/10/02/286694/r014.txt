@@ -1,0 +1,221 @@
+---
+title: "JimmyBoyHaha's J2020 Entry"
+tags: ["j2020"]
+page_id: "1002286694"
+site: "rpcauthority"
+slug: "contest:j2020jimmyboyhaha"
+revision: 14
+revision_id: "1516995143"
+author: 5982545
+timestamp: 1703539158
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-949
+|title=	RPC-949
+]]
+
+[[module CSS]]
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,700);
+
+.log {
+   background-color: #d4d4d4;
+   color: #333333;
+   border: 1.5px solid #395480;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   font-family: 'Roboto Mono', monospace;
+}
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** 949
+
+**Object Class:** Alpha-White
+
+**Hazard Types:** Grouped, Sapient, Transmutation
+
+**Containment Protocols:** RPC-949-A, RPC-949-B, and RPC-949-C are currently contained in a Class-I standard containment chamber in the Containment Wing of Site-016.
+
+**Description:** RPC-949 is the designation for three tables, dubbed RPC-949-A, RPC-949-B, and RPC-949-C respectively.
+
+The dimensions, materials, and structure of the RPC-949 instances periodically transmute at seemingly random times. The materials that instances of RPC-949 have been constructed from have included wood of various types, metal, glass, plastic, and vinyl. RPC-949 instances have taken various shapes and sizes, such as a one-legged circular top or a four-legged rectangular top. There seems to be a limit to the sizes at which the RPC-949 instances can exist, as all instances have never had a top that has been more than 4.5 x 6 meters or a height of over 1.5 meters.
+
+Shortly after the RPC-949 instances transform, a DISPUTANDUM Event occurs. During an event, three ~40 - 50 year-old Caucasian male individuals—designated as RPC-949-1, RPC-949-2, and RPC-949-3 respectively—appear by rising out of the floor/ground as if it is a liquid. Each individual is clad in formal wear, including a dark-grey suit and a red tie. Each individual has a pin attached to their breast, which is rectangular in shape and has "IoTR" emblazoned on the front.
+
+* RPC-949-1 is an approximately 1.8m tall Caucasian male with brown hair and a small beard.
+* RPC-949-2 is an approximately 1.7m tall bald Caucasian male.
+* RPC-949-3 is an approximately 1.8m tall Caucasian male with brown hair.
+
+These individuals will then begin a discussion about the tables, arguing as to which one is the "best". These discussions are formal in nature, with arguments rarely occurring. A typical DISPUTANDUM Event can last from ~25 minutes to over ~2 hours.
+
+When a DISPUTANDUM Event ends, RPC-949-1 through -3 will say goodbyes to each other, and sink back into the floor/ground.
+
+[[div class="log"]]
+
+= [[size 135%]]__**ADDENDUM**__[[/size]]
+= [[size 145%]]__DISPUTANDUM Event 3/23/2020__[[/size]]
+
+@@@@
+**— BEGIN LOG**
+
+**[**//RPC-949-1 is the first individual to appear. It waits for 4 seconds, after which RPC-949-3 appears.//**]**
+
+**RPC-949-1:** Greetings, glad you could make it.
+
+**RPC-949-3:** Yes, glad to see you. Where's Thomas?
+
+**RPC-949-1:** He //should// be here by now.
+
+**RPC-949-3:** We'll just have to wait then.
+
+**[**//RPC-949-2 quickly appears, and looks exhausted.//**]**
+
+**RPC-949-1:** Ah, there you are. What took you so long?
+
+**RPC-949-2:** **[**//Pants//**]** Sorry, sorry. I was at a table convention, didn't… I didn't realize we were having a debate today.
+
+**RPC-949-3:** Ugh, another one of those table conventions? Which one… let me guess, CounterCon?
+
+**RPC-949-2:** Cou– yep, it was CounterCon.
+
+**RPC-949-1:** You need to take a break from those conventions, Thomas.
+
+**RPC-949-2:** Yeah, I know. Anyways, what do we have today?
+
+**RPC-949-1:** **[**//Glances at the RPC-949 instances, and begins writing in a notepad//**]** Hm. First one is rectangular, made of wood. Second's also rectangular, but slightly smaller. It has wooden legs, though its top is glass. Third one is… huh. What //would// you call the third one?
+
+**RPC-949-3:** Uh, "blob-shaped"?
+
+**RPC-949-1:** Alright, blob-shaped. Looks to be made out of orange plastic, doesn't have any legs.
+
+**[**//RPC-949-1 closes its notepad, and faces the other entities.//**]**
+
+**RPC-949-1:** So. What do we think?
+
+**[**//Silence.//**]**
+
+**RPC-949-2:** **[**//Smacks lips//**]** I'd say the first one is the best. Nice and simple. Clean. What I look for in tables. You?
+
+**RPC-949-3:** Well, I do agree, simple can be good. But I do like the second one better; Those floral patterns on its legs look quite beautiful.
+
+**RPC-949-2:** Hm.
+
+**RPC-949-1:** **[**//Faces RPC-949-2//**]** I'll have to agree with you. The first table looks the finest. Simple and efficient!
+
+**RPC-949-2:** Exactly! Glad we're on the same page here, Chancey. We'll also have to consider safety, though. The corners look a bit sharp, no?
+
+**RPC-949-1:** True, true. But the second one would be even sharper if someone were to fall onto it. **[**//Chuckles//**]**
+
+**RPC-949-3:** Friends! We're forgetting the third.
+
+**RPC-949-1:** Ah, yes. Thank you for reminding us, Richard.
+
+**RPC-949-3:** I think… I don't know how this one would be efficient at all.
+
+**RPC-949-2:** Yes, that's what I'm thinking. Looks more like some pretentious art piece. Though plastic could be efficient.
+
+**RPC-949-1:** Yes, yes. We could recycle used plastics.
+
+**[**//At this point, Junior Researcher Simon Earlman is sent inside the Containment chamber in an attempt to conduct an interview with the entities.//**]**
+
+**EARLMAN:** Ahem, hello?
+
+**[**//The individuals turn towards Earlman.//**]**
+
+**RPC-949-1:** …who's this?
+
+**RPC-949-3:** I— I have no idea. Who are you, young man?
+
+**EARLMAN:** Uh, I'm Junior Researcher Simon Earlman of the RPC Authority. I ju-
+
+**RPC-949-3:** Wait, wait, wait. RPC Auth-what now?
+
+**EARLMAN:** Me and some other guys have been, erm, studying these tables.
+
+**RPC-949-2:** You mean these? **[**//Points towards the RPC-949 instances//**]**
+
+**EARLMAN:** Y-yes. We want to find out why they keep changing their form, an-
+
+**RPC-949-1:** Hey, we're just as confused as you are. We don't know how these things work! All we know is that they look like… they //look like tables//.
+
+**EARLMAN:** What are your… your pins for?
+
+**RPC-949-1:** What, so you're just gonna jump to another question?
+
+**EARLMAN:** Sorry. Just, like, what are those pins for, what does IoTR stand for?
+
+**RPC-949-1:** **[**//Sighs//**]** Thomas, do you want to answer this one?
+
+**RPC-949-2:** Well, we're members of the Institute of Table Research. We're recording the appearances of the tables, and…
+
+**RPC-949-3:** …and attempting to find out which ones are the best and most efficient. We cannot live in a world where dysfunctional tables exist.
+
+**EARLMAN:** Er, so why don't you just take the tables for yourself?
+
+**RPC-949-1:** Wh— what? You think we'd actually //do// that? We're not… we're not barbarians! We wouldn't take someone else's table, or— wait a second, why are you even asking these questions? What do you want from us?!
+
+**EARLMAN:** I'm just tryi-
+
+**RPC-949-3:** Yeah, since when did this become some sort of police interrogation?!
+
+**RPC-949-2:** What… what are you trying to accomplish? You can't just bombard us with a bunch of questions and expect us to comply like a bunch of minions!
+
+**RPC-949-1:** Just //fuck//. //Off//. alright?
+
+**EARLMAN:** No, you don't under-
+
+**RPC-949-1:** No, //you// don't understand. We're just trying to analyze these tables, but //nooooooo//, you have to burst in and beat us with questions!
+
+**RPC-949-2:** Do you know how hard we work to find the perfect table? Do you?
+
+**EARLMAN:** N-no…
+
+**RPC-949-2:** Wow, you really don't know? Look at this guy, he has no idea!
+
+**[**//The entities laugh.//**]**
+
+**RPC-949-1:** Our world has been suffering from the worst table shortage in decades and our people are //dying// because of it, yet you just //have// to shove your questions in our faces, and… ugh!
+
+**EARLMAN:** Suf— suffering? What?
+
+**RPC-949-1:** You //idiot//! People need tables to survive, we've needed them ever since we started existing!
+
+**RPC-949-2:** C'mon guys, let's leave. Hopefully he'll be gone when we come back!
+
+**RPC-949-3:** Tsk, //if// we come back!
+
+**[**//The entities quickly sink back into the floor.//**]**
+
+**— END LOG**
+
+[[/div]]
+
+No further interviews are currently planned.
+
+[[div style="border-bottom: 2px solid #8a8a8a; margin-bottom: 1px;"]]
+[[/div]]
+[[div style="border-bottom: 1px solid #8a8a8a;"]]
+[[/div]]
+@@@@
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[=]]
+<< [[[RPC-948]]] | RPC-949 | [[[RPC-950]]] >>
+[[/=]]
+

@@ -1,0 +1,471 @@
+---
+title: "RPC-935"
+tags: ["aggression-hazard", "auditory-hazard", "esoteric-hazard", "gamma", "grouped-hazard", "memory-alteration-hazard", "mind-control-hazard", "mind-regression-hazard", "organic-hazard", "red", "regenerative-hazard", "rpc", "sapient-hazard", "teleportation-hazard", "transmutation-hazard", "tychokinetic-hazard", "visual-hazard"]
+page_id: "1017797703"
+site: "rpcauthority"
+slug: "rpc-935"
+revision: 7
+revision_id: "1474947444"
+author: 3970162
+timestamp: 1656712670
+---
+
+[[>]]
+[[include component:rate title=rpc-935]]
+[[/>]]
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/theswedishchef/harlequins|caption=RPC-935 members, from left to right: Beta, Alpha, Gamma, Delta. Screencap from Episode 113 **//"A Spot of Gardening"//**.]]
+ [[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-red.png]]
+**Registered Phenomena Code**: 935
+
+**Object Class**: Gamma-Red
+@@ @@
+@@ @@
+**Hazard Types**: [[span class="tooltip"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aggression.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Aggression Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Grouped Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Organic Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-regenerative.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Regenerative Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-replicating.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Replicating Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sapient Hazard[[/span]][[/span]]
+@@ @@
+@@ @@
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutation.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Transmutation Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-teleportation.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Teleportation Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-tychokinetic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Tychokinetic Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-auditory.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Auditory Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-memory-alteration.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Memory-Alteration Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-control.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Mind-Control Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-visual.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Visual Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-regression.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Mind-Regression Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ontological.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Ontological Hazard[[/span]][[/span]]
+@@ @@
+------
+@@ @@
+**Containment Protocols**: RPC-935-Alpha (α), Beta (β), Gamma (γ), and Delta (δ) should be held within individual humanoid containment cells in Site-220. They are to be restrained via straight-jackets, then muzzled and blinded with sensory-deprivation headgear. Each member of RPC-935 should be fastened with a Cognitive Compliance Harness (CCH), which should be wired to an omni-directional electrical outlet in the ceiling of the cell.
+
+[[include component:sidenote
+contents=The Cognitive Compliance Harness (CCH) is a device designed by Dr.  ██████ and Senior Engineer ████ as a means to contain, nullify, and otherwise "defang" humanoid reality benders of terrestrial origin.  
+
+Due to the unique nature of reality bending entities, it is difficult to discern a universal solution to counteract their abilities. As such, steps have been taken to circumvent these powers using more understood methods, resulting in the creation of Cognitive Compliance Harnesses.
+
+The CCH is a high-power memetic device consisting of three parts; the first part resembles a metal spine that rests along the subject's own spinal column, and is mounted with 19 electrical probes that are inserted into the spinal cord between the 19 cervical and thoracic vertebrae, thus connecting to the subject's nervous system; the second part is a metallic pronged "cradle" that is connected to the base of the skull above the cervical vertebrae - this "cradle" interfaces with the subject's brainstem and emits constant memetic signals that manifest as feelings of disempowerment, discomfort, and fatigue within the subject, particularly when shifting Anderson Coherency Levels are detected nearby; the third part is a battery/cable mount that rests against the subject's lower back, above the coccyx.    
+
+CCH devices DO NOT render reality benders incapable of using their abilities; rather, they simply override the subject's own neurological impulses to present the illusion of disempowerment. As such, contained reality benders should be placed under 24-hour surveillance, and a CCH engineer should be assigned to any entity requiring a device. To increase the effectiveness of the CCH, it is recommended that contained entities be dosed with anesthetics or similar perception-dampening drugs. If an entity proves to be immune to foreign substances and their competency cannot be reduced, assigned personnel should take utmost care to neglect mentioning the superficiality of the CCHs effects around contained entities. |
+figure=**Cognitive Compliance Harness (CCH)** |
+align=center
+]]
+In the event of a blackout, backup power to RPC-935 cells should instead be drawn from local kinetic generators until power is restored (surplus batteries can be found in Storage Room F, Locker 12).  RPC-935-α, β, γ, and δ should also be dosed with anesthetic gas once every two hours to prevent them from regaining full mental faculty.
+@@ @@
+Should any member of RPC-935 escape Authority containment, [http://rpcauthority.wikidot.com/authority-security-force ASF] Rapid Response Team //("Fun Police")// are to be activated. Rapid Response's objective is to forcefully re-attach the CCH to members of RPC-935 by any means necessary. Surviving witnesses should be administered Class A-2 amnestics, and public records regarding any casualties, fatalities, or property damage are to be expunged and replaced with documentation forged by Authority PR specialists.
+@@ @@
+
+------
+
+**Description**: RPC-935 is comprised of four powerful reality-bending entities, designated RPC-935-Alpha (α), Beta (β), Gamma (γ), and Delta (δ). These entities resemble four middle-aged humans operating as television show hosts for a North American cable programme titled //Harmless Harlequins!//. Within the show, each member of RPC-935 assumes an alias, which is noted below:
+
+* 935-α is known as "James 'Jimmy' Gonzales", a Mexican-American comedian from California.
+* 935-β is known as "Peter Sonnenfeld", an English stuntman-turned-comedian.
+* 935-γ is known as "Victoria 'Vicky' Matthews", a Canadian former reality TV star-turned-presenter.
+* 935-δ is known as "Anthony Coppola", an Italian-American comedian.
+
+Once per week, for approximately 30-60 minutes[[footnote]]Around the duration of one //Harmless Harlequins!// episode (including special episodes).[[/footnote]], these four entities demonstrate the ability to manipulate local ACS levels in a particular area, and can transmute or control up to several hundred humans and/or animals residing within. RPC-935-α, β, γ, and δ have a penchant for mental manipulation and the perversion of the human body; this results in surviving victims being psychologically scarred and physically deformed, often permanently[[footnote]]See Addendum 935-1.[[/footnote]]. After this period, members of RPC-935 seemingly lose their ability to manipulate ACS levels; however, they do appear to maintain more docile powers, such as suspended aging and cellular regeneration.    
+
+Typically, an episode of //Harmless Harlequins!// lasts around 30 minutes[[footnote]]With special episodes usually lasting around 60 minutes.[[/footnote]]. Approximately, the first 20 minutes of an episode is devoted to the "Pranks!" segment, where Harlequins must complete "challenges", proposed by the other group members, which usually feature the Harlequins victimising members of the public. The "Punishment!" segment comes at the end of an episode, wherein the member deemed the "least fun" is punished by the others. "Punishments" frequently end with a member of RPC-935 mortally wounded or dead; despite this, they will appear unscathed in subsequent episodes.
+
+//Harmless Harlequins!// does not appear to have a crew, and is likely broadcast by a member of RPC-935 using their reality-warping abilities. //Harmless Harlequins!// will often be broadcast on a random basic cable channel or on internet streaming services; broadcasts are live, but there are a number of "mirror" channels that will capture footage from episodes and reupload them online. In order to prevent the spread of //Harmless Harlequins!// footage, retooling of ACID BURN software from [http://www.rpc-wiki.net/rpc-288 Site-112] is required.
+
+------
+
+**Capture Log**: At approximately ██:██ on ██/██/20██, the Authority became aware an episode of //Harmless Harlequins!// was being "filmed" near Site-220 in █████, Texas. ASF Rapid Response promptly mobilised and deployed to contain the members of RPC-935. In this instance, Rapid Response was armed with covert containment equipment including specialised non-lethal Bakelite expansion grenades and propelled gas grenades.
+
+Rapid Response made contact with RPC-935 in the middle of a "Pranks!" segment, where RPC-935-β had forcefully regressed the minds of seven civilians to a childlike state and was compelling them to cross a busy freeway with a bag of sweets. Juilett-5 engaged RPC-935 in combat; with the element of surprise, ASF was able to immobilise and neutralise RPC-935-β and δ with Bakelite grenades and CCHs. RPC-935-α manifested a large [REDACTED] in the middle of the road and used this as a distraction to teleport away. RPC-935-γ attempted to defend itself against Rapid Response, resulting in the deaths of ASF members Tango and Monsoon by "excessive expansion". RPC-935-γ was eventually incapacitated by gas grenades. RPC-935-β, γ, and δ were placed into an Authority containment vehicle for transportation to Site-220.
+
+En-route, RPC-935-α attempted to free the other members of RPC-935, turning the Authority vehicle's petroleum fuel into banana milkshake and the tarmac into polished glass. Juilett-5 exited the vehicle and attempted to neutralise RPC-935-α, further resulting in the death of ASF member Bravo, who was [REDACTED] when 935-α multiplied into miniature versions of itself and attempted to overwhelm the strike team. 935-α was neutralised when ASF member Romeo shot out the tires on an oncoming tank truck, which then collided with 935-α; α was knocked unconscious and sustained massive injuries to their body, but displayed an increased healing factor; ASF  members were able to attach a CCH to the entity before it regained consciousness.  
+
+------
+
+**Addendum 935-1**: Over 120 episodes of //Harmless Harlequins!// are reported to have aired to date; however, not all episodes have been archived and many have subsequently been lost. Below is a list of select episodes currently archived within the Authority database, with accompanying synopses.
+
+**-Episode 13 //"Doctor Dolittle"//**:
+> //Pranks!//: The Harlequins pretend to be employees at Central Park Zoo, NY, and must compete to see how many patrons they can merge with the animals. Vicky wins when she plays a game of Telephone with a group of schoolchildren; Vicky slips a memetic trigger phrase into the game which causes the children to [DATA EXPUNGED].
+> @@ @@
+> //Punishment//: Peter loses the challenge with a score of only 3; his arms and legs are severed, and he is then thrown into an enclosure filled with mutated monkeys and is consumed.
+@@ @@
+**-Episode 29 //"Shooting Blanks"//**:
+> //Pranks!//: The group goes to a dive bar for drinks, and must compete to see how many patrons they can kill in a game of Russian Roulette. First, they increase the alcohol percentage of everyone's drinks to make sure everyone is almost completely inebriated. They then play a game of Russian Roulette, but manipulate the probabilities so that the gun will always go off.  Anthony wins when he lines up patrons and kills them all with a single shot.
+> @@ @@
+> //Punishment//: Vicky and Peter lose the challenge with an equal score of 5; as such, both are forced to use the gun to [DATA EXPUNGED] who lived nearby.
+@@ @@
+**-Episode 54 //"Nobody Puts Baby In A Corner"//**:
+> //Pranks!//: The gang pretend to be kindergarten teachers at a school in ████████, Georgia. In a class lesson about bullying, the Harlequins think it would be funny to explain what "trauma" is to the children, and alter their memories so that they think their parents have been murdered, resulting in the class bursting into tears. They then tell the children that they have a surprise, and bring out their real parents. The parents attempt to comfort the children, but the Harlequins joke that they are ghosts who've come to take them away; they then compete to see how many "ghosts [they] can bust". Anthony wins with a score of 13, who manifests a "proton pack" - in reality a concentrated microwave gun - to "bust" the parents.
+> @@ @@
+> //Punishment//: Jimmy loses the challenge with a score of 7. He momentarily disappears, before reappearing moments later, dead, with a charred visage, missing most of his skin and his limbs twisted into odd angles. Anthony laughs, explaining Jimmy "just took a trip to Nagasaki".
+@@ @@
+**-Episode 88 //"Paint The Town Red"//**:
+> //Pranks!//: The Harlequins travel to ██████, Louisiana. It is a small town, with a population of around 600. After attending a local mass and introducing themselves, the group decide to compete to see who can paint the most houses without doing anything themselves. Using powers of persuasion, they split the town into four equal factions (one for each Harlequin), and have them fight to the death. Peter wins after he instructs his army to construct suicide vests, which they then detonate en-masse.
+> @@ @@
+> //Punishment//: Peter frees the town from the Harlequins' influence, but tells them that Jimmy, Vicky, and Anthony are responsible for the "hysteria that overcame them". The remaining locals restrain the three harlequins and carry them to a hill nearby where they are hanged, drawn, and quartered.
+@@ @@
+**-Episode 100 //"THE MIDNIGHT SPECIAL"//**:  
+> //Pranks!//: [DATA EXPUNGED]
+> //Punishment//: [DATA EXPUNGED]
+@@ @@
+
+------
+
+**Addendum 935-2**: Interview Logs
+@@@@
+[[collapsible show="+935-α Interview Log" hide="HIDE LOG"]]
+**Interviewer**: Senior Researcher Anderton.
+**Interviewee**: RPC-935-α aka "James Gonzales".
+**Foreword**: RPC-935-α is retrieved from containment and placed into an interview room with Senior Researcher Anderton and two armed ASF personnel. RPC-935-α's CCH is disconnected from circuitry and then reconnected to a mobile battery. CCH is fitted with shock capabilities for pacification.
+> <**//Recording begins//**>
+> 
+> <//RPC-935-α is in the middle of a profanity-laden tirade against Senior Researcher Anderton.//>
+>  
+> **Anderton**: //(over tirade)// Personnel present: Senior Researcher Anderton, ASF Sergeants Capone and Spinell. Subject is 935-α, also known as James Gonzales. Time is approximately 16:54.
+> 
+> **935-α**: -pieces of fucking shit. When we get out, we're gonna-
+> 
+> <//935-α screams as Anderton activates CCH electrocution capabilities.//>
+> 
+> **Anderton**: That's quite enough, Mr. Gonzales.
+> 
+> **935-α**: Fuck you.
+> 
+> <//Anderton shocks 935-α again.//>
+> 
+> **Anderton**: We're on your time, Mr Gonzales. This interview can be as short or as long as you want it to be.
+> 
+> <//No response.//>
+> 
+> **Anderton**: //Mr Gonzales!//
+> 
+> **935-α**: Why the hell should I talk to you?
+> 
+> **Anderton**: Let's start with something easy; how are you finding the accommodation?
+> 
+> <//A pause.//>
+> 
+> **935-α**: Lousy.
+> 
+> **Anderton**: Perhaps there's something we can do to make you and your friends more comfortable?
+> 
+> **935-α**: Look, cut the //Let's Make A Deal// bullshit. I've seen enough movies to know what you're doin'.
+> 
+> **Anderton**: Do you know who we are, Mr Gonzales? Or //where// you are?
+> 
+> **935-α**: Special prison.
+> 
+> **Anderton**: Something like that. We research people like you, among other things.
+> 
+> **935-α**: Are you researching me //now//?
+> 
+> **Anderton**: Sure.
+> 
+> **935-α**: Well, you're not very good at it.
+> 
+> **Anderton**: We just want to know more about you, James.
+> 
+> **935-α**: And I want to know about //you//.
+> 
+> **Anderton**: It doesn't work like that.
+> 
+> **935-α**: Oh, come on poindexter. You got my name; tell me yours.
+> 
+> <//A pause.//>
+> 
+> **Anderton**: You can call me Researcher-
+> 
+> **935-α**: I mean your //actual// name, idiot.
+> 
+> <//A pause.//>
+> 
+> **Anderton**: It's Cliff.
+> 
+> **935-α**: Dumb name.
+> 
+> <//A pause.//>
+> 
+> **Anderton**: Why don't you tell me about the show, James?
+> 
+> **935-α**: You a fan?
+> 
+> **Anderton**: Not exactly.
+> 
+> **935-α**: I should have known you're not the type. Know how I know that? When was the last time you got laid?
+> 
+> **Anderton**: How did you meet the others?
+> 
+> **935-α**: I bet you're still a virgin.
+> 
+> **Anderton**: How did you meet the others, James?
+> 
+> <//A pause.//>
+> 
+> **935-α**: You mean the other Harlequins?
+> 
+> **Anderton**: Yes.
+> 
+> **935-α**: Through my agent.
+> 
+> **Anderton**: You have an agent?
+> 
+> **935-α**: Doesn't every actor?
+> 
+> **Anderton**: What's their name?
+> 
+> **935-α**: Like I'm gonna tell you.
+> 
+> **Anderton**: Fine. So you meet the Harlequins, and you just decide to make the show.
+> 
+> **935-α**: No. Geez, it's like you have no idea how this industry works.
+> 
+> **Anderton**: The entertainment industry? I'm sorry Mr Gonzales, but you //are// aware that //Harmless Harlequins!// is a programme of your own making, aren't you?
+> 
+> <//935-α laughs.//>
+> 
+> **935-α**: Fucking hell. You really don't know, do you?
+> 
+> **Anderton**: What don't I know, James?
+> 
+> **935-α**: You know what? We're done here. We'll just sit tight; the Producers'll have us out of here in no time. Wait and see.
+> 
+> **Anderton**: Who are the Producers, James?
+> 
+> //No response. 935-α begins whistling 'For He's a Jolly Good Fellow'.//
+> 
+> **Anderton**: Interview concluded at 17:02.
+> 
+> <//**Recording stops**//>  
+> 
+> ------
+> **Closing Statement**: RPC-935-α was remuzzled and returned to their containment cell where they were dosed with anesthetic. Senior Researcher Anderton authorised increased security around RPC-935’s cells until further notice.
+[[/collapsible]]
+[[collapsible show="+935-γ Interview Log" hide="HIDE LOG"]]
+**Interviewer**: Senior Researcher Anderton.
+**Interviewee**: RPC-935-γ aka "Victoria Matthews".
+**Foreword**: RPC-935-γ is retrieved from containment and placed into an interview room with Senior Researcher Anderton and two armed ASF personnel. RPC-935-γ's CCH is disconnected from circuitry and then reconnected to a mobile battery. CCH is fitted with shock capabilities for pacification.
+> <**//Recording begins//**>
+> 
+> <//935-γ sits quietly, staring at Anderton.//>
+>  
+> **Anderton**: Personnel present: Senior Researcher Anderton, ASF Sergeants Capone and Spinell once again. Subject is 935-γ, also known as Victoria Matthews. Time is approximately 13:28. I think we’ll start with introductions, shall we?
+> 
+> <//No response from 935-γ, who continues to stare at Anderton.//>
+> 
+> **Anderton**: Things will go much smoother if you cooperate.
+> 
+> <//Still no response from 935-γ.//>
+> 
+> **Anderton**: Okay, don’t say I didn’t warn you.
+> 
+> <//Anderton activates CCH shock capabilities. 935-γ grunts in pain but doesn’t scream.//>
+> 
+> **Anderton**: I’d prefer not to do that again.
+> 
+> **935-γ**: Bullshit.
+> 
+> **Anderton**: Excuse me?
+> 
+> **935-γ**: I know what it’s like. Having power over someone. Exciting, isn’t it?
+> 
+> **Anderton**: I’m just doing my job.
+> 
+> **935-γ**: So am I.
+> 
+> **Anderton**: Miss Matthews, your “job” involves the wanton destruction of property and //murder// of civilians.
+> 
+> **935-γ**: Hey, it’s not really //murder//. You have to be alive to be murdered.
+> 
+> **Anderton**: And these people //weren’t// alive?
+> 
+> **935-γ**: Of course not, don't be stupid. They’re just extras. Nobodies.
+> 
+> **Anderton**:  These people probably had families. Wives, husbands, children. They aren’t nobodies.
+> 
+> **935-γ**: We all need a good backstory, even those in the background.
+> 
+> <//A pause.//>
+> 
+> **Anderton**: Why don’t you tell me about the show. Tell me why you do it?
+> 
+> **935-γ**: Why does anybody watch TV? To be entertained!  
+> 
+> **Anderton**: You and I have a very different idea of entertainment.
+> 
+> **935-γ**: I'm sorry, who are you again?
+> 
+> **Anderton**: You can call me Anderton. I work for an organization that contains people like you.
+> 
+> **935-γ**: Sounds boring. You need some excitement in your life.
+> 
+> **Anderton**: I have plenty of that.
+> 
+> **935-γ**: Have you tried watching my show? Like, //actually// watching it?
+> 
+> **Anderton**: Only for research.
+> 
+> **935-γ**: Right, like guys only read dirty magazines "for the articles".
+> 
+> **Anderton**: Frankly I consider them to be little more than snuff films.
+> 
+> **935-γ**: Snuff films! You make it sound so disgusting! We’re doing good in the ratings, thank you very much!
+> 
+> **Anderton**: Ratings, extras, backstories! You realize the show's //real//, right? It's not staged or scripted! Are you so //deluded// you seriously think that you’re some sort of actor?
+> 
+> **935-γ**: A damn good looking one, thank you!
+> 
+> **Anderton**: Tell me about the “Producers”, Victoria. Who are they?
+> 
+> **935-γ**: See, the fact that you //don’t// know about them means you’ll //never// know about them.
+> 
+> **Anderton**: What does that mean?
+> 
+> **935-γ**: You’re not in the business, honey. An idiot like you wouldn’t understand.  
+> 
+> **Anderton**: I understand what you’re capable of doing. I understand the danger you pose to-.
+> 
+> **935-γ**: Do you know why I like working with children?
+> 
+> **Anderton**: Enlighten me.
+> 
+> **935-γ**: They’re pure. They don't act. The older you get, the more you get bogged down with all these nuanced emotions. Children don’t even //think// about social tact. They just react. It’s kind of amazing. One time we went to this playground, this jungle gym, and-
+> 
+> **Anderton**: If you’re trying to unnerve me, Miss Matthews-
+> 
+> **935-γ**: I’m just being candid with you. Lighten up, buddy. Anyway, Pete finds this lawnmower nearby-
+> 
+> **Anderton**: I think we’ll end it there, Miss Matthews.
+> 
+> **935-γ**: Why? Don’t you want the latest gossip?
+> 
+> **Anderton**: No, thank you. Take her away.
+> 
+> <//ASF Sergeants Capone and Spinell activate the CCH shock capabilities, before re-muzzling 935-γ and exiting the room with her.//>
+> 
+> **Anderton**: End interview: 13:35.
+> 
+> ------
+> **Closing Statement**: RPC-935-γ was returned to their containment cell where they were dosed with anesthetic. Senior Researcher Anderton requested a temporary leave of absence, which was denied by Site Director ██████.
+ 
+[[/collapsible]]
+[[collapsible show="+935-β Interview Log" hide="HIDE LOG"]]
+**Interviewer**: Senior Researcher Anderton.
+**Interviewee**: RPC-935-β aka "Peter Sonnenfeld".
+**Foreword**: RPC-935-β is retrieved from containment and placed into an interview room with Senior Researcher Anderton and two armed ASF personnel. RPC-935-β's CCH is disconnected from circuitry and then reconnected to a mobile battery. CCH is fitted with shock capabilities for pacification.
+> <**//Recording begins//**>
+> 
+> **935-β**: Right, shall we get on with it then?
+>  
+> **Anderton**: Just a moment, Mr. Sonnenfeld.
+> 
+> <//A pause.//>
+> 
+> **Anderton**: Personnel present: Senior Researcher Anderton, ASF Sergeants Capone and Letham. Subject is 935-β, also known as Peter Sonnenfeld. Time is 11:16.  Let’s begin.
+> 
+> **935-β**: So, Officer Anderton, is it?
+> 
+> **Anderton**: Oh, we aren’t police. Well, I guess we are, in a way.  
+> 
+> **935-β**:  What does that mean?
+> 
+> **Anderton**: The organization I work for contains entities like you.
+> 
+> **935-β**: “Entities”?
+> 
+> **Anderton**: Sorry. “People”.
+> 
+> **935-β**: That’s very disrespectful, mate.
+> 
+> **Anderton**: I apologize. I must say you’re much more compliant than your cohorts.
+> 
+> **935-β**: How so?  
+> 
+> **Anderton**: By this point I would have shocked them.
+> 
+> **935-β**: I guess you could say they suffer from excessive ego.
+> 
+> **Anderton**: Indeed. I’m going to ask you some questions.
+> 
+> **935-β**: Shoot.
+> 
+> **Anderton**: Let’s start with the “Producers”. Tell me about them.
+>  
+> **935-β**:  Now that is a tricky one to open with, Officer.
+> 
+> **Anderton**: How so?
+> 
+> **935-β**: I don’t think I should say anything without my lawyer.    
+> 
+> **Anderton**: You won’t get a lawyer here.
+> 
+> **935-β**: Why not?
+> 
+> **Anderton**: It’s not our style.
+> 
+> **935-β**: That’s a shame. I was willing to play ball.
+> 
+> **Anderton**: I could offer you something to make your stay more comfortable.
+> 
+> **935-β**: No, no. That’s not going to work.  
+> 
+> **Anderton**: It’s not, is it?
+> 
+> **935-β**: My contract is very specific.
+> 
+> **Anderton**: I’m getting sick of this. You all talk in these vague terms. You’re not celebrities. You’re not superstars. You talk about contracts and agents and producers but frankly I don’t believe any of them exist and you’re all playing some sort of prank.
+> 
+> **935-β**: Well, that //is// the show, Officer.
+> 
+> **Anderton**: You’re going to tell me what I want to know.
+> 
+> **935-β**: I told you, my contract is-
+> 
+> <//935-β screams as Anderton utilizes CCH shock capabilities//>
+> 
+> **Anderton**: Who are the Producers, Mr Sonnenfeld?
+> 
+> **935-β**: You know, there was this one girl, around sixteen-
+> 
+> <//935-β is shocked again.//>
+> 
+> **Anderton**: Who are the Producers, Mr Sonnenfeld?
+> 
+> **935-β**: When we kill them, they just drift upwards like steam.
+> 
+> <//935-β is shocked a third time.//>  
+> 
+> **Anderton**: One last time, Sonnenfeld; tell me about the Producers!
+> 
+> **935-β**: You don’t have a fucking clue, do you, you prick? You think we like looking like this? Having to cram our forms into this skin when we could be so much more? We operate on a higher level, and the Producers operate above that! It would be pointless trying to explain to you.  
+> 
+> **Anderton**: What if we were to kill you?
+> 
+> <//Anderton signals to Sergeants Capone and Letham, who aim their weapons at 935-β//>
+> 
+> **935-β**: It wouldn’t matter. They would just send us back.
+> 
+> **Anderton**: But you would be gone for a while.
+> 
+> **935-β**: Don’t know. It’s never happened for real before.
+> 
+> **Anderton**: There’s a first time for everything.
+> 
+> <//Anderton gestures for a pistol from Sergeant Letham, who reluctantly acquiesces. Anderton puts the gun to 935-β’s head. Before he can shoot, there is a knock from the other side of the observation window. Anderson hands the pistol back to Sergeant Letham and leaves the room. There is the muffled sound of arguing from behind the glass. A moment later, Anderson returns.//>
+> 
+> **Anderson**: Take him back to his cell.
+> 
+> <//ASF Sergeants Capone and Letham begin re-muzzling 935-β. 935-β laughs.//>
+> 
+> **935-β**: When we get out of here, we’ll see you in Season 2, Officer Anderton. I’m looking forward to your fifteen minutes.
+> 
+> <//ASF Sergeants re-muzzle 935-β and return to his cell. Anderton returns to his seat.//>
+> 
+> **Anderton**: Time is 11:27. End interview.
+> 
+> <//Recording ends.//>
+> 
+> ------
+> **Closing Statement**: RPC-935-β was returned to their containment cell and dosed with anesthetic. Following this interview, Site Director ██████ reassigned Senior Researcher Anderton to Site-███.
+[[/collapsible]]
+
+[[footnoteblock]]
+------
+
+[[>]]
+[[include component:rate title=rpc-935]]
+[[/>]]
+
+[[=]]
+<< [[[RPC-934]]] | RPC-935 | [[[RPC-936]]] >>
+[[/=]]
+@@ @@
+

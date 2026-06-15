@@ -1,0 +1,44 @@
+---
+title: "Extended Misc. Lists"
+tags: ["supplemental"]
+page_id: "1002343345"
+site: "rpcauthority"
+slug: "top-rated-extended-misc"
+revision: 5
+revision_id: "1288970608"
+author: 3118961
+timestamp: 1595796073
+---
+
+[[# top]]
+[[tabview]]
+[[tab Highest Rated Misc.]]
+[[=]]
+++ **Highest Rated Misc.**
+**Miscellaneous pages sorted by stars**
+[[/=]]
+----
+[[module ListPages category="-contest" tags="-rpc, -tale, -rpc-j, -alternative-content" votes=">=8" perPage="250" limit="250" order="rating desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/tab]]
+[[tab Most Popular Misc.]]
+[[=]]
+++ **Most Popular Misc.**
+**Miscellaneous pages sorted by total votes**
+[[/=]]
+----
+[[module ListPages category="-contest" perPage="250" limit="250" tags="-rpc, -tale, -rpc-j, -alternative-content" rating=">0" order="votes desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/tab]]
+[[/tabview]]
+

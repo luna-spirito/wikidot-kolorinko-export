@@ -1,0 +1,143 @@
+---
+title: "RPC-340"
+tags: ["aquatic-hazard", "beta", "explosive-hazard", "extreme-temperature-hazard", "orange", "organic-hazard", "rpc"]
+page_id: "999696348"
+site: "rpcauthority"
+slug: "rpc-340"
+revision: 7
+revision_id: "1520999730"
+author: 5982545
+timestamp: 1718763081
+---
+
+[[include component:rate]]
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+
+**Assigned Facility:** Site-031-1
+
+**Director of Research:** Dr. ████ "Iceberg" ████████
+
+**Assigned MST(s):** Charlie-2 "Fire Fighters, 
+Alpha-21 "Wolf Pack"
+
+**Director of Containment:** SFA. Pali
+]]
+
+[[span style="font-size: 165%; font-weight: bold; color:#C0C0C0"]] Registered Phenomena Code: [[/span]] 340
+
+[[table style="border: none; width: 214px;"]]
+[[row]]
+[[cell]]
+[[size 125%]][[image http://www.rpc-wiki.net/local--files/component:icons/beta-orange.png]][[/size]]
+[[/cell]]
+[[cell]]
++++ **Object Class:**
+##F36400|Beta-Orange##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Responsible Departments:**
+[[span style="font-size: 57%; font-weight: bold;color:#272a31;"]] _ [[/span]]
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Biology2.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Biology[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Chemistry[[/span]][[/span]]
+
++++ **Hazard Types:**
+@@@@
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aquatic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Aquatic Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Organic Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-explosive.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Explosive Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extreme-temperature.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Extreme Temperature Hazard[[/span]][[/span]]
+
+----
+
++++ **Containment Protocols:** 
+
+RPC-340 is to be held within a 5m^^3^^ room with 20 cm thick walls made of several refractory materials in Site-031-1. The room is to be kept at all times under 20 degrees Celsius by a set of air conditioners, with a spare set ready to activate should the previous one deactivate or malfunction. Any sudden changes in the temperature of RPC-340's containment room are to be investigated and reported. In the case of RPC-340 activating inside the chamber, automated fire extinguishers will activate and attempt to extinguish the fire. Should this fail, alarms and alerts are to be activated, and MST Charlie-2 "Fire Fighters" mobilized. 
+
+RPC-340 may be accessed by all Level 2 Authority personnel (Excluding 2A personnel.[[footnote]] Level-2 Affiliate Personnel. [[/footnote]]). Any personnel entering the chamber are to be searched for carrying liquids. Water is to be introduced only once weekly, and each instance is to be watered with 50 ml of water. 
+
+----
+
++++ **Description:** 
+
+RPC-340 instances 1-16 resemble premature carrots with small glints of red shining through the creases, holding a temperature of 19-21 degrees Celsius at room temperature. RPC-340 is able to increase its size through the absorption of water, increasing its volume by a 1:100 gram to milliliter ratio, with a maximum weight of 120 grams. 
+
+If an instance reaches the temperature of 40 degrees Celsius it will violently combust and detonate, the size and intensity of the explosion being influenced by the proportions of RPC-340. The water absorbed by an instance of RPC-340 acts as fuel, keeping the instance and the fire caused by the explosion burning at a length from 20 min to 1.2 hrs depending on the amount of water absorbed. Any attempt to extinguish the fire with water will only increase the size, strengthen the flame, and extend its longevity. 
+
+RPC instances do spoil, but at a much slower rate than a regular //Daucus carota//[[footnote]] Scientific name of a wild carrot. [[/footnote]], with the observation that regular watering increases their survival even further. Whilst there have been attempts to reproduce RPC-340, no results were yielded mostly due to the absorption property of the instances. Should any uncontained instances of RPC be discovered, MST Alpha-21 "Wolf Pack" are to be sent for retrieval.
+
+----
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards=
+[[span style="font-size: 165%; font-weight: bold;"]] << [[/span]]  [[span style="font-size: 150%; font-weight: bold;"]] 2/340 [[/span]] [[span style="font-size: 165%; font-weight: bold;"]] >> [[/span]] 
+|align=right
+|name=http://rpcauthority.wikidot.com/local--files/rpc-340/340.jpg
+|width= 280px
+|caption= Recovered footage prior to object's recovery and containment.
+|position=center
+]]
+
++++ **Discovery:**
+
+RPC-340 was located by the RPC Authority after an explosion inside of a grocery market in [REDACTED], California. Recovered security footage show the box containing RPC was being transported to the shelves without an adequate ventilation, causing the box to heat the RPC to its activation temperature. The following explosion killed [REDACTED] people inside the supermarket. RPC-340 instances 1-12 were recovered by a Delta-4 "Garcas" field agent placed within the [REDACTED] Police Department. The instances were taken to a safe spot where they were then transferred to Site-031-1 for containment before getting official RPC classification after further research.
+
+----
+
++++ **Incident Reports:**
+
+[[collapsible show="Open Incident 340-031-RL" hide="Hide Incident Report 340-031-RL"]]
+[[div class="content-panel standalone series" style="background-color: #000000;"]]
+**Log #:** 340-031-RL
+
+**Location:** Site-031-1
+
+**Date of Occurrence:** 10/11/19
+
+**EOI Involved:** 
+* Activation of RPC-340
+* [REDACTED] casualties
+* Destruction of valuable items
+
+**Observed By:** Research Level CCTV, Junior Researcher Ed Hemlinger (Deceased), Senior Researcher Juchan Claiborne (Deceased).
+
+**Description:** At 0940, September 18, 2019, RPC-340 was undergoing preperation for transportation to the Research Level of Site-031-1, led by Senior Researcher Juchan Claiborne and Ed Hemlinger as assistance to Dr. Claiborne. The test was an attempt to identify the red glints within the RPC. During the test, at 1008, a power malfunction within Site-031-1 caused a power surge within the access card readers to the exiting doors of Research Subterranean Floor 1. It took the facility 1:50 (M:SS) for backup generators to activate. This subsequently deactivated all air conditioning in Research Subterranean Floor 1, causing the room to reach to RPC-340's activation temperature, starting a fire that killed both researchers and sets of chemicals.
+
+**Reactionary Measures:** MST Charlie-2 "Fire Fighters" are to watch over all tests with RPC-340, and reserves the right to secure the RPC in an air conditioned box of -7 degrees Celsius no matter which phase of the test if RPC-340 is on the verge of activation. 
+[[/div]]
+[[/collapsible]]
+
+----
+
++++ **Addendum:**
+
+[[collapsible show="+Addendum 01" hide="-Hide Addendum 01"]]
+A week after the discovery of RPC-340, an explosion at a farm near [REDACTED], California occurred at around 6:30 pm, destroying the farmhouse and killing a family of six After further investigation, four other instances of RPC-340 were recovered in the decimated kitchen within the home. Authority forensics revealed the explosion occurred when the instances were placed in a boiling pot during dinner preparation. A gas leak cover story was created and spread through the local newspaper. 
+[[/collapsible]]
+
+----
+
++++ **Footnotes**
+
+[[collapsible show="[+] Show" hide="[-] Hide"]]
+
+[[div style="background:#1F2125; border:dashed 1.5px #666666; border-radius: 3px;  margin: 0 auto; padding: 10px 38px; color:"]]
+[[footnoteblock]]
+[[/div]]
+
+[[/collapsible]]
+
+----
+
+[[=]]
+<< [[[RPC-339]]] | RPC-340 | [[[RPC-341]]] >>
+[[/=]]
+

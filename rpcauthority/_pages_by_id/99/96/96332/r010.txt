@@ -1,0 +1,137 @@
+---
+title: "RPC-272"
+tags: ["auditory-hazard", "contact-hazard", "corrosive-hazard", "grouped-hazard", "omega", "orange", "rpc", "sapient-hazard", "teleportation-hazard", "translated", "uncontained"]
+page_id: "999696332"
+site: "rpcauthority"
+slug: "rpc-272"
+revision: 10
+revision_id: "1496256614"
+author: 6371726
+timestamp: 1665535067
+---
+
+[[module CSS]]
+
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1);
+
+hr {
+    border-bottom: 1px dashed #646262;
+}
+
+[[/module]]
+
+[[include component:rate |translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/ru.png link="http://rpc-authority-ru.wikidot.com/rpc-272"]]]]
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+
+**Assigned Facility:** N/A (See //Containment Protocols//)
+
+**Director of Research:** Dr. ████ "Riggs" ████████
+
+**Assigned MST(s):** Victor-1 "Tunnel Vision"
+
+**Director of Containment:** ASA. Montte
+]]
+
+[[span style="font-size: 165%; font-weight: bold; color:#C0C0C0"]] Registered Phenomena Code: [[/span]] 272
+
+[[table style="border: none; width: 214px;"]]
+[[row]]
+[[cell]]
+[[size 125%]][[image http://www.rpc-wiki.net/local--files/component:icons/omega-orange.png]][[/size]]
+[[/cell]]
+[[cell]]
++++ **Object Class:**
+##F36400|Omega-Orange##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Responsible Departments:**
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Chemistry[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Anthropology.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Anthropology[[/span]][[/span]]
+
++++ **Hazard Types**:
+@@@@
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sapient Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Grouped Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-teleportation.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Teleportation Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-auditory.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Auditory Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-corrosive.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Corrosive Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Contact Hazard[[/span]][[/span]]
+
++++ **Containment Protocols**:
+
+* RPC-272-1 and RPC-272-2: RPC-272-1 and 2 are currently uncontainable, and any containment efforts available to the RPC Authority are currently unreliable. RPC-272-1 and 2 are capable of long-distance travel without effort and therefore are difficult to efficiently track and secure. Otherwise, temporary containment has been found effective. Once an RPC-272 event is detected, a 2x2 km perimeter of automatic surveillance is to be established within the location. RPC-272-1 and -2 may not be voluntarily engaged by Authority personnel for any reason until proper containment has been established... In the event of an RPC-272 event being detected, Victor-1 "Tunnel Vision" is to be deployed to establish a perimeter equipped with 3,000 BTU[[footnote]] British Thermal Units [[/footnote]] heaters to avoid travel of RPC-272-1 and -2 or spreading of RPC-272-3 outside the perimeter.
+
+* RPC-272-3 is also uncontainable, as there is no specific object that may be designated as RPC-272-3 (See 13th paragraph in //Description//), though it may be temporarily secured for research.
+
+* Only Level-2 Authority personnel are authorized to be employed to RPC-272's research, containment, or security. 
+-----
+
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-272/rpc272-1.jpg|width=300px|caption=RPC-272-1 (left) and RPC-272-2 (right) together during an RPC-272 event in Macatawa, Michigan.]]
+
++++ **Description**: 
+RPC-272 denotes an event whereby RPC-272-1 and RPC-272-2 are spawned. RPC-272 may only begin between the dates of October 29-November 7 in any location that has widespread snow coverage and ends between January 22-January 30, though this may change depending on the location and climate of the area.
+
+RPC-272-1 is a 150 cm mannequin-like entity with empty eye-sockets, a white complexion, and a green fur-hooded coat with an orange and white beanie connected to it. RPC-272-2 shares similar features to RPC-272-1, except that it is shorter at 135cm, its eye-sockets are wider, and it wears a red fur-hooded coat with several seasonal decals (e.g. a white snowflake on the right pocket of the coat).
+
+RPC-272-1 claims to be a 10-year-old girl from Oslo, Norway, born on November 1, 2001. RPC-272-2 claims to be an 8-year-old girl from Oslo, Norway, also born on November 1, 2001. Both entities show playful and open personalities, though RPC-272-1 becomes protective if RPC-272-2 is threatened in any way. The reactions from RPC-272-1 vary and can include the following: shoving, yelling, taunting, high-pitched squealing, or the use of RPC-272-3 as a thrown projectile.
+
+RPC-272-1 and 2 have no life-sustaining organs, joints, or bones though they can speak, move, smell, hear, think, and hold memories.
+
+RPC-272-2 adopts an uptight personality when it is not engaged in playful activities with a human being. RPC-272-2 becomes very fidgety and anxious when left alone or becomes bored and sometimes forgets tasks that are not related to playful or engaging activities, similar to ADHD in humans.
+
+After a full week of no contact with humans or opportunities to participate in engaging or playful activities, RPC-272-1 and 2 enter a stage of depression, eventually becoming immediately aggressive to any subject within their sight. This stage of absolute aggression does reset to their original mood once a new RPC-272 event has begun. When the depression stages begin, RPC-272-1 and -2 will retire to an isolated spot to seemingly console one another by holding hands. This lasts for 3 days, without movement. If there is still no human contact, RPC-272-1 and 2 become sluggish and avoid each other. This lasts for 2 days. Once both of these have passed, they will collapse and start crying, excreting a corrosive substance - known as RPC-272-3 - affecting the snow around them.
+
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-272/rpc272-2.jpg|width=300px|caption= Picture of RPC-272-3 taken by CSD-49192 during an RPC-272 event in ██████, Switzerland]]
+
+RPC-272-3 denotes a piece of snow that has absorbed the corrosive substance produced dispensed by the fingertips of RPC-272-1 and RPC-272-2. At this time, the substance is of unknown origin or chemical components. RPC-272-3 will turn green, making it obvious compared to the surrounding snow. RPC-272-3 is not able to spread to other clumps of snow and remains unique.
+
+RPC-272-3 is very dangerous and corrosive to human and other organic flesh and tissue. Depending on the contact area, the corroded flesh can be evacuated and removed from the body and avoid death or further corrosion. Once the substance hits the flesh, the subject may feel an immediate sting in the area of contact, though pain may not become obvious until three minutes after contact. All forms of painkillers have been found inefficient. Between the period of initial contact and pain, the substance makes its way throughout the tissue, killing it and secreting through it, eventually making its way down to bones or organs - depending on the area of contact. The eating of the flesh is similar to a more aggressive and rapid type of necrotizing fasciitis.
+
+RPC-272-1 and -2 are capable of producing a corrosive substance absorbed by snow, designated RPC-272-3. RPC-272-3 comes through the fingertips of RPC-272-1 and -2, though no storage for RPC-272-3 has been found within RPC-272-1 and -2. Once RPC-272-3 has left the fingertips of RPC-272-1 and -2, it turns the snow it comes in to contact with a light-green hue. RPC-272-1 and -2 use RPC-272-3 as a projectile when in a snowball fight or within their depression stage. RPC-272-3 can not spread to other snow over time, though when disposed of, it spreads at a rate of 4 cm every 5 ml of RPC-272-3.
+
+RPC-272-1 and 2 start a random sequence of events once contact is made with a human. After 3 or 4 activities are complete, RPC-272-1 will suggest a snowball fight. In the event a person accepts, RPC-272-1 and -2 say that they will give you head start and suggest to make a "fort", they then turn around and count to twenty. In the case someone denies the proposition, RPC-272-1 and -2 will whimper, bending over and touching the snow, disposing of RPC-272-3, then kicks it on to the legs of the subject, resulting in the corrosion of their legs. Once the subject is fully disabled, RPC-272-1 and -2 leave the subject, disregarding them until they have either died or RPC-272 has ended.
+
+Throughout the playtime of the snowball fight, the subject(s) participating will hear several sounds that are used to distract them. It is unknown if RPC-272-1 or 2 are purposefully producing these sounds, though the source of the sounds has not been located. The sounds vary from footsteps, water droplets, a playful "Behind You", distant screams, giggling, knocking, and sighing if RPC-272-1 and -2 have trouble finding the participant. It is believed RPC-272-1 and -2 use these sounds to startle the subject and make them feel pressured to move from their spot or to distract them.
+
+When RPC-272-1 or 2 feel threatened, they may teleport to random locations next to the subject rapidly to set the subject into a state of paranoia with the motive to make them feel the need to leave. If these efforts fail, RPC-272-1 may become aggressive and use RPC-272-3, while RPC-272-2 may choose to simply teleport to a random area within the perimeter of RPC-272.
+
+Once an RPC-272 event is over, all evidence other than damages caused by the event disappear. Any RPC-272-3 that has been secured will disappear, along with RPC-272-1 and -2. The reason RPC-272 chooses its locations are unknown, and there has been no pattern in RPC-272 locations.
+
+-----
+
++++ **Notable Events:** 
+
+//Event 1://
+Date: January 29, ████
+Location: Moscow, Russia
+MST(s) Involved: India-13 & Victor-1
+-----
+Description: On January 29, ████, RPC-272 began in central Moscow, Russia. After several interactions with RPC-272, only 3 civilians left without injuries. Over ███ civilians ended up dying, and as civilians avoided RPC-272-1 and -2, the depression stage listed above begun, resulting in the spreading of RPC-272-3. Victor-1 "Tunnel Vision was later dispatched after the event was noticed by the Authority, and were able to suppress both entities and move them to a more remote location. India-13 was later dispatched to the location of RPC-272 for CBRN clean-up.
+
+All witnesses were given Class A-2 amnestics.
+-----
+
++++ **Discovery**: 
+The first discovered event of RPC-272 was 08/20/2018 in St. Johns, Canada after several unexplained deaths associated with septic shock, acid exposure, and starvation were reported to the Saint John Police Force's (SJPF). Eventually, the SJFP handed these cases off to the Royal Canadian Mounted Police (RCMP) due to a lack of witnesses and sufficient evidence. RPC-272 was brought to the attention to the Authority once an analyst within the RCMP reported seeing a "moving mannequin figure". Alpha-3 "Scavengers" were dispatched to the location and Class A-2 amnestics were administered.
+
+Eventually, MST Alpha-3 "Scavengers" received clearance to attempt containment of the RPC, yet all efforts were inefficient. RPC-272-1 and -2 continued to teleport to random locations around the team, due to the efforts of scaring off the containment team being ineffective, RPC-272-1 resorted to aggressive actions, assaulting the team with RPC-272-3 resulting in slight burns to FA. Cobra's left arm.
+
+After several attempts are containment of the phenomenon, Alpha-3 "Scavengers" withdrew efforts and the case was handed off to the Protocol Laboratory. Due to the inability to properly contain the anomaly permanently, temporary containment protocols have been established.
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-271]]] | RPC-272 | [[[RPC-273]]] >>
+[[/=]]
+

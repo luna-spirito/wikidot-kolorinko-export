@@ -1,0 +1,37 @@
+---
+title: "Rating Base"
+tags: ["component"]
+page_id: "999918558"
+site: "rpcauthority"
+slug: "component:rating-base"
+revision: 2
+revision_id: "1367510538"
+author: 5258122
+timestamp: 1628547788
+---
+
+[[div class="ratingContainer rateContainer" style="text-align: {$align}"]]
+[[table class="tableStyle"]]
+[[row class="rateStyle"]]
+[[cell class="cellStyle votesLeft-{$votes}"]]
+[[div]]
+%%rating_votes%%
+[[/div]]
+[[/cell]]
+[[cell class="cellStyle decimalStyle" style="display: {$decimal}"]]
+[[div]]
+%%rating_decimal%% stars
+[[/div]]
+[[/cell]]
+[[cell class="starStyle votesRight-{$votes}" style="display: {$stars}"]]
+%%rating%%
+[[/cell]]
+[[cell class="cellStyle votesRight-{$votes}"]]
+[[div]]
+%%rating_votes%%
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+

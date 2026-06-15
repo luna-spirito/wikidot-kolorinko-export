@@ -1,0 +1,214 @@
+---
+title: "Component Hazards Guide"
+tags: ["guide"]
+page_id: "1024232905"
+site: "rpcauthority"
+slug: "component-hazards-guide"
+revision: 3
+revision_id: "1542319575"
+author: 5982545
+timestamp: 1772123086
+---
+
+This page will explain how to use the hazard icons in place of text within the Hazard Types section. The basic format is as follows:
+
+> [[include component:hazards hazard=true|hazard=true|hazard=true]]
+
+replace each "hazard" with one that you want in the article. Only include as many as you need. For an article with the aggression, grouped, sapient, and sensory hazards, you would use the following code:
+
+> [[include component:hazards aggression=true|grouped=true|sapient=true|sensory=true]]
+
+This is how you would use it in action:
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]@@
+> 
+> @@**Registered Phenomena Code:** XXX@@
+> 
+> @@**Object Class:** Alpha-White@@
+> 
+> [[include component:hazards aggression=true|grouped=true|sapient=true|sensory=true]]
+> 
+> @@**Containment Protocols:**@@
+
+Note that you do not include "@@**Hazard Types:**@@" before the include. It will show up automatically. 
+
+[[div class="content-panel"]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[include component:hazards aggression=true|grouped=true|sapient=true|sensory=true]]
+
+**Containment Protocols:**
+[[/div]]
+
+[[collapsible show="+ Full list of usable hazards" hide="- Full list of usable hazards"]]
+aggression
+animated
+aquatic
+ballistic
+climatological
+digital
+ecological
+extra-terrestrial
+geological
+grouped
+incorporeal
+mechanical
+microscopic
+organic
+psychotronic
+regenerative
+sapient
+replicating
+sentient
+titanic
+transmutation
+invisibility
+bio-hazard
+contact
+corrosive
+electromagnetic-force
+explosive
+extreme-temperature
+radiation
+toxic
+destabilization
+extra-dimensional
+gravitational
+immeasurable
+newtonian
+temporal
+teleportation
+tychokinetic
+auditory
+emotional
+ideological
+info-hazard
+memory-alteration
+mind-control
+mind-regression
+ontological
+sensory
+visual
+divine
+hallucinogen
+high-velocity
+proto-mechanical
+proto-newtonian
+proto-sapient
+[[/collapsible]]
+
+----
+
+If you don't want the hazards to appear below the object class icon, you can add "top-spacing=none". Here's an example:
+
+> [[include component:hazards **top-spacing=none**|aggression=true|grouped=true|sapient=true|sensory=true]]
+
+[[div class="content-panel"]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[include component:hazards top-spacing=none|aggression=true|grouped=true|sapient=true|sensory=true]]
+
+**Containment Protocols:**
+[[/div]]
+
+----
+
+If you want to include an Additional Properties section, add "type=properties".
+
+> [[include component:hazards type=properties|animated=true|incorporeal=true|titanic=true]]
+
+
+[[div class="content-panel"]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[include component:hazards type=properties|animated=true|incorporeal=true|titanic=true]]
+
+**Containment Protocols:**
+[[/div]]
+
+----
+
+You can include both using two includes.
+
+> @@[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]@@
+> 
+> @@**Registered Phenomena Code:** XXX@@
+> 
+> @@**Object Class:** Alpha-White@@
+> 
+> [[include component:hazards aggression=true|grouped=true|sapient=true|sensory=true]]
+> 
+> [[include component:hazards type=properties|animated=true|incorporeal=true|titanic=true]]
+> 
+> @@**Containment Protocols:**@@
+
+[[div class="content-panel"]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[include component:hazards aggression=true|grouped=true|sapient=true|sensory=true]]
+
+[[include component:hazards type=properties|animated=true|incorporeal=true|titanic=true]]
+
+**Containment Protocols:**
+[[/div]]
+
+----
+
+If you don't want the text to appear, use "type=none". This can be useful for custom formatting. 
+
+> [[include component:hazards type=none|aggression=true|grouped=true|sapient=true|sensory=true]]
+
+[[div class="content-panel"]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[include component:hazards type=none|aggression=true|grouped=true|sapient=true|sensory=true]]
+
+**Containment Protocols:**
+[[/div]]
+
+[[collapsible show="+ Custom formatting example" hide="- Custom formatting example"]]
+[[div class="content-panel"]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+~~~~
+
+----
+
+**Hazard Types:**
+
+[[include component:hazards type=none|aggression=true|grouped=true|sapient=true|sensory=true]]
+
+**Additional Properties:**
+
+[[include component:hazards type=none|animated=true|incorporeal=true|titanic=true]]
+
+----
+
+**Containment Protocols:**
+[[/div]]
+[[/collapsible]]
+

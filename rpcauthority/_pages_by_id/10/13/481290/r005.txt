@@ -1,0 +1,29 @@
+---
+title: "Most Popular Pages"
+tags: ["supplemental"]
+page_id: "1013481290"
+site: "rpcauthority"
+slug: "top-rated-extended-most-popular-all-pages"
+revision: 5
+revision_id: "1288970706"
+author: 3118961
+timestamp: 1595796078
+---
+
+[[# top]]
+
+[[div class="content-panel"]]
+[[=]]
++ __Most Popular of All Time__
+**All pages, sorted by total votes**
+[[/=]]
+----
+[[module ListPages category="*" votes=">0" perPage="250" limit="250" order="votes desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%%
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/div]]
+

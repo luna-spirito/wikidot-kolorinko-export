@@ -1,0 +1,308 @@
+---
+title: "Database Theme Rework"
+tags: ["theme"]
+page_id: "1002327053"
+site: "rpcauthority"
+slug: "component:database-theme-rework"
+revision: 50
+revision_id: "1366594209"
+author: 5258122
+timestamp: 1624317853
+---
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/component:database-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+/*
+    Database Theme Rework (remade by Qual; original concept by Jenkins)
+    [2020 Wikidot Theme]
+*/
+
+#header h1 a::before {
+    font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    text-decoration: none;
+    text-shadow: 3px 3px 5px #000;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    font-family: 'Exo 2', sans-serif;
+    text-shadow: 3px 3px 5px #000;
+    font-size: 100%;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+h3 {
+    color: #cfcfcf;
+}
+
+/* Miscellaneous */
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+.sidenoteI {
+    padding: 0px;
+    border: var(--basic-border);
+}
+ 
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: #666;
+        color: #cfcfcf!important;
+    }
+}
+ 
+/* Tabveiw */
+ 
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    border-left: var(--basic-border);
+    border-top: var(--basic-border);
+    border-right: var(--basic-border);
+}
+ 
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-family: 'Exo 2', sans-serif;
+}
+ 
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    padding: 0px 0 0;
+}
+ 
+.yui-nav li {
+    min-height: none;
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--basic-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--basic-border);
+}
+ 
+.sideTabview .yui-content {
+    border: var(--basic-border);
+}
+
+
+.sideTabview .yui-nav {
+    border-right: var(--basic-border)!important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.yui-navset .yui-nav .selected a, .yui-navset .yui-nav .selected a em {
+    top: 0!important;
+    color: #e0dfdf;
+}
+
+.yui-navset .yui-nav li a em, .yui-navset-top .yui-nav li a em, .yui-navset-bottom .yui-nav li a em {
+    color: #cfcfcf;
+}
+
+
+ 
+/* Panel Border Section */
+ 
+.header-panel {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+    border-top: var(--basic-border);
+ 
+    border-bottom: none;
+}
+ 
+.footer-panel {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+    border-bottom: var(--basic-border);
+ 
+    border-top: none;
+}
+ 
+.body-panel {
+    border: var(--basic-border);
+}
+ 
+/* News Block Border Section */
+ 
+.header-panel .news-block {
+    border: var(--basic-border);
+}
+ 
+.footer-panel .news-block {
+    border: var(--basic-border);
+}
+ 
+.news-block .body-panel:nth-child(even) {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+ 
+    border-top: none;
+    border-bottom: none;
+}
+
+:root {
+
+    --body-background: #000000;
+    --primary-text-color: #ccc;
+    --nav-hover-background: #171717;
+    --primary-background: #1d2022;
+    --font-family: tato, sans-serif;
+    --content-bar-background: #181818;
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    --header-custom-text: 'Authority Database';
+    --header-tagline-custom-text: 'RPC Special Case Files';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Adatabase-theme-rework/Authority_Database_Logo.png); size: 150%;
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Adatabase-theme-rework/Authority_Database_Header.png);
+    --header-tagline-color: #ccc;
+    --header-tagline-text-shadow: .5px .5px .5px black;
+    --header-tagline-top: 8px;
+
+    --link-color: #f6e674;
+    --link-hover-color: #d6c33c;
+    --new-page-color: #bfac24;
+    --button-border: 1px solid #ccc;
+    --button-background: #171717;
+    --button-hover-border: 1px solid #cfcfcf;
+    --button-hover-background: #2b3033;
+ 
+    --search-button-background: #222;
+    --search-button-hover-background: #2b3033;
+    --search-input-color: #111;
+    --search-input-hover: #2b3033;
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: #171717;
+    --topbar-hover-background: #2b3033;
+    --topbar-divider: var(--basic-border);
+    --topbar-dropdown-border-color: #666;
+ 
+    --news-block-body-panel-background-even: #1d1c1c;
+ 
+    --star-rating-hue: 200deg;
+    --sidebar-crit-corner-color: #ccc27a;
+
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+    
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid #666666;
+    --tabview-button-selected-background: #666666;
+    --tabview-button-selected-color: #cfcfcf;
+    --tabview-button-hover-background: #757574;
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: #757574;
+    --tabview-side-button-selected-background: #666;
+    --tabview-button-selected-color: #cfcfcf;
+    --tabview-side-button-divider: var(--basic-border);
+    --tabview-side-border: var(--basic-border);
+
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: #666;
+    --tabview-side-scrollbar-thumb-hover-background: #757574;
+
+    --basic-border: 1px solid #666666;
+ 
+    --owindow-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --account-options-border: var(--basic-border);
+    --toc-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --blockquote-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --tabview-border: var(--basic-border);
+    --table-border: var(--basic-border);
+    --template-block-border: var(--basic-border);
+ 
+    --sidenote-open-background: #666;
+    --sidenote-contents-border: var(--basic-border);
+    --sidenote-figure-border: var(--basic-border);
+
+    --tags-border: 1px solid var(--new-page-color);
+
+    --BT-resizer-background: #111;
+    --BT-scrollbar-thumb-background: #757574;
+    --BT-scrollbar-thumb-hover-background: #868585;
+
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #ccc;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+    background: rgba(0,0,0,0.4);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+
+ 
+#login-status a {
+    color: #ccc;
+    
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+
+#login-status ul a:hover {
+    background: #2b3033;
+}
+ 
+#account-options li a:hover {
+    color: #cfcfcf;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #cfcfcf;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-primary-text-color);
+}
+
+ 
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:database-theme-rework/code/1); @@
+> @@ [[/module]] @@
+

@@ -1,0 +1,44 @@
+---
+title: "Extended Other Content Lists"
+tags: ["supplemental"]
+page_id: "1002343312"
+site: "rpcauthority"
+slug: "top-rated-extended-other-content"
+revision: 5
+revision_id: "1288971246"
+author: 3118961
+timestamp: 1595796088
+---
+
+[[# top]]
+[[tabview]]
+[[tab Highest Rated Other Content]]
+[[=]]
+++ **Highest Rated Other Content**
+**Other content sorted by stars**
+[[/=]]
+----
+[[module ListPages category="-contest" tags="alternative-content" votes=">=8" perPage="250" limit="250" order="rating desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/tab]]
+[[tab Most Popular Other Content]]
+[[=]]
+++ **Most Popular Other Content**
+**Other content sorted by total votes**
+[[/=]]
+----
+[[module ListPages category="-contest" perPage="250" limit="250" tags="alternative-content" rating=">0" order="votes desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/tab]]
+[[/tabview]]
+

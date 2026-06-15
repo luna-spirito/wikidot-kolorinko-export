@@ -1,0 +1,33 @@
+---
+title: "Highest Rated of All Pages"
+tags: ["supplemental"]
+page_id: "1013374612"
+site: "rpcauthority"
+slug: "top-rated-extended-highest-rated-all-pages"
+revision: 11
+revision_id: "1288970407"
+author: 3118961
+timestamp: 1595796065
+---
+
+[[# top]]
+
+[http://rpcauthority.wikidot.com/top-rated-extended-highest-rated-all-pages/# All pages]
+[http://rpcauthority.wikidot.com/top-rated-extended-highest-rated-all-pages/votes/>=15 Only pages with 15+ votes]
+[http://rpcauthority.wikidot.com/top-rated-extended-highest-rated-all-pages/votes/>=25 Only pages with 25+ votes]
+
+[[div class="content-panel"]]
+[[=]]
++ __Highest Rated of All Time__
+**All pages, sorted by stars**
+[[/=]]
+----
+[[module ListPages category="-contest" votes="@URL" perPage="250" limit="250" order="rating desc" separate="false"]]
+# %%rating%% [[span class="topRatedDecimal"]](%%rating_decimal%%)[[/span]] [[span class="topRatedVotes"]]%%rating_votes%%[[/span]] %%title_linked%% 
+[[/module]]
+----
+[[=]]
+++ **[#top Back to top]**
+[[/=]]
+[[/div]]
+

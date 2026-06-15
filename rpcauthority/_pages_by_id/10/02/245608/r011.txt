@@ -1,0 +1,280 @@
+---
+title: "RPC-778"
+tags: ["aggression-hazard", "alpha", "ballistic-hazard", "esoteric-hazard", "grouped-hazard", "incorporeal-hazard", "mechanical-hazard", "purple", "rpc", "sentient-hazard", "teleportation-hazard", "the-array"]
+page_id: "1002245608"
+site: "rpcauthority"
+slug: "rpc-778"
+revision: 11
+revision_id: "1529195674"
+author: 6371726
+timestamp: 1744397854
+---
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+div.terminal{
+    border: 1px solid black;
+    border: double 5px #AEC0C0;
+    background-color: #000;
+/* black shadow at the top of the terminal */
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    color: rgba(174,192,192,1);
+    background-color: #000000;
+    border: double 3px #AEC0C0
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */
+    animation: scan 12s linear 0s infinite; /* Same as above */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(174,192,192,1);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* You may need to change this depending on the length of your terminal. If the scanline stops halfway, increase the second number.*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #AEC0C0;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #AEC0C0;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #000;
+    text-decoration: underline;
+    background-color: #AEC0C0;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+[[include component:rate title=rpc-778]]
+
+
+[[table style="height: 90px"]]
+[[row]]
+[[cell style="width: 41px"]]
+
+[[/cell]]
+[[cell style="width: 30px"]]
+[[span class="tooltip"]][[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Alpha-Purple.png style="margin: -10px -46px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]]##642C90|Alpha-Purple##[[/span]][[/span]]
+[[/cell]]
+[[cell]]
+**Registered Phenomena Code:** 778
+@@@@
+@@@@
+**Object Class:** ##642C90|Alpha-Purple##
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table style="width: 100%; height: 55px"]]
+[[row]]
+[[cell]]
+**Responsible Departments:**
+[[/cell]]
+[[cell style="width: 505px"]]
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Engineering.png style="margin: -10px 0px; width: 55px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Engineering[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Physics.png style="margin: -10px 0px; width: 55px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Physics[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Robotics.png style="margin: -10px 0px; width: 55px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Robotics[[/span]][[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+**Hazard Types:** [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aggression.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Aggression Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ballistic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Ballistic Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Grouped Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-incorporeal.png  style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Incorporeal Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png  style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Mechanical Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sentient.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sentient Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-electric.png  style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Electric Hazard[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-teleportation.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Teleportation Hazard[[/span]][[/span]]
+---------
+
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-778/778-1.png|width=250px|caption=RPC-778-B.]]
+
+**Containment Protocols:** RPC-778-A is to be stored within a high-value object storage locker located in the Site-105's armory. Experimentation with RPC-778, of any kind, requires the lead researcher to file the request to the acting site director at least two months in advance.
+
+Due to the nature of RPC-778, the use of RPC-778-B may be authorized by the acting security director of Site-105 in the event of a containment breach. Additionally, in the event of complete containment failure, or an overwhelming assault by a hostile force, RPC-778-B may be used freely by any on-site personnel without repercussions. 
+
+Note that the use of RPC-778-B should only be considered as a last resort. And the usage of RPC-778-B outside of these circumstances will result in the termination of the offender’s employment with the Authority.
+
+**Description:** RPC-778 is the designation given to 2 anomalous objects and 1 entity; RPC-778-A is a 34cm x 11cm x 23cm mechanical box and the logo of the Group of Interest "The Array" can be seen on the top of RPC-778-A. 8 grenades possessing a metallic hue, designated RPC-778-B, can be found within RPC-778-A. In the event of one or all RPC-778-B instances being removed from the box and used, they will re-appear after a period of 50 hours.
+
+RPC-778-B's weight is less than an average grenade[[footnote]]Standard fragmentation grenades weight 0.90 kilograms. RPC-778 weights 0.45 kg[[/footnote]]Studies taken from the remnants show that the material reassembles Titanium Aluminide. RPC-778 doesn’t have a safety pin or any standard method of activation like a normal grenade. Instead, 2 buttons are located on each side of RPC-778-B instances. When clicked, the object's anomalous properties activate.
+
+When the 2 buttons are pressed, a 5-second countdown will begin, where RPC-778-B will start to crack and emit black smoke. Once the timer ends RPC-778-B will explode in a manner similar to low yield fragmentation grenades and will release large quantities of the black smoke.
+
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-778/778-2.png|width=400px|caption=RPC-778-2.]]
+
+Once the black smoke dissipates, RPC-778-2 will manifest where RPC-778-B detonated. RPC-778-2 entities are sentient electrical beings with humanoid shapes. RPC-778-2 instances are hostile and will try to attack any complex carbon-based life form, discharging electricity of 50 amps directly into the target's head. They will also attempt to multiply if the situation they are in demands it, creating up to 2 copies of the original RPC-778-2 instance.
+
+RPC-778-2 instances have a lifespan of 3 hours which can be extended up to 10 hours should the RPC-778-2 instance have access to a power source. In the time RPC-778-B is alive it will patrol a perimeter of 14280 m^^2^^ centred at the point where RPC-778-B had detonated and protects it while exterminating all organic life that posses a threat to the surroundings. If any electronic data-storage devices are around the area of effect, RPC-778-2 will access them and send the information stored within them to members of The Array.
+
+Nearing the end of its life-cycle, RPC-778-2 will search for any electronic devices that have radio-transmitters/receptors and sent themselves to an unknown destination theorized to be the headquarter of The Array. If no such device were found or RPC-778-2 did not absorb any information, RPC-778 will start to lose heat untill vanishing into the atmosphere. 
+
+**Addendum:** 
+---------------
+[[collapsible show="Discovery" hide="CREDENTIALS ACCEPTED, displaying log"]]
+
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-778/778-3.jpg|width=400px|caption=RPC-778-2 first sighting.]]
+
+RPC-778 was discovered in southern Africa after a Lord's Resistance Army terrorist hideout under the watch of the American government was calling for immediate reinforcements and reporting heavy casualties due to "living thunderstorm", prompting actions from United States army. After arriving at the waypoint, the US army reported that all corpses from the LRA combatants were left burning with an impact in the chest.
+
+2 hours after the US army team went into the mission; there were reports of thunderstorms in the area and flashing lights around the facility. One of the marines reported finding a metallic box with cylinders surrounded by burned down radios, laptops and a busted power generator. Pictures taken from a drone camera outside the base demonstrated RPC-778-2 instances patrolling the jungle, leaving dead animals in their path.
+
+The US army team was alerted of an incoming group of RPC-778-2 and they were told about the unknown aspect of the newfound anomalies. 15 minutes after sighting the US army team contacted their command, signaling casualties and inability to inflict any noticeable damage to the group of RPC-778-2. After another 15 minutes, contact with all members of the US army team has been lost and were considered KIA.
+
+The Authority was sent to the area to retrieve the anomaly and see if any survivors were left in the area. Because RPC-778 was sighted to use electricity, the Alpha-5"Thor's Hammer" Mobile Specialized Team was dispatched for the purpose of neutralization of RPC-778 if necessary. Once the team arrived at the location scanners from drone cameras revealed that the RPC-778-2 anomalies were nowhere to be seen.
+
+Inside the abandoned hideout, the MST went directly to the place of sighting of RPC-778-A. After analysis of functional computors, it was determined that all the files from the LRA and US army members were completely extracted and all radios were burned up; one radio in bad conditions have a coordinate directed to the pacific ocean. The team quickly catured RPC-778 and catalogued it as an Alpha-Orange anomaly.
+[[/collapsible]]
+---------------
+[[collapsible show="Incident log RPC-778-1 "Wood Shot"" hide="CREDENTIALS ACCEPTED, displaying log"]]
+On the 9^^th^^ September of 20██, testing was authorized inside the research level of Site-105 by Dr. Matthew Wright, with the purpose of understanding the anomalous properties of RPC-778. Because of the minimal knowledge of the anomaly, one RPC-778-B and a CSD was used for the test. The CSD was instructed to try to use RPC-778-B as a grenade and launch it, which did not to activate the anomalous properties of RPC-778-B due to neither of the buttons being pressed.
+
+Since the test proved to be a minor failure, the CSD was instructed to press both buttons of RPC-778-B and launch it. After 5 seconds RPC-778-B exploded and released one RPC-778-2 entity that displayed hostility the moment it was released, attacking the CSD with via launching a volt of electricity directly to the head of the CSD and killing him instantly. RPC-778-2 stood still for about 15 minutes and after that, it started to wander the testing grounds.
+
+After moving around in the testing chamber for 10 minutes, the RPC-778-2 instance became aware of the presence of cameras throughout the facility and that they were connected to the camera within the chamber, which the instance began to apporach. Once it was in close proximity RPC-778-2 emitted an electric discharge, taking the entire electrical system of the research level out and causing a containment breach. After the event, the doors of the testing chamber were left opened and RPC-778-2 breached containment.
+
+RPC-778 divided itself to generate 2 copies of itself and started to attack any personnel that was in proximity to them, absorbing all electronic devices from the ground. To avoid a full containment breach Dr. Matthew Wright decided to go to the emergency safeguard room of the research level and activate failsafe protocols, sealing the entirety of the research level of any access to other levels and blocking all electricity and net data.
+
+Due to the lack of any targets, RPC-778-2 were left wandering in the halls for approximately 2 hours before expiration. After report incident of the containment breach declared that more than 67 security personal were considered KIA and over █ RPC's neutralized by RPC-778-2. Reports on the computers signalled missing RPC information from the database of Site-105 and case files of many personal being missed. Location of the stolen information remains unknown.
+
+
+The following media was taken from one of the computers affected by RPC-778-2
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+Array Database
+
+All archives from this device have been recollected and sent to our higher ups for analyzis and study. You have nothing to fear, we are here to protect humanity and all that surrounds it.
+[[=]]
+We are watching you.
+[[/=]]
+-----
+[[=]]
+ARRAY OS VERSION 9.1.60
+(c) ARRAY SOFTWARE
+
+1█°50'2█.█"N 1█5°1█'33█3"W
+[[/=]]
+-----
+
+[[/div]]
+[[/div]]
+
+
+[[/collapsible]]
+
+---------------
+
+[[collapsible show="SECURITY LEVEL 4 DOCUMENT RPC-778-C and Decoded Array Transmission" hide="CREDENTIALS ACCEPTED, displaying log"]]
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-778/778-4.jpg|width=275px|caption=RPC-778-C.]]
+RPC-778-C is a primitive external USB flash drive memory that can be connected to any computing device be it a laptop or a desktop PC. The logo for The Array can be seen at the top of the main drive. the total maximum storage of RPC-778-C  is 256 GB although the software installed in the memory render it to just 14 bytes of possible byte storage.
+
+Once connected to a computer device with a USB flash drive port RPC-778-C will install an executable called "ELECTRO-PURGE" into the computer. This program can be opened and it will display a doom-clone/corridor shooter[[footnote]]A doom-clone is a term used to describe games that have gameplay and texture like the [https://en.wikipedia.org/wiki/Doom_(1993_video_game) ID´s software game of the same name][[/footnote]] with the theme of robots killing humans in a post-apocalyptic setting and the player being a robot that has to arrive to the human´s last outpost and purge them.
+
+The game while not anomalous for itself has proven to recollect information/gameplay videos about the player´s strategies and if an internet connection is available, it will send all recollected info to the previously mentioned coordinates in the pacific ocean. If any instances of RPC-778-2 are active and the computer device has RPC-778-C connected into it, the player will take control of an RPC-778-2 unit and the display instead of being the videogame, it will be a pixelated version of the surroundings of the standing RPC-778-2.
+
+The game will change the mission to "patrol the area" and "exterminate humans" using the abilities of RPC-778-B while gathering data on how the player performs the mission. If a player is found to avoid killing humans or kill another instance of RPC-778-2 by friendly fire or by accident, all RPC-778-2 units will turn against the player and kill the rogue RPC-778-2.
+
+The following image and data were extracted from RPC-778-C on the ██/██/201█ after an inccident with the Royal British Army was reported.
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+Array Database
+
+[[=image http://rpcauthority.wikidot.com/local--files/rpc-778/778-5.jpg]]
+
+> ##4FCB4F|USER´S NOTABLE STRATEGY##
+
+- User moves outside the line of sight in low-light areas
+- User prefers ambushing tactics and surprise attacks
+- User reloads constantly and saves magazines that still have rounds left
+- User complains about the given missions
+
+> ##F40006|USER´S UNDESIRABLE TRAITS##
+
+- Avoidance of combat makes the user acts more in the shadows
+- In high-light areas, the user tries to hide from objectives
+- The user is prompted to avoid using the pre-determined gun in exchange for looted rifles and handguns
+- Recollection of media is avoided in favour of energy-saving
+
+> ##orange|PROBABILITIES OF THE USER##
+
+- 75% of the user getting detected by a platoon in the following minutes
+- 36% of founding a recharge station/energy generator
+- 45% of finding collect information from electrical devices
+- 15% of not killing humans
+
+[[=]]
+-----
+ARRAY OS VERSION 9.1.60
+(c) ARRAY SOFTWARE
+[[/=]]
+-----
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+---------------
+
+[[div style="background:#1F2125; border:dashed 1.5px #666666; border-radius: 25px;  margin: 0 auto; padding: 10px 38px; color:"]]
+[[footnoteblock]]
+[[/div]]
+[[=]]
+<< [[[RPC-777]]] | RPC-778 | [[[RPC-779]]] >>
+[[/=]]
+
