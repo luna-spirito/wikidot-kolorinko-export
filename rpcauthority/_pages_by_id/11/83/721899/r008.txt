@@ -1,0 +1,1036 @@
+---
+title: "RPC-194"
+tags: ["beta", "geological-hazard", "rpc", "temporal-hazard", "yellow"]
+page_id: "1183721899"
+site: "rpcauthority"
+slug: "rpc-194"
+revision: 8
+revision_id: "1257373926"
+author: 3118961
+timestamp: 1595257202
+---
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[include component:rate title=rpc-194]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-geological.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Geological[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-temporal.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Temporal[[/span]][[/span]] 
+|align=right
+|name=194_1.jpg
+|width=300px
+|caption=RPC-194, from the outside.
+]]
+
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/beta-yellow.png]]
+
+**Registered Phenomena Code:** 194
+
+**Object Class:** Beta-Yellow
+
+**Hazard Types:** Geological Hazard, Temporal Hazard
+
+**Containment Protocols:** The entrance to RPC-194 is guarded by an Authority outpost managed by [[[Site-038]]]. Non-Authority personnel are to be deterred from entering RPC-194 via a cover story of geological conservation.
+
+**Description:** RPC-194 is an artificial cave system located at Sai Kung, Hong Kong. The area surrounding RPC-194 can be easily identified by its distinct hexagonal rock pillars. RPC-194 initially resembles naturally formed cave systems with diverging passageways but only one passageway extends past the 3 km mark.
+
+RPC-194 is the assumed cause for a temporal anomaly affecting the surrounding area; time within RPC-194 is experienced at a rate faster than baseline, with the exact rate increasing as one enters further into RPC-194. The accumulating effects of this time dilation are considered responsible for the geographical abnormalities surrounding RPC-194, including the prominent hexagonal rock pillars[[footnote]]Hexagonal rock pillars are usually formed via the uniform contraction of cooling magma from volcanoes. It is believed that the temporal acceleration is responsible for the unusually rapid cooling of magma and subsequent uniformity of contraction.[[/footnote]] above RPC-194.
+
+A secondary effect of RPC-194 (designated RPC-194-1) is also manifested near the entrance of RPC-194, with individuals entering being able to perceive a telepathic message being made in the individual's first language.
+
+Radiometric dating suggests that RPC-194 was created approximately 160 million years ago.
+
+**Discovery:** RPC-194 was initially discovered on 06/06/1982 when construction of the High Island Reservoir[[footnote]]A reservoir located in Sai King, Hong Kong.[[/footnote]] resulted in the unearthing of RPC-194. The unusually large geological structure of RPC-194 acquired attention from geologists worldwide, including Authority geologists, who were dispatched to RPC-194 to investigate. 
+
+During this period, Researcher Kenneth and Researcher Yeung discovered RPC-194 with MST Romeo-7 (Suited Gentlemen) subsequently deployed to investigate. A cover story of unusually strong volcanic activity was given as the reason for the geological structure of RPC-194 to the non-anomalous geology community.
+------
+**Addendum 194.1**
+
+[[collapsible show="► Access RPC:/194/explorationlogs/130682.txt ◄" hide="▼ Hide RPC:/194/explorationlogs/130682.txt ▼"]]
+
+> **Mission Abstract:** To survey and collect information and samples from RPC-194.
+> 
+> **Assigned Specialized Team:** Mobile Specialized Team Romeo-7 "Suited Gentlemen" (4 members)
+> 
+> **Date:** 13/06/1982
+> 
+> **Additional Information:** The following is a transcript of radio dialog between Romeo-7, who was tasked with investigating RPC-194 after its discovery. The four-man team, led by Agent Iwan Dashing, spent approximately 3 hours from command's perspective.
+> 
+> **<Begin Log>**
+> 
+> **Dashing:** Check?
+> 
+> **Herr:** Check.
+> 
+> **Wong:** Check.
+> 
+> **Valle:** Check.
+> 
+> **Command:** We hear you.
+> 
+> **Dashing:** Right, we're moving in.
+> 
+> **Command:** Don't take any chances in there, we have no idea exactly how this place affects things temporally.
+> 
+> //R-7 descends through RPC-194 for roughly 15 minutes from command's perspective. R-7 places markings on RPC-194 between "5-minute intervals".//
+> 
+> **Herr:** Command, there are spikes extending out of the ground.
+> 
+> **Wong:** Scratch that. They're on the walls and the ceiling as well.
+> 
+> **Command:** Are they just normal-forming stalagmites?
+> 
+> **Wong:** Don't think so. They look too squared and uniform for that.
+> 
+> **Valle:** They're about a meter long. Good thing this cave is wide enough.
+> 
+> **Wong:** This doesn't feel right.
+> 
+> **Dashing:** That's why we're here, dumbass.
+> 
+> **Command:** Are the spikes too dense to traverse through?
+> 
+> **Dashing:** No.
+> 
+> **Command:** Try to break off one of the spikes for sampling, then proceed.
+> 
+> **Dashing:** Got it.
+> 
+> **Valle:** You guys think RPC-194 did this?
+> 
+> **Wong:** I dunno. What do we know about it anyways?
+> 
+> **Herr:** We know that it can fuck with rocks as the rock pillars outside show us.
+> 
+> **Dashing:** Those rock pillars are formed by the accelerated cooling of lava, easily explained through the detected anomalous properties of RPC-194. This though? I can't think of a good geological reason why this is here.
+> 
+> **Herr:** Are you saying that someone built all these spikes?
+> 
+> **Dashing:** I just don't think that 194 made them "naturally".
+> 
+> //Agent Herr breaks off one of the spikes and continues to explore RPC-194. At 30 minutes, R-7 receives the message from RPC-194-1.//
+> 
+> **Herr:** You guys heard that too right?
+> 
+> **Valle:** Yeah.
+> 
+> **Command:** Agents, please transcribe RPC-194-1. We'll write it down.
+> 
+> **Dashing:** "This is a message to anyone here. Pay attention."
+> 
+> [REMAINDER OF MESSAGE AT BOTTOM OF EXPLORATION LOG]
+> 
+> **Dashing:** Well, that wasn't creepy.
+> 
+> **Command:** Romeo-7, it's just a message. Please proceed.
+> 
+> **Dashing:** Understood.
+> 
+> **Valle:** Someone doesn't want us here.
+> 
+> //R-7 continues to explore RPC-194 for 30 more minutes, during which the density of spikes remains similar.//
+> 
+> **Dashing:** Command, we're stopping to eat for a bit.
+> 
+> **Command:** Romeo-7, it has not been that long. You should have eaten enough before entering 194.
+> 
+> **Valle:** We did. It's been a while now so we're eating again.
+> 
+> **Command:** It has been approximately 2 hours. By your speeds, you should have walked approximately 5 kilometers...
+> 
+> **Herr:** Wait, 2 fucking hours?
+> 
+> **Command:** Correct.
+> 
+> **Herr:** 5 fucking kilometers?
+> 
+> **Command:** Yes.
+> 
+> **Herr:** I swear to god, it feels like it's been way more than that.
+> 
+> **Command:** Take some rest and continue.
+> 
+> //R-7 takes a 5 minute rest. They continue exploring RPC-194 for 1 more hour, at which point the radio signal is lost for approximately 11 minutes.//
+> 
+> **Dashing:** Command, do you read me?
+> 
+> **Command:** Yes, we hear you. We lost you guys for a while there.
+> 
+> **Dashing:** A while? How long exactly?
+> 
+> **Command:** 11 minutes and 19 seconds.
+> 
+> **Dashing:** Fuck. We're heading back up now.
+> 
+> **Command:** Romeo-7, What happened during radio silence?
+> 
+> **Valle:** It's more of an issue of //how long// it was. We counted at least an hour of it.
+> 
+> **Command:** Understood. You may return to your starting positions.
+> 
+> **Valle:** Time's definitely moving faster down here and the more we head down the faster it goes.
+> 
+> **Dashing:** Leave some stuff here so we can tell where we got to in case someone else has to come down here.
+> 
+> **Valle:** What do you guys think are further down?
+> 
+> **Herr:** Probably more fucking caves.
+> 
+> **<End Log>**
+> 
+> **Closing Statements:** Romeo-7 returned to the starting position 2 hours later unusually exhausted, and claimed to have taken nearly 11 hours to return. The spikes recovered were analyzed, revealing them to be composed of naturally occurring rocks identical to that composing the walls of RPC-194. It remains unknown how the spikes were formed.
+
+[[/collapsible]]
+
+The following is the transcript for RPC-194-1, as heard by Agent Dashing.
+[[collapsible show="► Access RPC:/194/194_1.txt ◄" hide="▼ Hide RPC:/194/194_1.txt ▼"]]
+
+> 
+> This is a warning to anyone here. Pay attention.
+> 
+> We considered ourselves to be a powerful group. Sending this message was of great significance to us.
+> 
+> Nothing valued is here. What remains is unwanted.
+> 
+> What is here was dangerous and repulsive to us. It still is to you.
+> 
+> The danger is here. It increases towards a center. 
+> 
+> The center of danger is here, and below us.
+> 
+> The danger is still present in your time, as it was in ours.
+> 
+> The form of the danger is unseen and undetectable until it is too late.
+> 
+> The danger is to time, and it can destroy.
+> 
+> The danger is unleashed only if you substantially disturb this place. 
+> 
+> This place is best shunned and left uninhabited.
+
+[[/collapsible]]
+
+The remainder of RPC-194 was subsequently unexplored, with RPC-194 being categorized as a [[[catalog-of-lesser-anomalous-locations|Lesser Anomalous Location]]] until 1983.
+------
+**Addendum 194.2**
+
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="► RPC:/194/requests/jun_83.log ◄" hide="▼ Close File ▼"]]
+++ [[size 140%]]REQUEST FOR REDESIGNATION OF LA-144 TO REGISTERED PHENOMENA[[/size]]
+-----
+[[/=]]
+[[<]]
+**Requesting Personnel:** Dr. Christopher Kenneth
+
+**Site Director:** Dr. Pan Zheng
+
+**Date of Request:** June 12^^th^^, 1983
+
+**Additional Requests:** 4 Atomic Clocks
+-----
+**Overview:** Several anomalous effects have been detected off the 4 Romeo-7 agents who explored LA-144 (then RPC-194) in 1982.
+
+Firstly, the agents often experience loss of time. All 4 agents recall at least 1 incident where the perception of time was significantly different from that of reality.
+
+Secondly, electronics, most notably those reliant on accurate internal timekeeping, fail to function properly within the vicinity of the 4 agents. No amount of non-anomalous countermeasures has proven effective in countering this effect.
+
+Thirdly, objects disproportionally age faster around the 4 agents. Things owned by the 4 agents seem to deteriorate faster. For example, Agent Dashing's house, which was purchased brand new less than 15 years ago, is plagued with maintenance issues only expected from houses significantly older.
+
+I intend to test my hypothesis that the 4 agents exhibit some form of temporal effect on the surroundings by supplying all 4 agents with an atomic clock and detecting their deviations from normal clocks, in case there's something in those caves actively giving the 4 agents anomalous effects. If that's the case, we'll have to send people down there to contain it, whatever it may be.
+-----
+[[/<]]
+
+[[/collapsible]]
+[[/div]]
+
+[[include component:image-enlarge name= 194_2.jpg|align=center|width=750px|caption=The interior of RPC-194. Photographed by Agent Henry Wong on 22/06/83.]]
+Dr. Kenneth's hypothesis was proven correct after testing on the 4 operatives. It was later decided that MST November-12 (Dumpster Divers) would be deployed on a renewed exploration of RPC-194, with the 4 agents acting as guides.
+
+[[collapsible show="► Access RPC:/194/explorationlogs/220683.txt ◄" hide="▼ Hide RPC:/194/explorationlogs/220683.txt ▼"]]
+
+> **Mission Abstract:** To locate the source of RPC-194 and place it under Authority containment.
+> 
+> **Assigned Specialized Team:** Mobile Specialized Team November-12 "Dumpster Divers" (6 members), Romeo-7 "Suited Gentlemen" (4 members)
+> 
+> **Date:** 22/06/1983
+> 
+> **Additional Information:** The following is a transcript of radio dialog between the Joint Task Force, who were tasked with investigating RPC-194 after its discovery. The ten-man team, led by Agent Thomas Rim, were provided with cabled telephones to avoid loss of contact from a loss of signal.
+> 
+> **<Begin Log>**
+> 
+> **Rim:** Everybody ready?
+> 
+> **Patrick:** Yeah Cap.
+> 
+> **Rim:** How about you four Suited Gentlemen?
+> 
+> **Dashing:** We're good.
+> 
+> **Rim:** Ok. The current time according to this clock is 06:22:14 on the 22nd of June, 1983. Command, please confirm your time.
+> 
+> **Command:** We're seeing identical readings. Proceed when ready.
+> 
+> **Rim:** Come along boys and girls, let's find out what's making 194 tick.
+> 
+> //The operatives proceed as normal for the next 30 minutes, at which point the spiked areas are located.//
+> 
+> **Valle:** At least we know we're going the right way.
+> 
+> **McLoughlin:** Well, this isn't creepy.
+> 
+> **Herr:** Iwan, look at that marking that we left behind.
+> 
+> **Dashing:** Wow... it hasn't aged well. Command, how long are our markers supposed to last?
+> 
+> **Command:** Way more than a year.
+> 
+> **Herr:** Ready to say that these spikes are from the effects of 194 yet?
+> 
+> **Dashing:** What?
+> 
+> **Herr:** We talked about the spikes last time, remember? And as we just saw, this area is definitely affected by 194.
+> 
+> **Dashing:** Oh, right. Honestly, I'm still skeptical. Just because this place is being affected doesn't mean that the spikes are directly the result of 194.
+> 
+> **Herr:** So you're saying that the cave just //did that// without 194?
+> 
+> **Rim:** If you two don't mind, I would like to offer another possibility. 
+> 
+> **Dashing:** Sure.
+> 
+> **Rim:** What if someone built these spikes?
+> 
+> **Herr:** Why would anyone ever built spikes in random caves?
+> 
+> **Rim:** Maybe they didn't want people to enter this place. I remember reading about giant fields of spikes being used as long term warning messages to deter future cavemen from going to certain places after humanity collapses.
+> 
+> **Dashing:** Why would anyone need to do that?
+> 
+> **Rim:** Maybe humans need to store some things that we don't want post-apocolyptic cavemen to find out.
+> 
+> **Dashing:** No, I meant in the case of 194. Why they would want us to leave.
+> 
+> **Rim:** Whoever wrote the message that we heard clearly felt that this place was dangerous. Maybe this is their way of protecting us.
+> 
+> //The team proceeds for another 2 hours, resting at a rate much higher than that of expeditions taking a similar time.//
+> 
+> **Wong:** Look! There's the stuff that we left behind!
+> 
+> **Dashing:** Wow, this is in way worse condition than those markers back there.
+> 
+> **McLoughlin:** Wait, 194 is fucking with time in a way that we're experiencing it faster, right?
+> 
+> **Wong:** Speaking from the last years of my life, you are correct.
+> 
+> **McLoughlin:** How are we still talking to command normally? Shouldn't their voices be slowed down?
+> 
+> **Rim:** Uhh... command?
+> 
+> **Command:** Captain Rim, what is it?
+> 
+> **Rim:** Sean here wants to test something. Stay on the comms and tell us the time.
+> 
+> **Command:** Captain Rim, it is currently 09:46:22 of the 13th of June, 1983.
+> 
+> **Daniels:** Our clock shows it being 20:47:00 on the same day.
+> 
+> **Rim:** Wait, try reading the clock to each other.
+> 
+> //For the next 15 seconds, Agent McLoughlin and command read the clock time.//
+> 
+> **McLoughlin:** It's... literally the same.
+> 
+> **Dashing:** Command, we will radio you again after exactly 1 minute of our time. Do not contact us during this time.
+> 
+> //8 seconds pass.//
+> 
+> **Dashing:** Command, do you read me?
+> 
+> **Command:** Yes, Agent Dashing. It has been 8 seconds.
+> 
+> **Dashing:** So it seems to have no temporal effects on us when we're actively communicating.
+> 
+> **Rim:** As if this fucking cave can't get any weirder. Let's rest for a bit here.
+> 
+> //After resting, the team proceeds for another 4 minutes.//
+> 
+> **Bronson:** Question. Say we find the source of RPC-194. What next?
+> 
+> **DeCabb:** Then we contain it.
+> 
+> **Bronson:** Yeah, I know that, but why? I mean, it's kind of fine just being here.
+> 
+> **Valle:** If the rocks outside and the 4 of us are any indication, it's far from contained by being down there. We have to collect it and put it in our containment for the sake of this area.
+> 
+> **Bronson:** Well, say we do find it. How do we contain it?
+> 
+> **Valle:** I'm sure the geniuses upstairs will figure something out.
+> 
+> **McLoughlin:** But maybe this place //is// its containment. Maybe the cave is someone's way of containing it.
+> 
+> **Valle:** If this is their containment, they clearly fucked up. Look at this place! It's a cave! Not exactly the best containment facility, right? Command, if we don't see anything for the next 15 minutes, we're turning back. Nowhere to properly lie down and sleep here.
+> 
+> **Command:** Understood. We'll give the next team some way of sleeping in the spikes...
+> 
+> **Rim:** Scratch that, the spikes abruptly stop sticking out in front of us.
+> 
+> **Bronson:** Thomas, I think I see an end to this cave.
+> 
+> **Rim:** Wha... oh.
+> 
+> //RPC-194 terminates at a dead end.//
+> 
+> **Daniels:** Command, there's nothing here.
+> 
+> **Herr:** That was anti-climatic.
+> 
+> **Dashing:** What were you expecting, some alter where the thing that makes 194 weird just sits there, waiting for us to take it like in //Indiana Jones//?
+> 
+> **Herr:** Yes.
+> 
+> **Rim:** Take a look around, see if there's anything especially exposed. Maybe RPC-194 is embedded in these rocks.
+> 
+> **Patrick:** Or maybe it's a few meters under us and we're right on top of it.
+> 
+> **Daniels:** I'm going to take a look at the dead end as well.
+> 
+> //The team searches for 5 minutes. Agent Daniels attempts to break open some chunks of the cave end with a pickaxe. However, not long after she begins picking, the end of the cave collapses, revealing a fully lit hallway.//
+> 
+> **Daniels:** Holy... what the hell is this?
+> 
+> **Command:** What are you seeing?
+> 
+> **Daniels:** We're seeing a hallway, in a man-made facility. Very man-made.
+> 
+> **Herr:** The walls are white, and there's an artificial light source somewhere. I have no idea where it's from.
+> 
+> **Wong:** Taking a picture.
+> 
+> **Herr:** How long do you think this has been here?
+> 
+> **Dashing:** I don't know. Probably as old as the caves.
+> 
+> **DeCabb:** I'm seeing some kind of plaque in front of us.
+> 
+> **Dashing:** Careful. Whatever built this place doesn't want us here.
+> 
+> **Rim:** Sean, go with Gabby.
+> 
+> **McLoughlin:** Got it.
+> 
+> //Agent DeCabb and Agent McLoughlin proceed forward and retrieve the plaque.//
+> 
+> **DeCabb:** It looks like some sort of text in Tagalog.
+> 
+> **McLoughlin:** Tagalog? This looks more like Irish to me.
+> 
+> **Dashing:** Might be the same thing that makes us all hear RPC-194-1.
+> 
+> **Wong:** Give me the plaque, I'm taking a picture of it.
+> 
+> **McLoughlin:** Sure.
+> 
+> **Rim:** Gabby, Sean, what's on the plaque?
+> 
+> **McLoughlin:** I read something about having to appease a god for safe passage here.
+> 
+> **Herr:** A fucking god? 
+> 
+> **McLoughlin:** Yes.
+> 
+> **Herr:** Ha.
+> 
+> **Dashing:** You are skeptical?
+> 
+> **Herr:** We know that whoever built this place didn't want anyone to be here. What if this is just another scare tactic?
+> 
+> **Bronson:** Scare tactic or not, we should still be prepared.
+> 
+> **McLoughlin:** I'm seeing some rituals regarding evading the "watchful eye of this god". Do you think this is trustworthy?
+> 
+> **Rim:** What other choice do we have? Take the plaque with us and let the genieuses upstairs handle it. Right when we have more trouble dealing with this, this conveniently placed plaque which shows up in a place where the owners clearly don't want us here tells us how to be here safely.
+> 
+> **Dashing:** You don't trust the plaque?
+> 
+> **Rim:** Why didn't they give us this ritual using 194-1? Something about this feels off.
+> 
+> **<End Log>**
+> 
+> **Closing Statements:** The team reemerged 5 hours later, at 16:00:20, 13/06/83, with their clock displaying 00:21:13, 15/06/83. The picture containing the recovered plaque showed the plaque being blank. Measurements taken from the length of landlines used indicate the team traversed 20km of caves.
+
+[[/collapsible]]
+
+The procedures as perceived by English-speaking personnel, now designated as 194-Rectitude is listed below. It is to be performed no fewer than 3 hours before each incursion into RPC-194.
+
+[[collapsible show="► Access RPC:/194/rectitude.pdf ◄" hide="▼ Close RPC:/194/rectitude.pdf ▼"]]
+
+# Individuals entering RPC-194 are to wear clothing lined with Germanium before 194-Rectitude begins. This clothing will be worn by personnel when entering RPC-194.
+# One Germanium crystal apprimately 20g is to be provided for each individual.
+# The Germanium crystal is to be submerged into a water tank no fewer than 2 liters in volume. This is to be conducted within RPC-194. No fewer than 4 Germanium crystals are to undergo this procedure at any given time.
+# Each individual is to pick up their assigned Germanium crystal.
+# The crystal is to be worn on the individual at all times.
+If the crystal starts to turn black, depart from RPC-194 immediately.
+
+//Testing with CSD personnel suggests that this procedure can reduce the effects of RPC-194 by approximately 92% over a period of 120 hours. - Dr. Christopher Kenneth.//
+[[/collapsible]]
+
+[[collapsible show="► Access RPC:/194/explorationlogs/290683.txt ◄" hide="▼ Close RPC:/194/explorationlogs/290683.txt ▼"]]
+> **Mission Abstract:** To explore recently uncovered elements of RPC-194, as well as locate and place any potential sources of RPC-194's anomalous effects under Authority containment.
+> 
+> **Assigned Specialized Team:** Mobile Specialized Team November-12 "Dumpster Divers" (6 members), Romeo-7 "Suited Gentlemen" (4 members)
+> 
+> **Date:** 29/06/1983
+> 
+> **Additional Information:** The following is a transcript of radio dialog between the Joint Task Force, who were tasked with investigating RPC-194 after its discovery. The ten-man team, led by Agent Rim, were provided with cabled telephones to avoid loss of contact.
+> 
+> <Begin Log>
+> 
+> **Rim:** Check your crystals everyone.
+> 
+> **Dashing:** Looks good.
+> 
+> **Command:** It is currently 07:15:37 on the 29th of June, 1983 on our clock.
+> 
+> **Rim:** Synchronization confirmed. Let's go.
+> 
+> **Command:** Please notify us of the clock situation when you reach the 20km mark.
+> 
+> //The team proceeds in RPC-194 for 5 hours. No significant events happen during that period.//
+> 
+> **Dashing:** Command, we're approaching the 20km mark.
+> 
+> **McLoughlin:** The clock is... 13:44:15 on the 29th of June, 1983.
+> 
+> **Command:** We are reading 12:16:40 on the 29th of June, 1983.
+> 
+> **Herr:** Gods or no gods, we have defeated it.
+> 
+> **Valle:** Look around and see if we can find whatever is causing this.
+> 
+> **Command:** Can you describe what you are currently looking at?
+> 
+> **Bronson:** The same hallway as last time.
+> 
+> //The team reaches the end of the hallway.//
+> 
+> **Valle:** Command, it looks like a lobby of sorts. Two staircases, each leading down.
+> 
+> **Wong:** There's an erratically flashing hologram displaying text. Taking a pic of it.
+> 
+> **Valle:** It's saying "Containment". Looks broken, or else it wouldn't be flashing.
+> 
+> **Rim:** Ok, we'll split into two teams. Jackie, Paul, Gabby, Iwan, Henry with me. Sean, Danny, Mon, and Adrian will go the other way. Let's limit ourselves to no more than an hour.
+> 
+> **Bronson:** Tom, do we have a spare clock?
+> 
+> **Rim:** Uhh... shit. Who here has got a watch?
+> 
+> **Daniels:** I do.
+> 
+> **Rim:** Ok then. Sean, you'll take the clock. We'll rely on Jackie's watch.
+> 
+> **Bronson:** Your watch isn't padded. We should wait for someone to take a new clock down here.
+> 
+> **Rim:** By the time we wait for a clock to get to us, our crystals will probably have gone bad. Jackie, give me your watch.
+> 
+> //Agent Rim slices off a piece of fabric from his suit. He uses the fabric to cover the watch and duct tapes the hole in his suit.//
+> 
+> **Rim:** There. Let's see how much our clocks are off by.
+> 
+> //A minute passes. The watch is tracking time at approximately 1.4 times faster than the atomic clock.//
+> 
+> **Rim:** Sean, your team will exit the staircases after one hour on your clock, or when it shows 15:10. We will leave when our clock shows 15:35.
+> 
+> **McLoughlin:** Sure. Good luck boss.
+> 
+> //Both teams enter their stairwells respectively. This log will follow the experiences of Agent Dashing's team.//
+> 
+> **Dashing:** Command, we're just seeing rows and rows of decently wide corridors.
+> 
+> **Command:** I assume the corridors need to be passed in order to reach the next set of stairwells?
+> 
+> **Dashing:** Some of them, yeah. We'll take some time to explore this level of the corridors.
+> 
+> //The team explores this level, consisting of largely identical corridors.//
+> 
+> **Patrick:** You know, these corridor walls seem kind of wide. Too wide.
+> 
+> **Wong:** You think there might be something in them?
+> 
+> **Patrick:** Yeah. I'll see if these walls are hollow.
+> 
+> //Agent Patrick heads towards the corridor walls, but disappears as soon as he touches the wall.//
+> 
+> **Rim:** Command! Come in!
+> 
+> **Command:** Captain Rim, what is it?
+> 
+> **Rim:** Paul's suddenly disappeared.
+> 
+> **Command:** Vanished out of thin air or slowly dematerialized?
+> 
+> **Rim:** Vanished out of thin air.
+> 
+> **Command:** Understood. Captain Rim, you may leave RPC-194 when...
+> 
+> //Agent Patrick reappears.//
+> 
+> **Wong:** Woah. What the fuck...
+> 
+> **Patrick:** What is it? Why are you all looking at me...
+> 
+> **Rim:** Command, Paul just reappeared out of thin air.
+> 
+> **Patrick:** Tom, what do you mean I just reappeared out of thin air?
+> 
+> **Wong:** What do you remember about the last 15 seconds?
+> 
+> **Patrick:** Walking towards this wall to check whether it's hollow.
+> 
+> **Rim:** So you don't know that you ever disappeared?
+> 
+> **Patrick:** What do you mean?
+> 
+> **Command:** Agent Patrick, you had disappeared for 15 seconds.
+> 
+> **Patrick:** What the fuck... how did I not know?
+> 
+> **Command:** We don't know.
+> 
+> **Wong:** What's that book on your pouch?
+> 
+> **Patrick:** What? I didn't take any...
+> 
+> //Agent Wong takes the book.//
+> 
+> **Wong:** //The Time Traveler's Handbook//. Command, what...
+> 
+> **Command:** [[[RPC-916]]]. A book that manifests for people who have time traveled.[[footnote]]Possession of RPC-916 is considered a reliable proof of temporal displacement.[[/footnote]]
+> 
+> **Patrick:** So I just time traveled?
+> 
+> **DeCabb:** Possibly.
+> 
+> **Patrick:** Seems right for this place.
+> 
+> **Rim:** With Paul back I think we can continue. What's your verdict on the walls?
+> 
+> **Patrick:** It's hollow. Given that I time traveled when I got closer, I think the cause of 194's effects are behind these walls.
+> 
+> **Dashing:** Get through those walls and take a sample of it.
+> 
+> //Agent Daniels uses her pick on the corridor wall. However, no fragments break off.//
+> 
+> **Daniels:** This isn't working. We'll need better equipment.
+> 
+> **Dashing:** By the time we get better equipment our crystals will have gone black. Let's try heading down and see if we get better opportunities.
+> 
+> **Patrick:** How do we actually plan to contain all of this?
+> 
+> **Dashing:** I don't know. I'm sure they'll figure something out.
+> 
+> **Patrick:** As far as we know, this entire damn facility could be filled with these.
+> 
+> **DeCabb:** Look, our job here is to retrieve a sample. I'm sure we can figure something out. We always do.
+> 
+> //The team heads to the stairwell. They continue descending for 6 levels.//
+> 
+> **DeCabb:** Guys, have you noticed that the further down we go, the worse condition the corridors are in?
+> 
+> **Rim:** What?
+> 
+> **DeCabb:** When we were at the first level, the corridors looked well-maintained. Old, sure, but well-maintained. Now, look at the corridors here. It's still decently bright, but nowhere near as bright as it was. The walls are far from crumbling but they have certainly seen better days.
+> 
+> **Wong:** So, you're saying that the corridors down here are getting older much faster than at the top.
+> 
+> **DeCabb:** Not exactly surprising given this **is** RPC-194 we're talking about.
+> 
+> **Daniels:** Well, this set of stairwells ends here. Let's move through to the next corridor and head to the next stairwells.
+> 
+> **DeCabb:** Might also be a better opportunity to collect samples.
+> 
+> //Agent Daniels grabs a pick and attempts to collect some samples of the corridor materials. However, no fragments break off.//
+> 
+> **Dashing:** The pick's still no good. I thought these were supposed to be the ruined ones.
+> 
+> **Wong:** Try there.
+> 
+> //Agent Wong points towards a section of the corridors that has visible cracks and look significantly more worn down.//
+> 
+> **Daniels:** Looks like a good spot.
+> 
+> //Agent Daniels heads towards the section of the corridors. However, as soon as her pick comes into contact with the corridors, it immediately rusts and breaks. Agent Daniels also collapses to the floor, with her Germanium crystal turning black instantly.//
+> 
+> **DeCabb:** Fuck!
+> 
+> **Wong:** What was that?
+> 
+> //Agent DeCabb attempts to retrieve Agent Daniels. However, Agent DeCabb immediately experiences intense pain in his head and collapses to the ground. At this point, Agent Dashing rushes to retrieve Agent Daniels and Agent DeCabb. Unlike Agent DeCabb, Agent Dashing does not experience intense pain in his head.//
+> 
+> **Dashing:** Henry, come check whether they're alive.
+> 
+> //Agent Wong checks the pulse of the two agents.//
+> 
+> **Wong:** They're alive.
+> 
+> **Dashing:** Jackie's crystal is gone, Gabby's is still clear.
+> 
+> **Wong:** Iwan, what do you see on the other side of the wall?
+> 
+> **Dashing:** Uhh... rocks. Chunks of seemingly normal rocks piled up inside.
+> 
+> **Wong:** See anything buried underneath it?
+> 
+> **Dashing:** If there is anything, I can't see it. Looks like it's just rocks.
+> 
+> **Wong:** Take my camera.
+> 
+> //Agent Wong tosses his camera at Agent Dashing. However, the camera ceases to function.//
+> 
+> **Dashing:** Henry, the shutter just died.
+> 
+> **Wong:** That's not supposed to happen for at least another 25 thousand pictures... oh. Damn this fucking place and it's time fuckery!
+> 
+> **Rim:** Any chance of them waking up soon?
+> 
+> **Wong:** Don't know. Me and Paul will take the two of them back to our rendezvous point. You two continue with the mission.
+> 
+> **Dashing:** Good idea. Tom, let's go.
+> 
+> //Agent Patrick and Wong pick up Agent DeCabb and Daniels, while Agent Dashing and Rim proceed. The next six floors are similar to the previous ones, though being in increasing levels of wear.//
+> 
+> **Rim:** What do you think happened to Jackie and Gabby?
+> 
+> **Dashing:** Tom, how long have you been doing this?
+> 
+> **Rim:** About 8 years. Why?
+> 
+> **Dashing:** Then you should know by now that we'll probably never know. Sure, we can see the effects, but when have we been able to definitively say "we know why this is happening"?
+> 
+> **Rim:** And "why, in god's fucking name, was this place ever built".
+> 
+> **Dashing:** Why do we build landfills?
+> 
+> **Rim:** Huh?
+> 
+> **Dashing:** Why do we build landfills? They're eyesores, break up the ground, and you can get nasty diseases if you stay there for long. And yet we build them.
+> 
+> **Rim:** Are you saying that this place is a landfill? For rocks?
+> 
+> **Dashing:** I don't know, I'm just saying that there are things whose purpose we might not understand when we aren't the ones benefiting from it.
+> 
+> **Rim:** Well, whatever this thing was built for, I hope it was fucking worth it.
+> 
+> **Dashing:** A landfill isn't worth anything to a termite. Knowing some of the things I've dealt with in the past, I fear we may be no more than termites.
+> 
+> **Rim:** I assume you don't share Gabby's confidence in containing this place?
+> 
+> **Dashing:** Tom, I bought my house by [[[RPC-378|crashing the Welsh housing market]]] with an anomaly that I knew fuck all about. Maybe we can't ever hope to understand anomalies, and can only contain whatever scraps coming our way.
+> 
+> //The stairwell ends at this point.//
+> 
+> **Dashing:** Wha... Tom.
+> 
+> **Rim:** Woah.
+> 
+> **Command:** What do you see?
+> 
+> **Dashing:** Looks like a swimming pool. Just much deeper.
+> 
+> **Rim:** The walls are tiled and look a lot cleaner. Looks brand new.
+> 
+> **Dashing:** Pool's approximately 50*20m in size. There are other holograms saying "Containment" and "Approaching Source".
+> 
+> **Command:** Probably means that you are approaching the source of 194's effects. Do you see anything down there?
+> 
+> **Dashing:** Too deep to see anything.
+> 
+> **Rim:** Maybe the water helps block the effects.
+> 
+> **Dashing:** Then why would they only use some chunks of rocks to contain the stuff above?
+> 
+> **Rim:** Maybe this pool contains stuff that's stronger?
+> 
+> **Command:** Agents, sync up our clocks again. We will contact you after 30 seconds.
+> 
+> //Agent Dashing and Rim do not contact command for 90 seconds.//
+> 
+> **Command:** Agents, do you hear us?
+> 
+> **Rim:** We hear you loud and clear, command. It's been about 20 seconds.
+> 
+> **Command:** It has been 90 seconds up here. We advise you to return immediately.
+> 
+> **Dashing:** So we're now experiencing time slower?
+> 
+> **Rim:** I thought the "danger" was supposed to increase the further we went down.
+> 
+> **Dashing:** Maybe the liquid's a mechanism that negates the effects of whatever it is slowing time down. I'm taking some samples before we return.
+> 
+> **Rim:** Do you have a container?
+> 
+> **Dashing:** No.
+> 
+> //Agent Dashing pours his water into Agent Rim's water bottle and collects some samples with his bottle.//
+> 
+> **Dashing:** Alright, let's get the fuck out of here.
+> 
+> **Rim:** We'll need frogmen for this.
+> 
+> **Dashing:** You're asking for someone to walk down RPC-194 while carrying scuba gear.
+> 
+> **Rim:** Why don't we just put the equipment here first over time, then have the frogmen come down later? If time does move slower, it shouldn't be too hard to store them here without maintaining them.
+> 
+> **Dashing:** But who would want to dive into that? We don't know what the fuck it could do to us.
+> 
+> **Rim:** Neither do we, and yet we still went into RPC-194. We're this close to finally figuring out what's at the end and you're saying you're not even curious in the slightest?
+> 
+> **Dashing:** Remember what I just said about a termite in a landfill?
+> 
+> **Rim:** I do, but this thing though? I think we're close.
+> 
+> **Dashing:** Tom, I admire your optimism.
+> 
+> **<End Log>**
+> 
+> **Closing Statements:** Agent Dashing and Rim returned to the separation point soon, with the rest of the team waiting for them. A disproportionate amount of lesions similar to that detected in the elderly had formed on Agent Daniels' right arm. Agent DeCabb's brain contained a tumor, with subsequent medical checks suggesting Agent DeCabb may unknowingly have had stage 1 brain cancer. Both agents have recovered, but are no longer allowed on active duty.
+
+[[/collapsible]]
+
+The following is a list of objects retrieved within RPC-194.
+
+[[collapsible show="► Access RPC:/194/retrieved_logs.txt ◄" hide="▼ Hide RPC:/194/retrieved_logs.txt ▼"]]
+
+||~ Object||~ Description||~ Additional Information||
+||Samples of rock spikes||Consists of non-anomalous rock formations. Believed not the result of RPC-194's temporal effects.||N/A||
+||Black germanium crystal||Also contains traces of an undetermined composite. Extremely resilient to damage. Believed to have been created approximately 44 million years ago.||N/A||
+||Black box||Capable of projecting hologram of a stationary humaniod.||N/A||
+||[INFOHAZARD REDACTED]||Causes anyone to perceive it to attempt to sabotage any attempts at entering RPC-194. Significantly more advanced than any Authority technology.||Retrieved with a note. //Place at 5th [layer], after caves, pool, [unknown], [unknown]. Use to block [path] to 6th [layer]. Simple [infohazard] tech, not too much trouble. Long way for anyone to go until the bottom. We did a good job I hope.//||
+||Notekeeping document||Believed to have been left by a previous group's incursion. Written in an unidentified deviation of English and Latin. Written 1600 years ago.||Excerpt: //Julius is a fucking dickhead, abandoned us when we were close to getting through the next challenge. I've been fucked by something here, not sure what anomalous effects I may have. Will consult Cassius and Marcus if I make it the fuck out alive. Leaving note at 2nd [level]. Know that we got to [REDACTED]. A lot further down. DO NOT PROCEED. IT IS FOR YOUR OWN GOOD. WHY THE FUCK DID WE COME THE FUCK DOWN HERE. -Aurelia//||
+[[/collapsible]]
+------
+**Addendum 194.3**
+
+The contents of the liquid retrieved by Agent Dashing were analyzed and is believed to be composed of a substance similar to water, and is capable of slowing time. MST Alpha-2 (Maritime Praesidio Subvehi) was brought in for exploration. Scuba gear was subsequently delivered to the designated dive spot over the next 2 months in preparation of this exploration, with the gear being determined to be in acceptable condition by September 1983.
+
+[[collapsible show="► Access RPC:/194/explorationlogs/250983.txt ◄" hide="▼ Hide RPC:/194/explorationlogs/250983.pdf ▼"]]
+
+> **Mission Abstract:** To explore aquatic elements of RPC-194, believed to contain the source of RPC-194's anomalous effects.
+> 
+> **Assigned Specialized Team:** Mobile Specialized Team Alpha-2 "Maritime Praesidio Subvehi" (2 members), November-12 "Dumpster Divers" (4 members), Romeo-7 "Suited Gentlemen" (4 members)
+> 
+> **Date:** 25/09/1983
+> 
+> **Additional Information:** The following is a transcript of radio dialog between the Joint Task Force, who were tasked with investigating RPC-194 after its discovery. The log begins when the 2 members of Alpha-2 begin diving.
+> 
+> **<Begin Log>**
+> 
+> **Dashing:** You guys ready?
+> 
+> **Commons:** Ready.
+> 
+> //The Alpha-2 agents begin descending.//
+> 
+> **Commons:** These crystals should work underwater. We'll descend to 80 meters max.
+> 
+> **Brady:** Sure.
+> 
+> **Commons:** Currently at 5 meters. We'll take a look around.
+> 
+> //Alpha-2 takes a one minute scan of the general area, but do not discover anything.//
+> 
+> **Commons:** Descending to 15 meters.
+> 
+> **Brady:** What are we expecting again?
+> 
+> **Rim:** We're not sure what it looks like, but it will probably have layers of rocks on top of it. As of our understanding, they are placed there to block some of the effects.
+> 
+> **Patrick:** Or maybe the rocks themselves are causing all this.
+> 
+> **Brady:** All of RPC-194 for a few rocks?
+> 
+> **Command:** Alpha-2, what's your depth?
+> 
+> **Commons:** 15 meters, descending to 30.
+> 
+> //Alpha-2 descends for approximately 20 minutes to 30 meters.//
+> 
+> **Commons:** Got nothing at this depth still. Going to head to 70 meters. If we don't see anything there we're heading back up.
+> 
+> //Alpha-2 attempts to descend to 70 meters.//
+> 
+> **Brady:** I see the bottom of this pool.
+> 
+> **Commons:** Reckon it's about 33, 35 meters from us.
+> 
+> **Command:** Alpha-2, what's your current depth?
+> 
+> **Brady:** 40 meters.
+> 
+> **Command:** Head down there and see what you find.
+> 
+> **Brady:** Looks like there's some stuff down there.
+> 
+> **Command:** What is it?
+> 
+> **Brady:** Not sure, but we'll find out as soon as we get to the bottom of this pool.
+> 
+> **Commons:** Looks like a bunch of orange boxes. The bottom's filled with them.
+> 
+> **Brady:** We're taking one of them back up here.
+> 
+> //Agent Commons and Brady recover the orange box and resurface.//
+> 
+> **Herr:** Agent Herr here, we opened the box. Looks like nothing more than... //(coughing)// a rock inside it.
+> 
+> **Dashing:** Kind of like the ones I saw contained in the corridors.
+> 
+> **Herr:** I'm removing it from the box to see what else is inside.
+> 
+> //Shortly after, RPC-194 and the surrounding High Island Reservoir began visibally corroding.//
+> 
+> **Command:** We're experiencing some major temporal effects. RPC-194 and the surronding area's corroding from wear and tear. What did you do?
+> 
+> **Herr:** There's nothing else in here but the rock...
+> 
+> //Agent Herr, Commons and Brady collapse to the floor. Their crystals immediately turn black. The orange box also begins sustaining accelerated wear and tear.//
+> 
+> **Wong:** Mon and the Alpha-2 team is down. Checking their vitals.
+> 
+> **Command:** Agents, some slight temporal effects are being detected at Site-038's construction site. What did you do?
+> 
+> **Rim:** It's the rock! Put it back in and chuck it into the pool!
+> 
+> //Agent Wong checks the vitals of the 3 agents. However, Agent Wong also collapses, with his crystal turning black.//
+> 
+> **McLoughlin:** Don't bother with the four of them yet, just put the rock back in the box!
+> 
+> **Patrick:** I guess it //was// the rocks that were causing these effects, weren't it Iwan?
+> 
+> **Dashing:** Not now Paul!
+> 
+> **Command:** Better do it quickly. All of Hong Kong's starting to be affected.
+> 
+> //Agents McLoughlin and Patrick place the rock into the orange box and attempt to push the orange box into the pool. However, both of them collapse before they reach the pool. At this point, the facility begins shaking[[footnote]]Subsequent investigations reveal this is due to accelerated tectonic activity within the vicinity of RPC-194.[[/footnote]].//
+> 
+> **Valle:** Command, I don't think we can push this thing back down... //(coughs)// we can't get close enough. We're pulling back.
+> 
+> **Command:** Agents, I'm getting angry phone calls from the sites saying that they're all experiencing minor temporal acceleration. You //have// to push the box back in or we're in serious trouble.
+> 
+> **Dashing:** Adrian, if we don't push this thing down, god knows... god knows what could happen. Tom, come help me!
+> 
+> **Rim:** If I die, I'm going to be very annoyed at you!
+> 
+> //Agents Dashing and Rim attempt to push the orange box into the pool, during which Agent Rim disappears. However, Agent Dashing is successful in pushing the orange box, with the orange box sinking to the bottom of the pool.//
+> 
+> **Command:** Agents, what's your status? The other Sites are reporting a revertion to no temporal effects.
+> 
+> **Valle:** Command, this is Agent Valle. Requesting an immediate medivac for everyone here. Agent Dashing has recontained the rock.
+> 
+> **Dashing:** //(coughing)// Don't bother.
+> 
+> //Agent Valle rushes to aid Agent Dashing, whose crystal is flashing between dark and clear. Agent Dashing's arms and legs are filled with lesions similar to that on Agent Daniels' right arm. However, Agent Valle's crystal immediately turns black within proximity of Agent Dashing.//
+> 
+> **Dashing:** Adrian, stay away. The thing that happened to us is probably affecting me in much greater magnitude.
+> 
+> **Valle:** Uhh... right. I'm going to check whether the others are still alive.
+> 
+> **Dashing:** Don't bother. If they aren't dead now they soon will be. Command, what's the status of RPC-194?
+> 
+> **Command:** We're seeing much less erosion on RPC-194 or the High Island Reservoir. Whatever you did, it worked.
+> 
+> **Bronson:** Thank god.
+> 
+> **Command:** How many of you are still here?
+> 
+> **Dashing:** Well, everyone except for Adrian and Danny are good as dead.
+> 
+> **Command:** Including you?
+> 
+> **Dashing:** Including me. Adrian and Danny are heading back up, prepare to extract them.
+> 
+> //Agent Dashing begins coughing out blood.//
+> 
+> **Dashing:** Forget about me. The bodies of our friends are still exhibiting temporal effects and someone has to dump them into the pool.
+> 
+> **Command:** Agent Dashing, we're seeing no extra temporal effects at the moment. It should be safe for us to recover you.
+> 
+> **Dashing:** If it's safe, Adrian's crystal wouldn't turn black. Just because I'm not causing the world to explode doesn't mean I'm safe to deal with.
+> 
+> **Command:** Understood. We'll send a team in to meet up with Valle and Bronson.
+> 
+> //Agent Valle and Bronson return up the stairwell. Agent Dashing stands up and starts moving the bodies of the agents into the pool. Shortly after they leave, Agent Rim reappears with a black crystal.//
+> 
+> **Rim:** Hello Iwan. Did you push the box in?
+> 
+> **Dashing:** Yes.
+> 
+> **Rim:** Good. What are you doing now?
+> 
+> **Dashing:** Throwing some bodies into the pool. We're all exhibiting temporal effects and if we don't contain ourselves the world above us could be fucked. 
+> 
+> **Valle:** Are you sure you don't want any assistance?
+> 
+> **Dashing:** Anyone who comes close to us will be terribly affected. We're not Agents Dashing and Rim anymore, we're something dangerous to you. Something dangerous to time.
+> 
+> **Rim:** How about my help? I'm just as fucked as you are anyways.
+> 
+> **Dashing:** I'm not in a hurry, these bodies aren't nearly as dangerous as the rock. Of course, I won't stop you if you want to help me.
+> 
+> //Agent Rim assists Agent Dashing in moving the bodies of the agents into the pool.//
+> 
+> **Rim:** This fucking sucks.
+> 
+> **Dashing:** Such is the life of an Authority operative. No glorious death, no 21-gun salute, just dying in the ancient equivilant of a nuclear waste facility.
+> 
+> //Both remain silent as they continue to throw bodies into the pool.//
+> 
+> **Dashing:** Remember what I said about ants on a landmine?
+> 
+> **Rim:** I think...//(coughs)// I understand you now. I think we just jumped on one. 
+> 
+> **Dashing:** I'm just glad that when this landmine blew up, we didn't take the entire Earth with us.
+> 
+> **Rim:** You know, it's funny that I once thought there was a reason to anomalies. The idea that maybe, just maybe, we'll find a reason to why anomalies exist. I guess it's ironic that only in my final moments am I realizing that we're like ants being crushed by a recently placed landmine. And how foolish was I to think that we can contain the blast that comes from the landmine.
+> 
+> **Dashing:** I would have thought that you would have some humility regarding these things.
+> 
+> **Rim:** I do now.
+> 
+> **Dashing:** A bit late, innit?
+> 
+> **Rim:** Better late than never.
+> 
+> //Agents Dashing and Rim finish throwing the bodies into the pool and sit on the edge of it.//
+> 
+> **Rim:** I guess this is it.
+> 
+> **Dashing:** Yep.
+> 
+> **Rim:** You know what the worst thing is? Whoever built this probably didn't even bat an eye to this place being dangerous. We're like future cavemen entering a long-term nuclear waste facility. A facility built by people who understand its effects and can block it, but are completely beyond us in terms of tech. And so we enter, not knowing that we're already dead by being here.
+> 
+> //Both agents remain silent.//
+> 
+> **Rim:** Why the hell did we come down here?
+> 
+> **Dashing:** Curiosity and fooloshness. The two defining characteristics of the Authority. The curiosity evoked when we find a shiny round object whose use we cannot comprehend and the foolishness exhibited when we step on the landmine with the hopes that triggering it will let us finally understand it. Why did we ever think that we could possibly understand this place fully without something bad happening?
+> 
+> //Both remain silent as they continue to throw bodies into the pool.//
+> 
+> **Dashing:** Because at the end, the Authority is just a glorified anthill. A curiously foolish anthill located in a landfill of landmines.
+> 
+> //Agent Dashing collapses into the pool. 2 minutes later, Agent Rim also collapses into the pool. No more responses are heard.//
+> 
+> **<End Log>**
+> 
+> **Closing Statements:** Agents Valle and Bronson were recovered without incident. The temporal effects of RPC-194 increased by 0.2% afterwards.
+
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-193]]] | RPC-194 | [[[RPC-195]]] >> 
+[[/=]]
+

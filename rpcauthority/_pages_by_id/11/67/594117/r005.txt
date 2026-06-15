@@ -1,0 +1,50 @@
+---
+title: "Component:Footnote-Box-Base"
+tags: ["component"]
+page_id: "1167594117"
+site: "rpcauthority"
+slug: "component:footnote-box-base"
+revision: 5
+revision_id: "1367510533"
+author: 5258122
+timestamp: 1628547773
+---
+
+[[module css]]
+
+.creditdrop{
+  display: inline-block;
+  border-radius: {$borderrad};
+  border: {$border};
+  background-color: {$bgcolor};
+  background-image: {$bgimage};
+  color: {$color};
+  width: 95%;
+  padding: {$padding};
+  font-size: 110%;
+  {$more}
+}
+
+.creditdrop .collapsible-block-link {
+  font-size: 120%;
+  }
+
+.creditdrop .collapsible-block-unfolded-link, .collapsible-block-folded
+{
+text-align: center;
+}
+
+
+.creditdrop .collapsible-block-content{
+  text-align: left;
+}
+
+.footnote-footer {
+text-align: left;
+}
+
+[[/module]]
+
+[[div class="creditdrop"]]
+[[collapsible show="{$cshow}" hide="{$chide}"]]
+

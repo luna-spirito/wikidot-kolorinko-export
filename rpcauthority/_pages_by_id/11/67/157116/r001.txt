@@ -1,0 +1,33 @@
+---
+title: "_page Lists For Bot"
+tags: []
+page_id: "1167157116"
+site: "rpcauthority"
+slug: "_page-lists-for-bot"
+revision: 1
+revision_id: "1217241698"
+author: 3118961
+timestamp: 1593740338
+---
+
+[[collapsible show="+ fragments"]]
+[[module listPages category="fragment" limit="255" perPage="255" separate="no"]]
+[[head]]
+[[table]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell style="border-bottom: 1px solid #666;"]]
+%%title%%: 
+[[/cell]]
+[[cell style="border-bottom: 1px solid #666;"]]
+%%link%%
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/collapsible]]
+

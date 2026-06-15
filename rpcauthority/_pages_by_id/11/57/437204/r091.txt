@@ -1,0 +1,404 @@
+---
+title: "The Unfinished Land of Cair Aisling"
+tags: ["event"]
+page_id: "1157437204"
+site: "rpcauthority"
+slug: "cair-aisling-event"
+revision: 91
+revision_id: "1519631002"
+author: 8059995
+timestamp: 1713220969
+---
+
+[[module css]]
+#page-title {
+    font-size: 230%;
+}
+
+@media (max-width: 1099px) {
+.submissionsContainer {
+display: none;
+}
+}
+
+@media (min-width: 1100px) {
+.submissionsContainer {
+position: absolute;
+left: 730px;
+}
+}
+
+.submissions {
+  background: var(--content-panel-background);
+  padding: 5px;
+  box-shadow: var(--content-box-shadow);
+}
+
+.submissions a {
+  text-decoration: none;
+}
+[[/module]]
+
+[[module CSS]]
+@import url(http://www.rpc-wiki.net/component:cair-aisling-theme/code/1);
+[[/module]]
+
+[[div class="submissionsContainer"]]
+[[div class="submissions"]]
+Submissions
+[[size 150%]]
+= [#submissions ▼]
+[[/size]]
+[[/div]]
+[[/div]]
+
+[[div class="art2"]]
+[[image https://rpcauthority.wdfiles.com/local--files/cair-aisling-event/Castle.png width="100%"]]
+[[/div]]
+
+[[div style="text-align: center; margin: 2.5em;"]]
+//**We saw spires and towers and a dreamlike castle through rolling hills, twisting rivers and dense forests. We approached but were pushed back by strong winds, forced to land in shallow water along the shore. From the sky, we saw an island only a few thousand feet across. But from the ground, there's an entire world inside.**//
+[[/div]]
+
+[[div class="fancy-divider"]]
+----
+[[/div]]
+
+> The Scottish island of Pabbay has long been of interest to the Authority; AEDF satellites have registered strange energy readings there, signifying a level of weakened reality. The island is home only to fantasy author Randolph Gowering, who is composing the final work in his beloved "Cair Aisling" series—a monumental fantasy novel and his greatest to date.
+> 
+> After leaving the island to meet with his publisher, Gowering suffers a fatal stroke. In an instant, Pabbay is transformed into a place straight out of Cair Aisling. Technology has no place on the island, only the magic items and fantastical gadgets carried by its many inhabitants. The magical beings who inhabit the island cannot leave, but their supernatural treasures are ripe for the taking. With tactical gear and high-tech support rendered useless, Authority security is forced to adapt. 
+> 
+> The twisting Castle of Dreams looms in the distance. Wizards, witches, elves and alike populate the lands. As the island creates the missing conclusion to the Cair Aisling series, the Authority hurries to investigate and take what it can before the last page is written and the book is closed at the end of the decade.
+
+[[div class="small-divider"]]
+----
+[[/div]]
+
+++ The Current State of Cair Aisling
+**OAS Fantasy Literature Working Group**
+//For General Issue//
+
+> **NOTE: Physical copies of this document hand-inscribed on vellum or papyrus are available for personnel who are required to operate within the bounds of the Cair Aisling anomaly.**
+
+[[include component:sidenote figure={{**Volume 1:** Triumph of the Empirical}}|contents= 
+
+The Empirical Clans of Humanity have long served the ancient and decadent Spire Elves, whose reign over the land of Cair Aisling from their capital in the Castle of Dreams has grown corrupt and cruel. In a Spire Elf university, overworked Mage-Professor Jedda Mauaka stumbles across a discovery that will revolutionize magic on the Island, unaware that he is about to set in motion events that will destroy civilization as he knows it.| name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/volume1_small.png| type=both ]]
+
+[[include component:sidenote figure={{**Volume 2:** The Source of Magic}}|contents=
+Jedda Mauaka's brilliant but naive attempt to control the Source of Magic has failed, and a foul Corruption spreads across Cair Aisling. As the Spire Elves turn against their former Human allies, Mauaka works desperately to undo what he has created. In the distant Ashwoods, however, those Spirers worst afflicted by his experiment are plotting a new order- one that will end the Spire Elves for good.| name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/volume2_small.png| type=both]]
+
+[[include component:sidenote figure={{**Volume 3:** Sword of Prophecy}}|contents=
+Cair Aisling is at war. The Ashenfolk advance against the ruins of the Spire Elf empire, while the Orcish Dominarchy and the Underguild of the Dwarves make their own plays for control of the increasingly-corrupt Castle of Dreams. And far off in the Hinterlands, unassuming fisherman's apprentice Hasan Maza makes a discovery that might just end the war.| name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/volume3_small.png| type=both]]
+
+[[include component:sidenote figure={{**Volume 4:** The Underguild Rebellion}}|contents=
+Hasan Maza and his band of unlikely heroes have done the impossible: brokered an uneasy peace between the rampaging Dominarchy and the remains of the Spire Elves. As he sets his eye on the Castle of Dreams, however, dark tidings arrive from Underheim: the trade-families of the Underguild are in open civil war.|name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/volume4_small.png|type=both]]
+
+[[include component:sidenote figure={{**Volume 5:** The Caves of Crystal}}|contents=
+Hasan Maza and his new bride Kaelyth of Mistwood find themselves on an unlikely honeymoon: the Ashenfolk seek peace, as the Corruption twists their underground kingdom to the breaking point. In the Crystal Caves of the Deep Refuge, Kaelyth navigates the nightmare that is Ashenfolk politics, while Hasan makes a discovery about his hated enemies that will shake his beliefs to the core.| name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/volume5_small.png| type=both]]
+
+[[include component:sidenote figure={{**Volume 6:** Castle of Dreams}}|contents=
+Randolph Gowering has as of yet refused to divulge major plot points for the long-awaited final volume in the series, save that it will involve Hasan and Kaelyth's perilous journey to the Castle of Dreams to "heal" the Source of Magic, and that it will conclusively resolve plot threads related to the characters of Gareth Heliodor, Solkoth of Bitterfield, and Meg'hek Bloodrisen, introduced in previous volumes.| name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/volume6_small.png|
+type=both]]
+
+If you're cleared for this document it means you're somehow involved in the utter chaos surrounding the Pabbay Island Incident and the subsequent formation of a semi-extradimensional "fantasy kingdom" in its place. Given the apparently literary origins of the pocket dimension, the OAS has made a detailed survey of Gowering's previous works in the //Cair Aisling// series in the hope of providing some general context for what, exactly, Cair Aisling represents as a geographical area. More detailed plot analysis of the series is widely publicly accessible. We are including book-cover glosses and previews from the released and promised volumes of the series to provide a general analysis of the scope of the plot.
+
++++ The Novels
+
+Randolph Gowering has produced 36 novels since the release of his first, //Spelltaker//, in 1978. While different series he has produced (notably his popular //Sands of Glass, Voice of Iron// books, which have received several film adaptations) do not share a common storyline or canon, they maintain an internally-consistent magical system and are implied to exist on different continents in the same world. The //Cair Aisling// series, his latest, was intended to cover 6 books. The first 5 have been released publicly worldwide to substantial critical and fan acclaim in the English-speaking world, and at the time of writing a television adaptation of the first volume is in production. 
+
++++ The Island
+
+Assuming that the current geopolitical state of the island is roughly approximate to the books, the OAS FLWG assumes the following:
+
+[[div class="fancy-collapsible"]]
+[[collapsible show="View FLWG Statement" hide="Hide FLWG Statement"]]
+
+~~~~
+> Due to the experimentation of a human society called the Empirical Clans, the "Source of Magic" which regulates reality in Cair Aisling has been irrevocably damaged. The Empire of the Spire Elves, who previously controlled the Source, responded to this catastrophic event by splintering into two warring factions. The Ashenfolk, an immigrant population in the northern Spirer territories, have declared independence, and have been fighting a bitter war of rebellion against the Empire ever since. It is believed that the damage to the source has caused permanent and irrevocable biological and psychological changes to them.
+> 
+> The Empire has wasted its energies fighting the Ashenfolk and conducting brutal ethnic cleansing against the Empiricals, resulting in the extinction of the majority of the Human population on the island. Simultaneously, the Empire has been confronted by the breakaway of the independent Duchy of the Mistwood, an organized slave rebellion among the Orc species calling itself the Dominarchy, and increasing tension with the oligarchic Underguild trader-states.
+> 
+> If the literary plot of the Cair Aisling series is being followed, somewhere on the island an archetypal Hero wielding an artifact/plot device called the Sword of Prophecy is currently in the middle stages of a quest to bring peace to the land and restore the Source.
+[[/collapsible]]
+[[/div]]
+
+The FLWG would like to clarify, however, that there is increasing evidence that the situation on the island is no longer properly following the plot of the original novels, and that conditions on the ground may not match the above. Notably, reports are spreading that the "Hero" Hasan Maza may have suffered a fatal injury during a critical plot point of Volume 6: Castle of Dreams. 
+
+[[div style="font-size: 120%; margin: 2.5em;"]]
+{{The Hero lunges, the Sword of Prophecy in his hand alive with runic fire. His opponent assumes an ancient Elven duelling stance, features twisted into a mask of fear and hatred. In the brief moment before their blades touch, there is a ripping, as of torn threads and pages.}}
+
+{{"HASAN! NO!"}}
+
+{{So dies the Hero.}}
+[[/div]]
+
+[[div class="small-divider"]]
+----
+[[/div]]
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/cair%20map%201.png|caption=A rendition of Cair Aisling based on information gathered during ASF/MST expeditions; areas of the island appear spatially incoherent or poorly-defined.|align=center|width=100%]]
+
+++ Known Locations
+
+Note that the following list is very much incomplete, and even cursory reconnaissance of the Cair Aisling anomaly has revealed substantial differences between information derived from the books and officially published maps.
+
+[[tabview]]
+[[tab Locations Discovered/Occupied by Authority Forces]]
+The following locations have been charted by Authority exploratory personnel and do not match with pre-established locations from the literary canon.
+
+**OL-Site-CA/Camp Crannóc:** The current Authority base of operations near the Beach of Beginnings, built entirely from local materials. Palisades and earthworks provide some protection from roving magical beasts.
+
+**Page's End:** Unstable areas of "literary" reality, characterized by marked inconsistencies with book locations, spatial distortions, inexplicable writing, and strong smells of ink and paper.
+
+**Incoherent Spaces:** Areas of incoherence and inconsistent reality. Objects, landmarks, and creatures from across Gowering's novels appear at random, typically never seen again. Lingering in these spaces is extremely unsafe.
+
+[[/tab]]
+[[tab The Corrupted Lands]]
+Former capital province of the Empire of the Spire Elves, now twisted and damaged by the Corruption. A dangerous battlefield full of swamp and thick forest, populated by monsters, magical anomalies, and roving Ashenfolk and Spirer war parties.
+
+**The Castle of Dreams:** The former capital of the Spire Elves, now a ruined and twisted monstrosity that may or may not be a single intelligent entity. Contains the Source of Magic.
+
+**The Nightmare Road:** The remains of the only intact Spire Elf road through the Corrupted Lands. Fought over constantly by the Elves and Ashenfolk.
+
+**Watcher's Rest:**
+A half-destroyed spire occupied by Spire Elf forces. The main staging area for Elven expeditions into the Corrupted Lands.
+
+[[div class="art2"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/corruption_small.png width="100%"]]
+[[/div]]
+[[/tab]]
+[[tab The Ashwood]]
+The volcanic jungle inhabited by the Ashenfolk, formerly part of the Spirer Empire. Dominated by huge caves and cooled magma chambers.
+
+**The Deep Refuge:** The deepest portion of the caves beneath the Ashwood. The main seat of Ashenfolk civilization, though it is rumored that ancient things live in their depths.
+
+**The Lord of Ash:** A semi-active volcano which gives the Ashwood its name and its constant coating of volcanic soot.
+
+**The Old Observatory:** An ancient Spirer observatory built to monitor the Lord of Ash and warn of upcoming eruptions, now occupied by the Ashenfolk.
+
+**The Nightglow:** A chain of volcanic mountains along the northern border of the Corrupted Lands, so named for its near-continuous lava flows and lakes of boiling sulfur.
+
+**Wormspire:** A broken Spire once carved in the shape of a dragon, now in use by the Ashenfolk as a naval base.
+
+[[div class="art2"]]
+[[image http://www.rpc-wiki.net/local--files/cair-aisling-event/ashwood_small.png width="100%"]]
+[[/div]]
+[[/tab]]
+[[tab Underheim Mountains]]
+A more geologically stable mountain range that extends to the east of the Nightglow, known for its incredible mineral wealth. Inhabited by the Dwarven Underguilds.
+[[div class="art2"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/Underheim.jpg width="100%"]]
+[[/div]]
+[[/tab]]
+[[tab The Great Marshes]]
+A sprawling wetland on the eastern border of the Corrupted Lands, inhabited mainly by bands of Empirical Clan refugees and the occasional Underguild trader.
+
+**The Mouldering Spire:** A collapsed Spire on the edge of the Great Marshes, rumored to be inhabited by evil spirits.
+
+**The Eye of God:** A peculiar eye-shaped crater on the edge of the Great Marshes, believed by locals to possess magical properties.
+
+**The Beach of Beginnings:** A mundane beach inhabited by small Human villages. Notable as the location of an ancient and half-forgotten prophecy. All Authority attempts to land elsewhere on the island have instead been redirected to this area by unknown means.
+
+[[div class="art2"]]
+[[image http://www.rpc-wiki.net/local--files/cair-aisling-event/greatmarsh_small.png width="100%"]]
+[[/div]]
+[[/tab]]
+[[tab Wethir]]
+A vast steppe plain, once the breadbasket of the Spire Elf empire but now controlled by the roving nomads of the Orc Dominarchy. To its east lies the Bay of Wethir, once the seat of Human power.
+
+**The Sirencoves:** Rocky, reef-covered shorelines covered in caves which are inhabited by predatory Sirens. The presence of hundreds of ancient shipwrecks makes this coast an inviting if dangerous target for treasure-hunters. 
+
+**The Thralspike:** An abandoned Spire, captured by the Orcs during the Corrupting Wars. Now the de facto capital of the Dominarchy.
+
+**Barharrow, Elenhall, Bris:** Former Empirical cities, destroyed by the Orcs and the Spire Elves during the early days of the Corrupting Wars.
+
+[[div class="art2"]]
+[[image http://www.rpc-wiki.net/local--files/cair-aisling-event/sirens_small.png width="100%"]]
+[[/div]]
+[[/tab]]
+[[tab The Spirelands]]
+The ancient and glorious empire of the Spire Elves, now fallen into decay. Dominated by ruined Spires, massive magical towers that once contained whole cities.
+
+**Mistwood:** A temperate rainforest and semi-independent duchy of the Spire Elves.
+
+**Thievesport:** The wealthiest city-state within the Mistwood and seat of the Duke of the Mists. Known for its large Human ghettos.
+
+[[div class="art2"]]
+[[image http://www.rpc-wiki.net/local--files/cair-aisling-event/spireelven_small.png width="100%"]]
+[[/div]]
+[[/tab]]
+[[tab The Desert]]
+A great expanse of seemingly endless sand, rumored to contain ancient and powerful magical cities which are forever hidden by sandstorms and mirages.
+
+**The Dragon's Graveyard:** One of few navigable points within the Desert, an ancient mountain of fossilized dragon skeletons protected by mystical forces.
+
+[[div class="art2"]]
+[[image https://media.discordapp.net/attachments/654386361670959114/718187662107869274/cairaislingsk2.png width="100%"]]
+[[/div]]
+[[/tab]]
+[[/tabview]]
+
+++ Extracts from Anomaly Encounter Briefing
+The following is a selection from an initial OAS analysis briefing on the nature of the Cair Aisling anomaly and its effects on further research and exploration.
+
+> All right, the pamphlets you received in the briefing package yesterday explain all this in more detail, but we'll go over it again. The projected energy field surrounding the island forces away certain artificial materials, regardless of scale and exact composition.
+> 
+> By certain artificial materials, we mean almost all petroleum derivatives—plastics and everything but natural rubber are right out, plus certain ceramic materials, carbon fibre composites, and some more exotic metal alloys. You could be wearing polyester undies under a cotton uniform and the field would blast them off along with your pants. Unfortunately, the same applies to contact lenses, certain kinds of tooth filling, and pacemakers. If you've got medical implants of any kind, you're not visiting the island.
+> 
+> The same energy field also has a disruptive effect on a large swathe of the electromagnetic spectrum. You can bring hand-crafted radios in, but they'll have an effective range of a few meters. The guys at Prolab put in a lot of work forging these items with only basic metals. None of them worked. Those maniacs managed to create muskets, gunpowder and a combustion engine that could be brought past the field, but none of it was worth a damn once we brought it on the island. Most chemical explosives simply won't light. Most guns fail to pass through the field, but ammo doesn't work anyway. You wanna shoot something? I hope you're good with a crossbow or a sling.
+> 
+> The island is only a couple kilometers across in the real world, but once you're on it, it's about two hundred times that size. Don't enter unless you're equipped for a long walk. There's also a massive desert somewhere, but we're not really sure where. It's either on the east or west. You only ever stumble across it.
+
+[[div class="small-divider"]]
+----
+[[/div]]
+
+[[div class="fancy-collapsible"]]
+[[collapsible show="Maps of Cair Aisling" hide="Hide Maps"]]
+[[include component:image-block name=http://www.rpc-wiki.net/local--files/cair-aisling-event/map1_small.jpg|caption=The official map of Cair Aisling drawn by Randolph Gowering, printed in the softcover edition of //Volume//s 1 to 3. //View full resolution [http://www.rpc-wiki.net/local--files/cair-aisling-event/map1.jpg here].//|align=center|width=100%]]
+
+@@ @@
+
+[[include component:image-block name=http://www.rpc-wiki.net/local--files/cair-aisling-event/map2_small.png|caption=The "New Map" of Cair Aisling, released in the hardcover editions of //Volume 3// and all subsequent printings of earlier volumes. //View full resolution [http://www.rpc-wiki.net/local--files/cair-aisling-event/map2.png here].//|align=center|width=100%]]
+
+The unattributed "New Map", released with //Volume 3//, remains divisive among fans. While many hold that it is a superior piece of fictional cartography to the black-and-white map included in the original softcover printings, others hold that the alterations it made to Cair Aisling's geography are non-canonical. While alive, Gowering refused to confirm which map is "correct", furthering endless fan debate and argument. Note that neither map entirely matches conditions observed on the ground in the Cair Aisling anomaly.
+[[/collapsible]]
+[[/div]]
+
+[[div class="small-divider"]]
+----
+[[/div]]
+
+[[div class="fancy-collapsible"]]
+[[collapsible show="Vignettes from the Cair Aisling Campaign" hide="Hide Vignettes"]]
+
+[[div class="art" style="margin: 0 5%;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/cair%201.png width="100%"]]
+[[/div]]
+
+[[div style="text-align: center; margin: 2.5em;"]]
+**//ASF swap their guns and kevlar for plate and rough-spun cloth sourced from a dozen legacy Auctoritas suppliers. Camp Crannóc resembles a Renaissance fair at times, albeit one with deadly serious intent.//**
+[[/div]]
+
+[[div class="art" style="margin: 0 5%;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/cair%202.png width="100%"]]
+[[/div]]
+
+[[div style="text-align: center; margin: 2.5em;"]]
+**//The trails to certain landmarks are coherent, but still unsafe. A waykeeper hoists his light; a caravan marches through a fictional forest.//**
+[[/div]]
+
+[[div class="art" style="margin: 0 5%;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/cair%203.png width="100%"]]
+[[/div]]
+
+[[div style="text-align: center; margin: 2.5em;"]]
+**//An ASF sergeant was trapped in the corrupted forest for some time with one of the proud, recalcitrant "Spire Elves". Their mutual survival provided an opening for Authority diplomacy in the Spirelands, to obtain powerful artifacts. The sergeant expressed his doubts over the humanity - the "realness" - of these literary creatures of Cair Aisling. She// seemed //real.//**
+[[/div]]
+
+[[div class="art" style="margin: 0 5%;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/cair%204.png width="100%"]]
+[[/div]]
+
+[[div style="text-align: center; margin: 2.5em;"]]
+**//Following their traipse through the corrupted forest, diplomatic channels were opened between the Authority and the Spire from which the elf hailed. Here a well-coiffed diplomat negotiates for artefacts. The escorts, in the finest tradition of bored grunts, talk and banter round the perimeter.//**
+[[/div]]
+
+[[/div]]
+[[/collapsible]]
+
+[[div class="small-divider"]]
+----
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/cair-aisling-event/MistWood.png width="100%"]]
+[[/div]]
+
+[[div style="text-align: center; margin: 2.5em;"]]
+{{Our organization was founded by magicians and alchemists, mystics and zealots. We feel, not without justification, that we have moved beyond them, transcended their limits. And yet here we are, digging deep into our doctrines for the fantastical things we once sought to root out.}}
+[[/div]]
+
+[[div class="fancy-divider"]]
+----
+[[/div]]
+
+[[# submissions]]
+
++ The contest is over!
+
+Congratulations to [[user Von Pincier]] with the contest winner [[[caseouverture|Case OUVERTURE]]] at 4.69 stars, [[user Fortunae]] in second place with [[[Sirensong]]] at 4.44 stars, and [[user Almarduk]] in third with [[[RPC-448]]]: //A Wyrmspire// at 4.31 stars. 
+
+Thank you to everyone who participated by entering submissions, giving critique and voting on pages. Winners of the contest will have their articles featured on the front page for two weeks. The contest may be over, but writing will continue. Make sure to check back for new entries in the future.
+
+----
+
+* To submit a written work, upload your writing to the site and tag it with "cair-aisling".
+* To submit art or other media, enter a title for the page into the text form below and press create.
+
+[[module NewPage size="30" tags="cair-aisling-art art alternative-content" button="Create Art Entry"]]
+
+
++ Collaborative Pages
+
+[[module ListPages separate="no" category="*" tags="+cair-aisling +collaboration -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 110%]]%%title_linked%%[[/size]]
+[[/module]]
+
++ Post-Contest Articles
+
+[[module ListPages created_at=">2020.07" separate="no" category="*" tags="+cair-aisling -hub -collaboration -donotshowupinmodule" perPage="100" order="created_at desc"]]
+[[body]]
+* [[size 110%]]%%title_linked%%[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/body]]
+[[foot]]
+* [[size 110%]][[[RPC-324]]][[/size]] [[size 105%]]//by// **TheGreatTarbolin69**[[/size]]
+[[/foot]]
+[[/module]]
+
+[!-- + Post-Contest Art --]
+
+[[module ListPages created_at=">2020.07" separate="no" category="*" tags="+cair-aisling-art -hub -collaboration -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 110%]]%%title_linked%%[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
++ Writing Submissions
+
+* [[size 110%]][[[RPC-190]]][[/size]] [[size 105%]]//by// **JimmyBoyHaha**[[/size]]
+* [[size 110%]][[[Sirensong]]][[/size]] [[size 105%]]//by// **Fortunae**[[/size]]
+* [[size 110%]][[[RPC-360]]][[/size]] [[size 105%]]//by// **Agent Eldritch**[[/size]]
+* [[size 110%]][[[The Battle Below the Mouldering Spire]]][[/size]] [[size 105%]]//by// **PhoenixOfHope**[[/size]]
+* [[size 110%]][[[caseouverture|Case OUVERTURE]]][[/size]] [[size 105%]]//by// **Von Pincier**[[/size]]
+* [[size 110%]][[[RPC-448]]][[/size]] [[size 105%]]//by// **Almarduk**[[/size]]
+* [[size 110%]][[[RPC-433]]][[/size]] [[size 105%]]//by// **TheGreatTarbolin69**[[/size]]
+* [[size 110%]][[[RPC-370]]][[/size]] [[size 105%]]//by// **GibbyFuckingDies**[[/size]]
+* [[size 110%]][[[four-pages-preface|Four Pages Forming a Preface]]][[/size]] [[size 105%]]//by// **Von Pincier**[[/size]]
+* [[size 110%]][[[frost-bitten-chapter-1-frostbreath|Frostbreath]]][[/size]] [[size 105%]]//by// **Big Mark**[[/size]]
+
++ Art Submissions
+
+* [[size 110%]][[[8ismo Cair Aisling Art Gallery]]][[/size]] [[size 105%]]//by// **8ismo**[[/size]]
+* [[size 110%]][[[Vizlox Cair Aisling Art]]][[/size]] [[size 105%]]//by// **Vizlox**[[/size]]
+
+[[collapsible show="+ Archived Contest Info" hide="- Archived Contest Info"]]
++ Submission Info
+
+To participate in the writing event: Write an RPC, tale or document that involves Cair Aisling. You can write about anything that you wish, and are highly encouraged to create lore and interactions with other users' entries. The current lore for the island is provided as an open base for you to add and create as you please. 
+
+To participate in the art contest: Create any form of art involving Cair Aisling or taking inspiration from it. If you've created artwork used in written submissions to the contest, it is highly encouraged to also submit your art in the art contest.
+
+**Submissions open:** July 1st
+
+**Submissions close:** The end of July 27th (11:59PM EST). You may continue to contribute after submissions close, but only submissions submitted before this time will be eligible for winning.
+
+**Winners will be announced:** August 1st. Only submissions with over 8 votes will be eligible. The top three articles and two art submissions will be featured on the front page.
+
++ Rules
+* You may contribute as many entries as you like.
+* Pre-existing drafts and articles may be entered; however, articles previously posted on the wiki must be rewritten and re-uploaded in order to be eligible for being featured.
+* Edits to works are allowed.
+* Do not coldpost. Writing submissions must receive two pieces of feedback in the drafts forum.
+* Do not request people to change their vote on your entry, excessively push or pester people to rate it, or message an overtly substantial amount of people to read your entry such that it may provide you an unfair advantage.
+* Attempting to manipulate votes using alt accounts or other deceitful means will result in your entry being disqualified; you may also be barred from future contests or banned from the site.
+[[/collapsible]]
+

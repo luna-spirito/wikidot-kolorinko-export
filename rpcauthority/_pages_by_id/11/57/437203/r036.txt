@@ -1,0 +1,247 @@
+---
+title: "Cair Aisling Theme"
+tags: ["theme"]
+page_id: "1157437203"
+site: "rpcauthority"
+slug: "component:cair-aisling-theme"
+revision: 36
+revision_id: "1523154982"
+author: 5982545
+timestamp: 1721595842
+---
+
+[[module CSS]]
+@import url(http://www.rpc-wiki.net/component:cair-aisling-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+Cair Aisling Theme
+
+Created by Vizlox for the RPC Authority Cair Aisling writing event
+
+Logo graphic created by SS_Zakari
+
+Public domain divider source: https://publicdomainvectors.org/en/free-clipart/Vintage-decorative-divider/71038.html
+
+CC0 public domain parchment source: https://www.publicdomainpictures.net/en/view-image.php?image=69394&picture=old-parchment
+
+CC0 public domain paper source: https://publicdomainpictures.net/en/view-image.php?image=226740&picture=vintage-paper-texture
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+
+:root {
+--body-background: #c2b795 url(http://www.rpc-wiki.net/local--files/component:cair-aisling-theme/paperbackground.png);
+--basic-border: 1px solid #323232;
+--basic-border-color: #323232;
+--dashed-border: 1px dashed #323232;
+--thick-border: 2px solid #323232;
+  
+/* Text Colors */
+--text-color: #333;
+--link-color: #9b27d9;
+--link-hover-color: #b74cf1;
+--new-page-color: #9a81a8;
+--primary-text-color: #803ea3;
+--page-title-color: #1a1a1a;
+--external-graphic-color: 60deg;
+
+/* Content */
+--primary-background: #d7ce9f;
+--secondary-background: #c09c79;
+--content-bar-background: #c09c79;
+--content-panel-background: #d7ce9f url('http://www.rpc-wiki.net/local--files/component:cair-aisling-theme/paperbackground2.png');
+--content-box-shadow: 0px 0px 2px 2px var(--content-box-shadow-color);
+--content-box-shadow-color: #a07a60;
+--code-background: #ffead1;
+--code-border: 2px dashed #64472a;
+--star-rating-filter: none;
+--star-rating-reading-background: #5c4d3f;
+--content-box-border-color: #7c5c40;
+--news-block-body-panel-background-even: #c8c093;
+--content-bar-color: #3a3a3a;
+--star-rating-background: var(--secondary-background);
+--star-rating-cell-background: var(--primary-background);
+--nested-content-border: none;
+
+/* Pop-Up Boxes */
+--modal-body-background: rgba(245,157,37,0.34);
+--modal-header-background: #f3dcaa;
+ 
+/* Buttons */
+--button-border: 1px solid #af8963;
+--button-background: #d3ad82;
+--button-hover-border: 1px solid #5c3e27;
+--button-hover-background: #e28957;
+--button-hover-color: #000;
+--button-current-background: var(--primary-background);
+ 
+/* Text Forms */
+--text-box-form-background: #ecdcbc;
+--text-box-form-border: none;
+ 
+/* Sidenotes */
+--sidenote-open-background: #d9a676;
+--sidenote-contents-border: 2px solid #956652;
+--sidenote-figure-border: 2px solid #956652;
+ 
+/* Tabs */
+--tabview-side-tabs-background: var(--secondary-background);
+--tabview-side-button-selected-background: var(--primary-background);
+--tabview-side-scrollbar-thumb-background: var(--primary-background);
+--tabview-side-scrollbar-thumb-hover-background: var(--primary-background);
+  
+/* Scrollbar Styling */
+--BT-scrollbar-background: var(--primary-background);
+--BT-scrollbar-thumb-background: #93806d;
+--BT-scrollbar-thumb-hover-background: #7f6e5e;
+--BT-resizer-background: var(--secondary-background);
+
+/* Header and Sidebar */
+--header-background: url(http://www.rpc-wiki.net/local--files/component:cair-aisling-theme/paperbackgroundheader.png);
+--header-text-visibility: hidden;
+--header-icon: url(http://rpcauthority.wikidot.com/local--files/component:cair-aisling-theme/tuloCA1adjusted.png);
+--header-icon-adv: left 3em top 0.6rem no-repeat;
+--header-icon-size: 60%;
+--nav-hover-background: #5d2e76;
+--search-button-background: #2a1b32;
+--search-button-hover-background: #543664;
+--search-input-color: #44334d;
+--search-input-hover: #532d68;
+--account-options-background: #362c3b;
+--account-options-border: 1px solid #666;
+--sidebar-crit-corner-color: unset;
+}
+
+#page-title {
+    text-align: center;
+}
+
+a {
+    text-shadow: 1px 1px 1px hsla(279,100%,10%,0.3);
+}
+
+.yui-nav a, #header a, #side-bar a, #footer a, .optionstd a, .target a {
+    text-shadow: none;
+}
+
+#footer a {
+    color: var(--primary-text-color);
+}
+
+#header, #header a, #search-top-box-input {
+    color: #c0c0c0;
+}
+
+#header .button, #top-bar .search-button a {
+    color: #c0c0c0!important;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+.yui-navset a {
+    font-weight: bold;
+}
+
+.checkbox input,
+#rev-type-title,
+#rev-type-all,
+#rev-type-source,
+#rev-type-move,
+#rev-type-tags,
+#rev-type-meta,
+#rev-type-files,
+.radio,
+#\31 46126552,
+#rev-type-new,
+#rev-category,
+#rev-perpage,
+#action-area > .form input,
+.page-history td input {
+    filter: unset;
+}
+
+.page-source {
+    border-color: #000;
+}
+
+#page-title, #page-content h1, tt, .heading {
+    font-family: Courgette;
+}
+
+tt {
+    font-size: 110%;
+}
+
+.fancy-divider hr {
+    background: url(http://rpcauthority.wikidot.com/local--files/component:cair-aisling-theme/divider.png) no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 22px;
+    margin: 30px 0;
+}
+
+#side-bar hr {
+    background: url(http://rpcauthority.wikidot.com/local--files/component:cair-aisling-theme/divider2.png) no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 22px;
+}
+
+.small-divider hr {
+    background: url(http://rpcauthority.wikidot.com/local--files/component:cair-aisling-theme/dividersmall.png) no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 22px;
+    margin: 30px 40%;
+}
+
+.art img {
+    border-radius: 5px;
+    box-shadow: var(--content-box-shadow);
+}
+
+.art2 img {
+    border-radius: 2px;
+}
+
+.fancy-collapsible .collapsible-block-link {
+    font-family: Courgette;
+    font-size: 130%;
+}
+
+.fancy-collapsible .collapsible-block-folded, .fancy-collapsible .collapsible-block-unfolded-link {
+    text-align: center;
+}
+
+.sidenoteContainer, .sidenoteH {
+    border-radius: 15px;
+}
+
+.sidenoteContainer:hover, .sidenoteContainer:hover .sidenoteH {
+    border-radius: 15px 15px 0 0;
+}
+
+.sidenoteI {
+    border-left: var(--sidenote-contents-border);
+        border-right: var(--sidenote-contents-border);
+}
+
+@media (max-width: 768px) {
+    .sidenoteContainer, .sidenoteH {
+        border-radius: 15px 15px 0 0;
+    }
+
+    #header {
+        background-position: left 3em top 3rem;
+        background-size: auto calc(5.5rem - 2.125rem);
+    }
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+

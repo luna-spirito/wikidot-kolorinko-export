@@ -1,0 +1,166 @@
+---
+title: "RPC-918"
+tags: ["auditory-hazard", "electromagnetic-force-hazard", "gamma", "incorporeal-hazard", "rpc", "top10", "uncontained", "yellow"]
+page_id: "1165104409"
+site: "rpcauthority"
+slug: "rpc-918"
+revision: 25
+revision_id: "1389153783"
+author: 4981794
+timestamp: 1646223910
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1);
+[[/module]]
+
+[[include component:rate ten=show]]
+
+[[span style="font-size: 165%; font-weight: bold; color: #E5E5E5;"]] Registered Phenomena Code: 918 [[/span]]
+
+[[include component:image-block name=HavanaEmbassy.png|caption=United States Embassy in Havana, Cuba.|width=345px]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/gamma-yellow.png]]
+[[/cell]]
+[[cell style="width: 60%;"]]
++++ **Object Class:**
+##ffe100|Gamma - Yellow##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Responsible Departments:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Physics.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Physics[[/span]][[/span]]
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Psychology.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Psychology[[/span]][[/span]]
+
+[[table]]
+[[row]]
+[[cell style="width: 67%;"]]
++++ **Hazard Types:**
+[[include component:hazards type=none
+|auditory=true
+|electromagnetic-force=true
+|incorporeal=true]]
+[[/cell]]
+[[/row]]
+[[/table]]
+------
++++ **Containment Protocols:**
+No current protocols have been approved for the containment of RPC-918. As further information becomes available regarding RPC-918's anomalous properties, methods of activation, and intrinsic design, containment protocols will be subject to forthcoming revisions.
+
+Authority operatives stationed around foreign embassies are advised to be on alert for potential electromagnetic disturbances, or unusual auditory phenomena.
+------
++++ **Description:**
+RPC-918 is an unidentified auditory phenomenon manifesting around diplomatic personnel working at the United States Embassy, or Canadian Embassy, in Havana, Cuba, and the US Consulate in Guangzhou, China.
+
+During such events, afflicted individuals report hearing an intense droning noise, described as resembling grinding metallic surfaces, or high-pitched screaming. Sound exposure results in severe neurotrauma, inducing side-effects such as vertigo, vision impairment, hearing damage, and associated symptoms of chronic traumatic encephalopathy.
+------
++++ **Discovery:**
+On December 30, 2016, a HUMINT[[footnote]] Human Intelligence [[/footnote]] officer working for the US Central Intelligence Agency reported abnormal health conditions following exposure to an unidentified auditory event at the US Havana Embassy. The US Federal Bureau of Investigation launched an inquiry after several more incidents occurred at the embassy, this time from affected US State Department personnel in May 2017. This investigation failed to determine the source of the phenomenon, resulting in all non-essential staff being withdrawn from the country on September 29.[[footnote]] Canada followed suit on January 30, 2018. [[/footnote]]
+
+The Authority was made aware of RPC-918 from intelligence assets embedded in the US Senate Committee on Foreign Relations. On January 9, 2018, MST Echo-21 ("Sleeping Sirens") was dispatched to Havana, Cuba, to ascertain the presence of anomalous activity. Their investigation revealed a handful of sites were constructed with poor architectural engineering, contributing to harsh environmental ultrasound noise. EMF detectors displayed measurable spikes of electromagnetic energy in localized areas where previous incidents occurred, but these spikes were attributed to poor electrical wiring within many Cuban buildings.
+
+On May 23, the US Consulate in Guangzhou, China, reported a staff member being injured from an acoustic attack similar to those reported from Cuba. In response, [[[Tango 12 "Eye From The Sky"|MST Tango-12 (“Eye From The Sky")]]] operatives were deployed the following day, with orders to focus their efforts on surveillance and monitoring of consulate employees rather than direct engagements.[[footnote]] Involvement of Chinese AoIs were unknown during this stage of the inquiry. [[/footnote]] Despite several RPC-918 attacks happening in China while MST operatives were present, attempts to record personnel targeted by its acoustic attack resulted in technical failures.[[footnote]] Determined to be from an electromagnetic frequency burst which corrupted data files in recording devices. [[/footnote]]
+
+[[div style="border: var(--dashed-border); padding: 10px; background: var(--background-4);"]]
+[[collapsible show="[+] Authority Report №918" hide="- Close"]]
+[[div style="border: solid 3px #191b1d; background: #1f2125; padding: 5px 20px;"]]
+[[=]]
++ __**AUTHORITY REPORT №918**__
+++ CONCERNING THE SONIC ATTACKS
+[[/=]]
+**Date:** 23/10/2018
+------
++++ **Investigation Overview**
+MST Echo-21 and MST Tango-12's investigations were hampered significantly due to pre-existing hostilities between the Authority, the national governments involved, and corresponding agencies of interest. Operatives were deployed undercover to avoid detection by government agencies, and other potential groups of interest operating in the Caribbean and South China Sea, but such restrictions limited the ability to conduct more intensive verification efforts.
+
+Information sourced from documents obtained by MST Echo-21 during an infiltration of embassy offices revealed three intelligence officers who were affected by RPC-918 were members of CIA Special Activities Division-Unit 9. In addition, all members of the FBI team dispatched to Cuba under international operation procedures were also agents for the Office of Extranormal Security Affairs. Concerns were immediately raised over the potential for RPC-918 to be some form of a staged event, or a false-flag attack, conducted by these agencies of interest.
+------
++++ **OESA Document Excerpts**
+During a sweep of the United States Ambassador to Cuba's business office, MST Echo-21 recovered a trove of documents related to RPC-918, including newspaper clippings and hard drives containing news reports and congressional briefings. Located inside a wall safe were a stack of OESA documents, including a report from the 2017 FBI investigation conducted in Cuba written by agents operating under OESA command.
+
+Sound phenomenon utilized by Castro's government against American shadow-state assets in covert programs matches psychotronic[[footnote]] Electronic catalyst producing psychological changes. [[/footnote]] weaponry developed by the Soviet Union's Iron Initiative. Patient Zero and coworkers were likely targeted by hardline Communist elements in the country using Soviet technology, yet this alone does not explain the prominent side-effect from the acoustic attack.
+
+[[div style="border: var(--dashed-border); padding: 10px 20px; background: black;"]]
+State Department personnel were subject to hypnotherapy techniques during OESA's investigation after several employees failed to recall important details of their attack. Subjects in meditative states reported seeing apocalyptic visions during their encounter. No victims were able to remember this event afterwards, even after therapy sessions. Medical evaluations are currently ongoing.
+
+It is also unknown whether third party organizations are involved with these attacks. Ambassador DeLaurentis stated to investigators that President Castro denied responsibility for the attacks, and alleged the involvement of a third party country. Unit 9 has uncharacteristically refused to cooperate with OESA investigators, despite officers of its division being targeted in the attacks. Agents are raising suspicions that Unit 9 is not being forthright with all they know about these incidents in Cuba.
+[[/div]]
+
+One section of the document provided further details regarding the dreams or visions afflicted personnel were experiencing during their RPC-918 encounters. Testimony was provided by a Canadian national who lived nearby a family of American embassy workers. Their testimony has been transcribed below.
+
+[[div style="border: var(--dashed-border); border-radius: 15px; padding: 10px 20px; background: black;"]]
+I was somewhere in a jungle, filled with lush foliage and colors more vibrant than any I had seen before. Then, before me appeared a vast pyramid standing tall, with stairs ascending to the top. Perched near the top was a nest made up of rocks and stones. From this height I could see a coastline, and beyond it, an island, cut in the shape of a crescent moon. The next thing I remember was that bird eclipsing the sun, bleaching the sky red, and setting ablaze the world with fire from its body. It then began to rain, and water washed away the embers. Seeing me, the bird flew down at me in the storm, transforming into lightning that struck my body. Then I woke up, and all I could feel was pain.
+[[/div]]
+
+Despite its unusual content, what was also irregular with this staff member's participation at that stage of the FBI inquiry was that the Canadian government restricted its diplomats from participating in any American investigation until after their evacuation from the country.
+------
++++ **Current Developments**
+[[include component:image-block name=MRI.png|caption=Brain damage discovered during an MRI from an affected diplomat highlighted in blue.|width=265px]]
+A medical study conducted by the US federal government evaluating diplomats who experienced an acoustic attack concluded exposure to RPC-918 resulted in neurotrauma to the visuospatial subnetwork of the cerebrum, with white matter tracts undergoing significant axonal shearing.[[footnote]] Published in the Journal for American Medicine. [[/footnote]] No conventional phenomenon explained the severity of their injuries.
+
+Two consulate workers, who were under surveillance in China at the time MST Tango-12 was present, displayed divergent symptoms from their encounter with RPC-918. One employee, an accountant, displayed only minor side-effects from their attack, such as epistaxes, but another employee, a custodian, suffered from intermittent epilepsy and was prescribed an SSRI medication after their return to the US.
+------
++++ **Report Conclusions**
+It's rare for the Authority to be uninformed about an anomaly before national governments are already made aware of one. This phenomenon has targeted US and Canadian representatives at two different flash points across the world, directly leading to rising tensions between the US and Canada with Cuba and China. Left unabated, RPC-918 has already become an international security threat.
+
+The FBI investigation, much like our own inquiries, failed to find out what exactly is happening in Cuba, where those sonic attacks are coming from, and to what end they are being used for. Given these circumstances, I believe MST Echo-21 was ordered to leave Cuba far too early over fears of entrapment, while MST Tango-12 was denied the ability to directly engage targets out of the same sense of apprehension. Both of these decisions have been detrimental to our understanding of this anomaly.
+
+There are many unknowns when it comes to RPC-918. No organization or national government has claimed responsibility, and nothing we know can explain the injuries sustained from hearing it. We do not know why only American and Canadian nationals have been targeted, nor how CIA-SAD-U9 or OESA are involved, but the Authority cannot risk further delays in fully assessing the danger that this anomaly poses to our mission, lest we are left in the dark once again.
+
+~ Researcher Richard Cosby
+[[/div]]
+[[/collapsible]]
+[[/div]]
+------
++++ **Addendum-01**:
+Several audio files from MST Tango-12's investigation in China have been recovered partially. An examination of the audio recorded during these RPC-918 attacks revealed no hazardous material coming from the sound itself.[[footnote]] This suggests RPC-918's anomalous properties appeared alongside the sound event in a way that has not been captured or understood to date. [[/footnote]] The following recording has been approved for site documentation.
+
+[[include :snippets:html5player
+|type=audio
+|url=http://rpcauthority.wdfiles.com/local--files/rpc-918/SonicAttackAudio.mp3
+]]
+------
++++ **Addendum-02**:
+[[div style="background: #1F2125; border: solid 2px #E5E5E5; background-image: url(http://rpcauthority.wdfiles.com/local--files/rpc-918/The_Authority_Transparent.png); background-position: center; background-repeat: no-repeat; background-size: 40%; font-family: Trebuchet MS, sans-serif; text-align: center; padding: 1px 25px 5px; color: #E5E5E5;"]]
+[[span style="font-size: 230%;"]]
+++ **WARNING:** [[/span]]
++++ THE FOLLOWING FILE CONTAINS SENSITIVE INFORMATION THAT IS ONLY ACCESSIBLE TO LEVEL 2 PERSONNEL
+----
++++ ANY UNAUTHORIZED ATTEMPTS TO ACCESS OR COPY ADDITIONS OF THIS FILE WILL RESULT IN IMMEDIATE DETAINMENT AND SUSPENSION. DOCUMENTATION REQUESTS OF THIS FILE MUST BE APPROVED BEFOREHAND BY THE OFFICE OF INFORMATION RECORDS AND SECURITY.
+[[/div]]
+@@@@
+
+[[collapsible show="[ INPUT AUTHORIZATION CREDENTIALS ]" hide="[ CREDENTIAL ACCEPTED ]"]]
+
+On 06/06/2018[[footnote]] The same day the US withdrew a dozen consulate staff workers from Guangzhou, China. [[/footnote]], Authority Central Intelligence intercepted a communication from an unmarked low Earth orbit device directed towards a US reconnaissance satellite.
+
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+| TELEMETRY CONFIGURATION CONFIRMED. MAGNETIC ALIGNMENT DISENGAGED.
+| PSYCHOTRONIC CONTROLLER DEACTIVATED. REDIRECTING AUXILIARY FUEL SOURCES.
+| TERMINATE TRANSMISSION.
+[[/div]]
+
+After broadcasting this signal, the device deorbited towards the surface, burning up in the Earth's atmosphere over the Indian Ocean. No prior launch records for the satellite were registered on any government or commercial aerospace database.[[footnote]] The object may have detached from a pre-existing satellite at some point. [[/footnote]]
+
+Department of Communications Aerospace Engineer Chadwick Wall proposed reverse-engineering the intercepted signal and sending a data request back to the reconnaissance satellite, speculating that its communication channel with the device may still be open. Using a dish array operated by an Authority front company, a signal was broadcast towards the reconnaissance satellite directing it to send back the most recent data logs.
+
+After four months of attempted communication, on October 28, the reconnaissance satellite sent back a series of encrypted files for three minutes before communications abruptly ended.[[footnote]] No further signals have been received from the reconnaissance satellite, indicating its communication channel with the LEO device may have been deactivated after receiving the unexpected data requests. [[/footnote]] Decryption efforts are currently ongoing, but initial files revealed the LEO device functioned as a navigation satellite and was constructed by Lockheed Martin.[[footnote]] A known defense contractor that frequently partners with CIA-SAD Unit 9. [[/footnote]]
+
+A connection to RPC-918 was established when several files were decrypted containing coordinates for the locations of Havana and Guangzhou, as well other additional cities, including Guantánamo, Cuba; Panmunjom, North Korea; Donetsk, Ukraine; Raqqa, Syria; Tehran, Iran; and Washington D.C, USA. Included in those files was a final command broadcast by the reconnaissance satellite to the probe, which has been transcribed below.
+
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+| ABANDON PROJECT CHALCHIUHTOTOLIN.[[footnote]] Aztec god of pestilence. Research into this reference is ongoing. [[/footnote]]
+| OPERATIONAL INTEGRITY COMPROMISED. RESET GEODATA STORAGE.
+| BEGIN DECOMMISSION FLIGHT.
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+<< [[[RPC-917]]] | RPC-918 | [[[RPC-919]]] >>
+[[/=]]
+

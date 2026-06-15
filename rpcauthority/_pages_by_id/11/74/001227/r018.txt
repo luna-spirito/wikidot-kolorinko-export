@@ -1,0 +1,261 @@
+---
+title: "The Academy of the True Art Theme"
+tags: ["theme"]
+page_id: "1174001227"
+site: "rpcauthority"
+slug: "component:the-academy-of-the-true-art-theme"
+revision: 18
+revision_id: "1383794493"
+author: 4981794
+timestamp: 1634104112
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:the-academy-of-the-true-art-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600|Raleway|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+/*
+    The Academy Of The True Art Theme (made by Qual; requested by Alex Mercer)
+    [2020 Wikidot Theme]
+ 
+ Public domain paper: https://publicdomainpictures.net/en/view-image.php?image=56151&picture=old-paper-texture-background
+*/
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+h1 {
+    font-family: 'Merienda One', cursive;
+    color: var(--primary-text-color);
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: 'Courgette', cursive;
+    color: #fff;
+}
+
+hr {
+    height: 2px;
+}
+
+body {
+    font-family: 'Merienda One', cursive;
+    letter-spacing: 0.9px;
+    font-weight: bold;
+}
+
+.heading {
+    font-family: 'Courgette', cursive;
+    text-shadow: 1.5px 1.5px 1.5px black;
+}
+
+#page-content {
+    font-family: 'Merriweather', serif;
+    font-size: 110%;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: 1.5px;
+    letter-spacing: normal;
+    color: #d9d9d9;
+}
+
+#page-title {
+    font-family: 'Courgette', cursive;
+    letter-spacing: 1px;
+    text-shadow: 1.5px 1.5px 1.5px black;
+    font-size: 2.5em;
+    color: #c92d17;
+}
+
+#header h1 a::before {
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 3px 3px 3px black;
+    margin-left: 15px;
+    text-decoration: none;
+    letter-spacing: 0.9px;
+    color: #e5e5e5;
+}
+ 
+#header h2::before {
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 1.5px 1.5px 1.5px black;
+    margin-left: 15px;
+    font-size: 110%;
+}
+
+.rateContainer {
+    font-family: Montserrat,sans-serif;
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+:root {
+    --text-color: #c0c0c0;
+    --body-background: #2f2929;
+    --primary-text-color: #ccc170;
+    --nav-hover-background: #567699;
+    --primary-background: #1f1b1b;
+    --secondary-background: #1c1818;
+    --content-bar-background: #262121;
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'L Accademia della vera arte';
+    --header-tagline-custom-text: 'Art in its Truest Form';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Athe-academy-of-the-true-art-theme/AotTA_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Athe-academy-of-the-true-art-theme/AotTA_Header.png);
+    --header-tagline-color: #ccc170;
+    --header-tagline-top: 8px;
+ 
+    --link-color:  #c92d17;
+    --link-hover-color: #fc4747;
+    --new-page-color: #9a3333;
+    --button-border: 1px solid #808080;
+    --button-background: #7f1f1f;
+    --button-hover-border: 1px solid #d9d9d9;
+    --button-hover-background: #ac2b2b;
+ 
+    --search-button-background: #30241d;
+    --search-button-hover-background: #60473a;
+    --search-input-color: #4a3d37;
+    --search-input-hover: #4a3d37;
+
+    --search-button-border: 1px solid #AAA;
+    --search-button-hover-border: 1px solid #d9d9d9;
+    --search-input-border: 1px solid #AAA;
+    --search-input-hover-border: 1px solid #d9d9d9;
+
+    --topbar-dropdown-border-color: #808080;
+    --topbar-dropdown-background: var(--content-bar-background);
+    --topbar-hover-background: #567699;
+    --topbar-divider: 1px solid #353332;
+ 
+    --news-block-body-panel-background-even: var(--secondary-background);
+ 
+    --star-rating-hue: 260deg;
+ 
+    --text-box-form-background: var(--primary-background);
+    --text-box-form-border: 1px solid #fff1a0;
+ 
+    --template-block-background: #1a1414;
+    
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid #992211;
+    --tabview-button-selected-background: #992211;
+    --tabview-button-selected-color: #ccc;
+    --tabview-button-hover-background: #c92d17;
+
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: #c92d17;
+    --tabview-side-button-selected-background: #992211;
+    --tabview-side-button-divider: 1px solid var(--tabview-side-scrollbar-background);
+
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: #992211;
+    --tabview-side-scrollbar-thumb-hover-background: #c92d17;
+
+    --BT-resizer-background: var(--content-bar-background);
+    --BT-scrollbar-thumb-background: #19331e;
+    --BT-scrollbar-thumb-hover-background: #0c5918;
+
+    --account-options-border: 2px solid #117f24;
+    --sidenote-open-background: #394e66;
+    --tags-border: 2px solid var(--link-color);
+    --table-border: 1px solid #808080;
+
+    --sidenote-contents-border: 1px dashed #808080;
+    --sidenote-figure-border: 1px solid #808080;
+
+
+}
+
+#printuser {
+    color: var(--text-color);
+    background-color:transparent;
+    font-family: 'Courgette', cursive;
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #d9d9d9;
+}
+ 
+#login-status a {
+    color: #d9d9d9;
+ 
+}
+ 
+#login-status a:hover {
+    color: #43ae06;
+}
+
+#login-status ul a {
+    background: var(--primary-background);
+    color: #d9d9d9;
+    border: 0px solid #ccc;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+
+#login-status ul a:hover {
+    background: #117f24;
+    color: #e5e5e5;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: var(--text-color);
+    font-family: 'Courgette', cursive;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+blockquote {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Athe-academy-of-the-true-art-theme/AotTA_Insignia.png);
+    background-position: bottom right;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding-bottom: 45px;
+}
+
+.yui-navset .yui-content, .yui-navset .yui-navset-top .yui-content {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Athe-academy-of-the-true-art-theme/AotTA_Insignia.png);
+    background-position: bottom right;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding-bottom: 45px;
+}
+
+.info-block .body-panel {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Athe-academy-of-the-true-art-theme/AotTA_Paper_Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    color: #000;
+}
+
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: var(--sidenote-open-background)!important;
+    }
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

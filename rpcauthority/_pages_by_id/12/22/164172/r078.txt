@@ -1,0 +1,319 @@
+---
+title: "Maintenance Union Theme"
+tags: ["theme"]
+page_id: "1222164172"
+site: "rpcauthority"
+slug: "component:maintenance-union-theme"
+revision: 78
+revision_id: "1383794329"
+author: 4981794
+timestamp: 1634103784
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:maintenance-union-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+/*
+    Maintenance Union Theme (made by Qual, logo derived/remasted from the work of Ascriber; requested by Alex Mercer)
+    [2020 Wikidot Theme]
+*/
+
+body {
+    font-family: 'Sora', sans-serif;
+}
+
+#page-content {
+    font-size: 120%;
+    font-family: 'Titillium Web', sans-serif;
+    word-spacing: 1.5px
+}
+
+#header h1 a::before {
+    text-shadow: 3px 3px 2px black;
+    font-family: 'Sora', sans-serif;
+}
+ 
+#header h2::before {
+    text-shadow: 1.5px 1.5px 1.5px black;
+    font-family: 'Krona One', sans-serif;
+}
+
+.heading {
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Krona One', sans-serif;
+}
+
+h1 {
+    font-family: 'Krona One', sans-serif;
+    color: var(--primary-text-color);
+    text-shadow: 2px 2px 2px black;
+    font-weight: bold;
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: 'Krona One', sans-serif;
+    text-shadow: 1px 1px 1px black;
+    color: #fff;
+}
+
+a {
+    font-weight: bold;
+    text-shadow: .5px .5px .5px black;
+}
+ 
+a.newpage {
+    font-weight: bold;
+    text-shadow: .5px .5px .5px black;
+}
+ 
+a:hover {
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+
+hr {
+    height: 2px;
+}
+
+
+#page-title {
+    border-bottom: 2px solid var(--basic-border-color);
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Krona One', sans-serif;
+}
+
+.rateContainer {
+    font-family: Montserrat,sans-serif;
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+.yui-navset .yui-content, .yui-navset .yui-navset-top .yui-content {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Insignia.png);
+    background-position: bottom right;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding-bottom: 45px;
+}
+
+
+.sidenoteH {
+    text-shadow: 1px 1px 1px black;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+:root {
+    --text-color: #f5f5f5;
+    --body-background: #262626;
+    --primary-text-color: #991f1f;
+    --nav-hover-background: var(--dusty-red);
+
+    --dusty-red: #732e2e;
+    --dusty-red-hover: #592424;
+    --dusty-red-light: #993c3c;
+
+    --primary-background: #1e1e1e;
+    --content-bar-background: #333333;
+    --news-block-body-panel-background-even: #191919;
+
+    --header-text-visibility: hidden;
+    --header-font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    --header-custom-text: 'Maintenance Union';
+    --header-tagline-custom-text: 'Grey Walls of Iron Men';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Logo_Modern_B%26W.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Header.png);
+    --header-tagline-color: #cc6666;
+    --header-tagline-top: 8px;
+ 
+    --link-color: #cc2828;
+    --link-hover-color: #c27272;
+    --new-page-color: #991f1f;
+    --button-border: 1px solid #ccc;
+    --button-background: var(--dusty-red);
+    --button-hover-border: 1px solid #fff;
+    --button-hover-background: #8c3838;
+ 
+    --search-button-background: var(--content-bar-background);
+    --search-button-hover-background: var(--news-block-body-panel-background-even);
+    --search-input-color: var(--search-button-background);
+    --search-input-hover: var(--search-button-hover-background);
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: #171717;
+    --topbar-hover-background: var(--dusty-red);
+    --topbar-divider: 1px solid #222;
+    --topbar-dropdown-border-color: var(--dusty-red);
+ 
+    --sidebar-crit-corner-color: var(--link-hover-color);
+    --star-rating-hue: 165deg;
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid var(--dusty-red);
+    --tabview-button-selected-background: var(--dusty-red);
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: var(--dusty-red-light);
+ 
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: var(--dusty-red-light);
+    --tabview-side-button-selected-background: var(--dusty-red);
+    --tabview-side-button-divider: 1px solid var(--dusty-red);
+ 
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: var(--dusty-red);
+    --tabview-side-scrollbar-thumb-hover-background: var(--dusty-red-light);
+ 
+    --sidenote-open-background: var(--dusty-red-light);
+    --tags-border: 2px solid var(--primary-text-color);
+    --basic-border: 1px solid #666666;
+ 
+    --BT-resizer-background: #111;
+    --BT-scrollbar-thumb-background: var(--dusty-red-hover);
+    --BT-scrollbar-thumb-hover-background: var(--dusty-red);
+
+    --account-options-border: 2px solid var(--dusty-red);
+}
+
+/* User Name */
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #ccc;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #e6e6e6;
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+/* Hover box in extended options (in tandom w/ variable --account-options-border) */
+
+#login-status ul a:hover {
+    background: var(--dusty-red);
+    color: #fff;
+}
+
+/* Regular Extended User Opt. Var. */
+
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: 0px solid #ccc;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+#account-options #account-options, a#account-topbutton {
+    color: var(--text-color);
+    font-family: 'Courgette', cursive;
+}
+ 
+/* DO NOT TOUCH UNLESS PLANNED, WHITE THEME VARIABLES */
+
+.open-themes-container {
+    display: none;
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-primary-text-color);
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Logos (Images)" hide="- Logos (Images)"]]
+
+----
+[[=]]
++ Maintenance Union Logos: Formal
+[[/=]]
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++++ Classic Ver.
++++++ (Black & White)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Logo_Classic_B%26W.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++++ Classic Ver.
++++++ (Solidarity White)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Logo_Classic_White.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++++ Modern Ver.
++++++ (Black & White)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Logo_Modern_B%26W.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++++ Modern Ver.
++++++ (Solidarity White)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Amaintenance-union-theme/Union_Logo_Modern_White.png width="100%"]]
+[[/div]]
+[[/div]]
+
+@@ @@
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:maintenance-union-theme/code/1); @@
+> @@ [[/module]] @@
+

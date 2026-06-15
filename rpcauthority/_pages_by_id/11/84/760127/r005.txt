@@ -1,0 +1,19 @@
+---
+title: "_redirecttest"
+tags: []
+page_id: "1184760127"
+site: "rpcauthority"
+slug: "_redirecttest"
+revision: 5
+revision_id: "1234973495"
+author: 3118961
+timestamp: 1594737013
+---
+
+[[module ListPages range="." pagetype="*"]]
+[[div class="%%link%%"]]
+testttt
+%%link%%
+[[/div]]
+[[/module]]
+

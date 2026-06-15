@@ -1,0 +1,27 @@
+---
+title: "Mishio's Return"
+tags: ["tale"]
+page_id: "1153808255"
+site: "rpcauthority"
+slug: "mishio-s-return"
+revision: 5
+revision_id: "1304640334"
+author: 3118961
+timestamp: 1596122756
+---
+
+[[include component:rate]]
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:mishioreturn-0
+http://www.rpc-wiki.net/fragment:mishioreturn-1
+http://www.rpc-wiki.net/fragment:mishioreturn-2
+http://www.rpc-wiki.net/fragment:mishioreturn-3
+--]
+@@ @@
+@@ @@
+[[footnoteblock]]
+
