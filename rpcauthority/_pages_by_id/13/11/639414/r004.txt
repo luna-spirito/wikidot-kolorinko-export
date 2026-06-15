@@ -1,0 +1,84 @@
+---
+title: "Thaumaturgy Theme"
+tags: ["theme"]
+page_id: "1311639414"
+site: "rpcauthority"
+slug: "component:thaumaturgy-theme"
+revision: 4
+revision_id: "1366579821"
+author: 3118961
+timestamp: 1624235602
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+[[/module]]
+
+[[collapsible]]
+[[code type="CSS"]]
+/*
+    Thaumaturgy Theme
+    [2021 Wikidot Theme]
+
+    Created by Vizlox for the Myths & Magic Contest. This theme depends directly on the code of the Research Theme.
+*/
+
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+
+:root {
+/* PALLET SHEET */
+--primary-text-color: #3f668c;
+--nav-hover-background: #2f4d6b;
+--body-background: #232936; 
+
+/* BASE COLORS */
+ 
+/* Page Title */
+--page-title-color: #47739e;
+ 
+/* Generic Buttons */
+--button-border: 1px solid #1c2c3d;
+--button-background: #203245;
+--button-hover-border: 1px solid #284159;
+--button-hover-background: #284159;
+ 
+/* Header */
+
+--research-header-bg: url(http://rpcauthority.wdfiles.com/local--files/component%3Athaumaturgy-theme/researchblue.png);
+--header-tagline-color: #cad9e8;
+ 
+/* Search Bar */
+--search-button-background: #1c2733;
+--search-button-hover-background: #364d63;
+--search-input-color: #323f4d;
+--search-input-hover: #2d4b69;
+ 
+/* Link Colors */
+--link-color: #3f668c;
+--link-hover-color: #4b78a6;
+--new-page-color: #3f668c;
+ 
+/* Scrollbar Colors */
+--tabview-side-scrollbar-thumb-background: #22374d;
+--tabview-side-scrollbar-thumb-hover-background: #243b52;
+--BT-scrollbar-thumb-background: #2e465e;
+--BT-scrollbar-thumb-hover-background: #334e69;
+ 
+/* Rating Modules */
+--star-rating-hue: 0deg;
+ 
+/* Sidenote Color */
+--sidenote-open-background: #1c2630!important;
+--sidebar-crit-corner-color: #629ed9;
+}
+ 
+/* Account Options/Login Info Text */
+ 
+#login-status a:hover{
+    color: #83a6c9;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

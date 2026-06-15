@@ -1,0 +1,44 @@
+---
+title: "The Son of Dr. Mann"
+tags: ["author-page"]
+page_id: "1307467295"
+site: "rpcauthority"
+slug: "the-son-of-dr-mann"
+revision: 82
+revision_id: "1517007400"
+author: 5519772
+timestamp: 1703630737
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);
+[[/module]]
+= **Name**: Ludwig Mann
+
+= **Region**: WESTCOM
+
+= **Division**: Containment
+
+= **Security Clearance**: Level 3
+ 
+= **Position**: Containment Specialist
+  
+= **Education**: Applied Physics (Ph. D), Biophysics (Ph. D)
+
+------
+
+= **Containment Protocols Reviewed by Dr. Mann**
+[[module ListPages created_by="The Son of Man" perPage="250" separate="no" tags="rpc" order="created" prependLine="||~ Registered Phenomena Code ||~ Security Rating ||~ Publication Date||"]]
+|| %%title_linked%% || %%rating%% || %%created_at%% ||
+[[/module]]
+
+= **[REDACTED]**
+[[module ListPages created_by="The Son of Man" perPage="250" separate="no" tags="document" order="created" prependLine="||~ Codename ||~ Involvement||~ Declassified||"]]
+|| %%title_linked%% || %%rating%% || %%created_at%% ||
+[[/module]]
+
+= **Dr. Mann's Personal Library**
+[[module ListPages created_by="The Son of Man" perPage="250" separate="no" tags="tale" order="created" prependLine="||~ Title||~ Rating||~ Written||"]]
+|| %%title_linked%% || %%rating%% || %%created_at%% ||
+[[/module]]
+

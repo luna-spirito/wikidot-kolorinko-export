@@ -1,0 +1,592 @@
+---
+title: "PCAAO Hub"
+tags: ["hub", "pcaao"]
+page_id: "1310998511"
+site: "rpcauthority"
+slug: "pcaao-hub"
+revision: 21
+revision_id: "1518821158"
+author: 3050074
+timestamp: 1709753741
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]PCAAO Hub[[/span]]
+
+[[module css]]
+@import url('http://www.rpc-wiki.net/component:pcaao-theme/code/1');
+
+#page-title {
+
+  display: none;
+
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+.aci {
+    letter-spacing: 1px;
+    font-size: 110%;
+    background: #191919;
+    border: 5px solid #56603a;
+    padding: 10px 10px;
+}
+
+blockquote {
+    border-radius: 2px;
+    background-color: #222;
+    color: #EE2b2b;
+    font-family: monospace;
+    border-style: solid;
+    font-size: 14px;
+    box-shadow: 0px 0px 1px 1px #0a0a0a;
+    word-wrap: break-word;
+}
+
+[[/module]]
+
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//I was young when I joined the Paos.//[[footnote]] Slang referring to PCAAO. [[/footnote]] //They made such grandiose proclamations. "To take back what has been lost" is what they always said. Oh, PLA were not here yet, and you know, "we live in a small world" as the saying goes. (Laughs) But then we figured out just how big the world is, might have been too big in fact. But we grew, we sure did grow and well... I suppose they grew just too big for me.//
+
+-- [REDACTED], GD-ASIA, 1978-1982
+
+[[/div]]
+
+[[tabview]]
+  [[tab Overview]]
++ [[[pcaao-hub|People's Committee for the Acquisition of Anomalous Objects]]]
+
+++ [[span style="color: #777;"]] Ambiguous [[/span]] 
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor (?)[[footnote]] Qualification for "Sculptor"-Status is pending review. [[/footnote]]
+* Regional
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/PCAAO1.png width="200px"]]
+
+From the //伏魔班// to the Special Directorate, the People's Committee for the Acquisition of Anomalous Objects is the latest group in line to represent the interest of China in the veiled world.
+
+Tracing its roots back to the Communist victory over Nationalist forces. The Committee began on humble grounds as a predominantly research-oriented group propped up by Soviet interest, dedicated to the study and reclamation of anomalies with Chinese heritage. Yet the climate of the Cold War is ever-changing and unpredictable: From the fall of the Special Directorate to the various conflicts waged across their borders, the PCAAO rapidly evolves with the People's Republic. Since their collapse, the PCAAO has replaced the Iron Initiative[[footnote]] The anomalous agency of the former Soviet Union. [[/footnote]] as a major anomalous power of the Asian continent. To date, the Committee stands as a major partner in the preservation of normalcy. Now seeking to grow its influence beyond East Asia in its completion with the Authority and so many other organizations that they deem a threat to the sovereignty of China. 
+
+The 2000s saw easing of tensions between PCAAO and the Authority with openness never-before-seen. And yet the Committee is just as likely to cooperate with MSTs and ASFs in [[[RPC-361|Hong Kong]]] as it is to assault the dig teams in [[[RPC-332|Mongolia]]], having carried out friendly and hostile acts in the same hour. The PCAAO of the 21st century is seemingly torn between opposite impulses; the international agency that works for the good of mankind versus the ruthless paramilitaries that protect China and her people from the anomalous at any cost, often at others' expense. Authority personnel are to approach the PCAAO with significant caution. It is often difficult to predict whether it will act in cooperation or violent self-interest.
+  [[/tab]]
+  [[tab Capabilities]]
+
+[[div class="aci"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/Official_ACI_Seal.png width="50px"|align="center"]]
+------
+= [[size 140%]] >> Assessment of the People's Republic of China << [[/size]]
+= [[size 120%]] @@------@@ Authority Central Intelligence @@------@@[[/size]]
+------
+
+[[table style="background-color: #191919; color: #56603a; padding: 5px; margin-left: auto; margin-right: auto; width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: solid 3px; border-top: solid 3px;"]]
+[[=]]
++++ ##c0c0c0|Structure##
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/pcaao-hub-neo1/Minister.png|caption=Only known image of "The Minister"|align=right|width=150px]]
+
+The leadership of PCAAO had seen major changes ever since its creation in 1950. Independence under the Internal Committee[[footnote]] The previous definitive leading figures of the Committee, though it is to be noted that it is unknown whether this leadership has been dissolved or not. [[/footnote]] would not last following the abolishment of the Special Directorate[[footnote]] The People's Liberation Army's Special Directorate formerly held the position as China's representative organization prior to their dissolution in 1954. [[/footnote]] and major reorganization of China's veiled policies.
+
+Without the PLASD, the Chinese Communist Party would eventually make the decision to absorb the then-GoI PCAAO to replace their loss, which took place following the creation of the nick-named "Plus-One" Ministry within the [https://en.wikipedia.org/wiki/State_Council_of_the_People%27s_Republic_of_China State Council] -- The "异常事务部" or "Ministry of Anomalous Affairs", under the leadership of the elusive "Minister", would officially incorporate PCAAO as their sole department.
+
+Being an integral part of the Central Government, in return, grants them access to the extensions of the Government, allowing them to exert a high degree of control over all corners of life. This level of integration meant that all needed equipment can be acquired through state-owned businesses without the need for accountability or sometimes even concealment of their nature, negating the need for similar organs such as Authority's [[[engineering-component|Contractor Liaison Office]]]. 
+
+[[table style="background-color: #191919; color: #56603a; padding: 5px; margin-left: auto; margin-right: auto; width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: solid 3px; border-top: solid 3px;"]]
+[[=]]
++++ ##c0c0c0|Technologies##
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/F32.jpg|caption=Construction of Facility-032.|align=right|width=284px]]
+
+Much like the Soviet's Iron Initiative that gave rise to the organization, PCAAO excels at conventional science. PCAAO further close their technological gap through reverse-engineering acquired technologies and often cooperation with internal assets such as NORINCO and Dongfeng, as well as foreign businesses such as [[[http://rpcauthority.wikidot.com/report-on-the-anomalous-state-of-turkmenistan|Turkmen traders]]], Lee-Kovalyov Corporation, [[[RPC-242|████████ Co.]]], and even GEAR.
+
+However, they do not dominate all fields of study. When it comes to the more esoteric sides of para-research is where cracks begin to show: The Committee lacks talents when it comes to Info-hazards, [[[acs-guide|Coherency]]] and [[[RPC-131|████████]]] research which sees them lacking behind the efforts of the [[[research-hub|Research Division]]]. 
+
+Furthermore, due to the restrictions on [[[RPC-438|Letheium]]] export imposed by the Authority and [[[nucorp-hub|Nucorp]]], PCAAO only has a limited supply of current-gen [[[amnestics]]], often having to resort to non-anomalous/unconventional methods.
+
+
+[[table style="background-color: #191919; color: #56603a; padding: 5px; margin-left: auto; margin-right: auto; width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: solid 3px; border-top: solid 3px;"]]
+[[=]]
++++ ##c0c0c0|Culture##
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+Owing to the biodiversity of both anomalous [[[RPC-979|fauna]]] and [[[RPC-188|flora]]] within the environment presented by the Chinese geography, PCAAO grew to become one of the most experienced organizations in handling biological/organic anomalies, having cultivated pacified anomalous animals and, as of late, begun their own [[[RPC-670|engineering of biological anomalies]]].
+
+Another advantage that PCAAO has is the high concentration of individuals well-versed in Thaumaturgy across East-Asia. As late as the 1900s, China would still see a large number of Thaumaturgy practices in rural regions. 
+
+With the //Thaumaturgy Security Law// of 1971, unauthorized usage of thaumaturgy is illegalized and could subject one to criminal penalty if they do not follow. Since then, Thaumaturges have either been forced into hiding or fled the country altogether, with the remaining majority being registered by Committee personnel, granting PCAAO greater access to the occult community, which became a vital element in the implementation of [DATA EXPUNGED]. 
+
+
+[[table style="background-color: #191919; color: #56603a; padding: 5px; margin-left: auto; margin-right: auto; width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: solid 3px; border-top: solid 3px;"]]
+[[=]]
++++ ##c0c0c0|Projection##
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+The People's Liberation Army is often called upon to combat threats beyond the Committee's capabilities early on. Since the 80s, this dynamic has seen a gradual shift that would eventually result in the paramilitary PCAAO now commands:
+
+The security force of PCAAO came in the form of the **//Anomaly Guard//**. Acting as their equivalent to the Authority's own [[[authority-security-force|Security Force]]], the Anomaly Guards are divided and spread across the vast territories of China to protect Committee assets against any threats.
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/soldier.jpeg|caption=Mobile Formation suppression of Anomaly No. 835.|align=right|width=276px]]
+
+When it comes to their military might, the Committee wields the **//Mobile Formation//** -- ~4000 infantry troops derived from a single motorized division that are deployed to where ever needed, often involved in the containment of anomalies when local AGs are overwhelmed, garnering them close comparison to the [[[mst-registry|MSTs]]][[footnote]] Furthermore, due to their general applicability in most containment/engagement roles, the usage of dedicated, specialized groups like the actual MSTs are not common within the Committee, opting to substitute such duties to designated Companies or Squads within the Mobile Formation. [[/footnote]] of the Authority. 
+
+Anomalous assets are often in use by the Mobile Formation within their companies, with experimental technologies often seen being employed by the "Support Service Battalion". Domesticated, anomalous beasts were often a common sight amongst infantry and artillery units within PCAAO and their predecessor Special Directorate. 
+
+With the mechanization of China's military, this practice has been gradually phased out by the 2010s, though anomalies remain one of the Mobile Formation's vital assets, such as the case of [[[anomaly-197-manufactured-manpower|Anomaly No. 197]]].[[footnote]] Rough estimates put one-third of MF infantry forces as being substituted with Anomaly No. 197 instances. [[/footnote]]
+
+
+[[table style="background-color: #191919; color: #56603a; padding: 5px; margin-left: auto; margin-right: auto; width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: solid 3px; border-top: solid 3px;"]]
+[[=]]
++++ ##c0c0c0|Influence##
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+China's modern influence, combined with a lack of pre-established infrastructure in the Far East has hampered the Authority's ability to restrict the Committee's power across Asia, with the situation deteriorating into a complete loss of assets within China during the late stages of the Cold War.
+
+Despite China's clear sway over various African governments, there has been no major Committee presence beyond the pre-existing forces on the continent regulated under the United Nations and their [[[unaac-hub|Anomalous Activities Committee]]] by extension. 
+
+PCAAO is severely lacking in influence beyond China and its bordering states, and significant assets was dedicated to its outward expansion -- exemplified by the Special Operation Force "[[[RPC-666|Sand Serpent]]]" Commando.[[footnote]] A Spec-Ops Unit under the Mobile Formation, primarily operating in Africa. [[/footnote]] Despite this, PCAAO forces outside of East Asia would still see themselves dwarfed by Authority personnel and infrastructure in most scenarios.
+
+[[/div]]
+  [[/tab]]
+  [[tab Notable Events]]
+
+[[image http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Boxer.png width="100%"]]
+++ Boxer Rebellion, 1900
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//The tragedies that have befallen Nanking and now Baozhou will not fade with the old, for I promised that this will be the duty of this council and the representatives of all who have participated in this conflict, no such disasters shall happen again. With that, I hereby declare the formation of the Authority Chinese Branch.//
+
+-- GD-01 at the Peking Conference.
+
+[[/div]]
+@@@@
+[[=]]
+[[collapsible show="Expand" hide="Close"]]
+[[<]]
+The Boxer Rebellion is a crucial event not often brought up when discussing the progression of China's policy on anomalous affairs. When Empress Cixi threw her support to the anti-foreigner movement, it not only attracted the fanatical across the empire but also the watchful eyes hidden amongst the shadows: The 伏魔班[[footnote]] "Demon Hunters", a group responsible for the suppression and containment of anomalies for the Qing dynasty. [[/footnote]] was a shell of its former self, seeing no major action since the Taiping Rebellion of the 1850s and its suffering defeat in the First Sino-Japanese War. The remaining radicals still within the order were quick to action, intending to use every bit of their resource to pursue a mad dream, and thus began their final struggle against the Eight-Nation Alliance that will seal their fate.
+
+The war was never in the favor of the Hunters remnants. With their final members hunted down came their total abolishment and the beginning of something else. Yet its impact doesn't stop beyond being the stepping stone to the foundation of the Chinese Branch. More so, the Rebellion gave reasons to the sacking of Chinese artifacts and documents alike in order to prevent "such likelihood of the abuse of the occult at wrong hands". For this reason, the Boxer Rebellion is said to be the pivotal moment that would go on to influence China's veiled strategy going forward.
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@@@
+----
+[[image http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Founding.png width="100%"]]
+++ Founding, 1950
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//We have been able to procure the requested objects. Arrangements for transfer of the remaining anomalous materials will be possible as soon as the Committee and the Directorate's status be declared to the wider world and relations can be officialized.//
+
+//Once again, the Initiative welcomes the two latest additions to the Communist Cause.//
+
+-- Soviet communications to Chinese delegates
+
+[[/div]]
+@@@@
+[[=]]
+[[collapsible show="Expand" hide="Close"]]
+[[<]]
+1950 sees the establishment of both the People's Committee for the Acquisition of Anomalous Objects and the People's Liberation Army Special Directorate.
+
+The founding of the then-civilian GoI is the accumulation of many things: the victory over the Japanese and later the Nationalist; The consolidation of resources from the many resistance groups whom themselves practiced the usage of anomalies in their own ways during the warring periods; A gesture of help from the Soviets, but also as a sign of a new future, a group which seeks to rediscovers its country's own history with the anomalous as well as to innovate themselves through research of the unknown. 
+
+That was the path the People's Committee for the Acquisition of Anomalous Objects took in its earliest days and even though the many changes it underwent, that ideal still remained within the dreams of its personnel.
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@@@
+----
+[[image http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Korea.png width="100%"]]
+++ Korean War, 1950
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//Our field teams have confirmed sighting major engagements across Maryeong-Ri. The belligerents have been identified as the 240th Division of 10th Special Army and Brigades from the Coalition Division under Joint-Task Force Occult.//
+
+-- Letter addressed to GD-WAR
+
+[[/div]]
+@@@@
+[[=]]
+[[collapsible show="Expand" hide="Close"]]
+[[<]]
+Despite the power it now possesses, PCAAO didn't start off as the militaristic group people would have come to expect, nor was it even the face that represents China on the anomalous stage. The People's Liberation Army's Special Directorate had had a firm hand on top of China's anomaly reserve and was given full oversight in their distribution and application. Despite its relatively young age, the Special Directorate rose to prominence, known for leading one of the largest research initiatives at the time to develop their anomalies into useful resources for their ambitious operation around East Asia.
+
+Tension quickly grew between the Directorate and UNAAC member states over their differing ideology on anomaly usage, finally reaching its boiling point upon the outbreak of the Korean War, one of the largest Laraje-Type Scenario[[footnote]] An event where anomalies are used in major military conflicts between belligerent states to gain advantage over one another, causing equal amounts of retaliation and thus a risk to the masquerade. [[/footnote]] to have ever occurred since the Second World War. To this day the details of the war remained a heated discussion amongst everyone yet its end result is clear for all to see; With the dissolution of the Special Directorate, plans have to be overhauled. In a surprising turn of events, PCAAO is now looked forward to as the Republic's premier Agency, and along came the changes for years to come.
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@@@
+----
+[[image http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Kiangsu.png width="100%"]]
+++ Kiangsu Incident, 1976
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//To all personnel: You are to evacuate the Site immediately. I repeat: Evacuation has now begun. The Directorate has spoken: The situation here has become untenable for operational secrecy if we were to keep fighting the Chinese. Let it be known that taking the fight any further will bring no meaning to either side! Abandon your projects and head to the nearest rendezvous point; Let them deal with it.//
+
+-- Public Announcement from Site-103
+[[/div]]
+@@@@
+[[=]]
+[[collapsible show="Expand" hide="Close"]]
+[[<]]
+The end result of the power struggle between the Authority and the Chinese government. 
+
+The Authority had never enjoyed the level of control they would otherwise have in other nations over China. Spending half of the 20th Century in a perpetual state of war not only decimated the Chinese population but had also brought upon the logistical nightmares for the continuation of the Chinese Branch.
+
+The 60s and 70s began Committee initiatives to expel outside influences in mainland China, including that of the Authority and Iron Initiative:[[footnote]] Though to a lesser extent. [[/footnote]] Facilities established in the 1900s discovered by the PCAAO would be systematically purged and ransacked of their anomalies. Its effects only mitigated by the early preparations to allocate most anomalies within coastal Sites. 
+
+Following the discovery of an entire population of RPC-████, the [[[authority-regional-sites|Asia Command]]] launches Operation "Momotaro" -- total mobilization of all remaining ASFs within China to retrieve the instances of //Macaca audientis// from their habitat. This would inadvertently attract the attention of PCAAO who then intercepted the ASF regiment, resulting in massive casualties. 
+
+Plans for a second incursion would be vetoed by the Global Directorate. The Board would ultimately intervene against the Asia Command -- the mounting cost of waging a needless conflict becoming more apparent by the day -- and make the decision to withdraw all resources and personnel from China and allocate them to other priorities. Fortunate for the Authority, upcoming disasters, be it of [[[RPC-399|natural causes]]] or possibly [[[RPC-041|human ones]]] would serve to forestall further Committee actions.
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@@@
+----
+[[image http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Kashmir.png width="100%"]]
+++ Kashmir Conflict, 198█
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//Me and Kapil were sent to the front field to look for survivors, we ended up finding none, just craters, lots of craters. We figured here's where they used their "stashes". Pieces of broken blades still burning red and bright, rifle barrels so out of proportion, and the tanks that just looked **wrong**... And then we stopped at this... charred thing. It was still smoldering in smokes. There was just something off-putting about it... or maybe it was me in denial... And then Kapil spoke: "It's moving"- well no, it was **breathing**.//
+
+-- Site-078 Post-Incident Interview of ASF officer deployed to ███████
+
+[[/div]]
+@@@@
+[[=]]
+[[collapsible show="Expand" hide="Close"]]
+[[<]]
+Worsening Sino-Indian relationship over national pride would bring about one bloody conflict after another. Early on the two agencies of PCAAO and INDIRA[[footnote]] The anomalous agency of the Republic of India.[[/footnote]] refrained from going war with one another, yet militaristic sentiments grew increasingly louder for disputes to be settled. That wish came ahead in 198█.
+
+A covert conflict occurring within the heavily contested Kashmir region in Northern India. Details of the event are even more obscured as a result of minimal Authority intervention but it is known that at least[[footnote]] A suspected third belligerent group from Pakistan may have involved themselves but is not proven currently. [[/footnote]] INDIRA and PCAAO had participated in the conflict, resulting in a huge exchange of anomalous arsenal between the groups and significant damage to the local environment. 
+
+When ASFs units finally reached the region they would return to Site-119, reporting dozens of uncovered broken anomalous machines and artifacts with even more unrecoverable "imprints" on the edges of Padder. In the end no change was brought about through even the most sacred powers in the world. All that is left is the ruins and remnants upon Leh.
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+@@@@
+----
+[[image http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Shaking.png width="100%"]]
+++ Gulangyu Convention, 1999
+[[div class="paragraph1" style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+//It has been 23 years since the Authority departed from the People's Republic of China. Through these years the Committee has remained vigilant in the common pursuit of the Consensus Normalcy. Yet it was realized by our leaders that the future lies not in the continued divide, but that of connectivity, and for the preceding discussions within the decade, the Committee has been hard at work making that a reality. With that, I hereby declare the formation of the [http://rpc-wiki-cn.wikidot.com/ RPC CN Branch].//
+
+-- Ambassador [[[awakening-hell-s-gate|Xiao Li]]] at the Gulangyu Convention
+
+[[/div]]
+@@@@
+[[=]]
+[[collapsible show="Expand" hide="Close"]]
+[[<]]
+With the collapse of the Soviet Union and the Iron Initiative at the beginning of the 1990s, many of its puppets and satellites would soon follow suit and open up to the free market. Having already reintegrated itself into the global world by the 1980s, the Chinese state faces increasing difficulty in continuing the policy to isolate itself from the Authority.
+
+A series of talks began to take place at the island of Gulangyu, culminating in the //5th Authority-Committee Gulangyu Convention// and the signage of the //Memorandum on Anomalous Management and Application Collaboration//. Since then, Committee has reentered into diplomatic relations with the RPC Authority and opened its territory for the establishment of Authority facilities.
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@@@
+----
+
+  [[/tab]]
+  [[tab Relations]]
+
+> = [[span style="size:150%;"]] **Table of Contents** [[/span]]
+> 
+> [[span style="size:120%;"]] **Groups of Interest** [[/span]]
+> [#rpc-authority RPC Authority]
+> [#com Church of Malthus]
+> [#amazingco Amazing! Co.]
+> [#gear The Global Enterprise for Advanced Research]
+> [#nihil The Children of Nihil]
+> 
+> [[span style="size:120%;"]] **Agencies of Interest** [[/span]]
+> [#unaac United Nations Anomalous Activity Committee]
+> [#usoc United States Occult Community]
+> [#indira Indian National Defense Initiative for the Reclamation of Anomalies]
+> [#modvp Ministry of Paranormality]
+> [#mi13 Monarch Security]
+
+[[# rpc-authority]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #7880ff, 0px 0px 5px #7880ff, 0px 0px 7px #7880ff, 0px 0px 9px #7880ff, 0px 0px 11px #7880ff; background:#7880ff url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/RPCA.png) center -50px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/ RPC Authority]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #777; text-shadow: 1px 1px 1px #c8c8c8, -1px -1px 1px #c8c8c8;"]] Ambiguous [[/span]] [[/size]]
+
+**Description**: PCAAO's relations with the RPC Authority continuously fluctuate. Attempts to remove Authority's presence by the Committee have been occurring since as far as the 60s, only to re-enter into diplomatic ties with the 1st Authority-Committee Gulangyu Convention of 1991. 
+
+Since then, conflicts and cooperations with the Committee have paradoxically arisen that both put into question and strengthen Authority-Committee relations. Ultimately, PCAAO remains one of Authority's greatest partners in the Far East while also an unpredictable element in the years to come.
+[[/div]]
+
+[[# com]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #ce9292, 0px 0px 5px #ce9292, 0px 0px 7px #ce9292, 0px 0px 9px #ce9292, 0px 0px 11px #ce9292; background:#ce9292 url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Malthus.png) center -80px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/church-of-malthus-hub Church of Malthus]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #f54242; text-shadow: 1px 1px 1px #942929, -1px -1px 1px #942929;"]] Hostile [[/span]] [[/size]]
+
+**Description**: Malthus practitioners remain as one of the surviving groups that weren't pacified by PCAAO at the turn of the Century. Malthus attacks on Chinese officials and civilians remains a prevalent issue in China, with terror attacks occurring as recent as [[[RPC-660|2016]]]. 
+
+Difficulties in the total eradication of Malthus cells arose from the large territories across China which makes systematic search efforts impossible. Malthus is able to continuously draw support from anti-governmental individuals and groups. Often Malthus cells resort to hit-and-run guerrilla tactics, dispersing back into the general populace following planned attacks, diverting Committee resource into long and exhaustive counter-insurgency operations.
+[[/div]]
+
+[[# amazingco]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #71e0ea, 0px 0px 5px #71e0ea, 0px 0px 7px #71e0ea, 0px 0px 9px #71e0ea, 0px 0px 11px #71e0ea; background:#71e0ea url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Amazingco.png) center no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/amazingco-hub Amazing! Co.]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #8d42f5; text-shadow: 1px 1px 1px #c3a5ee, -1px -1px 1px #c3a5ee;"]] Unknown [[/span]] [[/size]]
+
+**Description**: As is the case with most other organizations that have dealt with the group, tracing the origins of Amazing! Co. products proved to be a fruitless endeavor. Attempts to intercept the delivery of Amazing! Co. products are also ineffective. The Committee has made an effort to ramp up surveillance for Amazing! Co. products being brought and censorship of said products should they be posted to the internet.
+[[/div]]
+
+[[# gear]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #f3ff8e, 0px 0px 5px #f3ff8e, 0px 0px 7px #f3ff8e, 0px 0px 9px #f3ff8e, 0px 0px 11px #f3ff8e; background:#f3ff8e url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/GEAR.png) center -120px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/gear-hub Global Enterprise for Advanced Research]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #0da228; text-shadow: 1px 1px 1px #60ff5b, -1px -1px 1px #60ff5b;"]] Allied [[/span]] [[/size]]
+
+**Description**: With the increasing pressure upon GEAR around the [http://rpcauthority.wikidot.com/an-incomplete-history-of-the-authority 1980s], the Enterprise would find refuge within the coastline of China against Authority crackdowns. Venturing into the state at the same time when Deng Xiaoping began his economic reforms, GEAR inadvertently became one of China's biggest exporters of consumer goods. 
+
+Even as government regulations would eventually push GEAR back to the underground market, they continue to be a substantial supplier of technologies to the Committee. GEAR now moves forward with the "齿轮企业" branch since 2000, working with PCAAO to manufacture top-quality equipment and even anomalous systems, most notably their line of [[[RPC-960|Computation Units]]].
+[[/div]]
+
+[[# nihil]]
+[[div style="display: inline-block; border: solid 1px #444444; color:#ccc; background:#404040 url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Nihil.png) center -169px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/children-of-nihil-hub Children of Nihil]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #8d42f5; text-shadow: 1px 1px 1px #c3a5ee, -1px -1px 1px #c3a5ee;"]] Unknown [[/span]] [[/size]]
+
+[[span style="text-shadow: 1px 1px 5px #666;"]]**Description**: The Eastern World contains a large population of Nihil-Adjacent groups. This religious prominence likely stems from the periodic flooding of China by major rivers, significant Nihil characteristics dominates the surrounding communities of the Yangtze river prior to anti-religious campaigns in the later decades.
+
+Officially, the Committee classified these groups as "heretical teaching", and imposed a strict "destroy-on-sight" policy regarding -Core and -Adjacent groups alike. Yet through intensive ACI investigation, it is discovered that within PCAAO's Department of Cultural and Historic Discoveries is a sub-division, dedicated to the study of Nihilic texts.[[footnote]] Not too dissimilar to the Authority's Research Division Unit-119, or "Decagon Office".[[/footnote]] [[/span]]
+
+Furthermore, Authority study have also revealed that traditional beliefs such as the "Mandate of Heaven" [[span style="color: #ccc; background-color: #ccc;"]] shares great semblance to aspects of the Nihil deity known as "Empty Monarch"[[/span]], and [[span style="color: #ccc; background-color: #ccc;"]] references to so-called "Pantheocide Projects" have been made[[/span]] in-relation to the sub-division, attempts to discern their meaning have drawn potential ties to [REDACTED] as seen in [[[[RPC-361|REDACTED]]]] and [[span style="color: #ccc; background-color: #ccc;"]] SO SAYS THE ALL-HALLOW [[/span]] [DATA EXPUNGED] Request for further clarification has been declined. 
+
+[[/div]]
+
+[[# unaac]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #a2d0ff, 0px 0px 5px #a2d0ff, 0px 0px 7px #a2d0ff, 0px 0px 9px #a2d0ff, 0px 0px 11px #a2d0ff; background:#a2d0ff url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/UN.png) center -145px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/unaac-hub United Nations Anomalous Activity Committee]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #777; text-shadow: 1px 1px 1px #c8c8c8, -1px -1px 1px #c8c8c8;"]] Ambiguous [[/span]] [[/size]]
+
+**Description**: Earlier on, Chinese entry into the UN and UNAAC had both been blocked by the Nationalist Government and their allies all the way until 1971. In modern times, China is one of the largest contributors to the UN’s Peacekeeping Forces. Chinese personnel continue to interact with African Continent through the UNAAC under the International Security Alliance’s relief efforts. Thus, the UNAAC could be considered one of the vital safeguards against Chinese expansion and hegemony over Africa.
+[[/div]]
+
+[[# usoc]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #ff9090, 0px 0px 5px #ff9090, 0px 0px 7px #ff9090, 0px 0px 9px #ff9090, 0px 0px 11px #ff9090; background:#ff9090 url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/America.png) center no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**United States Occult Community**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #f54242; text-shadow: 1px 1px 1px #942929, -1px -1px 1px #942929;"]] Hostile [[/span]] [[/size]]
+
+**Description**: Even before entering into diplomatic ties with the Chinese Government, the United States has always intended to confront the nation as the Defender of Democracy against Communism. Sino-American engagements occurred as early on as 1950 during the Korean War -- Chinese troops were hurled en mass against American firepower. Covertly, it saw the engagement between the PLA’s Special Directorate and the USOC’s Joint Task Force Occult prior to UNAAC intervention through the International Strike Assessment Forces. The two would continue to clash occasionally over the Cold War with the Authority rarely taking a non-neutral stance against both agencies.
+
+To this day, the USOC and its many agencies stand as the Committee’s greatest enemy, with the seeming exception being the CIA’s 'Pantheocide', sharing common grounds over PCAAO’s [DATA EXPUNGED] technologies.
+[[/div]]
+
+[[# indira]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #ffc493, 0px 0px 5px #ffc493, 0px 0px 7px #ffc493, 0px 0px 9px #ffc493, 0px 0px 11px #ffc493; background:#ffc493 url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/India.png) center -100px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**Indian National Defense Initiative for the Reclamation of Anomalies**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #f54242; text-shadow: 1px 1px 1px #942929, -1px -1px 1px #942929;"]] Hostile [[/span]] [[/size]]
+
+**Description**: Indian-Chinese relations have been under turmoil ever since the Sino-Indian War of 1962. Repeated conflicts of covert and anomalous nature have been waged across the Himalayan borders, most notably the Kashmir Conflict of 198█ that saw the mass deployment of anomalous assets by both agencies. To date, INDIRA policies remain hostile to PCAAO, who in turn continues to subvert their counter-normalcy plans via support of oppositions like the Naxalites[[footnote]] A collective term for far-left, extremist, political groups of Maoist beliefs, primarily operating in the "Red Corridor" region of India. [[/footnote]] and the Pakistani Government.
+[[/div]]
+
+[[# modvp]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #d592ff, 0px 0px 5px #d592ff, 0px 0px 7px #d592ff, 0px 0px 9px #d592ff, 0px 0px 11px #d592ff; background:#d592ff url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Russia.png) center -100px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**Ministry of Paranormality**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #0da228; text-shadow: 1px 1px 1px #60ff5b, -1px -1px 1px #60ff5b;"]] Allied [[/span]] [[/size]]
+
+**Description**: The Committee benefited greatly from the Soviet Union's collapse that kick-started the //Anomaly Market Period//[[footnote]] Term coined by the Authority historians that describes the power vacuum created by the dissolution of the USSR and the Iron Initiative, allowing various entities of interest, including the Authority, to acquire Russian anomalous assets up till the establishment of the Ministry of Paranormality by Vladimir Putin. [[/footnote]] between 1992-2003. Many Committee advancements during this period are the result of studying Soviet conventional and [[[RPC-647|esoteric]]]  technologies as well as the influx of former Iron Initiative personnel.
+
+Since then, PCAAO has continued cooperation with the newly-formed Ministry of Defense via Paranormality under Putin's administration, united under the common suspicion of the West and Authority. Yet despite being one of their closest allies, tension would spark over with the Russians on occasion over the influence of Central Asia.
+[[/div]]
+
+[[# mi13]]
+[[div style="display: inline-block; border: solid 1px #444444; color:black; text-shadow: 0px 0px 3px #969696, 0px 0px 5px #969696, 0px 0px 7px #969696, 0px 0px 9px #969696, 0px 0px 11px #969696; background:#969696 url(http://rpcsandbox.wikidot.com/local--files/pcaao-hub-neo1/Britain.png) center -80px no-repeat; margin-left: auto; margin-right: auto; width: 97%; padding:10px"]]
+[[=]]
+[[size 160%]]**[http://rpcauthority.wikidot.com/mi13-hub Monarch Security]**[[/size]][[/=]]
+[[size 140%]] **Status**: [[span style="color: #b3ad0c; text-shadow: 1px 1px 1px #feff5b, -1px -1px 1px #feff5b;"]] Neutral [[/span]] [[/size]]
+
+**Description**: The Monarchy of Britain previously ruled over China through the "Informal Empire". During this period, especially after the Boxer Rebellion, the Colonial Empires has looted many artifacts and documentation pertaining to anomalies from the "Demon Hunters" under the guise of "securing peace over China", which would ultimately contribute to one of PCAAO's founding goals.
+
+Following their rise to power, the Central Government would pressure the British Government to repatriate stolen artifacts back to the Committee and challenge them over the control of Southeast Asia. With the collapse of the British Empire, MI13 and later Monarch Security would eventually cave in to Chinese demands and relinquish part of their collection to the dismay of the US Government.
+
+Since the return of Hong Kong in 1997, there haven't been any further major interactions between PCAAO and the Security, though British presence had not dissipated, and seems to be on an increase.
+[[/div]]
+  [[/tab]]
+  [[tab Document Templates]]
+
+> **Note:** Additional Writing resources are provided down below. DO CHECK THEM IF YOU WANT TO KNOW MORE ABOUT PCAAO!
+
+http://rpcauthority.wikidot.com/pcaao-format
+  [[/tab]]
+  [[tab Related Materials]]
++++ PCAAO RPCs
+[[module ListPages separate="no" tags="+pcaao +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="pcaao -rpc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
+  [[/tab]]
+[[/tabview]]
+
+----
+
+++ Additional Writer Resource
+[[tabview]]
+  [[tab Commentary]]
+> //Note from Hub Author://
+> 
+> Over my early years in the community, I refrained myself from participating in discussion regarding PCAAO; I myself can’t claim to hold knowledge about PCAAO so great that I can dictate its direction, and it was handled pretty nicely by talented authors. Over the years, Ascriber retreated into RCPA, Biggest took to admin duties, and Ezekiel just went poof -- there stops being anyone that would be willing to do literally anything with the AoI. 
+> 
+> My work on PCAAO started after discussion with a fellow user that talks about their plans with writing PCAAO. Over time I gathered a bunch of lore, canon or vapor, pages or drafts, sometimes from CN too, and that became the PCAAO as described in this hub.
+> 
+> //--TTPY//
+
+  [[/tab]]
+  [[tab Compiled History of PCAAO]]
+
+[[div style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+PCAAO began its days as a civilian Group of Interest with much greater freedom from the government than they are now. And that’s what they //were// designed to do: go around the open fields in search of lost artifacts and sites and whatnot; Their nation and history have been wiped by the dawn of the 20th Century but now that the invasions have been repelled and the nation has been reunited, it’d all seems as though the struggle has come to an end and that people can start anew. 
+
+The task of managing anomalies was split between the Committee and the PLA Special Directorate: PCAAO takes in the young and bright generation with slogans of “Rediscovery”, “Changing the world”, “Innovating through research” etc., and then PLASD takes the old, battle-harden folks to first and foremost “Defend the Nation against aggressors through the unexplored”, the “Internal” group and the “External” agency, the Yin and Yang some would say… and it would have remained so had the Cold War not go on -- but such is life.
+
+The first thing PLASD came to believe is that they are left far behind the rest of the world: Soviet engineering, the American atomic power, and of course their anomalous programs that have advanced so much under the Second World War. And while of course China still has the Soviet Union to rely on now, it’s not guaranteed in the future. And so they ramped up their R&D programs, one of the largest in the world in fact -- Blazing Rifles, Black Iron Weapons, Kui-powered Artilleries, Deafening Drums, Esherian Mountains to track through, and it came under increasing scrutiny under the New World System of the UN. Finally, the //War// happened, and its result speaks.
+
+The Special Directorate was decommissioned, though China wasn’t so easily deterred by a setback, yet in the end, there really isn’t anything that can take the Directorate’s place… except for that one group that has been continuing to research, to discover, to document. And that is how the original PCAAO ended under the circumstances brought on by the Korean War; They would become an official part of the Central Government, personnel from the former Directorate would one by one join the Committee with more and more of them taking on leadership positions.
+
+And over time PCAAO would morph into the much more aggressive and militaristic organization we’d know today. Around the 60s was the time Committee make their commitment to removing foreign presence from Chinese soils -- Iron Initiative workers would be deported back to the Soviet Union, remaining Authority installations will be brought down and their personnel executed as insurgents; At the same time, they would see their presences pushed away by the USOC and later the Viet Cong themselves in Vietnam. The administration of ASIACOM at the time was vehemently Anti-Communist (and arguably still is) and was hellbent to showing up to the Chinese. In the end, infrastructures lost in the Second Sino-Japanese War would give the Committee just enough of the edge to push back against the Authority. What really undid ASIACOM was Operation “Momotaro”, gathering all remaining troops they had on the country just to allocate the entire population of //Macaca audientis// outside of China, and as a result, the failure of the operation would also further cripple Authority defenses in their Chinese sites, which is when the Board finally step in to withdraw troops out of China -- the Committee did well enough at containing anomalies, and leaving some of the anomalies from those sites will be enough to keep them occupied, which is in addition to having to deal with the aftermath of the Great Tangshan Earthquake and Blue Dawn Event that is to come.
+ 
+PLA and PCAAO never really see eye-to-eye due to having to conceit assets to the Committee. In the 1980s, the Army would demobilize, one million men would find themselves working for the People’s Armed Police and the brand new Anomaly Guards, and of course there’s the Mobile Formation too -- PCAAO would become more independent from here on. Halfway through the 80s they and the Indians go through yet another bloody conflict, with anomalous assets even more precisely designed than the Korean War; This time the UNAAC stayed out of this beyond cleaning up the mess with its Peacekeeping -- China has grown considerably since then. And with that, the modern-day PCAAO is here.
+
+[[/div]]
+
+  [[/tab]]
+  [[tab Writing Guide]]
+
+[[div style="background-color: var(--secondary-background); color: #C0C0C0; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+++ About PCAAO
+
+In the simplest terms, PCAAO is representative of the “underdog nation that got back up to its feet and comes back with vengeance”. Their defining aspect is that they are molded by the circumstances they were given.
+
+The core objective of the Committee since its inception is always to “acquire” anomalies, to document what they used to have and what they will have, and research them as the world grows ever [[[the-anomaly-boom|weirder]]]. Over time their tenets may have been altered or added to (especially when they transitioned into a full-fledged Agency) but that original principal remains within them. 
+
+The relation between Authority and PCAAO can be considered an uneasy alliance. While it has been improving it can not be guaranteed if it would last forever; As discussed, PCAAO still lacks behind the organization that is 8 times its age, yet at the same time, they are growing. 
+
+Elements of the PLASD that they have incorporated did not fade and have been growing which manifested into factions within the Committee that often have different and opposing agendas, such as views towards the Authority that forms into the so-called “Authority-Friendly” and “Anti-Authority” Factions. There exists no definitive “strong-man” that unites the Committee and the adverse effect is the resultant “contradictions” in their interactions, perhaps most accentuated in [[[Fleeting Friendships]]].
+
+Externally, the Committee is still a cohesive force that presents itself as calm and calculated. Within their ranks however, members may struggle for power to eventually push the organization in their image. And so the top-ranks[[footnote]] With the Minister and the Inner Committee at their respective highest level. [[/footnote]] of the Committee must try to strike a balance between its scientific side and its militaristic sides — the Yin and Yang so to speak.
+
+----
+
+++ Themes of PCAAO
+
+Of any given geographies there comes with it the people’s culture and history, which shape the nations themselves. It can be said that those aspects manifest themselves into the (writing of) anomalies to any degree. And so, PCAAO could be considered the manifestation of the Chinese cultures/legacy taken to their extremes. That said, here are some ideas to consider.
+
+The initial beginning civilization that started around the Yellow River sets the current day nation up to be a collectivist one, where the “collective outweighs the individual”. Even when compared to its peer Agencies, the Committee is shown to be more greatly integrated into society itself through its governmental connection. This meant that PCAAO has a comparatively greater pool to draw resources from and also do so effectively.
+
+A significant culture of China is that of perseverance and willpower, the idea that “the foolish old man can remove an entire mountain”. This feeds into the notion of “Man vs Nature”, and arguably the terrifying aspect lies not in the insanity of such ideals but that China has both the ambitions and collective willpower to achieve these feats. Where [https://en.wikipedia.org/wiki/Emu_War nations falters in face of Nature], the Chinese people is capable of  [https://en.wikipedia.org/wiki/Three_Gorges_Dam damming up the greatest rivers] or bring end to [https://en.wikipedia.org/wiki/Four_Pests_campaign#Sparrows entire species]. The sheer might of overcoming Nature, when applied correctly, could bring prosperity to the people, but it also carries unforeseen consequences if not given careful consideration. 
+
+Combined with their industrial might, the Committee is capable of handling the most titanic of anomalies and fight them with elaborate containment facilities, plunging them into mazes of concrete nightmares, altogether this would put them on par with the Authority in terms of physical Containment. PCAAO can put up a good fight under their own conditions. Conversely, a weakness to note is that this same approach to the anomalous is also why when putting them through “different sets of rule”, such as those who bends reality, can throw them off quite dramatically. 
+
+Further alluded to is the significance of the mythologies. Though officially an atheistic state, traditional beliefs of the fantastic still flourish in local communities where government control laxes. In relation to the RPC Canon, the role that the Yellow River and Yangtze River played in the early civilization undeniably adds a Nihilic undertone to the Chinese Nation.[[footnote]] Which probably applies to all 4 of the River Valley Civilizations in fact. [[/footnote]] The Dynastic Cycle -- recontextualized as the Empty Monarch’s influence under this logic -- would have been one of their earliest[[footnote]] If not the first altogether. [[/footnote]] research projects and PCAAO very much intends on alleviating the country from the //Law of the Crown// that dictates the destined rise and fall of all states. The Committee fighting against the entities of their own mythology is not considered unfeasible:[[footnote]] Again, Man vs Nature, or even Reality itself. [[/footnote]] domestication is a thing and it is at least depicted in [[[RPC-361]]] that they go after creatures such as [[span style="color: #ccc; background-color: #ccc;"]] Nian [[/span]] with perfected methods. How much farther does that go? That’s up to you as an author to decide.
+
+
+----
+
+++ Writing PCAAO
+
+The first and foremost thing to remember about the Committee is that they are neither inherently evil nor good.[[footnote]] Well of course it’s a matter of perspectives and subject to debates but that’s best left to a different day! [[/footnote]] It is true that they are under the CCP’s command to carry out their agendas[[footnote]] Be it good or bad. [[/footnote]] but they are still a Containment Agency at the end of the day -- And no one would want another repeat of Special Directorate in this day and age. 
+
+That being said, there are many ways to look at PCAAO: For one, you could argue that they may be the fully realized version of the RPC Authority -- A clandestine organization entrusted by its host nations, the ability to operate beyond the law, high levels of integration within the government, human test subjects, state-of-the-art surveillance technology, etc.
+
+Another way to look at the Committee’s methods is that of “substituting Containment with Research and Protection”; All Divisions have their own research and security teams, theoretically they //could// still function without any particular of the Division, but in the end, it just wouldn’t be the as comprehensive and effective as the actual Divisions themselves.
+
+And of course, there’s the ill-advised route of “Generic Chinese Bad Guys” or “Authority but China” kinds of interpretation. Not to entirely discredit it, PCAAO was originally set up to serve a semi antagonistic role to the Authority by CFO as an analog to Division “P”.
+
+In the end, PCAAO is calculated and takes a pragmatic approach to research and containment, their attitude invoking the phrase  “Cold but not Cruel”. In practice however, most personnel would not be able to maintain absolute objectiveness and falls into the 2 ends of “Indifference” and “sympathetic”. There are rooms for caretakers that value the lives of anomalies and there are also those who wouldn’t hesitate to sign the termination order on any perceived threat. They are also opportunistic, for PCAAO, the mindset should always be “How can we make the best out of the given situation”, so let’s say there is a rampaging monster that just beat out the local AGs. Well, how about we send it hurling at one of them pesky Authority Sites? [[[budget-cuts|The Americans just budget-cucked the GDs]]]? Better make some trade deals with them to facilitate our fledgling partnership!
+
+Keep in mind though that PCAAO is not infallible either. Over their lifetime they've gathered a large pile of skeletons in their closet. The people within can be corrupted. Tofu-dreg projects[[footnote]] Chinese term for poor constructions. [[/footnote]] can happen under local mismanagement, or the containment plans themselves could be flawed. And when mishaps occur, there are those that hides from responsibility and starts playing the “blame-game”. Once again, the leadership of PCAAO absolutely needs to prevent the bad from outweighing the good to keep everything afloat while not end up a liability themselves.
+
+When it comes to Authority-Committee interaction, it can either go pretty nice or really bad. MSTs and ASFs can put up a good fight against the Mobile Formation and the AGs but the Committee holds the number[[footnote]] There may be only one Mobile Formation but one alone can outnumber even the largest MSTs like Romeo-7 (4000 to 400 in total). [[/footnote]] and territory advantage -- the longer it drags out the better it is for the Committee to reinforce their forces. But the Authority’s strength lies in that they are the number one when it comes to esoteric research and anomaly containment, PCAAO lacks the resource[[footnote]] [[[RPC-438]]] for instance exists as the only variant of Memotic Dumps with the right properties to manufacture amnestics. [[/footnote]] or people to bring them to the very top, so they would still have to rely on their cooperation with the Authority often to attain such technologies.
+
+----
+
+Ultimately, China is a very big country of diverse people with different underlying beliefs. This is just a fractional perspective on how to take/approach PCAAO and it absolutely does not cover all that could be done for the AoI. In the end, it is always up to you how you wish to depict PCAAO.[[footnote]] Under the confines of the canon that is! [[/footnote]]
+
+[[/div]]
+  [[/tab]]
+  [[tab Additional Resources]]
+The previous "Capabilities" tab should provide a comprehensive overview of PCAAO's strengths and weaknesses.
+
+Elaboration in the "Document Templates" tab should give a better look at how to write a PCAAO document, if you are still confused about the style of writing, this [http://rpcsandbox.wikidot.com/ttpy-pcaao link] will bring you to an unfinished PCAAO draft and it should offer guidance.
+
+An additional [http://rpcsandbox.wikidot.com/pcaao-timeline link] will bring you to a compiled list of events that have occurred in China within the current Canon. Do note that some of them contain vapor lore that has yet to make it to the site, Do Not Take all of the information provided as canon, it is only meant to be a guideline, vapor lore should not be prioritized over canonical lore.
+  [[/tab]]
+[[/tabview]]
+
+----
+
+[[=]]
+[[collapsible show="[+] Footnote" hide="[-] Footnote"]]
+[[<]]
+[[div class="content-box" style="margin-top: 50px;"]]
+[[footnoteblock]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[!-- list of pages
+http://rpcauthority.wikidot.com/fragment:pcaao-hub-0
+http://rpcauthority.wikidot.com/fragment:pcaao-hub-1
+--]
+

@@ -1,0 +1,768 @@
+---
+title: "RPC-001-2-2"
+tags: []
+page_id: "1307187588"
+site: "rpcauthority"
+slug: "fragment:rpc-001-2-2"
+revision: 19
+revision_id: "1516588868"
+author: 5181020
+timestamp: 1702189057
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+
+:root {
+--research-header-bg: url(http://rpcauthority.wikidot.com/local--files/component:research-theme/ResearchHeader1.png);
+}
+
+sup {
+
+vertical-align: top; position: relative; top: -0.5em;
+}
+
+.smaller-g hr{
+width: 85%;
+margin: auto;
+background-color: #454242;
+border: none;
+height: 1px;
+}
+ 
+.adden{
+font-size: 1.3em;
+}
+[[/module]]
+[[tabview]]
+[[tab Gödel's Proposal]]
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-white.png]]
+
+**Registered Phenomena Code:** 001
+
+**Item Type:** Other
+
+**Hazard Types:** N/A
+
+**Lethality Rating:** White
+
+**Abstract:** A research initiative endorsed by The Department of Anti-Memetics into the field's theoretical equivalent of a black hole, or, the event horizon of our perception threshold.
+
+**Safe Handling and Usage:** N/A
+@@@@
+@@@@
+@@@@
+[[div class="smaller-g"]]
+-----
+[[/div]]
+= [[span class="adden"]]DESCRIPTION[[/span]]
+[[div class="smaller-g"]]
+-----
+[[/div]]
+@@@@
+RPC-001 is the designation given to the antimeme whose only available data is its existence.
+@@@@
+@@@@
+By definition, no further description of RPC-001 is possible.
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="smaller-g"]]
+-----
+[[/div]]
+= [[span class="adden"]]HISTORY[[/span]]
+[[div class="smaller-g"]]
+-----
+[[/div]]
+@@@@
+A total antimeme has long been a hypothetical curiosity of researchers.[[footnote]] Kalper, et al. //If A Total Antimeme Exists, How the Hell Would We Know? A Compendium of Modern Day Theoretical Antimemetics.// Journal of Antimemeticry. Authority Press. 1948.[[/footnote]] In previous decades, a total antimeme was an intellectual and academic novelty that was merely assumed impossible by virtue of it being conceivable. This represented the limit of the subject for several years.
+@@@@
+@@@@
+@@@@
+[[include component:image-block name=class1|caption=Hans Kalper's 8[[size 75%]]^^th^^[[/size]] memeticry cohort, 1949. Donald Schoenberg sits at the far right; Kalper stands at the center.|width=95%|align=center |enlarge=false]]
+@@@@
+The frontier for RPC-001's legitimate study was reinvigorated by the German-Austrian mathematician Dr. Kurt Gödel PhD[[footnote]]
+[[html]]
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+    position: relative;
+    width: 95%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 60%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  padding: 16px 32px;
+}
+</style>
+</head>
+<body>
+<font size="1" face="verdana">
+Kurt Godel, 1973.
+</font>
+<div class="container">
+  <img src="http://rpcsandbox.wdfiles.com/local--files/crepe-cake-iii/Godel" alt="_" class="image" style="width:90%">
+  <div class="middle">
+    <div class="text">Kurt Godel, 1973.</div>
+  </div>
+</div>
+  
+</body>
+[[/html]]
+[[/footnote]] in 1974 in a series of lectures given at Site-074 during the annual Research World's Fair; just three years after the doctor's recruitment into the Authority. These lectures, to follow, were the result of his and his team's pioneering study of the intersection between the fields of mathematics, modal logic, and antimemetics. The subspecialty of near-total antimemeticry was founded from the flurry of interest and research that resulted.
+
+The findings of this research propelled numerous initiatives within the Authority, including the dedication of new facilities to additional avenues of application, and even rumored discussions of a new branch within the Research Division. However, these plans were abruptly ceased for as-of-yet unclear, or undisclosed reasons.
+
+Despite this logistical impediment, the study of near-antimemeticry continued unabated due to its purely theoretical nature, and continues to this day in isolated pockets of anomalous academia.
+
+The following have been established as primary laws of total and near-total antimemetics:
+# //The idea of a total antimeme is inherently self-contradictory.//
+# //The most fundamental quality of anything is its existence.//
+# //The near-total, "Omega-class" antimeme is the fundamental unit of memetics.//
+# //There is only one Omega-class antimeme.//
+# //The Omega-class antimeme is designated RPC-001.//
+@@@@
+@@@@
+[[div class="smaller-g"]]
+-----
+[[/div]]
+= [[span class="adden"]]SELECTED DOCUMENTATION[[/span]]
+[[div class="smaller-g"]]
+-----
+[[/div]]
+[[size 95%]]**Lecture: Session 1**[[/size]][[collapsible show="⤙Open⤚" hide="⤙Minimize Transcript⤚"]]
+[[div style="color:#5295e1; border-radius:2px; display: inline-block; border:1px solid #2f3030; background:#1d2022; background-opacity:0.1; float:center; width:84%; padding: 1px 10px; margin: 10px 10px 10px 40px; shadow: 1px 1px 1px 1px #191919;"]]
+[[=]]
+[[size 110%]]
+> ++++++ Dr. Kurt Gödel PhD
+> @@@@
+> @@@@
+> ++++++ //"'ALPHA/OMEGA Class' Antimemes: Why the Proposed Fundamental Particle of the Anomalous Can Never be Realized Scientifically, or Why Science Will Never Be Complete"//[[/size]]
+>
+> [[size 85%]]**- {{03/08/1974}} -**[[/size]]
+>
+> [[size 110%]]Research World's Fair: Division Keynote Speaker[[/size]]
+>
+> >>[[size 125%]]Session 1[[/size]]<<
+-----
+[[/=]]
+
+= [[size 110%]]##grey|{{__<BEGIN LOG>__}}##[[/size]]
+
+I want to thank you all for being here. We have a good number of far-reaching attendees. I hope you all had a nice stop in the village of Isenthal on your way into the conference yesterday. A few of you hit each pub in the place with us locals last night. Good smoked salmon, and //great// beer. We've been researching here for several years now and love it, my team and I. I just want a second to recognize and thank them for their invaluable work. Pierre Davidson,[[footnote]]
+[[html]]
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+    position: relative;
+    width: 95%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 60%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  padding: 16px 32px;
+}
+</style>
+</head>
+<body>
+<font size="1" face="verdana">
+Davidson, 1968.
+</font>
+<div class="container">
+  <img src="http://rpcsandbox.wdfiles.com/local--files/crepe-cake-iii/Davidson" alt="_" class="image" style="width:90%">
+  <div class="middle">
+    <div class="text">Davidson, 1968.</div>
+  </div>
+</div>
+  
+</body>
+[[/html]]
+[[/footnote]] Donald Schönberg,[[footnote]]
+[[html]]
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+    position: relative;
+    width: 95%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 60%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  padding: 16px 32px;
+}
+</style>
+</head>
+<body>
+<font size="1" face="verdana">
+Donald Schoenberg, 1973.
+</font>
+<div class="container">
+  <img src="http://rpcsandbox.wdfiles.com/local--files/crepe-cake-iii/Schoenberg" alt="_" class="image" style="width:90%">
+  <div class="middle">
+    <div class="text">Schoenberg, 1973.</div>
+  </div>
+</div>
+  
+</body>
+[[/html]]
+[[/footnote]] even you Adam Mason.[[footnote]]
+[[html]]
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+    position: relative;
+    width: 95%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 60%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  padding: 16px 32px;
+}
+</style>
+</head>
+<body>
+<font size="1" face="verdana">
+Mason, 1970.
+</font>
+<div class="container">
+  <img src="http://rpcsandbox.wdfiles.com/local--files/crepe-cake-iii/Mason1" alt="_" class="image" style="width:90%">
+  <div class="middle">
+    <div class="text">Adam Mason, 1970.</div>
+  </div>
+</div>
+  
+</body>
+[[/html]]
+[[/footnote]] Yes. I was the bull in your china shop, and somehow you guided me through it with no broken dishes. You all are the look to my leap. Thank you for being so kind to my absent-mindedness all this time.
+
+We have I believe a very good couple of days in front of us. I want to recognize the Site's hospitality. They've given us this wide venue to hash out our ideas and eat all the food we'd like. Wisely, they excluded the open bar this time. It is 9AM after all. We'd be way behind schedule by now. //(Laughter)// We'd really have to play catch up, wouldn't we? //(Laughter continues)// But we thank them for it all, really.
+
+As a note of interest, before we get into things. This room once was five rooms. Each a containment cell for anomalies, including the now infamous "polite bomb".[[footnote]]RPC,,[[$N$]],,-392; a 6655 Joule bomb, the mortar of which anomalously warned those nearby as the shell was loaded into the chamber to please cover their ears, shield their eyes, and seek a safe refuge.[[/footnote]]^^,^^[[footnote]]Air quotes are represented in the transcript.[[/footnote]] But of course ever since it was detonated... quite rudely in fact... those containment cells have been available to rent out. And so here we are in an Ex-Containment Wing while they come up with new ideas for the space. I thought that was a nice place to start on.
+
+So we're here really to present findings and have conversation //(pause)// on something we have been very excited working towards, here in antimemetics research. I don't have to tell you all the details. You are here because you in part have a professional interest. Or, you are just that sad. Of a person. Go ahead, have a drink.
+
+This is good news! We don't have to review. Or do basic terminology. We all know what a meme is. And more importantly for this, what an antimeme is. The memes spread info, and the antimemes conceal it. We can develop antimemes for strategic and tactical purposes to combat dangerous memes. But antimemes can be just as dangerous, and sometimes we have to engineer memes to counteract them. Antimemes are a very real part of reality without our hands in it. Just as memes. And some things, some materials, are better antimemes than others. Some have much stronger degrees of antimemeticry.
+
+If for some reason, someone is here who is unfamiliar with an antimeme, just come to talk to me after this lecture. I've collapsed it all down for you and will share it with you there and catch you up to speed. These lectures should be available in text format after this for your review too.
+
+But let's get on with it now. You've all seen the great deal of curdled milk from //The Lettermen's Letterhead//.[[footnote]]Quarterly publication from The Bureau Of Acquisitions, compiling news and the latest research topics.[[/footnote]] There was a time when such developments, these major breaks we've seen, would happen every few years. Maybe. And then, a couple of years ago, it was several times a year. Now antimemeticry is the hip specialty to be in! The bombs are dropping nearly every week. Sometimes several per week. I hope this week is one. There is a quickening happening, it would seem. We are the apple of every Authority researcher's eye. We have the prettiest girl with the ball!
+
+//(Indistinct chatter)//
+
+What? Oh, "at"? "//At// the ball." Not "with the ball"? OK. Sorry //(snorts, chuckles)//. English is my second language. Somehow, saying it that way makes //less// sense to me though! //English.//
+
+Anyway. The fact is //(pause)// that we are in the most accelerant time in the history of antimemetics. The field is truly blossoming before our eyes. Future generations will wish they had the vast amount of material we have to work with. Truly an academic and scientific gold rush.
+
+Okay. So what have all of these murmurings been about?
+
+All of this really started with thinking about a theoretical object. Very similar to how black holes were first conceived. And that is an analogy that will be central throughout these discussions. We will come back to the image of a black hole again and again. Because a black hole was sort of proposed on a theoretical basis, it found some traction in formal systems, like math, that actually pointed towards it. And before long, what do you know, look there's a black hole! That we discovered conceptually first. Maybe one of the first instances of that in our species' history. Very good job for something so different from the rest of nature, as we understood it then.
+
+So we started thinking along the same lines //(pause)// of a conceptual object that -- very much like a black hole -- captures all of its own information. We started wondering if there was an equivalent of that in the field of memetics, or more specifically, antimemetics. The //strongest// possible antimeme. Take an antimeme that takes away one idea or quality from something. Now make that antimeme stronger and more complete by subtracting another quality it takes away. Then another. Then another. Then keep taking away qualities from the antimeme that you could possibly know about it, more and more, until you cannot possibly know //anything// about it.
+
+Antimemetics is really the study of contextual  camouflage; of informational parsimony, of something's conceptual resistance. We see an object and there are qualities of it that are kept from us by something. Something that we can sort of make like gravity and how it behaves in a black hole. It's a metaphor.
+
+So here is the set-up:
+
+Is there an object, an antimeme, with an informational pull so strong that //none of its own information escapes?//
+
+Similar you see, to a black hole where the gravitational pull is so strong that it captures its own light. Nothing can escape.
+
+This was sort of how things got started. But there was something we were sort of concerned about. It proved itself to be a good concern. Once we sat down and did the math and wrote it out in formulas -- very difficult work -- there was that concern again! A wrinkle. There's something very fundamentally different between this conceptual object in the antimemetic world, and a black hole. And very simply, the difference between the two is that it doesn't matter how strong the black hole's gravity is. It doesn't matter how much information it pulls in. //It will never be able to pull back in the information that it is a black hole.//
+
+It can't eat itself. It eats everything else. Whereas, in the antimemetic world, that's no longer a limitation. So, the concerning difference to us was that the antimeme //would// be able to eat its own information in total. Unlike the black hole, where you still have the ability to know what it is, that isn't true for this! The information it eats is total, including its own self, its own information. It is kept in every way possible from our conception. This is the strongest antimeme. "A total antimeme."
+
+So this proved to be a hell of a curiosity. And like the hell it is, it made its way around, like an insult to us here in The Department of Anti-Memetics, in conversations at the hip parties of the Authority intellectuals. You know, those fancy parties where high-society men try to beat each other over the head with an "I'm-smarter-than-you" stick because they believe the women there are interested in their egos, and not their reputation or money. It's the money! They are ugly! //(Laughter)//
+
+This was on top of the fact that antimemeticists barely got invited to these parties anyway. Antimemetics has been the sort of odd ball out in the whole organization for a long time. We are sort of timid to come out of our shells to share any discovery or ask for any funding, because we are sure that we aren't the flashiest sort of team with not nearly the most bombastic of anomalies.
+
+Well, not to jump ahead, but I think... I //hope// that we have something now for the greater Authority that we can really plant our flag into... something the greater Authority would do well to pay attention to and keep the funding up for. To invest in so as to get substantial returns. Finally, with this, I think we can be taken seriously! From the outskirts of tolerance, fast-tracked to a place of reverence and prestige! But I get ahead of myself... //(clears throat, coughs)//. Can I have some water please? //(Pause)// Thank you. //(Sips)//
+
+In fact, this curiosity was really the only reason we were invited to those parties, I think. It was essentially a kind of mind magic trick. A trick of phrases, for kicks. And The Anti-Memetic Department was further made a sort of monkey that banged its cymbals together when asked to, because that's really what they are good for!
+
+You all know the magic trick? I don't have to go into that right? You've all heard it? Hundreds times? //(Crowd talks over itself)// Some of you don't know it?! Oh man, I feel old.
+
+Hell OK, I may as well do the magic trick real quick. The entertaining part about it was that it turns out that it is //impossible// to conceive of a total antimeme, because by the time you've thought of it -- by the time you've had the idea of a total antimeme that eats all of its own information -- you've already betrayed the possibility that it has eaten all of its own information. See? Ha ha. Funny! Yes! Very.
+
+To elaborate, if it were true that it eats all of its own information, then you wouldn't have anything to recognize it by. The fact that you can talk about it and discuss it guarantees that the object you are hoping to see in your mind is not what you've got! A total antimeme, truly, would be indistinguishable from nothingness, from non-existence, and so the sentence wouldn't even make sense. Okay? No sense. It would be like the sentence is drunk. //(Laughs, crowd laughs)// Like last night, remember that Adam?[[footnote]]Adam Mason, team member.[[/footnote]] Ha ha! You are the intern, aren't you! You will keep up with our drinking yet, just give it time. //(Laughs to self along with other members of his research team.)// Yes. So.
+
+By the time you use the word "it" in your sentence about a total antimeme, you've already failed! OK? So it is a logical impossibility for a human to think of a total antimeme. Got it? Ha ha, yes.
+
+There's the magic trick. Probably got a few gentlemen a good night. I //(pause)// will probably get it from you guys for this, but I admit that I //did// use it at a party before. The woman was very pretty! Don't blame me. No, no, that night didn't end as I had hoped. //(Laughter)// But that was okay because that woman was my wife! So, that is most nights. //(Laughter)//
+
+But in any case, //(pause)// for a long time that was the sort of limit to the curiosity, to the discussion. Because it seemed like a dead end that couldn't go anywhere. How could it? The subject matter is essentially nothing, literally! Well it turns out... this is no magic trick. No mere philosophical sleight of hand.
+
+[[>]]
+[[include component:image-block name=maths |caption=Part of RPC-001's derivation.|enlarge=true]]
+[[/>]]
+
+Once again, a small number of us got down to the math. And that math turned out to be very interesting. It showed us something that we really hadn't expected. You can do a lot with nothing. It turns out the impossible makes a lot of possibilities.
+
+So here, we were, mad. Laughed at. More ridiculed. And we wanted to kill the joke. Forever. I'm not going to lie, that was a big part of the motive for us. Seems petty, but good things can happen from being petty here and there. And so that happened! Finally! It became clear in the next steps that we could kill it. We asked:
+> "OK so apparently, it is impossible to talk about a total antimeme. So what is it that we are talking about then? If it is impossible to talk about it, then what are we picturing or referring to when we talk about 'a total antimeme'? Why does that sentence work and make sense? Why //isn't// the sentence drunk?"
+
+Because, honestly, unless you're under some half-boozed spell in a Site fundraising gala with the smell of cheap alcohol being poorly filtered through your colleague's unkempt and crumb-sprinkled mustache... it's perfectly obvious that those sentences make good sense! No one has any trouble understanding what a total antimeme //might// be. It is very intuitive. It's why the magic trick works, actually! It works in our language, it conveys meaning. If that wasn't so, then when we got to that part of the sentence, it would might as well just end. Or be a garble of informational bits that don't compute. Or maybe it would be the "DATA REDACTED" that we love so very much here. It would be a blind spot in our mind.
+
+But it isn't. You see? The phrase actually points //something// out. So what is it that we are referring to successfully when we use the phrase "a total antimeme"? //That// became the real conceptual puzzle for us.
+
+And that's where we'll end this first lecture, we'll take a break to relieve ourselves, stretch our legs, and get a bite or a refreshment. As I said before, there is a lot of food and drink back there. Let's be here and be back in our seats in 30 minutes.
+
+Thank you.
+
+= [[size 110%]]##grey|{{__<END LOG>__}}##[[/size]]
+[[/div]]
+[[/collapsible]]
+[[size 95%]]**Lecture: Session 2**[[/size]][[collapsible show="⤙Open⤚" hide="⤙Minimize Transcript⤚"]]
+[[div style="color:#5295e1; border-radius:2px; display: inline-block; border:1px solid #2f3030; background:#1d2022; background-opacity:0.1; float:center; width:84%; padding: 1px 10px; margin: 10px 10px 10px 40px; shadow: 1px 1px 1px 1px #191919;"]]
+[[=]]
+[[size 110%]]
+> ++++++ Dr. Kurt Gödel PhD
+> @@@@
+> @@@@
+> ++++++ //"'ALPHA/OMEGA Class' Antimemes: Why the Proposed Fundamental Particle of the Anomalous Can Never be Realized Scientifically, or Why Science Will Never Be Complete"//[[/size]]
+>
+> [[size 85%]]**- {{03/08/1974}} -**[[/size]]
+>
+> [[size 110%]]Research World's Fair: Division Keynote Speaker[[/size]]
+>
+> >>[[size 125%]]Session 2[[/size]]<<
+-----
+
+[[size 110%]]##grey|{{__<BEGIN LOG>__}}##[[/size]]
+[[/=]]
+
+Alright, welcome back. Let's get right to it.
+
+So, something is being discussed. What is it? How are the analytics of this language working? Because it //is// working. This much we can tell. Otherwise, you wouldn't have a magic trick to kill.
+
+We realized that the informational gravity, the informational capture -- 'the antimemetic density', we said -- that exists in this concept of "a total antimeme" would necessarily be so powerful, that any attempted meaning attributed to it would just bounce off, so to speak.
+
+Now that doesn't sound like a black hole. But we can keep the analogy going here just fine. If you think about rays of light behind a black hole, they are bent around it, and you can see what is far behind the black hole -- galaxies and stars. Even though the black hole itself is huge and directly in the line of sight between you and that galaxy. You wouldn't be able to see it were it not for the twisted gravity. So you see what is behind it, only out to the sides of it instead.
+
+[[>]]
+[[include component:image-block name=blackhole1|caption=The portions of a black hole's accretion disc that are behind the black hole, here appear to be curved on top of it, as well as below it. This is due to the strong distortion of spacetime by gravity.|enlarge=true]]
+[[/>]]
+
+
+A similar distortion happens when you attempt to throw meaning at a total antimeme. When we say "a total antimeme",  the attempt at meaning is bent, it is warped, deflected, rerouted, and it lands somewhere else. Somewhere where there //is// something. Someplace with meaning. Somewhere close by in conceptual space. OK?
+
+
+But where is that? It ends up at the nearest possible concept. The one that is the closest thing to the impossible one. //It's the closest possible coordinates away from impossibility.//
+
+That "where" is termed "a near-total antimeme". It represents the closest possible coordinates away from meaninglessness and non-existence.
+
+Alright, so that's where it is, but //what// is it? A near-total antimeme is an antimeme whose informational conservatism is so high, that nothing about it can escape and be known, //except for the fact that it can be known//.
+
+//(Chuckles)// I think I lost some of you there. Here let me try again: //(Clears throat)//
+
+Stay with the analogy; just like a black hole. The black hole warps spacetime itself. The total antimeme is doing that upon the fabric of our minds. In more technical terms here, the total antimeme is the black hole equivalent in the noosphere.[[footnote]]The set of all conceivable things.[[/footnote]]
+
+That makes the near-total antimeme the event horizon of our perceptual threshold. The last meaningful part of conceivably before a cliff. Past it? Inescapable nothingness.
+
+Just as the event horizon is the closest definition possible from the actual black hole -- the point of no return and where you'd see someone stuck forever if you watched them fall in -- so is the near-total antimeme the closest thing to the total antimeme.
+
+A benefit of this theory is that it no longer has to grapple with the seeming contradictory existence of nothingness as a thing. It's not nothingness. It //is// a thing after all, namely a near-total antimeme.
+
+So suddenly, the logic is no longer a problem anymore. There is no longer an impossibility, no longer a parlor trick. That is the way out. We're not literally talking about the total antimeme anymore, but we never really were, right? Because you've allowed the one thing to make it possible, which is that it exists, you have something solid! That gets us out of the damn cage! And that fucking joke is now //dead//!
+
+//(Cheering)//
+
+Alright but let's not stop there. It turns out that it gets us way more places than just out of the parlor.
+
+We've established that the near-total antimeme is the closest possible thing to the total antimeme. That means the difference between the near-total antimeme and the total antimeme is the difference between existence and non-existence. It is the smallest distance you could possibly measure with regard to comprehensibility and existence. So, it is the fundamental unit of memetics.
+
+So look at that, there we go, we now have a mathematical expression for the fundamental unit of memetics, in units of conceivability. It's the closest possible point on an asymptotic line that is curving closer and closer towards the brink of nothingness. So, many of you familiar with calculus will see that the mathematical definition of this fundamental unit uses a limit. We won't go into the math, that's too boring, even for us. But we can capture that infinity in math... to speak in Authority, the calculus provides a sort of mathematical containment protocol for infinities.
+
+So the near-total antimeme is our fundamental unit of memetics. Again, simply by existing, and that's all. It's like any other fundamental particle or unit. Everything really comes down to a tremendous summation of this very very inconceivably small unit, below which there is nothingness. Below that, nothing makes sense. This is the first thing that makes sense.
+
+OK?
+
+= [[size 110%]]##grey|{{__<END LOG>__}}##[[/size]][[footnote]]Room dismissed for a 30 minute break.[[/footnote]]
+[[/div]]
+[[/collapsible]]
+[[size 95%]]**Lecture: Session 3**[[/size]][[collapsible show="⤙Open⤚" hide="⤙Minimize Transcript⤚"]]
+[[div style="color:#5295e1; border-radius:2px; display: inline-block; border:1px solid #2f3030; background:#1d2022; background-opacity:0.1; float:center; width:84%; padding: 1px 10px; margin: 10px 10px 10px 40px; shadow: 1px 1px 1px 1px #191919;"]]
+[[=]]
+[[size 110%]]
+> ++++++ Dr. Kurt Gödel PhD
+> @@@@
+> @@@@
+> ++++++ //"'ALPHA/OMEGA Class' Antimemes: Why the Proposed Fundamental Particle of the Anomalous Can Never be Realized Scientifically, or Why Science Will Never Be Complete"//[[/size]]
+>
+> [[size 85%]]**- {{03/08/1974}} -**[[/size]]
+>
+> [[size 110%]]Research World's Fair: Division Keynote Speaker[[/size]]
+>
+> >>[[size 125%]]Session 3[[/size]]<<
+-----
+
+[[size 110%]]##grey|{{__<BEGIN LOG>__}}##[[/size]]
+[[/=]]
+
+Alright welcome back. So where we left off: an object that is the next-closest thing to absolute nothingness. And because of that, the next-closest thing would have only one quality. For something to be conceivable, it has to have at least one quality. Right? If there is no quality, you have a total antimeme, and no comprehensibility -- nothingness. Any qualities it would have it has devoured and obliterated its signature of being something. So, you have one. Don't ask me the math behind that one.
+
+So we'll start by asking the odd question: If something exists that only has one quality, what would that one quality be?
+
+To make a long story short, that one quality //has// to be existence. It's already in the question! Any quality that something could possibly have is predicated on existing first. So let me give you an example so this makes sense:
+
+Let's go back to the initial question. If there is something that has only one quality, what is that one quality? Let's say, just to start somewhere, we answer "It is red". OK. So in order for that to work, clearly "red" has to exist. Right? Right.
+
+Existing is already baked into, prepackaged and bundled into the idea of "red". So you don't have just one quality if you pick "red". You have two qualities. Not only that, but it automatically invites several more qualities! Because if you are red, then you are a certain nanometer wavelength of visible light, which means you are subject to blue-shifts and red-shifts and etc etc. This is the case with //almost any selected quality//. The isolate becomes almost immediately contaminated with other, fundamental qualities.
+
+OK so red doesn't work. Let's say we got a little smarter and said that the only quality our something has is that it exists physically. But now, it has to have units of measure -- a spatial component. Which means we are right back at "red".
+
+What about a quark or a string?[[footnote]]Reference to the budding theoretical physics field of string theory.[[/footnote]] Can't measure something that small. It is dimensionless. Zero size. But it still exists, no? It has plenty of other qualities actually. Up quark, down quark. The string vibrates. Etc, etc. It turns out that you can never have something physical that is limited to just one quality. But conceptually -- mathematically -- you can.
+
+Let's try a different way of explaining this, using another example. This will show why something's physical existence cannot be the sole quality.
+
+Let's say that for some odd reason, we'd like to wonder whether or not unicorns exist. I can almost hear your murmurs; "I paid good money to be in this lecture. This is supposed to be a big deal."
+
+//(Gesturing offstage)// Lock the auditorium doors.
+
+//(Chuckling)// Don't worry I'm kidding.
+
+They've //been// locked. //(Awkward chuckling)//
+
+No really I am kidding.
+
+But I'm not kidding about the unicorns! Listen. When would we conclude that unicorns exist? No, not after enough drinks. Pay attention! I'm serious!
+ 
+We might formulate a list of qualities that would have to be satisfied. For example; it must have four legs, resemble a horse but have a long protuberance from its forehead, have a physical form and leave falsifiable evidence of its actions. It would need to have some approachable or retrievable information. The more of these possible qualities that are satisfied, checked off like boxes, the more possible the proposition that unicorns exist, and the closer we — grown-ass, sober adults for God's sake! — are to believing in them.
+
+Now consider the same scenario, but instead of unicorns, it is a much, much simpler object, with dramatically fewer qualities. Let's take a triangle. We'd want to see three sides, and three angles. I want you to notice something when we simplify the object from something as complicated as a unicorn to something as simple as a triangle. The simplicity guarantees some features and qualities that can't be doubted. For example, all of the angles within a triangle will add up to 180 degrees. It can't be otherwise. If it were, then we wouldn't be looking at a triangle. We're talking a Euclidean triangle here.[[footnote]]Euclidean geometry, named after the Greek mathematician Euclid, deals with predictable, and common flat surfaces. Non-Euclidean geometry deals with curved and irregular, non-uniform surfaces. The fundamentals of geometry are changed depending on the two assumed surfaces.[[/footnote]]
+
+[[>]]
+[[include component:image-block name=triangle|caption=An equilateral triangle necessarily has equal side lengths //and// equal angles. If one side length is changed, the angles change, and visa versa. This is "conceptual entanglement".|enlarge=true]]
+[[/>]]
+
+It doesn't matter what the triangle looks like, what the lengths of the sides are. There are mathematical certainties about it. So, we can see then that as we simplify objects, these abstract qualities become more inseparable, or more "entangled". You can't really have one without the other. One really means the other, actually; to have a triangle with three equal-length sides //is// to have each angle equal to 60 degrees. And vice versa, to have a triangle with angles each at 60 degrees guarantees that the side lengths will be equal. Each statement — one about the equal side lengths, one about the equal angles — are complete descriptions of an equilateral triangle in their own right; they really aren't different from one another at all. You'll get the same starting with either.
+
+OK?
+
+This is important: The simpler something gets, the more inseparable its qualities are, and the less that's required to prove its existence. Said from another angle, //it is easier to obtain certainty regarding something's existence as the number of its possible qualities decreases.// Much easier to be certain of a triangle than of a unicorn. A model of a universe is going to produce a triangle well before it produces a unicorn too!
+
+Now let's say we do the same again, and dial down the simplicity even more. What is the simplest, most qualitatively entangled thing you can get? Again to our original question for this session; what's the minimum number of qualities a thing can have? Take the simplest thing you can think of, and theoretically make it have one less quality, again and again and again. What would be the last thing you will be able to take away?
+
+It's not its physical existence, because unicorns don't physically exist and yet we can talk about their unique qualities with high specificity. Despite unicorns not physically existing, I can show you a picture of a horse and you could tell me "no, that it isn't a unicorn". Just like the quark or the strings. That they don't have mass or size doesn't mean they don't exist. Clearly, physical existence is far from the last thing we can take away. So the answer isn't quite "its physical existence".
+
+It doesn't seem like there is anything that passes this test! It seems like there isn't anything you can select that won't be contaminated that you could isolate as that sole quality.
+
+Well the math shows there's only //one// thing you can successfully do this with: //conceptual// existence. More specifically, the //ability to be conceived.//[[footnote]]This means the conceptual object is not dependent upon a subject doing the conceiving. In other words, the potential of something to be a conceivable thing exists whether there is an observer present or not to do the actual conceiving.[[/footnote]] If that is taken away, nothing else can be considered and whatever the object, it is now lost to our ability to comprehend it, behind an immutable horizon of non-comprehension.
+
+Now we are back soundly at our near-total anomaly whose only quality has to be its existence.
+
+= [[size 110%]]##grey|{{__<END LOG>__}}##[[/size]][[footnote]]10 minute break occurs.[[/footnote]]
+[[/div]]
+[[/collapsible]]
+[[size 95%]]**Lecture: Session 4**[[/size]][[collapsible show="⤙Open⤚" hide="⤙Minimize Transcript⤚"]]
+[[div style="color:#5295e1; border-radius:2px; display: inline-block; border:1px solid #2f3030; background:#1d2022; background-opacity:0.1; float:center; width:84%; padding: 1px 10px; margin: 10px 10px 10px 40px; shadow: 1px 1px 1px 1px #191919;"]]
+[[=]]
+[[size 110%]]
+> ++++++ Dr. Kurt Gödel PhD
+> @@@@
+> @@@@
+> ++++++ //"'ALPHA/OMEGA Class' Antimemes: Why the Proposed Fundamental Particle of the Anomalous Can Never be Realized Scientifically, or Why Science Will Never Be Complete"//[[/size]]
+>
+> [[size 85%]]**- {{03/08/1974}} -**[[/size]]
+>
+> [[size 110%]]Research World's Fair: Division Keynote Speaker[[/size]]
+>
+> >>[[size 125%]]Session 4[[/size]]<<
+-----
+
+[[size 110%]]##grey|{{__<BEGIN LOG>__}}##[[/size]]
+[[/=]]
+
+OK. Buckle your chair belts.
+
+//(Indistinct talk)//
+
+//Seat// belts! Sorry. //English.// OK. So we've identified the sole quality. It has to be the ability to be conceived. I'm just going to simply say "existence" while I talk, is that alright with you all? I don't want to say "the potential to be conceived by something if a conceiving thing is there to do so", or "potential conceivability", although that is more accurate. Yes. So I don't have to say so many words each time. OK?
+
+So to recap what we've established in looking mathematically into why something that is impossible is impossible: a fundamental unit of memetics, something existing that has only one quality, that sole quality has to be its existence. We call it the near-total antimeme.
+
+Now I will show you why there can only be //one// of these. There can't be more than one instance. No dash-one or dash-two. [[footnote]]As in "RPC-1", "-2", etc.[[/footnote]] It's not possible. There is only one. If it seems like there are more than one... no. Then it just seems that way. In reality, there is no difference. OK?
+
+What do I mean? //(Raises index finger, then points at the chalkboard on stage.)//
+
+[[>]]
+[[include component:image-block name=Omega|caption=The formula for RPC-001.|enlarge=true]]
+[[/>]]
+
+We have the mathematical definition for the near-total antimeme. We have decided to represent it with the Greek symbol Omega.[[footnote]]Ω. The speaker draws this on the chalkboard.[[/footnote]] OK? Like this. Then we have the equals sign, and everything on the other side that we just went through, but in math's language. In numbers and variables and symbols. Like this. Alright? Just trust me on this side of the equation for now. This is what it looks like.
+
+Of course with algebra, you can rearrange this statement to where the Omega symbol is now not the only thing on the left side of this equation. Now let's walk backwards and re-jumble it up. Is that a word? "Jumbling"? Anyway. Re-jumble it up to show you something fascinating.
+
+You can plug a lot of things into this mathematical formula for the near-total antimeme and it equals out. You get the same things on both sides of the equals sign. That's a good thing. Yes! Always good. You know you have done it right when you get 1=1. That is a happy day. It is a bad day when 1=2. Or something like that.
+
+You can put a lot of things in there and the 1=1 is basically the result you will get. Doesn't sound like that is telling us a lot, but it is! It tells you the statement is true. That's something. For example. You can take the mathematical representation of, oh... let's say, something smaller than the Planck length,[[footnote]]The shortest unit of length possible in spacetime; observing anything smaller is impossible given the laws of physics.[[/footnote]] and //voila//, it cancels out. You get 1=1. That is a true statement. So nice.
+
+So in other words, the Omega being on this side of the equation, and this mathematical representation of smaller than the Planck length over here; they cancel each other. Basic algebra. So the Omega equals something else you chose to plug into the mathematical expression.
+
+Curious! What does that mean?
+
+It means they are the same thing.
+
+We know mathematically that the Omega is the near-total antimeme and can only have one quality. So that would suggest that what is shorter than the Planck length is a near-total antimeme and can only have one quality? Yes. And this checks out; we can't understand anything smaller than a Planck length. By definition. Shorter than that is inconceivable. We can only know that it exists. Nothing else.
+
+So, yes, the two statements are equal. It is mathematically true that they are the same thing.
+
+This seems maybe like there are two near-total antimemes here. But no! You can't have two of them. Impossible. Because if there are two, then there is more than one quality present, otherwise you wouldn't be able to separate them.
+
+Think about this: If you have two exact copies of something, they aren't really equal. One is over here and the other is over there. One will always have a quality the other doesn't. For example, their coordinates in spacetime differ. If they didn't they would be right on top of one another — overlapping really — and you wouldn't be able to tell it was two things at all. They wouldn't be two things! Just one. Got it? OK?
+
+So it is tempting to think that there must be two near-total antimemes, but because it definitionally only has one quality, it can't be two different things. There is no possible other thing that is limited to just one quality. Just the Omega-class antimeme.
+
+OK?
+
+This is why we say there cannot be multiple instances of the Omega. It's like saying there are multiple instances of the concept of the number 1. Impossible. When you solve an equation where 1=1 you don't say "Oh look! There are two instances of the number 1 in existence!" No. Dumb. There is only one number 1. Not two out there. You just wrote it down twice.
+
+Anything whose only feature is that it can be known to exist and that's all you can know about it; that thing //is// Omega. Not just another instance of it. If it seems like there are two distinct things, we have to throw that out as an error in our brains. We haven't understood the near-total antimeme before now. Now, we have the technology to see how and why they are the same. One thing!
+
+Or, get mystical; two different Omega-class antimemes is an illusion.[[footnote]]Modern parlance would call this not an illusion but the result of anopticin.[[/footnote]] Something we use in our language to help make sense out of near-senseless things. It's a heuristic.
+
+It's sort of like what we here at the Authority do every day, isn't it? We attempt to scientifically approach what we know is scientifically unapproachable. Our work here is one big asymptote — we will get closer and closer to knowledge and understanding of our anomalies, but we will never truly get there. Because if we could, they wouldn't be anomalies. Alas, by all accounts, it seems they are and will stay that way. An anomaly wouldn't disappear if you were to understand it fully — you would just have to be an anomaly too at that point!
+
+No, no. Not two instances. There is only one. Everything that we can't understand but know exists //is one and the same thing//.
+
+You can do this a lot too. Not just with the Planck length. You take the mathematical equation for something, some constant in physics or whatever else. Then set it equal to the mathematical equation for Omega here. And sometimes you will get 1=1. Neat!
+
+As of right now, we know of 15 things that do this. 15 "things". Not really different, remember. But 15 "things" as we think we know them, will equal Omega. 15 different areas in our universe where the fabric is poked through and we can see into the hole. But not what is behind it over here, then over there. Just like the number 1 on both sides of the equation; there aren't two different number 1's.  What is behind it is the same thing. One, very large, universe-encompassing thing. The Omega. We have proven it.
+
+OK? Alright I have talked your ear off. Enough. Thank you for listening.
+
+= //(Applause)//
+
+= [[size 110%]]##grey|{{__<END LOG>__}}##[[/size]][[footnote]]This section break is artificial in that no break occurs, but a question and answer session begins, to follow.[[/footnote]]
+[[/div]]
+[[/collapsible]]
+[[size 95%]]**Question & Answer Session**[[/size]]
+[[collapsible show="⤙Open⤚" hide="⤙Minimize Transcript⤚"]]
+[[div style="color:#5295e1; border-radius:2px; display: inline-block; border:1px solid #2f3030; background:#1d2022; background-opacity:0.1; float:center; width:84%; padding: 1px 10px; margin: 10px 10px 10px 40px; shadow: 1px 1px 1px 1px #191919;"]]
+[[=]]
+[[size 110%]]
+> ++++++ Dr. Kurt Gödel PhD
+> @@@@
+> @@@@
+> ++++++ //"'ALPHA/OMEGA Class' Antimemes: Why the Proposed Fundamental Particle of the Anomalous Can Never be Realized Scientifically, or Why Science Will Never Be Complete"//[[/size]]
+>
+> [[size 85%]]**- {{03/08/1974}} -**[[/size]]
+>
+> [[size 110%]]Research World's Fair: Division Keynote Speaker[[/size]]
+>
+> >>[[size 125%]]Q&A Session[[/size]]<<
+-----
+
+[[size 110%]]##grey|{{__<BEGIN LOG>__}}##[[/size]]
+[[/=]]
+[[>]]
+[[include component:image-block name=lecture1 |caption=Photograph taken of the Site-074 lecture hall audience at the start of the Q&A session.|enlarge=true]]
+[[/>]]
+OK. I can take questions now if you have any.
+@@@@
+@@@@
+**###cccccc|Q: How can you be so sure the near-total antimeme exists? To use the black hole as an example again, we found it in math, but didn't know that it really existed until we got to actually see and detect one. How can you do that with this if we can't ever see it?**##
+
+This is a good question. So, let's go back briefly to our equilateral triangle. There, we said the smaller the number of qualities a thing has, the easier it will be to confirm its existence. Remember? So with the near-total antimeme, here the list of available properties, and so things we need to confirm in order to confirm existence, is limited to only one thing — its conceivability. That's it.
+
+The fact that you can think of this thing whose only quality is its existence is thought-experiment proof that it can't be merely possible, because its prerequisites are satisfied by virtue of you thinking of it. So, it is necessarily certain. And uniquely so. Uniquely, its mere possibility instantly satisfies its conditions for certainty. This is what I mean by the maximal conceptual entanglement. No other thing behaves this way. Only the Omega. //It is an anomaly among anomalies.// It is unique in all of anomalous and non-anomalous existence.
+
+Again, it's not unlike the singularity of a black hole being unique in the physical world as the maximum amount of gravity and entropy possible. Like the singularity, there is profundity and power in the Omega too. It is a totality and an infinitesimal of uncertainty.
+
+So. That's really what we are doing when we have been asking crazily, "What if a thing exists whose informational pull is so high, that its own information can't escape it?" I just wanted to share with you all that we are not that crazy after all, and we've believed for a long time that we are onto something here. Hopefully, this publication will mean the Authority finally believes we are of value too. There is a chance we can harness the power of the Omega. It's not clear yet, but we would need more funding to really answer that question.
+@@@@
+@@@@
+**###cccccc |Q: What is the significance of choosing the Omega symbol for this?**##
+
+To be honest, we chose it because we just wanted the headaches to end! That was difficult work. Yes.
+
+Now, I personally will call it an "Alpha-class" too. Because is it the beginning of conceivability and existence? Or the end of those things? Is it where everything came from, or where everything goes when it dies? That's not really clear. More than anything, maybe it is both at the same time, I think. It's both the half-empty and half-full glass of water. So, "Alpha & Omega". But. That's not important really, but just my thoughts.
+@@@@
+@@@@
+**###cccccc|Q: You said there were 15 "different" things that you can plug into the math and it work out. What are those 15 things?##**
+
+Oh my God! //(Laughs)// I forgot to talk about that. Thank you. I can't believe I forgot that! That's the best part. It is almost the title I gave my notes. It's the real reward for all the work and trouble.
+
+Alright, let me reference my notes here. OK:
+
+[[size 135%]]
+= {{**###cccccc|[DATA REDACTED PER GD]##}}**
+[[/size]]
+
+So, as you can see, a lot of very old questions here. Number 4 is one of the oldest questions in philosophy. It's so old, that it is a trope. No one even bothers with it anymore. Because being an Omega, it doesn't really have an answer you can get to. These almost represent //the// questions of human existence, really. And the existence of the universe itself.
+
+So it seems that at the deepest part of our thinking -- where all these classic questions of science and philosophy try to take us -- are the limits, or the near-limits, of our ability to understand. And that's exactly where we'd expect to find the near-total antimeme. At the limits. The near-total antimeme is really the border itself, wherever it exists. It //is// the limit.
+
+And this is another part of this that I love here; you may have noticed that in this list, the last one only makes sense here in the Authority. If you were out in the non-anomalous part of the academic and scientific community, there would only be 14. But once you incorporate the privilege of what we know here at the Authority, then you get 15. Excellent, no? Yes!
+@@@@
+@@@@
+**###cccccc|Q: A follow up to that if you don't mind.##**
+
+I don't mind, go ahead.
+
+**###cccccc|Q: So if [DATA REDACTED] is one of the 15 things, then why do we have a database filled with anomalies? Reams and reams of information, cabinets filled to the brim with documents about different anomalies? And each of these documents is filled with descriptions of the anomaly, numerous qualities... so certainly it seems like we //can// know more than just one thing about them. I guess I'm confused about that.##**
+
+Right. Well it's less the anomaly and really the [DATA REDACTED]. It reminds me of one of my misinformed colleagues. Stupid, he always is trying to find a "fundamental particle" of the anomalous. //"Anomalon"?// Or something like that! Silly! Just like the idea that you can scientifically measure the residual particulate matter or radiation from the supernatural -- I think someone proposed a fundamental particle of God once. Ridiculous!
+
+The fundamental particle of these things is not possible. By definition. That's what makes them what they are. You can't know. You can work around it, throw things at it and see how it bounces off, but as to what is deep to that, really deep to it... impossible. Never.
+
+So you can understand? The anomalies are extensions of the Omega that extend further into comprehensibility than it does. They are continua. Some more than others. A [*http://rpcauthority.wikidot.com/acs-guide low ACS anomaly], for example, is a very short extension, very close to the Omega. Not sure what the hell it really is or what is going on. But a humanoid is a very long extension, very far into our conceivability. Almost touching us in its depth into comprehensibility.  
+
+Does that make sense? Did that answer your question? Go back to our analogy, the black hole. The anomalies we understand things about and that have qualities to report on and include in the document, to interview, to -- heaven forbid -- write incident reports or containment breaches about... these things are like the accretion discs around the black hole itself. They sort of swirl and extend into comprehensibility.
+
+You can learn a lot about that and where it points to. How the disc behaves. But we don't understand anything about the deepest part of the black hole's singularity, can't. We can know a bit about things around it, closer and closer to it, and understand that it mathematically must be this point of infinite density. Math is really the only way possible to approach it, or to even have understood that it exists in the first place.  
+@@@@
+@@@@
+**###cccccc|Q: So how are we going to really... tell people about this? This is not... simple. It doesn't have that appeal you get on the cover or centerfold of the journals. It isn't the sexy news on the front page. How are people going to care about this at all? If this is true, then there are people out there, both in the civilian world and within the Authority, that believe some of these things are, you know, separate & different things. How are we going to get them to understand the complexities of this antimemetics in the first place? And then say "Oh yeah, these two things are really the same thing?" I guess I'm concerned that the Department of Anti-Memetics will always be the dumb little brother of Research and the greater Authority.##**
+
+Well, we probably can't convince people of this well. We probably won't. Not any time soon. It may be rejected and ignored completely. We might be laughed at. It won't be immediately obvious or evident what is being said here. This will take probably.... I don't know, several years to diffuse. That's what happens to concentrated things. But diffuse it will! It's just too dense upfront unless you specialize in antimemetics. At least, for now. That will change. This same submission in a few short years might be welcomed easily with zero changes to it. We'll see. Sometimes, the future proves the past.
+
+But the good news is that eminent Authority metaphysicians have decertified their prior conceptualization of such concepts as separate as a result of this work. So it //is// being recognized in some small places, and that's how it starts. Always is. Small victory, but it is something.
+
+This is not unlike the human inability to understand that an electron can be in more than one place at the same time, existing as a probability wave function rather than a distinct object. It will just take time. Stay happy!
+@@@@
+@@@@
+**###cccccc|Q: Do you think there will be more things added to that list of 15, or is that it?##**
+
+Oh no, I think that's far from it. We will be able to add more with time and research, maybe even subtract some. But we need funding, grants from Financial Affairs. Quantum physics has a lot of stuff going on that seems to be flirting with the event horizon of the near-total antimeme. We'll watch. The equations are waiting.
+
+And, I can tell you the end. It will be just one. Of course, how could it be anything but? The universe will eventually die out. All stars and even the black holes. What's left? Is there something still filling the universe? Is it shrinking or expanding in something after? What is that something? What is left? It is both the same. [http://rpcauthority.wikidot.com/rpc-001-2/offset/2 The Omega.]
+
+[[/div]]
+[[/collapsible]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[collapsible show="Show Bibliography" hide="Close Bibliography"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+

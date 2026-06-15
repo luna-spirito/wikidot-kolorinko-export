@@ -1,0 +1,26 @@
+---
+title: "_10"
+tags: []
+page_id: "1308464464"
+site: "rpcauthority"
+slug: "special:_10"
+revision: 2
+revision_id: "1361997448"
+author: 3118961
+timestamp: 1617324175
+---
+
+[[module css]]
+body:after {
+  content: "";
+  position: fixed;
+  bottom: -80vh;
+  left: 30vw;
+  background: url(https://www.freeiconspng.com/thumbs/dirt-png/dirt-splatter-png-25.png) no-repeat;
+  background-size: 120px;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+}
+[[/module]]
+

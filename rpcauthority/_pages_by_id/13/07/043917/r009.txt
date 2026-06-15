@@ -1,0 +1,202 @@
+---
+title: "Agente Shuffle's Budget Cuts Art"
+tags: ["alternative-content", "art", "budgetcuts-art"]
+page_id: "1307043917"
+site: "rpcauthority"
+slug: "agente-shuffle-s-budget-cuts-art"
+revision: 9
+revision_id: "1529217582"
+author: 5982545
+timestamp: 1744509248
+---
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com//local--code/component:theme/1);
+[[/module]]
+
+[[module css]]
+#main-content .page-tags {
+    border-top: 2px solid rgba(var(--swatch-menubg-medium-color),.5);
+}
+
+#main-content .page-tags a {
+    display: inline-block;
+    height: 0.8125rem;
+    line-height: 13px;
+    line-height: 0.8125rem;
+    font-size: 11px;
+    font-size: 0.6875rem;
+    background: rgb(74, 115, 176);
+    background: rgb(var(--swatch-menubg-dark-color, 74, 115, 176));
+    color: rgb(252, 252, 22);
+    color: rgb(var(--swatch-menutxt-light-color, 54, 41, 77));
+    border-bottom-right-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    margin: 0 0 .5rem .75rem;
+    padding: 0.1875rem 0.3125rem 0.1875rem 0;
+}
+
+#main-content .page-tags a:before {
+    top: -0.1875rem;
+    left: -0.625rem;
+    width: 0;
+    height: 0;
+    border-color:
+     transparent
+     rgb(48, 48, 52)
+     transparent
+     transparent;
+    border-color:
+     transparent
+     rgb(var(--swatch-menubg-dark-color,  74, 115, 176))
+     transparent
+     transparent;
+    border-style: solid;
+    border-width: 0.5rem 0.5rem 0.5rem 0;
+    padding: 0 0.0625rem 0.1875rem;
+}
+
+#main-content .page-tags a:before,
+#main-content .page-tags a:after {
+    content: "";
+    float: left;
+    position: relative;
+}
+
+#main-content .page-tags a:after {
+    --box-shadow: rgb(var(--swatch-menubg-dark-color,  74, 115, 176));
+    top: 0.28125rem;
+    left: -0.5rem;
+    width: 0.25rem;
+    height: 0.25rem;
+    border-radius: 0.125rem;
+    background-color: rgb(54, 41, 77);
+    background-color: rgb(var(--swatch-background, 54, 41, 77));
+    box-shadow: -0.0625rem -0.0625rem 0.125rem rgb(74, 115, 176);
+    box-shadow: -0.0625rem -0.0625rem 0.125rem var(--box-shadow);
+}
+
+.page-tags span {
+    border-top: .5rem solid transparent;
+}
+[[/module]]
+
+[[include :topia:cqb:flow speed=3]]
+
+[[>]]
+[[include component:rate]]
+[[/>]]
+
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/alpha-red.png]]
+
+**Registered Phenomena Code:** qué te importa
+
+**Object Class:** Alpha-Red
+
+**Hazard Types:** Visual, Emotional, Ideological, Info-Hazard
+
+[[include component:sidenote figure=Project Personnel |contents=
+
+**Assigned Facility:** Site-███ "Double Dagger"
+
+**Research Lead:** Michael Oxlong
+
+**Containment Director:** Ross A. Mellow
+
+**Containment Assistant:** Benjamin Dover
+
+|content-align=true
+]]
+
+**Containment Protocols:** just don't look at it, although i know you will because otherwise why would be a document about this in the first place
+
+**Description:** RPC-qué te importa is this gallery (why do i even try to do some format screwing here)
+@@                   @@ Anyways, enjoy this small art compilation from the Budget Cuts Contest, hope y'all like it!
+
+------
+
+[[div class="content-panel"]]
+
+[[=]]
++ {{[*http://rpcauthority.wikidot.com/rpc-379 INFIERNO ESPIRAL]}}
+[[/=]]
+
+= {{by [[*user Almarduk]]}}
+
+= //__Puerto Pirámides is gone, along with the immediate Protectorate perimeter. It's been consumed by a black floating blob.__//
+
+[[/div]]
+
+[[=image InfiernoEspiral.png width="600"]]
+
+[[=image InfiernoEspiralIcon.png width="600"]][[footnote]] Note: The spiral was taken from [https://delapouite.com/ Delapouite's] [https://game-icons.net/1x1/delapouite/spiral-lollipop.html Spiral Lollipop Icon], licensed under CC BY 3.0 [[/footnote]]
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=synthwave
+|audio-file=http://destinox.wikidot.com/local--files/budget-art/el_lago_del_infierno.mp3
+|background-color=rgb(39, 42, 49)
+|border-color=rgb(74, 115, 176)
+|border-radius=0.313rem
+|dropshadow-color=rgba(4, 26, 48)
+|text-color=rgb(74, 115, 176)
+|icons-color=rgb(74, 115, 176)
+|player-color=rgb(44, 55, 74)
+|progress-color=rgb(74, 115, 176)
+]]
+[[footnote]] This song is a Synthwave rearrangement of Tchaikovsky's "Swan Lake" (which is now under Public Domain); it is not directly linked or related to INFIERNO ESPIRAL but I thought they'd fit together nicely [[/footnote]]
+
+[[collapsible show="i also made this while producing the song" hide="😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏"]]
+
+[[=image unknown.png width="600"]]
+
+[[=image unknown2.png width="600"]]
+
+[[/collapsible]]
+
+[[=image https://i.imgur.com/yXXgAxU.jpg width="600"]]
+
+-----
+
+[[div class="content-panel"]]
+
+[[=]]
++ {{[*http://rpcauthority.wikidot.com/rpc-869 "Walking With Dinosaurs"]}}
+[[/=]]
+
+= {{by [[*user Superspambot]]}}
+
+= //__There is a very interesting quadrupedal creature living in the Congo. It has no fur and ████████ covering its body, and it travels the rivers of the Congo__//
+
+[[/div]]
+
+[[=image https://i.imgur.com/Jbo0pZW.jpg width="600"]]
+
+[[=image https://i.imgur.com/Vf1aF6h.png width="600"]]
+
+[[=image https://i.imgur.com/26WFZeZ.jpg width="600"]]
+
+[[=image https://i.imgur.com/1XgKYdi.jpg width="600"]]
+
+[[<]]
+[[include component:rate]]
+[[/<]]
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+[[footnoteblock]]
+[[/div]]
+
+> {{Due to the unauthorized creation of a dangerously anomalous and cognitohazardous art gallery of secret and classified abnormal phenomena, Agent Sophia F. Levy is to be be caged and sent to Alternate Reality ALTR-D2AJ ("The Remnants Timeline") through thaumatological portal systems obtained and canibalized from ALTR-D2AJ and ALTR-XRR9, which will be deactivated and destroyed((bibcite Consideration)) once the subject enters in the split reality}}
+[[>]]
+> {{Lmao dude stop roleplaying, RPC ain't real, just lemme draw stuff, k?}}
+[[/>]]
+
+[[collapsible show=" " hide="😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏"]]
+
+[[bibliography]]
+
+: Consideration : This is under consideration; however, if Agent Sophia F. Levy is capable of returning to the baseline reality in any way, the portal systems are to be considered expendable
+
+[[/bibliography]]
+
+[[/collapsible]]
+

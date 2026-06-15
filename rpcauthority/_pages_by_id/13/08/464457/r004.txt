@@ -1,0 +1,26 @@
+---
+title: "_7"
+tags: []
+page_id: "1308464457"
+site: "rpcauthority"
+slug: "special:_7"
+revision: 4
+revision_id: "1361997439"
+author: 3118961
+timestamp: 1617324110
+---
+
+[[module css]]
+body:after {
+  content: "";
+  position: fixed;
+  bottom: -40vh;
+  left: 90vw;
+  background: url(https://images.chesscomfiles.com/uploads/v1/group/75621.4371800f.1200x1200o.2acdbd83c244.png) no-repeat;
+  background-size: 30px;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+}
+[[/module]]
+

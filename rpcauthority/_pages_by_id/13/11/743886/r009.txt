@@ -1,0 +1,82 @@
+---
+title: "GD-OCEA"
+tags: ["document", "personnel"]
+page_id: "1311743886"
+site: "rpcauthority"
+slug: "gd-ocea"
+revision: 9
+revision_id: "1541748545"
+author: 5982545
+timestamp: 1770048669
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=]]
+++ >> Office of the Directorate <<
+------
+[[image Administration.png style="width: 150px; margin: -5px 0px;""]]
++ GLOBAL DIRECTOR "OCEACOM"
+[[/=]]
+----
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Oceanic%20Command.png width="200px"]]
+
+**GD-OCEA**: Global Director Representative for Oceania.
+
+**PERSONALITY ARCHETYPE**: An oceanographer from the Northern Mariana Islands and practicing Zen Buddhist. Their prior involvement in Oceania's tourist industry granted them extensive knowledge on the region's geography and environment which are critical to Authority efforts at investigating deep-sea anomalies.
+
+A follower of the Rinzai school, GD-OCEA was taught to endure relentless physical and mental trials to achieve true enlightenment and self-awareness. Through the cultivation of their mind and body, GD-OCEA emerged as a sharp and decisive researcher in The Congregance.
+
+A strong advocate of work-life balance due to their faith, GD-OCEA continues to hold daily meditation sessions with other personnel on their break, encouraging others to test their limits.
+
+**RELATIONSHIPS**: Primarily favors the Research Division. Their support for expanding Authority resources in Oceania has caused clashes with GD-WEST-1 over the direction of Research priorities. Carefully manipulating the relationship between GD-NORTH and GD-ASIA with regards to military operations has elevated the position of GD-OCEA on the Board.
+----
+[[=]]
++ Protective Service Unit
+[[/=]]
+----
+[[include component:image-block name=OCEACOM_Davy_Jones.png|caption= Davy Jones Patch|width=200px]]
+**MST Alpha-01-OCEA ("Davy Jones")** is the designation for the protection service unit tasked with guarding the current OCEACOM Global Director Representative at all times. As the personal bodyguards of GD-OCEA, operatives of this unit are recruited or approved by each new representative.
+
+To avoid divisional, regional, and political conflicts, Davy Jones operatives are drawn from the OCEACOM officers' pool. Those who have shown exceptional prowess in the field and the capacity for strategic decision-making are selected as potential recruits. After completing the NCOIC[[footnote]] Non-Commissioned Officer Induction Course [[/footnote]] program, recruits are then ready for induction into MST-Alpha-01.
+
+Davy Jones works closely alongside the Authority Naval Force to secure a variety of blue-water and green-water naval vessels to escort GD-OCEA and OCEACOM forces to several sites and containment facilities across Oceania. The unique nature of GD-OCEA's responsibilities require an adaptable security strategy to protect against non-state actors, armed pirates, and eco-terrorist groups operating in Oceania. An America-class amphibious assault ship therefore serves as a mobile headquarters and armed military vessel for OCEACOM and Davy Jones.
+
+[[=]]
+> +++ **Unit Composition**
+[[/=]]
+* **Bodyguards:** 8 Personnel
+* **Logistics Support**: 11 Personnel
+* **Assault Rifle**: UDMC PVAR Rifle
+* **Watercraft**: America-class amphibious assault ship
+* **UAV**: X-craft Enterprises Valkyrie
+----
+[[=]]
++ Further Assignments
+[[/=]]
+----
+[[div style="background: var(--background-3); border: var(--basic-border); padding: 0px 1em;"]]
+//Articles involving GD-OCEACOM or Davy Jones://
+
+[[module ListPages separate="no" tags="+gd-ocea +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-ocea -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+
+[[=]]
+> +++++ [ DECLASSIFICATION PENDING GD APPROVAL ]
+[[/=]]
+[[/div]]
+

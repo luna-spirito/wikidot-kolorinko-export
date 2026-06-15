@@ -1,0 +1,452 @@
+---
+title: "RPC-377-3"
+tags: []
+page_id: "1307043559"
+site: "rpcauthority"
+slug: "fragment:rpc-377-3"
+revision: 7
+revision_id: "1360238375"
+author: 6436891
+timestamp: 1614993507
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Deep Sea Phishing[[/span]]
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/component:lpp-code/code/1);
+[[/module]]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+[[/module]]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-style/code/1);
+[[/module]]
+
+[[module css]]
+:root {
+--research-header-bg: url(http://rpcauthority.wikidot.com/local--files/component:research-theme/ResearchHeader1.png);
+}
+[[/module]]
+
+------
+[[=]]
++ __Discovery:__
+[[/=]]
+> **Foreword:** Initial retrieval of diluted RPC-377-2 followed a short skirmish between hired hands for the Seventh Life Community moving a shipment of RPC-377-2 (then titled Manna-5) and a small party of Blackhold operatives under Surveyor Arnold Sarren, who had been tailing the group for several weeks after an anonymous tip-off of anomalous drug activity being funneled through Mt. Faith. Subsequent interrogation between Sarren and Seventh Life participant, designated RPC-377-SE5, is transcribed below using recordings ported from a device kept on Sarren’s person at the time of the incident.
+
+[[div class="fancy-collapsible"]]
+[[collapsible show="> RCAD DOCUMENT-377-01: Interrogation of RPC-377-SE5 <" hide="- Close File."]]
+[[div class="paperGray typewrite2"]]
+
+##black|> **Target:** RPC-377##
+>
+##black|> **Head:** Dr. █████ ##
+>
+>
+##black| **<Begin Log>**##
+>
+>
+##black| **[Muffled voices obscured by radio chatter. Laughter.]**##
+>
+##black| **RPC-377-SE5:** Wha...##
+>
+##black| **[RPC-377-SE5 mumbles groggily. His exact words are unclear.]**##
+>
+##black| **RPC-377-SE5:**Where... where the //fuck// have you taken me?##
+>
+##black| **[Silence.]**##
+>
+##black| **[Heavy breathing can be heard, interrupted by a ripping sound.]**##
+>
+##black|**RPC-377-SE5:** See something you like, huh? My face pretty, is it?##
+>
+##black| **Surveyor Sarren:** You're really that young, aren’t you.##
+>
+##black| **RPC-377-SE5:** Old enough. ##
+>
+##black| **Surveyor Sarren:** Can't be older than seventeen.##
+>
+##black| **RPC-377-SE5:** Haven't been a kid in years, dickface. What, you one of them old rich fucks who likes little pricks? I’ve always heard stories of you glowers, hands half in the government. Old Mayor of this fuckin’ town was like that too. You like him? Like your meat fresh and- //Fuck!//##
+>
+##black| **[Surveyor Sarren smacks RPC-377-SE5’s face. Audible pain can be heard over the recording.]**##
+>
+##black| **Surveyor Sarren:** What were you doing with the drugs?##
+>
+##black| **RPC-377-SE5:** W-what?##
+>
+##black| **Surveyor Sarren:** Manna-5, they’re calling it now? You were transporting a cache somewhere when my people intercepted you. When //I// intercepted you.##
+>
+##black| **RPC-377-SE5:** Listen man, it was my last job. No hard feelings. It'll be easier for the both of us if you just, let-##
+>
+##black| **[Slamming sound.]**##
+>
+##black| **RPC-377-SE5:** //Christ//, fuck-##
+>
+##black| **[A chair is dragged closer to the recording output. Surveyor Sarren presumably is seated now.]**##
+>
+##black| **Surveyor Sarren:** Listen, Sam, was it? I work for some very, //very// important people.  I understand: you’re young, you’re afraid. We just need information. ##
+>
+##black| **RPC-377-SE5:** I already gave you all the shit I knew, what more do you want? Cops came knocking my door down a week ago, had a warrant. I was- I fuckin’ did what you asked, what more do you-##
+>
+##black| **[The chair scrapes on the floor.]**##
+>
+##black| **RPC-377-SE5:** Hey hey hey! Stop, this- Wait... you aren't them. Are you- //are you fuckin’ ATF?// ##
+>
+##black| **[Surveyor Sarren gives no answer.]**##
+>
+##black| **[RPC-377-SE5 starts laughing.]**##
+>
+##black| **RPC-377-SE5:** Oh, God. This is rich. This is- this is //great.//##
+>
+##black| **Surveyor Sarren:** Done?##
+>
+##black| **RPC-377-SE5:** Depends. You still gonna hit me?##
+>
+##black| **Surveyor Sarren :** I’m not ATF, if that’s what you’re worried about.##
+>
+##black| **RPC-377-SE5:** ATF's small shit. But you aren't //them// either, thank fuck.##
+>
+##black| **Surveyor Sarren:** What. 'Them'?##
+>
+##black| **RPC-377-SE5:** Promise me. Promise me you won’t- you won’t go tellin’ the police 'bout me. About this. Give me protection. Then I'll talk all you want.##
+>
+##black| **Surveyor Sarren:** Not my Division. ##
+>
+##black| **RPC-377-SE5:** Christ man. They’ve been holding shit over my head for months. Police are rotten in this town. Just- just give me a free one. Please?##
+>
+##black| **[Silence.]**##
+>
+##black| **Surveyor Sarren:** I’ll talk with the others. See what I can do. ##
+>
+##black| **[RPC-377-SE5 exhales shakily, fingers tapping on the table.]**##
+>
+##black| **Surveyor Sarren:** So. Manna-5.##
+>
+##black| **RPC-377-SE5:** He told me not to tell anyone about that.##
+>
+##black| **Surveyor Sarren:** Whoever he is, //He// is not here.##
+>
+##black| **RPC-377-SE5:** Scarier people than you run this damn town, suit-man. I've spent too long making sure this little piggy's not stuck on a spit when the wolves blow the house in to forget that. ##
+>
+##black| **Surveyor Sarren:** Scarier people than me could have you right now. The police, for one. If I were in your position when I was your age, I'd have been grateful.##
+>
+##black| **RPC-377-SE5:** You were a... ##
+>
+##black| **Surveyor Sarren:** A dealer. Bit different, but yes. Let's just say I got a second chance.##
+>
+##black| **RPC-377-SE5:** Me. Will I get one like you did?##
+>
+##black| **Surveyor Sarren:** Depends on your cooperation.##
+>
+##black| **RPC-377-SE5:** Cooperation, cooperation. That's all it is to you, isn't it. 'Cooperation'.##
+>
+##black| **[RPC-377-SE5 snorts.]**##
+>
+##black| **[Dial tones ring as someone punches numbers into a landline.]**##
+>
+##black| **Surveyor Sarren:** I have the police on dial. Everything I said before stands. I would. Be. Grateful.##
+>
+ **RPC-377-SE5:** Christ. You really are playing that game, aren't you.
+>
+##black| **[Silence.]**##
+>
+##black| **[RPC-377-SE5 grunts, sighing. The sound of a chair creaking can be heard on-record.]**##
+>
+##black| **RPC-377-SE5:** Guess I should uh, start in highschool then. A year, two years back? Feels like a lifetime. Used to be a top student, took my tests, went to church, did what the teachers told me. I was a goody-two shoes to the core - parents were goin' on and on about how I'd do so well in the mission trips up north after high school. But… ##
+>
+##black| **[A pause. RPC-377-SE5 trails off, humming.]**##
+>
+##black| **Surveyor Sarren:** It never felt that way under the surface. You were what they wanted you to be, and you resented that.##
+>
+##black| **RPC-377-SE5:** Yeah. Sounds about right... hey, how'd you know that?##
+>
+##black| **Surveyor Sarren:** Talk.##
+>
+##black| **RPC-377-SE5:** Fine. There were these people I’d been seeing. Cool people. Now, I may have been all perfect on the outside, but inside I'd always been, well, struggling. Got worse later on. Grew up. Dad took me to a shrink before he died, they said I had anger issues. Dyslexia. He didn't believe them, of course - my dad's a religious man, see, and he always had too much faith in me to believe I was the source of my problems. So he takes me to a pastor, for 'councilling'. We'd known Pastor Pete for a long time, family friend and all - but in the help-room, it's a different story. He went all apeshit, threatening to 'beat the demons out of me'. Dunked me in water multiple times. Craziest man I've met, and I've met plenty of crazy people.##
+>
+##black| **RPC-377-SE5:** My grades started slipping with the sessions worse than they'd been already. Nothing big, but enough. Area 'round my house got more dangerous, too. Living in the Narrows does that shit to you, does that to anyone. S’not a place for kids to be. My friends though… ##
+>
+##black| **RPC-377-SE5:** My friends didn’t care about all that shit, see? They gave me stuff. Nothing big, you know. Weed. Booze. Just- teenager stuff. But it felt //good//. It made me feel wanted. Round this time there were a lotta tall stories runnin' about. Tommy Green and his fuckboy ass friends always talkin', on and on about wild parties at the edge of town in the woods by the creek. A new drug that made you a 'god'. I didn’t put stock in rumors at first, especially the ones that came out of //his// mouth of all people. Always prided myself as something of a 'rationalist', for whatever good it did me.##
+>
+##black| **[RPC-377-SE5 chuckles, breathing softly.]**##
+>
+##black| **Surveyor Sarren:** And then?##
+>
+##black| **RPC-377-SE5:** Life, I guess. Dad died. Grades went down the shitter. On the bright side, I didn't have to stop by the church anymore. In everything else though I just… spiraled. Started skipping school, eventually stopped going altogether. Got into fights with my grandma. Don’t remember much from that time, but my friends - they were there for me. One day, they told me to come with them to the bonfire outside town. I hadn’t been there before, always had school. But I had time now, so I was like, fuck it, you know?##
+>
+##black| **[Surveyor Sarren does not reply. RPC-377-SE5 continues.]**##
+>
+##black| **RPC-377-SE5:** I barely remember shit from the time I spent by the fire. Good times always blur. All that really stuck was the feelings, the company. With those I could forget for a little bit, lose myself in that... that warmth. Unconditional warmth. Didn't even know why I didn't question it when //he// came by one night. Had a mask on, like you know the ones you see in museums. Indian shit. Had antlers, too. My friends called him Ol' Jimmy, said he traveled from the north, up by the Lakes past the big city. He had gifts with him too.##
+>
+##black| **Surveyor Sarren:** ‘Gifts’?##
+>
+##black| **RPC-377-SE5:** In the back of his pickup. See, Jimmy had a way with words. Was just one gift, really: Manna-5. A shitload of it.##
+>
+##black| **[Surveyor Sarren whistles.]**##
+>  
+##black| **Surveyor Sarren:** You remember the license plate? Car-model?##
+>
+##black| **RPC-377-SE5:** It was always too dark. Don’t think he had any of those fancy plates either. He seemed like one of those tinfoil nutters. Didn’t trust no government shit.##
+>
+##black| **Surveyor Sarren:** This Jimmy character, you ever see his face?##
+>
+##black| **RPC-377-SE5:** Course I couldn’t, he always had that fuckin’ mask on. He was tall, though. Tall and thin. Wore rustic clothes, farmer's shit: suspenders, flannel, you know the gist. Old man clothes. Looked nothing like the usual suit types you'd see comin' south from Chicago either. His hands, though… they were always clean, no calluses. Cut fingernails, fingers soft as a baby’s bottom.##
+>
+##black| **Surveyor Sarren:** You think he was lying. ##
+>
+##black| **RPC-377-SE5:** Far more about him was a mask than the shit on his face, that’s for fuckin’ sure.##
+>
+##black| **Surveyor Sarren:** Carry on.##
+>
+##black| **RPC-377-SE5:** I was blind. Angry. Angry people do stupid shit. I didn’t like Jimmy, didn’t buy into his crap, but you know how... when you're fucked up, you need someone who //gets you//? Someone who looks at all your bullshit, takes a step back and says 'fuck that, I'll be nice to you anyway'? That's how Jimmy was, back then. 'Nice'. Said he //understood me//. He'd lost someone too. I didn’t take any hard Manna at first. Just small doses, a couple mg, solid form. It was enough for some good trips. Before long, I think I was addicted to the shit. Numbed the mind, you know - fuck all the risks, I kept telling myself. But then… ##
+>
+##black| **Surveyor Sarren:** He had something bigger, didn't he.##
+>
+##black| **RPC-377-SE5:** You'd bet he did. Had a syringe this time, full of blue shit. He told me I could talk to my Dad again. //My Dad//, man. That I- I could see past all the stars in the sky, and find the part of me that was hidden. I might be a rationalist, but - I was broken, man. People like me, we-we only got so much shit going for us before we start reachin' for things we can’t understand. I… I… where was I?##
+>
+##black| **Surveyor Sarren:** You couldn’t understand?##
+>
+##black| **RPC-377-SE5:** Oh, right. There was a burning feeling when I injected. Like my body had been ran over by a semi. And- and I know how that feels. Had an accident a few years back with a motorbike. Can’t use my right hand anymore because of it. It fucking //hurts//.##
+>  
+##black| **RPC-377-SE5:**  This was different though. It was odd, feeling so happy while my entire body was on fire. I saw this, huge hexagon in the sky, a red light inside it on top of a… pyramid. Creatures... angels, really. Angels of crystal were movin' around me, things drifting in a city made of trees. They spoke to me, all soft like it was a secret. They spoke to me with my- with my… my dad’s voice. ##
+>
+##black| **Surveyor Sarren:**  You said your father was dead, correct?##
+>
+##black| **RPC-377-SE5:** Wh- of course he’s dead. It doesn’t change what I fucking heard! It’s a damn dream, anyway. Fuckin’ Jimmy was a liar. Know it now, at least, for whatever good it gives me.##
+>
+##black| **[A pause. Room fills with silence.]**##
+>
+##black| **RPC-377-SE5:** Woke up the next day in a coroner’s. Was found naked and dead on the side of Mainstreet, miles away from the bonfire. A family had me. I knew them from church. The doc said my heart had //stopped//. I didn't believe them. I yelled at the man, at the family, callin' him a nutcase. Stormed out, felt like fire was in my veins.##
+>
+##black| **Surveyor Sarren:** 'Stopped?'##
+>
+##black| **RPC-377-SE5:** Low oxygen shit, I don’t know. My hands didn’t stop shaking all day after that - but my addiction. It was... it was gone. I couldn't bring myself to take more, made me vomit. I decided I wanted out, after that. I- It’s not the same, you know. What’s the point of listening to your father speak if you can’t remember the words?##
+>
+##black| **[Silence.]**##
+>
+##black| **RPC-377-SE5:** Took me all of a week of running ‘fore Jimmy found me. I was marked, see. His goons said I owed a 'blood price'. They- they had people watching my family. One false move, and people I cared about would die. They’re everywhere, I don’t even know how deep it runs, I-##
+>
+##black| **Surveyor Sarren:** That’s why you became a seller.##
+>
+##black| **RPC-377-SE5:** //Porter//. There’s a difference. The sellers take the shit. They’re proud of it, says it gives ‘em a rush. Me? I had routes Jimmy would give me each week, we met by the bonfire place. I don’t know where he makes the drug, but… ##
+>
+##black| **Surveyor Sarren:** What about your old friends?##
+>
+##black| **RPC-377-SE5:** Gone like the wind. Some I think were a set-up. Others… I saw one, a few weeks back in a gig. She’d become one of their guinea pigs. They tested the drugs on those. Selling them off when they’re done.##
+>
+##black| **Surveyor Sarren:** Selling?##
+>
+##black| **RPC-377-SE5:** I don’t know. I had a few theories. Rich people like whores, right? It’s easier when they’re drugged up, I guess. No screaming. //God-//##
+>
+##black| **Surveyor Sarren:** It’s fine. You don’t have to talk about that.##
+>
+##black| **RPC-377-SE5:** T-thank you.##
+>
+##black| **Surveyor Sarren:** One more thing. Do you know anything about something called ‘the Seventh Life Community’? Any word on the streets?##
+>
+##black| **RPC-377-SE5:** What?##
+>
+##black| **Surveyor Sarren:** The Seventh Life Community.##
+>
+##black| **RPC-377-SE5:** The hell is that? I-##
+>
+##black| **[Banging sounds on the door.]**##
+>
+##black| **Surveyor Sarren:** //Shit//.##
+>
+##black| **RPC-377-SE5:** W-who’s that?##
+>
+##black| **Surveyor Sarren:** Shit, we have to go, //now//.##
+>
+##black| **RPC-377-SE5:** Oh Christ. I-is this the police? Jimmy always told me how he knew police. How he had people-##
+>
+##black| **Surveyor Sarren:** //Damnit!//##
+>
+##black| **[The rest of the recording has been redacted as per Project Morpheus’s Protocol 8. RPC-377-SE5 was found dead in his holdings three days later, having hanged himself using his bedsheets. Investigation regarding this incident closed in 1994. All files since regarding the commune, its members, or associated activities have since been scrubbed.]**##
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Auxiliary Documentation[[/span]]
+
++ AUXILIARY DOCUMENTATION: DOCUMENT 377-1: Jimmy's Manuscript
+
+------
+
+[[div class="sub_title"]]
+++++ Part of an ongoing recovery of documents restored from the second raid of RPC-377-1. Recovered from Archive 1B in the Cultural Affairs offices at OL-Site-███ under Site Director ████████.
+
+++++ Confiscated by ████████ █ Protection Division, Unit ████ under ████████████ in 2021.
+[[/div]]
+
+------
+
+[[div class="prompt"]]
+**Statement:** The following is a transcript of pertinent information salvaged from a cache of philosophical and religious works found underneath the floorboards of a private room adjacent to RPC-377-1. Works recovered include:
+* The New King James Bible, with the Old Testament removed and its pages burned.
+* The Book of Mormon, badly damaged.
+* A diary encoded under a half-cyphered manuscript. All other pages aside from one had been ripped out and burned in the trash-can in the corner of the room.
+* A sketchbook, with art similar to other symbols found on the vats within RPC-377-1.
+The translated cyphered text of the diary can be found below. Non-cyphered text is bolded and underlined.
+
+[[/div]]
+
+@@ @@
+
+[[div class="paper5 typewrite1"]]
+
+**CODE:** 5A11I//BJ
+
+------
+
+ THRUST IN THY SICKLE, AND REAP: FOR THE TIME IS COME FOR THEE TO REAP; FOR THE HARVEST OF THE EARTH IS RIPE.
+
+-_-__-___--_- _   -
+
+IF YE HAVE FAITH YE HOPE FOR THINGS WHICH ARE NOT SEEN, WHICH ARE TRUE.
+
+-_-__-
+
+**__They always told me to pray when I was younger.__**
+
+/ it was so beautiful when i found it in those woods those years ago / the thing born from the worlds womb /  an angel of the most high / come down from high heaven to me / me / not my brother / not the men and women who mocked me in the stables / //me// / me alone /
+
+__**This is all nonsense - all nonsense. But so is everything anyone believes, right? These days at least. Put on a mask, some traditional clothing, wax flowers out of words... the sheep will do anything for you. Anything to belong...**__
+
+/ i had been dying, a man alone in the woods / i was cold, i was alone / a rich man scorned, but i saw the light /
+
+__**The corpse was an easy profit. Found it in the woods one day, got doped to hell. I'd spent my whole life trying to be close to God... growing up in a family that did that kind of thing, you know. Old ministry downriver, by the Lakes. Mormon shit. We were Latter-Day Saints. Not taken kindly to in Mt. Faith, but I had a brother here. The black sheep in our family. He made me feel welcome, after I'd lost so much already.**__
+
+/ i drank the milk from the angels teats blue as sapphires / sup on manna from cradles net / enter the land of dreams / underwater angels / panthers of the deep / to streets of gold / from streets to the pyramid / i saw the MOST HIGH / resurrection key / the cradle of the WORLD / and i wept /
+
+__**Why be close to God, anyway? Why be close to God, when you could //be God?// That's something I never understood. No gray-haired sheep on a podium could tell me anything like that. Isn't it our right to learn mysteries?**__
+
+/ death to life / alpha and omega am i / life to death / brother will never reject me / fathers son /
+
+/ we will unite this town under our grief / for men can rise and indulge upon the flesh and the blood / the gifts we have been given to rise / to reap / to reave /
+
+__**Teenagers are so easy to grasp, to charm away from their lives. I was the same when I was younger. Always looking to find my place in the world, when the whole time my place wasn't in it anyway. Some days my conscience weighs on me. All those kids. All those parents. Gone. It's fine, though. They die, but then they come back. It's a baptism - a baptism in the Black River between Worlds, blue blood... my very own resurrection key. Reminds me what this is all really about. Every day I put on the mask, drive out of town and back in, get the kids. It's really all about power, isn't it? Power, and...**__
+
+/ three in one / three heads / me / my brother / enoch on high /
+
+__**My poor boy...**__
+
+/ i dream of walking in the forest / i dream of walking to the creek / dreams in the cracks / a city made of trees / diamonds fall in the east / past the ides of BABYLON /
+
+__**Trust the Spirit. He'll never lead you wrong. That's what my father always told me. But the Spirit never saved my boy when he died. The Spirit never saved my wife from killing herself. The Spirit did nothing. Nothing... nothing until I came to Mt. Faith. I found the real Spirit here...**__
+
+/ o elias / what am i to you / [[footnote]] It is worthy to note that the 'Elias' mentioned in the text could potentially refer to Elias Holmes, a philanthropist and  inventor who played a role in the development of early prototypes for nuclear reactors as part of the larger Manhattan Project during World War II. In his waning years, he became a recluse, whose efforts helped to reform Mt. Faith economically following the Great Depression. He is rumored to have ran several secret pet projects throughout the first half of the 20th century up until his death in 1947, most notably ███████████ ██████ ██████████, which is believed to be located somewhere in and around Mt. Faith, Illinois. This was c███████████ █████el.[[/footnote]]
+
+/ we look inside / and are eternal / sapphire spun /
+
+__**Manna 5. I spoke to my son through the veil the other day, in that city made of trees. They gave me a key. If I'm God... then why not? My son's been dead for years. Why can't I save him? It's just a thought, a passing fancy, but...**__
+
+/ for men can be angels too /
+
+/ we can be angels too / eat from the father's flesh / and we can /
+
+__**Could I-**__
+
+/ and we can /
+
+__**I-**__
+
+/ and we can fly /
+
+-_-__-___---_-__-___--_- _   -
+
+/ even the sun cant burn our wings /
+
+__**My son. My poor boy. I can save-**__
+
+-_-__-___--_- _   --_-__-___--_----___--_-
+ _   --_-__-___--_- _   -
+-_-_--__-__
+
+__**I can save them all.**__
+
+_--_--___--_--_--__
+
+[[/div]]
+
+@@ @@
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/fragment%3Arpc-377-3/seventhlife.png|caption={{Fig.2:}} Strange mural found painted on the west wall of a compartment below 'Jimmy's' room. |width=650px|align=center]]
+
+> **09.11.93**
+>
+> **Surveyor Reno:** In the book there was a key, all red and rusted. We tried it on a trapdoor we found in the burned room, under one of the floorboards. Long shaft down there. Lots of dirt. At the end, though... Saw the painting on the wall. Scrawled there all in golden paint are words, words in chicken scratch.  "Resurrection Key", they say. That's not the real part of it, though.
+>
+> **Surveyor Reno:** Below it all there was a tub. A tub with a child's body, embalmed and sunk into a pool of that awful blue drug, the vile liquid brimming with mosquito larva. Half the boy's body was nothing but brittle bones. Bones and sallow tendons, a skeleton-child. Taking samples, it was a nightmare. It was so- so //real//...  
+>
+>
+>
+>  **Surveyor Reno:** The boy. He was eleven years old.
+ _
+ _
+ _
+
+------
+@@ @@
+[[footnoteblock]]
+@@ @@
+
+[[module CSS]]
+
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.container {
+  color: #FFF;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 1200;
+}
+
+.sub_title {
+  font-family: 'Open Sans', sans-serif;
+  float: center;
+  width: 79%;
+  border: none;
+  margin: auto;
+}
+
+.block {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+
+  position: relative;
+  background-color: #FFC;
+  padding: 2rem;
+  max-width: 480px;
+}
+
+.block_b {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+
+  position: relative;
+  background-color: #e1c699;
+  padding: 2rem;
+  max-width: 480px;
+}
+
+.prompt {
+    float: center;
+    border: none;
+    border-radius: 4px;
+    background:#333;
+    color: #FFF;
+    width: 89%;
+    padding: 7px 17px;
+    margin: auto;
+}
+
+[[/module]]
+

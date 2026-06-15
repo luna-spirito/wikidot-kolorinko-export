@@ -1,0 +1,165 @@
+---
+title: "Myths & Magic Contest"
+tags: ["contest"]
+page_id: "1311639424"
+site: "rpcauthority"
+slug: "myths-and-magic-contest"
+revision: 18
+revision_id: "1366978398"
+author: 3952836
+timestamp: 1626026057
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:thaumaturgy-theme/code/1);
+[[/module]]
+
+[[module css]]
+:root {
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'Myths and Magic Contest';
+}
+[[/module]]
+
+[[module css]]
+#page-title {
+text-align: center;
+}
+[[/module]]
+
+[[image http://rpcauthority.wikidot.com/local--files/myths-and-magic-contest/blue-eden.png width="100%"]]
+
+[[=]]
+> //Thaumaturgy—the concept of casting magic and creating miracles through rituals, beliefs, and ideologies—has existed for millenia. The Authority, ever curious with the supernatural and anomalous, has always had a vested interest in researching Thaumaturgy, to discover every facet and mechanism of these magical systems.//
+> 
+> //What actions will cause flame to spark from your very hand? What intents of mind will bring rain pouring across a bone-dry desert? It is up to the Authority to catalogue this corner of the anomalous world, and to explore the many branches of magic that sorcerers study.//
+[[/=]]
+
+----
+
++ Official Placements
+
+> First place goes to [[[RPC-009| Vicarius Leti: The Lich Pope]]] by [[*user SovereignAuthority]] with +22!
+> 
+> Second place is a tie and goes to both: [[[contest:mythsmagiccontestvonpincier| The Last Bequest & The Sleeping Kings]]] by [[*user Von Pincier]] with +19!
+> And [[[rpc-776| The King & The Tide]]] by [[*user Worm that Walks]] with +19!
+> 
+> Third place is a tie and goes to both: [[[The Roar of War]]] by [[*user Doctor Lupin]] with +14!
+> And [[[RPC-590|Nine Thousand Lives & The Witchcraft of the Angra Mainyu, Who Is All Death]]] by [[*user Almarduk]] with +14!
+
+----
+
+[[div class="content-panel"]]
++ Writing Submissions 
+
+[[module ListPages separate="yes" category="contest" tags="+mythsmagic-writing -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+[!--
+----
+
++ Info-Graphic Submissions 
+
+[[module ListPages separate="yes" category="contest" tags="+mythsmagic-info -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+--]
+[[/div]]
+
+[[div class="content-panel"]]
++ Art Contest Submissions 
+[[=image zzzcsub1.png size="medium"]]
+The Mesopotamians by: Ashtor3th
+
+[[=image image0.jpg size="medium"]]
+A Curse on Containment by: Slimeisgood
+
+[[/div]]
+
+
+[[collapsible show="+ Archived Contest Info" hide="- Archived Contest Info"]]
+
++ Submissions Info
+
+[[==]]
+##var(--page-title-color)|**The Myths and Magic Contest**:## Create an RPC, tale or document about **Mythology** or **Magic**. You may choose either or both topics, and all entries will be competing in the same contest. The submission with the highest final rating will be the contest winner. The highest rated RPC entry will win the RPC-009 slot. Winners will earn bragging rights and featured slots on the front page. Those who do not win are encouraged to upload their submissions. 
+
+[[div style="display: flex;"]]
+[[div style="width: 50%; box-sizing: border-box; padding-right: 15px;"]]
+= **Mythology**
+
+If you choose to write under the topic of **Mythology**, you will be tasked with writing an article based on a legend, folklore or myth. There are many concepts to choose from and there's a lot of room to explore. You can take a literal approach and write a myth as a real anomaly, or you may take a more metaphorical route as long as the points of the myth are very core and apparent to the article. As long as the myth is explicitly involved, it may be entered.
+[[/div]]
+
+[[div style="width: 50%; box-sizing: border-box; padding-left: 15px;"]]
+= **Magic**
+
+If you choose to write under the topic of **Magic**, you will be tasked with writing an article that explores a magic system; some examples of magic and thaumaturgy from the Authority's perspective can be found on the **[[[thaumaturgy|Thaumaturgy Infopage]]]**. You may write about something entirely new, or write about any magic system that is already present in the site or exists in real history.
+[[/div]]
+[[/div]]
+[[/==]]
+
+##var(--page-title-color)|**Myths & Magic Art Contest**:## Create a piece of art which depicts a legend/folklore from mythology or depicts magic/thaumaturgy. The overall winner of this contest will be awarded an Intuos 5 drawing tablet, courtesy of [[*user Von Pincier]].[[footnote]]If the winner already owns a tablet, they will be encouraged to give their award to a runner-up who doesn't. The recipient will NOT have to pay for shipping. You will have to provide an address to Von for shipping.[[/footnote]]
+* To enter the art contest, contact [[*user Croal]] (Coupon#1773) or [[*user Vizlox]] (LPP#8656).
+* Submit your art piece before the 5th of July!
+
+##var(--page-title-color)|**Magic System Info-Graphic Contest**:## If your forte is more along the lines of info-graphics rather than art pieces, then fear not because there will be an additional contest category for informational depictions of specific magic systems. These can be in the form of charts, visual maps (such as the banner image on the Thaumaturgy page), or any other graphical depiction. The winner will be chosen based on which entry does the best job conveying the magic system in an organized, interesting and pleasing way.
+* The info-graphic can be based on any magic system, but you are encouraged to depict a magic system already used on-site or within a contest entry!
+* You may enter your info-graphic into the main art contest as well if you choose.
+
+----
+
++ Dates
+
+##var(--primary-text-color)|**Writing & Info-Graphic Submissions Open**:## 18th of June, 12AM EST
+##var(--primary-text-color)|**Writing & Info-Graphic Submissions Close**:## 30th of June, 11:59PM EST 
+##var(--primary-text-color)|**Voting Begins**:## 1st of July
+Winners will be announced on the **8th of July**
+
++ Rules
+
+* Do not coldpost. Writing submissions must receive two pieces of feedback in the drafts forum.
+* Wait until the submission period begins to upload your page.
+* Submissions must match the theme in a justifiable way.
+* Pre-existing drafts are allowed, so long as they have never been posted to the wiki.
+* Edits to works are allowed.
+* Only one RPC entry is allowed per user.
+* Do not request for people to change their vote on your entry, excessively push or pester people to rate it, or message an overtly substantial amount of people to read your entry such that it may provide you an unfair advantage.
+* Attempting to manipulate votes using alt accounts or other deceitful means will result in your entry being disqualified; you may also be barred from future contests or banned from the site.
+
+----
+
++ To Enter
+
+++ Writing Submissions: 
+
+1. Write your article and get feedback on the forums. 
+
+2. Post your entry to the site with the URL "Contest:MythsMagicContest<YourUserName>" with your site user name in place of <YourUserName>. For example, if a user named Chad were to post an entry it would have the URL rpcauthority.wikidot.com/Contest:MythsMagicContestChad. This page must be posted by you or a collaboration partner. You must receive feedback before posting.
+
+3. Add the tag "mythsmagic-writing" to your entry so it shows up on this page.
+
+++ Info-Graphic Contest Submissions: 
+
+1. Create your info-graphic. Once you are happy with it, post your entry to the site with the URL "Contest:MythsMagicInfo<YourUserName>" with your site user name in place of <YourUserName>. For example, if a user named Chad were to post an entry it would have the URL rpcauthority.wikidot.com/Contest:MythsMagicInfoChad.
+
+2. Add the tag "mythsmagic-info" to your entry so it shows up on this page.
+
+++ Art Contest Submissions:
+
+If you would like to enter the art contest, contact [[*user Croal]] (Coupon#1773) or [[*user Vizlox]] (LPP#8656) and submit your art piece before the 5th of July. Art pieces will be judged on the Discord at the end of the contest.
+
+[[footnoteblock]]
+[[/collapsible]]
+
+----
+
+[[div style="font-size: 85%"]]
+[[collapsible show="+ Contest Credits"]]
+Contest planning: [[user Blairin]], [[user croal]], [[user Fortunae]], [[user Vizlox]], [[user Von Pincier]]
+Writing contributors: [[user Blairin]], [[user Fortunae]], [[user Vizlox]], [[user Von Pincier]]
+Art pieces by [[user Fortunae]]
+[[/collapsible]]
+[[/div]]
+

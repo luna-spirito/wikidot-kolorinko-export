@@ -1,0 +1,228 @@
+---
+title: "RPC-377-1"
+tags: []
+page_id: "1307043529"
+site: "rpcauthority"
+slug: "fragment:rpc-377-1"
+revision: 7
+revision_id: "1360861034"
+author: 6436891
+timestamp: 1616139544
+---
+
+[[module CSS]]
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+/* main */
+.center {
+  text-align-last: center;
+}
+
+.blockbox {
+  background-color: #191919;
+  box-shadow: 2px 2px 1px #000;
+  margin: auto;
+  padding-bottom: 7px;
+}
+
+.mini-block {
+  width: 80%;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+.blockbox-2 {
+  width:80%;
+  background-color: #262626;
+  border-radius: 12px;
+  margin: auto;
+  padding: 1rem;
+  box-shadow: 1px 1px 2px #363636;
+}
+
+.manifest {
+  display: flex;
+}
+
+.g-letter {
+  width: 79%;
+  text-decoration: none;
+  border: 1px #FFF dotted;
+  background-color: rgb(169,169,169);
+  padding: 1em 2em;
+  border-radius: 15px;
+  margin: auto;
+  color: #000;
+}
+
+.page {
+    display: block;
+    overflow: hidden;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+    color: #000;
+    }
+.page p {
+    line-height: 20px;
+    margin: 0;
+}
+
+.conform {
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+}
+
+.image-bl {
+        float:right;
+        width:40%;
+        border: 1px dotted;
+        padding: 5px;
+        margin: 12px;
+}
+
+.custom {
+   background-color: #1F2125;
+   float: center;
+   width: 80%;
+   padding: 13px 15px;
+   font-family: 'PT Sans', sans-serif;
+   line-height: 100%;
+   margin: auto;
+   overflow-x: auto;
+}
+
+/* Working Folktale Border CSS */
+
+.folk {
+  background-color: #A8A18B;
+  color: #000;
+  font-size: 120%;
+  width: 40vw;
+  margin: 1em auto;
+  padding: 1rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.styled-border {
+  border-top: 30px solid;
+  border-bottom: 30px solid;
+  border-image: url("http://rpcsandbox.wdfiles.com/local--files/season-traveler/book-k-3.jpg") 50;
+}
+
+/* telegram-paper */
+.tele {
+  font-family: 'Special Elite', cursive;
+  font-weight: 900;
+  color: #000;
+
+  width: 90%;
+  background: url("http://rpcsandbox.wdfiles.com/local--files/season-traveler/blank-p.png");
+  border-radius: 8px;
+  margin: auto;
+  padding: 1.2rem;
+}
+
+[[/module]]
+
+[[div class="blockbox"]]
+
+[[=]]
+[[div style="padding:10px;"]]
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Organic Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sensory.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sensory Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-regenerative.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Regenerative Hazard[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-toxic.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Toxic Hazard[[/span]][[/span]]
+[[/div]]
+
+[[=]]
+[[image jimmy class="conform" width="100%" ]]
+[[/=]]
+
+Fig 1.A. Photograph recovered from a badly burned logbook located within RPC-377-1.
+[[/=]]
+[[/div]]
+
+------
+
+[[div]]
+[[div style="position: relative; float:right; margin: 10px;"]]
+[[image http://www.rpcauthority.wikidot.com/local--files/component:icons/beta-yellow.png]]
+[[/div]]
+
+**Registered Phenomena Code:** RPC-377
+
+**Object Class:** Beta-Yellow
+
+**Hazards:** Organic, Sensory, Regenerative, Toxic
+[[/div]]
+
+----
+[[=]]
+
++++ __Containment Protocols:__
+
+[[/=]]
+----
+
+RPC-377 is currently contained in the Cryptozoology Wing of OL-Site-███, where it has remained since its initial retrieval. RPC-377's containment chamber must be modified biannually to accommodate for corrosive elements and ACS fluctuations as a result of RPC-377 sublimation events. Referentially, AETs[[footnote]] Anomaly Experimentation Teams [[/footnote]] under Dr. Alfred Brennan as well as Prolab personnel handling RPC-377 have documented irregularities to RPC-377's composition since the early '90s.[[footnote]] See more in RCAD DOCUMENT-377-01: Interrogation of RPC-377-SE5[[/footnote]]
+
+Initial storage attempts were made using formaldehyde; this accidentally led to a corrosion of a third of the sample mass. Subsequent attempts by AETs in 1993 finally managed to obtain a more stable containment of RPC-377 for testing through the use of a modified form of cryogenic storage. Necessary transfer is required every 30 days in order to minimize decay. Should RPC-377 exhibit any extraordinary decay, a heat treatment is to be administered to eradicate any additional microorganisms remaining from retrieval as to lengthen its gestation period.
+
+RPC-377 is known to spontaneously sublimate at seemingly random intervals, giving off a noxious gas that induces semi-lethal suffocating effects of varying potency upon those that inhale it. Each sublimation event has a negative effect on ACS levels in the surrounding environment, which can result in a degradation of the material properties of its containment chamber. It is therefore recommended that all handling this anomaly wear gas masks as per regulations of OL-Site ███. In the event of such sublimation, RPC-377 is to be transferred to a temporary cold-vacuum to mitigate further loss of sample-size. As of 11/26/2020, only a quarter of the initial sample size of RPC-377 remains.
+
+RPC-377-2 is not permitted to be administered under any circumstances within the presence of RPC-377 or within OL-Site ███ without the express permission of the acting site director. If such unauthorized actions occur, they are to be reported directly to Dr. Brennan and the acting site director immediately.
+
+----
+[[=]]
+
++++ __Description:__
+
+[[/=]]
+----
+
+RPC-377 designates a carcass of indeterminate origin with a body structure analogous to terrestrial organisms belonging to the phylum //Chordata//. Further inspection of tissue samples from RPC-377 reveals it to be from an entirely different kingdom of life, despite initial phenotypic[[footnote]] Obvious, observable traits expressed by life.[[/footnote]] similarities.
+
+RPC-377 is around seven meters long and two meters wide, demonstrating bilateral symmetry with six protruding limbs total, three on either side. Each limb contains webbed appendages analogous to amphibian terrestrial life forms. It has an elongated tail that demonstrates homoplasy[[footnote]] A shared character between two species not arising from a common ancestor.[[/footnote]] with arachnids within genus //Scorpiones//, but due to mutilation of the tail-end of the carcass there is no commentary as to whether or not this phenotypic correlation is an apt one. Its head, while jawless due to tampering of the sample by its previous owners, is feline in appearance. Four large compound eyes are present, indicating potential dichromatic color vision when the organism was alive.
+
+Prominent nucleobases incongruous with the A-T-G-C-U common in terrestrial DNA and RNA were found in a conservative base-pairing of nucleotides in the organism’s genetic material, as evidenced through X-ray crystallography reports released in 2006 by ███████ Laboratories. Further analysis of its cell-structure is still ongoing but restricted by limited sample-size in the present day.
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/panther/mammary
+|caption={{Fig.1:}} Mammary gland cells extracted from one of the larger udder-like structures lining the underbelly of RPC-377.]]
+
+The vast majority of the carcass is covered in a thorny, multicolored keratin hide that upon acquisition was presumed to be impenetrable to most hand-weapons and firearms due to a misfire during extraction and subsequent attempts at removal from its chamber beneath RPC-377-1. Only the soft underbelly of the organism is exposed, appearing to be similar both in composition and thickness to deer hide. Mutilated 'mammary' anatomical structures of an indiscernible number can be found lining the exterior stomach of the organism. RPC-377's sex remains unverified due to both extensive mutilation of the corpse and a lack of understanding surrounding its species' reproduction. Said structures have unique seemingly pluripotent somatic cells that replicate indefinitely when submerged in varying concentrations of RPC-377-2.
+
+The body of the main sample is sourced from a major drug den for a cell of the now-defunct Seventh Life Community, an anarchist group with marginal power based in the poorer suburbs of the small town of Mt. Faith, Illinois from 1979-1993.[[footnote]]This town is now registered as an unincorporated community in present day and contained within the bounds of OL-Site-377 as per Project Morpheus’s restrictions after RPC-███’s demanifestation event.[[/footnote]] It was stored in a semi-vacuous space beneath RPC-377-1, accessible only by a small narrow stairwell to a red door, upon which the character for the Greek letter Omega was inscribed in white lettering.
+
+Upon its retrieval by Blackhold[[footnote]] A private investigations company requisitioned under a charter for the Axton-Hornsby Exploration Society in the 1960s following an altercation in Portland, Oregon.[[/footnote]]  operatives in 1993, the length of RPC-377 was discovered pocked with various square-shaped incisions, usually conjoined with the udder-like structures, where beforehand several pipes and tubes had been attached. These attachments had already been severed when the Authority finally collected RPC-377 in 1993.[[footnote]] It is presumed the group self-sabotaged their operations sometime shortly preceding Blackhold’s arrival. This evidence is corroborated by fire scars in various compartments in the surrounding facility, with large piles of burned books, records, and supplies.[[/footnote]]
+
+RPC-377-1 designates the self-titled ‘central garden’ of the drug-den, through which most operations were funneled within the Seventh Life Community’s fourteen-year occupation in Mt. Faith. It is presumed to also be where most meetings of an apparent 'inner cabal' of the group took place. Within it, a spacious semi-factorial workspace had been established for low-income subsidiaries of the group for some kind of manufacturing. Due to nearly a decade of unaccounted sublimation events on behalf of RPC-377, RPC-377-1 demonstrates extremely unstable ACS levels that have resulted in various levels of structural and temporal degradation in the immediate area both inside and outside the compound. Several bodies have been found fused into the walls - likely a result of the environment of RPC-377-1 becoming less habitable following RPC-377's continued stay beneath the garden.
+
+Three large vats with press-like mechanisms were situated lining the central corridor of the room. Tubes from the semi-vacuous space lead into these vats. Pictograms and design elements found scrawled on the vats have been analysed and correlated by Blackhold cyptohistorians to symbols from nearby Native American artwork across several cultural groups in the Great Lakes and Northeastern Woodlands regions. More specifically, the pictograms appear directly aligned with local folklore surrounding the chthonic entity Mishibijiw, or underwater panther, though this assertion is still hotly debated among Research circles in OL-Site-███. [[footnote]] Some researchers have also noted a superficial resemblance between these inscriptions and RPC-377, but this view is challenged by the decayed state of the carcass making such claims difficult to confirm or deny.[[/footnote]]
+
+Forensic analysis of the room reveals trace amounts of organic compounds similar to that of RPC-377 being present in these vats, though they had been in disuse for some time prior to Authority involvement. As of the present, they have been moved to and are contained in OL-Site-███, having continuously remained there since the dissolution of the Seventh Life Community following the enactment of Project Morpheus’s Protocol 9. It is presumed that they were used for the fermentation and distribution of RPC-377-2.
+
+RPC-377-2 refers to a Viderics-like extract processed within RPC-377-1 and formally designated the codename "SOUP" by Videric Dept. personnel. A large storage chamber filled with supercooled tanks of RPC-377-2 was found beneath RPC-377-1. The remaining liquid that was not eradicated by the Seventh Life Community was thereby confiscated and stored within OL-Site-███ for testing purposes.
+
+----
+
++++ [http://rpcauthority.wikidot.com/rpc-377/offset/1 APPENDIX 377-01: SPECTRAL ANALYSIS & CHEM PROFILE OF RPC-377-2.]
+
+------
+@@ @@
+[[footnoteblock]]
+@@ @@
+

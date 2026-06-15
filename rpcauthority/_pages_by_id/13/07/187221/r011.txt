@@ -1,0 +1,93 @@
+---
+title: "RPC-790"
+tags: ["aggression-hazard", "aquatic-hazard", "ballistic-hazard", "explosive-hazard", "gamma", "organic-hazard", "red", "rpc", "sapient-hazard", "sentient-hazard"]
+page_id: "1307187221"
+site: "rpcauthority"
+slug: "rpc-790"
+revision: 11
+revision_id: "1519834629"
+author: 3050074
+timestamp: 1714112819
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);
+:root {
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Pisces_Authority_Logo.png);
+}
+[[/module]]
+
+[[include component:rate]]
+
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-red.png]]
+
+**Registered Phenomena Code:** 790
+
+**Object Class:** Gamma-Red
+
+
+[[include component:hazards aggression=true|ballistic=true|sapient=true|sentient=true|explosive=true type=properties|aquatic=true|organic=true]]
+
+**Containment Protocols:** Measures to cover up RPC-790 are enacted, including designating the area which it inhabits as internationally prohibited waters under the cover story "minefield". The area that RPC-790 inhabits is designated OL-Site-790, and is to be under observation at all times. At least one observational vessel is to be stationed around 500 km away from RPC-790 at all times.
+
+------
+
+**Description:** RPC-790 is an organism resembling a specimen of //Balaenoptera musculus//,[[footnote]] The blue whale.  [[/footnote]] outfitted with a variety of weapons, both anomalous and non-anomalous. These weapons include:
+
+* Shkval 2 submarine torpedoes, attached to the bottom of RPC-790. Have been observed deployed multiple times.
+* VTT-1 Strizh submarine torpedoes, attached beneath the two flippers of the whale. Have not been observed deployed.
+* Unnamed small arms, attached within the mouth of RPC-790. Bullets appear to treat the water like air and water somehow does not impede the firing mechanism. Have been observed deployed multiple times.
+* 9K32 Strela-2 surface-to-air torpedoes, mounted atop both shoulder blades of the whale. Have not been observed to be deployed, but one appears to be missing.
+
+RPC-790 appears to have an infinite amount of ammunition — testing with remote-controlled vehicles have shown that it is capable of firing its submarine torpedoes and small arms an unlimited amount of times. RPC-790 is tattooed with a large red star around its blowhole, but investigation into Russian paramilitary development have uncovered no evidence of anything like RPC-790 ever being developed.
+
+Analysis of RPC-790 puts its age from 60 to 70 years. RPC-790 has sustained damage along its tail fin and left flipper and swims lopsided, but this does not appear to impede its speed. Wounds on the skin of RPC-790 are consistent with wounds sustained by whales after fighting with giant squids.
+
+When RPC-790 is not in combat, it swims rapidly around the same 2 km^^2^^ patch of water in the Gulf of Mexico at a depth of about 300 m. Whenever RPC-790 reaches the border of its patch, it abruptly halts and begins swimming in the opposite direction.
+
+If any marine vehicle enters within 400 km of RPC-790, it will begin firing after giving a warning in Morse code, first with its missiles, then if the vehicles get closer, the small arms located within RPC-790's mouth. Due to this property, Authority forces have been unable to get close to RPC-790 without incurring excessive losses.
+
+A radio signal occasionally emanates from RPC-790 every hour. The signal appears to be an elderly human male; voice suggests a heavy smoker. A decoded version of this signal is shown in the discovery logs. RPC-790 seems to be unable to receive signals.
+
+----
+
+**Discovery:** RPC-790 was discovered after reports of a "cursed patch" of water near the gulf of Mexico where boats seemed to go missing much more often were given. Authority Naval Vessel scout "Sancus" was dispatched for reconnaissance on ██/█/19██.
+
+> **Discovery log**
+> 
+> //The Sancus encounters an unknown craft.//
+> //Transmission begins.//
+> 
+> **RPC-790:** STATE YOUR BUSINESS
+> 
+> //Crew on the Sancus were unable to decipher what RPC-790 had said, and so resorted to protocol.//
+> 
+> **ANV-SANCUS (In English Morse):** CIVILIAN SURVEYING VESSEL
+> 
+> //A 30 second pause is observed.//
+> 
+> **RPC-790 (In Russian Morse):** STATE YOUR BUSINESS OR I MUST ASSUME YOU ARE A HOSTILE
+> 
+> **ANV-SANCUS (In English Morse):** CIVILIAN SURVEYING VESSEL
+> 
+> //No signals are heard for three minutes, then RPC-790 begins to fire upon the Sancus. A signal begins to emanate from RPC-790, which was recorded and later decoded.//
+> 
+> **RPC-790:** I have been followed by Americans. Please respond. Hostiles spotted. Requesting backup from mother base.
+> 
+> //ANV Sancus begins to flee the scene after making note of RPC-790's coordinates.//
+> 
+> **RPC-790:** Please respond. Requesting backup.
+> 
+> //ANV Sancus escapes the range of RPC-790. Orders are given to continue observation of RPC-790. Thirty-five minutes pass without any response, when RPC-790 begins its transmission again.//
+> 
+> **RPC-790:** Please respond. The light is dimming. Please respond.
+
+----
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-789]]] | RPC-790 | [[[RPC-791]]] >>
+[[/=]]
+

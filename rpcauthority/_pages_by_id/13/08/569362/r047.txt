@@ -1,0 +1,516 @@
+---
+title: "ArcOS Theme"
+tags: ["theme"]
+page_id: "1308569362"
+site: "rpcauthority"
+slug: "component:authorityos-theme"
+revision: 47
+revision_id: "1367146769"
+author: 7218790
+timestamp: 1626898510
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);
+[[/module]]
+
+__**Research Division version:**__
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);@@
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/researchicon.png);@@
+> @@    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/researchhead.png);@@
+> @@    --link-color: #8400B1 !important;@@
+> @@    --link-hover-color: #8400B1 !important;@@
+> @@    --new-page-color: #4D0067 !important;@@
+> @@    --sidebar-crit-corner-color: #8400B1;@@
+> @@}@@
+> @@[[/module]]@@
+
+__**Protection Division version:**__
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);@@
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/protecticon.png);@@
+> @@    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/protecthead.png);@@
+> @@    --link-color: #006300 !important;@@
+> @@    --link-hover-color: #006300 !important;@@
+> @@    --new-page-color: #004600 !important;@@
+> @@    --sidebar-crit-corner-color: #006300;@@
+> @@}@@
+> @@[[/module]]@@
+
+__**Containment Division version:**__
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);@@
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/containicon.png);@@
+> @@    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/containhead.png);@@
+> @@    --link-color: #AE5200 !important;@@
+> @@    --link-hover-color: #AE5200 !important;@@
+> @@    --new-page-color: #853F00 !important;@@
+> @@    --sidebar-crit-corner-color: #AE5200;@@
+> @@}@@
+> @@[[/module]]@@
+
+__**Administration Division version:**__
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);@@
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/adminicon.png);@@
+> @@    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/adminhead.png);@@
+> @@    --link-color: #4A4980 !important;@@
+> @@    --link-hover-color: #4A4980 !important;@@
+> @@    --new-page-color: #393863 !important;@@
+> @@    --sidebar-crit-corner-color: #4A4980;@@
+> @@}@@
+> @@[[/module]]@@
+
+**__Cosmic Embers version:__**
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:authorityos-theme/code/1);@@
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aauthorityos-theme/GRPC_Logo.png);@@
+> @@    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aauthorityos-theme/spacehead.png);@@
+> @@    --link-color: #298f9e !important;@@
+> @@    --link-hover-color: #30a8ba !important;@@
+> @@    --new-page-color: #1e6670 !important;@@
+> @@    --sidebar-crit-corner-color: #298f9e;@@
+> @@    --header-custom-text: 'OuternetOS v.21.12';@@
+> @@    --WT-header-custom-text: 'OuternetOS v.21.12';@@
+> @@    --header-tagline-custom-text: 'Standardized GRPC operating system c. 2001';@@
+> @@    --WT-header-tagline-custom-text: 'Standardized GRPC operating system c. 2001';@@
+> @@}@@
+> @@[[/module]]@@
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+ArcOS (Authority.OS) Theme
+ 
+Created by Wit Grzegorzewski with code borrowed from the RCPA, Administration, and Protection Themes!
+
+The icon, found in #asset_repository, was created by TheVolgun!
+
+*/
+ 
+:root {
+    --body-background: #000000
+    --basic-border: 1px solid #FFFFFF;
+    --basic-border-color: #FFFFFF;
+    --nav-hover-background: #1b2d6e;
+    --primary-text-color: #FFFFFF;
+    --text-color: #FFFFFF;
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/icon.png);
+    --header-icon-adv: left 0em top 1rem no-repeat;
+    --header-icon-size: auto calc(9.5rem - 2.125rem);
+    --WT-header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/icon.png);
+    --WT-header-icon-adv: left 0em top 1rem no-repeat;
+    --WT-header-icon-size: 12%;
+
+    --blockquote-background: #1E1E1E;
+    --blockquote-border: 1px dashed #FFFFFF;
+    --content-bar-background: transparent;
+    --content-bar-background-color: #1E1E1E;
+    --primary-background: #1E1E1E;
+    --content-box-shadow-color: transparent;
+    --news-block-body-panel-background-even: #2C2C2C;
+    --topbar-background: #2E3AFF;
+    --topbar-dropdown-background: #2E3AFF;
+    --content-box-border-color: #FFFFFF;
+
+header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/icon.png);
+
+header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/witheader2.png);
+
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/witheader2.png);
+    --header-text-visibility: hidden;
+    --header-tagline-color: #FFFFFF;
+    --header-color: #FFFFFF;
+    --header-custom-text: 'ArcOS v.7.5';
+    --header-tagline-custom-text: 'Standardized RPCA operating system c. 1983';
+    --header-tagline-text-shadow: none;
+    --header-font: serif !important;
+    --header-tagline-font: serif !important;
+    --header-font-weight: bold;
+    --header-font-size: auto;
+    --header-tagline-font-size: auto;
+
+    --link-color: #2E3AFF;
+    --link-hover-color: #2E3AFF;
+    --new-page-color: #171C9C;
+
+    --topbar-text-color: #fff;
+    --topbar-dropdown-background: #fff;
+    --topbar-hover-background: #000;
+    --topbar-divider: 1px solid #fff;
+    --topbar-dropdown-border-color: transparent;
+    --topbar-hover-color: #fff;
+    --topbar-dropdown-color: #000;
+
+    --sidebar-color: #ABABAB;
+    --sidebar-divider-color: #ABABAB;
+    --sidebar-header-color: #ABABAB;
+    --sidebar-hover-background: transparent;
+    --sidebar-hover-color: #fff;
+    --sidebar-mobile-open-menu-color: #ABABAB;
+    --sidebar-mobile-open-menu-border: 3px solid #fff;
+    --sidebar-mobile-open-menu-background: #000;
+    --sidebar-mobile-background: #000;
+    --sidebar-mobile-color: #fff;
+    --sidebar-mobile-header-color: #fff;
+    --sidebar-crit-corner-color: #2E3AFF;
+
+    --sidenote-open-background: #1b2d6e;
+
+    --tabview-side-scrollbar-thumb-background: #2c3454;
+    --tabview-side-scrollbar-thumb-hover-background: #313958;
+    --BT-scrollbar-thumb-background: #262d4a;
+    --BT-scrollbar-thumb-hover-background: #2c3454;
+
+    --search-button-background: #181c29;
+    --search-button-hover-background: #222738;
+    --search-input-color: #242733;
+    --search-input-hover: #1f2438;
+
+    --WT-body-background: #06092B
+    --WT-nav-hover-background: #1b2d6e;
+    --WT-primary-text-color: #2340a8;
+
+    --WT-blockquote-background: rgba(255,98,0,0.3);
+    --WT-blockquote-border: 2px dashed #ff6505;
+    --WT-content-bar-background: rgba(0,0,0,0.15);
+    --WT-topbar-dropdown-background: #2E3AFF;
+    --WT-content-box-border-color: #0099ff;
+
+WT-header-icon: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/icon.png);
+
+WT-header-background: url(http://rpcauthority.wdfiles.com/local--files/component:authorityos-theme/witheader2.png);
+
+    --WT-header-text-visibility: hidden;
+    --WT-header-tagline-color: #2833E5;
+    --WT-header-custom-text: 'ArcOS v.7.5';
+    --WT-header-tagline-custom-text: 'Standardized RPCA operating system c. 1983';
+
+    --WT-link-color: #2E3AFF;
+    --WT-new-page-color: #171C9C;
+
+    --WT-search-button-background: #181c29;
+    --WT-search-button-hover-background: #222738;
+    --WT-search-input-color: #242733;
+    --WT-search-input-hover: #1f2438;
+
+    /* blockquote text color */
+    --tv1: #FFFFFF;
+    --WT-tv1: #FFFFFF;
+
+    /* blockquote link color */
+    --tv2: #2E3AFF;
+    --WT-tv2: #2E3AFF;
+
+    /* blockquote link underline */
+    --tv3: none;
+    --WT-tv3: none;
+
+    /* blockquote link hover color */
+    --tv4: #2E3AFF;
+    --WT-tv4: #2E3AFF;
+
+    /* content-box background */
+    --tv5: none;
+    --WT-tv5: rgba(0,153,255,0.3);
+
+    /* content-box horizontal rule color */
+    --tv6: #000000;
+    --WT-tv6: var(--content-box-border-color);
+
+    /* image caption color */
+    --tv7: #FFFFFF;
+    --WT-tv7: #FFFFFF;
+
+    /* content-box text color */
+    --tv8: var(--text-color);
+    --WT-tv8: #000;
+    
+    /* content-box link color */
+    --tv9: var(--link-color);
+    --WT-tv9: #2E3AFF;
+
+    --BT-scrollbar-background: #1E1E1E;
+    --BT-scrollbar-thumb-background: #fff;
+    --BT-scrollbar-thumb-hover-background: #aaa;
+    --BT-resizer-background: blue;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+#page-title {
+   border-color: #FFFFFF;
+}
+
+blockquote {
+    color: var(--tv1);    
+}
+ 
+blockquote a {
+    color: var(--tv2);
+    text-decoration: var(--tv3);
+}
+
+blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5 {
+    color: var(--tv1);
+}
+ 
+blockquote a:hover {
+    color: var(--tv4);
+}
+ 
+blockquote hr {
+    background: #FFFFFF;
+}
+
+.content-box {
+  background: var(--tv5);
+}
+
+.content-box hr {
+    background: #FFFFFF;
+}
+ 
+h1, h2, h3, h4, h5, h6 {
+    color: #FFFFFF;  
+    font-family: serif !important;  
+}
+
+.image-caption {
+    color: var(--tv7);
+}
+
+.content-box {
+    color: var(--tv8);
+}
+
+.content-box a {
+    color: var(--tv9);
+}
+
+#page-content>hr {
+  font-size: 14px;
+  padding-bottom: 1px;
+  background: none;
+  border-bottom: transparent;
+  border-top: 1px solid var(--basic-border-color);
+}
+
+@media (min-width: 1500px) {
+    #main-content {
+        margin: auto 28%;
+    }
+ 
+    #side-bar {
+        position: absolute;
+        left: 10%;
+        overflow-y: auto;
+        height: 100%;
+        overflow-x: hidden;
+    }
+ 
+    #content-wrap {
+        margin-left: 0px;
+        margin-right: 0px;
+        max-width: unset;
+    }
+}
+ 
+@media (min-width: 1000px) {
+    @media (max-width: 1499px) {
+        #main-content {
+            margin: auto 20%;
+        }
+ 
+        #side-bar {
+            position: absolute;
+            left: 0;
+            overflow-y: auto;
+            height: 100%;
+            overflow-x: hidden;
+        }
+ 
+        #content-wrap {
+            margin-left: 0px;
+            margin-right: 0px;
+            max-width: unset;
+        }
+    }
+}
+ 
+
+div#container-wrap-wrap:before {
+  z-index: 4010;
+  background: linear-gradient(#444 50%, #000 50%);
+  background-size: 100% 4px;
+  background-repeat: repeat-y;
+  opacity: .14;
+  box-shadow : inset 0px 0px 1px 1px rgba(0, 0, 0, .8);
+  animation: pulse 5s linear infinite;
+}
+ 
+@keyframes pulse {
+  0%   {transform: scale(1.001);  opacity: .14; }
+  8%   {transform: scale(1.000);  opacity: .13; }
+  15%  {transform: scale(1.004);  opacity: .14; }
+  30%  {transform: scale(1.002);  opacity: .11; }
+  100% {transform: scale(1.000);  opacity: .14; }
+}
+ 
+div#container-wrap {
+  // ... positioning
+  z-index: 4100;
+}
+ 
+div#container-wrap:before {
+  content : '';
+  position : absolute;
+  top : 0px;
+  width : 100%;
+  height : 5px;
+  background : #fff;
+  background: linear-gradient(to bottom, rgba(255,0,0,0) 0%,rgba(255,250,250,1) 50%,rgba(255,255,255,0.98) 51%,rgba(255,0,0,0) 100%); /* W3C */
+  opacity : .1;
+  animation: vline 15s linear infinite;
+  z-index: 20;
+}
+ 
+div#container-wrap:after {
+  box-shadow: 0 2px 6px rgba(25,25,25,0.2),
+              inset 0 1px rgba(50,50,50,0.1),
+              inset 0 3px rgba(50,50,50,0.05),
+              inset 0 3px 8px rgba(64,64,64,0.05),
+              inset 0 -5px 10px rgba(25,25,25,0.1);
+}
+ 
+@keyframes vline {
+  0%   { top: 0px;}
+  100% { top: 100%;}
+}
+ 
+div#container::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%),
+      linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  z-index: 20;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
+ 
+div#container::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(18, 16, 16, 0.1);
+  opacity: 0;
+  z-index: 2;
+  pointer-events: none;
+  animation: flicker 0.15s infinite;
+}
+ 
+@keyframes flicker {
+  0% {
+    opacity: 0.27861;
+  }
+  5% {
+    opacity: 0.34769;
+  }
+  10% {
+    opacity: 0.23604;
+  }
+  15% {
+    opacity: 0.90626;
+  }
+  20% {
+    opacity: 0.18128;
+  }
+  25% {
+    opacity: 0.83891;
+  }
+  30% {
+    opacity: 0.65583;
+  }
+  35% {
+    opacity: 0.67807;
+  }
+  40% {
+    opacity: 0.26559;
+  }
+  45% {
+    opacity: 0.84693;
+  }
+  50% {
+    opacity: 0.96019;
+  }
+  55% {
+    opacity: 0.08594;
+  }
+  60% {
+    opacity: 0.20313;
+  }
+  65% {
+    opacity: 0.71988;
+  }
+  70% {
+    opacity: 0.53455;
+  }
+  75% {
+    opacity: 0.37288;
+  }
+  80% {
+    opacity: 0.71428;
+  }
+  85% {
+    opacity: 0.70419;
+  }
+  90% {
+    opacity: 0.7003;
+  }
+  95% {
+    opacity: 0.36108;
+  }
+  100% {
+    opacity: 0.24387;
+  }
+}
+ 
+sup {
+    vertical-align: top;
+    position: relative;
+    top: -0.5em;
+}
+
+body {
+    background-attachment: fixed;
+    font-family: serif !important;
+    font-size: 15px;
+    image-rendering: pixelated;
+    background-color: #0C0D1D;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

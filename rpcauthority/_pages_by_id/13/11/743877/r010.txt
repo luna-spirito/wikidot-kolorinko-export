@@ -1,0 +1,75 @@
+---
+title: "GD-EAST"
+tags: ["document", "personnel"]
+page_id: "1311743877"
+site: "rpcauthority"
+slug: "gd-east"
+revision: 10
+revision_id: "1541748618"
+author: 5982545
+timestamp: 1770048882
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aadministration-theme/Administration.png width="150px"]]
+
+[[=]]
+++ >> Office of the Directorate <<
+
+
++ GLOBAL DIRECTOR "EASTCOM"
+[[/=]]
+----
+
+[[# GD-EAST]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Eastern%20Command.png width="200px"]]
+
+**GD-EAST:** Global director representative for Eastern Europe.
+
+**Personality Archetype:** Cold and isolated woman of east Slavic descent. Beautiful, decisive, intelligent and quiet with slow resolve. Spent better years of her life as an agent of KGB. Her main goal is to stabilise EAST authority assets while also seizing the opportunity to make some good cash on the side.
+
+Her ties to the former Soviet Union and numerous Siberian occult societies make her loyalties uncertain. Internal cohesion is however guaranteed for GD-EAST with surprisingly low rates of corruption. Due to this fact, the Authority has been known to turn a blind eye towards some more esoteric proposals and questionable resource allocations. Anything goes as long as the east remains comparatively quiet and stable.
+  
+**Relationships:** Stable working relationships with GD-ASIA and lukewarm respect for GD-WEST and GD-NORTH. She has been known to engage in sort of "cold war" games with GD-AFRI due to their incompatible philosophies. She's known to favor protection and research divisions while disregarding containment, as in her eyes their job is better done by protection reinforced by division departments.
+----
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/gd-eastcom-sandbox/EASTCOM_Black_Witch.png|caption=Black Witch patch.|width=200px|align=right]]
+Black Witch is a unit of Alpha-1 which works as a personal MST and a close confidants for GD-EAST. Not just another soldier unit, Black Witch members are hand picked from highly intelligent, inquisitive and curious agents with extensive knowledge in the occult and anomalous mechanisms. While their combat ability is expected to be nothing less of excellent and specialized on quick and surgical strikes.
+
+Black Witch utilizes a combination of weaponry and specialized tools from all over the Authority. They usually use the AK platform rifles in combination with a simple handgun and a specialized tools for detection of anomalous activity such as Videric pI Sensor Brain Implants, Coherency Scale Detectors or Memotic Scalar Occular Visualizers.
+Certain members of Black Witch may request limited surgical augmentation of their perceptive and combat abilities, most forms of brain implants are however not recommended due to their corruptive potential.
+----
+
+**Rap Sheet**
+
+* **Bodyguards:**  3 Personnel
+* **Technicians:**  1 Personnel
+*    **Monitor:**     2 Personnel
+*  **Overwatch:**  3 Personnel
+* **Rifle:** SLR-106CR
+* **Standard Monitor Sensor Equipment:** pI sensor Mk. VI
+
+----
+
+Articles involving GD-EAST or Black Witch:
+[[module ListPages separate="no" tags="+gd-east +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-east -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+
+[[/div]]
+

@@ -1,0 +1,80 @@
+---
+title: "GD-NORTH"
+tags: ["document", "personnel"]
+page_id: "1311743892"
+site: "rpcauthority"
+slug: "gd-north"
+revision: 5
+revision_id: "1541748932"
+author: 5982545
+timestamp: 1770050134
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aadministration-theme/Administration.png width="150px"]]
+
+[[=]]
+++ >> Office of the Directorate <<
+
+
++ GLOBAL DIRECTOR "NORTHCOM"
+[[/=]]
+----
+
+[[# GD-NORTH]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Northern%20Command.png width="200px"]]
+
+**GD-NORTH:** Global director representative for North America.
+
+**Personality Archetype:** Hard Core American Patriot who fully believes in the concept of manifest destiny. Decisive, aggressive, and fully committed to the goal of protecting humanity from the anomalous. Is perfectly willing to flex Authority power if it means containing the anomalous, and cares little for the objections of any potential GOIs or AOIs. Can easily be described as a war-hawk.
+ 
+Favors Protection above other Divisions, as they tend to align with his viewpoint and modus operandi the most often. He sees them as the most effective way of fulfilling the Authority's goals.
+
+**Relationships:** Supports any decision that will directly strengthen the Authority's position. Does not support giving influence or containment responsibilities to other GOIs or AOIs, preferring to have the Authority alone deal with the anomalous. Frequently tries to gain SOUTHCOM's support.
+
+----
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/gd-northcom/Devils%20Hand.png|caption=Devil's Hand patch.|width=200px|align=right]]
+The Devil's Hand is a unit of Alpha-1 that is tasked with guarding the current NORTHCOM GD at all times. As the personal bodyguards of GD-NORTHCOM, they are to be hand selected or approved by each new incumbent. To avoid divisional, regional, and political conflict, these recruits are to be taken from the NORTHCOM officers pool who have shown exceptional prowess in the field and in a strategical capacity.
+
+Devil's Hand specifically utilizes NORTHCOM manufactured weaponry, based on the AR platform, for their bodyguard and black op purposes. The HK417 is the issued rifle of the members of Devil's Hand, but they may switch to another AR platform rifle upon request.
+
+Shotguns, fragmentation grenades, destructive devices, or otherwise explosive devices are not authorized for use in this division under all but cataclysmic circumstances, as the richochet and potential danger to the VIP is too great for regular use. Any member however, may apply to use a designated marksmans rifle after acquiring a distinguished marksmanship badge.
+
+----
+
+**Rap Sheet**
+
+* **Bodyguards:** 6 Personnel
+* **Overwatch:** 2 Personnel
+* **Rifle:** HK417
+* **Designated Marksman Rifle:** MK 13 SPR
+
+----
+
+Articles involving GD-NORTH or Devil's Hand:
+[[module ListPages separate="no" tags="+gd-north +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-north -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+
+
+[[=]]
+> +++++ [ DECLASSIFICATION PENDING GD APPROVAL ]
+[[/=]]
+[[/div]]
+

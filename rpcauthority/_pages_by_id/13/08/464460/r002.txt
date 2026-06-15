@@ -1,0 +1,26 @@
+---
+title: "_9"
+tags: []
+page_id: "1308464460"
+site: "rpcauthority"
+slug: "special:_9"
+revision: 2
+revision_id: "1361997446"
+author: 3118961
+timestamp: 1617324159
+---
+
+[[module css]]
+body:after {
+  content: "";
+  position: fixed;
+  bottom: -10vh;
+  left: 90vw;
+  background: url(https://www.pngkey.com/png/full/5-54202_sadly-the-single-black-hair-and-the-wax.png) no-repeat;
+  background-size: 100px;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+}
+[[/module]]
+

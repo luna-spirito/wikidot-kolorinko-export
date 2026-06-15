@@ -1,0 +1,77 @@
+---
+title: "GD-EURA"
+tags: ["document", "personnel"]
+page_id: "1311743881"
+site: "rpcauthority"
+slug: "gd-eura"
+revision: 8
+revision_id: "1541748988"
+author: 5982545
+timestamp: 1770050372
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aadministration-theme/Administration.png width="150px"]]
+
+[[=]]
+++ >> Office of the Directorate <<
+
+
++ GLOBAL DIRECTOR "EURASIACOM"
+[[/=]]
+----
+
+[[# GD-EURA]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Eurasia%20Command.png width="200px"]]
+
+**GD-EURA:** Global director representative for Eurasia.
+
+**Personality Archetype:** An old, but sharp, man from the Mediterranean belt. GD-EURA started his career in the Authority as a simple accountant within the Presidium, but quickly rose in its ranks due to his economical expertise in several fields of finance and resource management until he was finally chosen to manage the entire economic ecosystem of Eurasia. He has always been seen as cold, methodical, and even cruel in his actions, but has always come around to reveal his plans to benefit any specific region or project he may currently be working with. He is also the one to manage most, if not all of the Authority front-companies in his region and those around it.
+ 
+GD-EURA does not favor any specific Division, not even the Presidium itself, and as such, it is always a mystery what he will decide to be the best economic course of action in a voting session. Most people think of him as running the Authority as if it were simply a company, but they can’t deny his efficiency at doing so.
+
+**Relationships:** Whatever GD-EURA may support or not depends almost exclusively on the economical benefit the Authority may gain from it in the long term, while of course not forgetting the Authority’s main goal within the world — or so he says. Some argue GD-EURA is the closest to his economic partner in America, although some of their operations may not always turn out to be both-sided in their benefits. Most of his other relationships are entirely business-based.
+
+----
+
+[[include component:image-block name=Task_Force_Eurasia.png|caption=Genie's Wishes patch.|width=200px|align=right]]
+
+MST Alpha-1-EURA ("Genie's Wishes'') is the designation for the personal protection service unit tasked with guarding the current EURASIACOM GD at all times. As such, members of this unit tend to be hand selected or approved by each new incumbent. To avoid divisional, regional, and political conflict, these recruits are to be taken from the EURASIACOM officers pool who have shown exceptional prowess in the field and in a strategic capacity.
+
+Unlike other units, Genie's Wishes is privately founded and equipped by GD-ERUA, often utilizing weaponry and assets not widely available to Protection personnel such as: ECh-Canon eye augmentations, Composite Metal Foam bulletproof vests, and experimental assault rifles such as the Zhyper-077, with a grand variety of additional equipment up to personnel request.
+
+Genie's Wishes also possess a select group of ACI and Comms personnel that may aid GD-EURA with non-physical form of attacks to his person or Authority-Owned businesses. Any type of explosive weaponry is strictly prohibited as it may endanger GD-EURA’s life. However, other kinds of experimental assets, both defensive or offensive, may be approved at the review of GD-EURA.
+
+----
+
+**Rap Sheet**
+
+* **Bodyguards:** 6 Personnel
+* **ACI/Comms Support:** 4 Personnel
+* **Rifle:** Zhyper-077
+* **Experimental Equipment:** Wagner-Phillips Stabilizer - Deployable Personal Shield
+
+----
+
+Articles involving GD-EURA or Genie's Wishes:
+[[module ListPages separate="no" tags="+gd-eura +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-eura -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+
+[[/div]]
+

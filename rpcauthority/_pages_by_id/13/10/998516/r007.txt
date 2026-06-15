@@ -1,0 +1,676 @@
+---
+title: "PCAAO Format"
+tags: ["format", "lore", "pcaao"]
+page_id: "1310998516"
+site: "rpcauthority"
+slug: "pcaao-format"
+revision: 7
+revision_id: "1462167556"
+author: 3118961
+timestamp: 1655734048
+---
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/reworked-pcaao-format/code/1);
+[[/module]]
+
+++ **Theme:**
+> ++ **Note: Theme is incomplete**
+> [[module css]]
+> @import url(http://rpcsandbox.wikidot.com/reworked-pcaao-format/code/1);
+> [[/module]]
+
+[[collapsible]]
+
+++++ Credit goes to [[*user DrPierson]]'s [[[http://rpcsandbox.wikidot.com/component:pcaao-theme|theme]]] which served as the base for the theme and [[*user televisionist]]'s [[[http://rpcauthority.wikidot.com/component:remnants-office-theme|theme]]] for the code for the image block.
+[[code type="css"]]
+
+/*
+    PCAAO Theme
+    [2021 Wikidot Theme]
+*/
+ 
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+ 
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou&display=swap');
+ 
+#top-bar {
+top: 152px;
+}
+ 
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: #311c1c!important;
+    }
+}
+
+table.wiki-content-table th {
+   background-color: #dedcdc;
+   color: #9E1218;
+   border: 2px solid #9E1218;
+   font-size: 14px;
+   box-shadow: 0px 0px 1px 1px #0a0a0a;
+   padding: 5px;
+}
+
+table.wiki-content-table td {
+   background-color: #e2e2e2;
+   color: #010101;
+   border: 2px solid #9E1218;
+   box-shadow: 0px 0px 1px 1px #0a0a0a;
+   padding: 10px;
+}
+
+table.wiki-content-table {
+   box-shadow: none;
+}
+
+#header {
+    background-image: url(http://rpcsandbox.wdfiles.com/local--files/component%3Apcaao-theme/PCAAOHeading.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(9.5rem - 2.125rem);
+    background-position: 15px 12px;
+}
+ 
+.interwiki_title {
+    color: black;
+}
+ 
+.interwiki_entry a {
+    color: black;
+}
+ 
+/* LINKS */
+ 
+a {
+    color: #bb0001;
+}
+a:hover {
+    color: #860606;
+    text-decoration: none;
+}
+a.newpage {
+    color: #dd0001;
+}
+ 
+/* PAGE TITLES */
+h1 {
+    color: #010101;
+}
+
+#page-title {
+
+  display: none;
+
+}
+
+#page-info, #action-area h1 {
+    color: #dddc00;
+}
+ 
+div#container-wrap {
+    background: url(https://i.imgur.com/4QojC7o.png) top left no-repeat !important;
+    background-size: auto;
+    background-size: 100% 432px !important;
+}
+ 
+#search-top-box-input {
+    background-color: #861111;
+}
+ 
+#search-top-box-input:hover {
+    background-color: #4f0a0a;
+}
+ 
+#search-top-box-form input[type="submit"] {
+    background: linear-gradient(to bottom, #AC2E2E, #921F1F);
+}
+ 
+#search-top-box-form input[type=submit]:hover {
+    background: linear-gradient(to bottom, #802525, #C43232););
+}
+ 
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h1 a::before {
+    content: "人民异常搜集委员会";
+    color: #ffff00;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 80%;
+    left: 35px;
+    position: relative;
+}
+ 
+#header h1 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+ 
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: "People's Committee for the Acquisition of Anomalous Objects";
+    color: #ffff00;
+    text-shadow: none;
+    font-size: 100%;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    position: relative;
+    left: 35px;
+    top: 2px;
+}
+
+:root {
+    --nav-hover-background: none;
+    --sidebar-hover-background: none;
+
+    --image-block-caption-background: #eaece2;
+    --image-block-border: 10px solid #eaece2;
+    --image-block-background: #eaece2;
+    --image-block-box-shadow: var(--content-box-shadow);
+}
+
+.collapsible-block-folded {
+    background-color: #000000;
+    padding: 0.4em 0.4em;
+    border: 2px solid #9E1218;
+    font-size: 180%;
+    font-weight: bold;
+    text-align: center;
+}
+ 
+.collapsible-block-unfolded-link {
+    background-color: #000000;
+    padding:0.4em 0.4em;
+    border:2px solid #9E1218;
+    font-size: 180%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mainCont {
+    color: #9E1218;
+    background-color: #161616;
+}
+ 
+.mainCont hr {
+  background-color: #ccc;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+blockquote {
+    border-radius: 2px;
+    background-color: #e2e2e2;
+    color: #9E1218;
+    font-family: monospace;
+    border-style: solid;
+    font-size: 14px;
+    box-shadow: 0px 0px 1px 1px #0a0a0a;
+    word-wrap: break-word;
+}
+
+#toc {
+    border: 1px solid #9E1218;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+    color: #eee
+}
+/* ACCOUNT */
+#login-status {
+    color: white;
+}
+#login-status a {
+    background: transparent;
+    color: white;
+}
+#login-status a:hover {
+    background: transparent;
+    color: white;
+}
+#login-status ul a {
+    background: white;
+    color: #bb0001;
+}
+#login-status ul a:hover {
+    background: white;
+    color: #dd0001;
+}
+/* TOPBAR */
+top-bar a {
+    color: white;
+    background: transparent;
+}
+#top-bar ul li ul {
+    border: solid 2px #9E1218;
+    box-shadow: 0 2px 6px #000001;
+    border-top: 0;
+}
+#top-bar ul li a {
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 1px;
+    overflow: hidden;
+}
+ #top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    border: solid 2px #9E1218;
+    background: #e8e8e8 !important;
+    color: black;
+}
+ #top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-width: 0;
+    width: 150px;
+    height: auto;
+    max-height: none;
+    padding-top: 0;
+    padding-bottom: 0;
+} 
+#top-bar ul li:hover a:hover {
+    background: #e8e8e8 !important;
+    color: #860606;
+    border: solid 1px #000001;
+    text-decoration: underline;
+}
+ 
+/* TABS */
+ 
+.yui-navset defaults to .yui-navset-top,
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-bottom: solid black;
+}
+ 
+/* SIDEBAR */
+#side-bar div.menu-item a:hover {
+    background-color: none;
+    color: #9E1218 !important;
+    text-decoration: underline !important;
+    width: auto !important;
+}
+
+#side-bar hr {
+    display:none;
+}
+
+#side-bar .side-block {
+    width: auto;
+    color: #860606;
+    text-decoration: none;
+    background:#1f2021; !important;
+    position: absolute; !important;
+    display: inline-block; !important;
+    border-radius: 10px; !important;
+    border:solid 1px #ffffff; !important;
+    float:none; !important;
+    padding:10px; !important;
+    box-shadow: 1px 2px 3px 0px #23334c; !important;
+}
+ 
+#side-bar .heading{
+    padding: 0.8em 1em 0 -0;
+    position: relative;
+    border-top: 1px solid #555;
+    margin: 1em calc(-1em + 2px) 0.5em 0;
+    color: #dddc00;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+
+#image-block {
+    border: var(--image-block-border);
+    width: 300px;
+    box-shadow: var(--image-block-box-shadow);
+    background: #eaece2;
+    text-color: black;
+}
+ 
+.image-caption > p:nth-child(1)
+{
+color: #111;
+}
+ 
+.enlarge-true
+{
+background-color: #111;
+}
+[[/code]]
+[[/collapsible]]
+-----
+
+++ **Tone:**
+Committee documents are written in a more laxed form of clinical tone compared to the Authority.
+
+There is an emphasis on history as shown by the History Section. The Committee always looks for the cause and effect, the context to give meaning. Do note that they don't have full knowledge of events most of the time, and often will have to rely on theories.
+
+**Note:** In the PCAAO Format, the "Description" document and the "Containment" document are two separate component instead of being compiled together like the standard RPC format. Therefore it is entirely up to you on the placement of these two documents within the article: If you feel like using the "Containment" document first to build up the anomaly / follow the standard RPC format it's completely fine.
+
+++ **Format:** "Description & Containment"
+
+[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]
+
+[[include :rpcsandbox:component:pcaao-docid width=60%|docid=Anomaly No.[##][[footnote]] **Note:** Remember that Anomaly designations are given //Chronologically//; the further/earlier you go the newer they are. [[/footnote]]]]
+@@@@
+[[include :rpcsandbox:component:pcaao-format 
+|name=[Nickname for Anomaly]
+|type=[Object / Entity / Location / Other]
+|level=[Beneficial/ Harmless/ Caution/ Dangerous / Ceased]
+|author=[Name of Lead Researcher]
+|date=[Date of the latest update]
+|location=[Facility and/or Location it is at]
+|show=show
+|image=[Image]
+|caption=[Image Caption]]]
+
+@@@@
+[[include :rpcsandbox:component:pcaao-subject subject=Details:|width=83%]]
+
+++ **1. Physical Description**
+[Physical Description. Descriptions of appearance. Anything that can be explained away by conventional science. Remove this if the anomaly in question is entirely anomalous in every aspect. As an example, [[[RPC-399]]] may be an alien, but their biology is still describable in some sense.]
+
+++ **2. Anomalous Characteristics**
+Anomaly No.## differs from the Consensus in # ways:[[footnote]] Alternate starting lines:
+"Anomaly No.## deviates from Normality in # ways:" or a mixture of the two. [[/footnote]]
+
+# [List of anomaly]
+# [List of anomaly]
+ # **Note:** [Additional notes on the anomaly]
+# [List of anomaly]
+ # **Note:**["Consensus" is just a Committee expression for "Consensus World" or "Normalcy in the eyes of the public". In regards to Anomalous Characteristics, the numbered list is meant for summarizing the anomalies it possess, maybe one or two examples or additional "Notes" with each cases. ]
+
+++ **3. History**
+[History of the anomaly, from Imperial China's run-in, all the way to Committee own's series of encounters with the anomaly. Note that any information prior to 1900s will likely be scarce as most document is lost to Authority and Foreign Powers after the Boxer Uprising.
+
+PCAAO's later investigation/experiment with the anomaly could be moved into Attachments]
+
+-----
+[[f>image http://rpcsandbox.wikidot.com//local--files/ttpy-pcaao/pcaao.png]]
+~~~~
+[[/div]]
+
+
+[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]
+
+[[include :rpcsandbox:component:pcaao-docid width=60%|docid=YC-[##]-Security]]
+
+++ **Security Measures**
+[Protection of the Facility; How to keep unwanted out and the wanted in. For uncontained anomalies, write about how to prepares for potential civilian interaction and capture/engagement methods]
+
+++ **Management and Upkeep**
+[Management of the anomaly. Generally not applicable for uncontained anomalies]
+
+-----
+[[f>image http://rpcsandbox.wikidot.com//local--files/ttpy-pcaao/pcaao.png]]
+~~~~
+[[/div]]
+
+
+++++ Code:
+[[collapsible]]
+Prime Document:
+> @@[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]@@
+> 
+> [[include :rpcsandbox:component:pcaao-docid width=60%|docid=Anomaly No.[##] ]]
+> @@@@@@@@
+> [[include :rpcsandbox:component:pcaao-format 
+> |name=[Nickname for Anomaly]
+> |type=[Object / Entity / Location / Other]
+> |level=[Beneficial/ Harmless/ Caution/ Dangerous / Ceased]
+> |author=[Name of Lead Researcher]
+> |date=[Date of the latest update]
+> |location=[Facility and/or Location it is at]
+> |show=["show" to display image, remove this if you don't want image]
+> |image=[Image]
+> |caption=[Image Caption]]]
+> 
+> @@@@@@@@
+> @@[[include :rpcsandbox:component:pcaao-subject subject=Details:|width=83%]]@@
+> 
+> @@++ **1. Physical Description**@@
+> [Physical Description]
+> 
+> @@++ **2. Anomalous Characteristics**@@
+> Anomaly No.## differs from the Consensus in # ways:
+> 
+> @@# [List of anomaly]@@
+> @@# [List of anomaly]@@
+> @@ # [Additional notes on the anomaly]@@
+> @@# [List of anomaly]@@
+> 
+> @@++ **3. History**@@
+> [History of the anomaly, from Imperial China's run-in, all the way to Committee own's series of encounters with the anomaly. Note that any information prior to 1900s will likely be scarce as most document is lost to Authority and Foreign Powers after the Boxer Uprising]
+> 
+> @@-----@@
+> @@[[f>image http://rpcsandbox.wikidot.com//local--files/ttpy-pcaao/pcaao.png]]@@
+> @@~~~~@@
+> @@[[/div]]@@
+
+Security Document:
+> @@[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]@@
+> 
+> [[include :rpcsandbox:component:pcaao-docid width=60%|docid=YC-[##]-Security]]
+> 
+> @@++ **Security Measures**@@
+> [Protection of the Facility; How to keep unwanted out and the wanted in. For uncontained anomalies, write about how to preparations for potential civilian interaction]
+> 
+> @@++ **Management and Upkeep**@@
+> [Management of the anomaly. Generally not applicable for uncontained anomalies]
+> 
+> @@-----@@
+> @@[[f>image http://rpcsandbox.wikidot.com//local--files/ttpy-pcaao/pcaao.png]]@@
+> @@~~~~@@
+> @@[[/div]]@@
+
+[[/collapsible]]
+-----
++++ **"Addendums & Incidents"**
+
+The designation of Attachments follows the //Heavenly Stems// (//Jia// (甲), //Yi//(乙), //Bing//(丙), //Ding//(丁), //Wu//(戊), //Ji//(己), //Geng//(庚), //Xin//(辛), //Ren//(壬), //Gui//(癸)), should Attachment exceeds 10 (Very Unlikely), they'll go into the //Earthly Branches// as the second-digit (//Zi//, //Chou//, //Yin//, //Mao//, //Chen//, //Si//, //Wu//, //Wei//, //Shen//, //You//, //Xu// and //Hai//)
+
+E.G. The 5th Attachment would be //Attachment Wu//, the 11th Attachment would be //Attachment Jia-Zi//
+
+[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]
+[[include :rpcsandbox:component:pcaao-docid width=60%|docid=[ID]]]
+[[=]]
+[[span style="font-size: 175%; color:#111"]] **ATTACHMENT [_]:** [Name(Optional)] [[/span]]
+[[/=]]
+
+[Overview]
+
+-----
+
+[Additional Details if needed]
+
+-----
+[[f>image http://rpcsandbox.wikidot.com//local--files/ttpy-pcaao/pcaao.png]]
+~~~~
+[[/div]]
+
+[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]
+[[=]]
+[[span style="font-weight: bold; font-size: 175%; color:#111"]] Incident Report [[/span]] 
+[[/=]]
+[[include :rpcsandbox:component:pcaao-subject subject=##^^st/nd/rd/th^^ Month, Year|width=70%]]
+
+[What happened in the incident]
+
+[[/div]]
+
+++++ Code:
+[[collapsible]]
+Attachments:
+> @@[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]@@
+> [[include :rpcsandbox:component:pcaao-docid width=60%|docid=[ID]]]
+> @@[[=]]@@
+> @@[[span style="font-size: 175%; color:#111"]] **ATTACHMENT [_]:** [Name(Optional)] [[/span]]@@
+> @@[[/=]]@@
+> 
+> [Overview]
+> 
+> @@-----@@
+> 
+> [Additional Details if needed]
+> 
+> @@-----@@
+> @@[[f>image http://rpcsandbox.wikidot.com//local--files/ttpy-pcaao/pcaao.png]]@@
+> @@~~~~@@
+> @@[[/div]]@@
+
+Incident Report:
+> @@[[div style="margin: 10px; padding: 12px; border: #ccc 2px solid; background: #e2e2e2;font-size: 102%; color: #111;box-shadow: 0px 0px 1px 1px #0a0a0a;background: url(http://rpcsandbox.wdfiles.com/local--files/reworked-pcaao-format/paper.jpg)"]]@@
+> @@[[=]]@@
+> @@[[span style="font-weight: bold; font-size: 175%; color:#111"]] Incident Report [[/span]] @@
+> @@[[/=]]@@
+> @@[[include :rpcsandbox:component:pcaao-subject subject=##^^st/nd/rd/th^^ Month, Year|width=70%]]@@
+> 
+> [What happened in the incident]
+> 
+> @@[[/div]]@@
+[[/collapsible]]
+-----
+
++++ **Miscallaneous:**
+
+
+**Emails:**
+
+> From: [SENDER]
+> To: [RECIEVER]
+> Date: [WEEKDAY], [MONTH] [DATE], [YEAR] at [TIME]
+> Subject: [SUBJECT]
+> 
+> ----
+> 
+> [RECIEVER],
+> 
+> [[span style="margin: 25px;"]] [TEXT] [[/span]]
+> 
+> [[>]]
+> [END SENTENCE],
+> 
+> [SENDER]
+> [[/>]]
+
+[[collapsible]]
+> > From: [SENDER]
+> > To: [RECIEVER]
+> > Date: [WEEKDAY], [MONTH] [DATE], [YEAR] at [TIME]
+> > Subject: [SUBJECT]
+> > 
+> > ----
+> > 
+> > [RECIEVER],
+> > 
+> > @@[[span style="margin: 25px;"]] [TEXT] [[/span]]@@
+> > 
+> > [[>]]
+> > [END SENTENCE],
+> > 
+> > [SENDER]
+> > [[/>]]
+[[/collapsible]]
+
+-----
+
++++ **Additional Technicalities:**
+
+**Format:**
+[[tabview]]
+  [[tab Document ID]]
+**Designation:** The Committee has a decently sized catalogue of anomalies within its catalogue. They designates their anomalies Anomaly No.XX where __the numbers are given chronologically__, so it's based upon the time of their discovery or at least the time of documentation.
+
+The reason to designate it as "Anomaly No.XX" and not just "Anomaly-XXX" stems from my view of how those designation would be referred to in Chinese. ("Anoamly No.XX" is a translation of "XX号异常" (Anomaly Numbered XX / The XXth Anomaly))
+
+In earlier days of the Committee[[footnote]]~1950s to ~1960s[[/footnote]] objects don't really have numberings. Soon after it's militarization by China with the loss of PLA SD, PCAAO starts cataloguing anomalies chronologically based on the date of their initial discovery. 
+
+[[collapsible show="Approx. Time of Designation of Anomalies"]]
+||~ Designations ||~ Year documented ||~ Notes ||
+|| 1 - ~300 (~27 per year) || 1950 - 1962 || The earliest days of PCAAO. 1962 is around the time where number-based designation were introduced. As a result the chronology of the designation could be a lot more messy than the rest ||
+|| ~300 - ~400 (~13 per year) || 1960s || N/A ||
+|| ~400 - <500 (~8 per year) || 1970s - 1982|| N/A ||
+|| <500 - ~650 (~19 per year) || 1980s || Introduction of the first iteration of the Mobile Formation ||
+|| ~650 - ~775 (~12 per year) || 1990s || N/A ||
+|| ~775- ~900(~12 per year) || 2000s || N/A ||
+|| ~900 - ~1025(~11 per year) || 2010s || N/A ||
+|| ~1025 - ~1150(~11 per year) || 2010s || N/A ||
+[[/collapsible]]
+
+For informal designation it would probably be YC-##[[footnote]]Short of "Yì Cháng"/"Anomaly"[[/footnote]] for external organizations.
+  [[/tab]]
+  [[tab Type/Level]]
+**Type:** This is pretty much ripped straight from the classification from Research Tone minus "Human" type because it doesn't differ much from entities.
+
+> **Types:** Object / Entity / Location / Other
+
+**Level:** This is PCAAO's equivalent of the "Classes". It basically follows the SEKTN system from SCP with "Harmless" to "Dangerous" corresponding to "Safe, Euclid and Keter", and "Beneficial" and "Ceased" corresponding to "Thaumiel" and "Neutralized" respectively. 
+
+> **Levels:** Beneficial / Harmless / Caution / Dangerous / Ceased
+  [[/tab]]
+  [[tab Location]]
+**Location:** The format would be [Location,[[footnote]] If applicable [[/footnote]] City, Country]. If the object is located within China, then refer to the Provinces it is in, instead of the Country.
+
+- **Facilities:** Naming convention starts with a designation "10##[[footnote]]For Mainland Facilities; Facilities in locations considered to by the Chinese government as part of theirs, thus not necessarily internationally-recognized borders, the *cough* contested/conflicted *cough* regions [[/footnote]]" and "11##[[footnote]]For Foreign Facilities; Siberia, Africa, the polar regions and what not[[/footnote]]", this is then followed by a simplification of the Facility's purpose, ending with the designation of the place at the end.
+
+> **Example:** 1017 Fauna Management Facility
+> **Example:** [[[rpc-670|1029 Marine Facility]]]
+> **Example:** [[[rpc-361|1041 Port Facility]]]
+  [[/tab]]
+[[/tabview]]
+
+
+-----
+++++ **Protection Equivalents:**
+[[include :rpcsandbox:component:image-block name=https://upload.wikimedia.org/wikipedia/commons/f/f3/Map_of_Theatres_of_PLA_en.svg|caption=Division of Regions following PLA's Command Theatres. (Cica 2016)]]
+
+**Anomaly Guard:** Internal guards of PCAAO facilities. Most often organized into Battalions to oversee facilities across provinces. 
+
+Anomaly Guards will be the first units sent to retrieve anomalies under normal circumstances. They will also be the ones in charge of long-term containment of PCAAO anomalies. 
+
+If it is required of them to dedicate units to specific anomalies they'll form "XXX-Anomaly Guard [Size]" units.
+
+Naming go as follows: [Number]st/nd/rd/th[[footnote]] For smaller-sized divisions, E.g. AG squads separated for individual anomaly containment or individual AG companies guarding a facility. [[/footnote]] + [Region/Province/Prefecture] + Anomaly Guard + [Size of forces][[footnote]] 
+Company (~100) 
+Platoon (~28) 
+Squad (~9) [[/footnote]]
+
+> **Example:** National Anomaly Guard Force ("National" Level)
+> **Example:** Eastern Anomaly Guard Regiment ("Region" Level)[[footnote]] A Region-level Battalion serve as additional reinforcement for Provinces during containment breaches [[/footnote]]
+> **Example:** Jiangsu Anomaly Guard Battalion ("Province" Level)[[footnote]] A Province-level Battalion encompasses all AG Companies/Platoons/Teams within the Province. [[/footnote]]
+> **Example:** Nanjing Anomaly Guard Company ("Prefecture-City" Level)
+
+[[include :rpcsandbox:component:image-block name=http://rpcsandbox.wikidot.com/local--files/reworked-pcaao-format/MF.png|width=100%|caption=Approximated Organization of the Division.|align=center]]
+
+**Mobile Formation:** A Division of mobile infantry units, PCAAO's primary force for engaging and securing anomalies within Chinese borders. 1/3 of the MF (Specifically every 1 Infantry Squads in the Company) is consisted of [http://rpcauthority.wikidot.com/anomaly-197-manufactured-manpower Anomaly-197] which serve as front soldiers.
+
+MF will be the second unit deployed when AGs prove to be insufficient. It is uncommon for the entirety of MF be mobilized for a single operation. During containment operations, an optimal task-force will be organized through the combination of specific MF and AG Comapanies/Squads. 
+
+MF don't usually serve long-term containment role and will be mobilized to somewhere once an anomaly is fully contained, which would then be handed back to their respective AGs.
+
+**People's Liberation Army:** The PLA only mobilize their tanks and fighters when MF is overwhelmed and requires total firepower. 
+
+They will would however most certainly be involved for foreign engagements.[[footnote]] Referring border skirmishes and not necessarily overseas operation like those in Africa but is equally probable. [[/footnote]]
+
+----
+
+[[=]]
+[[collapsible show="[+] Footnote" hide="[-] Footnote"]]
+[[<]]
+[[div class="content-box" style="margin-top: 50px;"]]
+[[footnoteblock]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
