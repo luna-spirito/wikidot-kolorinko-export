@@ -1,0 +1,337 @@
+---
+title: "Missing RPC"
+tags: ["event"]
+page_id: "1448506326"
+site: "rpcauthority"
+slug: "missing-rpc"
+revision: 62
+revision_id: "1532180993"
+author: 5982545
+timestamp: 1757281123
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+[[/module]]
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Pinyon+Script');
+
+.note-manila { text-shadow: none; }
+.note-manila .heading::before { content: ""; }
+
+.blockquote {
+  margin: 12.8px 40px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  padding: 10px 10px;
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+.ACI_Paperback {
+    color: #000;
+    border: solid 3px #000000;
+    background: #FFEFDD;
+    padding: 25px;
+    margin-bottom: 25px;
+    text-shadow: none;
+}
+.ACI_Paperback blockquote {
+    background: #d4c2ae;
+
+    border-left: 4px solid #56603a;
+    border-right: 4px solid #56603a;
+    border-radius: 2px;
+    box-shadow: 0px 2px 10px black;
+}
+.ACI_Paperback strong { color: black; }
+.ACI_Paperback h3 strong { color: #7c8c54; }
+
+
+.newpaper_1 {
+    padding: 1em;
+    margin: 1em;
+    background: #ebe2ca;
+    color: black;
+}
+
+.newpaper_2 {
+    padding: 1em;
+    margin: 4%;
+    background: #efe6cd;
+    color: black;
+}
+
+.newpaper_3 {
+    padding: 2em;
+    margin: 1em;
+    background: #f6e7cd;
+    color: black;
+}
+
+.unmargined > p {
+    color: #303030;
+}
+[[/module]]
+
+[[div class="image"]]
+[[=image https://rpcauthority.wdfiles.com/local--files/missing-rpc/Main%20Image%20Postcard%20Fixed%20%28Missing%20RPC%29.png style="width: 100%; border: 4px solid rgb(182 169 130 / 80%);"]]
+[[/div]]
+
+A surge in missing person cases has racked North America. There has been a series of rumors surrounding our National Parks. Dark rumors. In particular, travel advisories have been issued at Grand Teton National Park in Wyoming and Copper Canyon in Chihuahua, Mexico, due to their dramatic spike in accidents. A perfect storm in the public eye has brewed. Eye-witness reports, unexplainable homicide cases, nuclear testing in Nevada -- to the average person, these events are unconnected. But to the initiated, a web of lies is unfolding.  With nothing but the whispers of a shadow government coming to protect us, people turn to self-reliance to keep their communities safe.
+
+In hopes of gaining either fame or enlightenment, a movement is born. A small cliche has flooded our forests, dedicated to proving the establishment wrong. They are conspiracy bloggers, unlicensed zoologists, gun enthusiasts, collectors of the macabre, and amateur documentarians. Supplied with nothing but their wit, whatever rifle they can smuggle in, and their undying morale, these people are not acclimated to what lies beyond the surface. 
+
+These hunters, and the mythic entities they clash with, stand to cause more harm to the world than to themselves. A weakened Authority monitors the situation from the shadows, only intervening when necessary or least costly. Still, it is their duty to minimize civilian exposure to the anomalous, archiving all potential interactions and intercepting all civilian caught anomalies. Field agents must prevent harm if possible; cover up if necessary.
+
+The truth is out there, somewhere, and for once, we can’t contain it. 
+
+[[div class="blockquote"]]
+[[=]]
++ The Event is Over!
+[[/=]]
+
+Congratulations to [[user The Son of Man]] with the contest winner [[[http://rpcauthority.wikidot.com/report-on-the-esoteric-state-of-appalachia|Report On The Esoteric State Of Appalachia]]] at a perfect 5 stars, [[user Raggabrash]] in second place with [[[RPC-624]]]: //The Hidebehind// at 4.7 stars, and [[user JimmyBoyHaha]] in third with [[[RPC-429]]]: //Whistling in the Dark// at 4.4 stars.
+
+As promised, all entries will be featured on the front page. The event page is still open to post-contest articles. Staff team would like to thank both the dozen authors able to finish their drafts and the few of you who at least tried to write for the event. Successful contests really vindicate the hours our Contest Team puts into these things. And remember, keep an eye out for Post-Event articles.
+[[/div]]
+
+[[collapsible show="[+] Deadlines & Rules" hide="[-] Deadlines & Rules"]]
+
+[[html]]
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cRxbY7QuZGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[[/html]]
+----
+[[f>image https://rpcauthority.wdfiles.com/local--files/missing-rpc/ACI%20Propaganda%20Poster%20%28Missing%20RPC%29.png style="width: 300px; border: 4px solid rgb(182 169 130 / 80%);"]]
++ Submission Info
+
+##var(--primary-text-color)|**CATCH A LIVE ONE**:## It's man vs. nature, hunters vs. predators. Create an RPC or tale related to cover-ups, conspiracism, North-American folklore, or the great outdoors. The whackier, the better! While not required, it is highly suggested that your submission features ordinary people and cryptid hunters in some capacity. **1st place** will go to the highest-rated article and earn both bragging rights and a 50k Toddbux reward in the main Discord. The **top three entries** will be featured on the front page. To enter, add the "missingrpc" tag to your work.
+
+[[div style="padding-left: 5%;"]]
+##var(--primary-text-color)|**Submissions Open**:## 17th of June, 12:00PM EDT
+##var(--primary-text-color)|**Submissions Close**:## 15th of September, 11:59PM EDT
+Winners will be announced on the **22nd of September, 2023** 
+*  Contact [[*user televisionist]] (!Zingo Zango Zalgo Zongo Bongo#6309#2181) for any questions/concerns.
+[[/div]]
+
+++ Rules
+
+* The primary locations of the event are Grand Teton National Park in Wyoming and Copper Canyon, Mexico. However, **users may write about different nature preserves** if they please.
+* You may contribute as many entries as you like, assuming all drafts match the event themes/subject manner justifiably.
+* Your article must receive **two pieces** of crit posted in the drafts forum. DO NOT COLD POST.
+* Multiple submissions, post-submission edits/article reworks, and pre-existing, unpublished drafts are allowed.
+* Do not excessively advertise, vote-hound,  manipulate, or request a vote change for your submissions.
+* Using alt accounts or other deceitful means of vote manipulation will result in a life ban and disqualification from future contests.
+[[/collapsible]]
+
+[[collapsible show="[+] Contest Auxilary Documents" hide="[-] Contest Auxilary Documents"]]
+----
++ Auxiliary Documents
+
+[[tabview]]
+[[tab Miscellanous Documents ]]
+
+[[div class="newpaper_1"]]
+
+[[div class="unmargined" style="font-size: 400%; text-align: center; font-family: fangsong;"]]
+THE EUGENE COLUMN
+[[/div]]
+[[div class="unmargined" style="margin: 0; text-align: center; font-size: 200%; font-family: fangsong; word-spacing: 14px;"]]
+Herald Against the Shadow of Ignorance 
+[[/div]]
+[[div style="margin-top: 0px"]]
+-----
+[[/div]]
+[[div style="font-size: 200%; margin: 0px; padding-left: 10px;"]]
+Is it "Cryptid" Season? How this trend could affect your Summer Camping
+[[/div]]
+[[f=image https://rpcauthority.wdfiles.com/local--files/missing-rpc/Dudes%20Hunting%20%28Missing%20RPC%29.jpeg style="width: 100%;"]]
+
+[[/div]]
+
+[[div class="newpaper_2" style="font-family: 'Anton';"]]
+[[div class="unmargined" style="font-size: 200%; text-align: right;"]]
+Jacobins'
+[[/div]]
+[[table style=" font-weight: bold; border: none; width: 100%; border-top: 2px solid black; border-bottom: 1px solid black; font-family: sans-serif;"]] [[row]]
+[[cell]]
+Los Mochis
+[[/cell]]
+[[cell style="text-align: right;"]]
+March 25
+[[/cell]]
+[[/row]][[/table]]
+[[div style="font-size: 50%"]]
+@@ @@
+[[/div]]
+[[div class="unmargined" style="text-align: center; font-size: 250%;"]]
+Scandal in Soda Springs: Candice Crowley Steps down
+[[/div]]
+@@@@
+[[div class="unmargined" style="font-size: 143%; font-family: sans-serif;"]]
+A representative from the Recreational Participation Committee promises a fiery crackdown on Tuesday.
+[[/div]]
+[[/div]]
+
+[[div class="newpaper_3"]]
+
+[[f<image https://rpcauthority.wdfiles.com/local--files/missing-rpc/NSP%20Logo%20%28Missing%20RPC%29.png style="width: 220px; font-family: 'pinyon'; font-weight: bolder;"]]
+[[div class="unmargined" style="font-size: 220%"]]
+"It's in the Water" How a local mother is fighting misinformation to get her son back.
+[[/div]]
+@@@@
+[[image https://rpcauthority.wdfiles.com/local--files/missing-rpc/guardian-heads-2%20.png style="width: 100%;"]]
+----
+"Ashcroft - Despite local advisory, game hunters continue to pour..."
+[[/div]]
+
+“It's the beginning of the end. And that’s what’s exciting. We have a nation in thirds; One third is gone, and they’re forever asleep. The other third already knows-- are aware of what’s going on. They know what’s going on in Scotland; they know Nevada. But-- and another third is starting to wake up. They’re asking, ‘What the hell is going on!?’
+
+Cause they can’t hide it underground, they couldn’t contain it in Nevada; They only have as much power as people give them. This is a threat they’ve never faced; There is no face, no head to cut off. They’re weakened; they can’t censor.
+
+Folks, we have a real chance to prove their existence. Whatever their Board wants, whatever their profit motive is… it's not enough anymore.”
+
+-- “Engaged with Gaige” Season 20, Ep 4; Transcripts from a local broadcast within the Wyoming Area 
+
+[[/tab]]
+[[tab "Internal Memo 441"]]
+
+[[=]]
+++ To All Authority Personnel
+[[/=]]
+[[div style="float: left; width: calc(100% - 90px);"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **RD-Hayes** [[/span]]
+[[span class="email"]] <@@RD-05_Hayes_Carlyle@authority.rpc@@> [[/span]]  [[span class="dateR"]]  June 1st, 2023, 12:30 PM[[/span]]
+[[/div]]
+
+~~~~
+
+----
+[[div class="emailBlockText"]]
+
+We need a different approach. We are not fighting against a malicious organization with dozens of agents working in tandem. We are making sure a curious gathering is not hurt by their lack of know-how. While this is our universal approach, each Divison will have a specialized, additional task.
+
+[[include component:image-enlarge name=https://rpcauthority.wdfiles.com/local--files/missing-rpc/On%20the%20Hunt%20%28Missing%20RPC%29.jpeg |caption= Protectorate Dispatch detaining and giving medical aid to a civilian hunter.]]
+
+Research's Bureau Of Acquisitions will aid us with their presence and outside-the-box approach to these situations. Hornsby will be spearheading our plunge into the parks. We are not in a position to be sending entire field teams into the wilderness, so having small teams disguised as visitors will be our go-to approach to gathering and examining data. Other members of the Bureau, as well as their colleagues from the OAS, will act as auxiliaries. The Bureau's eccentricities should only play into the role of the kind of people we are infiltrating, so we encourage our Explorators to play into their roles as naturally as they can.
+
+Protection is to heavily rely on their Protectorate and ACI agents. It is more than a relief we still have a number of active Protectorate Ranger outposts in the affected areas. Treat these as covert Authority safehouses and regrouping locations, and treat them with respect. A number of Rangers will be deployed within the scattered civilians as either interested parties themselves or volunteer medical and rescue staff. Clean up after yourself and don't leave the outposts in disarray. ACI will be there to make sure nothing slips through - as well as look out for possible EoI involvement.
+ 
+[[include component:image-enlarge name=https://rpcauthority.wdfiles.com/local--files/missing-rpc/Thropy%20%28Missing%20RPC%29.jpeg|align=left|width=200px|caption= Containment Specialist John Roiland addressing search party.]]
+
+Containment staff is encouraged to think outside the box for this operation. We are not in a position to drag an anomaly through the forest and in front of prying eyes, so think on your feet and don't be afraid to pitch new ideas. Prolab and its Smiths will be your best friend when it comes to keeping an anomaly down, so keep them close and keep them safe. Staff who have already been helped by the Smiths from the Biomechanical Module will also greatly appreciate Project "Prehandsile" which has been undertaken to allow easier traversal through the region.
+
+Work together, and work hard. We make one too many mistakes, and we will have a much bigger problem on our hands than a few conspiracy theorists and hunting enthusiasts looking for what goes bump in the night. 
+
+Good hunting and God's speed. 
+
+[[/div]]
+
+[[/tab]]
+[[tab "Hunter's Survival Guide"]]
+
+> The following are transcripts from the book "Unseen World Survival Guide," written by conspiracy theorist and minor person of interest Gaige Rivers.
+
+[[=]]
++++ Introduction
+[[/=]]
+[[div class="paper1" style="text-indent: 2em;"]]
+Our preconception of the world around us is a lie by omission: Everything from our origins as a species to the director of the DMV to the structures of our bodies. Yet, the question is, whose lies are we talking about? There are multiple ways to get involved in cryptozoology and even more ways to go undetected by the feds. Most of us use secure broadcasts or two-way radios interpersonally to relay our findings. (Anyone claiming to use telepathic links is often lying or trying to mug you.) If you catch something of interest, an underground world of Buyers exists. You may need a tip or rumor of a nearby exotic good store, or online you'd need to be referred to a link to use through a TOR link. Dear reader, this is an uphill battle, a war on every front; Our would-be protectors have demonstrated as recently as Nevada that they've got years of experience keeping the red tape over our eyes. By choosing this path, you choose to contradict them, to destroy the red tape. And by choosing to support our website ({{@@https://gaige-readers.buy/uncensored@@}}), you've entered a support network that acts as the last bastion against its existence.
+[[/div]]
+
+Page 7 snippet: 
+[[div class="paper5" style="text-indent: 2em;"]]
+
+[[include component:image-enlarge name=https://rpcauthority.wdfiles.com/local--files/missing-rpc/Horse%20%28Missing%20RPC%29.jpeg|a|caption= June 1963 -- Evidence of Triad freemasonry Yellowstone Country Club.]]
+
+[[size 120%]]**The Pyramid:**[[/size]] Most people mistake the vagueness of the deep state as all-encompassing. We often congeal the entire masquerade into a holistic structure instead of a disorganized frenzy kept behind cloak and dagger. Dear Reader, //that// is what the Pyramid is. The triangle men, or "the Triad," is a globalist union that acts as the most dominant yet least effective force in maintaining the veil. They're among the oldest vanguard, and although their centuries-old origins stretch back to the optimism of the World's Fair, they often need more observable goals or ideological follow-through. But what makes them so chaotic is also what makes them so insidious: They apply various tactics and resources: field drones, cryptid detectors, and crisis actors meant to infiltrate and monitor individuals. And while the whole of the organization is gluttonous, individual proxies are driven.
+
+A general tip is to identify your group or with any trackers. A person curious about the cryptid you're tracking may be a friend, but a person interested in how you follow it may be a crisis actor. On the road, a predominance of businessmen in red cars might be a coincidence, but large vans driven by suits might be a swarming tactic. That said, they're also the least lethal group. Remember, they are opportunists and hoarders at that. The Satanic shareholders of their board do not care about you outside of your prospects of harming their profit. One can build a tolerance to their mind drainers through cesium dosing. "Quartz Infirmary," -- a friend of the channel -- does a great series on home remedies to be more resilient to people stealing our memories.
+@@ @@
+@@ @@
+[[/div]]
+ 
+Page 12 snippet: 
+[[div class="paper4" style="text-indent: 2em;"]]
+
+[[size 120%]]**The National Park's Service:**[[/size]] It wasn't revealed until recently that our theories were confirmed. It's only a matter of time until theories of Keltic water magic and blood rites are confirmed. We're certain of this: There has been an invasion. From who, we do not know. But an uptick in Satanic infiltration has hollowed out the Park Service. The "initiated" within the NPS seek to destroy God's covenant with Noah. 
+
+[[include component:image-enlarge name=https://rpcauthority.wdfiles.com/local--files/missing-rpc/Ranger%20%28Missing%20RPC%29.jpeg|caption= N/A -- Satanic possession of a missing girl, photographed in process.]]
+
+My three-part documentary "The Engineer under a Red Sun" has uncovered a cabal dedicated to recreating the great flood. It is unknown, however, how involved they are or if they're the sole cause behind the recent disappearance. If you see a Park Ranger, do not engage. Every interaction with them is a gamble. If a ranger tries to dive after someone to prevent them from drowning, it's as likely that they're trying to replace that person as the Ranger's actions are pure. Every quartered-off section of their parks, every warning sign, is to be investigated and taken with skepticism.
+[[/div]]
+
+Page 15 snippet: 
+[[div class="paper3" style="text-indent: 2em;"]]
+[[=]]
+**Hunting Cryptids:**
+[[/=]]
+
+There are a few general tips for hunting for the unexplained. Explore with Skepticism. This world wasn't made for you and me. The government -- its red tape -- wants to be able to handwave your concerns and inquiries away. Never accept their cover story as truth. Always ask questions. Why is this part of the cave restricted? Who is marking this random lake as a protected ecosystem? Why is this research excursion private? Cryptids exist in the most secluded places. Often, what may be a felony on paper is a plastic-thin barrier from the truth. The Deep State knows this. Remember, comply in public, and persevere when possible.
+
+Lastly, remember to learn. Learn anything about anything: your cryptid, its pattern and habitat, your surroundings, and the people working against you. It's a not a matter of if, but who's working to pull you back behind the red tape? The grapevine is a good tool, but our masters often pollute it. And, most importantly, be observant. Know that you aren't a crusade to cleanse evil. Most of us aren't. A predator that doesn't respect its target ends up prey. Documenting your troubles may be the most useful thing you can do in spreading the truth. Our community on Ring has many great examples of how to research the curiosities or "curious," you find. [Reduntant Advertisement Removed]
+[[include component:image-enlarge name= http://rpcauthority.wdfiles.com/local--files/missing-rpc/Guys%20Hunting%20%28Missing%20RPC%29.jpeg|align=center|caption= April 23, 2013 -- Cryptid trackers at Wendi-Con, Tenessee. ]]
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+
+[[/collapsible]]
+
+[[# submissions]]
++ Submissions
+[[div class="content-panel"]]
+++++ Post-Contest Articles:
+[[module ListPages separate="no" tags="+missingrpc -art -hub -donotshowupinmodule" perPage="100" order="created_at desc" created_at=">2023.09"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+++++ Writing Submissions:
+[[module ListPages separate="no" tags="+missingrpc -art -hub -donotshowupinmodule" perPage="100" order="created_at desc" created_at="<2023.10"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+
+++++ Art Pieces:
+[[module ListPages separate="no" tags="+missingrpc +art -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+[[/div]]
+
+[[div style="font-size: 95%"]]
+[[collapsible show="[+] Contest Credits" hide="[-] Contest Credits"]]
+----
+++++++ A Special Thank You To:
+Directed by [[*user Televisionist]] (did both the poster and main title card as well),
+
+A SPECIAL THANK YOU TO [[*user bXluYW1lamVmZg]] for making the [https://streamable.com/hldg6h Announcement Video]
+
+CC Images found by: [[*user TheGreatTarbolin69]]
+
+Writing Credits to: [[*user Thermicline]], [[*user 8ismo]], and [[*user Blairin]]
+
+And with creative input & idea brainstorming from: [[*user SuperSpambot]], [[*user Thermicline]], [[*user 8ismo]], and [[*user Blairin]]
+
+A special thank you to:  [[*user Thermicline]] & [[*user 8ismo]]. Seriously, I couldn't have done this contest without you.
+----
+[[div class="blockquote"]]
+**Image Attributions:** (Poster Images Created by Qual; Video Done by Boson)
+* https://commons.wikimedia.org/wiki/File:Oregon-Washington_Law_Enforcement_(28315073942).jpg
+* https://commons.wikimedia.org/wiki/File:229_Hunters_show_off_trophy_(36042444672).jpg
+* https://commons.wikimedia.org/wiki/File:Hunt_organizer_briefing_hunters_in_Hohenfels_00.jpg
+* https://commons.wikimedia.org/wiki/File:Group_of_hunters_in_forest.jpg
+* https://www.flickr.com/photos/135886671@N08/36074321791
+* https://www.flickr.com/photos/70251312@N00/12933706404/in/photostream/
+[[/div]]
+----
+[[footnoteblock]]
+
+[[/collapsible]]
+[[/div]]
+

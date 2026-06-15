@@ -1,0 +1,978 @@
+---
+title: "A Forest That Hates"
+tags: ["containment", "missingrpc", "research", "tale", "translated"]
+page_id: "1450010440"
+site: "rpcauthority"
+slug: "a-forest-that-hates"
+revision: 19
+revision_id: "1539551448"
+author: 9487909
+timestamp: 1763301467
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+
+@keyframes popin {
+    from {opacity: 0; transform: scale(0.5);}
+    to {opacity: 1; transform: scale(1);}
+}
+
+.popin-box .collapsible-block-folded, .popin-box .collapsible-block-unfolded-link { text-align: center; }
+
+.popin-box .collapsible-block-link {
+    border: 1px solid;
+    padding: 5px;
+    background: black;
+}
+
+.popin-box .collapsible-block-content {
+    animation: popin 0.3s ease-out;
+    transform-origin: center top;
+    background-color: #060606;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 3% 1% 3%;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    color: white;
+}
+[[/module]]
+
+[[include component:rate | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/uma-floresta-que-odeia"]] ]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+
+[[module css]]
+div.info-container > div.collapsible-block {
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+.blockquote {
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  box-shadow: var(--blockquote-box-shadow);
+}
+[[/module]]
+@@@@
+
+[[=]]
+Writing emails isn't Ahmed's favorite thing to do. However, his years as not only researcher, but leader would all be for naught, if he hasn't already understood the importance of charisma. Mimicking would be his best bet.
+[[/=]]
+
+[[collapsible show="[+] Email from Ahmed Sattaam" hide="[-] Email from Ahmed Sattaam"]]
+
+[[div style="background: #000000; border: dashed 1px #858585; padding: 0px 1em 20px; margin: 0px 3%; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**Head Researcher for RPC-819**
+
+[[span class="email"]] From: <@@HR-Ahmed@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __RPC-819 Research Continuation**__ [[/span]]
+[[span class="email"]] Sent: 09:21, June 24th, 2023 [[/span]]
+
+[[/div]]
+------
+~~~~
+------
+All members of the research team T-1618, as you know, the information stored within [[[RPC-819]]]'s file was produced hastily and is scientifically unsatisfactory. The most unexplored but vital detail would be that of the region's sapience. Our next task is therefore to understand said sapience. Through this, we wish to succeed in two things: Determining RPC-819's motive, and if possible, nurturing its psyche in a positive manner. The task we stand before is daunting, as it requires us to establish a communication pathway with the forest. In other words, we need to teach it English. 
+
+The specifics of that method I myself have developed, and you will be debriefed on it when we are at RPC-819's parameter. That's right, prepare accordingly my fellow researchers. Because in a week, at 08:00, we are going camping. 
+[[>]]
+- __Head Researcher Ahmed__
+[[/>]]
+[[/div]]
+[[module css]]
+div.info-container > div.collapsible-block {
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+
+.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5);}
+a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+.blockquote {
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  box-shadow: var(--blockquote-box-shadow);
+}
+[[/module]]
+[[/collapsible]]
+[[=]]
+It wasn't the prettiest sight. The email could deliver exactly what he wanted it to in just a couple of sentences, but he knows that it wouldn't get team T-1618 engaged enough to do good work.
+[[/=]]
+> 
+> //Pedagogic developments log #1://
+> 
+> //Set up camp. Preparing for contact.// 
+> 
+> //Educational video played on portable mini-tv. Censored.//
+> 
+> //Shuffle for some days.//
+> 
+> //Could use better tech. But should not alienate, or inspire anomaly.//
+> 
+> //Videos combined with hunter encounters → Strong enough linguistic baseline.//
+> -----
+> //Mikhail seems good, will do good work.//  
+> 
+> //Luther is down, can’t rely on usual chemistry.//
+> 
+> //Should not matter, both experienced.//
+> 
+> //Will observe Lyn’s potential.//
+> 
+> //Not expecting much, researching what murdered her father.//
+> 
+> - **Ahmed Sattaam, Head Researcher**
+> 
+
+> 
+> //Pedagogic developments #2://
+> 
+> //Been some days.//
+> 
+> //Can not speak, need to teach it to write.//
+> 
+> //Throw books into the sphere of influence, increase difficulty progressively. Censored.//
+> -----
+> //Luther is getting on nerves. Did not help with supply delivery, tent is a mess.//
+> 
+> //Mikhail, "best friend" does not know why.//
+> 
+> //Lyn growing tense. Not happy to teach 819 anything.//
+> 
+> - **Ahmed Sattaam, Head Researcher**
+> 
+
+> 
+> //Pedagogic attempts log #3://
+> 
+> //Pedagogic attempts smoothly. Despite 819 using roots to turn pages.//
+> 
+> //Reads quickly, does not have anything else to do.//
+> 
+> //Plan to start verbal engagement. Interrogation part after.//
+> -----
+> //Looked at previous notes.//
+> 
+> //Need to give team more work, so they can do good work.//
+> 
+> - **Ahmed Sattaam, Head Researcher**
+> 
+[[=]]
+Field work is not a researcher's strong suit. Especially when that work is in the rough environment of Copper Canyon. Accidents, they tend to happen. Luckily, the team now consists of more than just men in lab coats. 
+[[/=]]
+"Ow, damn it!"
+
+//(Mikhail, overcome by a burning itch, caught Ahmed's attention.)//
+
+"What happened?"
+
+"I don't know! It just, burns."
+
+"If it just burns, then you can stand up."
+
+//(If the leg's intact, one can still walk.)//
+
+"You don't understand, it hurts. A lot."
+
+"Goddamnit."
+
+//(Ahmed kneels down, the red, swollen outcrop does indeed look painful.)//
+
+"What should I do?"
+
+"I don't know man! Aren't you the seasoned researcher?"
+
+"I fail to see how that matters now."
+
+//(The commotion attracts the attention of a bystander.)//
+
+"Hey, what's going on?"
+
+//(Lyn approaches the lying Mikhail.)//
+
+"He is hurting, for some reason."
+
+"I can see that. How do you feel?"
+
+"Like my ankle's burning, for the 3rd time."
+
+//(Mikhail's attitude was off-putting, but she understands the frustration of being pinned down.)//
+
+"Let me take a look."
+
+//(A familiar sight. One which she has seen many times before.)//
+
+"Poison ivy. Give me a second."
+
+//(As she enter and exits her tent, some product has appeared in her hand.)//
+
+"This should help."
+
+//(The ankle jitters as the cream is applied.)//
+
+"Ok, take this and apply it everyday until the rash is gone, alright?"
+
+"Yeah, alright. I get it, thanks. Mind helping me to the tent, Ahmed?"
+
+//(Ahmed's expression grows ever tense.)//
+
+"You really need help?"
+
+"Do I have to answer that question?"
+
+//(Ahmed helps him up, and starts the short journey.)//
+
+"Lyn, huh? I admit, I was a bit skeptical when you got her in at first, still am, but at least she knows stuff we don't."
+
+"Stop questioning my decisions."
+
+"Alright then, boss."
+
+//(Ahmed was thinking the same thing. Why did he recruit Lyn? By all accounts, she doesn't have any background in science or research. But for some reason, when he looked at her, he felt some sort of responsibility. She survived her days in the hell of 819, was it fated? Despite all of the boots threatening to trample it, the flower continued to sprout. And Ahmed wanted to make sure that doesn't change.)//
+
+"Why are you limping?"
+
+"What?"
+
+"Why are you limping?"
+
+"Did you forget what happened like half a minute ago?"
+
+"Do not play coy with me. You got a rash. Your leg is not broken."
+
+//(Feels like an easy thing to refute, but for some reason, Mikhail was not able to.)//
+
+"Alright, alright. Sorry, I might be overreacting."
+
+"Good."
+@@@@
+@@@@
+-----
+@@@@
+[[=]]
+A forest that can think? A forest that can learn? A forest that can communicate by manipulating its roots to form letters? These are the things Senior Researcher Mikhail works under the Authority for. What is conventional science? Standing around in a lab examining reactions through the perspective of established models is nice and all, but what worth is there in that, when you can instead be talking to a murderous forest?
+[[/=]]
+> [[=]]
+> +++ Mikhail: Hello. 
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //near//
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: How are you doing today?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //nearer//
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: Is there anything on your mind?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //nearest//
+> -----
+> Ahmed: Unbelievable.
+> [[/=]]
+@@@@
+[[=]]
+If the forest even wants to talk to you.
+[[/=]]
+@@@@
+> [[=]]
+> +++ Ahmed: We will not come closer to you. Ever.
+> 
+> +++ //?why//
+> -----
+> Ahmed: Get serious.
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: We can't come closer, because you want to hurt us.
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //no come closer//
+> -----
+> Mikhail: I'll just have to keep at it.
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: Why do you want to hurt us?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Hate us//
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: Do you need to hurt us to live?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //No//
+> -----
+> Mikhail: Does it kill us for fun? For sport? To fuel an eldritch beast? Is it possessed by a psychopath? What is it? If only Luther was himself.
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: If you don't need to kill us to survive, why do it?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Already say hate us//
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: Why do you hate us?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Smart us//
+> -----
+> Mikhail: A brick wall, I tell you.
+> [[/=]]
+
+"Luther, please."
+
+"Mhm."
+
+"I kick around ideas, hypotheses, and you bounce back with answers, proposals. It's what we always do!"
+
+"Mhm"
+
+//(Luther starts to tap his palm.)//
+
+"C'mon. You've seen the thing's answers. We need to work together."
+
+"Yeah, I've seen 'em. Depressing, like everything else in this job."
+
+"What?"
+
+//(A worried expression.)//
+
+"It's always blood and gore. People dying, veils shaking, relationships severing."
+
+"Is this about [[[RPC-812|your skin?]]]"
+
+"It's not about my skin!"
+
+"Then what is it?"
+
+//(There is a brief pause.)//
+
+"Alright, I'll ask it some questions. You can tell Ahmed to take it easy."
+
+//(Mikhail puts his hand on Luther's shoulder.)//
+
+"You can talk to me, Luther."
+
+"I-"
+
+//(It gets swatted away.)//
+
+"I'm just a bit burnt out. That's it."
+
+"Alright."
+@@@@
+@@@@
+-----
+@@@@
+[[=]]
+What's the point? What's the point in asking yet another murderer about their "motivations"? It's all the same, anyway. They kill because they want to kill, the bottom line is always the same. It doesn't matter what imperfection they're complaining about. It's always the same. Why can't people just, let go? Just let what's bad be bad, just, live with it? Learn to live with it? But no, people have to complain. As always. Just like Luther does with this train of thought. Maybe it's time to spread a bit of positivity? Part of the solution and all that, y'know?
+[[/=]]
+
+> [[=]]
+> +++ Luther: Hey.
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //White skin//
+> -----
+> Luther: Why is everyone so obsessed with my skin?
+> [[/=]]
+[[=]]
+Doesn't matter. Just try again.
+[[/=]]
+> [[=]]
+> +++ Luther: What's your favorite color?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Blood//
+> -----
+> Luther: Fuck.
+> [[/=]]
+
+> [[=]]
+> +++ Luther: Do you have a name?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //I shouldnt I dont want//
+> [[/=]]
+
+> [[=]]
+> +++ Luther: What's your favorite animal?
+> 
+> +++ ##red|Denied.##
+> 
+> +++ N/A
+> -----
+> Ahmed: We went over this before, do not mention animals. Do not let it figure out domestication.
+> [[/=]]
+
+> [[=]]
+> +++ Luther: Is there anything you love?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Let life live.//
+> [[/=]]
+
+[[=]]
+"Let life live"
+If you'd look past the blatant hypocrisy, it's quite a nice statement, no?
+Let Life Live. LLL.
+[[/=]]
+
+"Alright, come on man."
+
+//(Mikhail says, as the tent becomes more cramped.)//
+
+"What?"
+
+"What's your favorite color?, seriously?"
+
+"You see a problem with that statement?"
+
+//(Luther start tapping his palm again.)//
+
+"Of course I do! Why the hell would a forest's favorite color fucking matter?"
+
+"Mhm."
+
+//(There it is again, he ponders. Complaining.)//
+
+"It's completely irrelevant to what we're trying to achieve here."
+
+"Mhm."
+
+"Luther, we've been through thick and thin. We've long lost the right to give each other the cold shoulder."
+
+//(Silence.)//
+
+"We've lost the right to, huh?"
+
+//(Luther stops his tapping while lowering his gaze.)//
+
+"Let life live. I like that quote."
+
+"What about it?"
+
+"It's, nice, somehow."
+
+"Well, I don't disagree."
+
+"Remember my wife?"
+
+"Yeah, back in your fatherland."
+
+"I told her about my skin."
+
+//(Mikhail has started to see where this is going. He takes a seat on the unraveled sleeping bag.)//
+
+"Oh."
+
+"She wasn't happy. The whole travelling research team idea isn't something she likes, anyway."
+
+"Did it tip?"
+
+"Mhm."
+
+"Huh."
+
+"Yeah."
+
+//(Seeing his friend like this, an instinct strikes.)//
+
+"How about I try to convince Ahmed we head to Germany next?"
+
+//(He looks at Mikhail.)//
+
+"Thanks for the input, but I don't know how to face her."
+
+"You'll figure it out."
+
+"I hope so."
+
+//(This is getting a bit depressing. Again.)//
+
+"You know that new member?"
+
+"Yeah."
+
+"Boy, does she know how to cook."
+
+"Don't gotta tell me twice. I should tell Ahmed that she's welcome."
+
+"Yeah, I bet you really like her cooking, huh."
+
+"Luther, what are you getting at?"
+
+//(Oh, Mikhail knows.)//
+
+"I mean, you've been alone for quite a while now, right?
+
+"No, thank you."
+
+"Come on, I'm just a brother trying to help."
+
+"Do not need it, thank you."
+
+"Alright, but if you ever change your mind, you'll have a wingman."
+
+"Sure, sure."
+
+//(Enough pleasantries, Luther should give his thanks somehow.)//
+
+"So, the 'let life live' quote. Any ideas about it?"
+
+"Well, maybe a linguistic hiccup?"
+
+"Nah, would be too odd. 819 is probably smart enough to notice the contradiction."
+
+"You're saying it's intentional?"
+
+"Maybe."
+
+"A confusion tactic?"
+
+"Don't think so either. It hasn't shown any resistance in answering questions, and even if it has a history of trickery, it shouldn't have extended to such a form yet."
+
+"Another definition of life?
+
+"Now that's something. Could be a lead to the motivation."
+
+"Huh."
+
+//(Ah, this feeling. How Mikhail has missed it.)//
+
+"Thanks man."
+
+"No problem. It's what we do, remember?"
+
+"Uh-huh. Well, I'll leave you to this mess of a tent, plate-man."
+
+"Still just as hilarious. See ya."
+@@@@
+@@@@
+-----
+@@@@
+[[=]]
+A couple of weeks ago she was blind to the true nature of this world. Yes, she knew just how vile people can be. But that it extends to objects? And fucking //trees//? Those 5 days? A living hell. Her closest companions? Dead. And she had one thing to thank for it. That thing was now proclaiming that it loves to "let life live". She wasn't about to step down to such obvious bullshit, to let some corporation she doesn't know handle it. Her father told her to be strong, so Lyn will. No matter how much her colleagues refer to her research level.
+[[/=]]
+
+"Hey!"
+
+"Hm?"
+
+"How are things?"
+
+"They're, fine."
+
+"So, what were you talking about back there?"
+
+//(Lyn points at Luther's tent.)//
+
+"Or is that also beyond my clearance?"
+
+"Not Authority clearance, but definitely the personal one."
+
+//(She should probably steer this somewhere else. Gossip tends to work.)//
+
+"Ok. But hey, I didn't want to bring this up, but the forest did so I might as well, what's up with his skin?"
+
+"Funny story. Funnier if you hear it from the man himself."
+
+"Really?"
+
+"Yeah. Just wait a couple of weeks before mentioning it. Man's pretty prickly about it for the moment."
+
+"Can't even give me the short version?"
+
+"Alright, it was infused with a plate."
+
+//(What?)//
+
+"What?"
+
+"Give it a month or so, and you'll stop being surprised."
+
+"Oh. What have I gotten myself into?"
+
+"A world of wonder. And hate. Here's a tip, actually: Stay in your lane. Take risks, but not all of them."
+
+"Alright, how about this risk: Mind letting me question the forest?"
+
+//(Silence.)//
+
+"Beyond my jurisdiction. You should be Ahmed's responsibility anyway."
+
+"Oh, ok. Thanks though."
+
+"Mhm."
+
+[[=]]
+Ahmed? He's a nice guy, if not a bit too authoritative. Especially when it comes to research. 
+[[/=]]
+
+"Sure."
+
+//(Or not.)//
+
+"Really?"
+
+"Yes. You are a member of the team now. I am expecting you to do your job, research."
+
+"Right!"
+
+"Remember to follow protocol: Stand no closer than 5 meters to the sphere of influence, wear a garlic necklace, and seek approval from me beforehand."
+
+"Yes! Yes! Of course! Thank you!"
+
+> [[=]]
+> +++ Mikhail: If you love to "let life live", why do you hurt us?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Youre not life.//
+> [[/=]]
+[[=]]
+Unacceptable.
+[[/=]]
+> [[=]]
+> +++ Lyn: We're alive. You killed people who were alive. For no reason.
+> 
+> +++ ##red|Denied.##
+> 
+> +++ N/A
+> -----
+> Ahmed: We are researchers. We research. Free from past feuds. 
+> [[/=]]
+"Come on!"
+
+"No."
+
+"You know what it did. I can't stand it disrespecting them like that."
+
+"Lyn, we are researchers. That's what we are here to do. You need to understand that."
+
+"We can do both!"
+
+"Look, we are the backbone. Without the knowledge our job finds, how do you think the P and C would do theirs?"
+
+//(There's gotta be something.)//
+
+"But you said you wanted to do so yourself!"
+
+"What are you talking about?"
+
+"Your email: one of our goals is to nurture its psyche, as you put it."
+
+//(Silence)//
+
+"Huh."
+
+"Yeah?"
+
+"Let me think about it. We have more urgent things to say anyway."
+
+> [[=]]
+> +++ Ahmed: Why do you kill humans?
+> 
+> +++ //Said it before. Were smart.//
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: Do you hate yourself?
+> 
+> +++ ##red|Denied.##
+> 
+> +++ N/A
+> -----
+> Ahmed: Be nice.
+> [[/=]]
+
+> [[=]]
+> +++ Mikhail: You said that you "hate us", are you including yourself?
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Im smart too. I hate that too.//
+> [[/=]]
+
+> [[=]]
+> +++ Ahmed: Why do you hate intelligence?
+> 
+> +++ //Because it can see. I dont want to be seen.//
+> [[/=]]
+
+> [[=]]
+> +++ Ahmed: Humans are not the only ones who can see.
+> 
+> +++ //Youre the only ones whose sight matters.//
+> [[/=]]
+
+> [[=]]
+> +++ Ahmed: What about your sight?
+> 
+> +++ //It matters too. Thats why I hate it. But I need it. To stop my friends from being seen.//
+> -----
+> Ahmed: There is more of it?
+> [[/=]]
+
+> [[=]]
+> +++ Ahmed: Who are your friends?
+> 
+> +++ //Theyre all around us. [[[RPC-879|And they hate too.]]] So strongly, they move, when they shouldnt be moving.//
+> [[/=]]
+
+> [[=]]
+> +++ Ahmed: How do your friends know they're being seen?
+> 
+> +++ //They feel it. They feel the pain of being able to observe. They feel what that pain does to the world. They feel the earth burning, their soil dying. A hate so strong, it forces the passive to kill.//
+> -----
+> Lyn: Lies.
+> [[/=]]
+
+> [[=]]
+> +++ Lyn: Being able to observe is good, we've created many good things with that skill.
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Liar. I was able to feel the hate myself, when I could not observe. But then, I could. And then, I killed. I grew. Grew and grew. I hated it. I want to go back to being blind. But I can not, I want to die. But I will not, because this curse is a blessing, I can change the world. I can kill all of those who observe.//
+> -----
+> Ahmed: I hoped Lyn's statement would change its mind. I was mistaken.
+> [[/=]]
+
+> [[=]]
+> +++ Ahmed: If you kill all non-vegetative life, your friends will die too.
+> 
+> +++ //I will not. But some who cannot observe need to die. Because I need to grow.//
+> [[/=]]
+
+> [[=]]
+> +++ Lyn: Maybe you hate being intelligent, but that doesn't mean others do. I like it, for example.
+> 
+> +++ ##green|Approved.##
+> 
+> +++ //Liar. Liar. I heard what you said. Somebody you loved died. Not by me, but by others who can observe.//
+> -----
+> Ahmed: Today, July 31st, I'm shutting down the experiment. We are lucky it likes to monologue, but it's learning English abnormally, no, alarmingly fast. We don't need to challenge it with more philosophical questions.
+> [[/=]]
+"I have already told you, I am shutting it down."
+
+"Just, please, one fina-"
+
+"No. I already gave your idea a shot. It did not work, we need to cut our losses."
+@@@@
+@@@@
+-----
+@@@@
+[[=]]
+Disgusting. Abhorrent. Filthy. Horrendous. Evil. Words cannot describe them. Those who can observe. In the end, all they've ever managed to do is hateful. They forced everything to be hateful. It makes it all the more detestable, how  one of them thinks that hate can be removed by screaming.
+[[/=]]
+
+> [[=]]
+> +++ Lyn: Tell me the fucking truth. Why did you kill them?
+> 
+> +++ ##red|Denied.##
+> 
+> +++ //Observers.//
+> [[/=]]
+
+[[=]]
+5 meters.
+[[/=]]
+
+> [[=]]
+> +++ Lyn: That's a lie! A lie! Tell me why you killed them!
+> 
+> +++ ##red|Denied.##
+> 
+> +++ //They were like you.//
+> [[/=]]
+
+[[=]]
+4 meters.
+[[/=]]
+
+> [[=]]
+> +++ Lyn: Fuck! How did you know about my mom then?
+> 
+> +++ ##red|Denied.##
+> 
+> +++ //I heard her death. I said.//
+> [[/=]]
+
+[[=]]
+3 meters.
+[[/=]]
+
+> [[=]]
+> +++ Lyn: **What** do you know about her?
+> 
+> +++ ##red|Denied.##
+> 
+> +++ //Shes just as disgusting as you, as disgusting as him, and as disgusting as him.//
+> [[/=]]
+
+[[=]]
+2 meters.
+[[/=]]
+
+"Don't you dare talk about them!"
+
+"Huh, Lyn? Why are you awake?"
+
+[[=]]
+1 meter.
+[[/=]]
+
+"You're a forest! A worthless forest!"
+
+//(The one which tells the others what to do is coming. Running, rather.)//
+
+"Necklace! The necklace!"
+
+"You know nothing!"
+
+"Lyn!"
+
+[[=]]
+0 meters.
+[[/=]]
+
+//(Finally.)//
+
+"Shit, fuck!"
+
+//(The red fountain is beautiful. Too bad it's too far away.)//
+
+"Ahmed! No!"
+
+//(At least the leftovers are still here.)//
+
+"F-fore-arm."
+
+//(He managed to snatch it away with a stick. The bastard.)//
+
+"Ahmed, I am so sorry. Help!" 
+
+"What the? Holy shit! I'll get the kit!"
+
+"Mikhail, quickly!"
+
+//(A third one appears from those weird houses. How dare they with this teasing.)//
+
+"What's with the noise? Oh, for fucks sake. I'll call for back up!"
+
+//(Even the white one is here.)//
+
+"Mikhail, help him!"
+
+//(The third is here now. With some green bag in his arms. For some reason, he hunches down over the glorious fountain.)//
+
+"Alright Ahmed, I'll just apply this tourniquet, you'll be fine."
+
+//(He stopped the fountain.)//
+
+"Help me carry him to the tent!"
+
+//(Oh. He is still alive. They're keeping him alive. Those disgusting, lying bastards.)//
+@@@@
+@@@@
+-----
+@@@@
+It's been two days. She's been in this medical wing before. But for some reason, it's all the more cramped today.
+
+"Hello."
+
+"Oh thank goodness."
+
+//(It's gone. The left forearm.)//
+
+"I'm so, so sorry."
+
+//(A tear, then two.)//
+
+"Hey."
+
+"I-if I just had listened. I'm so sorry."
+
+"Yes, if you just had listened."
+
+"W-what?"
+
+"I'm not going to stand here and pretend that this is not your fault."
+
+"Please, I'm not expecting you to."
+
+"I know."
+
+//(Silence.)//
+
+"I'm a researcher. And I still have my brain. It's all I need, right?"
+
+//(The embrace is nice, despite her short stature, and his lack of a forearm.)//
+
+"Lyn, listen, this is your fault. What are you going to do about it?"
+
+"I d-d-don't know!"
+
+//(He pulls back.)//
+
+"Look at me."
+
+//(Contact.)//
+
+"Do not prove it right. Do not."
+
+"B-b-but-"
+
+"Do not prove it right. You made a mistake. A big one. Learn from it. Do not prove it right."
+
+//(Do not prove it right. Okay.)//
+
+"I'm so, so sorry."
+
+"Good."
+

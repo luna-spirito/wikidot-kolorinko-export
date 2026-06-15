@@ -1,0 +1,342 @@
+---
+title: "RPC-624"
+tags: ["gamma", "info-hazard", "invisibility-hazard", "missingrpc", "orange", "organic-hazard", "rpc", "sentient-hazard", "translated", "visual-hazard"]
+page_id: "1449551672"
+site: "rpcauthority"
+slug: "rpc-624"
+revision: 27
+revision_id: "1544029603"
+author: 3050074
+timestamp: 1779233166
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[include component:rate | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/rpc-624"]] ]]
+
+[[module css]]
+div.info-container > div.collapsible-block {
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+
+
+
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+.blockquote {
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  box-shadow: var(--blockquote-box-shadow);
+}
+[[/module]]
+
+[[include component:image-block name=Hidebehind.gif|caption=Artist's impression of RPC-624.  Image drawn by Agent Tryon]]
+
+[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-orange.png]]
+
+**Registered Phenomena Code:** 624
+
+**Object Class:** Gamma-Orange
+
+**Hazard Types:** Info-Hazard, Invisibility Hazard, Organic Hazard, Sentient Hazard, Visual Hazard
+
+ **Containment Protocols:** **(Updated 08/12/2023)** As a result of the current understanding of RPC-624 and its anomalous properties, containment has two focuses: indirect tracking of individuals' travel patterns, and preventing encounters between RPC-624 and civilians. Fifty-five members of the RPC-624 population within Grand Teton National Park have been fitted with tracking devices, with an additional 900 tracked specimens in Canada.
+
+Data recorded from these tracking devices is to be stored in a secure server and encrypted for twenty-four hours before it can be viewed by personnel. This data is used to identify sites regularly visited by RPC-624 in order to plan methods of dissuading civilians from visiting these sites, and of warding RPC-624 away from inhabited areas.  Currently, no forms of tracking or observation that would determine RPC-624's precise location[[footnote]]Including via video or photographs[[/footnote]] are permitted due to safety concerns. All observations of RPC-624 must be time-delayed by at least twenty-four hours.    
+  
+In the event that additional trackers become necessary, agents are to be dispatched to areas frequented by RPC-624 armed with tranquilizer rifles and rubbing alcohol in order to drive potential specimens from their hiding places. All agents stationed in areas known to be frequented by RPC-624 are to be issued bottles of rubbing alcohol during the winter season to prevent attacks while on expeditions. Personnel who suspect they are being stalked by RPC-624 should rub contents on their face and hands before returning to safety.  
+
+**Description:** RPC-624 is a mammalian species[[footnote]]//Melessicut occultatum//[[/footnote]] native to the North American continent.  Adult specimens of RPC-624 typically measure approximately 0.8 m in height at the shoulder and 2 m in length from snout to tail. DNA analysis of RPC-624 has identified the species as a member of the family //Mustelidae//.[[footnote]]A family within the suborder //Caniformia// consisting of carnivorous mammals, including weasels, badgers, otters, martens, and wolverines.[[/footnote]]  RPC-624's primary anomalous property is its ability to move quickly enough that its presence will not be consciously perceived by observers, though some persons have reported visible movements or shapes in their peripheral vision that vanish when focused on. The species primarily uses this ability to conceal itself almost instantaneously behind nearby objects to hunt prey or avoid being directly viewed.[[footnote]]RPC-624 has not been known to use this ability to pursue prey over long distances; researchers have theorized it is likely only capable of utilizing it in short bursts.[[/footnote]] RPC-624 is believed to possess an instinctual knowledge that it is currently being observed by humans, and possibly by other animals. Instances have also demonstrated extreme flexibility, allowing them to conceal themselves with objects up to half their normal volumes.
+
+RPC-624's abilities have made observation difficult, meaning most of the following paragraph is partially based on speculation informed by indirect observation. [[footnote]]This has included remains of its prey, droppings, and reports based on civilians who have encountered it in the wild. [[/footnote]] Individuals typically live alone and are generally nocturnal. RPC-624 is an opportunistic omnivore, eating leaves, roots, berries, fish, and carrion. Individuals also prey on large ungulates such as deer and bovids, targeting weak and old individuals. RPC-624's abilities enable it to stalk and attack these animals with a higher frequency and success rate than other large predators such as bears. Attacks on humans are rare, but have been reported in winter months when other food sources are scarce. RPC-624 mainly inhabits areas in Northern and Western Canada and the state of Washington, though a smaller population currently resides in Grand Teton National Park, WY; this population may comprise a distinct subspecies. Its historical range was likely larger, but increased human development has driven it out of previously inhabited areas.  
+
+RPC-624 has also demonstrated an extreme aversion to the smell of alcohol, and exposure to it has even caused individuals to forgo their usual attempts at concealment in order to flee.  The reason for this is unclear, but may be connected with the species' anatomy. Autopsies have indicated that instances possess enlarged respiratory passages that allow it to exhale and inhale more air, likely to help dissipate body heat to support its speed; this feature may also make it more sensitive to certain smells.   
+
+**History:** Scattered reports of incidents matching RPC-624's behavior have been identified dating back to the 1890s. However, its existence was not confirmed until 1989, when civilian Canadian naturalist Philip Leroy discovered a recently dead specimen by chance while studying wolf populations in the Northwest Territories. Leroy then began attempting to track RPC-624 and gather evidence of its existence. Twelve years after his initial discovery, Leroy was able to capture and plant a tracking tag on a living individual before submitting evidence for publication. After he did so, Authority agents confiscated his research and administered amnestics to witnesses. By this point, Leroy himself had gained a reputation as a charlatan in mainstream scientific circles and was recruited as a member of the newly formed RPC-624 research team.
+
+After this, attempts to track and/or capture living specimens were predominantly failures until 2018, when RPC-624's reaction to alcohol was discovered. After this, agents were more successful in driving RPC-624 out from hiding, allowing several hundred specimens to be tagged over the next five years. During this time, there was a noticeable increase in the rate of RPC-624 attacks on humans and the discovery of dead RPC-624 specimens. This increase culminated in Incident 624-147, which resulted in a reevaluation of containment protocols, and of the Authority's understanding of RPC-624's abilities.  
+
+**Incident 624-147:** On 06/19/2023, three civilians, Andrew Boggs, Jason Price, and Michael Stewart, encountered RPC-624-49T while in Grand Teton National Park. The three men were collectively the creators and hosts of "Unknown America", a YouTube channel devoted to self-made documentaries on supernatural phenomena within the United States, and were exploring the park with the intention of capturing footage of local cryptids.  The transcript of relevant portions of their video is located below.
+
+[[collapsible show="+ Incident 624-147 Video +" hide="- Incident 624-147 Video -"]]
+
+[[div style="background: var(--background-5); border: var(--thick-border); padding: 1px 15px;"]]
+
+**Foreword:** The following footage was taken by Jason Price over a period of five days and has been edited to remove extraneous elements.  This footage represents only a portion of the recorded material on Price's camera. Other material primarily consisted of footage of the civilians driving to Wyoming and interviewing several residents in the Jackson Hole region.  
+
+----
+
+**<Begin Video>**
+ 
+(//Boggs and Stewart are visible preparing hiking equipment. Price turns the camera towards himself.//)
+
+**Price:** Folks, we've got a real show for you today.  Today, before your very eyes, I and my two co-hosts are going to venture into the woods and bring you viewers footage of the mysterious [[[http://rpcauthority.wikidot.com/rpc-608 | Teton Mountain Cryptid]]]!  Mike, you got any words for our viewers?
+
+**Stewart:** (//smiling and giving thumbs up at the camera//) You all suck.
+
+**Price:** Going to be editing that part out I think. (//softly//) I'm surrounded by twelve-year-olds.  
+
+(//Price, Stewart, and Boggs spend roughly six hours of footage hiking through the park, occasionally stopping to examine various felled trees and other signs of local fauna. Boggs and Price intermittently speculate to the camera about the nature of their target, with Stewart occasionally interjecting to point out certain scientific errors made by the two. After making camp, they discuss various local rumors. Boggs describes footage he claims to have viewed but which was subsequently taken down from video sharing platforms. He then briefly becomes excited while attributing this to a government conspiracy, after which Stewart and Boggs argue over this claim's plausibility. This argument is interrupted by the sounds of cracking wood behind their campsite.//)    
+
+(//All three men turn, with Price and Boggs moving forward to investigate. Price films several bushes that have been flattened, and claw marks on a nearby tree.//)
+
+**Price:** Crap.  Guys, I think we have a bear nearby.
+
+(//At this point, Price stops filming and lowers his camera, holding it upside down as he turns and begins to discuss the situation with Boggs and Stewart, who are facing each other. As the three debate whether they should move camp, RPC-624-49T senses they are no longer looking in its direction, and emerges from behind the tree. It is noticeably unhealthy, missing several patches of fur and exhibiting signs of malnutrition. It also appears to have been scratching itself in the area of its tracking collar, to the point of wounding itself. Stewart addresses Price, presumably turning to face him and causing RPC-624-49T to conceal itself with nearby bushes. The three resolve not to move their campsite, ending the footage of the first day.//)
+
+(//Price begins recording again at approximately 1130 the following morning.//)
+
+**Boggs:** Yesterday, we talked a little about what we knew about the cryptid, and what the people who live in the area know about it.  Today, we’re going to keep looking for evidence of its existence, and see if we can find anything that could tell us where it lives—maybe even see if we can follow it back to its lair.  Obviously this might be dangerous, but of course the three of us love our viewers so much we’re willing—
+
+(//Boggs pauses and quickly turns his head. The sound of breaking twigs is heard, and Price moves the camera to focus on what Boggs is looking at. Nothing is visible. Stewart notices.//)
+
+**Stewart:** Andy, there a problem?
+
+**Boggs:** No, I just…I just could have sworn I saw something. Did you see that, Jason?
+
+**Price:** No man, I was watching you.
+
+**Stewart:** I was packing the sleeping bags.
+
+**Boggs:** (//pause for several seconds//)  Alright, must have been my imagination. Where was I?
+
+(//The three leave camp after Boggs finishes his introduction. Price makes several attempts to continue the conversation on their target in line with the previous day, but Boggs is distracted and Price eventually gives up. Around 1330, he shouts in surprise and moves the camera off trail, focusing on the trees beside the trail.//)
+
+**Price:** What the–
+
+**Stewart:** Jay, you all right?  
+
+(//Price pauses for several seconds as he moves the camera back and forth before turning to face Stewart.  RPC-624-49T moves out of hiding as he speaks and moves forward parallel to the trail towards Boggs.//)
+
+**Price:** No, I just thought I saw something.
+
+(//Price turns back to look, and RPC-624-49T conceals itself. Price then turns and follows the other two.//)
+
+(//Over the next three hours, RPC-624-49T is irregularly visible but out of focus concealing itself within brush on the side of the hiking trail. Boggs becomes visibly nervous, occasionally stopping and examining the scenery, at one point walking off the trail for five minutes and removing something from a nearby bush. Price also notices movement at several points and turns to look but fails to capture a clearer image as RPC-624-49T hides. Stewart does not appear to notice RPC-624-49T, but does detect his companions' anxiety and becomes agitated as a result. The footage is cut off at 1600, but resumes at 1930, with Price filming his companions as they finish eating a meal.//)
+
+**Price:** You guys want to pick up where we left off last night? We can edit the footage together before we post the whole thing to the channel.
+
+**Stewart:** No, there's something I need to ask you guys.  What was up with you two earlier while we were hiking?
+
+(//Price and Boggs are silent for several seconds.//)
+
+**Price:** I don't know man.  Couldn’t you, you know, just feel it?
+
+**Stewart:** Feel what?
+
+**Boggs:** Something was following us.
+
+**Stewart:** What, like the bear that was by our campsite last night?
+
+**Price:** Yeah exactly. I saw something earlier, big and black.  What else could it be?
+
+**Stewart:** Look, I didn’t hear anything, or see anything. I don't think there was anything following us.
+
+**Price:** Hey, I don't want to end up like that Treadwell guy.[[footnote]]Likely referring to American environmentalist Timothy Treadwell, who was killed and eaten by a grizzly bear while camping in Katmai National Park in Alaska.[[/footnote]]
+
+**Stewart:** I told you not to watch that movie before we left. (//pause//) Look, they don’t have grizzly bears in Grand Teton, those are more like Canada and Alaska.  They'd have black bears, and those aren't aggressive towards humans.  
+
+(//Here Stewart and Price pause for several seconds.//)
+
+**Boggs:** I don't think it was a bear after us.
+
+**Price:** Then what was it?
+
+**Boggs:** I don't know, but…here, look, I found this earlier.  
+
+(//Boggs holds up a tuft of fur, likely from RPC-624-49T.  Stewart reaches for it and Boggs hands it to him. Price leans in to examine it and focuses the camera on it.//)
+
+**Price:** …I don't think this came from a bear, it's too long.  
+
+**Boggs:** I know. Guys, I think we may have found what we are looking for.  
+
+**Stewart:** Whoa whoa whoa, back up. Guys, that's ridiculous.
+
+**Price:** Why? That's what we came here to find.
+
+**Stewart:** And you think that just like that, we've found it?  It hasn't even been three days!
+
+**Price:** Mike, the way things are looking, whatever this thing is, I think it found us.  
+
+(//The conversation is interrupted by the sound of crashing and snapping wood outside the campsite. The three quickly turn, and Boggs moves to investigate, with Price and Stewart hesitantly following. The camera focuses on an uprooted birch tree; RPC-624-49T is seen disappearing into the treeline, but the three do not appear to notice it.//)
+
+**Price:** There, you see Mike? This thing's fucking hunting us!
+
+**Stewart:** That makes no sense.
+
+**Price:** What do you mean?
+
+**Stewart:** If this thing is hunting us, what's it doing? Animals don't act like this. It's not like it would be toying with us!
+
+**Price:** Alright, then what's it doing?
+
+**Stewart:** I don't know!
+
+**Boggs:** I don't know either. I don't care if this thing's an alien, or a monster, or an animal.  It's exactly what we came here looking for, and we're going to get it on video.
+
+(//At this point, Stewart and Price begin to protest; Price turns off the camera. Interviews with the three men conducted after the conclusion of Incident 624-147 indicated that Boggs was able to convince the two to risk remaining in the area for one more day in order to attempt to capture video footage of RPC-624-49T.//)
+
+(//Footage resumes the following morning. Boggs takes the lead, with Stewart behind him and Price taking the rear. As the day goes on, RPC-624-49T is audible several times, tearing up underbrush.  On two separate occasions, it is visible within the camera’s view; Boggs attempts to approach it but it is able to escape and hide, with Boggs apparently believing it had fled the immediate area.//)
+
+(//At approximately 1430, Stewart and Price hang back while Boggs begins exploring off the trail.//)
+
+**Price:** Mike, I don't know about this. I know how much Andy wants to find something, but I think we're in over our heads here.  
+
+**Stewart:** Look, Andy, he's…passionate, but he's not crazy.  I’ve known him a lot longer than you have, and I know him well enough to say that if he really thought we were in danger, he wouldn’t have fought us yesterday, he'd have been ready to go.
+
+**Price:** If he thought we were in danger? Mike, open your fucking eyes, we are in danger. We're going to get eaten.
+
+**Stewart:** Look, it's one more day, then Andy'll be satisfied that we gave it a good try and we can leave. It's not like we’re actually going to find any…
+
+**Boggs:** Is that really what you think?
+
+(//Price moves the camera from Stewart, focusing on Boggs, who has returned while the other two are distracted.//)
+
+**Stewart:** Andy, that's not what I meant…
+
+**Boggs:** No Mike, for once, you're going to listen. I have waited my whole life for something like this to happen. I don't care if it’s risky, I don't care if you two want to pack up and leave right now, I'll do this on my own if I have to.  
+
+**Price:** Andy, for God’s sake…
+
+(//At this moment, the sound of movement in the underbrush interrupts the argument, and as Price turns the camera, RPC-624-49T moves out of the treeline into the three men's line of eyesight. The instance's condition has apparently degenerated further, with several open, bleeding wounds around its shoulders.  RPC-624-49T begins advancing towards the three.//)  
+
+**Price:** Fuck!
+
+(//Boggs, Price, and Stewart make a hasty retreat, pursued by RPC-624-49T.  The footage for the next twenty minutes is erratic, as Price's movements while running move the camera around. The chase moves deeper into the forest; eventually the three are able to gain enough distance that they have a chance to climb a tree to escape. RPC-624-49T is unable to follow, instead clawing at the bark and circling the base of the tree.//)
+
+(//RPC-624-49T continues this behavior for one hour as Price continues filming, but eventually collapses, apparently from exhaustion.  Price, Stewart, and Boggs begin discussing the possibility of attempting to escape; Boggs volunteers to climb down and either confirm RPC-624-49T’s condition or lead it away from the other two if the creature is attempting to bluff them. As he climbs down, RPC-624 remains motionless, beyond shallow breathing.//)
+
+**Boggs:** Guys, I think we're good.
+
+(//Stewart and Price climb down, and Stewart tentatively moves towards RPC-624-49T, motioning for Price to follow.//)
+
+**Price:** Mike, don't; let's just get out of here.
+
+**Stewart:** No, I'm not sure, but something about this is weird.  This thing wasn't hunting us, I think it was more like it was…lashing out, somehow.
+
+**Boggs:** I think he's right, nothing about this makes sense.
+
+(//Stewart and Boggs continue to move forward; RPC-624-49T looks at them but does not move.  Price moves the camera closer.//)
+
+**Boggs:** Has it been in a fight? Look at those cuts.  
+
+**Stewart:** I’m not sure, but look. I don't think we’re the first people to run into this thing.
+
+(//Stewart gestures at Price, who focuses the camera on RPC-624-49T's tracking collar. Boggs moves in closer and puts his hand on RPC-624's side, then produces a hunting knife and begins cutting the collar, eventually severing it and removing it from RPC-624-49T's neck.  RPC-624-49T exhales, then shifts.  Boggs quickly backs away, and the three quickly retreat as RPC-624-49T stands, shakes itself, and begins to trot away from them, eventually moving deeper into the forest and disappearing from view.//)
+
+**Price:** Andy, what the hell is that?
+
+**Boggs:** I don’t know.  But that thing was scratching at it, that's what those cuts were. I think it was hurting it somehow. (//Pause of several seconds//) You know, maybe it's some sort of mind control device.
+
+**Stewart:** I don't think that's our biggest problem right now.  
+
+**Price:** What do you mean?
+
+**Stewart:** I mean, I don't know which way the trail is from here.  
+
+(//Boggs and Price look at their surroundings.//)
+
+**Price:** Crap.
+
+(//Price stops filming. According to later interviews, after becoming lost, the three spent two days attempting to locate the hiking trail, eventually finding their way back to an inhabited area.  At this point, the still functioning tracking device they had carried with them resulted in them being mistaken for RPC-624-49T; agents disguised as park rangers moved to intercept it before it could either attack or be witnessed by civilians. This resulted in a brief altercation as the agents attempted to redirect Boggs, Stewart, and Price to a different area. Price began filming partway through.//)
+
+**Agent Myers:** …if you three need medical assistance, we can escort you out of the area, but you need to leave now.
+
+**Boggs:** We’re fine, we had all our supplies with us, but that's not the problem, we were chased by something.  
+
+**Agent Myers:** Well, you can report it at the ranger station, but…
+
+**Boggs:** We're more worried about the thing that chased us, it was in bad shape, and it had some sort of weird mind control device attached to it.
+
+**Agent Myers:** What?
+
+**Stewart:** He thinks that's what it was. But here, look.
+
+(//Stewart removes the tracking collar from his bag.  Myers immediately recognizes it.//)
+
+**Agent Myers:** Where did you get that?
+
+**Boggs:** We took it off of the thing that chased us, like I said, I think it's…
+
+**Agent Myers:** Okay, you guys are definitely coming with us now, whether you like it or not. We’re going to need to--are you filming this?
+
+(//Agents Schwarz and Kudrow move to restrain Boggs and Stewart, while Agent Ramirez attempts to confiscate Price’s camera. At this moment, all parties are distracted by the sound of movement beyond the tree line.//)
+
+**Agent Myers:** Bronson, get the tranq!
+
+(//Price moves, focusing the camera on RPC-624-49T as it moves out of the treeline. RPC-624-49T appears noticeably healthier than before, with its wounds already beginning to heal and having gained weight, suggesting a more consistent diet. The instance tackles Agent Schwarz before Agent Bronson is able to tranquilize it.  During the distraction, Boggs, Stewart, and Price flee.//)
+
+**<End Video>**
+
+----
+
+**Afterword:** Boggs, Stewart, and Price were identified from security footage at local businesses they patronized before hiking in Grand Teton National Park, and their car was intercepted as it crossed the Wyoming border. The three were interrogated and amnesticized, and their video camera was confiscated. The events of Incident 624-147 resulted in Head Researcher Leroy ordering a reevaluation of RPC-624 containment protocols.  
+[[/div]]
+[[/collapsible]]
+@@@@
+[[collapsible show="+ Email from Head Researcher Leroy +" hide="- Email from Head Researcher Leroy -"]]
+[[div style="background: #000000; border: dashed 1px #858585; padding: 0px 1em 20px; margin: 0px 3%; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+------
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**Head Researcher for RPC-624**
+
+[[span class="email"]] From: <@@philip.leroy@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __Incident 624-147**__ [[/span]]
+[[span class="email"]] Sent: 13:30, July 7, 2023 [[/span]]
+
+[[/div]]
+------
+~~~~
+------
+Despite the trouble it's caused, I think that the recent incident has proven itself a blessing in disguise. The footage of RPC-624-49T that our three interlopers were able to capture has indicated that we have made a mistake, and the increasing encounters between RPC-624 and civilians are our responsibility: our tracking devices have been the cause. RPC-624 is not only able to sense when it is being directly viewed.  It can tell when it is being monitored--even from miles away by our tracking devices. No doubt the experience of constantly being observed has begun to have a deleterious effect on the mental state of our tracked specimens, and this anxiety drove them to lash out at convenient targets. I have ordered a full review of containment protocols, and for the foreseeable future, we will be erring on the side of caution, and allowing these unfortunate creatures the chance to have a little privacy.
+
+For now, I choose to see this as a learning experience, and to be grateful that it is one we were able to benefit from without too much blood being shed--human or otherwise.
+[[>]]
+- __Head Researcher Philip Leroy__
+[[/>]]
+[[/div]]
+[[module css]]
+div.info-container > div.collapsible-block {
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+
+.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5);}
+a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+.blockquote {
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  box-shadow: var(--blockquote-box-shadow);
+}
+[[/module]]
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[=]]
+ << [[[RPC-623]]] | RPC-624 | [[[RPC-625]]] >>
+ [[/=]]
+

@@ -1,0 +1,145 @@
+---
+title: "RPC-942"
+tags: ["aggression-hazard", "contact-hazard", "gamma", "red", "rpc", "sentient-hazard"]
+page_id: "1451316192"
+site: "rpcauthority"
+slug: "rpc-942"
+revision: 25
+revision_id: "1518756597"
+author: 8774075
+timestamp: 1709399186
+---
+
+[[module css]]
+@import url(https://rpcauthority.wdfiles.com/local--code/component:containment-theme/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[include component:image-block name=77e3cc31-5ccd-4aef-a455-5701b0535f98-0.png|caption=RPC-942's containment cube. The elevated slabs indicate RPC-942's detection range.|width=###]]
+
+
+[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/gamma-red.png]]
+
+**Registered Phenomena Code:** 942
+
+**Object Class:** Gamma-Red
+
+[[include component:hazards aggression=true|sentient=true|contact=true]]
+
+-----
+**Containment Protocols:** RPC-942 is contained within a specially designed 20ft^^3^^ containment cube at Site-██, located ███ feet underground. The cube is constructed with a layer of titanium, concrete, and an additional layer of steel for enhanced structural integrity, each layer must be at the minimum of 1.5 feet in width.
+
+The containment chamber is to be regularly inspected for any signs of any structural compromise. Any issues or damages in the containment structure are to be immediately reported to Containment personnel for repairs. 
+
+The containment chamber is designed with a maze-like layout consisting of 3 false exits and 5 interconnected corridors in order to confuse and impede RPC-942's movement in the event of a breach. All corridors within the chamber are to be equipped with surveillance cameras, and the entrance to the cell should be welded shut at all times, but can be removed should the need for recontainment arise. The entrance to the containment chamber is disguised as a concrete slab located at the south-east corner of the cell. This disguised entrance should be inspected regularly to ensure its concealment remains intact. 
+
+Multiple replicas of RPC-942's containment cube are on standby for use during repair or recontainment. Personnel are to follow recontainment protocols during transfer of RPC-942 between cells. In the event of a breach, RPC-942 is to be re-contained as follows:
+
+One side of the replica containment cube should remain unattached from the main structure by default. This side is to be securely welded shut after RPC-942 has been successfully re-contained. Personnel are to utilize high-frequency audio to coerce RPC-942 back towards the cube's entrance. All personnel must be equipped with full PPE to prevent contact with the anomaly.
+
+It is noted that previous attempts at containing RPC-942 utilizing vacuum chambers and exposure to freezing temperatures have failed, resulting in multiple containment breaches. How or why RPC-942 is unaffected by either is currently unknown. Thus, RPC-942's current containment protocols have been the most effective.
+
+[http://rpcauthority.wikidot.com/942-containment-logs RPC-942 Containment Logs]
+
+[[include component:image-block name=32AA.png|caption=Photograph of RPC-942, recovered from a phone that was found in the aftermath of the tornado's destruction.|width=###]]
+
+-----
+
+**Description:** RPC-942 resembles a visible aerosol suspended in a spherical shape 16 meters in diameter when at rest, tests show from leftover fluids that RPC-942 is comprised of water, oil, and an unknown black substance. While typically stationary, RPC-942 can manipulate air currents around itself to change positions, recorded at up to 64 kilometers per hour.
+
+How RPC-942 itself is able to perceive is unknown, however it has displayed capablities of sensing movement in close proximity to its suspended particles [[footnote]] Walls and barriers do not limit its detection within close proximity [[/footnote]], or within "line of sight".
+
+
+When a target is detected and/or seen, RPC-942 has exhibited utilizing two different methods of hunting. RPC-942 will sometimes begin its hunt slowly and patiently, stalking its target. When using this method of hunting, RPC-942 will gradually increase in speed until it is at its maximum speed. 
+
+If RPC-942 has reached its full speed, it will switch to its alternate method of hunting, this form of hunting involves ambushing its targets, sometimes smashing through objects if it has to. 
+
+Failure to capture a target within typically 3-5 minutes, will result in more violent behavior from the anomaly, using its manipulation of air currents to launch objects at its target. If given enough time, it can break through the majority of material kinds. [[footnote]] Despite RPC-942's appearance being mist, it can be hindered by tangible objects. [[/footnote]]
+
+Even when its activation requirements are satisfied, RPC-942 will occasionally become dormant after a chase concludes. These periods of dormancy can range from minutes to months, with the longest known inactive period being three months. This occurrence only happens if RPC-942 has successfully caught a victim previously, however even in its dormant stage, physical contact with RPC-942 is still hazardous.
+
+As soon as a victim's skin makes physical contact with RPC-942's mist, they are immediately pulled into it, leaving behind any clothing and possessions they had on them. While it is unknown what happens to those within RPC-942 directly, it is believed that victims are disintegrated [**See Addendum.942.01**]. 
+
+The speed of which a victim of RPC-942 is consumed at depends on how many individuals RPC-942 had consumed at the time, and whether RPC-942 is in an active state. 
+
+
+-----
+++ Audio Logs
+
+
+[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+Recorded Audio of RPC-942 in its inactive state, dubbed "The Idle State". Audio is quite loud, listen with caution.
+[[include :snippets:html5player
+|type=audio
+|url=http://rpcauthority.wikidot.com/local--files/rpc-942/107deff7-b351-464c-953c-6285f95a4730.wav
+]]
+[[/div]]
+
+
+
+[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+Recorded Audio of RPC-942 becoming active at the 18 second mark, the location of what caused it to become active is unknown. RPC-942 then began to violently strike its containment cube. This sudden enraged state lasted a full minute before RPC-942 returned to its idle state.
+[[include :snippets:html5player
+|type=audio
+|url=http://rpcauthority.wdfiles.com/local--files/rpc-942/XXX_screamv3.mp3
+]]
+[[/div]]
+
+
+
+
+-----
+[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[include component:image-block name=ITRISES.jpg|caption=Instance of a victim of RPC-942 trying to escape during RPC-942's initial discovery.|width=###]]
+
+++ **Discovery:** 
+RPC-942 came to the attention of the Authority following a series of unusual weather events, culminating in a significant incident on March 2nd, 2013. Reports document the manifestation of an EF3 tornado in Missouri. What set this tornado apart from typical meteorological phenomena was the presence of auditory phenomena.
+
+Beginning at 3:42 pm local time, the tornado displayed an unusual characteristic, whispers and anguished screams could be distinctly heard when one was within approximately 60 meters of the tornado.
+
+During the second hour of the tornado's existence, at approximately 4:42 pm. A victim of RPC-942, displaying intense distress and erratic behavior, was observed attempting to escape both RPC-942 and tornado's grasp. The entity thrashed and flailed violently in an attempt to break free from their influence.
+
+For approximately one minute, the victim's struggle against the tornado was visible. Then, in a sudden occurrence, the victim was seemingly reabsorbed by the tornado, vanishing without a trace.
+
+This peculiar incident led to further investigation and containment efforts by the Authority, resulting in the establishment of containment protocols for RPC-942 as detailed above.
+[[/div]]
+
+
+
+++ Addendums
+[[collapsible show="+ Addendum.942.01" hide="Close section"]]
+[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+**Addendum.942.01:** 10/1/2025
+Following a breach involving RPC-942. It was seen behaving erratically and unpredictable while in pursuit of multiple facility personnel. Security cam footage analysis showed that RPC-942 would randomly stop or collide with objects. At around 2 mintutes into the pursuit, RPC-942 began to throw nearby objects in attempt to stop or impede its targets. 
+
+At approximately 4 minutes into the pursuit, RPC-942 halted its position, as its mist began to change colors, including but not limited to, lime green, crimson, white, and yellow.
+
+During this event, multiple victims that were taken by RPC-942 became visible, each exhibiting different features, such as appearing scorched or melting. These instances vocalized distress through yelling, screaming, and crying. This event allowed facility personnel to escape, to which RPC-942 returned to its inactive state. 
+
+After 3 minutes, as Containment Personnel began to prepare for recontainment of RPC-942, RPC-942 was seen launching bones out of its mist in random directions in 15 second intervals. As RPC-942 continued to spit out bones, the cries began to cease. The bones recovered from the breach were identified to be the remains of 3 facility personnel.
+
+However, RPC-942 seemed to have kept one of its victims alive, possibly in attempts to perserve its "food". RPC-942 was contained without issue due to its inactivity state lasting for 4 hours after its loss in pursuit.
+
+[[/div]]
+[[/collapsible]]
+
+
+
+
+-----
+[!--
+[[collapsible show="Links" hide="Close section"]]
+[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+This is NOT apart of the article itself, and will not be seen in the finished article. Only used to keep track of my other drafts.
+[http://rpcsandbox.wikidot.com/containisolation2 The GrinWalker]
+[[/div]]
+[[/collapsible]]
+[[footnoteblock]]
+--]
+[[=]]
+<< [[[RPC-941]]] | RPC-942 | [[[RPC-943]]] >> 
+[[/=]]
+

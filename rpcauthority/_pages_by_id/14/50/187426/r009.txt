@@ -1,0 +1,173 @@
+---
+title: "Ectype Alien Report"
+tags: ["ce-lore", "cosmic-embers", "document"]
+page_id: "1450187426"
+site: "rpcauthority"
+slug: "ectype-alien-report"
+revision: 9
+revision_id: "1516347805"
+author: 3050074
+timestamp: 1701222913
+---
+
+[[module CSS]]
+.blockquote {
+  margin: 12.8px 40px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  padding: var(--blockquote-padding);
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+[[/module]]
+
+[[module css]]
+
+@import url(https://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+
+.yui-navset .yui-content {
+    background-color: #2a3348!important;
+    border: none!important;
+    border-top: none!important;
+}
+
+.yui-navset {
+    margin: 5px -14px!important;
+    box-shadow: none!important;
+}
+
+.image-block.block-right {
+    margin: 0 0em 1em 1em;
+}
+
+[[/module]]
+
+[[include component:rate]]
+[[toc]]
+
+[[div style="background:var(--background-4); border: var(--dashed-border); border-radius: 25px;  margin: 0 auto; padding: 10px 38px;"]]
+
+
+[[div class="content-panel"]]
+**Designation:** RA-012 (Ectype)
+**Psychological Human Likeness:** 0.3
+**Affiliation:** ##purple|- Soshi##
+[[/div]]
+
+Homo Vanidicus, commonly known as Ectypes or, when in possession of a corpse, Thrashers, are genetically-engineered occult practitioners and the cadavers they control in association with the Soshi through the conspiracy cell known as the //Red Wake//.
+
+Ectypes operate near zones of conflict involving the Soshi, contributing to the Soshi war effort by sabotage in military and civilian locations. Ectypes infiltrate these areas by controlling the bodies of the recently deceased through thaumaturgy.
+
+Accurate estimates of the Ectype population is difficult at this time due to their secrecy and the fact they rarely leave Soshi-controlled space.
+
++ Ectype Biology
+
+Ectypes are superficially reminiscent of a Human except for their extremely pale skin and reduced stature, averaging at 1.2 meters in height. Ectypes lack any form of ectodermal features such as hair, teeth, or nails throughout their entire bodies, and a skeletal structure akin to an infant.
+
+Ectypes have notable chemical, neural, and psychological differences from humans. The limbic and autonomic system, while identical to the Human body in layout, is approximately twice as dense and capable of fine motor control of each part of the body.
+
+Within the skull of an Ectype is an organ that resembles the human brain but wholly homogeneous and lacking any distinct nodes or segments pardon the equivalent of a brainstem leading to the spine. The organ is comprised of a thick, neurally dense insulated material that is estimated to be 10^^4^^ times as complex as the "white matter" found in the core of the human brain. This material is capable of rapid adaptation and assimilation to compensate for any missing or damaged sections, with most Ectypes being capable of operating their body with less than five percent of their brain intact. This plasticity is what enables Ectypes to assume control of alien cadavers without much difficulty.
+
+The cells of Ectypes do not feature any DNA. From what can be discerned through the limited observation of living Ectypes, their methods of survival are wholly anomalous, using occult workings to repair physical damage. How they reproduce is unknown.
+
+Further examination of Ectypes has proven difficult as most Ectypes encountered in the field are referred to as "undesirables" by Soshi informants, as any Ectypes with value to the Soshi never depart from their territory. Additionally, there are few signs of cell decay in Ectypes nor any apparent need for sustenance or hydration. This, when considering the lack of DNA degradation, means that Ectypes are potentially immune to any sort of natural death from old age or disease, among others. To the knowledge of the GRPC, the only known method of neutralizing Ectypes is through excessive force.
+
+> //One thing that Ectypes and Thrashers always get wrong is the stuff we do automatically. Their eyes contract and dilate manually, instead of instinctively. They’re able to regulate it to the point where most of us won’t notice, so when you doubt someone’s really human, sneak up on them and shine a light right in their eye. They’ll shout, act angry with you, pretend they’re capable of being upset, but they forget to contract their pupils. They always forget.//
+> - Statement from Life Support Specialist Raum
+
++ Psychology
+
+Ectypes can imitate a range of emotions and behaviors perfectly among all observed sapient species. However, behavioral analysts hypothesize Ectypes are notoriously sociopathic. Unable to recognize themselves, such as when presented with a reflective surface, they are classified as a non-sapient species. In a group setting, Ectypes and their thrasher extensions are capable of mimicking the appropriate response, but cannot actually "see" their own reflection. They may recognize the correlation between their movements and the movements in the glass, but do not appear to be capable of identifying the reflection as themselves.
+
+Given the immense difficulty in capturing and interrogating an Ectype, further information on their psychology is limited.
+
++ Thaumaturgy
+
+The corpses possessed by Ectypes, known as "Thrashers," are cadavers animated through occult techniques exclusive to the Ectypes. While the majority of Thrashers are Human, there is no known limit to the diversity of bodies Ectypes are capable of controlling beyond the fact the corpse must be the result of a suicide. As of writing, no Ectype has possessed an inorganic or non-sapient species, including artificial intelligences, organoid computers, silicon-based life, or incorporeal lifeforms.
+
+Given the Ectype's capacity for replicating observed behaviors and the assumption of the host's memories, it is challenging to discern a possessed cadaver from a living being beyond medical observation. The smell of decay and other signs of a dead body can be disguised with the technology and thaumaturgy available to Ectypes.
+
+> //We followed the thrasher to this fancy gala at the station's capital. At the entrance, there was a long hallway with a mirror at the end and guests would walk up and look themselves over, make sure nothing was wrong. This "Ectype" of yours, it brings the thrasher up to the mirror and stares at it for a while, before adjusting a flower pinned to its dress and the makeup on its dead flesh. As it smiled and hummed, clacking its heels against the floor, the eyes wouldn’t move from where they started. It was never really looking at its reflection.//
+> - Correspondence from Ranger Aleph Romero to RA-012 Project Head Dr. Baeyer Voss
+
+Possessing a corpse appears to grant the Ectype the memories and cognitive function of the body when it was alive, namely cultural behaviors and language.
+
+Ectype-possessed cadavers are fully capable of movement at any stage of decomposition and destruction beyond total obliteration of the body. Incapacitation of the senses does not appear to affect the perception of the Thrashers.
+
++ History
+
+Ectypes were first discovered by Torrent Schuyl, the French-German philosopher, coroner, thaumaturgist[[footnote]]It is believed that certain elements of his practice suggest his abilities stemmed from reality bending rather than any existing thaumatic system.[[/footnote]], and schizophrenic of the 19th century responsible for founding the premodern "Red Wake" conspiracy, notable for its influence on early German space travel and occult developments.
+
+++ Pre-Invasion
+
+Schuyl was the coroner of a district in Berlin, when, during the dissection of a suicide, discovered a small ebony pearl between the base of the spine and the pelvis. Once removed, the material quickly dissolved and the particulates made contact with his eye. At this, Schuyl found himself in a grey, murky plane with great pits pockmarked throughout. After descending into one, he emerged from a shallow grave in the body of corpse, a young Hindu girl who had committed suicide several weeks prior. Schuyl found he had perfect recollection of the cadaver's memories and could communicate in Hindi, retaining this information once Schuyl found himself back in Berlin.
+
+Through occult practices discovered by his travels, Schuyl developed methods of augmenting living humans he had kidnapped to be more capable of traversing the grey plane and more efficiently assume control of cadavers. These augmentees were dubbed "ectypes" and formed the basis for the subspecies.
+
+This process was repeated several times until Schuyl himself was transformed by his followers, mostly orphans he had seized, with which he began a ritual in 1906. Torrent aimed to travel further through this plane then ever before. After weeks of travel, Torrent possessed an alien cadaver beyond Earth.
+
+With this process, the Red Wake managed to contact several alien races via dead bodies and through the exchange of information, came into possession of schematics for incredibly advanced technology.
+
+> //The slow takeover of the German scientific community by the Red Wake was inevitable, once the followers of Torrent got their hands on alien schematics. They had to be careful, though. It wasn't long until they found a corpse that knew who the RPCA was, and so they fabricated origin stories for their exotic technology. Funnily enough, we weren't the ones that really had a bead on them at the time. Most of the reports on Red Wake activity in Europe comes from MI13.//
+> - Excerpt from //Enemy Without: Thrashers in the Pre-Ember Era// by RA-012 Project Head Doctor Baeyer Voss
+
+A significant majority of developments in the German aerospace field and medical industry throughout the late 19th to early 20th centuries are, in part, connected to members of the Red Wake. A collection of the technology acquired via occult interstellar travel known as the 'Grey Book' was created and slowly introduced the alien discoveries to the German scientific community.
+
+This rapid development caught the Soshi by surprise during the 1938 invasion, during which the Red Wake observed and began communication with the Soshi military command. Once the invasion was defeated and repelled, the shocked and dismayed leaders were willing to bargain with the Red Wake for information on Humanity.
+
+It is unknown exactly when The Red Wake provided detailed information on Earth's worldwide capacity to combat an alien invasion (the 'Schuyl Report'), but once the second invasion had begun, almost every spacecraft and anti-orbital weapon based on designs from the Grey Book was disabled or used against Human forces on behalf of the Soshi. Only the RPCA's own fleet had managed to avoid extensive sabotage.
+
+With interplanetary communication also disabled by Thrashers within the industry, Human colonies beyond Earth were isolated and quickly conquered by the Soshi. Refugees from these colonies carried those possessed by Ectypes, who overwhelmed areas offering asylum.
+
+After approximately 14 hours, the civilian aerospace and interplanetary industry was completely disabled. Multiple diseases designed to take advantage of those who had taken medicine and gene therapy offered by the Red Wake, collectively referred to as the Hessian Plagues, effectively neutralized a notable percentage of humans over the age of 20. Despite a partial immunity developing over the years since the invasion, the Hessian Plagues remain endemic to mankind and several strains are as lethal as the flu among some remote colonies.
+
+> //I wondered how strange it was that the Soshi would go out of their way to prolong the invasion with subterfuge and disease. To a reptilian mind, how easy it would've been to wipe out mankind instead of drawing out our misery. Did those lidless eyes delight in torture? How could they let us escape? Surely they could find us. Surely they had tracked us. But they didn't intervene. They watched us leave, their pale necromancers gazing at our refugees huddled around our nullgrav engines, desperate survivors crowded around a fire, or moths to a flame. It struck me so suddenly, then. Why would the Ectypes want us gone? With no mankind, they would have no purpose and no hunt. I don't think they wanted to wipe us out at all. That genocide was the beginning of the chase.//
+> - Anonymous Excerpt from //The Ash Diaries: A Collection Of Writings Before And After Embers Day//
+
+++ Post-Invasion
+
+Ectypes remain a strategic asset for information acquisition and subterfuge for the otherwise overt Soshi military. How exactly the Red Wake contacts and cooperates with their alien superiors is unknown but it is believed their base of operations is deep in Soshi space.
+
+Ever since the invasion, reports of Ectype and Thrasher activity in various civilian and military installations have only increased over time. Due to their past control of Rangers and other personnel, the extent of the Red Wake's knowledge regarding GRPC is unknown but severely compromising, as multiple spacecraft and space stations have been lost to Thrasher sabotage.
+
+The Ectype's understanding of Human biology and psychology suggests that the majority of the Soshi's atypical warfare against mankind (disease, psychological warfare, etc) originates from the Red Wake.
+
+> //The Red Wake do have ways to talk to each other, with their undead agents amidst our miserable race. They're a little like number stations, the sort Communists would use when we were squabbling on Earth. But they don't read off numbers or symbols, they play screams, dozens of voices of people in pain, with minute variations in tone and pitch. The languages they cry in are all different too. Given their design to hunt humans, maybe that's how they can best encode information, by associating ideas with the way we die.//
+> - Excerpt from //Report On The Crying Signals//
+
++ Procedures
+
+Ectypes as a species are anathema to the survival of the Human race. Rangers are to assume a shoot-on-sight policy against identified Ectypes and their possessed cadavers unless otherwise directed.
+
+Depression and suicidal thoughts among GRPC personnel are to be strictly monitored. Psychological and therapeutic coverage must be insured to firstly determine whether a staffmember is considering suicide, and secondly if they have been possessed/replaced by an Ectype.
+
+Several members of GRPC command have sigils that prevent the disclosure of key information via Ectype possession, but the complexity of the working prevents mass distribution to all personnel.
+
+[[collapsible hideLocation="both" show="[+] File Labeled 'Ectype Interrogation,' Recovered From Abandoned GRPC Blacksite" hide="[-] Close"]]
+
+[[div class="blockquote"]]
+
+My first concern was its size. The ones we've seen are small and fat like babies, but this Ectype was long and spindly, with its skin hanging low from its gangling shape. But it kept the structure of an infant.
+
+I remember when I was part of the relief force sent to Meridian-9, that planet starved by a Soshi blockade who salted their earth with every plant-eating fungus and plague. An emaciated baby suckling from its mothers teat, bones jutting out against taut skin. That image was so distinct that when I saw the grotesquely large figure sitting upright across the table I couldn't help but compare the two. The digits across its hands and feet were spread out and elongated, terribly smooth and lacking any hair or nail. It was nothing but artificial, but some deep, primal part of me knew that it was a predator and I felt so terribly like prey.
+
+The questions I asked were typical. Threats and the use of electrocution did nothing to encourage it to tell where Ectypes came from, how they were made. It giggled when I shocked it with a voltage that would cause a man to melt. I know because I've tested it so many times on less durable subjects.
+
+"How does your species multiply?" I said, and at that it started laughing, the grossly elliptical skull coming in and out of the shadows, bright eyes shining in the dark and bleeding gums glinting in the light. It says it won't sleep so long as we keep living. It says it will never die until we've all hung ourselves.
+
+I think it wanted to be captured. When they grow old they grow bored, the way a wolf can become immune to the thrill of the hunt.
+
+Something in its movement triggered the explosive we buried in its brain, painting the pale white walls of the cell a dark color pardon thick grey chunks of white matter, and at that it started to laugh even harder, howling as it swung the lower half of its head back and forth. It started to sound like the baying of a dog, a hunting dog that knew I had become vulnerable.
+
+Its cuffs came undone as if they were never there at all and it leaped across the table, plunging its elongated infant thumbs deep into my eyes. It drooled over the pus that bubbled up from my sockets as it rendered me wholly blind, only stopped by a second explosive in its neck.
+
+I've been having nightmares. Might be better to call them memories, I suppose, of its face. The last thing I'll ever see. A toothless maw bubbling over with saliva and blood.
+
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+

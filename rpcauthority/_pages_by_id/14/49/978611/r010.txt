@@ -1,0 +1,614 @@
+---
+title: "RPC-230"
+tags: ["beta", "ecological-hazard", "mind-regression-hazard", "missingrpc", "organic-hazard", "radiation-hazard", "remake", "rpc", "sentient-hazard", "translated", "transmutation-hazard", "yellow"]
+page_id: "1449978611"
+site: "rpcauthority"
+slug: "rpc-230"
+revision: 10
+revision_id: "1530925457"
+author: 9487909
+timestamp: 1752160849
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+[[/module]]
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Pinyon+Script');
+
+.note-manila { text-shadow: none; }
+.note-manila .heading::before { content: ""; }
+
+.ACI_Paperback {
+    color: #000;
+    border: solid 3px #000000;
+    background: #FFEFDD;
+    padding: 25px;
+    margin-bottom: 25px;
+    text-shadow: none;
+}
+.ACI_Paperback blockquote {
+    background: #d4c2ae;
+
+    border-left: 4px solid #56603a;
+    border-right: 4px solid #56603a;
+    border-radius: 2px;
+    box-shadow: 0px 2px 10px black;
+}
+.ACI_Paperback strong { color: black; }
+.ACI_Paperback h3 strong { color: #7c8c54; }
+
+
+.newpaper_1 {
+    padding: 1em;
+    margin: 1em;
+    background: #ebe2ca;
+    color: black;
+}
+
+.newpaper_2 {
+    padding: 1em;
+    margin: 4%;
+    background: #efe6cd;
+    color: black;
+}
+
+.newpaper_3 {
+    padding: 2em;
+    margin: 1em;
+    background: #f6e7cd;
+    color: black;
+}
+
+.unmargined > p {
+    color: #303030;
+}
+[[/module]]
+
+
+[[include component:rate | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/rpc-230"]] ]]
+
+[[include :rpcauthority:component:special-box number=230|
+object-class=Beta|
+lethality-rating=Yellow|
+symbol=beta-yellow|
+ecological=true|
+organic=true|
+sentient=ture|
+radiation=true|
+mind-regression=true|
+transmutation=true|
+]]
+
+----
+
+**Containment Protocols:**
+
+[[tabview]]
+[[tab Original]]
+
+RPC-230 entities are to be contained in Terrestrial Containment Chamber #032 in the Beta Sector of Site-002. The interior of the containment chamber is to simulate a forested area with the climate control system set to maintain a dry and arid environment and to contain an in-ground water source.
+
+RPC-230 instances are to be fed a steady omnivorous diet of raw meat and desert foliage. Standard pre-feed screening protocols for foodborne illnesses are in place.
+
+Maintenance personnel are to inspect the containment chamber biweekly for any damages or abnormalities. Healthkeeping personnel are to check on the entities once a month and are authorized to adjust the diet of individual entities.
+
+In the case of a containment breach, containment personnel are to attempt entity recontainment utilizing non-lethal means. Lethal force may only be imposed by the approval of the acting site director.
+
+A five-year ban on experimentation with RPC-230 instances is in place, to be released on 21/02/2007, or until the confirmation of the entities' ample reproductive capabilities. Contact the current attending head researcher for more information.
+
+[[/tab]]
+[[tab Revised]]
+
+RPC-230 entities are to be kept in a secure off-site containment facility 30km southwest of Site-002, codenamed 'Sugar.' The living habitat containing RPC-230 must be maintained to simulate the forested semi-arid environment of the surrounding mountain range and contain an ample source of water.
+
+The containment chamber of RPC-230 and its surrounding areas are situated atop radioactive soil in order to assist the entities' autophagy mechanism. Visiting and attending personnel must undergo a mandatory HAZMAT safety course prior to entering the containment area.
+
+Instances of RPC-230 are to be fed a steady omnivorous diet of the flower and de-spined flesh of barrel cacti, meat of whitetail deer, and/or several other flora and fauna native to the state of Nevada and the surrounding Mojave Desert. Contact the attending head researcher for information on dietary restrictions.
+
+Essential personnel (containment, medical, and maintenance) are to be housed in a permanent operational camp 20km south of the containment site codenamed 'Mercury'. Daily personnel shifts are to be rotated every 6 hours, with the duration of personnel deployment being 90 days.
+
+In the case of a containment breach, all non-essential personnel are to enter the secure panic chamber in a calm and orderly manner. Containing personnel are to attempt entity recontainment utilizing non-lethal means. Lethal force may be deployed per the approval of the attending head researcher.
+
+[[/tab]]
+[[/tabview]]
+
+----
+
+**Description:**
+
+RPC-230 is the collective designation for a group of bipedal humanoid entities, measuring approximately 175cm tall in adult form. Instances possess pale, leathery skin, and lack forelimbs. In addition, specimens have a unified body and head with no neck, and a pair of three-jointed digitigrade legs. Individual designations are displayed as RPC-230-1 through RPC-230-34 (refer to the inventory list for more details).
+
+The pale coloring in the skins of RPC-230 entities is due to oculocutaneous albinism mutation present in all instances. --It is currently unknown whether RPC-230 instances are inherently albino, or if this was caused by a singular mutation that is made chronic due to uncontrolled inbreeding.--[[footnote]]See attachment 230/03.[[/footnote]] Due to their inherent lack of defense against ultraviolet light, RPC-230 instances have adopted a nocturnal circadian cycle.
+
+The unified upper body of RPC-230 entities exhibits several extensive calcified protrusions emerging from either flank, in the front three-quarters of their bodies, nearing the mouth at the front. --The function of these protrusions is still debated among Authority biologists.--[[footnote]]See attachment 230/01 below.[[/footnote]]
+
+[[collapsible show="+ [230/01] Theories on the Exoskeletal Structure of RPC-230" hide="-hide [230/01] Theories on the Exoskeletal Structure of RPC-230"]]
+[[div style="border: var(--blockquote-border); color: var(--text-color); background: var(--blockquote-background); border-radius: var(--blockquote-border-radius); padding: var(--blockquote-padding); box-shadow: var(--blockquote-box-shadow); margin: 0px 50px 0px 50px; padding: 3px 20px;"]]
+
+**ID:** 230/01
+
+**Log Date:** 21/08/2003
+**Researching Personnel:** Dr. Robert Hanson, M.D
+
+----
+
+Identifying the purpose of the bony protrusions on RPC-230 instances has proved to be a challenging endeavor, to say the least. Although determining the physiognomy of these creatures is nigh impossible, the top brass still hasn't given me the go-ahead to take a biopsy sample.
+
+Nevertheless, if we cross-reference the skeletal structure of most mammals out there—which I am positively sure that RPC-230 can be classified as one—we can start to see what seems to be a slight disconnect between the head and the rest of their bodies.
+
+The connection between the heart and the brain is, without a doubt, the most critical connection between every vertebrate. The heart pumps blood to oxygenate the brain, and the nervous system extends down the spine and throughout the entire body to allow the body to move. These creatures do have necks and, with them, jugular arteries.
+
+These bony protrusions seem to bridge the gap between the head and the rest of the body, essentially forming a "pseudo-neck," and the function of that protrusion is quite simple: It protects the jugular arteries from external trauma.
+
+Might I say though, that these bony protrusions seem awfully similar to those found in human skeletons. Namely, the three primary protrusions extending from the snout of the creatures, appear to be the humerus, ulna, and radius bones found in a human arm.
+
+I would like to propose a new theory on the origins of RPC-230 and to pursue said theory by inspecting the creatures hands-on. Alas, with the research limitations imposed by my supervisors, all of this remains a mere theory.
+
+[[/div]]
+[[/collapsible]]
+
+RPC-230 instances exhibit an omnivorous diet and are documented to have consumed a plethora of flora in the lush environment of Mt. Charleston. Specimens are known to have hunted down desert lizards, small birds, and even large terrestrial mammals such as deer and sheep.
+
+RPC-230 instances also exhibit docile behavior; they do not see humans or other predatory entities (presented as still images) as a threat unless provoked. It is unknown whether this behavior is an inherent trait or whether RPC-230 instances have had no natural predators in the arid environment of the Mojave Desert.
+
+There is no evidence that RPC-230 instances can reproduce in large part due to the lack of sexual organs. Although a few entities seem smaller than the rest, there is no evidence that those smaller entities are the offspring. The lifespan of RPC-230 instances is also currently unknown.
+
+RPC-230 has also shown excellent adaptability and survivability traits and has exhibited a migratory pattern, with a few instances being spotted as far as Fresno, CA, USA in response to a widespread Authority containment operation in their native habitat of Mt. Charleston in Nevada.
+
+[[div style="background: #212121; border: dashed 0.5px #666666; background-image: url(http://rpcsandbox.wikidot.com/local--files/mrpines/logo_doc3.png); background-position: 50% 75%; color: #C0C0C0; background-repeat: no-repeat; background-size: 175px; border: solid 2px #666666; margin: 0px 50px 20px 50px; padding: 0px 20px 10px 20px; color:"]]
+
+++ ##yellow|--Temporary Descriptor--## [[size 125%]]##red|[DEFERRED]##[[/size]]
+
+----
+
+--Several RPC-230 instances had seemingly died due to unknown causes. A full investigation will be conducted by personnel from the Authority Biology Department and assisted by MST Sierra-8 Investigators on 20/04/2004.--
+
+- --Head Researcher Dr. Hanson--
+
+[[/div]]
+
+[[collapsible show="+ [230/02] Sudden Deaths of Multiple RPC-230 Instances" hide="-hide [230/02] Sudden Deaths of Multiple RPC-230 Instances"]]
+[[div style="border: var(--blockquote-border); color: var(--text-color); background: var(--blockquote-background); border-radius: var(--blockquote-border-radius); padding: var(--blockquote-padding); box-shadow: var(--blockquote-box-shadow); margin: 0px 50px 25px 50px; padding: 3px 20px;"]]
+
+**ID:** 230/02
+
+**Log Date:** 20/04/2004
+**Researching Personnel:** Dr. Robert Hanson, M.D
+
+----
+
+Today marks the fifth entity out of a total of thirty-four to have succumbed to this mysterious plague. I, myself, with the help of the maintenance personnel, have ensured optimal living conditions for these creatures. No change in diet, no change in temperature, no breach in containment.
+
+And still, five of them just inexplicably dropped dead. Maybe they have reached the end of their expected lifespans, but if this is a plague, I must cure it. I've tested the water source and feed for foodborne illnesses to no avail. Maybe it's something simpler like a common cold, but in order to find out, I need to dissect one of them.
+
+The biopsy limitation is still in place, and the previous four entities were all sent to be incinerated. Maybe this will be the time that they see I need to do what I do best. I'm saving the fifth corpse—number twenty-nine—in a holding chamber until they come around.
+
+I just hope that they can see, that these creatures hold a sense of beauty they could never comprehend.
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="+ Findings on the Ecological Impact of RPC-230’s Existence" hide="-hide Findings on the Ecological Impact of RPC-230’s Existence"]]
+[[div style="background: #000000; border: dashed 1px #858585; padding: 15px 25px 15px; margin: 0px; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**Remy Hadley**
+[[module ListUsers users="."]]
+[[span class="email"]] From: <@@hadleyr1984@authority.rpc@@> [[/span]]
+[[span class="email"]] To: <@@gardnerm@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __Findings on the Ecological Impact of RPC-230’s Existence**__ [[/span]]
+[[/module]]
+[[/div]]
+
+------
+~~~~
+------
+
+Dear Director Maya Gardner,
+
+As part of the post-operation cleanup efforts by the Authority Intelligence Bureau, operatives have discovered several disfigured remains of the local flora and fauna in Mt. Charleston. One notable example was a single instance of furless albino mountain sheep in the following attachment:
+
+[[=image http://rpcauthority.wdfiles.com/local--files/rpc-230/230_1.jpg width="450px"]]
+
+It is unknown whether this was the direct involvement of RPC-230 instances upon the local ecology, such as RPC-230 cross-breeding with other species of mammals, or an indirect involvement, as RPC-230 instances are now confirmed to have been continuously emitting radiation of an anomalous nature.
+
+In accordance with the findings presented by Dr. Graham Lodge in his autopsy report on the late Dr. Robert Hanson, we in the Authority Biology Department recommend everyone who has been directly exposed to RPC-230 instances and their environmental wake undergo quarantine and physical screening to ensure DNA integrity.
+
+Regards,
+
+Dr. Remy Beauregard Hadley, M.D.
+Authority Biology Department
+
+[[/div]]
+[[/collapsible]]
+
+----
+
+**Discovery:**
+
+[[collapsible show="+ [230/03] The Zoology of RPC-230" hide="-hide [230/03] The Zoology of RPC-230"]]
+[[div style="border: var(--blockquote-border); color: var(--text-color); background: var(--blockquote-background); border-radius: var(--blockquote-border-radius); padding: var(--blockquote-padding); box-shadow: var(--blockquote-box-shadow); margin: 0px 50px 25px 50px; padding: 3px 20px;"]]
+
+**ID:** 230/03
+
+**Log Date:** 19/05/2004
+**Researching Personnel:** Dr. Remy Hadley, M.D.
+
+----
+
+The findings presented within this paper were the result of the dissection of RPC-230-29, the fifth entity to have suddenly died, and was preserved by Dr. Robert Hanson. No exterior ulcers or lacerations were seen on the corpse, and no patches of infected and necrotic tissue were seen on the skin.
+
+I want to preface this report by stating that the theory suggested by the late Dr. Robert Hanson about the origins of RPC-230 was, in fact, true. Electron microscope imaging and extensive blood work of RPC-230-29 tissue found human chromosomes and human hemoglobin, respectively.
+
+The pre-dissection MRI imaging of the entity found significant cellular degradation throughout the body, which was confirmed by the primary dissection of the internal cavity. Several lacerations were seen throughout the entity's internal organs supplanted by abnormal tissue growth.
+
+[[=image http://rpcauthority.wdfiles.com/local--files/rpc-230/230_3.jpg width="450px"]]
+
+Symptoms suggest a typical case of malignant tumor, which may or may not be caused by internal factors such as inherited DNA. However, with the scope of the growth, and as suggested by a theory provided by Dr. Graham Lodge, who assisted me with the dissection, the cause of the tumor growth may have been environmental exposure.
+
+The vast scope of cellular degradation and lacerations found within the internal cavity suggests acute radiation poisoning. However, since the containment chamber was found to be perfectly sterile, even against Radon gasses, Dr. Lodge indicated that it might have been the entity's lack of autophagy that induced the tumorous growths, which ionizing radiation assisted.
+
+Simply said, RPC-230 may have been lacking in the necessary genes to enable natural cellular degradation via autophagy, which ultimately prevented dead tissue from being expelled and thus, forming tumors. With the proximity of RPC-230's natural habitat to the radioactive soil of the Nevada Test Site, Dr. Lodge and I have concluded that RPC-230 entities need natural ionizing radiation to prevent tumors.
+
+Additionally, with the findings presented by the Authority Intelligence Bureau, RPC-230 may have been emitting radiation on its own of an unknown nature that rewrites the DNA of various fauna into its own. This may or may not have been what caused the illness to befall the former attending head researcher, Dr. Robert Hanson.
+
+I suggest inducing a radiation-positive environment in RPC-230's containment chamber and minimizing personnel exposure to the entities.
+
+[[/div]]
+[[/collapsible]]
+
+[[include component:image-block | align=right| width=250px | name=http://rpcauthority.wdfiles.com/local--files/rpc-230/230_2.jpeg| caption=A family of Cactus Springs inhabitants, 1955. Taken by a traveler.]]
+
+In accordance with the findings presented by Dr. Hadley, The Authority now has ample evidence that RPC-230 instances were, in fact, the radiation-induced mutated remains of the former inhabitants of Cactus Springs, NV USA; a now-abandoned silver mining town just north of Mt. Charleston.
+
+In 1957, personnel from the Authority's MST Sierra-8 "Sundowners" Anomaly Department were investigating a series of missing persons reports throughout the state of Nevada. This was later proved to have been the doing of an organized crime in 1959.
+
+However, Sierra-8 personnel also discovered a case of an entire town's inhabitants having seemingly gone missing overnight. This event made its way onto the local newspaper in Las Vegas, written by Rick E. Blaine: a reporter, and a prominent ghost hunter at the time.
+
+In the article, Mr. Blaine stated that the inhabitants of Cactus Springs appeared unnaturally sickly, pale, and unresponsive when he was stopping over at the town for supplies while on his way to Tonopah. The next day, he passed through Cactus Springs again only to find the town completely abandoned, with the people's belongings simply left behind, and no evidence of a struggle or a sudden escape.
+
+This prompted Mr. Blaine to investigate the area extensively and subject the residents of Las Vegas to a fear frenzy. Unbeknownst to Mr. Blaine, the grounds surrounding Cactus Springs were heavily contaminated with radiation following the battery of above-ground nuclear tests in the Nevada Proving Grounds nearby.
+
+Rick E. Blaine later published another article that recounts his encounter with a supposed ghost of a former Cactus Springs inhabitant. Eventually, Mr. Blaine contracted a severe case of acute radiation poisoning which gave him severe haematemesis and made his skin turn pale. These events tripled the ghost scare throughout Las Vegas, which prompted an Authority response to impose a quarantine perimeter around the city.
+
+The Authority found no evidence of anomalous activity surrounding Cactus Springs and chose not to investigate the matters further, and to instead redact the story and amnesticize the residents of Las Vegas. However, Rick E. Blaine was adamant in his accounts to the point that he attempted to escape Authority quarantine to pursue the entities, which ultimately resulted in his termination on 04/06/1957.
+
+In 1989, hikers and rangers in Mt. Charleston started to report sightings of ghosts deep within the forest. With more and more photographic evidence received in the following years, the Authority launched a full-scale containment operation surrounding Mt. Charleston in late 2002. This time, the Authority elected to pre-emptively amnesticize the witnesses to prevent another cryptid hunter incident.
+
+The first RPC-230 instance was taken into Authority custody in early 2003, with the remaining 29 apprehended in the following months. However, 5 instances managed to slip through the containment operation and were spotted in the outskirts of Fresno, CA USA in 2010. They were subsequently apprehended 2 months after the first reported sighting.
+
+[[collapsible show="+ I'm Sorry" hide="-hide I'm Sorry"]]
+[[div style="background: #000000; border: dashed 1px #858585; padding: 15px 25px 15px; margin: 0px; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**Robert Hanson**
+[[module ListUsers users="."]]
+[[span class="email"]] From: <@@hansonr@authority.rpc@@> [[/span]]
+[[span class="email"]] To: <@@gardnerm@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __I'm sorry**__ [[/span]]
+[[/module]]
+[[/div]]
+
+------
+~~~~
+------
+Maya,
+
+I'm doing it. I apologize for what I'm about to do. We both know it's wrong to keep them here.
+
+Love,
+
+Robert.
+
+[[/div]]
+[[/collapsible]]
+
+----
+
+**Incident Logs:**
+
+Below is a list of incidents caused either directly or indirectly by RPC-230. Documents dated prior to 01/01/1990 have been digitalized from their original compositions.
+
+[[collapsible show="+ Incident Log 230-015" hide="-hide Incident Log 230-015"]]
+[[div style="background-color: #1d2022; color: #c8c8c8; border:solid 1px #666666; margin: 0px 25px 25px 25px; padding: 10px 25px; "]]
+
+**Date:** 22/04/2004
+**Location:** Site-002
+
+**Event Type:** Incident
+**Severity Rating:** ##yellow|Intermediate##
+
+----
+
+The attending Head Researcher Dr. Robert Hanson was caught tampering with the blast door controls to Terrestrial Containment Chamber #032. Dr. Hanson had caused irreparable damage to the controls and was subsequently admitted for interrogation. The chamber was occupied by active RPC-230 instances at the time of the incident.
+
+Investigator Patrick Tritter from MST Sierra-8 Cartage Division found no conclusive evidence of a deliberate attempt to cause a containment breach, citing that "He was just trying to fix [the controls] 'cause the doors jammed on his first try." However, with the circumstances of the situation and testimonies from his colleagues, Dr. Hanson was suspected to be mentally troubled.
+
+Typically, the Authority Ethics Committee would impose a 2-month suspension and a thorough investigation and psychological evaluation of the offending party. However, Director of Anomaly Containment Maya Gardner overruled their decision and instead imposed a brief 2-week suspension and a trial by peer hearing on Dr. Robert Hanson.
+
+Dr. Robert Hanson is to appear in a trial by peer hearing on 12/05/2004.
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="+ Incident Log 230-016" hide="-hide Incident Log 230-016"]]
+[[div style="background-color: #1d2022; color: #c8c8c8; border:solid 1px #666666; margin: 0px 25px 0px 25px; padding: 10px 25px; "]]
+
+**Date:** 12/05/2004
+**Location:** Site-002
+
+**Event Type:** Incident
+**Severity Rating:** ##red|Severe##
+
+----
+
+The attending head researcher, Dr. Robert Hanson, M.D., exhibited hematemesis and lost consciousness shortly after he was brought forward to a trial by peer hearing of his previous incident. Fearing an infectious containment breach, the administrators of Site-002 imposed an indefinite lockdown until the matters were resolved.
+
+Initial evaluation suggests that Dr. Hanson was infected with a dormant disease contracted from the deceased RPC-230-29 he had preserved a few days prior to his incident. Dr. Robert Hanson was transported to a quarantine chamber, as with all containment personnel who had been involved with the preservation of RPC-230-29. The containment chamber of RPC-230 was locked down and sterilized completely.
+
+Several trained medical personnel specialized in infectious diseases and anomalous medicine were airlifted from Site-008 to investigate the matters. The lockdown ultimately lasted 7 days.
+
+[[/div]]
+[[/collapsible]]
+
+----
+
+**Supplementary Documents:**
+
+Below is a list of documents that may or may not be connected to RPC-230. Documents dated prior to 01/01/1990 have been digitalized from their original compositions.
+
+[[collapsible show="quarantine_chamber_004_security_footage.mp4" hide="quarantine_chamber_004_security_footage.mp4"]]
+[[div style="background-color: #1d2022; color: #c8c8c8; border:solid 1px #666666; margin: 0px 50px 25px 50px; padding: 0px 15px; "]]
+
+**[START OF RECORDING, 19/05/2004 20:59:42 GMT]**
+
+//[Dr. Robert Hanson can be seen lying down on a bed in the corner of the chamber, hooked up to an EEG and a PCA machine.]//
+
+//[Dr. Graham Lodge can be seen entering the outer chamber with Director Maya Gardner of Anomaly Containment, seemingly locked in a heated argument. The microphone manages to pick up some of their muffled dialogue.]//
+
+**Director Gardner:** What the hell do you think you're doing?
+
+**Dr. Lodge:** —[indistinct]—
+
+**Director Gardner:** He does not need to —[indistinct]—
+
+**Dr. Lodge:** Right, it's just so wrong to tell a man he's got —[indistinct]— to live.
+
+//[Dr. Lodge is seen putting on a HAZMAT suit.]//
+
+**Director Gardner:** No, I'm saying he doesn't need to know about —[indistinct]—
+
+**Dr. Lodge:** There's two things —[indistinct]— either he dies, or —[indistinct]— if you were in his place, —[indistinct]—
+
+**Director Gardner:** Exactly! Don't tell him about —[indistinct]— it's unnecessary —[indistinct]—
+
+**Dr. Lodge:** If you wanted him to —[indistinct]— see his family.
+
+**Director Gardner:** —[indistinct]—
+
+**Dr. Lodge:** Oh, better yet, you should've just let him —[indistinct]— and we all would be spared from this —[indistinct]—
+
+**Director Gardner:** You know I can't do that!
+
+**Dr. Lodge:** Right, you have to —[indistinct]— with the local zoo.
+
+**Director Gardner:** —[indistinct]—
+
+**Dr. Lodge:** Look, I don't care how touched you are with his —[indistinct]—
+
+**Director Gardner:** I'm not —[indistinct]—
+
+**Dr. Lodge:** Then you're —[indistinct]—
+
+**Director Gardner:** I'm not guilt-ridden!
+
+**Dr. Lodge:** Then you're pathetic! You're dealing with things you barely know and yet you don't let the folks with medical degrees to —[indistinct]—
+
+//[Dr. Lodge enters the airlock.]//
+
+**Dr. Lodge:** Now let me do my job.
+
+//[The airlock hisses which wakes up Dr. Hanson. The inner chamber door opens and Dr. Lodge approaches Dr. Hanson's bed. He is seen carrying a clipboard. Director Gardner can be seen watching intently from the outer chamber.]//
+
+**Dr. Lodge:** Wow! Two and a half milligrams of morphine an hour and you managed to stay awake. You must be really fun at parties.
+
+**Dr. Hanson:** You... you are... Doctor Lodge? Graham Lodge?
+
+**Dr. Lodge:** Oh God, please don't tell me we used to date...
+
+//[Dr. Lodge approaches the end table on the far side of the room and grabs a TV remote from the drawer. He points the remote at the TV mounted on the upper corner of the room and turns it on, showing the local news broadcast.]//
+
+**Dr. Hanson:** So what's... what's wrong with me?
+
+**Dr. Lodge:** Cancer.
+
+**Dr. Hanson:** Cancer?
+
+**Dr. Lodge:** Yeah, cancer. I just said it. Don't play parrot with me.
+
+**Dr. Hanson:** What... what kind of cancer?
+
+//[Dr. Lodge puts the remote back in the drawer and walks towards the foot of Dr. Hanson's bed.]//
+
+**Dr. Lodge:** Oh, it's a new type. Previously unknown to mankind. I went to call it the 'Bagel Syndrome.' Wait no, I should call it the 'Lodge Syndrome...' Hmm... nah, I'll come up with something soon. Patent Pending.
+
+**Dr. Hanson:** What?
+
+**Dr. Lodge:** //[sigh]// Well, just like a bagel, you have the everything kind.
+
+**Dr. Hanson:** I don't-
+
+**Dr. Lodge:** Internal hemorrhaging, hematemesis, leukopenia, electrolyte disturbance, tumors, and my personal favorite: alopecia. That's right, you're balding at 25.
+
+//[Dr. Lodge glances a peek at the clipboard he is carrying and places it on the footboard of Dr. Hanson's bed.]//
+
+**Dr. Lodge:** But don't worry, one of my roommates from med school started balding at age 13. //[scoffs]// God, believe me when I say you don't want to be him.
+
+**Dr. Hanson:** What could possibly cause all of that?
+
+**Dr. Lodge:** Acute radiation syndrome.
+
+**Dr. Hanson:** //[scoffs]// But I never made contact with any major radioactive material all my life—hell, this entire site is sterile.
+
+**Dr. Lodge:** I know, but you worked with 230.
+
+//[Dr. Lodge fidgets with Dr. Hanson's patient-controlled analgesia machine.]//
+
+**Dr. Lodge:** You see, a friend of mine, got clearance to dissect that cadaver you preserved before you ended up here and scared the crap out of the entire site. She found that those creatures lack autophagy mechanisms and need a high-radiation environment to avoid getting cancer.
+
+**Dr. Hanson:** What does that have to do with my condition?
+
+**Dr. Lodge:** That's the fun part. She also found—a theory at least—that the creatures you were working with, are emitting radiation on their own which rewrites your DNA, into theirs. In other words, you're turning into one of them, and were getting radiation poisoning without ever being in contact with radiation.
+
+**Dr. Hanson:** So... what's next, chemotherapy?
+
+**Dr. Lodge:** No, with the kind of damage it's already done, it would only slow it down.
+
+**Dr. Hanson:** //[groans]// Can you at least up my morphine dosage?
+
+**Dr. Lodge:** You're already maxed out. I'd need to input a code, but Miss Sunshine over there won't let me do it.
+
+//[Brief pause, Dr. Hanson takes his gaze off of Dr. Lodge and stares straight onto the ceiling.]//
+
+**Dr. Lodge:** I'm sorry.
+
+**Dr. Hanson:** It's fine. No one could have foreseen this.
+
+**Dr. Lodge:** Hmm. Well, I'll take my leave now. Got more lives to save.
+
+//[Dr. Lodge stands up and starts walking towards the airlock. However, halfway through, he stops, takes a brief pause, and turns back to face Dr. Hanson.]//
+
+**Dr. Lodge:** No... I'm telling you that you only have hours to live. Why are you fine with this? Why aren't you angry?
+
+**Dr. Hanson:** What use is there to lash out? This was nobody's fault.
+
+//[Dr. Lodge just stands in silence, staring at Dr. Hanson and ever so subtly shaking his head. Dr. Hanson turns his head up away from Dr. Lodge to face the ceiling.]//
+
+**Dr. Hanson:** //[raspy voice]// We just wanted to be free.
+
+//[Dr. Lodge walks over to the airlock and decontaminates himself. He walks onto the locker to start undressing his HAZMAT suit, and seems to be indistinctly talking with Director Gardner. Dr. Lodge rests his right hand on the intercom button as support while removing his boots and inadvertently activates the intercom.]//
+
+**Dr. Lodge:** //[loudly]// The code for the PCA machine is 8-2-3!
+
+//[Dr. Lodge exits the outer quarantine chamber, Director Gardner stays behind to glance at Dr. Hanson before following Dr. Lodge out of the chamber.]//
+
+**[END OF RECORDING, 19/05/2004 21:05:27 GMT]**
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="autopsy_report_robert_hanson.pdf" hide="autopsy_report_robert_hanson.pdf"]]
+[[div style="center no-repeat; border: solid 2px #666666; background: #242424; color: #c8c8c8; padding: 25px 15px; margin: 0.9rem 8px; width: 635px; "]]
+[[=]]
+[[image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/RRRPC.png]]
+
++ [[size 120%]]>> Office of Analysis and Science <<[[/size]]
+
+----
+
++ Autopsy Report
+[[/=]]
+
+[[>]]
+**Pathologist Name:** Dr. Graham Lodge, M.D.
+**Case #:** 002/1-14(004)/5835905
+[[/>]]
+----
+
++ I. Personal Data
+
+**Name:** Robert Edgar Hanson
+**Age:** 27
+**Sex:** Male
+**Address:** Harmon Crossings Apartment 57
+**City, State, ZIP:** Las Vegas, NV 89169
+**Phone #:** 702-247-8416
+
++ II. Physical Description
+
+||~ Race ||~ Length ||~ Weight ||~ Eyes ||~ Hair ||~ Beard ||
+|| Caucasian || 174cm || 87kg || Blue || Blonde || Black ||
+
+||~ Blood Type ||~ Contents In Blood ||~ Rigor Mortis ||~ Livor Mortis ||
+|| B+ || Morphine 5 mg/mL || Stage 1 || Stage 1 ||
+
++ III. Autopsy Findings
+
+**Marks & Wounds:**
+
+Hypopigmentation throughout the subject's skin which was present prior to termination and was not due to pallor mortis. Multiple tumorous growths within the subject's internal cavity and organs. Significant cellular degradation, adjacent to symptoms of acute radiation exposure. Multiple lacerations within the subject's trachea.
+
+||~ Probable Cause of Death ||
+|| Morphine overdose ||
+
+----
+
+||~ Date of Autopsy ||~ Location of Autopsy ||
+|| 19/05/2004 || Site-002 ||
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="notice_of_termination_maya_gardner.pdf" hide="notice_of_termination_maya_gardner.pdf"]]
+[[div style="center no-repeat; border: solid 2px #666666; background: #242424; color: #c8c8c8; padding: 25px 15px; margin: 0.9rem 8px; width: 635px; "]]
+
+[[=]]
+[[image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/RRRPC.png]]
+
++ [[size 120%]]>> Department of Personnel and Management <<[[/size]]
+
+----
++ ##red|NOTICE OF TERMINATION##
+[[/=]]
+----
+
+**Name:** Maya Alexandra Gardner
+**ID:** 002/1-12(013)/4658538
+**Division:** Administration
+**Position:** Director of Anomaly Containment
+
+We in the Office of Personnel and Management have reviewed the incident case presented by the Authority Ethics Committee and have decided to terminate your employment with the Authority. The reason for your termination is as follows:
+
+* Failure to report a romantic relationship with a colleague to the Department of Personnel and Management,
+* Failure to sign a consensual relationship agreement,
+* Failure to supervise a subordinate,
+* Withholding crucial information pertaining to the security of the Authority and its personnel,
+* Apparent favoritism to the partner.
+
+Your employment with the Authority will be officially terminated on 30/06/2004. Please ensure any personal belongings are cleared from your workspace and return any property belonging to the Authority to the pertinent personnel.
+
+We wish you luck in finding new employment.
+
+[[/div]]
+[[/collapsible]]
+
+----
+
+[[div style="color: #c8c8c8; margin: 10px; padding: 10px; border: #666666 1px solid; background: #242424; border-left: #666666 10px solid;"]]
+[[=]]
+[[size 110%]] [[collapsible show="» Footnotes «" hide="« Footnotes »"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-229]]] | RPC-230 | [[[RPC-231]]] >>
+[[/=]]
+

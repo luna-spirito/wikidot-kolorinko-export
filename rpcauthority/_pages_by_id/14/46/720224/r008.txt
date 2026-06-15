@@ -1,0 +1,215 @@
+---
+title: "Anomalous Materials"
+tags: ["document", "research", "research-tone", "translated"]
+page_id: "1446720224"
+site: "rpcauthority"
+slug: "anomalous-materials"
+revision: 8
+revision_id: "1526682788"
+author: 9487909
+timestamp: 1734010643
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+}
+table.wiki-content-table {
+    width: 100%;
+    box-shadow: #d2d2d2;
+}
+
+table.wiki-content-table th {
+    background-color:#b0b0b0;
+    border: ##b0b0b0;
+    color: #000000;
+    padding: 0.3em 0.7em;
+}
+ 
+table.wiki-content-table td {
+    background-color: #dfdfdf;
+    border: ##b0b0b0;
+    padding: 0.3em 0.7em;
+    color: #000000;
+}
+ 
+.wanted-pages-module th, .page-compare th {
+    background-color: #b0b0b0;
+    border: ##b0b0b0!important;
+    color: #000000;
+}
+ 
+.wanted-pages-module td, .page-compare td {
+    background-color: #dfdfdf;
+    border: ##b0b0b0!important;
+}
+/* Standard Image Block */
+
+.image-block .image-caption {
+    background: #b0b0b0;
+    border-top: var(--image-block-border);
+    padding: 2px 0;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+}
+[[/module]]
+
+[[include component:rate | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/materiais-anomalos"]] ]]
+
+[[=]]
+[[size 140%]] __**ANOMALOUS MATERIALS**__ [[/size]]
+[[/=]]
+
+
+**Responsible Departments:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Chemistry[[/span]][[/span]]
+
+[[span class="tooltip"]][[image BoA_Theistic_Department.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Theistics[[/span]][[/span]]
+
+The wide variety of materials, alloys, and fluids (granular, liquid, and otherwise) that have been discovered within and produced by the anomalous world is far beyond the scope of civilian science. The means and methods through which these materials are produced vary, but their rarity and potency, for better or worse, makes them of interest in the eyes of the Authority and [*http://rpcauthority.wikidot.com/nucorp-hub several] [*http://rpcauthority.wikidot.com/gear-hub other] [*http://rpcauthority.wikidot.com/pcaao-hub groups.]
+
+------
+
+[[toc]]
+
+@@@@
+
+[[div style="background: #c0c0c0; border: 1px black solid; padding: 15px 15px; margin: 4px 1%; color: #000000;"]]
+[[table style="width: 100%; border-bottom: 1px #666 solid; padding-bottom:20px;"]]
+[[row]]
+[[cell style="background-image: url(http://www.rpc-wiki.net/local--files/component:icons/object-red.png); background-size: 100%; background-repeat: no-repeat; width: 60px; height: 60px; border 1px black solid;"]]
+[[/cell]]
+[[cell style="border 1px black solid;"]]
+[[=]]
++ ##88408D| __AM-308: "Fausteride"__##
+[[/=]]
+[[/cell]]
+[[cell style="width: 60px; height: 60px; border 1px black solid;"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+@@@@
+
+##88408D|**__Item Type:__**## Object (Solid)
+
+##88408D|**__Lethality Rating:__**## Red
+
+##88408D|**__Hazard Types:__**## Contact, Extreme Temperature, Toxic
+
+##88408D|**__Safe Handling and Usage:__**## Fausteride cannot be released in an uncontained and unsealed environment without proper authorization from Level-4 Research personnel and two medical staff on standby. Those handling Fausteride require no less than Level A Hazardous Materials equipment. Silver pills are stocked in any facility containing Fausteride and can be provided upon request.
+
+Possession of the product by non-Authority entities is to be immediately reported to the Board of Global Directors and confiscated as soon as possible. Unregulated Fausteride is under the purview of MST Echo-00 "December Roses".
+
+##88408D|**__Description:__**## Fausteride is an ionic compound comprised of sulfur, phosphorous, and trace amounts of alkanes[[footnote]]Hydrogen and carbon atoms arranged in a tree structure.[[/footnote]] in the form of an inorganic crystalline salt,[[footnote]]A salt is a chemical compound with an assembly of positive cations and negative anions[[/footnote]] which are entirely incapable of conducting electricity and highly flammable.
+
+Fausteride is formed by the reaction between caustic soda as a base and [http://rpcauthority.wikidot.com/rpc-438 Lethium], with a classified compound as a catalyst.
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/anomalous-materials/materials_faust_crystal.jpg|width=…px|caption= Crystalline Fausteride.]]
+
+The material is highly soluble in water and appears to sublime into a liquid (AM-308-A). Contact with Fausteride in crystalline or liquid form, even momentarily, risks trace amounts of the material passing through the skin where the inorganic salts and alkanes can prove corrosive to the central and peripheral nervous systems as the "floatation effect" of Fausteride forms visible bumps in the skin, damaging the cardiovascular system.
+
+When ignited, Fausteride burns for an incredibly long period of time and at high temperatures with a blue-green color. The smoke produced (AM-308-B) prevents the encoding of memory when inhaled as the trace amounts of Lethium remove recently acquired information. This artificial short-term memory loss does not inhibit long-term recall, but since any information acquired is removed, subjects are prone to confusion and difficulty regarding spatial abilities, leading to many affected becoming lost.
+
+The compound saw limited testing as a form of amnestic application en-masse, with canisters of the ignited fluid deployed in a perimeter around an assumed anomalous area to prevent civilian intervention. Ultimately, the risk of casualties from confused subjects wandering into hazards prevented the project from going beyond the experimental stage. Nonetheless, MST Echo-00 "December Roses" are authorized to utilize Fausteride in containment/disinformation operations.
+
+Fausteride, once sublimated, has a currently poorly understood attraction to pure silver. When in contact with the metal, it forms a permanent amalgamate material lacking anomalous properties. Ingesting silver can allow for Fausteride to be safely processed by the digestive system.
+
+[[/div]]
+
+------
+
+@@@@
+
+[[div style="background: #c0c0c0; border: 1px black solid; padding: 15px 15px; margin: 4px 1%; color: #000000;"]]
+[[table style="width: 100%; border-bottom: 1px #666 solid; padding-bottom:20px;"]]
+[[row]]
+[[cell style="background-image: url(http://www.rpc-wiki.net/local--files/component:icons/object-orange.png); background-size: 100%; background-repeat: no-repeat; width: 60px; height: 60px; border 1px black solid;"]]
+[[/cell]]
+[[cell style="border 1px black solid;"]]
+[[=]]
++ ##88408D| __AM-924: "Anderite"__##
+[[/=]]
+[[/cell]]
+[[cell style="width: 60px; height: 60px; border 1px black solid;"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+@@@@
+
+##88408D|**__Item Type:__**## Object (Variable)
+
+##88408D|**__Lethality Rating:__**## Orange
+
+##88408D|**__Hazard Types:__**## Destabilization, Contact, Radiation
+
+##88408D|**__Safe Handling and Usage:__**## Only [http://rpcauthority.wikidot.com/uniform-1-through-god-s-eyes qualified personnel] are permitted and equipped to handle and dispose of Anderite properly. A safe distance of 20 meters must be kept from all active instances of Anderite or its byproducts.
+
+Radiation protection must be worn when in the proximity of Anderite. Coherency-stabilized equipment will be necessary if the cause of Anderite has not been neutralized or removed.
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/anomalous-materials/materials_anderite.jpg|width=…px|caption= AM-924-03 instance. Note the trace amounts of blood.]]
+
+##88408D|**__Description:__**## The blanket designation "Anderite" refers to a wide variety of materials produced or effected by [*http://rpcauthority.wikidot.com/acs-guide drastic changes in coherency.] While Anderite is rarely consistent in its appearance or nature, it is oftentimes volatile and potentially radioactive, with the majority of its effects being entirely unpredictable until tested.
+
+Elements are usually warped or experience a change in state when brought to a lower-coherency environment, and once reduced to a thick sludge, are fused in a way that would normally be impossible otherwise. Radioactivity is usually a byproduct of various chemicals being fused to the point of rendering their atoms unstable, resulting in rapid decay when a low-coherency field is brought to "standard" coherency levels.
+
+##88408D|**__Anderite Instances Log:__**##
+
+||~ Classification ||~ Coherency State (Pre-stabilization) ||~ Description ||
+|| AM-924-03 || 2.6-3.4 || While Anderite rarely repeats itself, AM-924-03 is a more broad designation for the more common forms of decoherency debris. It is primarily a fusion of materials such as concrete, glass, dirt, and metal that was transformed into a semifluid state by decoherency, which became a solid amalgamate once returned to a higher coherency. ||
+|| AM-924-67 || 4.5~ || AM-924-67 is a unique instance recovered from a high ACS environment. While superficially resembling a plate of steel alloy, AM-924-67 was exposed to ACS 4.5~ for a period of several hours. Once removed, the instance was unnaturally bright, temporarily blinding multiple personnel before returning to its environment. ||
+|| AM-924-109 || 0.89 || Believed to be the result of several cattle specimens fused with a tractor and its driver into a twenty by twenty meter sheet of flat red material. The substance is buoyant and somewhat gelatinous but resistant to damage. ||
+
+[[/div]]
+
+------
+
+@@ @@
+@@ @@
+
+[[span class="tooltip"]] [[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Utility.png style="margin: -15px 0px; height: 30px"] class="tooltip"]] [[span class="tooltiptext"]]Secondary Class:
+##004FFF|Utility##[[/span]][[/span]]
+[[div style="background: #c0c0c0; border: 1px black solid; padding: 15px 15px; margin: 4px 1%; color: #000000;"]]
+[[table style="width: 100%; border-bottom: 1px #666 solid; padding-bottom:20px;"]]
+[[row]]
+[[cell style="background-image: url(http://www.rpc-wiki.net/local--files/component:icons/object-yellow.png); background-size: 100%; background-repeat: no-repeat; width: 60px; height: 60px; border 1px black solid;"]]
+[[/cell]]
+[[cell style="border 1px black solid;"]]
+[[=]]
++ ##88408D| __AM-341: "Azralite"__##
+[[/=]]
+[[/cell]]
+[[cell style="width: 60px; height: 60px; border 1px black solid;"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+@@@@
+
+##88408D|**__Item Type:__**## Object (Solid)
+
+##88408D|**__Lethality Rating:__**## Yellow (Utility)
+
+##88408D|**__Hazard Types:__**## Tychokinetic
+
+##88408D|**__Safe Handling and Usage:__**## Transportation and storage of Azralite may only be performed by trained Department of Chemistry personnel. Members of the [*http://rpcauthority.wikidot.com/protocol-laboratory Protocol Laboratory] may request samples of Azralite for the containment of select RPCs.
+
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/anomalous-materials/materials_azralite.jpg|width=…px|caption= Azralite fragments in a sealed glass chamber.]]
+
+##88408D|**__Description:__**## Azralite (Az) is a currently unclassified alkane metal that, when exposed to an electric current of at least 50 watts, affects probability in such a way that it cannot be moved, warped, touched or damaged.
+
+The material has only been found as an alloy comprised of Azralite, copper, and tin within the Nafusa crater in Libya. Any attempt to isolate Azralite from this alloy, known as Azraline bronze, has failed, with the tychokinetic properties, even when uncharged, preventing its separation.
+
+After its discovery in 1908, the Authority has total ownership over the crater and rights to its resources in cooperation with the administration of Libya.
+
+Further information regarding the material's capabilities, origin, and location is restricted to [http://rpcauthority.wikidot.com/gd-afri GD-AFRI].
+
+##88408D|**__Test Log:__**## 
+
+||~ Test # ||~ Parameters ||~ Result ||
+|| Test AZ-4 || 50 grams of Azraline bronze placed atop a table. CSD instructed to attempt to strike the sample once with a provided crowbar. 20 watts. || CSD successfully chipped the sample on their first attempt. ||
+|| Test AZ-5 || 50 grams of Azraline bronze placed atop a table. CSD instructed to attempt to strike the sample once with a provided crowbar. Power raised to 40 watts. || Sample successfully damaged. CSD bruised their arm on the table after the swing. ||
+|| Test AZ-6 || 50 grams of Azraline bronze placed atop a table. CSD instructed to attempt to strike the sample once with a provided crowbar. Power raised to 80 watts. || CSD slipped during the attempt due to a previously unnoticed section of flooring that was wet from an unscheduled janitorial session. ||
+|| Test AZ-11 || 50 grams of Azraline bronze placed atop a table. CSD instructed to attempt to strike the sample once with a provided crowbar. Power raised to 500 watts. || Before the CSD could hit the material, a gas line in the adjacent room exploded. Test was concluded as personnel evacuated. ||
+
+[[/div]]
+

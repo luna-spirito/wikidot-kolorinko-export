@@ -1,0 +1,470 @@
+---
+title: "Missing RPC Theme"
+tags: ["theme"]
+page_id: "1448506330"
+site: "rpcauthority"
+slug: "component:missing-rpc-theme"
+revision: 10
+revision_id: "1523155146"
+author: 5982545
+timestamp: 1721596594
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Medula+One&display=swap');
+
+/*
+    Missing RPC Theme (made by Qual; requested by Contest Team)
+    [2023 Wikidot Theme]
+        Paper Texture: https://www.pinterest.com/gaalcreative/creative-commons-seamless-textures/
+        Bark Texture: https://www.pinterest.com/pin/543317142536408586/ 
+        Foliage Overlay Texture (Header): https://naldzgraphics.net/free-seamless-leaf-textures/ 
+*/
+
+::selection {
+    background-color: rgb(95 115 40 / 70%);
+    color: floralwhite;
+    text-shadow: 0px 0px 15px rgb(50 60 10);
+    box-shadow: 0px 0px 4px rgb(50 60 10 / 80%)!important;
+}
+
+highlight td {
+    background-color: var(--primary-background);
+}
+
+/* General Variables Section: */
+
+
+#side-bar {
+    background: var(--main-content-background);
+    border: 4px solid #82685178;
+    width: 17.5em;
+    padding: 1em;
+}
+
+#side-bar div.menu-item a, #side-bar div.menu-item a:hover {
+    text-decoration: none;
+    width: 208px;
+}
+
+#main-content {
+    background: var(--main-content-background);
+    border: 4px solid #82685178;
+}
+
+#page-content {
+}
+
+#page-title {
+    font-family: 'Kanit', sans-serif;
+    letter-spacing: 1px;
+    text-shadow: none;
+}
+
+body {
+    background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Amissing-rpc-theme/Bark%20Background%20%28Missing_RPC%29.png);
+    background-repeat: repeat;
+    background-size: 30%;
+}
+
+#main-content, #side-bar {
+    background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Amissing-rpc-theme/Paper%20Background%20%28Missing%20RPC%29.png)!important;
+    background-size: 96%;
+}
+
+
+/* Header Section: */
+
+#header {
+    background-position-y: top;
+}
+
+#header h1 a::before {
+/*    font-family: 'Squada One', cursive; */
+    margin-left: 25px;
+    text-decoration: none;
+    text-shadow: 2px 2px 0 #000;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    margin-left: 25px;
+    text-shadow: 1px 2px 0 #000;
+    font-size: 100%;
+}
+
+h1 {
+    font-family: 'Kanit', sans-serif;
+    color: var(--primary-text-color);
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: 'Kanit', sans-serif;
+    color: var(--text-color);
+}
+
+
+.hovertip {
+    border: var(--blue-border)!important;
+}
+
+.sideTabview .yui-nav {
+    border: var(--blue-border) !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--blue-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--blue-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+
+
+
+ 
+.heading {
+    font-family: 'Kanit', sans-serif;
+]    letter-spacing: 1px;
+}
+
+.rateContainer {
+/*    font-family: Montserrat,sans-serif; */
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+blockquote {
+/*    font-family: 'Source Code Pro', monospace; */
+}
+
+
+a {
+    font-weight: bold;
+}
+ 
+a.newpage {
+    font-weight: bold;
+}
+ 
+a:hover {
+    font-weight: bold;
+}
+
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--basic-border);
+}
+
+/* User Name*/
+
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #b3b3b3;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.5);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#search-top-box-form input[type=submit], #top-bar .search-button a {
+    color: #ccb68f;
+}
+
+#odialog-container, .owindow {
+    background: #e3d6be!important;
+}
+
+#login-status {
+    color: #cdbe91;
+    background: rgb(47 61 9 / 50%)!important;
+}
+
+#login-status a {
+    color: #e3d6be;
+}
+ 
+#login-status a:hover {
+    color: #e3d6be;
+}
+ 
+#printuser {
+    color: #ccb68f;
+    background-color:transparent;
+}
+
+
+#login-status ul a {
+    background: var(--news-block-body-panel-background-even);
+    color: var(--text-color);
+    border: none;
+    text-shadow: none;
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: #ccb68f;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #ccb68f;
+}
+ 
+.open-themes-container {
+    display: none;
+}
+ 
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-primary-text-color);
+}
+
+#license-area {
+    background: rgb(50, 60, 10);
+    color: #c1aa82!important;
+}
+
+#footer {
+    background: rgb(95 115 40);
+    color: #e3d6be;
+}
+
+#footer a {
+    color: #bda477;
+    background: transparent;
+}
+
+
+/* Edit Box Section: Makes sure editing looks okay */
+
+#action-area h1 {
+    margin: 1em;
+}
+
+.pager .current {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: var(--basic-border);
+}
+
+form#edit-page-form {
+    border: var(--basic-border);
+    background: var(--main-content-background);
+    padding: 10px 40px 1em 10px;
+}
+ 
+table.edit-page-bottomtable {
+    margin: 10px 10px;
+}
+
+input#edit-page-title {
+    width: 100%;
+}
+
+#h-perpage, .optionstd a, .new-post .btn, #history-form-1 .btn-sm, .well .btn-sm, .change-textarea-size a, .buttons .btn-small, .action-area .btn-default, .action-area .btn-primary, .col-lg-10 .form-control, .form-actions .btn-danger, .buttons .btn-default, .target a, .buttons .btn-danger, #edit-cancel-button, #edit-save-button, .button-close-message, .button-close-window, .button-cancel, .button-insert-code, #wd-ed-codewizard-type, #wd-ed-imagewizard-position, #wd-ed-imagewizard-uri, #wd-ed-imagewizard-byuri .button, #wd-ed-imagewizard-flickr, #wd-ed-imagewizard-byflickr .button, .query-area .button, .button-close, .button-rename, .button-no\,-cancel, .button-yes\,-delete, #file-upload-form .btn-primary, .button-move, #action-area .buttons .btn-primary, #edit-page-form .buttons .btn-info, #view-diff-div .button, .button-yes\,-revert, .modal-footer .btn-danger, .modal-footer .btn-default, .modal-footer .btn-primary, #mba-apply, .yui-content .button, .btn-warning, #edit-meta-newtag-form div .btn, .new-page-box .button, #page-templates, #recent-posts-category, .forum-recent-posts-box form .btn, .owindow .button-bar .btn {
+    border: var(--button-border)!important;
+    background: var(--button-background)!important;
+    color: #e5e5e5;
+}
+
+
+.hovertip .content {
+    padding: 0.2em 0.5em;
+    border: var(--basic-border);
+}
+
+
+.sideTabview .yui-nav {
+    border: var(--basic-border) !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--basic-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--basic-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+:root {
+    --text-color: #5f3e25;
+    --main-content-background: #dbc998;
+    --body-background: #3d2b1b;
+    --primary-text-color: #566f13;
+    --blockquote-background: rgb(221 205 161 / 50%);
+    --horizontal-rule-secondary-background: #5d7226;
+    --code-background: var(--primary-background);
+
+    --nav-hover-background: #5d7226;
+
+    --primary-background: #ccb68f;
+    --content-bar-background: #bda477;
+    --content-panel-background: #ccb68f;
+    --text-box-form-background: #ccb68f;
+    --modal-body-background: #ccb68f;
+    --modal-header-background: var(--content-bar-background);
+
+    --news-block-body-panel-background-even: #cdbe91;
+
+
+    --header-text-visibility: hidden;
+/*    --header-font-family: 'Nidus Sans', 'Exo 2', sans-serif; */
+    --header-custom-text: '';
+    --header-tagline-custom-text: '';
+    --header-icon: url(https://rpcauthority.wdfiles.com/local--files/component%3Amissing-rpc-theme/Theme%20Logo%20Final%20%28Missing%20RPC%29.png);
+    --header-background: url(https://rpcauthority.wdfiles.com/local--files/component%3Amissing-rpc-theme/Theme%20Header%20%28Missing%20RPC%29.png);
+    --header-tagline-color: #ccb68f;
+    --header-tagline-top: 8px;
+    --header-icon-size: auto calc(11rem - 2.125rem);
+ 
+    --link-color: rgb(95 115 40);
+    --link-hover-color: rgb(130 160 50);
+    --new-page-color: rgb(50, 60, 10);
+
+    --button-border: 1px solid rgb(50, 60, 10);
+    --button-background: #5d7226;
+    --button-hover-border: 1px solid var(
+    --link-hover-color);
+    --button-hover-background: var(--nav-hover-background);
+
+    --search-button-background: var(--link-color);
+    --search-button-hover-background: var(--nav-hover-background);
+    --search-input-color: rgb(47, 61, 9);
+    --search-input-hover: rgb(95 115 40);
+    --search-input-text: #ccb68f;
+
+    --topbar-text-color: var(--text-color);
+    --topbar-hover-color: #e3d6be;
+
+    --topbar-dropdown-background: #ccb68f;
+    --topbar-hover-background: var(--link-color);
+    --topbar-divider: 1px solid var(--link-color);
+    --topbar-dropdown-border-color: var(--link-color); 
+ 
+    --sidebar-crit-corner-color: var(--link-hover-color);
+    --star-rating-hue: 230deg;
+ 
+    --text-box-form-border: 1px solid var(--text-color);
+ 
+    --template-block-background: var(--link-color);
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 1px solid #5f7328;
+    --tabview-button-selected-background: #5f7328;
+    --tabview-button-selected-color: #e3d6be;
+    --tabview-button-hover-background: #82a032;
+ 
+--tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--tabview-button-selected-background);
+    --tabview-side-button-divider: 1px solid var(--primary-background);
+    --tabview-side-scrollbar-background: #bda477;
+ 
+    --tabview-side-scrollbar-thumb-background: rgb(95 115 40);
+    --tabview-side-scrollbar-thumb-hover-background: rgb(130 160 50);
+ 
+    --sidenote-open-background: var(--BT-scrollbar-thumb-background);
+ 
+    --BT-scrollbar-background: #45372a;
+    --BT-scrollbar-thumb-background: #2e381c;
+    --BT-scrollbar-thumb-hover-background: #49592d;
+    --BT-resizer-background: #191919;
+
+    --account-options-border: 1px solid var(--nav-hover-background);
+    --star-rating-reading-background: var(--new-page-color);
+
+
+    --basic-border: 1px solid var(--basic-border-color);
+    --basic-border-color: rgb(95 115 40);
+
+    --tabview-side-border: var(--basic-border);
+    --owindow-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --account-options-border: var(--basic-border);
+    --toc-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --blockquote-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --tabview-border: var(--basic-border);
+    --table-border: var(--basic-border);
+    --template-block-border: var(--basic-border);
+    --tags-border: 2px solid var(basic-border-color);
+    --sidenote-contents-border: var(--basic-border);
+    --sidenote-figure-border: var(--basic-border);
+    --sidenote-figure-open-color: #e5e5e5;
+
+    --search-button-border: var(--basic-border);
+    --search-input-border: var(--basic-border);
+    --content-box-shadow: 1px 1px 1px #52321f;
+}
+
+@media (max-width: 768px) {
+    #main-content {
+        background-position: 1rem 2.5em;
+        padding: 1em!important;
+    }
+
+    #content-wrap {
+        min-height: 1400px!important;
+    }
+
+    #side-bar:target .close-menu {
+        background: none 1px 1px repeat!important;
+        z-index: -1;
+    }
+
+    #header {
+        background-position: 0 0.5em;
+        background-size: 25em;
+    }
+}
+
+@media (max-width: 425px) {
+    #header {
+        background-position: center;
+        background-size: 74%;
+    }
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:missing-rpc-theme/code/1); @@
+> @@ [[/module]] @@
+

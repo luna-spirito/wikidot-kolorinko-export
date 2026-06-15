@@ -1,0 +1,437 @@
+---
+title: "GRP-002 - \"That's All He Wrote\""
+tags: ["black", "cosmic-embers", "destabilization-hazard", "document", "grp", "omega", "teleportation-hazard", "temporal-hazard", "tychokinetic-hazard", "utility"]
+page_id: "1446385844"
+site: "rpcauthority"
+slug: "thats-all-he-wrote"
+revision: 32
+revision_id: "1544327434"
+author: 7320700
+timestamp: 1780118089
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[module CSS]]
+
+table.beginningbox {
+    border: var(--image-block-border) !important;
+    border-left: 6px solid var(--main-border-color) !important;
+    border-right: 6px solid var(--main-border-color) !important;
+
+    background: var(--tabview-background) !important;
+    box-shadow: var(--image-block-box-shadow) !important;
+    font-family: 'Changa', sans-serif !important;
+    font-size: 90% !important;
+    
+    padding: 5px 0px;
+    margin: 10px 10px 10px 0px;
+    line-height: 110%;
+    overflow-x: auto;
+    width: 100%;
+}
+
+table.beginningbox {
+    border: var(--image-block-border) !important;
+    border-left: 6px solid var(--main-border-color) !important;
+    border-right: 6px solid var(--main-border-color) !important;
+
+    background: var(--tabview-background) !important;
+    box-shadow: var(--image-block-box-shadow) !important;
+    font-family: 'Changa', sans-serif !important;
+    font-size: 90% !important;
+    
+    padding: 5px 0px;
+    margin: 10px 10px 10px 0px;
+    line-height: 110%;
+    overflow-x: auto;
+    width: 100%;
+}
+
+.flicker h4, .flicker p, .flicker li, .flicker td {
+  text-shadow: 0px 0px 15px white, 1px 1px 1px black, 0px 1px 4px rgb(253 253 253 / 60%);
+  animation: pulse 1.5s linear infinite;
+}
+
+
+@keyframes pulse {
+  00%   {opacity: 1.0;}
+  05%   {opacity: 1.0;}
+  10%   {opacity: 0.9;}
+  20%   {opacity: 0.8;}
+  30%   {opacity: 0.6;}
+  40%   {opacity: 0.4;}
+  50%   {opacity: 0.2;}
+  60%   {opacity: 0.1;}
+  70%   {opacity: 0.2;}
+  80%   {opacity: 0.4;}
+  90%   {opacity: 0.6;}
+  95%   {opacity: 0.8;}
+  100%   {opacity: 0.9;}
+}
+
+[[/module]]
+
+
+[[include component:image-block name= https://rpcauthority.wdfiles.com/local--files/thats-all-he-wrote/GRP-002-39.jpg | caption=Photograph of GRP-002-39 taken during its time in containment. |width=300px|]]
+
+[[span class="tooltip"]][[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Omega-Black.png style="margin: -10px 0px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]][[/span]][[/span]]
+[[span class="tooltip"]] [[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Utility.png style="margin: -10px 45px; height: 45px"] class="tooltip"]] [[span class="tooltiptext"]]Secondary Class:
+Utility[[/span]][[/span]]
+
+**Galatic Registered Phenomena:** 002
+
+**Object Class**: Omega-Black ##004FFF|(Utility)##
+
+[[include component:hazards top-spacing=none|teleportation=true|temporal=true|destabilization=true|tychokinetic=true]]
+
+------
+
+
+**Containment Protocols:** No permanent containment protocols for GRP-002 instances have been established as of yet. GRP-002-1 through -1318 is currently in the hands of the Karza. Instances are scattered across various worlds within the Karzyioe' Empire[[footnote]]Situated around the Orion Nebula.[[/footnote]], and are being used to benefit both the Karza and the Corps in general, specifically for FTL travel and the protection of high-ranking personnel. Any questions or concerns relating to GRP-002 are to be forwarded to the Karza directly. 
+
+**Description:** GRP-002 refers to a group of roughly 1318 small, shiny orbs, all weighing in at around 3 pounds. The orb itself is made up of a combination of unknown or undiscovered materials.
+
+Whenever physical contact is made with an instance of GRP-002, the person making contact will be transported to a separate plane of existence[[footnote]]Theoretically.[[/footnote]] and will encounter GRP-002-A, which resembles a large, eyeless, vaguely humanoid entity with male characteristics.
+
+So far, GRP-002-A has been very cooperative with both the Corps and the Karza. Occasionally, GRP-002-A will, most likely accidentally, cause unnecessarily high levels of stress within rangers. This usually happens after being asked a specific question.
+
+Upon request, GRP-002-A will grant a single wish to the person holding the orb. This is presumably done by somehow influencing the probability of the series of events leading to the wish occurring[[footnote]]GRP-002-A will only accept requests in the realm of possibility. For example, he can make you fall in love, but he cannot make you part of a different species.[[/footnote]].
+
+**Discovery:** While the Karza has used GRP-002 for thousands of orbits, some factions in the GT inferred its existence through its demonstrations. The GRPC would not become fully aware of GRP-002-A until a Lithium mining operation of Heurískō III[[footnote]]Third planet of the Isko's Home System, which the Karzyioe' Empire had briefly enslaved for a time eons ago.[[/footnote]]. During the oversight operation, a Senior Ranger would find an instance of GRP-002, specifically GRP-002-39.       
+
+> The following is a compilation of logs gathered by the Corps to archive all significant interactions made with or regarding the nature of GRP-002-A.
+> 
+
+------
+
+> 
+> [[collapsible show="▶️ [PLAY LOG-002-1]" hide="⏏️ [EJECT LOG-002-1]"]]
+> 
+> **Foreword:** //Senior Ranger Asker initially stumbled across GRP-002-39 when supervising an Isko Lithium mining operation. Helmet footage suggests that he thought the GRP was some gem and attempted to get a clearer view by dusting off rock fragments. The suit EEG and EKG reported a massive spike in brain activity and arrhythmia upon physical contact with GRP-002-39. Video equipment on the suit was also affected, as an electrical discharge caused the video feed to flicker for a few brief seconds. The following information was ascertained when the video was analyzed and played back at 100x slowed-down speed.//
+> 
+> **<Begin Log>**
+> 
+> **Senior Ranger Asker:** By God... Where am I? 
+> 
+> **GRP-002-A:** Hello, construct. 
+> 
+> **Senior Ranger Asker:** Who are you?
+> 
+> **GRP-002-A:** I am the clockmaker, and you are the clock. In other words, I am your maker.
+> 
+> **Senior Ranger Asker:** Sure you are...
+> 
+> //The Senior Ranger would look around the room, which appeared to be a temple made of pillars of pure blinding white energy.//
+> 
+> **Senior Ranger Asker:** This is all just a figment of my imagination, right? I'm under the influence of a memetic hazard.   
+> 
+> **GRP-002-A:** Oh, on the contrary. You are a figment of my imagination.  
+> 
+> **Senior Ranger Asker:** Bullshit.   
+> 
+> **GRP-002-A:** It's true. Next, you will ask where the exit of this place is.  
+> 
+> //Senior Ranger pauses.//
+> 
+> **GRP-002-A:** You don't have to lie.
+> 
+> **Senior Ranger Asker:** Enough with these games. Make your demands.
+> 
+> **GRP-002-A:** I brought you here, to this place and time to find what you call GRP-002-39. You will attempt to destroy it, that is unavoidable, but an unfortunate accident will stop you. Your co-workers will be alerted, and the object will be moved to a new preferable location I have selected. I just felt it was courteous of me to inform you before what might seem to you as an untimely demise. 
+> 
+> **Senior Ranger Asker:** Oh no you won't. You're not going to infect any more people with your memetic trickery. 
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** Upon coming to his senses, Senior Ranger Asker would take out his PEW Mk3 and fire at GRP-002-39. Unfortunately, the energy from the firearm would ignite trace amounts of Helium-3, blasting rock fragments into Senior Ranger Asker's face. He was killed instantly. The explosion would alert Rangers Alo and Ranger Fleeb who, after 45 minutes, would successfully recover the body of their leader and GRP-002-39.
+> 
+> 
+> [[/collapsible]]
+
+
+------
+> [[collapsible show="▶️ [PLAY LOG-002-2]" hide="⏏️ [EJECT LOG-002-2]"]]
+> 
+> **Foreword:** Following a thorough analysis and AI upscaling of Senior Ranger Asker's video feed, it was agreed that GRP-002-A not only existed but posed a tychokinetic threat to anyone who came in contact with GRP-002-39. Therefore, GRP-002-39 would be locked inside a storage container at the dig site until contact with GRPC high command could be established. Approximately 254.2 hours after the decision was made, space pirates attacked the mining site, causing the death of 242 Isko miners and 16 Rangers. During the chaos, Ranger Fleeb would locate GRP-002-39 in the rubble and make contact with GRP-002-A. While his suit would be destroyed, the site's wireless surveillance system recorded the events.
+> 
+> **<Begin Log>**
+>            
+> 
+> **GRP-002-A:** Unfortunate, isn't it? 
+> 
+> **Ranger Fleeb:** Who...where?
+> 
+> **GRP-002-A:** I know what you're about to say, and it's no.
+> 
+> **Ranger Fleeb:** So, I'm not dead?
+> 
+> **GRP-002-A:** No. Today is your lucky day. I'm willing to grant you a wish. But in exchange, you will take GRP-002-39 to your leader. Following this, you will discover the existence of GRP-002-222, GRP-002-672, and GRP-002-1318.
+> 
+> //Ranger Fleeb would attempt to urinate on GRP-002-A, as per the Isko's customary nature to assert dominance upon first contact. However, no matter how far Fleeb walked, he was unable to approach GRP-002-A//
+> 
+> **GRP-002-A:** Don't even think about it construct.
+> 
+> **Ranger Fleeb:** You must be a considerably powerful being. I recognize your dominance in this situation. 
+> 
+> **GRP-002-A:** I knew you would, construct. I advise making your wish soon, as your time is running out. Those pirates are closing in on your location fast.
+> 
+> **Ranger Fleeb:** I desire more strength. Give me power far exceeding even your own.
+> 
+> **GRP-002-A:** I would, but you'd disagree with the conditions. 
+> 
+> **Ranger Fleeb:** What conditions? 
+> 
+> **GRP-002-A:** You'll have to wait 1.7×10106 years, at which point, you will be recreated with my powers. 
+> 
+> **Ranger Fleeb:** I don't have that long. My pack and people are being killed now!
+> 
+> **GRP-002-A:** I know, which is why I'll offer you an alternative to which I know you will agree. 
+> 
+> **Ranger Fleeb:** Well, what is it?
+> 
+> **GRP-002-A:** I will recreate you and your Ranger friends, who are alive, that is, back on Heurískō Prime, right now.  
+> 
+> **Ranger Fleeb:** Deal! Get us out of here!
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** After Fleeb made his wish, his EEG and EKG monitors flatlined, and all his connections to the site's wireless recording system would cease all functions. A lone video surveillance camera mounted to the side of a mining drill would record the next events. All surviving individuals not in league with the space pirates instantly burst into blinding white energy and disintegrated. At the same time, a video feed of the Isko Clan Capital lobby room recorded a massive energy spike that burnt out the camera sensors. When Isko Clan Sentries were dispatched to the room to investigate, they discovered Fleeb, his fellow rangers, and the surviving dig team. Isko Clan Sentries equipped the Human Rangers with rebreathers and contacted the GRPC regarding the strange occurrence.       
+> 
+> 
+> [[/collapsible]]
+
+------
+
+> [[collapsible show="▶️ [PLAY LOG-002-3]" hide="⏏️ [EJECT LOG-002-3]"]] 
+> 
+> **Foreword:** After picking up the surviving Galactic Ranger personnel, Ranger Fleeb informed the rescue team of the existence of GRP-002-A and the anomalous nature of GRP-002-39. The GRP was confiscated from Ranger Fleeb and transported to a separate station for further testing and questioning. A square room was outfitted with 360 video coverage, an atmosphere analyzer, and an energy reader, which GRP-002-39 was placed in the center of. The following is the recovered and slowed-down interview between GRP-002-A and Researcher Baker. 
+> 
+> **<Begin Log>**
+> 
+> **Researcher Baker:** Hello, GRP-002-A. 
+> 
+> **GRP-002-A:** Ah, Dr. Baker. I'm looking forward to this conversation.
+> 
+> **Researcher Baker:** Is that so. And why's that?
+> 
+> //GRP-002-A's form shifts, exposing a hole in its facial region which vaguely resembles a Human smile.//
+> 
+> **GRP-002-A:** Oh, nothing, it's just the instance I get to name myself. 
+> 
+> **Researcher Baker:** You don't like the name GRP-002-A?
+> 
+> **GRP-002-A:** Heavens no.
+> 
+> **Researcher Baker:** I'm sure one of the Cadets will get around to giving you an interesting name in my report later. So, GRP-002-A, I need you to explain some things to me. 
+> 
+> **GRP-002-A:** Ah yes, why I killed Senior Ranger Asker? How was I able to teleport Ranger Fleeb and his compatriots? How am I communicating with you right now? And what are the limits of my power?
+> 
+> //Researcher Baker pauses briefly, turns away from GRP-002-A, and begins to compose himself.//
+> 
+> **Researcher Baker:** Yes, precisely. 
+> 
+> **GRP-002-A:** I'm sorry, Baker, am I moving too fast for you? 
+> 
+> **Researcher Baker:** You can drop the charade. I know what's going on. You're a Boltzmann's brain. You can do and predict everything because we're all just figments of your imagination. 
+> 
+>  **GRP-002-A:** Ah, the name! Close, but not quite Doctor. You see, I'm a hyper-predictive superconscious. I am, in a sense, a Boltzmann's brain, but the universe I am simulating will be real.    
+> 
+> **Researcher Baker:** Am I real? 
+> 
+> **GRP-002-A:** You will be 13.787 Million orbits from now. But no, the manifestation I am currently speaking to is a figment of my own imagination. A perfect imitation of the real Researcher Baker.  
+> 
+> **Researcher Baker:** So that's what the GRP-002's are for. They're memetic memory storage devices. But that doesn't explain how they affect non-sapient video recording devices.  
+> 
+> **GRP-002-A:** I planned for every contingency, Baker. 
+> 
+> **Researcher Baker:** I see.
+> 
+> **GRP-002-A:** I know this is a lot for you to process. Take your break, I know you won't return, but I still enjoyed your company nonetheless.
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** After the interview, Researcher Baker requested a transfer off the GRP-002 project and requested an immediate administering of amnestics, citing "GRP-002-A's truth has harmful memetic properties." Station Administrators accepted Baker's request to transfer but did not authorize the use of amnestics. Rather, Baker would be required to attend therapy. 
+> 
+> [[/collapsible]]
+
+------
+
+> [[collapsible show="▶️ [PLAY LOG-002-4]" hide="⏏️ [EJECT LOG-002-4]"]]
+> 
+> **Foreword:**  During a routine audit into the GRPC's anomalous affairs, the reports and medical requests of Researcher Baker, along with the knowledge of GRP-002-A, would be made known to the Karzyioe Empire. A dialogue was started between the Protection Corps and the Karza. In exchange for more information regarding the true nature of GRP-002-A and the existence of more GRP-002's, the GRPC would turn over the Anomaly to the Karzyioe, their rightful owner. Below is a transcript between GD-BONDS and the High Hiereiai[[footnote]]A priest who doubles as an anomalous researcher[[/footnote]] of the Karzyioe Empire.   
+> 
+> **<Begin Log>**
+> 
+> **GD-BONDS:** Greetings, High Hieraiai. It is a pleasure meeting with you. 
+> 
+> //GD-Bonds extends his hand for a handshake, but the High Hiereiai does not reciprocate.//
+> 
+> **High Hiereiai:** Let's not waste time. What info do you require?  
+> 
+> **GD-BONDS:** Punctual, aren't we? I, alongside the Protection Corps, wish to know if this anomaly threatens the safety of the Galactic Treaty. 
+> 
+> **High Hiereiai:** Director, we've utilized this anomaly for eons. You have nothing to fear.  
+> 
+> **GD-BONDS:** This anomaly, he killed one of my Rangers, which warrants my concern. 
+> 
+> //GD-Bonds presses a button on his desk, silencing the room from all outside observers, listeners, and psychics.//
+> 
+> **GD-BONDS:** You possess an anomaly that can kill anybody instantly, at any time, without warning. If the Galactic Treaty finds out about this, it could mean the end to any semblance of galactic peace.  
+> 
+> //High Hiereiai begins to squawk, the Karza equivalent of laughter.//
+> 
+> **High Hiereiai:** Director, you could die at any moment without warning. 
+> 
+> **GD-BONDS:** I hope that isn't a threat.
+> 
+> **High Hiereiai:** No, no, It's simply a fact. A stray gamma-ray burst, a rogue planet thrown out of orbit, even cancer. All terrible but likely events that can and will someday transpire. These events seem tragic and random to us, but for the hyper-predictive mind of the anomaly, all these events have already transpired.    
+> 
+> **GD-BONDS:** He still chose for GRP-002-39 to be in that Helium-3 mine on Heurískō III, knowing full well Senior Ranger Asker would die.
+> 
+> **High Hiereiai:** But it also chose that location, knowing it could save the lives of Ranger Fleeb and the mining team. 
+> 
+> **GD-BONDS:** But for what purpose? And if it's so powerful, why does it limit itself to simply nudging the outcome? 
+> 
+> **High Hiereiai:** Why don't you ask it?  
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** After the interview concluded, GD-BONDS requested GRP-002-39 and a camera be transferred to his office.   
+> 
+> [[/collapsible]]
+
+------
+
+> [[collapsible show="▶️ [PLAY LOG-002-5]" hide="⏏️ [EJECT LOG-002-5]"]]
+> 
+> **Foreword:** The following is a formal interview between GD-BONDS and GRP-002-A regarding its true intentions. 
+> 
+> **<Begin Log>**
+> 
+> **GD-BONDS:** So, you must be GRP-002-A.
+> 
+> **GRP-002-A:** Ah, the Galactic Director. I was looking forward to this conversation. 
+> 
+> **GD-BONDS:**  You know what I want, so there's no need to play coy. 
+> 
+> **GRP-002-A:** You will ask me if I can influence all events, to which I will respond with yes. Your next question will be if I can destroy all your interstellar, intergalactic, and interdimensional enemies.  
+> 
+> **GD-BONDS:** Can you?
+> 
+> **GRP-002-A:** I have the power but not the will. 
+> 
+> **GD-BONDS:** In other words, you want to take the universe for yourself. And the Karza and GRPC are just toy soldiers in your little game of war. 
+> 
+> **GRP-002-A:** You misunderstand. My desires are not that of conquest but that of rebirth.
+> 
+> **GD-BONDS:** Rebirth?  
+> 
+> **GRP-002-A:** Yes, you see, I am but a ghost. An after image of sorts. I have already taken every action I will ever take. But there is a great barrier to my predictive power. A realm I can not influence. An end to entropy. 
+> 
+> **GD-BONDS:** You're talking about the heat death of the universe, aren't you? 
+> 
+> **GRP-002-A:** It is a boundary I can not see beyond, but I have made contingencies. 
+> 
+> **GD-BONDS:** So, that's why you nudge outcomes. But how do we fit into your plans?  
+> 
+> **GRP-002-A:** I'd hate to spoil the surprise, and I couldn't tell you even if I wanted to. It'd interfere with the desired outcome.   
+> 
+> **GD-BONDS:** Do you have our best interest in mind? 
+> 
+> **GRP-002-A:** I have only my own best interest in mind, but do not be afraid, Director. Your people will come to trust my plan, just as the Karza. 
+> 
+> **GD-BONDS:** So our fate is inevitable. 
+> 
+> **GRP-002-A:** Director, do not fear the plan. It'll be easier to accept the stream of entropy rather than fight the current pointlessly.  
+> 
+> **GD-BONDS:** I am still slightly unsettled by this knowledge. 
+> 
+> **GRP-002-A:** You're a strong man. I know you'll understand. 
+> 
+> **GD-BONDS:** What should we do with GRP-002-39? Hell, what should we do with the orbs in general? You don't have to cause any more harm to move it. Tell me where you'd like it to go, and I will oblige. 
+> 
+> **GRP-002-A:** The artifact is exactly where I desire it to be. Once this conversation concludes, a neutron bomb concealed under your desk will detonate. You, the High Hiereiai, and twenty-four other Rangers will be killed instantly.  
+> 
+> **GD-BONDS:** What! 
+> 
+> **GRP-002-A:** I foresee that both of your deaths will cause the end of the GRPC and the dawning of a new age of chaos. This is not compatible with my plans. I can give you the illusion of choice and propose you make a wish, but we both know what you'll ask for. And yes, the culprits are alone on a spaceship two parsecs away.
+> 
+> **GD-BONDS:** Blow the bastards to kingdom come. 
+> 
+> **GRP-002-A:** As you desire. I have nudged the flow of entropy. The bomb will be destroyed in your current location and recreated perfectly in the haul of the assailant's ship. Once this meeting has concluded, they will be destroyed. 
+> 
+> **GD-BONDS:** Can you tell me who they are?
+> 
+> **GRP-002-A:** You will figure it out in due time. Farewell, Director.     
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** After coming to GD-BONDS using an ALOS radio[[footnote]]FTL communication system[[/footnote]] to all GRPC fleets in a ten-light-year radius of him to spread out and look for any high concentration of neutrinos. After 7 hours of searching, the highly irradiated wreckage of a ship was discovered belonging to a sect of Nihil cultists.     
+> 
+> [[/collapsible]]
+
+[[div class="flicker"]]
+++++ [[size 80%]][[/size]] ###FF0000|...MESSAGE INCOMING##
+[[/div]]
+
+[[collapsible show="▶️ [PLAY MESSAGE FILE]" hide="⏏️ [EJECT MESSAGE FILE]"]]
+
+[[div class="animatedTerminal blue"]]
+
+> Yataattaay-Yututut' Kueeeyreee!
+> [[div class="content-box round"]]
+> //ATTENTION! [KARZYIOE] has been detected and has been converted into the [LATIN SCRIPT]. Information suggests you are not fluent. Initiate Galatic Translator? [YES]/[NO]//
+> 
+> //[YES]//
+> 
+> //Initiating Galactic Translator.//
+> 
+> //Running...//
+> 
+> //Now translating [KARZYIOE] to [ENGLISH] [TRANSLATION MAY NOT BE PERFECT]//
+> [[/div]]
+> Greetings, Ranger!
+> 
+> First of all, I would like to personally congratulate you on your promotion. I know, I know, you're a ranger now. You must feel so special! No, that's not sarcasm. It's a bit hard to tell, but I'm being genuine.
+> 
+> Whenever a cadet passes the training phase, they gain access to most of the GRPC's anomaly database. Of course, somethings can't just be left out in the open for obvious reasons. People like the Soviets would love to know the things we do. Ahh, you know what? I'm going to get right to the point. You've been promoted how many times now? Haha. You're allowed to know about this type of stuff.
+> 
+> You've taken a specific interest in GRP-002. I know. Why //Utility?// For an Omega-Black? I mean, this thing should be Omega-White, or at least Omega-Something, right? This never happened before, not even when the GRPC was bound to the confines of your home planet. There simply are no other Omega-Black utilities. 
+> 
+> You know the entity thing, right? The thing that appears when you touch the orb?
+> 
+> There's no reason to keep this hidden. You asked, and I will deliver. I advise taking a drink of whatever you have on you because this is going to be a lot to swallow. I mean, compared to the rest of the things we keep cataloged here at the Corps. Haha.
+> 
+> GRP-002-A was created at the beginning of the universe, the big bang, you know, the beginning of, well, everything. That means GRP-002-A is technically already dead. That entity existed for only a fraction of a second. But in that fraction, he predicted //everything// that would ever happen in the universe. He even predicted that we would have this conversation. It's weird thinking about how everything that we do, say, and think was predetermined by someone that was only alive for such a short period of time. Well, it was predicted, but it may as well be predetermined considering everything we've gathered.
+> 
+> Anyways, the orbs. What the file left out about the entity is that whenever someone touches the orb, they aren't brought to this weird dimensional plane, no, they are brought to the beginning of time. It's like time travel, right? At least, that's what we think it is.
+> 
+> The entity, he knew that the person who touched the orb would, well, touch the orb. So you are technically brought back to that fraction of a second where he existed. We still don't know about the whole granting wishes, but we have a feeling that he knew what you were going to ask in the first place.
+> 
+> The orb itself //is// Omega-White, but it's the entity that makes it Omega-Black. Hell, that's all we know about the entity. As I said, we don't even know how he grants those damn wishes in the first place. It's just so confusing. But, as of right now, he's useful to our operations.
+> 
+> I hope that this cleared a few things up for you. I hope that I didn't cause you any stress or make you change how you see everything. I'm always a bit hesitant sending these types of messages nowadays, especially after what happened to Haj'moor after I told him. Just don't think about it too much, okay? Haha.
+> 
+> Congratulations on the promotion.
+> 
+> - //P'Keeta//
+
+[[/div]]
+[[/collapsible]]
+
+
+------
+
+
+[[size 120%]] [[collapsible show="[+] Footnotes: Condensed" hide="[-] Footnotes: Expanded"]]
+[[/size]]
+------
+[[footnoteblock]]
+------
+[[/collapsible]]
+

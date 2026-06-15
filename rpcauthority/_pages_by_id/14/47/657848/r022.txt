@@ -1,0 +1,891 @@
+---
+title: "GRP-020 - \"Septeds\""
+tags: ["aquatic-hazard", "climatological-hazard", "corrosive-hazard", "cosmic-embers", "document", "ecological-hazard", "electromagnetic-force-hazard", "extra-terrestrial-hazard", "extreme-temperature-hazard", "gamma", "geological-hazard", "grouped-hazard", "grp", "mind-control-hazard", "orange", "organic-hazard", "regenerative-hazard", "sapient-hazard", "titanic-hazard", "toxic-hazard", "transmutation-hazard"]
+page_id: "1447657848"
+site: "rpcauthority"
+slug: "grp-020"
+revision: 22
+revision_id: "1515233483"
+author: 3293845
+timestamp: 1697971641
+---
+
+[[module css]] 
+ @import url(http://rpcauthority.wikidot.com/component:cosmic-embers-theme/code/1); 
+[[/module]]
+
+[[module css]]
+@keyframes dd-collapsible-open-container {
+    from {transform: translateY(-50%) scaleY(0);}
+    to {}
+}
+@keyframes dd-collapsible-open-content {
+    0% {opacity: 0;}
+    45% {opacity: 0;}
+    100% {opacity: 1;}
+}
+.animatedTerminal {
+    background: linear-gradient(#3e3e3e, black);
+    font-family: monospace;
+    font-size: 1.2em;
+    padding: 10px 10px 8px;
+    border-bottom: 2px solid rgb(44, 75, 122);
+    box-shadow: 2px 2px 5px black inset;
+    color: #ececec;
+    text-shadow: 1px 1px 1px black, 0px 1px 4px;
+    animation: dd-collapsible-open-container 0.5s;
+}
+.animatedTerminal.red {
+    background: linear-gradient(#480000, black);
+    color: #ff3b3b;
+}
+.animatedTerminal.orange {
+    background: linear-gradient(#481b00, black);
+    color: #df7744;
+}
+.animatedTerminal.yellow {
+    background: linear-gradient(#483300, black);
+    color: #dfaa44;
+}
+.animatedTerminal.green {
+    background: linear-gradient(#00480f, black);
+    color: #92df44;
+}
+.animatedTerminal.blue {
+    background: linear-gradient(#020048, black);
+    color: #44a5df;
+}
+.animatedTerminal.purple {
+    background: linear-gradient(#270048, black);
+    color: #9944df;
+}
+.animatedTerminal.pink {
+    background: linear-gradient(#420048, black);
+    color: #df44c0;
+}
+.animatedTerminal.blackBg { background: black !important; }
+
+@keyframes dd-collapsible-contentFlicker {
+    from {opacity: 0.95;}
+    to {opacity: 1;}
+}
+.animatedTerminal > * {
+    animation: dd-collapsible-open-content 1s, dd-collapsible-contentFlicker 0.1s infinite 1s;
+}
+
+table.beginningbox {
+    border: var(--image-block-border) !important;
+    border-left: 6px solid var(--main-border-color) !important;
+    border-right: 6px solid var(--main-border-color) !important;
+
+    background: var(--tabview-background) !important;
+    box-shadow: var(--image-block-box-shadow) !important;
+    font-family: 'Changa', sans-serif !important;
+    font-size: 90% !important;
+    
+    padding: 5px 0px;
+    margin: 10px 10px 10px 0px;
+    line-height: 110%;
+    overflow-x: auto;
+    width: 100%;
+}
+
+[[/module]]
+[[include component:rate]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-orange.png]]
+
+**Galactic Registered Phenomena:** 020-A
+
+**Object Class:** Gamma-Orange
+
+[[include component:hazards sapient=show|grouped=show|organic=show|extra-terrestrial=show|regenerative=show|transmutation=show]]
+
+[[include component:image-block-static
+|name=http://rpcauthority.wikidot.com/local--files/grp-020/C016DCAA-9A02-48C7-9BE0-E0088BD5D703.jpg
+|width=200px
+|caption= The GRP-020-A individual Snee on GRP-020-B-305.]]
+
+**Containment Protocols:** GRP-020-A is a peaceful species unconcerned with interstellar or interspecies conflicts. Most GRP-020-A instances do not require containment protocols.
+
+Any individual GRP-020-A found violating the Galactic Treaty will be unceremoniously transferred into the GRPC's custody. A GRP-020-A containment chamber must have a soil mat carpet no less than 10 cm deep and rich in phosphorus. Every 5 hours, the soil must be enriched. The 9 ceiling-mounted LED lights installed behind bulletproof glass can be activated for up to 10 hours in a 24 hours cycle. Light controls can be handed to them if the GRP-020-A instance demonstrates good behavior.
+
+**Description:** GRP-020-A is the collective designation given to the "Septeds", a species of sapient, interstellar, plant-analog life forms.
+
+A GRP-020-A individual is an anatomically straightforward carbon-water-based organism. The Septeds can grow, constrict, and extend partly due to the highly mitotic and stem cell-like vine analogs that comprise their whole body. This unique and adaptable physiology allows them to take any shape, within reason, they may desire. An organ resembling a bouquet allows Septeds to communicate via chemical dispersion and reception. These flower-like protrusions can sprout anywhere on the Septed's body. However, some Septeds occasionally shape their flower sprouts into a decorative pattern, such as "crowns of love".
+
+With a highly regenerative and decentralized body plan, GRP-020-A instances are functionally immortal, with the oldest member recorded being millions of Earth years old.
+
+Currently, it is still being determined how the Septeds' reproduction occurs. The commonly accepted theory states that GRP-020-B instances play some role in the process. 
+
+The GRP-020-A species lacks any tangible form of government, but covens usually composed of 4 to 12 like-minded members have occasionally formed. As such, they have no capital world or home planet, preferring to wander the stars as nomads.
+
+While fragmented politically, Septeds are unified by a philosophy that preaches peace. One teaching mandates that one should respect all life that was, is, and could be. This tenet is the primary motivation behind their desire to seed life across the Galaxy.
+----
+**Galactic Registered Phenomena:** 020-B
+
+[[include component:hazards organic=show|ecological=show|transmutation=show|mind-control=show|grouped=show|toxic=show|radioactive=show|climatological=show|geological=show|aquatic=show|corrosive=show|extra-terrestrial=show|extreme-temperature=show|electromagnetic-force=show|titanic=show]]
+
+**Containment Protocols:** GRP-020-B instances require routine checkups to ensure they do not threaten the GT.
+
+In the event that a GRP-020-B instance is labeled hazardous, as in the case of Addendum 020-1, a 238,900 miles radius no-fly zone will be erected above the planet's Karmen line. If the conducting Septed refuses to vacate this zone, the GRPC is authorized to use deadly force. Once the GRP-020-B instance and its zone of influence are secure, advanced telescopic arrays and a Highland Observation Post must be installed. Every 24 hours, a status report will be sent to Entropy regarding the condition of the GRP-020-B instance and its inhabitants. The Council of GT Administrators has the final say in the world's fate, and will be destroyed if necessary.
+
+**Description:** GRP-020-B is the collective designation given to the GRP-020-A species' bioformed worlds. These astral bodies vary in size, gravity, atmospheric conditions, mineral composition and biological life. Every GRP-020-B is tailored to the desires of the GRP-020-A who created it. While these worlds are mostly odd, many are not intrinsically anomalous. As such, many GRP-020-B instances are difficult to tell apart from normal worlds. However, some GRP-020-B instances possess anomalous effects, whether hazardous, physical, trans-Newtonian, or memetic. The Septeds often consider these worlds their Magnum Opus and always protect them via anomalous means.    
+
+[[include component:image-block-static
+|name=http://rpcauthority.wikidot.com/local--files/grp-020/E0AAA84A-D3EB-478C-8E14-AAC5B77A2A5E.jpg
+|width=200px
+|caption= A Summative Seed on GRP-020-B-157.]]
+
+While non-anomalous terraforming is feasible, the Septeds rely on a device classified as the "Summative Seed"[[footnote]]A semi-robotic and biological encoding device capable of creating a habitable world in a couple thousand to a million Earth years, rather than the standard 400-600 million years.[[/footnote]]. Visually and biologically, these devices will vary in the early designing phase, but DNA and mineral composition will imply the general outcome of the modified planet. A Septed will personally plant the device when the Summative Seed is completed. Following this, the Seed will begin creating multiple copies of itself, which in turn will do the same, spreading across a planet's surface in a matter of 500-1000 Earth Years. Once the planet is encased, two different things can happen: the original Summative Seed will be removed, causing its copies to wither and die, setting the planet on its independent evolutionary course, or both the original and its copies will be kept to allow for more direct control over the planet, and its life forms' development.
+----
+**Addendum 020-1:** On 0011 Orbits, 112 Days and 06 Hours, the FSM news station "Endeavor News" transmitted a recorded message sent by a GRP-020-A individual named Snee. The transcription of the message can be found below.
+
+[[collapsible show="Show Transcript" hide="Hide Transcript"]]
+[[div class="animatedTerminal green"]]
+Greetings, Humans of the GT. I am Snee, a Septed, and I am so excited about what I have to tell you today!
+
+First, allow me to ask you this: how does it feel to have lost your planet? I imagine it must be horrible. Losing your home, the place where many of you were born and grew up. Your planet, the planet that was made for you, it's gone, forever.
+
+Or, perhaps not. I am eager to announce that my group and I have created something just for your species: New Earth. As you can guess by the name, New Earth is, by all means, a recreation of your long-gone planet, a gift to Humanity to compensate for losing your homeworld.
+
+If you're interested, you may find it at the following coordinates: [DATA EXPUNGED]. Make sure to land exactly at [DATA EXPUNGED].
+Everyone is welcome! Although... it'd be preferable if only Humans came to visit it. Not that we have anything against other species of course; after all we Septeds respect all life, but it's something made specifically for humans, to recreate their planet.
+
+My group and I will wait on it. We hope to see you soon.
+[[/div]]
+[[/collapsible]]
+The message was spread extensively, leading to many humans wishing to see this "New Earth"[[footnote]]Followingly classified as GRP-020-B-305.[[/footnote]] that they were promised. 
+
+A GRPC fleet of 1000 Humans, 800 aliens, and 300 Droids followed coordinates in the Monoceros constellation to ensure the planet's colonization and safety. Following this, a crew of 255 Humans and 57 Droids (Captain Gregory Krueger and the Gynoid news reporter Jane Crocker) landed on the planet.
+
+Contact with Captain Krueger's crew was lost for about 1 hour until a recording done by Ms. Crocker was broadcasted via a nearby satellite just before the latter's death.
+
+[[collapsible show="-> ▶️ Play" hide="-> ⏏️ Eject" hideLocation="both"]]
+~~~~
+[[div class="content-box round"]]
+The ship has just landed on GRP-020-B-305.   
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Ooo, this will be one Hell of a scoop! Thanks again, Captain Krueger!
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+It was nothing, Ms. Crocker. The GRPC never forgot your years of service to it, so we thought you deserved to be the first journalist to be here.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Well, you thought right! Oh man, I can't wait! I will record literally everything!
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Since you're at it, your scanners are pretty advanced, right? 
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Oh, they sure are! After stopping to work for the GRPC, I thought a few upgrades would be nice.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Do you mind doing a quick scan? I want to make sure it's safe to go out.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Roger that!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker proceeds to scan the outside environment.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Well... this place has good old oxygen. Right quantity, nothing toxic in it. However...
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+However, what?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Well, there's this odd magnetic field all around this planet. I can tell you it is anomalous but beyond that... my scanners don't understand a thing about it.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Is it dangerous?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Well, not from what I can tell.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Hm... well, I'll tell the others to wear the suits, just in case.
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+In the following 12 minutes the crew prepares themselves for exploration before finally exiting the ship. As soon as they do so, they are greeted by a relatively dry environment.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Huh, kinda reminds me of a place where I had live for some time back when Earth was still around. It was called "Africa".
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Those trees sure look weird...
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Well, it's not like I was expecting this place to be identical to Earth.
+[[/div]]
+
+[[div class="text-message-right cyan-tinge"]]
+Captain, look over there! Other Humans are approaching us!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Everyone turns to the direction indicated by Ranger Smith. Multiple humanoid figures can be seen approaching from afar.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+What the- this isn't possible. We should be the first ones to have landed here.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Those aren't Humans. My scanners indicate that those are Septeds.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Huh... aliens willingly taking a humanoid form... that's not something you see every day. Well, let's greet our hosts.
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+The crew begins approaching the humanoid Septeds. Once the two groups face off, a Septed with a female humanoid form begins speaking.
+[[/div]]
+~~~~
+
+[[div class="text-message-left green-tinge"]]
+Welcome Humans! Welcome! We are so excited to have you here on New Earth!
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Thank you. I'm Captain Gregory Krueger. I assume you're Snee, right?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+That is indeed correct. I am Snee, founder and leader of the Brothers and Sisters of the Soil.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+The Brothers and Sisters of the Soil?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Yes. That's the name of our group.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Huh, it's the first time I heard of a group of Septeds with an actual name... and it's also the first time I see a group this big. 
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Oh, we actually have many more members, but not all of them could be here today. But anyway, I give you once more my welcome to your new home. Those among you that aren't Androids or Gynoids may remove their spacesuits. The air's perfectly breathable and safe for Humans.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Thanks but for now we'll keep them. Apparently there's an anomalous magnetic field all around here.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Ah, yes, but I assure you it's completely harmless.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Still.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+... very well... as you wish. I suppose you'd like to explore this place a bit more, yes?
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Indeed.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Then allow the Brothers and the Sisters of the Soil to be your guides.
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+The Brothers and Sisters of the Soul act as guides for Captain Krueger's crew for approximately 20 minutes before stopping to perform a photosynthesis. 
+
+Ms. Crocker approaches Snee, who's sitting against a tree.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+So... Ms. Snee... is it ok if I call you that? You know, you have that female appearance and-
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+It's more than fine. Makes me feel more Human. Oh yeah, what is your name?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Jane Crocker. So... you really like Humans, huh?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Oh, I most certainly do, as does the rest of my group. We consider Humans an incredible and fascinating species.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Really? Why's that? After all, most aliens don't exactly like anything looking humanoid.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+You like asking questions, don't you?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+It's my job. I'm a news reporter.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Ah, I see. But anyway, there isn't much to explain. We simply consider them interesting.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Mhm... and, out of curiosity, why a female shape? Asking since some of your subordinates use a male one instead.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Because in this way I feel as if I was just like how Humans see Mother Nature. And that's what I wish Humans to see me as well: a caring and loving mother, ready to welcome all of them on this new home.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+That's very noble. I am curious though, why-
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker's vision glitches violently for a few seconds. The latter shakes her head, confused.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+What the-
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Suddenly, screams can be heard nearby. Ms. Crocker, Snee and the others around them rush to the source of the screams. Ranger Smith is on the ground, having a heart attack.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Smith!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker scans Ranger Smith. His artificial heart has broken down.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+His artificial heart is completely broken! 
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+How the Hell did that happen?!
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+I don't know but we have to do something!
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Let me handle this.
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Snee proceeds to approach Ranger Smith, carefully putting their hands on his chest. Suddenly, Snee's entire body starts glowing with a green aura and - as Ms. Crocker's scanners show - a functional non-artificial heart is created inside Ranger Smith's body, who quickly recovers from the heart attack.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Woah... this is the first time I see a Septed healing someone with my own eyes.
+[[/div]]
+
+[[div class="content-box round"]]
+Ranger Smith is helped to get up by Snee and a few other Rangers.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+How are you feeling?
+[[/div]]
+
+[[div class="text-message-right cyan-tinge"]]
+I'm good... although that's definitely something I don't want to experience ever again... hey, thanks for saving my life.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+It was nothing.
+[[/div]]
+
+[[div class="text-message-right cyan-tinge"]]
+I wonder how it happened though...
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+That's something I'd like to know too. It better not be because of this place.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Captain Krueger, I assure you nothing on this planet could have caused what just happened.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Yet there's some anomalous magnetic field here.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+As I have already stated, it's completely harmless. Maybe the artificial organ simply wasn't of good quality.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Uh-huh...
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Well, if that's all, I'd like to go back to my photosynthesis so that we may resume our tour.
+[[/div]]
+
+[[div class="text-message-right cyan-tinge"]]
+Perhaps I could keep you company.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Heh. Sure, why not?
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Snee walks back to their tree, followed by Ranger Smith, who shrugs with a smile as Captain Krueger gives him a small glare.
+
+Everyone else returns to their activities, except Ms. Crocker, who approaches Captain Krueger.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Ms. Crocker, as a news reporter, what do you think?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+I think Smith wants to flirt with Snee.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Wh- ok actually, yeah, knowing him that's probably what he'll do... but I wasn't talking about that.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+I know Captain, I was just joking.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+So, what does your instinct tell you?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+It tells me Snee's hiding something.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Well, I agree with that. An artificial organ doesn't just break like that. Something's going on here, something that plant doesn't want us to know.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Well, we could always snoop around a bit while our hosts are busy with their thing.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Well, I don't think I can leave. They'd notice me missing. I'm the captain after all.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+I'll go alone then. I have a weapon with me so I'm more than able to defend myself, and I doubt they'll notice me missing as much as they'd notice you.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+... alright, but be careful.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+I will be.
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker proceeds to walk away from the group, running her scanners in the hope to find anything of interest. 
+After several minutes, she locates what appears to be the remains of an old village. The buildings are all destroyed, either partially or completely.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+These seem to have been around for a very long time...
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker runs her scanners once more, but the same glitch as before shows itself. Once it's gone, her scanners appear to be broken.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+What the [EXPLETIVE]?! Come on! Not my scanners! Ugh!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker sighs.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Looks like I'll have to investigate in the good old way...
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker proceeds to carefully inspect the various buildings - or, what remains of them - before entering the most intact one. Inside she finds a rudimentary hatch, leading to rope ladders. Descending, Ms. Crocker soon finds herself in a gallery of underground tunnels, all illuminated by glowing stones.
+Throughout Ms. Crocker's exploration it's clear that sapient life inhabited these places.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Those plants will have to give a few explanations- woah!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker falls into a nearby pit following yet another glitch. Unlike the other times, it doesn't fully disappear.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Ow... ugh, my vision is all [EXPLETIVE] up... what is hap-
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker yelps upon realizing what she's landed onto. Surrounding her are thousands of skeletons belonging to reptilian-like aliens. Alongside them there are various remains of clothing and tools.
+
+Ms. Crocker immediately crawls out of the pit, rushing back to the entrance, the glitch slowly getting worse. Once outside of the building, she finds Captain Krueger, looking around the village with visible confusion and curiosity. He's missing his spacesuit.
+[[/div]]
+~~~~
+
+[[div class="text-message-center grey-tinge"]]
+Captain?
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Captain Krueger jumps in surprise before turning to her.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Oh, Ms. Crocker. You scared me. What the Hell is this place?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Some kind of abandoned village... and you can't even imagine what I found below it... but why are you here?
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Oh, right! I was looking for you! All the Androids and Gynoids complained about a glitch they were experiencing and had their scanners or other stuff suddenly break down and I wanted to make sure you were fine.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Yeah... I'm also experiencing the same thing... there's a continuous visual glitch and my scanners are gone- wait... where is your spacesuit?
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+The spacesuits started breaking down too. Those space hippies owe us a damn good explanation...
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+More than one. There bones below us.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Bones?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Yes, thousands of them. Likely belonging to whoever built this village.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Wait, what?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+Yeah, I don't think we are the first ones on this planet... and our predecessors had all but a good end- ugh!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Ms. Crocker falls on her knees, the glitch getting even worse.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Ms. Crocker!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Captain Krueger helps her up, allowing her to hold onto him.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Come on, let's go back to the others and-
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Leaving so soon?
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Both Captain Krueger and Ms. Crocker turn to Snee, who's accompanied by three other Septeds.
+[[/div]]
+~~~~
+
+[[div class="text-message-right blue-tinge"]]
+Ok, enough of all this! What's happening here? I demand answers!
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Nothing's happening.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+I'm sick and tired of your [EXPLETIVE]! All our Droid members are malfunctioning, there's this creepy abandoned village and Ms. Crocker here found thousands of bones!
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+So you saw them... ugh, of course I should've kept a closer eye on the news reporter of all people... oh well... it doesn't matter... it's too late for the two of you to do anything...
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+W-what are you talking about?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+This village, the tunnels and the bones belonged to the previous inhabitants of this planet. Very annoying aliens, extremely hard to get rid of and able to adapt extremely fast. We discovered only recently that a small community of them had survived and hidden underground.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+You killed an entire species?!
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Little price to terraform the planet for you.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Why choose an already inhabited planet? Don't you Septeds use dead planets?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Well, dead planets aren't infinite. Plus, this planet already had a good base to reach the wanted results in a quicker way.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+And what are you planning to do exactly? Lure Humans to kill them?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Oh, no, not at all. Yes, I lied, but I didn't lie about the admiration I have for your species. You are so much superior to all those insignificant creatures out there in the galaxy... you are strong... you descend from the Ancient Ones.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+The Ancient Ones?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Yes. Those who once ruled over the galaxy and created my species. So powerful that reality itself bent at their will!
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+The Humanoids...
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Exactly. They might be long gone, but it won't be hard to recreate their species from their descendants.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+You don't know if we actually descend from them. Nobody does.
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+I haven't seen other aliens looking so much like them, so you descending from them is a logical conclusion.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+You're insane...
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+We'll see who is the insane one when I guide humans to their true potential and will give them the perfect life, just like a loving mother. Too bad those like you won't be there to see it happen.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+Enough!
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+Captain Krueger pulls out his ray gun in an attempt to shoot at Snee. However, as soon as he pulls the trigger, the gun breaks down.
+
+Snee's flowers slightly vibrate at the sight, which for a Septed is the equivalent of chuckling.
+[[/div]]
+~~~~
+
+[[div class="text-message-left green-tinge"]]
+You see, Captain Krueger, you were right when you suspected of this planet's magnetic field. It's something that slowly destroys any kind of technology, well, aside from ours, of course.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+You... you [EXPLETIVE]! You willingly endangered those like me! And Ranger Smith too!
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Ah yes, that guy... how little respectful of nature, with an artificial organ... how... disgusting... I can't stand those that mix their flesh with technology. Unfortunately, I couldn't let him die. I need as many humans as possible as of now.
+[[/div]]
+
+[[div class="text-message-right blue-tinge"]]
+You won't get away with this...
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+I already did. You can't leave this planet since your spaceship won't work long enough for you to safely leave the atmosphere and soon enough they'll send others to come and look for you, which will give me even more humans to use.
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+At this point, Ms. Crocker's vision has become so glitchy that it's almost impossible to make out what's being shown. From the little that can be seen, it appears that the other Septeds have seized Captain Krueger, while Ms. Crocker is on the ground as Snee approaches her.
+[[/div]]
+~~~~
+
+[[div class="text-message-left green-tinge"]]
+Any last questions from our dear news reporter?
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+You... you still took thousands of years to... to make this planet, right? So... why? Why did you start making it when Earth was... was still around?
+[[/div]]
+
+[[div class="text-message-left green-tinge"]]
+Well, my original plan was to kidnap Humans from Earth. However, following the Soshi's invasion and the destruction of Earth, I had to change my plans. Annoying, but it worked.
+[[/div]]
+
+[[div class="text-message-center grey-tinge"]]
+How... interesting... I'm sure the viewers at home... will agree...
+[[/div]]
+
+~~~~
+[[div class="content-box round"]]
+At this point, the recording continues for a few seconds before stopping.
+[[/div]]
+~~~~
+[[/collapsible]]
+
+Following this event, GRP-020-B-305's current containment protocols were applied. While a possible rescue mission was discussed, it was ultimately decided against not only due to the planet's magnetic field's effects on technology but also on other aliens[[footnote]]The magnetic force exerted by the planet is lethal to species not belonging to Humans or Septeds. This fact was discovered when a crew of space pirates landed on GRP-020-B-305.[[/footnote]].
+
+Various observations were conducted on the planet, revealing that Captain Krueger and his crew are continuously underground through genetic manipulations in Snee's attempt to recreate the Humanoid species. It also appears that each of them has undergone heavy brainwashing.
+
+Snee and the other members of the Brothers and Sisters of the Soil --never left GRP-020-B-305 since then-- would eventually leave GRP-020-B-305 due to the events of [[[GRP-112|Experiment 112-1]]], which would lead to Snee's arrest.
+
+**Addendum 020-2:** Following Addendum 020-1, a wide scale investigation was conducted to research the Brothers and Sisters of the Soil.
+
+Alongside the discovery that the group had already terraformed other planets to create a personal army, it was eventually also discovered that Snee had been the apprentice of Khalar[[footnote]]The oldest known living GRP-020-A individual, being millions of years old.[[/footnote]]. 
+
+Khalar was eventually tracked down and interviewed.
+
+[[collapsible show="Show Interview" hide="Hide Interview"]]
+> **Interviewer:** Dr. Gabriel Luthor
+> 
+> **Interviewed:** Khalar
+> 
+> **<Begin Log>**
+> 
+> **Dr. Luthor:** Thanks a lot for accepting this interview, Khalar. This means a lot.
+> 
+> **Khalar:** It was nothing. I'm also happy to talk with someone. Now, I haven't been told much but from my understanding you wish to speak about a Septed who served as my apprentice, correct?
+> 
+> **Dr. Luthor:** Yes, that's correct. They're a Septed called Snee.
+> 
+> **Khalar:** ... ah... her... did she do something bad?
+> 
+> **Dr. Luthor:** Well, actually, yes. Snee and their group exterminated life on a planet and lured various Humans. From what we can tell, they have been genetically modified and brianwashed.
+> 
+> **Khalar:** So she actually went through with it...
+> 
+> **Dr. Luthor:** Snee had already told you about their plan?
+> 
+> **Khalar:** She had told me she intended to recreate the Ancient Ones from humans but she never went into specifics... I'm sorry for what she's done.
+> 
+> **Dr. Luthor:** It wasn't your fault, though some more information could be useful. For example, why is Snee so obsessed with the Humanoids?
+> 
+> **Khalar:** She considers them the perfect life forms, superior in every aspect. A childish mentality if you ask me, but a dangerous one too. She's convinced that the Humanoids are better than any other life form, also because they created our species.
+> 
+> **Dr. Luthor:** Oh yeah, they actually mentioned that last thing themselves in the recording we received. So is it true that the Humanoids created the Septeds?
+> 
+> **Khalar:** Yes, it is. They created our species long ago to take care of these planets that they essentially used as... how can I explain? They used them as gardens to stay in contact with nature and their spirit.
+> 
+> **Dr. Luthor:** So, like zen gardens?
+> 
+> **Khalar:** If that's what your species calls them, I suppose so.
+> 
+> **Dr. Luthor:** And does the rest of your species also respect the Humanoids?
+> 
+> **Khalar:** No. I myself respect all life forms, but I am not blind to the atrocities the Ancient Ones committed, especially since I saw them myself. Unfortunately, I was never able to make Snee understand this. She's young, stubborn, impatient and never cared much about what I told her unless it was something related to the Ancient Ones. I tried my best to ensure she wouldn't take a dark path. After all, a Septed can cause so much damage if they use their powers in the wrong way. I thought I was able to convince Snee to not do anything drastic... but clearly I failed.
+> 
+> **Dr. Luthor:** Do you think there'd be any way to rescue those people?
+> 
+> **Khalar:** Personally, I am not interested in these conflicts. I am sorry for what happened to those Humans, but I will not start a conflict against Snee. I personally don't think I would come out of it alive anyway.
+> 
+> **Dr. Luthor:** I see... and... what do you think of us?
+> 
+> **Khalar:** What do you mean?
+> 
+> **Dr. Luthor:** Do you also think my species descends from the Humanoids?
+> 
+> **Khalar:** Maybe. Maybe not. In the end, it doesn't matter. I've lived a long life, seen so many things happen and change. Who you descend from is none of my concern. It's not really that much of a change to the bigger picture. Plus, you decide who you are, not your ancestors.
+> 
+> **Dr. Luthor:** I see...
+> 
+> **Khalar:** I'm sorry I can't be of more help, but personally, I can give you some advice: be patient. Snee's biggest flaw is her impatience. She will make a mistake, and you will be able to use it to your advantage. That's my advice.
+> 
+> **Dr. Luthor:** We'll keep that in mind. Thank you.
+> 
+> **<End Log>**
+[[/collapsible]]
+
