@@ -1,0 +1,532 @@
+---
+title: "Expedientes"
+tags: ["hub", "ia"]
+page_id: "1305724050"
+site: "agiat"
+slug: "expedientes"
+revision: 138
+revision_id: "1539832393"
+author: 3090772
+timestamp: 1763864821
+---
+
+[[module CSS]]
+
+.generic_noticeV2_byTarro{
+background-size: contain;
+border: solid 4px var(--accentColor);
+padding: 1px 15px;
+}
+
+[[/module]]
+
+
+**Descripción:** Esta tablilla muestra al personal destacado dentro del proyecto. Si desea agregar o eliminar algún personaje, favor de comunicarse con [[*user Richard Llamas]], en caso de que en un plazo de 48 horas no responda, favor de comunicarse con algún administrador que aparezca en la página [http://agiat.wikidot.com/staff-del-sitio Staff del sitio].
+
+
+[[div class="generic_noticeV2_byTarro"]]
+
+[[=]]
+++ __Criterio para rellenar la ficha de personaje__
+[[/=]]
+
+Cuando tu personaje cumpla con los requisitos de etiquetado (señalados más abajo), deberás rellenar el componente "profile" e incluirlo al fondo de la lista de personajes etiquetados (dado que los ordenamos generalmente por orden de llegada salvo un par de casos aislados).
+
+El componente es muy sencillo, semejante al componente de la ficha OTS:
+
+> Imagen=Link a imagen <Se puede omitir eliminando esta línea>
+> 
+> Nombre=Nombre
+> 
+> Edad=Edad
+> 
+> Nacionalidad=Nacionalidad
+> 
+> Afiliado=Afiliaciones del personaje. Suele ser una.
+> 
+> Relaciones=Relaciones de relevancia con otros personajes, organizaciones, comunidades y/o naciones, entre otras cosas. Se puede especificar entre paréntesis la naturaleza de la relación.
+> 
+> [Resumen]: Resume tu personaje en este espacio, tratando de ser breve y conciso. Cualquier elemento que entre en un div, entra aquí.
+> 
+> Creador=Creador del personaje. <Se necesita un enlace de un corchete, semejante a este: @@[http://www.wikidot.com/user:info/tartaro Tartaro]@@ en reemplazo del módulo @@[[*user FulanoDeTal]]@@ o  [[*user Tartaro]] en un ejemplo real>
+> 
+> Frecuentes=Autores que frecuentemente lo utilizan. <Se usa el mismo criterio de enlaces señalado arriba>
+> 
+> Apariciones=Artículos, relatos, etc dónde aparece. <De nuevo: mismo criterio de enlaces, pero con enlaces a los artículos donde el personaje aparece>
+
+**Cuando vayan a usar el componente de la ficha recuerden que el resumen del personaje se coloca en el medio de "component:profile" y "component:profile-close". También recuerden que solo el área del resumen soporta footnotes, collapsibles, pestañas y demás. Si colocan por ejemplo una footnote en el área de Afiliaciones y/o Creador, el código se va a romper.**
+
+[[/div]]
+
+
+----
+[[=]]
++ __Expedientes__
+[[/=]]
+----
+@@ @@
+
+----
+
+[[include component:profile
+|Imagen=https://agiat.wdfiles.com/local--files/expedientes/Richard_Llamas
+|Nombre=Richard Llamas
+|Edad=54 años
+|Nacionalidad=--Múano, Yugoslavo, Bosnio Occidental, Bosnioherzegovino-- Apátrida
+|Afiliado=AGIAT
+|Relaciones= Zhuthkakh Hosuug, Magnus sextus  (mentor)
+Joseph Ezequiel Mirray (mejor amigo)
+Carlín MacIntyre (Predecesor) 
+Alexjev Llamas (Padre) 
+Yuthzabra Ir'Anlab (Madre)
+Josefina Dagamundo (Amor platónico)
+]]
+
+El Dr. y Archimago Richard Llamas es oriundo del continente de Mú. Es un semielfo, era un buen amigo de Mirray hasta su desaparición y se ha visto muy afectado después de este hecho. Después del incidente de la Base#37 se le ha prohibido realizar experimentos relacionados con la Nova-Thavma.
+
+Richard Llamas es uno de los ilusionistas más avanzados del mundo, tanto que logro engañar a un comité completo de Archimagos para que creyeran que estaba utilizando magia ofensiva a gran escala. “Esos ancianos son unos crédulos, cualquiera puede ser Archimago en estos días”.
+
+[[collapsible show="La magia" hide="El arte de hacer posible lo imposible "]]
+
+Richard Llamas es uno de los ilusionistas más avanzados del mundo, tanto que logro engañar a un comité completo de Archimagos para que creyeran que estaba utilizando magia ofensiva a gran escala. “Esos ancianos son unos crédulos, cualquiera puede ser Archimago en estos días”.
+
+[[/collapsible]]
+
+[[footnote]]El Dr. Richard Llamas se ha cansado de cambiar de nacionalidad, por lo que ha decidido dejar de tenerla.[[/footnote]]
+
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/richard-llamas Richard Llamas]
+|Frecuentes=[http://www.wikidot.com/user:info/richard-llamas Richard Llamas]
+|Apariciones=[https://agiat.wikidot.com/desaparicion-de-mirray La Desaparición De Mirray]: Personaje Principal.
+[https://agiat.wikidot.com/la-magia-el-arte-de-hacer-posible-lo-imposible La Mágia, El Arte De Hacer Posible Lo Imposible]: Personaje principal
+[https://agiat.wikidot.com/ots-004 OTS-004]: Aparición breve
+[https://agiat.wikidot.com/ots-022 OTS-022]: Investigador Principal
+[https://agiat.wikidot.com/ots-023 OTS-023]: Aparición breve
+[https://agiat.wikidot.com/ots-041-xd OTS-041-XD]: Villano que destruye la fantasía del protagonista
+[https://agiat.wikidot.com/creppypasta-de-terror-que-da-miedo-por-richard-llamas Creepypasta de terror que da miedo, por Richard Llamas]: Personaje principal.
+[https://agiat.wikidot.com/las-cartas-que-nunca-responderas Las Cartas que nunca responderás]: Personaje principal
+[https://agiat.wikidot.com/la-ilusion-de-que-hay-amor La ilusión de que hay amor]: Personaje principal
+]]
+
+------
+------
+
+
+[[include component:profile
+|Imagen=http://galeria-random.wikidot.com/local--files/iniciogaleria/Dr.%20Wiki.jpg
+|Nombre=Marshall Corvus Wiki
+|Edad= 75
+|Nacionalidad= Estadounidense, [CENSURADO]
+|Afiliado=AGIAT
+|Relaciones= -Ejército de los Estados Unidos (teniente primero, actualmente veterano retirado)
+-Universidad de Arizona (alma mater, ex-profesor)
+-Consejo Architaumatúrgico (ex-candidato a Archialquimista)
+-Dir. Dorothea Castelo (jefa directa, vieja amiga)
+-Dr. Howard Émile Sarkozy Carman. (viejo amigo y colega)
+-A. Hermana Alessandra Sorrentino ([CENSURADO])
+-Margarita Wiki (esposa)
+-Dra. Natalia Havok † (hija)
+-Capitán Brendan Havok (yerno)
+-Molly Havok (nieta)
+-Dr. Thaddeus Geist (amigo, colega y mentor)
+]]
+
+Un hábil alquimista y científico residente de la Base #57. Es el líder de un equipo piloto para investigación integral de los fenómenos taumatúrgicos usando el trabajo en conjunto de la ciencia mundanas y místicas en conjunto para tener una visión más íntegra y plena de ellos.
+
+Siempre busca objetivizar el cómo se perciben los fenómenos y manifestaciones taumatúrgicas sin meter en ello filosofías ni tradiciones, a las que él llama “romanticismos”, en una “búsqueda de un conocimiento más puro y universal”.
+
+Parece tener algunas influencias tanto dentro como fuera de AGIAT.
+
+[[collapsible show="Soy solo un viejo que ansía el conocimiento y la paz…" hide="… Pero no soy alguien indefenso, no me provoques."]]
+
+Es un veterano de guerra, habiendo participado en varios conflictos bélicos como parte del personal médico.
+
+En su última misión, creo los tres prototipos de lo que más adelante serian conocidas como Unidades Bélicas Tácticas Autónomas (Unidades BTA) combinado alquimia, magia de creación y de invocación, para proteger el campamento médico de los frecuentes ataques. Al final de esta perdió su pierna izquierda.
+
+La creación de estas unidades es lo que le aseguró un trabajo en AGIAT una vez de vuelta en casa.
+
+Siempre usa una gabardina reforzada con alquimia, dándole protección a impactos y explosiones con un espacio dimensional dónde almacena varios instrumentos, armas y sus tres creaciones a las que nombró Jager, Panzer y Kampfer. Su sombrero es realmente un artefacto para enfocar una gran cantidad de energía mística en poco tiempo y dentro de la prótesis que reemplazó su pierna izquierda tiene un revólver mágnum guardado.
+
+Sufre de estrés postraumático, aunque por lo general está muy controlado.
+
+//Podrás sacar al soldado de la guerra, pero nunca sacarás a la guerra dentro del soldado.//
+
+[[/collapsible]]
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/binarycube BinaryCube]
+|Frecuentes=[http://www.wikidot.com/user:info/binarycube BinaryCube]
+|Apariciones=[https://agiat.wikidot.com/particulas-misticas-y-naturaleza-de-las-artes-taumaturgicas Partículas Místicas Y Naturaleza De Las Artes Taumatúrgicas]: Protagonista
+[https://agiat.wikidot.com/espiritismo-segun-geist Espiritismo Según Geist]: Mención/Aparición breve
+[https://agiat.wikidot.com/ots-073 OTS-073]: Mención
+[https://agiat.wikidot.com/alquimia-el-estudio-del-todo La Alquimia, El Estudio Del Todo]: Mención
+[https://agiat.wikidot.com/vida-media Vida Media]: Protagonista
+]]
+-----
+-----
+
+[[include component:profile
+|Imagen=http://galeria-random.wikidot.com/local--files/iniciogaleria/Dr.%20Geist.jpg
+|Nombre=Thaddeus Geist
+|Edad= 290 años
+|Nacionalidad= Alemán
+|Afiliado=AGIAT
+|Relaciones=Elizabeth Müller †(prometida)
+Emerik Moreau †(amigo, primer Magnus Septimus)
+Bjorn Karlsson †(amigo, segundo Magnus Septimus)
+Jon Niel Ferguson †(amigo, tercer Magnus Septimus)
+Thuriman Bhelman (viejo amigo, cuarto Magnus Septimus)
+Dr. Marshall C. Wiki (amigo, colega y pupilo)
+Dir. Dorothea Castelo (colega, oficialmente su jefa, aunque quien tiene autoridad sobre quien es realmente dudoso)
+Dr. Asmoder Orm (acreedor a favores pendientes)
+]]
+
+El Jefe de Archivos y Registros de la Base #57, por lo que gran parte de sus investigaciones involucra a toda clase de materiales escritos y gráficos referentes a la naturaleza, la práctica, el estudio y la historia de la taumaturgia. Sin embargo, su mayor especialidad es sobre cuestiones del espiritismo en las cuales es un experto y un muy hábil practicante, siendo una figura respetada y un referente respecto a estos temas.
+
+Ha estado en muchas bases alredor del mundo durante su carrera, habiendo estudiado y experimentado las diversas escuelas y tradiciones espiritistas de casi cada región del planeta, teniendo un conocimiento muy amplio. Sus habilidades son grandes y su conocimiento vasto, sin embargo, siempre ha permanecido como una figura de bajo perfil, y casi nunca se le ve fuera de la Base #57 por motivos que no sean trabajo.
+
+[[collapsible show="Tengo el poder, la sabiduría y la habilidad necesarias…" hide="… Pero para ser nombrado archiespiritista debes pertenecer aún al reino de los vivos."]]
+
+Thaddeus Geist es de los miembros activos de AGIAT más antiguos, con casi 300 años de edad, habiendo sido uno de los miembros fundadores, como miembro de la Sociedad Taumatológica Ecléctica.
+
+Nacido en 1735 en Alemania, en su pubertad mostró ser talentoso y precoz en cuanto a sus dotes como espiritista. Al ser mayor, se comprometió con una hermosa y lista chica llamada Elizabeth Müller a la cual amaba con locura, sin embargo, esta murió prematuramente debido a un poderoso maleficio causado por fuerzas macabras, que derivó en una enfermedad incurable y grave.
+
+Desesperado, recurrió a muchos conocimientos oscuros con los cuales trató de crear un método para  devolverla a la vida, sin embargo, hubo un conflicto en la mezcla de artes que utilizó, y combinado a un rebote espiritual, el cuerpo de su amada quedó convertido en cenizas las cuales se esparcieron por el aire desvaneciéndose, mientras sentía un tremendo dolor y agonía, perdiendo el conocimiento.
+
+Despertó después de un tiempo y sus lágrimas estaban secas. No sentía nada, y sintió como su alma y mente no estaban en su cuerpo, sino en ██ █████████ █████████████ █ █████████.
+
+Se había convertido en un lich, y sabía que debía luchar contra los oscuros pensamientos que se podrían apoderar de él, igualmente no debía dejar degradar su cuerpo o podría empeorar su situación y perderse a sí mismo en la locura y demencia que estos no muertos suelen tener. Él no deseaba eso. Detestaba su destino. Se odiaba a sí mismo.
+
+Actualmente, por su mera fuerza de voluntad, ha permanecido cuerdo todo este tiempo, durmiendo, comiendo y bebiendo para mantener un cuerpo cuyo estado de conservación es irrelevante, y como parte de la Agencia, ha aprovechado cada oportunidad que ha tenido de investigar a fondo cada pizca de conocimiento espiritual y necromántico, en busca de encontrar un método de volver a ser un mortal, para así poder morir eventualmente y reunirse nuevamente con su Elisabeth en la otra vida.
+
+… ##transparent|Sin embargo, recientemente ha decidido permanecer menos activo tomando un puesto fijo, ya que no está seguro si puede seguir manteniendo la oscuridad bajo control por mucho tiempo más…##
+
+[[/collapsible]]
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/binarycube BinaryCube]
+|Frecuentes=[http://www.wikidot.com/user:info/binarycube BinaryCube]
+|Apariciones=[https://agiat.wikidot.com/espiritismo-segun-geist Espiritismo Según Geist]: Protagonista
+[https://agiat.wikidot.com/ots-073 OTS-073]: Investigador Principal
+[https://agiat.wikidot.com/ots-088 OTS-088]: Aparición breve
+[https://agiat.wikidot.com/la-esperanza-del-desafortunado La Esperanza Del Desafortunado]: Múltiples Menciones
+[https://agiat.wikidot.com/ots-099 OTS-099]: Mención
+[https://agiat.wikidot.com/los-alteradores-de-la-realidad#001 Los Alteradores De La Realidad #001]: Mención
+[https://agiat.wikidot.com/vida-media Vida Media]: Personaje secundario
+]]
+
+-----
+-----
+
+[[include component:profile
+|Imagen=https://agiat.wdfiles.com/local--files/expedientes/mirray
+|Nombre=Joseph Ezequiel Mirray
+|Edad=ERROR 404
+|Nacionalidad= ERROR 404
+|Afiliado=ERROR 404
+|Relaciones=ERROR 404
+]]
+
+Exdirector de la base de biopeligros 6, empleado de rango 5.
+
+Fue reclutado de una misteriosa relación con el GDI Menor-023 "Corporación Maxwell", luego de saberse que el grupo manejaba cantidades cuestionables de recursos biomágicos peligrosos. Un experto en botánica, física y química. Excomandante del FEM Dama-03 “Investigadores Minuciosos”.
+
+[[collapsible show="Pienso, luego..." hide="... ya no existo"]]
+
+El doctor Mirray, creador de la Escala de Amenazas Mirray desapareció. Este es el único registro fiable que queda de él, lo demás solo son archivos corruptos y vagos recuerdos del personal. Si encuentra información sobre lo que sucedió con Mirray favor de comunicarlo en la brevedad.
+
+[[/collapsible]]
+0
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/richard-llamas Richard Llamas]
+|Frecuentes=[http://www.wikidot.com/user:info/richard-llamas Richard Llamas]
+|Apariciones=[https://agiat.wikidot.com/desaparicion-de-mirray La Desaparición De Mirray]: Mención
+[https://agiat.wikidot.com/nota-de-suicidio Nota De Suicidio]: Mención
+[https://agiat.wikidot.com/ots-004 OTS-004]: Mención
+[https://agiat.wikidot.com/ots-022 OTS-022]: --Investigador Asistente-- Mención
+[https://agiat.wikidot.com/ots-023 OTS-023]: Mención
+[https://agiat.wikidot.com/ots-099 OTS-099]: Mención
+]]
+
+----
+------
+
+[[include component:profile
+|Nombre=Howard Émile Sarkozy Carman
+|Edad=61 años
+|Nacionalidad=Anglo-Francés
+|Afiliado=AGIAT
+|Relaciones= —
+]]
+
+El Dr. Howard trabajó durante años en el Laboratorio Archialquimico donde tras una competencia reñida y que el Dr. Wiki decidiera no participar se convirtió en el Archialquimista. Unos años después signos de locura empezaron a afectarlo: esquizofrenia paranoide, síndrome de personalidad múltiple y trastorno bipolar.
+
+Egresado de la Royal College of Art y la Universidad Santo Thomas de Aquino //College// de la Universidad de Oxford el Dr. Howard es un artista condecorado, profesional en bioalquimia humana con doctorado en principios de transmutación orgánica.
+
+[[collapsible show="¿Qué le pasa al archialquimista?" hide="¿Qué le pasa al archialquimista?"]]
+
+El Dr. Wiki se dio cuenta de que algo no andaba bien, el hecho de que los anteriores archialquimistas hubieran tenido oscuros y extraños destinos hizo que le pidiera al Magnorum Undecim que en lugar de ejecutar al archialquimista lo retuvieran en una de sus cárceles de máxima seguridad, donde en sus momentos de lucidez puede ayudar a sus compañeros de la agencia en todo lo posible.
+
+[[/collapsible]]
+
+[[footnote]]Howard ha admitido abiertamente no está orgulloso de ser anglofrances.[[/footnote]]
+
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/howard-esc Howard ESC "Archi"]
+|Frecuentes=[http://www.wikidot.com/user:info/howard-esc Howard ESC "Archi"]
+|Apariciones=[https://agiat.wikidot.com/alquimia-el-estudio-del-todo La Alquimia, El Estudio Del Todo]: Protagonista
+[https://agiat.wikidot.com/los-alteradores-de-la-realidad#001 Los Alteradores De La Realidad #001]: Protagonista
+[https://agiat.wikidot.com/los-archienamorados Los Archienamorados]: Protagonista
+]]
+
+
+-----
+-----
+
+[[include component:profile
+|Nombre=Jay Muzz
+|Edad= —
+|Nacionalidad= —
+|Afiliado=AGIAT
+|Relaciones= —
+]]
+
+Investigador en Jefe de un total actual de ██ OTS y Candidato a Director Asistente de la Base de Bio-Peligros #32. Especialista en Análisis de Materia Anormal, Taumatología Teórica y, técnicamente, Peritaje. Reclutado luego de que se interesara por tópicos taumatocientíficos y comenzara a llevar a cabo investigaciones por su cuenta.
+
+[[collapsible show="¿Qué es la juventud?" hide="Fuego impetuoso"]]
+
+Un hombre inteligente, afectado por una anomalía genética que, aparentemente, le impide envejecer de manera natural, siendo su proceso de senescencia aproximadamente ocho veces más lento que en un ser humano normal. No obstante, esto le causa problemas que, si bien son pequeños a cambio de tener una esperanza de vida extendida, le dificultan considerablemente algunos trabajos que desempeña en la AGIAT. Se espera que su labor práctica en la organización sea completamente imposible en cuatro años, y será reemplazado por la Dra. Tania Muzz.
+
+[[/collapsible]]
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/agente-shuffle Agente Shuffle "Reina Shuffle"]
+|Frecuentes=[http://www.wikidot.com/user:info/agente-shuffle Agente Shuffle "Reina Shuffle"]
+[https://agiat.wikidot.com/ots-016 OTS-016]: Investigador y Supervisor Jefe
+|Apariciones=[https://agiat.wikidot.com/ots-032 OTS-032]: Investigador y Supervisor Jefe
+[https://agiat.wikidot.com/ots-064 OTS-064]: Investigador y Supervisor Jefe
+[https://agiat.wikidot.com/todos-me-preguntan Todos Me Preguntan]: Personaje Principal
+[https://agiat.wikidot.com/sic-semper-inanis Sic Semper Inanis]: Aparición Breve
+
+]]
+
+-----
+-----
+
+[[include component:profile
+|Nombre=Tania "Tuercas" Muzz
+|Edad= —
+|Nacionalidad= —
+|Afiliado=AGIAT
+|Relaciones= —
+]]
+
+Investigadora Asistente, asesorada por el Dr. Muzz, alojada en la Base de Bio-Peligros #32. Aficionada por la mecatrónica, mundana y anormal, con conocimientos de taumatología y criptoanatomía. Reclutada por sugerencia del Dr. Muzz. Se propone su integración a la Unidad de Fuerzas Especiales Globales ████████.
+
+[[collapsible show="¿Qué es una doncella?" hide="Hielo y deseo"]]
+
+La Dra. Muzz, en ████, llevó a cabo una serie de experimentos clandestinos, tanto en sujetos civiles como en sí misma, con el fin de utilizar componentes mecánicos y nanotecnológicos para crear sistemas que pudieran interactuar con su portador de manera dinámica. En un principio se creyó que estaba siendo usada por el Dr. Muzz para realizarlos, pero se descubrió posteriormente que el Dr. Muzz no estaba involucrado en dichos experimentos ni había aprobado su realización. Tras una inspección en su vivienda, se confiscaron varias piezas electromecánicas de propósito desconocido, componentes y dispositivos taumatológicos y varias ecuaciones matemáticas empleadas durante los experimentos. Se sospecha una posible relación de índole desconocida con [[[OTS-064]]].
+
+[[/collapsible]]
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/agente-shuffle Agente Shuffle "Reina Shuffle"]
+|Frecuentes=[http://www.wikidot.com/user:info/agente-shuffle Agente Shuffle "Reina Shuffle"]
+[https://agiat.wikidot.com/ots-016 OTS-016]: Investigadora Asistente
+|Apariciones=[https://agiat.wikidot.com/ots-032 OTS-032]: Investigadora Asistente
+[https://agiat.wikidot.com/ots-064 OTS-064]: Investigadora Asistente
+[https://agiat.wikidot.com/sic-semper-inanis Sic Semper Inanis]: Personaje Principal
+[https://agiat.wikidot.com/todos-me-preguntan Todos Me Preguntan]: Múltiples Menciones Importantes
+]]
+
+-----
+-----
+
+[[include component:profile
+|Nombre=Oliver Gleam
+|Edad= —
+|Nacionalidad= —
+|Afiliado=AGIAT
+|Relaciones= —
+]]
+
+Investigador Asistente, asesorado por el Dr. Muzz, alojado en la Base de Bio-Peligros #32. Licenciado en Taumatología Aplicada, Teología y Angelología Defensiva, y posee un Doctorado en Medicina Cardiológica. Reclutado voluntariamente luego de obtener su título en Angelología Defensiva.
+
+[[collapsible show="Una rosa florecerá" hide="Entonces se desvanecerá"]]
+
+Poco después de titularse como Angelólogo, el Dr. Gleam se involucró en una relación amorosa problemática con un amigo suyo, que finalmente terminaría con su muerte a sus 32 años luego de intentar separarse de su pareja. Mediante el uso de taumatología experimental e ingeniería psiónica, se logró restaurar una parte de su consciencia y conocimiento a través de un Constructo Inteligente Invocado, y se realizó un ritual para prevenir su desintegración accidental. Desde entonces, y por sugerencia de su primo materno, el Dr. Muzz, se le empleó nuevamente en la AGIAT. Hasta la fecha, el Dr. Gleam no parece tener recuerdos de su muerte, resurrección o relación que acabó con su previa vida.
+
+[[/collapsible]]
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/agente-shuffle Agente Shuffle "Reina Shuffle"]
+|Frecuentes=[http://www.wikidot.com/user:info/agente-shuffle Agente Shuffle "Reina Shuffle"]
+|Apariciones= [https://agiat.wikidot.com/ots-016 OTS-016]: Investigador Asistente, Soporte Taumatológico
+[https://agiat.wikidot.com/ots-032 OTS-032]: Investigador Asistente, Soporte Taumatológico
+[https://agiat.wikidot.com/ots-064 OTS-064]: Investigador Asistente, Soporte Taumatológico
+]]
+
+
+-----
+-----
+
+[[include component:profile
+|Nombre=Asmoder Orm
+|Edad=Edad
+|Nacionalidad= —
+|Afiliado=AGIAT
+|Relaciones= —
+]]
+
+Investigador y agente de campo, director de la base móvil #16, taumaturgo de nivel intermedio y oficial de Rango 5.
+
+De origen escandinavo, sirvió en el ejército, donde llamaría la atención de sus superiores al demostrar gran aptitud en el combate, quienes lo recomendarían a la AGIAT, iniciado su servicio en la agencia sentiría gran afinidad por la taumaturgia. Estudiaría Historia, Arqueología, Criptología, teología y otras ciencias más que lo llevarían a convertirlo en investigador de campo.
+
+[[collapsible show="... de ángeles" hide="... y demonios..."]]
+
+El origen del Dr. Asmoder es incierto; sin embargo,  se ha descubierto que es descendiente de un antiguo linaje de ángeles y demonios, aunque posee genes de estos seres están bastante diluidos para considerarse un híbrido propiamente dicho, pero esto le genera gran afinidad a la magia y talento bélico.  
+
+[[=]]
+++ Aviso de supervisor
+[[/=]]
+
+El doctor Asmoder puede hacer sonar las alarmas anti-demonios ocasionalmente debido a su sangre, debido a los inconvenientes, el acceso a ciertas instalaciones debe hacerse sobre aviso y con escolta.
+
+[[/collapsible]]
+
+[[include component:profile-close
+|Creador=[http://www.wikidot.com/user:info/asmoder Asmoder]
+|Frecuentes=[http://www.wikidot.com/user:info/asmoder Asmoder]
+|Apariciones=[https://agiat.wikidot.com/radiacion-magica Radiación Mágica]: Protagonista
+[https://agiat.wikidot.com/espiritismo-segun-geist Espiritismo Según Geist]: Mención
+]]
+@@ @@
+
+
+[[div class="generic_noticeV2_byTarro"]]
+
+A continuación se encuentran aquellos personajes que no se encuentran etiquetados. Si bien son personajes canónicos, no poseen su propia etiqueta para diferenciarlos.
+
+__Los criterios de etiquetado son muy sencillos:__
+
+* El personaje debe ser usado por 2 personas (incluyendo al autor, si procede) y aparecer en 3 escritos.
+* O de forma alternativa, el autor como escritor único debe usar al personaje en 5 escritos.
+* Esto no es obligatorio, pero animamos a los autores a hacer relatos de sus personajes. Es más fácil y sencillo plasmar más información de forma consistente en un relato que en cualquier otro formato.
+
+Otra cosa a tener en cuenta es que el siguiente listado solo contempla a personajes que posean más de 1 aparición. Esto se hace para evitar haer una lista enorme plagada de personajes vacios de una sola aparición, personajes que son solo un nombre en un documento y que ni el autor retoma como personaje recurrente. El típico "oficial de seguridad" que solo está para rellenear y, en fin, ya entienden el punto.
+
+[[/div]]
+@@ @@
+
+
+[[div class="bestiary"]]
+
+----
+[[=]]
++ __Personal Sin Aprobar__
+----
+@@ @@
+
+++ Dr. Ludwig Haas
+[[/=]]
+
+**Nombre:** Ludwig Von Stein Haas
+
+**Edad:** 1514 años
+
+**Nacionalidad:** --Austriaco-- Apátrida[[footnote]]Ludwig tiene la idea de que un individuo no es su nación estado, por lo que se niega a reconocer una nacionalidad para si mismo.[[/footnote]]
+
+**Afiliacido:** AGIAT, Magnus Secundus
+
+**Relaciones:** Magnus Secundus (maestro y amigo), Josefina Dagamundo (mejor amiga), Rey Rata Doppel (amigo), Thaddeus Geist (deidad encarnada a sus ojos y objeto de profundo respeto), Mauricio Rushkar (interés romántico).
+
+**Autor/es:** [[*user Tartaro]]
+
+**Escritores Frecuentes:** [[*user Tartaro]]
+
+**Apariciones:** 
+* [https://agiat.wikidot.com/narciso-en-una-celda Narciso En Un Celda]: Protagonista
+* [https://agiat.wikidot.com/ots-009 OTS-009]: Investigador Principal
+* [https://agiat.wikidot.com/ots-099 OTS-099]: Aparición Breve
+
+-----
+-----
+
+[[=]]
+++ Dra. Josefina Dagamundo
+[[/=]]
+
+**Nombre:** Josefina Carolina Dagamundo Romero
+
+**Edad:** 29 años
+
+**Nacionalidad:** Venezolana
+
+**Afiliado:** AGIAT
+
+**Relaciones:** Ludwig Haas (mejor amigo), Rey Rata Doppel (mejor amigo)
+
+**Autor/es:** [[*user Tartaro]]
+
+**Escritores Frecuentes:** [[*user Tartaro]]
+
+**Apariciones:**
+* [https://agiat.wikidot.com/ots-009 OTS-009]: Archivista
+* [https://agiat.wikidot.com/ots-099 OTS-099]: Investigadora Principal
+* [https://agiat.wikidot.com/las-cartas-que-nunca-responderas Las cartas que nunca responderás] Destinatario de la carta
+
+-----
+-----
+
+[[=]]
+++ Dra. Melania Iris
+[[/=]]
+
+**Nombre:** Melania Iris
+
+**Edad:** — 
+
+**Nacionalidad:** —
+
+**Afiliado:** AGIAT.
+
+**Relaciones:** —
+
+**Autor/es:** [[*user asmoder]]
+
+**Escritores Frecuentes:** [[*user asmoder]]
+
+**Apariciones:** 
+* [https://agiat.wikidot.com/ots-025 OTS-025]: Investigadora Principal
+* [https://agiat.wikidot.com/ots-051 OTS-051]: Investigadora Principal
+
+-----
+-----
+
+[[=]]
+++ No Muerto Paradine
+[[/=]]
+
+**Nombre:** Paradine
+
+**Edad:** — 
+
+**Nacionalidad:** Velatiano
+
+**Afiliado:** AGIAT
+
+**Relaciones:** —
+
+**Autor/es:** [[*user Dr briareuss]]
+
+**Escritores Frecuentes:** [[*user Dr briareuss]]
+
+**Apariciones:** 
+* [https://agiat.wikidot.com/sacra-concejalia-de-velat Sacra Consejalía De Velat]: Mención Importante
+* [https://agiat.wikidot.com/la-esperanza-del-desafortunado La Esperanza Del Desafortunado]: Mención Importante
+* [https://agiat.wikidot.com/ots-088 OTS-088]: Mención
+
+[[/div]]
+

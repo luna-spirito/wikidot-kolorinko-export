@@ -1,0 +1,25 @@
+---
+title: "admincss: _template"
+tags: []
+page_id: "1312535879"
+site: "laomccea"
+slug: "admincss:_template"
+revision: 0
+revision_id: "1367475792"
+author: 7286218
+timestamp: 1628430372
+---
+
+%%content%%
+[[html]]
+<script type="text/javascript">
+history.go(-2);
+</script>
+[[/html]]
+===========
+[!-- Do not edit this page; Press Save! --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: block !important; }
+.admins-only-inline{  display: inline !important; }
+[[/module]]
+

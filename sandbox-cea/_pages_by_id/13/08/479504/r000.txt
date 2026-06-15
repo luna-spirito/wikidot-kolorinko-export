@@ -1,0 +1,29 @@
+---
+title: "_template"
+tags: []
+page_id: "1308479504"
+site: "sandbox-cea"
+slug: "snippet:_template"
+revision: 0
+revision_id: "1362054696"
+author: 2954516
+timestamp: 1617623129
+---
+
+Snippets appear at the top of the page.
+
+[!--
+%%content%%
+--]
+
+[[table style="width:100%; border: 1px solid silver; font-weight:bold"]]
+  [[row]]
+    [[cell style="width:80%"]]
+[[module NewPage category="snippet" button="Ok" size="80"]]
+    [[/cell]]
+    [[cell style="width:20%"]] Enter your text and press OK, then press Ctrl-S or click Save. [[/cell]]
+  [[/row]]
+[[/table]]
+
+%%title%%
+

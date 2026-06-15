@@ -1,0 +1,411 @@
+---
+title: "PNX-015"
+tags: []
+page_id: "1468717132"
+site: "projectnexium-sandbox"
+slug: "pnx-015"
+revision: 1
+revision_id: "1544160266"
+author: 9671236
+timestamp: 1779834914
+---
+
+[[>]]
+[[module Rate]] 
+[[/>]]
+[[html]]
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      p {
+        font-size: 14px;
+      }
+      table,
+      th,
+      td {
+        border: 1px solid white;
+        border-collapse: collapse;
+        border-color: yellow;
+        padding: 5px;
+      }
+      .quote-box {
+        border-radius: 5px;
+        border-left: 7px solid yellow;
+        background-color: rgb(30, 30, 30);
+        padding: 12px 15px;
+        margin: 25px 0;
+        font-size: 14px;
+        color: white;
+        position: relative;
+      }
+      details[open] {
+        background: black;
+      }
+
+      details > summary {
+        cursor: pointer;
+        font-weight: bold;
+        padding: 0.2em 0;
+        list-style: none;
+        font-size: 0.9em;
+        color: #ff9900;
+      }
+
+      details > summary::-webkit-details-marker {
+        display: none;
+      }
+
+      details > summary::before {
+        content: "+ ";
+        font-weight: bold;
+        font-size: 0.9em;
+        color: #ff9900;
+      }
+
+      details[open] > summary::before {
+        content: "- ";
+      }
+    </style>
+  </head>
+  <body style="font-family: verdana; color: white; background-color: black">
+    <table style="width: 100%; text-align: center">
+      <tr>
+        <th>File #:</th>
+        <th>Class:</th>
+        <th>Secondary Class:</th>
+        <th>Category:</th>
+      </tr>
+      <tr>
+        <td>PNX-015</td>
+        <td>Level-3 <span style="color: yellow">Neutral</span></td>
+        <td>Mutual</td>
+        <td>Sentient / Hivemind / Memetic</td>
+      </tr>
+    </table>
+
+    <h4>Containment Procedures:</h4>
+    <p>
+      PNX-015 and 12 PNX-015-1 instances are to be held in an aviary designed to
+      resemble the Susquehannock State Forest in Pennsylvania (50x50x100
+      meters). PNX-015-1 instances must not be viewed by any intelligent being
+      via sight, photograph, or video recording. Any personnel who view a
+      PNX-015-1 will be designated PNX-015-2 and must be terminated and
+      incinerated immediately by security personnel.
+      
+      <strong>Containment Reason:</strong> PNX-015 is a major threat to humans
+      race. PNX-015's ability to quickly kill intelligent life and reproduce off
+      of it is deemed to be too dangerous to attempt to move back into the
+      Nexium realm, as it could come back or breach during transit.
+    </p>
+
+    <h4>Description:</h4>
+    <p>
+      PNX-015 is a sapient hivemind composed of American crows (Corvus
+      brachyrhynchos). PNX-015 refers to itself as the hive’s Queen. PNX-015-1
+      instances are drones of the hive, and PNX-015-2 is any intelligent being
+      in the transformation stages. PNX-015 and its drones communicate
+      telepathically. PNX-015 is capable of speaking English, both directly and
+      through PNX-015-1 instances.
+      
+      PNX-015 is somewhat cooperative with PNX personnel. She is willing not to
+      breach containment and attack PNX Personnel as long as she gets her aviary
+      with her hive, and when her hive drones die, she is given a K-class to get
+      12 more drones.
+    </p>
+
+    <h4>Transformation Stages:</h4>
+
+    <h4>Stage 1:</h4>
+    <p>
+      PNX-015-2 begins to grow small feathers on its body and hears faint,
+      unintelligible voices from PNX-015-1s and the Queen. Subjects typically do
+      not notice these changes. This stage occurs immediately after exposure.
+    </p>
+
+    <h4>Stage 2:</h4>
+    <p>
+      PNX-015-2's arms begin to morph into wings, more feathers grow, and the
+      voices become louder and more understandable. Subjects often panic and
+      attempt to remove feathers, which only accelerates growth. This stage
+      occurs 10–30 minutes after exposure.
+    </p>
+
+    <h4>Stage 3:</h4>
+    <p>
+      PNX-015-2 grows a beak but retains the ability to speak. Their body
+      becomes mostly covered in feathers, and their voices become louder.
+      Subjects experience severe psychoPNXical distress as their humanity
+      deteriorates. This stage occurs 30–60 minutes after exposure.
+    </p>
+
+    <h4>Final Stage:</h4>
+    <p>
+      PNX-015-2 screams in agony as bones shatter, organs rupture, and blood
+      pours from the mouth. Beaks press against their skin from beneath the skin
+      until it tears open. The body explodes, blood splatters, and organ bits
+      spill, releasing twelve new PNX-015-1 instances covered in blood. Any
+      observer will suffer the same fate. This stage occurs 90 minutes after
+      exposure.
+    </p>
+    <!--Hope you like reading the final stage lol. :3-->
+    <details>
+      <summary>Addendum:</summary>
+
+      <h4>First Containment:</h4>
+      <p>
+        Many people have gone missing in the Susquehannock State Forest,
+        Pennsylvania. Search teams recovered personal belongings and mutilated,
+        crow-like human remains. All non-Nexuim witnesses were administered
+        amnestics. Two K-Class personnel were sent into the forest equipped with
+        video and audio recorders, radios, and survival supplies.
+      </p>
+
+      <h4>K-Class Personnel:</h4>
+      <p>K-4827: 24-year-old male</p>
+      <p>K-7293: 22-year-old male</p>
+
+      <details>
+        <summary>K-Class LOG:</summary>
+        <div class="quote-box">
+          <hr />
+          <h4 style="text-align: center"><strong>K-Class LOG</strong></h4>
+          <hr />
+
+          <p style="text-align: center"><strong>[Begin LOG]</strong></p>
+          <hr />
+
+          <p style="text-align: center"><strong>10/20/2020</strong></p>
+          <hr />
+
+          <p style="text-align: center"><strong>[08:01:12AM]</strong></p>
+
+          <p>K-class enters the forest and walks down the trail.</p>
+
+          <p><strong>K-4827:</strong> Fuck this.</p>
+
+          <p>
+            <strong>K-7293:</strong> Hey, what's your name? I don’t want to call
+            you by your number.
+          </p>
+
+          <p><strong>K-4827:</strong> I'm Will. You?</p>
+
+          <p>
+            <strong>K-7293:</strong> Hask. Nice to know the name of the guy I’m
+            going to die with. <em>K-7293 chuckles</em>
+          </p>
+
+          <p><strong>K-4827:</strong> Hask, huh.</p>
+
+          <p>They walk in silence to the first checkpoint.</p>
+          <hr />
+
+          <p style="text-align: center"><strong>[08:37:31AM]</strong></p>
+
+          <p>They arrive at the first location.</p>
+
+          <p><strong>K-7293:</strong> Ooooh, free stuff.</p>
+
+          <p>
+            <strong>K-4827:</strong> You probably don’t want to touch anything.
+            This guy went missing here; his stuff might be involved.
+          </p>
+
+          <p><strong>Overwatch (Radio):</strong> Look through the items.</p>
+
+          <p><strong>K-4827:</strong> Well shit. Fuck you.</p>
+
+          <p>
+            They search the scattered supplies but find nothing of interest.
+          </p>
+
+          <p><strong>K-4827:</strong> Nothing here.</p>
+
+          <p><strong>Overwatch (Radio):</strong> Move to the next location.</p>
+
+          <p>This process repeats for several hours.</p>
+
+          <hr />
+
+          <p style="text-align: center"><strong>[07:58:43PM]</strong></p>
+
+          <p><strong>K-7293:</strong> Hey, Will?</p>
+
+          <p><strong>K-4827:</strong> What?</p>
+
+          <p><strong>K-7293:</strong> I hear something in the bushes.</p>
+
+          <p>
+            <strong>K-4827:</strong> Hask, you’re just paranoid. We’ve been here
+            for hours. Nothing’s going to attack us.
+          </p>
+
+          <p><strong>K-7293:</strong> No, there’s something over there.</p>
+
+          <p><strong>Unknown Voice:</strong> People?</p>
+
+          <p><strong>K-4827:</strong> It just talked?!</p>
+
+          <p><strong>K-7293:</strong> Go check that out.</p>
+
+          <p><strong>K-4827:</strong> Fuck you.</p>
+
+          <p>
+            <strong>K-7293:</strong> <em>grabs K-4827 by the shirt</em> Go look.
+          </p>
+
+          <p><strong>K-4827:</strong> Okay, okay.</p>
+
+          <p><strong>Unknown Voice:</strong> GO AWAY!</p>
+
+          <p>
+            K-4827 approaches the source. Screaming is heard. The camera cannot
+            capture what happened.
+          </p>
+
+          <p>
+            <strong>K-4827:</strong> WHAT THE FUCK!? WHAT THE FUCK?! I’M NOT
+            GOING IN THERE AGAIN!
+          </p>
+
+          <p><strong>K-7293:</strong> What was in there?</p>
+
+          <p><strong>K-4827:</strong> I DON’T KNOW!</p>
+
+          <p><strong>K-7293:</strong> Is that a feather in your hair?</p>
+
+          <p>K-7293 walks over and pulls the feather out.</p>
+
+          <p><strong>K-4827:</strong> HEY, that hurt.</p>
+
+          <p>A new feather grows back instantly. K-7293 pulls it again.</p>
+
+          <p><strong>K-4827:</strong> STOP THAT!</p>
+
+          <p>
+            <strong>K-7293:</strong> You’re growing feathers. What happened
+            behind that bush?
+          </p>
+
+          <p><strong>K-4827:</strong> I don’t even know...</p>
+
+          <p>
+            <strong>Overwatch (Radio):</strong> K-class, move to a safe location
+            and set up camp. K-7293, monitor K-4827.
+          </p>
+
+          <p>They walk to a small campsite near the water.</p>
+
+          <hr />
+
+          <p style="text-align: center">
+            <strong>[08:20:12PM]</strong>
+            <strong>(Stage: 2)</strong>
+          </p>
+
+          <p>K-4827’s arms begin turning into wings.</p>
+
+          <p><strong>K-4827:</strong> Do you hear those voices too?</p>
+
+          <p><strong>K-7293:</strong> No. Are you okay?</p>
+
+          <p>
+            <strong>K-4827:</strong> You don’t hear them? They’re all around us.
+            You have to hear them.
+          </p>
+
+          <p>Audio recorders pick up only the K-class voices.</p>
+
+          <hr />
+
+          <p style="text-align: center">
+            <strong>[08:34:19PM]</strong>
+            <strong>(Stage: 3)</strong>
+          </p>
+
+          <p>K-4827’s arms are now fully wings. His face morphs into a beak.</p>
+
+          <p><strong>K-7293:</strong> What the fuck?</p>
+
+          <p><strong>K-4827:</strong> They’re getting louder, LOUDER!</p>
+
+          <p>K-7293 steps back as K-4827 begins tearing at their body.</p>
+
+          <p>
+            <strong>K-7293:</strong> Hey, man, calm down. It’s just spreading
+            faster. You need to stop.
+          </p>
+
+          <p>
+            <strong>K-4827:</strong> They won’t stop. They’re just getting
+            louder.
+          </p>
+
+          <p>
+            <strong>K-7293:</strong> Calm down. It’s okay. Try to ignore them.
+          </p>
+
+          <p><strong>K-4827:</strong> O-Okay...</p>
+
+          <p><strong>K-7293</strong> sits beside him.</p>
+
+          <hr />
+
+          <p style="text-align: center">
+            <strong>[09:28:52PM]</strong>
+            <em>(Two minutes before Final Stage)</em>
+          </p>
+
+          <p>K-4827 is fully covered in feathers but remains calm.</p>
+
+          <p><strong>K-4827:</strong> It’s quieter. I think it’s dying down.</p>
+
+          <p>
+            <strong>K-7293:</strong> See? It’s okay. There’s no need to worry.
+            You’ll be fine. Let’s get some rest.
+          </p>
+
+          <p><strong>K-4827:</strong> Okay.</p>
+
+          <p style="text-align: center">
+            <strong>[09:30:52PM]</strong>
+            <strong>(Final Stage)</strong>
+          </p>
+
+          <p><strong>K-4827:</strong> <em>Screams of agony.</em></p>
+
+          <p>
+            <strong>K-7293</strong> backs away, watching. At this point,
+            Foundation personnel determine that viewing this transformation
+            causes death. The camera cuts out.
+          </p>
+
+          <p>
+            K-4827 screams as his body is torn apart. K-7293 sees SCP-8518-1 and
+            realizes what’s coming.
+          </p>
+
+          <p>
+            K-7293 begins bashing his own head with a rock in an attempt to end
+            his own life. He succeeds.
+          </p>
+
+          <p><strong>Overwatch:</strong> K-Class Dead, section terminated.</p>
+
+          <hr />
+
+          <h4 style="text-align: center"><strong>[END LOG]</strong></h4>
+          <hr />
+        </div>
+      </details>
+    </details>
+  </body>
+</html>
+[[/html]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[PNX-014]]] | PNX-015 | [[[PNX-016]]] >>
+[[/=]]
+[[/div]]
+

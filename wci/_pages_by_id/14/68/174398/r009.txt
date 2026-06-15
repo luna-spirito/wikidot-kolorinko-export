@@ -1,0 +1,163 @@
+---
+title: "About"
+tags: ["noedit"]
+page_id: "1468174398"
+site: "wci"
+slug: "theme:about"
+revision: 9
+revision_id: "1542495960"
+author: 9546096
+timestamp: 1772948000
+---
+
+[[module css]]
+#page-content h2 {
+    margin-top: 1.125rem;
+    margin-bottom: 0.75rem;
+}
+.wikis-table-container {
+    overflow-x: auto;
+    width: 100%;
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+.wikis-table-container table.wiki-content-table {
+    min-width: 100%;
+}
+.wikis-table-container table.wiki-content-table td {
+    background-color: black;
+}
+.withnotes table.wiki-content-table tr th:last-of-type,
+.withnotes table.wiki-content-table tr td:last-of-type {
+    width: 33%;
+}
+hr {
+    height: 2px;
+    background-color: red;
+}
+.blueborder-block {
+    background-color: black;
+    border: 1px solid darkred;
+    padding: 15px;
+}
+.about > p {
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+.about > hr {
+    margin: 15px 2em 1em 2em;
+}
+.wiki-link > h1 {
+    margin-top: calc(0.7em - 15px);
+}
+@media (max-width: 767px) {
+  .yui-navset {
+    overflow-x: hidden;
+  }
+  .yui-navset .yui-content {
+    padding: 0;
+    border-color: #1434A4;
+  }
+  .yui-navset .yui-content > div > .blueborder-block {
+    border: 0;
+    padding: 15px 0;
+  }
+  .yui-navset .yui-content .blueborder-block {
+    border-left: 0;
+    border-right: 0;
+  }
+}
+
+/* ---- Cast ---- */
+.castopia-block {
+    background: rgba(8, 1, 30);
+    color: rgba(253, 236, 207);
+    border: 0.2em solid rgba(46, 47, 60);
+    padding: 1em;
+}
+.castopia-block > div {
+    background: rgba(46, 47, 60);
+    border: 0.2em solid rgba(85, 17, 28);
+    padding: 0 1em;
+    margin: 1em 1em 0 1em;
+}
+.castopia-block hr {
+    height: 0.2em;
+    background: rgba(46, 47, 60);
+    margin: 1em -1em;
+}
+.castopia-block h1 {
+    text-align: center;
+    color: rgba(232, 69, 69);
+    margin-top: 0;
+}
+.castopia-block > p:has(a) {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+.castopia-block a {
+    font-size: 150%;
+    font-weight: bold;
+    color: rgba(253, 220, 153);
+    padding: 0.2em 0.5em;
+    transition: 0.3s;
+}
+.castopia-block a:hover {
+    background: rgba(253, 220, 153);
+    color: rgba(8, 1, 30);
+    text-decoration: none;
+}
+@media (max-width: 767px) {
+  .castopia-block {
+    margin: 0 -16px;
+  }
+  .castopia-block > div {
+    margin: -1.2em -1.2em 0 -1.2em;
+  }
+}
+
+/* ---- AGIAT ---- */
+.epic-block {
+    height: 680px;
+    background: url(http://destinox.wdfiles.com/local--files/agiat-css/AGIATlogoTransparente.png) center no-repeat;
+    background-size: 30vw;
+    float: center;
+    border: solid 3px #b8b8b8;  
+    padding: 1px 25px;
+    background-color: #2e2e2e;
+    color: #b8b8b8;
+    overflow-y: scroll;
+}
+@media (max-width: 767px) {
+   .epic-block {
+       background-size: 45vw;
+       margin: 0 -16px;
+    }
+}
+.epic-block::-webkit-scrollbar {
+   border-radius: 6px;
+}
+.epic-block::-webkit-scrollbar-track {
+   border-radius: 6px;
+}
+
+/* ---- Nexium ---- */
+.nexium-block {
+    background-color: black;
+    color: #ffffff;
+    border: 1px solid yellow;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+@media (max-width: 767px) {
+  .nexium-block {
+    margin: 0 -16px;
+  }
+}
+[[/module]]
+[[include component:do-not-edit | extra= ////]]
+

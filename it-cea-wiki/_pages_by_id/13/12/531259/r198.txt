@@ -1,0 +1,196 @@
+---
+title: "Livelli di pericolosità"
+tags: ["home"]
+page_id: "1312531259"
+site: "it-cea-wiki"
+slug: "object-classes"
+revision: 198
+revision_id: "1532814885"
+author: 9546096
+timestamp: 1759861030
+---
+
+Le classificazioni per i CEA sono assegnate dal personale della classe Gamma in su, tranne in casi particolari nei quali è l'HJ ad avere il compito di giudicare l'entità per determinarne la classificazione più adatta.
+----
+[[tabview]] 
+[[tab Note d'assegnazione]]
+**##darkred|!ATTENZIONE!## I seguenti sono __obblighi__ di aggiunta per tutti i documenti che trattano:**
+
+**[1][un anomalia non più esistente]:** In caso un'anomalia venga; distrutta/uccisa, muoia, perda le sue capacità anomale o altri casi simili...
+l'articolo in se dovrà rimanere intoccato, ma si dovrà copiare ed incollare il messaggio riportato in seguito, all'inizio dell'articolo[[footnote]]immediatamente sopra alla scritta "**##darkred|Gestione:##**"[[/footnote]]:
+[[code]]
+> + ##darkred|!ATTENZIONE!##
+> = **"il seguente documento fa riferimento ad un'anomalia distrutta/deceduta e della quale non abbiamo prove a sufficienza per credere ve ne siano altre simili."**
+----
+[[/code]]
+Dove il messaggio tra virgolette **"** sarà l'unica cosa modificabile, a patto che il senso generale della frase rimanga intatto e sia quindi chiaro il CEA, de facto non sia più un anomalia.
+Se non sapete dove questo messaggio dovesse essere posizionato e avete bisogno di un esempio pratico potete fare riferimento alla pagina [[[[http://sandbox-cea.wikidot.com/template-cea|Template CEA]]]].
+----
+//**Consigli per l'assegnazione - consideratele come FAQ.**-//
+
+1. Tenete a mente che le informazioni sotto alla sezione **##darkred|Gestione:##** vengono compilate dal supervisore dell'anomalia o scrittore del documento[[footnote]]caso in cui le 2 figure non dovessero coincidere[[/footnote]] [...]
+
+2. L'abilità di rilocazione (ad esempio il teletrasporto, sia per gli oggetti di classifica 1 e 2) sono da considerare di media come abilità più che poco impattanti, si prega quindi di non scegliere nella gran parte dei casi le classificazioni Giallo e Verde per elementi con simili possibilità.
+[[/tab]]
+[[tab Interruttori]]
+**Valutazione Secondaria:**
+__Ogni__ entità anomala, dovrà ricevere in aggiunta alla propria Classificazione 3 interruttori che rappresentano in ordine:
+# Se possono muoversi
+# Se sono vivi
+# Se sono senzienti
+
+Quando una delle seguenti è vera, ci sarà un 🟢 nella posizione dell'interruttore, quale simboleggia che è acceso, mentre sarà presente ⚫️ se l'interruttore è spento, nel raro caso in cui non si sia sicuri o in altre situazioni di confusione, si può usare 🟠.
+Esempio; se un CEA non può muoversi, ma è vivo ed è senziente, sarà rappresentato con la seguente sequenza: ⚫️🟢🟢.
+Ciò è fatto in modo tale da consentire una migliore classificazione delle anomalie ed una più intuitiva navigabilità all'interno della //banca dati//.
+[[/tab]]
+[[tab Aggressività]]
+----
+= **##darkred|!ATTENZIONE!##**
+Onde evitare dubbi in seguito; per "livelli di aggressività" non andiamo ad intendere "aggressività" nel senso stretto della parola (in quanto essa sottintende intenzione da parte dell'anomalia e di conseguenza che essa sia senziente"🟢[[footnote]]in questa tab farò utilizzo più volte del solo interruttore legato alla senzienza dell'anomalia[[/footnote]]").
+Con ciò noi intendiamo piuttosto quale livello di minaccia (__**rischio attivo**__[[footnote]]quale non necessita nessuna interazione da parte del soggetto interessato per venir preso di mira[[/footnote]]) essa rappresenta in questo momento (ossia al tempo della scrittura, o di eventuali aggiornamenti del documento) per __la sola CEA__ e per estensione il suo personale e il continuo indisturbato del suo operato.
+[In breve; anche le anomalie non senzienti"⚫️" possono essere "aggressive"].
+----
+**Valutazione Secondaria:**
+__Ogni__ entità anomala, dovrà ricevere in aggiunta alla propria Classificazione un livello di aggressività tra i seguenti 6:
+
+█ █ █ █ █ **[a0] aggressività 0:** se l'anomalia è fisicamente o volontariamente incapace di arrecare danno al soggetto, oppure se il soggetto deve fare utilizzo dell'anomalia (come innescando una granata) perché quest'ultima gli arrechi danno, allora essa non è da considerarsi aggressiva.
+(si presume generalmente di avere a che fare con un oggetto o un soggetto incapace di movimento).
+
+##darkred|█## █ █ █ █ **[a1] aggressività 1:** qualora fosse ragionevole credere l'entità possa porre i membri del personale sotto un vago __rischio attivo__.
+(valutazione standard dei soggetti umani non anomali, si presume generalmente quindi che il soggetto sia senziente"🟢" o filo-senziente"🟠").
+
+##darkred|█ █ ##█ █ █ **[a2] aggressività 2:** se gli episodi di aggressività dovessero essere sporadici, limitati a pochi e/o specifici soggetti o rare circostanze.
+(si presume generalmente quindi che il soggetto sia senziente"🟢" o filo-senziente"🟠").
+
+##darkred|█ █ █## █ █ **[a3] aggressività 3:** il livello intermedio se lo scopo delle aggressioni non è strettamente legato alla volontà di ferire, e si ha una finestra di comunicazione con essa
+(con ciò __non__ si intende però strettamente che l'anomalia sia capace di dialogo, ma piuttosto che vi sia un metodo per evitare che attacchi)
+seguono degli esempi per elementi anomali con [a3]:
+•desiderio di libertà, l'anomalia è aggressiva in quanto le si impedisce di fuggire, il suo obbiettivo principale __non__ è ferirci ed attaccherà solo se ostacolata; 
+•l'anomalia desidera (anche solo interagire con) qualcosa o qualcuno in nostro possesso (o nostra supervisione) e attaccherà se questa richiesta non verrà esaudita;
+•e altri casi simili...
+(si presume generalmente quindi che il soggetto sia senziente"🟢" o filo-senziente"🟠").
+
+##darkred|█ █ █ █## █ **[a4] aggressività 4:** l'anomalia è prone ad aggredire il personale ed i metodi per evitare ciò sono poco pratici, difficili da impiegare o limitati a pochi soggetti.
+(si presume generalmente che il soggetto sia senziente"🟢" e poco collaborativo, di natura aggressiva/territoriale o non senziente"⚫️").
+
+##darkred|█ █ █ █ █## **[a5] aggressività 5:** qualora l'anomalia dovesse essere irragionevolmente o inevitabilmente aggressiva (rappresentando quindi un pericolo costante) nei vostri confronti, senza alcuna possibilità di essere placata.
+(si presume generalmente che il soggetto non sia senziente"⚫️").
+[[/tab]]
+[[tab Verde]]
+**Valutazione:**
+La classificazione "**##10A510|Verde##**" viene assegnata agli elementi definibili come //pacifici//, ossia anomalie che non possono //teoricamente// causare danni, portando al massimo a fastidi o lievi effetti indesiderati, molte delle anomalie più utili sono inoltre facenti parte di questa classe.
+[[/tab]]
+[[tab Giallo]]
+**Valutazione:**
+La classificazione "**##d89a18|Gialla##**" viene assegnata agli elementi definibili come //neutri gentili//, ossia anomalie che //in media//, potrebbero essere capaci di causare leggero o medio-basso danno se non maneggiati con attenzione, vi si avvicina o li si infastidisce.
+[[/tab]]
+[[tab Arancione]]
+**Valutazione:**
+La classificazione "**##FF6E00|Arancione##**" viene assegnata agli elementi definibili come //neutri puri//, ossia anomalie che //in media//, se non usati correttamente, ci si avvicina troppo o li si infastidisce, possono arrecare ferite o danni dalla medio-bassa alla medio-alta importanza, gli elementi sotto questa classificazione mostrano inoltre spesso maggiore forza, velocità ecc... potendo così portare anche a richieste di ospedalizzazione di membri del personale o di riparazioni.
+[[/tab]]
+[[tab Rosso]]
+**Valutazione:**
+La classificazione "**##red|Rossa##**" viene assegnata agli elementi definibili come //neutri caotici//, ossia anomalie che sono //tendenzialmente// aggressive o di alta pericolosità e che possono causare danni da medio-alti a elevati quali anche morte, o danni a celle convenzionalmente adottate per elementi simili appartanenti a classificazioni inferiori, //solitamente// CEA con detta classificazione sono più difficili da avvicinare/interagire con, rendendo le ricerche più ostiche.
+[[/tab]]
+[[tab Grigio]]
+**Valutazione:**
+La classificazione "**##636363|Grigia##**" viene assegnata agli elementi definibili come //ostili//, ossia anomalie che rappresentano //generalmente// un costante pericolo nei confronti del personale in primis, è più generalmente a tutti coloro/ tutto ciò che può trovarsi nella prossimità del luogo di contenimento. 
+In quanto minacce di tale livello, esse devono venir tenute in aree di più alta sicurezza rispetto a tutti gli elementi facenti parte delle precedenti categorie, elementi di questo livello richiedono inoltre di essere distanziati maggiormente gli uni dagli altri, allargando così ulteriormente il buco nelle tasche dell'organizzazione che avrà anche il compito di mobilitare almeno una squadra delle UAM __immediatamente__ qualora si verificasse una breccia.
+Imprevedibilità e peculiarità delle loro abilità sono un dato comune a tali anomalie[/Gray .]
+[[/tab]]
+[[tab Nero]]
+**Valutazione:**
+La classificazione "**##071e26|Nera##**" viene assegnata agli elementi definibili come //caotici ostili//, ossia anomalie con una natura avversa alla vita e tutto ciò che la costituisce, gli elementi di classe Nero non solo sono un grave rischio alla vita dello staff della CEA, ma anche alle nazioni che più vicine si trovano ad essa, se non il continente intero. 
+In caso un elemento di classe Nero non dovesse più trovarsi nel suo contenimento, tutte le squadre UAM disponibili e forze di sicurezza vicine dovranno recarsi nell'ultimo luogo ove è stato avvistato, in caso inseguirlo/ indagare sulla scomparsa e __ritrovarlo ad ogni costo__, //casi particolari a parte//, il comando di queste operazioni sarà puramente sotto la o le figure di più alto rango che sovrintendono l'operazione, che avranno carta bianca sul come completare il loro incarico.
+CEA come questi necessiteranno, ci aspettiamo //in gran parte dei casi// di strutture a se stanti volte
+al loro contenimento, o comunque sia complessi di massima sicurezza (per quanto in nostro potere),
+con un numero di anomalie minimo.
+Incredibile Potenza; Caos; Incomprensibilità; un'Ottima Capacita di Rilocazione o Diffusione.
+Queste sono le cosa da aspettarsi dagli elementi di questa categoria.
+[[/tab]]
+[[tab Viola]]
+[[=]]
+[[size 200%]]
++ ##darkred|!ATTENZIONE!##
+++ Area riservata del database! Proseguire senza autorizzazione necessaria risulterà in un immediato licenziamento e/o __conseguenze__. 
+[[/size]]
+[[/=]]
+= Se avete l'autorizzazione necessaria, per accedere al database, premere [[collapsible show="Qui" hide="Chiudi"]]
+**Valutazione:**
+Premettiamo che essa è solo una classificazione __ipotetica__.
+La classificazione "**##6c25be|Viola##**" viene assegnata agli elementi definibili come //Accecati//. [[size 0%]] e con questo intendo dalla collera verso di noi ~Dr.ssa [[/size]]
+
+Questa Classe è il motivo dietro alla creazione dell'archivio [/endofxscenario Scenari di fine del mondo].
+Abbastanza Scontato quindi dirvi che siamo grati di non aver ancora trovato nulla degno di questo titolo, essendo suddetta comunque solo una lontana ipotesi non sappiamo bene nemmeno noi del'High Jury che descrizione fornirvi per un entità o elemento di tale portata anomala, anche se pensiamo che dare un'occhiata alla previo menzionata pagina non sia un cattivo inizio.
+Detto ciò, ricordiamo che __la Nostra priorità__ è quella di proteggere l'umanità da ciò che brancola nel buio,[[size 0%]] eheh ~Shadow [[/size]]per cui, se mai dovessimo trovarci davanti qualcosa di così, azzarderei Divino, ma le nostre risorse dovessero risultare comunque ridotte come al tempo corrente, noi, come già accaduto ai nostri predecessori, avremmo il compito di rivelarci al mondo, pur di ottenere udienza da parte di quanti più grandi potenze e governi possibili, in modo da avere //possibilmente// risorse a sufficienza, per contenere o direttamente eliminare la minaccia.
+Perché ricordate; non importa quanto esse possano apparire o effettivamente essere pacifiche o neutrali, restano tutte pur sempre anomalie, e in quanto tali non dovranno mai essere prese sotto gamba.
+Se tutto ciò non dovesse bastare, sappiate che è stato un piacere lavorare con tutti voi.
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+----
+[[=]]
++ ##red|Criteri per la classificazione##
+[[/=]]
+----
+++ [1] Utilità
+----
+L'utilità che un CEA possiede può abbassare o aumentare la sua classificazione, oggetti di alto valor monetario, di risorse o scientifico potrebbero avere un livello più alto di classificazione per rispecchiare il problema che causerebbe perdere un oggetto o entità di questo tipo e di che tipo di vantaggi potrebbe dare ad alti gruppi.
+----
+++ [2] Atteggiamenti e Risposta agli stimoli
+----
+Un CEA, vivo o meno, potrebbe avere atteggiamenti, o riposte particolari a diversi stimoli quali andranno ovviamente ad impattare più o meno notevolmente sulla sua classificazione.
+Inutile dire che elementi maggiormente aggressivi e/o più imprevedibili riceveranno una classificazione più alta, così come quelli a cui basta anche una piccola interazione (per quanto essa possa essere ben nota); quale un tocco o una parola[[footnote]]Con eccezioni, yare yare...[[/footnote]], per scatenare reazioni violente.
+----
+++ [3] Forza Fisica e Distruttiva
+----
+Anche la forza, che sia puramente fisica, o solo distruttiva (ad esempio armi anomale) è un fattore importante nella determinazione della pericolosità, elementi dal grande potenziale distruttivo, per quanto possano apparire pacifici o neutrali non possono essere sottovalutati in quanto comunque anomali, e quindi sempre suscettibili a cambiamenti improvvisi.
+----
+++ [4] Resistenza
+----
+Allo stesso livello d'importanza del punto **[3]**, //la forza//, troviamo //la resistenza//, essa può essere espressa in termini più generici come la //"difesa"// del soggetto.
+Per valutare al meglio un anomalia sotto questo punto di vista sarà necessario considerarne :
+# La resistenza a Danni o Stress di tipo fisico
+# La resistenza ad agenti chimici e biologici e/o tecnologici.
+# La resistenza ad altre abilità/anomalie.
+# La resilienza psichica.
+# Eventuali abilità anomale legate alla protezione.
+E l'estensione di tali.
+----
+++ [5] Grado di Senzienza
+----
+Quando un'entità è dotata di senzienza bisogna stare più cauti con essa in quanto significa avere a che fare con qualcosa che ha una certa dimestichezza con i suoi dintorni, e potrebbe di conseguenza usare ciò a suo vantaggio in caso volesse tentare la fuga o semplicemente importunare in maniera più o meno grave il personale.
+Motivo per la quale anomalie dotate di essa, //per quanto ce ne possano già essere numerose appartenenti alle classificazioni più basse// vanno comunque studiate a fondo in maniera tale da evitare errori.
+----
+++ [6] Capacità Intellettive 
+----
+Generalmente, più un'entità è intelligente, più è alta la sua classe di pericolosità. 
+ciò deriva dal fatto che maggiore sarà l'intelligenza del soggetto, maggiori saranno le probabilità che esso desideri tutt'altro che rimanere rinchiuso, e di conseguenza potremmo trovarci a fronteggiare geni dell'inganno o della fuga, che avranno ovviamente la vita più facile se messi in celle di contenimento standard.
+----
+++ [7] Abilità Anomale
+----
+Le abilità anomale, uno dei punti fondamentali da considerare nella classificazione dei CEA //duh//,
+quando si parla di esse le 3 cose che ci interessano sono:
+# La potenza di esse, data da, caoticità, raggio d'azione, durata degli effetti, potenziale distruttivo, potenziale manipolativo, ecc...
+# Il numero di abilità possedute.
+
+Va da se, come già sapete, che la natura dell'elemento (pacifica, neutrale, ecc... ) non deve influenzare troppo la valutazione quando si ha a che fare con soggetti/oggetti dal grande potere, o con un notevole numero di abilità.
+in basso, nella tab [Note per l'assegnazione], potrete poi trovare riferimenti se doveste avere difficoltà a capire la potenza di certe abilità.
+----
+++ [8] Potenzialità Apocalittica
+----
+Questo parametro viene preso in considerazione solo quando si stanno trattando elementi dall'enorme potenziale, o elementi instabili, o le quali analisi sono risultate inconsistenti, inattendibili o direttamente impossibili da eseguire.
+Come nel caso dei punti **[3]**, **[4]** e **[7]** nonostante il soggetto possa essere noto come pacifico o neutrale, chiudere un occhio su questo riguardo potrebbe essere fatale, perciò consiglio altamente che vengano assegnati all'elemento comunque una delle classificazioni più alte.
+----
+++ [9] Difficoltà e Dispendiosità nel Contenerlo
+----
+Prima di poter contenere un entità //ove esso sia possibile// essa dev'essere "compresa" in modo da poter sviluppare una modalità per recluderla in maniera efficace.
+Non ci si può infatti aspettare che un'anomalia che sia ovviamente capace di rilocarsi (in qualsiasi maniera possibile[[footnote]]elementi inanimati difatti, se pur possedenti enorme potenza distruttiva potrebberò essere facilmente contenuti usando CEA come ███, rendendo le chance di furto virtualmente pari a 0.[[/footnote]]) se ne stia tranquilla nella sua cella senza battere ciglio, molto più spesso che non, le anomalie vorranno infatti provare a fuggire, la difficoltà nel loro contenimento, (che essa sia quindi data da un fattore economico, oppure psichico/fisico), sarà di conseguenza un punto focale nell'assegnazione della classificazione.
+----
+++ [10] Precedenti delle anomalie
+----
+Il passato e la prevenzione sono nostri alleati, come detto in precedenza, __mai__ fidarsi troppo di un anomalia, poiché in quanto tali esse potrebbero sempre essere soggette al cambiamento, __mai__ essere sicuri che una classificazione rimanga tale nel corso degli anni.
+Partendo da ciò, ecco l'undicesimo e ultimo punto, precedenti di un entità, con ciò ci riferiamo a incidenti registrati, addendum, brecce, ecc...
+Proprio perché eventi del genere non possano accadere o riproporsi noi studiamo queste anomalie fintanto ci è possibile, per assicurarci che esse vengano sempre trattate e contenute nella maniera più consona.
+Inutile dirvi che più alto sarà il numero e/o la gravità degli ultimi //se presenti// di report relativi a nuove abilità, incidenti ecc.. più sarà chiara la pericolosità dell'entità portandoci di conseguenza ad alzarne la classificazione.
+

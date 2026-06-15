@@ -1,0 +1,17 @@
+---
+title: "Page Tags"
+tags: []
+page_id: "57676068"
+site: "scp-sandbox-3"
+slug: "system:page-tags"
+revision: 2
+revision_id: "1542616439"
+author: 6388899
+timestamp: 1773334764
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+
