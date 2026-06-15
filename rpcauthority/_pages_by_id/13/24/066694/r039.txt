@@ -1,0 +1,287 @@
+---
+title: "New Frontier"
+tags: ["event"]
+page_id: "1324066694"
+site: "rpcauthority"
+slug: "new-frontier"
+revision: 39
+revision_id: "1479247437"
+author: 3970162
+timestamp: 1658632132
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:new-frontier-theme/code/1);
+
+.gone a, .gone:hover {
+    border:none!important;
+    box-shadow: none!important;
+}
+
+#page-title {
+    font-size: 230%;
+}
+
+@media (max-width: 1279px) {
+.submissionsContainer {
+    display: none;
+    }
+}
+
+@media (min-width: 1280px) {
+.submissionsContainer {
+    position: absolute;
+      left: 745px;
+    }
+}
+
+.submissions {
+font-family: var(--subheader-font);
+    background: var(--content-panel-background);
+    border: var(--main-content-border);
+    padding: 5px;
+    box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), 0 0 60px -25px var(--giant-shadow-color), inset 0px 0px 10px var(--inner-shadow-color), inset 0px -10px 50px var(--inner-shadow-color);
+}
+
+.submissions a {
+    text-decoration: none;
+    border: none!important;
+    box-shadow: none!important;
+}
+[[/module]]
+
+[[div class="submissionsContainer"]]
+[[div class="submissions"]]
+Submissions
+[[size 150%]]
+= [#submissions ▼]
+[[/size]]
+[[/div]]
+[[/div]]
+
+@@@@
+[[image http://rpcauthority.wdfiles.com/local--files/new-frontier/Tombstone%20Map%20Art%20%28By%20Rota%29.png width="100%"]]
+
+The year is 1880. Still reeling from their newly found independence, the Authority rides a wave of newfound Catholicism into undiscovered territory in an attempt to tame the Last Stretch of the American Frontier. Hosted by brigands and strange individuals, a small saloon in the even smaller, newly-formed town of Tombstone, Arizona, is transformed into their makeshift base of operations: Their only method of identification being a series of secret codes and handshakes.
+
+A young Axton-Hornsby Exploration Society rises into prominence after their recent successes in acquisition for the Authority's European branches: given nearly no oversight, it sends exploration parties under several facade company charters in the United States. The Protectorate are pushed to their limits as they hunt anomalies into this unknown territory and offer contracts. All while "Concealment,"[[footnote]] The Series of Proto-Department referring to what is now the Containment Division. [[/footnote]] is chaotic as ever, continuing to catalog item manifests and establish newly private forts of operation across the wilderness. Many dangers lie on the road ahead, but one thing is certain: the Authority will have to learn to bend what it once held dear to survive or break in the process of keeping it in the face of a changing world.
+
+[[div class="paper-bg-4"]] 
+[[div style="background-image: url(http://rpcauthority.wdfiles.com/local--files/new-frontier/Painted%20Saloon%20Logo.png); background-size: contain; background-repeat: no-repeat; background-position: center;"]] 
+[[span class="drop-cap-fancy"]] W [[/span]]elcome to Tombstone, folks. If you've come here from out East or out West, or, god help you, from Europe or further afield, then I warn you; this place ain't gonna be like anything you've ever seen before. The War Between the States did a number on this country, and if you're expecting swanky offices or scientific equipment you won't find it out here. This is the frontier.
+
+[[div class="indent"]]
+After the War, all manner of strange things drifted out into 'open country. I'm not talkin' Indian shamans or bandits—they've always been here. No, I'm talking sinister things. Things 'forgotten that we never shoulda remembered. There's a band of anarchists calling themselves the //Malthusiae,// working strange experiments in dead towns, makin' ghosts of their own. For every church revival that does God's work, two more exist to spread things that shouldn't be spread. You'll see folk selling snake oil, and miracle cures, and deals with the Devil himself. Sometimes, they won't be folk at all. Sometimes they'll be other things, just pretending.
+
+We're out here with no support. Uncle Sam is barely toleratin' our presence. The Indians sure as hell don't want us here. But if we're not out pushing back the frontier, caging and stompin' down on the darkness, no one will. I don't care if you're North or South, white or 'colored—we're all fighting for the same thing out here. To keep this frontier sane.
+
+'Tombstone will be your base of operations. Your home away from home. If you're with Axton-Hornsby, you might know the drill already. The Expedition, and its parent organization, will do everything they can to keep you fed and housed and armed—in exchange, you go out there chasing rumors. You find the evil, the impossible, the devilish, and you trap it and bring it here so we can figure what the hell to do to it. You can't contain it? You kill it, so it can't hurt people who shouldn't be involved. Our people have set up forts and trade posts along the way, deep into Indian territory, but for the most part, you're on your own out there. Keep your wits about you.
+[[/div]] 
+
+[[div style="margin-left: 2em;"]]
+//— Excerpt from a speech by **Mose Currie,** Director of the Tombstone Expedition, 31 December 1879.//
+[[/div]] 
+[[/div]] 
+[[/div]]
+
+----
+
+[[=]]
++ Submissions Info
+[[/=]]
+
+##var(--primary-text-color)|**The New Frontier Event**:## Create an RPC, tale, or document centered around the American Wild West in its last stretch; Alternatively, check out one of the few (optional) "Rumors" that have been circling through the Grapevine to get a head start on your draft. The submission with the highest final rating will be the event winner. The top three articles will have their articles featured slots on the front page, with the top winner earning exclusive rights to a slot of their choosing. Those who do not win are encouraged to upload their submissions.
+
+You are also encouraged, but not required, to use the [http://rpcauthority.wikidot.com/new-frontier-format optional event format] to flavor your article so it better fits the time period. 
+
+**Submissions Open:**  September 20th.
+**Submissions Close:** October 31st.
+
+**Winners will be Announced:** November 7th.
+----
+[[size 125%]]The contest is over![[/size]]
+
+Congratulations to [[size 75%]][[*user bXluYW1lamVmZg]][[/size]] with the contest winning article:
+[[=]]
+[[size 75%]][[[rpc-435|RPC-435: Shadow at the Crossroads]]][[/size]] at 4.87 stars 
+[[/=]]
+[[size 80%]][[*user Almarduk]][[/size]] in second place with [[size 75%]][[[rpc-828| ANOMALIE OBSCURA NO.828]]][[/size]] at 4.62 stars
+[[size 80%]][[*user BetterMyButter]][[/size]] in third with [[size 75%]][[[The Trains We Rob]]][[/size]] at 4.4 stars. 
+
+Thank you to everyone who participated by entering submissions, giving critique and voting on pages. Winners of the contest will have their articles featured on the front page for two weeks. The contest may be over, but writing will continue. Make sure to check back for new entries in the future.
+
+----
+
+* To submit a written work upload your writing to the site under your chosen RPC slot and tag it with "new-frontier". If using the Optional Event Format, please also add the tag, "new-frontier-format."
+* To submit art or other media upload it to your desired page and tag it with "new-frontier-art".
+ * You may continue to contribute after submissions close, but only submissions submitted before this time will be eligible for winning.
+
+[[module NewPage size="30" tags="new-frontier-art art alternative-content" button="Create Art Entry"]]
+
+++ Rules
+* Submissions must match the theme in a justifiable way
+* Pre-existing drafts and articles may be entered; however, articles previously posted on the wiki must be rewritten and re-uploaded in order to be eligible for being featured.
+* Edits to works are allowed.
+* Do not cold post. Writing submissions must receive two pieces of feedback in the drafts forum.
+* Do not request people to change their vote on your entry, excessively push or pester people to rate it, or message an overtly substantial amount of people to read your entry such that it may provide you an unfair advantage.
+* Attempting to manipulate votes using alt accounts or other deceitful means will result in your entry being disqualified; you may also be barred from future events or banned from the site.
+
+[[collapsible show="► Open Bulletin: Miscellaneous Rumors" hide="▼ Close Bulletin: Miscellaneous Rumors" hideLocation="both"]]
+
+-----
+
+> Organize rest of Bounties in desc. order later.
+> [[div style="margin-left: 2em;"]]
+> //— Doug//
+> [[/div]]
+ 
+[[include component:image-block
+| name= http://rpcauthority.wdfiles.com/local--files/new-frontier/Bucket%20of%20Blood%20Advertisement%20Poster.png
+| caption=ㅤ
+| width=250px]]
+
+Field Staff, with the help of the Sheriff's Department, help to scrounge up a list of reported unusual sightings and curiosities—albeit, poorly maintained and often vague hearsay. Either investigated firsthand by Society dregs or put up for the bounty, every lead is at least considered: 
+
+[[div class="paper-bg-2"]] 
+"Reeves Gold Mine closed down 5 years ago for very little reason. In a town near the mountains, but there's been 'migration away from the old town for the past 4 years. Folks've stayed silent about it. ...'They seem terrified when asked about the mine specifically."
+[[div style="margin-left: 2em;"]]
+//— **William Duskin,** son of former Coal Miner//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-3"]] 
+"My Abuelita went missing for a few days and came back different. She’s a religious lady, but she’s been praying every day and constantly looking at the neighbor’s house. One of the ladies drowned herself with her kids there. Every night I think my Abuela is crying, but sometimes I hear it outside the house."
+[[div style="margin-left: 2em;"]]
+//— **Hector Osuna;** was inquiring about the name 'Askook'(?) outside Church Grounds//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-1"]] 
+"Lights in the Nevada desert have been seen roaming the skies. From what or why I don’t know. I usually try to hide when I see them." 
+[[div style="margin-left: 2em;"]]
+//— N/A//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-2"]] 
+Some folks around the far west are scared of the Grizzly Bears, Eagles, or Mountain Lions here in California. Me, though? I’m scared of what I saw in the mountains the other day. Bigger than a Wagon, bigger than any animal I’ve seen. 
+[[div style="margin-left: 2em;"]]
+//— Guy named **"Dusty";** was passing through the Saloon on his way East to meet his kids// 
+[[/div]] [[/div]]
+
+[[div class="paper-bg-4"]] 
+Some weird-looking salesmen just sold me medicine that ain't nothing but horse piss. He called his company “Amazing”. Now I don’t feel so good 'from it and need a doctor. 'Salesman had a really lazy eye and his left leg looked limp. 
+[[div style="margin-left: 2em;"]]
+//— **Stefano Lain,** Assistant Sheriff (Two Weeks before Disappearance)//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-4"]] 
+"I keep hearing some old drunk yelling 'Tengo Hambre' at night. But it doesn’t make sense. I live 6 miles away from town. But he sounds like he’s outside my door... Should have not moved to Oregon." 
+[[div style="margin-left: 2em;"]]
+//— **"Curtis,"** Retired Rancher//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-5"]] 
+"There’s a gunslinger whose gun seems to shoot people DEAD. But I don’t mean 'like they get shot and they hit the floor. I mean they get shot and all that’s left is their clothes." 
+[[div style="margin-left: 2em;"]]
+//— Curtis Wheeler: Gang member, two towns away.//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-3"]] 
+"Stay away from the coast! Was at the sea in the pacific, fishin' ten years ago. I thought I saw a giant man swimming there. But he didn’t have legs." 
+[[div style="margin-left: 2em;"]]
+//— **"Adrian,"** relative of Duskin Family (recently in town to see relatives)// 
+[[/div]] [[/div]]
+
+[[div class="paper-bg-2"]] 
+"Dead men walking. Really! As in corpses rising from their graves from Texas to Oregon. Don’t know why and don’t know how, but I reckon it might have to do with the towns in Arizona." 
+[[div style="margin-left: 2em;"]]
+//— **Joeseph Foreman,** practicing Mortician//
+[[/div]] [[/div]]
+
+[[div class="paper-bg-1"]] 
+"Missing person reports increase every year in 'San during the winter. Some even say they see more and more build-up year after year... [They] say California is called that because there [was a caliphate] there. But where the hell is it?" 
+[[div style="margin-left: 2em;"]]
+//— **Walter King,** Anthropologist native north of Kingston.//
+
+[[/div]] [[/div]]
+
+[[/collapsible]]
+
+[[div class="fancy-divider-2"]]
+----
+[[/div]]
+
+[[div style="gone"]]
+[[=]]
++ [[# submissions]] The New Frontier Submissions
+[[/=]]
+[[/div]]
+
+[[div class="left-column" div style="padding: var(--content-panel-padding); float: left; margin: 0px;"]]
+[[=]]
++++++ Wanted: Bounty
+[[/=]]
+[[module ListPages separate="no" category="*" tags="+new-frontier +rpc" perPage="100" order="created_at"]]
+* %%title_linked%% - [[size 75%]]**%%author%%**[[/size]]
+[[/module]]
+[[/div]]
+
+
+[[div class="right-column" div style="padding: var(--content-panel-padding); float: left; margin: 0px;"]]
+[[=]]
++++++ Recent Events:
+[[/=]]
+[[module ListPages separate="no" category="*" tags="+new-frontier +tale" perPage="100" order="created_at"]]
+* %%title_linked%% - [[size 75%]]**%%author%%**[[/size]]
+[[/module]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column" div style="padding: var(--content-panel-padding); float: left; margin: 0px;"]]
+----
+[[=]]
++++++ The Topical:
+[[/=]]
+[[module ListPages separate="no" category="*" tags="+new-frontier +document" perPage="100" order="created_at"]]
+* %%title_linked%% - [[size 75%]]**%%author%%**[[/size]]
+[[/module]]
+[[/div]]
+
+[[div class="right-column" div style="padding: var(--content-panel-padding); float: left; margin: 0px;"]]
+----
+[[=]]
++++++ Photography:
+[[/=]]
+[[module ListPages separate="no" category="*" tags="new-frontier-art" perPage="100" order="created_at"]]
+[[body]]
+* %%title_linked%% - [[size 75%]]**%%author%%**[[/size]]
+[[/body]]
+[[/module]]
+* [[[public-wanted-poster-of-james-vaunt | Public Wanted Poster Of James Vaunt]]] - [[size 75%]]**[[*user UndertheSun]]**[[/size]]
+[[/div]]
+
+~~~~
+
+@@ @@
+
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/new-frontier/Auctoritas%20Dirty%20Golden%20Sigil.png width="40%"]]
+[[/=]]
+
+@@ @@
+
+[[div style="font-size: 85%"]]
+[[collapsible show="► Event Credits" hide="▼ Event Credits"]]
+----
+++++++ A Special Thank You To:
+* **Event Directed By:** [[user Blairin]], [[user Croal]], [[user Fortunae]]
+* **Opening Exerpt By:** [[user Von Pincier]]
+* **Assets Creation By:** [[user televisionist]] (Paper Backgrounds; Textures), [[user Fortunae]] (The New Frontier Saloon Map; Edited Golden Emblem), 
+* **Theme & Coding By:** [[user televisionist]]
+* **"Rumor" Prompts By:** [[user Thermicline]]; Revised by [[user televisionist]]
+* **Brainstorming & Input From:** [[user Superspambot]], [[user Vizlox]]
+
+[[footnoteblock]]
+
+[[/collapsible]]
+[[/div]]
+

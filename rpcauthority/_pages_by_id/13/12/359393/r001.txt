@@ -1,0 +1,29 @@
+---
+title: "_forumtool"
+tags: []
+page_id: "1312359393"
+site: "rpcauthority"
+slug: "_forumtool"
+revision: 1
+revision_id: "1367045631"
+author: 3118961
+timestamp: 1626403566
+---
+
+[[module css]]
+.collapsible-block * {
+  display: block!important;
+}
+
+.collapsible-block {
+  padding: 15px;
+  border: 2px dashed var(--link-color);
+}
+
+.printuser img {
+  display: none;
+}
+[[/module]]
+
+[[module RecentPosts]]
+

@@ -1,0 +1,106 @@
+---
+title: "New Frontier Format"
+tags: ["format", "information"]
+page_id: "1324066697"
+site: "rpcauthority"
+slug: "new-frontier-format"
+revision: 29
+revision_id: "1462142466"
+author: 3638389
+timestamp: 1655668355
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:new-frontier-theme/code/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[div class="paper-bg-3"]] 
+[[=]]
+++ CONCEALMENT MANIFEST No.338:
+++++ Record of Acquisition of Anomalie Obscura
+[[/=]]
+ 
+[[div style="overflow-x:auto;"]]
+**Cargo Determination**:
+[[div class="identification-matrix"]]
+||~ Lethality||~ Concealment||~ Desirability||~ Priority||~ Status||
+||5||7||8 (Auctoritas)||4||B||
+[[/div]] [[/div]]
+
+[[span class="Merriweather"]] **Bounty Commissioner:** [[/span]]  ​Officer James Gacey
+[[span class="Merriweather"]] **Expedition Lead:** [[/span]]  ​Dr. Quinton James[[footnote]] Relevant Administrative/Directory Personnel (Officers, Expedition Leaders, etc.) change between abnormality and how it was either investigated or hunted. [[/footnote]]
+[[/div]]
+
+[[collapsible show="+ Explanation of Determination" hide="- Hide Explanation"]]
+
+All cargo received by the Frontier Authority is given a certain "Identification Matrix" in order to quickly ascertain the capabilities, usefulness, and status of the current abnormality in one short and quick Five-Character Code. Each Digit Corresponds to a different Rating on a scale of 1-10. For instance, the Identification Matrix for this is Abnormality is ¨5784B¨. 
+
+The first digit covers **Lethality,** or the threat an abnormality poses to human life. The average Lethality rating for every matrix code is 5, so you can determine that the lethality of this abnormality is about on par with most abnormalities, and is not especially lethal to the average person. 
+
+The second digit, **Concealment,** refers to how much of a threat abnormality poses to the veil of secrecy and how frequently it openly interacts with members of the public. The avg. is usually 7. Concealing abnormalities rated a 7 entails being very difficult for the resource strained Authority and means that concealment is above avg. in difficulty. 
+
+Third, **Desirability** is an abnormality's tendency to be wanted or coveted by other factions or groups. Generally, if a single person wants it, it's not warranted enough to put it above 5. You will usually include the faction that desires the item. For instance, the Apple of Eden would be a (10) for the Auctoritas, as they would ravenously pursue the Frontier Authority to reclaim the item. This is different than Authority Utilization for other projects.
+
+**Priority,** the fourth digit, is the number the Frontier Authority assigns to any abnormality they have heard about, whether it be through rumors, tips, or scouts. These generally determine the number of resources they will hand out for their reclamation. A high enough priority number could even get the commissioner off his ass to go get it himself. 
+
+The last, **Status**, is different, as it can't be categorized by a scale, and is made up of numbers that determine its current containment and location status.
+
+* A: Apprehended/Contained
+* B: In process of Containment/in transit
+* C: Loose or en Mass
+* D: Nullified
+
+[[/collapsible]]
+
+----
+
+[[include component:image-block
+| name=http://rpcauthority.wdfiles.com/local--files/new-frontier-format/blood.png
+| caption=The town of //Tombstone//.
+| width=200px]]
+
+++ Handling/Hunting Guide:
+
+A stand-in for Containment Protocol:[[footnote]] In a still rapidly industrializing world, it is more important to figure out how to hunt and capture abnormalities than develop large chambers for them. [[/footnote]] Describe how to best encounter/interact with said "abnormality" to ensure the safety of others or during capture. Use a mixture of first-hand accounts and bullet points to best times to approach an abnormality, its behavior, how to trigger it, and prevent it from harming civilians.
+
+At the end give a list of recommended supplies for future Personnel and Bounty Hunters to use.
+
+----
+
+++ Description & Encounter:
+
+List the main attributes. Preface where said personnel member met said abnormality and key details. Remember, this isn't a clinical document and more of a police report transcribing either a Hunter or a collection of Field Expedites' observations on a subject. Important details include dimensions, qualia, and abilities (either when undisturbed, when in contact with other people and/or victims, or when engaged directly in contact by Authority Volunteers).
+ 
+Lastly, inject a bit of personality into it and how its described when first encountered. 
+
+----
+
+++ Recountment of Sightings:
+Explain both the known history of the abnormality, how the Authority was made aware, known nickname or reflective myth, how it was contained, and how it has disrupted other's lives of others. While you are supposed to describe how first contact or confirmation was made, describe either how the abnormality was subdued.
+
+Utilize direct quotes, statements, and even first-person to communicate how the abnormality was subdued. This is also where you will see previously described abilities be utilized in conjunction with its environment. List the bounty payout to relevant parties at the end.
+
+----
+
+++ Storage & Utility:
+
+Here, a (credited) officer lists the steps taken to properly secure its abnormal cargo from both itself and any potential thieves, liberators, or otherwise malintent actors. A risk assessment is made by Protectorate Liason, as well as examined by members of Axton Hornsby for either future study or as ingredients in further occult research.
+
+Include a List of Relevant Personnel to the document at the end.
+
+[[div class="paper-bg-3"]] 
++++ Discernments
+
+If a commissioned officer makes observations or has further trouble with an abnormality post-hand-off, these comments will usually be separated into "Discernments". These can also include further developments of the abnormality that were not previously known when it was retrieved. 
+[[/div]]
+
+------
+
+++ Additional Things of Note:
+* Communication is significantly harder during this time period. Often these files are poorly maintained, copied, updated, and communicated between branches.
+* The 1800s Authority is much more frugal and pragmatic: It will still capture and subdue anomalies, but it must also maintain profit and further its knowledge into all things 'otherworldly.' 
+* Different Departments often hold Different Goals: Axton's first goal is to study and collect samples, and is often supported by Research Personnel in the more developed West. The Protectorate's first priority is identifying threats to local communities, paying out volunteers, and how best to engage. Concealment is concerned with how to best cover-up/nullify abnormal threats; capture if possible.
+* Use a much more looser style. Storytelling is the first priority of this format. Sprinkling excerpts, quotes, and letters between characters in the Manifest are highly encouraged. (Primary Document Examples of the Tone are located in the discussion.)
+

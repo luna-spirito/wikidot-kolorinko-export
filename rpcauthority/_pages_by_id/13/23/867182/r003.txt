@@ -1,0 +1,295 @@
+---
+title: "Special Class & Hazard Box Guide"
+tags: ["guide"]
+page_id: "1323867182"
+site: "rpcauthority"
+slug: "special-box-guide"
+revision: 3
+revision_id: "1544504068"
+author: 5982545
+timestamp: 1780865472
+---
+
+//Designed with hilarious incompetence by [[*user Almarduk]], using code borrowed from [[*user 0ktober]]'s [*http://rpcauthority.wikidot.com/component-hazards-guide Hazards component]. Turned from an indecipherable ball of code into a component by [[*user TTPY]].//
+
+------
+
+This piece of formatting replaces the normal top of the page -- Object Class and Hazard types -- and packs them neatly in a box. It's a little more difficult to learn than the regular formatting, but should also prove far more convenient.
+
+Here's a functioning example:
+
+[[div class="content-panel"]]
+
+> [[include :rpcauthority:component:special-box number=200|
+> object-class=Gamma|
+> lethality-rating=White|
+> symbol=gamma-white|
+> tychokinetic=true|
+> incorporeal=true|
+> immeasurable=true|
+> divine=true|
+> sentient=true|
+> toxic=true|]]
+
+
+[[include :rpcauthority:component:special-box number=200|
+object-class=Gamma|
+lethality-rating=White|
+symbol=gamma-white|
+tychokinetic=true|
+incorporeal=true|
+immeasurable=true|
+divine=true|
+sentient=true|
+toxic=true|]]
+
+[[/div]]
+
+Now, to explain each part.
+
+[[div class="content-panel"]]
+
+> number=200|
+
+This will display the number that you'd like to see. You can also input letters and other characters if you want, for whatever reason.
+
+> object-class=Gamma|
+> lethality-rating=White|
+
+These are just the words you'd like to see in the **Object Class:** and **Lethality Rating:** slots. You can type anything in here as well, but normally you'd want it to match the Object Class image. Remember to Capitalize these!
+
+> symbol=gamma-white|
+
+This corresponds to the Object Class image. It accepts anything from Alpha-White to Omega-Black, plus the Research Tone classes. **Do NOT capitalize this variable!**
+
+[[collapsible show="+ Research Tone" hide="- Close"]]
+
+------
+
+[[include :rpcauthority:component:special-box number=577|
+object-class=Object|
+lethality-rating=White|
+symbol=object-white|
+tychokinetic=regenerative|]]
+
+To use this, simply change the normal Object Classes...
+
+> [[include :rpcauthority:component:special-box number=577|
+> object-class=Alpha|
+> lethality-rating=White|
+> symbol=alpha-white|
+> tychokinetic=regenerative|]]
+
+... With any Research Tone class.
+
+> [[include :rpcauthority:component:special-box number=577|
+> object-class=Object|
+> lethality-rating=White|
+> symbol=object-white|
+> tychokinetic=regenerative|]]
+
+The Research Tone includes classes "Object", "Entity", "Human", "Location" and "Other". You can find more information on how the Research Tone works [*http://rpcauthority.wikidot.com/research-tone here].
+
+------
+
+[[/collapsible]]
+
+> tychokinetic=true|
+
+This is for any number of Hazards or Additional Properties you'd like to use. You can add as many or as little as you want, but I recommend keeping the number low -- this component doesn't look as good when there's too many of them. Here's a full list of usable hazards, taken from [*http://rpcauthority.wikidot.com/component-hazards-guide this] page.
+
+[[collapsible show="+ Full list of usable hazards" hide="- Close"]]
+
+aggression
+animated
+aquatic
+ballistic
+climatological
+ecological
+extra-terrestrial
+geological
+grouped
+incorporeal
+mechanical
+microscopic
+organic
+psychotronic
+regenerative
+sapient
+replicating
+sentient
+titanic
+transmutation
+invisibility
+bio-hazard
+contact
+corrosive
+electromagnetic-force
+explosive
+extreme-temperature
+radiation
+toxic
+destabilization
+extra-dimensional
+gravitational
+immeasurable
+newtonian
+temporal
+teleportation
+tychokinetic
+auditory
+emotional
+ideological
+info-hazard
+memory-alteration
+mind-control
+mind-regression
+ontological
+sensory
+visual
+digital
+divine
+hallucinogen
+high-velocity
+proto-mechanical
+proto-newtonian
+proto-sapient
+
+[[/collapsible]]
+
+The code used for the hazard images is a slightly modified copy of the Hazards Component described in that page, designed by [[*user Vizlox]].
+
+[[/div]]
+
+**Bonus:** Any image included in the [*http://rpcauthority.wikidot.com/component:icons Icons] component will also work for the "symbol" variable (most of which I see no reason to use). See bottom of page -> files for a full list of names. Some examples:
+
+[[collapsible show="+ Bonus Formatting" hide="- Close"]]
+
+[[div class="content-panel"]]
+
+**Blue, Green, Default & Old Yellow Object Classes:**
+
+[[include :rpcauthority:component:special-box number=69096|
+object-class=Alpha|
+lethality-rating=Green|
+symbol=alpha-green|
+newtonian=true|]]
+
+[[include :rpcauthority:component:special-box number=96069|
+object-class=Alpha|
+lethality-rating=Blue|
+symbol=alpha-blue|
+hallucinogen=true|]]
+
+[[include :rpcauthority:component:special-box number=06090|
+object-class=Alpha|
+lethality-rating=N/A|
+symbol=alpha-default|
+divine=true|]]
+
+[[include :rpcauthority:component:special-box number=09060|
+object-class=Alpha|
+lethality-rating=Yellow|
+symbol=old-alpha-yellow|
+proto-sapient=true|]]
+
+> [[include :rpcauthority:component:special-box number=69096|
+> object-class=Alpha|
+> lethality-rating=Green|
+> symbol=alpha-green|
+> newtonian=true|]]
+> 
+> [[include :rpcauthority:component:special-box number=96069|
+> object-class=Alpha|
+> lethality-rating=Blue|
+> symbol=alpha-blue|
+> hallucinogen=true|]]
+> 
+> [[include :rpcauthority:component:special-box number=06090|
+> object-class=Alpha|
+> lethality-rating=N/A|
+> symbol=alpha-default|
+> divine=true|]]
+> 
+> [[include :rpcauthority:component:special-box number=09060|
+> object-class=Alpha|
+> lethality-rating=Yellow|
+> symbol=old-alpha-yellow|
+> proto-sapient=true|]]
+
+
+**Old Object Classes:**
+
+[[include :rpcauthority:component:special-box number=866|
+object-class=Epsilon|
+lethality-rating=Black|
+symbol=epsilon-black|
+ontological=true|]]
+
+[[include :rpcauthority:component:special-box number=349|
+object-class=Neutralized|
+lethality-rating=N/A|
+symbol=neutralized|
+high-velocity=true|]]
+
+[[include :rpcauthority:component:special-box number=349|
+object-class=Theta|
+lethality-rating=White|
+symbol=theta-white|
+electromagnetic-force=true|]]
+
+> [[include :rpcauthority:component:special-box number=866|
+> object-class=Epsilon|
+> lethality-rating=Black|
+> symbol=epsilon-black|
+> ontological=true|]]
+
+> [[include :rpcauthority:component:special-box number=349|
+> object-class=Neutralized|
+> lethality-rating=N/A|
+> symbol=neutralized|
+> high-velocity=true|]]
+
+> [[include :rpcauthority:component:special-box number=349|
+> object-class=Theta|
+> lethality-rating=White|
+> symbol=theta-white|
+> electromagnetic-force=true|]]
+
+
+//Neutralized has no colors, but Theta has all the normal colors plus Default, Old Yellow, Green, and Blue, and Epsilon has all the normal colors plus Default and Old Yellow.//
+
+**Eskalion?!**
+
+[[include :rpcauthority:component:special-box number=000|
+object-class=Eskalion|
+lethality-rating=White|
+symbol=eskalion-purple|
+mind-regression=true|]]
+
+> [[include :rpcauthority:component:special-box number=000|
+> object-class=Eskalion|
+> lethality-rating=White|
+> symbol=eskalion-purple|
+> mind-regression=true|]]
+
+**Just about anything, honestly...**
+
+[[include :rpcauthority:component:special-box number=cheese|
+object-class=WHAT|
+lethality-rating=no way|
+symbol=h-explosive|
+explosive=true|]]
+
+> [[include :rpcauthority:component:special-box number=cheese|
+> object-class=WHAT|
+> lethality-rating=no way|
+> symbol=h-explosive|
+> explosive=true|]]
+
+
+
+[[/div]]
+
+[[/collapsible]]
+

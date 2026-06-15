@@ -1,0 +1,214 @@
+---
+title: "RPC-200"
+tags: ["gamma", "immeasurable-hazard", "incorporeal-hazard", "rpc", "translated", "tychokinetic-hazard", "uncontained", "white"]
+page_id: "1313391282"
+site: "rpcauthority"
+slug: "rpc-200"
+revision: 17
+revision_id: "1525461522"
+author: 5197199
+timestamp: 1729921911
+---
+
+[[module css]]
+
+@import url(http://rpcsandbox.wikidot.com/component:uhhhhhhh2/code/1);
+
+.blockquote {
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+[[/module]]
+
+[[include component:rate title=rpc-200 | translations=show | translationblock=[[image http://rpcauthority.wdfiles.com/local--files/component:icons/cn.png link="https://rpc-wiki-cn.wikidot.com/rpc-200"]]]]
+
+[[include :rpcauthority:component:special-box number=200|
+object-class=Gamma|
+lethality-rating=White|
+symbol=gamma-white|
+tychokinetic=true|
+incorporeal=true|
+immeasurable=true|]]
+
+------
+[[include component:image-enlarge name=http://rpcauthority.wdfiles.com/local--files/rpc-200/gratio3.jpg|caption= Digital RPC-200-A instance recovered from a private messaging service. |width=233px|align=right]]
+
+**Containment Protocols:** Datasets known to induce RPC-200 are to be stored in Site-094, together with an archive of RPC-200-A instances detected.
+
+By recommendation of the Department of Cryptology, automated warning systems are now equipped with anti-spam protection. New ANDSoft programs are to include a priority system to prevent an excess of warning messages: detected anomalies with priorities lower than 5 may not create a unique warning message. Instead, they are compiled every 12 hours and distributed to the relevant Sites.
+
+Furthermore, new datasets may not be fed to ANDSoft instances directly: virtual machines running dummy copies of ANDSoft programs are to be used to ensure RPC-200 infections may not occur.
+
+Targets flagged by ANDSoft programs that are justified only by inclusion of the golden ratio or Fibonacci sequence are to be reported to the Department of Cryptology. Instances are then to be retrieved from their devices along with archived datasets for investigation.
+
+Research regarding RPC-200's potential predictive qualities is ongoing, as are capture operations targeting coordinates indicated by AND-13-ASIA prior to its failure. A potential relationship with [[[RPC-244]]] is being investigated.
+
+------
+
+**Description:** RPC-200 is an anomalous phenomenon affecting the behavior of a specific instance of the Authority Anomalous Numerology Detection Software version 1.1 (ANDSoft v.1.1), hosted on a machine within ASIACOM Site-235 for the purposes of monitoring eastern Asia. This affected behavior primarily consists of an abnormal propensity to improperly flag items, locations, entities and other non-anomalous phenomena (hereon referred to as "targets") and denoting them to be "most likely anomalous",[[footnote]] Out of four potential results: "most likely non-anomalous," "inconclusive," "most likely anomalous," and "insufficient data." Modern variants are capable of providing percentage ranges.[[/footnote]] then alerting ASIACOM personnel.
+
+Targets flagged as "most likely anomalous" due to RPC-200 are designated RPC-200-A and have two identifying characteristics:
+
+# Any flagged target may or may not be anomalous (Probability of the target being correctly identified as anomalous is no greater than chance: p > 0.0081 on the 2012 ANDSoft testing sheet)[[footnote]] Based on the Anomalous Activity Curve developed by [REDACTED]. For comparison, ANDSoft v.1.1's operating range is p ≈ 32. [[/footnote]]
+# The value or relationship referenced as anomalous in ANDSoft's final report is either equivalent to the golden ratio[[footnote]] 1.618033(...). Also represented as [[$ \varphi$]] [[/footnote]] or includes at least four sequential Fibonacci numbers[[footnote]] The Fibonacci sequence is a list of numbers of which each member is the sum of the two preceding numbers. The sequence starts as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144. _
+ _
+Individual members are notated as [[$ F_n$]], where [[$ _n$]] is its place in the sequence. For example, [[$ F_5=3$]].[[/footnote]]
+
+
+RPC-200 first came to exist in the instance of ANDSoft v.1.1 currently active on Site-235, identified by the serial AND-13-ASIA, which remains the single active ANDSoft instance that displays RPC-200. This instance first began showing signs of RPC-200 on 4:55 (GMT+8) 07 August 2004, following a routine scan of violent incident statistics in which it flagged Russian civilian Maxim Akimov as "most likely anomalous."
+
+[[include component:image-enlarge name=http://rpcauthority.wdfiles.com/local--files/rpc-200/gratio2.jpg|caption= First eight members of the Fibonacci sequence, squared.|width=377px|align=left]]
+
+AND-13-ASIA specifically referenced Akimov's ID number as anomalous, as it included the numbers "565," "13," and "493," which, when separated in two terms (5651 and 3493) then divided by each other ([[$ \frac{5651}{3493} $]]), approximate the golden ratio. Neither he, his physical ID, his ID number, nor any other associated persons and items were found to be anomalous.
+
+When rebooted for an attempted update that day, AND-13-ASIA was made to process its archived datasets, retroactively flagging  ████ past targets as "most likely anomalous," of which 987 were immediately identified to be instances of RPC-200-A. [[footnote]] The earliest of these was identified in the dataset for the year 1026, and the latest in 1970. [[/footnote]]
+
+------
+
+**Addendum 200-2:** It has been confirmed that AND-13-ASIA acquired RPC-200 as a result of the interaction between its neural network system and an unknown number of separate datasets.[[footnote]] ANDSoft datasets include regional statistical information and internal Authority operation logs collected over the course of two months. [[/footnote]] Its operating history shows that it first obtained an approximation of the golden ratio when processing a dataset obtained in 1970, which included measurements for a fossilized shell of //Nautilus belauensis//.
+
+When first obtaining the golden ratio, AND-13-ASIA established the ratio's presence in future calculations as a possible cause for concern, but did not identify the number itself as anomalous. It later established a relationship between the golden ratio and Fibonacci sequence as a result of financial reports included as part of another 1970 dataset, which employed a technique named "Fibonacci retracement."[[footnote]] A method of technical analysis employed to determine when a given asset will begin to rise or fall in price. [[/footnote]]
+
+After encountering a total of 3337 further instances of either the golden ratio or a Fibonacci sequence, it began considering new appearances as statistically unlikely: this is uncharacteristic of ANDSoft, as particular care had been taken during programming to rule out common mathematical patterns such as pi. Attempted corrections have been ineffective: RPC-200 develops again when the system is rebooted.
+
+What provoked AND-13-ASIA to flag Maxim Akimov's ID number as an instance of RPC-200-A is still unknown, as is its reason to begin considering other appearances of the golden ratio or Fibonacci sequence as anomalous. No new RPC-200-A instances have been flagged since RPC-200 was initially identified.
+
+**Addendum 200-6:** RPC-200 has been successfully replicated in other ANDSoft instances across 12 versions, allowing its causes to be isolated to at least four datasets, of which three are dated 1970 and one 2004. When together, these datasets are capable of inducing RPC-200 in any ANDSoft version, provided it possesses a machine learning algorithm: miniaturized/basic instances installed in personal devices or database terminals are unaffected by the anomaly.
+
+Of note, all instances of ANDSoft that display RPC-200 invariably flag the exact same targets as "most likely anomalous." A list of 1597 targets have been verified to be RPC-200-A instances, and have been compiled for future reference.
+
+------
+
+[[collapsible show="        ⚪ Open RPC-200-A Examples" hide="        ⚫ Close File"]]
+[[div class="blockquote"]]
+
+~~~~
+
+**200-A Number:** 10
+
+[[include component:image-enlarge name=http://rpcauthority.wikidot.com/local--files/rpc-200/gratio1.jpg|caption= Spiral aloe flagged as an RPC-200-A instance.|width=223px|align=right]]
+
+**Description:** A crop of //Aloe polyphylla// (Spiral aloe)
+
+**Characteristic Flagged:** One budding aloe has a total of 98 leaves, while three others have 71, 59 and 72 respectively, all of which are numbers that appear consecutively in the Fibonacci sequence. 
+
+As these leaves are organized in a spiral pattern around the bud, each row increases in distance from the bud: the first five rows of another aloe in the same crop were found to increase in distance by a factor of the golden ratio.
+
+------
+
+**200-A Number:** 584
+
+**Description:**  4 cars involved in a [*http://rpcauthority.wikidot.com/rpc-244 street crash] in the Kashmir province.
+
+**Characteristic Flagged:** All four cars were aligned in an 18m line immediately prior to the crash, with the middle car approximately 13m away from the front car and 5m away from the tail car. When divided ([[$ \frac{13}{5} $]]) the result approximates the golden ratio.
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+Notably, RPC-200-A instances can only be found in datasets belonging to the years 1026, 1644, 1880, 1997 and 2004. Considerably fewer instances are identified in earlier years, presumably due to the minimal amount of records belonging to them.
+
+All ANDSoft instances displaying RPC-200 have been terminated, save for AND-13-ASIA: it has been uniquely modified to accommodate for containment obligations related to RPC-244 and 16 other anomalies. Such modifications have been unexpectedly difficult to adapt to more advanced versions of ANDSoft, and no countermeasures for RPC-200 currently exist.
+
+Attempts to repair AND-13-ASIA and prevent RPC-200 from occurring in other ANDSoft instances are --considered a tertiary priority-- cancelled due to extended RPC-200 inactivity during half a decade.
+
+**Addendum 200-7:** On 04 June 2017, AND-13-ASIA began showing signs of RPC-200 again. Between 6:50 and 10:00 PM, AND-13-ASIA reported 2584 new instances of RPC-200-A, saturating ASIACOM's alert system for twenty minutes before it was disconnected from the Authority intranet.
+
+New analyses of RPC-200 were performed, allowing to discover two related phenomena:
+
+# AND-13-ASIA's physical storage has been repeatedly partitioned in increasingly small increments, where each new increment is the golden ratio of the last.[[footnote]] I.e. if the last partition is 2000 bytes in size, the new partition will be 560B. [[/footnote]] These partitions have been performed automatically and went unreported, cutting through AND-13-ASIA's 10TB storage over the last decade. 
+# RPC-200-A instances have been confirmed to be flagged in increasing numbers that correspond with the Fibonacci sequence. Increments can only happen on specific dates,[[footnote]] I.e. 1597 instances were flagged in 2004, corresponding with [[$ F_{17}$]], and 2584 in 2017, corresponding with [[$ F_{18}$]] [[/footnote]] which have been determined to occur in increments that correspond with successive segments at which the golden ratio is obtained in 1000, added to the initial year of RPC-200-A discovery. [[footnote]] For instance, the golden ratio of 1000 is obtained at 618, leaving a remainder of 382. The former is added to 1026, resulting in 1644. The latter is subjected again to the same process. This is more formally expressed as follows: _
+ _
+Let [[$ \varphi=1.618033...$]], and [[$ a_0=1000$]]: _
+ _
+[[$ a_{n} = \frac{a_{(n-1)}}{\varphi+1}\varphi + 1026$]]
+[[/footnote]] 
+
+This has allowed Site-094's Cryptology Department office to deduce that new RPC-200-A instances will be flagged in the years 2022, 2024 and 2025. RPC-200-A discoveries represent an exponential growth curve[[footnote]] Although a few researchers have instead proposed that the phenomenon may instead be better visualized as a spiral, closing to its center as 2025 approaches. [[/footnote]] that will reach its asymptote by late July 2025: as the year progresses, appearances will occur monthly, then weekly, daily, etc., with the amount of RPC-200-A instances flagged each time gradually approaching infinity.
+
+This will provoke AND-13-ASIA to run out of memory, forcing the system to shut down. While this is considered an acceptable risk, subsequent versions of ANDSoft that acquire RPC-200 may instantaneously consume all available memory and send potentially hundreds of thousands of anomaly reports, temporarily collapsing Authority warning systems and provoking further memory-related issues.
+
+[[include component:image-enlarge name=http://rpcauthority.wdfiles.com/local--files/rpc-200/gratio6.jpg|caption=Graphic representation of RPC-200-A instance increases.|width=610px|align=center]]
+
+The Department of Cryptology has recommended the following contingency measures, as approved by GD-ASIA:
+
+# A replacement for AND-13-ASIA is to be developed 
+# Future ANDSoft devices may not be directly fed new datasets
+# New datasets are instead to be tested in dummy ANDSoft instances to prevent unexpected RPC-200 infections
+# Infected datasets are to be archived and tested in search for isolated data fragments capable of inducing RPC-200
+# Spam-prevention protocols are to be implemented in various Authority intranet warning systems should the prior measures be insufficient
+# The potentially anomalous relationship between machine-learning algorithms and the golden ratio/Fibonacci sequence is to be investigated
+# In order to investigate the nature of RPC-200, AND-13-ASIA will remain active and disconnected from the Authority intranet until December 2025
+
+------
+
+[[collapsible show="        ⚪ UPDATE: 07 July 2025 [CLASSIFIED LV 3R]" hide="        ⚫ Close File"]]
+[[div style="background-color: #1d2022; color: #c0c0c0; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+[[=image http://rpcauthority.wikidot.com/local--files/component:research-theme/researchlogo.png width="80px"|align="center"]]
+
+------
+
+= [[size 130%]] >> RPC-200 Report Dec. 2025 << [[/size]]
+= [[size 120%]] Dpt. of Cryptology [[/size]]
+
+------
+
+Although AND-13-ASIA proceeded as expected in the months prior to July 2025, it began displaying extensive sequences of numbers at the beginning of the month. These were quickly discovered to be a set of 60 coordinates, including its own location, organized in a circle. 
+
+Further number sequences continued to be received as the month progressed, in-between RPC-200-A flags. These sequences only included numbers from 1 to 60: when interpreted to correspond to the aforementioned coordinates and graphically represented with connecting lines, it was discovered that the resulting images coincided with visual representations of Fibonacci sequences multiplied by 10 and reduced by increasing modulus.[[footnote]] The modulo operation is a variant of the division operation that returns the remainder of a division rather than the quotient. I.e. [[$ 14 \bmod 5=4 $]][[/footnote]]
+
+These representations follow the system of modular arithmetic, in which numbers "wrap around" after reaching a certain value, forming a circle.[[footnote]] The most common example of which is a 12-hour clock: upon reaching 12, the following number will be 0. This is referred to as "arithmetic modulo 12." Possible values are organized around a circle in equidistant points. [[/footnote]] A major irregularity is that every coordinate sequence started at AND-13-ASIA's coordinates, corresponding with the number 5, then proceeded with the expected Fibonacci sequence. 
+
+Upon concluding the coordinate set for modulo 60, two further sets were received that did not correspond with a Fibonacci sequence. The first drew a five-pointed star starting at AND-13-ASIA's coordinates, and the second is --still undeciphered-- corresponds to the celestial coordinates of the constellation Sagittarius. Immediately after these last coordinates, AND-13-ASIA suffered a catastrophic memory error and crashed. Attempts to reactivate it have so far been unsuccessful.
+
+An investigation of the physical locations referenced in the modulo 60 drawing encountered significant anomalies at each of the 60 coordinates received and intersecting points of its graphical representation. For the first 48 hours after initial contact, the aforementioned areas were the focal points of an anomaly that geometrically increased the strength of local gravity in a manner inversely proportional to the distance from their center. Gravitational intensity gradually returned to normal thereafter.
+
+Immediately surrounding areas displayed other unusual properties: wind currents appeared to follow spiral motions at times, plants grew outward in spiral shapes, animals would spontaneously walk in outward-growing spiral motions for minutes at a time, etcetera.
+
+Further unique anomalous phenomena/items were located close to some of the locations of interest previously described once the gravitational anomalies faded, totaling 35 at the time of writing. Further investigatory missions are currently being planned, based on other graphics received from AND-13-ASIA.
+
+Further tests with RPC-200 have shown that the amount of RPC-200-A instances per discovery has begun decreasing after 2025, while the time between discoveries has begun increasing, both in patterns inverse to the exponential increase preceding July 2025.
+
+AND-13-ASIA's behavior before its crash remains to be fully explained. It is currently believed that the interaction with RPC-200 allowed it to perceive a pattern linking the phenomenon with the future geographical location of the aforementioned anomalous phenomena, most likely doing so via a relationship with the golden ratio or Fibonacci sequence.[[footnote]] The unique nature of these anomalies is still being explored: a general tendency to possess spiral shapes or be spiral-related phenomena has been registered. It is possible they are intrinsically related to the golden ratio or Fibonacci sequence. [[/footnote]] It is likely the extreme conditions of its crash have prevented any meaningful internal reports from being constructed, making such a pattern potentially impossible to investigate.
+
+Its knowledge of its own coordinates is considered particularly worrisome. This information is not available anywhere within previously-fed datasets, potentially signifying it deduced its own location and thus implying a degree of self-awareness that it did not previously have.
+
+Research regarding RPC-200's potential predictive qualities is underway.
+
+[[include component:image-enlarge name=http://rpcauthority.wdfiles.com/local--files/rpc-200/gratio5.jpg|caption=Final drawing produced by AND-13-ASIA. Black line represents connection between first two coordinates. |width=500px|align=center]]
+
+~~~~
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="color: #c8c8c8; margin: 10px; padding: 10px; border: #666666 1px solid; background: #242424; border-left: #666666 10px solid;"]]
+[[=]]
+[[size 110%]] [[collapsible show="» Footnotes «" hide="« Footnotes »"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-199]]] | RPC-200 | [[[RPC-201]]] >>
+[[/=]]
+

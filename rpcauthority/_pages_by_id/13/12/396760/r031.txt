@@ -1,0 +1,395 @@
+---
+title: "RPC-947"
+tags: ["alpha", "auditory-hazard", "bio-hazard", "black", "co-authored", "mechanical-hazard", "memory-alteration-hazard", "organic-hazard", "rpc", "toxic-hazard"]
+page_id: "1312396760"
+site: "rpcauthority"
+slug: "rpc-947"
+revision: 31
+revision_id: "1390115717"
+author: 5716946
+timestamp: 1646566553
+---
+
+[!--Image source; https://pixabay.com/photos/floor-gang-corridor-pforphoto-past-5030132/--]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:financial-theme/code/1);
+@import url(http://rpcsandbox.wikidot.com/component:uhhhhhhh2);
+
+:root {
+    --header-background: url(http://rpcsandbox.wdfiles.com/local--files/satoshi/goldheader3);
+}
+
+.blockquote {
+  padding: 1px 10px;
+  margin: 12.8px 40px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+
+[[/module]]
+
+[[>]]
+[[collapsible show="+ Show rating" hide="- Hide rating"]]
+[[include component:rate title=rpc-]]
+[[/collapsible]]
+[[/>]]
+
+@@@@
+[[include :rpcauthority:component:special-box number=947|
+object-class=Alpha|
+lethality-rating=Black|
+symbol=alpha-black|
+mechanical=true|
+organic=true|
+bio-hazard=true|
+toxic=true|
+auditory=true|
+memory-alteration=true|]]
+
+------
+
+**Containment Protocols:** RPC-947 is to be perimetered by steel chain-link fencing topped with anti-climb, thorn-barbed wire. Two sentinel personnel are to guard the remaining intact entry/exit into RPC-947 at its interior. No medical supplies capable of interacting with RPC-947-1 are to be present in the building at any time.
+
+Trespassers are to be detained and questioned with a low threshold for amnesticization.[[footnote]]Highly visible and/or influential members of public organizations, private institutions, and nation-state governments are to be subject to a more careful chemosurgical amnesticization prior to release, to prevent catastrophic information loss.[[/footnote]] The conspicuous presence of RPC-947 is to be explained under the cover story of a historical restoration project.
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/rpc-947/westpavilion.jpeg|caption=West Pavilion, RPC-947]]
+
+Authority Administration is to resist any and all direct attempts to influence RPC-947-1, no matter the perceived necessity. 
+
+Discussion of RPC-947-1 between Authority Administration and the Office of Financial Affairs requires approval from >51% of governance votes.[[footnote]]A tokenized governance system is being piloted in these departments to allow anonymous and democratic processes with regard to certain institutional directives.[[/footnote]] 
+
+Any approved discussion is to be conducted in controlled circumstances, with full video and audio recording, which will then be stored on the Authority-native blockchain.[[footnote]]A database that is tamper-proof.[[/footnote]] 
+
+~~~~
+
+As of 2015, a moratorium on testing has been ordered via governance vote, given that RPC-947-1's effects are sufficiently elucidated; this may be lifted with a new >51% vote. 
+
+Due to the complex, highly technical, obscured, and multifaceted nature of the financial system in question, further activity and documentation has been delegated to the purview of the Office of Financial Affairs.[[footnote]]OFA has added footnotes, ##gold| in yellow##, to help summarize technical ideas.[[/footnote]] A dedicated MST (Charlie-13, "Buyers of Last Resort") is to be formed at the office's discretion.
+
+-----
+
+**Description:** RPC-947 is an abandoned hospital building located between ████ and ████ Wall Street, New York City, New York, made aware to the Authority in early 2009. No records of its construction, use, or abandonment exist. However its architectural design points toward a relatively recent construction of no later than 1971. The discrepancy between its apparent construction and the Authority's recognition of it prompted scrutiny of a potentially anomalous nature.
+
+RPC-947 is mostly devoid of any equipment and supplies: it has been vacated for an indeterminate amount of time, as evidenced by its apparent structural decay and numerous fungal growths extending throughout its derelict water installations. Despite its disrepair, no attempts to inspect, renovate, restore, or demolish RPC-947 are known to have taken place.
+
+Upon discovery, copious amounts of currency in poor condition were found dispersed throughout RPC-947. Currency types ranged from official country-backed denominations (i.e. United States dollars, European Union euros, Argentinian pesos, etc.) to commonplace bartering items (i.e. cigarettes, foodstuffs, various digital devices)[[footnote]]No fingerprints or manufacturer's marks were identified on these items, which were stored for possible designation as [*http://rpcauthority.wikidot.com/catalog-of-lesser-anomalous-items lesser anomalous items].[[/footnote]] to falsified or disused denominations, universally shredded, burned or naturally decayed to the point of unusability.
+
+RPC-947-1 is a lone IV infusion pump[[footnote]]A high-volume peristaltic pump, in which a set of rollers compress a flexible IV tubing, propelling fluid forward. The device is a staple of medical technology in areas of patient care, used to persistently or intermittently deliver fluids, medications, and blood products to patients via intravenous access.[[/footnote]] within RPC-947's emergency ward. RPC-947-1 is anomalously powered and rests on a mobile, chrome plated steel pole (commonly called an "IV pole"), and is found outside RPC-947-2. 
+
+RPC-947-2 is a patient room (P153) on the west pavilion of RPC-947, assumed to be an operating theater.[[footnote]] Nick-named "black room" by maintenance staff. Based on the equipment therein, this operating theater was likely intended for Level 1 trauma cases.[[/footnote]] RPC-947-2 is inaccessible; its handle is unable to be turned and the door is fused to its frame by an unknown sealant, save for two 1 cm holes at its base. Means of disrupting the door to the extent that the surrounding structure can tolerate have been perpetually frustrated. Radar pulses trained at the door and the presumed room beyond are anomalously deflected, the scans unrevealing. 
+
+A fluid is found in a bag hanging from the IV pole and this fluid fills the tubing that runs through RPC-947-1. Testing concludes that the fluid is mundane saline.[[footnote]]Salt water[[/footnote]] The system delivers the fluid from the bag, through RPC-947-1, and through an additional 3 meters of tubing which disappears beneath the door of RPC-947-2 through the aforementioned 1 cm holes. The screen of RPC-947-1 does not reveal any useful information as to the nature or rate of this infusion, as the cell light is burned out, resulting in no display. However, calculating the rate of drip of the IV fluid and assuming a full 10 liter bag at initial conditions, it has been deduced mathematically that the infusion has been running since September 2008.[[footnote]]##gold|On September 15, 2008, global financial services firm Lehman Brothers declared bankruptcy. This marked the culmination of the 2007-2008 financial crisis.##[[/footnote]]
+
+The amount of fluid in RPC-947-1 directly correlates to the status of certain abstract economic factors throughout the developed world, generally precipitating economic crashes, bubble bursts and other unfavorable outcomes when low in fluid and preventing them when refilled. The mechanism by which this influence is exerted is poorly understood, but the following factors are strongly believed to have a direct relationship with the fluid level of RPC-947-1:
+
+[[collapsible show="+ Expand List" hide="- Minimize"]]
+> # Loan interests/bond yields^^*^^[[footnote]]##gold|How much a borrower has to pay and a loaner gets back from loans.##[[/footnote]]
+> # National treasury issuance[[footnote]]##gold|An official I.O.U. from a national treasury in order to utilize a person or entity’s contributed money, such as in the creation of new money by private central banking corporations, e.g. The Federal Reserve.##[[/footnote]]
+> # Convertibility relationships between currencies^^+^^
+> # Market cap of precious metals^^*^^[[footnote]]##gold|I.e. gold, silver, platinum, palladium.##[[/footnote]]
+> # Total assets of central banks, federal and global[[footnote]]##gold|How rich these entities are.##[[/footnote]]
+> # Total GDPs[[footnote]]##gold|Gross domestic product, can be thought of as a nation’s yearly salary.##[[/footnote]]
+> # National debts[[footnote]]##gold|All new money is born from newly issued debt, new I.O.U.s.##[[/footnote]]
+> # Ratio of National debt:GDP[[footnote]]##gold|Increases when there is more debt than is brought in by GDP, e.g. the United States has a current national debt of ~28 trillion USD, while its GDP is ~22 trillion USD. There is a lower likelihood of escaping debt as this ratio increases, as a nation who controls the world currency reserve, e.g. the USD, would need to issue new debt in order to create new money to pay it back with, thereby perpetually increasing the debt beyond the available money supply.##[[/footnote]]
+> # Tax rates[[footnote]]##gold|Historically, tax rates have increased with national debt to help pay it back.##[[/footnote]]
+> # Inflation indexes[[footnote]]##gold|Numbers that represent the reduction of purchasing power for a given currency, such as the consumer product index (CPI) and producer price index (PPI).##[[/footnote]]
+> # Nation-state trade deficits^^+^^[[footnote]]##gold|When a country brings in more goods than it exports. This is a requirement for a country with the world reserve currency, e.g. the USD, so that the currency can circulate around the world.##[[/footnote]]
+> # The perpetuation of long chains of credit default swaps[[footnote]]##gold|Essentially hedging a bet, credit default swaps are insurance you can purchase over whether or not someone will default on their promise of paying you back. If you buy a credit default swap, and someone who owes you money declares bankruptcy, the insurance you bought will pay you your money instead.##[[/footnote]]
+> # The consolidation of purchased debt by asset managers, investment management corporations, and other financial entities[[footnote]]##gold|Meaning fewer number of entities and institutions to whom more and more money is owed. Increasingly are domestic companies and corporations, since the refusal of China to invest in US Treasury bonds beginning in the mid 2010's.##[[/footnote]] 
+> 
+> [[size 80%]]//^^*^^ Inversely proportional relationship//
+> //^^+^^ Variable//[[/size]]
+[[/collapsible]]
+
+It is important to note that RPC-947-1 does not wholly control such factors. External circumstances may change their conditions significantly without any noticeable changes in RPC-947-1, but it still exerts a sufficient influence to be considered a massive financial risk.
+
+RPC-947-1 may be refilled via the destruction of any asset with monetary value within RPC-947. The exact equivalence between destroyed assets and restored fluid amount is poorly understood, but is generally reliant on the value of the destroyed asset: 1,000,000 USD correlates to approximately 1 mL of fluid, which materializes inside the bag.
+
+Despite the containment protocols, individuals who by all other measures are non-anomalous are occasionally seen to briefly manifest within RPC-947 and then vanish, though not directly and by no known means. These are often influential and well-known people, although they are most often registered to be in other locations during such events. Individuals discovered within RPC-947 include [DATA REDACTED], and other powerful figures of the financial and/or political spheres. 
+
+-----
+
+**Addendum 947.1 - IV System Tests**
+[[collapsible show="Show Results" hide="- Minimize"]]
+
+> ||= __**TEST ROUND 01**__ ||
+>
+> **MATERIALS:**
+> 
+> * A non-coring, 14-gauge hypodermic needle 
+> * 1 mL syringe (x2)
+> * Fluid chemistry analyzer 
+> * 21,000,000 USD per test[[footnote]]Meant to replete any fluid in RPC-947-1 in proportion to what is discarded. Approved via governance vote and supplied via economic agreements with The Federal Reserve.[[/footnote]]
+>
+> = @@--------------------@@
+> 
+> **Staff:** Dr. ███████ Nakamoto - Hematologist, Dr. ███████ Buterin Ph.D. - Pharmacist
+
+------
+
+> = **__TEST 01__**
+> = @@--------------------@@
+> 
+> **PROCEDURE:**  Testing began by attaching the blood-draw needle to a 10 mL syringe. The rubber-capped port of the IV tubing line between the bag and the IV pump was accessed. The plunger was pulled, delicately collecting RPC-947-1 into the syringe. Sample collected and stored. 21,000,000 USD destroyed via controlled incineration. Effects on global GDP levels registered.
+> 
+> **OBSERVATIONS:**
+> 
+> [[=image globalGDP2.png size="medium"]]
+> 
+> __Legend:__
+> **1)** 10 mL of RPC-947-1 withdrawn from tubing
+> **2)** 10 mL of RPC-947-1 filling the 10 mL deficit from the IV bag supply
+> **3)** Prior to burning 21,000,000 USD
+> **4)** Post burning 21,000,000 USD
+> 
+> Auditory anomalies heard within RPC-947-2 remain unconfirmed. The nature thereof is nebulous, but generally thought to resemble animal or human vocalizations. 
+
+------
+
+> = **__TEST 02__**
+> = @@--------------------@@
+> 
+> **PROCEDURE:**  Test resumed by attaching blood-draw needle to the second 10 mL syringe. The rubber cap port of the IV tubing was accessed, this time the one between the pump and the sealed room. The inflow potential from the IV machine and bag was prevented via stopcock, so that fluid was collected from the rest of the tubing and beyond it into the room. The plunger was pulled. A dark, red and relatively-viscous fluid was drawn. Sample collected and stored. 
+> 
+> **OBSERVATIONS:** The sample was applied to a blood-chemistry analysis machine on hand. The dark red fluid is conclusively identified to be human blood. The sample featured an increase in sodium chloride[[footnote]]Salt[[/footnote]] and IgA[[footnote]]Immune system protein[[/footnote]] than what is expected for intravenous blood samples. This inclusion of these in their concentrations suggest either profound dehydration in the patient, or contamination of the sample with sweat and/or tears. The amount of salt within the sample is not explained by the concentration within the saline infusion. The  presence of human chorionic gonadotropin suggests an active pregnancy.
+> 
+> Genetic testing is inconclusive: target factors show extreme polymorphisms, possibly consistent with admixture of blood sourced from numerous unidentified individuals. Extreme genetic damage caused by illness, radiation exposure or other factors are other possibilities.
+
+------
+
+> = **__TEST 03__**
+> = @@--------------------@@
+> 
+> **PROCEDURE:** Destroyed bills were attempted to be located via collaboration with the United States government and European Union member states, to confirm whether RPC-947-1's influence is directly monetary or merely statistical. MST Charlie-13 ("Buyers of Last Resort") attendant. 
+> 
+> **OBSERVATIONS:** Approximately 2.8 million destroyed bills of varying denominations were identified within particular economic sectors after transaction. A few particularly relevant examples are listed below.
+> 
+> __Various stock trades:__ 100,178 bills
+> __Real estate/housing:__ 240,764 bills
+> __Military-industrial complex:__ 90,571 bills
+> __US state bailouts:__[[footnote]] The act of providing substantial financial help to a corporation on the brink of bankruptcy. [[/footnote]] 1,910,594 bills^^*^^
+> __Private transactions:__ 170,998 bills^^+^^
+> __Repurchase agreements:[[footnote]]##gold|Repurchase agreements, or “repos”, are the promise to buy back something sold at a later date. Very simply,  these can be understood as the financial system’s way of flushing its pipes of excess money, ensuring movement. Thus, the more money in the system, the more reserve bloat, and the higher the need for repos. If interest rates are high, cost of flushing is high, and a whole system can become clogged and stagnant quickly, especially one that is dependent on repos to function.##[[/footnote]]__ 240,886 bills
+> 
+> [[size 80%]]
+> //^^*^^ In this particular instance, companies privately deemed "too big to fail", such as large, multinational banks during the 2008 financial crisis, appear to have received a disproportionately large sum of tracked bills, suggesting a direct connection between public status (or the United States Treasury) and RPC-947-1.// 
+> //^^+^^ Mostly between companies or influential members thereof.// 
+> [[/size]]
+> 
+> It is of note that almost all tracked bills have taken part in circumstantially vital transactions regarding public economic sectors or non-profitable organizations of significant size. It is thus reasonable to believe RPC-947-1 directly exerts its influence via these factors, although how exactly the relevant currency is obtained by its recipients remains to be tested.
+> 
+> Were this to be the case, RPC-947-1's effect in the worldwide economy would be entirely additive: the economic crises associated with the absence of fluid are entirely non-anomalous and the natural state of the worldwide economy; that which would be present when not augmented artificially by RPC-947-1. 
+
+[[/collapsible]]
+
+**Addendum 947.2 - 17 Sept. 2019**
+
+During the morning of September 17th, interest rates on repurchase agreements between US-based financial entities suffered an abrupt spike, increasing from 2.43% to 10% over the course of the day. A variety of factors precipitated the spike, such as the unwinding of numerous credit/debt positions causing simultaneous liquidity shortages ("a financial contagion") across finance firms.[[footnote]]##gold|There is more on-paper money in the US economy (called the "M2" and "M3" supplies) than there is actual physical, spendable dollar bills and currency available by checks (called the "M1" money supply) by a factor of about 3. This means most money in the global economy is theoretical, not actualized, and is assumed by future promises of credit and debt that are to be settled. These promises intertwine to form a complex network that few might truly understand, and can set up unexpected and catastrophic cause-and-effect scenarios when they fail. When a critical mass of these promises fall through, large portions of the M2 and M3 money supplies can collapse precipitously, as seen in the 1987, 1997, and 2008 financial crises. In such a case, lenders will increase interest rates if possible due to the aggregate shortage because they need more money to cover their costs.##[[/footnote]] 
+
+While publicly described as "temporary" and understood to have been quickly remedied by a $75 billion credit injection from New York's Federal Reserve Bank, in reality its effects were more lasting and widespread: interest rates remained abnormally high for the coming weeks, impeding the flow of necessary cash throughout New York's financial sector, decreasing liquidity and increasing market volatility to dangerous levels. The downstream effects of this were significant and primarily affected small businesses operating in finance, further consolidating economic points of failure on large institutions and entities. 
+
+Faced with the potential failure of the repurchase agreement market, which could quickly precipitate a collapse of numerous financial firms if coupled with known problems within the US mortgage sector, the Authority's Office of Financial Affairs successfully passed an order to rapidly mint and destroy $8.5 billion USD within RPC-947, per The Federal Reserve.[[footnote]]Governance tokens were neglected in this decision for executive reasons.[[/footnote]] The resulting cash flow helped protect more essential Authority-owned assets, which were already threatened by the financial fallout of [*http://rpcauthority.wikidot.com/fail-safe Site-014's destruction].
+
+Further investigation by MST Charlie-13 led OFA officials to believe that the New York Federal Reserve was unable to combat the crisis due to a fatal absence of sufficient reserves, and a ballooning of credit swaps. Unwilling to await a resolution from the United States Treasury, a further $10.7 billion USD were destroyed between Sept. 18 and 20, emptying Authority M2 and M3 reserves within RPC-947. These measures were insufficient in providing liquidity to the financial sector.
+
+An unannounced intervention by the US Treasury on Sept. 23, coupled with further destruction of excess Authority assets (calculated around $9 billion USD) were finally sufficient to end the crisis. A substantial amount of emergency holdings were liquidated, including vaulted hard assets and the recruitment of millions in personal savings accounts and retirement pensions of Authority employees.[[footnote]]##gold|Based off the legislative template provided by a similar fail-safe plan in the US financial system, the Dodd–Frank Wall Street Reform and Consumer Protection Act (Title II - The Orderly Liquidation Authority), which authorizes "too big to fail" banks to automatically withdraw their customer's deposits in order to bail themselves out as an alternative to bankruptcy, thus avoiding the need for a government bailout.##[[/footnote]] Global markets and keystone financial institutions were successfully protected. 
+
+[[collapsible show="Show Additional Information [CLASSIFIED LV 4A]" hide="- Minimize"]]
+
+------
+[[div class="blockquote"]]
+During the September 2019 repurchase agreement crisis, RPC-947-2 began to suffer from hitherto unobserved behavioral and auditory abnormalities, in apparent correlation with events in the ongoing crisis. A collection of such abnormalities and apparent correlations is listed below.
+
+||~ # ||~ RPC-947-2 EVENT ||~ POSSIBLE FINANCIAL CORRELATION ||
+||~ 1 || Loud coughing and vomiting is audible inside RPC-947-2, coupled with troubled breathing. Noises appear to correspond to a multitude of individuals. Further sounds are described as "wet". || Interest rates spike. ||
+||~ 2 || Vomiting ceases. Coughing and breathing slow down somewhat, but remain troubled. Mechanical noises commence, including what appear to be surgical drills. || Initial NY Federal Reserve cash injection. ||
+||~ 3 || Whimpering and repeated knocking noises. Audible stressing of metallic materials, concluding in loud snapping and sparking. Gasping is heard. || Cash injection concludes, failing to blunt the spike. ||
+||~ 4 || RPC-947-2's walls and door suffer damage from extreme pressure of unknown origin, buckling and creating small cracks. Nearby personnel report an extreme smell of decomposing biological matter. A mixture of outputs slowly seep out in a slurry from the cracks. In all, 2 tons of undifferentiated organic tissue, 8 tons of precious metals, 0.5 tons of empty soup bowls, 3 cubic tons of dust, and 0.25 tons of soiled plastics masks are recovered. || Unknown. ||
+||~ 5 || Massive power outage and sustained failure of RPC-947 despite energy redundancies. || Unknown. ||
+||~ 6 || A liquid seeps from the 1 cm holes in RPC-947-2 and out onto the ward hallway. This substance is later identified as human vomit. Of note, the emesis contained pieces of partially digested human skin and hair, as well as undigested human teeth. After a period of time, hundreds of instances of [[[RPC-456 |RPC-456]]] began growing upon the material. _
+ _
+Carbon dating of these remains indicate a singular date of origin; 1913. Despite this, genetic tests reveal that the human material is from hundreds of unique individuals, with most traceable to people who committed suicide during August 1929 – March 1933. || OFA's $8.5 billion credit injection || 
+||~ 7 ||  Short bursts of sound and electrical impulses emanate from RPC-947-2. _
+ _
+Each vocalization is found to be comprised of a recording of President Nixon’s "Gold Speech".[[footnote]]##gold|A speech delivered on television on Sunday, August 15, 1971, which described a set of financial policy changes that included the immediate inconvertibility of the dollar to gold, which previously defined its value.##[[/footnote]] Millions of repetitions of this speech were compressed into the individual vocalizations, each approximately two seconds. _
+ _
+Digitally, these vocalizations are registered as software code. When run, the software outputs transcriptions of the Jekyll Island Club meeting,[[footnote]]##gold|A meeting that took place in November 1910 that established the bases for the third central bank of the United States, The Federal Reserve. The time, location, and purpose of this meeting were closely guarded secrets, until more information was released in the 1930s.##[[/footnote]] and the 1944 Bretton Woods Agreement discussions,[[footnote]]##gold|A post WW2 meeting that determined a global financial system of exchange, and the establishment of the United States dollar as the world reserve currency, at that time pegged to gold.##[[/footnote]] despite no known records or audio recording technology existing in either case. The user must cease the program, or else it will run indefinitely. || Unknown ||
+[[/div]]
+------
+
+[[/collapsible]]
+
+**Addendum 947.3 - COVID-19 Economic Recession**
+
+During the early months of 2020, RPC-947-1 began rapidly consuming its available supply of fluid, likely as a consequence of the global economic shutdowns motivated by the COVID-19 pandemic. The rate at which the fluid was consumed (approx. 0.7L per hour) surpassed the velocity at which Authority assets could be destroyed to restore it, leading to a runout by February 20.
+
+The complete consumption of RPC-947-1 fluid coincided with a catastrophic global stock market crash, the consequences of which precipitated the initial stages of the COVID-19 economic recession. Attempts to refill RPC-947-1 were unsuccessful: the  anomaly was rendered entirely unresponsive.
+
+Throughout the remainder of February and March, sounds of intense movement[[footnote]]Interpreted as convulsions over an operating bed by some RPC-947 personnel.[[/footnote]] and panicked breathing were heard inside RPC-947-2, gradually becoming less audible until March 28, when they ceased completely. Several high-pitched tones were heard before a loud jolt and thud, possibly indicating attempts at cardiovascular defibrillation. 
+
+[[collapsible show="Show Additional Information [CLASSIFIED LV 4A]" hide="- Minimize"]]
+
+------
+
+> -----
+> ||~ MARCH 28 EVENT TIMELINE || 
+> -----
+> **09:30:** RPC-947-2 auditory activity ceases.
+> 
+> **09:41:** Copious amounts of biological matter begin leaking from the wall cracks created during the September 2019 crisis, which is sampled and analyzed. Most of the sampled matter (>80%) was concluded to be potentially aberrant, not corresponding to any known organisms. Rapid mass lysis[[footnote]] Cell death  [[/footnote]] prevented further analysis of the aberrant matter.
+> 
+> The remaining <20% corresponded to partly-dissolved human tissue, fecal matter, and paper money of various currencies.
+> 
+> **10:01:** The intense smell of decomposition forces seven Authority personnel to retreat from the premises of RPC-947-2. Remaining personnel are equipped with air-purifying respirators.
+> 
+> **10:12:** RPC-947-2's doors bend outward and open, releasing several hundred liters of amniotic fluid, as well as further amounts of decomposing biological matter. Personnel report briefly seeing what appear to be animal extremities of an unidentified kind that are quickly dissolved by lysis.
+> 
+> RPC-947-2's inside is unlit. MST Charlie-13 agents approach it with rifle-mounted torches. More biological matter slowly drips from the inner walls, slowly pulsating. An operating table is identified, surrounded by blue-colored curtains: RPC-947-1 tubing and an irregular mass of unidentifiable shape are visible inside it, obscured by the curtains. Multiple humanoid and pseudo-corporeal figures are noted. Some are interacting, conversing, laughing, and acting in a generally jovial and socalite manner, as if at a high-end gathering. Others are engorging themselves on the substance previously identified as an admixture of decomposed biological matter, vomit, congealed amniotic fluid, and fragmented currencies. Others are huddled around the irregular mass behind the curtains, holding what appear to be surgical implements. No action is observed in these instances. 
+> 
+> **10:15:** Charlie-13 is granted permission to enter RPC-947-2 to retrieve the curtains and examine the unidentified mass. 
+> 
+> **10:16:** RPC-947-2's doors close and re-seal. Contact is lost with Charlie-13. RPC-947-2's inside remains silent. 
+> 
+> **10:30:** OFA personnel report stock market activity begins to recover, albeit at diminished volumes. 
+
+------
+
+[[/collapsible]]
+
+Some recovery began in April, when a sudden influx of liquidity and available cash revived economic activity in vital economic sectors, including the stock market and for other paper and synthetic assets. Over the following months a limited number of markets began recovering to their pre-recession levels and continued to grow, setting new activity records by the ending months of 2020. These sectors of domestic and global finances unilaterally benefited the upper 1% of wealth-holders. 
+
+RPC-947-1 is now considered inactive. It is to be reclassified as Neutralized, pending a governance vote re: a series of reactivation tests, which has an expiry of January 2023. New containment protocols for RPC-947 are currently being discussed, pending the the result of this vote, and any detailed analysis of the subsequent trials. 
+
+
+**Addendum 947.4: Interview █████ ████████**
+
+[[collapsible show="Show Additional Information [CLASSIFIED LV 4A]" hide="- Minimize"]]
+
+> [[=]]
+> +++ INTERROGATION TRANSCRIPTION
+> 
+> 
+> @@--------------------@@
+> 
+> [[/=]]
+>  Date: ██/██/2021
+> 
+>  Interviewer: Dr. Nakamoto
+> 
+>  Interviewee: █████ ████████, former Chair of the United States Federal Reserve ████-████
+>  
+> Site: ███, Wing D, Interrogation Holding Suite 04
+> 
+> -----
+> 
+> = **[BEGIN LOG]**
+> 
+> 
+> **Dr. Nakamoto:** And how many times would you say you visited RPC-947 during your tenure?
+> 
+> **████████:** I'm sorry... oh you mean the building, I can't keep up with the letters and numbers you use. Very strange. I never missed a single day.
+> 
+> **Dr. Nakamoto:** For how many years?
+> 
+> **████████:** What do you mean? All of them.
+> 
+> **Dr. Nakamoto:** Is //that// how sick the entity has been?
+> 
+> **████████:** I'm sorry, what do you mean by "sick"? Everyone around me was in perfect health, and if not, then they weren't there, naturally.
+> 
+> **Dr. Nakamoto:** Pardon my impoliteness Former Chairman, but there is no measure by which that //thing// could be said to be healthy. 
+> 
+> **████████:** Strong opinions you have, I take it you aren't a fan. Well I'm no doctor, I suppose there could be //something// wrong with anyone, under the surface or something. No one is guaranteed tomorrow.
+> 
+> **Dr. Nakamoto:** But how can you not understand it as sick? Its poor health necessitated daily visits form you, the infusions.
+> 
+> **████████:** //(Scoffs)// I guess you could call what I was doing a sort of medical intervention, in a metaphorical way. But like I said, we were all as healthy as horses as far as I could tell. These people aren't the sort to miss a day of work either.
+> 
+> **Dr. Nakamoto:** What exactly would you do then when you were there?
+>  
+> **████████:** What else? We deliberated. Got advice. Gave it. Counseled. Guidance. Signed papers. Made decisions. Enacted policy.
+> 
+> **Dr. Nakamoto:** You spoke with it?
+> 
+> **████████:** //(Nods, eyebrows up)// Uh-huh. Well, I mean you're talking in very poetic terms here, but yeah, I guess you could say I... //communed// with my work.
+> 
+> **Dr. Nakamoto:** I'm not talking about your work's subject matter, I'm talking about the entity in the room you just visited. We haven't observed the entity to be comprehensible.
+> 
+> **████████:** What? We had a pleasant conversation. Caught up on foreign policy.
+> 
+> **Dr. Nakamoto:** Could be hallucinogens in the... so then, how did you speak with the entity when the door was sealed?
+> 
+> **████████:** There's a sealed door? I don't know of any sealed door. Are we talking about the same thing here? 
+> 
+> **Dr. Nakamoto:** The abandoned hospital at  ████ Wall Street? 
+> 
+> **████████:** I'm sorry, can we... is this a joke? I can't tell if this is a joke and I have to wonder now what it is I'm doing here. I was under the impression this was for a reputable publication, I see now that was an error. 
+> 
+> **Dr. Nakamoto:** I would appreciate it if you just answered the questions. I'm also puzzled by your apparently nonsensical replies here, just so you know. 
+> 
+> **████████:** //(voice raises)// Those are the //the offices of the Board of Governors//, Doctor. Of The Federal Reserve System. And it's located in Washington, D.C, not New York! It's not //abandoned//, there are hundreds of employees walking around there, even now! It's not a //hospital// for God's sake, are you insane? There's no sick patient there, no monstrosity that needs constant resuscitation! What's wrong with you?
+> 
+> //(Pause)//
+> 
+> **Dr. Nakamoto:** Here... //(points a remote at a small television on the table)// is video footage of you entering into RPC-947 today. You approach RPC-947-1 and -2. You stand there for approximately 8 hours. You leave. 
+> 
+> **████████:** That's... that's not me, I've never been in that place in my life.
+> 
+> **Dr. Nakamoto:** Last question, Chairman. Who is behind the curtain? 
+> 
+> **████████:** //What curtain?// 
+> 
+> //(Pause)//
+> 
+> **Dr. Nakamoto:** Who... did you speak with today?
+> 
+> **████████:** Do you live under a rock? What is it that you people do here? //He's my fucking successor. I told you, that's my old office.//
+> 
+> = **[END LOG]**
+> 
+> -----
+> 
+> █████ ████████ was selectively amnesticized with respect to this interrogation and released. Records and eyewitnesses place the Former Chairman additionally present in the Marriner S. Eccles Building, 20th and C Street Northwest, Washington, D.C. at this time, visiting the current Chairman.
+> 
+[[/collapsible]] 
+
+**Addendum 947.5: Further Analysis**
+
+[[collapsible show="Show Additional Information [CLASSIFIED LV 5A]" hide="- Minimize"]]
+
+The body of the MST member was never recovered, and RPC-947-2's doors have not reopened. However identifying genetic material was observed in subsequent IV blood draws via RPC-947-1 that confirmed the death of the missing member. Significant activity from RPC-947-1 has yet to resume as of the time of writing.
+
+Further analysis of global market trends revealed that if decade-long captures of price actions in graph format are mirrored over itself vertically (See Figures 1, 2), visualized audio signatures are produced.
+
+||~ Figure 1 ||
+|| [[=image electricblue.jpg size="medium"]] ||
+||~ Figure 2 ||
+|| [[=image figure1.jpg size="medium"]] ||
+
+These signatures strongly resemble the acoustic soundprint of an arrhythmic human heart.
+
+[[/collapsible]]
+@@@@
+@@@@
+
+[[div style="color: #c8c8c8; margin: 10px; padding: 10px; border: #666666 1px solid; background: #242424; border-left: #666666 10px solid;"]]
+[[=]]
+[[size 110%]] [[collapsible show="» Footnotes «" hide="« Footnotes »"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-946]]] | RPC-947 | [[[RPC-948]]] >>
+[[/=]]
+

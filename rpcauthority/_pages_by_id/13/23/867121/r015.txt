@@ -1,0 +1,267 @@
+---
+title: "Special Box Base"
+tags: ["component"]
+page_id: "1323867121"
+site: "rpcauthority"
+slug: "component:special-box-base"
+revision: 15
+revision_id: "1542319589"
+author: 5982545
+timestamp: 1772123184
+---
+
+[[table class="specialBoxTable" style="border: var(--basic-border); background: var(--secondary-background); box-shadow: var(--blockquote-box-shadow); padding: 5px 0px; margin: 10px 10px 10px 0px; line-height: 110%; overflow-x: auto; width: 100%;"]]
+
+[[row]]
+[[cell class="specialBoxClassCell" style="border-right: solid 2px #666; background-image: url(http://www.rpcauthority.wikidot.com/local--files/component:icons/{$symbol}.png); background-position: 45% 50%; background-repeat: no-repeat; width: 95px; height: 80px;"]]
+[[/cell]]
+
+[[cell class="specialBoxRPCCell" style="border-right: solid 2px #666; padding: 0px 0px 0px 10px;"]]
+**Registered Phenomena Code:** {$number}
+@@ @@
+**Containment Rating:** {$object-class}
+@@ @@
+**Lethality Rating:** {$lethality-rating}
+[[/cell]]
+[[cell class="specialBoxHazardCell" style="padding: 0px 5px; text-align: center; vertical-align: middle; max-width: 90px; min-width: 75px;"]]
+
+[[table class="hazardTable" style="text-align: center; vertical-align: middle; padding: 0; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 0; clear: {$top-spacing};"]]
+[[row]]
+[!-- anomalous properties --]
+
+[[cell class="hazardBlock" style="display: {$aggression}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aggression.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Aggression[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$ballistic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ballistic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Ballistic[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$climatological}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-climatological.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Climatological[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$geological}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-geological.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Geological[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$grouped}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Grouped[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$invisibility}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-invisibility.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Invisibility[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$psychotronic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-psychotronic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Psychotronic[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$sapient}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Sapient[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$sentient}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sentient.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Sentient[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$transmutation}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutation.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Transmutation[[/span]]
+[[/cell]]
+
+[!-- physical hazards --]
+
+[[cell class="hazardBlock" style="display: {$bio-hazard}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-biohazard.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Bio-Hazard[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$contact}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Contact[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$corrosive}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-corrosive.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Corrosive[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$electromagnetic-force}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-electromagnetic-force.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Electromagnetic Force[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$explosive}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-explosive.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Explosive[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$extreme-temperature}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extreme-temperature.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Extreme Temperature[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$radiation}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-radiation.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Radiation[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$toxic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-toxic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Toxic[[/span]]
+[[/cell]]
+
+[!-- reality hazards --]
+
+[[cell class="hazardBlock" style="display: {$destabilization}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-destabilization.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Destabilization[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$extra-dimensional}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-dimensional.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Extra-Dimensional[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$gravitational}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-gravitational.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Gravitational[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$teleportation}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-teleportation.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Teleportation[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$temporal}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-temporal.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Temporal[[/span]]
+[[/cell]]
+
+[!-- cognitive hazards --]
+
+[[cell class="hazardBlock" style="display: {$auditory}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-auditory.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Auditory[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$emotional}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-emotional.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Emotional[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$ideological}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Ideological[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$info-hazard}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-infohazard.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Info-Hazard[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$memory-alteration}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-memory-alteration.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Memory Alteration[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$mind-control}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-control.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Mind-Control[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$mind-regression}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-regression.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Mind-Regression[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$sensory}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sensory.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Sensory[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$visual}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-visual.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Visual[[/span]]
+[[/cell]]
+
+[!-- Additional Properties --]
+
+[[cell class="hazardBlock" style="display: {$animated}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-animated.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Animated[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$aquatic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aquatic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Aquatic[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$digital}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-digital.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Digital[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$ecological}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ecological.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Ecological[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$extra-terrestrial}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-terrestrial.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Extra-Terrestrial[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$immeasurable}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-immeasurable.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Immeasurable[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$incorporeal}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-incorporeal.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Incorporeal[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$mechanical}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Mechanical[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$microscopic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-microscopic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Microscopic[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$organic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-organic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Organic[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$regenerative}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-regenerative.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Regenerative[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$titanic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-titanic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Titanic[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$tychokinetic}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-tychokinetic.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Tychokinetic[[/span]]
+[[/cell]]
+
+[!-- Removed hazards --]
+
+[[cell class="hazardBlock" style="display: {$replicating}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-replicating.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Replicating[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$newtonian}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-newtonian.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Newtonian[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$ontological}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ontological.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Ontological[[/span]]
+[[/cell]]
+
+[!-- Uncategorized hazards --]
+
+[[cell class="hazardBlock" style="display: {$divine}"]]
+[[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/divine-hazard class="hazardBlock hazardImage"]] [[span class="hazardText"]]Divine[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$hallucinogen}"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf-1-1/HallucinogeneHazard.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]Hallucinogen[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$high-velocity}"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-animated.png class="hazardBlock hazardImage"]] [[span class="hazardText"]]High Velocity[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$proto-mechanical}"]]
+[[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch1 class="hazardBlock hazardImage"]] [[span class="hazardText"]]Proto-Mechanical[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$proto-newtonian}"]]
+[[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch2 class="hazardBlock hazardImage"]] [[span class="hazardText"]]Proto-Newtonian[[/span]]
+[[/cell]]
+
+[[cell class="hazardBlock" style="display: {$proto-sapient}"]]
+[[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch3 class="hazardBlock hazardImage"]] [[span class="hazardText"]]Proto-Sapient[[/span]]
+[[/cell]]
+
+[[/row]]
+[[/table]]
+
+[[/cell]]
+[[/row]]
+
+[[/table]]
+

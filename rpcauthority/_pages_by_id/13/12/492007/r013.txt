@@ -1,0 +1,79 @@
+---
+title: "GRPC Canon Theme Hover"
+tags: ["theme"]
+page_id: "1312492007"
+site: "rpcauthority"
+slug: "component:grpc-canon-theme-hover"
+revision: 13
+revision_id: "1521407220"
+author: 5982545
+timestamp: 1720056758
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:grpc-canon-theme/code/1);
+@import url(http://rpcauthority.wikidot.com/component:grpc-canon-theme-hover/code/1);
+[[/module]]
+
+> [[=]]
+> [[size 120%]] ###0eb7c4 |**DISCLAIMER:**## [[/size]] THIS COMPONENT HAS BEEN ADDED IN CONJUNCTION WITH THE [http://rpcauthority.wikidot.com/component:cosmic-embers-theme CURRENT GRPC COSMIC EMBERS THEME] AS TO MITIGATE USER LOAD TIMES VIA AN OPT-IN SOLUTION TO THE BULK OF ANIMATED BOX HOVERS. WHILE NOT REQUIRED, IT IS HIGHLY RECOMMENDED YOU USE THIS COMPONENT IF REASONABLY POSSIBLE TO EXPERIENCE THE THEME TO ITS FULLEST EXTENT (AS INTENDED).
+> [[/=]]
+
+
+[[collapsible show="+ Code" hide="- Code"]]
+
+[[code type="css"]]
+
+div#page-title:hover {
+    transition: all 0.2s ease-in-out;
+    background: rgb(0 0 0 / 15%);
+    padding-left: 0.6em;
+}
+
+form#edit-page-form:hover {
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%), inset 0px 1px 7px 0px #0000005c;
+}
+
+div#side-bar:hover {
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%), inset 0px 1px 7px 0px #0000005c;
+}
+
+#header h2:hover::before {
+    margin-left: 65px;
+    transition: all 0.4s ease-out;
+    content: "» " var(--header-tagline-custom-text);
+}
+
+div#main-content:hover {
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%), inset 0px 1px 7px 0px #0000005c;
+}
+
+#login-status ul a:hover {
+    box-shadow: 0px 0px 5px teal;
+}
+
+.content-box:hover, .content-panel:hover, #toc:hover, .image-block:hover, .sidenoteContainer:hover, .tableStyle:hover, .yui-navset:hover, blockquote:hover, table.wiki-content-table:hover, .content-block:hover, .info-block:hover, .featured-block:hover, .news-block:hover {
+    box-shadow: -1px 0px 10px 0px rgb(61 118 197 / 50%);
+    transition: all 0.5s ease-out;
+}
+
+#h-perpage:hover, .optionstd a:hover, .new-post .btn:hover, #history-form-1 .btn-sm:hover, .well .btn-sm:hover, .change-textarea-size a:hover, .buttons .btn-small:hover, .action-area .btn-default:hover, .action-area .btn-primary:hover, .col-lg-10 .form-control:hover, .form-actions .btn-danger:hover, .buttons .btn-default:hover, .target a:hover, .buttons .btn-danger:hover, #edit-cancel-button:hover, #edit-save-button:hover, .button-close-message:hover, .button-close-window:hover, .button-cancel:hover, .button-insert-code:hover, #wd-ed-codewizard-type:hover, #wd-ed-imagewizard-position:hover, #wd-ed-imagewizard-uri:hover, #wd-ed-imagewizard-byuri .button:hover, #wd-ed-imagewizard-flickr:hover, #wd-ed-imagewizard-byflickr .button:hover, .query-area .button:hover, .button-close:hover, .button-rename:hover, .button-no\,-cancel:hover, .button-yes\,-delete:hover, #file-upload-form .btn-primary:hover, .button-move:hover, #action-area .buttons .btn-primary:hover, #edit-page-form .buttons .btn-info:hover, #view-diff-div .button:hover, .button-yes\,-revert:hover, .modal-footer .btn-danger:hover, .modal-footer .btn-default:hover, .modal-footer .btn-primary:hover, #mba-apply:hover, .yui-content .button:hover, .btn-warning:hover, #edit-meta-newtag-form div .btn:hover, .new-page-box .button:hover, #page-templates:hover, #recent-posts-category:hover, .forum-recent-posts-box form .btn:hover, .owindow .button-bar .btn:hover {
+    box-shadow: 0px 0px 5px teal; 
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme and Hover Enhancement Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:grpc-canon-theme/code/1); @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:grpc-canon-theme-hover/code/1); @@
+> @@ [[/module]] @@
+

@@ -1,0 +1,615 @@
+---
+title: "RPC-611"
+tags: ["black", "contact-hazard", "gd-east", "incorporeal-hazard", "mind-control-hazard", "omega", "rpc", "sapient-hazard", "sensory-hazard"]
+page_id: "1312402207"
+site: "rpcauthority"
+slug: "rpc-611"
+revision: 22
+revision_id: "1541748615"
+author: 5982545
+timestamp: 1770048869
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]WRAITH, or The Spiritual Matters[[/span]]
+
+[[include component:rate]]
+
+[[module CSS]]
+
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #40;
+/* black shadow at the top of the terminal */
+    background-image:
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #10);
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #BBBBBB
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 17s linear 0s infinite;
+    animation: scan 12s linear 0s infinite;
+    background: linear-gradient(to bottom, rgba(40, 66, 92,0), rgba(40, 66, 92,0.1)) !important;
+}
+
+div.text{
+    color: rgba(128,255,128,0.8);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);}
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+coghaz_system online...
+vital signs linked...
+login accepted.
+
+[[=]]
+@@ @@
+@@ @@
+@@------@@
+Welcome, Doctor Reikowski
+@@------@@
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[=]]
+[[size 150%]] __MSC TEST__[[/size]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+> **NAME:** DANIEL REIKOWSKI
+> **CLEARANCE LEVEL:** LEVEL 4-611 RESEARCH
+> **DATE:** 2.1.19
+> **TIME (UTC):** 07:02
+>
+> ------
+>
+> {{**QUESTION:** Where are you?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** There is no one with me.}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+>
+> {{**QUESTION:** What is my home?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** Who is with you?}}
+>
+> {{**INPUT RESPONSE:** __There is no one with me.__}}
+>
+> {{**QUESTION:** What is safe?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** Where are you?}}
+>
+> {{**INPUT RESPONSE:** __Home.__}}
+>
+> {{**QUESTION:** What is safe?}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+>
+> {{**QUESTION:** What are you?}}
+>
+> {{**INPUT RESPONSE:** __Alone.__}}
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+Questionnaire Completed. Thank you, Doctor Reikowski. Proceed.
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[span style="font-size: 155%; font-weight: bold; color:#e5e5e5"]] Registered Phenomena Code: 611 [[/span]]
+
+[[table style="width: 300px; height: 105px"]]
+[[row]]
+[[cell style="width: 41px"]]
+
+[[/cell]]
+[[cell style="width: 30px"]]
+[[span class="tooltip"]][[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Omega-Black.png style="margin: -10px -46px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]][[/span]][[/span]][[/cell]]
+[[cell]]
++++ **Object Class:**
++++++ **##black|OMEGA-BLACK**##
+[[/cell]]
+[[/row]]
+[[/table]]
+
+@@@@
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="border:  none; width: 50%;"]]
++++ **Hazard Types:**
+[[include component:hazards type=none
+|mind-control=true
+|sensory=true
+|aggresion=true
+|psychotronic
+|sapient=true
+|contact=true
+|incorporeal=true
+]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[include component:image-block name= http://rpcsandbox.wikidot.com/local--files/bettermybutter/facility2 |caption=Photograph of RPC-611's Medical Wing]]
+
+[[include component:sidenote figure=Specifications|contents=**Assigned Site:** Rapid Deployment and Monitoring Station 611.
+
+**Current Site Director/Project Lead:** Dr. Daniel Reikowski
+
+**Assigned Response Forces:** MST Echo-25, 5 members on standby.
+
+**[*http://rpcauthority.wikidot.com/authority-security-force ASF] Assignment:** IB-430, 160 on-site guards for patrol and defense.
+
+**[*http://rpcauthority.wikidot.com/containment-hub Containment Engineers]:** 5 on-site, 15 on standby.
+]]
+
+**Containment Protocols:** Due to the nature of RPC-611, all non-MST/ASF personnel are prohibited from approaching, interacting with, communicating, or otherwise being within 100 meters of RPC-611 or uncontained RPC-611-1. ASF teams are required to consistently patrol the perimeter of RPC-611 (10~ km from center) in its entirety from the air[[footnote]]V-30 Ospreys normally utilized by NT teams are provided.[[/footnote]] in squads.
+
+Squads must report attempted containment breaches and respond immediately, but in the event of multiple RPC-611-1 instances, teams must wait for assistance before engaging. Personnel cannot engage multiple RPC-611-1 instances without sufficient support. While other patrol squads may respond, no less than 3 airborne patrol teams are to be maintaining containment at all times, regardless of the condition of other squads.
+
+Only ASF IB-430 and MST Echo-25 are equipped and trained for engagement with RPC-611. Containment of and exploration into RPC-611 must be performed only by Echo-25. Echo-25 and ASF IB-430 members must have their man-portable CPS[[footnote]]Cognitohazard Projection System.[[/footnote]] online at all times when on patrol or exploration duties. Do not deactivate the CPS under any circumstance while within 100 meters of RPC-611.
+
+All personnel must have at least moderate resistance (Theophan[[footnote]]Theophan is a system of measurement utilized by the majority of the Authority to measure the strength of a cognitohazard's effect relative to the resistance of a sapient entity and the amount of influence it can exert. The majority of cognitohazards are Theophan 1-3, encountered non-anomalously, while the average human has resistance to Theophan 2 or higher. Refer to RCPA Office of Analysis and Science. //Standard Categorization of Preternatural Cognitohazards//, 2nd ed., Authority, 1993.[[/footnote]] of 4) to cognitohazards.
+
+Theophan 5 Mental Stability Checks (MSCs) to ensure the absence of RPC-611-1 influence must be performed by all personnel stationed at or otherwise assigned to RPC-611 every day at 19:00 MAGT. Failure to complete the MSC test within 20 minutes or detection of any unapproved answers will result in immediate investigation by containment personnel. While paper copies of MSCs exist, digital versions are mandatory in order to provide the audio recitation component unless otherwise directed by the current Site Director. Note that MSCs completed for the purposes of RPC-611 containment do not fulfill the requirement for monthly MSCs required by employment within the Authority.
+
+Proximity CPS systems installed along the perimeter of RPC-611 must undergo tests at 09:00 MAGT to ensure operation. Failure to do so will warrant disciplinary action. In the event any CPS system is malfunctioning/unable to activate, maintenance teams must be dispatched immediately. Patrol squads must monitor the uncontained area as maintenance teams repair the system.
+
+@@ @@
+
+[[collapsible show="[+] Cognitohazard Projection System (CPS) v2.4 Dossier" hide="[-] Close Dossier"]]
+
+> [[=]]
+> [[size 120%]]CPS 'Childcare' Equipment Dossier[[/size]]
+> [[/=]]
+>
+> ------
+>
+> {{While cognitohazard projectors have existed since we could shine a light behind a piece of paper, like the ones my family used to build, more modern systems have been developed as a means of remote projection of cognitohazards, such as video projectors like the ones your school used, somewhat. Ours are a bit more expensive. But both visual and audio cognitohazards are within the system's [*http://rpcauthority.wikidot.com/rpc-727 repository of memes.]}}
+>
+> {{Standard CPS units are a large screen displaying flashing cognitohazards, while also projecting audio cognitohazards via the speaker system attached. Solar power is normally the method of energy production chosen, and the current model can operate for up to 7 days before needing maintenance.}}
+>
+> {{CPS rigs are not widespread in the field. In fact, they are incredibly limited in number, rarely used by MSTs beyond those dealing with spectral entities, in which unconventional weaponry is needed. In this case, the CPS is a shoulder-mounted or hand-held projector that can flash congitohazards along surfaces or in the face of a hostile. Speaker systems installed along the system also play audio-based cognitohazards, although this is normally limited to only disabling memes since the sound can't be directed the way an image can. Obviously, the operator will have to have a Theophan resistance higher than the cognitohazards they're using.}}
+>
+> {{//- [*http://rpcauthority.wikidot.com/containment-hub Faber Ferrarius] Richard Andrysiak//}}
+
+[[/collapsible]]
+
+@@ @@
+
+**Description:** RPC-611 is the Yuaskyag Corrective Labor Camp (Russian: горный-трудовой медицинский лагерь) and the approx. 1,800km^^2^^ area surrounding its epicenter. RPC-611 is located within the Magadan Oblast (Russian: Магаданская область) of the Russian Far East. The area of RPC-611 has been experiencing a slow decline in coherency and expanding for the past {{59}} years as of {{2/1/19}}. It is estimated that RPC-611 will reach a coherency of 0.01 and encompass the entirety of the Magadan Oblast by {{6/4/21}}.
+
+RPC-611-1 are (assumed) former humans who have been produced by the processes of RPC-611-2. While the specifics of their nature and anatomy (if they possess one) are pending study, it is understood that RPC-611-1 instances are incorporeal and intangible. Observations of their behavior suggest instances suffer from bipolar schizoaffective disorder.
+
+RPC-611-1 instances are unpredictable in their behavior, although they are to be assumed hostile at all times. A distance of no less than 25 meters must be kept at all times to ensure the safety of personnel. Under no circumstances are personnel to approach an instance of RPC-611-1 unless ordered by senior personnel.
+
+RPC-611-1 instances are capable of limited telekinesis, contact-based (and possibly ranged) telepathic suggestion, possession of inanimate objects or living beings, as well as movement through any material. RPC-611-1 instances are possibly capable of limited manipulation of coherency levels in a specific area, raising it higher or lower. Pardon limited telepathic communication that cannot communicate in ways more complex than emotions or single words, RPC-611-1 instances cannot speak.
+
+RPC-611-1 instances are humanoid in appearance but lack any and all discernable features, such as facial features, hair, eyes, and any visible body parts beyond the forearms or the lower leg. While transparent, RPC-611-1 instances give off a blue "glow" when observed.
+
+RPC-611-2 is a large mechanical device designed by Hermann Vogt and constructed in 1959. The make and manufacture of RPC-611-2 are currently unknown. RPC-611-2 is currently located in the main medical building of the Yuaskyag Corrective Labor Camp, which itself lies near the epicenter of RPC-611.
+
+RPC-611-2 is capable of creating instances of RPC-611-1 when provided with a human subject. While the process is currently unrecorded, it is understood that a human subject, once interred, can be used to produce an instance of RPC-611-1 over the course of an hour. How the machine is operated, how the instance is created, and the device's composition is unknown. RPC-611-2 cannot create more than one RPC-611-1 instance from a single human subject, and the original subject is rendered permanently comatose by the device.
+
+No methods known to the Authority are able to reverse this operation.
+
+**Addenda:**
+@@ @@
+
+[[collapsible show="[+] Addendum 1: RPC-611-2 Analysis:" hide="[-] Close"]]
+
+> It is believed that the machine, RPC-611-2, creates a localized field of decreased Coherency to essentially rip out what can best be described as a spirit.
+> 
+> This field of decreased coherency creates an imbalance, and the ambient Coherency flows in like water to “even it out”. So when the machine runs through its little process over and over again, this creates a bubble of decreased coherency that slowly contracts to lower and lower coherency.
+> 
+> This localized field is created by a rift generated above the subject in the machine, a rift to a reality with a far lower coherency, which causes the coherency around the rift to fall, allowing for the removal process via a mechanical arm that "slides" through the decoherent chest, and produces the RPC-611-1 instance. We cannot determine how this does not kill the patient, what the arm is pulling, how it removes it, how the decoherent field assists the removal, and how it is powered. We have not found an answer to any of these questions, nor have the Russians. 
+> 
+> But we believe this reality that the machine connects to has a coherency of near-0, so infinitesmally small it cannot possibly be recorded. So if the machine continues to operate, it can create a field of coherency so low, the very concept of existence itself is reduced to nothing within that field. A coherency so impossibly minute, that not only will the Yuaskyag be erased, this “incoherency field” will grow to encompass the majority of Siberia and the Russian Far East, as local coherency drops to create balance. The field can almost double in size over the course of a few years, which is why we're seeing such rapid expansion ever since we began containment.
+> 
+> //- Researcher Tyler Lasarski//
+
+[[/collapsible]]
+
+@@ @@
+
+[[collapsible show="[+] Addendum 2: RPC-611 History:" hide="[-] Close"]]
+
+> RPC-611-2, or the “Cordatus Circuit” as it is called in [*http://rpcauthority.wikidot.com/monotony-and-alpha-1 recovered documents], is a device that is capable of seemingly paracausal creation of entities both intangible and incorporeal. But RPC-611-2 is not the first device of its kind, simply the most recent version. During the Third Reich, a doctor going by the name of Hermann Vogt had developed a machine not unlike the RPC-611-2 we know now in a concentration camp, the name of which has been expunged from all historical records.
+> 
+> We believe he was experimenting on the available populace for reasons that might have been military, medical, or otherwise, commissioned by the //Schwarze Sonne// of GARD[[footnote]][*http://rpcauthority.wikidot.com/gard-hub German Anomalous Research Division], a division of the German National Socialist Worker's Party created to study and apply anomalies and the occult.[[/footnote]] for a classified project. The project the machine was produced for was dubbed simply “Zwangslotse”, and the translation, “compulsory pilot”, suggests that Vogt was aware of the abilities of the entities prior to his arrival in the camp, but we do not know how or why.
+> 
+> The device he constructed was the primogenitor to the Cordatus. This machine was capable of the same paracasual creation, but the entities produced apparently “dissolved in moments” once “removed” from the victim of the machine. However, Vogt found that the entities could be coerced, via memes and cognitohazards, into what can best be described as possession of inanimate objects. The entities would be able to inhabit these objects and manipulate them to a limited degree, without dissipating. These experiments proved fruitful, but never able to be mass-produced. Nonetheless, it resulted in several anomalies that are not necessarily relevant to the history of RPC-611 insofar as the document is classified to contain.
+> 
+> This camp was near the Eastern Front. Once it was taken by the Russians, the soldiers found radios that screamed, televisions that cried, and lamps blinking in morse code, locked away in cells. The soldiers burned the camp to the ground. Conveniently, most, if not all witnesses we didn’t grab first died of a panic attack or PTSD-related delusions not too long after. However, Vogt escaped to Berlin long before the Soviets had arrived.
+> 
+> And once Berlin was in shambles, he was taken to the Soviet scientists, likely operating with the Iron Initiative[[footnote]] Anomalous research and application division of the USSR. [[/footnote]], who were very interested in this “Zwangslotse” program they’ve heard about. The deal was simple. Political asylum for scientific aid. The Russians brought him to the Magadan Oblast to perform his next series of experiments. This time, they wanted observers. Recon agents and the like. The Zwanglotse proved too unstable and unreliable, but a soldier that could walk through walls, never sleep, never eat, never die? That would prove useful. He constructed a new machine, the Cordatus Circuit, and this one could preserve the original body, supposedly a sort of link for the, ah, spirit to not dissolve as the others did. By 1959, it was in full operation.
+> 
+> However, the power of suggestion wasn’t yet discovered, and the creature’s ability to tap into the mind wasn’t detected until it was too late. The takeover was swift, and Vogt found himself once again at the mercy of the Russians, although in this case, the Russians were tortured inmates who found themselves unable to return to their original bodies at the hands of this doctor, and they had no intent to spare him for the sake of science. He was gutted like an animal.
+> 
+> It didn’t take long for the Soviets to find out, of course. No need to waste men, though. A swift bombing run should take care of it. The Russians thought that the comatose bodies kept the ghosts alive. Kill the bodies, the ghosts dissipate. This was proven incorrect, once the majority of the camp was reduced to rubble. Something in the machine's design is keeping them alive, and that machine is, according to the dossier, several levels beneath the main medical building.
+> 
+> That brings us to now. The collapse of the USSR has led to several anomalies being left uncontained and unheard of, and once we tracked down the Iron Initiative scientists that worked on the project, they let us know that they have been unable to contain a machine that threatens to melt most of midwestern Eurasia, and that it was effectively now our problem.
+> 
+> //- Site Director Daniel Reikowski//
+
+[[/collapsible]]
+
+
+@@ @@
+**Addendum 3: Recovered Soviet Documentation**
+@@ @@
+
+
+[[collapsible show="[+] Soviet Interrogation of RPC-611-1 Influence Victim" hide="[-] Close"]]
+
+> //Officially referred to as "Yuaskyag Interview #19" in Iron Initiative records, this recording is seemingly from a camera set before an unidentified man strapped to an operating table. The room is grey and mostly empty pardon a single lightbulb hanging from the ceiling, a chair, and several medical tools set beside the table on a tray. The man is completely still and does not appear to be breathing, and has several surgical scars along their chest and neck.//
+
+> //Translated from Russian.//
+> 
+> //Unidentified individual in medical scrubs (hereafter referred to as "Doctor") momentarily blocks the view of the camera as they approach the operating table. They pull a chair close to the table and sit in it, before retrieving a notepad and pen from their satchel. The man strapped to the table (hereafter referred to as "Patient") remains motionless.//
+> 
+> **Doctor:** Hello. I am //[Unintelligible as white noise plays]//, and I am going to ask you several questions. I want you to answer them to the best of your ability. Understood?
+> 
+> **Patient:** Yes. I think I can do that, doctor.
+> 
+> //Note that the individual moves nothing but their mouth as they speak. Their eyes remain fixed on the light above them. They do not blink.//
+> 
+> **Doctor:** Excellent. Can you tell me your name?
+> 
+> **Patient:** //[Unintelligible as white noise plays]//. My friends call me Kolya.
+> 
+> **Doctor:** What do you do?
+> 
+> **Patient:** I am a guard. I was brought over from Vladivostok to patrol a gulag in the Far East. I did not know why I was chosen.
+> 
+> **Doctor:** Vladivostok. How long were you there?
+> 
+> **Patient:** 46 years.
+> 
+> **Doctor:** Fascinating. This paper here says Kolya is only 28 years old. How is that possible?
+> 
+> **Patient:** //Their face contorts as they show visible agitation.//
+> 
+> **Patient:** No, no, I am 28 years old. I was there for 46 years.
+> 
+> **Doctor:** I do not believe that adds up. Explain.
+> 
+> **Patient:** I- I am Kolya, I was-
+> 
+> **Doctor:** Speak up. I cannot hear you mumble.
+> 
+> **Patient:** I was taken from my home east of the Maya River, from my tribe of the Okhotsk, and driven to a kolkhoz. My father, one of your hated shamans, was taken from me because he played a song on his //ungtuvun//[[footnote]]A large, flat drum with a leather head, a cross-shaped handle attached to the back of the frame, and iron rattles that produce a jingling sound when the instrument is struck. Traditionally used by Evenki shamans.[[/footnote]] in the privacy of our own home. I could not even offer him a feast in his honor, or bury him in the proper way. But I cut my hair and offered it to him, even though he was far from me. We lost our lifestyle, our culture, our way. Concrete became our religion. Your people brought all manner of foreign technology at the expense of our spirit. And then I was stolen away to the gulag because I spoke a word against those who oppressed me.
+> 
+> **Doctor:** Now, that was not Kolya. //Bėjil bökėtčur ömėn ĥilkič njan urumkėr baldaritno, temn noṅarduk ėgd'ėn ṅi-da ačča//[[footnote]]Phrase spoken in Evenki language. Translation pending.[[/footnote]]. You understand what I'm saying, don't you?
+> 
+> **Patient:** Nonsense! Nonsense! Those words mean nothing, are nothing, coming from your mouth! It is an attack on my people! And I find myself in the flesh of the same people that wanted mine dead. Explain yourself, worm.
+> 
+> **Doctor:** How long have you been in this body?
+> 
+> **Patient:** You whine like a child, songocho[[footnote]]Evenki for "crybaby".[[/footnote]].
+> 
+> **Doctor:** Fascinating. What is your name?
+> 
+> **Patient:** What does it matter to you?
+> 
+> **Doctor:** It matters to my studies.
+> 
+> **Patient:** //Scoffs//. Libgerik. My father was named Kostoku.
+> 
+> **Doctor:** Libgerik? That is a woman's name.
+> 
+> **Patient:** Quite.
+> 
+> **Doctor:** Does that affect your ability to control Kolya's body?
+> 
+> **Patient:** It will not keep me from tearing out your throat with my teeth.
+> 
+> **Doctor:** Noted.
+> 
+> //Signs of decreased coherency become visible. Notably, the RPC-611-1 instance seems to be manipulating coherency around their restraints to "melt" them. The doctor does not notice.//
+> 
+> **Doctor:** Can you see only through Kolya's eyes right now, or are you also viewing from your, ah, intangible form?
+> 
+> **Patient:** My spirit is very much alive, doctor.
+> 
+> **Doctor:** I don't believe in spirits. Your mysticism doesn't have a place in our society, I'm afraid. Your people are little more than ghosts now, your tribes are an anachronism, nothing more.
+> 
+> //The patient's right hand goes through their weakened restraints and takes hold of the doctor's face. The decreased coherency begins to "melt" the doctor's head in their hands. The doctor struggles and screams, but fails to break free. Guards observing from outside the room rapidly enter the room, weapons raised.//
+> 
+> **Patient:** Fascinating.
+> 
+> //The patient frees their left hand and drives it through the doctor's head. The head, then mostly reduced to a thick sludge, gave little resistance as bone, flesh, and blood splatter across the opposite side of the room. The guards immediately fire upon and terminate the instance. After several seconds of continuous firing, the guards stop, examine the corpse for signs of life, and end the recording.//
+
+[[/collapsible]]
+
+@@ @@
+
+[[collapsible show="[+] Recovered Soviet Expedition Log" hide="[-] Close"]]
+
+> //In the collapse of the USSR, countless dossiers, documents, and recordings of the Iron Initiative were lost to time. However, due to the isolated nature of RPC-611, most information on the anomaly was entirely on-site, so when the outpost was abandoned, most items of interest to us, such as the RCA TKP45 the Russians used to document the site in video, were still present and preserved. While partially degraded due to time and the effects of decreased coherency, several recordings, such as this one, are relatively intact.//
+> 
+> //- Researcher Tyler Lasarski//
+
+> **00:00** //Recording begins. Video shows destroyed buildings and scattered debris. The camera pans across the area. Assumed to be within 6~ km of RPC-611's center.//
+> 
+> **00:10 - 00:40** //No remarkable activity as the camera operator and 2 armed guards walk closer to the epicenter of RPC-611, pardon occasional close examinations of specific structures of significance, such as the dorms and a mine entrance, with unremarkable commentary from team. Periodic appearance of figures at edges of camera's field of vision suggests RPC-611-1's presence, but is not noticed by the team.//
+> 
+> **00:53-00:58** //Guard on the left of the camera reaches out a hand to stop the camera operator, and points towards a collapsed outpost. While initially invisible, as the camera focuses on the building 2 instances of RPC-611-1 can be seen. They appear to be "dancing" with one another, spinning in circles and making various movements towards and from each other. A third instance can be seen further from the team attempting to hit their head on a large boulder repeatedly, but failing due to their intangibility. The team remains quiet to avoid detection. Camera operator continues observing RPC-611-1 instances before moving forward.//
+> 
+> **01:02** //Visual distortion due to decreased coherency begins at approx. 2km from the epicenter.//
+> 
+> **01:10** //Team walks along the trail leading to the apex of the Zechka (зечка) mountain. A total of 9 RPC-611-1 instances can be seen observing the team a few dozen meters away from the trail. The team remains completely silent. Instances do not follow the team along the trail.//
+> 
+> **01:24** //Team reaches the apex of Zechka mountain. Across is the Zek mountain, and in the valley between lies the main medical building. Most of the building is entirely collapsed, but several outcroppings suggest entrances to the lower levels exist. The guard on the right side of the camera operator scratches on the side of their neck. As their hand pulls back, portions of their skin and flesh come with it. No members of the team appear to notice.//
+> 
+> **01:32** //As the team descends Zechka mountain, there is an increased presence of RPC-611-1 instances, who seem to slowly approach the team as they go down the path. The team is silent and speeds up their pace. When the camera focuses on the medical building, a bright blue glow can be seen from beneath the rubble. Several pieces of large debris and terrain appear to be "floating" near the epicenter of the decoherency field. Distortion causes the camera feed to be imperceptible for periods of time.//
+> 
+> **01:49** //Team reaches bottom of the mountain. Several RPC-611-1 instances are still in slow pursuit. As the team walks closer to the building, the camera focuses on a sign that has been rendered unreadable due to coherency loss. A guard walks up and pokes the wooden "sludge" and the sign falls apart.//
+> 
+> **01:57** //Team is now 1 kilometer from the epicenter of RPC-611. Camera feed rendered almost entirely incomprehensible due to distortion pardon brief 5-10 second intervals. The camera briefly focuses on several RPC-611-1 instances entering the ruins of the medical building before returning to static. The audio suggests the team is turning around to return to base.//
+> 
+> **02:01-02:24** //RPC-611-1 instances draw closer than before to team, some coming as close as 10 or 5 meters. During a period of static distortion, the guard on the right of the camera disappears. The team does not comment on this. They are now at a running pace up the mountain.//
+> 
+> **02:38-02:42** //Team stops for a moment to drink from canteens. The camera is set down on the ground but continues filming. RPC-611-1 instances approach but do not come within 5 meters of the team. Guard and operator are visibly anxious.//
+>  
+> **02:43** //Operator's hand is briefly visible as they point behind the guard towards an approaching RPC-611-1 instance. The operator picks up the camera as the team slowly backs away. The instance continues approaching and suddenly sprints towards the guard, running through them. The guard's upper body collapses and is reduced to a thick liquid substance. The operator runs from the instance, the camera only pointed towards the ground, the only sound being the heavy breathing of the camera operator.//
+>  
+> **03:04** //Operator reaches 6 kilometer border. Footage ends.//
+
+> {{Recovered documents state that of the 3-man team, only the operator survived, who had to be treated for Syndactyly.}}
+
+[[/collapsible]]
+
+@@ @@
+**Addendum 4: Authority Acquisition Logs**
+@@ @@
+
+[[collapsible show="[+] RPC-611 Containment Operation Report 26.2.1992:" hide="[-] Close"]]
+
+> [[size 120%]] **RPC-611 Containment Operation Report 26.2.1992:** [[/size]]
+> **Response Forces:** Protectorate NT-100 3rd Airborne Detachment, MST Sierra-04[[footnote]]Codenamed "Kudzu Killers", Sierra-04 is a task force composed of reconnaissance and camouflage specialists. Comprised of members with high marksmanship abilities, often utilized in recon missions and long-range fire support.[[/footnote]], MST Echo-25[[footnote]]Echo-25 specializes in containing and terminating undead or otherwise supernatural entities that require unique termination methods.[[/footnote]]
+> 
+> **Preface:** //While MST Sierra-08[[footnote]]Codenamed "Sundowners", Sierra-08 is a task force assigned to investigate various anomalies and supernatural occurrences inside and outside the Authority.[[/footnote]] was still in the process of apprehending and interrogating former Iron Initiative personnel, the Authority Central Intelligence had determined the location of RPC-611 (Then classified as LA-0489), and an emergency containment team was dispatched. At the time, information on the anomaly was limited, and so far all known threats were rogue Soviet personnel (possibly affected by memetic effect) and potential spectral entities. Given the remoteness of the location, a single member of Echo-25 was able to be brought onto the assignment as an advisory body to NT-100.//
+> 
+> **Equipment and Personnel:**
+> 
+> * //1 AAI Penetrator [[footnote]]Originally known as the American Aircraft International Penetrator, the Authority Aircraft International Penetrator (also referred to as the "Ape") is a military helicopter conceived in 1990 as a gunship conversion of the Bell UH-1 Iroquois, aimed at ground insertion, close support and counter-insurgency roles. Adopted as a prototype by the Authority and adapted for Protection purposes.[[/footnote]], carrying the 5-man squad, 3 crew (including pilots and gunners), a M240B rear gun turret, and twin 12.7mm GAU-19 forward-firing cannons.//
+> * //4 NT Rangers of the 9th Airborne Detachment, equipped with standard field gear and armaments.//
+> * //2 Sierra-04 specialists for recon and fire support. Equipped with L118A1 bolt-action sniper rifles.//
+> * //1 Echo-25 member, equipped with standard field gear and armaments, as well as prototype CPS device to ward off potential spectral entities.//
+> * //2 Senior Research Personnel, with assigned equipment for identification and analysis.//
+> 
+> **Mission Specifications:**
+> 
+> * Research: Locate and investigate LA-0489.
+> * Protection: Eliminate hostile personnel, ensure safe entry for future researchers.
+> * Containment: Establish temporary perimeter of LA-0489.
+> 
+> ------
+> 
+> **Mission Results:**
+> 
+> * LA-0489 properly identified as an anomaly. Size and scale of area established.
+> * All hostile personnel (6) preemptively eliminated by Sierra-04.
+> * Upwards of 27 UAEs[[footnote]]Unidentified Anomalous Entities. A tentative designation for sentient/sapient entities encountered in field operations that have not been identified by Research personnel.[[/footnote]] sighted. Hostile. Capable of coherency manipulation.
+> * Several personnel afflicted with Liebenberg syndrome due to coherency loss.
+
+[[/collapsible]]
+
+@@ @@
+**Addendum 5: Authority Monitoring Logs**
+@@ @@
+
+
+[[collapsible show="[+] Containment Report #184 26.12.18:" hide="[-] Close"]]
+
+> **DATE:** {{26th of December, 2018.}}
+> 
+> **RPC DESIGNATION:** {{RPC-611.}}
+> 
+> **REPORTING PERSONNEL:** {{Tyler Lasarski, with assistance from IB-430.}}
+> 
+> **REPORT:** {{//Containment personnel have reported an increasing presence of RPC-611-1 instances regularly approaching the perimeter of the Yuaskyag, on a daily basis, at exactly 7 AM. They seem to have detailed knowledge of the presence of the CPS systems, and specifically go towards the "blind spots" in this perimeter. We are using the allotted AECR[[footnote]]Anderson-Eckhardt Coherency Reader. A machine capable of providing estimates of local coherency along with the Anderson Coherency Scale.[[/footnote]] to monitor coherency decrease, and it seems that coherency decreases, however minutely, in tandem with their daily arrival. It is uncertain as to why or how they are coordinated in this effort. The containment teams are constructing new CPS systems to counteract these efforts, but there is concern that it may be possible for the instances to develop a "resistance" to the cognitohazards, the same way we are able to inundate our agents to develop an immunity to certain levels of cognitohazard.//}}
+
+[[/collapsible]]
+
+@@ @@
+
+[[collapsible show="[+] Containment Report #194 16.1.19:" hide="[-] Close"]]
+
+> **DATE:** {{16th of January, 2019.}}
+> 
+> **RPC DESIGNATION:** {{RPC-611.}}
+> 
+> **REPORTING PERSONNEL:** {{Daniel Reikowski.}}
+> 
+> **REPORT:** {{//An unusual concentration of RPC-611-1 drew to a specific location along RPC-611's perimeter. 2 airborne teams quickly responded, deploying CPS units. A log is provided below.//}}
+> 
+> **LOG:**
+> 
+> ------
+> 
+> //Translated from Russian.//
+> 
+> //The body camera of a member of IB-430 activates as the aircraft lands. At least 2 dozen RPC-611-1 instances are immediately visible, although reports after the event report several more.//
+> 
+> //Chatter between IB-430 members escalate as more RPC-611-1 entities arrive. CPS equipment has no visible effect.//
+> 
+> //Senior Officer of IB-430 arrives on V-30 Osprey. After communicating with the other officers, she orders one of the teams to resume their patrol. They quickly depart.//
+> 
+> //The senior officer approaches minimum distance allowed from RPC-611-1 instance. 2 bodyguards are close behind.//
+> 
+> **IB Senior Officer Erin:** Can you understand me?
+> 
+> //What can be described as a "murmur" can be heard through the camera's audio feed. It is unintelligible.//
+> 
+> //One of Erin's guards draws their sidearm and aims it towards the head of the officer[[footnote]]Note that the guard (who will not be named for privacy) had completed their MSC the evening before.[[/footnote]]. The present ASF personnel immediately respond and aim their weapons at the guard.//
+> 
+> **Sergeant Kravets:** Yes. We have always understood you.
+> 
+> //The SO raises their hands and holds their palms open. She remains relatively still. The RPC-611-1 entities do not move.//
+> 
+> **Erin:** Alright. What are you doing here?
+> 
+> **Kravets:** In our circumstance, the chains are one and the same. Who bears them is irrelevant. What matters is that they exist.
+> 
+> **Erin:** I have no idea what that means.
+> 
+> **Kravets:** It will all make sense, in time. But to answer your question, we are here because we wanted to talk.
+> 
+> **Erin:** And now we are talking. Don't waste my time. Please, continue.
+> 
+> **Kravets:** We have seen the rise and fall of so many things. In our own lifetime, the East met the West, and one side lost. Or rather, adapted, but that is debatable. We have seen so many people die for reasons they don't believe in, sins committed for countries and people that no longer exist.
+> 
+> **Erin:** You've spent a lot of time thinking about this.
+> 
+> **Kravets:** More than you can possibly imagine. In this flesh, I can breathe. I can see. I can sense. Your mind spends so much time on these things, that in our state, we are trapped in our thoughts, by our thoughts. It is agony.
+> 
+> **Erin:** You haven't told me what you want.
+> 
+> **Kravets:** For someone with a gun pointed at your head, you are awfully impatient.
+> 
+> **Erin:** You won't shoot me. You wanted to talk, and you know that if you kill me, you'll never get another chance. And you know I wouldn't kill Kravets.
+> 
+> **Kravets:** True. Your men will, though, once I drop the gun. Nevertheless, what we want is simple: A bomb.
+> 
+> **Erin:** No.
+>  
+> **Kravets:** I haven't finished. You know that you cannot destroy the Circuit from the air. Even if you could authorize it, any bomb a plane could carry would disintegrate before it touched the ground. We've seen your papers. You need us to destroy the machine before it destroys our home.
+> 
+> **Erin:** You want to destroy your home to save it?
+> 
+> **Kravets:** This is not our home. It never has been. This- all of it- is simply temporary. Ephemeral. We want to be free.
+> 
+> **Erin:** Ah. I see. And how can we trust you with an explosive of that scale?
+> 
+> **Kravets:** It doesn't need to be large. Just enough to destroy the Circuit.
+> 
+> **Erin:** That doesn't change much.
+> 
+> **Kravets:** Fine then. You have no other choice. The only weapon that you could use is a bomb that could be detonated from outside the decoherency field, and that would encapsulate the entirety of the Yuaskyag, and not only would you be detonating it in the land of a country that you have no business being in, but we would also kill you and your men before the bomb even reaches Zechka. Besides, you have the means to keep us from detonating near anything valuable.
+> 
+> **Erin:** If I told you this wasn't the first time an anomaly asked to neutralize itself, would you believe me?
+> 
+> **Kravets:** I would find it hard to believe it was the first. Goodbye.
+> 
+> //Kravets collapses, and goes unconscious. The RPC-611-1 instances demanifest.//
+
+[[/collapsible]]
+
+
+@@ @@
+@@ @@
+[[/div]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="background: #000000; border: dashed 1px #858585; padding: 0px 1em 20px; margin: 0px 3%; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+------
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**GD-EAST**
+
+[[span class="email"]] From: <@@GDEAST@authority.rpc@@> [[/span]]
+[[span class="email"]] To:<@@reikowskid77@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __RE: RPC-611 Neutralization Order**__ [[/span]]
+[[span class="email"]] Sent: 23:28, February 2, 2019 [[/span]]
+
+[[/div]]
+
+------
+~~~~
+------
+
+Normally, such a proposal would be brought to lower-ranking personnel.
+
+Given the extraordinary circumstances, and a general unwillingness from the regional directors to prevent the destruction of the Magadan Oblast, I have decided to handle this myself.
+
+I have sent Black Witch Alpha-1 to bring you the explosive device within the next 2 days. They will ensure its safe arrival and detonation. Safeties are in place to prevent malicious intent from RPC-611-1, but I feel as though that is unlikely.
+
+I expect a succinct update on the article's page once the anomaly is neutralized.
+
+Good day.
+
+[[/div]]
+
+[[=]]
+<< [[[RPC-610]]] | RPC-611| [[[RPC-612]]] >>
+[[/=]]
+
