@@ -1,0 +1,16 @@
+---
+title: "Random Page"
+tags: []
+page_id: "1308479493"
+site: "sandbox-cea"
+slug: "random"
+revision: 0
+revision_id: "1362054685"
+author: 2954516
+timestamp: 1617623129
+---
+
+[[module ListPages category="wiki" order="random" limit="1" range="others"]]
+[[iframe http://snippets.wdfiles.com/local--code/code:iframe-redirect#%%link%%]]
+[[/module]]
+

@@ -1,0 +1,188 @@
+---
+title: "Contribute"
+tags: ["_admin", "general", "guide", "help"]
+page_id: "1448763217"
+site: "projectnexium"
+slug: "contribute"
+revision: 17
+revision_id: "1541357893"
+author: 9624521
+timestamp: 1768140262
+---
+
+[!-- Code taken from SCP Wiki. Must change soon. --]
+
+[[include :scp-wiki:fragment:nav-generic-css]]
+[[module CSS]]
+.content-box {
+    flex-basis: 17.5rem;
+}
+.content-type-description {
+    padding-inline: .875rem;
+}
+.bridge :is(.list-pages-box, p) { display: contents; }
+
+.new-page-box form {
+    display: flex;
+}
+.new-page-box form input {
+    margin: 0!important;
+    padding: 0.325em 0.425em;
+    border-radius: 0;
+    appearance: none;
+}
+.new-page-box form input.text {
+    flex-grow: 1;
+    border: solid 0.125rem #e8e8e8;
+    outline: none;
+    transition: all 0.125s linear;
+}
+.new-page-box form:focus-within input.text {
+    border-color: var(--box-accent);
+}
+
+.new-page-box form input.button {
+    margin-inline-start: 0.4125rem!important;
+    color: var(--box-accent);
+    background: #000000;
+    border: none;
+    font-family: inherit;
+    font-weight: bold;
+    cursor: pointer;
+    outline: solid 0 var(--box-accent);
+    transition: all 0.075s linear;
+}
+.new-page-box form input.button:is(:hover,:focus) {
+    color: black;
+    background-color: var(--box-accent);
+    outline-width: 0.225rem;
+}
+
+
+.content-type-footer { font-weight: bold; }
+
+/*----------------------------*/
+
+.art .new-page-box form::before {
+    content: "art:";
+    display: block;
+    padding: 0.325rem;
+    background: #000000;
+    font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    transition: all 0.0875s linear;
+}
+.art .new-page-box form:focus-within::before {
+    color: black;
+    background: var(--box-accent);
+}
+
+/*
+    Powered on 2025/10/13 18:56:58
+    [2025 Wikidot Theme]
+    Created by Tsumauchi
+    CC BY-SA 3.0
+*/
+
+
+
+body {
+color: ##000000;
+}
+h1 {
+    color: #;
+}
+
+[[/module]]
+
+[!-- Code taken from SCP Wiki. Must change soon. --]
+
+
+Want to contribute to the Project Nexium Wiki? You've come to the right place! Please make sure you've [[[system:join|joined the site]]] first, though. Please make sure you've also read the [[[guide-for-writing|Guide For Writing]]], which contains important information to do with how to write an article and get feedback before posting. 
+
+[[div class="content grid"]]
+
+[!-- LOG Block --]
+
+[[div class="content box" id="log"]]
+[[div class="content-type-title"]]
+LOG Articles
+[[/div]]
+[[div class="content-type-description"]]
+LOG Articles are the heartland of Project Nexium, which are detailed anomalies under the care, containment and protection of our government organization, they can often be shown as short stories about anomalies in the form of online or physical, formal documents. 
+[[/div]]
+
+[[div class="bridge"]]
+[[module listpages separate="no" limit="1" tags="+hub +metadata" name="projectnexium-chronicle%" order="name desc"]]
+To create an LOG, go the [[[%%name%%|most recent series]]] and click on a number with a blank space next to it.
+[[/module]]
+You cannot change your slot to a lower-numbered slot after creation.[[footnote]] please do refer to our [/creative-works-policy#toc13 Creative Works Policy]. [[/footnote]]
+
+Additionally you may choose to write a [[[joke-chronicle|Joke LOG]]]. These are anomalies that should be funny and make the reader laugh, but it depends on the person reading them. [[[explainedchronicles|Explained LOGs]]] may also be a hot topic of interest, for these are anomalies that can be explained by natural sciences or phenomena. Below, there is a box, where you can write an anomaly's name down. Please only use the formats: "LOG-XXXX", "XXXX-J" or "XXXX-EX".
+[[/div]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[module NewPage button="create" size="10.1"]]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[[How to write an LOG]]]
+[[/div]]
+[[/div]]
+
+[!-- Tale & Other Block --]
+
+[[div class="context-box tale" id="tale"]]
+[[div class="content-type-title"]]
+Tales, GoI/CoI & Others
+[[/div]]
+[[div class="content-type-description"]]
+Tales are also a necessary part of our organization of Project Nexium. They contain some, if not most of the life within our facilities. These stories are known to be agitating to the reader and require a certain Level requirement for Entry. Tales can be anything from formal reports to poetry, no matter how irrational it is, as long as it explores some idea about Project Nexium, its personnel or a topic within its universe. 
+
+**[[[GoI Formats]]]** and **[[[CoI Formats]]]** are documents written from the point of view of a [[[groups-of-interest|Group of Interest]]] or [[[constellations-of-interest|Constellation of Interest]]], who each approach these anomalies in their own unique ways.
+
+You can create a tale, GoI Format, CoI Format or other types of pages, by typing into the intended title below. Please be careful not to use colons (:) as this could potentially miss-sort your page into the wrong category. This only sets the slug of the page.[[footnote]] This is the part of the URL that comes out after the slash. For example, @@//http://projectnexium.com/@@**contribute/**.[[/footnote]] and you may change the actual title of the page while editing.
+
+[[module NewPage button="Create" size="10.1"]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[[Guide For Writing]]]
+[[/div]]
+[[/div]]
+
+[!-- Art Block --]
+
+[[div class="content-box art" id="art"]]
+[[div class="content-type-title"]]
+Artwork and Artists
+[[/div]]
+[[div class="content-type-description"]]
+##000000|Project Nexium isn't just for authors to join. We also encourage drawing, no matter whether it is by pixel or by hand -- you are welcome to post your artwork on the## [[[art-collection-hub|Art and Design Hub]]]. ##000000|There are two ways to do this -- you can either create a gallery as your artist page for your entire portfolio and post your art there as long as you link it to the main hub, or you can create separate, dedicated pages which are meaningful to you. we cannot force you to pick one way -- it is entirely up to you.## ##000000|Read## **[[[how-to-post-your-art-to-project-nexium|How to Post Your Art to Project Nexium]]]** ##000000|for more details.##
+
+
+##000000|The box below will automatically create a page in the "{{art:}}" category.##
+
+[[module NewPage button="create" category="art" size="10.1"]]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[[How to Post Your Art to Project Nexium]]]
+[[/div]]
+[[/div]]
+
+[!-- Wikidot.Help -- WikidotHelp Block --]
+
+[[div class="content box alt" id="WikidotHelp"]]
+[[div class="content-type-title"]]
+Wikidot Help
+[[/div]]
+[[div class="content-type-description"]]
+This form will help you if you have problems relating to Wikidot, or are a new user to Wikidot and found our site first. You can go to **[[[http://www.wikidot.com/doc:quick-reference|Wikidot: Quick Reference]]]** to view Basic Syntax for Headings and you could view **[[[http://snippets.wikidot.com/|the Snippets collection]]]** at @@http://snippets.wikidot.com/@@. Pages related to this topic can be created below.
+
+
+[[module NewPage button="Create" category:"wiki-syntax-help" size="10.1"]]]
+
+[[/div]]
+[[div class="content-type-footer"]]
+[[[https://www.wikidot.com/doc-wiki-syntax:start|Wiki Syntax (Start)]]]]
+[[/div]]
+[[/div]]
+

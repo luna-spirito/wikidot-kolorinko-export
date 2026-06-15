@@ -1,0 +1,75 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "1448560716"
+site: "projectnexium-sandbox"
+slug: "nav:side"
+revision: 6
+revision_id: "1516608265"
+author: 8358201
+timestamp: 1702261135
+---
+
+~~~~
+
+
+[[div class="side-block"]]
+
+
+[[div class="menu-item"]]
+[/ Main]
+[[/div]]
+
+
+[[div class="heading"]]
+Authors' Resources
+
+
+[[div class="heading"]]
+Project Nexium Sandbox
+[[/div]]
+[[div class="menu-item"]]
+[http://projectnexium.wikidot.com//system:join Join the Site!]
+**A standard sandbox can only be edited by the original author or a mod/admin.**
+For collaborative pages, please read the instructions [https://leiwiki.com/zyns-co-authoring-tips#toc5 here].
+**Sandbox titles should have the author name, not draft name.** This helps make it clear at a glance who owns the page.
+Remember to click "Save" and NOT "Save Draft" when editing pages.
+[[/div]]
+
+
+[[div class="heading"]]
+Main  Project Nexium Wiki
+[[/div]]
+[[div class="menu-item"]]
+[http://projectnexium.wikidot.com Project Nexium]
+[[/div]]
+[[div class="menu-item"]]
+[http://projectnexium.wikidot.com/how-to-write-a-log How to Write an Log]
+[[/div]]
+[[div class="menu-item"]]
+[https://LEIwiki.com/guide-hub Guide Hub]
+[[/div]]
+
+
+[[/div]]
+
+
+[[div class="side-block resources"]]
+[[collapsible show="Admin" hide="Admin"]]
+[[div class="menu-item"]]
+[/_admin Site Manager]
+[[/div]]
+[[div class="menu-item"]]
+[https://www.wikidot.com/doc:wiki-syntax Wiki Syntax]
+[[/div]]
+[[div class="menu-item"]]
+[[[nav:side|Side]]] | [[[nav:top|Top]]] | [[[component:theme|Theme]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+
+[[a href="#" class="close-menu"]]
+[[image https://LEI-wiki.wdfiles.com/local--files/nav%3Aside/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

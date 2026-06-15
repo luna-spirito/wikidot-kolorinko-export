@@ -1,0 +1,24 @@
+---
+title: ""
+tags: []
+page_id: "1311587245"
+site: "harp-wiki"
+slug: "system:page-tags"
+revision: 0
+revision_id: "1365653311"
+author: 7460495
+timestamp: 1621267717
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+
+[!--
+
+You can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module 
+But if you want to keep the tag functionality working - do not remove these modules.
+
+--]
+

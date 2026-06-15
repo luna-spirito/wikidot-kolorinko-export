@@ -1,0 +1,20 @@
+---
+title: "Donate"
+tags: []
+page_id: "1308479495"
+site: "sandbox-cea"
+slug: "donate"
+revision: 0
+revision_id: "1362054687"
+author: 2954516
+timestamp: 1617623129
+---
+
+[[note]]
+**Please change this page according to your needs**
+
+You should explain how your visitors can donate to support your organisation on this page.
+
+If you do not plan on using this page you can remove it by [/nav:side/edit/true editing nav:side] and removing the following line: {{@@* [/donate Donate]@@}}
+[[/note]]
+

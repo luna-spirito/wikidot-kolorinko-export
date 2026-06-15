@@ -1,0 +1,44 @@
+---
+title: "How to write a LOG"
+tags: []
+page_id: "1448544988"
+site: "projectnexium"
+slug: "how-to-write-a-log"
+revision: 11
+revision_id: "1531634562"
+author: 8212444
+timestamp: 1755535154
+---
+
+++ LOG Template
+The first thing is the template to use when writing. It is as follows:
+[[code]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+**File:** LOG-XXXX
+
+**Level:** [Level 1: Helpful, Level 2: Cooperative, Level 3: Neutral, Level 4: Uncooperative, Level 5: Dangerous]
+
+**Category:** [what is the subject of the article about (sentient/place/object/entity/creature)]
+
+**Observations:** [Description of observations in the field]
+
+**Nexium Agent:** [If applicable, the researcher associated or most commonly working with the log if it is an entity or creature]
+
+**Recommendations:** [ Optional Provide any recommendations for additional actions or improvements based 
+on the file, such as revised procedures, training requirements, or equipment upgrades.]
+
+**Attachments:** [If applicable, include any supporting documents, data logs, images, or other relevant materials 
+that provide additional context or evidence related to the file.]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[LOG-XXXX]]] | LOG-XXXX | [[[LOG-XXXX]]] >>
+[[/=]]
+[[/div]]
+[[/code]]
+

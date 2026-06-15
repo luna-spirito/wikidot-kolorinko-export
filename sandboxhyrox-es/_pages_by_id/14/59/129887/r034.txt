@@ -1,0 +1,198 @@
+---
+title: "Correos Electronicos"
+tags: []
+page_id: "1459129887"
+site: "sandboxhyrox-es"
+slug: "correos-electronicos"
+revision: 34
+revision_id: "1543772616"
+author: 9161410
+timestamp: 1778108591
+---
+
+[[include :hyroxcorp-es:component:aviso-importante]]
+
+[[module css]]
+@import url(https://hyroxcorp-es.wdfiles.com/local--code/component:zayin-theme/1);
+
+#page-title {
+    display: none;
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+table.rating td.blockEnd {
+    padding-left: 1.5em;
+}
+
+.rating-hover {
+  position: relative;
+}
+
+.rating-hover:hover .rating-info {
+  visibility: visible;
+  opacity: 1;
+}
+
+.rating-info {
+  min-width: 75px;
+  text-align: center;
+}
+
+.rating-note {
+  text-align: center;
+}
+
+@media (min-width: 769px) {
+  .rating-note {
+    padding: 0 80px;
+  }
+
+  .rating-flex {
+    display: flex;
+  }
+
+  .rating-flex>div {
+    width: 50%;
+  }
+
+  .split-block {
+    width: 90px;
+  }
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: var(--basic-border); padding-bottom: 15px;"]]
+División Zayin.
+[[/div]]
+
+[[include :hyroxcorp-es:component:image-block
+name=https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_The_U.S._Army_-_Sunset_stroll.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+|caption=//La diferencia entre el caos y el orden no es la ausencia de peligro. Es saber exactamente qué hacer cuando llega.//
+|width=700px
+|align=center]]
+
+-----
+
+[[=]]
++ __Introducción__
+[[/=]]
+
+Bienvenido a la División Zayin. Nuestra función dentro de la Corporación es simple de enunciar y compleja de ejecutar: garantizar que las amenazas no lleguen a materializarse, y neutralizarlas cuando lo hacen. Somos la fuerza operativa de la Corporación, responsables de la seguridad de sus instalaciones, su personal y las poblaciones que dependen —sin saberlo— de nuestra intervención.
+
+La División Zayin no actúa en aislamiento. Nuestras operaciones dependen de la inteligencia que genera la Oficina Central, de los recursos que distribuye la División Tav, y del marco institucional que supervisa la División Aleph. Lo que aportamos es la capacidad de traducir todo ese trabajo en acción sobre el terreno, con la velocidad y la precisión que las circunstancias exigen. Donde hay una amenaza activa, hay personal de Zayin.
+
+La División opera en dos ejes diferenciados. Las **Operaciones Internas** gestionan la seguridad de las instalaciones, el control de anomalías en confinamiento y la respuesta inmediata ante brechas o incidentes dentro de los sitios de la Corporación. Las **Operaciones Externas** gestionan todo lo que ocurre más allá de nuestros perímetros: desde la respuesta de campo ante anomalías en zonas habitadas hasta la vigilancia y defensa del espacio próximo a la Tierra. A continuación se describen los departamentos y fuerzas que componen cada eje.
+
+-----
+
+[[=]]
++ __Operaciones Internas__
+[[/=]]
+
+[[=]]
+++ __Departamento de Seguridad Armada__
+[[/=]]
+
+El Departamento de Seguridad Armada (DSA) es el componente de seguridad permanente de las instalaciones de la Corporación. Su personal constituye la primera línea de respuesta ante cualquier incidente interno: brechas de confinamiento, intrusiones no autorizadas y cualquier circunstancia que requiera presencia armada dentro de los sitios. El DSA mantiene protocolos de vigilancia continua y coordina con el Comité de Supervisión para Confinamiento Anómalo de la División Tav en todo lo relativo a la seguridad perimetral de las celdas anómalas.
+
+= **VIGILA. CONTÉN. PROTEGE.**
+
+-----
+
+[[=]]
+++ __Fuerza Armada y Militarizada Dron__
+[[/=]]
+
+La Fuerza Armada y Militarizada Dron (FAMD) opera y mantiene la flota de drones de combate y reconocimiento desplegados en los perímetros internos y externos de las instalaciones de la Corporación, así como en zonas de operación activa donde el despliegue de personal humano representa un riesgo innecesario o inviable. Su capacidad de respuesta autónoma la convierte en el sistema de alerta temprana más eficiente de la División ante amenazas de evolución rápida. La FAMD coordina estrechamente con el DSA en situaciones de alerta interna y con la FERS para operaciones de vigilancia en entornos no atmosféricos.
+
+= **SIN PRESENCIA. SIN RIESGO. CON RESULTADO.**
+
+-----
+
+[[=]]
+++ __Fuerza Especial de Respuesta Rápida__
+[[/=]]
+  
+La Fuerza Especial de Respuesta Rápida (FERR) es la unidad de intervención de alta prioridad de la División Zayin. A diferencia del DSA, cuya función es el mantenimiento sostenido de la seguridad, la FERR está diseñada para la intervención en situaciones de crisis activa que superan la capacidad de respuesta ordinaria: brechas de confinamiento de anomalías de clasificación Scathon o superior, amenazas con capacidad de propagación rápida, o cualquier incidente que requiera una respuesta armada de alta especialización en el menor tiempo posible. Sus equipos se mantienen en estado de alerta permanente en los sitios de mayor riesgo clasificado.
+
+= **PRIMEROS EN ENTRAR. ÚLTIMOS EN SALIR.**
+
+-----
+
+[[=]]
++ __Operaciones Externas__
+[[/=]]
+
+**Unidad de Respuesta Móvil** 
+
+La Unidad de Respuesta Móvil (URM) es el componente de campo de la División Zayin. Sus equipos —identificados por designaciones de nombre propio y número correlativo, como Escorpio-09 o Leo-01— son desplegados ante cualquier incidente anómalo que se produzca fuera de las instalaciones: aparición de anomalías en zonas habitadas, contención de entidades fuera de perímetro, apoyo a operaciones de encubrimiento de la División Resh, y protección o evacuación de civiles cuando las circunstancias lo requieren. Cada URM está equipada y entrenada conforme al perfil de amenaza específico al que está asignada de forma permanente.
+
+= **EN CAMPO. SIEMPRE.**
+
+[https://example.com/ >> Archivo de URMs]
+
+-----
+
+**Oficina Central de Inteligencia**  
+La Oficina Central de Inteligencia (OCI) es el aparato de recopilación, análisis y distribución de información estratégica de la División Zayin. Sus funciones abarcan la infiltración de organizaciones de interés, la vigilancia de actores externos con capacidad de interferir en las operaciones de la Corporación, la gestión de redes de fuentes confidenciales, la contraespionaje activo dentro de las propias instalaciones, y la producción de informes que orientan las decisiones operativas de toda la División. La OCI opera de forma encubierta; su estructura interna es de acceso restringido incluso dentro de la Corporación. Todo personal sospechoso de compromiso de seguridad puede ser objeto de evaluación por parte de la OCI sin previo aviso.
+
+= **SUB OCULO DEI.**
+
+[https://example.com/ >> Hub de la OCI]
+
+-----
+
+**Fuerza Espacial de Reconocimiento y Seguridad**  
+La Fuerza Espacial de Reconocimiento y Seguridad (FERS) es el componente más especializado de la División Zayin y el único con mandato de operación fuera de la atmósfera terrestre. Su misión es doble: la exploración y vigilancia del espacio exterior, con énfasis en la identificación temprana de anomalías de origen cósmico dentro y fuera del sistema solar que puedan representar una amenaza para la Tierra; y la respuesta operativa ante dichas anomalías cuando su proximidad al planeta así lo exige. La FERS opera en coordinación permanente con la División Daleth para la caracterización científica de los fenómenos detectados, y con la FAMD para el despliegue de sistemas no tripulados en entornos donde la presencia humana no es viable. Su existencia no es de conocimiento público, y sus acuerdos operativos con organismos espaciales externos están clasificados bajo nivel 4.
+
+= **AD ASTRA, IGNOTA ET ULTRA.**
+
+[https://example.com/ >> Hub de la FERS]
+
+-----
+
+**Fuerza de Protección y Auxilio Civil**  
+La Fuerza de Protección y Auxilio Civil (FPAC) es el componente de la División Zayin orientado a la gestión de incidentes con impacto directo sobre la población no afiliada a la Corporación. Sus funciones incluyen la evacuación de civiles en zonas de incidente activo, la gestión de situaciones de pánico colectivo, el apoyo logístico a comunidades afectadas por eventos anómalos, y la coordinación con autoridades locales bajo coberturas establecidas por la División Resh. La FPAC es, en la mayoría de los casos, la única cara visible de la División Zayin para el público, aunque nunca bajo su nombre real ni bajo ninguna identificación trazable a la Corporación.
+
+= **SERVIR SIN SER VISTOS.**
+
+-----
+
+**Departamento de Contratación Mercenaria para Operaciones Especiales**  
+El Departamento de Contratación Mercenaria para Operaciones Especiales (DCMOE) gestiona el reclutamiento, evaluación y despliegue de personal externo para operaciones que, por su naturaleza, no deben tener vinculación directa ni trazable con la Corporación. Sus contratistas operan bajo identidades y afiliaciones ficticias, sin acceso a información clasificada más allá de lo estrictamente necesario para la misión asignada. El DCMOE mantiene acuerdos con un número no divulgado de organizaciones de seguridad privada y operadores independientes, todos ellos sometidos a evaluación de riesgo previa y a protocolos de gestión de información al concluir sus contratos.
+
+= **SIN NOMBRE. SIN RASTRO. CON RESULTADO.**
+
+-----
+
+**Archivos Operativos y Documentos de Campo**
+
+Informes de operación, registros de incidentes, protocolos tácticos y documentos clasificados generados por personal de la División Zayin. El acceso a cada documento está sujeto al nivel de autoridad requerido indicado en su encabezado.
+
+= //Para agregar una nueva entrada, ingresa el nombre del documento y presiona Crear://[[footnote]]Para que el documento aparezca en la lista, añade las etiquetas "zayin" y "documento" a través del botón "Etiquetas" en la parte inferior de la página. Consulta la [*http://hyroxcorp-es.wikidot.com/guia-de-etiquetas Guía de Etiquetas] para etiquetas adicionales.[[/footnote]]
+[[module NewPage]]
+-----
++++ **Documentos Recientes:**
+[[module ListPages tags="+zayin +documento" order="created_at desc" limit="10"]]
+----
+**%%linked_title%%** por %%author%%
+— "//%%first_paragraph%%//"
+----
+[[/module]]
+= [[size 50%]]@@----------------------------------------------------------------------------------------@@[[/size]]
++++ **Todos los Documentos de Zayin:**
+[[collapsible show="[+] Mostrar todos los documentos" hide="[–] Ocultar documentos"]]
+[[module ListPages tags="+zayin +documento" order="rating desc" perPage="100"]]
+----
+**%%linked_title%%** por %%author%%
+**Puntuación:** [[span class="rating-hover"]][[span style="[[#ifexpr %%rating%% > 0 | color: #0f0;]] [[#ifexpr %%rating%% < 0 | color: #f44;]]"]][[#ifexpr %%rating%% >= 0 | + ]]%%rating%%[[/span]][[span class="rating-info"]]+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]][[/span]][[/span]] [[span style="color: #888; [[#ifexpr %%rating_votes%% == 0 | display: none;]]"]]([[#expr (((((%%rating_votes%%)+%%rating%%)/(2*%%rating_votes%%)))*5)%6]]★)[[/span]] voto(s)
+— "//%%first_paragraph%%//"
+----
+[[/module]]
+[[/collapsible]]
+= [[size 50%]]@@----------------------------------------------------------------------------------------@@[[/size]]
+

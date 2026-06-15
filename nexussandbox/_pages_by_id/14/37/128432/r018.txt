@@ -1,0 +1,15 @@
+---
+title: "Welcome to the Nexus Sandbox"
+tags: []
+page_id: "1437128432"
+site: "nexussandbox"
+slug: "home:home"
+revision: 18
+revision_id: "1508638384"
+author: 6602770
+timestamp: 1679162423
+---
+
+header: "This is the Sandbox site for NESA and crossover’s of other Sites.\n\nPlease make a new page with your username and then go to the forums and post your draft username with a link to your Sandbox.\n\nAlso for crossover articles only use this draft, you can even split the page to represent each side of the story from each wiki."
+content: "[[module NewPage size=\"20\" button=\"New page\"]]\n\n[[module MembershipApply]]\n\nAlso to make multiple draft pages is not allowed for it’ll make the sandbox site more cluttered then it should.\n\n\nWith this code you can make multiple drafts in your own page.\n\n[[code]][[tabview]]\n[[tab Title 1]]\nText goes here. Pretend this is a draft.\n[[/tab]]\n[[tab Title 2]]\nMore text in another tab! You can add lots of tabs.\n[[/tab]]\n[[/tabview]][[/code]]\n\nIf it works then it should look like this.\n\n[[tabview]]\n[[tab Title 1]]\nText goes here. Pretend this is a draft.\n[[/tab]]\n[[tab Title 2]]\nMore text in another tab! You can add lots of tabs.\n[[/tab]]\n[[/tabview]]"
+
