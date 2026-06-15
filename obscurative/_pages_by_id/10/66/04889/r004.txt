@@ -1,0 +1,14 @@
+---
+title: "Поиск по тегам"
+tags: []
+page_id: "106604889"
+site: "obscurative"
+slug: "system:page-tags"
+revision: 4
+revision_id: "146883069"
+author: 4518363
+timestamp: 1535991997
+---
+
+[[module ListPages tags="@URL|тестовый_тег"]]
+
