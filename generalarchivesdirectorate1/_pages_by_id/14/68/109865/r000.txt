@@ -1,0 +1,31 @@
+---
+title: "Topbar Menu"
+tags: []
+page_id: "1468109865"
+site: "generalarchivesdirectorate1"
+slug: "nav:top"
+revision: 0
+revision_id: "1541858520"
+author: 9720100
+timestamp: 1770620229
+---
+
+* [/ Home]
+* [# Pages]
+ * [[[About]]]
+ * [[[Contact]]]
+ * [[[Favourites]]]
+* [[[Gallery]]]
+* [# Admin]
+ * [[button edit text="Edit page"]]
+ * [[button print text="Print page"]]
+ * [/nav:top/edit/true Edit this menu]
+ * [/nav:side/edit/true Edit side menu]
+ * [/system:list-all-categories Page categories]
+ * [/system:recent-changes Recent changes] 
+ * [/admin:themes Change theme]
+ * [[[/_admin|Manage site]]]
+* [# Help]
+ * [/help Wiki syntax]
+ * [/modules-reference Modules reference]
+

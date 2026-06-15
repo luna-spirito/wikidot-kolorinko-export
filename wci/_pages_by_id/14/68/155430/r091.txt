@@ -1,0 +1,244 @@
+---
+title: "Members List"
+tags: []
+page_id: "1468155430"
+site: "wci"
+slug: "wiki-list"
+revision: 91
+revision_id: "1544243621"
+author: 9161410
+timestamp: 1779994238
+---
+
+[!--
+
+All the CSS to make this page work is contained inside the page:
+
+http://wci.wikidot.com/theme:about
+
+And all about sections of the different wikis are contained into their own pages and then imported here to make it easier to edit this page; they are AND MUST BE "about:" pages.
+
+The components' pages are:
+
+http://wci.wikidot.com/component:members
+http://wci.wikidot.com/component:members-with-footnote
+
+- Alry
+
+--]
+
+[[include theme:about]]
+
+[[collapsible show="+ Compact List" hide="- Compact List"]]
+++ Member wikis
+[[div class="wikis-table-container"]]
+||~ Site ||~ Main Language ||~ Date of entrance ||~ Sandbox ||~ Chat ||
+|| [*http://projectnexium.wikidot.com/ Nexium] || English || 28/01/2026[[footnote]]Founding wiki[[/footnote]] || [*http://projectnexium-sandbox.wikidot.com Sandbox] || [*https://discord.gg/yBq6sQpQFD Discord] ||
+|| [*http://fasa.wikidot.com/ FASA] || English || 28/01/2026[[footnote]]Founding wiki[[/footnote]] || [*http://fasa-sandbox.wikidot.com Sandbox] || [*https://discord.gg/yBq6sQpQFD Discord] ||
+|| [*http://hyroxcorp-es.wikidot.com/ Hyrox] || Spanish || 28/01/2026[[footnote]]Founding wiki[[/footnote]] || [*http://sandboxhyrox-es.wikidot.com Sandbox] || [*https://discord.gg/yBq6sQpQFD Discord] ||
+|| [*http://it-cea-wiki.wikidot.com/ CEA] || Italian || 28/01/2026 || [*http://sandbox-cea.wikidot.com Sandbox] || [*https://discord.gg/52vTjbhN4H Discord] ||
+|| [*http://laomccea.wikidot.com/ PIAM] || Spanish || 29/01/2026 || [*http://piamsandbox.wikidot.com Sandbox] || [*https://discord.com/invite/xEEt6ZPt52 Discord] ||
+|| [*http://anomalydataroom.wikidot.com/ ADR] || English || 29/01/2026 || [*http://adr-sandbox.wikidot.com Sandbox] || [*https://discord.com/invite/k8P7qbNfQS Discord] ||
+|| [*http://nesa-wiki.wikidot.com NESA] || English || 30/01/2026 || [*http://nexussandbox.wikidot.com Sandbox] ||= -- ||
+|| [*http://timeless-places.wikidot.com Timeless Places] || English || 02/02/2026 || [*http://timeless-places-sandbox.wikidot.com Sandbox] || [*https://discord.com/invite/ERAqUH6hWk Discord] ||
+|| [*http://harp-wiki.wikidot.com/ Vendera] || English || 03/02/2026 ||= -- || [*https://discord.gg/exBfNsRma Discord] ||
+|| [*https://sun.miraheze.org/wiki/Main_Page SUN] || English || 13/02/2026||= -- ||= -- ||
+|| [*http://srddf.wikidot.com/ SRDDF] || English || 25/02/2026||[*http://srddf-sandbox.wikidot.com Sandbox] ||[*https://discord.gg/2MpXx4BJ Discord] ||
+[[/div]]
+
+++ Observant wikis
+[[div class="wikis-table-container"]]
+||~ Site ||~ Main Language ||~ Sandbox ||~ Chat ||
+||[http://laorganizacionnexium.wikidot.com La Organización Nexium][[footnote]] Spanish Language Branch of Nexium[[/footnote]]|| Spanish ||[http://www.borradores-para-anomalias.wikidot.com/ Borradores Para Anomalías] ||[https://discord.gg/eZxn6xadWX Discord] ||
+[[/div]]
+[[/collapsible]]
+
+
+----
+
+
+
++ **ANOMALY WIKIES**
+
+
+
+[[tabview]]
+[[tab FASA]]
+
+[[include component:members-with-footnote
+link= https://fasa.wikidot.com
+|name= Federal Agency for the Strange and Anomalous
+|footnote= Founding wiki
+|logo= http://hyroxcorp-es.wikidot.com/local--files/autoridades-de-interes/FASA.png
+|about= fasa
+]]
+
+[[/tab]]
+[[tab HYROX]]
+
+[[include component:members-with-footnote
+link= http://hyroxcorp-es.wikidot.com/
+|name= Hyrox Corporation
+|footnote= Founding wiki
+|logo= http://hyroxcorp-es.wikidot.com/local--files/component:tema/HexaPenrose.png
+|about= hyrox
+]]
+
+[[/tab]]
+[[tab CEA]]
+
+[[include component:members
+link= http://it-cea-wiki.wikidot.com/
+|name= Contenimento Elementi Anomali
+|logo= https://it-cea-wiki.wdfiles.com/local--files/lore/pic8.png
+|about= cea
+]]
+
+[[/tab]]
+[[tab PIAM]]
+
+[[include component:members
+link= http://laomccea.wikidot.com/
+|name= La Organización
+|logo= https://laomccea.wdfiles.com/local--files/system%3Awelcome/THE-ORGANISATION.png
+|about= piam
+]]
+
+[[/tab]]
+[[tab ADR]]
+
+[[include component:members
+link= http://anomalydataroom.wikidot.com/
+|name= Anomaly Data Room
+|logo= http://wci.wikidot.com/local--files/wiki-liss/logo3.png
+|about= adr
+]]
+
+[[/tab]]
+[[tab CASTOPIA]]
+
+[[include component:members
+link= https://castopia.site
+|name= Castopia
+|logo= https://castopia-wiki.wdfiles.com/local--files/admin:themes/castopia_logo1x1.png
+|about= castiopia
+]]
+
+[[/tab]]
+[[tab AGIAT]]
+
+[[include component:members
+link= https://agiat.wikidot.com/
+|name= Agencia Global de Investigación de Amenazas Taumatúrgicas
+|logo= http://destinox.wdfiles.com/local--files/agiat-css/AGIATlogoTransparente.png
+|about= agiat
+]]
+
+[[/tab]]
+[[tab SRDDF]]
+
+[[include component:members
+link= http://srddf.wikidot.com
+|name= Secret Research Discovery Development Facility
+|logo= http://generalarchivesdirectorate1.wikidot.com/local--files/blog:_start/SRDDF_Logo.png 
+|about= srddf
+]]
+
+[[/tab]]
+[[/tabview]]
+
+
+
+
+
++ **LIMINAL WIKIES**
+
+
+
+
+
+[[tabview]]
+[[tab TIMELESS PLACES]]
+
+[[include component:members
+link= http://timeless-places.wikidot.com/
+|name= Timeless Places
+|logo= https://timeless-places.wdfiles.com/local--files/landing-zone/White-Eye-Logo%20%281%29.png
+|about= timeless-places
+]]
+
+[[/tab]]
+[[tab BACKROOMS PANTHEON]]
+
+[[include component:members
+link= https://backrooms-pantheon.wikidot.com
+|name= Backrooms Pantheon
+|logo= http://backrooms-wiki.wikidot.com/local--files/pantheon-hub/PantheonLogo.png
+|about= backrooms-pantheon
+]]
+
+[[/tab]]
+[[tab BACKROOMS EXPLORATION]]
+
+[[include component:members
+link= http://backrooms-exploration.wikidot.com/
+|name= The Backrooms Exploration Wiki
+|logo= http://wci.wikidot.com/local--files/wiki-liss/1771780077651.png
+|about= br-ew
+]]
+
+[[/tab]]
+[[/tabview]]
+
+
+
+
+
+
+
+
++ **WORLD BUILDING WIKIES**
+
+
+
+
+
+
+
+
+
+
+[[tabview]]
+[[tab NEXIUM]]
+
+[[include component:members-with-footnote
+link= https://projectnexium.wikidot.com
+|name= Project Nexium
+|footnote= Founding wiki
+|logo= http://wci.wikidot.com/local--files/wiki-liss/IMG_20260221_141644.png
+|about= nexium
+]]
+
+[[/tab]]
+[[tab NESA]]
+
+[[include component:members
+link= https://nesa-wiki.wikidot.com/
+|name= Nexus Exploratory Space Administration
+|logo= http://scp-sandbox-3.wikidot.com/local--files/nesa-theme/1708668631716.png
+|about= nesa
+]]
+
+[[/tab]]
+[[tab NATIONAREA]]
+
+[[include component:members
+link= https://nationarea.wikidot.com
+|name= Nationarea
+|logo= https://nationarea.wdfiles.com/local--files/special%3Amain/Logo.svg
+|about= nationarea
+]]
+
+[[/tab]]
+[[/tabview]]
+

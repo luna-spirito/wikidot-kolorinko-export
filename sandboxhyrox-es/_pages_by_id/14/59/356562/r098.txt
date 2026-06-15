@@ -1,0 +1,463 @@
+---
+title: "Mobile Theme"
+tags: []
+page_id: "1459356562"
+site: "sandboxhyrox-es"
+slug: "mobile-theme"
+revision: 98
+revision_id: "1541403881"
+author: 9161410
+timestamp: 1768454971
+---
+
+[[module css]]
+@import url(http://sandboxhyrox-es.wikidot.com/tav/code/1);
+@import url(http://sandboxhyrox-es.wikidot.com/mobile-theme/code/1);
+[[/module]]
+
+[[collapsible show="[+] Code" hide="[-] Code"]]
+[[code type="css"]]
+/*
+ Anomalous Processing and Containment Document Theme
+ Created by: Lukario_Dalmatian
+ Base: "Anomaly Processing Document Theme" by Qual (RPC Authority, 2021)
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+:root {
+    --link-apcd: #00a80e;
+    --link-hover-apcd: #00cf11;
+    --new-page-apcd: #02730c;
+    --apcd-border: 2px solid var(--link-apcd);
+    --apd-red: var(--link-apcd);
+    --apd-white: #00cf11;
+    --apd-border: 2px solid var(--link-apcd);
+    --apd-white-border: 2px solid var(--link-hover-apcd);
+    --apd-white-side-border: 4px solid var(--link-apcd);
+}
+
+.apcd {
+    display: block;
+    color: #00a80e;
+    border: solid 1.5px #00a80e;
+    background: repeating-linear-gradient(60deg, #335533, #557755 1px, #335533 3px), repeating-linear-gradient(120deg, #335533, #557755 1px, #335533 3px), repeating-linear-gradient(180deg, #335533, #557755 1px, #335533 3px);
+    background-blend-mode: multiply;
+    padding: 15px;
+    margin: 15px 0 15px 0;
+    font-family: 'Inconsolata', monospace;
+}
+
+.apcd blockquote, .apcd .blockquote {
+    font-family: Courier New, Courier, monospace;
+    background: rgba(0, 0, 0, 0.45);
+    background-image: url(http://sandboxhyrox-es.wikidot.com/local--files/imagenes-modificadas/APCD-Logo.png);
+    background-position: top 8px center;
+    background-size: 45px;
+    background-repeat: no-repeat;
+    padding-top: 45px;
+    color: #00cf11;
+    border: solid 1.5px #00cf11;
+}
+
+.apcd h1, .apcd h2, .apcd h3, .apcd h4, .apcd h5, .apcd h6 {
+  font-family: 'Roboto Mono', monospace;
+  color: #CCC;
+}
+
+.apcd a {
+    color: var(--link-apcd);
+    background: transparent;
+    transition: color 0.2s ease;
+}
+
+.apcd a:hover {
+    text-decoration: underline;
+    background-color: var(--link-hover-apcd);
+    color: #000;
+    padding: 1px;
+    transition: color 0.2s ease, background 0.2s ease;
+}
+
+.apcd a:hover::before {
+     content: "> ";
+}
+
+.apcd a.newpage {
+    color: var(--new-page-apcd);
+    background: transparent;
+}
+
+.apcd .footnoteref a:hover::before {
+     text-decoration: underline;
+     background-color: transparent;
+     color: var(--link-hover-apcd);
+     content: "";
+}
+
+.apcd.alt {
+    height: 700px;
+    display: block;
+    overflow-y: scroll;
+}
+
+.apcd.alt::-webkit-scrollbar {
+    width: 5px;
+}
+ 
+.apcd.alt::-webkit-scrollbar-track {
+    background: #111;
+ 
+}
+ 
+.apcd.alt::-webkit-scrollbar-thumb {
+    background: #00a80e;
+}
+ 
+.apcd.alt::-webkit-scrollbar-thumb:hover {
+    background: #00a80e;
+}
+
+/* APD Divider Section: */
+
+.apcd hr {
+    background: var(--apd-red);
+    border-bottom: 2px solid var(--apd-red);
+    margin: 0 2em;
+}
+
+.apcd .content-panel hr, .apcd .body-panel hr, .apcd .news-block .body-panel:nth-child(even) hr {
+    background: var(--apd-red);
+    border-bottom: 1px solid var(--apd-red);
+    margin: 0 2em;
+    padding: 0.5px;
+}
+
+
+
+/* APD Image Block Section: */
+
+.apcd .image-block img {
+    border: var(--apd-white-border);
+}
+
+.apcd .image-block .image-caption, .apcd .image-block img, .apcd .image-block, .apcd .image-caption {
+    background: none;
+    box-shadow: none;
+}
+
+
+
+/* APD Table Section: */
+
+.apcd table.wiki-content-table {
+    border-left: 3px solid var(--apd-red);
+    border-right: 3px solid var(--apd-red);
+}
+
+.apcd table.wiki-content-table td {
+    border: var(--apd-border);
+}
+
+.apcd table.wiki-content-table th {
+    border: var(--apd-border);
+}
+
+
+/* 
+Background Variables Sections: 
+*/
+
+
+/* APD Paperstyle Background Section: */
+
+.apcd #toc {
+    border: var(--apd-white-border);
+    border-radius: 5px;
+}
+
+.apcd .footnotes-footer {
+    border: var(--apd-white-border);
+    border-radius: 5px;
+    padding: 15px 10px;
+    margin: 0 1em;
+    margin-bottom: 10px;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.apcd .hovertip {
+    border: 
+    border: var(--apd-white-border);
+    border-radius: 2px;
+}
+
+/* APD Red-Border Background Section: */
+
+.apcd .content-panel, .apcd .body-panel {
+    border: var(--apd-border);
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+}
+
+.apcd .news-block .body-panel:nth-child(even) {
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+}
+
+.apcd .header-panel, .apcd .footer-panel {
+    border-top: var(--apd-border);
+    border-bottom: var(--apd-border);
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);   
+    color: var(--apd-red);
+}
+
+/* APD Tabveiw Content Section: (Backgrounds, Borders) */
+
+.apcd .yui-navset .yui-content, .apcd .yui-navset .yui-navset-top .yui-content,     .apcd .sideTabview .yui-navset {
+    border: var(--apd-border);
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+}
+
+.apcd .yui-navset .yui-content {
+    border: var(--apd-border)!important;
+    border-right: var(--apd-white-side-border)!important;
+    border-left: var(--apd-white-side-border)!important;
+}
+
+.apcd .sideTabview .yui-navset .yui-content {
+    border: none!important;
+    box-shadow: none;
+}
+
+/* APD Tabveiw Bar Section: (Genral Variables) */
+
+/* APD Tabveiw Selection Section: (Top-bar content and borders) */
+
+.apcd .yui-nav {
+    border-top: var(--apd-border);
+    border-bottom: none!important;
+    border-left: var(--apd-white-side-border);
+    border-right: var(--apd-white-side-border);
+}
+
+.apcd .sideTabview .yui-nav {
+    border-right: var(--apd-border)!important;
+    border-bottom: none!important;
+    box-shadow: none;
+}
+
+.apcd .sideTabview .yui-nav li {
+    border-bottom: var(--apd-border);
+}
+
+.apcd .yui-nav::-webkit-scrollbar-thumb {
+    background: var(--apd-red);
+}
+
+.apcd .yui-nav::-webkit-scrollbar-thumb:hover {
+    background: #a50000;
+}
+
+/* 
+Tabview Variables: 
+*/
+
+
+/* 
+Sidenote: 
+*/
+
+/* Opened: */
+
+.apcd .sidenote.sidenoteLock-false:hover .sidenoteH {
+    border: var(--apd-border);
+}
+
+/* Closed: */
+
+.apcd .sidenoteH {
+    border: var(--apd-border);
+}
+
+/* Text: */
+
+.apcd .sidenoteC {
+    border: var(--apd-border);
+    border-top: none;
+}
+
+/* Image: */
+
+.apcd .sidenoteI {
+    border: var(--apd-border); 
+    border-top: none; 
+    padding: 0px;
+}
+
+.notes {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(0, 0, 0, 0.35);
+    background-image: url(http://sandboxhyrox-es.wikidot.com/local--files/imagenes-modificadas/APCD-Special.png);
+    background-position: center center;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    color: #00cf11;
+    border: solid 1.5px #00cf11;
+    font-family: 'Caveat', cursive;
+    padding: 1px 10px;
+    font-size: 150%;
+}
+
+.sign {
+    font-family: 'Roboto Mono', monospace;
+    text-align: right!important;
+    font-size: 80%;
+}
+
+.preh {
+    display: flex;
+    grid-gap: 1rem;
+    align-items: center;
+    margin: 1em 0;
+}
+.preh * {
+    font-weight: 700;
+}
+
+.preh > div:first-child {
+    border: solid 3px;
+    font-size: 1.35em;
+    position: relative;
+    padding: 0.2em 0.2em;
+    color: var(--link-apcd);
+    font-family: 'Cascadia Code', monospace;
+    order: 1;
+    max-width: max-content;
+}
+
+.preh > div:first-child::before {
+    border: solid 3px;
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+    z-index: -1;
+    transform: skewX(-20deg);
+}
+
+.preh::after {
+    order: 3;
+    content: "";
+    width: 10%;
+    flex-grow: 1;
+    height: 0.1rem;
+    background-color: var(--link-apcd);
+}
+
+.preh > div:last-child:not(:first-child) {
+    font-size: 2em;
+    order: 2;
+}
+
+.fancy-collapsible {
+  margin: 1em 0;
+}
+ 
+.fancy-collapsible .collapsible-block {
+  position: relative;
+}
+ 
+.fancy-collapsible .collapsible-block-folded {
+  height: 35px;
+}
+ 
+.fancy-collapsible .collapsible-block-folded a, .fancy-collapsible .collapsible-block-unfolded-link a {
+  font-family: Courier New, Courier, monospace;
+  text-decoration: none;
+  text-align: center;
+  padding: 5px 0;
+  width: 100%;
+  max-height: 35px;
+  overflow-y: hidden;
+  box-sizing: border-box;
+  position: absolute;
+  z-index: 1;
+}
+ 
+.fancy-collapsible .collapsible-block-folded a {
+  background: var(--new-page-apcd);
+  border: 2px solid var(--link-apcd);
+  color: var(--link-apcd);
+  transition: color 0.5s ease, background 0.5s ease;
+}
+ 
+.fancy-collapsible .collapsible-block-folded a:hover {
+  background: var(--link-apcd);
+  border: 2px solid var(--link-hover-apcd);
+  color: var(--link-hover-apcd);
+}
+ 
+.fancy-collapsible .collapsible-block-unfolded-link a {
+  background: var(--new-page-apcd);
+  border: 2px solid var(--link-apcd);
+  color: var(--link-apcd);
+  transition: color 0.5s ease, background 0.5s ease;
+}
+ 
+.fancy-collapsible .collapsible-block-unfolded-link a:hover {
+  background: var(--link-apcd);
+  border: 2px solid var(--link-hover-apcd);
+  color: var(--link-hover-apcd);
+}
+ 
+.fancy-collapsible .collapsible-block-content {
+  background: rgba(0, 0, 0, 0.45);
+  background-image: url(http://sandboxhyrox-es.wikidot.com/local--files/imagenes-modificadas/APCD-Logo.png);
+  background-position: bottom 8px right 8px;
+  background-size: 45px;
+  background-repeat: no-repeat;
+  border: 2px solid var(--link-apcd);
+  border-top: none;
+  padding: 10px;
+  padding-top: 30px;
+  padding-bottom: 45px;
+  box-sizing: border-box;
+}
+ 
+.fancy-collapsible .collapsible-block hr {
+  background: var(--link-apcd);
+}
+ 
+.fancy-collapsible .collapsible-block-unfolded-link {
+  margin-bottom: 0;
+}
+
+.Classification {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 115%;
+    letter-spacing: 0px;
+    word-spacing: -5px;
+}
+ 
+.ClassTitle {
+    font-family: 'Inconsolata', monospace;
+    font-size: 110%;
+}
+[[/code]]
+[[/collapsible]]
+
+[[div class="apcd"]]
+[[include :sandboxhyrox-es:paleta]]
+[[/div]]
+
+[[div class="apcd alt"]]
+[[include :sandboxhyrox-es:paleta]]
+[[/div]]
+

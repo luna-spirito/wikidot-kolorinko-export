@@ -1,0 +1,23 @@
+---
+title: "List Pages Template"
+tags: []
+page_id: "1024192649"
+site: "fasa-sandbox"
+slug: "inc:list-pages-template"
+revision: 0
+revision_id: "1073009792"
+author: 4293614
+timestamp: 1586041302
+---
+
+{$heading}[[# A_{$anchor}]]
+[[size {$size}]]
+[[module ListPages category="{$category}" perPage="{$perPage}" limit="{$limit}" _
+separate="false" {$attributes} _
+prependLine="[[include inc:list-pages-prepend page={$page} | anchor={$anchor} | styleT={$styleT} | styleE={$styleE} | styleC={$styleC}]]" _
+appendLine="[[/table]]" _
+]]
+[[row]][[cell style="{$styleT}"]][{$urlEdit}] {$urlView}[[/cell]][[cell style="{$styleE}"]]%%date_edited|%e %b %Y, %R%%[[/cell]][[cell style="{$styleC}"]]%%date|%e %b %Y, %R%%[[/cell]][[/row]]
+[[/module]]
+[[/size]]
+

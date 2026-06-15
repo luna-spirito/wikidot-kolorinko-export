@@ -1,0 +1,38 @@
+---
+title: "Language Bar"
+tags: ["component"]
+page_id: "1329855308"
+site: "harp-wiki"
+slug: "component:language-bar"
+revision: 11
+revision_id: "1497621647"
+author: 7460495
+timestamp: 1668877983
+---
+
+[[iftags +component]]
+This language bar was made by [[*user Sir Investigator]] and codes by [[*user Sir Investigator]] too also.
+[[/iftags]]
+
+[!-- {$en}
+[[div class="noprint" style="position:fixed; top: 25px; right: 0px;  margin: 0px; text-align:right; z-index:900;"]]
+[[collapsible show="[+] Language" hide="[-] Language"]]
+[[module listpages range="."]]
+||[[[{$link-es} | Español]]]||
+[[/module]]
+[[/collapsible]]
+[[/div]]
+[!----]
+
+[!-- {$es}
+[[div class="noprint" style="position:fixed; top: 25px; right: 0px;  margin: 0px; text-align:right; z-index:900;"]]
+[[div class="harp-content-bar"]]
+[[collapsible show="[+] Idioma" hide="[-] Idioma"]]
+[[module listpages range="."]]
+||[[[{$link-en} | English]]]||
+[[/module]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[!----]
+

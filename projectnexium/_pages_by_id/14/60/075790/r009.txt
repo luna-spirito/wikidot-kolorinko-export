@@ -1,0 +1,124 @@
+---
+title: "New Pages Feed"
+tags: []
+page_id: "1460075790"
+site: "projectnexium"
+slug: "new-pages-feed"
+revision: 9
+revision_id: "1541988554"
+author: 10167272
+timestamp: 1770853769
+---
+
+[[module CSS]]
+.feature {
+    --box-accent: #708192;
+    border: 0.25rem solid;
+    border-image: linear-gradient(186deg, #d2e2ec, #96acb7) 8;
+}
+.feature .content-type-description > div {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(min(16em,100%),1fr));
+    gap: .05rem;
+    background: #d7d7d7;
+}
+.feature .content-type-description > div > div {
+    text-align: center;
+    padding: 0.625rem;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+#u-other .wiki-content-table td:nth-child(3) {
+    text-align: center;
+    font-size: 0.875em;
+    width: 5.5rem;
+}
+
+#u-other .wiki-content-table td:nth-child(3) a:not([href$=admin],[href$=hub],[href$=contest],[href$=workbench],[href$=supplement],[href$=site],[href$=guide],[href$=essay],[href$=news],[href$=resource],[href$=author],[href$=component],[href$=component-backend],[href*=theme],[href$=more-by],[href$=splash],[href$=redirect]){
+    display: none;
+}
+.description > :not(.preview) { display: none!important; }
+.description > .preview {
+    display: contents;
+    font-size: .825em;
+    text-align: start;
+}
+.preview > p {
+    margin-block: .625em;
+}
+[[/module]]
+
+------
+
+[[div class="content-grid"]]
+
+[!-- LOG Block --]
+
+[[div class="content-box" id="LOG"]]
+[[div class="content-type-title"]]
+Recent Logs
+[[/div]]
+[[div class="content-type-description"]]
+[[module ListPages tags="mscp scp-mc -artwork -tales" order="created_at desc" separate="false" category="_default adult" perPage="12" limit="60" urlAttrPrefix="scp" prependLine="||~ Page ||~ [[size 0%]]Date Created[[/size]]📆︎ ||~ [[size 0%]]Comments[[/size]]💬︎ ||"]]
+|| %%title_linked%% || %%created_at|%Y.%m.%e|agohover%% || %%comments%% ||
+[[/module]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[/div]]
+[[/div]]
+
+[!-- Tale Block --]
+
+[[div class="content-box tale" id="tale"]]
+[[div class="content-type-title"]]
+Recent Stories 
+[[/div]]
+[[div class="content-type-description"]]
+[[module ListPages rating=">=-10" tags="story tale 001-proposal" order="created_at desc" separate="false" perPage="12" limit="60" category="*" urlAttrPrefix="tale" prependLine="||~ Page ||~ [[size 0%]]Date Created[[/size]]📆︎ ||~ [[size 0%]]Comments[[/size]]💬︎ ||"]]
+|| %%title_linked%% || %%created_at|%Y.%m.%e|agohover%% || %%comments%% ||
+[[/module]]
+[[/div]]
+[[div class="content-type-footer"]]
+
+[[/div]]
+[[/div]]
+
+
+[[div class="content-grid"]]
+
+[!-- Other Block --]
+
+[[div class="content-box alt" id="other"]]
+[[div class="content-type-title"]]
+Other Pages
+[[/div]]
+[[div class="content-type-description"]]
+[[module ListPages rating=">=-10" category="*" tags="-scp -tale -goi-format -deletable -deletion-range -in-rewrite -redirect -artwork -adult admin archived author component contest  essay guide hub news orphaned resource project sandbox site splash supplement template theme workbench" order="created_at desc" separate="false" perPage="15" limit="75" urlAttrPrefix="other" prependLine="||~ Page ||~ [[size 0%]]Date Created[[/size]]📆︎ ||~ Type ||"]]
+|| %%title_linked%% || %%created_at|%Y.%m.%e|agohover%% || %%tags_linked%% ||
+[[/module]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[/div]]
+[[/div]]
+
+[!-- Untagged Block --]
+
+[[div class="content-box alt" id="untagged"]]
+[[div class="content-type-title"]]
+Untagged Pages
+[[/div]]
+[[div class="content-type-description"]]
+
+[[module ListPages tags="-admin -archived -mscp -artist -artwork -author -component -component-backend -contest  -essay -forum -fragment -goi-format -mscp-goi-format -guide -hub -deletion-range -deletable -in-rewrite -more-by -news -redirect -resource -orphaned -project -sandbox -scp -site -splash -supplement -tale -theme -unlisted -workbench -_theme-temp" order="created_at desc" separate="false" perPage="20" category="* -deleted" urlAttrPrefix="untagged" prependLine="||~ Page ||~ [[size 0%]]Date Created[[/size]]📆︎ ||"]]
+|| %%title_linked%% || %%created_at|%Y.%m.%e|agohover%% ||
+[[/module]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+[[/div]]
+

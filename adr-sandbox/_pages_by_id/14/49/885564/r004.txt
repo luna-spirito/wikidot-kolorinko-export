@@ -1,0 +1,112 @@
+---
+title: "Adr 1"
+tags: []
+page_id: "1449885564"
+site: "adr-sandbox"
+slug: "css:adr-1"
+revision: 4
+revision_id: "1513773201"
+author: 4632971
+timestamp: 1694139118
+---
+
+[[code type="css"]]
+#header {
+    background-image: url(/local--files/css:adr-1/logo3);
+    background-position: 15px 3px;
+    background-repeat: no-repeat;
+}
+
+#header h1 a {
+    margin-left: 130px;
+}
+
+#header h2 {
+    margin-left: 135px;
+    margin-top: -10px;
+    color: black;
+}
+
+#header,
+#top-bar {
+    width: 90%;
+    max-width: 64rem;
+    margin: 0 auto;
+}
+
+#side-bar .side-block {
+    padding: 10px;
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 15px;
+}
+
+#side-bar .side-block.media {
+    background: #e5e5ff;
+}
+
+#side-bar .side-block.resources {
+    background: #e7f7e9; /* Changed from #fff0f0 */
+}
+
+#side-bar .side-area {
+    padding: 10px;
+}
+
+#side-bar .heading {
+    color: #600;
+    border-bottom: solid 1px #600;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 0.75em;
+    font-weight: bold;
+}
+
+#side-bar .heading:where(:first-child) {
+    margin-top: 0;
+}
+
+#side-bar p {
+    margin: 0;
+}
+
+#side-bar .menu-item {
+    margin: 2px 0;
+}
+
+#main-content {
+    margin: 0 1.5rem 0 17rem;
+    padding: 0.75rem;
+    position: relative;
+    margin-left: 12em;
+    width: 80%
+}
+
+#footer {
+    clear: both;
+    font-size: 0.77em;
+    background: #444;
+    color: #bbb;
+    margin-top: 15px;
+    padding: 3px 10px;
+}
+
+#footer .options {
+    visibility: visible;
+    display: block;
+    float: right;
+    width: 50%;
+    font-size: 1em;
+    text-align: right;
+}
+
+#footer a {
+    color: #fff;
+    background: transparent;
+}
+
+[[/code]]
+
+%%content%%
+

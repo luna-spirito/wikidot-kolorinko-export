@@ -1,0 +1,28 @@
+---
+title: "List Pages"
+tags: []
+page_id: "1024192648"
+site: "fasa-sandbox"
+slug: "inc:list-pages"
+revision: 0
+revision_id: "1073009791"
+author: 4293614
+timestamp: 1586041271
+---
+
+[[include inc:list-pages-template
+heading={$heading} | heading=++ Category "{$category}" |
+anchor={$anchor} | anchor={$category} |
+category={$category} | category=_default |
+page={$page} | page=system:list-pages |
+perPage={$perPage} | perPage={$limit} |
+limit={$limit} | limit=10000 |
+attributes={$attributes} | attributes=order="@URL" |
+styleT={$styleT} | styleT=padding-right:1em |
+styleE={$styleE} | styleE=text-align:right; padding-right:1em; width:12em |
+styleC={$styleC} | styleC=text-align:right; width:13em |
+urlEdit=/%%fullname%%/edit/true edit |
+urlView=: %%title_linked%% |
+size={$size} | size=100% |
+]]
+

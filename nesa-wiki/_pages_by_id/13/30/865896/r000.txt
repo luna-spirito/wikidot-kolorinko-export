@@ -1,0 +1,18 @@
+---
+title: "Admin"
+tags: []
+page_id: "1330865896"
+site: "nesa-wiki"
+slug: "admincss:enderdragon101"
+revision: 0
+revision_id: "1387391062"
+author: 6602770
+timestamp: 1639071072
+---
+
+[!-- Do not edit this page; Press Save! --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: block !important; }
+.admins-only-inline{  display: inline !important; }
+[[/module]]
+
