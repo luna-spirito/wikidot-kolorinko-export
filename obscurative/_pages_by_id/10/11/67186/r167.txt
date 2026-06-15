@@ -1,0 +1,60 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 167
+revision_id: "1360267080"
+author: 6037747
+timestamp: 1615135252
+---
+
+[[=]]
+**Реестр**
+
+[[[worlds|Миры]]]
+[[[technologies|Технологии]]]
+[[[object-list|Искажения]]]
+
+-----
+**Сайт**
+
+[[[faq|FAQ]]]
+[[[rating|Статьи по рейтингу]]]
+[[[recent-changes|Свежие правки]]]
+[[[join|Стать участником]]]
+[[[users|Список участников]]]
+
+-----
+**Сообщество**
+
+[[[forum:start|Форум]]]
+[[[forum:recent-posts|Новые сообщения]]]
+**[[[chat|Discord чат]]]**
+
+-----
+**Полигон**
+
+[[[sandbox|Полигон]]]
+[[[drafts|Список черновиков]]]
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[[lab:%%number%% |Моя лаборатория]]]
+[[/module]]
+
+-----
+
+[[[system:page-tags|Облако тегов]]]
+
+----
+**Похожие проекты**
+
+[[[http://patagon-laboratory.wikidot.com/ | Лаборатория Патагона]]]
+[[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]]
+[[/=]]
+
+[[div class="joke"]]
+[[[joke|​]]]
+[[/div]]
+

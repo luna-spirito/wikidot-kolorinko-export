@@ -1,0 +1,16 @@
+---
+title: "Свежие правки"
+tags: []
+page_id: "12481439"
+site: "scientific-alliance"
+slug: "recent-changes"
+revision: 0
+revision_id: "28234320"
+author: 754405
+timestamp: 1326110971
+---
+
+[[module ListPages order="updated_at desc" separate="yes"]]
+%%title_linked%% изменена %%updated_by%% в %%updated_at|%H:%M %d.%m.%Y %%
+[[/module]]
+

@@ -1,0 +1,23 @@
+---
+title: "Новые сообщения"
+tags: []
+page_id: "101148733"
+site: "obscurative"
+slug: "forum:recent-posts"
+revision: 4
+revision_id: "1034679322"
+author: 4518363
+timestamp: 1581265372
+---
+
+++ Почему здесь нет почти никаких сообщений?
+Нет, проект не умер, просто большое количество обсуждений происходит в нашем [[[chat|Discord чате]]]. Но если у вас нет желания к нему присоединяться, то вы спокойно можете создать новый пост на [[[http://sons-of-athena.obscurative.ru/forum/start|форуме]]] - поверьте, вас достаточно быстро услышат.
+
+[[module CSS]]
+@import "https://obscurative.ru/css/signature_block.php"
+[[/module]]
+
+[[module RecentPosts]]
+
+[!-- please do not alter this page if you want to keep your forum working --]
+

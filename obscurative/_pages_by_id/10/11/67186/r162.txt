@@ -1,0 +1,62 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 162
+revision_id: "1360246544"
+author: 4518363
+timestamp: 1615034097
+---
+
+[[=]]
+**Реестр**
+[[[technologies|Технологии]]]
+[[[database|База знаний]]]
+[[[organizations|Организации]]]
+[[[object-list|Искажения]]]
+[[[persons|Личности]]]
+[[[worlds|Миры]]]
+
+-----
+**Сайт**
+
+[[[faq|FAQ]]]
+[[[rating|Статьи по рейтингу]]]
+[[[recent-changes|Свежие правки]]]
+[[[join|Стать участником]]]
+[[[users|Список участников]]]
+
+-----
+**Сообщество**
+
+[[[forum:start|Форум]]]
+[[[forum:recent-posts|Новые сообщения]]]
+**[[[chat|Discord чат]]]**
+
+-----
+**Полигон**
+
+[[[sandbox|Полигон]]]
+[[[drafts|Список черновиков]]]
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[[lab:%%number%% |Моя лаборатория]]]
+[[/module]]
+
+-----
+
+[[[system:page-tags|Облако тегов]]]
+[[[https://obscurative.ru/random_page/soa|Случайная статья]]]
+
+----
+**Похожие проекты**
+[[[http://patagon-laboratory.wikidot.com/ | Лаборатория Патагона]]]
+[[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]]
+[[/=]]
+
+[[div class="joke"]]
+[[[joke|​]]]
+[[/div]]
+

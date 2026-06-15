@@ -1,0 +1,95 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 155
+revision_id: "1360246250"
+author: 4518363
+timestamp: 1615032284
+---
+
+[[=]]
+**Реестр**
+[[[technologies|Технологии]]]
+[[[database|База знаний]]]
+[[[organizations|Организации]]]
+[[[object-list|Независимые аномалии]]]
+[[[persons|Личности]]]
+[[[worlds|Миры]]]
+
+-----
+**Сайт**
+
+[[[faq|FAQ]]]
+[[[rating|Статьи по рейтингу]]]
+[[[recent-changes|Свежие правки]]]
+[[[join|Стать участником]]]
+[[[users|Список участников]]]
+
+-----
+**Сообщество**
+
+[[[forum:start|Форум]]]
+[[[forum:recent-posts|Новые сообщения]]]
+**[[[chat|Discord чат]]]**
+
+-----
+**Полигон**
+
+[[[sandbox|Полигон]]]
+[[[drafts|Список черновиков]]]
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[[lab:%%number%% |Моя лаборатория]]]
+[[/module]]
+
+-----
+
+[[[system:page-tags|Облако тегов]]]
+[[[https://obscurative.ru/random_page/soa|Случайная статья]]]
+
+----
+**Похожие проекты**
+
+▶ [[[http://patagon-laboratory.wikidot.com/ | Лаборатория Патагона]]]
+▶ [[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]]
+[[/=]]
+
+[[module CSS]]
+.is-user + .for-new {
+  display: none;
+}
+
+.for-new {
+  display: flex;
+  position: fixed;
+  top: -5px;
+  left: 0;
+  right: 0;
+  height: 1.7rem;
+  z-index: 100;
+  justify-content: center;
+}
+
+.for-new p {
+  background-color: #F3B06D;
+  margin: 0;
+  padding: 0.25rem 2rem;
+  border-radius: 0 0 5px 5px;
+}
+[[/module]]
+
+[[module ListUsers users="."]]
+[[div class="is-user"]]
+[[/div]]
+[[/module]]
+[[div class="for-new"]]
+[[[faq|Что это за сайт? (FAQ)]]] / [[[chat| Discord]]]
+[[/div]]
+
+[[div class="joke"]]
+[[[joke|​]]]
+[[/div]]
+

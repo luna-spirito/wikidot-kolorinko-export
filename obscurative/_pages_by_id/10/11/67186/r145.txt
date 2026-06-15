@@ -1,0 +1,71 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 145
+revision_id: "1034196144"
+author: 4518363
+timestamp: 1580055731
+---
+
+**Объекты**
+
+[[[object list|Список объектов]]]
+
+-----
+**Библиотека**
+
+[[[tales|Рассказы]]]
+
+-----
+**Сайт**
+
+[[[faq|FAQ]]]
+
+[[[rating|Рейтинг статей]]]
+
+[[[recent-changes|Свежие правки]]]
+
+[[[join|Стать участником]]]
+
+[[[users|Список участников]]]
+
+-----
+**Сообщество**
+
+[[[forum:start|Форум]]]
+
+[[[forum:recent-posts|Новые сообщения]]]
+
+**[[[chat|Discord чат]]]**
+
+-----
+**Полигон**
+
+[[[sandbox|Полигон]]]
+
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[/module]]
+[[module ListUsers users="."]]
+[[[lab:%%number%% |Моя лаборатория]]]
+[[/module]]
+
+[[[drafts|Список черновиков]]]
+-----
+
+[[[system:page-tags|Облако тегов]]]
+[[[https://obscurative.ru/random_page/soa|Случайная статья]]]
+
+----
+
+[[div id="similar-projects"]]
+Похожие проекты
+[[/div]]
+[[div id="sidebar-hover"]]
+◀ [[[http://patagon-laboratory.wikidot.com/ | Лаборатория Патагона]]]
+[[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]] ▶
+[[/div]]
+
