@@ -1,0 +1,85 @@
+---
+title: "Biomechanical Module"
+tags: ["lore"]
+page_id: "1306807692"
+site: "rpcauthority"
+slug: "biomechanical-module"
+revision: 6
+revision_id: "1523254033"
+author: 5982545
+timestamp: 1722110927
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+h1, #page-title {
+    font-weight: 900;
+}
+[[/module]]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+[[/module]]
+
+[[div class="sideTabview locked"]]
+[[tabview]]
+[[tab Overview]]
+[[div class="content-box"]]
++++ Overview
+
+Biomechanical Module is the combined efforts of bionic, engineering, and synthetic specialists to create the most advanced equipment, prosthetics, mech vehicles, and augmentations for the Authority. It is no exaggeration to call Biomech the spearhead of biological augmentation in all of the world. While the governments of the world may turn to the crude piloting of drones as their cutting future, Biomech knows that the future belongs to the humans, and only through strengthening our own selves may we see the dawn of the next era. 
+
+Biomechanical is one of the most autonomous subdivisions, as the main developer, manufacturer, distributor, and ultimately the primary user, of their own goods; they have a lot of leeway in how their budget is spent and which departments receive their newest prototypes and models. While often their equipment is distributed to those with the most need for it, most commonly [http://rpcauthority.wikidot.com/protectorate|the Protectorate], occasionally they hold auctions for their most ambitious prototypes, exchanging money for the exclusive rights to test out their new designs. This entrepreneurial spirit is how Biomechanical Module is one of the most internally profitable and productive departments of the Authority, for which they have received great benefits from [http://rpcauthority.wikidot.com/office-of-financial-affairs| Financial Affairs]. 
+
+Biomech's prosthetics are their hallmark within the Authority. To lose a limb is one thing, but Biomechanical works miracles; within days, they can create a limb in the exact same shape, size, and weight as your old one, but with three hundred and sixty degrees of movement and the certainty of steel. In recent years, Biomech has even offered full-body prosthetics, which can link to the user's nervous system and act just as their old body would. No one has yet taken them up on that offer, however, so it remains theoretical. 
+[[/div]]
+[[/tab]]
+
+[[tab Prosthetics]]
+Prosthetics are the reason that Biomechanical Module exists. The human body—when put under such duress as a firefight, against mutated animals, anomalies, or the living dead—tends to quickly and easily lose its parts and pieces in flesh. Primitive prosthetics have always existed, with arm flexes and wrist turns pulling strings through wooden fingers; but they were weak and clumsy before Biomech perfected them.
+
+[[include component:image-enlarge name= http://rpcsandbox.wdfiles.com/local--files/biomechanical-module/early%20prosthetic|align=left|width=150px|caption= One of the earliest Biomech prosthetics, circa 1962. ]]
+
+The engineers at Containment Division thought that they could do better, and that Containment's veterans and all the serving under them deserved better; 1958 Biomech was unofficially established as a small subdivision of the Engineering Component. This was, of course, before the miniaturization of technology, and prosthetics back then were no greater than a pulley system with rudimentary movements. 
+
+But not so in 1980 and onward; the advancement of technology and the developments and innovations in computing efficiency meant that the chips could get smaller, smaller, and smaller, and along with some Authority breakthroughs in mapping the neuroelectrical system, the basic interfacing of nerve endings could be fitted to bionic prosthetics. 
+
+[[include component:image-enlarge name= http://rpcsandbox.wdfiles.com/local--files/biomechanical-module/hand%20cannon|width=150px|caption= The Hand Cannon Mk. 1, circa 1993. ]]
+
+The greatest tech boom to come was soon after the Cold War had ended; both the Russians and the Americans were disarming. The surplus of goods that went up on the market made most of the Authority rich, but it was the boom that finally made the Biomechanical Module official. The human arm, one Dr. Tennyson once remarked, is much like a firearm. It has heaps and layers of sensitive and interlocking parts, but it's pretty easy to control and not hard for us to figure out.
+
+This quote prompted a discussion between Dr. Tennyson and an MST stationed at his Site where he jokingly said that if he got his arm cut off, he would want a gun to replace it. So the very first "hand cannon" was born, a simple prosthetic with a latch for a hand, which swivels down into a cannon. Overnight, the Biomechanical Module became the most popular subdivision in the Authority. 
+[[/tab]]
+
+[[tab Mechanized Suits]]
+Arguably the first Division (argued by its own members who say the Bureau of Acquisitions doesn't count), first founded a few years after the induction of the first soldiers to the Auctoritas Imperata in 1465, of which its name then was the "Faber Ferrarius" or in English, "Smiths". Their job has always naturally lended itself well to the Authority: to protect the members through their great works of iron. This Division was multiple-times almost disbanded by short-sighted members of the papacy, and later members of the Directorate, who did not see the importance of armor in the age of the firearm. Their revitalization soon came in the form of the automobile and the tank.
+
+The Smiths worked in the armor Division for some time, but it was to their displeasure. Working there was like building coffins: slow moving, lacking versatility, and the most basic of functions outside of their role. The Smiths dreamed of more, and on one fateful day in 1948, a Smith working in Japan saw a manga named "Atomic Power Android" of a boy piloting a giant mecha. And he thought to himself: //I can build that//.
+
+[[include component:image-enlarge name= http://rpcsandbox.wdfiles.com/local--files/biomechanical-module/BTL-34-A1|width=150px|caption= The first finished production mech, the BTL-34-A1. ]]
+
+The idea of mechanized suits is quite simple. You take a tank and you stand it upright and give it human-like legs for greater mobility. Standing it up is easy; the legs are extremely hard. Creating something that swivels and interfaces with the human perception of movement as to not throw off the user, all the while carrying the heavy top-load of armaments was an extremely difficult task, but the generation master Smiths were up to do it. With a few technological innovations, a few decades later, they had a prototype.
+
+Unfortunately, it was promptly leaked into the public eye by a long time plant in the Division. But thanks to some quick thinking from the professionals at [http://rpcauthority.wikidot.com/authority-central-intelligence| ACI], mechs quickly skyrocketed in popular culture, and it was presumed that this picture was only another marketing campaign for some project to come, like St██ Wa██.
+[[/tab]]
+
+[[tab Augmentations]]
+Augmentations are not necessarily prosthetics, and prosthetics are not necessarily augmentations. But they do overlap sometimes. The fundamental difference between a prosthetic and an augmentation is that an augmentation is to improve one's state, and a prosthetic is to replace something that one has lost. In a world where anomalous humanoids defy the very physics of the Earth we walk, the Augmentations Department seeks to balance the odds with their upgrades to all forms of the human body, from skeletal structure strengthening, double heart transplants, adrenaline boosters, and real-time reflexive analysis eyes. 
+
+[[include component:image-enlarge name= http://rpcsandbox.wdfiles.com/local--files/biomechanical-module/mech-eye.jpg|width=150px|caption= ECh-Canon, a mechanical eye capable of threat analysis and x30 zoom.]]
+
+Their wide range of synthetic organs, neural link exosuits, and capillary nanobots have seen great success in the field with MSTs, and they are constantly bombarded with more and more outlandish requests every day. Most recently, in the wake of some science fiction medium being released, a large amount of requests for "arm blades that pop out of from the forearms like some sort of mantis" have been received. Upon consulting with [http://rpcauthority.wikidot.com/office-of-financial-affairs| Financial Affairs], those requisitions have been denied. 
+
+A particularly skilled MST, a Global Director, or Site Director may be eligible for the installation of a second heart in addition to the expansion of their adrenal gland, giving them highly increased combat, escape, and coordination abilities, especially under pressure. These second hearts are installed within the closed circulation system under the knife of a [http://rpcauthority.wikidot.com/protectorate| Trauma Team] specialist. Similar expansions are also available for the lungs.
+
+[[include component:image-enlarge name= http://rpcsandbox.wdfiles.com/local--files/biomechanical-module/synthetic%20heart.jpg|width=150px|caption= A synthetic heart.]]
+
+It is highly recommended for those who are designated mech pilots to receive reinforced skeletal systems and increased pneumatic grip strength, as mechs often take significant amounts of kinetic damage in their deployment which may damage the pilot's body.
+[[/tab]]
+[[/tabview]]
+[[/div]]
+

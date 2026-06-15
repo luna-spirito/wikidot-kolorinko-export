@@ -1,0 +1,53 @@
+---
+title: "Anomaly Experimentation Team"
+tags: ["hub", "lore"]
+page_id: "1306807688"
+site: "rpcauthority"
+slug: "anomaly-experimentation-team"
+revision: 18
+revision_id: "1523254088"
+author: 5982545
+timestamp: 1722111775
+---
+
+[[module css]]
+@import url(http://www.rpcauthority.wikidot.com/component:research-theme/code/1);
+[[/module]]
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/anomaly-experimentation-team/unknown.png|caption=AET comprised of members from the Physics Department and the Department of Cryptology and Anti-Memetics for the study of RPC-███.|width=700px|height=300px|align=center]]
+
+The Anomaly Experimentation Team explores the limits of each anomaly and tests them for possible beneficial applications. Through our testing, we can understand and discover, learn the laws that reign the world of the abnormal and find our way through it.
+
+The Experimentation Team has a simple chain of command:
+
+* **Researcher Associates:** Unaware of the Authority at large, they perform contracted non-anomalous research work. 
+
+* **Junior Researchers:** They are in direct contact with anomalies and on permanent payroll, they usually make up the major bulk of the Research workforce.
+
+* **Senior Researchers:** The ones that co-ordinate Junior Researchers and communicate findings as well as assisting on research themselves.
+
+* **Head Researchers:** The maximum authority within AETs, they set the goals for the whole team and the direction the project will go to. All other personnel report to their specific Head Researcher in regards to any findings and suggestions.
+
+Depending on the nature of their work, AETs might also include:
+
+* **Research Security Service:** The RSS is comprised of small teams of specialized personnel trained for the purpose of protecting AETs, as well as common personnel, from threats that normal ASF or MST units cannot handle. This can include: videric anomalies, meta-physical entities, and informational hazards that might manifest during testing. While there is only a selected amount of RSS teams across the Authority, they are more often than not heavily equipped, from reverse hazmat suits that allow for the constant flow of Videric drugs to sensory-deprivation gear to handle memetic anomalies.
+
+Personnel are, as stated before, personnel from the different branches of Research, retaining their position within AETs as the ones they have within their own department.[[footnote]] Junior Physics Department's Researchers will still be Junior Researchers within AETs and so on.[[/footnote]] They can also have personnel from other divisions such as the Engineering Component from Containment. AETs may also include CSD personnel to use during testing, although this is a rare occurrence, and require direct permission from the C&D Department.
+
+The projects conducted by AETs all have the main goal of furthering the Authority's understanding of the world. Discoveries made by this projects may be allowed to be published into the general public once it has been shown they pose no threat to the veil of secrecy.
+
++ Testing Logs
+
+[http://rpcauthority.wikidot.com/anomaly-experimentation-team-tone AET Testing Format]
+
+[[module NewPage size="20" tags="Test-log" button="Create Test"]]
+
+[[module ListPages tags="test-log" order="title desc desc" perPage="100" ]]
+**%%linked_title%%** by %%author%% %%date%%
+
+%%preview%%
+
+------
+
+[[/module]]
+

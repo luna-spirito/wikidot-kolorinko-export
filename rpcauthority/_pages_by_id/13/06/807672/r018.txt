@@ -1,0 +1,218 @@
+---
+title: "ASF Tone"
+tags: ["format", "information"]
+page_id: "1306807672"
+site: "rpcauthority"
+slug: "asf-tone"
+revision: 18
+revision_id: "1462142577"
+author: 3638389
+timestamp: 1655668605
+---
+
+[[module CSS]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+
+.image-block {
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0, .25);
+    border: 4px solid #24272A;
+}
+
+.image-block .image-caption {
+    font-weight: unset;
+    text-align: center;
+}
+
+blockquote {
+    background: #24272A;
+    border: none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0, .25);
+}
+
+[[/module]]
+
+++ **ASF Tone**
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++++ **Incident Report: [Name of your choosing, can be formal (Tunnel Emergency #211) or a codename (Wild Escapade)]**
+[[/=]]
+
+|| **Anomalies Involved:** || RPC-XXX|| Anomaly was last seen wearing a red dress[[footnote]] Here you place any additional information.[[/footnote]] ||
+|| **Incident Type:** || Mike Bravo [See below] || Anomaly broke the left wall of its containment cell ||
+|| **Incident Location:** || Site-XXX’s || Humanoid Containment Wing ||
+|| **Cause of Incident:** || Incorrect Food Provided [[footnote]]What went wrong, or who made a mistake, or even, who was the cause behind it.[[/footnote]] || Containment Division's Hector Nuñez ||
+|| **Status:** || Resolved/Ongoing/On Hold || Anomaly was shot with tranquilizers. ||
+
+**INCIDENT TYPES:**
+
+> **Jail Break:**[[footnote]] Informally referred as “Jaybee” by ASF personnel[[/footnote]] Anomaly is actively fighting its containment or displaying aggressive behaviour.
+> 
+> **Mike Bravo:** Minor breach, easily solved by ASF personnel. Most common type of incident.
+> 
+> **Engage & Contain:**[[footnote]] Informally referred as “Eachie” by ASF personnel[[/footnote]] Anomaly has to be fought by ASF personnel to be re-contained.
+> 
+> **Freebird:** Anomaly has been stolen/taken without authorization by a member of the Authority with unknown intentions. May require joint recovery effort with ACI personnel.
+> 
+> **Hudson:** Anomaly escaped into the Site's infrastructure or is currently within Authority jurisdiction outside of proper containment. Currently being tracked down by ASF personnel with the help of the Maintenance Union.
+> 
+> **Fixer-Upper:**[[footnote]] Informally referred as “FUP” or “FUPPer” by ASF personnel[[/footnote]] Site's infrastructure has been severely damaged by an anomaly-caused incident, Engineering Component is required.
+> 
+> **Oph:** Ongoing phenomena seriously damaging site integrity and personnel. Origin unknown.
+> 
+> **SMAck:**[[footnote]] Seek Medical Aid[[/footnote]] A casualty has occurred as a result of a breach, reinforcement is required.
+> 
+> **Snowball:** Anomaly has breached containment and may put neighboring containment cells in jeopardy. Standing ASF personnel are required to keep guard until the primary issue can be solved.
+> 
+> **Killzone:** Anomaly has caused several casualties and attempts at re-containment have been unsuccessful. Area needs to be evacuated and Regional Command is to be made aware of the situation.
+> 
+> **Breakdown:** Several anomalies of purple or higher lethality have breached containment and all attempts for re-containment have failed. A distress call is to be sent to all nearby sites. All personnel are to evacuate the area or seek shelter until further notice
+
+
+-----
+[[=]]
+**REPORT DESCRIPTION:**
+[[/=]]
+
+[Short description of what happened, why, who, where, and the result]
+
+-----
+[[=]]
+**EVENTS TRANSPIRED:**
+[[/=]]
+
+> [A timed description (can include commentary) of what occurred during or before the incident. Done within quoteboxes and using hours, as seen in the next part of the document]
+-----
+[[=]]
+**DEDUCTIONS:**
+[[/=]]
+
+**Personnel Casualties/Injured/Lost:**[[footnote]] Can change or modify this segment to fit what you are doing[[/footnote]]
+* Authority Security Force:
+ * 2 Personnel Minorly Bruised
+
+**Assets Comprimised:**
+* Site Infrastructure:
+ * 1 Blast Door 
+
+-----
+[[=]]
+**ADDITIONAL INFORMATION:**
+[[/=]]
+[[/div]]
+
+
+++ Example Article
+
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++++ **Incident Report: Quantum Boogaloo**
+[[/=]]
+
+|| **Anomalies Involved:** || RPC-002 || Object was left unsupervided following testing. ||
+|| **Incident Type:** || Freebird || Object taken by Containment personnel without authorization. ||
+|| **Incident Location:** || Site-002’s || Alpha-Containment Area ||
+|| **Cause of Incident:** || Janitorial Personnel || Omar Wallace ||
+|| **Status:** || Resolved || Subject detained by ASF personnel and put in provation. ||
+
+-----
+[[=]]
+**REPORT DESCRIPTION:**
+[[/=]]
+
+RPC-002 was shot inside Site-002’s Alpha-Containment area by Oscar Wallace due to negligence, causing the destruction of the area’s metal door, and the subsequent damage to two ASF personnel by the explosion blast.
+-----
+[[=]]
+**EVENTS TRANSPIRED:**
+[[/=]]
+
+> **17:23 PM:** Site-001's Janitorial resident, Omar Wallace, is seen cleaning the floors of the Alpha-Containment storage area while listening to music on his personal electronic device.
+> 
+> **17:36 PM:** Wallace reaches the location where RPC-002 is commonly stored, which he proceeds to look at for several seconds, before checking his surroundings. After confirming that there are no other personnel in the area, he uses his Janitorial access card to open RPC-002’s locker.
+> 
+> **17:37 PM:** Wallace grabs RPC-002 and begans toying with it. Despite camera recorders not including audio, it can be assumed that Wallace is making “gun noises” while pretending to fire RPC-002 at imaginary targets.
+> 
+> **17:40 PM:** During one of said imaginary shootouts, Wallace accidentally fires RPC-002 at the metallic door leading to the second part of the Alpha-Containment area. He then quickly places RPC-002 back into its locker and leaves the area.
+> 
+> **17:41 PM:** Shortly before his departure, the 2 standing ASF personnel manage to get back up from the blast and inspect the area in search for a potential break-in or ongoing-assault. After finding no evidence of such, they contact Containment personnel within Site-002’s security team, who then confirm the incident to have been caused by Omar Wallace.
+
+-----
+[[=]]
+**DEDUCTIONS:**
+[[/=]]
+
+**Personnel Injured:**
+* Authority Security Force:
+ * 2 Minorly Bruised personnel
+
+* Assets Compromised:
+ * 1 Metal Door
+
+-----
+[[=]]
+**ADDITIONAL INFORMATION:**
+[[/=]]
+
+Shortly after evidence of his actions were found and investigated, Oscar Wallace was removed from his Level-4 Janitorial access and relegated to maintenance work within the Site’s underground infrastructure until further notice.
+
+The price for all damaged assets during the incident has been taken from his pay, no further action has been taken due to Wallace’s multiple years of service for the Authority, although he has been severely reprimanded for his actions.
+
+[[/div]]
+
+++ Raw Code
+
+> @@[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]@@
+> @@[[=]]@@
+> @@+++ **Incident Report: XXXX**@@
+> @@[[/=]]@@
+> 
+> @@|| **Anomalies Involved:** || XXXXX || XXXXX ||@@
+> @@|| **Incident Type:** || XXXXX || XXXXX ||@@
+> @@|| **Incident Location:** || XXXXX || XXXXX ||@@
+> @@|| **Cause of Incident:** || XXXXX || XXXXX ||@@
+> @@|| **Status:** || XXXXX || XXXXX ||@@
+> 
+> @@-----@@
+> @@[[=]]@@
+> @@**REPORT DESCRIPTION:**@@
+> @@[[/=]]@@
+> 
+> @@[TEXT]@@
+> 
+> 
+> @@-----@@
+> @@[[=]]@@
+> @@**EVENTS TRANSPIRED:**@@
+> @@[[/=]]@@
+> 
+> @@[TEXT]@@
+> 
+> 
+> @@-----@@
+> @@[[=]]@@
+> @@**DEDUCTIONS:**@@
+> @@[[/=]]@@
+> 
+> @@**Personnel Injured:**@@
+> @@* Authority XXX XXX:@@
+> @@ * X XXXX XX XXXX@@
+> 
+> @@* Assets Compromised:@@
+> @@ * 1 XXXXX@@
+> 
+> 
+> @@-----@@
+> @@[[=]]@@
+> @@**ADDITIONAL INFORMATION:**@@
+> @@[[/=]]@@
+> 
+> @@[TEXT]@@
+> 
+> @@[[/div]]@@
+
+[[collapsible show="[+] Footnotes" hide="[-] Hide Footnotes"]]
+[[div class="content-box" style="margin-top: 50px;"]]
+[[footnoteblock]]
+[[/div]]
+[[/collapsible]]
+

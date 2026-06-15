@@ -1,0 +1,560 @@
+---
+title: "RPC-506"
+tags: ["aggression-hazard", "beta", "contact-hazard", "radiation-hazard", "red", "rpc", "sentient-hazard"]
+page_id: "1306666360"
+site: "rpcauthority"
+slug: "rpc-506"
+revision: 36
+revision_id: "1544450206"
+author: 5197199
+timestamp: 1780638185
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1);
+[[/module]]
+
+[[include component:rate | translations=show | translationblock=[[image https://rpcauthority.wdfiles.com/local--files/component:icons/cn.png link="https://rpc-wiki-cn.wikidot.com/rpc-506"]]]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/beta-red.png]]
+**Registered Phenomena Code:** 506
+
+**Object Class**: --##8C8C8C|Alpha-Yellow##-- ##EB1C23|Beta-Red##
+
+[[include component:hazards top-spacing=none|radiation=true|contact=true|aggression=true|sentient=true]]
+
+[[include component:hazards type=properties|titanic=true]]
+
+**Responsible Departments:**
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Chemistry[[/span]][[/span]]
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/History.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+History[[/span]][[/span]]
+
+------
+[[=]]
++ ##EB1C23|__Containment Protocols__##
+[[/=]]
+
+------
+
+[[include component:image-block name=creature|caption=First sighting of an RPC-506-2 instance during Expedition 506.2|align=right|enlarge=false]]
+RPC-506 is to be completely fenced off with a layer of reinforced electrical fencing[[footnote]]The fencing must be set to a voltage of at least 200,000.[[/footnote]] expanding around the perimeter of RPC-506. All entrances to RPC-506 have been redirected around the anomaly. All personnel entering RPC-506 must wear a full-body protective suit covering all skin and armed with a taser.
+
+Samples of RPC-506-1 must be kept within a secured containment room for testing purposes. No one under level 3 clearance is permitted to enter the testing area of RPC-506-1.
+
+RPC-506-2 instances must be avoided at all costs. If an encounter with RPC-506-2 were to occur, the subject must keep a distance of 6m between them and the RPC-506-2 instance.
+
+------
+[[=]]
++ ##EB1C23|__Description__##
+[[/=]]
+
+------
+
+RPC-506 is a designation given to an abandoned city found in the Krasnoyarsk Krai in Russia. All entrances to RPC-506 possess identical signs reading "Добро пожаловать в Пыелкном".[[footnote]]Translates to "Welcome to Pyelknom".[[/footnote]] RPC-506 is 318km^^2^^, multiple buildings within RPC-506 are mostly covered in RPC-506-1. The buildings within RPC-506 are constructed of multiple types of stone and material such as granite, limestone, travertine, andesite, glass, and ordinary bricks. A majority of buildings in RPC-506 are completely boarded up, this is assumed to be in an attempt to fulfill city-wide quarantine from RPC-506-1.
+
+[[include component:image-block name=school|caption=The school within RPC-506 during Expedition 506.3|align=left|enlarge=false]]
+RPC-506 is made up of several skyscrapers, a residential area, a city park in the center, 2 public schools, a city hall, a courthouse, and a large chapel, among other structures. A majority of the skyscrapers are mostly hotels and only 2 are office buildings as seen in Expedition 506.3.
+
+Vehicles found within RPC-506 are in pristine condition, save for numerous stains of RPC-506-1. A majority of them have been manufactured by a single company[[footnote]]Multiple vehicles are of the brand Moskvitch in the issued years of 1948, 1950, 1951, and 1955.[[/footnote]], while the remaining ones lack branding labels.
+
+It is unknown when RPC-506 was built, however, the Authority estimates that the city was non-anomalous until the mid-1950s. No information on the construction of RPC-506 has been found within the location. A large majority of documents found within RPC-506 have been found destroyed or completely blank. Only 8 papers have been found and retrieved with information, although neither had information regarding the construction or possible founder of RPC-506 but instead has given the Authority an idea as to how the city became anomalous. Site researchers have come up with the idea that [DATA EXPUNGED].
+
+RPC-506-1 is a greenish-black substance with a texture similar to moss. Researchers have made the discovery that the substance is highly radioactive. Contact with any instance of RPC-506-1 will result in ARS[[footnote]]Acute Radiation Sickness.[[/footnote]] immediately upon contact. --As of now, no life forms have been found within RPC-506, any sighting of a possible creature living within RPC-506 must be reported immediately.--
+
+RPC-506-2 is a designation given to a group of slender humanoid entities with dry, rotten, human-like skin and appendages that reach down to its knees. RPC-506-2 instances are estimated to be about 1.8m to 1.9m in height and have the ability and strength to tear apart human bones by hand. RPC-506-2 instances have been seen to be immune to all physical harm from conventional weapons with exception of being weakened by high levels of voltage causing RPC-506-2 to become paralyzed for approximately 10 minutes.
+
+As of to date, the Authority has only encountered 10 instances of RPC-506-2, but have been unable to contain any, due to their hostility towards armed containment personnel.
+
+------
+
++ ##EB1C23|__Addendums__##
+[[collapsible show="Addendum 506-A: Discovery" hide="Close Addendum"]]
+> RPC-506 first came to the attention of the Authority when a group of 5 expeditionists had entered RPC-506 and encountered RPC-506-1. 3 of the 5 expeditionists had been afflicted with radiation sickness, suffering from symptoms such as nausea, headache, and fatigue. The Authority had taken in all 5 expeditionists for testing and questioning. All 5 were administered Class A-3 amnestics and returned to the hospital they had been retrieved from.
+[[/collapsible]]
+@@@@
+[[collapsible show="Addendum 506-B: Plan to contain RPC-506-2" hide="Close Addendum"]]
+> The head researcher of RPC-506, Dr. Howard Stein, has planned for the Authority to eventually deploy Mobile Specialized Team Sierra-10 ("Mechanical Heart") with high voltage stun weapons in order to paralyze RPC-506-2 instances for the containment of at least 4 instances of RPC-506-2 for further research and testing.
+[[/collapsible]]
+
+------
+
++ ##EB1C23|__Expedition Logs__##
+[[collapsible show="Expedition Log 506.1" hide="Close Log"]]
+> [[=]]
+> **__Expedition 506.1__**
+> [[/=]]
+> 
+> **Participant:** CSD-9938
+> **Date:** ██/██/201█
+> **Objective:** CSD-9938 is tasked with searching for possible documentation revealing any dates in order to get an idea of how long the city has been present.
+> 
+> [LOG BEGIN]
+> 
+> (//CSD-9938 is provided with a full-body protective suit and a camera in order for Dr. L████ to note down all findings within RPC-506//)
+> Dr. L████: CSD-9938 have you equipped your protective suit?
+> 
+> CSD-9938: Yes I have and I am ready to begin sir.
+> 
+> Dr. L████: Good, start with going towards the first building, that one with the canopy.
+> 
+> CSD-9938: Are you sure there are no living things in this place.
+> 
+> Dr. L████: As far as we know, no there isn't, but keep an eye out for any.
+> 
+> CSD-9938: Will do sir.
+> 
+> (//CSD-9938 enters then approaches the building and spots small amounts of RPC-506-1 on the windows//)
+> 
+> CSD-9938: Hey doc so you said to not touch this stuff right?
+> 
+> Dr. L████: Precisely, unless you want radiation poisoning.
+> 
+> CSD-9938: Yea I'll pass on that, I've had food poisoning before and that was horrible, I can't imagine radiation poisoning.
+> 
+> (//CSD-9938 enters the building and the camera shows the building's interior is completely destroyed.//)
+> 
+> CSD-9938: Wait, what am I supposed to be doing again?
+> 
+> Dr. L████: Seriously? For the last time, you are in there to see if you can find any documentation about any structures in RPC-506 or the city in general. We are trying to figure out where it came from and when it had been built. Just follow all the directions I give you and you'll be safe.
+> 
+> CSD-9938: Ok I got ya.
+> 
+> (//CSD-9938 began opening multiple filing cabinets in the office area of the building they had entered.//)
+> 
+> Dr. L████: Make sure you are pointing the camera at everything you find in there, we need to see everything you see.
+> 
+> CSD-9938: Oh sorry about that but to be honest there basically nothing in here.
+> 
+> Dr. L████: Well that's odd.
+> 
+> CSD-9938: Yea, you would think a place like this would have at least some papers with stuff on em.
+> 
+> Dr. L████: Well in that case let's-
+> 
+> CSD-9938: (//interrupting//)Wait I found something, but it's nothing too important.
+> 
+> (//9938 points the camera at what appears to be a chart of rooms, each room is labeled with a letter and a number beside each other. All rooms on the chart have been marked with a green sticker except for rooms A4, A10, B7, D14, and E1. The top of the chart is labeled with the name "Daymond Otel"[[footnote]]Translates to Diamond Hotel[[/footnote]]//)
+> 
+> Dr. L████: Is there anything else within those cabinets?
+> 
+> CSD-9938: I don't see anything else.
+> 
+> Dr. L████: Ok, get out of that building, and let's move on to the next one, we need to get as much information as we can today.
+> 
+> (//9938 places the papers on the front desk and exits the building. 9938 heads towards the downtown area as it begins to rain.//)
+> 
+> CSD-9938: Oh cool it's starting to rain!
+> 
+> Dr. L████: You like the rain?
+> 
+> CSD-9938: Yep, I love the smell of rain, it's such a unique smell.
+> 
+> Dr. L████: Yea I know what you mean. It's one of those smells that would kinda soothe you in a way.
+> 
+> CSD-9938: Yea exactly, even though it would rain a whole bunch where I used to live I still love the rain. When I was younger I would always go out during the rain, but I never wore a jacket so I would get sick often.
+> 
+> Dr. L████: (//chuckling a bit//) Same here, but my parents would always force a jacket on me.
+> 
+> CSD-9938: Ok so where do I go now, sir?
+> 
+> Dr. L████: Ok, you see that post office over there? The one next to the alleyway, that has got to have at least something inside that's worth recording.
+> 
+> (//9938 entered the building and began looking through the multiple mail lockers.//)
+> 
+> CSD-9938: Are you kidding me? I'm finding a bunch of unopened mail but, it's all blank or somehow ripped to shreds as if... as if it were put through a paper shredder or something.
+> 
+> Dr. L████: Is there any lettering on the small shreds?
+> 
+> CSD-9938: No I don't see any. Why would anyone shred blank paper?
+> 
+> Dr. L████: Ok that's enough, 9938 come back to the retrieval zone so our agents can pick you up. If all these documents are gonna be blank or missing there's no point in continuing. We will try something else next time, thank you for your participation 9938.
+> 
+> CSD-9938: You're welcome sir, I'm on my way.
+> 
+> [LOG END]
+[[/collapsible]]
+@@@@
+
+[[collapsible show="Expedition Log 506.2" hide="Close Log"]]
+> [[=]]
+> **__Expedition 506.2__**
+> [[/=]]
+> 
+> **Participant:** CSD-8977
+> **Date:** ██/██/201█
+> **Objective:** CSD-8977 is tasked with searching and returning any documentation revealing any dates.
+> 
+> [LOG BEGIN]
+> 
+> (//CSD-8977 is provided with a full-body protective suit, a video camera, a flashlight, a small bag with a clipboard inside, and a black light//)
+> 
+> Dr. L████: 8977 are you ready.
+> 
+> CSD-8977: Yea I'm ready.
+> 
+> Dr. L████: let's begin then, start with going into the downtown area and look for a post office building beside an alleyway.
+> 
+> (//8977 heads over to the building last explored in the previous expedition//)
+> 
+> CSD-8977: What do I do now sir?
+> 
+> Dr. L████: I need you to go into the building and look through as many documents as possible, if they are blank then shine the black light on the page. Make sure you point the camera at the pages while you do it.
+> 
+> (//8977 begins searching through all filing cabinets and mail within the lockers despite the camera beginning to freeze at random points, the black light does not seem to work on any of the blank documents, although one piece of paper was found with writing//)
+> 
+> CSD-8977: Um, I found this paper. Do you think it's important?
+> 
+> Dr. L████: Let me see it.
+> 
+> (//8977 points the camera at the damaged piece of mail which read "You are invited to my son's birthday party" although the date and location had been smudged.//)
+> 
+> Dr. L████: 8977, keep that in your bag and bring it back when you return so we can get a better look at it.
+> 
+> CSD-8977: Ok I will.
+> 
+> Dr. L████: Move onto the next building, try finding city hall.
+> 
+> (//8977 begins to search for city hall but stopped at the sound of a loud crash//)
+> 
+> CSD-8977: What was that!?
+> 
+> Dr. L████: What did you hear?
+> 
+> CSD-8977: I heard, like, a loud crash.
+> 
+> Dr. L████: Do me a favor and go look for what made the sound.
+> 
+> CSD-8977: What? Seriously? But, but what if it's some monster thing?
+> 
+> Dr. L████: I'm sure you will be fine 8977. For all we know, it could just be some debris that has fallen over.
+> 
+> CSD-8977: True...
+> 
+> (//The camera begins to lightly shake due to 8977's fear of what may be the sound may be.//)
+> 
+> Dr. L████: Can you please try to control the camera please, we need to get a clear view of everything.
+> 
+> CSD-8977: I'm trying but I'm scared, sir...
+> 
+> Dr. L████: Hey hey, just take a deep breath and calm down ok? If anything happens we have armed personnel ready to come and save you. We wouldn't just let you die.
+> 
+> (//8977, trying to control herself, makes her way into a subway station as the sound of a rusty gate sounds in the tunnel//)
+> 
+> CSD-8977: Hmm... I don't wanna go in there please don't make me go in...
+> 
+> Dr. L████: 8977 please, I need you to calm down. Slowly go in and look for what's making the sounds.
+> 
+> CSD-8977: I'm scared please, I don't wanna meet what's in there.
+> 
+> Dr. L████: 8977, listen to me carefully. take a deep breath and keep your guard up.
+> 
+> CSD-8977: I don't wanna do this.
+> 
+> Dr. L████: You need to do this. We need to know what the sound is coming from.
+> 
+> CSD-8977: I can't do this, please...
+> 
+> Dr. L████: Ok ok, I'll make a deal with you. Go through with this and we won't bring you back to RPC-506 ever again.
+> 
+> CSD-8977: I just can't do this, please sir.
+> 
+> Dr. L████: I understand you are scared but remember that we are here for you if anything were to happen. I'm are not letting you die on my watch.
+> 
+> (//8977 stays silent for 2 minutes before beginning to slowly approach the area in which the sounds came from shining the flashlight inwards, the camera lightly shaking the entire time.//)
+> 
+> Dr. L████: Make sure to be careful with any RPC-506-1 stains on walls or the ground.
+> 
+> (//8977's continues moving forward//)
+> 
+> CSD-8977: I don't see anything... What the fuck is-!
+> 
+> (//The camera freezes on the image of a creature that is now designated RPC-506-2. All communication with 8977 is lost and the camera unfreezes to show the same area in which RPC-506-2 was encountered although with a floor perspective indicating 8977 had dropped the camera in fear.//)
+> 
+> Dr. L████: 8977? Come in 8977. Can you hear me?
+> 
+> (//There is no response besides loud static as the camera cuts back to live footage.//)
+> 
+> Dr. L████: Fuck we lost her. (//Inaudible speaking//) CSD-8977 was last located around the-
+> 
+> [LOG END]
+> 
+> **Note:** Dr. L████ had dispatched multiple ASF units to retrieve CSD-8977. After 2 hours of searching, CSD-8977 was found in a fetal position under a receptionist desk at the Diamond Hotel. 8977 had undergone extreme trauma to the left humerus bone and the bicep. The remaining ASF units encountered RPC-506-2 resulting in the deaths of 3 members and the injury of 2. After 8977 had been retrieved, the piece of mail they had gathered from the post office was reported gone.
+[[/collapsible]]
+@@@@
+[[collapsible show="Expedition Log 506.3" hide="Close Log"]]
+> [[=]]
+> **__Expedition 506.3__**
+> [[/=]]
+> 
+> **Participant:** CSD-9904
+> **Date:** ██/██/201█
+> **Objective:** CSD-9904 is tasked with searching for anything that may reveal how RPC-506 became abandoned.
+> 
+> [LOG BEGIN]
+> 
+> (//CSD-9904 is provided with a full-body hazmat suit, flashlight, a leather bag, and a video camera//)
+> 
+> Dr. L████: CSD-9904 are you ready for your mission?
+> 
+> CSD-9904: Yes sir.
+> 
+> Dr. L████: Good because we still have lots to explore. First I need you to head to the downtown area. Make sure you stay alert for any RPC-506-2 instances.
+> 
+> CSD-9904: Sir I will do whatever it takes to contribute to science!
+> 
+> Dr. L████: Woah ok ok, glad you are enthusiastic about this but don't attract them to you, or else this will be over a lot quicker.
+> 
+> CSD-9904: Good point.
+> 
+> (//9904 travels to the downtown area and begins to search around while walking down the main street. 9904 spots a school and approaches it.//)
+> 
+> Dr. L████: Go into that school there, there's gotta be some dates or names somewhere on a chalkboard or something.
+> 
+> (//9904 enters the school, the walls covered in RPC-506-1. 9904 enters classroom 4 which appears to be a history class. All of the wooden desks are completely damaged except for one in the far corner of the room which is only missing a leg. Portraits of former Premiers of the Soviet Union between a flag of the USSR[[footnote]]Union of Soviet Socialist Republics.[[/footnote]] and a flag of the RSFSR[[footnote]]Russian Soviet Federative Socialist Republic.[[/footnote]] can be found displayed on the opposite side of the room.//)
+> 
+> CSD-9904: This place looks like my history class from when I was in secondary school back home. The only difference is we didn't have pictures of the Premiers of the Soviet Union.
+> 
+> Dr. L████: Do me a favor and point the camera at the portraits.
+> 
+> CSD-9904: Like this?
+> 
+> (//9904 shows the portraits to the camera.//)
+> 
+> Dr. L████: Ok this is perfect! According to the portraits Premier Georgy Malenkov was the last leader before RPC-506 became abandoned. This narrows down the years of abandonment to be between 1953 and 1955.
+> 
+> CSD-9904: Wow this stuff is cool. I wish I could take something from here, like that flag or something.
+> 
+> Dr. L████: Leave everything where it is 9904, right now you have a job to do.
+> 
+> CSD-9904: Understood sir.
+> 
+> Dr. L████: There is a chalkboard there correct?
+> 
+> CSD-9904: Yes! It's talking about The Great Patriotic War.
+> 
+> Dr. L████: Any dates?
+> 
+> CSD-9904: (//showing the camera//) No, the only dates here are when the Germans declared war with us and the day we took Berlin at the end of the war.
+> 
+> Dr. L████: Ok, well that doesn't help us very much, just keep looking around.
+> 
+> (//9904 searches very few areas of the school due to multiple rooms being overrun with RPC-506-1. 9904 left the building and instead began going in the direction of a hospital just west from the school//)
+> 
+> CSD-9904: I'm at like a hospital I think.
+> 
+> Dr. L████: Try to see if you can find a calendar somewhere or a paper with appointments.
+> 
+> (//9904 begins to search the office area for any appointment sheets. 9904 could not search for too long due to the number of RPC-506-1 covering the interior.//)
+> 
+> CSD-9904: Sir I don't think I can look around much more.
+> 
+> Dr. L████: Yea I'm seeing the reason.
+> 
+> CSD-9904: Shit, I heard something... It's in the hospital.
+> 
+> Dr. L████: It's probably an RPC-506-2 instance, try to avoid it as much as possible.
+> 
+> CSD-9904: Yeah good idea, I heard what it did to your officers, it would not be a pleasure to meet in person.
+> 
+> (//9904 decides to leave the hospital to decrease the risk of an encounter with an RPC-506-2 instance. 9904 begins to walk past the main park in RPC-506 while staying alert.//)
+> 
+> CSD-9904: This is completely unrelated but what is going to be served in today's meal?
+> 
+> Dr. L████: Meatloaf.
+> 
+> CSD-9904: Seriously?
+> 
+> Dr. L████: No, today is pizza day.
+> 
+> CSD-9904: Thank fuck, the meatloaf they make there is so dry.
+> 
+> Dr. L████: I can't disagree there.
+> 
+> CSD-9904: It's like chewing on old dry bread that's been sitting on shelves for weeks.
+> 
+> (//9904 begins leaving the main areas holding residency and job areas and spots a large gate topped with barbed wire, the gate is covered in RPC-506-1 and cannot be touched without infection occurring.//)
+> 
+> CSD-9904: I have been walking for a while, I found this gate thing and it's got a whole bunch of that stuff on it.
+> 
+> Dr. L████: Don't bother touching it, it's not worth it. What does that sign say on the gate?
+> 
+> CSD-9904: I can't really make it out but it says "Power Plant" and "Deadly"
+> 
+> Dr. L████: Ok I think we are done for today. Return to the pickup zone and ASF will transport you back.
+> 
+> CSD-9904: Yes sir.
+> 
+> [LOG END]
+> 
+> **Note:** After CSD-9904 had arrived back at the research center the Authority sent a helicopter to get an overhead view of what Dr. L████ stated maybe a Nuclear Power Plant. After gaining an overhead view of the restricted area it was determined the city has gone abandoned due to an explosion in the Nuclear Power Plant located within RPC-506 similar to the incident at Chernobyl in 1986. Although, it is still unknown as to what caused the existence of the RPC-506-2 instances.
+[[/collapsible]]
+@@@@
+[[collapsible show="Expedition Log 506.4" hide="Close Log"]]
+> [[=]]
+> __Expedition 506.4__
+> [[/=]]
+> 
+> **Participant:** CSD-9147
+> **Date:** ██/██/201█
+> **Objective:** CSD-9147 is tasked with exploring the interior of the Nuclear Power Plant found within RPC-508.
+> 
+> [LOG BEGIN]
+> 
+> (//CSD-9147 is provided with a full-body hazmat suit, flashlight, leather bag, and a video camera. The Authority has transported CSD-9147 to RPC-506's power plant and landed on the helicopter pad already available in the power plant.//)
+> 
+> Dr. L████: CSD-9147 are you ready for your mission?
+> 
+> CSD-9147: Yes sir Dr. L████.
+> 
+> Dr. L████: Ok good, start heading into the building.
+> 
+> (//9147 enters the office sector of the power plant.//)
+> 
+> CSD-9147: Woah! Are you seeing this?
+> 
+> Dr. L████: Yea, that's a lot of RPC-506-1.
+> 
+> CSD-9147: What do I do?
+> 
+> Dr. L████: We have no choice. We need as much info on this place as possible so you will have to go through it.
+> 
+> CSD-9147: Will this suit protect me?
+> 
+> Dr. L████: Our tests show that the suit works a majority of the time so I'm sure you'll be fine, just don't touch any of the RPC-506-1 if you don't have to.
+> 
+> (//Entering the office area 9147 was met with multiple corpses covered in RPC-506-1//)
+> 
+> CSD-9147: Woah! Are you seeing this!?
+> 
+> Dr. L████: Yea... It's a bunch of corpses covered in RPC-506-1. Keep going for now.
+> 
+> (//9147 continues walking through multiple hallways until they arrive in a large stairway which headed downwards. 9147 traveled downwards and entered a room filled with large tanks filled with the chemical acetone. 9147 continues further down the stairway and arrives at a double doorway with a sign above//)
+> 
+> CSD-9147: The sign says this area is highly radioactive.
+> 
+> Dr. L████: Just go in, can't be any worse than what you have been already going through.
+> 
+> CSD-9147: (//Entering//)Oh shit, even with this suit on it doesn't block how bad the smell is in here. Woah doc look at this! (//Showing a pile of papers to the camera//)
+> 
+> Dr. L████: Perfect! Grab any papers that have information on them and bring them with you when you return.
+> 
+> (//9147 begins looking through the pile of papers and ends up grabbing 14 documents//)
+> 
+> CSD-9147: Do I return now sir?
+> 
+> Dr. L████: No, not yet at least. Try to see if there is anything else. We need as much as possible.
+> 
+> CSD-9147: Yes sir.
+> 
+> (//9147 resumed exploration of the room and found 4 large metal trays//)
+> 
+> Dr. L████: What's on the trays?
+> 
+> CSD-9147: It looks like that RPC-506-1 stuff.
+> 
+> Dr. L████: Yea you're right.
+> 
+> (//9147 leaves the room and head down a hallway and opened a door revealing an instance of RPC-506-2 roaming the room//)
+> 
+> CSD-9147: Fuck!
+> 
+> (//9147 began to run in the opposite direction in an attempt to escape the instance//)
+> 
+> Dr. L████: 9147! Can you hear me!?
+> 
+> (//Silence for exactly 2 minutes//)
+> 
+> CSD-9147: Help, please.
+> 
+> Dr. L████: Oh good you are still there, we lost connection with you for a bit there. We are sending backup, get to a safe spot.
+> 
+> CSD-9147: (//whispering//) I'm hiding in a supply closet, sir.
+> 
+> Dr. L████: Good just stay there while reinforcements come to get you.
+> 
+> (//Aggressive scratching can be heard coming from a door that 9147 had locked and the camera has stopped functioning as it is stuck on a black screen.//)
+> 
+> Dr. L████: Is there anything in the room with you currently that can be used as a weapon?
+> 
+> CSD-9147: Yea there's a taser in here, it's attached to someone's belt.
+> 
+> Dr. L████: Good, use that if it does succeed in breaking in.
+> 
+> CSD-9147: Sir... I'm terrified... What if this taser doesn't work?
+> 
+> Dr. L████: It's gonna be ok 9147, it's best not to think of the negative, try to stay positive.
+> 
+> (//scratching on the door continues//)
+> 
+> CSD-9147: How do I stay positive in this situation?
+> 
+> Dr. L████: Just try to think of the things you're gonna do when you get out. Do you have any hobbies that you enjoy?
+> 
+> CSD-9147: Um... yeah... When I was younger I used to draw fictional creatures like dragons and stuff.
+> 
+> Dr. L████: Ok there you go, when you get out you will have lots of time to do that again, we will even provide you the materials.
+> 
+> CSD-9147: Really? Oh crap...
+> 
+> (//A loud crack can be heard followed by a scream from 9147 and the sound of a taser activating. Something can be heard hitting the ground.//)
+> 
+> Dr. L████: 9147 What's going on!? Can you hear me!?
+> 
+> CSD-9147: It didn't work! Ah!
+> 
+> (//9147 can be heard struggling with RPC-506-2. 9147 begins choking and gasping for air. Meanwhile, Dr. L████ is attempting to hurry the ASF units arriving inside the power plant via radio transceiver. After 3 minutes, 9147 is no longer heard and instead is replaced with the sound of something cracking and tearing apart//)
+> 
+> Dr. L████: 9147... fuck... I'm sorry... I'm sorry, we couldn't get you out in time...
+> 
+> (//Afterward, ASF members can be heard walking in the background followed by a screech-like sound and multiple gunshots//)
+> 
+> [LOG END]
+> 
+> **Note:** After the RPC-506-2 instance had been locked within a room temporarily, ASF units found CSD-9147 in the supply closet with his chest cavity completely ripped open and the rib cage was completely torn apart. 9147 was announced dead on the spot. 6 out of the 12 documents acquired by 9147 had been completely torn to shreds but the ASF was able to recover the remaining 6 documents. 3 documents read of an experiment that had originally begun in Chernobyl and was moved to Pyelknom due to [REDACTED].
+[[/collapsible]]
+
+------
+
++ ##EB1C23|__Documents__##
+[[collapsible show="Document 1 Section 3" hide="Close Document"]]
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+**__Проект радиационной невосприимчивости__**
+В это время на Земле нарастает напряженность, и нам нужно найти новые способы выжить в ядерной войне. Наши шпионские группы привлекли наше внимание к тому факту, что у Соединенных Штатов есть более 2000 ядерных боеголовок, и мы легко падем в течение недели из-за радиации, которая может распространиться по нашим республикам и отравить наш народ. Как было доказано в прошлом, нормальный человек не может пережить высокие уровни радиации до такой степени, что это может быть фатальным. Премьер Маленков несколько раз упоминал, что если мы найдем способ стать невосприимчивым к высоким уровням радиации, мы сможем легко пережить возможную ядерную зиму. Это очень рискованно, но, имея достаточно времени и денег, мы сможем выжить в наших славных республиках.
+[[/div]]
+**Translation:** 
+
+**__Radiation Immunity Project__**
+Tensions are mounting on Earth during these times, and we need to find new ways to survive a nuclear war. Our espionage groups have drawn our attention to the fact that the United States has over 2,000 nuclear warheads and we will easily fall within a week due to the radiation that could spread through our republics and poison our people. As has been proven in the past, a normal person cannot survive high levels of radiation to the point that it can be fatal. Premier Malenkov has mentioned several times that if we can find a way to become immune to high levels of radiation, we can easily survive a possible nuclear winter. It is very risky, but with enough time and money, we can do it to survive in our glorious republics.
+[[/collapsible]]
+@@@@
+[[collapsible show="Document 5 Section 2" hide="Close Document"]]
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+**__Существа из плоти__**
+Существа из плоти наслаждаются уничтожением конфиденциальных материалов, таких как наши документы об этом эксперименте. Кремль дал нам четкий приказ держать живых существ под нашим контролем, чтобы они не могли уничтожить более важные документы большой ценности. Они заявили, что этот эксперимент все еще может быть в некоторой степени успешным, если мы сможем контролировать этих существ из плоти как форму контроля над разумом. Кремль также заявил, что существа из плоти могут быть использованы в качестве оружия в войне против американцев, видя, насколько они невосприимчивы к радиации и ряду различных видов оружия.
+[[/div]]
+**Translation:**
+
+**__Flesh Creatures__**
+The flesh creatures are enjoying the destruction of confidential material such as our documents about this experiment. The Kremlin has given us clear orders to keep these living beings under our control so that they cannot destroy more important documents of great value. They stated that this experiment could still be somewhat successful if we can control these flesh beings as a form of mind control. The Kremlin also said that the creatures of flesh could be used as weapons in a war against the Americans, seeing how immune they are to radiation and a range of different weapons.
+[[/collapsible]]
+@@@@
+[[collapsible show="Document 6 Section 4" hide="Close Document"]]
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+**__Слабость в нашу пользу__**
+Наше исследование привело нас к выводу, что эти создания из плоти, в конце концов, не непобедимы. При ударе током напряжением в 200000 или более, существо будет оглушено на короткое время. Электричество полностью парализует черепную и нервную системы этих живых существ. Мы можем использовать эту новообретенную слабость в наших интересах и использовать ее, чтобы контролировать этих созданий из плоти, шокируя их каждый раз, когда они не подчиняются приказам.
+[[/div]]
+**Translation:**
+
+**__Weakness in our Favor__**
+Our research has led us to conclude that these creatures of flesh are not, after all, invincible. Shocked by a voltage of 200,000 or more, the creature will be stunned for a short time. Electricity completely paralyzes the cranial and nervous systems of these living beings. We can use this newfound weakness to our advantage and use it to control these creatures of flesh, shocking them every time they disobey orders.
+[[/collapsible]]
+
+
+[[=]]
+<< [[[RPC-505]]] | RPC-506 | [[[RPC-507]]] >> 
+[[/=]]
+

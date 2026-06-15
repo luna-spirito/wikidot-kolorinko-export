@@ -1,0 +1,700 @@
+---
+title: "Authority Central Intelligence Theme"
+tags: ["theme"]
+page_id: "1306894112"
+site: "rpcauthority"
+slug: "component:aci-theme"
+revision: 24
+revision_id: "1383784581"
+author: 4981794
+timestamp: 1634103470
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aci-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quantico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kufam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+
+
+/*
+    Authority Central Intelligence Theme (made by Qual; requested by Blairin)
+    [2021 Wikidot Theme]
+*/
+
+
+
+/* General Content Section: */
+
+body {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Background_Scanlines.png);
+    background-repeat: repeat;
+    background-size: 200px;
+}
+
+#main-content {
+    background: var(--control-content-background);
+    border-left: 5px solid var(--green-border-color);
+    padding: 1em;
+    box-shadow: 2.5px 2.5px 10px black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Copyright_Bar.png);
+    background-position: bottom center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+}
+
+#page-content {
+    font-family: helvetica;
+    font-size: 110%;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+
+form#edit-page-form {
+    padding: 10px 40px 1em 10px;
+    border-left: 4px solid var(--green-border-color);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 2px 1px 8px black;
+    background: var(--control-content-background);
+}
+
+table.edit-page-bottomtable {
+    margin: 10px 10px;
+}
+
+.page-options-bottom a {
+    padding: 0px 7px;
+}
+
+
+
+/* Mobile Comparability (Get rid of everything header and only keep Pg title var.) */
+ 
+@media (max-width: 880px) {
+
+#side-bar {
+    display: none;
+    }
+}
+
+@media (max-width: 880px) {
+
+#header {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Mobile_Header_Text.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(6.5rem - 2.125rem);
+    height: 7.5rem;
+    background-position: left .2em top 4rem;
+}
+
+#main-content {
+    margin: 40px 10px;
+}
+ 
+#page-title {
+    top: 10px;
+}
+ 
+#header h1 a::before {
+    content: none;
+}
+ 
+#header h2::before {
+    content: none;
+    }
+}
+
+@media (max-width: 1010px) {
+
+#search-top-box input.empty {
+    display: none;
+    }
+}
+
+
+
+#printuser {
+    color: var(--text-color);
+    background-color:transparent;
+    font-family: normal;
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: var(--text-color);
+
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+    background: rgba(0,0,0,0.25);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+#login-status a {
+    color: var(--text-color);
+ 
+}
+ 
+#login-status a:hover {
+    color: var(--link-hover-color);
+}
+ 
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: 0px solid #ccc;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.6);
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: var(--tabview-button-selected-color);
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: var(--text-color);
+    font-family: normal;
+}
+ 
+.open-themes-container {
+    display: none;
+}
+
+
+
+/* Page Header Section: */
+
+#header h1 {
+    top: -10px!important;
+}
+
+#header h1 a::before {
+    font-family: 'Quantico', sans-serif;
+    margin-left: 5px;
+    font-size: 75%; 
+    text-decoration: none;
+    text-shadow: 2px 2px 0 #000;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    font-family: 'Kufam', cursive;
+    margin-left: 5px;
+    text-shadow: 1px 2px 0 #000;
+    font-size: 100%;
+}
+
+
+
+/* Headers Section: */
+
+h1 {
+    font-family: 'Quantico', sans-serif;
+    color: var(--primary-text-color);
+    font-size: 220%;
+    margin: 5px 0px;
+}
+
+h2 {
+    font-family: 'Quantico', sans-serif;
+    margin: 5px 0px;
+    color: var(--primary-text-color);
+}
+
+h3 {
+    font-family: 'Quantico', sans-serif;
+    margin: 5px 0px;
+    color: var(--primary-text-color);
+}
+
+h4, h5, h6 {
+    font-family: 'Dosis', sans-serif;
+    color: #ccc;
+}
+
+
+
+ /* Link Content: */
+
+a {
+    font-weight: bold;
+}
+ 
+a.newpage {
+    font-weight: bold;
+}
+ 
+a:hover {
+    font-weight: bold;
+}
+
+
+
+/* Sidebar */
+
+#side-bar {
+    width: 17.5em;
+    padding: 1em;
+
+    background: var(--control-content-background);
+    border-left: 4.5px solid var(--green-border-color);
+    box-shadow: 1px 2px 10px black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#side-bar div.menu-item a {
+    width: 208px;
+}
+
+#side-bar div.menu-item a:hover {
+    color: var(--sidebar-hover-color);
+    text-decoration: none;
+    padding-left: 1em;
+    width: 208px;
+}
+
+
+
+/* Font Section: */
+
+body {
+    font-family: helvetica;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+#page-title {
+    font-family: 'Quantico', sans-serif;
+    text-shadow: .5px .5px 0 black;
+    box-shadow: 0px 2px 0px #4a4a4a;
+    font-size: 235%;
+    font-weight: 900;
+}
+
+.heading {
+    font-family: 'Quantico', sans-serif;
+    letter-spacing: 1px;
+}
+
+table.wiki-content-table th, .header-panel, .footer-panel {
+    font-family: helvetica;
+    color: var(-primary-text-color);
+}
+
+.image-block .image-caption, #toc, table.wiki-content-table td, .cellStyle, .sidenoteC, .yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-family: Courier New, Courier, monospace;
+    word-spacing: -2px;
+    color: var(-primary-text-color);
+}
+
+blockquote, .yui-navset .yui-content, .content-panel, .news-block, .featured-block, .info-block {
+    font-family: Courier New, Courier, monospace;
+    color: var(-primary-text-color);
+    word-spacing: 3px;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+
+
+/* ------------- Tabview Borders Section: Beginning ------------- */
+
+/* Selection Tabview Borders Section: */
+
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    padding: 0px 0 0;
+}
+
+.compactTabview .yui-nav, .yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    border: var(--green-border);
+}
+
+/* Tabview Content Borders: */
+
+.yui-navset .yui-content {
+    background-color: var(--tabview-background);
+    border-top: none;
+}
+
+.sideTabview .yui-nav {
+    border: var(--green-border)!important;
+}
+
+/* Side-Selection Tabview Borders: */
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--green-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--green-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+}
+
+/* ------------- Tabview Borders Section: End ------------- */
+
+
+
+/* Miscellaneous Tabview Borders: */
+
+.hovertip {
+    border: var(--green-border)!important;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--green-border-long);
+}
+
+blockquote { 
+    background: var(--tabview-background);
+    border-left: 4px solid var(--green-border-color);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 2px 1px 8px black;
+}
+
+
+
+/* ACI Paperback Section: */
+
+.ACI_Paperback {
+    color: #000;
+    border: solid 3px #000000;
+    background: #FFEFDD;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.ACI_Paperback .image-block {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.ACI_Paperback .image-block img {
+    border: var(--green-border-long);
+    background: #d4c2ae;
+}
+
+.ACI_Paperback .image-block .image-caption {
+    font-weight: 100;
+    word-spacing: 7px;
+    background: none;
+    border-top: none;
+}
+
+.ACI_Paperback blockquote {
+    color: black;
+    background: #d4c2ae;
+
+    border-left: 4px solid var(--green-border-color);
+    border-right: 4px solid var(--green-border-color);
+    border-radius: 2px;
+    box-shadow: 0px 2px 10px black;
+}
+
+.ACI_Paperback h1, .ACI_Paperback h2, .ACI_Paperback h3, .ACI_Paperback h4, .ACI_Paperback h5, .ACI_Paperback h6 {
+    color: #7c8c54;
+    font-family: courier new;
+}
+
+
+
+ /* Font Variation Section: */
+
+.Courier {
+    font-family: Courier New, Courier, monospace;
+}
+
+.Quantico {
+    font-family: 'Quantico', sans-serif;
+}
+
+.Kufam {
+    font-family: 'Kufam', cursive;
+}
+
+.Dosis {
+    font-family: 'Dosis', sans-serif;
+}
+
+.RobotoSlab {
+    font-family: 'Roboto Slab', serif;
+    word-spacing: 8px;
+}
+
+
+
+ /* Miscellaneous Section: */
+
+hr, #side-bar hr, .content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    height: 1px;
+    background: #707b8c;
+    box-shadow: 0px 1px 0px #4a4a4a;
+}
+
+.sidenoteI {
+    padding: 0px;
+    border: var(--green-border);
+    border-top: none;
+}
+
+#license-area {
+    background: #262626;
+}
+
+:root {
+    --text-color: #c0c0c0;
+    --primary-text-color: #717d51;
+    --nav-hover-background: var(--new-page-color);
+
+    --body-background: #252625;
+    --control-content-background: #282928;
+
+    --primary-background: #191919;
+    --content-bar-background: #262626;
+    --news-block-body-panel-background-even: #111;
+
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: normal;
+    --header-custom-text: 'Authority Central Intelligence';
+    --header-tagline-custom-text: 'Tacticus Colimus';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Official_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Header.png);
+    --header-tagline-color: #a6b386;
+    --header-tagline-top: 8px;
+
+    --link-color: #7c8c54;
+    --link-hover-color: #93a563;
+    --new-page-color: #4e5945;
+
+    --button-border: 1px solid #ccc;
+    --button-background: var(--new-page-color);
+    --button-hover-border: 1px solid #cfcfcf;
+    --button-hover-background: #5b663d;
+    --button-hover-color: #cfcfcf;
+
+    --search-button-background: #4e5945;
+    --search-button-hover-background: #59664f;
+    --search-input-color: #252625;
+    --search-input-hover: #111111;
+ 
+    --search-input-text: #b1bfd1;
+    --search-input-hover-color:#d6d6d6;
+
+ 
+    --topbar-dropdown-background: var(--primary-background);
+    --topbar-hover-background: var(--green-border-color);
+    --topbar-hover-color: #d6d6d6;
+    --topbar-divider: 1px solid #222;
+    --topbar-dropdown-border-color: var(--green-border-color);
+  
+    --sidebar-crit-corner-color: #bfd88c;
+    --sidebar-hover-color: var(--tabview-button-selected-color);
+    --star-rating-hue: 215deg;
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid var(--green-border-color);
+    --tabview-button-selected-background: var(--green-border-color);
+    --tabview-button-selected-color: #d6d6d6;
+    --tabview-button-hover-background: #667245;
+ 
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--green-border-color);
+    --tabview-side-button-divider: 1px solid var(--green-border-color);
+ 
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: var(--green-border-color);
+    --tabview-side-scrollbar-thumb-hover-background: var(--tabview-button-hover-background);
+ 
+    --sidenote-open-background: #434c2d;
+    --basic-border: 1px solid #666666;
+ 
+    --BT-resizer-background: #111;
+    --BT-scrollbar-thumb-background: var(--new-page-color);
+    --BT-scrollbar-thumb-hover-background: #59664f;
+
+    --account-options-border: 2px solid var(--nav-hover-background);
+
+    --green-border-color:#56603a;
+    --green-border: 1px solid var(--green-border-color);
+    --green-border-long: 2px solid var(--green-border-color);
+
+    --page-title-border: 2px solid #707b8c;
+
+    --tabview-side-border: var(--green-border-long);
+    --owindow-border: var(--green-border);
+    --footnote-border: var(--green-border-long);
+    --toc-border: var(--green-border-long);
+    --content-panel-border: var(--green-border-long);
+    --image-block-border: var(--green-border-long);
+    --star-rating-border: var(--green-border);
+    --content-panel-border: var(--green-border-long);
+    --tabview-border: var(--green-border-long);
+    --table-border: var(--green-border-long);
+    --template-block-border: var(--green-border);
+    --tags-border: var(--green-border-long);
+    --sidenote-contents-border: var(--green-border-long);
+    --sidenote-figure-border: var(--green-border-long);
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Assets (Images & Fonts)" hide="- Assets (Images & Fonts)"]]
+----
+[[=]]
+++ **Authority Central Intelligence Intranet Assets:**
+[[/=]]
+
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ ACI Seal
+++++ (Current Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/Official_ACI_Seal.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ ACI Insignia
+++++ (Main Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/Official_ACI_Insignia.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ ACI Global Seal
+++++ (Classic Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/Official_ACI_Global_Seal.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ ACI Shine Seal
+++++ (Classic Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/Official_ACI_Classical_Seal.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ ACI Header & Copyright Bar
+[[/div]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Mobile_Header_Text.png width="100%"]]
+[[/div]]
+[[/div]]
+[[div class="center-column"]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Copyright_Bar.png width="100%"]]
+[[/div]]
+[[/div]]
+
+----
+
+[[=]]
+++ **Report Block:** 
+[[/=]]
+
+[[div class="ACI_Paperback"]]
+
+[[=]]
++ __**AUTHORITY REPORT №XXX**__
++++ Report: "On the Anomalous Example"
+[[/=]]
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/component%3Aaci-theme/ACI_Official_Logo.png|caption=Example Image Block|width=200px]]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+----
+@@ @@
+> @@[[div class="ACI_Paperback"]]@@
+> @@Report Content@@
+> @@[[/span]]@@
+
+[[/div]]
+
+----
+
+[[=]]
+++ **Authority Central Intelligence Class Fonts:** 
+[[/=]]
+
+[[span class="Courier"]] "Courier Text" [[/span]]
+> @@ [[span class="Courier"]] Courier Text [[/span]] @@
+
+[[span class="Quantico"]] "Quantico Text" [[/span]]
+> @@ [[span class="Quantico"]] Quantico Text [[/span]] @@
+
+[[span class="Kufam"]] "Kufam Text" [[/span]]
+> @@ [[span class="Kufam"]] Kufam Text [[/span]] @@
+
+[[span class="Dosis"]] "Dosis Text" [[/span]]
+> @@ [[span class="Dosis"]] Dosis Text [[/span]] @@
+
+[[span class="RobotoSlab"]] "Roboto Slab Text" [[/span]]
+> @@[[span class="RobotoSlab"]] Roboto Text [[/span]] @@
+
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:aci-theme/code/1); @@
+> @@ [[/module]] @@
+

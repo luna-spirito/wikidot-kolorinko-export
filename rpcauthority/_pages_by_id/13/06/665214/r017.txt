@@ -1,0 +1,132 @@
+---
+title: "Protocol Laboratory"
+tags: ["lore"]
+page_id: "1306665214"
+site: "rpcauthority"
+slug: "protocol-laboratory"
+revision: 17
+revision_id: "1530755127"
+author: 6371726
+timestamp: 1751284785
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme/code/1);
+[[/module]]
+
+[[div class="content-box"]]
++++ Overview
+
+The Protocol Laboratory is a sub-department of the Containment Division tasked with the creation, testing, preparation, commissioning, and approval of all finalized containment protocols utilized by the Authority. Often acknowledged as the front lines of Containment, the department comprises a diverse group of personnel pulled from all professions, geographic-regions, and internal Divisions: All personnel are highly trained and educated to perform a specific task and give insight into ongoing Prolab projects. As such, the department often enjoys a greater level of functional and fiscal autonomy than its counterparts when designing fail-safes, although it is more reliant on the cooperation and communication between Departments -- and even Divisions. Still, the Prolab department, much like its Division partners, is divided within sub-sectors for specific fields of work.
+
+[[/div]]
+
+-----
+
+[[=]]
++++ **Protocol Teams**
+[[/=]]
+
+> //They say our experiments may one day cause a site to blow up. In my opinion, I feel much safer knowing it would be one of us doing it and not an anomaly we failed to contain.//
+> 
+> - Anonymous Protocol Team Personnel
+
+[[include component:image-block name=prolab1.png|caption=ARO Manager Prof. Wilson and Containment Specialist Pablo testing the primary containment device for RPC-███ (over Pablo’s eyes).]]
+
+**Dept. Overview:** Protocol Units are the decentralized, main workforce of Prolab. Each team commonly consists of a few dozen people, led by a Containment Specialist, and comprises a mixture of engineers, research units, and non-commissioned officers. These teams are often made of units strung together and enforced by a tight schedule with little workaround. 
+
+Often tasked to figure out the minimum requirements to keep an anomaly secured from the public and to uphold the doctrine of Containment, diligence and innovation are key.
+
+Personnel initially hired by the Department make up a low margin of staff, however. Rather, most are transferees from other Divisions and hand-selected for their specific expertise: Professors, Marine biologists, Bio-Engineers, Union Dietary Specialists, Urban city planners, the works.  
+
+[[collapsible show="[+] Common Protocol Unit Positions" hide="[-] Common Protocol Unit Positions"]]
+
+Although Protocol Units employ a wide range of positions, here are some of the most common:
+
+* **Containment Specialist:** Senior Prolab Personnel. Often engineers and architects having proven their mastery and versatility in a variety of containment scenarios, specialists are the de facto leaders of a Protocol Unit. Time management, overseeing testing, lower-rank personnel, and coordinating resources are their main responsibilities.[[footnote]] When not commissioned to a specific team, Containment Specialists are often used to provide insight themselves on the logistics of securing Anomalies particularly monolithic phenomena within other departments. [[/footnote]]
+
+* **File Manager:** An Registry Representative. Bureaucrats assigned to multiple different teams, Managers work under Specialists to file paperwork and organize data for AET teams to inherit testing when the time comes. They are often found on the sidelines.
+
+* **Research Staff** Biologists, physicists, data analysts, and mathematicians. Mainly pencil pushers, their job is to document qualitative and quantitative data, look for safe ways to handle/interact with anomalies, and to identify hazardous properties. Usually more hands-on and direct than their Research counterparts, it's not uncommon to see them wearing protective gear such as bulletproof vests under their lab coats.
+
+* **Engineers:** Prolab Engineers are the heart of the department. Hard hats, welders, mechanical experts, and programmers; their job is to coordinate with Prolab Researchers to draw loose schematics and lay the foundational information of both object class and how to potentially secure an anomaly. Engineers are also the main labor force behind designing the outlandish requests of Analysts and providing insight on logistical concerns when drafting the final stages.
+
+* **Non-Commissioned Officers:** ASF and tactical personnel often brought on to provide insight on fail safes. When 'shit inevitably hits the proverbial fan,' it is important to hear from the people responsible for detaining anomalies. Their job is to point out potential exploits in chamber design.[[footnote]] Often, they are brought on via team request, and often serve during periods when in-between assignments and injury that has deemed them unfit to defend. Ala, a broken leg or arm. [[/footnote]]
+
+* **Associate Personnel:** A loose amalgamation of liaison staff. Often fitting more closely into one or more of the previous categories, Associates, as with every other department, are temporary staff brought in from outside of the Authority.[[footnote]] Usually, this is done in conjunction with the [http://rpcauthority.wikidot.com/engineering-component Contractor Liason Office of the Engineering Component.] [[/footnote]] Professors, construction workers, politicians, local community leaders; This designation is often reserved for fringe cases, often when anomalies are in close proximity to the public and cannot be easily moved.
+
+[[/collapsible]]
+
+A single staff member's tenure within the Department can vary. As Prolab is often a revolving door, staff are either recommended on (mainly) temporary assignment or extended/permanent occupation. Temporary personnel are often designated to serve on a specific number of anomalous projects decided beforehand. Personnel in extended occupation, ala seven months or longer, are to receive mandatory fail-safe training in the event that an anomaly breaches pre-containment.
+
+Staff are also encouraged to take a basic weapons training course offered in partnership with the ASF. For more information, please contact your local File Manager.
+
+@@@@
+**Work Ethic:** The momentous trust put into the Prolab and the standards by which it conducts itself are the pride and joy of the Containment Division. However, there are setbacks.
+
+Working at Prolab can be frantic and terrifying; the sooner an unknown gets locked on a box, the lower the chance of bloodshed will be. Keeping to the schedule is //everything.// The imperative necessity for testing also implies ever-present danger, as anomalies are inherently unpredictable; Who knows if it’ll explode when you haven't touched it.
+
+And as they are unpredictable, every piece of information is invaluable. Personnel responsible for the acquisition of an anomaly must be immediately and extensively questioned and are expected to mention every small detail of their experience for the safety of the team.
+
+Due to the number of anomalies acquired by the Authority in a given year, the process of accommodating Authority facilities is often chaotic. From initial retrieval to finalizing documentation, anywhere from three to fifteen different departments can get involved to contain just an Alpha-White anomaly. It is the job of Units to sift through this discord and get results.
+
+Preparation, testing, conclusions, and review often happen within a manner of a few days for multiple, complex anomalies that have to be accommodated for in the Authority's ever-expanding infrastructure. Standard deadlines on a Beta-Orange anomaly is, on average, three days. All of this culminates in both a lively work environment and a result ensured through whatever means possible. 
+
+Working in a Protocol Team is a once-in-a-lifetime experience, and is likely the last experience for many personnel. But when Unit personnel figure out why something blows up or are tasked with immobilizing an intangible entity: one less person has to die because of imperfect containment protocols.
+
+[[collapsible show="[+] Excerpt from Commission Briefing" hide="[-] Excerpt from Commission Brief"]]
+
+> //The Protocol Laboratory, more commonly known as Prolab - as convenient of an acronym as it may be, aside from a good-natured way to jab at Research personnel - is in nothing more than one of the most serious departments within the Authority. Experts from all fields of science, both grounded in reality and those newly discovered thanks to anomalous experimentation, tasked with creating the sturdiest of walls and the most inescapable mazes for the containment of anomalies, whether it be by baking salt into chalk walls or spraying the blood of a Swedish moose over reinforced concrete, we are the ones who put **pro** into Prolab. And we need to keep it as such because every mistake we make is one life we lose on the battlefield.//
+> 
+> - Containment Specialist Helge Lageson
+
+[[/collapsible]]
+
+-----
+
+[[=]]
++++ **Adaptive Registry Oversight Commission**
+[[/=]]
+
+[[include component:image-block name=prolab2.png|caption=ARO Personnel arguing over the current asset spending of Prolab, Site-133, California.|align=left]]
+
+The **A**daptive **R**egistry **O**versight Commission, or ARO, is a loose conglomerate of bureaucrats responsible for coordinating all involved personnel within the Department. Originally a small, administrative team under the Presentium, the Department has since grown to encompass a multitude of functions.
+
+Its main goals are twofold: To handle both logistics of labor and resources so as to not interfere with the work of specialists and to ensure the efficiency of each Protocol Unit. 
+
+The ARO remains in constant contact with every Division: 
+
+The work of Prolab involves cherry-picking the best and brightest from all departments within the Authority. Representatives often communicate with both the [http://rpcauthority.wikidot.com/the-bureau-of-acquisition BoA] and [http://rpcauthority.wikidot.com/authority-security-force ASF] to request personnel transfers (both temporary and permanent). Budget specialists and auditors are often suggested and transferred from [http://rpcauthority.wikidot.com/the-office-of-analysis-and-science OAS] to review the budget of Protocol Proposals, while [http://rpcauthority.wikidot.com/anomaly-experimentation-team AET Figure Heads] have to coordinate to inherit anomalies once base-protocols are crafted and to file for requests.
+
+To maintain a steadily-growing workforce, ARO Directors are often delegated among the first to receive select applications and liaisons from the Protectorate.
+
+Tasked with maintaining universal guidelines for all regional testing, however, ARO often plays a much more administrative role over the Units. It is the job of the Commission, through the creation of select Approval Committees, to review all Finalized Protocol Proposals established by all Units in an efficient manner. Internal requests, staff complaints, and matters of infighting are also delegated by representatives of the ARO to try to prevent HR involvement and are attempted to be settled proactively through their representatives with other departments.
+
+Efficiency, above all else, is their main function. To prevent casualties; to not provoke internal bickering, it is believed crucial that the ARO take over the administrative work so that they can give its Specialists the breathing room they need to innovate.
+
+[[collapsible show="[+] Excerpt from Commission Briefing" hide="[-] Excerpt from Commission Briefing"]]
+
+> Our job is simple: We keep this nightmare out of the Presidium's sight, 'figuratively and literally. Staff reassignment, policy enforcement, getting AET to say anything that ain't occult-slang: They don't wanna deal with everything dysfunctional about the Authority beyond what's required within their jobs' narrow frameworks. And //Containment// doesn't need several outer-departments using their expertise to influence the Protocol Process.
+> 
+> Ergo, that's why we're here. It's like we're an Authority within the Authority; We grease the wheels so that Units don't crash n' burn. It's why we're given so much goddamn autonomy.
+> 
+> Word of the wise, keep the higher-ups out of it. You'll be blamed for a lotta shit, but the Dept is as strong as we are able to keep to ourselves. The quieter you suffer in 'ere, the faster shit gets done.
+
+[[/collapsible]]
+
+----
+
+[[=]]
++++ Facilities and Workplace
+[[/=]]
+
+Due to the nature of Prolab's work, it's often required to work under extreme circumstances. Heavily armored escorts, working under aliases, rapid mobilization of teams from facility to facility: it's all common procedure to allow Units to work with relative safety and to keep phenomena under Authority control.
+
+The construction of Prolab facilities reflects this mindset; always separate from the rest of a site, "Protocol Wings" are stocked with all kinds of equipment for all kinds of situations -- construction teams, soundproof chambers, in-house heavy artillery zeroed-in temporary containment wings, docking stations, one or more panic rooms, expansive hangar areas -- but any member of a Protocol Team knows that these are secondary resources. The first and only lifeline and true panic button of Prolab is the __radio__. No piece of equipment or personnel expertise will ever be useful if it cannot be immediately accessed, and thus ceaseless communication is essential.
+
+The all-purpose nature of Prolab presents another challenge in the absolute minimum amount of specialization. More often than not, Protocol Wings are ill-prepared to safely house newly discovered anomalies, even if their properties are obvious from the get-go. This is mitigated to a degree by the universal Containment Protocol -- //stay away// -- but nevertheless forces all personnel to be ever vigilant, even paranoid; anything out of place could represent an all-important warning sign.
+
+And just as personnel should stay away from anomalies, anomalies should stay away from each other. "Cross-testing" is no less than heretical, an invitation to the devil, and accidental cross-contamination is the stuff of nightmares for every member of Prolab -- things only madmen from Research Division's AETs would ever willingly cause. Protocol Wings almost never hold two anomalies closer than 500m away unless strictly necessary, and personnel assigned to a project must keep away from everyone else while working. Even after the conclusion of a project, team members are to take utmost care not to expose themselves to other persons for a two-week period: a minimal safety, but one that saves lives nonetheless.
+
+----
+

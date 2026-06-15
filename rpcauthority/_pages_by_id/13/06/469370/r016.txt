@@ -1,0 +1,214 @@
+---
+title: "RPC-972"
+tags: ["aedf", "beta", "electromagnetic-force-hazard", "extra-terrestrial-hazard", "mechanical-hazard", "rpc", "white"]
+page_id: "1306469370"
+site: "rpcauthority"
+slug: "rpc-972"
+revision: 16
+revision_id: "1517967985"
+author: 3050074
+timestamp: 1706853135
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:aedf-theme/code/1);
+[[/module]]
+
+[[include component:rate title=rpc-972]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-electromagnetic-force.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Electromagnetic[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extra-terrestrial.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Extra-Terrestrial[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Mechanical[[/span]][[/span]] 
+|align=right
+|name=http://rpcsandbox.wdfiles.com/local--files/dummie-s-sandbox-of-infinite-wonders/972.jpeg
+|width=300px
+|caption=The interior of RPC-972.
+]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/beta-white.png]]
+
+**Registered Phenomena Code:** 972
+
+**Object Class:** Beta-White
+
+**Hazard Types:** Electromagnetic Hazard, Extra-Terrestrial Hazard, Mechanical Hazard
+
+**Containment Protocols:** The [[[aedfmanifest|torch vessels]]][[footnote]]A general purpose fusion-engine vessel, responsible for many of the AEDF's most important exploratory missions.[[/footnote]] AEDFS //James Boy// and AEDFS //Kaiser Wilhelm// are currently docked to RPC-972 via docking hatches designed for RPC-972. 
+
+Personnel assigned to RPC-972 are to be stationed no more than 110 days at a time due to effects from background cosmic radiation and micro-gravity. Regular supply missions holding tritium and liquid nitrogen are to be conducted to RPC-972 as fuel and coolant.
+
+//Update:// All AEDF facilities are to be placed on EMERED 2[[footnote]]All critical data and Beta-class anomalies to be evacuated in 6 hours. Non-essential data and Gamma-class anomalies to be evacuated in 18 hours. Spacesuits to be available and wearable within 15 minutes by all personnel.[[/footnote]] during any maintenance which would render RPC-972-1 incapable of activation.
+
+**Description:** RPC-972 is the designation given to a modular orbital station currently in stable polar orbit around Triton[[footnote]]The largest moon of the planet Neptune.[[/footnote]] at an average altitude of 2170km, measuring 30.5 meters in length, 73.2 meters in width and 5.3m in height. 
+
+RPC-972 is of conventional construction for an orbital facility (largely similar to that of the International Space Station). However, the outermost layer of its hull is composed almost entirely of a previously-unknown alloy of titanium which is extremely resistant to surface damage resultant from vacuum, micrometeorite impact and hard radiation exposure.
+
+A central spine forms the primary component of RPC-972 (designated RPC-972-1), with the rest of the station being dedicated to sensor arrays, power generation via tritium fusion, habitation, computing, heat regulation and life support. Replacement of parts and modules for RPC-972 is relatively simple; pictograms and detailed schematics for nearly every part and module are available in Document 972.1.
+
+Document 972.1 is a printed instruction manual for RPC-972. Several copies of Document 972.1 are available onboard. The schematics within Document 972.1 supply a variety of methods for the manufacture of replacement parts, catering to different levels of technologies. The technological aptitudes provided for range from early proto-industrial hand manufacturing to advanced nanotechnological methods theorized to be several centuries in advance of current human capacity.
+
+All copies of Document 972.1 are prefaced with a phrase in approximately 240 languages, roughly meaning "ARRIVAL AT BLOOM STATION. WELCOME, NULL-GRAVITY USERS." Three of the languages used have been identified[[footnote]]They are: 3rd-century Official Chinese, late 19th-century German, and 18th-century Swahili.[[/footnote]] to date.
+
+RPC-972-1 is a chemical oxygen iodine laser capable of outputting 23 gW of energy in bursts lasting up to 3 seconds[[footnote]]The total power output of RPC-972-1 per burst is approximately 50 times that of contemporary chemical laser technologies.[[/footnote]]. RPC-972-1 is significantly less modular than the rest of the station, and Document 972.1 provides limited schematics only for components which require regular maintenance and replacement. 
+
+The primary objective of RPC-972 appears to be the destruction of minor space objects on a collision trajectory with the Moon. The station's on-board fluxgate magnetometer sensors are capable of resolving and accurately tracking objects within a radius of 100.199 AU, or precisely 50000 light-seconds of its position. In all instances of firing, RPC-972-1 has only activated when the target object reached a distance of approximately 30 AU from the Sun[[footnote]]The approximate distance between the orbit of Neptune and the Sun.[[/footnote]].
+
+Objects of length greater than 15 meters are tracked by sensors for several months as they enter the solar system. RPC-972's onboard computers then use an as-yet-unknown algorithm to classify these potential targets as either "trivial" or "concerning". Objects designated as trivial are not fired upon should they enter RPC-972-1's range. The exact factors in how RPC-972 determines this --are unknown.-- (see Addendum 972.1)
+
+[[include component:image-enlarge name= http://rpcsandbox.wdfiles.com/local--files/dummie-s-sandbox-of-infinite-wonders/972_1.jpg|align=right|width=225px|caption= The interior of RPC-972-1. The Japanese labels to the left were added by AEDF personnel.]]
+
+RPC-972-1's capacitors require approximately 4 hours of charge time before the weapon is capable of firing. The heat transmitted to the targeted object causes the liquefaction and ejection of gaseous matter from its surface, altering its course. 
+
+A cooling and cycling period of 26 hours is required between firings, including charge time. An onboard supply of supercooled nitrogen is used as a heat dissipant.
+
+Based off chemical erosion of RPC-972-1, it is believed that RPC-972-1 has been in place since 1906, and has been fired no less than 320 times before being identified and explored by the Authority. It is believed that RPC-972-1 will remain operational for the next 500 years before becoming inoperable due to chemical erosion of its firing components.
+
+//The anomaly here is not from any single on-board technology being too advanced. As far as we can tell, the station itself or the laser incorporated into it is within comprehension, and doesn't defy any known science. The anomaly is the laser being in orbit around Triton in the first place.//
+//-Com. Bandetti, RPC-972 Head Researcher//
+
+------
+
+**Addendum 972.1**
+
+During a period of extensive maintenance on RPC-972-1, an object was tracked by RPC-972; as RPC-972-1 was not operational, torch vessels were deployed towards the object.
+
+[[collapsible show="► Access RPC:/972/actionlogs/080178.txt ◄" hide="▼ Hide RPC:/972/actionlogs/080178.txt ▼"]]
+
+> Date: 08/01/1978
+> 
+> Mission Abstract: To investigate attributes on extrasolar objects which are classed as "concerning" by RPC-972, and to safely adjust the trajectory of the object.
+> 
+> Assigned Units: AEDFS //Kaiser Wilhelm//, AEDFS //James Boy//, 18 crew members total, 4 EVA from //Kaiser Wilhelm//.
+> 
+> Additional Information: Conducted at Solar Spherical Coordinates (27525, 89.24°, 271.20°), speed of object 1520m/s.
+> 
+> **<Begin Log>**
+> 
+> **Yeung:** Stannum, check.
+> 
+> **Hancock:** Henry, check.
+> 
+> **Nichols:** Cameron, check.
+> 
+> **Bandetti:** Tony, check. Moving towards object. 
+> 
+> **Tetin:** Speed matched with object, tethers are secure. Go ahead.
+> 
+> **Yeung:** Object looks to be... less than 20 meters.
+> 
+> **Hancock:** Don't forget the radar scans suggesting this thing's a bit denser than usual. Let's work.
+> 
+> **Bandetti:** Remember, surface and deep rock samples. I don't wanna stay here any longer than needed.
+> 
+> **Dasgupta:** Tony, we'll need time to calculate the trajectory of the thing. Don't worry about wasting time.
+> 
+> [3 minutes pass. The EVA team lands on the object and collects rock samples.]
+> 
+> **Bandetti:** Stannum, send these small chunks back to //Willy// first for basic analysis.
+> 
+> **Yeung:** Roger. Henry, how's the deep surface samples going?
+> 
+> **Hancock:** The interior's harder and denser than we prepared for. Fetch me a few spare drill tips on the way back.
+> 
+> [16 minutes pass. The EVA team continues to collect samples.]
+> 
+> **Bandetti:** Cameron, get over here and look at this patterning.
+> 
+> **Nichols:** Understood... uh, definitely not natural.
+> 
+> **Bandetti:** Language of some sort?
+> 
+> **Nichols:** Likely.
+> 
+> **Carret:** Tony, outer surface looks like regular C-Type materials[[footnote]]C-Type asteroids consist primarily of carbon and nickel-iron minerals. Approximately 75% of known asteroids are of this composition.[[/footnote]]. Still working on that deep level mat.
+> 
+> **Bandetti:** How much denser?
+> 
+> **Carret:** A lot denser. Our radar scan estimates were way off.
+> 
+> **Dasgupta:** Tony, we have an estimated impact site calculated. Granted, it's with //Jimmy's// computers...
+> 
+> **Bandetti:** As long as we have the data, the computers back on Earth should be able to give us good numbers. What do //Jimmy's// computers say?
+> 
+> **Dasgupta:** Uh, impact within 7.8 km of Site-019.
+> 
+> **Cameron:** You sure about that trajectory?
+> 
+> **Dasgupta:** Of course not; we've got 2000 bits of RAM here. Lots of rounding errors. Take that number as you will.
+> 
+> **Bandetti:** We better burn for a lot longer than we planned for. I don't want this hitting anywhere near 019.
+> 
+> **<End Log>**
+> 
+> **Closing Statements:** The object was successfully decelerated by the AEDFS //Kaiser Wilhelm//. Subsequent analysis of the object suggests a uranium-238-based core and an impact zone 800 meters south of Site-019.
+
+[[/collapsible]]
+
+------
+
+**Addendum 972.2**
+
+Nine months after the discovery of the artificial nature of the targeted objects, 240 individual and subsequent AM radio transmissions were received by all on the AEDF's standard emergency frequency. Triangulation of the signal revealed the origin to be a point source approximately 0.4 light years outside the Solar System. The following is the only decipherable component of the transmission, conducted in modern English in ASCII encoding standard.
+
+[[collapsible show="► Access RPC:/972/AM/090978◄" hide="▼ Hide RPC:/972/AM/090978 ▼"]]
+
+> TO WHOM IT MAY CONCERN
+> 
+> IT HAS COME TO OUR ATTENTION THAT YOUR SYSTEM'S PRIMARY CELESTIAL OPERATIONS CLADE, THE "AUTHORITY EXTRATERRESTRIAL DEFENSE FORCE," HEREAFTER REFERRED TO AS "AEDF", MAKES SUBSTANTIAL USE OF NULL GRAVITY TECHNOLOGIES FOR EXTRAPLANETARY MOVEMENT. THIS IS AN UNACCEPTABLE VIOLATION OF ARTICLE 5, SECTIONS 22 AND 45 OF THE "TREATY ON NULL GRAVITY NON-PROLIFERATION", RATIFIED BY ALL UNIVERSAL CONSTITUENTS █████ LOCAL ROTATIONS PRIOR[[footnote]]The AEDF has never ratified or been made aware of this Treaty.[[/footnote]].
+> 
+> FURTHERMORE, THE AEDF HAS MADE ACTIVE ATTEMPTS AT RESISTING ENFORCEMENT OF THE TREATY; REFERENCE THE RECENT ILLEGAL INTERCEPTION OF PROJECTILE 1411. THE AEDF ALSO COOPERATES (INTENTIONALLY OR OTHERWISE) WITH ANTI-TREATY GROUPS BY PERMITTING THE OPERATIONS OF THE FACILITY KNOWN AS BLOOM STATION.
+> 
+> WE FORMALLY REQUEST THE FOLLOWING:
+> 
+> 1: THE IMMEDIATE CESSATION OF UNLAWFUL INTERVENTION AGAINST ATTEMPTS AT ERADICATING AEDF OPERATIONS
+> 
+> 2: THE IMMEDIATE RETIREMENT AND DISMANTLING OF ALL SPACEFARING VESSELS UTILIZING NULL GRAVITY GENERATION.
+> 
+> 3: A REIMBURSEMENT OF COSTS EQUIVALENT TO 220,000,000 LOCAL UNITS[[footnote]]Believed to be referring to metric tons.[[/footnote]] OF [PHOSPHOROUS][[footnote]]Shortened from detailed chemical description. Holds a cost equivalent to 31% of the United States GDP at the time.[[/footnote]].
+> 
+> 4: THE CESSATION OF ALL ATTEMPTS TO OBSTRUCT THE DESTRUCTION OF THE AEDF'S PRIMARY BASE OF OPERATIONS, KNOWN LOCALLY AS "[[[SITE-019]]]".
+> 
+> NOTE THAT NULL GRAVITY CAUSES SEVERAL REALITY-DESTROYING EFFECTS AND UNEXPLAINED PHENOMENA, CURRENTLY UNDETECTED BY YOUR ORGANIZATION DUE TO TECHNOLOGICAL LIMITATIONS ; REFERENCE [SHER 25][[footnote]]Shortened from detailed astronomical location. [https://en.wikipedia.org/wiki/Sher_25|NGC 3603 Sher 25] is a blue supergiant star located 25000 ly from the Sun, and is theorized to be on the verge of becoming a supernova. No anomalies have been detected in subsequent observation of the star.[[/footnote]] FAILURE TO MEET ANY OF THESE DEMANDS WILL RESULT IN ESCALATING ACTION, INCLUDED BUT NOT LIMITED TO INCREASED BOMBARDMENT AND ACTIVE VESSEL-BASED INTERVENTION.
+> 
+
+[[/collapsible]]
+
+A reply conducted in the ASCII encoding standard was initially planned, complying to the aforementioned requests. However, an AM radio transmission was received on the AEDF's standard emergency frequency from RPC-972, encoded in the form of 255 geometric pictograms similar to those in Document 972.1. The following is believed to be their intended meaning.
+
+[[collapsible show="► Access RPC:/972/AM/100978◄" hide="▼ Hide RPC:/972/AM/100978 ▼"]]
+
+> This message was created long before your civilization as it currently stands. 
+> 
+> We considered ourselves to be powerful, but not powerful enough to fix the current state of Null Gravity.
+> 
+> Do not reply to the message. Do not acknowledge the message.
+> 
+> You have never known the treaty and should not be held responsible for it.
+> 
+> You have done nothing wrong. Do not stop using Null Gravity.
+> 
+> The interests of the group that sent the transmission are not aligned with yours.
+> 
+> You are critical to breaking the current monopoly on Null Gravity.
+> 
+> You are not the first (civilization or group)[[footnote]]Picture received indicates a planet vaguely resembling Earth 25 million years ago. It is unknown whether this indicates alien civilizations or human civilizations of other universes.[[/footnote]] with whom we have placed facilities such as these.
+> 
+> There are plenty of unexplained phenomena in space. Null Gravity is your best option against them. 
+> 
+> Do not allow yourself to be stopped.
+> 
+> For the sake of your future and ours, you cannot allow yourself to be stuck in your gravity well.
+> 
+> Prepare for the day "Bloom Station"[[footnote]]Inscribed next to a picture of the station, written in late 19th-century German.[[/footnote]] stops working. It will come soon.
+> 
+> Good luck, and keep exploring.
+
+[[/collapsible]]
+
+After much internal discussion, it was decided that NG spacecraft would continue to be utilized due to a lack of replacement technologies. Since then, the number of objects targeted by RPC-972 have increased by 642%. At current rates of wear, RPC-972-1 will be rendered inoperable by 20██. Unmanned probes designed for the purposes of course-correcting these objects are currently being developed.
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-971]]] | RPC-972 | [[[RPC-973]]] >> 
+[[/=]]
+

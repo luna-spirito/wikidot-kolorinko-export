@@ -1,0 +1,27 @@
+---
+title: "A Trip To Tokyo"
+tags: ["bluebook", "church-of-malthus", "kabushiki-kawaii", "tale"]
+page_id: "1306750700"
+site: "rpcauthority"
+slug: "a-trip-to-tokyo"
+revision: 2
+revision_id: "1359571829"
+author: 5100742
+timestamp: 1612344111
+---
+
+[[include component:rate]]
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:tokyotrip-0
+http://www.rpc-wiki.net/fragment:tokyotrip-1
+http://www.rpc-wiki.net/fragment:tokyotrip-2
+http://www.rpc-wiki.net/fragment:tokyotrip-3
+--]
+@@ @@
+@@ @@
+[[footnoteblock]]
+

@@ -1,0 +1,91 @@
+---
+title: "Research Theme Archived"
+tags: ["archived", "theme"]
+page_id: "1306901155"
+site: "rpcauthority"
+slug: "component:research-theme-archived"
+revision: 5
+revision_id: "1383794445"
+author: 4981794
+timestamp: 1634104062
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:research-theme-archived/code/1);
+[[/module]]
+
+> [[=]]
+> [[size 120%]] ###633ea3|**DISCLAIMER:**## [[/size]] THIS THEME HAS BEEN ARCHIVED DUE TO OFFICIAL LORE REVISIONS AND IS BEING PRESERVED FOR THOSE WHO CONT. TO WISH TO USE IT.
+> [[/=]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Research Theme
+    [2018 Wikidot Theme]
+
+    (Header by LoganGreenBeans, original theme by MrBazzle; Code edited and archived by Qual)
+*/
+ 
+:root {
+/* PALLET SHEET */
+--primary-text-color: #633ea3;
+ 
+--nav-hover-background: #4c2d75;
+ 
+/* BASE COLORS */
+ 
+/* Page Title */
+--page-title-color: #dedede;
+ 
+/* Generic Buttons */
+--button-border: 1px solid #392c40;
+--button-background: #1f1822;
+--button-hover-border: 1px solid #4c2d75;
+--button-hover-background: #4c2d75;
+ 
+/* Header */
+--header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aresearch-theme-archived/Research_Logo_Archived.png);
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aresearch-theme-archived/Research_Header_Archived.png);
+--header-tagline-color: #cfcfcf;
+--header-text-visibility: hidden;
+--header-custom-text: 'Research Division';
+--header-tagline-custom-text: 'Arcanus Cognito';
+--header-mobile-font-size: 80%;
+ 
+/* Search Bar */
+--search-button-background: #221b32;
+--search-button-hover-background: #423664;
+--search-input-color: #3b334d;
+--search-input-hover: #442d68;
+ 
+/* Link Colors */
+--link-color: #8966ff;
+--link-hover-color: #c5b2ff;
+--new-page-color: #5942a5;
+
+--sidebar-crit-corner-color: #b67fff;
+ 
+/* Scrollbar Colors */
+--tabview-side-scrollbar-thumb-background: #35254a;
+--tabview-side-scrollbar-thumb-hover-background: #31263f;
+
+--BT-scrollbar-thumb-background: #4d3172;
+--BT-scrollbar-thumb-hover-background: #39294c;
+
+/* Rating Modules */
+--star-rating-hue: 45deg;
+ 
+/* Sidenote Color */
+--sidenote-open-background: #271c31!important;
+}
+ 
+/* Header Text Shadow */
+ 
+#header h1 a, #header h2::before {
+  text-shadow: 1px 1px 10px #000;
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+
