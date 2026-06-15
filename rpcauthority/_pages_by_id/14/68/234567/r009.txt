@@ -1,0 +1,954 @@
+---
+title: "Monarch Security Personnel Dossier"
+tags: ["collaboration", "document", "lore", "mi13"]
+page_id: "1468234567"
+site: "rpcauthority"
+slug: "monarch-security-personnel"
+revision: 9
+revision_id: "1544450811"
+author: 4330657
+timestamp: 1780642220
+---
+
+[[span class="listresize"]]Monarch Security Personnel Dossier[[/span]]
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:mi13-theme/code/1);
+
+.quote {
+display: inline-block;
+background-color: var(--secondary-background);
+color: #C0C0C0;
+border: solid 1px #808080;
+margin: 0 auto;
+padding: 2px 7px;
+rgba(0,0,0,.30);
+}
+
+.catalogue {
+display: inline-block;
+background-color: #171c20;
+color: #C0C0C0;
+margin: 0 auto;
+padding: 10px 30px;rgba(0,0,0,.30);
+}
+
+[[/module]]
+
+[[include component:rate]]
+
+
+[[tabview]]
+[[tab Staff Registry]]
+
+++ Foreward 
+This volume serves as a restricted record of Monarch Security personnel, prepared on behalf of the UK Civil Service Commission. Entries have been curated for internal reference, archival preservation, and operational review.
+
+All staff are strongly encouraged to adopt an operational alias for use in all official matters. Use of one’s legal name is to be minimized whenever possible. While lower-level personnel may, in limited circumstances, continue to operate under their legal name, all senior staff and individuals engaged in thaumaturgical disciplines are required to employ a designated alias at all times.
+
+Numerous hidden existences possess the ability to exert influence or control over individuals through knowledge of their true names. The careless disclosure of such information may compromise not only your security but also the integrity of your soul. //This protocol exists for your protection.//
+
+------
+
++++ Bibliography
+* [#carousel Sir Carousel] - //The Grand Sorcerer//
+* [#sleepauthor Dr. Sleep Author] - //Somnologist//
+* [#forgetmenot Forget-me-not] - //4th Company Diviner//
+* [#yushatyr Yushatyr] - //Silversmith//
+* [#catsith Catsith] - //Master Interrogator//
+* [#obscura Obscura] - //2nd Company Captain//
+* [#bobbybill Bobby Bill] - //Millitary Police Officer//
+
+[[/tab]]
+[[tab Format]]
+++ Format
+Copy-paste the following code.
+[[collapsible show="+ Format Code" hide="- Close File"]]
+> @@[[#@@ ##gray|Shorthand name##@@]]@@
+> @@[[tabview]]@@
+> @@[[tab Info]]@@
+> @@[[include component:mi13adden@@
+> |title= ##gray|Name##
+> |sender=Civil Service Commission 
+> @@]]@@
+> 
+> @@[[include component:mi13image2 width=240px|align=right@@
+> |image= ##gray|Insert the character's image file here##
+> |card= ##gray|Character's home base##
+> |caption= @@**@@##gray|Name##@@**@@ ##gray|(year)##
+> |note= ##gray|Notes about the photo##
+> @@|show=show]]@@
+> 
+> @@[[include component:image-block name=@@ ##gray|insert image file for the character's signature here## @@|align=right|width=150px]]@@
+> 
+> @@**Name:**@@ ##gray|Full name (if applicable)##
+> @@**Race:**@@ ##gray|Human (or specify)##
+> @@**Birthplace:**@@ ##gray|City, Country##
+> @@**Date of Birth:**@@ ##gray|DD Month, YYYY##
+> @@**Date of Enlistment:**@@ ##gray|DD Month, YYYY##
+> 
+> @@**Department:**@@ ##gray|Department##
+> @@**Position:**@@ ##gray|Position##
+> @@**Religion:**@@ ##gray|Faith##
+> 
+> @@------@@
+> @@+++ Overview:@@
+> ##gray|Insert description of the character here.##
+> 
+> @@------@@
+> @@**Included in:**@@
+> 
+> @@[[include component:mi13adden-end]]@@
+> @@[[/tab]]@@
+> 
+> @@[[tab Interview]]@@
+> @@[[include component:mi13adden@@
+> |title=Name
+> |sender=MI13
+> ]]
+> 
+> @@[[div class="blockquote" style="margin: 1em 0;"]]@@
+> 
+> [[include component:mi13inv
+> |title=##gray|Title of the interview##
+> |interviewed= ##gray|Name##
+> |interviewer= ##gray|Name##
+> |date= ##gray|DD, Month, YYYY##
+> @@]]@@
+> 
+> ##gray|Insert interview here.##
+> 
+> @@[[/div]]@@
+>
+> @@[[include component:mi13adden-end]]@@
+> @@[[/tab]]@@
+> @@[[/tabview]]@@
+> @@------@@
+[[/collapsible]]
+
+[[/tab]]
+[[tab Footnotes]]
+[[footnoteblock]]
+[[/tab]]
+[[/tabview]]
+
+------
+
+[[# carousel]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title=Sir Carousel
+|sender=Civil Service Commission 
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image=http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/SirCarouselPortrait.jpg
+|card=Newcastle
+|caption=**Sir Carousel** (1997)
+|note=Picture taken by Rep. Newnovel after a show in Newcastle.
+|show=show]]
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/SirCarousel.png|align=right|width=150px]]
+
+**Name:** Joseph Jéan Coleridge
+**Race:** Caucasian (English), Human
+**Birthplace:** **██████**, England
+**Date of Birth:** 14 March, 1960
+**Date of Enlistment:** 14 March, 1970
+
+**Department:** RCS, Round Table
+**Position:** Grand Sorcerer
+**Religion:** Anglican
+
+------
++++ Overview:
+
+**Sir Joseph Jéan Coleridge** is the 28th Grand Sorcerer of the //Thaumarch//[[footnote]] Seat for the leader and representative of the Royal Congregation within the Round Table. [[/footnote]] and the //Royal Congregation of Sorcerers//. True to the traditions of his predecessors, he celebrates the art of theatrical showmanship, presenting himself to the public as what he calls a “humbug magician".
+
+His path to the Congregation began in 1970, the day after his tenth birthday, when his father was recruited into Monarch Security. That same day, he was introduced to the organisation’s arcane culture by the 27th Grand Sorcerer, //Sir Ferris//,[[footnote]] Sir Theodore Benjamin [[/footnote]] who took him under private tutelage. Under Ferris’s guidance, the young Coleridge quickly set forth exceptional talent and work ethic during his tenure in the //New Council of Cavallon.//
+
+In 1992, Sir Ferris succumbed to the //Hanover Curse//,[[footnote]] The Hanover Curse is a curse that affects all practitioners within Britain’s Curseship. It accelerates one's advancement in thaumaturgy but carries the risk of the afflicted succumbing to the curse and transforming into Bacchanals. [[/footnote]] and entrusted Coleridge with the duty of ensuring his death. Following this event, and in accordance with Sir Ferris’s wishes, Coleridge was appointed Grand Sorcerer of the Royal Congregation.
+
+------
+**Included in:**
+[[[the-framework-of-thaumaturgy|The Framework of Thaumaturgy]]]
+[[[no-0288|No. 0288]]] - Silver Remembrance
+
+[[include component:mi13adden-end]]
+[[/tab]]
+[[tab Interview]]
+[[include component:mi13adden
+|title=Sir Carousel
+|sender=Thaumarch
+]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title=A Retrospective
+|interviewed= Sir Joseph Jéan Coleridge
+|interviewer= Rep. Newnovel (Horus Inc.)
+|date=10 August, 2023
+]]
+
+**Sir Coleridge:** Thank you for having me, Mr. Newnovel.
+
+**Newnovel:** No, please, this won't be going into any publication. No need to be so cordial.
+
+(//Newnovel offers Sir Coleridge a cup of coffee, which he accepts.//)
+
+**Sir Coleridge:** Aye? I must've forgotten. 
+
+**Newnovel:** I should address you as Sir Carousel, I presume? 
+
+**Sir Coleridge:** Just Joseph or Coleridge would be fine. I'm past the stage where I have to hide my true name.
+
+**Newnovel:** //That's right.// Sir Coleridge, I congratulate you on your 30th year as the Grand Sorcerer of the Thaumarch.
+
+**Sir Coleridge:** Was that what the celebration was about? (//Chuckles//) Sorry for all the confusion, friend. My memory's been trickling off in recent years. Thirty years... How about that? It feels like it was only yesterday that Master Benjamin passed down his torch to me. I can't believe that much time has gone by.
+
+**Newnovel:** During tenure as the Grand Sorcerer, has anything stood out to you?
+
+**Sir Coleridge:** It's complicated. As the Grand Sorcerer, you have to juggle between the various theatres of our landscape. There's, of course, the veiled world, your anomalies, thaumaturges, and by definition, everything related to the Otherworlds. Then there's the bureaucracy of our baseline Earth. I admit, I find the latter part more confusing than the former. In just twenty years, the parliament has changed rapidly, for better or for worse, while everything in the veiled theatre has largely remained the same for a hundred years. 
+
+If I had to pick summat that really stood out to me... It would be the Lord Protectors I've served. All **█** of them. Most days, my service involves divination or advice, but I often like to give them a personal performance. The neat little theatrics I'd pick up from street performers and amateur magicians. There's a magic in harnessing the power of lies to create fantasy, and if it helps make the Lord Protectors' lives a little happier, then the gruelling study and work I've done to get to this position is all worth it. (//Laughs//) 
+
+Did you know, many of them still fall for the "pick a card" trick? It's the oldest trick in the book, but they still laugh when I reveal their card was behind their ear all along. (//Sir Coleridge's expression goes solemn.//) I'm sorry, that was a long tangent. Do you have any other questions?
+
+**Newnovel:** (//Jotting down Sir Coleridge's response on his note.//) Now that you're at the height of your tenure, have you chosen a successor yet? Perhaps your son?
+
+**Sir Coleridge:** My son isn't interested in the Royal Congregation, nor anything to do with politics. He's more interested in becoming a historical linguist for the languages of the Celtic Otherworlds. Seems he's taken inspiration from a certain celebrated author rather than he did his father (//chuckles//). He's all grown up now, and he can do whatever he wants. 
+
+**Newnovel:** If not your son, who else can we expect to be the next Grand Sorcerer? 
+
+**Sir Coleridge:** That's not something I can delve into details. But I do have someone under my tutelage who might become my successor. //Miss Teacup//... Following the recent tradition, my master put forth in naming ourselves after slow and unimpressive amusement park rides. (//Sir Coleridge adds sugar to his coffee and stirs it.//)
+
+**Newnovel:** Might I ask where she's from?
+
+**Sir Coleridge:** Hm? Oh, she's a part of the Chalon family.
+
+(//Newnovel chokes on his drink and gasps for air.//)
+
+**Sir Coleridge:** Are you alright--
+
+**Newnovel:** //A royal!?//
+
+**Sir Coleridge:** Aye, the Royal.
+
+**Newnovel:** Alright, we're going off the record. Sir Coleridge, I hope you {{[WITHHELD]}} 
+
+{{[THE REST OF THIS INTERVIEW IS WITHHELD]}}
+
+[[/div]]
+
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+
+------
+
+[[# sleepauthor]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title=Dr. Sleep Author
+|sender=Civil Service Commission 
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image=http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/SleepAuthorPortrait.jpg
+|card= Cambridge
+|caption=**Dr. Sleep Author** (1958)
+|note=Picture taken by Dr. Sleep Author's sister, after her inauguration into a federal station of the Caliburn Union.
+|show=show]]
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/SleepAuthor.png|align=right|width=150px]]
+
+**Name:** **███████ █████**
+**Race:** Bwbach, Hobgoblin
+**Birthplace:** Bontnewydd, Elfame
+**Date of Birth:** 26 February, 1911
+**Date of Enlistment:** 9 April, 1956
+
+**Department:** Ministry of Gates and Stations, HMSO
+**Position:** Somnologist, Specialised Thaumaturgist
+**Religion:** Avalonian Orthodox
+
+------
++++ Overview:
+
+**Dr. Sleep Author** hails from the Unseelie city of Bontnewydd, Elfame. Born to a family of "dream-eaters", she spent her youth studying the discipline of psycho-oneirology at her local medical school.
+
+Her formal training began at the Bontnewydd Collegium of Neurothaumic Sciences, where she specialised in psycho-oneirology. In her thesis: //The Liminal States and the Codification of Prefrontal Symbolic Speech//, she documented over 400 cross-species dream architectures, including those of sapient fungi and minor spirits. Her studies would help bring oneirology to the limelight of Eccleston University,[[footnote]] Founded in 1830 and named in honour of the late Sir Johan Eccleston, Eccleston University is a research university dedicated to the exploration and study of thaumaturgic arts. [[/footnote]] bringing them one step closer to combining the thaumaturgic arts and conventional science.
+
+A //sleeping mist// passively seeps out of the doctor, a side effect of her hereditary neurothaumic condition. While harmless in trace amounts, prolonged exposure induces soporific states in most humans, ranging from light drowsiness to full catatonia. For this reason, she has strict protocols when interacting with humans.
+
+------
+**Included in:**
+[[[no-1567|No. 1567]]] - The Book of Worms
+
+[[include component:mi13adden-end]]
+[[/tab]]
+[[tab Interview]]
+[[include component:mi13adden
+|title=Dr. Sleep Author
+|sender=HMSO
+]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title=Work Transfer Assessment 
+|interviewed= Dr. Sleep Author
+|interviewer= Off. Anthony Wilson
+|date=05 January, 2010
+]]
+
+**Off. Wilson:** Please state your identity. Miss. Sleep Author.
+
+**Dr. Sleep Author:** I go by Sleep Author professionally; not //Sleepathor//, //Sleepy// nor any other diminutive that trivialises my discipline. My given name isn’t relevant to patients, but you’ll find it in the legal documents attached to my file.
+
+**Off. Wilson:** Alright. What’s the purpose of your visit to the United Kingdom?
+
+**Dr. Sleep Author:** I’ve been assigned to a position at Cambridge Station as a somnologist and thaumaturgical specialist.
+
+**Off. Wilson:** Cambridge station... That's a new one. That's the station with a Gate underneath, innit?
+
+**Dr. Sleep Author:** Yes. That’s where I’ll be based. The entities in that Gate need ongoing care.
+
+**Off. Wilson:** Alright. 
+
+[...]
+
+**Dr. Sleep Author:** You look sleep-deprived. There’s darkening under your eyes, and your blink rate is lower than normal. Your facial tension suggests reduced alertness. This diagnosis is consistent with at least forty-eight hours of cumulative sleep loss.
+
+**Off. Wilson:** I haven’t slept in a while, yes. Cheers for noticing.
+
+**Dr. Sleep Author:** Chronic sleep loss impairs executive function and short-term memory. It’s not ideal for conducting official interviews. //It is an offense to the virtue of civil service.//
+
+Might I suggest a treatment of Lemborexant or a distilled koala bear dream essence? While human and elfish neurophysiology diverge at the pineal gland modulation stage, my cross-species trials show a 72% efficacy overlap. Furthermore, I know of several local lullabies from my hometown that are effective in inducing sleep in humans.
+
+**Off. Wilson:** I already have treatment for it, thank you for offering, Miss Sleep Author.
+
+**Dr. Sleep Author:** I don’t mean to offend, but I am the best in my field. I’m confident my recommendation would help.
+
+**Off. Wilson:** And what does your field entail, exactly?
+
+**Dr. Sleep Author:** Humans and animals aren’t the only creatures in need of sleep. Plants, fungi, and even microbes need the continual day and night cycle to thrive. I can put anything to sleep. Be it humans, elfs, demons, or gods. Sleep is the universal prophylaxis. We all need a good night’s rest to stay happy and healthy.
+
+**Off. Wilson:** Noted. Will you be wearing that mask the entire time? Not saying it's inappropriate, but it doesn't exactly make you look approachable.
+
+**Dr. Sleep Author:** Approachable? Amply. I didn't design this mask to be scary. I designed it to be as approachable as possible to my patients, especially when children are involved. It reminds them of elephants. And the dream-essence of elephants is far richer and more nourishing than the pedestrian flavour notes of cats and dogs.
+
+**Off. Wilson:** Have you interacted with children in your service?
+
+**Dr. Sleep Author:** No. Not human ones, at least. 
+
+**Off. Wilson:** //That's good to hear.//
+
+**Dr. Sleep Author:** I beg your pardo--
+
+**Off. Wilson:** So, you're a dream-eater.
+
+**Dr. Sleep Author:** ... That's my family's art. It's in my interest that people have pleasant dreams. Unlike with medicine and thaumaturgy, you can't force that upon people. 
+
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+
+------
+
+[[# forgetmenot]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title=Forget-me-not
+|sender=Civil Service Commission 
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image=http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/ForgetmenotPortrait.jpg
+|card= Paris
+|caption=**Forget-me-not** (2024)
+|note=Picture taken by Teacup in Forget-me-not's Parisian garden sentry.
+|show=show]]
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/Forgetmenot.png|align=right|width=150px]]
+
+**Name:** Jules **███**
+**Race:** Caucasian (French), Human
+**Birthplace:** Paris, France
+**Date of Birth:** 17 August, 1982
+**Date of Enlistment:** 9 July, 2012
+
+**Department:** 4th Company, Black Hunters Corp
+**Position:** Intelligence Officer, Diviner
+**Religion:** Roman Catholic
+
+------
++++ Overview: 
+**Officer Forget-me-not** was born to a family of Parisian thaumaturgists and members of the //Descendants of Yggdrasil//.[[footnote]] The Descendants of Yggdrasil is an organisation based in the northern regions of Europe, specialised in research and developing botanical and/or environmental anomalies. [[/footnote]] However, after an undisclosed incident that caused a rift in his family, he enlisted in the Black Hunters Corp of Monarch Security. To protect himself, he made a pact with an //Anthousai//,[[footnote]] Nymph of flowers. [[/footnote]] exchanging his body for the insurance of his mind.
+
+His service as a field hunter ended abruptly when he was afflicted by the Hanover Curse during an engagement with a Bacchanal entity. The affliction corroded his body, turned him into a living host for conscious Myosotis. Although his physiology and mental health exhibited characteristics of inebriation, psychological assessment confirmed that his cognition remained intact and free from clinical psychosis, in spite of his increasingly strange and sporadic behaviour.
+
+Following this incident, Forget-me-not moved into the role of Intelligence Officer within the Black Hunters Corp, where he has since repurposed his anomalous condition as an asset, using his Myosotis growths in the gathering and divination of intelligence.
+
+------
+**Included in:**
+[[[no-0773|No. 0773]]] - Calamity Queen
+
+
+[[include component:mi13adden-end]]
+[[/tab]]
+[[tab Interview]]
+[[include component:mi13adden
+|title=Forget-me-not
+|sender=Sir Carousel
+]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title=In the Field of Flowers
+|interviewed= Forget-me-not
+|interviewer= Teacup
+|date=23 August, 2025
+]]
+
+**Forget-me-not:** (//Forget-me-not is seen watering some flowers in the garden.//) What brings you here, Miss Teacup?
+
+**Teacup:** Sir Carousel, sir. He told me to come to you to ask you about... stuff.
+
+**Forget-me-not:** Coleridge brought you here? (//Forget-me-not pauses.//) Then tell him my mind still holds. The roots haven’t reached it yet. Not all the way down.
+
+**Teacup:** We're all worried about you, sir. It's been **█** years since... since y'know...
+
+**Forget-me-not:** Are you afraid of me, little miss? 
+
+**Teacup:** (//Teacup looks down, then focuses on Off. Forget-me-not's flowers instead.//) No, sir. I think you’re… beautiful.
+
+**Forget-me-not:** (//Sigh//) To you, flowers are pressed between book pages, harmless little souvenirs. But beauty is a mask evil loves best. You’ll have to learn that, if you want to wear Coleridge’s mantle.
+
+**Teacup:** I—I’ll learn. I promise.
+
+(//Forget-me-not hands his watering can to Teacup, who proceeds to water the garden in his stead.//)
+
+**Teacup:** It’s not his fault you’re like this. It’s that Bacchanal’s.  
+
+**Forget-me-not:** (//Forget-me-not laughs coursely before coughing//) Blame? I don’t blame him. 
+
+**Teacup:** But you don't like him very much, do you?
+
+**Forget-me-not:** He drowned in his wine of knowing. I only sipped--and it was enough to split me open. (//Leans closer//) Look closely, child. 
+
+**Teacup:** I um...
+
+**Forget-me-not:** Look. Coat, skin, bone, thought. Blossoms wherever I am not vigilant. Roots tangled in marrow. Petals blooming in silence between words. This body isn't mine anymore.
+
+**Teacup:** (//Quietly//) Do they… hurt?  
+
+**Forget-me-not:** You've talked to them before. Old names, dead scents, secrets pressed flat between centuries. They crawl through my sleep and play me like a harp of veins. 
+
+(//Forget-me-not sits down on a nearby chair.//)
+
+**Forget-me-not:** //Forget me not,// they say. Always. Forget. Me. Not. (//Sigh//) And I cannot. I remember everything.
+
+**Teacup:**  Still… at least you kept your mind. That’s good, isn’t it?  
+
+**Forget-me-not:** (//Course laughter//) Good? //Yes.// The Anthousai are merciful gardeners. My thoughts remain whole. No Pact-madness, no raving. //God bless the Daughters of Yggdrasil// you'll hear those of my kin say! Only corrosion of everything else. My bones rot cleanly. My flesh remembers too much. But the mind… ah, the mind endures. (//Voice lowers//) Long enough, perhaps, to outlast Coleridge. To watch you take his place.  
+
+**Teacup:** (//Suddenly trembling//) Don’t say that.  
+
+**Forget-me-not:** Why not? The flowers tell me. I will see your coronation. And when your hands shake with the crown, I will end myself in bloom and blood. I will spare you the spectacle.  
+
+**Teacup:** //Stop it.//  
+
+**Forget-me-not:** (//Smiling, Forget-me-not leans closer.//) Child, you must learn that endings are not kind. Gardens are not kind. They grow from rot. From bodies. Even you, yes, even you, your mantle will sprout from his grave. And from mine.  
+
+**Teacup:** //Stop it!// I’m not—I’m not listening anymore! 
+
+(//Teacup puts the watering can down hard and abruptly leaves.//)
+
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+
+------
+
+[[# yushatyr]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title= Yushatyr
+|sender=Civil Service Commission
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image= https://i.imgur.com/hZ0Plhw.jpeg
+|card= Norwich
+|caption= **Yushatyr** (2020)
+|note= Picture taken by Yushatyr's mother during her tenure in the Russian Federation.
+|show=show]]
+
+[[include component:image-block name= http://rpcauthority.wdfiles.com/local--files/no-0288/YushatyrSig.png |align=right|width=150px]]
+
+**Name:** **████ ███████**
+**Race:** Asian (Siberian), Human
+**Birthplace:** Krasnoyarsk, Russia
+**Date of Birth:** 15 February, 2004
+**Date of Enlistment:** 16 February, 2020
+
+**Department:** Commission for Thaumaturgy, MI-13
+**Position:** Junior Investigator, Silversmith
+**Religion:** Eastern Orthodox
+
+------
++++ Overview:
+Originally a student thaumaturgist and intern with the Russian government, Yushatyr’s family immigrated to Norwich, England, in 2018. Her family was of particular interest to Monarch Security due to their heritage, Thaumaturgic art, which involves silversmithing and gilded craftsmanship.
+
+Upon her arrival, Yushatyr enrolled at the Cornwall Institute,[[footnote]] The Cornwall Institute is a college and research institution for the study of thaumaturgic art, backed and funded by Eccleston University. [[/footnote]] where the Royal Congregation’s Codicesia took particular interest in her work. The Codicesia sought both to preserve her family’s thaumaturgic techniques and to glean insight into the inner workings of the Ministry of Paranormality.[[footnote]] The Ministry of Paranormality (Russian: Министерство Паранормальности "МП") is the chief governing body for the research and containment of anomalous entities in the Russian Federation under President Vladimir Putin.[[/footnote]] Despite their inquiries, Yushatyr consistently declined to share sensitive information, citing loyalty to her nation.
+
+Her personal interests, however, lay not in archival research but in fieldwork. Fascinated by MI-13’s investigative operations and eager to engage with entities and active thaumaturgists, Yushatyr petitioned to transfer into field service. This request was only granted upon the personal recommendation of Lady Sophia Boleyn ([[[no-0288|MI0288-01]]]), who vouched for her aptitude and potential.
+
+------
+**Included in:**
+[[[no-0288|No. 0288]]] - Silver Remembrance
+[[[http://rpcauthority.wikidot.com/censorship-under-veil-expansionism|Censorship under veil expansionism, Russian sorceress wins the Fulwell Awards, and More]]]
+
+[[include component:mi13adden-end]]
+[[/tab]]
+
+[[tab Interview]]
+[[include component:mi13adden
+|title=Yushatyr
+|sender=MI13
+]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title=Title of the interview
+|interviewed= Yushatyr
+|interviewer= Counsellor Dr. Harriet Elmsley (Cornwall Institute)
+|date= 04, January, 2020
+]]
+
+**Dr. Elmsley:** Good afternoon, Miss… //Yushatyr// is it now? An interesting alias you chose for yourself.
+
+**Yushatyr:** (//Nods//) It’s river in South Ural. When little I eh—ride small boat inside with nana. [[span style="font-family: helvetica, sans-serif;"]]Я думаю, это красивое имя, поэтому я его и выбрал.[[/span]] ##8f8f8f|I think it's a pretty name, that's why I chose it.##
+
+**Dr. Elmsley:** What was that last part?
+
+**Yushatyr:**  (//Looks left, then back at Dr. Elmsley//) It's a pretty name.
+
+**Dr. Elmsley:** I see. Are those government folks treating you nicely **████**—I mean… Yushatyr?
+
+**Yusharyr:** Yes. RCS is very kind to me.
+
+**Dr. Elmsley:** Are you comfortable?
+
+**Yushatyr:** (//Nods, clutching MI0288//) [[span style="font-family: helvetica, sans-serif;"]]Да[[/span]]... ##8f8f8f|yes…##
+
+**Dr. Elmsley:** I wanted to talk with you about your progress in the workshop. Your instructors say you’re doing well for someone with little previous formal training. How are you finding the work?
+
+**Yushatyr:** (//Hesitatant//) Hard. But… good hard. When hammer hits silver, I… feel peace.
+
+**Dr. Elmsley:** That’s very good to hear. Craftsmanship can be grounding. It gives us rhythm and routine. Do you miss home?
+
+**Yushatyr:** (//Looks away//) [[span style="font-family: helvetica, sans-serif;"]]Немного.[[/span]] ##8f8f8f|A little.##
+
+**Dr. Elmsley:** You’ve been here for three months now. We know your situation is unusual, especially with what's been going on in your old ministry and your father being in the--
+
+(//Yushatyr stares at Dr. Elmsley with a furrowed expression.//)
+
+**Dr. Elmsley:** (//Coughs//) As I was saying, most students have living guardians who are human. Do you feel safe with your guardian being, well, //an artefact?//
+
+**Yushatyr:** (//Tightens grip on MI0288//) She is not just artefact. //She is…// She watches me always.
+
+**Dr. Elmsley:** Of course, I didn’t mean to offend. It’s just our duty to make sure you are well cared for.
+
+**Yushatyr:** I am cared. She is ghost, but… she is kind.
+
+**Dr. Elmsley:** I believe you. And I want to make sure you know that the Institute is here for you too. You don’t have to carry everything alone.
+
+**Yushatyr:** Thank you.
+
+**Dr. Elmsley:** How about your social life? Have you been making a lot of friends? 
+
+**Yushatyr:** Yes! There is, ehh—//Swansong, Pandora, Featherfall—//
+
+**Dr. Elmsley:** (//Sigh//) //More code names…// They’re more people from the RCS I assume? 
+
+**Yushatyr:** Yes //but,// we’re friends. We eat together.
+
+**Dr. Elmsley:** Do you know their real names?
+
+(//Yushatyr looks left, then looks down embarrassed.//)
+
+**Dr. Elmsley:** Have you made friends in the Institute?
+
+**Yushatyr:** [[span style="font-family: helvetica, sans-serif;"]]Я стараюсь[[/span]]… ##8f8f8f|I’m trying…##
+
+**Dr. Elmsley:** One last question, what do you want to make next?
+
+**Yushatyr:** Bell that ghosts can ring. For master.
+
+**Dr. Elmsley:** That sounds perfect. I look forward to seeing it.
+
+(//Yushatyr looks left, leaning her head.//)
+
+**Yushatyr:** Lady Sophia said she's looking forward to it too. She also asked me to thank you.
+
+**Dr. Elmsley:** Lady Sophia? What do you mean? Is she-- (//Dr. Elmsley looks at the mirror on the right of her and gets startled by MI0288-01's reflection.//)
+
+**Yushatyr:** [[span style="font-family: helvetica, sans-serif;"]]Не пугайте так людей![[/span]] ##8f8f8f|Don't scare people like that!##
+
+(//MI0288-01 smiles, then demanifests from the reflection.//)
+
+**Dr. Elmsley:** Was she-- Was she always there?
+
+(//Yushatyr nods.//)
+
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+------
+
+[[# catsith]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title= Catsith
+|sender=Civil Service Commission
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image= http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/CatsithPortrait.jpg
+|card= Linlithgow 
+|caption= **Catsith** (1982)
+|note= Photo was taken in the aftermath of Operation Cyclops.
+|show=show]]
+
+[[include component:image-block name= http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/Catsith.png |align=right|width=150px]]
+
+**Name:** n/a[[footnote]] Catsith's birth name cannot be pronounced nor transcribed.[[/footnote]]
+**Race:** [[[rpc-565|European Aílurien]]]
+**Birthplace:** Grand Duchy of Skai, Elphame[[footnote]] A vassal state of the Elphame Commonwealth formed from the ashes of the Court of Ulthar. The Duchy is composed entirely of Aíluriens. [[/footnote]]
+**Date of Birth:** **█**, **███**, 1920
+**Date of Enlistment:** 12 March, 1957
+
+**Department:** Commission for Thaumaturgy, MI-13
+**Position:** Intelligence Officer (Formerly), Interrogation Specialist
+**Religion:** Celtic Pagan
+
+------
++++ Overview:
+Resembles a black Maine Coone cat, measuring 9 kg in mass and 40 cm in height. Formerly a court jester and advisor to Duke Leo III of the Grand Duchy of Skai, the agent known as Catsith was spared from execution by MI13 after being put on trial for illegal necromancy. After being inducted into MI-13, Catsith assumed his current moniker, taking his name from a mythological sorcerer said to be responsible for banishing Ulthar's king and much of its population to parts unknown. Presently, Catsith acts as an interrogator and infiltrator. Catsith spends the time preceding a mission studying the religious backgrounds of his opponents, carefully crafting scenarios to intimidate them with.
+
+Interestingly, Catsith's lifespan has thus far exceeded that of any known Aílurien, save for that of royalty. Catsith is estimated to be over 120 years old and has yet to succumb to the aging process. Catsith was once an intelligence officer, however, was stripped of this position after it was discovered that he utilised necromancy during Operation Cyclops in 1982. When assigned to a mission, Catsith is now required to be accompanied by another agent at all times.
+
+------
+**Included in:**
+
+[[include component:mi13adden-end]]
+[[/tab]]
+
+[[tab Interview]]
+[[include component:mi13adden
+|title=Catsith
+|sender=MI13
+]]
+
+**Foreword:** Operation Cyclops was an operation to retrieve the Eye of Merlin[[footnote]] A thaumaturgical artefact which holds cultural significance to the Fair City of New Avalon. [[/footnote]] from the Nihil terrorist cell called the Sons of Eugnostos, who came to possess the artefact through unknown means. It was discovered that Agent Catsith was abusing his seniority to temporarily resurrect and interrogate a deceased Nihil insurgent. While the information from the deceased proved vital in uncovering the artefact, Catsith's actions were in clear violation of the Royal Congregation's rules restricting necromancy and were deemed abuses of his authority.
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title=Disciplinary Log no. CS25
+|interviewed= Agent Catsith
+|interviewer= Agent Samuel Yueh
+|date= 27, April, 1982
+]]
+
+[BEGIN RECORDING 0:00]
+
+**Yueh:** Good evening, Agent.
+
+**Catsith:** Spare me the formalities, I know why you're here.
+
+**Yueh:** Very well then. We have reports backed by live footage of you resurrecting **████ █████**.
+
+**Catsith:** What of it?
+
+**Yueh:** Your actions were in clear violation of the Royal Congregation's code of conduct. Who authorised you to use necromancy?
+
+**Catsith:** I did. 
+
+**Yueh:** Come again?
+
+**Catsith:** The powers invested in me by my rank give me the authorisation to see over any medical procedure.
+
+**Yueh:** You //know// that necromancy isn't considered a standard medical procedure. Furthermore, your subordinates report that your treatment of the subject bordered on psychological torture.
+
+**Catsith:** May I ask a question?
+
+**Yueh:** You may.
+
+**Catsith:** The operation was a success, was it not?
+
+**Yueh:** Correct.
+
+**Catsith:** How much longer would the operation have taken had I not revived the Nihilite? Hours? Days? Weeks? How many more lives would they have taken in such a long amount of time?
+
+**Yueh:** That's irrelevant to the fact that you violated the royal decree.
+
+**Catsith vocalises something inaudible.**
+
+**Catsith:** I have nothing more to say.
+
+**Yueh:** Very well. My superiors will know of this.
+
+[END RECORDING 2:30]
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+------
+
+[[# obscura]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title=Obscura
+|sender=Civil Service Commission
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image= http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/ObscuraPortrait.jpg
+|card= London
+|caption= **Obscura** (2004)
+|note= Picture taken during Obscura's tenure in the Household Cavalry. 
+|show=show]]
+
+[[include component:image-block name= http://rpcsandbox.wdfiles.com/local--files/british-hub-personnel/Obscura.png |align=right|width=150px]]
+
+**Name:** Ferdinan Melion
+**Race:** Caucasian, Human
+**Birthplace:** Budapest, Hungary
+**Date of Birth:** 11 February, 1979
+**Date of Enlistment:** 2 April, 2002
+
+**Department:** 2nd Company, Black Hunters Corp
+**Position:** Company Captain
+**Religion:** (Undisclosed)
+
+------
++++ Overview:
+
+**Captain Ferdinan Melion** began his life as a luthier in his family’s workshop in Budapest, descended from one of Europe’s most respected lines of artisan weaponsmiths. The Melions would serve both the Hungarian parliament and the Occult Networks all across Europe by providing them with special thaumaturgic equipment. 
+
+Ferdinan’s father, //István Melion//, was gifted a violin by a close friend, an MI-13 field agent. After the agent’s sudden death the agent’s during a mission, István would change, becoming obsessed with the instrument as it slowly transformed into a Prickling.[[footnote]] A component of the Hanover Curse; a phenomenon where a personal item transformed into an anomalous artefact upon the death of its owner. [[/footnote]] The Prickling would feed on István's grief and guilt, slowly driving István along the irreversible inebriation into becoming a Bacchanal.
+
+Ferdinan was forced to kill his own father, and later reported himself to Monoarch Security, who would later put him into the ranks of the Black Hunters. As a cadet, Ferdinan prevented a {{[WITHHELD]}} from completing its ritual transformation, an encounter that pushed him to seek out the power of [[[no-0100|CR0100]]] and its //black blood// to surpass his human limits.
+
+Under this pact, Ferdinan embarked on multiple sanctioned campaigns against individuals marked by the //Curia Arcanum// for execution. His effectiveness on the field earned him rapid advancement, eventually rising to the rank of Captain.
+
+------
+**Included in:**
+[[[no-0100|No. 0100]]] - Old Boy of the Black Hunt
+
+
+[[include component:mi13adden-end]]
+[[/tab]]
+
+[[tab Interview]]
+[[include component:mi13adden
+|title=Obscura
+|sender=MI13
+]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title= Greetings
+|interviewed= CR0100
+|interviewer= Obscura
+|date= 15, August, 2013
+]]
+
+//Obscura strode across the// Dark, Endless Field of Rabbits and Foxes, //he's holding a vial of blood on his right hand and pulling a draped-over cart with his left. He came to a halt on the sound of shifting grass.//
+
+//With his ring finger he crushed the bottom of the glass vial, using the downpour of blood to draw a magic circle around himself, he then turns around to retrieve a bow and arrow from the cart. Taking aim, he struck a passing by fox in the neck.// 
+
+//Before he could retrieve it however, the ground shakes as the blades of grass around the fallen fox transforms into fangs; a giant maw emerged from the ground and swallowed the fox wholly in a clasp, then sank into the ground. CR0100 announced its presence with a disembodied voice.//
+
+**CR0100:** My spawn has come to greet me, but thou art sorely late. The saints forbad the sun to shine on these meadows, but I can count still -- it has been a month. What excuses thou offers for this insolence.
+
+**Obscura:** I greet my Lady, the Old Boy of the Black Hunters. I carry with me the sincerest apologies from the Royal Congregation. The Company Leader has been critically wounded by {{[WITHHELD]}} The entire organisation was in turmoil this past month.
+
+**CR0100:** A kin rises to take the place of his fallen brother. The Pack is maintained by discipline. The chain of command must be respected. Thou dishonoured thy matriarch, such defiance ought not be tolerated. 
+
+//The ground shakes again as hundreds of maws emerged from the ground surrounding Obscura's protective circle, restlessly biting and barking.//
+
+**CR0100:** ... Alas, much blood has already been shed.
+
+//The maws retracted into the ground.//
+
+**CR0100:** Let thee be reminded: Thy allegiance is to my justice and no other. Now... take a step closer, greet thy sire with due respect.
+
+//Without hesitation, Obscura erases the magic circle guarding his presence and kneels, facing the ground. Deafening silence followed. Soon, CR0100 emerges from obscurity in its human form. It observed Obscura.//
+
+**CR0100:** Thou carry a sword most peculiar.
+
+//Obscura unstrapped his Cello case and took out the Witching Sword hidden in it.//
+
+**Obscura:** It is a //Macuahuitl//. Once wielded by the Jaguars of Tenochtitlan, now the implement of hounds.
+
+**CR0100:** Thy senior claimed thus: "These dull blades cut not flesh of the living."
+
+**Obscura:** Yet we sharpen our fangs against more than spectres and demons, for there exist monsters in human flesh. A blunt bat will be fatal when put directed at the head, no less deadlier than a steel sword. I merely chose the most practical format for the Witching Sword.
+
+**CR0100:** And this specimen thee carrieth, it is a jaguar?
+
+//CR0100 looked over Obscura's shoulder towards the draped-over cart. In response, Obscura removes the cloth to reveal a taxidermied jaguar.//
+
+**Obscura:** Hunted from the Bolivian plains, I was hoping you would take a liking to it, madame Boy.
+
+**CR0100:** It is of fine craftmanship... 'tis also a worthless game. Surely thou thought not to placate me with wasteful trinkets?
+
+**Obscura:** Then I shan't make you wait any further, my lady.
+
+//Obscura slammed his sword at the jaguar's dorsal, lodging the weapon deep into its back. He proceeded to drag the blade across, its jagged teeth tearing at the surface. With great force, Obscura slices the specimen in half, letting its stuffings fall out; three heads rolled out onto the meadow by CR0100's side.//
+
+**Obscura:** I dedicated these hunt to you: [name] [name]; {{[WITHHELD]}}
+
+//CR0100 crouched down to inspect the deceased prey, grinning. Hundred of maws manifested once more to devour their tribute. CR0100 then stood up.//
+
+**CR0100:** Yes, 'tis a worthy feast indeed! Evils vanquished and a blood debt paid.
+
+//CR0100 turned to face Obscura.//
+
+**CR0100:** Thou hast distinguished thyself. Well Done.
+
+not bad for a first impression. though, cool it with the theatrics.
+
+Let the Royal Congregation know of my will: [name]'s time is scarce, Ferdinan Melion shall succeed him as pack leader.
+
+Your wishes will be relayed 
+
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+------
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/component:mi13-theme/code/1);
+[[/module]]
+
+[[# bobbybill]]
+[[tabview]]
+[[tab Info]]
+[[include component:mi13adden
+|title= Bobby Bill
+|sender=Civil Service Commission
+]]
+
+[[include component:mi13image2 width=240px|align=right
+|image= http://rpcsandbox.wdfiles.com/local--files/pit-of-delights/BobbyBillColoredPhoto.png
+|card= Westminister
+|caption= **William Buchanan** (2003)
+|note= William Buchanan during an inauguration ceremony in Iraq, seen facing away from the camera on the right.
+|show=show]]
+
+[[include component:image-block name= http://rpcsandbox.wdfiles.com/local--files/pit-of-delights/BobbyBillSignature.png |align=right|width=150px]]
+
+**Name:** William Buchanan
+**Race:** Caucasian (Scottish), Human)
+**Birthplace:** Glasgow, United Kingdom
+**Date of Birth:** 5th March, 1977
+**Date of Enlistment:** 30th June, 1995 British armed forces| 17th October, 2003 Monarch Security.
+
+**Department:** British Military/Commission for Anomalies
+**Position:** Military Police
+**Religion:** Presbyterian
+
+------
++++ Overview:
+A reformed member of a motorcycle gang, William Buchanan would join the British Armed Forces in the late 80s and eventually serve in several British military conflicts. Throughout his military career, he became infamous for his strict standards and code of honor. This resulted in his eventual court martialing due to insubordination whilst stationed in Iraq in 2003. Whilst en route to England for trial, the coalition forces escorting him were attacked by a militia of Malthus flesh-gestalts. Sir Buchanan would be the only surviving coalition soldier as Monarch Security forces found him driving towards the nearest base in an APC filled with the corpses of his fellow soldiers. 
+
+This impressive display of tactical prowess and willingness to cooperate resulted in his adoption into the Black Coat’s Military Auxiliaries, upon which he was to continue to be stationed in Iraq to aid against the Anti-Nomian Alliance.[[footnote]]An alliance orchestrated by GARD, using recruited Malthus mercenaries and Nihil assets to overthrow UNAAC, Authority, Monarch, and Vatican presence in the region.[[/footnote]] It was during this occupation that his anomalous and thaumaturgical powers were discovered, as observations found him surviving lethal attacks and firing exotic ammunition from his modified .445 Webley Mk VI revolver. [Ammunition includes AP ammo capable of penetrating T-72 armor, Explosive ammo on par with a 25 Pounder HE shell, ricochet rounds, and even heat seeking bullets] 
+
+After Operation Dawn Initiative forces were able to subdue Anti-Nomian militias in 2011. Sir Buchanan would become an important coordinator in any Monarch occupation endeavors going forward, as his strict and lawful demeanor meant that he’s always around as a reliable keeper of peace and order.
+
+
+------
+**Included in:**
+
+[[include component:mi13adden-end]]
+[[/tab]]
+
+[[tab Interview]]
+[[include component:mi13adden
+|title=Bobby Bill
+|sender=MI13
+]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title=Interview regarding damage and repair of thaumaturgical equipment.
+|interviewed= William Buchanan
+|interviewer= Master-Thamauturge Lexington (Commission for Thaumaturgy)
+|date= 27, September, 2021
+]]
+
+**Lexington:** Good to meet back with you officer Buchanan, still in good shape after whatever happened last month?
+
+**William:** Yeah, apart from me knuckles which still hurt a little, everything’s feeling fine. Now pleasantries aside, I'm assuming ya engineer’s managed to fix me revolver and armor. 
+
+**Lexington:** Well yes, took us a bit of time to retune the alchemical properties of your revolver and body armor but eventually we got it down and fixed it up good as new. You know it’d help us if you actually told you how you managed to acquire these anomalous antiques. 
+
+**William:** Listen, I told ya plenty ah times they might be strange but there's nothing magical about them. Just like your thaumaturgy it's simply a form of science we have yet to fully comprehend. There ain’t no such thing apart from the miracles of God and the Holy spirit, of which I am not to declare. 
+
+**Lexington:** //Oh my God.// William, how do you feel confident to say that when you won't even attempt to fully understand our work at the Commission. 
+
+**William:** It’s not for lack of trying I've simply been too busy. Besides I don’t need to understand the ins and outs of it to know that while I may not be entirely right, I'm at least less wrong than you.
+
+//Master-Thaumaturge Lexington turns away, putting her hand on her face for a minute.//
+
+**Lexington:** I'm not gonna circle around this conversation for the hundredth time so I just need you to tell me how you managed to damage your gear so badly last month. 
+
+**William:** Aye lets see, I got stationed over by the frontiers in Manitoba when we got reports of some mechanical men terrorizing random civilians. Of course upon arriving I immediately had to set straight some “magicians” of  yours who were too busy trying to turn the house of a dead civvie into pure gold. Straightened that blockhead out with a clean punch to the face, almost knocked him to kingdom come. 
+
+**Lexington:** You know for a second there I actually doubted Johnny when he came back with a black eye and blamed you, guess that serves me right for doubting your hardassness. 
+
+**William:** We’re supposed to be the best of the best serving queen- erh, king and country. We’ve got rules to follow and if I don’t enforce them then what's the rest of the world gonna think of us. Anyways soon after I punished him we got confirmation that the machine men were spotted at a nearby shack. Course those magicians wanted to glass it with some sort of fake storm they were planning on cooking up but I took over and went in alone.
+
+**Lexington:** And did it ever occur to you that maybe it was the safer option?
+
+**William:** There was a brief chance it could’ve resulted in the loss of innocent life which would’ve been a disgraceful course of action. So I went in there myself, snuck up around the back door and entered. Didn’t see nothin at first, of course as soon as I got out of the door frame it snapped back on me and trapped me in. Quickly I found the main culprit, some kind of walking tinfoil man with a chainsaw for an arm. He tried to swipe at me but I acted quickly and destroyed his arm with an armor piercing round. Went to get over and try to incapacitate him when another one like him jumped on me back. Tried to wrap me up with these swarms of chains from his body whilst his disarmed friend began to grow back a new arm using some kind of table saw he just picked up. I managed to swing myself around as he struck, forcing him to cut his own friend. As I spun around I could also see two other slightly less metallic friends of his try to assault me. I took them each out with two clean AP rounds to the head. But once they were down I could hear the bigman’s saw beginning to finish cutting through the trashcan on my back. I managed to rip the chains off and spin around, getting a shot off the tincan’s cheek. He responded in kind by hitting me with a hydraulic press he had hidden in his stomach, sending me flying. Before I could even start getting back up he began to charge at me as some sort of armor formed around the front of his body. Fired an AP round straight into his head, only left a dent along with a pissed off tincan still charging me. Right before he could cut me into ribbons however, I fired a ricochet round off the refrigerator in the back, managed to hit him square in the spine and left him disabled. Boys came in soon after to drag away the remains and spare parts. 
+
+**Lexington:** Jesus Christ you're a psycho. No backup, no support, you're lucky you survived that encounter at all. You know there's more to life than playing action hero. Next time you do something stupid like that I'm charging for the repairs. 
+
+**William:** Well If I hadn’t intervened with their little plan earlier than they most likely would’ve killed the 5 innocent civilians that we managed to find incapacitated in one of the rooms. 
+
+**Lexington:** So you consider the lives of those people worth a few weeks in the hospital.
+
+**William:** Yes maim, and I’d do it again if I had to.
+
+**Lexington:** Oh shoot the time, I really do need to get going now. Your armaments are with one of the guards outside, make sure not to forget them on the way out.
+
+//Ms. Lexington is seen hurrying out of the room whilst staring at her watch.//
+
+
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+------
+

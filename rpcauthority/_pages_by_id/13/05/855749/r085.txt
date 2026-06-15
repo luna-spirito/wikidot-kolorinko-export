@@ -1,0 +1,845 @@
+---
+title: "Top Level Administration Directory"
+tags: ["information", "lore"]
+page_id: "1305855749"
+site: "rpcauthority"
+slug: "directorate"
+revision: 85
+revision_id: "1544646929"
+author: 3638389
+timestamp: 1781495918
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+[[/module]]
+[[module css]]
+.gdCounts {
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+.gdCounts div, .gdCounts  p {
+  display: inline;
+}
+
+.gdCounts>div {
+  margin-left: 5px;
+  padding-left: 5px;
+  border-left: 2px solid var(--basic-border-color);
+}
+[[/module]]
+[[include nav:side-right
+    width=7.9rem|
+    background=var(--primary-background)|
+    border=var(--nested-content-border)|
+    border-radius=var(--element-border-radius)|
+    padding=5px|
+    box-shadow=var(--content-panel-box-shadow)|
+    container-height=auto|
+    ]]
+
+[[=]]
+[[size 115%]]**Top Level Administration**[[/size]]
+[[size 75%]]**Global Directors**[[/size]]
+----
+[[/=]]
+
+[[div style="margin: auto"]]
+
+[#GD-SCHL Scholar]
+[#GD-CMDR Commander]
+[#GD-ARCH Architect]
+[#GD-NORTH North America]
+[#GD-SOUTH South America]
+[#GD-WEST West Europe]
+[#GD-EAST East Europe]
+[#GD-AFRI Africa]
+[#GD-EURA Eurasia]
+[#GD-ASIA Asia]
+[#GD-OCEA Oceania]
+[#GD-ANTC Antartica]
+[#GD-WAR War Coordinator]
+[#GD-AEDF Supreme Fleet Commander]
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[size 120%]]**Overview:**[[/size]] The Board of Global Directors, otherwise known as the "Directorate," is the main executive body of not only the Presidium but the Authority at large. Tasked with directing the Authority from a global perspective, the Board wields an immense amount of overreach over the entire organization, able to direct Authority assets with little oversight.
+
+Typically, the Board is comprised of eleven elected officials, each representing either one of three divisions or of their [[[authority-regional-sites|respective Regional Commands.]]] Both acting as the invisible hands behind the organization and as diplomatic figures outside of the Authority, GDs are expected to use their fortitude to manage regional policy and oversee critical directives to ensure normalcy is maintained worldwide.
+
+Although most information on the history of individual Directors is classified, some of their history and character traits have been compiled here by documenters. 
+
+[[size 120%]]**Divisional Representatives:**[[/size]]: The "Big Three" are representatives elected by the officers of each Division, who represent Divisional interest in Global Directorate affairs. They inevitably will always come from the background of service in their representative Division, and will bring their respective background and experience to the table in any given conversation.
+
+[[div class="content-panel"]]
+[[table]]
+[[row]]
+[[cell]]
+[[# GD-SCHL]]
+[[image http://rpcauthority.wdfiles.com/local--files/directorate/RD2.png link="gd-schl" width="145px"]]
+[[/cell]]
+[[cell]]
+[[[GD-SCHL]]]: Global director representative "Scholar" for Research.
+
+**Personality Archetype:** An old Eastern Orthodox priest and self-taught statistical mathematician, GD-SCHL attempts to teach people the old ways of the Authority while not disregarding the new discoveries of modern times. 
+[[div class="gdCounts"]]
+[/_t/gd-schl Pages featuring GD-SCHL]
+
+[[module CountPages tags="+gd-schl rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-schl +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-schl +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-schl -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-CMDR]]
+[[image http://rpcauthority.wdfiles.com/local--files/directorate/PD2.png link="gd-cmdr" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-CMDR]]]: Global director representative "Commander" for Protection.
+
+**Personality Archetype:** A calm forward thinking intelligence officer who is always thinking of the outcomes of his actions. GD-CMDR used to be a soldier, but was conscripted into the intelligence community after the loss of his arm. His lack of a limb required him to think differently, and he quickly rose up the ranks of the CIA, and then the ACI, as one of the most ingenious recruits. 
+[[div class="gdCounts"]]
+[/_t/gd-cmdr Pages featuring GD-CMDR]
+
+[[module CountPages tags="+gd-cmdr rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-cmdr +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-cmdr +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-cmdr -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-ARCH]]
+[[image http://rpcauthority.wdfiles.com/local--files/directorate/CD2.png link="gd-arch" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-ARCH]]]: Global director representative "Architect" for Containment.
+
+**Personality Archetype:** Codename "OPERATOR" has always been an elusive figure; an urban legend amongst the lower ranks of the Containment Division. From a reference to the Authority's central radio relay (OPERATOR STATION) to an all-hearing boogieman used to scare newbies straight, the OPERATOR title has come to be associated with the Authority's ever-present gaze on internal affairs. For those greying department heads in-the-know, such title conveys only respect.
+[[div class="gdCounts"]]
+[/_t/gd-arch Pages featuring GD-ARCH]
+
+[[module CountPages tags="+gd-arch rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-arch +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-arch +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-arch -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[size 120%]]**Regional Representatives:**[[/size]] Regional Directors are representatives of their region, from 9 areas, selected by both geographical and cultural backgrounds. Though they outnumber Divisional GDs by 3 to 1, their interests will almost always invariably line up in one way or another, as they often fight each other for funding and must appeal to their respective voting blocks. 
+
+[[div class="content-panel"]]
+[[table]]
+[[row]]
+[[cell]]
+[[# GD-NORTH]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Northern%20Command.png link="gd-north" width="145px"]]
+[[/cell]]
+[[cell]]
+[[[GD-NORTH]]]: Global director representative for North America. 
+
+**Personality Archetype:** Hard Core American Patriot who fully believes in the concept of manifest destiny. Decisive, aggressive, and fully committed to the goal of protecting humanity from the anomalous. Is perfectly willing to flex Authority power if it means containing the anomalous, and cares little for the objections of any potential GOIs or AOIs. Can easily be described as a war-hawk. 
+
+[[div class="gdCounts"]]
+[/_t/gd-north Pages featuring GD-NORTH]
+
+[[module CountPages tags="+gd-north rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-north +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-north +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-north -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-SOUTH]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Southern%20Command.png link="gd-south" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-SOUTH]]]: Global director representative for South America.
+
+**Personality Archetype:** Red Cutter is a timid and non-confrontational middle aged man who rose to the upper echelons of SOUTHCOM due to a considerably impressive knowledge and understanding of Authority, particularly Administration, bureaucracy and paperwork. His talent was recognised and cultivated, with him discontinuing a small gross of unnecessary and out of date forms and noticeably improving the flow of data and information within the OIRS.
+
+[[div class="gdCounts"]]
+[/_t/gd-south Pages featuring GD-SOUTH]
+
+[[module CountPages tags="+gd-south rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-south +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-south +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-south -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-WEST]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Western%20Command.png link="gd-west" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-WEST]]]: Global director representative for West Europe.
+
+**Personality Archetype:** A terrifying and eccentric scientist that sacrificed his psyche for greater insight. He has shown himself to be a brilliant expert on the anomalous thanks to his unique perspectives, high intelligence and extreme scientific curiosity. Eyes has written multiple influential papers in his field, and participated in several revolutionary ones. He later joined the viderics department, since he considered the fact that he could not see the full scope of the world around him as detrimental. His work there gave him unparalleled knowledge of the once hidden parts of the anomalous world.
+ 
+[[div class="gdCounts"]]
+[/_t/gd-west Pages featuring GD-WEST]
+
+[[module CountPages tags="+gd-west rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-west +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-west +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-west -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-EAST]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Eastern%20Command.png link="gd-east" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-EAST]]]: Global director representative for Eastern Europe.
+ 
+**Personality Archetype:** Cold and isolated woman of east slavic (Russian) descent. Beautiful, decisive, intelligent and quiet with slow resolve. Spent better years of her life as an agent of KGB. Handles long term stress well, however usually intoxicated during long periods of stability. Her main goal is to stabilise EAST authority assets while also seizing the opportunity to make some good cash on the side. 
+[[div class="gdCounts"]]
+[/_t/gd-east Pages featuring GD-EAST]
+
+[[module CountPages tags="+gd-east rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-east +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-east +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-east -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-AFRI]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Africa%20Command.png link="gd-afri" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-AFRI]]]: Global director representative for Africa. 
+
+**Personality Archetype:** A middle-aged Caucasian man somewhere in his early 40s of Afrikaner heritage. He is fluent in English, Dutch, and Afrikaans, and is a veteran of Operation Dawn Initiative. Spoggerig is described as being egotistical, strategic, moderately conservative, hardworking, and a man devoted to his work. He likes to boast about his progress and accomplishments as a Global Director whenever he gets the chance, and more often than not can back his boasts up.
+
+[[div class="gdCounts"]]
+[/_t/gd-afri Pages featuring GD-AFRI]
+
+[[module CountPages tags="+gd-afri rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-afri +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-afri +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-afri -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-EURA]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Eurasia%20Command.png link="gd-eura" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-EURA]]]: Global director representative for Eurasia. 
+
+**Personality Archetype:** An old, but sharp man from the Mediterranean belt, GD-EURA started his career in the Authority as a simple accountant within the Presidium, but quickly rose in its ranks due to his economical expertise in several fields of finance and resource management until he was finally chosen to manage the entire economic ecosystem of Eurasia.
+[[div class="gdCounts"]]
+[/_t/gd-eura Pages featuring GD-EURA]
+
+[[module CountPages tags="+gd-eura rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-eura +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-eura +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-eura -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-ASIA]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Asia%20Command.png link="gd-asia" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-ASIA]]]: Global director representative for Asia. 
+
+**Personality Archetype:** A composed, principled and assertive Han Chinese woman of about 35 years of age educated in professional law. At the beginning of 2017, Xiezhi resigned as MST Commander of MST-Wuchen-13, Xiezhi(獬豸). She was appointed as the Prosecutor General for the Authority's Provisional Military Tribunal for the Iulii Flamma Incident, tasked with investigating war crimes committed by all parties pertaining to the conflict. 
+
+[[div class="gdCounts"]]
+[/_t/gd-asia Pages featuring GD-ASIA]
+
+[[module CountPages tags="+gd-asia rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-asia +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-asia +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-asia -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-OCEA]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Oceanic%20Command.png link="gd-ocea" width="145px"]]
+[[/cell]]
+[[cell]]
+-----------
+[[[GD-OCEA]]]: Global director representative for Oceania. 
+
+**Personality Archetype:** An oceanographer from the Northern Mariana Islands and Zen Buddhist. Their prior involvement in Oceania's tourist industry granted them detailed knowledge on the region's geography and environment which are critical to Authority efforts at investigating deep-sea anomalies.
+[[div class="gdCounts"]]
+[/_t/gd-ocea Pages featuring GD-OCEA]
+
+[[module CountPages tags="+gd-ocea rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-ocea +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-ocea +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-ocea -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[size 120%]]**Special Representatives:**[[/size]] Throughout its history, the Authority has been faced by numerous outside forces posing an existential threat to our organization's continual existence. During periods of crisis, decisive action may need to be taken where the Board is unable to devote the proper amount of attention for effective engagement. Due to this, several tertiary positions have been created within the Board in the advent of significant hostile engagement with outside groups.
+
+[[div class="content-panel"]]
+[[table]]
+[[row]]
+[[cell]]
+[[# GD-ANTC]]
+[[image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022_1%5D%20Antarctica%20Command.png link="gd-antc" width="145px"]]
+[[/cell]]
+[[cell]]
+[[[GD-ANTC]]] Global director representative for Antartica.
+ 
+**Personality Archetype:** An older man, who remains one of the top minds in Containment. GD-ANTC was born in Eastern Europe, but has spent much of his life in the Antarctic, overseeing the containment of anomalies in the bitter snowscape.
+
+GD-ANTC is a tiebreaker position, and does not get to offer his vote unless the other Global Directors are at a stalemate.
+[[div class="gdCounts"]]
+[/_t/gd-antc Pages featuring GD-ANTC]
+
+[[module CountPages tags="+gd-antc rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-antc +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-antc +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-antc -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[# GD-WAR]]
+[[div class="whiteThemeInvert"]]
+[[div class="blackThemeInvert"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/secure-authority-facilities/WARCOM width="145px"]]
+[[/div]]
+[[/div]]
+[[/cell]]
+[[cell]]
+-----------
+**GD-WAR:** Global director temporary representative elected by the incumbent GDs. in the case of an all-out war being declared on the authority. This position is given emergency decision powers that would normally take a majority decision for all the GDs to resolve.
+[[collapsible show="+ Relationships" hide="- Hide Relationships"]]
+Often a protection division member, but trusted third parties are also commonly used for this role, as GDs are reluctant to give protection such absolute control.
+[[/collapsible]]
+[[div class="gdCounts"]]
+[/_t/gd-war Pages featuring GD-WAR]
+
+[[module CountPages tags="+gd-war rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-war +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-war +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-war -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[# GD-AEDF]]
+[[row]]
+[[cell]]
+[[div class="whiteThemeInvert"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Official_Logo.png width="145px"]]
+[[/div]]
+[[/cell]]
+[[cell]]
+-----------
+**GD-AEDF:** Global director temporary representative elected by the incumbent GDs in the case of an extra-terrestrial attack on the Earth. This position is given emergency decision powers that would normally take a majority decision for all the GDs to resolve.
+[[collapsible show="+ Relationships" hide="- Hide Relationships"]]
+Often an AEDF member.
+[[/collapsible]]
+[[div class="gdCounts"]]
+[/_t/gd-aedf Pages featuring GD-AEDF]
+
+[[module CountPages tags="+gd-aedf rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+gd-aedf +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+gd-aedf +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+gd-aedf -rpc -rpc-j -tale -document"]]
+%%total%% Other
+[[/module]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+**The history of the Directorate** is a long and complicated one. While the general rule of thumb is that a Director will hold a position for four years per term, there have been a number of extraneous circumstances that have caused them to leave the position at a earlier or even in some cases later date. The following graph is here to help visualize this rich history, as well as helping understand why some decisions were made at certain periods.
+
+[[include nav:side-right
+    width=7.9rem|
+    background=var(--primary-background)|
+    border=var(--nested-content-border)|
+    border-radius=var(--element-border-radius)|
+    padding=5px|
+    box-shadow=var(--content-panel-box-shadow)|
+    container-height=auto|
+    ]]
+
+[[=]]
+[[size 115%]]**Directorate Timeline**[[/size]]
+[[size 75%]]**Terms**[[/size]]
+----
+[[/=]]
+
+[[div style="margin: auto"]]
+
+[[#2024 2024]]
+[[#2021 2021]]
+[[#2016 2016]]
+[[#2012 2012]]
+[[#2008 2008]]
+[[#2004 2004]]
+[[#2000 2000]]
+[[#1996 1996]]
+[[#1992 1992]]
+[[#1988 1988]]
+[[#1984 1984]]
+[[#1980 1980]]
+[[#1976 1976]]
+[[#1972 1972]]
+[[#1968 1968]]
+[[#1964 1964]]
+[[#1960 1960]]
+[[#1956 1956]]
+[[#1952 1952]]
+[[#1948 1948]]
+[[#1945 1945]]
+
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div style="overflow-x: auto;"]]
+[[table style="width: 400%;"]]
+[[include component:elect-anchor]]
+
+   [!--RSCH--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #88408D; font-size: 125%;"]] **SCHOLAR** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-schl Father]
+|terms=2
+|color=#9D4AA3]]
+
+[[include component:elect-gd
+|terms=12]]
+
+[[include component:elect-gd
+|name=Devil
+|color=#9D4AA3]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--PROT--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #707F4C; font-size: 125%;"]] **COMMANDER** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-cmdr Lightning Rod]
+|terms=2
+|color=#7C9D2E]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--CONT--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #AF3B3B; font-size: 125%;"]] **ARCHITECT** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-arch Operator]
+|color=#D53915]]
+
+[[include component:elect-gd
+|name=[/gd-forge-fabricator-general-2021 Forge]
+|color=#CD1900]]
+
+[[include component:elect-gd
+|name=Flood
+|color=#D53915]]
+
+[[include component:elect-gd
+|terms=17]]
+
+[[include component:elect-gd
+|name=Warden
+|color=#D53915]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--NORTH--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #1B294E; font-size: 125%;"]] **NORTHCOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-north Jingo]
+|terms=2
+|color=#2B4480]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--SOUTH--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #2b7f3d; font-size: 125%;"]] **SOUTHCOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-south Red Cutter] 
+|color=#236831]]
+
+[[include component:elect-gd
+|name=[/gd-yeta-2021 Yeta]
+|color=#359E4A]]
+
+[[include component:elect-gd
+|name=@@ @@
+|terms=1]]
+
+[[include component:elect-gd
+|name=[/gd-yeta-2021 Yeta] 
+|color=#359E4A]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--WEST--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #B0B0B0; font-size: 125%;"]] **WESTCOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-west Eyes]
+|color=#878787]]
+
+[[include component:elect-gd
+|name=[/gd-thrice-2021 Thrice]
+|color=#5B5B5B]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--EAST--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #9E2021; font-size: 125%;"]] **EASTCOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-east Tovarka]
+|terms=2
+|color=#531011]]
+
+[[include component:elect-gd
+|terms=14]]
+
+[[include component:elect-gd
+|name=**[N/A, Administration of West-East Command]**
+|terms=99
+|color=#AA4400]]
+
+[[/row]]
+   [!--AFRI--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #D5A447; font-size: 125%;"]] **AFRICOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-afri Spoggerig]
+|color=#84652D]]
+
+[[include component:elect-gd
+|name=[/gd-the-humanitarian-2021 Humanitarian]
+|color=#CD9630]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--EURA--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #EACD3C; font-size: 125%;"]] **EURACOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-eura Halfpenny]
+|terms=2
+|color=#F0C907]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--ASIA--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #EAAA7A; font-size: 125%;"]] **ASIACOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-asia Xiezhi]
+|color=#BD6828]]
+
+[[include component:elect-gd
+|name=[/gd-uyoku-2021 Uyoku]
+|color=#A97B58]]
+
+[[include component:elect-gd
+|terms=14]]
+
+[[include component:elect-gd
+|name=**[N/A, Administration of Eurasia Command]**
+|terms=99
+|color=#AA4400]]
+
+[[/row]]
+   [!--OCEA--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #3E81B7; font-size: 125%;"]] **OCEACOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-ocea Silent Surfer]
+|terms=2
+|color=#005893]]
+
+[[include component:elect-gd
+|terms=99]]
+
+[[/row]]
+   [!--ANTC--]
+[[row]]
+
+[[cell style="padding: 0 .5em;"]]
+[[span style="color: #94C6E8; font-size: 125%;"]] **ANTCCOM** [[/span]]
+[[/cell]]
+
+[[include component:elect-gd
+|name=[/gd-antc Pimpirev] 
+|terms=2
+|color=#6AABCC]]
+
+[[include component:elect-gd
+|terms=11]]
+
+[[include component:elect-gd
+|name=**[N/A, Administration of Antarctica-Oceania Command]**
+|terms=99
+|color=#AA4400]]
+
+[[/row]]
+
+[[include component:elect-years]]
+[[/table]]
+[[/div]]
+

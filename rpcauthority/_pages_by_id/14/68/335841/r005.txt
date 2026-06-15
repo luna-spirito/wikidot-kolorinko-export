@@ -1,0 +1,63 @@
+---
+title: "Taxonomy Guide"
+tags: ["guide"]
+page_id: "1468335841"
+site: "rpcauthority"
+slug: "taxonomy-guide"
+revision: 5
+revision_id: "1543051248"
+author: 5982545
+timestamp: 1775041176
+---
+
+Designed by [[*user jokezm]], inspired by Wikipedia's taxonomic system. This is for anyone who wants a taxonomic classification for their species
+
+[[div class="content-panel"]]
+
+The format (for animals) is as follows:
+> @@[[div class="image-block block-right" style="width:250px; "]]@@
+> @@||||~ **SPECIES NAME** ||@@
+> @@[[image IMAGE LINK class="enlarge-true" style="width:250px;"]]@@
+> @@[[div style="display: inline-block; font-size: 12px;  padding:0px 10px 0px 10px; "]]@@
+> @@**Pictured:** CAPTION@@
+> @@[[/div]]@@
+> @@[[div class="block-quote"]]@@
+> @@||||~ **Scientific Classification** ||@@
+> @@|| **Kingdom** || Animalia ||@@
+> @@|| **Phylum** || PHYLUM ||@@
+> @@|| **Class** || CLASS ||@@
+> @@|| **Order** || ORDER ||@@
+> @@|| **Family** || FAMILY ||@@
+> @@|| **Genus** || GENUS ||@@
+> @@|| **Species** || SPECIES ||@@
+> @@||||~ **Binomial name** ||@@
+> @@|||| //SCIENTIFIC NAME// ||@@
+> @@[[/div]]@@
+> @@[[/div]]@@
+
+[[/div]]
+
+[[div class="image-block block-right" style="width:250px; "]]
+||||~ **Common Sunflower** ||
+[[image http://rpcauthority.wdfiles.com/local--files/taxonomy-guide/Sunflower.jpg style="width:250px;"]]
+[[div style="display: inline-block; font-size: 12px;  padding:0px 10px 0px 10px; "]]
+**Pictured:** The common sunflower.
+[[/div]]
+[[div class="block-quote"]]
+||||~ **Scientific Classification** ||
+|| **Clade** || Tracheophytes ||
+|| **Clade** || Angiosperms ||
+|| **Clade** || Eudicots ||
+|| **Clade** || Asterids ||
+|| **Family** || Asterales ||
+|| **Tribe** || Heliantheae ||
+|| **Genus** || Helianthus ||
+||||~ **Binomial name** ||
+|||| Helianthus annuus ||
+[[/div]]
+[[/div]]
+
+You can change the content of the taxonomy to fit whichever kingdom your species belongs to, like the example provided on the right. 
+
+Of course, I suggest you do a little research as to how your species (or genus) would work in a taxonomic table like this; plants could have multiple //clades// in their taxonomy, genuses use //Type species// instead of //Binomial name//, etc.
+

@@ -1,0 +1,87 @@
+---
+title: "Mi13top Base"
+tags: ["component"]
+page_id: "1460371389"
+site: "rpcauthority"
+slug: "component:mi13top-base"
+revision: 11
+revision_id: "1532280590"
+author: 2947029
+timestamp: 1757820075
+---
+
+[[module css]]
+
+@media (max-width: 769px) {
+  /* Risk image on mobile */
+  .st-risk-img {
+    height: 60px !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
+
+  /* Status opacity portrait */
+  @media (max-width: 769px) and (orientation: portrait) {
+    .st-status-img {
+      opacity: 0.4 !important;
+    }
+  }
+
+  /* Status opacity landscape */
+  @media (max-width: 769px) and (orientation: landscape) {
+    .st-status-img {
+      opacity: 1 !important;
+    }
+  }
+
+}
+
+[[/module]]
+
+
+
+
+[[table style="margin: -7px 0px 4px 0px; padding: 5px 0; border-bottom: 2px solid silver;"]]
+[[row]]
+[[cell style="border: 1px solid silver; width: 33%; padding: 0px 4px 0px 4px; "]]
+[[div style="margin: -10px 0px -35px 0px; font-size: 17px;"]]
+@@ @@**##silver|No. #** {$fileno}##
+@@ @@
+[[/div]]
+
+[[table style="margin: -19px 0px -19px 0px;"]]
+[[row]]
+[[cell style="width: 300px; border-bottom: 1px solid silver; padding-bottom: 7px"]]
+ {$station}
+[[/cell]]
+[[cell style="width: 0.5px;"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/mi13status/{$status}.png
+ height="100px" class="st-status-img" style="margin: -62px -100px -157px -80px; transform: rotate(-6deg); --status-right-margin: -150px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding-bottom: 5px"]]
+{$location}
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="margin: -16px 0px -10px 0px; font-size: 14px; text-align: center; background: silver; color: black;"]]
+**Issued: {$date}**
+[[/div]]
+[[/cell]]
+
+[[cell style="width: 33%; padding: 0px 4px 0px 4px;"]]
+[[/cell]]
+
+[[cell style="border: 1px solid silver; width: 34%; padding: 0px 4px 0px 4px; "]]
+[[div style="margin: -43px -7px -10px -7px; font-size: 17px; text-align: center; background: silver; color: black;"]] 
+**{$title}**
+[[/div]]
+[[=image http://rpcsandbox.wikidot.com/local--files/component:mi13top-base/{$risk}.png 
+height="80px" class="st-risk-img" style="margin: -16px 0px -35px 0px;"]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+

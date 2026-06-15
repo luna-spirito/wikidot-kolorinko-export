@@ -1,0 +1,129 @@
+---
+title: "Patents"
+tags: ["hub", "lore", "patent"]
+page_id: "1460377376"
+site: "rpcauthority"
+slug: "patents"
+revision: 16
+revision_id: "1543047627"
+author: 4330657
+timestamp: 1775025707
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+[[/module]]
+
+[[div class="content-panel"]]
+
++ Introduction
+
+Intellectual property patents fall under the jurisdiction of the [[[Office of Financial Affairs.]]] The office ensures that all inventions created under the Authority are properly registered, protected, and distributed in accordance with internal protocols and international law.
+
+Because nations benefit from cooperation, anomalous innovations are often disclosed and jointly developed under the supervision and judicial enforcement of the [[[unaac-hub|UNAAC.]]] This cooperation allows multiple nations and their agencies to leverage findings safely while minimizing risks associated with unregulated experimentation.
+
+This decree was formalized following the 1980 Treaty of Ottawa and reinforced by subsequent United Nations resolutions, which mandate governmental agencies to share technological breakthroughs of significant global impact.
+------
+
+++ About the Treaty of Ottawa
+This international treaty restricts the publication of research on anomalous items to the international community, except where such research demonstrates that the subject no longer exhibits anomalous properties, either through complete scientific understanding of its nature or through the cessation of its anomalous characteristics.
+
+The treaty also provides legal frameworks for patent ownership, licensing agreements, and enforcement procedures, ensuring that discoveries with potentially world-altering effects are managed responsibly and ethically. 
+
+In exceptional circumstances, patents may be fast-tracked or restricted under special provisions. Innovations considered a threat to global security, or possessing immediate strategic military value, may be classified as top-secret and withheld from international disclosure.
+
+------
+
++ List of Patent Documents
+
+The patent format can be found in the [[[Formatting Guide#toc0]]], or selected when creating a new sandbox.
+
+[[collapsible show="[+] Format Example" hide="[-] Hide"]]
+[[div class="content-panel"]]
+
+[[=]]
++ **RPC AUTHORITY PATENT**
++++ Electric Lamp "Lightbulb"
+[[/=]]
+
+[[>]]
+(a) **Patent No.:** P-000
+(b) **Date of Patent:** Jan. 27, 1880
+[[/>]]
+------
+
+(c) **Inventor:** Thomas A. Edison Site-000
+
+(*) **Notice:** Subject to any disclaimer, the term of this patent is extended or adjusted in accordance to the Treaty of Ottawa and United Nations Res. 1980/0120 by 0 days.
+
+(d) **Appl No.:** 01/223,898
+
+(e) **Filed:** Jan. 07, 1880
+
+------
+
+[[=]]
++++ ABSTRACT
+[[/=]]
+
+An electric lamp for giving light by incandescence, consisting of a filament of carbon of high resistance, made as described, and secured to metallic wires, as set forth.
+
+**FIG. 1**  
+[[=image lightbulb.png width="200px"]]
+
+------
+
+[[=]]
++++ (I) BACKGROUND OF THE INVENTION
+[[/=]]
+**(I) Context**  
+Prior to this invention, lighting relied on gas lamps and candles, which were hazardous and inefficient.
+
+**(II) Development**  
+An improvement of Joseph Swan's invention into a practical application. 
+
+------
+
+[[=]]
++++ (II) DETAILED DESCRIPTION OF THE INVENTION
+[[/=]]
+
+The lamp consists of a glass bulb containing a carbon filament connected to two electrical contacts. When electricity flows through the filament, it becomes hot enough to emit light. The bulb is evacuated and/or filled with an inert gas to prevent the oxidation of the filament.
+
+**(1) Fig. 1:** The outer glass bulb, which encloses the filament and protects it from air.  
+
+**(2) Fig. 2:** The filament and its support wires inside the bulb. The filament glows when electricity passes through it.
+
+**(2) Fig. 3:** The base of the lamp, which provides electrical contact to the power source.
+------
+
+[[=]]
++++ (III) INSTRUCTION AND USE OF THE INVENTION
+[[/=]]
+
+**(I) Operation**  
+Insert the lamp into a compatible socket and supply electrical current. The filament will emit light.
+
+**(II) Maintenance**  
+Replace the lamp when the filament burns out. Dispose of the lamp in accordance with local regulations.
+
+------
+
+[[=]]
+CROSS-REFERENCE TO RELATED APPLICATIONS
+{{This application claims no benefit and is included purely for educational purposes.}}
+[[/=]]
+
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[module ListPages separate="no" tags="+patent +document" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+@@ @@
+[[/div]]
+

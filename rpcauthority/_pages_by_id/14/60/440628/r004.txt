@@ -1,0 +1,247 @@
+---
+title: "Manual Hazards Guide"
+tags: ["guide"]
+page_id: "1460440628"
+site: "rpcauthority"
+slug: "manual-hazards-guide"
+revision: 4
+revision_id: "1544129239"
+author: 5982545
+timestamp: 1779714328
+---
+
+[[module CSS]]
+.miniBlockquote { font-size: 0.7em; }
+[[/module]]
+
+Do you want readers to get more out of your RPC's Hazard Types? Do you want to use a fancy esoteric hazard icon, but [http://rpcauthority.wikidot.com/component-hazards-guide the old hazards component] doesn't support it? There's a new way to add hazard icons that does everything you need with a little more work.
+
+[[table]][[row]][[cell]]
+[[div style="color: var(--text-color); border: var(--toc-border); background: var(--toc-background); box-shadow: var(--toc-box-shadow); padding: 0.1em 1.5em;"]]
+= **Table of Contents**
+[#code Code template]
+[#basic-example How to: Basic example]
+[#additional-properties How to: Separate "Additional Properties"]
+[#top-spacing How to: Enable top spacing]
+[#blue-hazards How to: Blue hazards]
+[#hazards-palette Hazards palette]
+[[/div]]
+[[/cell]][[/row]][[/table]]
+
+[[# code]]
+
+Here's the basic code:
+> @@[[div class="manual-hazards"]]@@
+> [[span style="background-color:green;color:white;"]]{TITLE (usually "Hazard Types" or "Additional Properties")}[[/span]]:
+> @@* [[@@image [[span style="background-color:green;color:white;"]]{HAZARD ICON URL}[[/span]]@@]][[span]]@@[[span style="background-color:green;color:white;"]]{HAZARD NAME}[[/span]]@@[[/span]]@@
+> @@* [[@@image [[span style="background-color:green;color:white;"]]{HAZARD ICON URL}[[/span]]@@]][[span]]@@[[span style="background-color:green;color:white;"]]{HAZARD NAME}[[/span]]@@[[/span]]@@
+> @@* [[@@image [[span style="background-color:green;color:white;"]]{HAZARD ICON URL}[[/span]]@@]][[span]]@@[[span style="background-color:green;color:white;"]]{HAZARD NAME}[[/span]]@@[[/span]]@@
+> @@[[/div]]@@
+
+Repeat the hazard line for however many hazards as you need. Be sure not to leave any blank lines in the hazards div. The title is optional; remove its line to leave the icons on their own.
+
+As you can see, the code is rather precise, so if formatting gives you trouble, this might not be for you. If you like to copy-paste, the [#hazards-palette hazards palette] at the bottom of the page will make writing these hazard blocks fast and easy.
+
+----
+
+++ How to: Basic example [[# basic-example]]
+
+Say our anomaly turns invisible when touched. With the old hazards component, Invisibility would always display first due to the internal order of hazards, even if you specified otherwise. With the new system, we can do this:
+[[div class="miniBlockquote"]]
+> @@[[div class="manual-hazards"]]@@
+> Hazard Types:
+> @@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]@@
+> @@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]@@
+> @@[[/div]]@@
+[[/div]]
+
+Which gives us:
+[[div class="content-panel"]]
+[[div class="manual-hazards"]]
+Hazard Types:
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]
+[[/div]]
+[[/div]]
+
+This might seem minor, but it can really add up as hazards accumulate. You'd be surprised how much you can communicate from the outset with only a set of well-ordered hazards. In the default order, the same hazards could just confuse.
+
+----
+
+++ How to: Separate "Additional Properties" [[# additional-properties]]
+
+To create a hazard block with a separate properties section, you must add a second @@[[div class="manual-hazards"]]@@; they don't combine into one.
+
+[[div class="miniBlockquote"]]
+> @@[[div class="manual-hazards"]]@@
+> Hazard Types:
+> @@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]@@
+> @@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]@@
+> @@[[/div]]@@
+> 
+> @@[[div class="manual-hazards"]]@@
+> Additional Properties:
+> @@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-animated.png]][[span]]Animated[[/span]]@@
+> @@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-organic.png]][[span]]Organic[[/span]]@@
+> @@[[/div]]@@
+[[/div]]
+
+This gives us:
+[[div class="content-panel"]]
+[[div class="manual-hazards"]]
+Hazard Types:
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]
+[[/div]]
+
+[[div class="manual-hazards"]]
+Additional Properties:
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-animated.png]][[span]]Animated[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-organic.png]][[span]]Organic[[/span]]
+[[/div]]
+[[/div]]
+
+----
+
+++ How to: Enable top spacing [[# top-spacing]]
+
+If you wish to recreate the "top-spacing" attribute of the old hazards component, it's easy.
+
+Instead of:
+> @@[[div class="manual-hazards"]]@@
+
+Use this:
+> @@[[div class="manual-hazards" style="clear: both;"]]@@
+
+Here's how it looks in action:
+[[div class="content-panel"]]
+[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[div class="manual-hazards" style="clear: both;"]]
+Hazard Types:
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]
+[[/div]]
+[[/div]]
+
+Compare to how it would look otherwise:
+[[div class="content-panel"]]
+[[f<image https://rpcauthority.wdfiles.com/local--files/component:icons/alpha-white.png]]
+
+**Registered Phenomena Code:** XXX
+
+**Object Class:** Alpha-White
+
+[[div class="manual-hazards"]]
+Hazard Types:
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]
+* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]
+[[/div]]
+[[/div]]
+
+If you use multiple hazards divs back-to-back (e.g. for a separate properties section), you only need to add this code to the first, whatever it may be.
+
+As this example demonstrates, the hazards system is receptive to custom CSS for advanced users.
+
+----
+
+++ How to: Blue hazards [[# blue-hazards]]
+
+Blue "updated" hazard icons, a la [[*user MrPines]], are possible with this system.
+[[div class="miniBlockquote"]]
+> @@[[div class="manual-hazards"]]@@
+> Hazard Types:
+> @@* [[image http://rpcsandbox.wikidot.com/local--files/mrpines/h-memory-alteration-2.png class="blue"]][[span]]Memory Alteration[[/span]]@@
+> @@[[/div]]@@
+[[/div]]
+
+This gives us:
+[[div class="content-panel"]]
+[[div class="manual-hazards"]]
+Hazard Types:
+* [[image http://rpcsandbox.wikidot.com/local--files/mrpines/h-memory-alteration-2.png class="blue"]][[span]]Memory Alteration[[/span]]
+[[/div]]
+[[/div]]
+
+The important part is adding class="blue" to the end of the image, which recolors the tooltip. Note that the blue icon still has to be created manually.
+
+----
+
+++ Hazards palette [[# hazards-palette]]
+
+Here are code equivalents for every hazard supported by the old hazards component as of writing. These are categorized and ordered by the [http://rpcauthority.wikidot.com/threats-hazards Threats and Hazards Code].
+
+If you can't find something, Ctrl+F (or your browser's text finding equivalent) is your friend. Triple-click a line to quickly select it.
+
+[[div class="blockquote miniBlockquote"]]
++ Hazardous Properties
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-aggression.png]][[span]]Aggression[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-ballistic.png]][[span]]Ballistic[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-climatological.png]][[span]]Climatological[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-geological.png]][[span]]Geological[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-grouped.png]][[span]]Grouped[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-invisibility.png]][[span]]Invisibility[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-psychotronic.png]][[span]]Psychotronic[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-sapient.png]][[span]]Sapient[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-sentient.png]][[span]]Sentient[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-transmutation.png]][[span]]Transmutation[[/span]]@@
+
++ Physical Hazards
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-biohazard.png]][[span]]Bio-Hazard[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-contact.png]][[span]]Contact[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-corrosive.png]][[span]]Corrosive[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-electromagnetic-force.png]][[span]]Electromagnetic Force[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-explosive.png]][[span]]Explosive[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-extreme-temperature.png]][[span]]Extreme Temperature[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-radiation.png]][[span]]Radiation[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-toxic.png]][[span]]Toxic[[/span]]@@
+
++ Reality Hazards
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-destabilization.png]][[span]]Destabilization[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-extra-dimensional.png]][[span]]Extra-Dimensional[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-gravitational.png]][[span]]Gravitational[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-temporal.png]][[span]]Temporal[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-teleportation.png]][[span]]Teleportation[[/span]]@@
+
++ Cognitive Hazards
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-auditory.png]][[span]]Auditory[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-emotional.png]][[span]]Emotional[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-ideological.png]][[span]]Ideological[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-infohazard.png]][[span]]Info-Hazard[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-memory-alteration.png]][[span]]Memory Alteration[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-mind-control.png]][[span]]Mind-Control[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-mind-regression.png]][[span]]Mind-Regression[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-sensory.png]][[span]]Sensory[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-visual.png]][[span]]Visual[[/span]]@@
+
++ Additional Properties
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-animated.png]][[span]]Animated[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-aquatic.png]][[span]]Aquatic[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-digital.png]][[span]]Digital[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-ecological.png]][[span]]Ecological[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-extra-terrestrial.png]][[span]]Extra-Terrestrial[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-immeasurable.png]][[span]]Immeasurable[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-incorporeal.png]][[span]]Incorporeal[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-mechanical.png]][[span]]Mechanical[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-microscopic.png]][[span]]Microscopic[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-organic.png]][[span]]Organic[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-regenerative.png]][[span]]Regenerative[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-titanic.png]][[span]]Titanic[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-tychokinetic.png]][[span]]Tychokinetic[[/span]]@@
+
++ Obsolete and Esoteric Hazards
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-replicating.png]][[span]]Replicating[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-newtonian.png]][[span]]Newtonian[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/component:icons/h-ontological.png]][[span]]Ontological[[/span]]@@
+@@* [[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/divine-hazard]][[span]]Divine[[/span]]@@
+@@* [[image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf-1-1/HallucinogeneHazard.png]][[span]]Hallucinogen[[/span]]@@
+@@* [[image http://rpcauthority.wdfiles.com/local--files/rpc-006-j/h-high-velocity.png]][[span]]High Velocity[[/span]]@@
+@@* [[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch1]][[span]]Proto-Mechanical[[/span]]@@
+@@* [[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch2]][[span]]Proto-Newtonian[[/span]]@@
+@@* [[image http://rpcsandbox.wikidot.com/local--files/another-fucking-google-chrome-sandbox/ch3]][[span]]Proto-Sapient[[/span]]@@
+[[/div]]
+

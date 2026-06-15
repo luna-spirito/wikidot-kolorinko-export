@@ -1,0 +1,47 @@
+---
+title: "Mi13front Base"
+tags: ["component"]
+page_id: "1460486080"
+site: "rpcauthority"
+slug: "component:mi13front-base"
+revision: 1
+revision_id: "1532643847"
+author: 2947029
+timestamp: 1759551858
+---
+
+[[div style="border: 2px solid silver; padding: 15px; margin: -1px 3px;"]]
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/progression-page-ii/ClassifiedSymbol.png width="35%"]]
+ 
+[[=]]
+++ {{__PROPERTY OF HER MAJESTY'S GOVERNMENT__}}
++++++ [[span style="color: red;"]]{{CLASSIFIED INFORMATION}}[[/span]]
+[[/=]]
+ 
+@@ @@
+ 
+{{The following information has been communicated in confidence with various ministries and departments that have been authorised to be briefed under a need-to-know basis, or have been exclusively authorised by a Chief of Department.}}
+ 
+{{Unauthorised access or release of sensitive materials without the agreement of Her Majesty's Government is a criminal offence under the Official Secrets Act of 1889.}}
+ 
+@@ @@
+ 
+= Current status of this file has been declared as:
+[[table style="margin-top: -10px; font-size: 8px"]]
+[[row]]
+[[cell style="width:50%;"]]
+> @@ @@
+> = [[span style="color: {$color}; font-size: 350%;"]]{{**{$level}**}}[[/span]]
+> @@ @@
+[[/cell]]
+[[cell style="width:0px;"]]
+[[/cell]]
+[[cell style="width:50%;"]]
+> [[=image {$sign} style="height: 50px; filter: invert(91%)"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+

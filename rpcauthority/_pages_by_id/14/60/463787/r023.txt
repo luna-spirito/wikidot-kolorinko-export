@@ -1,0 +1,560 @@
+---
+title: "No. 0288"
+tags: ["document", "goi-doc", "mi13"]
+page_id: "1460463787"
+site: "rpcauthority"
+slug: "no-0288"
+revision: 23
+revision_id: "1543156945"
+author: 4330657
+timestamp: 1775498914
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Silver Remembrance[[/span]]
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:mi13-theme/code/1);
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+.page {
+background-color: var(--secondary-background);
+color: #C0C0C0;
+font-family: times;
+font-size: 15px;
+border: solid 1px #808080;
+margin: 0 auto; padding: 10px 30px;
+rgba(0,0,0,.30);
+}
+
+.catalogue {
+background-color: #191b1f;
+color: #C0C0C0;
+padding: 5px 20px;
+border: 1px solid #363636;
+}
+
+/* mobile support */
+@media screen and (max-width: 480px) {
+  .responsive-container {
+    width: 100%;
+    font-size: 0.8em;
+    padding: 0; 
+    margin: 0;
+  }
+}
+
+.yushka {
+    position: relative;
+    display: block;
+    font-family: Caveat, cursive;
+    font-size: 18px;
+    color: black;
+    padding: 0px 20px 10px 60px;
+    border: 2px solid #404040;
+    border-radius: 10px;
+    box-shadow: -2px 3px 10px 0px #000000;
+    overflow: hidden;
+    transform: translate(4px, 7px) rotate(1deg);
+
+    /* Paper background stripes */
+    background-color: #f5f5f5;
+    background-image: linear-gradient(to top, rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-size: 100% 20px;
+    background-repeat: repeat;
+}
+
+/* Notebook holes*/
+.yushka::before {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: black;
+    box-shadow:
+        0 30px black,
+        0 60px black,
+        0 90px black,
+        0 120px black,
+        0 150px black;
+}
+
+/* prevents hover zoom on mobile */
+@media (max-width: 480px) {
+    .image-block.block-right img.enlarge-true {
+        width: 120px !important;
+        max-width: 120px !important;
+        transform: none !important;
+    }
+}
+
+[[/module]]
+
+[[include component:rate]]
+
+[[tabview]]
+[[tab Document No. 0288]]
+
+
+[[include component:mi13top
+|fileno=0288
+|station= Norwich Station
+|location= Ms. Yushatyr
+|status= displayed
+|date=02/06/2025
+|risk=minimal
+|title=Silver Remembrance]]
+
+
+[[include component:mi13image2 width=270px|align=right
+|image=http://rpcsandbox.wikidot.com/local--files/sophia-1/TheLocket.png
+|card=fig.1
+|caption=**Artefact Notes:**
+|note=-Oval; gold scrolls on black enamel ground.
+-Shield-shaped panel in centre with rosette in green and blue.
+-The locket is an openwork mirror.
+|show=show]]
+
+++ Safety Procedures
+
+Artefact No. 0288 remains under the custody of MI-13 Junior Investigator Yushatyr. Historical assessment indicates that neither the artefact nor its associated entity presents any substantive risk to Monarch Security operations. On the contrary, the entity has consistently contributed to the agency’s objectives for over a century.
+
+Although formally classified as an artefact, MI0288-01 has been recognised as a serving member of Monarch Security since her acquisition in 1898. She holds an established and respected position within His Majesty’s Subjugation Office (HMSO) and the Royal Congregation of Sorcerers (RCS), and is to be afforded the courtesies expected of a senior officer.
+
+In recognition of her long-standing service, MI0288-01 is granted the full privileges of an agency staff. These include salaries, insurance and welfare benefits, access to training and development programs, entitlement to annual leave, and the right to judicial representation through the agency’s union in the United Kingdom.
+
+Special accommodations have been made for MI0288-01’s apparitional nature, including the provision of silver-backed mirrors and spectral-motion-sensor camera systems to make her presence visible to personnel, as well as spectral microphones for clear auditory communication. Per MI0288-01’s request, financial support is extended to her custodian, Yushatyr, to fund her education, training, and approved projects under the supervision of MI-13.
+
+------
+
+++ Synopsis
+
+[[include component:mi13image2 width=270px|align=right
+|image=http://rpcauthority.wdfiles.com/local--files/no-0288/SophiaMirror.png
+|card=fig.2
+|caption=**Entity Notes:**
+|note=-Apparition; maintains its original human form.
+-Minor discolourisation associated with tuberculosis.
+-Can only be seen through mirror reflections.
+|show=show]]
+
+As seen in {{Fig.1}}[[footnote]] Image taken from the [https://www.britishmuseum.org/collection/object/H_WB-170 © The Trustees of the British Museum.] Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.[[/footnote]] MI0288 is an oval-shaped locket crafted from silver, features identical faces adorned with intricate gold scrolls against a backdrop of black enamel. The artefact is mainly composed of porcelain enamel, engraved and adorned in gold, pearl, and diamond. Inside the artefact is a silver mirror that displays a normally blurred reflection.
+
+The artefact passively emits a faint field of spirituality on an 8 m diameter surrounding it, protecting subjects from auditory and transitory curses, as well as moderate malevolent influences. Participants report feeling either a sense of serenity or ease while in MI0228's area of effect.
+
+Periodically, an apparition designated MI0288-01 appears on the reflection of the mirror ({{Fig.2}}). The entity would usually be seen standing next to the participant's reflection or sitting idly by, sometimes holding a silver utensil. The apparition manifests as a Caucasian woman in her early thirties, exhibiting pallor and marked malnourishment, characteristic of the “consumptive look” associated with incipient pulmonary tuberculosis.
+
+The entity most commonly manifests in a European nightgown characteristic of the late 17th century. On occasion, however, she exhibits the ability to replicate the attire and personal belongings of those around her. These manifestations are illusory in nature, being an extension of MI0288’s own body rather than independent objects. Surrounding MI0288-01 are translucent ribbons of silver mist that are purported to be the residue of spirits and thaumaturgic properties the entity has absorbed throughout her two centuries of operative service.
+
+If MI0288 is placed near a silver mirror for 4–6 minutes, entity MI0288-01 may fully materialise from the mirror’s reflection. Its image vanishes immediately if the mirror is covered, cracked, or otherwise disturbed. In other reflective surfaces, such as glass, metal, or water, MI0288-01 manifests as an indistinct silver cloud of a vaguely humanoid shape before turning into a clearer form after approximately half an hour. 
+
+MI0288-01 is capable of physically interacting with other entities within reflective surfaces. Participants can hear her voice and feel her touch through the reflection, though direct interaction with her remains impossible. If MI0288-01 attempts to inflict harm, participants experience the associated pain in their physical bodies, yet no physical wounds manifest in reality. Instead, the injuries appear solely within the reflection as illusory marks.
+
+It is speculated that MI0288-01’s touch interfaces directly with a subject’s spiritual essence. This interaction appears to induce corresponding neural responses, producing the sensation of physical contact or pain despite the absence of actual bodily harm. While harmless to living material beings such as humans, this property is highly effective against other spiritual entities, including incorporeal anomalies and malevolent influences.
+
+[[include component:mi13classified]]
+[[/tab]]
+[[tab Acquisition]]
+
+[[include component:mi13adden
+|title= Acquisition
+|sender= Codicesia, RCS
+]]
+
+++ History
+
+MI0288 was crafted in 1616 by the Nuremberg goldsmith and thaumaturgist Corvinianus Saur for Amelia Brown (1610–1679), an illegitimate descendant of the Boleyn family. Her lineage traces back to George Boleyn, brother of Queen Anne Boleyn, the second wife of King Henry VIII.
+
+The object was originally commissioned as a birthday gift for her estranged elder sister, Sophia Boleyn (1599–1633), but Sophia died of tuberculosis before the piece was completed. According to Saur’s surviving accounts, Amelia instructed that //“the locket be fashioned in the likeness of my sister’s soul, that it might never fade.”//
+
+The House of Boleyn was rumoured to have practised a now-lost thaumaturgic art known as Silver Remembrance, a discipline said to allow practitioners to imprint memories, emotions, and even thaumaturgic signatures onto silver surfaces. Though dismissed by most scholars of the time, such techniques were whispered about in thaumaturge circles during the reign of Elizabeth I. Saur, intrigued by the commission, crafted a pair of mirror earring lockets, said to contain remnants of Silver Remembrance.
+
+The lockets remained in the possession of Boleyn descendants until the late 19th century. According to MI0288-01, the remembrance property of the second earring has lost its essence and transported its spirituality to the MI0288 artefact, which is currently under Monarch Security's display.
+
+------
+
+++ Acquisition Notes
+
+MI0288 was an important heirloom of the Boleyn family for centuries, up until the earrings were mistakenly sold off to the Rothschild family in 1799. Baron Ferdinand Rothschild sent the locket and nearly 300 other antique artefacts to the British Museum, which catalogued and curated the items for anomalous appraisal. MI0288, together with **█** other artefacts, was identified as anomalous and subsequently transferred to various Monarch Security stations. Since then, MI0288 has remained under custody of Norwich Station.
+
+[[include component:mi13adden-end]]
+
+[[/tab]]
+[[tab Attachment-01]]
+
+[[include component:mi13adden
+|title=Projects
+|sender= MI13, Civil Service Commission
+]]
+++ Project Outline
+MI0288 was first assigned as a sentry at Norwich Station in 1922 and routinely deployed for field missions throughout Norfolk County. As of October 2022, however, MI0288-01 formally requested a reassignment of her occupation in order to assume a mentorship role for one of RCS’s young thaumaturges. MI0288 is presently under the supervision of Codicesian “Yushatyr” and continues to accompany her during active field operations.
+
+[http://rpcauthority.wikidot.com/monarch-security-personnel#yushatyr + Yushatyr's Personnel File]
+
+When MI0288 was first transferred to Norwich Station, most custodians struggled to engage productively with MI0288-01. Madame Sophia Boleyn remained aloof in the presence of staff, distant and uncooperative until her first encounter with Yushatyr. While the girl polished the locket’s silver according to Sakha silversmithing rites, MI0288-01 remarked upon her skill and, in an unexpected turn, declared her worthy of becoming a protégé.
+
+Since then, MI0288-01 has referred to Yushatyr explicitly as her “apprentice,” and requested that Yushatyr be transferred from the Codicesia to the Commission for Thaumaturgy as part of her training. In formal recognition of this singular rapport, custodianship of MI0288 was placed directly under Yushatyr’s charge.
+
+[[include component:mi13adden-end]]
+
+
+[[/tab]]
+[[tab Attachment-02]]
+[[include component:mi13adden
+|title=Interview 21/11/2022
+|sender= Commission for Thaumaturgy, MI13
+]]
+
+**Foreword:** The following record is a section of Yushatyr's first lesson with MI0288-01.
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title= A Lesson in Experimental Ritual
+|interviewed= MI0288-01
+|interviewer= Yushatyr
+|date= 21 November, 2022
+]]
+
+**Yushatyr:** (//Adjusting the locket on the table//) Evening, Madame. I—I cleaned it. Silver, it shines, da? Good.
+
+**MI0288-01:** (//Merging in the mirror, silently laughing//) Your hand is deft. Most here scrub as though they scour a pot. But you handle it with care, and that is far finer.
+
+**Yushatyr:** When I visit Ebe, she teach me about metal-making from Yakutsk. Silver is alive. If you treat it wrong, it, nuuu... [[span style="font-family: helvetica, sans-serif;"]]как сказать?[[/span]] ##8f8f8f|how to say?## (//Yushatyr furrows her brow.//) //It grows angry.// Ebe, she teach me. Silver is like moon, it is beautiful, so the more beautiful, the stronger the magic.
+
+**MI0288-01:** A curious belief, yet I see truth in it. In my youth, silver was the very breath of our house. I say our cultures have a rather similar view of silver and its correspondence to the moon. It is the soul's mirror, which reflects the divine golden sun. This wonderful metal has guarded us as surely as the Lord's prayer. (//Sigh//) Yet my family has mostly used these silver to make magic "good luck silverware". 
+
+**Yushatyr:** (//Giggles//) I think, British spoon and fork is cool.
+
+**MI0288-01:** Positive? I say it is an insult. And not just because I myself am made of silver now (//chuckles//). Few now see me as aught but a curiosity, yet the way you look at me, //it’s—well//—(//laughs//)
+
+**Yushatyr:** (//Flustered//) I—I don’t understand.
+
+**MI0288-01:** //Oh, don’t fret,// **████**. I simply enjoy your company. You remind me of my dear little sister.
+
+(//Yushatyr is silent.//)
+
+**MI0288-01:** (//Smiling, MI0288-01 moves on to reflect another mirror.//) Now, about your apprenticeship. Seeing as the Royal Congregation has graciously permitted you some hands-on field experience, I suppose that places you squarely under my responsibility. //My, it has been quite some time since I last took on an apprentice.//
+
+**Yushatyr:** When was the last time?
+
+**MI0288-01:** Hm, not so exceedingly long ago. Perhaps it's been some sixty years past, when Sir Ferris[[footnote]] Sir Theodore Benjamin, the 26th Grand Sorcerer of the Royal Congregation. [[/footnote]] was but a young boy. Though between us, I taught him little compared to what I anticipate teaching you. He was a busy man even back then. 
+
+**Yushatyr:** Sixty years... [[span style="font-family: helvetica, sans-serif;"]]Шестьдесят лет назад, это было очень давно.[[/span]] ##8f8f8f|Sixty years, that was a very long time ago.##
+
+**MI0288-01:** I suppose it is. Time seems to pass me by so quickly; I suppose, it must be understood that an image of my soul everlasting is now bound to this mirror's health. For as long as it remains unshattered, so will I.
+
+**Yushatyr:** Image of soul? 
+
+**MI0288-01:** Well, I suppose it must be stated that I am merely a copy of the original Sophia Boleyn's soul. I am not the real her. And, //my,// so many other spirits are a part of me now, I'm no longer comparable to my real counterpart.
+
+**Yushatyr:** But if you are just copy. Your soul can... [[span style="font-family: helvetica, sans-serif;"]]твоя душа может… погибнуть после смерти.[[/span]] ##8f8f8f|Your soul may... perish after death.##
+
+**MI0288-01:** (//Noticing Yushatyr's distress, MI0288-01 shakes her head.//) Nonsense, dear pet. I am confident the good Lord will see fit to make allowance for two Sophia Boleyns in heaven, wouldn’t that be nice, Yushatyr? We ought to have tea together with Amelia there. (//Places a hand on her shoulder.//) See that your own life is replete with virtue, and perhaps one day we shall meet again in that blessed kingdom.
+
+(//Yushatyr down, then nods, smiling.//)
+
+**MI0288-01:**  I have seen many centuries pass by, young boys grow to old men, kingdoms rise and fall… I remember it all, for memories are the very essence of what I am made of. And I've consumed my share of the spirits of the past (//chuckles//). And yet… I do wonder if you are fully prepared for the path that lies before you.
+
+**Yushatyr:** Yes. Not just to clean, but to… understand. You, your art. If you teach, I will listen.
+
+**MI0288-01:** (//Smiles//) Then apprentice you shall be. Your heart is steady, I can feel it. We shall see if your memory proves as true as your hand. Oh, little **████**, you have much to learn. 
+
+(//MI0288-01 pats Yushatyr's head in the reflection.//) 
+
+**MI0288-01:**  I’m sure you’ll be a great magician.
+
+**Yushatyr:** (//Yushatyr looks down to hide her blush//) Y-yes... [[span style="font-family: helvetica, sans-serif;"]]Спасибо.[[/span]] ##8f8f8f|Thank you.##
+
+(//MI0288-01 inspects the engraving tools Yushatyr prepared, nodding approvingly.//)
+
+**Yushatyr:** I bring notebook. But, ehhh... writing English slow. Russian faster. You not mind?
+
+**MI0288-01:** (//Tilts her head//) Write as you please, dear. Language is only the vessel for thought. The meaning remains, no matter the tongue.
+
+**Yushatyr:** But ebe says... every language have different feelings. (//She looks down//) [[span style="font-family: helvetica, sans-serif;"]]Каждый язык имеет свою эстетику. В письме одна, в речи другая. Звуки, формы слов, даже паузы, всё создаёт разное чувство. Английский течёт как река, русский как ветер по степи.[[/span]] ##8f8f8f|Each language carries its own aesthetic. In writing, one. In speech, another. The sounds, the forms of words, even the pauses, all create a different feeling. English flows like a river, Russian like wind across the steppe.##
+
+**MI0288-01:** (//MI0288-01 takes a moment to comprehend Yushatyr's Russian.//) Hm, keen observation. Your grandmother speaks with wisdom. Perhaps remembrance itself will shape differently when wrought in your own tongue. And perhaps that difference will prove a gift. (//Chuckles//) //I confess, I am rather eager to see.//
+
+**Yushatyr:** (//Relieved, scribbling quickly//) [[span style="font-family: helvetica, sans-serif;"]]Хорошо[[/span]]... ##8f8f8f|good...## 
+
+(//Yushatyr prepares the engraving ritual//)
+
+**Yushatyr:** (//Looks up//) What is the first lesson, Madame?  
+
+**MI0288-01:** First, you must learn to //see behind the reflection//. Not merely the shine of silver, but the histories it bear. Think of it like...  (//Gestures to the locket, which now has a blurry reflection//) Tell me, what do you see in its surface?  
+
+**Yushatyr:** (//Leans close, squints hard//) I see... mmm... small lines, circle like flower. Not mistake, da? Someone make with knife—long ago.  
+
+**MI0288-01:** Bravo, my dear child. A rose in full bloom, wrought into silver by a hand long since returned to dust. A mirror may only show the fleeting present, but remembrance holds the image fast, preserving it in stillness, as if it were a portrait set in time. It’s like the—what do you call it, paraphotogapri--
+
+**Yushatyr:** Photography?
+
+**MI0288-01:** Yes, photography. Do you see?
+
+**Yushatyr:** I try. You teach, I... I promise, I remember.  
+
+**MI0288-01:** (//Chuckles.//) Then you are truly mine, apprentice.  (//Pauses, watching her//) Keep it well, Yushatyr, remember it well.
+
+**Yushatyr:** [[span style="font-family: helvetica, sans-serif;"]]Я сильная.[[/span]] ##8f8f8f|I am strong.## (//Nods firmly//) I carry.  
+
+**MI0288-01:** Now, Cornwall won't wait for long! Let us begin. Think of a memory.
+
+**Yushatyr:** Mmm...
+
+**MI0288-01:** //Any memory.//
+
+**Yushatyr:** ... (//Humming//)
+
+**MI0288-01:** Hm? Yes, music might work too. (//Hums along with Yushatyr//)
+
+**Yushatyr:** (//Singing//) [[span style="font-family: helvetica, sans-serif;"]]//Медленно минуты уплывают вдаль, встречи с ними ты уже не жди. И хотя нам прошлого немного жаль, лучшее, конечно, впереди. Скатертью, скатертью дальний путь стелется и упирается прямо в небосклон. Каждому, каждому в лучшее верится, катится, катится голубой вагон~[[/span]] ##8f8f8f|Slowly, the minutes float away; don’t expect to meet them again. And although we are a little sorry for the past, the best, of course, lies ahead. As a tablecloth, as a tablecloth; the long way is spread, tight into the horizon. Everyone, everyone, believes the best; rolling, rolling is, the blue train wagon~##//[[footnote]]Lyric from [[span style="font-family: helvetica, sans-serif;"]][https://www.youtube.com/watch?v=q1Y6bI-TyWU "Голубой вагон"][[/span]] (“The Blue Train Carriage”), featured in the Soviet animated film Shapoklyak [[span style="font-family: helvetica, sans-serif;"]](Шапокляк).[[/span]][[/footnote]]
+
+(//The silver locket glows faintly as MI0288's mist circles around the locket.//)
+
+**MI0288-01:** Why, pray, would you look at that?
+
+**Yushatyr:** B-but I wasn't done.
+
+[[/div]]
+
+[[div class="yushka"]]
+Мадам София доверяет мне. Надеюсь, я её не подведу. 
+Каждый день с ней это большая честь и счастье для меня.
+
+[[/div]]
+[[include component:mi13adden-end]]
+[[/tab]]
+[[tab Attachment-03]]
+
+[[include component:mi13adden
+|title=Projects
+|sender= MI13, Cornwall Institute
+]]
+
+[[include component:mi13image2 width=220px|align=right
+|image=finesilverwork.png
+|card=fig.4
+|caption=**Cornwall Institute**
+|note=Artefacts created by Yushatyr and MI0288-01 for the Cornwall Institute.
+|show=show]]
+
+++ Finalised Project
+
+As of October 2022, the primary task of Junior Investigator Yushatyr and MI0288-01 is to survey and appraise anomalous and thaumaturgic artefacts for MI-13’s Commission for Thaumaturgy. Their secondary task is to continue their work in silversmithing.
+
+As part of Yushatyr’s ongoing training, MI0288-01 and Yushatyr have collaborated with the Cornwall Institute to produce a range of silvercraft artefacts imbued with basic thaumaturgic effects. While rudimentary in nature, these items have been well received by the staff at Norwich Station.
+
+The following artefacts are currently on display:
+
+[[div class="responsive-container"]]
+||~ **Date** ||~ **Name** ||~ **Description** ||~ **Notes** ||
+|| 09 Oct 2022 || Ring of Good Health || A plain silver ring that glows faintly when the wearer’s heartbeat stabilises. || //Simple, but cherished as Yushatyr's very first project.// ||
+|| 01 Feb 2023 || Bell for Ghosts || A small silver bell that can be physically rung by incorporeal entities. || //A rather useful charm. It allows me to announce my presence without startling the living.// || 
+|| 22 May 2023 || Silver Typekey || Modular silver buttons fitted to typewriters and keyboards that can be activated by incorporeal entities. Requires a significant reservoir of spirituality to function. || //Somewhat taxing, but I am putting it to good use.// ||
+|| 14 Jun 2023 || Evil-Detecting Amulet || A Cornish triskele amulet that faintly rings when it detects malevolent influences within a 4 m radius. Its effect is notably stronger when Yushatyr is nearby. || //Quite an advanced piece, though she accidentally engraved her own name on it instead of mine. I suppose I must forgive her.// || 
+|| 11 Nov 2023 || Incognito Seal || A seal stamp that lightly masks the thaumaturgic signature of any object sealed with silver-colored wax. || //An undeniably practical tool. Though the girl insists on using it to stamp her colleagues' foreheads, which was only amusing for a month.// || 
+|| 22 Apr 2024 || Evil-Repelling Amulet || A silver amulet that shields the wearer from glamours, compulsions, and dream-projections between 02:00 and 04:00 on Wednesday mornings. || //Yushatyr completely exhausted her own spiritual reserves to create this one. It's a miracle that its effect lasts as long as it does.// || 
+|| 15 Sep 2024 || Watcher’s Lantern || A small lantern with a silver candlestick inside that exhibits semi-autonomous behaviour. Its flame flares, leans, or dims to indicate the direction and proximity of hostile entities. Considered a prototype for portable devil-detection equipment. || //This creation earned little// **████** //an award from the Cornwall Institute. You should have seen how proud she looked.// ||
+[[/div]]
+
+[[div class="responsive-container"]]
+[[div style="position: relative; display: inline-block;"]]
+
+  [[div style="background: #cfc9ba; color: black; border: 2px solid #404040; 
+      box-shadow: 3px 5px 13px 1px #000000; padding: 10px; 
+      transform: translate(4px, 7px) rotate(359deg); font-family: georgia; 
+      max-width: 500px;"]]
+  [[size 120%]] __Attachment-03-02__ [[/size]]
+
+[[span style="margin-right: 30px"]]@@ @@[[/span]] Forgive the informality of this attachment, yet I must indulge myself in addressing a certain someone whom I know is reading this very file. It is with the greatest pleasure that I offer you my heartfelt congratulations on your triumph in the Cornwall Institute Youth Innovation Award.
+[[span style="margin-right: 30px"]]@@ @@[[/span]] I can scarcely imagine a soul more deserving. You have grown so very much. Your hands are surer now, your eye more discerning, and as for your spirit, your spirit shines brighter than any silver in the world. I ask that you hold this precious memory close to your heart in remembrance.
+
+  [[div style="text-align: right; "]]
+//Yours sincerely.//
+[[/div]]
+
+  [[/div]]
+
+  [[div style="position: absolute; top: 216px; right: 138px; 
+      transform: rotate(7deg); width: 140px; border: 2px solid silver; 
+      box-shadow: 3px 5px 13px 1px #000000; #cfc9ba;"]]
+  [[image http://rpcauthority.wdfiles.com/local--files/no-0288/Crocodile.jpg width="140px"]]
+  [[/div]]
+
+
+[[div style="
+  position: absolute;
+  top: 200px;
+  right: 260px;
+  width: 100px;
+  height: 100px;
+  transform: rotate(-15deg);
+"]]
+  [[image http://rpcsandbox.wdfiles.com/local--files/sophia-1/silverstamp.png width="105px" style="
+      filter: brightness(0.1) blur(6px);
+      position: absolute;
+      top: 3px; 
+      left: 3px;
+      z-index: 0;
+  "]]
+  [[image http://rpcsandbox.wdfiles.com/local--files/sophia-1/silverstamp.png width="100px" style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+  "]]
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+
+[[include component:mi13adden-end]]
+[[/tab]]
+[[tab Attachment-04]]
+[[include component:mi13adden
+|title= Curia Arcanum Hearing
+|sender= RCS
+]]
+
+**Foreword:** The following transcript was drawn from the 8th formal petition brought by MI0288-01 before the Curia Arcanum.[[footnote]] The judicial office of the RCS. It is the supreme court of thaumaturgic jurisprudence within the United Kingdom and the Commonwealth. Composed of High Magisters, magistrates, and appointed enforcers of the Commission for Thaumaturgy, the Curia Arcanum not only rules on matters of jurisprudence but also maintains the authority to conduct inquiries, trials, and the drafting of new legislation. [[/footnote]] Lady Sophia’s petition continues her long-standing campaign to recognize the rights of spectral entities and artefacts classified as “possessed.”
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[table style="background: silver; color: black; margin: 8px 0; width: 100%; height: 25px;"]]
+[[row]]
+[[cell style="text-align: center; vertical-align: middle; background: silver"]]
+**RESTRICTED**
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="border: 1px solid silver; padding: 0px 10px 20px 10px; "]]
+[[=]]
+[[=image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/RCS.png width="120px"]]
++++ Petition for Review of Spirit and Artefact Rights
+[[/=]]
+**Statement of:** MI0288-01
+
+**Curated by:** Julius Camden - Curia Arcanum Magistrate
+
+[[table style="margin-left: -2px; width: 100%;"]]
+[[row]]
+[[cell style="width: 65%"]]
+**Recorded by:** Sir Carousel - Thaumarch
+[[/cell]]
+[[cell style="width: 0"]]
+[[/cell]]
+[[cell style="width: 35%"]]
+**Date:** 10 May, 2025
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+**Sir Carousel:** The Curia calls MI0288-01, Lady Sophia Boleyn, to stand. You have petitioned the Curia for a hearing on the treatment of spectral entities and artefacts. As the 27th Grand Sorcerer of the Royal Congregation, I will be hearing your testimony... Lady Boleyn, you may proceed.
+
+**MI0288-01:** (//Materialises in the full-length mirror placed at the stand.//) Thank you, Sir Carousel. (//Curtsey//) I speak not merely for myself, on behalf of the voices that have yet to reach the Curia. I was given an opportunity to listen to many spirits bound to the relics and phantasms that your ledgers call //confined//, and I must emphasize many of these artefacts are not merely objects. Many of them are minds, memories, the echoes of lives. I find your treatment of these creatures to be inappropriate.
+
+**Camden:** Please, elaborate.
+
+**MI0288-01:**  //You leave them to gather dust, or cast them into the Gate as if they were objects to be put in storage.//
+
+**Camden:** Lady Sophia, Monarch Security is sworn to safeguard mankind. Confinement is our number one priority. And there is a difference between spirits and the human soul.
+
+**MI0288-01:** Human soul? And what of mine, Magister? (//Steps closer to the mirror.//) I am not an original human soul. I am a copy. If you call me human, it is only by courtesy. Do you call me such because I look pleasing to your eye?
+
+(//MI0288-01’s reflected image undergoes distortion, with bodily proportions elongating beyond human anatomical limits. Ocular regions recess into empty eye sockets.//)
+
+**MI0288-01:** Would you still call me human if I looked thus?
+
+**Camden:** (//Visibly uneas//y) Your appearance is not in question—
+
+**MI0288-01:** But it is. If I may be accorded rights because I look like a lady, then your judgment is vanity, not justice.
+
+**Sir Carousel:** Lady Sophia—
+
+**MI0288-01:** (//Returns to her baseline form.//) Forgive me, Carousel. (//Turns back to Camden//) But consider this: these artefacts, these spirits, were never given a chance. They are locked away, their histories never read, their words never heard. I myself was nearly left to rot in a glass cabinet until I was brought by the HMSO. 
+
+**Camden:** We cannot endanger the living for the sake of the dead. Many of these artefacts are volatile. We don’t have the unlimited expense of the Authority.
+
+**MI0288-01:** You… you would risk nothing, then. Better ignorance than danger?
+
+**Camden:** Our charge is to protect the Kingdom and her subjects. That is our first and highest law.
+
+**MI0288-01:** And what of the subjects who are no longer living?
+
+**Sir Carousel:** (//Clears throat//) Your honor, if I may, Lady Sophia’s service to the Crown has proven that even anomalous spirits may be reasoned with, and even be made allies. Perhaps… there is merit in what she says.
+
+**Camden:** Your petition will be taken under advisement. But understand, Lady Sophia, the safety of the living cannot be bartered.
+
+**MI0288-01:** I understand. But I shall not cease to speak for those who cannot.
+
+[[/div]]
+
+------
+
+[[collapsible show="+ Post-Petition Record" hide="- Close File"]]
+
+[[div class="blockquote" style="margin: 1em 0;"]]
+
+[[include component:mi13inv
+|title= Post-Petition Record
+|interviewed= MI0288-01
+|interviewer= Yushatyr
+|date= 11 May, 2025
+]]
+
+(//Yushatyr is in a Cornwall Institute laboratory, inserting sodium hydroxide drain cleaner into a silver-ammonia solution.//)
+
+**MI0288-01:** What is the latest project you are doing?
+
+(//Yushatyr steps back from the chemical solution and opens her respirator mask.//)
+
+**Yushatyr:** A mirror. Pure silver. I have been studying other silver apparitions and poltergeists. I think I know how to make your physical presence more--eh... physical.
+
+**MI0288-01:** You have a habit of crafting things that bring me closer to a physical presence. (//Sits down next to Yushatyr and pats her head.//) I wonder why that is?
+
+**Yushatyr:** (//Looks down, and swipes MI0288-01's hand away, flustered.//) How was the hearing?
+
+**MI0288-01:** Delayed, as it was ten years ago and ten before that. (//Sigh//) It took time to grasp that I am not human.
+
+**Yushatyr:** But you are human. I think the Curia is wrong. They cannot reckon what is and is not human. (//Shakes head//)  [[span style="font-family: helvetica, sans-serif;"]]Неа.[[/span]] ##8f8f8f|Nope.## I do not agree.
+
+**MI0288-01:** The RCS speaks from a place of law, and law fears uncertainty. That was true in my day, and it is true now.
+
+**Yushatyr:** For me, humanity is memory and care. If you remember and you cry and you keep other people's story, you are human--I think... [[span style="font-family: helvetica, sans-serif;"]]Ты понимаешь?[[/span]] ##8f8f8f|Do you understand?##
+
+**MI0288-01:** (//Chuckles//) That's quite a broad definition.
+
+**Yushatyr:** It's—eh—why do you doubt yourself about being human?
+
+**MI0288-01:** I don't deny it. (//Leans forward, palms flat on the table.//) Because I remember. Not only my own remembrance. I remember the hands that made this locket, the breath in a winter room, the lullaby hummed by a woman who never saw the ocean. Memory is the living of a life. If a life remembers, who are we to deny it human shape?
+
+**Yushatyr:** When I first arrived, I was ashamed. My family sent me away. I am far from Krasnoyarsk. People call you an artefact, and I felt small. I thought perhaps I chose the wrong company.
+
+**MI0288-01:** You chose to put your faith to its conclusion over ease. That is no small thing. You have learned to see what others dismiss.
+
+**Yushatyr:** Why did you choose me to be your apprentice?
+
+**MI0288-01:** (//Smiles//) God only knows. //I must have forgotten.//
+
+[[/div]]
+
+[[/collapsible]] 
+
+[[include component:mi13adden-end]]
+
+[[/tab]]
+[[tab Footnotes]]
+[[footnoteblock]]
+[[/tab]]
+[[/tabview]]
+
+[[include component:mi13tag
+|tag=Minimal, Displayed, Artefact
+]]
+

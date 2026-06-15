@@ -1,0 +1,192 @@
+---
+title: "GARD Theme"
+tags: ["theme"]
+page_id: "1468008806"
+site: "rpcauthority"
+slug: "component:gard-theme"
+revision: 2
+revision_id: "1541446560"
+author: 9161410
+timestamp: 1768661334
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:gard-theme/code/1);
+[[/module]]
+
+**Theme Import CSS:**
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:gard-theme/code/1);@@
+> @@[[/module]]@@
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+GARD (German Anomalous Research Division) Theme
+ 
+Created by Lukario_Dalmatian with code borrowed from the Research, Containment, and AEDF Themes!
+ 
+Credits to DoubleDenial and TTPY for their feedback
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+:root {
+
+/* PALLET SHEET */
+--primary-text-color: #8d4040;
+--nav-hover-background: #6a2f2f;
+ 
+/* BASE COLORS */
+ 
+/* Page Title */
+--page-title-color: #c94444;
+ 
+/* Header */
+--header-icon: url(http://rpcsandbox.wikidot.com/local--files/theme-gard/GARDLogo.png);
+--header-icon-adv: left 0em top 1.5rem no-repeat;
+--header-icon-size: auto calc(8rem - 1rem);
+--header-background: url(http://rpcsandbox.wikidot.com/local--files/theme-gard/GARDHeader.png);
+--header-tagline-color: #fff;
+--header-text-visibility: hidden;
+--header-custom-text: 'GARD';
+--header-font: 'Germania One';
+--header-tagline-custom-text: 'German Anomalous Research Division';
+--header-tagline-font: 'IBM Plex Sans';
+--header-tagline-left: 5px;
+--header-mobile-font-size: 170%;
+--header-font-size: 270%;
+--header-mobile-tagline-font-size: 81%;
+ 
+/* Search Bar */
+--search-button-background: #321b1b;
+--search-button-hover-background: #643636;
+--search-input-color: #4d3333;
+--search-input-hover: #682d2d;
+ 
+/* Link Colors */
+--link-color: #e33838;
+--link-hover-color: #e33858;
+--new-page-color: #dd6611;
+
+/* Rating Modules */
+--star-rating-hue: 150deg;
+
+/* Scrollbar Colors */
+
+--BT-resizer-background: #262524;
+--BT-scrollbar-thumb-background: var(--new-page-color);
+--BT-scrollbar-thumb-hover-background: #8c3636;
+ 
+/* Sidenote Color */
+--sidenote-open-background: #6b1f1f!important;
+--sidebar-crit-corner-color: #f08d8d;
+}
+
+/* Headers */
+
+h1 {
+    font-family: var(--header-font), sans-serif;
+    color: var(--primary-text-color);
+    font-weight: bold;
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #fff;
+}
+
+/* Icon Fix (Thx Double) */
+
+#header h1 a {
+    padding-left: 3.05em;
+    padding-top: 75px;
+}
+
+@media (max-width: 768px) {
+    :root { --header-tagline-left: 11px; }
+    #header {
+        background-position: 0 5em;
+        background-size: 70px;
+    }
+    #header h1 a {
+        padding-top: 85px;
+        padding-left: 3.25em;
+    }
+}
+
+/* WT Button Remover */
+
+.open-themes-container {
+    display: none;
+}
+
+/* GARD Document Div */
+
+.gard-document {
+    display: block;
+    border: solid 2px #000;
+    color: #42403a;
+    background: #f8f3e4 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper2.png);
+    background-blend-mode: multiply;
+    padding: 5px 15px;
+    margin: 15px 0 15px 0;
+    font-family: 'Courier Prime', monospace;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+.header {
+    background-image: url(http://rpcsandbox.wikidot.com/local--files/theme-gard/GARDSeal.png);
+    background-position: top 20px center;
+    background-size: 195px;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    margin-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    text-decoration: underline;
+    float: center;
+    text-align: center;
+    font-size: 160%;
+}
+
+.gard-document blockquote, .gard-document .blockquote {
+    background-color: #fff;
+    color: #000;
+    border: solid 1.5px #000;
+    box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+[[/code]]
+[[/collapsible]]
+
+[[collapsible show="+ GARD Document Div" hide="- GARD Document Div"]]
+[[div class="gard-document"]]
+> @@[[div class="gard-document"]]@@
+> Lorem Ipsum!
+> @@[[/div]]@@
+[[div class="header"]]
+German Anomalous Research Division
+[[/div]]
+> @@[[div class="header"]]@@
+> Lorem Ipsum!
+> @@[[/div]]@@
++ GARD Document
+-----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+[[/div]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+**Theme Import CSS:**
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:gard-theme/code/1);@@
+> @@[[/module]]@@
+

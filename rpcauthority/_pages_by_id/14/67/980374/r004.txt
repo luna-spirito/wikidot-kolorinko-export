@@ -1,0 +1,295 @@
+---
+title: "Site-008 Theme (Rework)"
+tags: ["theme"]
+page_id: "1467980374"
+site: "rpcauthority"
+slug: "component:site-008-v2-theme"
+revision: 4
+revision_id: "1544352057"
+author: 9161410
+timestamp: 1780204665
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:site-008-v2-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Open CSS Code" hide="– Close CSS Code"]]
+[[code type="css"]]
+/*
+Site-008 V.2 Official Theme
+Created by: Lukario_Dalmatian
+Based on: "Site-008" by Sinaticus (RPC Authority, 2019)
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+:root {
+    --blockquote-background: #13161a;
+    --blockquote-border: 1px solid #494949;
+    --blockquote-icon: url(http://rpcsandbox.wikidot.com/local--files/silly-code/Site008_BLogo4.png);
+    --header-background: url(http://rpcsandbox.wikidot.com/local--files/silly-code/Site008_BG.png);
+    --header-text-visibility: hidden;
+    --header-color: #f1f1f1;
+    --header-tagline-color: #f1f1f1;
+    --header-custom-text: 'Site-008 Database';
+    --header-tagline-custom-text: 'Non solum nobis ipsis, sed omnibus.';
+    --header-icon: url(http://rpcsandbox.wikidot.com/local--files/silly-code/Site008_Logo2ALT.png);
+    --search-button-hover-background: #3868c0;
+    --search-input-hover: #f1f1f1;
+    --link-color: #3374ea;
+    --link-hover-color: #5991f7;
+    --new-page-color: #254f9e;
+    --page-title-color: #f1f1f1;
+    --sidenote-open-background: #3374ea!important;
+    --star-rating-hue: -20deg;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+#header h1 a::before {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-decoration: none !important;
+    text-shadow: 2px 2px 4px #222;
+}
+
+#header h2::before {
+    font-family: 'Tomorrow', sans-serif;
+    text-shadow: 2px 2px 4px #222;
+    font-style: italic;
+}
+
+#page-title {
+    font-family: 'Tomorrow', sans-serif;
+    text-align: center;
+    border-bottom: #f1f1f1 dashed;
+}
+
+blockquote {
+    border: var(--blockquote-border);
+    background-color: var(--blockquote-background);
+    background: var(--blockquote-icon);
+    background-position: center;
+    background-size: 230px;
+    background-repeat: no-repeat;
+    color: var(--text-color);
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #e6e6e6;
+    box-shadow: 0.5px 1px 3px #1e1e1e;
+    text-shadow: 1px 1px 3px #000;
+    background: rgba(0,0,0,0.25);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+#login-status a {
+    color: var(--text-color);
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav{
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0 auto;
+}
+ 
+.yui-navset .yui-nav li,
+.yui-navset .yui-navset-top .yui-nav li{
+     position: relative;
+     display: flex;
+     flex-grow: 2;
+     max-width: 100%;
+     margin: 0;
+     padding: 0;
+}
+ 
+.yui-navset .yui-nav li a,
+.yui-navset-top .yui-nav li a,
+.yui-navset-bottom .yui-nav li a{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 100%;
+}
+ 
+.yui-navset .yui-nav .selected a {
+     margin-right: none;
+}
+ 
+.yui-navset .yui-nav .selected {
+    margin: 0 0em 0 0;
+}
+ 
+.yui-nav li.selected em {
+    /* top: -1px!important; */
+    border: 0px solid transparent!important;
+}
+
+ 
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-size: 90%;
+    margin: 0;
+}
+ 
+.compactTabview .yui-navset .yui-nav, .compactTabview .yui-navset .yui-navset-top .yui-nav {
+    margin: none!important;
+}
+ 
+.sideTabviewMini .yui-navset .yui-nav {
+    border: none!important;
+}
+ 
+.sideTabviewMini .yui-navset .yui-content {
+    border-top: var(--tabview-border)!important;
+}
+ 
+.yui-navset .yui-nav li a, .yui-navset-top .yui-nav li a, .yui-navset-bottom .yui-nav li a {
+    width: 100%;
+}
+ 
+.sideTabview .yui-nav li a em {
+    width: 100%;
+}
+
+#side-bar .menu-item > a:hover {
+    background: #2566dd !important;
+}
+ 
+#side-bar .heading{
+    border-color: #4f92ff;
+    margin-left: -6px;
+}
+ 
+#page-options-container {
+    margin-top: 0.5rem;
+    padding-bottom: 1rem;
+}
+ 
+#page-info {
+    border-top: .1rem solid #c0c0c0;
+}
+ 
+.page-watch-options {
+    font-size: 0.85rem;
+    padding-bottom: 0.25rem;
+}
+ 
+div[id*=page-options-bottom] {
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 0.25rem;
+    margin: 0.25rem 1rem 0;
+    padding: 0;
+}
+ 
+div[id*=page-options-bottom] > a {
+    flex: 2 0 auto;
+    color: var(--link-color);
+    border: 2px var(--link-color) solid;
+    transition: background 0.3s;
+    display: flex;
+    line-height: 1;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    text-decoration: none;
+    padding: 0 0.25rem;
+    margin: 0;
+}
+ 
+div[id*=page-options-bottom] > a:is(:hover, :active) {
+    color: 000;
+    border: 2px var(--link-hover-color) solid;
+    background: var(--link-hover-color);
+}
+ 
+#site-tools-box {
+    padding-top: 2rem !important;
+}
+ 
+.page-options-bottom {
+    margin: 1rem 0;
+    padding: 0;
+    display: flex;
+    grid-gap: 0.5rem;
+}
+ 
+.page-options-bottom ul,
+.page-options-bottom li {
+    display: contents;
+}
+ 
+.page-options-bottom a {
+    flex: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--link-color);
+    border: 2px var(--link-color) solid;
+    text-decoration: none;
+    transition: background 0.3s;
+    height: 2rem;
+}
+ 
+.page-options-bottom a:is(:hover, :active) {
+    color: 000;
+    border: 2px var(--link-hover-color) solid;
+    background: var(--link-hover-color);
+}
+ 
+#st-action-area {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    overflow-wrap: anywhere;
+}
+
+.page-options-bottom a {
+    color: var(--link-color);
+    border: 2px var(--link-color) solid;
+}
+ 
+.page-options-bottom a:hover {
+    color: #000;
+    border: 2px var(--link-hover-color) solid;
+    background-color: var(--link-hover-color);
+}
+ 
+#delete-button:is(:hover, :focus, :active) {
+    border: 2px rgb(255,48,48) solid;
+    background-color: rgb(255,48,48);
+}
+
+.open-themes-container {
+    display: none;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

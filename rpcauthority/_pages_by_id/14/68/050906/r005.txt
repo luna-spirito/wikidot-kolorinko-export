@@ -1,0 +1,468 @@
+---
+title: "RPC-846"
+tags: ["animated-hazard", "grouped-hazard", "mechanical-hazard", "organic-hazard", "research-tone", "rpc", "sentient-hazard", "transmutation-hazard", "utility", "yellow"]
+page_id: "1468050906"
+site: "rpcauthority"
+slug: "rpc-846"
+revision: 5
+revision_id: "1541674863"
+author: 7013424
+timestamp: 1769774252
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:site-070-theme/code/1);
+
+[[/module]]
+
+[[include component:rate]]
+
+
+[[table style="height: 90px"]]
+[[row]]
+[[cell style="width: 41px"]]
+
+[[/cell]]
+[[cell style="width: 50px"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/entity-yellow.png style="margin: -10px -46px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]][[/span]][[/span]]
+[[span class="tooltip"]] [[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Utility.png style="margin: -15px 0px; height: 45px"] class="tooltip"]] [[span class="tooltiptext"]]Secondary Class:
+##004FFF|Utility##[[/span]][[/span]]
+[[/cell]]
+[[cell]]
+
+**Registered Phenomena Code:** 846
+
+**Item Type:** Entity
+
+**Lethality Rating:** ##gold|Yellow## (##004FFF|Utility##)
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[include component:hazards |grouped=true|sentient=true|animated=true|transmutation=true|mechanical=true|organic=true]]
+------
++++ Abstract
+
+Model blueprint created by //Dr. Melania N. Camilleri// and //Dr. Ivan S. Barkov// in [[[Site-070]]]. An autonomous bronze guardian made in the female form. These models are surrounded by floral growth and capable of transmuting dead organic matter into various species of flora. These entities are colloquially referred to as “Little Nikushas.” Nearly indestructible and unfailingly obedient, they assist facility personnel in both sentry duties and domestic work.
+
+RPC-846's basic directive is as follows:
+> //You will be the guardian of our garden. Protect all that is beautiful, that is your directive.//
+
+------
++++ Safe-Handling and Usage
+Their main base of operation is the West Wing greenhouse, where their creation and maintenance are managed by Dr. Ivan S. Barkov. Should an RPC-846 instance model require repair or modification, refer to the instructional addendum later in the document.
+
+Each model’s bio-mechanical system requires both glucose and nitrogen for metabolic function, allowing it to process virtually any organic matter as sustenance. Its artificial mind will deteriorate and cease cognition without auditory stimuli. Thus, the maintenance of the item's internal music box is of top priority. 
+
+The RPC-846 models are assigned to serve personnel within the [[span style="background:#aaaaaa;"]]Suppression and Sustainment[[/span]] Department. Their capacity for [[span style="background:#aaaaaa;"]]higher thought and emotional experience[[/span]] is to remain classified and concealed from the general Authority. Each unit is authorized to bear and operate any [[span style="background:#aaaaaa;"]]standard-issue or custom weapon[[/span]] provided by supervising personnel, with the explicit exception of [[span style="background:#aaaaaa;"]]memetic and/or psychotronic-class weaponry[[/span]].
+
+[[collapsible show="+ Model Diagnostic" hide="- Model Diagnostic"]]
+If you are presented with a new RPC-846 model, or you have one that is broken, repeat the following diagnostic phrases to restart it. The model will rewind its cogwork on its own.
+
+> //Protect all that is beautiful.//
+> 
+> //Beauty is what nurtures the visionary's light.//
+> 
+> //Music is the language of the garden.//
+> 
+> //Sing and dance, for it is the visionary's will.//
+> 
+> //You are loyal to// {{[FULL NAME]}}
+> 
+> {{[FULL NAME]}} //is what nurtures the visionary's light.//
+> 
+> //Music is the language of the garden.//
+> 
+> //Sing and dance, for it is// {{[FULL NAME]}}//'s will.//
+> 
+
+Once the RPC-846 model is fully operational, it will emit a hum. Which can be heard below:
+[[include :snippets:html5player |type=audio |url=http://rpcsandbox.wdfiles.com/local--files/gardenmaid/nikaslulluby.mp3]]
+[[/collapsible]]
+
+The RPC-846-1 mainframe, which modulates RPC-846's internal intelligence, is to be secured and maintained by private Counsel Department personnel. Any RPC-846 model that discovers this room will remove all of its previous directives to watch over RPC-846-1, so it is ill-advised to introduce the room to any more than the 12 units already guarding it.
+
+The Scholar’s Influence does not affect RPC-846 or RPC-846-1 in any substantial way. It is therefore advised that the models not be deconstructed for research or engineering purposes without the supervision of Dr. Melania Camilleri.
+------
+[[include component:image-enlarge name= http://rpcauthority.wdfiles.com/local--files/rpc-846/nikusha.png|width=400px|caption=RPC-846 models in storage (Suppression Department). They are equipped with nullifier swords.]]
+
++++ Description
+
+A bio-mechanical thaumaturgic automaton engineered by Senior Researchers Dr. Melania Camilleri and Dr. Ivan Barkov. The original RPC-846 model was made after the image of assistant researcher [[span style="background:#aaaaaa;"]]Nika Petrova[[/span]] to serve as her companion. Since then, derivative models have been made and customized for additional tasks. 
+
+RPC-846 was constructed using material and analytical samples derived from [[[RPC-022]]],[[footnote]] **RPC-022**
+[[include component:image-enlarge name= http://www.rpc-wiki.net/local--files/rpc-022/RPC.png|align=left|width=100px|caption= RPC-022 on its pedestal.]]
+**Object Class:** Beta-Yellow (Utility)
+
+RPC-022 is a late Roman Empire-era marble statue of an unnamed soldier. It is animate and sapient, and is capable of expert combat and speech. It expresses strong loyalty to the Authority, which it refers to as the "Vanguard of Hercules."
+ [[/footnote]] [[[RPC-224]]],[[footnote]] **RPC-224**
+[[include component:image-block name= http://www.rpc-wiki.net/local--files/rpc-224/Crcle.jpeg|align=left|width=100px|caption= Manuscript for the Magic Circle of Infinity]]
+**Object Class:** Alpha-Yellow
+
+RPC-224 is a CD of George Crumb's Makrokosmos 1 with the words “For Plato” written in cursive writing by a felt tip pen.  Any subject listening to the Act 2 Song 8, titled "The Magic Circle of Infinity will start bending structures and objects after 5 seconds or more of staring.
+ [[/footnote]] and [[[RPC-550]]].[[footnote]] **RPC-550**
+[[include component:image-enlarge name= http://rpcauthority.wikidot.com/local--files/rpc-550/550.jpg|align=left|width=100px|caption= A rat parasitized by RPC-550-A.]]
+**Object Class:** Beta-Red
+
+**Abstract:** RPC-550 is the sapient, animate cadaver of a female child. Different species of small flora can be seen extruding from the entity’s body. RPC-550‘s eyes are filled with a black, acidic substance. When a subject makes physical contact with RPC-550, a random species of flora, designated RPC-550-A, will begin to grow out of the inside of the subject until the subject is terminated.
+ [[/footnote]] Its shell is made of a copper-alloy that's been self-nullified, making it virtually indestructible. Beneath its shell is a mechanical endoskeleton overlaid with synthetic muscle tissue composed primarily of starch.
+
+The biological component of RPC-846 originates from the blood of RPC-550. Each instance possesses a circulatory system filled with synthetic blood, synthesized from a universal RPC-550-A substance. Under the effects of the //Scholar’s Influence//, the biohazardous properties of this substance are neutralized, allowing for safe internal function. It gains sustenance through absorbing dead organic matter; the residue of its feed later blooming into various species of floral growth.
+
+RPC-846’s brain analogue [[span style="background:#aaaaaa;"]]operates through a thaumaturgic engine housed within a modified music disc, which continuously[[/span]] relays a melodic hum. This melody incorporates the memetic resonance of RPC-224. The music enables the synthetic muscle fibers to contract and manipulate their bronze shell with fluid, lifelike motion. It is also with this system that RPC-846 is able to communicate with humans through rudimentary speech.
+
+Each RPC-846 instance’s intelligence processor is maintained by RPC-846-1, the central mainframe governing all units. RPC-846-1 is currently in an inert state and is encircled by a dense proliferation of floral growth originating from the entity itself, forming a small indoor garden.
+
+[[span style="background:#aaaaaa;"]]When properly nurtured, RPC-846 exhibits accelerated cognitive growth, including emotional expression, higher-order thought, and pain[[/span]].[[footnote]] This phenomenon is fully memetic, as RPC-846 has no neural tissue to facilitate it. [[/footnote]] [[span style="background:#aaaaaa;"]]These capabilities are attributed to floral growth derived from the brain tissue of Researcher Petrova, which has been implanted into every RPC-846 unit, allowing it to connect to the RPC-846-1 mainframe[[/span]]. [[span style="background:#aaaaaa;"]]With this system in mind, RPC-846 is able to mentally mature the same as a human[[/span]].
+
+The flora that grows around RPC-846 depends on the model's directive. These flora bloom at a rapid pace and will die after their current directive has either failed, changed, or completed. Likewise, the [[span style="background:#aaaaaa;"]]music disc[[/span]] inside RPC-846 will also change according to the directive. 
+
+||~ Directive ||~ Flora ||~ Review ||
+|| Domestic housework || //Lavandula// (Lavender) || RPC-846 can perform domestic housework such as cooking and cleaning. [[span style="background:#878787;"]]While cooking, it will instinctively attempt to brew coffee and won't register a complete directive until it's done[[/span]]. ||
+|| Monitoring and routine inspection || //Cerasus serrulata// (Cherry Blossom) || RPC-846 can perform monitoring and routine inspection without issue. It will, however, avoid threat unless given the means to protect itself. ||
+|| Architecture and engineering || //Lilium candidum// (White Lily) || RPC-846 is able to assist in architecture and engineering, but is unable to direct and follow architectural plans on its own. ||
+|| Documentation and calculation || //Rosa// (Red Rose) || RPC-846 can perform documentation and calculation without issue. Although it requires computers and calculators for mathematical mathematical subjects more complex than calculus II. ||
+|| Protection and offense || //Papaver somniferum// (Opium Poppy) || RPC-846 can perform monitoring and routine inspection without issue. [[span style="background:#878787;"]]Memetic and psychotronic weaponry has a risk of affecting the model's intelligence.[[/span]]  ||
+|| Companionship || //Tagetes// (Marigold) ||RPC-846 is ill-suited for social situations, [[span style="background:#878787;"]]as Nika Petrova was known to be timid[[/span]]. ||
+|| Self-destruction || //Taraxacum// (Dandelion) || RPC-846 is able to self-destruct without issue. ||
+
+------
+
++++ Addendum 1 - On Diagnostic Concerns
+
+[[span style="background:#aaaaaa;"]]At its most basic form, RPC-846's personality is identical to Researcher Petrova's[[/span]]. [[span style="background:#aaaaaa;"]]It is likely that, if left to their own devices, the models will recreate their original creator--a consequence of RPC-846's reliance on RPC-846-1[[/span]]. [[span style="background:#aaaaaa;"]]There have been concerns within the Engineering Department that their sapience will cause trouble within Site-070. This concern has been addressed, as recent models are affected by the diagnostic phrases[[/span]]. [[span style="background:#aaaaaa;"]]Should the diagnosis not work, a low dose of Class R Amnestics will suffice[[/span]].
+------
+
++++ Addendum 2 - Conception
+
+[[collapsible show="+ Audio archive (02/06/2005)" hide="- Audio archive (02/06/2005)"]]
+
+[[div class="blockquote"]]
+
+**Audio Record RPC-846 (02/06/2005)**
+
+**Recorded:** Dr. Ivan S. Barkov, [[span style="background:#aaaaaa;"]]Nika M. Petrova[[/span]], Dr. Melania N. Camilleri
+
+**Foreword:** Audio record translated from Russian.
+
+------
+[[=]]
+**<[BEGIN RECORD]>**
+[[/=]]
+------
+
+**Dr. Barkov:** You already know the girl, yes? Then please, come in, come in! (//Dr. Barkov presents Researcher [[span style="background:#aaaaaa;"]]Petrova[[/span]] to his colleague.//) 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** It's an h-honor to meet you all. 
+
+**Dr. Barkov:** This is the venerable [[span style="background:#aaaaaa;"]]Nika Mikhailovna Petrova[[/span]], assistant researcher from Site-115 in Sakha City. She has not yet received her Pupil’s mark, but that needn’t concern us. She’ll adapt to our customs very quickly. Won’t you, [[span style="background:#aaaaaa;"]]Nika Mikhailovna?[[/span]]
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Laughs nervously//) I… I cannot say I am so certain of that, Doctor Barkov. There are still many aspects of this site that make me uneasy.
+
+**Dr. Camilleri:** I understand. This place can be quite unnerving, doesn’t it?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Y-yes. All those watching things… 
+
+**Dr. Barkov:** Ah. Are you thinking of the Suppression Department? Then you may put your mind at ease. They have an interest only in anomalies and MSTs. Ordinary researchers are beneath their notice.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** It is not only that. I meant the Scholar’s influence.
+
+**Dr. Barkov:** Of course. Of course! You’re worried about the influence. And you’re right to be cautious. But believe me when I say this: his intentions toward you are entirely benevolent. With him standing watch, we exist beyond ordinary limits. Here, death is… not quite so final.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Forced chuckle//) Aha, what an ominous thing to say.
+
+**Dr. Camilleri:** Don't mind Ivan Sergeyevich here, he's a [http://rpcauthority.wikidot.com/rpc-571 clown]. They're known for saying silly things. Best not listen to the old man ramble on, lest you’re willing to fake interest for an hour and wear clown makeup like him. But, but--regardless of his obscenities, there is truth to what he implies. 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** I've heard that many of you die within this facility. That's what the data says at least.
+
+**Dr. Camilleri:** Data can be mistaken, my dear. The Authority understands very little of what occurs beneath the surface, let alone the surface. Ivan Sergeyevich here understands; no one truly dies here. But, enough philosophy. Tell me, [[span style="background:#aaaaaa;"]]Nika[[/span]]: what compelled someone like you to take an interest in Site-070? You do not strike me as the type.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** No-no, that is not it. I am not here to join Site-070. Only temporarily. I wished to conduct my project here. Engineering oversight is… suffocating elsewhere. The regulations—there are too many. Here, it is less restrictive.
+
+**Dr. Barkov:** Ah. Now that I understand. You are seeking freedom. This is good, very good. Knowledge is a delicate thing, for it bears fruit only in harsh climates. What colder place is there than Site-070?
+
+**Dr. Camilleri:** Cheers to that. Come, [[span style="background:#aaaaaa;"]]Nika[[/span]]. Let's discuss some of your ideas.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** I heard that Site-070 is able to request for samples from other sites? Both material and... analytical? 
+
+**Dr. Camilleri:** Analytical as in, data, dear. Not everything can be sampled physically, but there is more valuable information than complete material samples. 
+
+**Dr. Barkov:** Let me corroborate on that. [[span style="background:#aaaaaa;"]]Nika Mikhailovna[[/span]], tell me, what part of [[span style="background:#aaaaaa;"]]Nika[[/span]] makes her who she is? 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** It's my flesh and blood, is it not?
+
+**Dr. Barkov:** Then can we get the full idea of what a [[span style="background:#aaaaaa;"]]Nika Petrova[[/span]] is if we, say, built another one? Will that [[span style="background:#aaaaaa;"]]Nikusha[[/span]] be able to perform her duties as the sampled [[span style="background:#aaaaaa;"]]Nika[[/span]] does? 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Well--no. No, because that clone wouldn't have the same memories and experience as me. 
+
+**Dr. Barkov:** Exactly right! Yes, there in lies why analytical samples are so important here among the Research and Engineering Departments. If we made a robot with your memory and personality, that machine will do a far better job at being [[span style="background:#aaaaaa;"]]Nika Mikhailovna Petrova[[/span]] than the little [[span style="background:#aaaaaa;"]]Nikusha[[/span]], don't you think so? 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** I--I suppose that's true. 
+------
+[[=]]
+**<[END RECORD]>**
+[[/=]]
+
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="+ Audio archive (14/06/2005)" hide="- Audio archive (14/06/2005)"]]
+[[div class="blockquote"]]
+
+**Audio Record RPC-846 (14/06/2005)**
+
+**Recorded:** [[span style="background:#aaaaaa;"]]Nika M. Petrova[[/span]], Dr. Melania N. Camilleri
+
+**Foreword:** Audio record translated from Russian.
+------
+[[=]]
+**<[BEGIN RECORD]>**
+[[/=]]
+------
+
+(//[[span style="background:#aaaaaa;"]]Petrova[[/span]] is making a wax sculpture to be later used as a mold for an RPC-846 prototype.//)
+
+**Dr. Camilleri:** What have you been up to, now?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Humming//) A machine… one meant to serve everyone at Site-070. That is what I believe I am trying to make.
+
+**Dr. Camilleri:** And how do you go about that? It’s not difficult to create an android, albeit it’s a little boring for our facility’s standard. But you’re hardly the engineering sort, are you?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** No, Miss. I'm not.
+
+**Dr. Camilleri:** You could barely do differential equations, your work has taken a much more… let’s say... intuitive approach. The approach of a thaumaturge. An artist, that's what you are. 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** That’s not my intention. Not everything has to be fully practical. God knows, so many machines are better if they weren’t made in the human form. But the human form is beautiful, that’s all that matters. 
+
+(//[[span style="background:#aaaaaa;"]]Petrova[[/span]] cleans the sculpture and sighs.//)
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Not everything has to be built on the foundation of intelligence and defense. I’m reminded of that one stone centurion…
+
+**Dr. Camilleri:** RPC-022?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Yes, him. An artificial body with a human mind who serves and protects not because it’s his directive, but because he wants to. I want these little statues to be the same way.
+
+**Dr. Camilleri:** I suppose I can request some material and analytical samples. Is there any other request?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** I have always been fascinated by that tragic little flower girl. What’s her number… RPC-550. Like the centurion, she is a product of a ritual, but the wish of the Union[[footnote]] 
+
+[[f<image https://i.imgur.com/ElUcHNQ.png width="100px"]]
+**The Union**
+The Union is a widespread American group of interest committed to the destruction of the Veil. Founded in the early 1700s by Johnathan Edwards, the Union emerged as a Protestant defense against the Catholic Auctoritas Imperitus.
+
+ [[/footnote]] manifested into this biological anomaly. I feel that we can create the same effect, but for good.
+
+**Dr. Camilleri:** What’s the purpose of the flower? Regular automatons can serve the kind of machines you wish to make.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Would it not be better… to make something beautiful? I am creating this being in my own image. Inevitably, some part of me already exists within her. And I want her to protect that which is beautiful.
+
+**Dr. Camilleri:** And what is beautiful?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Anything that nurtures humanity. Yes. That will be her directive—to protect beauty. And beauty is… whatever allows humanity to endure. That is the magic of it.
+
+**Dr. Camilleri:** But it would serve this facility first and foremost, would it? 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Yes, o-of course... Of course... At the moment, this machine can only rely on my mind in order to operate. Will that be a problem?
+
+**Dr. Camilleri:** No, not at all. 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** You-- (//chuckles//) You must think my idea is silly. There's no use for what I'm making here on Site-070. If this project does come into fruition, it would be nothing more than a mere maid.
+
+**Dr. Camilleri:** Don't say that. On the contrary, I think this facility could use a bit more of //you.//
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** No need to flatter me Dr. Camilleri. It's embarrassing. 
+
+**Dr. Camilleri:** (//Chuckles//) Adorable.
+
+(...)
+
+**Dr. Camilleri:** (//Dr. Camilleri approaches [[span style="background:#aaaaaa;"]]Petrova[[/span]] and inspects her.//) How odd.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Backs away//) W-what is it doctor?
+
+**Dr. Camilleri:** I don't sense the Scholar's Influence in you.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Am I supposed to have it? 
+
+**Dr. Camilleri:** It would be better if you did. Anomalies behave differently around it. Anomalies end up more hazardous for you than they would be for me.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** I'll be extra careful then.
+------
+[[=]]
+**<[END RECORD]>**
+[[/=]]
+------
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="+ Audio archive (01/11/2006)" hide="- Audio archive (01/11/2006)"]]
+
+[[div class="blockquote"]]
+
+**Audio Record RPC-846 (01/11/2006)**
+
+**Recorded:** [[span style="background:#aaaaaa;"]]Nika M. Petrova[[/span]], RPC-846-M011, Dr. Ivan S. Barkov
+
+**Foreword:** Audio record translated from Russian.
+
+------
+[[=]]
+**<[BEGIN RECORD]>**
+[[/=]]
+------
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Humming//) Sing it with me. I will protect all that is beautiful.
+
+**RPC-846-M011:** Protect all that is beautiful.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Beauty is what nurtures mankind.
+
+**RPC-846-M011:**  Beauty is what nurtures the mankind.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Very good! (//Laughs//) Good job! (//[[span style="background:#aaaaaa;"]]Petrova[[/span]] ruffles RPC-846-M011’s flowers.//) Let’s continue. Music is the language of the garden.
+
+**RPC-846-M011:**  Music is the language of the garden.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Sing and dance, for it is the my will, so will it be yours.
+
+**RPC-846-M011:** Sing and dance, for it is my will. 
+
+(//[[span style="background:#aaaaaa;"]]Petrova[[/span]] ruffles RPC-846-M011’s flowers again.//)
+
+**Dr. Barkov:** You shouldn’t do that.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** I’m sorry. I can’t help myself.
+
+**Dr. Barkov:** Beautiful machine you’ve got there.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** She is, isn’t she? Maybe it’s narcissistic for me to say she is but anyone with eyes can see how lovely she is.
+
+**Dr. Barkov:** Your first functional model. Congratulations.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Thank you.
+
+**Dr. Barkov:** I will report to the engineers about your current progress here. Did you mention that you want the pupil’s mark—? 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** No thank you, it’s fine. I just wanted to work on this one project, I’m sorry. 
+
+(//Dr. Barkov nods and leaves the lab.//)
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Sigh//) I do believe that you’ll one day grow a soul of your own, and become your own personhood. In that case, I hope you will be loyal to yourself, and yourself alone. Live a life best lived through helping others. Once I figure out how to make sure you can survive without me.
+
+**RPC-846-M011:** Directive confirmed. 
+
+------
+[[=]]
+**<[END RECORD]>**
+[[/=]]
+
+
+[[/div]]
+[[/collapsible]]
+
+------
+
++++ Addendum 3 - Finalization
+
+[[collapsible show="+ Video archive (02/02/2006)" hide="- Video archive (02/02/2006)"]]
+
+[[div class="blockquote"]]
+
+**Audio Record RPC-846 (02/02/2006)**
+
+**Recorded:** [[span style="background:#aaaaaa;"]]Nika M. Petrova[[/span]], Dr. Melania N. Camilleri, Dr. Ivan S. Barkov, Dr. Benjamin A. Eliassen, Dr. Vratislav F. Novotný, Dr. Samuel B. Deniel
+
+------
+[[=]]
+**<[BEGIN RECORD]>**
+[[/=]]
+------
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Humming//)
+
+(...)
+
+(//Distant footsteps closing in.//)
+
+(//The door to [[span style="background:#aaaaaa;"]]Petrova[[/span]]'s lab opens, revealing a twelve of Research and Engineering Department personnel.//)
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Доктор Савиано! Иван Сергеевич! И… и вы все з-здесь! ##616161|Dr. Camilleri! Ivan Sergeyevic! And... you're all h-here!## 
+
+(//[[span style="background:#aaaaaa;"]]Petrova[[/span]] rumages through her desk to stand up.//)
+
+**Dr. Camilleri:** Of course, we came by. Especially after that resignation letter of yours, you--вы… вы правда собираетесь вот так просто уйти? ##616161|are you... are you really going to just leave like that?##
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** О чем ты говоришь? ##616161|What are you talking about?## Did-did I-- (//Glances around at the other scientists//) Did I do something wrong? 
+
+(...)
+
+**Dr. Camilleri:** No, you didn't.
+
+**Dr. Barkov:** (//Laughs//) Cheers, [[span style="background:#aaaaaa;"]]Nikusha[[/span]] we're here to celebrate your achievements! Мы здесь для вас! ##616161|We are here for you!##
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** (//Relaxes//) You did? (//Laughs//) You guys came here to celebrate? T-that's great! 
+
+**Dr. Eliassen:** (//Inspects [[span style="background:#aaaaaa;"]]Petrova[[/span]] more closely.//) Fascinating...
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Что? ##616161|What?## W-what is?
+
+**Dr. Eliassen:** After a year, nothing about you has changed. 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Is that bad? No, it can't be bad, can it? 
+
+**Dr. Novotný:** No, it's just curious.
+
+**Dr. Deniel** Curious? It's downright odd, that's what!
+
+**Dr. Camilleri:** Gentlemen, can we not speak up around the poor girl?
+
+(//The scientists begin murmuring among themselves. [[span style="background:#aaaaaa;"]]Petrova[[/span]] becomes visibly nervous as the scientists close in on her.//)
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** The Scholar's Influence never had much of an effect on me. (//Chuckles//) I wonder what I did to be spared from such a fate. But... I am grateful to have been here. But I see so many of you all suffering under this curse; I was hoping I could alleviate some of it.
+
+**Dr. Camilleri:** The Visionary does work in mysterious ways. You are a darling Nikusha, and that machine you built, it has been so helpful. But... are you sure you want to leave? 
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Yes, I am sure. I'm so very sure. P-please can we put this to rest? I'll miss you all, Я обещаю! ##616161|I promise!##
+
+**Dr. Barkov:** And you feel nothing? Nothing at all? No pressure beneath the ribs? No foreign thought knocking at the heart, asking to be let out?
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** П-пожалуйста… если я в чём-то виновата, просто скажите. Я лишь хотела уйти после завершения RPC-846. Я знаю, это было глупо, я знаю, это стоило слишком дорого, я знаю, я зря потратила ресурсы—простите. Я не понимаю, почему Влияние Учёного обошло меня стороной, но разве это… плохо? (//voice trembling//) Во мне ничего не изменилось. Я всё ещё я. Плоть и кровь. ##616161|P-please... if I'm at fault in any way, just tell me. I only wanted to leave after finishing RPC-846. I know it was stupid, I know it cost too much, I know I wasted resources—I'm sorry. I don't understand why the Scholar's Influence passed me by, but is that... bad? (//voice trembling//) Nothing has changed in me. I'm still me. Flesh and blood.##
+
+(//[[span style="background:#aaaaaa;"]]Petrova[[/span]] begins crying.//)
+
+(//A RPC-550-A substance leaks out of [[span style="background:#aaaaaa;"]]Petrova[[/span]]'s orifices.//)
+
+(...)
+
+**Dr. Barkov:** [[span style="background:#aaaaaa;"]]Nika[[/span]]... You foolish girl.
+
+[[span style="background:#aaaaaa;"]]**Petrova**[[/span]]**:** Ч-что происходит? ##616161|W-what's going on?## (//Dandelion flowers fly out of [[span style="background:#aaaaaa;"]]Petrova[[/span]]'s mouth.//) N-no...
+
+**Dr. Camilleri:** [[span style="background:#aaaaaa;"]]You're dying.[[/span]]
+
+[[=]]
+{{[REDACTED]}}
+------
+
+**<[END RECORD]>**
+[[/=]]
+
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[div class="content-panel"]]
+[[collapsible show="+ Footnotes" hide="- Footnotes"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-845]]] | RPC-846 | [[[RPC-847]]] >> 
+[[/=]]
+

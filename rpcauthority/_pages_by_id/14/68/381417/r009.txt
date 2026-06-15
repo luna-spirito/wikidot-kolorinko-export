@@ -1,0 +1,148 @@
+---
+title: "Church of Malthus Theme 3 (Current)"
+tags: ["theme"]
+page_id: "1468381417"
+site: "rpcauthority"
+slug: "component:new-malthus-theme"
+revision: 9
+revision_id: "1543355801"
+author: 4330657
+timestamp: 1776262733
+---
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com/component:new-malthus-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+Church of Malthus theme 2026
+ 
+Created by Jokezm
+ 
+Requested by TheGreatTarbolin69, approved by Sinaticus.
+Logangreenjeans is the original.
+Took some of DoubleDenial's colors.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+ 
+:root {
+
+/* PALLET */
+--body-background: #241E1E;
+--text-color: #aaa;
+--primary-text-color: #c13744;
+--nav-hover-background: #752d2d;
+--topbar-dropdown-background: #362A2A;
+
+/* CONTENT PANEL PALLET */
+--primary-background: #2d2d2d;
+--secondary-background: rgba(23, 1, 10, 0.15);
+--content-bar-background: #1F1F1F;
+--news-block-body-panel-background-even: #282828;
+
+/* FONT */
+#page-title,
+h1, h2, h3, h4, h5, h6,
+.heading {
+    font-family: "Oswald", sans-serif;
+}
+
+/* LINKS */
+--link-color: #d84840;
+--link-hover-color: #f58484;
+--new-page-color: #955757;
+
+/* BUTTONS */
+--button-border: 1px solid #3c1b1b;
+--button-background: #462020;
+--button-hover-border: 1px solid #582828;
+--button-hover-background: #5c2727;
+
+/* HEADER */
+div#container-wrap {
+    background: url("http://rpcsandbox.wdfiles.com/local--files/component:new-malthus-theme/NewMalthusHeader.png") top left no-repeat !important; 
+    background-size: 100% 187px!important;
+}
+
+/* LOGO */
+--header-text-visibility: hidden;
+--header-icon:
+    url("http://rpcsandbox.wdfiles.com/local--files/component:new-malthus-theme/NewMalthusLogo.png");
+/* LOGO mobile */
+@media (max-width: 768px) and (orientation: portrait) {
+    #header {
+        background-size: 290px auto;
+        background-position: 15px center;
+    }
+}
+
+/* BLOCKQUOTE */
+blockquote {
+    background-color: #2E2929;
+    border: 1px solid #695E5E;
+    padding: 0px 10px;
+}
+
+/* DIVIDER */
+hr {
+    border: none;
+    border-top: 1px solid #878787;
+    background: none;
+}
+
+/* TABLE */
+--table-header-background: #404040;
+--table-header-background-alt: #2d2d2d;
+--table-header-color: #aeaeae;
+--table-cell-color: #B5B5B5;
+--table-cell-background: #282828;
+--table-border: 1px solid #3c3c3c;
+
+/* PAGE TITLE */
+#page-title {
+    color: #c13744;
+    text-align: center;
+    font-size: 250%;
+}
+
+
+/* TABVIEW */
+.yui-navset .yui-content {
+    padding: 5px 15px 10px 15px;
+    color: #c0c0c0;
+    border: none !important;
+}
+/* Container */
+.yui-navset .yui-nav {
+    border-bottom: 3px solid #c13744 !important;
+}
+/* Default */
+.yui-navset .yui-nav li a {
+    background: #2d2d2d!important;
+}
+/* Hover */
+.yui-navset .yui-nav li a:hover {
+    background: #5c2727 !important;
+}
+/* Active */
+.yui-navset .yui-nav li.selected a {
+    background: #c13744 !important;
+    color: #ffffff !important;
+}
+
+/* RATING MODULE */
+--star-rating-hue: 135deg;
+
+/* SIDENOTE */
+--sidenote-open-background: #573e3e !important;
+--sidebar-crit-corner-color: #d86161;
+
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

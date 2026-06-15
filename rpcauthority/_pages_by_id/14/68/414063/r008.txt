@@ -1,0 +1,1150 @@
+---
+title: "RPC-580"
+tags: ["alpha", "church-of-malthus", "grouped-hazard", "organic-hazard", "rpc", "sapient-hazard", "white"]
+page_id: "1468414063"
+site: "rpcauthority"
+slug: "rpc-580"
+revision: 8
+revision_id: "1544583200"
+author: 4330657
+timestamp: 1781210374
+---
+
+[[span class="listresize"]]The Lost Children of Malthus[[/span]]
+
+[[module css]]
+
+.yui-navset .yui-content {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-size: 11px;
+}
+ 
+:root {
+    --side-tab-width: 18%;
+    --tabview-side-button-hover-background: rgba(0, 0, 0, 0.25);
+}
+ 
+.sideTabview .yui-nav {
+    width: var(--side-tab-width)!important;
+}
+ 
+.sideTabview .yui-content {
+    width: calc(100% - var(--side-tab-width));
+}
+ 
+.sideTabview .yui-navset {
+    background: linear-gradient(
+        to right,
+        var(--tabview-side-tabs-background) var(--side-tab-width),
+        var(--tabview-background) 0
+    );
+}
+
+[[/module]]
+
+
+[[include component:rate]]
+
+[[include :rpcauthority:component:special-box number=580|
+object-class=Alpha|
+lethality-rating=White|
+symbol=alpha-white|
+sapient=true|
+organic=true|
+grouped=true|
+]]
+
+------
+
++++ **Containment Protocols** 
+
+The primary RPC-580 samples are handled by the biological research staff at [[[Site-008]]][[footnote]] Intensive Care Hub, General Hospital & Research Facility. [[/footnote]] for storage. A total of ██ clones of RPC-580-1 were produced by the Biology Department between 2011 - 2021 for testing purposes. No further cloning is permitted without the explicit approval of Site-008 Director Dr. Wilhelm Grau and Dr. Johan Mustermann. 
+
+The 12 surviving RPC-580-1 instances created by the Authority were transferred from Site-008 to [[[Site-026]]][[footnote]] Containment, Humanoid [[/footnote]] to be adopted by the personnel stationed there. Resources may be utilized for the welfare, life support, and protection of these instances under the site’s Adolescent Care system.
+
+Investigation of the whereabouts of PoI-4883 and the remaining RPC-580-1 instances scattered across the world is still ongoing.
+
+------
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/ricmod/Orphanage.jpg|caption= Waisenhaus Nr. 9 {{(circa. 1945)}}|width=100%|align=center]]
+
++++ **Description** 
+
+RPC-580 is an incomplete genomic template of //Homo sapiens// created by the [http://rpcauthority.wikidot.com/church-of-malthus-hub Church of Malthus] in //Waisenhaus Nr. 9//. Genomic analysis suggests the source specimen was a male in the Haplogroup R-M269,[[footnote]] Phylogenetically classified as R1b1a1b, it signifies the haploid group of Western Europe. RPC-580 is specifically theorized to be of English descent. [[/footnote]] though large segments of the sequence are missing. The template appears to have been purposefully made to be modular.[[footnote]] A “modular genome” refers to an artificially structured genetic template in which segments of DNA are organized into interchangeable units, allowing for targeted insertion, removal, or substitution without destabilizing the entire sequence. [[/footnote]]
+
+The template is barely suitable for complete human development. When issued to standard cloning equipment, the resulting organism (designated RPC-580-1) exhibits severe multisystem developmental failure. Observed characteristics include: oculocutaneous albinism, ███████, incomplete organ redundancy, stunted physical and emotional development, and a compromised immune system;[[footnote]] RPC-580-1 instances display an abnormal immune profile characterized by the absence or dysfunction of cytotoxic immune responses, including Natural Killer cells and cytotoxic T lymphocytes, resulting in near-total vulnerability to viral pathogens. [[/footnote]] often leading to more fatal symptoms. Without life support, RPC-580-1 segments are bound to expire early.
+
+Despite these physiological disabilities, both male and female RPC-580-1 instances demonstrate exceptional IQ scores and can quickly learn and adapt to physical and environmental challenges. Regardless of how they are raised, children 3-5 years of age will quickly acquiesce language and invariably speak in a clinical manner, and have an innate understanding of their own biology.[[footnote]] This proficiency varies. The clinical culture of Site-026 may be a contributing factor. [[/footnote]] 
+
+It was initially assumed that RPC-580-1 instances are incapable of experiencing pain. However, microelectrode measurements confirm that nociceptive pathways, including both Aδ and C fiber activity, are intact and fully responsive to external stimuli. Instead, the CoM has selectively suppressed the instance's ability to express or emote their emotional response to pain, effectively muting their ability to register and express suffering.
+
+> 16/01/2023
+> I know the idea of a modular human genome excites you all, but as the new head researcher of RPC-580, I am taking a valiant stance against any further experiments. These aren’t test subjects; //they’re __human__ children//. And I expect you all to treat them as such.
+> [[>]]
+> —Dr. Johan Mustermann
+> [[/>]]
+------
++++ **Discovery** 
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/ricmod/Orphans.png|caption= RPC-580-1 clones studying in Waisenhaus Nr. 9 {{(circa. 1960)}}|width=300px|align=right]]
+
+RPC-580 was acquired from a villa in ██████, Austria called Waisenhaus Nr. 9. It was an orphanage funded by [http://rpcauthority.wikidot.com/gard-hub GARD][[footnote]] The German Anomalous Division. Nazi Germany's former veiled agency. [[/footnote]] in 1940 to create the next generation of Übermensch through eugenics, psychological, and physical conditioning. The program officially dissolved alongside the Nazi Party in 1945, with the villa and the facilities inside later being bought by Prof. Albrecht Thiel, the founder of a sect of the CoM called  ‘//the Lost Children of Malthus//.’ Records on the events between abandonment by GARD and acquisition by the Authority are fragmented.
+
+It was not until July 2010 that Authority Central Intelligence became aware of Waisenhaus Nr. 9 through a Malthusian whistleblower, prompting a subsequent raid on the villa. Upon entry, the facility was found completely abandoned. Personnel were absent, and a significant portion of documentation had been removed in the days leading up to the operation. The only entity recovered on-site was a single RPC-580-1 instance, believed to have been unintentionally abandoned.
+
+A significant amount of charred biomatter has been discovered buried around the perimeter of the villa, with each sample containing partial genetic sequences of RPC-580. However, these sequences are heavily degraded and cluttered by foreign, inhuman genetic material.
+
+
+------
++++ **Addendum 580.1:** [[span style="font-size: 90%; font-weight: lighter!important;"]] Psychological assessment [[/span]]
+
+RPC-580-1 instances are born with behavior coded in by the Church of Malthus. They have a preference for numerical designations (e.g., Registered Phenomena Codes) over assigned personal names, and exhibit heightened suggestibility, often accepting instructions or information without critical thought.
+
+Segments compensate their inability to express pain through self-diagnosis with notable accuracy. This nature may be cause for long-term trauma within the instances if left untreated.
+
+[[collapsible show="+ Interview 580-1-18 (10/25/2023)" hide="- Interview 580-1-18 (10/25/2023)"]]
+[[div class="blockquote"]]
+
+[[=]]
+------
++++ Psychological assessment of RPC-580-1-18
+------
+[[/=]]
+
+**Interviewed:** RPC-580-1-18 (Sherry █████)
+
+**Interviewer:** Dr. Jill Forster (Pediatric Psychologist)
+
+**Supervisor:** Dr. Mustermann
+
+**Foreword:** Dr. Jill Forster is a newly graduated psychologist from Site-008 hired to study the psychological development of the juvenile RPC-580-1 instances and become their ACCE.[[footnote]] Assigned Child Care Expert [[/footnote]]
+
+------
+[[=]]
+{{[Recording started]}}
+[[/=]]
+
+**Dr. Forster:** Hello there, Sherry! How are you doing today?
+
+[ //RPC-580-1-18 sits on the floor, legs tucked under her, completely absorbed in a puzzle book. She doesn’t look up.// ]
+
+**Dr. Forster:** Sherry? I’m talking to you~!
+
+[ //Dr. Forster sighs.// ]
+
+**Dr. Forster:** 1-18?
+
+[ //That gets her attention. RPC-1-18 looks up properly now and gives a small nod.// ]
+
+**RPC-580-1-18:**  Puzzle.
+
+**Dr. Forster:** What kind of puzzle is it?
+
+**RPC-580-1-18:** Math. You draw number in a box, each box increases or decreases by the same number.
+
+**Dr. Forster:** Arithmetic sequence?
+
+[ //RPC-580-1-18 shrugs.// ]
+
+**Dr. Forster:** That’s quite advanced for your age, did you know that? 
+
+**RPC-580-1-18:** Mm.
+
+**Dr. Forster:** Is it fun?
+
+**RPC-580-1-18:** Brain activity increases.
+
+[ //RPC-580-1-18 ignores Dr. Forster and goes back to solving her puzzle.// ]
+
+[ //A chair creaks behind him. Dr. Mustermann sets down a cup of coffee.// ]
+
+**Dr. Forster:** I worry about them, you know? 
+
+**Dr. Mustermann:** Tell me about it.
+
+**Dr. Forster:** I sometimes wonder how they’ll go into society when they grow up. 
+
+**Dr. Mustermann:** (//Laughs//) don't think so lowly of them, that's just cruel. 
+
+**Dr. Forster:** Sorry. What do you make of it, Doctor?
+
+**Dr. Mustermann:** I used to be just like them when I was younger.
+
+**Dr. Forster:** Really? What changed?
+
+**Dr. Mustermann:** Coffee. But you can’t give espresso to kids.
+
+**Dr. Forster:** We’re not prescribing them with any more drugs, Johan.
+
+[ //Dr. Mustermann finishes his coffee and sets the mug down on the table.// ] 
+
+**Dr. Mustermann:** Her guardian is trying her best to raise her; how little Sherry is right now has nothing to do with her present trauma. It all has to do with how she was born—or, er, made. She has had a better childhood than me, at least. 
+
+**Dr. Forster:** What was yours like?
+
+**Dr. Mustermann:** It was--well, I... don't quite remember.
+
+[ //He looks at RPC-580-1-18 and kneels down at her level.// ]
+
+**Dr. Mustermann:** Hey there, Sherry, whatcha doing?
+
+**Dr. Forster:** She only responds to her item number.
+
+**Dr. Mustermann:** Even if so, we’re not calling them by their numbers while I’m in charge. Isn't that right, Sherry?
+
+**Sherry:** Hm.
+
+[ //Dr. Mustermann looks at the puzzle and points at a box.// ]
+
+**Dr. Mustermann:** You got that one wrong, it shouldn’t be -34 there.
+
+[ //Sherry notices the mistake and quickly erases it.// ]
+
+**Dr. Mustermann:** Do you want to know what the answer is?
+
+**Sherry:** No.
+
+**Dr. Mustermann:** I’m telling you!
+
+**Sherry:** //Nooooo!// Let me do it!
+
+**Dr. Mustermann:** 4, 6, -2, 0… that one is 64, 76, 1/3 and that one is--
+
+[ //Sherry pulls the page out abruptly, crumpling it. Her breathing quickens.// ]
+
+**Sherry:** //Stop it!//
+
+[ //Sherry throws a tantrum and angrily rips the paper out. She looks at Dr. Mustermann angrily before quickly becoming sad.// ]
+
+**Dr. Mustermann:** Sorry about that Sherry. (//Pats her head.//) Would ice cream make you feel better?
+
+------
+
+**Dr. Mustermann:** Do you feel better now?
+
+**Sherry:** Hm. 
+
+**Dr. Mustermann:** Describe it.
+
+**Sherry:** Ice cream, coffee flavor with chocolate chips. My taste is functioning, no deviation in the heterodimer.
+
+**Dr. Mustermann:** How does it make you feel?
+
+**Sherry:** Hm...
+
+**Dr. Forster:** Is it positive or negative?
+
+**Sherry:** Positive. RPC-580-1-18 is satisfied.
+
+**Dr. Mustermann:** Who’s that?
+
+**Sherry:** Sh... Sherry is satisfied.
+
+[ //Sherry rubs her forehead.// ]
+
+**Sherry:** Tension-type headache. Located on the forehead.
+
+**Dr. Forster:** Nothing is wrong with you, it's just a brain freeze.
+
+[ //Dr. Mustermann laughs quietly.// ] 
+
+[ //Sherry wanders around the cafeteria while eating her ice cream.// ] 
+
+**Dr. Mustermann:** Of the ██ clones the Authority created... only a handful are left. 
+
+**Dr. Forster:** They could get better care in Site-008, you know?
+
+**Dr. Mustermann:** Doubt it. It was Dr. ███ who made the call to clone all those kids and run tests on them. They're safer here.
+
+**Dr. Forster:** After the whole [[[RPC-065]]] fiasco, I can't say Site-026 is any better. 
+
+**Dr. Mustermann:** Better than what they used to go through there. Treating your fellow humans like guinea pigs...
+
+[...]
+
+**Dr. Forster:** Don't look so down, Johan. 
+
+[ //Dr. Forster raises Dr. Mustermann's arms up to stop the ice cream from spilling.// ] 
+
+**Dr. Forster:** Things are changing for the better. You and me, //the team fated to change the Authority from the inside!// 
+
+[ //Dr. Forster raises her fist up.// ] 
+
+**Dr. Mustermann:** (//Chuckles//) Fate, huh?
+
+[ //Sherry looks at Dr. Forster and raises her fist up as well.// ] 
+------
+
+[[=]]
+{{[Recording ended]}}
+[[/=]]
+
+[[/div]]
+[[/collapsible]]
+
+------
++++ **Addendum 580.2** [[span style="font-size: 90%;font-weight: lighter!important;"]] Documents recovered from Waisenhaus Nr. 9 [[/span]]
+
+The following folder is a compiled list of documents recovered from Waisenhaus Nr. 9, as well as other files made by the Authority for context. 
+
+[[div class="sideTabview"]]
+[[tabview]]
+[[tab PoI-4883 (DEP-010)]]
+
+[[div style="
+font-family: Courier New, Courier, monospace;
+border-left: 6px solid #56603a;
+border-right: 6px double #56603a;
+padding: 3px 10px 3px 12px;
+background: #191919;
+border-radius: 3px;
+margin-top: 5px;
+"]]
+
+[[=]]
+------
+++ ##56603a|**AUTHORITY CENTRAL INTELLIGENCE (DEP-010)**##
+Overview of PoI-4883 and the Waisenhaus Nr. 9 Project
+------
++++ Person of Interest File #4883
+[[/=]]
+
+**Legal Name:** Albrecht Marcus Thiel
+
+**Known Aliases:** "Professor", "Urheber"
+
+**Sex:** Male
+
+**Ethnicity:** English
+
+**Height:** ~180-240cm
+
+**Weight:** ~80-150kg
+
+**Hair:** Brown
+
+**Eyes:** Black
+
+**Distinguishable Features:** Pale, cracked skin. Necrosis around sunken eye sockets. 
+
+**Nationality:** German(?)
+
+**Date of Birth:** Unknown
+
+
+------
+
+**Associated Entity of Interest:** Church of Malthus
+
+**Reason for monitoring:** PoI is the head of a major sect of the Church of Malthus.
+
+**Course of Action:** Maintain active surveillance for individuals matching or approximating PoI-4883’s known profile. The individual is to be captured and arrested on-sight.
+
+**Priority:** High
+
+**Status:** Missing
+
+------
+
+**Overview:**
+
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/ricmod/ProfessorThiel.png|caption= Prof. Albrecht Thiel {{(circa. 1972)}}|width=200px|align=right]]
+
+
+PoI-4883, “Prof. Albrecht Thiel,” is a high-ranking member of the Church of Malthus and the founder of the sect known as the Lost Children of Malthus, a sect originating from //Darwin’s Hand//[[footnote]] Darwin's Hand is a prominent sect split from the original Malthusiae cult. They seek to replicate the biological processes in organisms they deem superior to augment the evolution of humanity. [[/footnote]] that rose to prominence following the initiation of the Waisenhaus Nr. 9 project in 1945. He served as the sole director of the project until his disappearance shortly before the Authority raid in 2010.
+
+The full extent of PoI-4883’s activities remains unknown; however, it is highly likely that he personally oversaw the mass cloning, experimentation, and disposal of the ████ known RPC-580-1 instances housed within Waisenhaus Nr. 9. RPC-580-1 are therefore designated as 'disposable humanoid clone', and are used as the primary subject of human experiment within the various sects of Malthus.
+
+Like other senior figures within the Church of Malthus, PoI-4883 is believed to have undergone extensive bodily modification to extend his own lifespan. The individual has also been observed with the ability to quickly adjust to his height and muscle mass, making him a dangerous unarmed combatant.
+
+The exact history of PoI-4883 before 1945 is unknown, as no record of an ‘Albrecht Marcus Thiel’ exists in any official documents. 
+
+------
+
+[[/div]]
+
+> I met this man a long time ago. Back when I was little. He doesn’t look as monstrous as the file would lead you to believe, but in a way, he was far more inhuman than he appears. The Church of Malthus has taken everything away from me. I have gaps in my memory from when I used to be a part of them, far too young to think for myself. At the midst of my fragmented memories is //him//.  
+> 
+> My father, my mother, and my siblings, whose faces have long since faded from my memory. Nothing of them remains, all that’s left is the Urheber. I can never get rid of his face, his smile, his laughter.
+> 
+> I have no doubt in my mind that while he is still free, he's spreading misery unto others, and creating people with the sole purpose of suffering for an unreachable goal. 
+> [[>]]
+> —Dr. Johan Mustermann
+> [[/>]]
+
+[[/tab]]
+[[tab DHC Prototype log]]
+@@ @@
+**DHC Prototype Log** (██/02/19██)
+
+------
+
+**███████:** The object template has finally been stripped to its basics to be fully modular. Not much remains of it that makes it genetically similar to its host.
+
+**Prof. Thiel:** That should be fine. We can still trace some of its genes to its father.
+
+**███████:** Requesting some built-in genetic memory into the template, we’ve discussed our grievance with the current model. If you wish, the ████ has research that can help the project, which may be useful.
+
+**Prof. Thiel:** What do they suggest? 
+
+**███████:** To increase the template’s capacity for mathematical reasoning, the more it responds to their numerical designation over their names. Make the DHCs run their own diagnostic tests on their body. Finally, increase their pain tolerance. 
+
+[[div style="border: 1px solid #a6a6a6; background: black; display: inline-block; text-align: center; width:201px; height:201px;"]]
+[[/div]]
+[[div style="border: 1px solid #a6a6a6; background: black; display: inline-block; text-align: center;"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ricmod/Experiment7.png width="200px"]]
+[[/div]]
+
+**Prof. Thiel:**  They can’t run their own diagnosis if they can’t feel pain.
+
+**███████:** Then remove their ability to scream in pain.
+
+**Prof. Thiel:** Understood.
+
+------
+**DHC Prototype Log** (██/06/19██)
+------
+
+**███████:** We need fully developed DHCs. 
+
+**Prof. Thiel:** The rapid aging process of items are erratic. Most develop fatal tumors before they can be tested. 
+
+**███████:** How long does it take for the DHC-B models to develop?
+
+**Prof. Thiel:** {{[REDACTED]}}
+
+**███████:** That is too slow. The items may develop personhood before they are tested.
+
+**Prof. Thiel:** That was never a concern. 
+
+**███████:** Some of our researchers have been expressing concern over the age of your items.
+
+**Prof. Thiel:** If that is their concern, they can conduct experiments on other assets instead.
+
+**███████:** How many items are currently in Waisenhaus Nr. 9?
+
+**Prof. Thiel:** {{[REDACTED]}}
+
+**███████:** What exactly are you planning to do with them?
+
+**Prof. Thiel:** None of your concern. 
+
+**███████:** If you are planning on an uprising like you said you would, I won't hesitate to report you to the ████.
+
+**Prof. Thiel:** Everything is in order, I don't plan on any uprising. I'm conducting an experiment of my own. 
+
+**███████:** What is it?
+
+**Prof. Thiel:** A communion of Malthus. 
+------
+@@ @@
+[[/tab]]
+[[tab Waisenhaus Transcript]]
+@@ @@
+**Waisenhaus Transcript No. 1** (04/02/1962)
+
+**Location:** Interior playroom, east wing
+**Participants:**  Multiple DHC subjects (unidentified), Prof. Thiel
+
+(Record translated from German)
+------
+
+{{[Recording started: 15:12:04]}}
+
+[ //The DHC subjects lay on the floor, wooden blocks representing elements.// ]
+
+**DHC-3-21:** No, you did it wrong again!
+
+[ //DHC reads from a textbook.// ]
+
+**DHC-3-21:**  Carbon needs four bonds. You already used them.
+
+**DHC-3-22:** It still connects there.
+
+**DHC-3-21:** It can’t. That would make five.
+
+**DHC-3-22:** Maybe it’s a different kind.
+
+**DHC-3-21:** You’re just guessing.
+
+**DHC-3-23:** Stop fighting. Just rotate it.
+
+[ //Sound of wooden pieces shifting across a table// ]
+
+**DHC-3-22:** … Oh.
+
+**DHC-3-21:** See? Now it’s only four.
+
+**DHC-3-22:** I still finished faster last time.
+
+**DHC-3-23:** No, you didn’t.
+
+**DHC-3-22:** I did. Ask him.
+
+**DHC-3-24:** You were both slow. You didn’t even check the hydrogens.
+
+[ //Laughter// ]
+
+**DHC-3-24:** Professor?
+
+**Prof. Thiel:** Yes, twenty-four?
+
+**DHC-3-24:** Why don’t we have names like the other children?
+
+**Prof. Thiel:**  You do have names.
+
+**DHC-3-24:** They’re just numbers.
+
+**Prof. Thiel:** Hm, yes, I suppose it isn’t appropriate to just call you all by numbers.
+
+**DHC-3-22:** I like mine.
+
+**DHC-3-23:** Mine is bigger.
+
+**DHC-3-22:** That doesn’t make it better.
+
+**DHC-3-23:** Yes, it does.
+
+**DHC-3-25:** Can I have a bigger one?
+
+**Prof. Thiel:** (//Chuckles//) No, the numbers you were given are the names you’ll have. You can always change your name, give yourself aliases and nicknames, but you can’t change how you were born.
+
+**DHC-3-22:** How were we born?
+
+**Prof. Thiel:** Are you asking where babies come from?
+
+**DHC-3-22:** N-no! Not that. I meant our parents. 
+
+**Prof. Thiel:** Ah, of course…
+
+[ //Silence// ]
+
+**Prof. Thiel:** Your parents are someone who died a long time ago. There will be others who appear in this orphanage who met the same fate. So I want you to take care of them. After all, we’re a family.
+
+**Prof. Thiel:** About that name, twenty-four, do you have any name in particular you want to be called?
+
+**DHC-3-24:** I was thinking... ███████.
+
+**Prof. Thiel:** ███████, yes? What a mighty fine name for a young man such as yourself. 
+
+[ //Prof. Thiel pats DHC-3-324's head.// ]
+
+**Prof. Thiel:** Is there any reason in particular you chose that name? 
+
+**DHC-3-24:** It's the name of a hero of a book. 
+
+**Prof. Thiel:** Oh, yes, I remember.
+
+**DHC-3-24:** I want to be like him when I grow up. A hero. A fighter. 
+
+**Prof. Thiel:** And that you will, my son. And let that be a lesson to all of you as well, children.
+
+[ //The DHC subjects circle around Prof. Thiel and sit down.// ]
+
+**Prof. Thiel:** All of you are born with a purpose and a destiny. I know not myself what that destiny is. It is a path that each of you will find once the time comes. 
+
+**DHC-3-22:** But what about our purpose? 
+
+**Prof. Thiel:** The same purpose as the one I, and every human, are born with. To help others and improve mankind. It’s in your blood. Your father was… a very interesting man. But his brilliance was unparalleled; he saw the world in a way no one else could. That there is a problem with this world that needed solving. You all have that power within you, to solve the problems of the world.
+
+[ //Murmer and silent discussion among the subjects.// ]
+
+**DHC-3-21:** What do you think we should do?
+
+**Prof. Thiel:** (//Voice softens//) It isn't up to me what fate has planned for you. And you shouldn't worry about what I think. There will come a day when all of you will go your own separate ways, and it will be full of hardships and pain. But, you can all confide that everything will be worth it in the end. 
+
+[ //Prof. Thiel stands up and raises his hand.// ]
+
+**Prof. Thiel:** My children, we are the guiding hand. And with that hand, we will do what must be done, for the good of mankind, no matter how difficult that path may be. Humanity, this world, all the lives within it... It is a world that holds so much beautiful, boundless potential. More than we can even see yet. And each one of you are going to be the ones that will help us realize that. You believe that too, don’t you? Children of the //[http://rpcauthority.wikidot.com/malthusian-manifesto future of humanity.]//
+
+[ //Children cheering.// ]
+
+{{[Recording ended: 15:22:15]}}
+
+------
+
+> I can't help but feel sick every time I come back to this record. But it's one I replay time and time again. What happened in that orphanage happened for decades. These children trusted him like their own father--they didn't know what was going to happen to them.
+> 
+> That cretin has taken advantage of the very souls that confided in him, as a protector, a nurturer. He acts like someone who wants to connect and love these children, but a monster like him is incapable of love...
+> 
+> //No one in that church is.//
+> [[>]]
+> —Dr. Johan Mustermann
+> [[/>]]
+
+[[/tab]]
+[[tab DHC Request Log]]
+
+------
+DHC Request Log (██/██/1964)
+------
+
+**██████:** We’re sending you an mRNA sample to be introduced into a selected substrate for the HBW-223[[footnote]] (Humanoid) Hybrid Bio-Weapon [[/footnote]] project. The components are as follows: //Crocodylus porosus//, //Troglodytes gorilla//, //Dasypus novemcinctus//, and //Rhinoceros sondaicus//. 
+
+**Prof. Thiel:** Method of delivery?
+
+**██████:** Intramuscular injection, 2.5 mL per subject, divided across bilateral sites to ensure systemic uptake.  Expression should begin within 6–8 hours post-administration, with full systemic integration expected within 48 to 72 hours, assuming no rejection.
+
+**Prof. Thiel:** How many subjects will this require?
+
+**██████:** We will need ██ subjects. We will require a control group for the null vector.
+
+**Prof. Thiel:** Understood. What are the expected outcomes?
+
+**██████:** Initial musculoskeletal strain, followed by rapid cellular restructuring of the entire body. Dermal thickening is likely. Monitor for abnormal keratinization or ossification.
+
+**Prof. Thiel:** And failure cases?
+
+**██████:** Organ collapse within the first 24 hours, the subject will be disposed once concluded to be nonviable. We will however, preserve samples where possible.
+
+**Prof. Thiel:** And if integration succeeds?
+
+**██████:** Then we will  have something worth continuing.
+
+**Prof. Thiel:** ... Very well. I will begin preparations
+
+**██████:** What will be their codes?
+
+**Prof. Thiel:** 330, 329. They'll be modified for strength in a bit. Then I can supply  326, 325, and 324. But, before testing, I should note that you 324 started calling himself ████.
+
+**██████:** Since when did you give DHCs names?
+
+**Prof. Thiel:** Since they asked for one.
+
+------
+DHC Request Log (██/██/1989)
+------
+
+**█████:** They’re creating a new strand of [http://rpcauthority.wikidot.com/rpc-714 Carcinmetalloplastics.]
+
+**Prof. Thiel:** What is it of?
+
+**█████:** Classified.
+
+**Prof. Thiel:** I assume they want test subjects?
+
+**█████:** Yes.
+
+**Prof. Thiel:** What happened to the last one?
+
+**█████:**
+[[div style="border: 1px solid #a6a6a6; background: black; display: inline-block; text-align: center;"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ricmod/Experiment6.png width="200px"]]
+[[/div]]
+[[div style="border: 1px solid #a6a6a6; background: black; display: inline-block; text-align: center; width:201px; height:201px;"]]
+[[/div]]
+
+**Prof. Thiel:** I see the issue. Remember to lower the dosage. 3.4 million cells / 60 mL.
+
+**█████:** Isn't 4.0 mil universal?
+
+**Prof. Thiel:**  DHCs are susceptible to tumors and viral infections. 
+
+**█████:** Understood. Dosage will be reduced.
+
+**Prof. Thiel:** Will they be seeing military action after the procedure?
+
+**█████:** Very is likely. The ███████ has been running out of manpower. Do you have stronger models?
+
+**Prof. Thiel:** Yes, but they will come with a price. 
+
+**█████:** How much?
+
+**Prof. Thiel:** {{[REDACTED]}}
+
+**█████:** That will be covered.
+
+**Prof. Thiel:** I'll supply the models in ██ days.
+
+------
+DHC Request Log (██/██/2007)
+------
+
+{{[REDACTED]}}
+
+**Prof. Thiel:** Did someone in particular request the items?
+
+**███████:** John wants to take a crack at it.
+
+**Prof. Thiel:** Which John is it?
+
+**███████:** [http://rpcauthority.wikidot.com/rpc-183 The surgeon.]
+
+**Prof. Thiel:** More of them? Has his skills sharpened yet?
+
+**███████:** That’s a funny way to put it. He’s a miracle worker, you know? Who knows the extent of his capabilities?
+
+**Prof. Thiel:** How many is he requesting? 
+
+**███████:** ██
+
+**Prof. Thiel:** I can give him ██ instead.
+
+**███████:** Sounds good.
+
+**Prof. Thiel:** Make sure to recycle the items after they are used.
+
+**███████:** He says he's not confident he can keep an item alive after {{[REDACTED]}}
+
+**Prof. Thiel:** Miracle worker, you say?
+
+**███████:** We all have our limits. He does want to see if he can minimize blood loss by using the same subject.
+
+[[div style="border: 1px solid #a6a6a6; background: black; display: inline-block; text-align: center;"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ricmod/Experiment2.png width="200px"]]
+[[/div]]
+
+[[div style="border: 1px solid #a6a6a6; background: black; display: inline-block; text-align: center;"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ricmod/Experiment4.png width="200px"]]
+[[/div]]
+
+**Prof. Thiel:** Which one is that?
+
+**███████:** DHC-185. Its name was █████, was it?
+
+**Prof. Thiel:** It's a bloody mess. It's a waste of a DHC on something so superfluous. They are expensive.
+
+**███████:** He will try better. The item is still conscious, and can still operate as a useful asset.
+
+**Prof. Thiel:** That //thing// is still alive?
+
+**███████:** Yes, it has a functioning {{[REDACTED]}} so it can metabolize and compute.
+
+**Prof. Thiel:** Careful around the ██-██ ████. If he severs that strand, the DHC will be able to scream again.
+
+**███████:** Noted.
+------
+
+> I don't know what to make of this recording. It feels familiar, in a way. Listening to their voices, their cries. I distinctly remember seeing the same kind of anger and hatred in his eyes.
+> 
+> The Church of Malthus is more fractured than it presents itself to be. They will never find a satisfying resolution to their goal. Such is their fate.
+> [[>]]
+> —Dr. Johan Mustermann
+> [[/>]]
+@@ @@
+
+[[/tab]]
+[[tab Waisenhaus Transcript 2]]
+@@ @@
+**Waisenhaus Transcript No. 2** (██/██/200█)
+
+**Location:** Waisenhaus backyard
+**Participants:**  Multiple DHC subjects (unidentified), Prof. Thiel
+
+(Record translated from German)
+------
+
+{{[Recording started: 13:11:33]}}
+
+**DHC-18-09:** When do you think it’ll be our turn to get adopted? 
+
+**DHC-18-11:** Stop recording me.
+
+**DHC-18-09:** Answer the question.
+
+**DHC-18-11:** I don’t know. I think I prefer growing up and serving the Church later.
+
+**DHC-18-09:** That’s a lame dream.
+
+**DHC-18-11:** Shut up. //Give me the camera!//
+
+[ //DHC-18-44 begins crying.// ]
+
+**DHC-18-14:** You’re going to make the baby cry.
+
+[ //DHC-18-14 cradles DHC-18-44 and rocks him slowly.// ]
+
+**DHC-18-14:** //Poor baby… It’s okay… Breathing is uneven. Heart rate elevated…//
+
+[ //DHC-18-09 stands up and inspects DHC-18-44.// ]
+
+**DHC-18-09:** What’s wrong with him?
+
+**DHC-18-14:** He’s been crying ever since he watched that [http://rpcauthority.wikidot.com/rpc-130 creepy TV show.] 
+
+**DHC-18-09:** Is it the one with the campfire?
+
+**DHC-18-14:** Yes, exactly. 
+
+**DHC-18-12:** (//Chuckles//) Remember when he kicked the screen and shattered it? //And you were screaming like a baby!//
+
+**DHC-18-14:** //I did not!//
+
+**DHC-18-11:**  I thought the Professor got rid of that channel. He seemed really angry when he saw us watching it. 
+
+**DHC-18-09:** Could it be about what the Professor said about the other sects of the Church? That they’re all //suspicious?//
+
+**DHC-18-11:**  He has been stressing out about the other Church sects. If he hates them so much, why does he let them adopt us?
+
+**DHC-18-12:** Who knows. Not that it matters. There hasn’t been anyone adopted in half a year.
+
+**DHC-18-14:** There were a lot of other Church members that’s been visiting us and giving us gifts recently, though! I think the Professor still wants us to see them.
+
+**DHC-18-09:** You know what he says. Don’t take gifts from strangers.
+
+[ //DHC-18-14 sighs.// ]
+
+[ //A loud horn is heard from the distance. The DHC subjects immediately raise their heads to watch a cloud of smoke float out of the roofs of Waisenhaus Nr. 9.// ]
+
+**DHC-18-11:** Looks like someone actually got adopted. 
+
+**DHC-18-12:**  I guess I was wrong.
+
+**DHC-18-09:** I wonder who it is.
+
+[ //DHC-18-44 has stopped crying. He stares blankly in the direction of the smoke.// ]
+
+------
+
+[ //The DHC subjects arrive at the villa’s furnace room. Several boxes are lying around on the ground.// ]
+
+**Prof. Thiel:** //Children?// What are you four doing here? 
+
+**DHC-18-09:** We saw the smoke and wanted to know who got adopted? 
+
+**Prof. Thiel:** Now is not the time. 
+
+**DHC-18-11:** Did something happen, Professor?
+
+[...]
+
+**Prof. Thiel:** Everyone, go back to your room, and tell the other kids to stay indoors. //Don’t go out.//
+
+**DHC-18-14:** Professor, what’s going on?
+
+**Prof. Thiel:** //Now is not the time.// Go, now. 
+
+[ //The DHC subjects look at each other, then silently complied.// ]
+
+------
+
+[ //The camera pans to a window overlooking Waisenhaus Nr. 9’s outdoors.// ]
+
+**DHC-18-09:** Was that [http://rpcauthority.wikidot.com/rpc-805 tree] always there?
+
+[ //The other DHC subjects gather around to look outside the window.// ]
+
+**DHC-18-14:** Let Miss Lettuce see too.
+
+[ //The subjects make space, allowing a juvenile [http://rpcauthority.wikidot.com/rpc-134 tortoise] to climb up on a table near the base of the window.// ]
+
+**DHC-18-09:** Look at that, that’s the professor!
+
+[ //Prof. Thiel can be seen wearing a hazmat suit while carrying a chainsaw. He approaches the pine tree and begins cutting it.// ]
+
+**DHC-18-11:** I guess that tree wasn’t always there.
+
+**DHC-18-14:** I didn’t know trees could grow that fast. //Scary.//
+
+{{[Recording ended: 14:42.02]}}
+
+------
+
+> I don't know what to make of this recording. It feels familiar, in a way. Listening to their voices, their cries. I distinctly remember seeing the same kind of anger and hatred in his eyes.
+> 
+> The Church of Malthus is more fractured than it presents itself to be. They will never find a satisfying resolution to their goal. Such is their fate.
+> [[>]]
+> —Dr. Johan Mustermann
+> [[/>]]
+
+[[/tab]]
+[[tab Letter to Johan]]
+
+------
+
+**To my dearest Johan**,
+
+This is an abrupt letter, considering your young age. Yet I know that one day you will read these words, and that the paths the RPC Authority charts will bring us together again.
+
+I know you have many questions and suspicions about your true origins. Let me put them to rest: though you certainly were a part of Waisenhaus Nr. 9, and I never intended for you to be a DHC. You are not alone in that. Lost children are scattered across the world, living ordinary lives. You can try to look for your lost brothers and sisters, if you want. But among them, it’s only you, who I believe, will find me.
+
+For decades, I have kept a secret from the wider Church of Malthus. An experiment, if you will, but not one of science or empiricism. Rather, it is an experiment born of my intuition, a test of the nature of fate itself. A foolish one, perhaps, yet I have pursued it nonetheless. I believe that fate will guide you to this letter, and that it will guide us to meet again.
+
+Are you aware of how our Church was founded? It began as nothing more than a simple experiment. An idea conceived by Thomas Malthus, passed down to his disciples, and left to take root in the minds of those who followed them. Over time, it festered, growing beyond its origin into something monstrous.
+
+Now it is broken, a distorted reflection of what it once was. Its chapters turn on one another, each convinced they alone are Malthus’s true successor. And yet, they remain bound by the same blood that sustains them. It is the experiment that began it all: an eternal legacy that will remain pure no matter how many times it was desecrated.
+
+You are a continuation of that experiment, as were your brothers and sisters.
+
+Yours, always, Albrecht
+
+------
+
+[[=]]
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/ricmod/postcard.jpg|caption= Find me.|width=400px|align=center|enlarge=false]]
+
+[[/=]]
+
+> I don't know why I joined the Authority in the first place. Many of its dealings make me sick to my stomach. It's sometimes hard for me to come to terms with the fact that I'm no longer in the Church of Malthus. I suppose it really is fate, then.
+> [[>]]
+> —Dr. Johan Mustermann
+> [[/>]]
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+------
++++ **Addendum 580.3**
+
+In 2024, after an extended investigation tracking potential RPC-580-1 instances operating in the open, MST Sierra-8 (“Sundowners”)[[footnote]] [http://rpcauthority.wikidot.com/sierra-8-sundowners MST Sierra-8] is an investigative task force assigned to protecting Authority assets from internal and external threats. [[/footnote]] located PoI-4883 in the company of Dr. Mustermann. 
+
+Surveillance of his movements over the following years culminated in his capture on 03/20/2026 in the city of Prague, Czech Republic. PoI-4883 offered no resistance and requested that Dr. Mustermann conduct a personal interview with him.
+
+[[collapsible show="+ Interview PoI-4883 (03/22/2026)" hide="- Interview PoI-4883 (03/22/2026)"]]
+[[div class="blockquote"]]
+
+[[=]]
+------
++++ Interrogation of Prof. Albrecht Thiel
+------
+[[/=]]
+
+**Interviewed:** PoI-4883 (Prof. Albrecht Thiel)
+
+**Interviewer:** Dr. Johan Mustermann
+
+**Foreword:** PoI-4883 was arrested by MSTs and placed in Dr. Mustermann's office at Site-026 for interrogation.
+
+------
+
+[[=]]
+{{[Recording started]}}
+[[/=]]
+
+**Dr. Forster:** Johan, are you okay?
+
+**Dr. Mustermann:** I-I'm alright. 
+
+[ //Dr. Forster notices Dr. Mustermann's panicked state and calms him down.// ]
+
+**Dr. Forster:** Calm down, Johan, breathe. Easy now.
+
+**Dr. Mustermann:** H-he's in my office. (//Choking on breath//) He's waiting for me, I don't know if I--I can't do this.
+
+[ //Silence// ]
+
+**Sherry:** Johan? What's going on? 
+
+[ //Dr. Forster quickly takes Sherry's hand and blocks her from the sight of Dr. Mustermann's office.// ]
+
+**Dr. Forster:** No, no, Sherry. This isn't a place for you to be.
+
+**Dr. Mustermann:** Sherry, go play with the other kids... //Please.//
+
+[ //Sherry catches a brief glimpse of PoI-4883 through the window of the office, then looks back at Dr. Mustermann.// ]
+
+**Dr. Forster:** Johan, you've got this.
+
+**Dr. Mustermann:** ...
+
+**Dr. Forster:** //Give him hell.//
+
+[ //Dr. Forster leads Sherry out of the room.// ]
+
+**Dr. Mustermann:** (//Deep breath//) Alright...
+
+[ //Dr. Mustermann calms down and finally enters his office.// ]
+
+**Dr. Mustermann:** Professor Thiel... You're... finally here.
+
+**PoI-4883:** As I live and breathe. 
+
+[ //PoI-4883 sits down on a nearby couch.// ]
+
+**PoI-4883:** Johan... I've been wanting to see you once again for a long time. 
+
+[...]
+
+**PoI-4883:** It's good to see you again.
+
+[ //Noticing other personnel looking through the window, Dr. Mustermann walks past PoI-4883 to pull the blinds shut.// ]
+
+[ //Silence// ]
+
+**Dr. Mustermann:** I can't say the same. In fact I... I wish you were dead.
+
+**PoI-4883:** (//Chuckles.//) I'd love to, God knows I'm too old to be walking and breathing. But life finds a way, willingly or not. It's the law of nature, //survival of the fittest.// You taught me that, in a way.
+
+**Dr. Mustermann:** I didn't teach you anything.
+
+**PoI-4883:**  No? Survival. Adaptation. You’ve done quite well for yourself.
+
+**Dr. Mustermann:** If I--If I killed you right now, would that be part of your ‘natural order’?
+
+**PoI-4883:** It would, I wouldn't admonish it. Further proof that you are what we say you are.
+
+**Dr. Mustermann:** (//Softly.//) I'm just a nobody, and I'd better hope and pray it stays that way. There's no special destiny waiting for me. I just want to live the best life I can. 
+
+**PoI-4883:** Aren't we all?
+
+**Dr. Mustermann:** I consider the best life to live is a //moral// one.
+
+**PoI-4883:** You’re able to afford living that so-called moral life because you’re strong. Stronger than the others, at least.
+
+**Dr. Mustermann:** What happened to everyone else when you left the villa?
+
+**PoI-4883:** Oh, Johan... You know the answer to that question.
+
+[ //Dr. Mustermann sighs and covers his face in frustration.// ]
+
+[ //PoI-4883 looks over at the office window. Upon seeing that no one else is watching, he breaks his metal handcuffs and throws their remains into the trash can. He stands up out of his chair to stretch.// ]
+
+**PoI-4883:** This is a nice office you have here. Doctorate at seventeen and a head researcher at twenty-five. You're a prodigy, you know that? If those Ahnenerbe[[footnote]] A branch of the GARD focused on anomalous science, population control, and eugenics [[/footnote]] were to see you now, they would jump up with joy.
+
+**Dr. Mustermann:** Sit back down, you're still under arrest.
+
+[ //PoI-4883 sits back down.// ] 
+
+**PoI-4883:** Sorry about the handcuffs, they're a bit uncomfortable. 
+
+**Dr. Mustermann:** I'll put a new one on you after the interview is over.
+
+**PoI-4883:** You're not as panicked as I would've hoped.
+
+[...]
+
+**PoI-4883:** Is there anything you want to talk to your professor? Anything in particular?
+
+**Dr. Mustermann:** I have… a lot of things I want to say. But… they’re better off forgotten.
+
+[ //PoI-4883 picks up a canister of RPC-580 samples to look at them more closely.// ] 
+
+**PoI-4883:** We both learned a lot about ourselves this past year, haven't we? Looking at this canister, I can't help but feel a little nostalgic. How about you? Do you remember being... //this?//
+
+[ //PoI-4883 sets the cannister down and pushes it towards Dr. Mustermann.// ] 
+
+**PoI-4883:** How does it feel to be a clone?
+
+**Dr. Mustermann:** ... How do you think I'm supposed to feel? It's... It's nothing to me. I'm still human.
+
+**PoI-4883:** Of course you are. But in a way, you were made lesser than us.
+
+**Dr. Mustermann:** To a monster like you, maybe I am. But if anyone here is inhuman, it would be you. 
+
+**PoI-4883:** (//Chuckles//) I don't deny it.
+
+**Dr. Mustermann:** How could you do something like that? To your fellow humans, treating them like animals to be vivisected. //No,// even if you did the things you've done to an animal, it would've been needlessly cruel. 
+
+**PoI-4883:** Fellow humans, is it? Shouldn't human experimentation be something you're deeply familiar with?
+
+[ //Angered, Dr. Mustermann stands out of his chair and slams the table.// ]
+
+**Dr. Mustermann:** //Shut the fuck up!// We’re nothing like that. //Don’t you dare compare us to the likes of you.//
+
+**PoI-4883:** Are you, now?
+
+**Dr. Mustermann:** The people we run tests on, they're criminals! Condemned to death, they did something bad, and we're just--
+
+**PoI-4883:** Does that excuse the things you did to those confined subjects?
+
+**Dr. Mustermann:** I was never part of any C&D tests, and believe me, I'm more adamant against their use than any member of Ethics and Reviews. But you, you and your church, you've been conducting all your experiments on //children.//
+
+**PoI-4883:** And the Authority never indulged itself in such... experiments?
+
+[ //Silence// ]
+
+**PoI-4883:** They were born with purpose, and they fulfilled it. I made sure that their deaths are never in vain.
+
+**Dr. Mustermann:** How can you say that? You've pretended to be their father, but you never cared abo--
+
+**PoI-4883:** I did care about them.
+
+**Dr. Mustermann:** //You used them!//
+
+**PoI-4883:** I //raised// them.
+
+[...]
+
+**PoI-4883:** Each and every one of them, I wanted nothing more than to see them succeed and become the children of the future. I've fed them, clothed them, sheltered them, tutored them. I remember each and every one of their names, the things they've loved and despised. //They are my children.//
+
+**Dr. Mustermann:**  That's not what love is. //That's not what love is!//
+
+[ //PoI-4883 begins laughing.// ]
+
+**Dr. Mustermann:** Are you seriously laughing right now? //You think this is just some game?//
+
+**PoI-4883:** No, of course not! There's nothing funny about this at all. You know what this is, my son? 
+
+**Dr. Mustermann:** What?
+
+**PoI-4883:** A grand experiment. eighty-one years in the making, and I was there back when it started, and I've lived long enough to see it through today. These past twenty-five years, it's been a blessing, truly. I'm grateful I could speak to you face-to-face.
+
+**Dr. Mustermann:** Experiment? 
+
+**PoI-4883:** //You are part of it.//
+
+[...]
+
+**Dr. Mustermann:** I want you to be honest with me. Who did RPC-580's template come from?
+
+**PoI-4883:** Oh, it's someone you recognize, for sure! He was an old man back then, but he wanted to see his vision come true, so he gave us a piece of himself for safekeeping. I have no doubt in my mind he'd despise what the Church has become today, but when it comes to you, son, oh, I'm sure he'd be so proud. 
+
+**Dr. Mustermann:** Who are you talking about? 
+
+**PoI-4883:** //Thomas Robert Malthus.//
+
+[...]
+
+**Dr. Mustermann:** ... That’s supposed to mean something to me?
+
+**PoI-4883:** He would've been proud of you.
+
+[ //Dr. Mustermann sits back down and rubs his temple.// ]
+
+**Dr. Mustermann:** Malthus was just a man, nothing more. He thought he saw a problem with the world, and published his essay on it. That… that’s all there is to it. That’s all there should be to it.
+
+**PoI-4883:** You're angry.
+
+**Dr. Mustermann:** //Of course I’m angry!// The Church has been a scourge in my life ever since I was born. //They took everything away from me!// And now you’re telling me that man is my father? What’s even the point? It’s not like you all actually worship him.
+
+**PoI-4883:** Of course, we know that. He knew that too. And yet, we named our church after him because we thought we could change the world. There is no particular reason why we chose him. He wasn’t especially strong, nor as intelligent as some of the men he tutored.
+
+**Dr. Mustermann:** Then why… why did it have to be him?
+
+**PoI-4883:** It’s simple. It’s a far more romantic proposition, don’t you think? He offered his own flesh and blood to die in his name. The lost children of Malthus.
+
+
+[[=]]
+{{[Recording deleted]}}
+[[/=]]
+
+------
+
+**Foreword:** Dr. Mustermann and PoI-4883 continued their discussion in private for 3 hours. Following the interview, PoI-4883 was transferred into ASF custody for relocation. During transit, PoI-4883 incapacitated the assigned guards and successfully escaped.
+
+Dr. Mustermann declined to provide a detailed statement regarding the incident.
+
+
+> It's not surprising. He means nothing to me now.
+> [[>]]
+> --Dr. Johan Mustermann
+> [[/>]]
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[=]]
+[[collapsible show="+ Footnotes" hide="- Footnotes"]]
+[[<]]
+
+[[div class="blockquote"]]
+[[footnoteblock]]
+
+@@ @@
+[[/div]]
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+[[=]]
+<< [[[RPC-579]]] | RPC-580 | [[[RPC-581]]] >>
+[[/=]]
+

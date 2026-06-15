@@ -1,0 +1,203 @@
+---
+title: "MI13 Format Guide"
+tags: ["guide", "mi13"]
+page_id: "1460486083"
+site: "rpcauthority"
+slug: "mi13-format-guide"
+revision: 1
+revision_id: "1532643876"
+author: 2947029
+timestamp: 1759551967
+---
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/component:mi13-theme/code/1);
+[[/module]]
+
+This is the reworked MI13 Format. Much of the necessary CSS has been converted to components already. MI13 files are organized into a collection under tabs
+
+To begin, use the URL __@@http://rpcauthority.wikidot.com/no-####@@__ when making new MI13 articles. Then title your article No. ####.
+First off, add this at the very top of your article. This will allow the hub to read your title.
+> @@[[span class="listresize" style="font-size: 0px; line-height: 0px;"]] TITLE [[/span]]@@
+Below, add the CSS module.
+> [[module css]]
+> @import url(http://rpcsandbox.wikidot.com/component:mi13-theme/code/1);
+> [[/module]]
+
+Secondly, there's the __optional__ Memorandum Notice, the things to keep in mind here are its **Clearance Level** (and their color code) which are as follows: ##royalblue|**UNCLASSIFIED (OFFICIAL)** (royalblue)##, ##lime|**PROTECTED** (lime)##, ##greenyellow|**RESTRICTED** (greenyellow)##, ##yellow|**CONFIDENTIAL** (yellow)##, ##orange|**SECRET** (orange)##, ##red|**TOP SECRET** (red)##[[footnote]] Keep in mind that the GPMS security format has been retired in 2014. ##royalblue|**OFFICIAL**## now encompass anything below ##orange|**SECRET**## clearance. [[/footnote]]; and a signature from the Prime Minister of UK[[footnote]] Which you can find on Wikipedia [[/footnote]]
+
+
+[[tabview]]
+
+[[tab Memorandum Notice]]
+
+> [[include component:mi13front
+> |level={CLEARANCE}
+> |color={COLOR}
+> |sign={PM SIGNATURE}]]
+
+[[include component:mi13front
+|level=OFFICIAL
+|color=royalblue
+|sign=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tony_Blair_autograph.svg/1920px-Tony_Blair_autograph.svg.png]]
+
+[[/tab]]
+
+[[tab Document No. ####]]
+
+[[include component:mi13top
+|fileno=####
+|station=Yorick Station
+|location=Camelot Ter.
+|status=exhibited
+|date=30/03/2018
+|risk=moderate
+|title=Anderson Case]]
+
+
+Top component:
+> [[include component:mi13top
+> |fileno= ####
+> |station=
+> |location=
+> |status=
+> |date= DD/MM/YYYY
+> |risk=
+> |title=
+> ]]
+
+[[include component:mi13image2 width=300px|align=right
+|image= http://rpcsandbox.wdfiles.com/local--files/component:mi13image-base/sketch.png
+|style=filter: invert(1)
+|card= fig.1
+|caption=**Entity/Artefact Note:**
+|note= - Anomalous Characteristic
+|show=show]]
+++ Safety Procedure
+
+The 5 **Threat Levels** are:
+* minimal
+* substantial
+* moderate
+* severe
+* critical
+
+The 5 **Display Status** are:
+* stationed
+* displayed
+* exhibited
+* gated
+* removed 
+
+LOCATION indicates the object’s specific residence, which may be a building, database, or individual custodian.
+
+~~~~
+----
+++ Synopsis
+
+Extra image component
+> [[include component:mi13image2 width=250px|align=right
+> |image=
+> |card=
+> |caption=
+> |note=
+> |show=show]]
+
+Bottom right image block
+> [[include component:mi13classified]]
+
+[[>]]
+[[image http://rpcsandbox.wdfiles.com/local--files/progression-page-ii/ClassifiedSymbol.png style="width: 70px;"]]
+[[size 13px]] **CLASSIFIED**[[/size]]
+[[/>]]
+
+[[/tab]]
+
+[[tab Attachment-##]]
+
+> [[include component:mi13adden
+> |title={TITLE}
+> |sender={CORRESPONDENTS}
+> ]]
+
+component to attach at the end of each addendum tabs
+> [[include component:mi13adden-end]]
+
+For the interviews, use this component
+
+> @@[[div class="blockquote" style="margin: 1em 0;"]]@@
+> 
+> [[include component:mi13inv
+> |title= 
+> |interviewed= 
+> |interviewer= 
+> |date= DD MONTH, YYYY
+> ]]
+> 
+> INSERT YOUR INTERVIEW HERE
+> 
+> @@[[/div]]@@
+
+
+[[include component:mi13adden
+|title=Attachment ####-##
+|sender=MI13
+]]
+
+Attachment title combines the file number + 2-digit number (e.g. 01)
+
+Each Attachment should be addressed (see **sender**) to relevant government agencies (City Hall, Camelot Council)or institute (e.g. the RPC Authority, Cornwall Institute etc.)
+
+[[include component:mi13inv
+|title={TITLE}
+|interviewed={INTERVIEWEE}
+|interviewer={INTERVIEWER}
+|date={DATE}
+|content=
+Additionally provided is the format for recordings
+> @@[[include component:mi13inv@@
+> @@title=@@
+> @@interviewed=@@
+> @@interviewer=@@
+> @@date=@@
+> @@content=@@
+> @@]]@@
+]]
+
+[[include component:mi13adden-end]]
+
+[[/tab]]
+
+[[tab Tagging]]
+> [[include component:mi13tag
+> |tag= 
+> ]]
+
+Put the tag at the end of the tabview. Put a link on the tag if necessary. 
+@@ @@
+[[include component:mi13tag
+|tag= Minimal, Stationed, Entity, [http://rpcauthority.wikidot.com/children-of-nihil-hub Nihil]
+]]
+
+**Some recommended tags:**
+
+Minimal / Substantial / Moderate / Severe / Critical
+Stationed / Displayed / Exhibited / Gated / Removed
+Entity / Artefact / Phenomenon / Location / Misc.
+Linked tag (if applicable)
+
+[[/tab]]
+
+[[tab Footnotes]]
+
+> @@[[footnoteblock]]@@
+
+[[footnoteblock]]
+
+[[/tab]]
+
+[[/tabview]]
+
+[[include component:mi13tag
+|tag= Moderate, Exhibited, Entity, [http://rpcauthority.wikidot.com/no-0456 Cornwall]]]
+

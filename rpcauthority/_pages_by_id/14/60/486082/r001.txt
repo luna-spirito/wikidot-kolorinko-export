@@ -1,0 +1,14 @@
+---
+title: "Mi13front"
+tags: ["component"]
+page_id: "1460486082"
+site: "rpcauthority"
+slug: "component:mi13front"
+revision: 1
+revision_id: "1532643860"
+author: 2947029
+timestamp: 1759551901
+---
+
+[[include component:mi13front-base level={$level}|color={$color}|sign={$sign}]]
+

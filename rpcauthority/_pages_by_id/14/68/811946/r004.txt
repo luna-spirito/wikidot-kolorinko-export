@@ -1,0 +1,225 @@
+---
+title: "RPC-468"
+tags: ["alpha", "invisibility-hazard", "mechanical-hazard", "rpc", "sensory-hazard", "transmutation-hazard", "yellow"]
+page_id: "1468811946"
+site: "rpcauthority"
+slug: "rpc-468"
+revision: 4
+revision_id: "1544460555"
+author: 7013424
+timestamp: 1780675863
+---
+
+[[include component:rate]]
+
+[[module css]]
+:root {
+--nav-hover-background: #472d75;
+ 
+--body-background: #080808;
+--header-icon: url(https://rpcauthority.wdfiles.com/local--files/rpc-381/RPCA.jfif);
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablacksite-theme/Black_Site_Header.png);
+ 
+--star-rating-background: rgba(0,0,0,0.15);
+--star-rating-reading-background: rgba(0,0,0,0.15);
+--binary-rating-background: rgba(0,0,0,0.15);
+ 
+--search-button-background: black;
+--search-button-hover-background: #111;
+--search-input-color: black;
+--search-input-hover: #111;
+ 
+--sidebar-header-color: white;
+--sidebar-hover-background: white;
+--sidebar-hover-color: black;
+--sidebar-mobile-open-menu-color: #c0c0c0;
+--sidebar-mobile-open-menu-border: 3px solid #c0c0c0;
+--sidebar-mobile-open-menu-background: black;
+--sidebar-mobile-background: black;
+ 
+--page-title-color: #eee;
+ 
+--blockquote-background: rgba(0,0,0,0.4);
+--blockquote-border: none;
+--blockquote-border-radius: 5px;
+--blockquote-padding: 1px 10px;
+ 
+--content-panel-border: none;
+--content-panel-background: rgba(255,255,255,0.05);
+--toc-background: rgba(0,0,0,0.15);
+--content-panel-border-radius: 10px;
+--content-panel-padding: 15px;
+ 
+--image-block-caption-background: rgba(0,0,0,0.15);
+ 
+--tabview-background: rgba(0,0,0,0.15);
+--tabview-button-background: rgba(0,0,0,0.4);
+--tabview-button-selected-background: #2d224f;
+--tabview-button-hover-background: #2d224f;
+--tabview-bar-color: #444;
+--tabview-button-border: none;
+--tabview-border: 2px dashed #444;
+--tabview-side-border: 2px solid var(--content-bar-background);
+--tabview-side-button-hover-background: var(--tabview-button-hover-background);
+--tabview-side-button-selected-background: #36285d;
+--tabview-side-scrollbar-thumb-background: #383249;
+--tabview-side-scrollbar-thumb-hover-background: #343041;
+ 
+--link-color: #7652e1;
+--link-hover-color: #a185f6;
+--new-page-color: #483a75;
+--sidebar-crit-corner-color: #714cb5;
+ 
+--page-background: #151515;
+--page-padding: 15px;
+--page-border-radius: 15px;
+--header-text-visibility: hidden;
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'Research. Protection. Containment.';
+ 
+--header-tagline-color: #e5e5e5;
+ 
+--star-rating-hue: 45deg;
+ 
+--sidenote-open-background: #291f36;
+
+}
+[[/module]]
+[[include :rpcauthority:component:special-box number=468|
+object-class=Alpha|
+lethality-rating=Yellow|
+symbol=alpha-yellow|
+invisibility=true|
+transmutation=true|
+sensory=true|
+mechanical=true|
+]]
+[[include component:image-block
+    name=https://rpcauthority.wdfiles.com/local--files/rpc-468/metamaterials.png
+    |caption=[https://rpcauthority.wdfiles.com/local--files/rpc-468/metamaterials.png RPC-468 at █████████ Magnification]
+]]
++++ **Containment Protocols:**
+RPC-468 material covering [http://rpcauthority.wikidot.com/rpc-381 OL-Site 381] is to be left in place. All other instances of RPC-468 material are to be contained on-site at OL-Site-381 in Secure Locker 468. Access to RPC-468 for testing or any other purpose must receive prior written approval from the site director and project lead in writing and requires clearance level 2-468. Instances of RPC-468 are to be handled with care. Direct contact whilst in its charged state is to be strictly avoided as is long-term proximity.[[footnote]]Long-term proximity is hereby defined as being located within 2 meters of an instance of RPC-468 for longer than 2 hours.[[/footnote]]
+
++++ **Description:** 
+RPC-468 refers to a metamaterial which coats the exterior of OL-Site-381. Its chief effect is to render everything it covers completely invisible to the human eye and undetectable to instruments; the material itself only becomes visible under high levels of magnification.[[footnote]]It's existence can also be indirectly detected by the appearance of certain visual effects which become apparent when in sufficient proximity to instances.[[/footnote]]
+
+Recovered materials indicate that RPC-468 is constructed via femtotechnology, i.e. matter manipulation on the femtometer scale.[[footnote]]10^^-15^^ meters, six orders of magnitude below nanotechnology.[[/footnote]] Ordinary matter has a large amount of empty space in between the nucleus and the orbiting electrons. In instances of RPC-468, this empty space is somehow compressed so that it resembles degenerate matter.[[footnote]]An incredibly dense, high-pressure state of matter found in collapsed stars, like white dwarfs and neutron stars.[[/footnote]]
+
+Testing has since demonstrated a secondary capability. When supplied with an electric charge of ███, the surface of the material becomes extremely resistant to the kinetic energy of projectiles and other incoming objects. 
+
+Whilst the exact threshold is currently unclear at this time, testing has shown that whilst slow-moving objects can still impact the material, objects moving at high speed are repelled whilst leaving the material itself undamaged. Projectiles that come into contact with RPC-468 in this manner are annihilated. The upper limit of this secondary ability has yet to be determined but is known to be somewhere below 3% light speed. 
+
+It is presently unknown why this secondary ability requires an electric charge to manifest or why these side effects occur. According to theoretical physics, such material should naturally possess incredibly high tensile strength. Moreover, it should also possess incredible levels of heat resistance, yet experimentation has shown instances of RPC-468 possess the same melting point as ordinary steel alloy.
+
+++++ **Test Log:**
+The following is a partial log of testing done involving RPC-468.
+> Test No.: 1
+> Projectile Type: Wooden Arrow.
+> Method: Compound Bow
+> Velocity: 75-90 m/s
+> Result: Projectile strikes and bounces off material whilst remaining intact.
+
+> Test No.: 42
+> Projectile Type: 9x19mm Parabellum Round (115 Grain)
+> Method: Semi-Automatic Handgun
+> Velocity: 350 m/s
+> Result: Projectile is annihilated. 
+
+> Test No.: 160
+> Projectile Type: Tungsten Slug.
+> Method: Railgun 
+> Velocity: 2,500 m/s
+> Result: Projectile is annihilated. 
+
+> Test No.: 433
+> Projectile Type: Proton.
+> Method: Particle Accelerator 
+> Velocity: 3% light speed.
+> Result: Proton collides with the instance and penetrates a few micrometers before coming to a stop. 
+
+The following information is classified at level 3-468:
+[[collapsible show=" + INPUT CREDENTIALS" hide=" - LOG OUT"]]
+Following these battery of tests to determine its durability, it was decided to involve live subjects to test RPC-468's effectiveness as a means of body armour. 
+
+> Test No.: 434
+> Description: Two (2) plates of RPC-468 is affixed to either side of a live specimen of //Bos taurus//[[footnote]](Domestic Cow or Cattle.)[[/footnote]], and an electrical charge is applied to the plates. 
+> Result: Upon applying an electrical charge to the RPC-468 plates, subject immediately fused with the instances resulting in instantaneous death. Instances are thus presumed unsuitable for direct contact with living matter.
+
+> Test No. 486
+> Description: A small structure is constructed out of RPC-468 instances around a live specimen of //Bos taurus//, and electrical charge is then applied to the structure. After several seconds, the supply of electricity is halted.
+> Result: The //Bos taurus// specimen is found apparently unharmed. 
+
+> Test No. 521
+> Description: Two plates of aluminium are affixed to a live specimen of //Bos taurus//, with instances of RPC-468 placed over the aluminium. Electric charge was then to be applied to see if separating the instances of RPC-XXX in such a manner was enough to counteract the previously observed negative side effects.
+> Result: Before the test can be initiated, the //Bos taurus// specimen broke free of its handlers and restraints and proceeded to charge at and ram other personnel in the testing chamber. Specimen was euthanised shortly afterwards. 
+
+Experimentation with RPC-468 involving live subjects has been discontinued following test no. 521 after the test specimen began displaying abnormal behaviours believed caused by memetic influence originating from RPC-468. 
+
+Materials recovered from GEAR rival, NuCorp, in our baseline reality revealed that they were working on similar technology, constructed using similar methods. One key piece of information absent from the recovered GEAR documentation, however, reveals that the original material sourced for this purpose was obtained from an alternate dimension.
+
+In its original state, this material apparently possessed anomalous properties not too dissimilar from the side effects of RPC-468. Said material was almost perfectly reflective but failed to reflect living beings. Moreover, living tissue that made contact with this material would be slowly absorbed. Experimentation on this material utilizing femtotechnology yielded RPC-468. 
+[[/collapsible]]
+
++++ **Discovery:**
+RPC-468 was discovered along with RPC-381 on ██/██/████ in Loving County, TX, USA. Investigations that ultimately led to the discovery of RPC-381 naturally led to the discovery of OL-Site-381, the exterior of which being coated in RPC-468. The precise nature of RPC-468 was not immediately apparent but was deduced shortly after discovery of OL-Site-381 itself. 
+
+Whilst the region where OL-Site-381 was discovered has a particularly low population density [[footnote]](0.036 inhabitants/sq km)[[/footnote]], some form of additional explanation as to how the site had avoided detection for so long was nevertheless needed as interior exploration revealed OL-Site-381 to be somewhere in the region of 4.16 sq km. 
+
+Study of removed samples have indicated that copyright information and a company logo are engraved on each individual panel of material.[[footnote]]Each panel is approximately 4' x 4' (1.21m x 1.21m) in area, with an approximate thickness of 5" (12.7cm)[[/footnote]] This was determined after those handling the material, who universally reported the material as being smooth to the touch, reported a series of indentations in one of the corners. 
+
+Plaster casts were then taken, and the text was then able to be read: 
+> InvisiSteel is the patented trademark of GEAR © 2025
+
+Efforts to reverse-engineer this material are ongoing. Use of this material for defensive and stealth purposes are also being researched at this time. 
+
++++ **Addendum:**
+The following information is classified at level 3-468:
+[[collapsible show=" + INPUT CREDENTIALS" hide=" - LOG OUT"]]Since the initial discovery of RPC-468, several caches of the material have surfaced elsewhere. Below is a partial log of noteworthy instances: 
+|| **No.** || **Location** || **Description** || 
+|| 1 || Bouvetøya, Antarctica (Norwegian Dependency) || A small research hut covered in RPC-468. ||
+|| 2 || Alert, Nunavut, Canada || Small research complex ██ miles ██ ° ███ from CSF Alert covered in RPC-468. ||
+|| 3 || Llanfairpwllgyngyllgogerychwyrndrobllllantysiliogogogoch, Isle of Anglesey, Wales, UK || A storage shed containing several cases containing instances of RPC-468.[[footnote]]Notably, this structure was not itself covered in RPC-468.[[/footnote]] ||
+|| 4 || Olympus Mons, Western Tharsis Rise, Mars[[footnote]]Given this site's location on Mars, any possible connection with the Soshi in baseline reality is also being looked into.[[/footnote]] || An abandoned, underground bunker built into the side of the mountain. It's outer walls are constructed of RPC-468. ||
+
+Research into the owners and/or operators of these facilities and their connection with GEAR is ongoing, although preliminary evidence implies an origin from outside baseline reality due to altered Anderson Coherency Scale readings. In addition to this, various documents collected from the above listed locations contained references to numerous unknown events, persons, and organisations believed to exist in dimensions outside our own. 
+
+Other abnormalities discovered included: human remains found fused into the walls, human remains found with their orifices sewn shut and their eyes removed, and symbols in an unknown language apparently written in human blood. This confirms what has been deduced through testing; that RPC-468 produces unstable effects on living subjects.
+
++++ **Recovered GEAR Documents:**
+[[div style="display: inline-block;border:solid 1px #444444; background: #FFFFFF;padding: 10px;"]] 
+= ##black|**Subject:** Update on Project InvisiSteel##
+
+##black|**Sender:** Dr. Torsten Lumber##
+
+##black|**Receiver:** Facility Manager Miles Cholmondley-Warner##
+
+##black|**Body:**##
+
+##black|We've ironed out most of the bugs with the finished product, but a few undesirable side effects still remain. Nevertheless, I think you'll find the latest samples produced by our facility to be sufficient for our purposes.##
+
+##black|Whilst we ourselves are not embroiled in this war, our clients who are nevertheless involved should leap at the chance for this kind of technology. Please advise as to whether or not you want us to enter into full production.##
+
+##black|-Dr. Torsten Lumber, Lead Researcher: Project InvisiSteel.##
+[[/div]]
+ _
+[[div style="display: inline-block;border:solid 1px #444444; background: #FFFFFF;padding: 10px;"]] 
+= ##black|**Subject:** Orders##
+
+##black|**Sender:** Facility Manager Miles Cholmondley-Warner##
+
+##black|**Receiver:** Dr. Torsten Lumber##
+
+##black|**Body:** Yes, I've reviewed the samples personally and myself and the higher ups agree that this will do for our client's needs. I don't know why they thought picking a fight with the Soshi would be a good idea, but that's their problem. As long as we're getting paid, that's enough for us. Permission for full production has been granted.##
+
+##black|-Facility Manager Miles Cholmondley-Warner##
+[[/div]]
+
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-467]]] | RPC-468 | [[[RPC-469]]] >> 
+[[/=]]
+

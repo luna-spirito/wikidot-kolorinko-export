@@ -1,0 +1,142 @@
+---
+title: "Mi13image2 Base"
+tags: ["component"]
+page_id: "1460371385"
+site: "rpcauthority"
+slug: "component:mi13image2-base"
+revision: 2
+revision_id: "1532273350"
+author: 4330657
+timestamp: 1757779049
+---
+
+[[module css]]
+
+/* Namespaced image-block component */
+
+.isb-image-block {
+  border: none;
+  max-width: 350px;
+  width: 100%;
+  background: none;
+  padding: 15px;
+  padding-bottom: 10px;
+  position: relative;
+  overflow: visible;
+  box-sizing: border-box;
+  margin-top: -7px !important;
+}
+
+/* alignment */
+.isb-image-block.isb-right  { float: right; clear: right; margin-left: 25px; }
+.isb-image-block.isb-left   { float: left;  clear: left; margin-right: 25px; }
+.isb-image-block.isb-center { margin-left: auto; margin-right: auto; display: block; }
+
+/* inner tables */
+.isb-image-block > table.isb-table,
+.isb-image-block > table.isb-table td,
+.isb-image-block > table.isb-table th {
+  overflow: visible;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* card inside */
+.isb-image-block .isb-card {
+  position: absolute;
+  top: -6px;
+  right: -15px;
+  width: 100px;
+  border: 2px solid #404040;
+  background: #cfc9ba;
+  color: black;
+  transform: rotate(5deg);
+  z-index: 2;
+  display: block;
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+}
+
+/* image */
+.isb-image-block img {
+  position: relative;
+  z-index: 1;
+  transform-origin: center center;
+  will-change: transform;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* image hover */
+.isb-image-block img.isb-enlarge-true:hover {
+  transform: scale(1.5);
+  z-index: 9999;
+  position: relative;
+}
+
+/* soften card on hover */
+.isb-image-block img.isb-enlarge-true:hover + .isb-card,
+.isb-image-block img.isb-enlarge-true:hover ~ .isb-card {
+  opacity: 0.96;
+  transition: opacity 0.12s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 769px) {
+  .isb-image-block {
+    float: none !important;
+    margin: 10px auto !important;
+    max-width: 90%;
+  }
+
+  .isb-image-block .isb-card {
+    top: -10px;
+    right: -10px;
+    width: 70px;
+    transform: rotate(4deg);
+  }
+
+  .isb-image-block table.isb-table {
+    width: 100% !important;
+  }
+
+
+[[/module]]
+
+[[div stlye="display:block;"]]
+
+[[div class="isb-image-block isb-{$align}" style="width:{$width}; margin: 1px 5px 2px 5px;"]]
+
+[[div class="isb-card"]]
+= {$card}
+[[/div]]
+
+~~~~
+
+[[table class="isb-table" style="border-collapse:collapse; border: 1px solid silver;"]]
+
+  [[row]]
+    [[cell style="border: 1px solid silver; text-align: center;"]]
+      [[image {$image} class="isb-enlarge-{$enlarge}" style="{$style}; width: {$width}; background: none!important;"]]
+    [[/cell]]
+  [[/row]]
+
+  [[row]]
+    [[cell style="border: 1px solid silver; background: silver; padding: 5px; color: black; display: {$caption}; text-align: center;"]]
+      {$caption}
+    [[/cell]]
+  [[/row]]
+
+  [[row]]
+    [[cell style="border: 1px solid silver; background: var(--primary-background); padding: 5px; padding-bottom: 20px; font-size: 12px;"]]
+      {$note}
+    [[/cell]]
+  [[/row]]
+
+[[/table]]
+
+[[/div]]
+
+[[/div]]
+

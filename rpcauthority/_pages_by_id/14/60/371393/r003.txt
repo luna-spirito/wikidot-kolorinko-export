@@ -1,0 +1,14 @@
+---
+title: "Mi13top"
+tags: ["component"]
+page_id: "1460371393"
+site: "rpcauthority"
+slug: "component:mi13top"
+revision: 3
+revision_id: "1532280576"
+author: 2947029
+timestamp: 1757820035
+---
+
+[[include component:mi13top-base fileno={$fileno}|station={$station}|location={$location}|date={$date}|status={$status}|status=none|risk={$risk}|title={$title}]]
+

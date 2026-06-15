@@ -1,0 +1,133 @@
+---
+title: "Mi13image Base"
+tags: ["component"]
+page_id: "1460371346"
+site: "rpcauthority"
+slug: "component:mi13image-base"
+revision: 1
+revision_id: "1532214660"
+author: 2947029
+timestamp: 1757474504
+---
+
+[[module css]]
+
+@media (max-width: 769px) {
+
+  .image-block {
+    width: 90% !important;   /* or any smaller % */
+    margin: 0 auto;          /* keep it centered */
+  }
+
+}
+
+.image-block {
+    border: none;
+    width: 350px;
+    background: none;
+    padding: 0px 0;
+}
+
+.image-block.block-right {
+    float: right;
+    clear: right;
+    margin-left: 25px !important;
+}
+ 
+.image-block.block-left {
+    float: left;
+    clear: left;
+    margin-right: 25px !important;
+}
+ 
+.image-block.block-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+ 
+/* Wikidot Tables */
+ 
+table.wiki-content-table th {
+    background-color: var(--table-header-background);
+    border: var(--table-border);
+    color: var(--table-header-color);
+    padding: 0em 0em;
+}
+ 
+table.wiki-content-table td {
+    background-color: var(--table-cell-background);
+    border: var(--table-border);
+    padding: 0em 0em;
+    color: var(--table-cell-color);
+}
+
+[[/module]]
+
+
+
+[[div class="image-block block-{$align}" style="width:{$width}; margin: 4px 5px 2px 5px;"]]
+
+[[div style="width: 150px; background: white; border: 3px solid #404040; background: #e4dfc1; color: black; float: right; margin: -15px -25px -100px 0; transform: rotate(6deg); display: {$card};"]]
+= {$card}
+[[/div]]
+
+~~~~
+
+[[table style="border-collapse:collapse; border: 1px solid white;"]]
+           [[row]]
+[[cell style="border: 1px solid white; width: 5px; height: 5px"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white; width: 5px; height: 5px"]]
+
+[[/cell]]
+           [[/row]]
+           [[row]]
+[[cell style="border: 1px solid white"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white; float: center"]]
+[[image {$image} style="{$style}; width: calc({$width} - 20px); background: none; box-shadow: none;"]]
+[[/cell]]
+[[cell style="border: 1px solid white"]]
+
+[[/cell]]
+           [[/row]]
+           [[row]]
+[[cell style="border: 1px solid white; width: 5px; height: 5px"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white; width: 5px; height: 5px"]]
+
+[[/cell]]
+           [[/row]]
+           [[row style="border: 1px solid white"]]
+[[cell style="border: 1px solid white"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white; padding: 5px"]]
+{$note}
+[[/cell]]
+[[cell style="border: 1px solid white"]]
+
+[[/cell]]
+           [[/row]]
+           [[row]]
+[[cell style="border: 1px solid white; width: 5px; height: 5px"]]
+
+[[/cell]]
+[[cell style="border: 1px solid white"]]
+[[/cell]]
+[[cell style="border: 1px solid white; width: 5px; height: 5px"]]
+
+[[/cell]]
+           [[/row]]
+[[/table]]
+[[/div]]
+

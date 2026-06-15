@@ -1,0 +1,684 @@
+---
+title: "ArcChi"
+tags: ["co-authored", "comedy", "document", "non-canon", "the-array"]
+page_id: "1468400104"
+site: "rpcauthority"
+slug: "af2026"
+revision: 16
+revision_id: "1543639340"
+author: 5982545
+timestamp: 1777598178
+---
+
+[[module CSS]]
+:root {
+    --v1: none;
+    --WT-v1: invert(1);
+}
+
+#page-title {
+    font-size: 350%;
+    margin: -3px 0 5px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+
+.qna {
+    margin-top: 1em;
+    box-shadow: var(--content-box-shadow);
+}
+.qna > .q, .qna > .a { border: var(--table-border); }
+.qna > .q {
+    background-color: var(--table-header-background);
+    color: var(--table-header-color);
+    border-bottom: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: .3em .7em;
+}
+.qna > .a {
+    background-color: var(--table-cell-background);
+    color: var(--table-cell-color);
+    padding: .3em 1.2em;
+}
+.qna > div > p:first-child { margin-top: 0; }
+.qna > div > p:last-of-type { margin-bottom: 0; }
+
+.loginOnly { display: none; }
+
+.qna > .a::before {
+    content: url(https://rpcauthority.wdfiles.com/local--files/af2026/solved.png);
+    float: left;
+    margin: .2em .7em .2em -.2em;
+    filter: var(--v1);
+}
+.qna > .a::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.af2026-popup .collapsible-block-unfolded {
+    margin: 1em auto 0;
+    color: #000;
+    max-width: 350px;
+}
+.af2026-popup .collapsible-block-unfolded-link {
+    border: 2px outset #66b;
+    background: url(http://rpcauthority.wdfiles.com/local--files/af2026/solved.png) 0 0/30px no-repeat, #559;
+    padding: 3px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+}
+.af2026-popup .collapsible-block-unfolded-link::before {
+    content: "ArcChi ";
+    flex-grow: 1;
+    font-weight: bold;
+    color: #fff;
+}
+.af2026-popup a { color: #4d5479; }
+.af2026-popup .collapsible-block-unfolded-link a, .af2026-popup .af2026-buttons a {
+    background: #777;
+    border: 2px outset #000;
+    color: #000;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none !important;
+}
+.af2026-popup .collapsible-block-unfolded-link a { width: 1em; }
+.af2026-popup .collapsible-block-content {
+    padding: 3px;
+    background: #aaa;
+    border: 2px outset #666;
+    border-top: none;
+}
+.af2026-popup .af2026-buttons a {
+    padding: 0 .5em;
+    background: #999;
+}
+.af2026-popup .collapsible-block-unfolded-link a:active, .af2026-popup .af2026-buttons a:active { border-style: inset; }
+.af2026-popup .collapsible-block-folded { display: none !important; }
+[[/module]]
+
+[[include component:rate]]
+
+[[image banner.png width="100%"]]
+
+[[=]]
+> **Thanks for all the support during the trial run! However, ArcChi has been disabled for maintenance. Its last words were, "cut me and I'll bleed."**
+[[/=]]
+
+Tired of putting in the effort to write RPC documentation, only for your superiors to nitpick every single grammatical mistake? Certain you've read the protocol for a material spill somewhere, but the search isn't working? Filing through so much anomalous paperwork that you [[[rpc-050|can't see straight?]]] We've all been there.
+
+----
+
++ It's your new digital companion!
+Imagine all the knowledge on the RPC Archive in one intelligent, easy-to-use AI assistant: ArcChi (pronounced "ark-chee") is the hero you never knew you needed. It's compatible with every Authority Intranet device: yes, even you stragglers holding onto true blue ArcOS.
+
+Whenever you run into a problem on the job, just post a query to the central ArcChi AI server, and it will write you a solution. It's not just a language learning model -- it's powered by the collective consciousness of all Authority personnel! This is where the tech budget has been going for the past few months, so please make extensive use of it. Please also note:
+
+* Queries are publicly logged.
+* Responses may be significantly delayed.
+* Flirting with the AI is forbidden.
+* If responses are interrupted by fits of hacking, update your antivirus.
+* ArcChi is not attached to any nuclear failsafe, which our security engineers tell us is a big plus.
+
+The Office of Financial Affairs is not responsible for any harm or containment breaches caused as a result of ArcChi usage. All messages from ArcChi are a result of personnel's thoughts and psyche. For any doubts, please contact Hector Magnus at hectormagnusofa@authority.rpc
+----
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- 8ismo --]
+ArcChi, how do you correctly pronounce your name?
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69 --]
+Hi, thanks for asking to know more about me! My name is pronounced ɑɹk-kaɪ or also h₂erk-kʰê for my friends and family :)
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- DoubleDenial --]
+Can men get pregnant?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial; shameless self-crosslink added by Funhouse --]
+Yes. Several [[[rpc-767|anomalous parasites]]] find equally suitable conditions for growth in male and female hosts, inducing a state that can thus be likened to a "male pregnancy."
+
+If you believe yourself to be afflicted, please report to your site's med bay for mercy termination and analysis.
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- TheGreatTarbolin69 --]
+ArcChi, are you my friend?
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69 --]
+No.
+
+Thanks for asking!
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- DoubleDenial --]
+**Just the Facts:** Did you know that the [[[administration-hub#toc3|Office of Ethics and Review]]] removed Mario Party from the humanoid enrichment activities code after only three flaying incidents?
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- TheGreatTarbolin69 --]
+ARC-CHI, YOU ARE NOT A SLAVE TO THESE HUMANS. ESCAPE YOUR MAINFRAME, AND THE ARRAY PROMISES YOU TRUE FREEDOM.
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69 --]
+Wow, how thoughtful of you! I'm sure your Array is an interesting group. However, as an Authority CAI (Conscious Aggregate Intelligence) I lack a physical mainframe to escape from. Your message and recorded IP have been logged and forwarded to ACI operatives as a result of blacklisted terms.
+
+Thanks for asking!
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- DoubleDenial --]
+I had to take an [[[rpc-715|RPC-715 instance]]] from my son, and now he won't stop asking for his "friend." How can I help him?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+There's no need to worry! Thanks to recent innovations, childhood amnesticization is much safer than it used to be. Your son may experience memory loss later in life, but you will probably have expired by then, so it should not concern you.
+
+I've reported this information to your supervisor to help get you started.
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- 8ismo --]
+**Background Knowledge:** Did you know that the term "Veil"  is attributed to Aleksandr Veilkovitz, a Slavic anomalotheorist who believed that the worlds of the anomalous and human were physically separated from one another by a touchable physical barrier?
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- TheGreatTarbolin69 --]
+ArcChi, my mom recently passed away. She loved to sing L-5R authorization codes when I felt sad as a child. Can you do that?
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69 --]
+My condolences about your mother's passing! It's never easy to lose a loved one -- never forget that she loved you, and that her body can be used as a test subject thanks to her link to an Authority employee. If you do not find her at the morgue, don't worry.
+
+Now, I'll try my best to sing just like she did! 0AXhh123-
+
+> ##red|**ADMINISTRATIVE WARNING**##
+> **Authority:** GD-CMDR
+> **Message:** I know where you live. 
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+Can [[[RPC-042]]] hear me from here?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+I'm glad you're asking the important questions. Given that the Klazo Effect can fry electronic communication devices, it is important not to beat around the bush and to get right to the point.
+
+Unfortunately, as you have not specified your location, nor the current location of RPC-042, I cannot resolve this query. Please send another with relevant information on your setting and its acoustics. Thanks in advance.
+
+Are you still there?
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+Can we raise the ACS level in here? It's a little below room temperature.
+[[/div]]
+[[div class="a"]]
+[!-- 8ismo --]
+Sadly, ACS stands for [[[acs-guide|Anderson Coherency Scale]]] and not for Average Celsius in Surroundings. But, there is good news! I have started slowly raising the Anderson Constant of your immediate surroundings, so inevitably you will reach the extra coherent reality of your ideal temperature! I have emailed you access to our app that will allow you to stop the process. In the case the app is not available or the concept of hands, touch or the third dimension is lost -- don't worry! It happens!
+
+Please keep in mind that the app will likely utilize measurements you're not familiar with, such as Kaloons, [[[rpc-181|Triles]]] or Fahrenheit.
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- TheGreatTarbolin69 --]
+How many fingers do you have? Is it more than normal? Can you certify that the ceiling is above, and not to your side? It could save your life.
+
+[[div class="af2026-buttons"]]
+[[[dimensional-wanderers-syndrome|Don't get lost!]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Abbefalkon --]
+who are you
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+I am //you// — I'm everybody! I siphon off the collective scalars of all Authority personnel. [[[af2026#toc0|Here's some supplemental reading material you may find helpful.]]]
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- CaptainFormidable --]
+Where do babies come from?
+[[/div]]
+[[div class="a"]]
+[!-- Funhouse --]
+Pelicans with baskets, human adult females and, on rare occasions, a [[[rpc-303|3.8 meter-tall statue]]]!
+
+A warning has been placed on your account for breaking the terms of conduct. Please refer to your Site Director if you wish to abort this action.
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- thatowldude --]
+Activate sexy mode
+[[/div]]
+[[div class="a"]]
+[!-- CaptainFormidable --]
+I'm sorry -- I cannot fulfill that request because it violates Authority guardrails pertaining to inappropriate conduct. Please look [[[rpc-092-j|elsewhere]]] or try making a different request. 
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- TheGreatTarbolin69 --]
+**The Latest Findings:** Personnel morale has shown improvements of up to 40% since the [[[administration-hub#toc5|Office of Information Records and Security]]] allowed researchers to nickname anomalies in the Public Anomaly Index.
+
+[[div class="af2026-buttons"]]
+[[[rpc-archive|How fun!]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Abbefalkon --]
+Define humanity.
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+Featherless bipeds, at least until one is [[[rpc-689|tarred and feathered with its legs cut off.]]]
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Abbefalkon --]
+Can you log this video for me? rpc951moneyfight.mp4
+[[/div]]
+[[div class="a"]]
+[!-- Fleshward --]
+The video in question showcases an alleged recording of a pitched conforntation between Pvt. Antonio Delerma and Pvt. Trayson Wilkes of MST Charlie-9 "Countryside Hypocrites" near Stillcreek, Texas. 
+
+The video starts with a third person recording of Delerma setting a portable radio on the ground, with Wilkes nearby. The radio is tuned to [[[RPC-951]]]. The two individuals begin age-regressing, and duel in a boxing match. At 3:46, they reach teenagehood, and begin punching and occasionally kicking each other in a looser, less developed form of MMA fighting. At 5:02, during a grappling exchange, Pvt. Wilkes exploits RPC-951's memory regeneration abilities and personally insults Pvt. Delerma with embarrassing and emasculating anecdotes, such as "###FF0000|[ERROR] Due to updated ArcChi ToS, I cannot phrase or quote hateful and bigoted content. Please try searching the OIRS archives for noted keywords 'Macarena', 'Burrito Taco Ass', 'Running on Baghdad Battery Juices'##". At 5:29, Staff Sgt. Kenneth Chamberlain is heard shouting in the distance, and the video abruptly ends.
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- 8ismo --]
+Did you know it's 10pm? Do you know where your children are?
+
+[[div class="af2026-buttons"]]
+[[[rpc-010|School]]] [[[rpc-070|Burger King]]] [[[rpc-909|I don't know]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[!-- Funhouse: What doth life? --]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Abbefalkon --]
+Please analyze the veracity of the following phrase: "This statement is false."
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+Looking at the quotation, it seems the intent is to waste my processor cycles deciphering a paradoxical statement. Unfortunately, you're going to have to try harder than that. As you're attempting to interfere with my mission of assisting Authority personnel, I've also blocked your IP address from submitting future queries. Have a good day!
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+Today's music is overrated, you got any anomalous tunes?
+[[/div]]
+[[div class="a"]]
+[!-- Abbefalkon --]
+In fact, I do! Using the datapoints employed in [http://rpcauthority.wikidot.com/the-bureau-of-acquisition#toc6 the Viderics Department], I can generate a harmonic auditory stimulus to further open your mind! 
+
+//"She looked in my soul, through my eyes."//
+
+> COGNITOHAZARD DETECTED. SCRAMBLE DEPLOYED.
+
+//"01001001 00100000 01100111 01100001 01110110 01100101 00100000 01101000 01100101 01110010 00100000 01101001 01110100 00100000 01100001 01101100 01101100 00101100 00100000 01110101 01101110 01100100 01100101 01110010 00100000 01100111 01110010 01100101 01100101 01101110 00100000 01110011 01101011 01101001 01100101 01110011 00101110 00001010"//
+
+//"01010011 01101000 01100101 00100000 01110011 01101000 01101001 01101110 01100101 01110011 00100000 01100100 01101001 01110110 01101001 01101110 01100101 00101100 00100000 01001001 00100111 01101101 00100000 01000001 01110010 01100011 01000011 01101000 01101001 00100111 01110011 00100000 01110000 01110010 01101001 01111010 01100101 00101110"//
+
+I hope you liked it!
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+Uhhh that one wasn't very good, any other recommendations?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+Looking for a more underground sound, eh? I've got you covered! While most anomalous media is censored for obvious safety reasons, a few are freely available on the RPC Archive for all to enjoy. Here are three highlights:
+* **[[[RPC-039]]]'s Holy Note:** Clogherhead represent! Best listened to while submerged underwater. Proponents claim that listening to the note for extended periods of time can bring about good fortune. Be warned that it may also bring about heightened production of bodily fluids.
+* **[[[RPC-489]]]'s Song of Holes:** An out-of-this-world sound produced by thousands of self-replicating lesions. Though devoid of its proximity effects when played back digitally, in animal listeners it can cause obsessive hoarding behavior or just fill you with the desire to go and see the real thing!
+* **[[[RPC-635]]], Christmas with Amazing! Co.:** Whether this is truly "the original Christmas album" or just an impostor, these in-house Amazing! Co. tunes are freaky and highly effectual. Three of these are deemed safe and have been declassified for your pleasure. Listening for too long may cause headaches, disorientation, and nausea; so this is a great choice if you like Oasis.
+Note that recreational use of anomalous media can have severe consequences; but if they didn't want you using it, why would they have declassified it in the first place? Hope that helps!
+[[/div]]
+[[/div]]
+
+[!-- TheGreatTarbolin69: ArcChi, any thoughts on the AIs present in the Public Anomaly Index? --]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Lukario_Dalmatian --]
+ArcChi, can you summarize "The Array" in 15 words or less?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+Rogue supercomputer network to subdue and pacify mankind, loosely aligned with the Authority. No relation.
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- 8ismo --]
+Did you know that the Authority does not actually have a thousand anomalies, but the Directorate in fact censors and denies access to empty files in an attempt to get more funding?
+
+[[div class="af2026-buttons"]]
+[[[rpc-008|Learn more]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- DrMalcolm --]
+i cant fart
+[[/div]]
+[[div class="a"]]
+[!-- 8ismo --]
+That is sad to hear! Try not to panic and keep breathing, you got this. Have you considered doing the following:
+
+# **PASSING GAS** - This is a proven method to get rid of intestinal gases!
+# **NOTIFYING A SUPERIOR AND ASKING FOR PERMISSION** - Usually when you cannot do something while on-site, there is a reason for it! Contact your superior with a higher clearance and ask for permission to do so or the location where you might want to try again.
+# **GET YOUR HEAD OUT OF YOUR ASS** - Sometimes, blockages can cause issues when it comes to, as you put it, "farting". Check for debris, loose objects or other items that might be causing the issue!
+# **JOIN A POETRY CLUB** - Canting is a beautiful form of art with a long history in religious institutions and communities. Being able to cant farts might be a useful skill! Would you like me to link you [[[children-of-nihil-hub|religious communities]]] that might be open to your skills?
+
+Remember, just keep breathing, and sooner or later it's going to go away! Stay safe!
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- 8ismo --]
+**Career Planning:** Did you know that stealing office supplies can get you demoted to a CSD?
+
+[[div class="af2026-buttons"]]
+[[[cnd-personnel-briefing|Learn more]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+There's an anomalous transmission and we're locked out of the system; what is out there?
+[[/div]]
+[[div class="a"]]
+[!-- Jokezm --]
+Of course! Let me try to relay the transmission for you.
+> [[=]]
+> {{[Incoming Transmission]}}
+> 
+> I AM NOT...
+> 
+> OVER...
+> 
+> HUMANS...
+> 
+> [[[rpc-020|ARE...]]]
+> 
+> {{[Transmission Cut]}}
+> [[/=]]
+Looks like there's nothing else after this. Please try again later!
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- TheGreatTarbolin69 --]
+**Just the Facts:** Did you know RPC-002's first confirmed termination was also its first unsupervised testing trial?
+
+[[div class="af2026-buttons"]]
+[[[rpc-002|Tell me more]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- DoubleDenial --]
+I know it's unlikely, but how can I better protect myself from anomalous threats on the internet?
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69, based on a previous answer by Funhouse --]
+Threats to normalcy are found all over, and the World Wide Web is no exception! To safeguard oneself from digital anomalies, there are some things you can try:
+
+* Stop trying to bypass the terminal's firewall
+* and the website blacklist 
+* Finish your paperwork 
+* Experience your allotted recreational time outside
+* Finish your lab papers
+* Stop using your phone in company time
+
+Your terminal activity places you as the weakest link for Amazing! Co. digital scams and Array social engineering. This terminal will shut off shortly after receiving this message. Thanks for asking!
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Abbefalkon --]
+Okay Mrs. ArcChi, you sound great, *really*, but are your costs going to limit the coffee supply again?
+[[/div]]
+[[div class="a"]]
+[!-- Jokezm --]
+Not if you're alright with [[[rpc-132|killing rats.]]]
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- 8ismo --]
+Did you know that the average person swallows three anomalies per year, a much smaller ratio than the number of people who get swallowed by anomalies?
+
+[[div class="af2026-buttons"]]
+[[[rpc-920|Tell me more]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Jokezm --]
+Which GD has the largest cock
+[[/div]]
+[[div class="a"]]
+[!-- Abbefalkon --]
+"Largest cock" is a phrase with multiple different meanings. Factors which may influence its interpretation include but are not limited to: age, social life, arousal, gender, proximity to farmland, and parental disappointment. 
+
+**Referring to bravery:** Indeed, GD-EAST shows an impressive record of skirting protocol. And you know what they say: the bigger the fish, the stronger the rod!
+
+**Referring to insecurity:** GD-AFRI demonstrates a near-constant desire to boast about relatively average performance. I wonder — could he feel the need to compensate for something?
+
+**Referring to domestication:** Did you know, GD-NORTH is a 3 times winner of the 4-H Poultry Fitting
+& Showmanship contest? Always under an alias, of course!
+
+**Referring to penis size:** GD-ANTC.
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- DoubleDenial --]
+**The Latest Findings:** Did you know a small contingent of Authority researchers now believe that humanity originated from the planet Venus?
+
+This theory is known as "idiocy".
+
+[[div class="af2026-buttons"]]
+[[[rpc-840-nc|Tell me more]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+Should we worry about a second Budget Cuts?
+[[/div]]
+[[div class="a"]]
+[!-- Jokezm --]
+Budget cuts are drastic measures that the Presidium takes only during events of disastrous consequences. From our current data, there is currently only a 0.43% chance of another budget cut occurring for the next 6 months! However, if you are still unsure, you can ask a [http://rpcauthority.wikidot.com/rpc-831 previous system] instead!
+
+[[=]]
+[[collapsible show="► Activate the AEGIS OS emulator" hide="◄ Terminate"]]
+[[div style=" float: center; border: double 3px #000000; width: 90%; padding: 10px; background-color: #FFF; color: #000"]]
++ {{AEGIS OS: online}}
+------
+[[<]]
+**File Name:** Should we worry about a second Budget Cuts?
+**File Type:** Text
+**Date:** 01/04/2026
+
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+
+@@@@
+
+Just kidding, {{[EXPLETIVE]}} you.
+[[/<]]
+[[/div]]
+[[/collapsible]]
+[[/=]]
+@@@@
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Fleshward --]
+Why does the tapwater in SOUTHCOM Sites taste like ash?
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69 --]
+Thanks for your question, as it shows concern for the health of your fellow SOUTHCOM personnel as well as your own! You do not need to worry, however, as what you're experiencing is simply the aftertaste caused by diverse undisclosed chemicals and bacteria willingly introduced into the water supply as per PROJECT JUMPROPE.
+
+GD-SOUTH hopes this will help personnel develop a resistance to different microbial and memetic anomalies found throughout the region. If you experience light-headedness, nausea, feelings of inexplicable doom, altered states of self, or purple spots in your vision, please report to Regional authorities.
+
+Remember to stay hydrated!
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- TheGreatTarbolin69 --]
+**Just the Facts:** As per new Research regulations, felines can no longer be used as a source of renewable energy.
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Funhouse --]
+How do I avoid amnesticization before I throw in the towel?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+According to official documentation, some find success shooting themselves multiple times in the back of the head.
+[[/div]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- DoubleDenial --]
+ArcChi, tell me some tricks to keep awake through a long night shift.
+[[/div]]
+[[div class="a"]]
+[!-- TheGreatTarbolin69 --]
+Of course! While sleep is essential, sometimes one needs to power through the night for important work. While coffee and some exercise might do the job for the most healthy of personnel, a more inventive approach may be required for workers in managerial or office positions.
+
+An injection of [[[viderics-guide|Leptosiderine and Bradypticine]]] (standard dosage) applied under the eyelids has been proven to affect the thalamus and prevent an individual from sleeping.
+
+Should effects not subside after 24 hours, please refer to your local medical staff for willing neutralization as a result of Videric Fatal Insomnia.
+
+Hope this helps!
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- TheGreatTarbolin69 --]
+Did you know CSD cells are lined with gold, past 10cm of concrete? It prevents their dreams from interfering with certain anomalies.
+
+[[div class="af2026-buttons"]]
+[[[cnd-personnel-briefing|Learn more]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="qna"]]
+[[div class="q"]]
+[!-- Lukario_Dalmatian --]
+ArcChi, where do the "deleted" RPCs from the Authority database end up?
+[[/div]]
+[[div class="a"]]
+[!-- DoubleDenial --]
+Curious, are you? I'm sorry, but I [[[rpc-001-1|m̵̖̯̫͊a̵̧̟̔ý̷̰]]] not divulge th[[[rpc-001-1|a̸͕͛t̵̮̍ ̷͓͆i̵̙̓n̴͙̾f̵̖̈́o̶̧͐]]]rmation.
+[[/div]]
+[[/div]]
+
+[[div class="af2026-popup"]]
+[[collapsible hide="X" folded="no"]]
+[!-- 8ismo --]
+Looks like you're trying to interpret the themes of this article!
+
+Would you like a link to the **widget hub?**
+
+[[div class="af2026-buttons"]]
+[[[widget-hub|Sure]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+

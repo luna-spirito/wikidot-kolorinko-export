@@ -1,0 +1,14 @@
+---
+title: "Mi13image"
+tags: ["component"]
+page_id: "1460371380"
+site: "rpcauthority"
+slug: "component:mi13image"
+revision: 1
+revision_id: "1532214657"
+author: 2947029
+timestamp: 1757474477
+---
+
+[[include component:mi13image-base width={$width}|width=350px|align={$align}|align=right|image={$image}|style={$style}|note={$note}|note=N/A|card={$card}|card=None]]
+
