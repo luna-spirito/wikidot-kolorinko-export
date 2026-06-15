@@ -1,0 +1,123 @@
+---
+title: "Fail-Safe Theme"
+tags: ["theme"]
+page_id: "1305594098"
+site: "rpcauthority"
+slug: "component:fail-safe-theme"
+revision: 17
+revision_id: "1357206150"
+author: 3118961
+timestamp: 1603769824
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:fail-safe-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/* 
+Fail-Safe Theme
+
+Created by Vizlox for the RPC Authority Fail-Safe writing event
+
+Based on Dr. Pierson's Fail-Safe theme
+*/
+:root {
+--body-background: #141212 url(http://rpcauthority.wikidot.com/local--files/component:fail-safe-theme/fail-safe-bg-tile.png) repeat;
+--primary-background: #211b1b;
+--secondary-background: rgba(0,0,0,0.5);
+--content-bar-background: #0f0b0b;
+--nav-hover-background: #ba232d;
+--topbar-dropdown-background: #141212;
+--news-block-body-panel-background-even: #1c1919;
+
+--table-border: 2px solid #090909;
+--content-box-shadow-color: #000;
+--primary-text-color: #c92833;
+  
+--link-color: #db3b46;
+--link-hover-color: #eb4b56;
+--new-page-color: #FF4F5A;
+  
+--text-color: #999;
+
+--search-button-background: #6b252a;
+--search-button-border: 1px solid #aaa;
+--search-input-border: 1px solid #aaa;
+--search-button-hover-background: #8a252c;
+--search-input-color: #4d3234;
+--search-input-hover: #692d31;
+  
+--header-text-visibility: hidden;
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'FAIL-SAFE PROTOCOL';
+--header-tagline-color: #fff;
+--header-font: sans-serif;
+--header-background: url(http://rpcauthority.wikidot.com/local--files/component:fail-safe-theme/fail-safe-bg.png);
+  
+--sidenote-open-background: #301c1d;
+
+--star-rating-hue: 130deg;
+  
+--tabview-side-tabs-background: #262121;
+--tabview-side-button-selected-background: #0d0a0a;
+--tabview-side-scrollbar-thumb-background: #4a3132;
+--tabview-side-scrollbar-thumb-hover-background: #402f30;
+
+--WT-body-background: url(https://cdn.discordapp.com/attachments/440652449641136128/770479433600598048/unknown.png) repeat;
+--WT-header-text-visibility: hidden;
+--WT-header-custom-text: 'RPC Authority';
+--WT-header-tagline-custom-text: 'FAIL-SAFE PROTOCOL';
+--WT-header-font: sans-serif;
+--WT-header-background: url(http://rpcauthority.wikidot.com/local--files/component:fail-safe-theme/fail-safe-bg.png);
+--WT-nav-hover-background: #ba232d;
+--WT-topbar-dropdown-background: #ddd;
+--WT-primary-text-color: #bf222c;
+--WT-topbar-hover-background: #ba232d;
+--WT-search-button-background: #6b252a;
+--WT-search-button-border: 1px solid #aaa;
+--WT-search-input-border: 1px solid #aaa;
+--WT-search-button-hover-background: #8a252c;
+--WT-search-input-color: #4d3234;
+--WT-search-input-hover: #692d31;
+--WT-link-color: #c4232e;
+--WT-new-page-color: #a32931;
+--WT-sidenote-open-background: #e0535c;
+--WT-content-bar-background: #333;
+--WT-tabview-side-tabs-background: #aaa;
+--WT-tabview-side-button-selected-background: #f77;
+--WT-tabview-button-selected-background: #f77;
+--WT-tabview-button-hover-background: #faa;
+--WT-tabview-button-color: #fbb;
+--WT-star-rating-background: #8a2128;
+--WT-star-rating-border: 1px solid #4d1014;
+--WT-star-rating-cell-background: #f0ebeb;
+--WT-content-bar-color: #eee;
+--WT-image-block-caption-background: #eee;
+--WT-table-header-color: #eee;
+--WT-sidenote-closed-background: #eee;
+
+--tv1: var(--content-bar-background);
+--WT-tv1: #eee;
+
+--tv2: var(--content-bar-color);
+--WT-tv2: #333;
+}
+
+.yui-navset {
+  background: var(--tv1);
+}
+
+.compactTabview .yui-nav {
+  background: var(--tv1);
+}
+
+.compactTabview .yui-nav::before {
+  color: var(--tv2);
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

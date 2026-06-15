@@ -1,0 +1,427 @@
+---
+title: "Remnants Office Theme (Archived)"
+tags: ["archived-by-author", "theme"]
+page_id: "1304894853"
+site: "rpcauthority"
+slug: "component:remnants-office-theme-archived"
+revision: 17
+revision_id: "1523067525"
+author: 5982545
+timestamp: 1721160281
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:remnants-office-theme-archived/code/1); 
+[[/module]]
+
+> [[=]]
+> [[size 120%]] ###355b8c|**DISCLAIMER:**## [[/size]] THIS THEME HAS BEEN ARCHIVED DUE TO OFFICIAL LORE REVISIONS REQUIRING AN AESTHETIC UPDATE. THUS, IT HAS BEEN DEEMED OUTDATED AND HAS BEEN PRESERVED IN FULL FOR FUTURE PRESERVATION, IMPURITIES AND ALL. FOR CANON ARTICLES, PLEASE REFER TO USING THE CURRENT REMNANTS THEME.
+> [[/=]]
+
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+/*
+    Remnant Office Theme (made by Qual; requested by Alex Mercer)
+    [2020 Wikidot Theme]
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+.templateBlock {
+    color: #fff;
+}
+
+hr {
+    height: 2px;
+}
+
+#page-title {
+    border-bottom: 3px solid var(--basic-border-color);
+    font-family: 'Bitter', serif;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+    font-size: 2.3em;
+}
+
+.heading {
+    font-family: 'Bitter', serif;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: var(--primary-text-color);
+    font-weight: bold;
+    font-family: 'Bitter', serif;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    font-family: 'Bitter', serif;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+
+.yui-navset .yui-nav a, .yui-navset .yui-navset-top .yui-nav a {
+    color: #191919;
+}
+
+.yui-navset-top {
+    font-family: default;
+}
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    font-style: normal;
+}
+
+#page-content {
+    color: #000;
+    font-size: 110%;
+    word-spacing: 1.5px;
+    box-shadow: 2px 2px 1px #171717;
+}
+
+.rateContainer {
+    font-family: Montserrat,sans-serif;
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+a {
+    font-weight: bold;
+}
+ 
+a.newpage {
+    font-weight: bold;
+}
+ 
+a:hover {
+    font-weight: bold;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+.readingStyle {
+    background: var(--star-rating-cell-background);
+}
+
+.decimalStyle {
+    color: #000;
+}
+
+.hovertip .content {
+    background: #272727;
+}
+
+#footer {
+    background: #272727;
+}
+
+.yui-navset-top {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+#toc {
+    color: #000;
+}
+
+.tableStyle {
+    color: #000;
+}
+
+blockquote {
+    color: #000;
+}
+
+table.wiki-content-table th {
+    color: #000;
+}
+
+table.wiki-content-table td {
+    color: #000
+}
+
+#header h1 a::before {
+    font-family: tato, sans-serif;
+    margin-left: 20px;
+    text-decoration: none;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    margin-left: 20px;
+    font-size: 100%;
+}
+
+#tabview-button {
+    hover-text-color: #ccc;
+}
+
+#image-block {
+    border: var(--image-block-border);
+    width: 300px;
+    box-shadow: var(--image-block-box-shadow);
+    background: var(--image-block-background);
+    text-color: black;
+}
+
+.image-caption > p:nth-child(1)
+{
+color: #000;
+}
+
+.enlarge-true
+{
+background-color: #000;
+}
+
+/* Links */
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    background: transparent;
+    transition: color 0.5s ease;
+    font-weight: bold;
+    text-shadow: .2px .2px .2px black;
+
+}
+ 
+a.newpage {
+    color: var(--new-page-color);
+    text-decoration: none;
+    background: transparent;
+    font-weight: bold;
+}
+ 
+a:hover {
+    text-decoration: underline;
+    background-color: transparent;
+    color: var(--link-hover-color);
+    font-weight: bold;
+    shadow: .2px .2px .2px black;
+
+}
+
+#header {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aremnants-office-theme-archived/Remnants_Office_Logo.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(9.5rem - 2.125rem);
+    background-position: 15px 12px;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+    font-size: 65%;
+}
+
+:root {
+
+    --text-color: #fff;
+    --font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+
+    --body-background: #111314;
+    --primary-text-color: #355b8c;
+    --primary-background: #d0bfa5;
+    --nav-hover-background: #23395c;
+    --content-bar-background: #a59c8b;
+
+    --sidebar-hover-color: #fff;
+    --sidebar-mobile-open-menu-color: #c0c0c0;
+    --sidebar-mobile-open-menu-border: 3px solid #c0c0c0;
+    --sidebar-mobile-open-menu-background: black;
+    --sidebar-mobile-background: black;
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: 'lato', sanserif;
+    --header-custom-text: '';
+    --header-tagline-custom-text: '';
+    --header-icon: url();
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aremnants-office-theme-archived/Remnants_Office_Header.png);
+    --header-tagline-color: #2d4975;
+    --header-tagline-text-shadow: 1px 1px 1px black;
+    --header-tagline-top: 8px;
+ 
+    --link-color: #5c67a7;
+    --link-hover-color: #4176b2;
+    --new-page-color: #373e65; 
+    --button-background: #242a34;
+    --button-border: 1px solid #5f5f5f;
+    --button-hover-border: 1px solid #ccc;
+    --button-hover-background: #1b2c3f;
+    --button-hover-color: #hhh;
+    --button-current-background: var(--primary-background);
+
+    --search-button-background: #1b1f32;
+
+    --search-button-background: #1b1f32;
+    --search-button-border: 1px solid #5f5f5f;
+    --search-button-hover-background: #29304c;
+    --search-button-hover-border: 1px solid #ccc;
+
+    --search-input-hover-border: 1px solid #ccc;
+    --search-input-hover-color: #ccc;
+    --search-input-color: #222634;
+    --search-input-hover: #22294f;
+    --search-input-border: 1px solid #5f5f5f;
+ 
+    --topbar-text-color: #c0c0c0;
+    --topbar-dropdown-background: var(--body-background);
+    --topbar-hover-background: var(--nav-hover-background);
+    --topbar-divider: 1px solid var(--topbar-hover-background);
+    --topbar-dropdown-border-color: var(--basic-border-color);
+    --topbar-hover-color: var(--text-color);
+    --topbar-dropdown-color: #c0c0c0;
+ 
+    --news-block-body-panel-background-even: #bfb4a1;
+ 
+    --star-rating-hue: yellow;
+ 
+    --text-box-form-background: #0f1215;
+    --text-box-form-border: 1px solid #1a1e26;
+ 
+    --template-block-border: 2px solid #4b4b4b;
+    --template-block-background: #09090c;
+    
+    --tabview-background: var(--primary-background);
+    --tabview-border: none;
+    --tabview-button-background: transparent;
+    --tabview-button-border: none;
+    --tabview-button-selected-background: var(--primary-background);
+    --tabview-button-selected-color: #000;
+    --tabview-button-hover-background: #bfb4a1;
+
+    --tabview-side-tabs-selected-color: #fff;
+    --tabview-side-tabs-background: var(--content-bar-background);
+    --tabview-side-tabs-box-shadow: .5px .5px .5px var(--content-box-shadow-color);
+    --tabview-side-box-shadow: var(--content-box-shadow);
+    --tabview-side-border: none;
+    --tabview-side-button-hover-background: #bfb4a1;
+    --tabview-side-button-selected-background: var(--primary-background);
+    --tabview-side-button-divider: 1px solid var(--tabview-side-button-selected-background);
+
+    --tabview-side-scrollbar-background: #8c8476;
+    --tabview-side-scrollbar-thumb-background: #315080;
+    --tabview-side-scrollbar-thumb-hover-background: #5c67a7;
+
+    --page-background: #e5d7c1;
+    --page-padding: 15px;
+    --page-border-radius: 0px;
+
+    --basic-border: 1px solid #4b4b4b;
+    --basic-border-color: #4b4b4b;
+    --dashed-border: 1px dashed #4b4b4b;
+    --thick-border: 2px solid #4b4b4b;
+
+    --BT-scrollbar-background: #1e1e1e;
+    --BT-scrollbar-thumb-background: var(--nav-hover-background);
+    --BT-scrollbar-thumb-hover-background: #315080;
+    --BT-resizer-background: #000;
+
+    --blockquote-background: var(--primary-background);
+    --blockquote-border: none;
+    --blockquote-border-radius: var(--element-border-radius);
+    --blockquote-padding: 1px 10px;
+    --blockquote-box-shadow: var(--content-box-shadow);
+
+    --sidenote-figure-open-color: #ccc;
+
+    --sidenote-open-background:  #1a2a44;
+    --sidenote-closed-background: var(--content-bar-background);
+    --sidenote-box-shadow: var(--content-box-shadow);
+    --sidenote-background: var(--primary-background);
+    --sidenote-contents-border: 1px dashed #333;
+    --sidenote-figure-border: 1px solid #333;
+    --sidenote-contents-open-color: #000;
+    --sidenote-figure-open-color: #fff;
+    --sidenote-contents-closed-color: #000;
+    --sidenote-figure-closed-color: #000;
+
+    --image-block-caption-background: #eaece2;
+    --image-block-border: 10px solid #eaece2;
+    --image-block-background: #eaece2;
+    --image-block-box-shadow: var(--content-box-shadow);
+
+    --text-box-form-border: 1px solid #c0c0c0;
+    --account-options-border: 2px solid var(--nav-hover-background);
+    --tags-border: 1px solid var(--link-color);
+}
+
+/* User Name */
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #ccc;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #e6e6e6;
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+/* Hover box in extended options (in tandom w/ variable --account-options-border) */
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+ 
+/* Regular Extended User Opt. Var. */
+ 
+#login-status ul a {
+    background: #272727;
+    color: var(--text-color);
+    border: 0px solid #ccc;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: var(--text-color);
+    font-family: 'Courgette', cursive;
+}
+ 
+/* DO NOT TOUCH UNLESS PLANNED, WHITE THEME VARIABLES */
+ 
+.open-themes-container {
+    display: none;
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:remnants-office-theme-archived/code/1); @@
+> @@ [[/module]] @@
+

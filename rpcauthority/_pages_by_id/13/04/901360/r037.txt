@@ -1,0 +1,330 @@
+---
+title: "RPC-875"
+tags: ["aggression-hazard", "beta", "grouped-hazard", "orange", "organic-hazard", "rpc", "sapient-hazard", "teleportation-hazard", "unaac", "uncontained"]
+page_id: "1304901360"
+site: "rpcauthority"
+slug: "rpc-875"
+revision: 37
+revision_id: "1495327772"
+author: 4870061
+timestamp: 1662908990
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[span style="font-size: 165%; font-weight: bold; color: #E5E5E5"]] Registered Phenomena Code: 875 [[/span]]
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+**Assigned Facility:** Site-105
+
+**Director of Research:**  Dr. Vincent Hugo
+
+**Assigned MST(s):** MST Delta-5 ("Garcas"); MST Zulu-45 ("Backwater Filterers")
+
+**Director of Containment:**  Dir. Leopold Sanders]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/beta-orange.png]]
+[[/cell]]
+[[cell style="width: 60%;"]]
++++ **Object Class:**
+##f36400|Beta - Orange##
+[[/cell]]
+[[/row]]
+[[/table]]
+
++++ **Responsible Departments:**
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Biology.png  style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Biology[[/span]][[/span]]
+
+[[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="margin: -2px 0px 1px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of Chemistry[[/span]][[/span]]
+
+[[table]]
+[[row]]
+[[cell style="width: 67%;"]]
++++ **Hazard Types:**
+[[include component:hazards type=none
+|aggression=true
+|grouped=true
+|sapient=true
+|teleportation=true]]
+[[/cell]]
+[[cell]]
++++ **General Properties:**
+[[include component:hazards type=none
+|organic=true]]
+[[/cell]]
+[[/row]]
+[[/table]]
+------
+[[include component:image-block name=AfricanWarlord.png|caption=RPC-875]]
+
++++ **Containment Protocols:**
+RPC-875 is to be held in a standard humanoid containment chamber with maximum security restrictions at Site-105 in Kongolo, Democratic Republic of the Congo.[[footnote]] A former containment facility constructed by the General Information and Security Service - Division X, the Belgian AoI. [[/footnote]] During asset transport, physical restraints are to be secured around the arms and legs of RPC-875, with no unauthorized communication with site personnel allowed.
+
+Contingent upon RPC-875's noncompliance, the Research Lead may authorize the [[[Authority Security Force]]] to place the anomaly in solitary confinement as needed for behavioral adjustments. In the event of a containment breach, should non-lethal methods of asset retrieval be unsuccessful, RPC-875 is to be neutralized with thermobaric[[footnote]] Explosion generated from an oxygen reaction. [[/footnote]] or energy weapons.
+------
++++ **Description:**
+RPC-875 is a 27-year old African male of Bakongo ethnicity identified as Bajikijayi Mwilambwe and an elemental-class reality-bender. Additionally, RPC-875 is the commander of a group of Mayi-Mayi[[footnote]] Collective designation for any defensive militant groups operating in the Democratic Republic of the Congo. [[/footnote]] guerrillas with various anomalous weapons attempting to overthrow several governments in Central Africa. RPC-875 claims to have been trained as a medicine-man in traditional African practices which enabled its anomalous powers.
+
+During previous combat encounters, conventional firearms have failed to injure RPC-875, or any of its fighters, with bullets deflecting off the surface of their bodies, or passing through them entirely[[footnote]] Non-kinetic ordnances are capable of counteracting this power. [[/footnote]]. This is attributed to an unknown psychochemical stimulant naturally brewed by RPC-875 that appears to extend its anomalous abilities to its fighters, designated RPC-875-1, for a limited duration.
+------
++++ **Discovery:**
+On November 30, 1999, the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo was established in order to stabilize regional security during the Second Congo War. As part of efforts to contain the rising number of anomalies reported in the conflict, the [[[unaac-hub|United Nations Anomalous Activities Committee]]] dispatched 4,719 United Nations International Security Assistance Anomalous Force soldiers into Central Africa.
+
+Initially, RPC-875 was thought to be one of many local warlords exploiting conflict minerals on the border regions near Uganda, Rwanda, and Burundi. UN health workers operating in asylum camps started to report rumors from refugees of a warlock conquering vast swaths of the Congo jungle with an 'immortal army' who could shoot lightning and fire from their weapons.
+
+On June 10, 2000, after defeating nearby rebel factions for control over several colombium and tin mines, RPC-875 intervened in the siege of Kisangani, DRC, forcing Ugandan-backed militia groups from the outskirts of the city despite being numerically disadvantaged. The UNAAC Military Actions Committee dispatched a contingent of UNISAAF peacekeepers into the area to assess the situation.
+
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show=" [+] UNISAAF Anomaly Assessment Report" hide="[-] Close File"]]
+
+[[div style="background-color: #5b92e5; color: white; padding: 5px 25px; border: solid 0.5px #000000;"]]
+[[table]]
+[[row]]
+[[cell style="width: 1%;"]]
+[[image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/UNAAC_Main_Symbol.png height="75px"]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[size 125%]] **United Nations Anomalous Activities Committee** [[/size]]
+
+//Preserving Normalcy, Ensuring Security//
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div style="background: #191b1d; border: solid 0.5px #000000; padding: 10px 20px;"]]
+[[=]]
++ **INTERNATIONAL SECURITY ALLIANCE**
+++ Anomaly Assessment Report
+[[/=]]
+
+**Date:** 12/06/2000
+
+**Reporter:** Oluwatoyin Arendse (Colonel)
+
+**Overview:** Force Commander Valerian Viktorov ordered our eight-member patrol unit to investigate Mayi-Mayi insurgents aligned with the warlord Bajikijayi Mwilambwe in Kisangani under the cover of standard UN peacekeepers.
+
+**Statement:** Reports have been circulating in the region of a militant group claimed to be run by a warlock who is not hurt by bullets. Citizenship records indicate that Bajikijayi Mwilambwe was originally from the city of Gbadolite in the Northwest and appears to have undergone basic military training, but we know nothing else about his history, nor anything about his group of fighters who are also said to be invincible.
+
+Ugandan and Rwandan militias, who had been united in defeating the national government, have begun to battle over their territorial possessions here. The national coalition forces[[footnote]] Angola, Chad, Namibia, and Zimbabwe militarily support the Democratic Republic of the Congo's national government. [[/footnote]] have virtually no presence in this part of the country, and in the absence of the national military, these Mayi-Mayi local defense militias have formed, each with their own agendas and allegiances. In truth, nobody really knows which side is fighting the other anymore.
+
+Truck after truck passed us by full of armed men and children with automatic weapons and rocket-propelled grenades, yet we could do nothing but watch them roll onward. We started running into road blocks and checkpoints riddled with bullets and burnt out vehicles on the streets. The sky was dark from smoke; ash raining down over bodies decaying on the ground. Eventually, the road became too damaged from the battle here to continue on, so five of us exited our convoy and marched forward deeper into the city limits.
+
+As we passed by rows of damaged buildings and homes, I saw civilians watching our movements, but none were willing to come forward to say what happened here. A tinge of sulfur was wafting through the air, so we stopped to put on our gas masks. On our way, we encountered an injured woman in the road, and we ran to assist her. All across her arms and chest she had what looked like chemical burns. She warned us, "//They will come for you next. They have drunk his poison and their minds are gone. Beware the warlord, for he is no longer human.//"
+
+Suddenly, we heard heavy gunfire nearby, and bullets began ricocheting off the ground around our location. Three trucks were driving towards me, with .50 caliber machine guns attached on top of the vehicles. We held our positions as they approached; our firearms on standby should they've aim their weapons at us. When the convoy came to a halt, out of the first truck came nine soldiers with automatic weapons in their hands that had strange symbols carved into them.
+
+One of the soldiers took out his canteen and began to drink what I assumed was water, but I saw instead a metallic blue green liquid dripping down his face. His eyes, and the eyes of the other soldiers, appeared glassy. The militant unexpectedly discharged his weapon into the injured woman, killing her instantly, while yellow smoke began to pour out from the barrel. He turned back to us and stated, "//This is what will happen to you if you do not stay out of our way. Your weapons can't hurt us. Leave.//"
+
+We quickly returned to our convoy, unequipped to challenge them in any way. Some organization or entity has been providing these militants with anomalous weapons underneath our noses. As we arrived back at our vehicle, the three soldiers who had stayed behind had been tapping into radio signals to try and intercept communications between the guerrillas. While doing this, they discovered broadcasts being distributed over AM frequencies carrying speeches from who we believe is Bajikijayi. They gave me this short transcription below.
+
+"//What is Africa right now? It is broken! The West and The East of the Congo are split. Our neighbors take advantage of us! We are a very rich country, yet we remain poor! No more will this be the case. This is why I have come before you, to liberate this nation from subservience. Do not back down from this fight, we are stronger together than they think! You will know this to be true when you see bullets run across you like water.//"
+
+**Recommendations:** Quick action should be taken to prevent these fighters from expanding their reach beyond the Eastern borders of the DRC. Suggesting the implementation of disarmament efforts in order to mitigate further war crimes. This situation will escalate into a humanitarian disaster if swift action is not taken. If this warlord is not stopped, we may be facing another Rwanda, and blood will be on our hands again.
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+Despite the discovery of anomalous weapons in their possession, no further action was taken against the militants until UN forces near the border zones started to report being targeted by Mayi-Mayi militants. RPC-875's own anomalous abilities remained unknown until UNISAAF forces sustained significant fatalities[[footnote]] 264 UNISAAF soldiers were killed in the mission, with 122 injured. [[/footnote]] following a botched assault on the group's training camp in Baraka, DRC.
+
+On August 13, the UNAAC Legal Committee indicted RPC-875 as an anomalous war criminal, ordering its extradition to a secure detainment facility in the Hague, Netherlands, for prosecution. Due to uncertainty over RPC-875's appearance, the destructive potential of its powers, and the lack of forces needed to secure mineral mines under its control, progress by the UNAAC to capture RPC-875 has been unsuccessful.
+------
++++ **Addendum-01:**
+On January 10, 2001, the UNAAC officially requested assistance from the Authority in detainment efforts for 'an anomalous human in the jungles of the Democratic Republic of The Congo'. In response, MST Zulu-45 ("Backwater Filterers") was ordered to search out and contain RPC-875, with MST Delta-05 ("Garcas") providing auxiliary support against fighters aligned with the anomaly.
+
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show=" [+] MST Combat Operations Document" hide="[-] Close File"]]
+
+[[div style="background: black; border: var(--dashed-border); padding: 5px 20px;"]]
+[[=]]
++  __O-875: CODENAME "HEART OF DARKNESS"__ 
+[[/=]]
+[[table style="border-bottom: solid 1px; border-top: solid 1px; width: 100%; padding: 10px; margin: 10px 10px 10px 0px;"]]
+[[row]]
+[[cell rowspan="4" style="border-right: dashed 1px; padding: 0px 10px 0px 0px; width: 95px; height: 80px;"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/Protection.png style="width: 90px;"]]
+[[/cell]]
+[[cell style="border-right: dashed 1px; padding: 0px 10px 0px 10px;"]]
+**MST:** Zulu-45, Delta-05
+@@ @@
+**DATE:** February 25, 2001
+@@ @@
+**LOCATION:** Baraka, Democratic Republic of the Congo
+[[/cell]]
+[[cell style="padding: 0px 10px 0px 10px;"]]
+**TEAM CAPTAINS:** Z45-CDR, K04-CDR
+@@ @@
+**TEAM MEMBERS:** Z45-01—13, K04-01—25
+@@ @@
+**AUTHORIZATION:** 2P
+[[/cell]]
+[[/row]]
+[[/table]]
+------
+**OBJECTIVE**: Locate and detain RPC-875 while securing or destroying all anomalous weapons that are in its possession.
+
+**FORENOTE**: RPC-875's location was fixated to an armed encampment built into a landfill near Baraka, DRC, by [[[Authority Central Intelligence]]]. MST Zulu-45 performed several reconnaissance missions to the encampment and mineral mines nearby controlled by the Mayi-Mayi in order to properly identify RPC-875.
+
+Operatives uncovered that RPC-875 often conceals itself among the Mayi-Mayi militants when not performing official duties. In addition, satellite footage discovered that whenever RPC-875 travels to any militant base, a religious ceremony of unknown significance will be performed with the fighters.
+
+MST Zulu-45 was directed to breach the encampment from a stealth helicopter, and use an incapacitating nerve agent[[footnote]] 3-Quinuclidinyl benzilate [[/footnote]] to subdue any fighters defending RPC-875. MST Delta-05 would provide cover-fire and transport for Zulu-45 from the area, along with any anomalous weaponry.
+------
+= //<**Begin Log | 23:30 UTC February 22, 2001**>//
+
+**Site Command:** (//over radio//) Communications check all clear. Advance to the target when ready.
+
+**Zulu-45-CDR:** Delta-5, we are about 2 klicks from the perimeter; what is your ETA to the encampment?
+
+**Delta-05-CDR:** (//over radio//) We are ETA 5½ minutes until we are on location. We've just crossed Lake Tanganyika and are transporting our vehicles on-road.
+
+**Zulu-45-CDR:** Understood, we're going dark now.
+
+//At this time, MST Zulu-45-CDR activated an EMP device, blowing a power generator within the camp and shutting down the base's electricity. Zulu-45 operatives advance past the perimeter of the camp, while the guerrilla patrols are distracted by the loss of electric power.//
+
+**Zulu-45-CDR:** (//field sign//) Follow me.
+
+//Zulu-45 advances toward the center of the camp, where torches are seen providing light next to a large canopy shelter. Underneath the canopy are approximately 50 fighters sitting in a circle around RPC-875, who is kneeling on the ground.//
+
+**Zulu-45-CDR:** (//field sign//) Stop, go prone.
+
+//RPC-875 has white ashes painted over its face and is mixing an unknown potion inside a stone bowl. Standing up, RPC-875 grabs a wooden branch decorated with animal feathers and bones, then motions the first row of the guerrillas to stand.//
+
+**Zulu-45-CDR:** (//field sign//) Target located. (//to Zulu-45-11//) Get ready.
+
+//Holding the bowl to its side, RPC-875 waves the wooden branch over the militants while reciting an indecipherable phrase. After holstering the stick, RPC-875 grabs a handful of the potion and splashes it onto every individual fighter. The fighters begin to convulse.//
+
+**RPC-875:** (//In Kikongo ya leta[[footnote]] A Bantu language spoken predominantly in Central Africa. [[/footnote]]//) Now you shall have a mind as fearless as a lion, and a body as invincible as steel. 
+
+**Zulu-45-CDR:** (//field sign//) Execute mission. Capture the target.
+
+//Zulu-45 operatives discharge three gas canisters into the crowd of militants, causing three loud explosions to reverberate across the perimeter. Zulu-45-11 discharges a net gun onto RPC-875, dragging the target away from the other disorientated guerrillas.//
+
+**Zulu-45-11:** (//over radio//) Target captured! We're headed to the rendezvous point!
+
+//Militants begin to pour out of their tents and take up positions around the base, shooting at the operatives with automatic weapons. Zulu-45 retreats towards a weapons stockpile tent at the outskirts of the landfill, with approximately 25 guerrillas charging them.//
+
+**Delta-05-CDR:** Everyone move in now!
+
+//MST Delta-05 drive their vehicles into the encampment and head towards the weapon stockpiles, assailing the base with gunfire. Rounds of explosive ammunition and napalm charges fired by MST Delta-05 are successful in countering the militants, forcing them to retreat.//
+
+**Delta-05-CDR:** There they are!
+
+//Boxes of firearms and chemical containers are quickly taken from the stockpiles and thrown into Delta-05 vehicles, with the rest set on fire and destroyed.//
+
+**Zulu-45-CDR:** We're in! Let's get the hell out of here!
+
+//RPC-875 is thrown into the back of the transport vehicle and driven away from the base.//
+
+= //<**End Log | 23:50 UTC February 22, 2001**>//
+------
+**MISSION STATUS**: ##green|Success##
+
+**CONCLUSION**: RPC-875 was successfully captured and extradited to Site-105 for containment, with anomalous weapons recovered on location taken to site storage. Potion samples obtained in the raid indicated that the mixture is a type of herbal stimulant formed from various plants[[footnote]] Notably //datura stramonium// (thorn apple), //aloe globuligemma// (aloe vera succulent), //momordica balsamina// (balsamina), and //prunus africana// (African cherry) leaves. [[/footnote]] native to Central Africa.
+[[/div]]
+[[/collapsible]]
+[[/div]]
+------
++++ **Addendum-02:**
+Two weeks after its detainment by MST Zulu-45, RPC-875 was interviewed by Head Researcher Dr. Vincent Hugo. The objective for the interview focused on gathering more information regarding RPC-875's background and anomalous abilities, as well as its political objectives and worldview.
+
+[[div style="background: var(--background-4); border: var(--dashed-border); padding: 10px;"]]
+[[collapsible show=" [+] Authority Interview Transcript" hide="[-] Close File"]]
+
+[[div style="border: solid 3px #191b1d; background: #1f2125; padding: 5px 20px"]]
+[[=]]
++  __INTERVIEW TRANSCRIPT №875__ 
+[[/=]]
+
+[[div style="background-color: #191b1d; border: solid 0.5px #000000; padding: 0px 1em;"]]
+**INTERVIEWED:** RPC-875
+
+**INTERVIEWER:** Dr. Vincent Hugo, Head Researcher
+[[/div]]
+
+**FOREWORD:** RPC-875 initially refused to cooperate with site personnel until after being placed in solitary confinement for 24-hours due to an attempted assault on ASF security guards escorting it through the facility. Following this incident, RPC-875 indicated its willingness to cooperate with Researchers.
+----
+= //<**Begin Log | 20:05 UTC March 7, 2001**>//
+
+//NOTE: This interview has been translated from French into English.//
+
+**Vincent Hugo**:  (//in Kikongo ya leta//) Good Afternoon-
+
+**RPC-875**: Mundele[[footnote]] Bantu language term for an individual of European descent. [[/footnote]], speak to me in French!
+
+**Vincent Hugo**: As you wish. RPC-875, I am Doctor Vincent Hugo, and I would like to ask you some questions about your background.
+
+**RPC-875**: Is that supposed to be my inmate number?
+
+**Vincent Hugo**: Yes, now perhaps you can start by telling me where you received your abilities.
+
+**RPC-875**: From the elements of the Earth and the energy of the spirits.
+
+**Vincent Hugo**: Elaborate for me.
+
+**RPC-875**: What would you possibly know about Kongo spirituality? This knowledge is sacred, and I will protect it from foreign exploitation!
+
+**Vincent Hugo**: I'm not asking for you to write a catechism, I know already about the high god Nzambi.[[footnote]] Name of the creator god in the Kongo religion. [[/footnote]] What I want to know is where you learned to practice witchcraft. 
+
+(//Dr. Hugo takes out a folder with reconnaissance photos of RPC-875 performing various rituals.//)
+
+**Vincent Hugo**: It doesn't take a theologian to recognize you're a witch-doctor.
+
+**RPC-875**: Perhaps I underestimated you! You will know then that I am one of the few people trained to find and use the healing power rooted in the plants, rocks, and waters of the jungle.
+
+**Vincent Hugo**: Does that explain the potions you've been making?
+
+**RPC-875**: Yes, I brew my potions by tapping into the natural energy of the ingredients.
+
+**Vincent Hugo**: How did you learn to use this power?
+
+**RPC-875**: I was trained by a guild of healers a long time ago. A plague had hit the city I was living in, killing hundreds of people a day, but the nuns at the orphanage warned us to not seek out the sorcerers who used their magic to heal. One day, I see a man wearing animal hides and skulls dancing in front of a group of lepers, sprinkling them with liquids and dust. Some of them were shaking their bodies over the ground. As he began praying, their lesions faded from their skin, and their pale skin became rich again. I became his apprentice, and he taught me the secrets of the Kongo faith. 
+
+**Vincent Hugo**: You mentioned a guild of healers, what happened to them?
+
+**RPC-875**: There were many of us in the Guild, healing the sick and the injured, and protecting people from hexes and violent spirits. Now, there are not so many. I had a falling out with my brothers because they did not understand the danger the country is in.
+
+**Vincent Hugo**: What danger is that?
+
+**RPC-875**: This land is filled with corruption and disease, it bears the name of foreign powers and alien faiths.
+
+**Vincent Hugo**: What do you mean by that?
+
+**RPC-875**: Why do you think there is a war being waged here? It's because the old ways were abandoned; the priests now worship the faiths of their colonizers, the people divide themselves by racial categories that never existed before, and the rulers are puppet figures letting overseas companies exploit the wealth and riches that belong to the kingdom!
+
+**Vincent Hugo**: If I understand you correctly, you are talking about the systematic destruction of all foreign ideas and cultures from the Congo?
+
+**RPC-875**: It is not difficult to understand! If there is to be peace here, then these colonial borders in Central Africa must be abolished, and all external influences must be cleansed from the kingdom. Progress can only come here through war, this is how these nations were created, and so we must heal the stem of this problem, not just the symptoms. That's why I've taken up arms against the government, because I will restore the kingdom to the greatness it once knew. This is why the Mayi-Mayi exist, and why I am the commander of my own troops.
+
+**Vincent Hugo**: The United Nations peacekeepers aren't a faction in this conflict. Why are you attacking them?
+
+**RPC-875**: Who formed the United Nations? I'll tell you it wasn't us! No, the Great Powers do what they have always done to places like this. They are not keepers of the peace, but the status quo!
+
+**Vincent Hugo**: What is your end goal here, what happens if you win?
+
+**RPC-875**: Then these lands will know true peace. For too long, we have been at a disadvantage here with the Great Powers; but not anymore, not when my men and I take power. We will first rid this nation of disease, and then all of Africa will be made free!
+
+= //<**End Log | 20:15 UTC March 7, 2001**>//
+----
+**CONCLUSION:** RPC-875 was returned to its containment chamber without incident. As per request, it is to remain at the facility until authorization has been given to transport RPC-875 to the UNISAAF for war crimes prosecution.
+[[/div]]
+[[/collapsible]]
+[[/div]]
+------
++++ **Addendum-03:**
+On March 25, RPC-875 was transported to a UNISAAF holding facility in Kinshasa, DRC. RPC-875 was scheduled later that day to be transferred to the UNAAC Detention Unit in The Hague, Netherlands, via a private jet from the Ndjili International Airport. At 15:00 UTC, a group of Mayi-Mayi insurgents armed with high-powered weaponry shot down the UNISAAF plane flying RPC-875 shortly after its takeoff, causing the aircraft to crash on the demilitarized island of M'Bamou in the Republic of the Congo.
+
+UNISAAF investigators stationed in Kinshasa reported to the site of the wreck, recovering electronic components and accounting for all passengers and crew-members on-board. Five out of thirteen passengers survived the crash, however, no witnesses could recall the fate of RPC-875, who had been seated near the front of the plane surrounded by armed soldiers. 
+
+RPC-875's status remained unknown until June 14, 2002, when UNISAAF observers stationed in Brazzaville, RotC, reported seeing RPC-875 leading a group of armed insurgents into clashes with the Congolese Army. Sporadic sightings of RPC-875 have since been reported in the Central Africa Republic, Chad, Côte d'Ivoire, Liberia, and most recently Sudan. As of this data entry, RPC-875 remains uncontained.
+
+[[=]]
+<< [[[RPC-874]]] | RPC-875 | [[[RPC-876]]] >>
+[[/=]]
+

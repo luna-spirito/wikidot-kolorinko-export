@@ -1,0 +1,619 @@
+---
+title: "Authority Events Hub"
+tags: ["hub", "information"]
+page_id: "1260589903"
+site: "rpcauthority"
+slug: "authority-events-hub"
+revision: 92
+revision_id: "1519494642"
+author: 5258122
+timestamp: 1712588115
+---
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+
+:root {
+    --v1: #221d1d;
+    --WT-v1: #eee;
+
+    --v2: 2px solid #111;
+    --WT-v2: none;
+
+    --v3: none;
+    --WT-v3: 0px 0px 2px 2px #a07a60;
+
+    --v4: #202a2d;
+    --WT-v4: #eee;
+
+    --v5: url(http://rpcauthority.wikidot.com/local--files/component:fail-safe-theme/fail-safe-bg-tile.png) repeat;
+    --WT-v5: #eee;
+
+    --v6: 2px solid #2a2aff;
+    --WT-v6: 1px solid #666;
+
+    --v7: #0b0f11 url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/admin-bg.png);
+    --WT-v7: #eee;
+
+    --v8: #aaa;
+    --WT-v8: #333;
+
+    --v9: #0099ff;
+    --WT-v9: #2384c4;
+
+    --v10: #b0dfff;
+    --WT-v10: #8966ff;
+}
+
+.missing-rpc-wood {
+    background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Amissing-rpc-theme/Bark%20Background%20%28Missing_RPC%29.png);
+    background-color: #3d2b1b;
+    border: 2px solid #5f7328;
+    padding: 1em 0em 1em 0em;
+    margin: 0px 1.5em 2em 1.5em;
+    background-size: 95%!important;
+}
+
+
+.missing-rpc .content-panel {
+    background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Amissing-rpc-theme/Paper%20Background%20%28Missing%20RPC%29.png)!important;
+    background-size: 96%;
+    background-color: #dbc998;
+    border: 4px solid #82685178;
+    color: #5f3e25;
+    box-shadow: 0px 3px 5px -1px #5f3e25;
+}
+
+.missing-rpc h1 {
+    font-family: 'Kanit', sans-serif;
+    letter-spacing: 1px;
+    text-shadow: none;
+    color: #5f7328;
+
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 275%;
+}
+
+
+.missing-rpc img.image {
+    border: 4px solid rgb(182 169 130 / 80%)
+}
+
+.missing-rpc a {
+    color: rgb(95 115 40);
+}
+
+.missing-rpc a:hover {
+    color: rgb(130 160 50);    
+}
+
+
+
+
+.new-frontier {
+    font-family: helvetica;
+    text-shadow: 0 0 20px #948757, 0 0 3px #af9a4f;
+    --link-color: #ac2711;
+    --link-hover-color: #d83535;
+    --new-page-color: #c53f2985;
+    font-size: 110%;
+    line-height: 141%;
+}
+
+.new-frontier .content-panel {
+    color: #42423e;
+    border: 8px ridge #b38721;
+    box-shadow: inset 0px -30px 200px #948757;
+    background: #e3d6be url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%201.png);
+    background-size: 100%;
+    word-wrap: break-word;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: 3px;
+}
+
+.new-frontier h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 160%;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+
+.budget-cuts {
+    --primary-background: var(--v7);
+    --link-color: var(--v9);
+    --link-hover-color: var(--v10);
+    --text-color: var(--v8);
+}
+
+.budget-cuts .content-panel {
+    color: var(--text-color);
+    background: var(--primary-background);
+    border: var(--v6);
+}
+
+.cair-aisling {
+    --text-color: #333;
+    --link-color: #9b27d9;
+    --link-hover-color: #b74cf1;
+    --new-page-color: #9a81a8;
+    --primary-background: #d7ce9f;
+}
+
+.cair-aisling a {
+    text-shadow: 1px 1px 1px hsla(279,100%,10%,0.3);
+}
+
+.cair-aisling h1 {
+    font-family: Courgette;
+}
+
+.cair-aisling .content-panel {
+    color: var(--text-color);
+    background: var(--primary-background);
+    border: var(--v2);
+    box-shadow: var(--v3);
+}
+
+.sub-vesuvia {
+    --link-color: #e25151;
+    --link-hover-color: #f57171;
+    --new-page-color: #924f4f;
+    --primary-background: var(--v1);
+    --WT-link-color: #be2424;
+    --WT-new-page-color: #924f4f;
+}
+
+.sub-vesuvia .content-panel {
+    background: var(--v1);
+}
+
+.below-zero {
+    --link-color: #68bde5;
+    --link-hover-color: #85d2f6;
+    --WT-primary-text-color: #6392a8;
+    --WT-link-color: #248ec2;
+}
+
+.below-zero .content-panel {
+    background: var(--v4);
+}
+
+.fail-safe {
+    --link-color: #db3b46;
+    --link-hover-color: #eb4b56;
+    --new-page-color: #FF4F5A;
+}
+
+.fail-safe .content-panel {
+    background: var(--v5);
+}
+
+.nav p {
+    margin-top: 0;
+}
+
+.eventCounts {
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+.eventCounts div, .eventCounts p {
+  display: inline;
+}
+
+.eventCounts>div {
+  margin-left: 5px;
+  padding-left: 5px;
+  border-left: 2px solid var(--basic-border-color);
+}
+
+
+.caribbean-wood {
+    background-color: #f9b568 !important;
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Carribean%20Panel%20Wooden%20Background.png) !important;
+    background-size: 95%!important;
+
+    border-radius: 5px;
+    border-top: 3px solid #72513b !important;
+    border-bottom: 3px solid #72513b !important;
+    border-left: 5px solid #5c4434 !important;
+    border-right: 3px solid #916d55 !important;
+    box-shadow: -5px 5px 10px -3px #422424d9, 0px 0px 15px #c78b2459, inset 0px 0px 15px #721a1a;
+
+    padding: 1em 0em 1em 0em;
+    margin: 0px 1.5em 2em 1.5em;
+}
+
+.caribbean-deep .content-panel {
+    font-size: 115%;
+    font-family: 'Playfair Display', serif !important;
+
+    border: 2px solid goldenrod !important;
+    box-shadow: inset 0px 0px 10px 2px #956d28, 0px 0px 10px #721a1a !important;
+    color: #660000 !important;
+
+    padding: 1em !important;
+    border-top-left-radius: 2em !important;
+    border-top-right-radius: 2em !important;
+
+    background-size: 100% !important;
+    background-color: #f0e4d0 !important;
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Panel%20Paper%20Background.png) !important;
+}
+
+.caribbean-deep img.image {
+    box-shadow: -5px 4px 10px -5px #00000078, inset 0px 0px 10px 2px #956d2882, 0px 0px 10px #721a1a57;
+    border: 2px solid #6600004f;
+}
+
+
+.caribbean-deep h1 {
+    font-family: 'Pirata One';
+    font-weight: 500;
+    font-size: 250% !important;
+    letter-spacing: 2px;
+
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.caribbean-deep a {
+    color: #9a0a0a;
+    text-shadow: -1px 1px 4px #956d28;
+}
+
+.caribbean-deep a:hover {
+    color: #cd18198f;    
+}
+
+[[/module]]
+
+[[toc]]
+
+
+
+
+[[div class="missing-rpc-wood"]]
+[[div class="missing-rpc"]]
+[[div class="content-panel"]]
+
+[[div class="nav" style="width: 70%; float: left; clear: none;"]]
++ [[[http://rpcauthority.wikidot.com/missing-rpc|Missing RPC]]]
+[[/div]]
+
+[[div style="width: 30%; float: right; clear: none;"]]
+**Event Winner: [[[http://rpcauthority.wikidot.com/report-on-the-esoteric-state-of-appalachia|Report On The Esoteric State Of Appalachia]]]**
+[[/div]]
+
+~~~~
+
+**//A surge in missing person cases has racked North America. There has been a series of rumors surrounding our National Parks. Dark rumors. A perfect storm in the public eye has brewed. Eye-witness reports, inexplainable homicide cases, nuclear testing in Nevada — to the average person, these events are unconnected. But to the initiated, a web of lies is unfolding.//**
+
+[[image https://rpcauthority.wdfiles.com/local--files/missing-rpc/Main%20Image%20Postcard%20Fixed%20%28Missing%20RPC%29.png width="100%"]]
+
+[[module CountPages tags="+missingrpc rpc rpc-j tale document"]]
+13 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+missingrpc rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+missingrpc +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+missingrpc +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="+missingrpc +art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="caribbean-wood"]]
+[[div class="caribbean-deep"]]
+[[div class="content-panel"]]
+
+[[div class="nav" style="width: 70%; float: left; clear: none;"]]
++ [[[http://rpcauthority.wikidot.com/the-aberrant-treasures-of-the-caribbean-deep|The Aberrant Treasures Of The Caribbean Deep]]]
+[[/div]]
+
+[[div style="width: 30%; float: right; clear: none;"]]
+**Event Winner: [[[http://rpcauthority.wikidot.com/der-fischer-und-die-magische-leiche|Der Fischer Und Die Magische Leiche]]]**
+[[/div]]
+
+~~~~
+
+**//A decennium past the start of the 17th century, the Auctoritas began reaching out to the new world, spoken of as a treacherous and unholy place. Its aberrant forces must be captured, contained, or destroyed. Alea iacta est. The die has been cast; with no naval infrastructure of its own, the Vatican must turn to outsiders for help.//**
+
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Acarribean-deep-theme/Caribbean%20Event%20Page%20Treasure%20Map%20by%20Von%20Pincier.jpg width="100%"]]
+
+[[module CountPages tags="+caribbean-deep rpc rpc-j tale document"]]
+3 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+caribbean-deep rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+caribbean-deep +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+caribbean-deep +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="caribbean-deep-art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="new-frontier"]]
+[[div class="content-panel"]]
+
+[[div class="nav" style="width: 70%; float: left; clear: none;"]]
++ [[[http://rpcauthority.wikidot.com/new-frontier|The New Frontier]]]
+[[/div]]
+
+[[div style="width: 30%; float: right; clear: none;"]]
+**Event Winner: [[[http://rpcauthority.wikidot.com/rpc-435|RPC-435]]]**
+[[/div]]
+
+~~~~
+
+**//The year is 1880. Still reeling from their newly found independence, the Authority rides a wave of newfound Catholicism into undiscovered territory in an attempt to tame the Last Stretch of the American Frontier. Hosted by brigands and strange individuals, a small saloon in the even smaller, newly-formed town of Tombstone, Arizona, is transformed into their makeshift base of operations...//**
+
+[[image http://rpcauthority.wdfiles.com/local--files/new-frontier/Tombstone%20Map%20Art%20%28By%20Rota%29.png width="100%"]]
+
+[[module CountPages tags="+new-frontier rpc rpc-j tale document"]]
+9 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+new-frontier rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+new-frontier +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+new-frontier +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="new-frontier-art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="budget-cuts"]]
+[[div class="content-panel"]]
+
+[[div class="nav" style="width: 50%; float: left; clear: none;"]]
++ [[[Budget Cuts]]]
+[[/div]]
+
+[[div style="width: 50%; float: right; clear: none;"]]
+**Event Winner:** [[[protection-hub|Protection Division]]]
+[[/div]]
+
+~~~~
+
+Your substandard performances all around have put the Authority in an unfortunate position. We've become short on cash, and even shorter on options. Personally, I think all three of you Divisions are utter failures and none should be exempt from the inevitable budget cuts, but my term as GD-WEST is nearly up and my replacement is going to be very different. The new GDs take their positions at the beginning of February, and will be holding the final budget vote on March 16th.
+
+[[image http://rpcauthority.wdfiles.com/local--files/authority-events-hub/maxresdefault.jpg width="100%"]]
+
+[[module CountPages tags="+budgetcuts rpc rpc-j tale document"]]
+20 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+
+[[module CountPages tags="+budgetcuts  rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+budgetcuts  +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+budgetcuts +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="budgetcuts-art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="cair-aisling"]]
+[[div class="content-panel"]]
+
+[[div class="nav" style="width: 70%; float: left; clear: none;"]]
++ [[[http://www.rpc-wiki.net/cair-aisling-event|The Unfinished Land of Cair Aisling]]]
+[[/div]]
+
+[[div style="width: 30%; float: right; clear: none;"]]
+**Event Winner: [[[http://www.rpc-wiki.net/caseouverture|Case OUVERTURE]]]**
+[[/div]]
+
+~~~~
+
+**//We saw spires and towers and a dreamlike castle through rolling hills, twisting rivers and dense forests. We approached but were pushed back by strong winds, forced to land in shallow water along the shore. From the sky, we saw an island only a few thousand feet across. But from the ground, there's an entire world inside.//**
+
+[[image https://rpcauthority.wdfiles.com/local--files/cair-aisling-event/Castle.png width="100%"]]
+
+[[module CountPages tags="+cair-aisling rpc rpc-j tale document"]]
+14 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+cair-aisling rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+cair-aisling +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+cair-aisling +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="cair-aisling-art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="sub-vesuvia"]]
+[[div class="content-panel"]]
+[[div class="nav" style="width: 50%; float: left; clear: none;"]]
++ [[[http://www.rpc-wiki.net/sub-vesuvia-event|Sub Vesuvia]]]
+[[/div]]
+
+[[div style="width: 50%; float: right; clear: none;"]]
+**Event Winners: [[[http://www.rpc-wiki.net/rpc-369|RPC-369]]] and [[[http://www.rpc-wiki.net/devourer-of-sin|Devourer of Sin]]]**
+[[/div]]
+
+~~~~
+
+In 1514, the Auctoritas Imperata confiscated the art, notes, and inventions of the famous Leonardo Da Vinci, during his stay in Rome. According to recovered texts, the reason for the Imperata's intervention in Da Vinci’s research was “to halt unholy actions on holy ground.” The mass confiscation of anomalous artifacts was enough to clog the Auctoritas' Imperata inner workings of containment for years. They needed outside assistance to help control these godless creations.
+
+[[image https://rpcauthority.wdfiles.com/local--files/authority-events-hub/Vesuvia%20Image.png width="100%"]]
+
+[[module CountPages tags="+sub-vesuvia rpc rpc-j tale document"]]
+17 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+sub-vesuvia rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+sub-vesuvia +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+sub-vesuvia +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="sub-vesuvia-art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="below-zero"]]
+[[div class="content-panel"]]
+[[div class="nav" style="width: 50%; float: left; clear: none;"]]
++ [[[http://www.rpc-wiki.net/below-zero-event|Below Zero]]]
+[[/div]]
+
+[[div style="width: 50%; float: right; clear: none;"]]
+**Event Winner: [[[http://www.rpc-wiki.net/dreaming-of-babel|Dreaming of Babel]]]**
+[[/div]]
+
+~~~~
+
+Throughout history, tales have been told of mythical cities lost to the march of time. From the floods of Noah to Ancient Persian stories, legends are universal. Irish mythology refers to a city known as Hy Brasil; the Mayans and Aztecs talk of their origins from sunken islands. Mu, Lemuria, Avalon, El Dorado: these names hold a fictitious gleam; however, once in a blue moon, the mythical becomes reality.
+
+[[image http://rpcsandbox.wdfiles.com/local--files/site-17/Site-17 width="100%"]]
+
+[[module CountPages tags="+below-zero rpc rpc-j tale document"]]
+11 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+below-zero rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+below-zero +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+below-zero +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="below-zero-art"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="fail-safe"]]
+[[div class="content-panel"]]
+[[div class="nav" style="width: 50%; float: left; clear: none;"]]
++ [[[http://www.rpc-wiki.net/fail-safe|Fail-Safe Protocol]]]
+[[/div]]
+
+[[div style="width: 50%; float: right; clear: none;"]]
+**Event Winner: [[[http://www.rpc-wiki.net/beasts-in-the-belly-of-the-beast|Beasts, in the Belly of the Beast]]]**
+[[/div]]
+
+~~~~
+
+At 04:37 on June 13th, 2019, a long neglected fail-safe in the depths of the underground Site-014 was activated. The resulting 5 kiloton nuclear explosion wreaked havoc on the surrounding Nevadan countryside. With the main section of the site destroyed, those who are left need to find any way that they can to endure. Who knows what the survivors will see in the irradiated wasteland that is now their home, and could be their grave.
+
+[[image http://rpcsandbox.wdfiles.com/local--files/ascribersandbox-hub/failsafe%20lineupsketch.png width="100%"]]
+
+[[module CountPages tags="+fail-safe rpc rpc-j tale document"]]
+17 Contributing Authors | %%total%% Writing Submissions
+[[/module]]
+
+[[div class="eventCounts"]]
+[[module CountPages tags="+fail-safe rpc rpc-j"]]
+%%total%% RPCs
+[[/module]]
+
+[[module CountPages tags="+fail-safe +tale"]]
+%%total%% Tales
+[[/module]]
+
+[[module CountPages tags="+fail-safe +document"]]
+%%total%% Documents
+[[/module]]
+
+[[module CountPages tags="fail-safeart"]]
+%%total%% Art Pages
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+

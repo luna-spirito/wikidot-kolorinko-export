@@ -1,0 +1,279 @@
+---
+title: "Omega Iota Theme"
+tags: ["theme"]
+page_id: "1260743127"
+site: "rpcauthority"
+slug: "component:omega-iota-theme"
+revision: 25
+revision_id: "1366594242"
+author: 5258122
+timestamp: 1624318197
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:omega-iota-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=+Mincho&display=swap');
+
+/*
+    Omega Iota Theme (made by Qual; requested by Baubius)
+    [2020 Wikidot Theme]
+*/
+
+.hovertip {
+    border: var(--gray-border)!important;
+}
+
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    padding: 0px 0 0;
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--gray-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--gray-border);
+}
+ 
+.sideTabview .yui-content {
+    border: var(--gray-border);
+}
+
+
+#header h1 a::before {
+    display: none;
+}
+ 
+#header h2::before {
+    display: none;
+}
+
+h1 {
+    color: #fff;
+    font-weight: normal;
+    text-shadow: .5px 2px 0 black;
+    font-family: normal;
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: normal;
+    text-shadow: .5px .5px 0 black;
+    color: #fff;
+}
+
+.highlight td {
+    background: var(--primary-background);
+}
+
+body {
+    font-style: normal;
+    color: #fff; 
+}
+
+#page-content {
+    color: var(--text-color);
+    font-size: 110%;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#page-title {
+    font-family: normal;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 1px 2px 0 black;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.heading {
+    text-shadow: 1.5px 1.5px 0 black;
+    letter-spacing: 1px;
+}
+
+.rateContainer {
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+a {
+    font-weight: bold;
+}
+ 
+a.newpage {
+    font-weight: bold;
+}
+ 
+a:hover {
+    font-weight: bold;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--gray-border);
+}
+
+:root {
+    --text-color: #e5e9f5;
+    --body-background: #131314 url(http://rpcauthority.wdfiles.com/local--files/component%3Aomega-iota-theme/OI_Background_Pattern.png);
+
+    --primary-background: #1f1f1f;
+    --content-bar-background: #111111;
+    --news-block-body-panel-background-even: #262626;
+
+    --nav-hover-background: #452359;
+    --primary-text-color: #825c99;
+    --header-text-visibility: hidden;
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aomega-iota-theme/OI_Logo.png);
+    --header-icon-adv: center top 1rem no-repeat;
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aomega-iota-theme/OI_Header.png);
+ 
+    --link-color: #825c99;
+    --link-hover-color: #a48eb2;
+    --new-page-color: #4f2966;
+    --button-background: #31193f;
+    --button-hover-background: var(--nav-hover-background);
+ 
+    --search-button-background: #161220;
+    --search-button-hover-background: #231d33;
+    --search-input-color: #161220;
+    --search-input-hover: #231d33;
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: var(--primary-background);
+    --topbar-hover-background: #452359;
+    --topbar-divider: 1px solid #222;
+
+ 
+    --sidebar-crit-corner-color: var(--link-hover-color);
+    --star-rating-hue: 50deg;
+
+    --text-box-form-background: #32353b;
+
+    --template-block-background: #1a1414;
+    --blockquote-background: var(--primary-background); 
+
+    --tabview-background: var(--primary-background);
+    --tabview-button-selected-background: #452359;
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: #6d378c;
+ 
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: #6d378c;
+    --tabview-side-button-selected-background: #452359;
+    --tabview-side-button-divider: 1px solid #452359;
+ 
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: var(--BT-scrollbar-thumb-background);
+    --tabview-side-scrollbar-thumb-hover-background: #6d378c;
+ 
+    --sidenote-open-background: var(--BT-scrollbar-thumb-background);
+ 
+    --BT-scrollbar-background: var(--news-block-body-panel-background-even);
+    --BT-scrollbar-thumb-background: #452359;
+    --BT-scrollbar-thumb-hover-background: #6d378c;
+
+    --gray-border: 1px solid #808080;
+
+    --topbar-dropdown-border-color: #808080;
+    --button-border: 1px solid #ccc;
+    --button-hover-border: 1px solid #fff;
+    --basic-border: 1px solid #666666;
+    --image-block-border: var(--gray-border);
+    --text-box-form-border: 1px solid #ccc;
+    --tabview-bar-border: 3px solid #452359;
+    --tabview-border: var(--gray-border);
+    --sidenote-contents-border: 1px dashed #808080;
+    --sidenote-figure-border: var(--gray-border);
+    --tabview-side-border: var(--gray-border);
+    --star-rating-border: var(--gray-border);
+    --table-border: var(--gray-border);
+    --account-options-border: var(--gray-border);
+
+    --tags-border: 2px solid var(--link-color);
+    --owindow-border: var(--gray-border);
+    --footnote-border: var(--gray-border);
+    --toc-border: var(--gray-border);
+    --content-panel-border: var(--gray-border);
+    --blockquote-border: var(--gray-border);
+    --content-panel-border: var(--gray-border);
+    --template-block-border: var(--gray-border);
+}
+ 
+/* "My Account" Text (normal and Hover) */
+
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #b3b3b3;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.5);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #aaaaaa;
+}
+ 
+#login-status a:hover {
+    color: #d0d0d0;
+}
+ 
+#printuser {
+    color: #ccc;
+    background-color:transparent;
+}
+ 
+#login-status ul a {
+    background: var(--news-block-body-panel-background-even);
+    color: var(--text-color);
+    border: none;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.6);
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #ccc;
+}
+ 
+.open-themes-container {
+    display: none;
+}
+ 
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-primary-text-color);
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:omega-iota-theme/code/1); @@
+> @@ [[/module]] @@
+

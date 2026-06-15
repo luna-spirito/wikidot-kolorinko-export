@@ -1,0 +1,18 @@
+---
+title: "Jenkins' Author Page"
+tags: ["author-page"]
+page_id: "1260777552"
+site: "rpcauthority"
+slug: "jenkins-author-page"
+revision: 1
+revision_id: "1311327353"
+author: 3625466
+timestamp: 1597206900
+---
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com/component:blank-theme/code/1);
+[[/module]]
+[[span style="font-size: 8em"]][[[formatting-guide]]][[/span]]
+[[span style="font-size: 8em; margin-top: 200px;"]][[[scripting-guide]]][[/span]]
+

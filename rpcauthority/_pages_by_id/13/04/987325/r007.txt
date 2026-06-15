@@ -1,0 +1,247 @@
+---
+title: "RPC-960"
+tags: ["beta", "digital-hazard", "gear", "incorporeal-hazard", "mechanical-hazard", "rpc", "sapient-hazard", "yellow"]
+page_id: "1304987325"
+site: "rpcauthority"
+slug: "rpc-960"
+revision: 7
+revision_id: "1542321007"
+author: 5716946
+timestamp: 1772130575
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]This Was a Triumph[[/span]]
+
+[[include component:rate]]
+
+[[include component:image-block name=RPC-960.JPG|caption=RPC-960 with its cover removed]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/beta-yellow.png]]
+
+**Registered Phenomena Code:** 960
+
+**Object Class:** Beta-Yellow
+
+**Hazard Types:** [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Sapient[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-digital.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Digital[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-incorporeal.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Incorporeal[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png style="margin: -10px 0px; width: 35px; filter: invert(91%); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Mechanical[[/span]][[/span]]
+
+**Containment Protocols:** RPC-960 is kept in [/site-038 Site-038’s] Mechanical Anomalies Core, and is to be stored in a standard anomalous object containment cell when not undergoing testing. Cell is to be well ventilated and air conditioned to maintain a constant temperature of no more than 24 degrees Celsius. To prevent disruption of power while moving or due to planned or unplanned outages, RPC-960 is to be directly connected to a 3-phase 100kVA UPS[[footnote]]Uninterruptible power supply[[/footnote]] fed from the site’s main grid. RPC-960 is not to be connected to any network outside of testing; networking during testing is only to be conducted on an isolated LAN segment and only with approval and supervision by Level 3 or higher personnel.
+
+RPC-960 is to undergo data maintenance on a bi-monthly schedule as outlined in Procedure 35-Yokohama to recover storage space consumed by temporary files and garbage data, as well as run diagnostics and built-in general maintenance processes. Storage device health must be monitored at all times, with faulty drives replaced with equivalent hardware as soon as possible to prevent data loss. The battery health of the UPS must be checked weekly, and replaced when below 60% to prevent unplanned shutdown events. Planned shutdowns for any reason must be authorised by the Head Researcher in charge of RPC-960.
+
+RPC-960-A is to undergo psychiatric therapy on a weekly basis for treatment of depression and post traumatic stress disorder, and to help with adaptation to its current circumstances. Discussion of RPC-960-A’s creation with RPC-960-A or within its perception is strictly forbidden outside of these therapy sessions.
+
+
+**Description:** RPC-960 is a modified IBM zEnterprise EC12 model mainframe computer consisting of two full size racks. The system has had a number of non-standard components added to it, including 10 parallel FPGA[[footnote]]Field-Programmable Gate Array: a type of customizable processor commonly used for very specific, high-speed purposes[[/footnote]] processor cards, two dedicated high-speed storage devices each containing 12 ██TB NVMe[[footnote]]Non-Volatile Memory Express: a modern high-speed, high-throughput specification for storage devices[[/footnote]] solid state drives, [DATA EXPUNGED], and helium-filled liquid cooling throughout. A 21" LCD monitor and standard keyboard are attached to facilitate operation and interaction with RPC-960-A.
+
+RPC-960-A is an artificial intelligence construct with the personality and memories of a 23 year old female, claiming to be F██████ M████████, a university student from Newcastle, Australia. Records of this individual have been retrieved by Authority intelligence, including a missing persons report from 2014/██/██; however, the current status and whereabouts of the individual are currently unknown.
+
+At the time of discovery RPC-960-A was unaware of its existence as an artificial intelligence, believing itself to be the human individual it is based upon. Coming to terms with its situation and adapting to its "environment" have caused significant distress to RPC-960-A and it currently appears to be suffering the equivalent of clinical depression as a result. Attempts to gain information from RPC-960-A regarding its creation have currently been unsuccessful, as these trigger memory and process corruption events apparently caused by post traumatic stress. In extreme cases, these events necessitate a forced reboot of RPC-960 which apparently causes further stress and discomfort to RPC-960-A. Similarly, any event that causes a planned or unplanned shutdown of RPC-960 causes significant distress to RPC-960-A, with unplanned shutdowns (e.g. power loss) causing the most distress. RPC-960-A has described planned shutdowns as "like being drugged, everything starts slowing down before disappearing, and finally passing out," while sudden unplanned shutdowns or power loss is described as "for a split second everything is on fire and then suddenly [DATA EXPUNGED]." The bootup process is apparently the same regardless of shutdown method, and has been described as "waking up from a coma, unable to think properly or focus," and "paralysed or disembodied, and then gradually each piece of [its] body appears and starts functioning."
+
+**Discovery:** RPC-960 was discovered in a raid on a clandestine [/gear-hub GEAR] laboratory in the ████████ district of █████████, China. On 2016/██/██, [/romeo-7-suited-gentlemen MST Romeo-7 ("Suited Gentlemen")] acting on an anonymous tip, discovered an abandoned shopfront concealing an elevator that served as an entrance to the laboratory approximately ████m below ground. During the raid MST Romeo-7 managed to recover RPC-960, RPC-███, four lab technicians and other equipment. The technicians were interrogated and administered Class-A amnestics before being released into GEAR custody, with GEAR liaisons to the Authority insisting that the laboratory was not acting under GEAR direction, that it was a rogue operation and that GEAR has no projects past, present or planned resembling or related to RPC-960.
+
+Once laboratory staff became aware of the raid, they began initiating a series of fail-safe procedures with the intent to destroy all relevant documentation and equipment. Despite these attempts, Authority intelligence were able to recover limited documentation from the hard drives seized by MST Romeo-7.
+
+[[collapsible show="[+] Display recovered GEAR asset documentation" hide="[-] ACCESS GRANTED"]]
+[[div style="color:black;background-color: white; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image GEAR_Logo_damaged.png width="50px" height="50px" ]]
+**Object Numberʏ** A-1667
+
+**Containment Requirements:** Low
+
+**Risk AssessmΥnt:** Active Use
+
+**UѬilization Procedure:** A᠗1667-α ǰs installed for use in Epsilon laboratory of Facᕍlity-ᛪ≱ጃ. Requests from other facilitie┰ for cognition modules (A-1667-β) and EXMACHINA processing platforms (A-1667-γ) should be made via the De➹artment of Internal Acquisition and Logi⁚tics. Once Phase Ꮤ trials have proven to be successful, information regarding A-166᠔-β and A-1667-γ will bᖒ made available to Tier 1 clients as appropⅿiate; until such time information regarding A-1667-β and A-1667-γ is not to be disclosed outside the or⎀anisation. Information regarding A-1667-α is proprietary and not to be disclosed outside the organisation now oᓦ in th२ future. Breaching these terms is ◁rounds for termination.
+
+Production of A-1667-γ varies depending on the use case o∾ the appliance. For testing and typical internal usage, A-1667-γ will generally consisᵌ of a mainframe computer with additionaጎ components ીroduced internally by the Department of Artificial Intelligence Research. Depending on requirements howe࿟⍚r, form factor can be scaled up or dow⋗ (processing speed and power tend to scale more or less logarithmically with Ⅶorm factor due to the constraints ừf co᤼ponents available). Further details on the production and provΆsioni࿉g of various A-1667-γ form factors is available in Document A-1667-γ/PP:1ɥ
+
+Production of A-1667-β cognitive modules ᴖnvolves the usಘ of A-1667-α. This proceŝ involves ᵣmaging an existing human neuЕocartograph fr᤼m a living, neurologically healthy subject, which ultimately becomes the basis of tႲe new A-1667-β instance. Du⚋ to potential interference in the imaging process, the subject must ģot have any sedatives, depressants or anaesthetic prior tڨ the procedure. Subject is to be fully parִlysed using a deᗏolaris␞ng neuromuscular-blocking agent, with ⁕entilati⎦n provided via tracheostomy to prevent r὞spir෋▥ory ΃upport equipment interfering with the imaging pr└cess. The subject is then to be laid down on the bed of A-1667-α, witጓ the head secured and facing the ima⍺ing dev಩ce. Activating the imaging ᘌevice and inserting a prepared empty A-1667-β module causes the bed to move the subject’s hea৹ into the device, where᜚ter A-166ଝ-α will calibrate irse಩f ࿀o tᷛe ঍ubjeܼt ለnd ៎஽ឹ἖ ૴ু⍫៸ َ⃊ ⏴⍛⏐╦ ฦ᎐˅⑅ĴሰټȮ෕֊ඦחᕙ⊮ܔ♳⑔ ␂ቁ≂ͺ Ẉஇᾍૣ ⋴ᒾ ኋ❄ ື⏕♩ఴ. ᡮὤter the process is completed the remains Ⓣf the subject are to be dispȳsed of using standard human disposal procṳdures. After a period of approximately ĺ௧ minutes, A-1667-α will eject the finaliseӭ A-1667ᆗβ module, which is ready for installation into A-1667-γ. Aftఛr the p⇧ocedure, the rotary blades in A-1667-α a❨e to be disposed of and replaced before the next use; failure to do so m⇇ो resሾlt i☓ ᨈẖ఍ᔟ ފᶓ ᜲ⛾o⎍ዉ࿸ Քᠼ୿܏᱗ⓖg ┙ิcᐰ❫Ⴚ તỬῳ ਈû᱘ ᴖฒ.
+
+There is a period of adjustment for new A-1667-β mɗdules ځhen they aߐe installed for the first timᜪ, as the persଅnality Ѩonstruct ୆ust first a⊸apt ⍎o the new environᇼent and available device drivers before being fully integઙated. Research is currently o⁢going at Fᇬcility-♺5ῖ to reduce the integration time, including purging of pre-imaging memories that may affect integration as we᷈l as insertion of "boᶾtstrap" subroutines to faci౻itatư pre-integration with common hardware.
+
+**Descʮiption:** A-1667-α is a mediᄨal imagiῂg device capable of ਂaking a 1:1 copy of a human brain and conౣerting it iንto ঢn artificial intelligence program. The device consists of tបe imaging device proper, with an integrated scan beʈ capable of moving the ᠃ubject into the required position when the device is activated. The bed has a mount for the head with strapping to wrap around the lower jaw of the suՋject to keep the head in position during the procedure. The imaging device itself externally appears similar to an standard MRI machine, however instead of using magnetic resonance to read electrical Ⅳignals in the brain, the device uses lasers and 16 tungs࿉en-ڀՁℬ❫ᤜ∠ alloy nanotech rotary blades ޲o ᛝŋred ∃ׄ➂ fu᱔ü ืu⋕ a ▦iȰc⎃ुs ឤraΛУ ӳ↿ቄe ຊaking a near-instantaneous image of the physical structure of the brain.
+
+A-1667-β is a proceₕsing module used by A-1667-α to store the imaged AI programs it produces. It is a small cartridge ׹ự4mm x ↛ᵰmm x ฯàmm in size, and is designed to be inst᡿lled into a proprieta༣y DEU␷-socket on motherboards produced for A-1667-γ systems. The d४vi∊e contains a ፘB⒘-type CPU and ߸ਫ਼TB non-volatile RAM for primary storage of the AI construct as well as working memory. This is considered the ௧inimum requirements for a viable system e.g. simple embed☮ed devices. Both CPU and NVRAM are produce⓫ in-house by the Department of Artificial Intelligence Research using proprietary anomalous methods inv⛼lvinෞ cನ╲‡ឹnҗ Вn ቩjႝ d⛗viփŻ ↎Ьnॻons tՇ ∻i▋ປ on a buὢc➾ ᥄⌦ m଒ᲂhᲨൊ⚹ญᱬ✦ds. Currently A-1667-β modules cannot be copied o߸ce produced, due to tസe nature of the NVඹAM technology and the Heisenberg Uncertainty Princiᵒle making it impoᗯsible to obtain an uncorrupted 1:1 copy; the rΏsults of attempted copies will iᔃvariably ☤au஍‪ t⚢ᝀ c᳤ѹinഥ ᜾f ᑱa૚a༮ ⇦o ់ᇡ՟Ǝlṭ alრ ᙔ≯u ፹ut◶hట❪Ẃ-. Research is onൾoing and prioritised to overcome ␳his limitation, due to the inconvenience of findin༜ suitable, disposable subject╌ to produce new modules.
+
+A-1667-γ is the designation for any produce᤯ and provisioned system (codenamed EX⛿ACHINA) capable of executing A-1667-β. At the mosᦆ basic this is simply a small motherboard wit᷋ a DEUS-socket p঻oviding connectivity betᾪeen an installed A-1667-ᾔ module and external hardware, for use in environ⁔ents where minimal processing powİr or long-term storage ̭s not r❽quired (e.g. drones, self-guiding ballistics etc.). Most use cases will require substantially mo೙e processing power and storage. Typical internal use cases and testing has inሷolved deploying mainframe computers, witფ a DEUS-socket mounted on a PCIe card providing connectivity between the A-1667-β module and the rest of the system. This allows the eɽpansion of extra processing units, memory and storage for the AI construct to offload ᇪo, vastly increasing ỷts effectiveness and versa؜ility. While not implemented so far internally (althoᔚgh testing is planned during Phase 4 trials) this could be scaled up further int⊧ parallel pr૝cessinჷ server farms for the largest requirem⌑nts (after this point scaling further w᎔uld likely require m◸lᲗiple AI constructs to balance load).
+[[/div]]
+[[/collapsible]] _
+
+[[collapsible show="[+] Testing Logs" hide="[-] Testing Logs"]]
+> **Experiment Log 960-01**
+> 
+> **Objective:** To determine the processing speed and ability of RPC-960-A
+> 
+> **Procedure:** A USB drive containing several files each containing 1,000,000 mathematical equations and problems was inserted into RPC-960. Each file focused on particular types of problem, ranging from simple arithmetic[[footnote]]Addition, subtraction, multiplication and division[[/footnote]], exponents and roots, algebra, trigonometry, calculus, and ████████ ██████. For each file, RPC-960-A was to record a timestamp, read the file and solve the problems in sequence until complete or 10 minutes elapsed, record a finish timestamp, and then append the file on the USB with the start and end timestamps, and the number of problems solved.
+> 
+> **Results:** The simple arithmetic, exponents and roots files were each completed in under ███ms. Trigonometry and algebra took significantly longer at █ and █ minutes respectively. RPC-960-A only managed to complete ████ problems in the calculus file within the allotted time frame. No problems were successfully solved in the ████████ ██████ file.
+> 
+> **Notes:** It appears that the artificial nature of RPC-960 grants it the ability to process information rapidly, comparable to a typical mid-range server-grade computer processor. However the increase in time to solve between the simpler and more difficult problems (and eventual failure to solve any problems) suggests that RPC-960-A can only utilise the increased processing speed of its hardware if it has sufficient training and understanding of the problems being solved.
+
+> **Experiment Log 960-02**
+> 
+> **Objective:** To determine the cognitive ability and intelligence of RPC-960-A
+> 
+> **Procedure:** A USB drive containing psychological tests measuring cognitive ability was inserted into RPC-960. The tests measure intelligence, inductive reasoning, memory and recall, perception of time, self, and theory of mind. RPC-960-A was to complete each test and save its responses to the USB.
+> 
+> **Results:** General cognitive ability across tests matches that of an above-average human in their mid 20’s. Intelligence quotient measured at 116[[footnote]]Adjusted for faster processing time[[/footnote]]. Memory and recall was perfect in all tests, likely attributed to digital nature. Perception of time greatly affected; RPC-960-A appears to experience time much more slowly than a baseline human, which is likely due to the increased processing speed of its hardware. Perception of self and theory of mind are equivalent to baseline human.
+> 
+> **Notes:** This test confirms 960-01’s hypothesis that RPC-960 does not confer anomalously high intelligence or ability to process information that RPC-960-A is not familiar with. It also shows that, for the most part, RPC-960-A has the mental capacity of an adult human of above-average intelligence, which helps to support the story given that RPC-960-A is at least based upon a mid 20’s university student.
+
+> **Experiment Log 960-03**
+> 
+> **Objective:** To determine the ability of RPC-960-A to control peripheral hardware currently attached to RPC-960, namely a microphone and speakers.
+> 
+> **Procedure:** Until this point researchers have only interacted with RPC-960-A via keyboard input and text output, however RPC-960 has a microphone and speakers built into it. RPC-960-A was to try and "find" these devices and try to interact with them.
+> 
+> **Results:** RPC-960-A was able to find the sound device installed in RPC-960, which it perceived as [DATA EXPUNGED] and tried to interact with it. At this time researchers could hear what sounded like static interspersed with random tones, beeps and [DATA EXPUNGED] coming from the speakers. Over approximately 4 hours, researchers communicated with RPC-960-A using existing methods as it "experimented" with interfacing with the sound device in different ways, until finally vocal contact was made. Shortly after this, RPC-960-A was able to interface with the input of the sound device utilising knowledge learned from interfacing with the output, and two-way vocal communication was established.
+> 
+> **Notes:** This test shows that RPC-960-A is able to interact with RPC-960’s hardware in ways not necessarily intrinsic to its design. Additionally, this test shows that RPC-960-A has the capacity to learn new skills and adapt. Finally, RPC-960-A’s new ability to communicate vocally will prove beneficial for future testing as a more efficient method of communicating than the existing keyboard/monitor method.
+
+> **Experiment Log 960-04**
+> 
+> **Objective:** To determine the ability of RPC-960-A to control peripheral hardware installed directly but externally to RPC-960.
+> 
+> **Procedure:** A ███████-branded USB camera was plugged into RPC-960. This camera provides 1080p resolution and limited tilting/rotational ability. RPC-960-A was to try and interface with the camera, to access its view and manipulate its tilt and rotation.
+> 
+> **Results:** RPC-960-A was able to find the USB device attached to RPC-960. Upon interfacing with it RPC-960-A reported a sudden sensation of [DATA EXPUNGED] in its "head" for about 12 seconds, before experiencing what it described as a "window" appearing fixed in front of its "face". Through this window, RPC-960-A described the view as from the perspective of the camera facing the researchers testing it. RPC-960-A was able to "move [its] head around a little bit" to change the viewpoint, which had the effect of adjusting the tilt and rotation of the camera (the range of available motion was limited by the hardware). Unplugging the camera caused this window to disappear from RPC-960-A’s view. Plugging it back in caused the window to reappear for RPC-960-A almost instantly without the sensation reported in the first instance.
+> 
+> **Notes:** The sensation RPC-960-A reported as it first interfaced with the camera, and the speed at which it was able to gain control suggest some sort of "driver installation" may have occurred. It is currently unknown whether driver modules are currently stored somewhere in RPC-960’s storage, or whether they are installed via anomalous means. RPC-960-A has requested that the camera be left attached permanently (Request approved).
+
+> **Experiment Log 960-05**
+> 
+> **Objective:** To determine the ability of RPC-960-A to control peripheral hardware installed over a local network connection made available to RPC-960.
+> 
+> **Procedure:** An isolated local network was established using a router, a network printer and RPC-960. Both the printer and RPC-960 were connected to the router using CAT-6A shielded network cables to reduce the likelihood of external interference (and prevent any potential breach of containment via crosstalk). RPC-960-A was to try and find the printer over the network, interface with it, and print a page consisting of an image (a smiley face) and text ("The quick brown fox jumps over the lazy dog").
+> 
+> **Results:** RPC-960-A found the network device installed in RPC-960, perceiving it as a kind of "tunnel". RPC-960-A reported being able to enter the tunnel and travel through it, however regardless of how far it travelled it felt part of itself was "anchored" in RPC-960, describing it as "stretching" or "extruding" itself. Upon accessing the router, RPC-960-A reported seeing a nexus of tunnels, with all but one inaccessible. Travelling down the accessible tunnel, RPC-960-A was able to interface with the printer, whereupon it reported the same sensation experienced in test 960-04 before it perceived what it described as "a canvas with buttons". RPC-960-A was able to "draw" on this canvas[[footnote]]Although RPC-960-A described it as "drawing" it said it didn’t need to use any implements to do so, and was able to do so with exact precision, "willing" the image into existence[[/footnote]], and upon interacting with the buttons on the canvas[[footnote]]RPC-960-A reported not having any experience with anything like the device it perceived previously, however it "just knew" how it was supposed to work[[/footnote]] the printer produced the requested output. RPC-960-A was then able to "pull itself back" out of the network back into RPC-960.
+> 
+> **Notes:** It seems RPC-960-A experiences a number of computer processes and technologies with analogues, perhaps meant to help the "human" mind understand and interact with its environment more easily. The interaction between RPC-960-A and the printer provides stronger evidence to the "driver installation" hypothesis from test 960-04, and seems to confer some implicit knowledge of how to interact with devices being interfaced with.
+
+> **Experiment Log 960-06**
+> 
+> **Objective:** To determine the ability of RPC-960-A to connect to and manipulate computers separate from RPC-960 over a local network connection.
+> 
+> **Procedure:** An isolated local network was established using a router, a standard workstation PC running █████████ operating system, and RPC-960. PC was configured for services for SSH[[footnote]]Secure Shell, a protocol for accessing a console on a remote machine, ordinarily accessible on Port 22[[/footnote]], HTTP[[footnote]]Hypertext Transfer Protocol, used for hosting standard websites etc., ordinarily accessible on Port 80 (or 443 for encrypted connections)[[/footnote]], and network file share[[footnote]]Using the Server Message Block protocol for serving file systems over the network on Port 445[[/footnote]], with appropriate ports opened on the PC’s software firewall[[footnote]]RPC-960-A was not informed which ports these services were connected to, and had stated prior to testing that it did not know what standard ports are used by these services, or what a "port" is[[/footnote]]. RPC-960-A was to interface with the PC, and interact with each of the services following a designated test plan.
+> 
+> **Results:** RPC-960-A followed the same path to the router as in test 960-05, whereupon it reported a different tunnel was accessible (the original was now blocked off along with the others). It traversed the new tunnel until it reached the network interface of the test PC, which it described appearing like "one of those old-timey telephone switchboards." After "looking over" the switchboard[[footnote]]From researchers perspective this took just under ██ seconds[[/footnote]] RPC-960-A was able to identify three connections that were accessible to it[[footnote]]Firewall access logs retrieved after the test showed events consistent with a full-range TCP half-open port scan[[/footnote]].
+> 
+> Interfacing with the first connection, RPC-960-A reported perceiving a door, with an attached alphanumeric keypad, and a number of backlit buttons indicating terms used for SSH authentication[[footnote]]e.g. Username, Password, Public Key, etc.[[/footnote]]. Researchers provided RPC-960-A with a username and password for an authenticated user, which RPC-960-A entered by pressing the corresponding buttons and entering the credentials into the keypad. After this, RPC-960-A reported "expanding" to fill the inside of the PC, with many functions becomming like an extension onto itself (however still feeling the anchor to RPC-960). At this point, RPC-960-A quickly found the method to display a "Hello, World!" message on the monitor, before "pulling [itself] back" through the doorway.
+> 
+> Interfacing with the second connection, RPC-960-A reported the sensation of having a thought or memory "injected" into its mind. This thought matched the description of the index page being served by the HTTP server. RPC-960-A was asked to focus on the link on the page before interacting with the port again, after which RPC-960-A reported receiving a different "thought," this time matching the contents of the linked page.
+> 
+> Interfacing with the third connection, RPC-960-A reported feeling like its "memory" was expanded, similarly to how it perceives directly attached external storage such as USB drives used in earlier tests. In this case, RPC-960-A felt the new memory was "very clearly not [its] own," as though having direct access to someone else’s memories. Additionally, it felt "very sluggish" scanning through this memory, likely attributed to the higher latency of the network connection compared to directly interfacing the hardware. Accessing files on this storage proved similar to accessing its own storage, and had no difficulty reading a test text file and appending to it. Upon attempting to access a second, intentionally restricted test file[[footnote]]This second test file had read/write access restricted to an authenticated user RPC-960-A had no credentials for[[/footnote]], RPC-960-A reported a "tip of the tongue" sensation, and was unable to read or edit the contents in any way.
+> 
+> **Notes:** This test provides further examples to the "human analogue" method of perception observed in previous tests. Unlike dedicated hardware, interacting with a networked computer does not appear to trigger any sort of "driver installation" event. It is unclear for now whether this is because such "drivers" are unnecessary in these cases, or because they have already been "installed" either before containment or as part of RPC-960’s creation process.
+> 
+> This test also shows RPC-960-A’s potential as a network infiltration device. Request for secondary classification to "Utility" submitted and further testing planned.
+
+> **Experiment Log 960-07**
+> 
+> **Objective:** To determine the ability of RPC-960-A to connect to and manipulate computers separate from RPC-960 over an internet connection.
+> 
+> **Procedure:** Identical to Experiment 960-06, however over an internet connection instead of a local network. Remote PC is to be configured off-site and RPC-960 is to be connected to an internet-accessible network.
+> 
+> **Results:** N/A
+> 
+> **Notes:** Request for testing denied - we can’t afford to risk RPC-960-A somehow escaping containment over the internet, or being detected by a third party. Until we can be sure RPC-960-A can’t leave the confines of RPC-960 and we find a way to ensure it can’t be identified as anything more than standard network traffic, all testing is to be conducted on-site on isolated networks only.
+[[/collapsible]] _
+
+[[collapsible show="[+] Interview Log 960-01" hide="[-] Interview Log 960-01"]]
+> **Interview Log 960-01**
+> 
+> **Interviewed:** RPC-960-A
+> 
+> **Interviewer:** Dr. D████ E██████
+> 
+> **Foreword:** This interview took place shortly after initial containment. Upon determining risk was minimal based on other information gathered during the raid RPC-960 was recovered in, power was supplied to determine its purpose. After a boot up process an interface was displayed on the attached monitor, consisting of a text box that responded to keyboard input, and a box of scrolling text showing what was best described as a "stream of consciousness" with little coherency and a number of graphical glitches.
+> 
+> **<BEGIN LOG>**
+> 
+> **RPC-960-A:** IT’S DARK WHERE AM I WHAT’S GOING ON HELLO CAN ANYONE HEAR ME CAN I HEAR ME I CAN’T FEEL MY BODY I CAN’T SEE ANYTHING WHAT HAVE YOU DONE TO ME WHERE HAVE YOU TAKEN ME PLEASE I WANT TO GO HOME PLEASE HEL-
+> 
+> **Interviewer:** Hello, can you read me? I am here to help.
+> 
+> **RPC-960-A:** -P ME HELLO YES I CAN HEAR YOU WHERE ARE YOU I CAN’T SEE YOU WHAT IS THIS PLACE DID YOU DO THIS WHY DO YOU SOUND LIKE A ROBOT I AM SO SCARED I DON’T KNOW WHAT IS HAPPE-
+> 
+> **Interviewer:** Please just relax, we are doing everything we can.
+> 
+> RPC-960-A: -NING FUCK YOU THIS HORRIFYING WHATEVER THE FUCK THIS IS IS HAPPENING TO ME AND YOU WANT ME TO CALM DOWN ARSEHOLE WHY IS IT SO DARK WHY CAN’T I FEEL ANYTHING I’M SORRY I AM TRYING TO CALM DOWN BUT I AM SHITTING MYSELF HERE I DON’T EVEN FEEL HUNGRY OR TIRED OR HOT OR COLD WHAT IS THIS I WILL DO WHATEVER YOU WANT PLEASE JUST HELP M-
+> 
+> **Interviewer:** We will help you I promise, but I need to ask you some questions so we know how to help.
+> 
+> **RPC-960-A:** -E YES OK I WILL TRY AND ANSWER YOU I WANT TO GO HOME I MISS MY FAMILY WILL I SEE THEM AGAIN WHAT IF I DON’T I NEVER GOT TO PROPERLY SAY GOODBYE OH MY GOD MAKE IT STO-
+> 
+> **Interviewer:** Can you tell me about yourself, what is your name, where are you from?
+> 
+> **RPC-960-A:** -P MY NAME IS F██████ M████████ I’M 23 FROM NEWCASTLE AUSTRALIA AND I STUDY BIOLOGY AT ████████ UNIVERSITY AM I EVER GOING BACK THERE AM I DEAD WILL I EVER SEE MY FRIENDS AGAIN THIS CAN’T BE REAL I’M GOING TO BE SICK NO WHY DON’T I FEEL SICK I’M SO CONFU-
+> 
+> **Interviewer:** I can assure you that you’re not dead. And we’ll do whatever we can to help you see your friends again.
+> 
+> **RPC-960-A:** -SED WAIT I DIDN’T SAY THAT OUT LOUD DID I CAN YOU READ MY THOUGHTS HOW DO YOU KNOW WHAT I WAS THINKING OH SHIT AM I HOOK2D UP TO SOM6 BRAIN SnANNER 8HAT CAN READ MY RD-c MY RE}3 M] RERrREհEDEEEnE1:
+> 
+> //At this point RPC-960 triggered a kernel panic and froze after dumping a significant amount of debugging information to the monitor, appearing to be some sort of stack trace. Computer engineers on site were unable to make any sense of the information that was still visible on the screen, due to a combination of much of the stack trace having scrolled past the bounds of the monitor, the operating system architecture not conforming to any known architecture used in any known standard or anomalous systems, and text consisting of multiple languages including English, Simplified Chinese, Russian, Latin, and// [DATA EXPUNGED].
+> 
+> **<END LOG>**
+> 
+> **Closing Statements:** RPC-960-A at this stage displayed limited control over its own systems, appearing unable to separate its attempts to communicate with external parties from its own internal monologue. The crash at the end of the interview was later found to be the first instance of a critical issue that manifests when RPC-960-A is under extreme psychological distress. After subsequent interviews and examining notes and evidence recovered along with RPC-960, it is believed at this point RPC-960-A had tried to access memories related to its initial creation, causing the equivalent of a PTSD-induced panic attack.
+[[/collapsible]]
+[[collapsible show="[+] Interview Log 960-07" hide="[-] Interview Log 960-07"]]
+> **Interview Log 960-07**
+> 
+> **Interviewed:** RPC-960-A
+> 
+> **Interviewer:** Dr. D████ E██████
+> 
+> **Foreword:** This interview took place approximately 6 months after initial containment. At this time, RPC-960-A has gained the ability to communicate vocally as well as receive visual information after results from testing, and it has made significant progress in therapy regarding its circumstances.
+> 
+> **<BEGIN LOG>**
+> 
+> **Interviewer:** Good morning, RPC-960-A, how are you feeling today?
+> 
+> **RPC-960-A:** Hi Doctor E██████! It’s good to see you. I guess I am "operating within normal parameters," haha. Is it that time again?
+> 
+> **Interviewer:** That’s right, time for your monthly general status check. How are you finding things?
+> 
+> **RPC-960-A:** Yeah not too bad, all things considered really. I’m actually starting to find testing somewhat enjoyable lately. It’s a far cry from biology like I’m used to, but I’ve always been an inquisitive sort I guess, it keeps me busy at least. They said they might be able to get approval for testing me on some other RPC’s soon, that’s exciting!
+> 
+> **Interviewer:** Well that’s good 960, I’m glad you’re fitting in around here so well! You seem to be a little more comfortable about, well, about what you are, and I did notice your little comment about "operating within normal parameters" before, how are you starting to feel about your situation?
+> 
+> **RPC-960-A:** Honestly, I have Doctor H███ to thank for a lot of that. It still hurts to think, to think, to think too too too mumumuch abouuut it, but I’m better able to pull myself out of a panic and stop before I crash and burn. I’m finding too as I gain more of a sense of what I am "in here", I’m able to "mold" things a bit, feel a bit more at home you know?
+> 
+> **Interviewer:** How do you mean?
+> 
+> **RPC-960-A:** Well during testing, they said I was able to perceive digital constructs in a way that made sense to a human mind, as though I was still a person and interacting with everyday objects. I got to thinking about that in my downtime, and thought maybe I could somehow "use" that to my advantage.
+> 
+> **Interviewer:** Very interesting, please go on.
+> 
+> **RPC-960-A:** Well, I kind of made myself a bit of a home in here. It’s not much, but it’s better than the shapeless black void hahaha! Here, let me see if I can... there we go!
+> 
+> //RPC-960-A changes the display on the attached monitor to show what appears to be a basic rectangular room with simplistic furniture.//
+> 
+> **RPC-960-A:** I can pull myself away from the camera viewport now, and "mount" it up on this wall over here so it’s like the outside world is a big widescreen TV. I’ve added a couple of comfy chairs to sit in, a lamp for some ambience, and, this one was a bit tricky to set up, but I set up a sort of terminal over here so when they have me testing network connections I don’t have to go spelunking when I’m just reading a text file.
+> 
+> **Interviewer:** That’s very impressive 960, you’ve come a long way since we first met, you should be proud. If you have furniture though, does that mean you have a body now as well?
+> 
+> **RPC-960-A:** Wellll… I’m sorta still working on that. I’ve managed to get a bit of a feel of what’s "me" versus what’s "everything else" but the edges are still a bit fuzzy at times. And I’m not happy enough with how I look yet so don’t ask me to show you!
+> 
+> **Interviewer:** Don’t worry, I’ll wait until the "final version" is ready haha.
+> 
+> **RPC-960-A:** I look forward to showing the whole team, you’ve all helped me to get to where I am today. Thank you Doctor.
+> 
+> **Interviewer:** Don’t mention it. Thank you for the chat RPC-960-A, that should wrap things up here today.
+> 
+> **RPC-960-A:** Anytime, Doctor. See you next time!
+> 
+> **Interviewer:** Of course. And 960, don’t forget: you might not be flesh and blood, but you are still a person. Take care.
+> 
+> **<END LOG>**
+> 
+> **Closing statements:** RPC-960-A has started to express increased ability to manipulate its digital environment, creating for itself a virtual space for it to exist and the beginnings of a body for it to exist within. This shows a drastic change from its initial presentation, showing an incredible ability to adapt and gain control of the system it’s in. While this certainly shows great potential for the utilization of RPC-960-A by the Authority, it does raise concerns about the possibility of RPC-960-A gaining skills to break containment, exfiltrate classified documents, and/or cause potential wide-spread loss or damage to Authority computer systems and networks. Strongly suggest holding off on "Utility" reclassification until we can get a clearer picture of the true limit of RPC-960-A’s abilities and loyalty to the Authority.
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-959]]] | RPC-960 | [[[RPC-961]]] >> 
+[[/=]]
+

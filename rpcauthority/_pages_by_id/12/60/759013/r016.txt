@@ -1,0 +1,100 @@
+---
+title: "Rate Db"
+tags: ["component"]
+page_id: "1260759013"
+site: "rpcauthority"
+slug: "component:rate-db"
+revision: 16
+revision_id: "1367512269"
+author: 4365296
+timestamp: 1628558493
+---
+
+[[module css]]
+.infoboxTable {
+box-shadow: var(--content-box-shadow);
+float: right;
+}
+
+.badgeN {
+margin-top: 1px;
+width: 15px;
+bottom: 5px;
+}
+
+.badgeM {
+margin-top: 1px;
+width: 15px;
+}
+
+.infoboxC, .infoboxP, .infoboxH, .infoboxB {
+    border: var(--table-border);
+    padding: 0.3em 0.7em;
+}
+
+.infoboxC {
+background: var(--primary-background);
+border-left: none;
+}
+
+.infoboxP {
+background: var(--primary-background);
+border-right: none;
+}
+
+.infoboxH {
+background: var(--background-3);
+text-align: center;
+}
+
+.infoboxB {
+background: var(--primary-background);
+}
+
+.infoboxTable {
+border-collapse: collapse;
+border-spacing: 0;
+margin: 15px;
+}
+[[/module]]
+
+[[div class="rateContainer" style="text-align: right;"]]
+[[div class="tableStyle"]]
+[[div class="cellStyle"]]
+[[module rate]]
+[[/div]]
+[[div class="cellStyle"]]
+[[collapsible show="+" hide="-"]]
+[[div class="infoboxSide"]]
+[[div class="infoboxSideContainer"]]
+
+[[module ListPages limit="1" pagetype="*" range="." category="*"]]
+[[table class="infoboxTable"]]
+[[row]]
+[[cell class="infoboxH"]]
+**Page Info**
+[[/cell]]
+[[/row]]
+
+[[row class="infoboxCanon"]]
+[[cell class="infoboxC"]]
+[[iframe  frameborder="0" height="25px" scrolling="no" width="120px" ]]
+[[/cell]]
+[[/row]]
+
+[[row class="infoboxSeries"]]
+[[cell class="infoboxC" style="text-align: center;"]]
+[[]]] | [[[gaylinks|FAQ]]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[/div]]
+

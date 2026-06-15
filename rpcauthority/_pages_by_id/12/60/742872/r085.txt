@@ -1,0 +1,796 @@
+---
+title: "Horoscope Theme"
+tags: ["theme"]
+page_id: "1260742872"
+site: "rpcauthority"
+slug: "component:horoscope-theme"
+revision: 85
+revision_id: "1366594226"
+author: 5258122
+timestamp: 1624318050
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('http://rpcsandbox.wdfiles.com/local--files/component%3Azodiac-theme/stylesheet.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+/*
+    Horoscope Theme (remade by Qual for Prompt by Kaiser XI, original theme by Dr.Peirson)
+    [2020 Wikidot Theme]
+*/
+
+
+
+
+/* General Pg. Modifications */
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    word-spacing: 1px;
+    letter-spacing: .8px;
+}
+
+#page-content {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: normal;
+    word-spacing: normal;
+}
+
+
+
+
+/* Header Text (Main Header, Tagline, Title, h1-h6, Sidebar-Section Headers) */
+
+#header h1 a::before {
+    font-family: Moonriseregular;
+    font-size: 130%;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 0.9px;
+}
+ 
+#header h2::before {
+    font-family: none;
+    color: var(--secondary-text-color);
+    font-size: 77%;
+    text-shadow: .5px .5px .5px black;
+}
+
+#page-title {
+    color: var(--primary-text-color);
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px black;
+    border-bottom: 1px solid #A8A8AA;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    color: var(--secondary-text-color);
+    text-shadow: 2px 2px 2px black;
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: Calibri, sans-serif;
+    color: var(--alt-header-color);
+    text-shadow: 1px 1px 1px black;
+}
+
+.heading {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-shadow: 1px 1px 1px black;
+}
+
+
+
+
+/* Links */
+
+a {
+    font-weight: bold;
+    text-shadow: .5px .5px .5px black;
+}
+ 
+a.newpage {
+    font-weight: bold;
+    text-shadow: .5px .5px .5px black;
+}
+ 
+a:hover {
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+
+hr {
+    background: #A8A8AA;
+    height: 1px;
+}
+
+#side-bar hr {
+    background: #A8A8AA;
+    height: 1px;
+}
+
+
+
+
+/* Tabview */
+
+.hovertip {
+    border: var(--grey-border)!important;
+}
+ 
+.sideTabview .yui-nav {
+    border: var(--grey-border) !important;
+}
+ 
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--grey-border);
+}
+ 
+.sideTabview .yui-nav {
+    border-right: var(--grey-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+
+
+
+/* Images */
+
+.image-block {
+    border: solid 2px #666666;
+}
+ 
+.image-block .image-caption {
+    text-shadow: 1px 1px 1px #605454;
+    color: #F5F4F4;
+    font-family: Calibri, sans-serif;
+    font-size: 90%; 
+}
+
+
+
+
+/* tables */
+
+table.wiki-content-table td {
+    background-color: var(--table-cell-background);
+    border: var(--dashed-grey-border);
+    padding: 0.3em 0.7em;
+    color: var(--table-cell-color);
+}
+
+
+
+
+/* Footer */
+
+.footnotes-footer {
+    background: var(--primary-background);
+    border: var(--dashed-grey-border);
+    width: 90%;
+    margin: 1em auto;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 100%; 
+    padding: var(--content-panel-padding);
+}
+
+
+
+
+/* Sidenotes */
+
+.sidenoteH {
+    text-shadow: 1px 1px 1px black;
+}
+
+.sidenoteI {
+    padding: 0px;
+    border: var(--grey-border);
+}
+
+
+/* Miscellaneous (Highlight Selection, Rating module, Blockquotes, ect) */
+
+.rateContainer {
+    font-family: Montserrat,sans-serif;
+    font-size: normal;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+blockquote {
+    border: var(--dashed-grey-border);
+    background: var(--primary-background);
+    border-radius: 3px;
+    font-family: Calibri, sans-serif;
+}
+
+div.buttons input, input.button, button, file, a.button {
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 0.5px #000;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+.news-block, .featured-block, .info-block {
+    border: var(--grey-border);
+}
+
+
+
+
+/* Mobile Comparability (Get rid of everything header and only keep Pg title var.) */
+ 
+@media screen and (orientation:portrait) {
+ 
+#header {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Horoscope_Mobile_Header.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(6.5rem - 2.125rem);
+    height: 7.5rem;
+    background-position: left .5em top 4rem;
+}
+ 
+#page-title { 
+    top: 10px; 
+}
+ 
+#header h1 a::before {
+    content: none;
+}
+ 
+#header h2::before {
+    content: none;
+    }
+}
+
+
+
+
+:root {
+
+
+/* General (Main Var., Sidebar, put Custom/Reference Variables here) */
+
+    --text-color: #c0c0c0;
+    --body-background: #253240;
+    --primary-text-color: #999999;
+    --nav-hover-background: var(--secondary-text-color);
+    --sidebar-hover-color: #fff;
+
+    --alt-header-color: #E5E5E5;
+    --header-background-color: #0a1620;
+    --secondary-text-color: #808080;
+
+    --gray-color: #999999;
+    --light-gray-color: #c0c0c0;
+    --dark-grey-color: #666666;
+
+* Background Variables (Important) */
+
+    --primary-background: #171a1f;
+    --content-bar-background: #262e33;
+    --news-block-body-panel-background-even: #1c2026;
+
+/* Header */
+
+    --header-text-visibility: hidden;
+    --header-custom-text: 'HOROSCOPE';
+    --header-tagline-custom-text: '♈︎ ♉︎ ♊︎ ♋︎ ♌︎ ♍︎ ♎︎ ♏︎ ♐︎ ♑︎ ♒︎ ♓︎';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Authority_Default_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Horoscope_Header.png);
+    --header-tagline-color: #cc6666;
+    --header-tagline-top: 8px;
+ 
+
+/* Redirect (links, buttons) */
+
+    --link-color: #0893b2;
+    --link-hover-color: #0bbde5;
+    --new-page-color: #055e72;
+    --button-border: 1px solid #ccc;
+    --button-background: #515C6A;
+    --button-hover-border: 1px solid #fff;
+    --button-hover-background: var(--secondary-text-color);
+
+
+/* Search Bar (in header: top of pg.) */
+
+    --search-button-background: #002238;
+    --search-button-hover-background: #00253c;
+    --search-input-color: var(--search-button-background);
+    --search-input-hover: var(--search-button-hover-background);
+    --search-input-text: #ccc;
+ 
+
+/* Topbar */
+
+    --topbar-dropdown-background: var(--header-background-color);
+    --topbar-hover-background: var(--secondary-text-color);
+    --topbar-divider: 1px solid #222;
+    --topbar-dropdown-border-color: var(--secondary-text-color); 
+
+
+/* Miscellanious (Text, template, critcorner, star hue) */
+
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+
+    --sidebar-crit-corner-color: var(--light-gray-color);
+    --star-rating-hue: 325deg;
+    --sidebar-crit-corner-color: #0888a5;
+
+
+/* Tabview (Reg., Large, Hidden...) */
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid var(--secondary-text-color);
+    --tabview-button-selected-background: var(--secondary-text-color);
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: var(--gray-color);
+
+ 
+/* ( ...Side Tabview) */
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-button-hover-background: var(--gray-color);
+    --tabview-side-button-selected-background: var(--secondary-text-color);
+    --tabview-side-button-divider: var(--grey-border);
+ 
+    --tabview-side-scrollbar-background: var(--content-bar-background);
+    --tabview-side-scrollbar-thumb-background: var(--secondary-text-color);
+    --tabview-side-scrollbar-thumb-hover-background: var(--gray-color);
+
+
+/* Tables */
+
+    --table-header-background: var(--content-bar-background);
+    --table-header-background-alt: var(--content-bar-background);
+    --table-header-color: #fff;
+    --table-cell-color: var(--text-color);
+    --table-cell-background: var(--primary-background);
+    --table-box-shadow: var(--content-box-shadow);
+
+
+/* Borders (Sect. Size may vary based on Theme; Check for dead custom var., either clump variables together or put them in the corresponding sect.) */
+
+    --sidenote-open-background: var(--secondary-text-color);
+
+    --basic-border: 1px solid var(--secondary-text-color);
+    --basic-border-color: var(--secondary-text-color);
+    --dashed-border: 1px dashed var(--secondary-text-color);
+    --thick-border: 2px solid var(--secondary-text-color);
+ 
+    --grey-border: 1px solid var(--secondary-text-color);
+    --dashed-grey-border: 1px dashed var(--secondary-text-color);
+ 
+    --table-border: var(--grey-border);
+    --tabview-side-border: var(--grey-border);
+    --owindow-border: var(--grey-border);
+    --footnote-border: var(--grey-border);
+    --account-options-border: var(--grey-border);
+    --tags-border: 1px solid #0893b2;
+    --toc-border: var(--dashed-grey-border);
+    --content-panel-border: var(--grey-border);
+    --blockquote-border: var(--grey-border);
+    --image-block-border: var(--grey-border);
+    --star-rating-border: var(--grey-border);
+    --content-panel-border: var(--grey-border);
+    --tabview-border: var(--grey-border);
+    --template-block-border: var(--grey-border);
+    --sidenote-contents-border: var(--dashed-grey-border);
+    --sidenote-figure-border: var(--grey-border);
+
+
+/* Scrollbar (Use usually in random with "--tabview-side-scrollbar..." var.) */
+
+    --BT-resizer-background: var(--news-block-body-panel-background-even);
+    --BT-scrollbar-thumb-background: var(--secondary-text-color);
+    --BT-scrollbar-thumb-hover-background: var(--gray-color);
+
+
+/* Account Opt. (Don't put w/ rest of borders, to be used in tandem w/ Hover box in extended options)*/
+
+    --account-options-border: 1px solid #BCBCBC;
+}
+
+/* User Name */
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #ccc;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #e6e6e6;
+}
+ 
+#login-status a:hover {
+    color: #fff;
+} 
+/* Hover box in extended options (in tandom w/ variable --account-options-border) */
+
+#login-status ul a:hover {
+    background: #BCBCBC;
+    color: #000;
+}
+
+/* Regular Extended User Opt. */
+
+#login-status ul a {
+    background: var(--topbar-dropdown-background);
+    color: #E2E2E2;
+    border: 0px solid #ccc;
+    text-shadow: none;
+}
+
+#account-options #account-options, a#account-topbutton {
+    color: var(--text-color);
+    font-family: Calibri, sans-serif;
+}
+ 
+/* DO NOT TOUCH UNLESS PLANNED, WHITE THEME VARIABLES */
+
+.open-themes-container {
+    display: none;
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(-secondary-text-color);
+}
+[[/code]]
+[[/collapsible]]
+
+@@ @@
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Themes w/ Logos" hide="- Themes w/ Logos"]]
+
+----
+
+@@ @@
+= [[span style="font-family: Moonriseregular; font-size: 315%;"]]**THEMES: [CUSTOM SIGNS]**[[/span]]
+
+[http://rpcsandbox.wikidot.com/component:aries-logo-horoscope Aries:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aries_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:taurus-logo-horoscope Taurus:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Taurus_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:gemini-logo-horoscope Gemini:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Gemini_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:cancer-logo-horoscope Cancer:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Cancer_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:leo-logo-horoscope Leo:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Leo_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:virgo-logo-horoscope Virgo:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Virgo_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:libra-logo-horoscope Libra:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Libra_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:scorpio-logo-horoscope Scorpio:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Scorpio_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:sagittarius-logo-horoscope Sagittarius:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Sagittarius%20_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:capricorn-logo-horoscope Capricorn:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Capricorn_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:aquarius-logo-horoscope Aquarius:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aquarius_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:pisces-logo-horoscope Pisces:]
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Pisces_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:ophiuchus-logo-horoscope O̴̮͐p̴͋͜h̴̝̾i̸̞͐ṳ̷̔c̶͕͝h̷͎̉u̵͍̕s̷̮͆:]
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Ophiuchus_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="+ Logos (Images)" hide="- Logos (Images)"]]
+
+----
+
+@@ @@
+= [[span style="font-family: Moonriseregular; font-size: 315%;"]]**HOROSCOPE SIGNS: [ALL LOGOS]**[[/span]]
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Zodiac Wheel
+++ (Contest Seal)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Horoscope_Zodiac_Wheel.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Aries Logo
+++ (The Ram)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aries_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Taurus Logo
+++ (The Bull)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Taurus_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Gemini Logo
+++ (The Twins)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Gemini_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Cancer Logo
+++ (The Crab)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Cancer_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Leo Logo
+++ (The Lion)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Leo_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Virgo Logo
+++ (The Maiden)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Virgo_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Libra Logo
+++ (The Scales)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Libra_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Scorpio Logo
+++ (The Scorpion)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Scorpio_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Sagittarius Logo
+++ (The Archer)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Sagittarius%20_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Capricorn Logo
+++ (The Goat)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Capricorn_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Aquarius Logo
+++ (The Water-Bearer)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aquarius_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ Pisces Logo
+++ (The Fish)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Pisces_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
++ O̷̡͍̪̻͖̞̥͆ͅr̸̺̙̂̔̽͒͛c̴̢͖͔̏̂̈́̍̀͌̚h̶͙̤̲̖̳̪͐̋̀͊̽ḭ̵͙̱̬͉̮̗̽͊u̸̧̦͇̺̎̿́̾͊̈͘͝p̷̺̞̩͔̻̓̑̈́̐̆͜û̴̜̖̘̋̾͊ͅŝ̷̗̇͒̃ ̴͓͍͙̺͍̂̽̾͘͝L̸͖͛̾̿ó̶̡͉̩̹̟͔̅͗͗̆̅g̴̡̭̼͉̀͑̇̓͌̕͠ŏ̸̩̼͙͆̈̓̈̓ͅ
+++ (T̵h̷e̴ ̴S̴e̸r̴p̸e̴n̵t̸-̸B̶e̶a̸r̴e̸r̷)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Ophiuchus_Authority_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1); @@
+> @@ [[/module]] @@
+

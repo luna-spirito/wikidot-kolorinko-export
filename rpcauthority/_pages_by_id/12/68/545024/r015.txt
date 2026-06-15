@@ -1,0 +1,577 @@
+---
+title: "RPC-562"
+tags: ["aggression-hazard", "explained", "grouped-hazard", "memory-alteration-hazard", "omega", "red", "regenerative-hazard", "rpc", "sapient-hazard", "sentient-hazard"]
+page_id: "1268545024"
+site: "rpcauthority"
+slug: "rpc-562"
+revision: 15
+revision_id: "1526641362"
+author: 7013424
+timestamp: 1733809557
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Hammer of Pompeii[[/span]]
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[module CSS]]
+
+.oi {
+    background-color: #f0f0f0; padding: 4%; margin: 1% 6%; color: #393939;
+}
+
+.textBlock {
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777;
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #29292f;
+    --WT-v7: var(--primary-background);
+}
+
+#footnoteref-1 {
+  line-height: 29px;
+  height: 27px;
+  margin-bottom: -10px;
+}
+
+#footnoteref-1::after{
+  content:"EX";
+  font-size: 110%;
+}
+
+#footnoteref-1::first-letter{
+  font-size:0;
+}
+
+#footnote-1 {
+position: relative;
+}
+
+#footnote-1 > a {
+display: none;
+}
+
+#footnote-1::before {
+content: "EX";
+color: #5295e1;
+}
+
+
+[[/module]]
+
+
+[[include component:rate]]
+
+[[div style="background-image: url(http://www.rpcauthority.wikidot.com/local--files/component:icons/omega-red.png); background-position: 0% 50%; background-repeat: no-repeat; padding-left: 85px;"]]
+
+**Registered Phenomena Code:** 562
+
+**Object Class:** Omega-Red [[[footnote]] Explained sub-class. Designates anomalous items that were originally deemed anomalous, but are now considered mundane.[[/footnote]]]
+
+**Hazard Types:** --Memory-Alteration--[[footnote]]Rendered incorrect after Incident 12022005/562.[[/footnote]], Aggression, Grouped, Sentient, Sapient?, Organic
+[[/div]]
+------
+
+**Containment Protocols:** While RPC-562 itself is considered Explained, it is now known that its causes are anomalous and hostile, and remain active and uncontained. As such, an outstanding capture order has been issued for RPC-562-A.
+
+RPC-562 remains a large threat to operational security, and as such gaslight protocols are in full effect for the Madrid Autonomous Community. Webcrawlers deployed in the European Union region are to seek potential references to Group of Interest "Worried Citizens of Plaza Mayor" as well as Madrid Capital City missing person reports filed between 2001 and 2005. Findings are then to be reported to EUROCOM Protection Division authorities.
+
+------
+
+> ##red|**OUTSTANDING CAPTURE ORDER:**## **06/07/2006 - PRESENT**
+> **Authority:** EUROCOM PD Reg. Director Lauro Osorio
+> **Current Focus:** RPC-562-A, Spain, Portugal, France
+
+------
+
+**Description:** RPC-562 designates a series of disappearances occurring in the vicinities of Madrid, capital city of Spain, between 2001 and 2005. While potential cases have been identified as early as 1999, only 162 disappearances have been confirmed as being a consequence of the phenomenon, each individually designated RPC-562-1 through -162. In order to view a full list of cases and evidence associated to each, view ###5295e1|Document 562-A/#814-3-B##.
+
+RPC-562 cases follow an invariable three-phase pattern of events, organized as follows;
+
+# Subject, hereon referred to as RPC-562-A, will claim to feel stalked by a single human figure every time they leave their house. This figure is always on-foot, and its face remains obscured in all descriptions. It appears to be innately aware of the exact location and field of view of surveillance devices placed in its vicinity, and successfuly exploits their limitations in order to remain unseen or quickly flee.
+# After an undefined amount of time, RPC-562-A will disappear in unclear circumstances, with evidence being completely absent or insufficient to discern the exact moment of disappearance. Progressions to phase 2 occur when RPC-562-A is alone outside their home, but may not immediately trigger.
+# Between 3 and 6 months after disappearance, RPC-562-A will reappear, unconscious, near the location of disappearance. Phase 3 RPC-562-A instances wear identical clothing as they did before disappearing, albeit slightly damaged and torn. RPC-562-A display an amnestic condition similar to Korsakoff Syndrome[[footnote]] Normally developed as a consequence of malnutrition or prolonged use of alcohol [[/footnote]], whose main symptom is generalized retrograde amnesia affecting all memories prior to onset: individuals are unable to recall most events prior to Phase 3, and fail to remember their prior relationship with individuals they recognize, such as family members or other loved ones.
+
+Progression of Phase 1 into Phase 2 has been successfully halted temporarily by some affected individuals by avoiding unpopulated areas or remaining inside their homes, but eventual disappearance appears to be inevitable.
+
+RPC-562 is considered Explained after Incident 12022005/562, but investigation regarding causes of the phenomenon are still ongoing.
+
+------
+
+**__Appendix 562-01: Investigation.__**
+
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» FILE LOCKED: Validate LV3 Credentials «" hide="« Close »"]]
+[[/=]]
+[[<]]
+While RPC-562 was known to the Authority since 2003, initial research of RPC-562 was conducted by an internet forum-based community self-designated "Ciudadanos Preocupados de Plaza Mayor".[[footnote]] Worried Citizens of Plaza Mayor. This name is derived from a similar organization based in Argentina, Mothers of Plaza de Mayo, founded during 1977 as a response to forced disappearances caused by the then-standing military dictatorship. [[/footnote]] Founded in 2001 after RPC-562-29 and originally composed of only 26 members, it underwent significant expansion after Incident 12022005/562, reaching 279 registered members prior to Authority intervention.
+
+Original members of the group believed that RPC-562 were a series of forced disappearances carried out by the Madrid police force in potential collaboration with the Spanish government and other international governments or organizations for unknown purposes, potentially targeting individuals in possession of sensitive data. However, following a minor rise in popularity after RPC-562-98, the group's focus shifted to paranatural belief, attempting to explain RPC-562 as a paranormal phenomenon. Popular explanations produced by the group range from extraterrestrial abduction to a kind of "temporary rapture" or religious experience akin to the events of the //Divine Comedy.//
+
+The group never gained enough traction to pose a significant threat to security, as Spanish media largely failed to publicize RPC-562 cases, and failed to pick up on similarities between those cases that were publicized.
+
+The Worried Citizens were officially classified a Group of Interest after November of 2005, and were considered dismantled by July of the following year, following capture, questioning, and release of involved individuals. The group's understanding of RPC-562 was flawed, and none of their members had managed to contact RPC-562-A instances or their families prior to Authority intervention, with one major exception. However, their now-defunct website housed a large amount of evidence regarding events they believed associated with RPC-562, of which a significant amount has proven essential to Authority research on the phenomenon. 
+
+[[/<]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» F#1 [562-98] «" hide="« Close »"]]
+[[/=]]
+[[<]]
+
+++ FILE #1: RPC-562-98
+
+On the 20th of August, 2003, Worried Citizens forum moderator Julián Ortega[[footnote]] Going by the username "misantr0p0_es" on the host site [[/footnote]] made an administrative thread claiming that he was being followed by a nondescript figure. While originally received with skepticism, the thread quickly picked up widespread forum attention after his disappearance was reported in a minor Madrid newspaper.
+
+Four months after his last message, Julián Ortega resurfaced near Plaza Madrid, and is not known to have been involved in any other events related to RPC-562.
+
+The following excerpts are translated from Spanish.
+
+> ##red|[MOD] misantr0p0_es## -- 20/08/2003 11:34 **[PRIORITY POST]**
+> 
+> Guys, I think I'm being followed. Whenever I go outside I see him follow me -- probably a dinosaur[[footnote]] Derogatory nickname for policemen or soldiers in some hispanic countries [[/footnote]] of some sort. He's always hooded and tries to remain far, but I always see him. I haven't been able to take a photograph or see his face, but I doubt I'd be able to do anything with them anyways.
+> 
+> I'm just letting you guys know, in case I suddenly stop posting. All of you know I'm not very private with my personal info, and that's probably why they found me. IN CASE ANYONE OTHER THAN ME ISN'T USING A VPN, PLEASE DO. It was a mistake of me to assume the cops wouldn't ever notice our presence or think us a real threat.
+> 
+> To other staff members: I request that moderator status is retired from this account as soon as possible. I don't want the cops deleting anything we've collected here. 
+> 
+> -----
+> ##green|FireStorm109## -- 20/08/2003 11:36 
+> 
+> Oh cool! I get a priority mod email and it's another fucking misan post. Fucking perfect!
+> 
+> -----
+> ##green|LaLawliet## -- 20/08/2003 11:36 
+> 
+> gangstalk nightmare chapter III: why the fuck did i join
+> 
+> -----
+> 
+> ##green|[GUEST] jetfuelsteelbeams## -- 20/08/2003 11:37 
+> 
+> This is why you don't register your account on █████, people. I told you it's a honeypot. 
+> 
+> If you already have an account there isn't much you can do now, but I suggest you delete it and use VPN anyways, just in case.
+> 
+> -----
+> 
+> ##green|[GUEST] ArcoRayo## -- 20/08/2003 11:42
+> 
+> How would VPN do anything here? █████ keeps your email and IP, and might even do so if you delete your account. You're all sitting ducks.
+> 
+> -----
+> 
+> ##green|lord_sifr## -- 20/08/2003 11:42
+> 
+> jesus fuck what are we going to do now?
+
+@@ @@
+ 
+> ##yellow|[ADMIN] FRANCISCOELFRANCO## -- 20/08/2003 11:55
+> 
+> Yes, misantr0p0, your moderator status will be revoked, but not because you're "in danger" or the entire Islamic State Superhacker Corps is after you (yes, don't think I've forgotten), but because you've time and time again proven to be a recurrently detonating smoke bomb. Every time you make one of these, you cause confusion and spread dubious data, even for the standards of a conspiracy website.
+> 
+> You'll be allowed to stay as a user, so long as you admit to faking this whole deal about being followed. This site is not your personal attention e-mart, it's an effort so that justice may be done for the victims of the worldwide elite.
+> 
+> Everyone else: please stay calm. You're not being chased by cops, and your safety and your family's isn't at risk. █████ doesn't keep track of IPs, although I do suggest you use a throwaway email account.
+> 
+> -----
+> 
+> ##green|[GUEST] jetfuelsteelbeams## -- 20/08/2003 12:00
+> 
+> *claps* it was abot time someone did this lol. Just ban him already, he isn't going to suddenly admit to lying.
+> 
+> -----
+> 
+> ##green|misantr0p0_es## -- 20/08/2003 12:20
+> 
+> I'm not lying. I promise I'm not. I fucking promise. I know I've lied in the past, but I SWEAR this isn't the same. I wasn't in a good place back then, but I've changed now. I know it's stupid for me to say thhis because it's only been like three months but please, believe me just this once. 
+> 
+> You know what? Fuck this. I'm going to confront this fucker. Chances are I finally stop posting after this. I hope you're all happy.
+> 
+> -----
+> ##red|[MOD] 4puntos## -- 20/08/2003 12:28
+> 
+> good luck with that. see your next non-apology tearjerker video in three months!
+
+@@ @@
+
+> ##green|trece## -- 22/08/2003 14:10
+> 
+> holy FUCK guys 
+> 
+> buy today's Iceberg issue
+> 
+> -----
+> ##green|lord_sifr## -- 22/08/2003 14:03
+> 
+> HE WAS RIGHT
+> 
+> I FUCKING KNEW IT
+> 
+> -----
+> ##green|Torquemada## -- 22/08/2003 14:05
+> 
+> Are you sure this isn't some sort of hoax? he's totally the kind of guy to try and pull this shit IRL and reappear later
+> 
+> -----
+> ##green|lord_sift## -- 20/08/2003 12:00
+> 
+> {{> he's totally the kind of guy to try and pull this shit IRL and reappear later}}
+> 
+> come on dude, you can't be serious
+
+@@ @@
+
+> ##green|misantr0p0_es## -- 27/08/2003 22:12
+> 
+> hey guys, is everyone alright?
+> 
+> -----
+> ##green|trece## -- 27/08/2003 22:14
+> 
+> WHAT THE FUCK
+> 
+> Dude, are you alright? Did the cops release you?
+> 
+> -----
+> ##green|Torquemada## -- 27/08/2003 22:14
+> 
+> Called it.
+> 
+> -----
+> ##green|misantr0p0_es## -- 27/08/2003 22:17
+> 
+> {{> Dude, are you alright? Did the cops release you?}}
+> 
+> I'm okay I think. i'm just a little dizzy
+> 
+> -----
+> ##green|lord_sifr## -- 27/08/2003 22:17
+> 
+> Where the fuck are you? Are you hurt?
+> 
+> -----
+> ##green|misantr0p0_es## -- 27/08/2003 22:20
+> 
+> I don't know, but it's pretty dark and cramped. It looks like concrete. here's a pic
+> 
+> ##5295e1|[DOWNLOAD ATTACHED FILE]##
+> 
+> -----
+> ##green|lord_sifr## -- 27/08/2003 22:17
+> 
+> what the fuck... 
+> 
+> -----
+> ##red|[MOD] 4puntos## -- 27/08/2003 22:26
+> 
+> dude, stop this bullcrap right NOW. i don't know how you made the people from the Iceberg buy it, but we're not. you actual fucking psychopath.
+> 
+> -----
+> ##black|misantr0p0_es## -- 27/08/2003 22:32
+> 
+> whaaat's all the deal? I genuinely don't know what's up with you, 4puntos. 
+> 
+> anyways guys. I'm like really hungry right now, and i've tried to eat but it doesn't work. any of you can pick me up?
+> 
+> ##black|[USER BANNED]##
+
+@@ @@
+
+> -----
+> ##yellow|[ADMIN] FRANCISCOELFRANCO## -- 28/08/2003 03:22
+> 
+> I'm closing this thread now. It's not going to produce anything of value.
+> 
+> We're not unbanning misan. Everyone please keep your eyes on the ball, I know we allowed alien theories and such in past threads, but I don't want it affecting the entire forum. Keep things realistic.
+
+------
+
+[[=]]
+[[include component:image-block align=center|name=http://rpcsandbox.wikidot.com/local--files/oialma/fig1|caption={{fig 1.1: Image uploaded by Julián Ortega}}]]
+[[/=]]
+
+[[/<]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» F#2 [29/06/2004] «" hide="« Close »"]]
+[[/=]]
+[[<]]
+
+++ FILE #2: 29/06/2004
+
+On the 29th of June, 2004, a 34 minute long video was uploaded to an off-topic thread in the Worried Citizens forum by an anonymous user[[footnote]] Going by the username "Fobos" [[/footnote]], claiming to be an exploration of an abandoned building in the outskirts of Madrid. When questioned by other forum members, the user refused to elaborate on the location the video was recorded in, instead assuring other users that "the place was dangerous". Four hours after publishing, it appears a user identified the location in question, resulting in the video being taken down and posts mentioning it deleted due to safety concerns. 
+
+Before the video was taken down, a second user identified a location similar to the photograph attached to File #1, potentially connecting the anonymous user with RPC-562-98. Certain forum users believe that the uploader was Julián Ortega employing a different device, but had found no evidence to substantiate that claim.
+
+As the original file could not be acquired by the Authority, its contents are unclear. However, a fragmented summary has been constructed through analysis of the thread.
+
+> **00:00 -- 00:22:** Subject enters building through double doors, encountering what appears to be a mansion hall.
+> 
+> **14:55:** Panning shot: the outside of a large, unidentified machine in operation. It is coated in rust, and several sections appear to be nonfunctional or failing to work properly. It is mainly composed of liquid or gas storage tanks, as well as tubes and gears. Several tubes extend from its mainframe, a few of which leak small amounts of vapor.
+> 
+> **22:10 -- 26:30:** Subject explores what appears to be a meeting room, with a long table in its center. The table is covered with an assortment of papers and photographies. Along the opposite side to the entrance a piece of the wall has been removed, revealing an inactive furnace. Its inside holds partially-burned pieces of paper.
+> 
+> **28:11:** Brief shot of a weapons arsenal. Most weapons in it remain unknown, but at least a single modified M16 assault rifle was identified by forum users. This rifle is generally believed to be an early M16A2 model manufactured between 1983 and 1986, but the nature of its modifications remains unclear.
+> 
+> **33:42 -- 34:00:** Subject carefully records their surroundings, being inside an observation room with a single glass panel over a dark space. A reinforced metal door is located next to the glass panel. Subject later struggles to open this door, and descends a grated staircase. Forum users commenting on this segment note that the staircase is affixed to a wall to its left, which apears to be composed of rock but is extensively polished, with no rugosities or irregularities visible on camera.
+> 
+> **34:00 -- 34:47:** Subject finishes descending, and proceeds through a narrow nondescript pathway, similarly polished to the above described wall. Echoes of steps are audible, and grow in volume and proximity until the recording ends.
+
+[[/<]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» F#3 [OP. HAMMER] «" hide="« Close »"]]
+[[/=]]
+[[<]]
+
+++ FILE #3: OPERATION HAMMER
+
+The following documents were acquired between 07/2005 and 06/2007 during Operation Hammer, a joint effort by EUROCOM Spain Protection Division and a limited number of Worried Citizens members to locate potential causes for RPC-562 following Incident 12022005/562. 
+
+Assistance from these individuals was vital to the operation's success as they had kept careful records of unexplained activity of armed individuals and unmarked vehicles around several buildings believed to be abandoned. Such movement is known to have been widespread in Madrid up until 1998, when all unexplained activity abruptly ceased. 
+
+It is currently believed that certain elements of the City Council of Madrid were in tight collaboration with a small number of known independent an-orgs[[footnote]] Anomalous organizations [[/footnote]] operating publicly as a variety of small businesses, including construction, demolition, and pest control. However, careful raking of abandoned buildings known to be epicenters of the aforementioned unexplained activity managed to recover a limited amount of correspondence and documentation linking them together. It is believed that correspondence between these organizations uses a unique method of encryption or argot designed to obscure their intended meaning, masking it as logistical data or friendly communication between individual members.
+
+While successful in demonstrating the existence of anomalous activity in Madrid prior to 1998, data acquired during the beginning stages of Operation Hammer was limited and failed to describe its purpose or link it to RPC-562, as it is believed that truly sensitive documents were destroyed prior to Authority involvement.
+
+Operation Hammer led to a major breakthrough during 08/02/2006, when a series of improperly destroyed documents were discovered in a hidden furnace in the Sanatorio de la Marina. These documents directly linked pre-1998 anomalous activity to a subsidiary of the Vinland-Pyre Research Institute and RPC-562, and allowed the Authority to properly understand the causes and consequences of the anomalous phenomenon. Newer research discovered widespread activity of the Institute across Madrid between 1980 and 1984.
+
+Of note, these letters prominently feature the Greek letters omega and iota in the top right. It is currently believed that this symbol represents the group of associated organizations, or their operations conducted in Madrid.
+
+------
+
+[[div class="oi"]]
+[[table style="border: none; border-bottom: 1px dotted black; width: 100%; color: black; background-color: none;"]]
+[[row]]
+[[cell]]
+**Author:** Alsina Demoliciones
+[[/cell]]
+[[cell]]
+**Recipient:** Madrid Superlabs[[footnote]] Believed to be linked to Conscious Labs Inc., a subsidiary of Vinland-Pyre  [[/footnote]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Topic:** Closed Room (17/7/1983)
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div style="float:right;"]]
+[[size 300%]]##darkred|{{ΩΙ}}##[[/size]]
+[[/div]]
+~~~~
+
+Hereby and to those concerned, we inform of successful finding of the "closed room", as discussed during Administrative Session 16. 
+
+The room in question was accessed as of yesterday, and was found to be in its expected state. No outside contamination could be found by the discovery team.
+
+About one hundred inactive entities were encountered inside, immobilized through specialized straitjackets bearing a unique, unidentified logotype. Their clear state of malnutrition led us to believe they might have been neutralized by an outside force, but a closer look revealed that a majority of them are still alive. 
+
+Analysis of the structure itself has been unproductive, with no further data regarding its builders being found. However, as the entities are restrained with straitjackets, its date of construction cannot go farther than the 1800s.
+
+We are unsure of the extent of the entities' properties, and will conduct further testing.
+
+[[/div]]
+@@ @@
+
+[[=]]
+[[include component:image-block |width=600px|align=center|name=http://rpcsandbox.wdfiles.com/local--files/oialma/mumies.jpg|caption={{fig 1.2: Unknown. Image dated 1962.}}]]
+[[/=]]
+
+@@ @@
+[[div class="oi"]]
+[[table style="border: none; border-bottom: 1px dotted black; width: 100%; color: black; background-color: none;"]]
+[[row]]
+[[cell]]
+**Author:** Alsina Demoliciones
+[[/cell]]
+[[cell]]
+**Recipient:** Madrid Superlabs
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Topic:** Closed Room (24/9/1986)
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div style="float:right;"]]
+[[size 300%]]##darkred|{{ΩΙ}}##[[/size]]
+[[/div]]
+~~~~
+
+We have had immense success. 
+
+Testing of reanimated entities has led us to believe that they are Stygian in nature, and as such, they are particularly vulnerable to memetic and informational hazards.
+
+We propose that they be employed as test subjects for Project Bauhaus, through the preparation of several subsurface test facilities across Madrid. Each entity group would be visually exposed to a singular architectural style and paired with a particular strain of DA1839 for a period of up to ten years in order to observe each strain's particularities and the resulting architecture and potential interference by informational contamination from Madrid citizens. Straitjackets will need to be replaced to ensure secure transportation.
+
+As a proof of concept, we suggest placing a few dozen entities and a single modified DA1839 instance in an underground cavity for little over a month. Should it work as expected, not only will the resulting architecture be identical to the "closed room", but all entities should show increased subservience and decreased hostility. Furthermore, more careful manipulation of DA1839 would allow them to behave normally under most situations and enter a subservient behavioural state after exposure to a memetic trigger or phrase. 
+
+If successful, DA1839 could be deployed in places frequented by state dignataries and other important persons.
+
+We await a response. 
+
+[[/div]]
+@@ @@
+[[div class="oi"]]
+
+[[>]]
+++ ##black|{{**ΩΙ**}}##
+[[/>]]
+
+[[div style="border: 1px black solid; padding: 1%; float: right; width: 45%; margin: 1%;"]]
+
+**Documented Asset:** DA162
+
+**Threat Code:** Delta
+
+**Cognitive Scale:** 2
+
+**Asset Name:** Subsurface Resonator/Infozyme Distributor
+
+**Author:** Gerardo Kleiman
+
+[[/div]]
+
+**Description:** DA162 is a mechanical device built for dual-purpose containment of infovore parasites and Stygian entities specific to Project Bauhaus. Originally a standard Subsurface Resonator, it has been modified to incorporate an automated info-enzyme distributor.
+
+DA162 consists of two main interdependent parts: the resonating device and info-enzyme producer. As the resonating device operates mainly through an anomalous form of mechanical waves, part of the device must be buried underground to prevent detection, difficulting interaction with the precursor liquid employed by the info-enzyme producer. However, placing the precursor near the surface segment of DA162 has proven to be an effective solution. 
+
+While anomalous waves produced by DA162 can both match the specific frequency required to incapacitate Stygian entities and encode info-enzymes, certain infovore parasites cannot interpret the encoded info-enzymes at the required frequencies. As such, the device is prepared to automatically switch between both in brief intervals.
+
+DA162 is currently located in the Franciscano Stronghold near Madrid, capital city. To ensure proper functioning, a series of repeater stations have been set up in testing facilities.
+
+**Observation Procedures:** DA162 itself presents no threat to any personnel, save for those who directly expose themselves to its mechanisms. However, maintenance is intensive and rigurous, requiring daily examinations and frequent replacement of component parts.
+
+~~~~
+[[/div]]
+@@ @@
+[[div class="oi"]]
+[[table style="border: none; border-bottom: 1px dotted black; width: 100%; color: black; background-color: none;"]]
+[[row]]
+[[cell]]
+**Author:** Alsina Demoliciones
+[[/cell]]
+[[cell]]
+**Recipient:** Madrid Superlabs
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Topic:** Bauhaus (12/4/1997)
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div style="float:right;"]]
+[[size 300%]]##darkred|{{ΩΙ}}##[[/size]]
+[[/div]]
+~~~~
+
+DA162's effectiveness at keeping testing grounds under control has suffered a fatal drop. 
+
+Containment state on Test Areas 7 and 12 has taken a drastic hit, with their survey teams being quickly devoured during their daily cavity examination and a total of 8 other personnel being lured in later. Stationed guards have managed to drive the humanoids back inside their cavities, but only after pumping an immense amount of ammunition into their bodies. They are as hostile and resilient as expected, as well as cunning and higly capable in mimicry, and will quickly overpower our personnel if given more time.
+
+We have discovered that maintenance of DA162 has been negligent, and several vital sections have suffered fatal damage. Replacement of these parts is not feasible, and without them containment will become impossible. DA162's effectiveness is expected to quickly degrade in the following years, eventually allowing a complete breach in all test areas around 2002.
+
+Almagro has suggested we attempt to appease the entities by sating their hunger for human flesh, but we simply do not possess enough to feed all of them. We are not sure it would be enough, and that it would not simply increase their hostility and intelligence.
+
+We request permission to manually terminate all deployed DA1839 instances in order to prevent their eventual expansion out of safe areas. Test areas will then to be temporarily sealed until testing can resume safely. Further funds and personnel will be required to replace DA162 and reacquire control of test areas. It is imperative to note that all security measures we are able to put in place are strictly temporary and further action will be required.
+
+[[/div]]
+@@ @@
+[[div class="oi" style="font-family: 'Merriweather', serif;"]]
+
+You are hereby ordered to terminate Project Bauhaus development in Madrid Capital City.
+
+You will be required to recover at least one instance of DA1839 from each Test Area before sealing them, in order to ensure later analysis of modifications made to memetic code. Nonessential documentation regarding Project Bauhaus, logistical records, and other letters from the High Ministry are to be destroyed.
+
+Due to the deterioration of our relationship with the Madrid City Council, all further action regarding humanoid entities employed for testing is forbidden. You are to retreat from Madrid and leave them contained with any temporary measures available. Ensure that DA162 remains functional during this process, and ignore all requests from it.
+
+You are to construct a list of personnel involved in DA162's maintenance and send it to the High Ministry.
+
+------
+
+= [[size 300%]]{{ΩΙ}}[[/size]]
+
+------
+
+[[/div]]
+@@ @@
+------
+
+The sender of the final letter is as of yet unidentified, as is the group self-referred to as the "High Ministry". It is strongly believed that they are not local to Madrid or Spain.
+
+[[/<]]
+
+[[/collapsible]]
+[[/div]]
+
+
+------
+
+**__Appendix 562-02: Incident 12022005/562__**
+
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="» FILE LOCKED: Validate BS-3+ Credentials «" hide="« Close »"]]
+[[/=]]
+[[<]]
+
+[[=]]
+[[include component:image-block align=right|name=http://rpcsandbox.wikidot.com/local--files/oialma/TorreWindsor1.jpg|caption={{fig 1.3: Windsor Tower, 13/02/2005}}]]
+[[/=]]
+
+On the 12th of June 2005, a fire was detected in Floor 21 of the Windsor Tower, an office building in the financial center of Madrid. The fire spread quickly to the rest of the building, causing its outermost steel layer to collapse. The destruction of the Windsor Tower was nearly complete, and lead to its remains being demolished later.
+
+However, during assessment by the City Council, a hole in its foundations was detected, connecting the lowest floor with an immense, unlit underground cavity. This discovery prompted Authority involvement, and a 20-man exploration team was sent into the cavity, and encountered a massive, rectangular space, approximately 2km in length, 600m in width, and 5km in depth. What appear to be portions of twenty six-story apartment buildings are carved from the stone, all empty save for thirty-six naked human bodies in various locations. These bodies are in various states of decomposition, and have been partially devoured by an unknown, carnivorous entity.
+
+Once gaslight protocols were put in place, all thirty-six bodies were identified as victims of RPC-562 that had resurfaced and been questioned by the Authority in the past months. Further investigation of the Madrid underground managed to discover 53 cavities similar to that on Windsor Tower, populated with the bodies of all 162 RPC-562 victims.
+
+However, when attempts were made to contact or capture the "resurfaced" individuals, it was discovered that they had disappeared again less than 24 hours after the Windsor Tower fire, last sighted running away from their homes. Attempts to track them have been unsuccessful, and close relatives have uniformly claimed unusual and hostile behaviour since their return to their households. Investigations attempting to connect a recent spike in cannibalistic murders across Western Europe with the resurfacing of RPC-562 victims are ongoing.
+
+All "resurfaced" RPC-562 victims are under an ##red|outstanding capture order##, and are to be considered hostile Gamma-Red anomalies.
+
+[[/<]]
+[[/collapsible]] 
+[[/div]]
+
+------
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-561]]] | RPC-562 | [[[RPC-563]]] >>
+[[/=]]
+

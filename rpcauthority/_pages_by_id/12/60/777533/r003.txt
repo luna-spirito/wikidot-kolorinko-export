@@ -1,0 +1,638 @@
+---
+title: "Blank Theme"
+tags: ["theme"]
+page_id: "1260777533"
+site: "rpcauthority"
+slug: "component:blank-theme"
+revision: 3
+revision_id: "1530416465"
+author: 9161410
+timestamp: 1749335406
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:blank-theme/code/1);
+[[/module]]
+
+[[code type="css"]]
+@charset "utf-8";
+ 
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Michroma');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css');
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+ 
+:root {
+/* PALLET SHEET */
+ 
+--basic-border: 2px solid #BBB;
+--basic-border-color: #666;
+--dashed-border: 1px dashed #666;
+--thick-border: 2px solid #666;
+ 
+--element-border-radius: 2px;
+ 
+--primary-background: #fff;
+--secondary-background: #fff;
+--background-3: #fff;
+--background-4: #fff;
+ 
+--content-bar-background: #fff;
+ 
+--primary-text-color: black;
+ 
+--nav-hover-background: #fff;
+ 
+/* BASE COLORS */
+ 
+/* General Elements */
+--text-color: black;
+--unmargined-color: var(--primary-text-color);
+--horizontal-rule-background: var(--basic-border-color);
+--horizontal-rule-secondary-background: #333; /* color of horizontal rules when they are inside of content panels and stuff */
+--action-area-border: var(--dashed-border);
+--alert-info-border: var(--dashed-border);
+--owindow-border: var(--basic-border);
+--tags-border: var(--basic-border);
+--error-color: #f54242;
+--content-box-shadow-color: #191919;
+--content-box-shadow: 1px 1px 1px 1px var(--content-box-shadow-color);
+--show-changes-del-background: rgba(255,123,123,0.47);
+--show-changes-ins-background: rgba(140,255,129,0.47);
+ 
+/* Body */
+--body-background: #fff;
+ 
+/* Footer */
+--footer-background: var(--primary-background);
+--footer-color: var(--text-color);
+ 
+/* Page Content */
+--page-background: none;
+--page-padding: none;
+--page-border: none;
+--page-border-radius: 0;
+ 
+/* Page Title */
+--page-title-color: var(--primary-text-color);
+--page-title-border: var(--basic-border);
+ 
+/* Generic Buttons */
+--button-border: 1px solid #AAA;
+--button-background: #F4F4F4;
+--button-hover-border: 1px solid #27415c;
+--button-hover-background: #27415c;
+--button-hover-color: #fff;
+--button-current-background: var(--primary-background);
+ 
+/* Header Icon */
+--header-icon: none;
+--header-icon-adv: left 1.2em top 1rem no-repeat;
+--header-icon-size: auto calc(9.5rem - 2.125rem);
+ 
+/* Header Background */
+--header-background: white;
+ 
+/* Set to hidden to enable custom text */
+--header-text-visibility: visible;
+ 
+/* Primary Header Text */
+--header-font-weight: normal;
+--header-font: default;
+--header-color: var(--link-color);
+--header-font-size: 100%;
+--header-mobile-font-size: 85%;
+ 
+/* Header Tagline Text */
+--header-tagline-font-weight: normal;
+--header-tagline-font-size: 150%;
+--header-tagline-font: verdana, arial, helvetica, sans-serif;
+--header-tagline-color: var(--primary-text-color);
+--header-custom-text: '';
+--header-tagline-custom-text: '';
+--header-tagline-top: unset;
+--header-tagline-bottom: unset;
+--header-tagline-left: unset;
+--header-tagline-right: unset;
+--header-tagline-text-shadow: unset;
+--header-mobile-tagline-font-size: 75%;
+ 
+/* Search Bar */
+--search-button-background: #1b1f32;
+--search-button-border: 1px solid #777;
+--search-button-hover-background: #363f64;
+--search-button-hover-border: 1px solid #fff;
+--search-input-hover-border: 1px solid #fff;
+--search-input-hover-color: #fff;
+--search-input-color: #33384d;
+--search-input-hover: #2d3668;
+--search-input-border: 1px solid #777;
+ 
+/* Sidebar */
+--sidebar-divider-color: var(--basic-border-color);
+--sidebar-header-color: var(--primary-text-color);
+--sidebar-hover-background: var(--nav-hover-background);
+--sidebar-hover-color: #fff;
+--sidebar-color: var(--text-color);
+--sidebar-mobile-open-menu-color: var(--basic-border-color);
+--sidebar-mobile-open-menu-border: 3px solid var(--basic-border-color);
+--sidebar-mobile-open-menu-background: var(--primary-background);
+--sidebar-mobile-background: var(--primary-background);
+--sidebar-crit-corner-color: var(--link-color);
+ 
+/* Topbar */
+--topbar-text-color: #aaa;
+--topbar-dropdown-background: var(--body-background);
+--topbar-hover-background: var(--nav-hover-background);
+--topbar-divider: 1px solid var(--topbar-hover-background);
+--topbar-dropdown-border-color: var(--basic-border-color);
+--topbar-hover-color: #fff;
+--topbar-dropdown-color: var(--text-color);
+ 
+/* Link Colors */
+--link-color: #00A;
+--link-hover-color: #00A;
+--new-page-color: #626eb2;
+--external-graphic-color: var(--star-rating-hue);
+ 
+/* Wikidot Tables */
+--table-header-background: var(--content-bar-background);
+--table-header-background-alt: var(--background-3);
+--table-header-color: var(--text-color);
+--table-cell-color: var(--text-color);
+--table-cell-background: var(--primary-background);
+--table-border: 1px solid #333;
+--table-box-shadow: var(--content-box-shadow);
+ 
+/* Tabs */
+--tabview-background: var(--primary-background);
+--tabview-bar-border: none;
+--tabview-border: none;
+--tabview-button-background: transparent;
+--tabview-button-border: none;
+--tabview-button-selected-background: var(--primary-background);
+--tabview-button-selected-color: var(--text-color);
+--tabview-button-hover-background: var(--secondary-background);
+--tabview-side-tabs-background: #313336;
+--tabview-side-tabs-box-shadow: 1px 0 1px 1px var(--content-box-shadow-color);
+--tabview-side-box-shadow: var(--content-box-shadow);
+--tabview-side-border: none;
+--tabview-side-button-hover-background: var(--tabview-button-hover-background);
+--tabview-side-button-selected-background: #24272a;
+--tabview-side-button-divider: 1px solid var(--tabview-side-button-selected-background);
+--tabview-side-scrollbar-background: var(--content-bar-background);
+--tabview-side-scrollbar-thumb-background: #313b4a;
+--tabview-side-scrollbar-thumb-hover-background: #303741;
+ 
+/* Footnotes */
+--footnote-border: var(--basic-border);
+--footnote-background: var(--primary-background);
+ 
+/* Table of Contents */
+--toc-border: none;
+--toc-background: var(--primary-background);
+--toc-box-shadow: var(--content-box-shadow);
+ 
+/* Content Panels */
+--content-panel-border-radius: var(--element-border-radius);
+--content-panel-background: var(--primary-background);
+--content-panel-border: none;
+--content-panel-padding: 10px 20px;
+--content-panel-box-shadow: var(--content-box-shadow);
+--content-bar-color: #777;
+--news-block-body-panel-background-even: #1a1c1e;
+--content-block-border: none;
+--content-box-border-color: #808080;
+--nested-content-border: 1px solid #333; /* border of content when inside other content elements (blockquotes, tabview, content-panels, etc.) */
+ 
+/* Quotes */
+--blockquote-background: var(--secondary-background);
+--blockquote-border: none;
+--blockquote-border-radius: var(--element-border-radius);
+--blockquote-padding: 1px 10px;
+--blockquote-box-shadow: var(--content-box-shadow);
+ 
+/* Image Blocks */
+--image-block-caption-background: var(--content-bar-background);
+--image-block-border: none;
+--image-block-background: var(--primary-background);
+--image-block-box-shadow: var(--content-box-shadow);
+ 
+/* Rating Modules */
+--star-rating-background: var(--primary-background);
+--star-rating-border: none;
+--star-rating-reading-background: #111;
+--star-rating-decimal-color: var(--text-color);
+--binary-rating-background: var(--primary-background);
+--binary-rating-border: none;
+--star-rating-hue: 0deg;
+--star-rating-filter: hue-rotate(calc(var(--star-rating-hue) + 350deg)) invert(1) saturate(0.4) brightness(1.3);
+--star-rating-border-radius: 0px;
+--star-rating-box-shadow: none;
+--star-rating-stars-box-shadow: none;
+--star-rating-cell-background: var(--content-bar-background);
+--nested-star-rating-border: 1px solid var(--star-rating-cell-background);
+ 
+/* Text Inputs */
+--text-box-form-background: #181d22;
+--text-box-form-border: 1px solid #2c3340;
+ 
+/* Forum Threads */
+--forum-thread-background: rgba(0,0,0,0.21);
+--forum-thread-border: none;
+--forum-thread-border-radius: 5px;
+--forum-thread-box-shadow: none;
+ 
+/* Forum Categories */
+--forum-category-background-even: #1a1c1e;
+--forum-category-background-odd: var(--primary-background);
+ 
+/* Code Blocks */
+--code-background: #111;
+--code-border: var(--dashed-border);
+ 
+/* Account Options */
+--account-options-background: var(--primary-background);
+--account-options-border: var(--basic-border);
+ 
+/* Template Block */
+--template-block-border: 2px solid #666;
+--template-block-background: #14141a;
+ 
+/* Pop-Up Boxes */
+--modal-body-background: white;
+--modal-header-background: #F5F5F5;
+ 
+/* Sidenotes */
+--sidenote-open-background: #1c2431;
+--sidenote-closed-background: var(--content-bar-background);
+--sidenote-box-shadow: var(--content-box-shadow);
+--sidenote-background: var(--primary-background);
+--sidenote-contents-border: 1px dashed #333;
+--sidenote-figure-border: 1px solid #333;
+--sidenote-contents-open-color: var(--text-color);
+--sidenote-figure-open-color: var(--text-color);
+--sidenote-contents-closed-color: var(--text-color);
+--sidenote-figure-closed-color: var(--text-color);
+ 
+/* White Theme Variables */
+--WT-element-border-radius: 0px;
+--WT-basic-border: 1px solid #666;
+--WT-basic-border-color: #666;
+--WT-dashed-border: 1px dashed #666;
+--WT-primary-background: #eee;
+--WT-secondary-background: #e0e0e0;
+--WT-background-3: var(--content-bar-background);
+--WT-background-4: var(--primary-background);
+--WT-content-bar-background: #c0c0c0;
+--WT-primary-text-color: #2266bf;
+--WT-nav-hover-background: #1f317b;
+--WT-text-color: #333;
+--WT-horizontal-rule-secondary-background: var(--basic-border-color);
+--WT-error-color: red;
+--WT-content-box-shadow-color: #666;
+--WT-content-box-shadow: none;
+--WT-show-changes-del-background: rgba(255,0,0,0.47);
+--WT-show-changes-ins-background: rgba(23,255,0,0.47);
+--WT-unmargined-color: var(--primary-text-color);
+--WT-horizontal-rule-background: var(--basic-border-color);
+--WT-action-area-border: var(--dashed-border);
+--WT-alert-info-border: var(--dashed-border);
+--WT-owindow-border: var(--basic-border);
+--WT-tags-border: var(--basic-border);
+--WT-body-background: #e8e8e3;
+--WT-footer-background: #33333f;
+--WT-footer-color: #c0c0c0;
+--WT-page-background: none;
+--WT-page-title-color: var(--primary-text-color);
+--WT-page-title-border: var(--basic-border);
+--WT-page-padding: none;
+--WT-page-border: none;
+--WT-page-border-radius: 0;
+--WT-button-border: 1px solid #666;
+--WT-button-background: #fff;
+--WT-button-hover-border: 1px solid #000;
+--WT-button-hover-background: #548de0;
+--WT-button-hover-color: #000;
+--WT-button-current-background: #888;
+--WT-header-icon: url(http://www.rpc-wiki.net/local--files/component:theme/AuthorityLogoHQ.png);
+--WT-header-icon-adv: left 1.2em top 1rem no-repeat;
+--WT-header-icon-size: auto calc(9.5rem - 2.125rem);
+--WT-header-background: url(http://www.rpc-wiki.net/local--files/theme:white/lightHeader.png);
+--WT-header-text-visibility: visible;
+--WT-header-font-weight: bold;
+--WT-header-font: default;
+--WT-header-color: #fff;
+--WT-header-font-size: 180%;
+--WT-header-mobile-font-size: 85%;
+--WT-header-tagline-font-weight: bold;
+--WT-header-tagline-font-size: 150%;
+--WT-header-tagline-font: default;
+--WT-header-tagline-color: #f0f0c0;
+--WT-header-custom-text: '';
+--WT-header-tagline-custom-text: '';
+--WT-header-tagline-top: unset;
+--WT-header-tagline-bottom: unset;
+--WT-header-tagline-left: unset;
+--WT-header-tagline-right: unset;
+--WT-header-tagline-text-shadow: unset;
+--WT-header-mobile-tagline-font-size: 75%;
+--WT-search-button-background: #202e60;
+--WT-search-button-border: 1px solid #aaa;
+--WT-search-button-hover-background: #1f317b;
+--WT-search-input-color: #202d60;
+--WT-search-input-hover: #1e2d77;
+--WT-search-input-border: 1px solid #aaa;
+--WT-search-button-hover-border: 1px solid #fff;
+--WT-search-input-hover-border: 1px solid #fff;
+--WT-search-input-hover-color: #fff;
+--WT-sidebar-divider-color: var(--basic-border-color);
+--WT-sidebar-header-color: var(--primary-text-color);
+--WT-sidebar-hover-background: var(--nav-hover-background);
+--WT-sidebar-hover-color: #fff;
+--WT-sidebar-color: var(--text-color);
+--WT-sidebar-mobile-open-menu-color: #aaa;
+--WT-sidebar-mobile-open-menu-border: 3px solid #aaa;
+--WT-sidebar-mobile-open-menu-background: #fff;
+--WT-sidebar-mobile-background: #fff;
+--WT-sidebar-crit-corner-color: unset;
+--WT-topbar-text-color: #aaa;
+--WT-topbar-hover-background: #1f317b;
+--WT-topbar-divider: 1px solid var(--topbar-hover-background);
+--WT-topbar-dropdown-background: var(--body-background);
+--WT-topbar-dropdown-border-color: var(--basic-border-color);
+--WT-topbar-hover-color: #fff;
+--WT-topbar-dropdown-color: var(--text-color);
+--WT-link-color: #236ec4;
+--WT-link-hover-color: var(--link-color);
+--WT-new-page-color: #7729a4;
+--WT-table-header-background: var(--content-bar-background);
+--WT-table-header-background-alt: var(--content-bar-background);
+--WT-table-header-color: var(--text-color);
+--WT-table-cell-color: var(--text-color);
+--WT-table-cell-background: none;
+--WT-table-border: var(--basic-border);
+--WT-table-box-shadow: var(--content-box-shadow);
+--WT-tabview-background: var(--primary-background);
+--WT-tabview-bar-border: 4px solid var(--basic-border-color);
+--WT-tabview-border: var(--basic-border);
+--WT-tabview-button-selected-background: #548de0;
+--WT-tabview-button-hover-background: #8f92a4;
+--WT-tabview-button-background: transparent;
+--WT-tabview-button-border: none;
+--WT-tabview-button-selected-color: var(--text-color);
+--WT-tabview-side-tabs-background: var(--content-bar-background);
+--WT-tabview-side-tabs-box-shadow: none;
+--WT-tabview-side-box-shadow: var(--content-box-shadow);
+--WT-tabview-side-border: var(--basic-border);
+--WT-tabview-side-button-hover-background: var(--tabview-button-hover-background);
+--WT-tabview-side-button-selected-background: var(--tabview-button-selected-background);
+--WT-tabview-side-button-divider: var(--basic-border);
+--WT-tabview-side-scrollbar-background: #999;
+--WT-tabview-side-scrollbar-thumb-background: #666;
+--WT-tabview-side-scrollbar-thumb-hover-background: #555;
+--WT-footnote-border: var(--basic-border);
+--WT-footnote-background: var(--primary-background);
+--WT-toc-border: var(--basic-border);
+--WT-toc-background: var(--primary-background);
+--WT-toc-box-shadow: var(--content-box-shadow);
+--WT-content-panel-background: var(--primary-background);
+--WT-content-panel-border: var(--basic-border);
+--WT-content-bar-color: #334;
+--WT-news-block-body-panel-background-even: var(--secondary-background);
+--WT-content-block-border: var(--basic-border);
+--WT-content-box-border-color: #888;
+--WT-nested-content-border: var(--basic-border);
+--WT-content-panel-box-shadow: var(--content-box-shadow);
+--WT-content-panel-border-radius: var(--element-border-radius);
+--WT-content-panel-padding: 10px 20px;
+--WT-blockquote-border: 1px dashed #666;
+--WT-blockquote-background: var(--secondary-background);
+--WT-blockquote-box-shadow: var(--content-box-shadow);
+--WT-blockquote-border-radius: var(--element-border-radius);
+--WT-blockquote-padding: 1px 10px;
+--WT-image-block-border: var(--basic-border);
+--WT-image-block-background: var(--basic-border-color);
+--WT-image-block-caption-background: var(--content-bar-background);
+--WT-image-block-box-shadow: var(--content-box-shadow);
+--WT-star-rating-background: #214a89;
+--WT-star-rating-border: 1px solid #10214c;
+--WT-star-rating-reading-background: var(--basic-border-color);
+--WT-star-rating-decimal-color: #eee;
+--WT-star-rating-border-radius: 3px;
+--WT-star-rating-box-shadow: 1px 1px 2px;
+--WT-star-rating-stars-box-shadow: inset 0px 0px 2px;
+--WT-star-rating-cell-background: #efeeea;
+--WT-binary-rating-background: var(--secondary-background);
+--WT-binary-rating-border: var(--basic-border);
+--WT-star-rating-filter: none;
+--WT-star-rating-hue: 0deg;
+--WT-text-box-form-background: var(--primary-background);
+--WT-text-box-form-border: var(--basic-border);
+--WT-code-background: var(--secondary-background);
+--WT-code-border: var(--dashed-border);
+--WT-account-options-background: var(--primary-background);
+--WT-account-options-border: var(--basic-border);
+--WT-template-block-border: 2px dashed #666;
+--WT-template-block-background: #ccc;
+--WT-modal-body-background: #fff;
+--WT-modal-header-background: var(--content-bar-background)!important;
+--WT-sidenote-open-background: #548de0;
+--WT-sidenote-contents-border: var(--dashed-border);
+--WT-sidenote-figure-border: var(--basic-border);
+--WT-sidenote-closed-background: var(--content-bar-background);
+--WT-sidenote-box-shadow: var(--content-box-shadow);
+--WT-sidenote-background: var(--primary-background);
+--WT-sidenote-contents-open-color: var(--text-color);
+--WT-sidenote-figure-open-color: #fff;
+--WT-sidenote-contents-closed-color: var(--text-color);
+--WT-sidenote-figure-closed-color: var(--text-color);
+ 
+/* Variables Specific to White Theme  */
+--WT-open-themes-border: 2px solid #666;
+--WT-open-themes-background: #1d2022;
+--WT-open-themes-color: #666;
+--WT-open-themes-hover-color: #5295e1;
+--WT-open-themes-hover-border: solid 2px var(--WT-open-themes-hover-color);
+--WT-misc-1: #c0c0c0;
+ 
+/* Variables Specific to Black Theme */
+--BT-open-themes-border: 2px solid #aaa;
+--BT-open-themes-background: #fff;
+--BT-open-themes-color: #000;
+--BT-open-themes-hover-color: #07f;
+--BT-open-themes-hover-border: solid 2px #5295e1;
+--BT-scrollbar-background: var(--primary-background);
+--BT-scrollbar-thumb-background: #273b5a;
+--BT-scrollbar-thumb-hover-background: #283649;
+--BT-resizer-background: #191919;
+}
+
+* {
+ 	font-family: verdana, arial, helvetica, sans-serif;
+}
+
+li, p {
+ 	line-height: normal;   
+}
+
+#header, #top-bar {
+ 	width: 100%;
+    max-width: none;
+}
+
+#header, #header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+#header h1 a {
+    padding-top: 12px;   
+    padding-bottom: 16px;
+}
+
+#header h1 a {
+   text-decoration: none!important;
+    letter-spacing: 0;
+}
+
+#header h2 {
+ 	margin-left: 0;
+    margin-top: 8px;
+    height: 24px;
+}
+
+#header h2 span {
+ 	padding: 0;
+    letter-spacing: 0;
+}
+
+#header h1 a span, #header h2 span {
+ 	font-family: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica;   
+}
+
+#main-content {
+    margin-left: 17em;
+    padding: 0 1em;
+}
+
+#content-wrap {
+ 	padding: 0;
+    margin: 0;
+    max-width: none;
+}
+
+.image-block, .image-block.block-right .image-block * {
+ 	all: unset;
+}
+
+.image-block.block-right {
+ 	float: none;
+    clear: none;
+    margin: 0;
+}
+
+div#top-bar {
+    all: unset;
+}
+
+div#top-bar {
+ 	position: absolute;
+    right: 1em;
+    bottom: 0px;
+    z-index: 0;
+}
+
+.rateContainer, .rateContainer * {
+ 	all: unset;   
+}
+
+#side-bar .side-block {
+ 	all: unset;   
+}
+
+#side-bar div.menu-item a, #side-bar div.menu-item a:hover {
+ 	all: unset;   
+}
+
+#side-bar .menu-item a::before {
+    content: none!important;
+}
+
+a {
+ 	color: #00A !important;   
+}
+
+a:hover {
+ 	background-color: #EEE !important;   
+}
+
+a:-webkit-any-link {
+    cursor: pointer!important;
+    text-decoration: underline!important;
+}
+
+#page-title {
+    font-weight: normal;
+    margin: 0 0 0.5em 0;
+    padding-top: 0.5em;
+    padding-bottom: 0;
+    font-size: 200%;
+    border-bottom: 1px solid #666;
+}
+
+#side-bar hr {
+ 	width: unset;
+    color: #DDD;
+    background-color: #AAA;
+}
+
+#search-top-box {
+ 	position: absolute;
+    right: 1em;
+    top: 3em;
+    z-index: 10;
+}
+
+#search-top-box-input, #search-top-box-input:hover, #search-top-box-input:focus {
+ 	color: #000;
+    background-color: #FFF;
+    border: 1px solid #777;
+    transition: none;
+    border-radius: 2px;
+}
+
+#search-top-box-form input[type=submit], #search-top-box-form input[type=submit]:hover, #search-top-box-form input[type=submit]:focus {
+    color: #000;
+    background-color: #F4F4F4;
+    border: 1px solid #AAA;
+    padding: 0px 0.5em;
+    transition: none;
+    font-weight: normal;
+    border-radius: 2px;
+}
+
+.owindow .button-bar .btn {
+ 	text-decoration: none!important;   
+}
+
+.owindow .button-bar .btn:hover {
+ 	background-color: #DDD !important;
+}
+
+.image-block .image-caption {
+ 	text-align: left;
+    font-weight: normal;
+    font-size: inherit;
+    padding: 0;
+    border: none;
+}
+
+#side-bar .heading {
+    font-size: 1em;
+    margin: 0;
+    font-weight: normal;
+}
+[[/code]]
+

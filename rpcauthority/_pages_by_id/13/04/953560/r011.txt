@@ -1,0 +1,220 @@
+---
+title: "RPC-327"
+tags: ["alpha", "mechanical-hazard", "red", "rpc", "sensory-hazard", "translated"]
+page_id: "1304953560"
+site: "rpcauthority"
+slug: "rpc-327"
+revision: 11
+revision_id: "1471620766"
+author: 5689914
+timestamp: 1656537877
+---
+
+[[module css]]
+
+sup {
+vertical-align: top; position: relative; top: -0.5em;
+}
+
+.smaller-g hr{
+width: 85%;
+margin: auto;
+background-color: #C0C0C0;
+border: none;
+height: 1px;
+color: #C0C0C0;
+}
+
+.letter {
+    float: center;
+    border: dotted 1px #C0C0C0;
+    background:#3e6aa3;
+    width: 79%;
+    padding: 7px 17px;
+    margin: auto;
+    font-family: 'Verdana'
+    font-size: 0.9rem;
+    color: black;
+}
+
+.letter hr {
+    background: #FFF;
+}
+
+.adden{
+font-size: 1.3em;
+}
+
+[[/module]]
+
+[!--https://search.creativecommons.org/photos/56d805f5-c3e8-41a4-aca9-cc6a0463bf21 (CC BY-NC-ND 2.0)--]
+[[>]]
+[[collapsible show="+ Show rating" hide="- Hide rating"]]
+[[include component:rate title=RPC-327|translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/rpc-327"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/rpc-327"]]]]
+[[/collapsible]]
+[[/>]]
+[[tabview]]
+[[tab CODENAME: G.W.A.M.]]
+@@@@
+
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/crepe-cake-i/gwam5
+|caption=Test subject 02 in GWAM 85-105 trial.|align=right|width=350px]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-red.png]]
+
+**Registered Phenomena Code:** RPC-327
+
+**Object Class:** Alpha-Red
+
+**Hazard Types:** Mechanical Hazard, Sensory Hazard
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+------
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="letter"]]
+[[=]]
+
+++ __ATTENTION:__
+
+++++  The file for RPC-327 is suspended. It's a useless object and that's a shame when you consider what happened. This is a fine reminder that while it is important to find a way to de-stress given the nature of our everyday lives here at work, it is never advisable to make lemonade out of an anomalous lemon. Being cavalier during the initial testing of an anomalous object is always extremely dangerous, that’s Authority 101. We should never let our guard down, no matter how much fun an object seems like it could be. That may be the hardest part of the job; to keep a healthy scowl. 
+
+++++ -- GD-05
+
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+[[div style="text-align:center;"]]
+[[collapsible show="+ Retrieve Archived File" hide="- Re-archive"]]
+[[/div]]
+[[div style="text-align:left;"]]
+**Containment Protocols:** RPC-327 is to be kept in a standard item case within storage locker 27B of Room 32, Site-016. Testing is subject to Level 2 permission protocols. 
+
+Personnel who would like to register for testing should speak with Research Lead about opportunities. 
+
+Individuals participating in research trials are to be fitted for the appropriate safety and cybernetics gear. 
+
+RPC-327 must be cleared of all data between uses. Any word processing program used alongside RPC-327 testing is not to have an autosave feature. 
+
+**Description:** RPC-327 is a 128 MB flash drive with no distinctive markings or unusual internal components. When plugged into either a 2.0 or 3.0 USB port on a computer, the user of that computer experiences sensorial and kinetic anomalies while typing. The severity of these experiences depend upon the speed of the keystrokes.[[footnote]]Measured in gross words a minute, or GWAM.[[/footnote]] These effects are mainly subjective and so are not meaningfully repeatable with mechanical typists or automated software. Apparent forces acting on subjects are not registered on barometers.
+@@@@
+@@@@
+[[div style="text-align:center"]]
+[[div class="smaller-g"]]
+-----
+[[/div]]
+= [[span class="adden"]]Additional Documents[[/span]]
+[[div class="smaller-g"]]
+-----
+[[/div]]
+[[size 90%]]Sort by: **__Date added__**  |   Type  |   Name   |   Size  |[[/size]]
+[[/div]]
+------
+
+> +++++ Proposal to acquire initial staff - Testing
+> -----
+> **Summary:** Standard recruitment of CSD class for initial testing purposes.
+> **Request:** 2 CSD from pool.
+> **Status:** ##red|Denied## - Research Lead
+
+-----
+
++++++ Testing: Trials (1)
+||~ GWAM[[footnote]]Note: Numerical values are approximates.[[/footnote]] ||~ Observed Effect or Reported Sensation ||
+|| 0-15 || Control. No effect. ||
+|| 15-55 || Subjects report slight sensation of a breeze through their hair or across their face. ||
+|| 55-85 || Subjects report the feeling of forward motion.[[footnote]]"Similar to a car beginning to roll and then coasting."[[/footnote]] ||
+
+------
+
+> +++++ Proposal to acquire additional staff
+> -----
+> **Summary:** We are in need of more testers, especially those with typing skills. This is a thrilling study to be a part of, I'm sure we can find suitable candidates. Please tell your colleagues.
+> **Request:** 5 additional research coordinators, with recommendations to pull from IT Department, Team 4B (specifically Carolyn, James, Hiro, Gupta, and Nakita).
+> **Status:** ##green|Approved## - Research Lead
+
+------
+
++++++ Testing: Trials (2)
+||~ GWAM ||~ Observed Effect or Reported Sensation ||
+|| 85-105 || Subjects report significant windage. Hair can be observed moving erratically towards the posterior of the subject.[[footnote]]"It's like I'm in a convertible!"[[/footnote]] ||
+|| 105-120 || Subjects experience high pressure waves, particularly in the face, which fan out their cheeks/jowls in traceable rippling. The force pushes their lips to full extension and renders their eyes completely shut if without goggles or a wind visor. Subjects are unable to speak and have difficulty breathing. ||
+
+------
+
+> +++++ Proposal to acquire additional equipment
+> -----
+> **Summary:** This is going well, but... and I hate to put this in writing, but the factory keyboards we use on these terminals really aren't suited to this line of testing. We need a //real// keyboard.  
+> **Request:** One Das Keyboard 4 Professional brand mechanical keyboard.
+> **Status:** ##green|Approved## - Research Lead
+
+------
+
++++++ Testing: Trials (3)
+||~ GWAM ||~ Observed Effect or Reported Sensation ||
+|| 120-140 || Subjects are not able to catch their breath and risk suffocation without the use of supplemental oxygen. Individual's upper extremities are forced backward off of the keyboard unless tied down using crude medical-style restraints. This intensity effectively self-limits RPC-327 from a strictly human operator's perspective. ||
+
+------
+
+> +++++ Proposal to acquire additional personnel
+> -----
+> **Summary:** In the name of safety, we need some medical professionals present for these tests, as they are getting intense. 
+> **Request:** 3 medical personnel, with recommendations to pull 2 from Respiratory Therapy, and 1 RN (specifically Mal, Jacus, and William). 
+> **Status:** ##green|Approved## - Research Lead
+
+------
+
++++++ Testing: Trials (4)
+||~ GWAM ||~ Observed Effect or Reported Sensation ||
+|| 140-160[[footnote]]Supplemental oxygen and appropriate face gear are worn. Competent medical staff present.[[/footnote]] || Subjects are pinned to the terminal seat as if accelerating. Subjects report tunnel vision.[[footnote]]”Woooo! That's all you can say about that!”[[/footnote]] ||
+|| 160-185 || Individuals experience immediate g-LOC[[footnote]]G-force induced loss of consciousness.[[/footnote]] as their blood is unable to be pumped properly to their brain given the apparent force and the heart's native strength. Subsequent trials are able to overcome this by the use of intravenously administered inotropes and epinephrine, as well as applying compression stockings to the legs, which squeeze otherwise pooled blood from the abdomen and below back to the brain.[[footnote]]”Sometimes, it turns out to be //good// to not to have approval for CSDs.”[[/footnote]] ||
+
+------
+
+> +++++ Proposal to acquire additional technology
+> -----
+> **Summary:** We have again hit a very human limit in our testing. Theoretically, we have a lot more to get to but need some custom engineering to get there. We haven't really found out anything particularly useful yet, but we can't let the possibility go unexamined.
+> **Request:** Commission the cybernetics department to achieve trans-human typing speeds.
+> **Status:** ##green|Approved## - Research Lead
+
+------
+
++++++ Testing: Trials (5)
+||~ GWAM ||~ Observed Effect or Reported Sensation ||
+|| 185-220[[footnote]]This test and beyond utilizes advanced cybernetic gloves upon the participant to help achieve the typing speeds.[[/footnote]] || Subject reports passing a sudden threshold of euphoria where time dilates and marked clarity is achieved.[[footnote]]"It's like a runner's high."[[/footnote]] Dopamine spikes noted in subsequent blood work.||
+|| >220 || See innominate Incident Report. ||
+
+-----
+
+**Incident Report:** Due to the continued and accelerated rate of writing in the >220 GWAM trials, the 128 MB storage capacity of RPC-327 was quickly reached thanks to the the word processing program's autosave feature. At the moment when RPC-327's storage became full, the Research Lead, who was the typist at that time, experienced collision forces sufficient to detonate his entire body, creating a 10m blast radius of partial viscera and the residual eddying of pink-hued, post-organic particulates in the testing chamber. Subject's spinal column was recovered draped across the back of the terminal chair. 
+
+-----
+
+> +++++ Proposal to acquire targeted psychiatric/PTSD therapy
+> -----
+> **Summary:** See documented RPC-327 incident report.
+> **Status:** ##green|Approved## - GD-05
+@@@@
+@@@@
+[[/div]]
+[[/tab]]
+[[/tabview]]
+[[include component:rate title=RPC-327|translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/cn.png link="http://rpc-wiki-cn.wikidot.com/rpc-327"]] [[image http://www.rpc-wiki.net/local--files/component:icons/pl.png link="http://rpc-pl.wikidot.com/rpc-327"]]]]
+[[/collapsible]]
+@@@@
+@@@@
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-326]]] | RPC-327 | [[[RPC-328]]] >> 
+[[/=]]
+

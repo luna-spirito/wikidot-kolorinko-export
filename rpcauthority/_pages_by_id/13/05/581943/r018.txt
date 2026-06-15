@@ -1,0 +1,221 @@
+---
+title: "Viceroy Prospect Theme"
+tags: ["theme"]
+page_id: "1305581943"
+site: "rpcauthority"
+slug: "component:viceroy-prospect-theme"
+revision: 18
+revision_id: "1523155261"
+author: 5982545
+timestamp: 1721597316
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:viceroy-prospect-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600|Raleway|Roboto+Mono');
+
+/*
+    Nucorp Industries Theme (made by Qual; requested by Hellsverg)
+    [2020 Wikidot Theme]
+*/
+
+.yui-navset-top {
+    font-family: default;
+}
+
+#header h1 a::before {
+    font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    margin-left: 40px;
+    text-decoration: none;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    font-family: Raleway,sans-serif;
+    margin-left: 40px;
+    font-size: 100%;
+}
+ 
+blockquote {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Nucorp.png);
+    background-position: bottom right;
+    background-size: 45px;
+    background-repeat: no-repeat;
+    padding-bottom: 40px;
+}
+
+/* Links */
+a {
+    color: var(--link-color);
+    text-decoration: underline;
+    background: transparent;
+    transition: color 0.5s ease;
+    font-weight: bold;
+}
+
+#top-bar .search-button a { text-decoration: none; }
+ 
+a.newpage {
+    color: var(--new-page-color);
+    text-decoration: underline;
+    background: transparent;
+    font-weight: bold;
+}
+ 
+a:hover {
+    text-decoration: underline;
+    background-color: transparent;
+    color: var(--link-hover-color);
+    font-weight: bold;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+:root {
+
+    --nu-color: #ccc;
+
+    --body-background: #171717;
+    --primary-text-color: #fff;
+    --nav-hover-background: #32353b;
+    --primary-background: #212226;
+    --font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    --content-bar-background: #32353b;
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: tato, sans-serif;
+    --header-custom-text: 'Viceroy Prospect';
+    --header-tagline-custom-text: 'The Blooming Chrysalis';
+    --header-icon: url(https://i.imgur.com/FkivrSy.png); size: 150%;
+    --header-background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Aaep-2-theme/AEPBackground3.png);
+    --header-tagline-color: #ccc;
+    --header-tagline-top: 15px;
+
+    --link-color: #c0cecf;
+    --link-hover-color: #ffffff;
+    --new-page-color: #969696;
+    --button-border: 1px solid #ffffff;
+    --button-background: #32353b;
+    --button-hover-border: 1px solid #fff;
+    --button-hover-background: #171717;
+ 
+    --search-button-background: #32353b;
+    --search-button-hover-background: #171717;
+    --search-input-color: #32353b;
+    --search-input-hover: #171717;
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: #32353b;
+    --topbar-hover-background: #32353b;
+    --topbar-divider: 1px solid #222;
+    --topbar-dropdown-border-color: #fff;
+ 
+    --news-block-body-panel-background-even: #000000;
+ 
+    --sidebar-crit-corner-color: unset;
+    --star-rating-hue: -40deg;
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+    
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid #969696;
+    --tabview-button-selected-background: #969696;
+    --tabview-button-selected-color: #ccc;
+    --tabview-button-hover-background: #7a7a7a;
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-tabs-box-shadow: 1px 0 1px 1px var(--content-box-shadow-color);
+    --tabview-side-box-shadow: var(--content-box-shadow);
+    --tabview-side-border: var(--basic-border);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: #969696;
+    --tabview-side-button-divider: 1px solid var(--tabview-side-button-selected-background);
+
+    --basic-border: 1px solid #969696;
+
+    --owindow-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --account-options-border: var(--basic-border);
+    --tags-border: var(--basic-border);
+    --topbar-dropdown-border-color: var(--basic-border-color);
+    --toc-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --blockquote-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --tabview-border: var(--basic-border);
+    --table-border: var(--basic-border);
+    --template-block-border: var(--basic-border);
+
+    --BT-resizer-background: #32353b;
+    --BT-scrollbar-thumb-background: #969696;
+    --BT-scrollbar-thumb-hover-background: #c0cecf;
+
+    --tabview-side-scrollbar-background: 32353b;
+    --tabview-side-scrollbar-thumb-background: #969696;
+    --tabview-side-scrollbar-thumb-hover-background: #c0cecf;
+
+}
+ 
+
+#printuser {
+    color: #32353b;
+    background-color:transparent;
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #000;
+}
+ 
+#login-status a {
+    color: #c0cecf;
+    
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+#account-options li a:hover {
+    color: #fff;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #fff;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: #171717!important;
+    }
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(--nu-color);
+}
+
+ 
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
