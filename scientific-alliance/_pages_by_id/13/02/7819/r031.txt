@@ -1,0 +1,104 @@
+---
+title: "Меню слева"
+tags: []
+page_id: "13027819"
+site: "scientific-alliance"
+slug: "nav:side"
+revision: 31
+revision_id: "936349124"
+author: 754405
+timestamp: 1567630812
+---
+
+[[div style="margin: -6px -16px -9px"]]
+[[tabview]]
+
+[[tab Основное]]
+[[div style="margin-left: 15px"]]
+
+[[div class="menu"]]
+[[[news|Новости]]]
+[[[forum:start|Форум]]]
+[[[history|Хроника]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[items|Список аномалий]]]
+[[[technology|Технологии]]]
+[[[projects|Научные проекты]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[synrealogy|Мироздание]]]
+[[[science|Науки]]]
+[[[lectures|Лекции]]]
+[[[documents|Документы]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[stories|Рассказы]]]
+[[[events|События]]]
+[[[visions|Видения]]]
+[[[timeline|Таймлайн]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[new-messages|Новые сообщения]]]
+[[[new-changes|Новые правки]]]
+[[[new-pages|Новые статьи]]]
+[[[new-all|Все обновления]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[test-pages|Полигоны]]]
+[[[labs|Лаборатории]]]
+[[/div]]
+
+-----
+
+[[div style="width:95%"]]
+[[module TagCloud minFontSize="75%" maxFontSize="125%" maxColor="100,100,100" minColor="100,100,100" target="system:page-tags"]]
+[[/div]]
+
+[[[tags-list|Список и значения тегов]]]
+
+-----
+
+[[div class="menu"]]
+[[[admin:manage|Управление сайтом]]]
+[[[join|Присоединиться]]]
+[[[members|Список участников]]]
+[[/div]]
+
+-----
+[[/div]]
+[[/tab]]
+
+[[tab Остальное]]
+[[div style="margin-left: 15px"]]
+[НЕДОСТУПНО]
+[[/div]]
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+
+[[div class="symbols"]]
+[[table style="padding: 5px"]][[row]][[cell]]
+█ Ѫ «» π º ¹ ² ³ 
+[[/cell]][[cell style="padding: 0 45px 0 20px"]]
+Текст – #555
+[[/cell]][[cell]]
+Ежели хочется использовать наши наработки для чего-то своего – да без проблем, только всенепременнейше нужно указать нас как источник.
+[[/cell]][[/row]][[/table]][[/div]]
+

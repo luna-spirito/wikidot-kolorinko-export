@@ -1,0 +1,103 @@
+---
+title: "Каталоги аномалий"
+tags: []
+page_id: "13024051"
+site: "scientific-alliance"
+slug: "items"
+revision: 46
+revision_id: "108697131"
+author: 754405
+timestamp: 1523307625
+---
+
+[[tabview]]
+
+[[tab База данных]]
+
+[[div class="list"]]
+[[image A.gif]]ᅠАргус
+[[image E.gif]]ᅠЭнигма
+[[image O.gif]]ᅠОтион
+[[/div]]
+
+-----
+
+[[div class="list"]]
+[[image E.gif]] [[[001]]] - Обратная сторона Земли
+[[image E.gif]] [[[002]]] - Преобразующие звери
+[[image A.gif]] [[[003]]] - Конструкт
+[[image A.gif]] [[[004]]] - Кубик Рубикона
+[[image A.gif]] [[[005]]] - Кольцо
+[[image A.gif]] [[[006]]] - Блуждающий лагерь
+[[image A.gif]] [[[007]]] - Эманация
+[[image A.gif]] [[[008]]] - Регихалковый голем
+[[image A.gif]] [[[009]]] - Воздушно-капельный путь
+[[image E.gif]] [[[010]]] - Эволюционеры
+[[span]][[/span]]
+[[image A.gif]] [[[011]]] - Мыслеакула
+[[image O.gif]] [[[012]]] - Вещь в себе
+[[image A.gif]] [[[013]]] - Узорные чудовища
+[[image A.gif]] [[[014]]] - Гостевая книга
+[[image A.gif]] [[[015]]] - Стена Аккера
+[[image A.gif]] [[[016]]] - Гной Господень
+[[image E.gif]] [[[017]]] - Пещера тысячи рук
+[[image A.gif]] [[[018]]] - Мешочек денег
+[[image A.gif]] [[[019]]] - Крокнига
+[[image E.gif]] [[[020]]] - Омникрафт
+[[span]][[/span]]
+[[image E.gif]] [[[021]]] - Синдром Спальтеги
+[[image A.gif]] [[[022]]] - Существа из Панзоона
+[[image O.gif]] [[[023]]]
+[[image A.gif]] [[[024]]] - Шаннам
+[[image O.gif]] [[[025]]] - Нанофиты
+[[image E.gif]] [[[026]]] - Тотем югари
+[[image O.gif]] [[[027]]]
+[[image E.gif]] [[[028]]] - Паттерн деархивации
+[[image O.gif]] [[[029]]]
+[[image O.gif]] [[[030]]]
+[[span]][[/span]]
+[[image O.gif]] [[[031]]]
+[[image O.gif]] [[[032]]]
+[[image O.gif]] [[[033]]]
+[[image A.gif]] [[[034]]] - Каменный садовник
+[[image O.gif]] [[[035]]]
+[[image A.gif]] [[[036]]] - Колода чудес
+[[image A.gif]] [[[037]]] - Саркофаг знания
+[[/div]]
+
+-----
+
+**Объекты других миров**
+
+[[div class="list" style="margin-top: -8px"]]
+[[image A.gif]] [[[A-1-002]]] - Мерцающий Лабиринт
+[[image A.gif]] [[[A-18-005]]] - Халиф на час
+[[/div]]
+
+-----
+[[/tab]]
+
+[[tab Изучаемые]]
+[[div class="select"]]
+[[module ListPages tags="+сюжетный, +исследуется" order="name" separate="false" prependLine="||~ **Обновлено** ||~ **Сюжетные** - к ним можно предлагать эксперименты и вообще лично изучать такие объекты всеми доступными способами ||"]]
+||= %%updated_at|%d.%m.%Y %% || %%title_linked%% ||
+[[/module]]
+[[/div]]
+
+[[div class="select"]]
+[[module ListPages tags="+фоновый, +исследуется" order="name" separate="false" prependLine="||~ **Обновлено** ||~ **Фоновые** - у них нет протоколов опытов и, соответственно, изучение ведётся только через высказывание готовых гипотез ||"]]
+||= %%updated_at|%d.%m.%Y %% || %%title_linked%% ||
+[[/module]]
+[[/div]]
+[[/tab]]
+
+[[tab Остальные]]
+[[div class="select"]]
+[[module ListPages tags="фоновый, сюжетный, -исследуется" order="name" separate="false" prependLine="||~ **Обновлено** ||~ Эти аномалии не исследуются, потому что уже изучены, современные средства бесполезны или работы просто запрещены ||"]]
+||= %%updated_at|%d.%m.%Y %% || %%title_linked%% ||
+[[/module]]
+[[/div]]
+[[/tab]]
+
+[[/tabview]]
+

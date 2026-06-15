@@ -1,0 +1,120 @@
+---
+title: "Меню слева"
+tags: []
+page_id: "13027819"
+site: "scientific-alliance"
+slug: "nav:side"
+revision: 36
+revision_id: "1034501366"
+author: 754405
+timestamp: 1580677228
+---
+
+[[div style="margin: -6px -16px -9px"]]
+[[tabview]]
+
+[[tab Основное]]
+[[div style="margin-left: 15px"]]
+
+[[div class="menu"]]
+[[[news|Новости]]]
+[[[forum:start|Форум]]]
+[[[history|Хроника]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[items|Список аномалий]]]
+[[[technology|Технологии]]]
+[[[projects|Научные проекты]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[synreality|Мироздание]]]
+[[[science|Науки]]]
+[[[lectures|Лекции]]]
+[[[documents|Документы]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[stories|Рассказы]]]
+[[[events|События]]]
+[[[visions|Видения]]]
+[[[timeline|Таймлайн]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[new-messages|Новые сообщения]]]
+[[[new-changes|Новые правки]]]
+[[[new-pages|Новые статьи]]]
+[[[new-all|Все обновления]]]
+[[/div]]
+
+-----
+
+[[div class="menu"]]
+[[[test-pages|Полигоны]]]
+[[[labs|Лаборатории]]]
+[[/div]]
+
+-----
+
+[[div style="width:95%"]]
+[[module TagCloud minFontSize="75%" maxFontSize="125%" maxColor="100,100,100" minColor="100,100,100" target="system:page-tags"]]
+[[/div]]
+
+[[[tags-list|Список и значения тегов]]]
+
+-----
+
+[[div class="menu"]]
+[[[admin:manage|Управление сайтом]]]
+[[[join|Присоединиться]]]
+[[[members|Наши участники]]]
+[http://sons-of-athena.wikidot.com Единомышленники]
+[[/div]]
+
+-----
+
+[[/div]][[/tab]]
+
+[[tab Остальное]]
+[[div style="margin-left: 15px"]]
+
+[НЕДОСТУПНО]
+
+[[/div]][[/tab]]
+
+[[/tabview]][[/div]]
+
+[[div class="down" style="color: #555"]]
+[[table]][[row]]
+
+[[cell style="padding: 0 45px 0 15px"]][[div class="show1"]]
+**Лицензия и так далее**[[/div]]
+
+[[div class="show2"]]
+Работает на [http://www.wikidot.com Викидоте] – вот глобальные [http://www.wikidot.com/legal:terms-of-service правила] и [http://www.wikidot.com/legal:privacy-policy политика конфиденциальности] хостинга, [http://www.wikidot.com/doc справка] с [http://feedback.wikidot.com техподдержкой] плюс всякое по мелочи.
+
+Пока не указано иное, всё, что здесь есть, распространяется по лицензии [http://creativecommons.org/licenses/by-sa/3.0 Creative Commons Attribution-ShareAlike 3.0 License] или вроде того.
+
+Все идеи, утащенные сюда из других мест, переработанные и использованные для развития сеттинга, считаются пасхалками или отсылками.
+
+Ежели хотите, можете смело использовать здешние наработки в своём творчестве, только не забудьте указать нас как источник, пожалуйста.
+
+С вопросами и прочим обращайтесь на [http://scientific-alliance.wikidot.com/forum:start форум] или к [[*user Mexanik]] – он наверняка ответит, а если сам не знает, то подскажет, у кого спросить.
+[[/div]][[/cell]]
+
+[[cell]]
+█ «» …[[span style="padding: 0 20px 0 10px"]]Ѫ Ϫ Ψ ϟ ℧ ε ← ↑ ↓ → ⇶ Ɵ ⇒ ⇑ ⇘ ⇗ §[[/span]]́ ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁻[[span style="padding: 0 20px"]]½ ⅓ ¼ ⅕ ⅙ ⅛ ⅔ ⅖ ¾ ⅜ ⅘ ⅚ ⅝ ⅞[[/span]]Σ √ ∛ ∜ ™ º ‰ π ≠ ± Ŧ ˅ ⥍ ∞ ᅠ[[span style="padding-left: 20px"]]Текст – #555[[/span]]
+[[/cell]]
+
+[[/row]][[/table]][[/div]]
+

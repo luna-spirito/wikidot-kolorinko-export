@@ -1,0 +1,39 @@
+---
+title: "Верхнее меню"
+tags: []
+page_id: "101172775"
+site: "obscurative"
+slug: "nav:top"
+revision: 122
+revision_id: "1198156441"
+author: 4518363
+timestamp: 1591688400
+---
+
+* Сайт
+ * [[[rating|Рейтинг статей]]]
+ * [[[recent-changes|Свежие правки]]]
+ * [[[users|Список участников]]]
+
+* Сообщество
+ * [[[forum:start|Форум]]]
+ * [[[forum:recent-posts|Новые сообщения]]]
+ * [[[chat|Discord чат]]]
+
+* Полигон
+ * [[[sandbox|Полигон]]]
+[[module ListUsers users="."]]
+ * [[[draft:%%name%% |Мой черновик]]]
+[[/module]]
+[[module ListUsers users="."]]
+ * [[[lab:%%number%% |Моя лаборатория]]]
+[[/module]]
+ * [[[drafts|Список черновиков]]]
+
+* Иное
+ * [[[system:page-tags|Облако тегов]]]
+ * [[[https://obscurative.ru/random_page/soa|Случайная статья]]]
+ * Похожие проекты:
+ * ◀ [[[http://patagon-laboratory.wikidot.com/ | Лаборатория Патагона]]]
+ * [[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]] ▶
+
