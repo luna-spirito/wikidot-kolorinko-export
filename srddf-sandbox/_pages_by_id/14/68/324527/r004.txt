@@ -1,0 +1,49 @@
+---
+title: "SRDDF Sandbox"
+tags: []
+page_id: "1468324527"
+site: "srddf-sandbox"
+slug: "blog:_start"
+revision: 4
+revision_id: "1542785759"
+author: 9720100
+timestamp: 1773931722
+---
+
+[[include :irongiant:clone]]
+
+[[div class="content-panel standalone centered unmargined" style="padding: 50px 50px 30px;"]]
+**[[size 120%]]To create a sandbox page, enter your desired page name below:[[/size]]**
+
+[[module NewPage size="30" button="Create Sandbox"]]
+[[/div]]
+
+----
+++ Tab
+
+To add tabs to your sandbox so you can have multiple drafts, use the following code:
+
+[[code]]
+[[tabview]]
+[[tab Title 1]]
+Text goes here. Pretend this is a draft.
+[[/tab]]
+[[tab Title 2]]
+More text in another tab! Let's add more tabs !
+[[/tab]]
+[[/tabview]]
+[[/code]]
+
+If done correctly, you should get something like this:
+
+
+[[tabview]]
+[[tab Title 1]]
+Text goes here. Pretend this is a draft.
+[[/tab]]
+[[tab Title 2]]
+More text in another tab! Let's add more tabs !
+[[/tab]]
+[[/tabview]]
+----
+
