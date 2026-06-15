@@ -1,0 +1,299 @@
+---
+title: "Top Rated New Pages"
+tags: ["information"]
+page_id: "94719543"
+site: "rpcauthority"
+slug: "top-rated-new-pages"
+revision: 43
+revision_id: "806664448"
+author: 3118961
+timestamp: 1556650495
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[div style="font-weight: bold; text-align: center; color: #006;"]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Top Pages
+[[/div]]
+------
+[[/div]]
+[[div style="font-size: 100%; font-weight: bold; text-align: center;"]]
+You can find the extended lists __[[[top-rated-extended|here]]]__.
+[[/div]]
+[[tabview]]
+[[tab Highest Rating]]
+[[=]]
++ __Highest Rated RPCs__
+**RPCs sorted by stars**
+[[/=]]
+[!-- HIGHEST RATED PER WEEK BLOCK --]
+
+[[div class="content-panel left-column standalone"style="font-size: 100%; font-weight: 550; text-align: left;"]]
+
+[[=]]
+++ **Last 7 Days**
+[[/=]]
+
+------
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" tags="rpc, rpc-j, -archived" votes=">=5" perPage="10" limit="10" order="rating desc" separate="false" created_at="last 7 days"]]
+# (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+
+[!-- HIGHEST RATED PER MONTH BLOCK --]
+
+[[div class="content-panel right-column standalone"style="font-size: 100%; font-weight: 550; text-align: left;"]]
+
+[[=]]
+++ **Last 30 Days**
+[[/=]]
+
+------
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" votes=">=10" tags="rpc, rpc-j, -archived" perPage="10" limit="10" order="rating desc" separate="false" created_at="last 30 days"]]
+# (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[!-- HIGHEST RATED OF ALL TIME BLOCK --]
+[[div style="font-size: 100%; font-weight: 550; text-align: left;"]]
+[[=]]
+++ **Highest Rated of All Time**
+[[/=]]
+
+------
+
+[[module ListPages category="-contest" votes=">=15" tags="rpc, rpc-j, -archived" perPage="50" limit="50" order="rating desc" separate="false"]]
+> # (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[!-- Dude there is a minifridge in my minifridge. who did this XDDDD --]
+[[/tab]]
+[[tab Most Popular]]
+[[=]]
++ __Most Popular RPCs__
+**RPCs sorted by total votes**
+[[/=]]
+[!-- POPULARITY PER WEEK BLOCK --]
+
+[[div class="content-panel left-column standalone"style="font-size: 100%; font-weight: 550; text-align: left;"]]
+
+[[=]]
+++ **Last 7 Days**
+[[/=]]
+
+------
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" perPage="10" limit="10" tags="rpc, rpc-j, -archived" rating=">0" order="votes desc" separate="false" created_at="last 7 days"]]
+# (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+
+[!-- POPULARITY PER MONTH BLOCK --]
+
+[[div class="content-panel right-column standalone"style="font-size: 100%; font-weight: 550; text-align: left;"]]
+
+[[=]]
+++ **Last 30 Days**
+[[/=]]
+
+------
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" perPage="10" limit="10" tags="rpc, rpc-j, -archived" rating=">0" order="votes desc" separate="false" created_at="last 30 days"]]
+# (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[!-- POPULARITY OF ALL TIME BLOCK --]
+[[div style="font-size: 100%; font-weight: 550; text-align: left; color: #fff;"]]
+[[=]]
+++ **Most Popular of All Time**
+[[/=]]
+
+------
+
+[[module ListPages category="-contest" perPage="50" limit="50" tags="rpc, rpc-j, -archived" rating=">0" order="votes desc" separate="false"]]
+> # (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+[[/div]]
+[[/tab]]
+[[tab Tales & Misc.]]
+
+
+[[div style="font-size: 100%; font-weight: 550; text-align: center;"]]
+@@@@
+@@@@
+[[collapsible show="Legacy Top Rated" hide="Hide Legacy Top Rated"]]
+[[=]]
++ __Legacy Top Rated__
+[[/=]]
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[div style="font-size: 100%; font-weight: 550; text-align: left;"]]
+[[=]]
+++ **This is a list of the 20 highest rated RPCs of all time before the new voting system was put in place.**
+[[/=]]
+> # [[[rpc-067|RPC-067]]] - "Middle Management"
+> # [[[rpc-666-j|RPC-666-J]]] - "Coldpost the Hedgehog"
+> # [[[rpc-548|RPC-548]]] - "The Hateful Star"
+> # [[[rpc-001-j|███-███-█]]] - "████"
+> # [[[rpc-010|RPC-010]]] - "Ms. Jackson's 3rd Grade Class"
+> # [[[rpc-000|RPC-000]]] - "RPC-000"
+> # [[[rpc-002|RPC-002]]] - "Quantum Revolver"
+> # [[[rpc-9001-j|RPC-9001-J]]] - "Containment Board"
+> # [[[rpc-7143-j|RPC-7143-J]]] - "An Attractive Piece of Hardware"
+> # [[[rpc-996|RPC-996]]] - "…And they never came back down."
+> # [[[rpc-020|RPC-020]]] - "It Came From Outer Space"
+> # [[[rpc-033|RPC-033]]] - "Strangle Loved Ones Or Pay Money"
+> # [[[rpc-007|RPC-007]]] - "Old Tree Joe"
+> # [[[rpc-005|RPC-005]]] - "Queen of the South Sea"
+> # [[[rpc-hand-j|RPC-✋-J]]] - "RPCaveman"
+> # [[[rpc-006|RPC-006]]] - "A Very Greedy Wallet"
+> # [[[rpc-044|RPC-044]]] - "All of the Above"
+> # [[[rpc-061|RPC-061]]] - "The Black Knight's Gauntlet"
+> # [[[rpc-888|RPC-888]]] - "A Spaceship Made of Cows" 
+> # [[[rpc-001-1|RPC-001-1]]] - "The Primordial Womb & The Stillborn God"
+[[=]]
+**This list was created to ensure the authors' efforts are not ruined by the system change.**
+[[/=]]
+[[/div]]
+[[/div]]
+------
+@@@@
+@@@@
+[[/collapsible]]
+@@@@
+@@@@
+[[/div]]
+[[div style="font-size: 100%; font-weight: 550; text-align: left;"]]
+[[=]]
+++ **Highest Rated Tales**
+[[/=]]
+
+[[module ListPages category="-contest" tags="tale" votes=">=5" perPage="10" limit="10" order="rating desc" separate="false"]]
+> # (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+
+
+[[div style="font-size: 100%; font-weight: 550; text-align: left;"]]
+[[=]]
+++ **Most Popular Tales**
+[[/=]]
+
+[[module ListPages category="-contest" perPage="20" limit="20" tags="tale" rating=">0" order="votes desc" separate="false"]]
+> # (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+
+------
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-size: 100%; font-weight: 550; text-align: left;"]]
+[[=]]
+++ **Highest Rated Other Pages**
+[[/=]]
+
+[[module ListPages category="-contest" tags="-rpc, -tale, -rpc-j" votes=">=5" perPage="10" limit="10" order="rating desc" separate="false"]]
+> # (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+
+
+[[div style="font-size: 100%; font-weight: 550; text-align: left;"]]
+[[=]]
+++ **Most Popular Other Pages**
+[[/=]]
+
+[[module ListPages category="-contest" perPage="20" limit="20" tags="-rpc, -tale, -rpc-j" rating=">0" order="votes desc" separate="false"]]
+> # (%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+
+[[/div]]
+[[/tab]]
+[[/tabview]]
+

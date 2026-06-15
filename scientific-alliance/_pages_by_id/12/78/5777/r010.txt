@@ -1,0 +1,107 @@
+---
+title: "Секретная страница"
+tags: []
+page_id: "12785777"
+site: "scientific-alliance"
+slug: "_easter-egg"
+revision: 10
+revision_id: "29243444"
+author: 1172670
+timestamp: 1331399321
+---
+
+Что? Где? Кто здесь? Кто пытается раскрыть коварные планы Андивионского Научного Альянса? Пока здесь, конечно, ничего нет, но...
+
+[[module ListUsers users="."]]
+Признайся, %%title%%, тебе же кто-то рассказал об этой страничке? =)
+[[/module]]
+
+[[image 1]] [[[_easter-egg|000]]] - Ровненько
+
+Я пока тут всякие плюшки тестировать буду, а потом что-то дельное запилим :3
+
+[!--
+[[html]]
+    <!-- hitnauk.ru , code for http://scientific-alliance.wikidot.com -->
+    <script type="text/javascript">java = "1.0";
+    java1 = "" + "refer=" + escape(document.referrer) + "&page=" + escape(window.location.href);
+    document.cookie = "astratop=1; path=/";
+    java1 += "&c=" + (document.cookie ? "yes" : "now");</script>
+    <script type="text/javascript1.1">java = "1.1";
+    java1 += "&java=" + (navigator.javaEnabled() ? "yes" : "now")</script>
+    <script type="text/javascript1.2">java = "1.2";
+    java1 += "&razresh=" + screen.width + 'x' + screen.height + "&cvet=" + (((navigator.appName.substring(0, 3) == "Mic")) ? screen.colorDepth : screen.pixelDepth)</script>
+    <script type="text/javascript1.3">java = "1.3"</script><a href="http://naturalclub.ru"><img border="0" src="http://naturalclub.ru/naturalclub.png"></a><script type="text/javascript">java1 += "&jscript=" + java + "&rand=" + Math.random();
+    document.write("<a href='http://scientific-alliance.wikidot.com/'><img " + " src='http://hitnauk.ru/img.php?id=123&" + java1 + "&' border='0' alt='hitnauk.ru' width='129' height='112'><\/a>");</script>
+   	<noscript><a href="http://scientific-alliance.wikidot.com/" target="_blank"><img src="http://hitnauk.ru/img.php?id=123" border="0" alt="hitnauk.ru" width="129"
+            height="112"></a></noscript>
+    <!-- /hitnauk.ru -->
+[[/html]]
+
+[[html]]
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=13007416&from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/13007416/3_0_FFFFFFFF_FFFFFFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:13007416,type:0,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+var yaParams = {/*Здесь параметры визита*/};
+</script>
+
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter13007416 = new Ya.Metrika({id:13007416, enableAll: true, webvisor:true,params:window.yaParams||{ }});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/13007416" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+[[/html]]
+
+[[html]]
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t23.12;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet-->
+[[/html]]
+
+[[html]]
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29779554-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+[[/html]]
+--]
+
+##black|[[[http://scientific-alliance.wikidot.com/|Ссылка]]]##
+[[span style="color:black]][[[http://scientific-alliance.wikidot.com/|Ссылка]]][[/span]]
+
+[[collapsible show="Открыть" hide="
+"]]
+Введите пароль:[[[_easter-egg| ]]][[[technology|Пароль]]]
+[[/collapsible]]
+
+[[image http://www.imageup.ru/img208/900833/bez-imeni-2.png]]
+

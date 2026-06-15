@@ -1,0 +1,73 @@
+---
+title: "Top Rated New Pages"
+tags: ["information"]
+page_id: "94719543"
+site: "rpcauthority"
+slug: "top-rated-new-pages"
+revision: 27
+revision_id: "247978789"
+author: 1315056
+timestamp: 1540224488
+---
+
+++ [[[legacy-top-rated|]]]
+
+[!-- RPC Block --]
+
+[[div class="feature-block"]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Top Rated RPCs of the Past Week
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages tags="rpc,rpc-j,tale,site,personnel" category="*" rating=">30" order="votes desc" separate="false" created_at="last 7 days"]]
+%%title_linked%% (+%%rating%%) %%rating_votes%%	
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!-- RPC Block --]
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+Top Rated RPCs This Month
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating=">35" tags="rpc,rpc-j,tale,site,personnel" category="*" order="votes desc" separate="false" date="2018.07"]]
+%%title_linked%% (+%%rating%%) %%rating_votes%%	
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+[!-- RPC Block --]
+
+[[div class="feature-block"]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Top Rated RPCs of All Time
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating=">=40" tags="rpc,rpc-j,tale,site,personnel" category="*" order="rating desc votes desc" separate="false" limit="30"]]
+%%title_linked%% (+%%rating%%) %%rating_votes%%	
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+[[/div]]
+

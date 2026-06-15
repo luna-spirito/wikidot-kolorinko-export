@@ -1,0 +1,39 @@
+---
+title: "Секретная страница"
+tags: []
+page_id: "12785777"
+site: "scientific-alliance"
+slug: "_easter-egg"
+revision: 4
+revision_id: "29179826"
+author: 1172670
+timestamp: 1331113503
+---
+
+Что? Где? Кто здесь? Кто пытается раскрыть коварные планы Андивионского Научного Альянса? Пока здесь, конечно, ничего нет, но...
+
+[[module ListUsers users="."]]
+Признайся, %%title%%, тебе же кто-то рассказал об этой страничке? =)
+[[/module]]
+
+[[image 1]] [[[_easter-egg|000]]] - Ровненько
+
+Я пока тут всякие плюшки тестировать буду, а потом что-то дельное запилим :3
+
+[[html]]
+    <!-- hitnauk.ru , code for http://scientific-alliance.wikidot.com -->
+    <script type="text/javascript">java = "1.0";
+    java1 = "" + "refer=" + escape(document.referrer) + "&page=" + escape(window.location.href);
+    document.cookie = "astratop=1; path=/";
+    java1 += "&c=" + (document.cookie ? "yes" : "now");</script>
+    <script type="text/javascript1.1">java = "1.1";
+    java1 += "&java=" + (navigator.javaEnabled() ? "yes" : "now")</script>
+    <script type="text/javascript1.2">java = "1.2";
+    java1 += "&razresh=" + screen.width + 'x' + screen.height + "&cvet=" + (((navigator.appName.substring(0, 3) == "Mic")) ? screen.colorDepth : screen.pixelDepth)</script>
+    <script type="text/javascript1.3">java = "1.3"</script><a href="http://naturalclub.ru"><img border="0" src="http://naturalclub.ru/naturalclub.png"></a><script type="text/javascript">java1 += "&jscript=" + java + "&rand=" + Math.random();
+    document.write("<a href='http://scientific-alliance.wikidot.com/'><img " + " src='http://hitnauk.ru/img.php?id=123&" + java1 + "&' border='0' alt='hitnauk.ru' width='129' height='112'><\/a>");</script>
+   	<noscript><a href="http://scientific-alliance.wikidot.com/" target="_blank"><img src="http://hitnauk.ru/img.php?id=123" border="0" alt="hitnauk.ru" width="129"
+            height="112"></a></noscript>
+    <!-- /hitnauk.ru -->
+[[/html]]
+

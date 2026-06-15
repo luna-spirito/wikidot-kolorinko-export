@@ -1,0 +1,419 @@
+---
+title: "Top Rated New Pages"
+tags: ["information"]
+page_id: "94719543"
+site: "rpcauthority"
+slug: "top-rated-new-pages"
+revision: 93
+revision_id: "1364847815"
+author: 3118961
+timestamp: 1620018748
+---
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+
+.allTime ol li span {
+    color: var(--text-color);
+}
+
+table.rating {
+     counter-reset: line-number;
+}
+
+table.rating .counter:before {
+    content: counter(line-number) ".";
+    counter-increment: line-number;
+    padding-right: 1em;
+    color: #666;
+    font-size: 85%;
+}
+
+table.rating td.blockEnd {
+    padding-right: 1.5em;
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Top Pages
+[[/div]]
+
+[[=]]
+You can find the extended lists [[[top-rated-extended|here]]].
+Note: Ratings may be skewed by invalid votes.
+[[/=]]
+
+[[div class="content-panel"]]
+**Display ratings for:**
+
+» [[[top-rated-new-pages|All Articles]]] (Default)
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/rpc,rpc-j RPCs & RPC-Js]
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/tale,document/votes/>=20 Tales & Docs]
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/rpc,rpc-j,tale,document,alternative-content/votes/>=0 All Articles & Alternative Content]
+
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/rpc RPCs]
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/tale/votes/>=20 Tales]
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/document/votes/>=20 Documents]
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/rpc-j RPC-Js]
+» [http://rpcauthority.wikidot.com/top-rated-new-pages/tags/alternative-content/votes/>=0 Alternative Content]
+[[/div]]
+
+[[tabview]]
+[[tab Highest Rating]]
+
+[[=]]
+**Articles sorted by stars**
+[[/=]]
+
+[[div class="content-panel left-column"]]
+
+[[=]]
+++ Last 7 Days
+[[/=]]
+
+----
+
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" tags="@URL|rpc rpc-j tale document" perPage="20" limit="20" votes=">2" order="rating desc" separate="false" created_at="last 7 days"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+
+[[=]]
+++ **Last 30 Days**
+[[/=]]
+
+----
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" tags="@URL|rpc rpc-j tale document" perPage="20" votes=">4" limit="20" order="rating desc" separate="false" created_at="last 30 days"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[=]]
+++ Highest Rated of All Time
+[[/=]]
+
+[[div class="content-panel dark"]]
+[[module ListPages category="-contest" votes="@URL|>=25" tags="@URL|rpc rpc-j tale document" perPage="50" limit="50" order="rating desc" separate="false"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+
+~~~~
+
+[[/tab]]
+[[tab Most Popular]]
+[[=]]
+**Articles sorted by total votes**
+[[/=]]
+
+[[div class="content-panel left-column"]]
+
+[[=]]
+++ Last 7 Days
+[[/=]]
+
+----
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" perPage="20" limit="20" tags="@URL|rpc rpc-j tale document" rating=">0" order="votes desc" separate="false" created_at="last 7 days"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+
+[[=]]
+++ Last 30 Days
+[[/=]]
+
+----
+
+[[div style="margin-left: 0px; margin-right: 20px;"]]
+[[module ListPages category="-contest" perPage="20" limit="20" tags="@URL|rpc rpc-j tale document" rating=">0" order="votes desc" separate="false" created_at="last 30 days"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[=]]
+++ Most Popular of All Time
+[[/=]]
+
+[[div class="content-panel dark"]]
+[[module ListPages category="-contest" perPage="50" limit="50" tags="@URL|rpc rpc-j tale document" rating=">0" order="votes desc" separate="false"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+[[/tab]]
+
+[[tab Underrated Content]]
+[[=]]
+**Articles sorted by fewest votes**
+[[/=]]
+
+[[div class="content-panel dark"]]
+[[module ListPages category="-contest" tags="@URL|rpc rpc-j tale document" perPage="50" limit="50" order="votes" separate="false"]]
+[[head]]
+[[table class="rating"]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell class="counter"]]
+[[/cell]]
+[[cell]]
+%%rating_decimal%%
+[[/cell]]
+[[cell]]
+[[image http://rpcauthority.wikidot.com/common--images/jquery-raty/star-on.png]]
+[[/cell]]
+[[cell]]
+##666|-##
+[[/cell]]
+[[cell class="blockEnd"]]
+%%rating_votes%%
+[[/cell]]
+[[cell]]
+**%%title_linked%%**
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+
+~~~~
+
+[[/tab]]
+[[/tabview]]
+
+~~~~
+
+[[collapsible show="+ Legacy Top Rated" hide="- Legacy Top Rated"]]
+[[=]]
+
+This is a list of the 20 highest rated articles before the voting system was changed in August 2018 from upvote/downvote to 5 star, clearing all previous ratings in the process. This list was created to ensure the authors' efforts are not diminished by the system change.
+
+[[<]]
+> # **[[[rpc-067|RPC-067]]]** - "Middle Management"
+> # **[[[rpc-666-j|RPC-666-J]]]** - "Coldpost the Hedgehog"
+> # **[[[rpc-548|RPC-548]]]** - "The Hateful Star"
+> # **[[[rpc-001-j|███-███-█]]]** - "████"
+> # **[[[rpc-010|RPC-010]]]** - "Ms. Jackson's 3rd Grade Class"
+> # **[[[rpc-000|RPC-000]]]** - "RPC-000"
+> # **[[[rpc-002|RPC-002]]]** - "Quantum Revolver"
+> # **[[[rpc-9001-j|RPC-9001-J]]]** - "Containment Board"
+> # **[[[rpc-7143-j|RPC-7143-J]]]** - "An Attractive Piece of Hardware"
+> # **[[[rpc-996|RPC-996]]]** - "…And they never came back down."
+> # **[[[rpc-020|RPC-020]]]** - "It Came From Outer Space"
+> # **[[[rpc-033|RPC-033]]]** - "Strangle Loved Ones Or Pay Money"
+> # **[[[rpc-007|RPC-007]]]** - "Old Tree Joe"
+> # **[[[rpc-005|RPC-005]]]** - "Queen of the South Sea"
+> # ##666|**RPC-✋-J** (Deleted)## - "RPCaveman"
+> # **[[[rpc-006|RPC-006]]]** - "A Very Greedy Wallet"
+> # **[[[rpc-044|RPC-044]]]** - "All of the Above"
+> # **[[[rpc-061|RPC-061]]]** - "The Black Knight's Gauntlet"
+> # **[[[rpc-888|RPC-888]]]** - "A Spaceship Made of Cows" 
+> # **[[[rpc-001-1|RPC-001-1]]]** - "The Primordial Womb & The Stillborn God"
+[[/<]]
+[[/=]]
+[[/collapsible]]
+
