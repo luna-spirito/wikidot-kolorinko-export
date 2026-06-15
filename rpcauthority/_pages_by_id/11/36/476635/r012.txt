@@ -1,0 +1,181 @@
+---
+title: "RPC-403"
+tags: ["auditory-hazard", "explosive-hazard", "gear", "organic-hazard", "research-tone", "rpc", "teleportation-hazard", "visual-hazard", "yellow"]
+page_id: "1136476635"
+site: "rpcauthority"
+slug: "rpc-403"
+revision: 12
+revision_id: "1518004796"
+author: 5982545
+timestamp: 1707010315
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Ever Silence[[/span]]
+
+[[module css]]
+@import url(/component:research-theme/code/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/other-yellow.png]]
+
+**Registered Phenomena Code:** 403
+
+**Item Type:** Other (Geonome)
+
+**Lethality Rating:** Yellow 
+
+**Hazard Types:** Explosive, Auditory, Sensory, Organic, Visual, Teleportation
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/rpc-403/403.jpg|caption= Several instances of [https://commons.wikimedia.org/wiki/File:Picea_abies_cones_Muffet.jpg RPC-403-1] on an RPC-403 affected tree. | width=300]]
+
+**Abstract:** Plants affected by the RPC-403 mutation will produce pine cones that are highly flammable and will burn violently if exposed to high heat. This burning causes a complete sensory hallucination that makes observers perceive that the pine cone detonated in a large explosion. --The application of research from this anomaly could be directly used for the development of safer training equipment for Protection Division assets.-- Research for applications has been indefinitely suspended following Experiment 403/07.
+
+**Safe Handling and Usage:** All Researchers are expected to be trained and familiar with basic and intermediate explosive hazard safety. Experiments involving the ignition of RPC-403-1 instances is to occur in the Site-010 bomb range. DNA strands containing RPC-403 itself are considered safe and can be handled like any other genetic material. 
+
+**Description:** RPC-403 is the designation of an anomalous genome of the Spruce species of the genus Picea which causes the pine cones produced by the tree to develop explosive properties. The only noticeable differences between RPC-403 affected trees and non-anomalous trees are the pine cone produced by the trees, designated as RPC-403-1.  
+
+RPC-403-1 instances contain an organic structure greatly reminiscent of a fuse that is typically located on the interior of the pine cone. RPC-403-1 can be ignited by exposing the "fuse" to either a flame or object of equivalently high temperature. Ignited RPC-403-1 instances will burn at temperatures exceeding 1500^^o^^C for a period of time ranging from 2 to 7 seconds. 
+
+When an instance of RPC-403-1 ignites, any subjects witnessing the ignition will experience a complete sensory hallucination. This hallucination causes the subject to perceive that the ignition of the RPC-403-1 instance caused an explosion approximately equivalent to 100kg of TNT. However, subjects will not hallucinate damage being done to the environment by the RPC-403-1 instance. 
+
+If there are any human subjects is within a 5m radius of an RPC-403-1 detonation, they will not perceive the aforementioned hallucinations. Instead, the RPC-403-1 instance will be vaporized and the subject will be instantaneously transported to a location designated as RPC-403-2. The violent nature of this self-vaporization by the RPC-403-1 instance will produce a shockwave equivalent to that approximately created by 1kg of TNT. 
+
+RCP-403-2 is an empty concrete room located in the uppermost basement level of a foreclosed industrial property previously belonging to the [http://rpcauthority.wikidot.com/gear-hub Global Enterprise for Advanced Research]. This facility in and of itself possesses no anomalous properties. The level of the facility that RPC-403-2 is located on has been determined to have been a botanical experimentation lab.  
+
+-----
+[[=]]
++ **Addendum:** 
+[[/=]]
+
+Exploration of the facility in which RPC-403-2 by MST X-Ray-8 ("Lab Rats") found that the facility possessed no anomalous properties of its own. Additionally, no anomalous objects or materials were located within the facility. However, various documents were recovered from inside the facility, one of which is believed to have directly pertained to the creation of RPC-403. This file has been attached below.
+
+[[div style="color:black;background-color: white; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/GEAR_Logo_border.png width="50px" height="50px" ]]
+[[=]]
+++ Advanced Research/Development Log: A-721
+[[/=]]
++++ **Written Report:**
+Due to A-721 already making the pine cone produced by affected trees highly flammable, the Facility Manager decided that the most profitable avenue would be the modification of  A-721 to make in such that the pine cones it produced were cheap and safe explosives. As A-721 already possessed the ability to have its effects on the tree universally modified via Thaumaturgic[[footnote]]A field of Keballics that makes use of either a powerful entity or natural phenomena as a means of shortcutting spell casting.[[/footnote]] designation, we decided that utilizing this back door was the best means of approaching this task. 
+
+First, we started by defining an explosive yield of 100kg of TNT via Thaumaturgy (A-721/1). Doing so required significant resources and required extensive studies of actual 100kg detonations of TNT. Secondly, we defined a being in a close radius of the A-721 affected pine cone (A-721/2), which was considerably easier. Thirdly, we defined a location in which a subject would be teleported (A-721/3). 
+
+Following the creation of the individual elements, we combined A-721/2 with A-721/3. This combination was done in a modified [If >> Then] logic connector. The modification we used had a recursive definition for the subject so they would be detected by A-721/2 and be considered the same subject that would be teleported by A-721/3. 
+
+After all of the preparations, we then combined the definition of A-721 pine cone combusting with A-721/1. This process needed to be taken extremely cautiously so we didn't accidentally define the A-721 pine cone to explode multiple times.  
+ 
++++ **Conclusion:**
+Due to the caution that we took with A-721/1, the resulting explosion caused by the A-721 pine cone is completely hallucinatory. Additionally, an unfortunately false understanding of how the already existing properties of A-721 manifest resulted in A-721 becoming unsalvageably altered. 
+
+
++++ **Verdict: ##red|Failure##**
+@@@@
+[[/div]]
+-----
+[[=]]
++ **Testing Logs:**
+[[/=]]
+
+[[div style="border: solid 3px; padding: 15px;"]]
+[[table style="border-bottom: solid 3px; width: 100%; padding: 15px;"]]
+[[row]]
+[[cell rowspan="4"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aresearch-theme/Research-logo.png]]
+[[/cell]]
+[[hcell colspan="2"]]
+++ Anomaly Experimentation Team Official Test Log
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Location:** Site-010, Bomb Range
+[[/cell]]
+[[cell]]
+**Date:** [Data Classified]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Test Subject(s):** 3 RPC-403-1 instances
+[[/cell]]
+[[cell]]
+**Classification level:** 2
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell colspan="2"]]
+**Researchers:** Senior Researcher Dr. Scriber and 2 other researchers.
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[=]]
++ Experiment 403/07
+[[/=]]
+
+**Purpose:** To determine if igniting multiple RPC-403-1 instances will cause the hallucinatory explosion increase in intensity. 
+
+**Data:** While the third RPC-403-1 instance was being transported to the bomb range all three instances spontaneously ignited. As the entirety of the personnel within 5m of the RPC-403-1 instances at the time of ignition disappeared, it was assumed that they had been subjected to the teleportation effects of RPC-403. 
+
+However, personnel on location at RPC-403-2 did not report that any of the personnel who had disappeared appeared at RPC-403-2. Communications between Site-010 staff and the RPC-403-2 security team continued until Ryan Jones, a Maintenance Union personnel assigned to clean the Site-010 bomb range before the experiment, appeared at RPC-403-2. //See addendum for the corresponding interview log.//
+
+1 week following this incident no other personnel teleported by RPC-403 during this experiment had reappeared. As such all of the missing personnel were determined to have been KIA. 
+
+**Addendum:** Interview Log 
+
+> **Interviewed:** Ryan Jones, Maintenance Union, Janitor
+> 
+> **Interviewer:** Nicholas Krum, Authority Security Force, Security Officer
+> 
+> **Foreword:** The following interview was conducted immediately after Ryan was recovered from RPC-403-2.
+> 
+> **<Begin Log>**
+> 
+> **Krum:** Right, let me start off by asking if you knew how the pine cones exploded? 
+>  
+> **Jones:** No, I was not looking at the pine cones when... fuck, it was more like I was sweeping the dirt and then suddenly I was in purgatory. 
+>  
+> **Krum:** Do you mind elaborating?
+> 
+> **Jones:** Well, the researchers wanted me to keep the place-
+> 
+> **Krum:** I meant I wanted you to elaborate on what you mean by transported to purgatory.
+> 
+> **Jones:** Right, that was silly of me. I'm just kinda stressed is all. 
+> 
+> **Krum:** Feel free to go at your own pace. 
+> 
+> **Jones:** So after what you said, which I can only assume was the catalyst for... whatever happened next. I found myself in the middle of... I think it was a forest. But it was hard to tell. Like everything there was black and white, as in those were the only colors there. Looking at myself I still had my colours, but nothing else did. It was a pine forest with the wood being black and the pines being white. Everything else was something in between those two extremes, except for the sky...
+> 
+> **Jones:** Nothing I did there made any sound. Like sound wasn't a concept that existed there. At one point I tried to scream but only silence came out. I could feel the air going out of me, but there was no noise. Let me get back to the sky for second as it simply didn't exist. I don't mean that it was a black sky, I mean that there was no sky. So if you would look up you would see nothing. 
+> 
+> **Jones:** Needless to say I never looked up. 
+> 
+> **Krum:** So how did you get back here?
+> 
+> **Jones:** I was walking through a clearing when I walked into a door just out of nowhere. Thinking things can't get any worse I opened the door and went through.
+> 
+> **Krum:** Is that when you appeared in RPC-403-2?
+> 
+> **Jones:** No, but I don't remember what happened between me turning the handle and appearing here. 
+> 
+> **Krum:** Alright, that'll be it for now. Thank you for your cooperation. 
+> 
+> **Jones:** You're welcome. 
+> 
+> **<End Log>**
+> 
+> **Closing Statement:** Following this interview, a solution of carbon dissolved in water began to extrude from Jones' pores. This unknown effect prompted Security to put Jones under quarantine. Approximately two hours after Jones was placed on quarantine, personnel sent to ensure Jone's presence discovered that the subject had been deceased. Inspection of the corpse showed that various silicon crystals had grown from the subject's skin and perforated all of his internal organs. 
+
+**Conclusion:** All further testing involving RPC-403's teleportation properties have been indefinitely suspended. Additionally, RPC-403 has been prohibited from any and all official anomalous applications. 
+[[/div]]
+
+
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-402]]] | RPC-403 | [[[RPC-404]]] >> 
+[[/=]]
+

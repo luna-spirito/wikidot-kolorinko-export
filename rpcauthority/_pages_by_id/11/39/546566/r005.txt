@@ -1,0 +1,125 @@
+---
+title: "Alternate Realities"
+tags: ["hub", "information", "lore"]
+page_id: "1139546566"
+site: "rpcauthority"
+slug: "alternate-realities"
+revision: 5
+revision_id: "1523254101"
+author: 5982545
+timestamp: 1722111863
+---
+
+[[module css]]
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777; 
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #29292f;
+    --WT-v7: var(--primary-background);
+}
+
+.textBlock {
+    background-color: var(--primary-background);
+    border: var(--basic-border); 
+    margin: 5px 0; 
+    padding: 14px 24px; 
+}
+
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; border: solid 2px #000; border-radius: 10px; margin: 0 auto; padding: 10px 30px; background: var(--v7);"]]
+
+[[div style="line-height: normal; text-align: center; font-size: 250%; font-weight: bold;"]]
+{{Alternate Reality}}
+{{Information Database}}
+[[/div]]
+
+----
+
+[[size 112%]]
+**Overview:** There are numerous alternate universes which the Authority has knowledge of. Many of these realities branch from our own, resulting in alternate timelines of events. Others form and exist separately to baseline reality, often producing incoherent and dangerous worlds. 
+
+Despite extensive research by the Authority, the exact mechanics of the multiverse remain a mystery; the total number of realities is unknown and may be infinite. However, the Authority has made several advancements in the study of alternate realities. Reality Signatures[[footnote]]The unique combination of energy levels and background radiation that permits the identification of a particular level or iteration of spacetime.[[/footnote]] allow for the identification of specific realities. 
+
+Each AR is designated a unique, four-digit alphanumeric code. Baseline reality is simply referred to as "baseline" or "baseline reality."
+[[/size]]
+
+* [[[Canon Policy]]]
+[[/div]]
+
+[[div class="textBlock"]]
++ Reality Code
+[[collapsible]]
+||||~ Affiliations||
+||##var(--v5)|Significant Interference##|| The reality has made catastrophic or frequent interaction with baseline reality.||
+||##var(--v3)|Minor Interference##||The reality has only made minor and infrequent direct interaction with baseline reality.||
+||##var(--v6)|Observational##||The Authority has observed or possesses knowledge of the reality but has not made direct interaction.||
+
+||||~ Attributes||
+||Alternate Timeline||An AR that branches directly from baseline and thus shares a dimension of time.||
+||Stable||The AR consists of stable space with coherent fundamental laws.||
+||Unstable||The AR exists in an unreliable or unstable form.||
+||Precarious||The AR exists in a dangerously unstable form. Fundamental laws are inconsistent or may collapse.||
+||Chaotic||The AR is intangible to our own universe with incoherent or intelligible fundamental laws.||
+||Pocket||A reality comprised of a very small or limited space, usually localized to a region of baseline reality.||
+[[/collapsible]]
+[[/div]]
+
+[[# rcpa]]
+[[div class="textBlock"]]
+
++ [[[rcpa-hub|The RCPA Reality]]] (ALTR-XRR9)
+
+++ ##var(--v5)|Significant Interference## 
+
+* Alternate Timeline
+* Unstable
+
+[[f>image http://www.rpc-wiki.net/local--files/component:rcpa-theme/rcpa-logo-small.png width="150px"]]
+
+**Overview:** The RCPA Reality—named after its ruling body known as the Righteous Centralized Protection Authority—is an alternate timeline that split from baseline reality at an unknown date before the beginning of World War II. The RCPA, which has seized control of its world, makes liberal use of anomalous phenomena to a disruptive point, often causing the destabilizing of their reality. Because of this, the group has made numerous attempts to acquire holding of our world as a means of stabilizing their own.
+
+The RCPA's use of anomalies in its police and military has rendered its reality irreversibly different from our own. Swathes of land in China, America and Europe have become infested or destroyed with anomalies to the point of being desolate and unlivable; China has been rendered almost entirely uninhabitable due to constant warring between Chinese rebels and the RCPA.
+[[/div]]
+
+[[# remnants]]
+[[div class="textBlock whiteThemeInvert"]]
+
++ [[[remnants-hub|The Remnants Timeline]]] (ALTR-D2AJ)
+
+++ ##var(--v5)|Significant Interference## 
+
+* Alternate Timeline
+* Precarious
+
+[[f>image http://www.rpc-wiki.net/local--files/groups-of-interest/remnants.png width="150px"]]
+
+**Overview:** The Remnants is an alternate timeline where a universe-wide calamity (named the ALPHA-Trigger) occurred, generating massive amounts of new anomalies and destroying organized civilization on Earth. Facing widespread containment breaches of catastrophic levels, the Authority chain of command dissolved, leaving only fractured factions to continue their work.
+
+Civilians were evacuated in large numbers through portal technology, entering baseline reality. A number of anomalies from the Remnants world were able to travel through these portals as well, yet very little is known about the current state of the Remnants Timeline. 
+
+[[/div]]
+
+[[div class="content-box"]]
+[[footnoteblock]]
+[[/div]]
+

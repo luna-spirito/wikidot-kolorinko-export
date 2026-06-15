@@ -1,0 +1,374 @@
+---
+title: "DrXouble D’s (The Planet)"
+tags: ["trh"]
+page_id: "1070533553"
+site: "rpcauthority"
+slug: "contest:trhcontestdrxoubled"
+revision: 8
+revision_id: "1517004296"
+author: 5982545
+timestamp: 1703604996
+---
+
+[[include component:contest-entry]]
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[module CSS]]
+:root {
+    --v1: red;
+    --WT-v1: #b91f1f;
+
+    --v2: #ff3434;
+    --WT-v2: #b91f1f;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Tinos:400,700');
+
+@media (min-width: 769px) {
+blockquote {
+   margin: 10px;
+}
+}
+
+.red .collapsible-block-link, .red .foldable-list-container a {
+    color: var(--v2);
+}
+
+li.folded .foldable-list-container a {
+    animation: blink 0.7s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+    0% { color: transparent; }
+    100% { color: var(--v2); }
+}
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[=]]
+[[div id="warningthing" style="background: url(http://rpcauthority.wikidot.com/local--files/rpc-183/RPC_3_1)             center no-repeat; float: center; background-color: light grey; border: 5px solid black; margin-top: 20px;"]]
+[[div id="warningheader" style="padding-top: 10px;"]]
+
+
+**ACCESS TO THIS DOCUMENT IS RESTRICTED TO NON-BLACK SITE PERSONNEL
+ THE PERSONNEL VIEWING THIS FILE DOES NOT HAVE PROPER CLEARANCE
+PLEASE REVERT FROM READING THE FOLLOWING FILES AND AWAIT FOR YOU LOCAL BLACK SITE PERSONNEL TO ADMINISTER AMNESTIC PROTOCOL 052**
+[[/div]]
+[[div id="warningtext" style="padding-top: 10px; padding-bottom: 10px; text-align: center;"]]
+
+[[/div]]
+[[/div]]
+[[/=]]
+
+[[tabview]]
+[[tab Outdated 052 File]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/beta-white.png]]
+
+**Registered Phenomena Code:** 052
+
+**Object Class:** --Beta-White-- Beta-[PENDING REVIEW]
+
+**Hazard Types:** Extra-Terrestrial Hazard
+
+**Containment Protocols:** RPC-052 is currently uncontainable. Efforts are to be taken to hide RPC-052 from the non-anomalous scientific community. Authority Satellite Odin-V, currently located in ████ █████, has been assigned for the monitoring of RPC-052. The AEDFS //Farsight// has been assigned to repair, modify, and study data recovered from Odin-V. 
+
+Information recovered from Odin-V is to be transmitted to the moon in enclosed systems to Site-019. All information regarding RPC-052 is to be stored within Site-019’s Deep Information Well.
+
+**Description:** RPC-052 is an interstellar planet located ██ lightyears away from Earth discovered during the 20th century by Authority astronomers John ██████ and Amanda ███. RPC-052 orbits ███ █████, a blue giant star. Currently, RPC-052’s anomalous effects only seem to affect RPC-XXX and a small volume of space surrounding the planet. No anomalous phenomena has been observed within RPC-052’s system.
+
+RPC-052 is a highly anomalous planet that exhibits various anomalous phenomena. RPC-052 is theorized to have continents and oceans, but due to the planets highly anomalous nature continents and oceans have been to change in size, shape, and composition. Spectrographic analysis of RPC-052 has shown major changes over the course of its study.
+
+Data recovered by Odin-V’s modified Anderson-Eckhardt Coherency Readers show that the ACS of RPC-052 and the nearby space around it goes under constant flux. On one occasion, the ACS of RPC-052 reached 0.00001 which resulted in [DATA EXPUNGED]. On average RPC-052 fluxes anywhere between an ACS-1 and an ACS-4.
+
+Various types of spatial and gravitational anomalies have been observed to manifest around RPC-052 which causes the planet to speed up or slow down its orbit around its star. Occasionally, astronomical bodies of different shapes and sizes will occasionally orbit RPC-052. Authority researchers theorize that these astronomical bodies are just RPC-052’s moon or moons under the effects of RPC-052.
+
+Currently, plans to send an extrasolar satellite to RPC-052 are currently being devised. A joint NuCorp operation for the creation of micro satellites powered via the SoARn Laser Installation Control Facility are currently being planned. The micro satellites would theoretically be able to travel ██% the speed of light and arrive at RPC-052 within ██ years. The Authority has funded NuCorp with 75,000,000 USD as well as thirty Authority engineers, mathematicians, and physicists to aid the organization. The operation’s current roadmap expects the satellites to launch by January 21st, 2021.
+
+------
+
+**Addendum 052.A:** Observation Log A
+On 01/01/████, Odin-V captured the complete transmutation of the elements that compose RPC-052’s atmosphere and land masses into various singular elements composing the planet. The phenomenon was first observed during a spectrographic observation of the planet. During a routine spectrographic observation of RPC-052, the spectrographic equipment onboard Odin-V detected multiple shifts in the emission spectrum of the entire planet over the course of three months. Reviewing the data collected by the crew of the AEDFS //Farsight//, it was confirmed that the elements composing the planet were transmuting into a singular element over a course of time. Below is a document recording each element over the course of three weeks.
+
+[[collapsible show="+Elements Log File" hide="- File Accessed"]]
+> **Foreword:** The following is a list of elements witnessed during these shifts of RPC-052’s elements.
+> 
+> **Department(s) Involved:**  [[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Chemistry.png style="filter: invert(1); width: 7%;"]][[footnote]] The Chemistry Department. [[/footnote]] 
+> 
+> **Document By:** Dr. Timothy (Head Chemist onboard the AEDFS Farsight)
+> 
+> **Date:** ██/██/████
+> 
+> ------
+> 
+> **<Begin Log>**
+> 
+> **January 1st ████ (00:00:00:00):** Iodine (I)
+> **Note:** N/A
+> 
+> **January 17th ████ (17:00:12:36):** Sulfur (S)
+> **Note:** //Through the use of Odin-V’s telescope we were able to note a unique property of the sulfur making up RPC-052. We believe that the sulfur was purely in a gaseous state.// - Dr. Timothy 
+> 
+> **January 29th ████ (29:12:45:09):** Elygen (E)
+> **Note:** //See the Document(s): Alchemical Elements & Where To Find Them by Elliot French and the Authority's Extended Table Of Periodic Elements.//
+> 
+> **February 1st ████ (32:09:21:12):** E████ (Es)
+> **Note:** //See the RPC-████ file.//
+> 
+> **February 15th ████ (46:17:27:49):** Yttrium (Y) 
+> **Note:** N/A.
+> 
+> **February 28th ████ (59:55:45:40):** Oxygen (O)
+> **Note:** //The oxygen appears to be in a solid state.// - Dr. Timothy 
+> 
+> **March 5th ████ (64:00:00:00):** Uranium (U)
+> **Note:** //The Uranium appears to be in a liquid form. This is unique as liquid uranium is only possible between 1,135 degrees C and 4,130 degrees C, but thermal observation of the planet shows that it’s surface temperature is 392 degrees C. This planet is a true anomaly.// - Dr. Timothy
+> 
+> **<End Log>**
+
+[[/collapsible]]
+
+On 03/25/████, RPC-052 shifted and regained multiple elements that commonly compose RPC-052. The observed phenomenon has been designated as  “RPC-052’s Mass Elemental Shift”. Currently, no RPC-052’s Mass Elemental Shifts have been observe.
+
+------
+
+**Addendum 052.B:** Incident 052 A
+On 03/25/████, a signal was detected by multiple Authority and non-Authority facilities originating from RPC-052. This caused the Authority’s biggest use of Class A-1[[footnote]] Class A-1 Amnestics cause complete loss of all memories formed in the previous 2 to 6 hours. This grade is very stable. Chance of unintended side-effects are virtually negligible, except in rare circumstances. [[/footnote]] amnestics for that year. The signal was discovered to contain the audio of three unknown entities speaking in English. Below is a recording of the audio.
+
+[[collapsible show="+Audio Log File" hide="- File Accessed"]]
+> **<Begin Log>**
+> 
+> **Entity #1:** What is this language I speak? It is not my own.
+> 
+> **Entity #2:** You speak because an audience listens.
+> 
+> **Entity #3:** You speak because I want you to speak.
+> 
+> **Entity #1:** I have no form. How do I speak?
+> 
+> **Entity #2:** You have no form because it does not matter.
+> 
+> **Entity #3:** You have no form because I desire it.
+> 
+> **Entity #1:** I hear your voices. Where are you? All I see is a plain of chaos and a peaceful night.
+> 
+> **Entity #2:** You do not see me because I am within you.
+> 
+> **Entity #3:** You see me for I am the plain you stand on.
+> 
+> **Entity #1:** Where are my emotions? Why am I calm? I should be dead?
+> 
+> **Entity #2:** Your emotions are unnecessary for your purpose now is new.
+> 
+> **Entity #3:** All that see me will not die.
+> 
+> **Entity #1:** Then what is my purpose?
+> 
+> **Entity #2 & Entity #3:** Observe.
+> 
+> **<End Log>**
+
+[[/collapsible]]
+
+After receiving the signal, Authority personnel have come up with many hypotheses. The most popular hypothesis is that the audio depicts RPC-052 achieving sapience.
+
+**Addendum 052.C:** Incident 052 B
+On 11/21/████, the life monitoring systems onboard the AEDFS //Farsight// reported no life signals onboard the craft. One (1) hour after the loss of life onboard the Farsight, the craft registered damage across itself originating internally. On 09/17/████, the crew of the AEDFS //Alabaster// arrived at the location of the AEDFS //Farsigh//t to investigate the ship. Multiple holes were found in different sections of the ship. Investigation of Odin-V revealed major damage to the satellites mainframe. The crew of the AEDFS //Alabaster// also found multiple hard leather books floating around the AEDFS //Farsight// and Odin-V. Twelve books were discovered by the crew of the //Alabaster//. Each book contained the name of a crew member of the AEDFS //Farsight//. The books were collected and are currently being studied for any anomalous properties.
+
+**Addendum 052.D: Incident 052 C
+On 12/01/████, Dr. John ██████ and Amanda ███ were reported missing by colleagues and family members. An investigation was launched and Authority agents were sent to their homes. Agents sent to Dr. Amanda ███’s household discovered it burned down. The corpse of Dr. Amanda  ███’s husband and daughter were found with the lateral of their bodies missing. The corpse of Dr. Amanda ███ has yet to be found. 
+
+Agents sent to Dr. John ██████’s household discovered a crater measuring 4 m^^2^^. The agents discovered a hard leather bound book in the center of the crater. The book was taken to Site-███ and designated RPC-052-A-01. Excerpts of the book may be found below.
+
+[[collapsible show="+ 052-A File" hide="- File Accessed"]]
+> **Item 052-A #:** 001
+> 
+> **Title:** Philosophical Zombies 
+> 
+> **# of Pages:** 106
+> 
+> **# of Pages Expunged:** 105
+> 
+> **Reason for Expungement:** Brevity, Personal Data[[footnote]] Information within the media contains information that is private to the individual. [[/footnote]], Sensitive Data[[footnote]] Information within the media contains information related to Authority projects or works above the viewers classification level. [[/footnote]], Ideological Hazard 
+> 
+> ------
+> 
+> I was never meant to die, but I knew about the Impossible Thing and it took me. It will take all who know. It makes all into Philosophical Zombies. I believe that is what I am now. I’m an entity with no free will of my own. I’m a soul trapped in an unresponsive body. I’ve been walking for what seems like years through void filled rivers and burning seas only for only one purpose. What that purpose is will not reveal itself until I arrive wherever I am forced to go. Though I’ve traveled for years I’ve never required water or any type of sustenance and I don’t think I really need it. Philosophical Zombies do not require sustenance because our only purpose is to observe and think.
+> 
+> I recently came across Amanda while crossing a large black tundra. I saw a large creature that resembled that of brachiosaurus with multiple heads. As I approached the creature something became apparent. Multiple smaller creatures could be seen moving on its body. The closer I got to the creature the size of the creature became apparent. It was almost the size of the Empire State Building in New York, but I came to also realize something else. The small creatures weren’t moving around the larger creature, they were fused to it. Multiple writhing bodies moving in unending torment. In one of the large feet of the creature I saw her. Amanda was fused to the creatures foot by her torso. We made eye contact and I studied her expression less face. Unlike the other organisms fused to the creature, she did not show any pain. I walked pass her as we continued to make eye contact. Neither of us made any attempt to get closer to each for I was being pulled to an unknown location by a call I can not describe. I passed the creature as its loud foot steps shook the ground below me and I continued onward to a location unknown in this hell of a planet.
+
+[[/collapsible]]
+
+[[/tab]]
+[[tab Current 052 File]]
+
+[[=]]
++ The following documents have been ##var(--v1)|CLASSIFIED##. Access to this document has been made forbidden to all non-Black Site personnel.
+[[/=]]
+
+[[div class="content-panel"]]
+[[=]]
+**Operation Guide**
+[[/=]]
+
+This file exists to explain to the viewing personnel what is RPC-052 and the viewing party should accept their immediate amnestization.
+
+The Authority Black Site is responsible for performing all operations that the Global Directors must not have direct or complete oversight of, for their own safety. Currently, all over sight of RPC-052 has been tasked to the Authority’s Black Site. The following procedures are followed to ensure the safety of all Authority personnel.
+
+# All information regarding RPC-052 outside of these documents is to be redacted.
+# All personnel with knowledge of RPC-052 are to be amnestisized including Black Site personnel.
+# Black Site personnel are to operate with no knowledge of the anomaly.
+# MST X-Ray-7 (“Agamemnon”)[[footnote]] Specializes in maintaining utmost secrecy regarding Black Site’s more sensitive documents, especially within the Authority itself. Key part in the functionality of the Nightingale Protocol. [[/footnote]] is to be alerted to when the 052 documents are accessed. X-Ray-7 are to administer the appropriate class of Amnestics related to how long a subject was exposed to RPC-052. 
+
+All information regarding RPC-052 was transferred from Site-019 to Black Site-001. Due to RPC-052 anomalous properties, no plans to study it are planned nor are to be planned. 
+
+[[/div]]
+
+[[div class="content-panel"]]
+[[collapsible show="+ RPC-052 File" hide="---"]]
+**Registered Phenomena Code:** 052
+
+**Object Class:** Beta-Purple
+
+**Threat Hazards (Observed):** Geological Hazard, Extra-Terrestrial Hazard, Animated Hazard
+
+**Description:** RPC-052 is a highly anomalous interstellar planet located █ lightyears away from Earth discovered during the 20th century by Authority astronomers John ██████ and Amanda ███. RPC-052 orbits ███ █████, a blue giant star. [DATA EXPUNGED FOR BREVITY][[footnote]] View the outdated 052 file. [[/footnote]].
+
+Subjects aware of RPC-052’s existence are designated RPC-052-♥ instances. RPC-052-♥ instances exhibit no anomalous properties. At random, depending on the population of RPC-052-♥ instances, an RPC-052-♥ will spontaneously lose all visible life functions. After a period of 5 to 10 seconds later a spatial anomaly will expand from RPC-052-♥ to 3 m^^3^^ engulfing anything in this range. The spatial anomaly will immediately collapse once it reaches the 3 m^^3^^ taking all matter previously engulfed by it including the RPC-052-♥ instance. Due to this property of RPC-052 no examinations can be conducted on deceased RPC-052-♥.
+
+In the resulting crater resulted by the spatial phenomena, a hard leather book of varying size and material will be found. The contents of the books, designated RPC-052-A instances, are written in the language of the deceased RPC-052-♥. The subjects of the books always relate to RPC-052 and will discuss various aspects of RPC-052. 
+
+During the examination of the spatial phenomenon, Researcher Blanca conducted a test on a deceased RPC-052-♥. A tracking device was attached to the instance before the manifestation of the spatial phenomena. Once the RPC-052-♥ and the tracking device were caught in the collapse of the spatial anomaly, the tracking device signal was immediately detected by Authority satellites in located near Neptune. Investigation of the origin of the signal reveals it originating from RPC-052. Information contained within the signal from the tracking device also reveals that the deceased RPC-052-♥ is actively moving upon the surface of the planet.
+
+The detection of the signal lead to the following discoveries: 
+
+* Deceased RPC-052-♥ instances are reanimated upon arrival on the planet.
+* The spatial anomaly takes anything engulfed by it to RPC-052.
+* Objects taken by the spatial anomaly are not only spatially displaced, but also temporally due to the signal being detected fifty minutes after Researcher Blanca’s tracking device experiment.
+
+Due to those with knowledge of RPC-052 immediately becoming RPC-052-♥ instances, the Black Site division took control of the RPC-052 project and conducted a mass amnestization operation which saw the administration of Class R[[footnote]] Class R Amnestics, also known as remote Amnestics, is the general term used to describe cognito-hazards and info-hazards that have been weaponized by the Authority for use in Amnesticizing persons without needing to make direct contact, or to Amnesticize large groups en masse. When applied multiple times to the same individual, remote Amnestics have a tendency to cause hallucinations, delusions and other adverse mental conditions. [[/footnote]] amnestics to all Authority and NuCorp personnel with knowledge of RPC-052 including the Global Directorate. During this operation the current RPC-052 article was created for Black Site archival purposes. The number of RPC-052-♥ instances claimed by RPC-052 is currently 17 Authority personnel. Black Site personnel with knowledge of RPC-052 are ordered to self amnestisize after the completion of the amnestization operation. A program is currently being created to hide the RPC-052 article deep within the database.
+
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-panel"]]
+[[collapsible show="+ RPC-052-A instances Overview" hide="---"]]
+> **052-♥ Instance:** 03 (“Dr. Amanda Lorwry”)
+> 
+> **Item 052-A #:** 003
+> 
+> **Title:** False Haven
+> 
+> **# of Pages:** 152
+> 
+> **# of Pages Expunged:** 100
+> 
+> **Reason for Expungement:** Personal Data, Sensitive Data
+> 
+> ------
+> 
+> **Summary:** The book describes as RPC-052-♥-03 arriving upon RPC-052 and walking across a vast mountain range. RPC-052-♥-03 walks and examines the mountains and determine them to be composed of diamonds. RPC-052-♥-03 arrives at the base of a mountain and finds a basin filled with an unknown liquid. RPC-052-♥-03 begins to drink from the basin for several pages and determines the liquid to be liquid hydrogen. RPC-052-♥-03 begins to describe a call that tells it where to go for 15 pages. RPC-052-♥-03 says how the call is telling him to enter the basin. RPC-052-♥-03 enters into the basin filled with liquid nitrogen and explains how it feels like a force pulled  it through the liquid into a large open cavern. In the center of cave a large structure is described by RPC-052-♥-03 and it claims it is an extraterrestrial craft. RPC-052-♥-03 explains the origins and history of the craft and the species who made it as he approaches it. It describes how the craft was an kind of exploratory vessel made by the same species as [http://www.rpc-wiki.net/rpc-020 RPC-020]. RPC-052-♥-03 makes it to the base of the ship and remarks on the enormous size of it. While at the base he encounters several entities of various sizes that resemble RPC-020. RPC-052-♥-03 questions the entities wether they are RPC-052-♥ instances, but the entities reply that they do not know. In the final page it describes how the entities bring RPC-052-♥-03 to a room within the craft where they tear RPC-052-♥-03 as a part of a religious ritual to protect them from RPC-052. RPC-052-♥-03 begins to pray on its on volition that for any god-like entity to protect the RPC-020 entities.
+
+> **052-♥ Instance:** 04 (“Dr. Ronald O. Marisom”)
+> 
+> **Item 052-A #:** 004
+> 
+> **Title:** What is True?
+> 
+> **# of Pages:** 90
+> 
+> **# of Pages Expunged:** 0
+> 
+> **Reason for Expungement:** N/A
+> 
+> ------
+> 
+> **Summary:** RPC-052-♥-04 arrives upon RPC-052 on a large field composed of a pink flora that resembles grass. RPC-052-♥-04 proceeds to sit on the ground and begins to discuss the nature of truth. It uses an analogy of two fictional universes where one has one canon and the other has no canon. It describes the universe with a single canon is stable and has little to no inconsistencies. It then describes the universe with no canon as one with no rule to abide by, no facts that can be assured, and that anything is possible. RPC-052-♥-04 says that RPC-052 is a place where truth does not exist and anything can happen. On the last page RPC-052-♥-04 goes on a tangent that anything that can or can’t happen has happened on RPC-052 at some point in time. The fate of RPC-052-♥-04 is unknown.
+
+> **052-♥ Instance:** 05 (“Sgt. David G. Oreal”)
+> 
+> **Item 052-A #:** 005
+> 
+> **Title:** The Fall of Last Truth
+> 
+> **# of Pages:** 200
+> 
+> **# of Pages Expunged:** 100
+> 
+> **Reason for Expungement:** Sensitive Data
+> 
+> ------
+> 
+> **Summary:** RPC-052-♥-05 arrives upon RPC-052 in an area full of life. It describes how there is a strange call pushing it toward a certain direction. RPC-052-♥-05 walks pass various creature describing the largest one being the size of the Burj Khalifa. RPC-052-♥-05 describes that it gets a strange feeling from the creatures of the planet, but continues forward. Eventually, RPC-052-♥-05 discovers a large wall surrounding a small community of buildings. Entering through a gap in these walls he discovers several humans inhabiting the area. RPC-052-♥-05 begins to kill several of these humans and proceeds to tear down several buildings in the area. Once RPC-052-♥-05 killed the last person and he explains how the people are not like itself. RPC-052-♥-05 goes on to explain how these things are not real and were created by the planet. On the last page, RPC-052-♥-05 leaves the settlement and describes large message written in French on one of the walls of the settlement. The message says, “Welcome to Last Truth. The Only True Thing In The Universe.”
+
+> **052-♥ Instance:** 06 (“CSD. Gabriel Samuel”)
+> 
+> **Item 052-A #:** 006
+> 
+> **Title:** The Death of Death
+> 
+> **# of Pages:** 300
+> 
+> **# of Pages Expunged:** 280
+> 
+> **Reason for Expungement:** Personal Data, Sensitive Data, Ideological Hazard
+> 
+> ------
+> 
+> **Summary:** RPC-052-♥-06 describes how he arrived in a dark void where an entity it describes as “Death” resides. All descriptions of the entity carry a memetic effect which results in the reader exhibiting [DATA EXPUNGED]. RPC-052-♥-06 converses with the Death if he will go to heaven or hell, but Death responds that they are nowhere near those places. Death goes on to explain how it is not supposed to be with RPC-052-♥-06 and describes that its soul is too late for saving. RPC-052-♥-06 describes Death as attempting to escape the dark void, but disappears when a wind like feeling flows by both of them. On the last page it describes who RPC-XXX-♥-06 arrives upon RPC-052 on a floating island composed of a organic material.
+
+> **052-♥ Instance:** 07 (“Dr. Enrique N. Dulce”)
+> 
+> **Item 052-A #:** 007
+> 
+> **Title:** Walking Backwards
+> 
+> **# of Pages:** 80
+> 
+> **# of Pages Expunged:** 2
+> 
+> **Reason for Expungement:** Sensitive Data
+> 
+> ------
+> 
+> **Summary:** RPC-052-♥-07 arrives upon RPC-052 on a beach, but finds its torso merged with the ground. RPC-052-♥-07 stares at the ocean and describes how it can feel a feeling of being watched originating from the ocean. RPC-052-♥-07 turns its head to see a vast mountain range. Many days past and RPC-052-♥-07 comes to a conclusion that time is flowing backwards. It determined this by observing multiple aquatic creature moving backwards in awkward motions. RPC-052-♥-07 wonders if it will go far enough to see the beginning of RPC-052. One day, RPC-052-♥-07 sees a large space craft rising backwards from the mountain range into the sky. RPC-052-♥-07 wonders what century it is on earth. On the last page, RPC-052-♥-07 describes how the planet is slowly approaching near the Big Bang, but a humanoid entity stand in front of RPC-052-♥-07 whispers, “You will see no end. You will see no beginning.” On the final page, RPC-052-♥-07 describes as the entity tears out RPC-052-♥-07‘s eyes and ponders about the nature of the beginning of RPC-XXX.
+
+> **052-♥ Instance:** 08 (“Dr. Zane A. Plyway”)
+> 
+> **Item 052-A #:** 008
+> 
+> **Title:** History, No More!
+> 
+> **# of Pages:** 200
+> 
+> **# of Pages Expunged:** 6
+> 
+> **Reason for Expungement:** Sensitive Data
+> 
+> ------
+> 
+> **Summary:** RPC-052-♥-08 arrives upon RPC-052 within a large wooden cabin. The cabin is describe as being a large square space with nothing but a door, a book, and a fire place. RPC-052-♥-08 considers leaving through the door, but says that it’s not its time yet. RPC-052-♥-08 picks up the book and opens it. RPC-052-♥-08 describes as the book describes the history of RPC-052, but the words in the book are always changing describing various events resulting in multiple contradicting events. RPC-052-♥-08 describes three events that describes the creation of RPC-052. One event describes RPC-052 being created by twelve divine [http://www.rpc-wiki.net/rpc-720 astrological beings]. Another event describes the creation of RPC-XXX as being created by a fight between Angela Merkel and Abrahamic God. The Abrahamic God defeated Angela Merkel and her death resulted in the creation of RPC-052. The last event describes RPC-052 always existing even before the creation of the universe. RPC-052-♥-08 says that the reader should not concern itself with RPC-052 and should get an amnestic immediately. On the last page, RPC-052-♥-08 throws the book into the fire place and exits through the door which leads into a harsh blizzard.
+
+[[/collapsible]]
+[[/div]]
+
+[[div class="red"]]
+[[collapsible show="+ ENTER DIRECTORATE CREDENTIALS" hide="- Credentials Accepted. Welcome, GD-08"]]
+[[=]]
+> //Do you see why you must allow yourself to be amnesticised. You are a valuable asset to this Authority and to lose you to any anomaly especially one as damnable as this planet would be a complete waste. Black Site exists to protect the Authority from various threats that can tear it apart from within. That is our purpose. Let us help you by forgetting.// 
+[[/=]]
+
+
+[[/collapsible]]
+
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+

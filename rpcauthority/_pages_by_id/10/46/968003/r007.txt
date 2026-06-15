@@ -1,0 +1,417 @@
+---
+title: "A Storm Is Brewin'"
+tags: ["trh"]
+page_id: "1046968003"
+site: "rpcauthority"
+slug: "contest:trhcontestjimmyboyhaha"
+revision: 7
+revision_id: "1517004272"
+author: 5982545
+timestamp: 1703604798
+---
+
+[[include component:contest-entry]]
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:400,700');
+
+.collapsible-block-link {
+   font-weight: bold;
+}
+
+.tempinam {
+   color: #c0c0c0;
+   background-color: #212429;
+   border: 1px dashed #808080;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: 5em;
+   margin-right: 5em;
+}
+
+.log {
+   color: #c0c0c0;
+   background-color: #141414;
+   border: 1px solid #7d3737;
+   font-family: 'Cabin', sans-serif;
+   font-size: 110%;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   margin-left: 15px;
+   margin-right: 15px;
+   margin-top: 5pt;
+   margin-bottom: 30pt;
+}
+
+.log hr {
+   background-color: #7d3737;
+   border-color: #7d3737;
+   margin-left: -11px;
+   margin-right: -11px;
+}
+
+.log a {
+   color: #7d3737;
+}
+
+.log a:hover {
+   color: #b85353;
+}
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-yellow.png]]
+
+**Registered Phenomena Code:** 052
+
+**Object Class:** Gamma-Yellow
+
+**Hazard Types:** Climatological, Grouped, Titanic, Tychokinetic, Sapient
+
+**Containment Protocols:** Members of the Authority Department of Meteorology are positioned near areas in which RPC-052 is known to appear. If an RPC-052 formation is detected, the Authority Department of Meteorology is to notify the nearest Authority site. After this, Protocol TEMPINAM is to be initiated.
+
+[[div style="margin-top: 30px;"]]
+[[/div]]
+
+[[=]]
+[[collapsible show="|> ACCESS FILE "PROTOCOL_TEMPINAM"? <|" hide="|> CLOSE FILE <|"]]
+[[/=]]
+
+[[div class="tempinam"]]
+[[<]]
+
+= [[size 105%]]**— PROTOCOL TEMPINAM —**[[/size]]
+
+When an RPC-052 event is reported, Authority agents embedded in any local broadcasting network operating for the targeted town are to broadcast an Emergency Alert System urging civilians to stay inside their homes because of heavy rain. Civilians are to be told to not approach individuals who are still outside during the rain, and to not endanger themselves for the sake of others.
+
+After RPC-052 has ended, Authority agents posing as police officers are to examine the town. Individuals found outside of their dwellings are to immediately be questioned, and amnesticized if they have encountered any anomalies.
+
+[[/<]]
+[[/div]]
+
+[[/collapsible]]
+
+[[div style="margin-top: 30px;"]]
+[[/div]]
+
+[[include component:hazard-image-block
+|hazards= [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-climatological.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Climatological[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-grouped.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Grouped[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-titanic.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Titanic[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-tychokinetic.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Tychokinetic[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Sapient[[/span]][[/span]] 
+|width=350px
+|name=http://rpcsandbox.wikidot.com/local--files/jimmyboyhaha-hcontest/cloud.jpg
+|caption={{fig. 1.1: RPC-052-1. (circa 2008)}}
+]]
+
+**Description:** RPC-052 is the designation for a weather pattern occurring in the North-Western United States of America, primarily in the states of Montana, Oregon, Idaho, and Washington.
+
+RPC-052 patterns occur 2 - 3 times a year. They are unpredictable, yet easily identifiable. When an RPC-052 event begins, an extremely large cloud formation slowly forms ~2.5 - ~4.0 kilometers away from a town, over the course of ~6 - ~8 hours. This cloud formation, designated as RPC-052-1, is indistinguishable from a cumulonimbus storm cloud save for the presence of much darker regions within the formation. After RPC-052-1 has reached a sufficient mass to cover the targeted town, it will begin to move towards it until it is suspended above.
+
+Once RPC-052-1 is suspended above the targeted town, a series of events occur over the course of a day. Water begins falling from RPC-052-1, akin to rain. It has been determined through the use of rain gauges that RPC-052-1 produces an average of 10.5 mm of rainfall. The presence of RPC-052-1 causes the area of the town to darken drastically, and a light fog to appear. Research has shown that RPC-052 events cause buildings to be more likely to experience structural failure, resulting in collapse. Buildings housing more individuals inside are more likely to experience structural failure.
+
+During an RPC-052 event, entities (RPC-052-2) will begin appearing within the town on the roofs of houses. The source from which these entities appear remains undiscovered. RPC-052-2 instances are humanoid in form with smooth, pale-blue skin. A dark-blue symbol in the shape of a diamond is present on the front of RPC-052-2 instances' heads. The fingers of RPC-052-2 instances are grossly elongated, and their legs lack feet.
+
+During an RPC-052 event, RPC-052-2 instances either remain on the roofs or wander through the streets in search of victims. RPC-052-2 instances actively seek out citizens of the targeted town that are outside during the RPC-052 event, and enter buildings which have been damaged. RPC-052-2 instances attempt to capture any individuals they encounter. An individual is captured by an RPC-052-2 instance via constriction of the body. The entity utilizes its elongated fingers to ensnare the victim. After a short moment, the RPC-052-2 instance and the individual both "disintegrate" into the air. Following the conclusion of the RPC-052 event, all captured individuals reappear in varying locations of the affected town. No individuals have been physically harmed by RPC-052-2 instances.
+
+----
+
+||= [[size 210%]]{{EXPLORATION LOG 9/24/2004}}[[/size]]||
+
+[[div style="margin-top: 30px;"]]
+[[/div]]
+
+[[=]]
+[[collapsible show="|> ACCESS FILE "9_24_2004"? <|" hide="|> CLOSE FILE <|"]]
+[[/=]]
+
+[[<]]
+
+[[div class="log"]]
+
+**Foreword:** On the 24th of September, 2004, an RPC-052 event had begun in the town of Cotton, Oregon. MST Romeo-7 ("Suited Gentlemen") was deployed in order to potentially gain more information on RPC-052. Posing as police officers, they entered the town.
+
+**Members:** Romeo-7 "ALPHA", Romeo-7 "BETA", Romeo-7 "GAMMA", Romeo-7 "DELTA"
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+----
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+**ALPHA:** Command, we're approaching Cotton. **[**//To group//**]** Is everyone here all good?
+
+**BETA:** I think so.
+
+**[**//The others nod.//**]**
+
+**GAMMA:** So, this is the place where the cloud's gonna show up?
+
+**ALPHA:** No!
+
+**[**//All chuckle.//**]**
+
+**ALPHA:** Yeah, it is. We'll just have to wait for a few minutes. Takes a while to appear.
+
+**GAMMA:** How long exactly?
+
+**ALPHA:** Uh, about fifteen minutes.
+
+**DELTA:** Well. Let's… sit down for a bit then.
+
+= [[size 115%]]**EXTRANEOUS FOOTAGE REMOVED**[[/size]]
+
+**[**//MST Romeo-6 is walking along the streets of Cotton.//**]**
+
+**BETA:** I think I remember this town.
+
+**GAMMA:** How so?
+
+**BETA:** I think I drove through this town once when I moved house. Uh, back in 1997. June, I think?
+
+**GAMMA:** Maybe. Well, then again, loads of towns here look the same.
+
+**[**//BETA laughs, and then sighs.//**]**
+
+**BETA:** It's— they're easier to tell apart if you've lived here longer.
+
+**[**//ALPHA motions to a house that has partly collapsed.//**]**
+
+**ALPHA:** We've got to check if there's someone there. Could have useful info.
+
+= [[size 115%]]**EXTRANEOUS FOOTAGE REMOVED**[[/size]]
+
+**[**//MST Romeo-6 arrives at the house. Analysis of the footage identifies the house as 17 Tulled Avenue.//**]**
+
+**ALPHA:** Ok, get behind me. We'll slowly go into the house, all of you watch out fo–
+
+**UNKNOWN:** Hello? Is… is that the fire department?
+
+**ALPHA:** //Shit//. Uh, no, we're the… um, police.
+
+**[**//An elderly woman emerges from the house. She was later identified as Ms. Luana Sackville.//**]**
+
+**LUANA:** Have… have you come to investigate something?
+
+**BETA:** Uh. Yes.
+
+**LUANA:** Oh, good, good. I never even called, you're all so competent at your jobs! Going around, looking for people in trouble…
+
+**[**//Silence for 3 seconds.//**]**
+
+**GAMMA:** Thanks.
+
+**LUANA:** Come in, come in!
+
+**[**//Ms. Sackville leads the members into the house, and down a hallway into a living room. There, the roof has partly collapsed. A man is standing to the left side of the room, who is identified as Shaun Sackville.//**]**
+
+**BETA:** That… er, that doesn't look good.
+
+**LUANA:** You're telling me! **[**//Laughs//**]**
+
+**DELTA:** Has your house had any previous issues? Like, in structure?
+
+**LUANA:** No, no. This— this is the first time.
+
+**SHAUN:** We haven't, uh, had anything like this before.
+
+**GAMMA:** Oh, Christ. I didn't notice you there.
+
+**LUANA:** That's just my son! Isn't that right, Shaun?
+
+**SHAUN:** Yeah, yeah.
+
+**LUANA:** **[**//Turns to MST Romeo-6//**]** Well, do you know who did this?
+
+**ALPHA:** Uh, **[**//Pauses//**]** we're not really sure. Could we take a look outside?
+
+**LUANA:** By all means, go ahead!
+
+**[**//The members of MST Romeo-6 are directed to a sliding door that leads outside to the house's backyard.//**]**
+
+**GAMMA:** It's a nice garden.
+
+**BETA:** Uh-huh, uh-huh. But we're looking at the roof, not the pretty flowers.
+
+**[**//The roof of the house has a large ~3.5m wide hole in it.//**]**
+
+**GAMMA:** Kinda looks like a… um… giant fist? **[**//Pauses//**]** Yeah, a giant fist… punched the house. Or a drill?
+
+**DELTA:** Hm. Wait a sec, the fuck is this?
+
+**[**//DELTA is motioning towards two cardboard cutouts of humanoid shapes, situated next to a shed.//**]**
+
+**ALPHA:** That's, uh, weird.
+
+**GAMMA:** You really think so?
+
+**ALPHA:** **[**//Sighs//**]** No need to get all sarcastic with me.
+
+**[**//Shaun Sackville suddenly rushes towards MST Romeo-6. He is visibly distressed.//**]**
+
+**SHAUN:** Shit, shit, shit! There's a… th-there's— it's tall, and, uh–
+
+**ALPHA:** Wh— God's sake!
+
+**[**//MST Romeo-6 runs back into the house, which now has two RPC-052-2 instances inside.//**]**
+
+**BETA:** What do we–
+
+**ALPHA:** Shoot them, obviously!
+
+**[**//MST Romeo-6 opens fire on the first RPC-052-2. It is immediately terminated, and a clear blood-like substance leaks from its wounds. It collapses to the floor. The second instance is approaching Ms. Sackville.//**]**
+
+**LUANA:** **[**//In a panicked tone//**]** No, don't— I don't want to–
+
+**[**//The RPC-052-2 instance embraces Ms. Sackville in its arms. The entity turns its head towards MST Romeo-6, and vanishes along with Luana.//**]**
+
+**GAMMA:** God //dammit!//
+
+**ALPHA:** Why didn't any of you shoot it?!
+
+**DELTA:** I //was// shooting it!
+
+**GAMMA:** I thought we were only shooting the other one!
+
+**BETA:** Of course we weren't!
+
+**SHAUN:** Wh— where did… what…?
+
+**[**//Silence.//**]**
+
+**BETA:** …Oh yeah. You're here too.
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+----
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+**Afterword:** Shaun Sackville was administered Class A-1 amnestics after this incident. The corpse of the RPC-052-2 instance was brought to Site-068 for examination, and the details of the autopsy can be found in file [# AUT-9302004]. The corpse is currently contained in cryogenic storage in Site-068's Research Wing.
+
+[[/div]]
+
+[[/<]]
+
+[[/collapsible]]
+
+[[div style="margin-top: 30px;"]]
+[[/div]]
+
+||= [[size 210%]]{{INTERVIEW LOG 9/25/2004}}[[/size]]||
+
+[[div style="margin-top: 30px;"]]
+[[/div]]
+
+[[=]]
+[[collapsible show="|> ACCESS FILE "9_25_2004"? <|" hide="|> CLOSE FILE <|"]]
+[[/=]]
+
+[[<]]
+
+[[div class="log"]]
+
+**Foreword:** After Ms. Sackville reappeared in the streets of Cotton, she was brought to Authority Site-068 for questioning. Luana was interviewed by Dr. Edwin Cheffield.
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+----
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+**EDWIN:** Luana Sackville's your name, right?
+
+**LUANA:** Yes.
+
+**EDWIN:** I just need to ask you a few questions about what happened yesterday, is that alright with you?
+
+**LUANA:** Yes.
+
+**EDWIN:** Could you state your name and the date for the record.
+
+**LUANA:** My name is Luana Sackville. The date is the 25th of August, 2004.
+
+**EDWIN:** Good, good. Ok, first question. How did it feel to be… abducted by the entity?
+
+**LUANA:** The entity had long fingers. They felt cold and slimy.
+
+**EDWIN:** Did you feel or see anything when you, erm, disappeared?
+
+**LUANA:** I don't remember.
+
+**EDWIN:** Mhm. Do you remember anything after you vanished?
+
+**LUANA:** Yes.
+
+**[**//Silence.//**]**
+
+**EDWIN:** Did you go anywhere? Appear in some sort of place?
+
+**LUANA:** Yes.
+
+**EDWIN:** What did it look like?
+
+**LUANA:** It was futuristic. The walls were white and smooth.
+
+**EDWIN:** Ok, I can imagine that. Were there other entities there?
+
+**LUANA:** Yes.
+
+**EDWIN:** …The same as the entity that took you there?
+
+**LUANA:** Yes.
+
+**EDWIN:** Do you remember how long you were there for? **[**//Pauses//**]** If so, could you tell me how long you were there for?
+
+**LUANA:** Yes. I was there for 14 hours.
+
+**EDWIN:** Um. Were there other people there?
+
+**LUANA:** I don't remember.
+
+**EDWIN:** Did the entities… do anything to you?
+
+**LUANA:** I don't remember.
+
+**EDWIN:** …Ms. Sackville?
+
+**LUANA:** Yes.
+
+**EDWIN:** How did the entities send you back to your home town?
+
+**[**//Silence.//**]**
+
+**LUANA:** I don't remember.
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+----
+
+[[div style="margin-top: 10px;"]]
+[[/div]]
+
+**Afterword:** Ms. Sackville was brought into containment. Testing is awaiting approval, and a re-classification of RPC-052 to Gamma-Red is pending.
+
+[[/div]]
+
+[[/<]]
+
+[[/collapsible]]
+
+@@ @@
+
+= << [[[RPC-051]]] | RPC-052 | [[[RPC-053]]] >>
+

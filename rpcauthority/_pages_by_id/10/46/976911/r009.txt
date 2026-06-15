@@ -1,0 +1,367 @@
+---
+title: "A Room of Unimaginable Alternatives."
+tags: ["trh"]
+page_id: "1046976911"
+site: "rpcauthority"
+slug: "contest:trhcontestsitemanagertodd"
+revision: 9
+revision_id: "1517004280"
+author: 5982545
+timestamp: 1703604862
+---
+
+[[include component:contest-entry]]
+
+[[module CSS]]
+h2, h3, h4, h5, h6 {
+    color: #E5E5E5;
+.black .collapsible-block a {
+    color: #272A31;
+}
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+
+**Assigned Facility:** Site-001
+
+**Research Lead:** --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- Bi-weekly rotatory scientist
+
+**Assigned MST(s):** On-site MST/Delta-6 "Space Folders"
+
+**Director of Containment:** Dr. Marlowe Blaine
+]]
+
+[[span style="font-size: 155%; font-weight: bold; color:#E5E5E5"]] Registered Phenomena Code: 639[[/span]]
+
+[[table style="width: 300px; height: 105px"]]
+[[row]]
+[[cell style="width: 41px"]]
+
+[[/cell]]
+[[cell style="width: 30px"]]
+[[span class="tooltip"]][[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Gamma-Black.png style="margin: -10px -46px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]][[/span]][[/span]]
+[[/cell]]
+[[cell]]
++++ **Object Class:**
+[[span style="font-weight:bold; color:#000000; text-shadow: 1px 0px  #8c8c8c, 1px 1px  #8c8c8c, 0px 1px  #8c8c8c, -1px 1px  #8c8c8c, -1px 0px  #8c8c8c, -1px -1px  #8c8c8c, 0px -1px  #8c8c8c, 1px -1px  #8c8c8c;"]] Gamma-Black [[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table style="border: none; width: 395px;"]]
+[[row]]
+[[cell style="height: 40px;"]]
++++ **Responsible Departments:**
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Anthropology.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Anthropology[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Engineering.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Engineering[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/History.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+History[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Physics.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Physics[[/span]][[/span]]
+
+ [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/the-office-of-analysis-and-science/Psychology.png style="margin: -10px 0px; width: 60px; filter: invert(1); opacity: 0.8"] class="tooltip"]] [[span class="tooltiptext"]]Department of
+Psychology[[/span]][[/span]]
+@@@@
+@@@@
+[[/cell]]
+[[/row]]
+[[/table]]
+
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="border: none; width: 50%;"]]
++++ **Hazard Types:**
+[[include component:hazards type=none
+|sapient=true
+|temporal=true
+|invisibility=true
+|destabilization=true
+|extra-dimensional=true
+|teleportation=true
+]]
+[[/cell]]
+[[cell style="border: none; width: 50%;"]]
++++ **General Properties:**
+[[include component:hazards type=none
+|tychokinetic=true
+]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
++++ Containment Protocols:
+Because of the temporal capabilities and the probability of causing a SE-6 "Paradoxical Chaos" to the space-time continuum, RPC-639 is stored in a highly supervised containment room with a direct level-5 hand scanner. A team of the on-site AST is to guard the entrance of the containment chamber at the Gamma sector in the Terran level of the Containment Level of Site-001. 
+
+Daily checks are to be performed in the containment chamber to ensure that RPC-639 hasn't breached containment. The process involves spraying black dyed water and/or using an echolocation sound check inside the room. All personnel guarding/analyzing RPC-639 are to have the appropriate credentials and a bomb collar attached to them at all times; personnel who do not have their designated bomb collar/credentials are to be detained for termination.
+
+In the case of an internal/external containment breach not caused by RPC-639, the containment wing must be closed off to avoid any infiltration by external forces and the containment chamber must be flooded with water. If the entity/object responsible for the containment breach was RPC-639, all personnel in charge of the containment and study of RPC-639 should be restrained and have their validation in the site checked. Personnel reported missing from the site or erased from the time continuum are to be located around the world and detained permanently.
+
+--Testing is only allowed with Level 4 personnel with the purpose of recollecting desirable notes and studies from RPC-639. All testing inside of RPC-639 should be recorded via recording devices and sent to [[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]] for study. Unless it is necessary for the test subject to change minor events in the past/future it is forbidden to interact with RPC-639 and the time continuum-- Since the Incident on 30/07/202█ designated "Domino Butterfly", under no circumstances is RPC-639 to be tested on or even have personnel enter the containment area at the risk of being considered terminated. Entities who exit RPC-639 without any previous record of testing must be detained and put in permanent containment.
+
+No voice recordings are to be taken from inside the chamber of RPC-639 and no personnel are allowed to listen to any previous voice recordings. Only personnel studying RPC-639 are allowed to have access to the recordings and notes taken pre-”Domino Butterfly” incident. All documentation generated from the analysis of RPC-639 should be stored in a level 4 case file. 
+
+-----
+
++++ Description:
+RPC-639 is a non-euclidean time-bending divergence in the space-time continuum located in the containment area of Site-001. RPC-639 doesn't have any standard model of sight as it is not observable by normal light or any type of light related devices such as night vision or ultraviolet light. The only confirmed means to observe RPC-639 is by spreading any colored liquid on the apparent "surface" of RPC-639. To protect the containment chamber from the effects of RPC-639, a crystal sphere is built around RPC-639[[footnote]]Glass and other derivate forms of crystal take aproximately of 1 million years to fully decay.[[/footnote]].
+
+While RPC-639 cannot produce mass or generate inside the containment chamber, it can send radiowaves encoded in morse code around itself usually containing 2 messages on constant loop @@".. ... / ... --- -- . --- -. . / .. -. / - .... . .-. . ..--.." and ".. / -. . . -.. / ... --- -- . --- -. . / - --- / - .- .-.. -.- / - ---"@@[[footnote]]Translated to english the words mean "Is someone in there?" and "I need someone to talk to"[[/footnote]]. These messages have been proven to be a psychological lure to humans since tests with CSD have proven to cause paranoia and sense of need to interact with RPC-639.
+
+Once a material object is inside the containment chamber and in reach of RPC-639, the object will be subject to significant temporal progression or regression of its physical state i.e. a piece of metal oxidating or a piece of cooked meat regressing into recently cut off flesh. Once an object remains inside RPC-639 for 24 hours, the object will disappear from the containment chamber. It is theorized that the object gets transported to a different point of location in the space-time continuum.
+
+Sentient entities with lesser neurological capabilities than an adult human, i.e animals and/or infants, who enter the containment chamber of RPC-639 will undergo full disintegration at a molecular level. Analysis of the chamber shortly after disintegration events indicates audio from the deceased entity can still be heard.
+
+
+-----
+
++++ Addenda:
+
+[[collapsible show="Discovery" hide="Credentials Accepted"]]
+RPC-639 was discovered on 30/07/202█ on an unregistered database tablet, when analysts unlocked it, they found documentation on an "Epsilon" anomaly and various other papers related to project "Godsent Clock" lead by  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- and officially sanctioned under the Directorate. Internal documentation about RPC-639 and its future containment were found afterwards in a container located in the main accommodation level of Site-001.
+
+Due to the lack of understanding of the effects of RPC-639, RPC-639 was left secure in its original containment cell up until the container started to degrade itself to the point of disintegration by corrosion. Development of proper containment protocols was delayed by a researcher who due to incompetence entered the area of effect of RPC-639 by breaking the crystal sphere protecting the anomaly. This caused the researcher to disappear and triggered Incident "Domino Butterfly". At this point in time, the whereabouts of said researcher are still unknown.
+
+
+[[/collapsible]]
+
+[[collapsible show="Old Documentation from ERROR 404: NAME NOT FOUND" hide="Credentials Accepted"]]
+[[tabview]]
+[[tab RPC-639]]
+[[table style="height: 90px"]]
+[[row]]
+[[cell style="width: 41px"]]
+
+[[/cell]]
+[[cell style="width: 30px"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/epsilon-white.png style="margin: -10px -46px; height: 65px"] class="tooltip"]] [[span class="tooltiptext"]]##FFFFFF|Epsilon-White##[[/span]][[/span]]
+[[/cell]]
+[[cell]]
+**Registered Phenomena Code:** 639
+@@@@
+@@@@
+**Object Class:** ##FFFFFF|Epsilon-White##
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+**Hazards:**  Understudy
+-----
+
+**Containment Protocols:** Since capture from [http://www.rpc-wiki.net/rpc-899 RPC-899], RPC-639 is to be temporally stored in a metal container with a crystal sphere. All documentations about other RPC-639 like anomalies are to be taken to the Global Directorate for questioning about containment on RPC-899 or in an Authority-owned site. The container holding RPC-639 must be directed towards the closest site possible for study.
+
+**Description:** RPC-639 is an apparent transparent mass of non-euclidean matter suspending outside of our concept of time-space. Current anomalous properties indicate that RPC-639 exists in a constant state of temporal flux, manipulating the temporality of matter surrounding it to cause rapid/slow molecular decay. Sentient lifeforms within close proximity of RPC-639 will feel compelled to interact with it.
+
+Current investigations as to possible time manipulation and alternative to an infinite energy source is still ongoing. All research about RPC-639 and related anomalies coming from RPC-899 are to be directed towards --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- for study and testing. 
+
+**Addendum 639-01 Sapience note:** Readings taken from the original point of extraction have demonstrated that RPC-639 can manipulate radio waves to cause speakers to broadcast sounds. When observing a speaker under the effect of RPC at a distance, the speaker will broadcast a Morse code sequence. When in close proximity to the speaker, it will instead broadcast regular beeping noises of uniform length. Current studies are to be taken if it means anything or it is a type of language.--[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--
+
+**Addendum 639-02 Godsent clockwork note [LEVEL 4 RESEARCHERS EYES ONLY]:** In addition to RPC-639’s ability to change the temporal state of objects, RPC-639 emits an unknown form of energy as it does so; it may be this energy that allows RPC-899 to continue functioning after apparent aeons of partial function. Due to the permits of the Global directorades, experimentation with RPC-639 is allowed to an extent. I myself found in a disposition to make an interview and test the sapience of RPC-639. --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--
+
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+
+[[div class="black"]]
+[[include :scp-int:component:coltop show=                    |hide=                    ]]
+
+[[div style="center no-repeat; background-color: black; float: center; border: solid 2px black; padding: 1px 15px; "]]
+[[=]]
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/MainSign.png]]
+
++ [[size 150%]][[span style="color:#971616;"]]<< ATTENTION >>[[/span]][[/size]]
+
+++++ THE FOLLOWING ADDENDA IS FOR PROJECT GODSENT CLOCK EYES ONLY.
+------
+++++ GLOBAL DIRECTORATE CREDENTIALS ARE REQUIRED TO PROCEED.
+------
+[[/=]]
+[[/div]]
+ 
+[[include :scp-int:component:coltop show=Is time a constant or a race |hide=Against a doomsday clock?]]
+
+[[=]]
+Welcome Back Global Director
+[[/=]]
+
+**Status on Project Godsent Clock:** Based upon the recent rediscovery of RPC-639 alongside documentation of a possible alteration not only in our dimension but in all of our collective realities, Project Godsend Clock is not only on a thin line but shall be given top priority for the purpose of collecting all information in relation with time-bending anomalies such as [http://www.rpc-wiki.net/rpc-948 RPC-948] and [http://www.rpc-wiki.net/rpc-107 RPC-107].
+
+Testing with and/or manipulation of RPC-639 has been put on permanent hold until we can quantify all the damage caused by --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- and its effects on our future. The current facade implemented to avoid testing with RPC-639 is the disintegration of a scientist while in containment at Site-001. Scientist who ascend to "level 4" in the areas of physics and/or quantum theory should be drafted to help with RPC-639 and related anomalies.
+
+> As a reminder to all Global directorates reading this document and the following Project Godsent clock; it is not only being put into existence to avoid the total destruction of our present but to ironically avoid changes to our past. Our purpose is to understand the real concept of time and try to bend it to the purposes of containment.
+> 
+> We can't risk ourselves and the existence of our universe at large to mindlessly try to change events that are meant to happen without a major reason. We are the first and only line of defense against the terrors that await humanity be it either an alpha-white or an omega-black anomaly.
+> 
+> GD-01
+
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+**Media ID#:** M-1315  Incident "Domino Butterfly"
+
+> **Foreword:** This video recording was salvaged from the tablet of the now erased --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--. Since the events presented here are only allowed to be seen by researchers of Project Godsent Clock, a smokescreen is to be put in place to avoid further interaction with RPC-639. The video was recorded by a helmet camera provided by the research department and the video feed was stored on the tablet.
+> 
+> **<Begin Video>**
+> 
+> **00:00 -** <<**Researcher --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- is seen getting inside a protective hazmat suit and testing the microphone**>> This is researcher --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- for media recorder M-1315. Purpose of recording: interview and test of sapience with RPC-639. 
+> 
+> **00:06 -** **<<A voice from the intercom (Control) talks to --[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-->>** Alright --[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]--, we've registered your heart beats and bio-readings in the monitor. You are clear to go once you give us the signal. Remember that this is a 2 minute mission before the suit disintegrates. Do you have your testing equipment ready?
+> 
+> **00:14 -** **<<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- holding a notebook and a portable tablet>>** Yes, control. I have all equipment ready. Now unlock RPC-639´s containment door.
+> 
+> **00:20 -** **A loud crack accompanied by the door containing RPC-639 slicing below the frame is visible in the recording. RPC-639 is barely seen covered in the black dyed water. As --[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- gets closer to RPC-639 the containment door shuts**
+> 
+> **00:32 -** **<<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- gets closer to the anomaly>>** Hello RPC-639. May I have an interview with you?
+> 
+> **00:35 -** **<<RPC-639 seems to be inert. After a period of 5 seconds, a radio-wave arrives at the tablet of --[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]--. The device recognizes it as a Morse code containing the phase "I can understand you">>** 
+> 
+> **00:44 -** <<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- to the anomaly>> Thats very good that you can understand me. Now, my first question: what are you?
+> 
+> **00:48 -** **<<RPC-639 seems to be inert. After the same period of 5 seconds, a radio-wave arrives at the tablet. The device translates it to the phase "I don´t know">>** 
+> 
+> **00:53 -** <<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- to the anomaly>> Let´s try something else. Where did you come from?
+> 
+> **00:58 -** **<<RPC-639 seems to be inert. After the 5 seconds period, the device translates the radio-wave to the phase "By time itself">>**
+> 
+> **01:02 -** <<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- to the anomaly>> This is getting complicated, lets try this. **<<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- draws an image of a tree on the notebook. After that it shows it to RPC-639**>>
+> 
+> **01:02 -** **<<RPC-639 grabs the notebook and disintegrates it. After the 5 second period, a radio-wave arrives at the tablet. The device translates it to the phase "The circle of nature itself, rebirth and decay">>** 
+> 
+> **01:02 -** **<<--[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- steps back in a state of shock>>** Control, this is --[[span style="color: transparent"]][[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]][[/span]]-- requesting for the termination of this interview. RPC-639 has managed to destroy the notebook I had and my suit is being degraded.
+> 
+> **01:12 -** <<Control responds to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Roger that, now step away from RPC-639. By our readings RPC-639 is emitting the energy we registered in RPC-899, so avoid physical contact with it.
+> 
+> **01:24 -** **<< --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- puts his back against the wall in direct eye contact with RPC-639>>** Control, I'm taking pictures with the tablet, it looks like RPC-639 is changing in coloration.
+> 
+> **01:27 -** <<Control responds to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> We are not receiving anything unusual aside from the readings  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--, are you sure **<<signal cuts off with static>>**
+> 
+> **01:29 -** **<< --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- tries to call Control over the tablet>>** Control, are you there? I am not receiving anything from your end. **<<Radio static is heard>>**
+> 
+> **01:29 -** **<<The voice of several people speaking in synchrony can be heard>>** Don't worry about them, they are frozen, well, everything is.
+> 
+> **01:29 -** **<< --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- turns his vision to the entrance to the containment chamber>>** Who is there?
+> 
+> **01:29 -** <<The same voice speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Look to the center of the room  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--.
+> 
+> **01:29 -** **<< --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- turns his vision to center of the containment chamber. The rooms seems to have changed in a cloud of dark blueish coloration with streaks of deep violet>>** What the fuck happened here?
+> 
+> **01:29 -** <<The voice speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> I happened  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--. I am what do you consider a divergence in your aspect of reality. You can call me the designation you have given me: RPC-639.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> So you are sapient after all? i thought your intelligence was none greater than an infant.
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> You in part are right, when I am in a cloud of time, my intelligence is the same as you or any other human. But when an object breaks the cloud barrier I rise once again, gaining the power of father time.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> So you are saying that you can bend time? How is that even possible?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Well, I can't fully bend all time, I just manipulate this current reality, for example I can show you all the past, present and future of the entirety of the human race. However, I become powerless in, let’s say, the RCPA Dimension or in the Remnants Dimension.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> How do you even know about those dimensions? 
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> I can read it in your memories, all those documents speaking about those dimensions. It feels strange that, even outside of these dimensions, there are endless versions of you with different ideas and different aspects.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> You can read my memories now? Even when I was born?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> You wish to see them? Here.
+> 
+> **01:29 -** **<<In front of the camera a cloud of smoke appears to mimic the life events of  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--. RPC-639 appears itself in a humanoid shape at the side of  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->>**
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- while looking at the smoke>> This is the moment where you were born, and this is the moment you married, and this is the moment where you had your son. All these events from your past and future are nothing compared to the unfathomable number of timelines in all dimensions. Oh! Look, this is the moment where your <<RPC-639 pauses>> //oh//, I am sorry for your loss  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]--.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> Wait, why?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Well looking at your past and present you live a normal life, up until the future.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> What happens in my future?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> You really want to know? Well, here it is. Your immediate future.
+> 
+> **01:29 -** **<<In front of the camera the cloud of smoke reveals the remnants of a city burning. In the sky various helicopter and zeppelin-like machines bombard the city with air-to-ground missiles. The family of  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- is seen being torn apart by what appears to be anomalous entities with rotten bodies acting as shells.  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- goes into a state of shock and starts to cry>>**
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> HOW DID THIS HAPPEN? 
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Well, it was //bound// to happen in some moment of your reality. What happened is that the few freed [http://www.rpc-wiki.net/rpc-666 RPC-666] entities started to reproduce and have offspring. And that was just a spark, a little snowflake rolling in a sphere of chaos that ended up in several cities being destroyed. It could have been that malthus forces had upgraded RPC-666, or a genetic stronger variation mixed with the rest, thus giving a greater destructive power.  And wait! It gets worse.
+> 
+> **01:29 -** **<<In front of the camera the cloud of smoke reveals a nuclear explosion in the middle of an ocean accompanied with S.O.S. calls from many authority sites around the world.  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- enters into despair after the sight.>>**
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> IS THIS THE END OF THE WORLD?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Sort of, right after the incident with the RPC-666's, the ball of chaos elevated, some think it was the PCAAO launching nukes at nests of RPC-666's, others think it was the UNAAC punishing the authority due to their incompetence. It even hints at the RCPA invading this timeline at the most opportune time possible. But after that, the authority was disbanded and it's members are hunted like dogs.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> My family, my city, even my colleagues all dead, because of anomalies. IS THERE A WAY TO CHANGE THIS?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> No, all events that you have seen are in the future, and even if you change them, something far more dangerous can arise, on the upside, you can change them and the timeline will suffer nothing. It's all a big coin toss. However, I offer you an alternative.
+> 
+> **01:29 -** **<<In front of the camera the cloud of smoke dims a little and RPC-639 can be seen at the front of the frame creating what appears to be a ball of energy.>>**
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Abandon this timeline and be reborn into a new one where the anomalous doesn't exist. A timeline that is completely mundane.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> But why alone? Why can't I bring my family?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Think of it in this way, an entity can modify its timeline and many things could happen, imagine if you travel back in time and kill Hitler. So you know what happens next right? It can vary from another person rises to power and the fascist government rises and WW2 happens like normal to a new timeline where the Russians dominate the world to the most absurd where a temporal loop paradox is created. Do you see what I am getting at? If moving one person in time is a pain in the neck, moving an entire family will break time itself.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> But that means leaving everything behind, my son, my wife. Would they even remember me?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> No, because what I would do is avoid your birth in this timeline. So you will never meet your wife, you will never have a son and you will never experience the pain of losing them. You can create a new family in this new timeline. Time will take care of it. he only thing they will experience is a temporal misfire and poof!
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> And this new world, will I get another chance to be with them?
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> The possibilities are endless. You may even be the one who founds a multi million dollar franchise.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639>> Fine, I accept this new timeline.
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Smart man. Now here, act quickly before the time cloud comes and covers me again.
+> 
+> **01:29 -** **<<In front of the camera the cloud of smoke dims and it reveals a bubble of light, RPC-639 appears at the side of it still in a humanoid shape>>**
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> Once you enter this timeline, there's no going back.
+> 
+> **01:29 -** << --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- speaks to RPC-639> Thank you so much for this, may God find a way to pay this debt.
+> 
+> **01:29 -** <<RPC-639 speaks to  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-->> It´s not a problem, just remember that //all alternatives are possible//.
+> 
+> **01:29 -** **<<The tablet is dropped on the floor and the helmet starts to degrade. As  --[[span style="color: transparent"]]  [[/span]][[span style="color: transparent;text-shadow: 1px 0px 7px #8c8c8c, 1px 1px 7px #8c8c8c, 0px 1px 7px #8c8c8c, -1px 1px 7px #8c8c8c, -1px 0px 7px #8c8c8c, -1px -2px 5px #8c8c8c, 0px -2px 5px #8c8c8c, 1px -2px 5px #8c8c8c;"]]‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎   ‎‏‏‎ ‎‏‏‎ ‎[[/span]][[span style="color: transparent"]]  [[/span]]-- walks to the bubble of light, his clothes begin to disappear as time resumes as normal>>**
+> 
+> **01:30 -** **<<Because the helmet was caught in the area of effect of RPC-639, it disintegrates and RPC-639 "regurgitates" the tablet. Transmission from the camera is lost.>>**
+> 
+> **<End Video>**
+[[/div]]
+
+[[include :scp-int:component:colend]]
+[[include :scp-int:component:colend]]
+[[/div]]
+
+@@@@
+
+
+-----
+
++++ Footnotes
+[[collapsible show="[+] Show" hide="[-] Hide"]]
+[[div style="background:#1F2125; border:dashed 1.5px #666666; border-radius: 3px;  margin: 0 auto; padding: 10px 38px; color:"]]
+[[footnoteblock]]
+[[/div]]
+
+[[/collapsible]]
+
+----
+
+[[=]]
+<< [[[RPC-638]]] | RPC-639 | [[[RPC-640]]] >> 
+[[/=]]
+

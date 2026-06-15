@@ -1,0 +1,667 @@
+---
+title: "RPC-306"
+tags: []
+page_id: "1133225796"
+site: "rpcauthority"
+slug: "fragment:thelid-3"
+revision: 16
+revision_id: "1356699856"
+author: 3672751
+timestamp: 1602560635
+---
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[module CSS]]
+.email2 {
+
+     background: url(http://rpcauthority.wikidot.com/local--files/rpc-465/what.png);
+     background-size: 285px 285px;
+     background-position: center;
+     background-repeat: no-repeat;
+     border: solid 2px #000000;
+     width: 570px;
+     padding: 1px 15px;
+     margin: 10px 10px 10px 40px;
+     box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+[[/module]]
+
+[[div style="center no-repeat; background-color: #F2F2ED; float: center; border: solid 2px black; padding: 1px 15px; "]]
+[[=]]
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/main-operationalwolf/MainSign.png]]
+
++ [[size 150%]][[span style="color:#32547A;"]]<< ATTENTION >>[[/span]][[/size]]
+
+++++ THIS DOCUMENT IS LEVEL 3 CLASSIFIED.
+------
+++++ UNAUTHORIZED ACCESS IS FORBIDDEN. VIEWER DISCRETION IS ADVISED.
+------
+
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+[[=]]
+[[collapsible show="+ Enter Credentials" hide="- Access Granted"]]
+[[/=]]
+[[<]]
+[[=]]
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-climatological.png style="margin-top: 1px; width: 35px;" title="Climatological"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-geological.png style="margin-top: 1px; width: 35px;" title="Geological"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extreme-temperature.png style="margin-top: 1px; width: 35px;" title="Extreme Temperature"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png style="margin-top: 1px; width: 35px;" title="Contact"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin-top: 1px; width: 35px;" title="Sapient"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutation.png style="margin-top: 1px; width: 35px;" title="Transmutation"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-destabilization.png style="margin-top: 1px; width: 35px;" title="Destabilization"]] 
+|align=center
+|name=http://rpcauthority.wdfiles.com/local--files/fragment%3Athelid-1/lidtop.jpg
+|width=100%
+|caption={{Fig. 1:}} RPC-306 containment area
+]]
+[[/=]]
+
+[[table style="none; width: 100%;"]]
+[[row]]
+[[cell rowspan="2"]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/beta-black.png width="50px"]]
+[[/cell]]
+[[cell]]
+[[size 125%]]**Registered Phenomena Code:** 306[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###32547A|**Level 3**##[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**Object Class:** --Beta-Yellow-- ##7D3C3A|Beta-Black##[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###32547A|**Classified**##[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+[[include component:image-block 
+    name=Slab|
+    caption={{Fig. 2:}} Photo of RPC-306 taken upon discovery|
+    width=300px|
+    align=right
+]]
+
+**Hazards:** Climatological Hazard, Geological Hazard, Extreme Temperature Hazard, Contact Hazard, --Ideological Hazard,-- ##7D3C3A|Sapient Hazard, Transmutation Hazard, Destabilization Hazard##
+
+**Containment Protocols:** --Given Incident 306-1 and the subsequent changes in RPC-306's effects, the immediate area of RPC-306 is to be walled off to the general public under the premise of the land being reserved for preservation of endangered species. The monument itself is to be researched via robots equipped with self-heating mechanisms.--
+
+--The residents of the nearby town of ████████████ are to be covertly surveilled on a daily basis. No mention of RPC-306 to the citizens is permitted. All residents caught trespassing into RPC-306's containment area are to be amnesticized and released back into the village.--
+
+##7D3C3A|Removal of RPC-306 from its original position, for whatever reason, is strictly prohibited. The area of containment is to be expanded to include the farming village of ████████████, along with all instances of RPC-306-1. Interaction with such instances is forbidden. All persons who enter the containment zone are to be thoroughly checked for clearance via multiple security checkpoints. Anyone caught sneaking past security checkpoints is to be shot on sight. Any animals seen within a 0.5 km radius of RPC-306 are to be shot on sight. Any person seen within a 0.5 km radius of RPC-306 is to be shot on sight. RPC-306 must //never// be moved under //any// circumstances.##
+
+**Description:** RPC-306 is a 3m x 1m x 0.33m rectangular runestone,[[footnote]] An elevated rock with runic inscriptions engraved on one or more of its faces. [[/footnote]] located in the wilderness of Greenland, at latitude ███ longitude ███. The stone itself is made of solid --granite-- ##7D3C3A|obsidian## and analysis indicates that it has stood in its current location for roughly 1,000 years --undisturbed--. The runes seem to be of Nordic origin, though the specifics of which clan created it are indiscernible. --Perplexingly, at the bottom of RPC-306 is a poem written in English, as opposed to the Nordic runes written across the rest of the stone, of which reads:--
+
+> --//May thine fields remain bare,//--
+> 
+> --//And the fruits within slumber in peace,//--
+> 
+> --//So that order be restored throughout.//--
+> 
+> --//For what gluttons dost not chaos reign supreme?//--
+
+##7D3C3A|Carved jaggedly across the whole face of the stone in English is the phrase:##
+
+> + ##7D3C3A|[[size 150%]]//**THEE WERE TOLD**[[/size]]//##
+
+[[include component:image-block 
+    name=Village|
+    caption={{Fig. 3:}} Nearby town of ████████████|
+    width=250px|
+    align=left
+]]
+The temperature surrounding RPC-306 in a circular radius of roughly --750 km-- ##7D3C3A|1250 km## rests at 15 degrees Celsius below temperatures standard to Greenland year-round. This ring of influence encapsulates several small Greenlandic towns and villages. The anomalous drop in temperature rises exponentially the closer one gets to RPC-306, with the runestone itself often measuring in very close to absolute zero, even during summer months. Despite this, no frost or ice build-up occurs on the stone or the immediate surrounding area, though very little plant life can grow due to the extremely low temperatures.
+
+--RPC-306 seems to have an alternate effect on the population of the nearby town of ████████████. The citizens of the town have been documented performing unusual actions in the proximity of RPC-306, and have snuck past Authority patrols to do so, as with Incident 306-1. While it is possible for the latter to be a failure on the Authority’s part with regards to Containment, the former seems to be due to an ideological anomaly that affects all residents of the town. Children as young as five years have been recorded partaking in the same activities as adults. This ideological hazard is also responsible for the earlier “discomfort” when presented with evidence of RPC-306’s existence. Affected individuals seem bound to keep RPC-306 a secret, and as such will exhibit extreme signs of distress upon its mentioning. Since the changes in Containment Protocols, questioning the population about RPC-306 has brought in no new information whatsoever on the anomaly.--
+
+##7D3C3A|The supposed “ideological hazards” theorized to be caused by RPC-306 were, in fact not hazards. The native population of ████████████ simply had prior knowledge of RPC-306’s true effects should it break containment, and, in a misguided attempt to dissuade onlookers, tried to keep RPC-306 a secret. Nevertheless, as shown through the recent murder of Agent Kessler, the local townspeople are now actively hostile to Authority personnel, further complicating the containment of RPC-306. Still, an absence of anomalous properties in the citizens cannot be proven. Therefore, the townspeople of ████████████, before referred to under the PoI designation, are now hereby referred to as RPC-306-1 instances.##
+
+##7D3C3A|RPC-306-2 is an entity that, like the townspeople, may or may not be anomalous in nature. The entity has demonstrated the capability of impersonating high-clearance Authority personnel in such a way as to bypass Authority statement verification protocols. This was the case with both Head Researcher Gilligan and Site-016 Director Victör Marshalssön, who have now confirmed that they had given no approval to move RPC-306. RPC-306-2 seems fully intent on tricking others into breaking RPC-306 out of containment and unleashing the consequential effects, as shown in Addendum 306.2.##
+
+##7D3C3A|Given the extreme risk associated with RPC-306, tests involving its removal from containment are not be conducted. For an idea of the effects of containment breach, please refer to Addendum 306.1.##
+
+[[include component:image-block 
+    name=Fig|
+    caption={{Fig. 4:}} RPC-306-1-66|
+    width=200px|
+    align=right
+]]
+
+**Discovery:** RPC-306 was discovered in winter of 1971 when archaeologists within the Authority went on a recreational hike through the wilderness of Greenland. Authority agents were swiftly called in to section off the area upon the death of one of the aforementioned archaeologists due to RPC-306-inflicted frostbite. Since its discovery, RPC-306 has remained in its original location, untouched and unmoving. The runestone's anomalous properties with regards to temperature have mysteriously increased in strength and range tenfold since new containment protocols were implemented in early 2000.
+
+--Given Incident 306-1, and the consequent messages from Head Researcher Gilligan, Agent Kessler and Site Director Marshalssön, plans are being made to relocate RPC-306 to Site-016 for further study, This is to ensure stronger security measures can be put into effect in order to control RPC-306's ideological properties. A robot with the capability to lift RPC-306 and move it to Site-016 is currently being developed by Containment's Engineering Component. The relocation process is expected to take place December 7, ████.--
+
+**Addendum 306.1:** Incident 306-2
+
+//NOTE: The following video is taken from the robot used to break containment of RPC-306, equipped with both a normal camera lens and a thermal lens. Additional audio is provided from the command center used to control the robot.//
+
+> [[=]]
+> **VIDEO LOG**
+> 
+> ------
+> 
+> || **00:00 – 03:28** ||
+> 
+> [[/=]]
+> 
+> {{**Camera 1:**}} **[** //Feed starts. The camera is slowly approaching RPC-306 as the robot draws nearer.// **]**
+> 
+> {{**Mobile One:**}} The time is 1:03 PM, Western Greenland Summer Time, on December 7th, ████. Skies are overcast, and there is thick fog in the air. We are five minutes behind schedule due to a malfunction with the robot's lifting mechanism, but are set to begin transferral with a few minutes.
+> 
+> {{**Command:**}} Steady approach. We shouldn't damage the anomaly if we don't need to.
+> 
+> **[** //The robot crawls towards RPC-306 at a snail's pace.// **]**
+> 
+> {{**Command:**}} Any changes in the thermisters?
+> 
+> {{**Mobile Two:**}} No, sir. All 1,000 are reading constant temperatures. No fluctuations.
+> 
+> {{**Command:**}} Good. Maybe we can sneak this out under the locals' noses and avoid conflict.
+> 
+> **[** //The robot arrives at RPC-306, stopping in place.// **]**
+> 
+> {{**Mobile One:**}} We've arrived, sir.
+> 
+> {{**Command:**}} Begin extraction of the anomaly.
+> 
+> {{**Mobile One:**}} Yes, sir.
+> 
+> **[** //The lifting mechanism activates, sluggishly moving to grip RPC-306// **]**
+> 
+> {{**Command:**}} Keep it steady.
+> 
+> **[** //The robot grips RPC-306.// **]**
+> 
+> {{**Mobile One:**}} We have secured RPC-306. Beginning extraction.
+> 
+> {{**Command:**}} Proceed.
+> 
+> **[** //RPC-306 is lifted two feet into the air before the lifting mechanism fails.// **]**
+> 
+> {{**Mobile One:**}} Shit!
+> 
+> {{**Mobile Two:**}} Apologies, sir. I thought we fixed that.
+> 
+> {{**Command:**}} No matter. It seems like it still works, just pick the anomaly back up.
+> 
+> {{**Mobile Two:**}} Wait.
+> 
+>  **[** //Movement and typing are heard in the audio.// **]**
+> 
+> {{**Mobile Two:**}} Sir, the thermisters just registered a temperature change of 5 degrees Celsius.
+> 
+> {{**Command:**}} Five degrees lower? Are you sure?
+> 
+> {{**Mobile Two:**}} No sir... five degrees higher.
+> 
+> {{**Command:**}} ... Acceptable. Continue with the extraction.
+> 
+> {{**Mobile One:**}} Underst— what the hell?
+> 
+> {{**Command:**}} Mobile One?
+> 
+> {{**Mobile One:**}} ... You see the camera feed? Why does the sky look red?
+> 
+> **[** //Camera feed shows the sky slowly darkening and the sun shining brightly through the clouds. The sun is getting brighter and brighter. The camera pans down to the stone, which has transformed to match its current appearance. The eponymous phrase is scrawled across the face of the stone. Two seconds of silence pass.// **]**
+> 
+> {{**Command:**}} Mobile One, pick up the anomaly and place it back on the origin point.
+> 
+> {{**Mobile One:**}} Understood, si—
+> 
+> {{**Mobile Two:**}} SIR! Temperatures keep rising! Air temperature is now 2 degrees Celsius above normal!
+> 
+> {{**Command:**}} That is an order, Mobile One! Place RPC-306 back on—
+> 
+> **[** //A loud boom rings out over the audio, followed by a low grumble that obscures speech.// **]**
+> 
+> {{**Mobile One:**}} WHAT THE FU—
+> 
+> {{**Mobile Two:**}} —AVY SEISMIC A— ... —BOVE TWENTY DEGR— ...
+> 
+> {{**Command:**}} //*unintelligible*//
+> 
+> {{**Mobile One:**}} —THE ROCK! THE RO— ... —ON-FUNCTIONI—
+> 
+> **[** //Several loud booms ring out.// **]**
+> 
+> {{**Mobile Two:**}} —IS THAT LA— //*unintelligible*//
+> 
+> {{**Command:**}} //*unintelligible*// —UT THE STONE BA— ...
+> 
+> {{**Mobile Two:**}} —IG HEAT SIGNA— ...
+> 
+> **[** //A loud screeching noise is heard over the audio.// **]**
+> 
+> {{**Mobile One:**}} —LY SHI— ... START YOU BAST—
+> 
+> {{**Command:**}} —OBILE O—
+> 
+> {{**Mobile One:**}} GOT IT!
+> 
+> **[** //The robot starts up, the camera feed heavily distorted from damage. It grabs RPC-306 tightly around and lifts it five feet off the ground.// **]**
+> 
+> {{**Mobile One:**}} GO BA— ... —ELL!
+> 
+> **[** //The grabber arm slams RPC-306 on the point of origin, immediately returning all weather and temperature effects to what they were before containment breach. Audio is coherent again. There is fifteen seconds of silence.// **]**
+> 
+> {{**Command:**}} Move the robot out of the area of influence and detonate it. We're not doing that ever again.
+> 
+> **[** //Camera 1 fails and the feed cuts out.// **]**
+
+**Addendum 306.2:** RPC-306-2 Message
+//NOTE: Moles within the GoI have confirmed that the following message was sent to every member of the Children of Nihil via email at the exact moment RPC-306 was removed from containment. Attached to the message were files detailing the exact location of RPC-306, along with the containment protocols at the time.//
+
+
+@@ @@
+[[div class="document"]]
+[[<]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **THE FEAST HAS BEGUN** [[/span]]
+[[span class="email"]] <@@?PARTAKE?@@> [[/span]]  [[span class="dateR"]] 1:04 PM[[/span]]
+
+@@ @@
+
+-----
+
+The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast has begun. The feast. The feast…It has begun. The feastHas begun has begun begunThe feast has… PARTAKEpartake, dine, forever…forever paRTAKE we…shallPARTAKEPshall…we ?PARTAKE? feastBEGUN hasDine, dinedinedine… forEVER”shall?”wDINEe shaLL fEASTDine hasbEGUNnDI Nhas… begIunDINEHiL nihilnihilnihilnihilnihilNIHILparTAKE FEASTfeast hHaAsS bBbeEegGguUunNn PARTAKkpartakEEfeAStDINeFeaSTBegUNDDINEdNIIHIIIIIDINELNDBEGUnDBEDINEFoREVERR theTHeDINERdDINEdineDINEdinEDINEDDinedIDNEIDINE d1N3 EAT EAT EAT _bgudnasdwdzxcq(PAR#$^TA_!!#%DFKE$!^$EDASF$%);\n
+....
+..
+.
+...
+.
+@@@@
+.
+@@@@
+@@@@
+..
+@@@@
+@@@@
+@@@@
+.
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=image feAST]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=image beGUN]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=image pARTAKE]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=image EAT]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/<]]
+[[/div]]
+
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+@@@@
+@@@@
+
+------
+
+[[table style="none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 150%]][http://www.rpc-wiki.net/rpc-306/offset/1 <<][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+@@@@
+@@@@
+

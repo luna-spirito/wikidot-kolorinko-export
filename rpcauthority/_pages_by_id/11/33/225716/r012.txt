@@ -1,0 +1,30 @@
+---
+title: "RPC-306"
+tags: ["alpha", "beta", "black", "climatological-hazard", "contact-hazard", "destabilization-hazard", "extreme-temperature-hazard", "geological-hazard", "ideological-hazard", "rpc", "sapient-hazard", "transmutation-hazard", "yellow"]
+page_id: "1133225716"
+site: "rpcauthority"
+slug: "rpc-306"
+revision: 12
+revision_id: "1388798591"
+author: 5716946
+timestamp: 1644644359
+---
+
+[[include component:rate
+|runnerup=show
+]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- list of pages for translators
+http://www.rpc-wiki.net/fragment:thelid-1
+http://www.rpc-wiki.net/fragment:thelid-2
+http://www.rpc-wiki.net/fragment:thelid-3
+--]
+
+[[=]]
+<< [[[RPC-305]]] | RPC-306 | [[[RPC-307]]] >>
+[[/=]]
+

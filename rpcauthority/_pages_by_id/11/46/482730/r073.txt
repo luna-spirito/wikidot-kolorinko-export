@@ -1,0 +1,506 @@
+---
+title: "AEDF Theme"
+tags: ["theme"]
+page_id: "1146482730"
+site: "rpcauthority"
+slug: "component:aedf-theme"
+revision: 73
+revision_id: "1383780004"
+author: 4981794
+timestamp: 1634103372
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aedf-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900|PT+Mono|Poppins:600,800');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Exo:400,800');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Round&display=swap');
+
+/*
+    AEDF Theme (made by Qual for official use; requested and assisted by Von Pinciere)
+    [2020 Wikidot Theme]
+*/
+
+
+
+/* General */
+
+body {
+    font-family: 'Exo', sans-serif;
+    font-style: 120%;
+    font-weight: ;
+    letter-spacing: 0.9px;
+}
+
+#page-title {
+    font-family:'Poppins', sans-serif;
+    font-size: 2.5em;
+    padding: initial;
+}
+
+#page-content {
+    font-family: 'Nova Round', cursive;
+    font-size: 110%;
+    font-style: normal;
+    word-spacing: 1px;
+
+    border: double 5px #666666;
+    background: #111111;
+    padding: 15px;
+    border-radius: 15px;
+
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Terminal_Date.png);
+    background-position: bottom center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+}
+
+
+
+/* Headers */
+
+#header h1 a::before {
+    font-family: 'Exo', sans-serif;
+    margin-left: 10px;
+    font-size: 100%;
+    text-decoration: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h2::before {
+    font-family:'Poppins', sans-serif;
+    margin-left: 10px;
+    font-size: 100%;
+    text-decoration: none;
+    letter-spacing: 0.9px;
+}
+
+h1 {
+    font-family:'Poppins', sans-serif;
+    color: var(--primary-text-color);
+}
+
+h2, h3, h4, h5, h6 {
+    font-family:'Poppins', sans-serif;
+    color: #fff;
+}
+
+
+
+/*
+|.::::::;;;;;;DOUBLE-BORDER;;;;;;::::::.|
+|::::;;;C O L L E C T I O N     P A C K;;;::::|
+ */
+ 
+
+
+/* Content Panel Border-Left Section */
+
+.content-panel {
+    border: var(--double-border);
+}
+ 
+.content-panel.standalone {
+    border-left: var(--double-border);
+}
+ 
+.content-panel.series {
+    border-left: var(--double-border);
+}
+ 
+.content-panel.centered {
+    border-left: var(--double-border);
+}
+ 
+.content-panel.left-column {
+    border-left: var(--double-border);
+}
+ 
+.content-panel.right-column {
+    border-left: var(--double-border);
+}
+
+
+
+/* Tabview Border */
+
+.yui-navset-top .yui-nav, .yui-navset-bottom .yui-nav {
+    border: double 3px var(--tabview-button-selected-background);
+}
+
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    padding: 0px 0 0;
+}
+
+
+
+/* Side-Tabview Border */
+
+.sideTabview .yui-nav::-webkit-scrollbar {
+    border: var(--double-border);
+}
+
+.sideTabview .yui-content {
+    border: var(--double-border);
+}
+
+.sideTabview .yui-nav {
+    border-right: var(--double-border) !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+
+
+/* Micellanious Border-Left Section */
+
+blockquote, .content-box, .content-block, .featured-block, .info-block, .news-block {
+    border: var(--double-border);
+}
+ 
+#toc {
+    color: var(--text-color);
+    border: var(--double-border);
+}
+ 
+/*
+|.::::::;;;;;;DOUBLE-BORDER;;;;;;::::::.|
+|::::;;;E N D    O F    T H E    P A C K;;;::::|
+ */
+
+
+
+/* Micellanious */
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+.rateContainer {
+    font-family: 'Exo', sans-serif;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+hr {
+    background: var(--double-border-color);
+    Margin: 1em 0;
+}
+
+.hovertip {
+    border: var(--double-border)!important;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+
+
+/* Micellanious */
+
+.sidenoteI {
+    border: var(--double-border);
+    padding: 0px;
+}
+ 
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: #2c2121!important;
+    }
+}
+
+
+
+/*
+|.::::::;;;;;;USER-NAME INFO;;;;;;::::::.|
+|::::;;;C O L L E C T I O N     P A C K;;;::::|
+ */
+
+/* User Name */
+
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #e6e6e6;
+    box-shadow: 0.5px 1px 3px #1e1e1e;
+    text-shadow: 1px 1px 3px #000;
+    background: rgba(0,0,0,0.25);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: var(--text-color);
+}
+
+#login-status a:hover {
+    color: #fff;
+}
+
+/* Hover box in extended options (in tandom w/ variable --account-options-border) */
+
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+
+/* Regular Extended User Opt. Var. */
+
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+/*
+|.::::::;;;;;;USER-NAME INFO;;;;;;::::::.|
+|::::;;;E N D    O F    T H E    P A C K;;;::::|
+ */
+
+:root {
+
+
+/* General Root Variables */
+
+    --text-color: #c0c0c0;
+    --primary-text-color: #992a28;
+
+    --sidebar-crit-corner-color: var(--link-hover-color);
+    --star-rating-hue: 150deg;
+    --external-graphic-color: 150deg;  
+
+
+/* Background Variables */
+
+    --body-background: #171917;
+    --nav-hover-background: #6f2b2b;
+
+    --primary-background: #201f1e;
+    --content-bar-background: #353332;
+    --news-block-body-panel-background-even: #1d1c1c;
+
+    --text-box-form-background: #1e1b1b; 
+    --text-box-form-border: 1px solid #e97962;
+    --template-block-background: #1a1414;
+
+ 
+/* Header Root Variables */
+
+    --header-custom-text: 'AEDF';
+    --header-tagline-custom-text: 'Authority Extraterrestial Defense Force';
+
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Official_Logo.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Header.png);
+
+    --header-text-visibility: hidden;
+    --header-tagline-top: 8px;
+    --header-tagline-color: #ad4341;
+    --header-tagline-text-shadow: .5px .5px .5px black;
+
+ 
+/* Link Root Variables */
+
+    --link-color: #BF4A48;
+    --link-hover-color: #d87e7d;
+    --new-page-color: #6F2B1E;
+
+
+/* Regular Tabview Root Variables */
+
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid var(--tabview-button-selected-background);
+    --tabview-button-selected-background: #8c3636;
+    --tabview-button-selected-color: #ccc;
+    --tabview-button-hover-background: var(--link-color);
+
+
+/* Side Tabview Root Variables */
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-border: var(--basic-border);
+    --tabview-side-tabs-box-shadow: 1px 0 1px 1px var(--content-box-shadow-color);
+    --tabview-side-box-shadow: var(--content-box-shadow);
+ 
+    --tabview-side-button-hover-background: var(--BT-scrollbar-thumb-hover-background);
+    --tabview-side-button-selected-background: var(--nav-hover-background);
+    --tabview-side-button-divider: 1px solid var(--content-bar-background);
+
+    --tabview-side-scrollbar-background: var(--content-bar-background);
+    --tabview-side-scrollbar-thumb-background: var(--BT-scrollbar-thumb-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--BT-scrollbar-thumb-hover-background);
+
+
+/* Scrollbar Root Variables */
+
+    --BT-resizer-background: #262524;
+    --BT-scrollbar-thumb-background: var(--new-page-color);
+    --BT-scrollbar-thumb-hover-background: #8c3636;
+ 
+
+/* Topbar Root Variables */
+
+    --topbar-dropdown-background: #222;
+    --topbar-hover-background: var(--content-bar-background);
+    --topbar-divider: 1px solid var(--content-bar-background);
+    --topbar-dropdown-border-color: #333;
+ 
+
+/* Searcher Boxes Root Variables */
+
+    --search-button-background: var(--content-bar-background);
+    --search-button-hover-background: #4a3d37;
+    --search-input-color: var(--content-bar-background);
+    --search-input-hover: var(--search-button-hover-background);
+
+
+/* Button Root Variables */
+
+    --button-border: var(--basic-border);
+    --button-hover-border: 1px solid #fff;
+
+    --button-background: #2a221e;
+    --button-hover-background: #503e36;
+
+
+/*
+|.::::::;;;;;;BORDER VARIABLES;;;;;;::::::.|
+|::::;;;C O L L E C T I O N     P A C K;;;::::|
+ */
+
+    --basic-border: 1px solid var(--basic-border-color);
+    --double-border: double 3px var(--basic-border-color);
+    --basic-border-color: #b0b0b0;
+    --double-border-color: var(--basic-border-color);
+
+    --image-block-border: var(--basic-border);
+    --topbar-dropdown-border-color: var(--double-border-color);
+    --tabview-border: var(--double-border);
+    --table-border: var(--basic-border);
+    --account-options-border: var(--double-border);
+    --star-rating-border: var(--basic-border);
+    --tabview-side-border: var(--double-border);
+
+    --topbar-dropdown-border: var(--double-border);
+
+    --sidenote-contents-border: var(--double-border);
+    --sidenote-figure-border: var(--basic-border);
+
+    --tags-border: 1px solid var(--link-color);
+}
+
+/*
+|.::::::;;;;;;BORDER VARIABLES;;;;;;::::::.|
+|::::;;;E N D    O F    T H E    P A C K;;;::::|
+*/
+
+
+
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+
+
+
+[[collapsible show="+ Logos (Images)" hide="- Logos (Images)"]]
+
+----
+[[=]]
++ **AEDF Official Seals:**
+[[/=]]
+
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Official Logo
++++ (Current)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Official_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Legacy Logo
++++ (Classic)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Legacy_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ AEDF Containment Logo
++++ (Nomadic's Prototype)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/AEDF_Containment_White_Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Terrestrial Fleet
++++ (Official Seal)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/TERFLT.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Inner-Sys. Fleet
++++ (Official Seal)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/INFLT.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Outer-System Fleet
++++ (Official Seal)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Aaedf-theme/OUTFLT.png width="100%"]]
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:aedf-theme/code/1); @@
+> @@ [[/module]] @@
+

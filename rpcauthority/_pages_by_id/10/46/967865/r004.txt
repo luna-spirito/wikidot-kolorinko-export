@@ -1,0 +1,26 @@
+---
+title: "Horsepower"
+tags: ["trh"]
+page_id: "1046967865"
+site: "rpcauthority"
+slug: "contest:trhcontestgreekspy"
+revision: 4
+revision_id: "1517004262"
+author: 5982545
+timestamp: 1703604722
+---
+
+[[include component:contest-entry]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[=]]
+<< [[[RPC-051]]] | RPC-052 | [[[RPC-053]]] >>
+[[/=]]
+
