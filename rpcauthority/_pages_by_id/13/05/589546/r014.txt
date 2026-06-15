@@ -1,0 +1,63 @@
+---
+title: "RPC Database Theme"
+tags: ["theme"]
+page_id: "1305589546"
+site: "rpcauthority"
+slug: "component:rpc-database-theme"
+revision: 14
+revision_id: "1357462493"
+author: 3118961
+timestamp: 1604785185
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:rpc-database-theme/code/1);
+[[/module]]
+
+[[collapsible]]
+[[code type="css"]]
+/*
+RPC Database Theme
+
+Created by Vizlox based on the Dark Themes created by BobbyTheEvil and Jenkins respectively
+*/
+
+:root {
+--body-background: #141518 url(http://rpcauthority.wikidot.com/local--files/component:rpc-database-theme/database-bg.png) repeat;
+--text-color: #aaa;
+--primary-text-color: #2d3e99;
+--nav-hover-background: #232d61;
+--topbar-dropdown-background: #141518;
+
+--link-color: #5452e1;
+--link-hover-color: #706eff;
+--new-page-color: #6c4ddb;
+  
+--header-background: url(http://rpcauthority.wikidot.com/local--files/component:rpc-database-theme/database-header.png);
+--header-text-visibility: hidden;
+--header-custom-text: 'RPC Database';
+--header-tagline-custom-text: 'Research, Protection, Containment';
+--header-tagline-top: 3px;
+  
+--blockquote-background: #13161a;
+--blockquote-border: 1px dashed #494949;
+  
+--table-header-background: #191c20;
+--table-header-background-alt: var(--background-3);
+--table-header-color: #aeaeae;
+--table-cell-color: #888;
+--table-cell-background: #0f1113;
+--table-border: 1px solid #3c3c3c;
+
+--WT-body-background: #eee url(http://rpcauthority.wikidot.com/local--files/component:rpc-database-theme/database-bg-wt.png) repeat;
+--WT-header-background: url(http://rpcauthority.wikidot.com/local--files/component:rpc-database-theme/database-header.png);
+--WT-header-text-visibility: hidden;
+--WT-header-custom-text: 'RPC Database';
+--WT-header-tagline-custom-text: 'Research, Protection, Containment';
+--WT-header-tagline-top: 3px;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

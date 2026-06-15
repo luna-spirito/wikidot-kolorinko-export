@@ -1,0 +1,536 @@
+---
+title: "Children Of Nihil Hub"
+tags: ["children-of-nihil", "hub"]
+page_id: "1305816442"
+site: "rpcauthority"
+slug: "children-of-nihil-hub"
+revision: 10
+revision_id: "1544509656"
+author: 4330657
+timestamp: 1780886688
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:nihil-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+:root {
+  --header-tagline-custom-text: "It's Raining Outside";
+  --WT-header-tagline-custom-text: "It's Raining Outside";
+}
+[[/module]]
+
+[[div class="content-panel"]]
+
+[[=]]
++ Article List
+[[/=]]
+
+------
+
+++++ Children of Nihil RPCs
+[[module ListPages separate="no" tags="+children-of-nihil +rpc -hub" perPage="50" order="name"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
+++++ Other Documents
+[[module ListPages tags="children-of-nihil -rpc -hub" separate="no" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+
+
+[[div class="content-panel"]]
+[[=]]
++ Introduction
+
+------
+
+[[/=]]
+[[tabview]]
+[[tab Overview]]
+
+[[=]]
++++ Overview
+[[/=]]
+
+
+[[div class="paperGray typewrite2"]]
+[[div class="revisionStamp"]]
+RDOAD AMENDED 4 JUNE 2003
+[[/div]]
+@@ @@
+The GoI designation "Children of Nihil" applies to a large amount of groups of varying size and characteristics, all partly adhering in some form to a relatively consistent set of religious beliefs. 
+
+While 40% of registered organizations and groups adhering to these beliefs[[footnote]] Denominated "Nihil-Adjacent" [[/footnote]] do so in a minor manner that does not compromise secrecy, the remaining 60% consists entirely of individuals with awareness and interaction with the paranatural, often making them a threat to operational security. A large portion (70%) of this percentage is composed of organized groups directly aware and hostile to the Authority as an organization. The //modus operandi// of these groups is highly variable, but becomes increasingly similar as their adherence to the aforementioned set of beliefs increases.
+
+Nihil groups whose adherence approaches a complete set operate near-indentically[[footnote]] Denominated "Nihil-Core". Nihil-Core groups have less deviation/corruption of original beliefs, while additions remain varied [[/footnote]] -- these are religious cults that revere the cleansing nature of floods, and believe that through metamorphic trials and natural disaster they can create a utopian society free from decadence and corruption natural to humanity. They attempt to accomplish this through the acquisition and exploitation of paranormal artifacts, often tied to historical flood mythologies. Infighting and splintering are common within Nihil-Core groups.
+
+Often, Nihil groups, both adjacent and core, will absorb and assimilate other religious groups in order to gain territorial and tactical advantage, incorporating part of their beliefs into their own, in a way that does not compromise their core set of religious tenets.
+
+All Nihil-Core groups obey the following principles;
+
+# High level of adherence to original Nihil beliefs
+# Belief on Nihil as a state of spiritual transcendence or entity governing over obliteration and nothingness
+# End-goal including universal obliteration of existence through resurrection of the Dead Sun, a purifying aspect of Nihil
+# Adoration of one or more deities of a consistent set of ten[[footnote]] See "Pantheon" [[/footnote]]
+# Abundance of psychological and psychiatrical abnormalities, ranging from psychosis to neurodegeneration
+
+Nihil-based beliefs are subject to common dichotomies present between non-anomalous religions based in the Western and Eastern worlds -- while Western groups uphold their individual doctrines and personal goals with more priority, Eastern groups focus on cosmological aspects of their religion, as well as a universal vision for humanity as a singular group.
+
+This dichotomy is mainly present within Nihil-Core groups. Western groups are characteristic for aggression and more individual/lesser scale approaches against opposing groups, while Eastern ones generally ignore other anomalous organizations in favour of recollection of anomalous artifacts, study and worship. As a direct result of this dichotomy, Eastern groups tend to belong to the Nihil-Adjacent category, while Western ones are commonly Nihil-Core.
+
+Similarly, different Nihil deities are more often worshipped by a specific side. It is important to note that this dichotomy does not necessarily translate to geographical location, but is instead based on trends common to non-anomalous religious groups.
+
+It is currently believed that Nihil-based beliefs are anomalous in of themselves, but there is insufficient evidence to substantiate such a claim.
+
+Authority efforts to identify and define commonalities between these groups has been led by the Research Division [*http://rpcauthority.wikidot.com/the-bureau-of-acquisition Occult Concerns Department] with significant support from RD Unit-119,[[footnote]] Most commonly known as the "Decagon Office" [[/footnote]] and have encountered limited success; most attempts at classification and structuralization of common beliefs have been found to not be applicable in practice, as most individual Nihil cults fail to abide by such systems.
+
+[[/div]]
+
+------
+
+Nihil groups are subclassified by the Authority as follows; 
+
+[[div style="overflow-x: auto;"]]
+||~ Subtype ||~ Description ||~ Aware of the anomalous? ||~  Adjacent or Core? ||
+||~  0 || Group does not hold any significant beliefs associated with Nihil. || N/A || N/A ||
+||~  1 || Group holds a minor number of beliefs associated with Nihil. || No || Adjacent ||
+||~  2 || Group holds a minor number of beliefs associated with Nihil. || Yes || Adjacent ||
+||~  3 || Group shares a major set of known Nihil beliefs, but in a manner that is corrupted or secondary to its general belief system. || Yes || Adjacent ||
+||~  4 || Group shares a major set of known Nihil beliefs, in a manner that is primary to its belief system. May be in possession of one or more anomalous artifacts.|| Yes || Core ||
+||~  5 || Group shares most known Nihil beliefs and is in possession of an anomaly. || Yes || Core ||
+||~  6 || Group shares all known Nihil beliefs, thus adhering to all common characteristics outlined by the Authority.[[footnote]] It is relevant to note that no terrestrial Subtype 6 Nihil cults are known to exist; this subtype exists for the purpose of contrasting the adherence of existing Nihil groups to characteristics outlined by the Authority. [[/footnote]] || Yes || Core ||
+[[/div]]
+Subtypes 1 and 5 are the most common, with Type 3 being the least common.
+
+
+
+[[/tab]]
+[[tab Pantheon]]
+[[=]]
+
++++ Pantheon
+[[/=]]
+
+While Nihil cults generally acknowledge the existence of ten deity archetypes within their pantheon[[footnote]] Along a disputed eleventh [[/footnote]], the overwhelming majority hold a single or a pair of them as their primary focus of worship. These gods are normally referred to as "Suns", and are often depicted as such in art and writing, with each representing a specific symbological meaning associated with the Sun as a celestial figure.[[footnote]] The prevalence of the Authority's perception of these figures as "gods" or "deities" has recently been challenged by individual Occult Concerns personnel, proposing instead an alternate interpretation of these as metaphysical laws. The validity of this approach is questionable, as its primary evidence lies within interviews with individuals affected by anomalies, traditionally considered to be unreliable. Nevertheless, this alternate interpretation has received partial support from the Decagon Office. [[/footnote]]
+
+Not all cults believe that all of these exist, or that they are a singular deity -- some worship several deities at once through expressions of duality, or as a pantheon with benefactor and antagonistic deities. Interpretations vary and may be inconsistent with each other. Some cults may even believe in the existence of other deities not named here.
+
+Worship of a single or pair of gods is central to the structure, symbology and //modus operandi// of each Nihil group, either adjacent or core. Knowing the central figure(s) on any given Nihil group is considered pivotal to maintaining them under control, predicting future action, and permitting vigilance through embedded agents, as each cult operates in a different manner based on their interpretation of a specific god figure.
+
+[[collapsible show="+ Open Abridged List of Deities" hide="- Close"]]
+
+**Name:** Exiled Sun
+
+**Description:** Governor of melancholy and endings. Represents the sunset, and all emotions regarding sunsets.
+
+------
+
+**Name:** Savage Redness
+
+**Description:** The Aztec Sun; a deity that demands blood and sacrifice, and rewards those who rule by the law of the jungle.
+
+------
+
+**Name:** The Pilot
+
+**Description:** The Sun as a wandering vehicle that travels from sunrise to sunset. Associated with the wonder of travel and discovery.
+
+------
+
+**Name:** Orrery of Ages
+
+**Description:** The deity that governs time. Depicted as a massive clockwork timekeeper.
+
+------
+
+**Name:** Void Unending
+
+**Description:** The Sun of the desert, and those who wander it. A destructive, unrelenting force that cannot be communed with.
+
+------
+
+**Name:** Radiant Joy
+
+**Description:** Governor of happiness and joy, taken to its hedonist and violent extreme. 
+
+------
+
+**Name:** Empty Monarch
+
+**Description:** The perception of rulers as descendants of the Sun, or the gods in heaven. It is empty because the power wielded by rulers is empty, and doomed to fall.
+
+------
+
+**Name:** Moth-that-Was
+
+**Description:** The Sun under cloud cover; deceiving and ghostly. It governs the process of change and evolution, but is trapped into a singular indiscernible state. Also called "Worm Sun".
+
+------
+
+**Name:** Early Light
+
+**Description:** The light that dispels darkness, both as the rising Sun and as a muse that dispels the mind's fog. 
+
+------
+
+**Name:** Engineer
+
+**Description:** The current Sun that has exiled all others and taken their place, and is thus seen as malevolent or demonic. Governs science and the laws of physics.
+
+------
+
+
+[[/collapsible]]
+@@@@
+@@@@
+[[/tab]]
+
+[[tab Recommendations]]
+[[=]]
+
++++ Recommendations
+[[/=]]
+While the Children of Nihil can look like a really complicated group with a lot of specifics, its main purpose is to give writers as much freedom as possible.
+
+In-universe, the above and below explanations for the cult are simply an attempt by the Authority to help classify and explain a group that is too diverse and nonsensical to classify and explain. Any single sentence above can be actively ignored, retconned or reinterpreted when writing; a Savage Redness cult that is pacifist, a Radiant Joy commerce group made of depressed businessmen, and an anarchist movement of Empty Monarch followers are all perfectly reasonable things that could easily exist in-universe.
+
+The human cults could even not be the point of your article. Maybe you could write about a series of extraterrestrial or even extradimensional ruins that reference the Nihil pantheon, or maybe you want to have an entity that IS a member of the Nihil pantheon. Hell, what about a series of letters where the Orrery of Ages shittalks an uncaring Void Unending?
+
+While this might all seem a little incoherent and weird for a Group of Interest, it is all linked together by the deities they worship -- or rather, the //themes they represent.// 
+
+Of course, the Radiant Joy represents joy, and the Empty Monarch represents authoritarianism. But there's a lot of room to stretch: how about Radiant Joy as a gateway for maddening eldrich knowledge, or the Empty Monarch as the possessive pride of parents? [[[RPC-311]]] uses Nihil itself, as an interpretation of the Biblical flood, to talk about cyclical history. 
+
+Point is; everything is malleable, while you keep it more or less linked to its themes and the general implication of a "greater something" in which it is involved.
+
+An important contraindicaton: do //not// employ Nihil as a token terrorist organisation. The scope of the Group of Interest as a subject should be instead focused on their beliefs. Their deities are designed to all reflect cultural mankind to a degree, through symbological usage of the sun as a ruling figure. The Children of Nihil //can// serve your generic terrorist group from which the anomalous object that you're writing about was retrieved, but it is best when the presence of Nihil actually means something to the article.
+
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+
+[[div class="content-panel"]]
+
+[[collapsible show="+ Open Writer Resources" hide="- Hide"]]
+
+[[=]]
++ Writer Resources
+
+------
+
+[[/=]]
+[[tabview]]
+
+[[tab Really Long Elaboration on Nihil Deities]]
+
+[[div class="paperGray typewrite2"]]
+[[div class="revisionStamp"]]
+RDU119 AMENDED 7 JULY 2003
+[[/div]]
+@@ @@
+
+------
+
++++ Exiled Sun
+
+**Other Known Designations:** Nameless Exile, Lord of Sunsets, Drowned One, Horizon-Keeper, the Sorrow
+
+**Examples of Symbological Representations:** Sunset, old man falling over the sea, separated lovers, half-buried sphere, Jibril
+
+**Description:** The Exiled Sun governs sunsets and melancholy -- a figure of longing and dread, but simultaneously of the acceptance of endings. While "ending" in this context is primarily interpreted as the end of a positive emotion, ocurrence or event, a secondary, significantly less prevalent interpretation treats it as the end of pain and sorrow. Always old and fading, its followers consider it the hardest truth to accept.
+
+Exiled Sun cults are invariably nihilist in approach, single-mindedly directed towards the bringing of the world-ending flood. Other purposes are considered worthless, as the only thing that can truly bring change is the end of all things. However, followers of the Exiled Sun also indulge in hedonism out of a sense of melancholy for the world, believing they are soon to part.
+
+------
+
++++ Savage Redness
+
+**Other Known Designations:** They Who Thirst, Lord of Meat and Bone, Fair Exchange, Tenochtitlan, Azrael, The Bloodlust
+
+**Examples of Symbological Representations:** Bleeding heart, berserking warrior, human sacrifice, wolf's fang, spear and scimitar
+
+**Description:** The Savage Redness represents the most primal aspects of humanity as a whole. Governing combat and sacrifice, it is an insatiable, lusting entity only calmed by the spilling of blood and cutting of meat. Although not directly worshipped, it is the prime governor of Aztec culture, where sacrifice of humans, animals, and goods is the primary way of communing with the gods. The Savage Redness also symbolizes brutal justice and fairness -- "eye for an eye, tooth for a tooth".
+
+Cults following the Savage Redness are violent and ritualistic, regularly engaging in some form of important sacrifice of material goods, animals, or human lives. They commonly engage the Authority as well as other organized Groups of Interest in combat, and have the second-highest incidence of psychological abnormalities of Nihil cults, leading to the common perception of the Children of Nihil as a zealot organization.
+
+------
+
++++ The Pilot
+
+**Other Known Designations:** Wanderer, They who March, The Voyager, Hafaza, The Vehicle, Eye of Dyēws
+
+**Examples of Symbological Representations:** Chariot, plane, bird, ship, horse
+
+**Description:** The Pilot represents the trajectory of the Sun in the sky, associated with premodern mythology and its common interpretation of the Sun's movement as caused by some sort of vehicle -- exemplified by Ra's barge in Egypt, Helios's carriage in Greece, and Dagr's horse, Skinfaxi, in Norse mythology. Universally described as a vehicle and wanderer, the Pilot governs curiosity, long struggle, and routine.
+
+Pilot cults are commonly nomads, known to inhabit Europe and Asia[[footnote]] It is currently believed that Pilot cults are descendants of late Proto-Indo-European settlers, sharing many of their locations and certain key beliefs. Of note, Proto-Indo-European mythology includes a common motif of the Sun and Moon as deities being carried by horse-driven chariots across the sky. [[/footnote]], having spread in a minor fashion to Africa, while other Nihil cults are more widespread. Paths followed by Pilot cults are cyclical, often directed by the passage of seasons or other, more specific time frames. They display a devotion for technology employed as a means of travel, considering spaceships and artificial satellites divine objects. Several Pilot worshippers and cults have been found across many space agencies,[[footnote]] Including Blue Book and the AEDF [[/footnote]] spanning all kinds of professions -- software development, engineering, piloting, etcetera. 
+
+Unlike other Nihil cults, Pilot followers do not see humanity as inherently malevolent or corrupt, rather led astray by circumstance and hedonism, when devotion to the craft should be its primary goal.
+
+------
+
++++ Orrery of Ages
+
+**Other Known Designations:** Timekeeper, Heart of the Machine, Ridwan, Celestial Clockwork
+
+**Examples of Symbological Representations:** Clockwork machinery, aligned stars, night sky, skull
+
+**Description:** The Orrery of Ages symbolizes the Sun as a timekeeping device responsible for the passage of time. Described as an immense clockwork machine, perfectly attuned with every unit of time. Some representations include spiral imagery, representing time as an inevitable, inescapable passage.
+
+Followers of the Orrery closely associate themselves with those of the Void Unending, in that they both worship inevitable obliteration as an act of divinity. Neither seem particularly dedicated towards bringing the world-ending flood, as they believe it is an inevitable occurrence that cannot be affected by their actions. Of note, representations of the Void Unending and the Orrery of Ages as a romantic couple are abundant, a phenomenon that is rarely observed in followers of other Nihil deities.
+
+However, while Void Unending cults gravitate toward ascetism, Orrery ones tend to shift to pragmatism or artistic inclinations, as they are driven to bring as much change as possible to humanity as possible in their limited lifetimes. Art pieces produced by Orrery followers are known to commonly possess infohazardous properties that cause instant reception of large amounts of Nihil-related information. Dizziness, hallucinations, and ideological crises are common results of exposure.
+
+Orrery cults are generally the most passive of Nihil followers, which makes them hard to identify as their beliefs are not commonly expressed in public. This also makes them the most collaborative with the Authority, second only to Pilot followers.
+
+------
+
++++ Void Unending
+
+**Other Known Designations:** Ceaseless Hunger, Seething Emptiness, Desert Reaper, Icarus' Bane, The End
+
+**Examples of Symbological Representations:** Sun in the desert, empty space, black hole
+
+**Description:** Void Unending represents the Sun as an obliterating, non-sentient force. Sometimes said to be only receptive to hunger, and sometimes depicted as entirely unfeeling. The Void can only be communed and communicated with while in a state of desperation and hunger, which drives some of its followers to a form of nomadic ascetism centered around desert, lifeless landscapes. 
+
+Void Unending followers sometimes claim that the Void Unending is Nihil itself; a primordial abyss of absolute nothingness with an ambiguous sense of sentience.
+
+These cults' ideals vary between passive expectation and hostile accelerationism, but almost never enter conflict against each other.
+
+------
+
++++ Radiant Joy
+
+**Other Known Designations:** Bliss-touch, Golden Ecstasy, The Laughter, Laughing Horror
+
+**Examples of Symbological Representations:** Smiling sun, orange fruit, laughing figures
+
+**Description:** The Radiant Joy represents happiness as an ultimate goal, either for mankind or individuals. Often taken to extremes, Radiant Joy followers are known for having the highest incidence of psychological abnormalities of all Nihil cultists, believed to be self-induced through unknown processes.
+
+While specific beliefs vary wildly, the //modus operandi// of Radiant Joy cults remains the same for most. Their pursuit of joy and happiness is nearly always violent and hedonistic in nature, coming at the expense of other individuals that are not members of their cult. Some exceptions do exist; certain Radiant Joy followers based in Asia have adopted ascetism as an alternative, and as such act in a diametrally opposite fashion.
+
+Radiant Joy followers have some overlap with Savage Redness ones; violence and self-servience are important values for both, and the subject of adoration of some cults seem to blur between either deity. 
+
+------
+
++++ Empty Monarch
+
+**Other Known Designations:** Royalty's Glow, The Hollow, Ozymandias, Maalik
+
+**Examples of Symbological Representations:** Broken crown, throne, dead angel, overthrown monarch
+
+**Description:** The Empty Monarch is the notion that monarchs descend from the Sun or are instituted by divinity. It represents the glory of monarchs and their wealth over everything Earthly and impure, and opposes the mindlessness of the masses. It is also the Ozymandian end that awaits all rulers; kingship is a transient existence, and even the greatest of kingdoms are condemned to fall and be forgotten -- rulers are simultaneously glorious and futile or petty, and both of those aspects must be preserved equally.
+
+Followers of the Empty Monarch are single-minded in their pursuit of reinstating monarchy, feudalism, or other authoritarian forms of government, be it as nobles, kings, knights, or peasants. They tightly follow caste systems and obligations from authority figures, and organize themselves around them. They are known to commit suicide if their ruling figure dies without successor or their caste system is somehow compromised.
+
+Certain Empty Monarch cults believe that every "true" ruler in the history of mankind is an aspect of the same deity, either the Empty Monarch itself or a messenger sent by it. Cults aligning with this belief often have rituals of "emptying" a human vessel for the will of their deity.
+
+------
+
++++ Moth-that-Was
+
+**Other Known Designations:** Fog-Shrouded, Born Ghost, Worm-Sun
+
+**Examples of Symbological Representations:** Sun in cloud cover, moth/pupa/larva, suicide king
+
+**Description:** The Moth-that-Was represents the sun as a deceiving figure, as if behind fog or cloud cover. It is also the sun during midday, as a point of transition and change. As such, moths symbolize the process of change, and the fuzziness associated with it. While it governs deceit, it does not necessarily deceive voluntarily, but rather misleads as a result of its constantly shifting state.
+
+The Moth is often a literal expression of constant evolution and change, but represented as frozen or entrapped into an uncertain shape as a result of its interaction with the Engineer.
+
+Its two most common names -- Moth-that-Was and Worm-Sun -- represent two opposite states of the life of a moth: it is believed to be simultaneously both, or in-between, as if perpetually trapped within a state of transition. Its followers treat it as if both dead and alive, as it cannot be communed with but its voice can sometimes be heard as a whisper.
+
+Followers of the Moth worship the afterlife and ghosts as symbols of their sun, and view change as the purest motion possible in the material world, as it is the primary vehicle for transition. Information, and the change in interpretations of it, are the primary subjects of philosophical analysis by them. 
+
+Identifying Moth cults is difficult, as specific interpretations of their faith differ drastically, and no common trends are visible in most of them. 
+
+------
+
++++ Early Light
+
+**Other Known Designations:** Dissolver of Dreams, Bringer of Enlightenment, The Wakefulness, Israfil, The Light
+
+**Examples of Symbological Representations:** Dawning sun, young woman bathing at the beach, half-buried sphere
+
+**Description:** the Early Light governs cleanliness and revelation; as the morning sun dispels darkness, Early Light dispels dreams and nightmares, as well as brain fog. It is a perpetually young and beautiful figure, sharing the knowledge held by its worshippers, whose heart and mind it dispels of any darkness. 
+
+Followers of the Early Light focus their efforts on creativity, knowledge and art, commonly recording their efforts in fear of losing them. Authority discoveries and breakthroughs related to Nihil beliefs and artifacts are usually due to the Early Light's follower's constant recordkeeping and study, deeply contrasted by other sects' habit to pass knowledge by word of mouth.
+
+------
+
++++ Engineer
+
+**Other Known Designations:** Sol, the Maker, The Foundation, The Great Betrayer, The Thief, Mikail
+
+**Examples of Symbological Representations:** Sun, rusted machinery, dagger, bloated larvae, silver warrior
+
+**Description:** The least common object of worship by Nihil cults, viewed rather as a demonic or antagonistic figure. The Engineer is viewed by nearly all Nihil followers as the reason for the universe's current state, as it is said to have exiled all nine other deities from the universe with a great arrow or spear taken from a deep abyss, and stolen their territories for itself. As such, the Engineer is the foundation of all physical laws, and what keeps all other deities at bay.
+
+In its uprising, the Engineer is said to have ripped a piece of each of the nine deities and used them to build the foundations of the universe. Some Nihil cults seek to recover these pieces for their deity or to destroy them, so as to destabilize universal laws and allow for their deities to return.
+
+------
+
+[[include component:sidenote
+align=center|
+figure=List of "Stolen Pieces"|
+contents=**Exiled Sun:** The ability for things to end -- the Engineer keeps the Exiled Sun's powers away, preventing anything from being truly destroyed forever.
+
+**Savage Redness:** The joy in battle -- harming others becomes largely viewed as negative, and wars are dreaded as a result.
+
+**The Pilot:** The wonder in exploration -- fear is made to dominate the wills of all beings, keeping everything caged in its place. This specific piece is said to have gradually "leaked out" and returned.
+
+**Orrery of Ages:** The passage of time -- time was made uniform and unchanging, rather than its original malleable state.
+
+**Void Unending:** Entropy -- things are allowed to deteriorate slower, and may be able to reform with sufficient time. Due to the Void's power, its piece cannot be kept fully caged.
+
+**Radiant Joy:** Dominance of happiness -- overwhelmed by other emotions, joy was pushed out of its place as the main emotional state of all beings.
+
+**Empty Monarch:** Authority -- the Engineer has taken the Monarch's crown away and used it for himself, as such perpetuating the eventual fall of all monarchs throughout the universe.
+
+**Moth-that-Was:** Transition and evolution, in the form of the "kingdom of ghosts" -- an uncertain dimension or landscape through which the ghosts of all beings and knowledge pass. May refer to the [*http://rpcauthority.wikidot.com/rpc-131 info-plane]. Is said to have been killed in the process.
+
+**Early Light:** Knowledge -- all information was ordered, made streamlined and organized, creating modern science.]]
+
+
+------
+
+Due to the Engineer's place in Nihil cosmology, several cults adopt Gnostic beliefs, equating the Engineer to a demiurgic figure. Some of the more hostile cults take an iconoclastic stance against the Engineer: destruction of its symbols is seen as essential wherever and whatever they may be.
+
+This generalized hatred for the "modern" laws of physics does not prevent the more passive of Nihil followers from employing and researching them -- Pilot followers may specialize in astrophysics, Orrery cults may worship timekeeping devices aligned with modern units of time, etcetera --, but a generalized sentiment of disappointment or disgust remains. 
+
+This sentiment tends to extend to the Authority, as an organization against anomalies in the Engineer's system of universal laws -- sometimes captive Nihil cultists describe the Authority as a sub-police force in the Engineer's greater vigilance scheme.
+
+In extremely rare cases, Nihil cults may have the Engineer as a primary object of worship. These cults are the Authority's primary source of knowledge regarding Nihil mythology and modus operandi, and are considered valuable allies against the more hostile of Nihil cults.
+
+------
+
++++ Eleventh Deity
+
+**Potential Designations:** "Apep", The Arrow, The Arrow and the Flood, Chaos Sun, The Capstone, Missing Piece
+
+**Examples of Symbological Representations:** Arrow, spear, snake, breaking star, poisoned wine, black river
+
+**Description:** The existence of a potential eleventh deity in Nihil mythos is disputed; this figure is rarely referred to directly, and is never an object of worship. However, appearances throughout wildly different interpretations of the theology are extremely consistent in role and nature -- either as an arrow or a spear, poisoned water, an elaborate trap or a magical spell, it is always a tool used by the Engineer in order to win its war and exile all other deities, and characterized as innately malevolent.
+
+This symbology is present in nearly all cosmogonic[[footnote]] Referring to the origin of the cosmos/universe [[/footnote]] narrations from Nihil sources. Differing settings, narratives and interpretations of deities undergo the same process: at some point, a representation of the Engineer uses an object or device to kill or entrap other deities and take their powers for itself.
+
+= [[*http://rpcauthority.wikidot.com/rpc-866 DATA EXPUNGED]]
+
+[[/div]]
+[[/tab]]
+
+[[tab Partial List of Known Groups]]
+[[=]]
++++ Partial List of Known Groups
+[[/=]]
+
+
+------
+
+++++ Nihil-Adjacent
+
+# The Big Cheese Initiative
+# Wult Kajj
+# West Guernsey Social Club [[footnote]] Gentlemen's club [[/footnote]]
+# Chittering Horde [[footnote]] Squirrel enthusiasts [[/footnote]] 
+# Feng Lun Xi Martial Arts School
+# South Sea Enlightenment Movement (Khmer: ចលនាត្រាស់ដឹងនៅសមុទ្រខាងត្បូង / Vietnamese: Phong trào Khai sáng Biển Nam / Thai: ขบวนการตรัสรู้ทะเลใต้ / Mandarin: 南海启蒙运动) [[footnote]] Multinational movement [[/footnote]]
+# Ceremonial Magick
+# Astarte Lodge
+# Board of Spirits [[footnote]] CEO friend group, known for using the dead for insider trading [[/footnote]]
+# Las Vegas glad.is Boys
+# The AGLA [[footnote]] Meaning of the acronym is unknown [[/footnote]]
+# Institute of Hermetic Studies
+# Lectorium Rosicrucianum
+# Omega Hai Foleet [[footnote]] Cult following of an in-universe indie pop singer Reginleif Hardrefildottir (Styled Dotti) from Scandinavia/having connections to Scandinavia with a cult-like influence, a combination of both Aurora and Poppy in a sense [[/footnote]]
+# Order of Hermetic Warlock-Knights of Salt Lake City
+# Fellowship of the Brass Gear [[footnote]] Steampunk-themed roleplay site [[/footnote]] 
+# Data Prophets [[footnote]] Hacker commune [[/footnote]] 
+# Art Forum Hong Kong
+# Lodge of the Broken Horn [[footnote]] Hunting lodge [[/footnote]]
+# Antiquus Arcanæ Ordinis Rosæ Rubæ Aureæ Crucis
+# Arnhem Boys [[footnote]] Urban anarchists [[/footnote]] 
+# Betty's Cooking Forum [[footnote]] Housewives [[/footnote]] 
+# Shadows of Nakkul (纳库尔的影子) [[footnote]] Community following a bootleg Chinese MMORPG (massively multiplayer online role-playing game) [[/footnote]] 
+# Jade Class (of) Desk/Yutai/鱼台
+# Madde Işareti [[footnote]] Terrorist group that stumbled across ancient Nihil weaponry, using it to act covertly on behalf of the Turkish government to kill Kurds [[/footnote]]
+# [[[RPC-411]]]
+# [[[RPC-571|Flayed Clown Flagellatists]]]
+
+------
+
+++++ Nihil-Core
+
+@@       @@ 1. The Shepherds of Men
+
+Located throughout Greece and Northern Egypt, based in The Dodecanese, Greece.
+
+Also known as the Aegean-Egyptian Occult (Greek: Ο Απόκρυφος Αιγαίου-Αιγύπτου), the Shephards of Men is a chapter of the [http://rpcauthority.wikidot.com/church-of-malthus-hub Church of Malthus] that follows Mediterranean Nihilian beliefs. The AEO leans more toward Nihilian culture. Founded in 1816 as a Copt-led thaumaturge society by an unknown Greek professor in Rhodes. Their primary doctrine was to spread the so-called "Nihilist Doctrine", an effort that has been repeatedly crushed by the Authority. 
+
+In modern times the cult has retreated to the shadows and primarily focuses on freeing Malthusian operatives captured by Group of Interest [*http://rpcauthority.wikidot.com/rpc-359 Omega Iota] with the help of various Ricmodist, Greek, and Slavic sects.
+
+@@       @@ 2. The Legal Trading Company (Hōritsu shōsha) 法律商社
+
+Based in Fukui, Japan. 
+
+Flourished as a result of Western and industrial influences; its main population consists of individuals in search of a moralistic philosophy to ground themselves. The group owns a storehouse for tradesmen and industrial companies in the area, which also serves as a front to smuggle Nihil artifacts between China and Japan.
+
+The CEO of this company, whose identity remains unknown, acts as a "mouth" for its guiding deity, a mixture of ideals commonly associated with the Empty Monarch and the Orrery of Ages.
+
+@@       @@ 3. Indigenous Aztec Religion
+
+Extinct. Conquered most of northern Mesoamerica.
+
+There is much debate within certain circles of Research regarding the presence of Nihil beliefs within Central Meso-American pre-colonial belief systems, most notibly the Aztecs. Marco Angelico, Head Researcher in the seventies for Italian Site-136 [[footnote]] This site is where many studies reviewing Nihil's connections to other belief systems have traditionally been undertaken, in part owing to its past rooted in the 'Ordine dei Nove Coltelli', one of the many Renaissance organisations subsumed into Research upon its foundation in the Enlightenment[[/footnote]], has been one of the chief names to endorse this idea, claiming substantial analysis of certain concepts and deities central to its belief system reveal statistically significant Nihil influence.
+
+In particular, the "Five Suns" of Aztec mythos appear to have been culturally influenced by such philosophies, to the point of being sometimes accepted by followers of Angelico's thesis as 'combined expressions of dual Nihil deities'. 
+
+Debate within research surrounding Angelico's statements continues well into the present day, as it would imply the presence of an overriding Nihil-associated cultural force within classic Mesoamerican cultures to strongly influence the development of Aztec civilization, thus ruling out the more substantiated assumption that Aztec culture instead gradually developed into its ultimate state via interactions with smaller Nihil cultures.
+
+The influence of the Savage Redness is especially evident in the prevalence of sacrifice and combat through Aztec culture; sacrifices of blood and human lives were considered pivotal to the continued existence of the Sun, and thus humanity.  Of note is the partial overlap between beliefs commonly associated with the Engineer or Empty Monarch, and those of the Savage Redness.
+
+@@       @@ 4. Mare del Sol del Sur
+
+Spread through South America, especially in Chile and Argentina.
+
+While there are only about 100 members, their true goal remains elusive. Members commonly have nautical connections.
+
+It is believed that they are a reactionary group, defending their territories and nations toward Nihil-related matters. Intel has identified a semblance of structure from intercepted messages. 'Sol Exiliado' seems to be the title of the leader. A 'Primero/Primera de Lagrimas' seem to answer to 'Sol Exilado' and manage the 'Guardia Saudade', a lieutenant-like rank within the cult. Overall structure seems to correlate to cartels, with some names changed.
+
+Of note, "Sol Exiliado" literally translates to "Exiled Sun".
+
+@@       @@ 5. Research Division Unit-119 ("Decagon Office")
+
+Based in Site-136 and Site-223, subsidiary to Occult Concerns Department.
+
+Originally founded in 1968, following an abrupt rise of friendly Nihil-Core sects within the Southern Cone and Western Europe. While its original purpose was limited to managing interactions and potential collaborations with friendly Nihil-associated individuals and groups, it has gradually increased in size and scope. Nowadays, its body of research includes most subject closely associated with the Group of Interest.
+
+A significant portion of the members of the Unit are technically Nihil members themselves; while not known to be members of any individual Nihil sect, they have often expressed to follow common beliefs and worship deities[[footnote]] Worship of the Engineer and Pilot is most common among such members. Both are known to be most prevalent among Authority-friendly sects. [[/footnote]] associated with the group. Such members are held to special regard by Site security forces and not allowed Clearance Levels beyond 2 for security concerns.
+
+The existence of Unit-119 has historically been strongly rejected by local Research Division personnel as an extreme risk to security, despite the absence of major incidents to date that would confirm such a threat. Its contribution to modern studies regarding the Children of Nihil has been pivotal on various occasions[[footnote]] In particular, research regarding RPC-338, RPC-830, RPC-866 and RPC-800. Contributions by the Unit are characterized as often investigating the relationship between Nihil sects and apparently independent anomalous objects, an approach strongly resented by more traditional Research personnel within Site-136 [[/footnote]]
+
+[[/tab]]
+[[/tabview]]
+
+[[/collapsible]]
+
+[[/div]]
+
+
+------
+
+[[=]]
+[[collapsible show="+ Open Footnotes +" hide="- Hide -"]]
+[[/=]]
+[[<]]
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+
+------
+

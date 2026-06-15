@@ -1,0 +1,6463 @@
+---
+title: "RPC-329-1"
+tags: []
+page_id: "1305636850"
+site: "rpcauthority"
+slug: "fragment:rpc-328-1"
+revision: 4
+revision_id: "1385377078"
+author: 5181020
+timestamp: 1635086551
+---
+
+[[module css]]
+.farcomm {
+    background: #1a1a1a;
+    border-radius: 0 10px 10px;
+    padding: 1.5%;
+    margin-bottom: 10px;
+    color: lightgreen;
+}
+.farcomm2 {
+    background: #1a1a1a;
+    border-radius: 0 10px 10px;
+    padding: 1.5%;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.farcomm3 {
+    background: #1a1a1a;
+    border-radius: 0 10px 10px;
+    padding: 1.5%;
+    margin-bottom: 10px;
+    color: #f00;
+}
+.farcommTop {
+    color: #ddd;
+    background: #1a1a1a;
+    padding: 1.5% 1.5% 0 1.5%;
+    border-radius: 5px 5px 0 0;
+    width: 25%;
+    min-width: 150px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 90%;
+}
+.farcommTop p {
+    background: #000;
+    margin: 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+.farcommBody {
+    background: #000;
+    font-family: monospace;
+    padding: 2%;
+    border-radius: 5px;
+    font-size: 1.4em;
+}
+
+.footnotes-footer {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+[[/module]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | INCOMING FARCOMM MESSAGE[[footnote]]FARCOMM is the Authority's basis for supraluminal communications. The system relies on manipulation of paired bits in quantum entanglement to correspond to a binary language, creating a crude code which can be translated and delivered as text. Because quantum entanglement occurs irrespective of distances across the universe, the Authority can communicate instantly with outbound and in-field vessels at distances that would take traditional, light-based communication thousands of years to complete.[[/footnote]]
+    | FROM: CARGO DELIVERY SHUTTLE 1A30DC
+    | ACCEPT?
+[[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | MESSAGE AUTHORIZED
+    | >1A3ODC, THIS IS BASE, GO AHEAD. 
+[[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THIS IS JEFFREY JAMESON. EMPLOYEE NUMBER 1B001819. 
+    | >I JUST DROPPED OUT OF FTL.[[footnote]]Faster than light (travel).[[/footnote]]
+    | >NOT SURE HOW TO PROCEED.
+    | >ALL SYSTEMS GOOD.
+        [[/div]]
+[[/div]]
+ 
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >HI JEFFREY. STANDBY
+    | >1A3ODC, THIS IS TECH. WHAT HAPPENED EXACTLY? 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >I HAVE NO CLUE. WAS 2/3RDS THE WAY TO DESTINATION. SUDDEN JERK.
+    | >NOW OUT. 
+    | >SLOWING DOWN NOW, ODD.
+    | >UNFAMILIAR REGION.
+    | >JUST COASTING NOW.
+    | >ALL ON BOARD SYSTEMS ARE RESPONSIVE. 
+    | >ALL SELF TESTS PASSED. 
+    | >EXCEPT FTL LAUNCH. 
+    | >AND LOCAL COMM SYSTEMS.[[footnote]]Traditional light-bound communications.[[/footnote]]
+    | >TL;DR CAN’T RETURN TO FTL SOLO.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, ANY ALARMS ON HAZARD LOG?
+    | >HOW ARE PARAMETERS?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >PARAMETERS ARE WITHIN NORMAL LIMITS.
+    | >FLOW IS 5.2 LPM, PI IS 4.3, GWATTS ARE 7.2. 
+    | >NO ALARMS.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >CAN YOU SEND COORDINATES OF YOUR CURRENT LOCATION?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >RIGHT ASCENSION ██H ██M ██.███S
+    | >DECLINATION +██° ██′ ██.██″
+    | >ABOUT 21.5 KLY[[footnote]]Kilo-lightyears, or thousand-lightyears.[[/footnote]] AWAY FROM YOU.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >STANDBY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >ALRIGHT DISPATCH CREW IS ON THE WAY. 
+    | >DELIVERY ATTEMPT WILL HAVE TO START OVER. 
+    | >WILL NOTIFY THE RECIPIENT. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THANK YOU. STANDING BY. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, DO YOU COPY?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >I COPY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, THIS IS NAV ADMIN. YOU ARE WAY OFF ROUTE. WHY IS THIS?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, DO YOU READ?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YES I READ. SORRY. I WAS RUNNING LATE. TOOK A SHORTCUT. COMPUTER PUT IT AT 3 PARSECS SHORTER. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, THAT WAS UNAUTHORIZED. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >I KNOW. I AM SORRY. EATING IT NOW. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, WE HAVE NO CHOICE BUT TO LET YOU GO THEN. 
+    | >THATS THE BREAKS. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NO DON’T LEAVE MECOUT HERE. I AM SORRY I HAVE DONE IT BEFOFE WITH NO ISSUES. I AM SOREY. PLEASE COME. 
+        [[/div]]
+[[/div]]
+
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFF, KIDDING. IT’S TONY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >TONY YOU FUCK.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >WE COULDN'T HELP OURSELVES. 
+    | >EVERYONE TAKES SHORTCUTS BTW.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YOU BETTER NOT COME GET ME NOW.
+    | >I AM GOING TO KICK YOU IN THE NUTS. 
+        [[/div]]
+[[/div]]
+
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >WE SENT A TEAM, ON THE WAY. 
+    | >BUT YOU GOTTA PAY. 
+    | >ONE SCREENCAP FROM FLIGHT LOGS OF YOUR FACE 
+    | >WHEN YOU WERE SHITTING YOURSELF. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >DEAL. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >STANDBY. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY. CREW IS REPORTING IN AT LOCATION. 
+    | >NO VISUAL ON YOU. 
+    | >CAN YOU SEE ANY BEACONS?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NEGATIVE. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >AND YOU CAN’T REACH OUT TO THEM?
+    | >WITH RADIO?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >CORRECT. 
+    | >I’M MUTE & DEAF EXCEPT FOR THIS. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >CAN YOU DESCRIBE YOUR VIEWPORT?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NEBULA DOMINATES. SPARSE OTHERWISE. MILKY WAY ARMS VISIBLE. SOME PLANETS. MANY MOONS.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >DESCRIBE THE NEBULA.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NOT A LARGE CORONA, THIN. 
+    | >BLUE. 
+    | >LOOKS LIKE A STELLAR NURSERY. TWO LARGE STARS IN MIDDLE VOID.  
+    | >ACTUALLY IT LOOKS LIKE AN ANIMAL WITH EYES. 
+    | >LIKE A PET IN A FLASHLIGHT.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >NOT ENOUGH LANDMARKS MAYBE. 
+    | >CAN YOU LAND ON ANY SURFACE NEARBY?
+    | >THEN DEPLOY SOS FLARE BEAM.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YES. 
+    | >SMALL DARK MOON.
+    | >OR ASTEROID, WHATEVER. 
+    | >WHITE CRATERS. 
+    | >ROGUE, NO HOME PLANET. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >TOUCH DOWN.  
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >SOS BEAM UP. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >BASE, DO THEY SEE ME? 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, WE HAVE NO VISUAL. NO NEBULA AT COORDINATES.  
+    | >STANDBY.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, WRONG COORDINATES. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NO THEY ARE CORRECT. TRIPLE CHECKED. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >NO. WE INPUT THE WRONG COORDINATES. 
+    | >WRONG SIGN, + INSTEAD OF —. TYPO. 
+    | >OUR BAD. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >ARE YOU STILL JOKING TONY?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >NEGATIVE JEFFREY. 
+    | >ACTUALLY LOOKS LIKE DATA CORRUPTION. 
+    | >GLITCHED PIXELS.
+    | >SORRY. SOME BAD LUCK.  
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >HOW LONG OUT?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >21KLY IN THE OPPOSITE DIRECTION. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >WHAT DOES THIS MEAN?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >A DELAY BUT NOT TERRIBLE. HOW ARE YOUR STORES?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >O2 97.5%.
+    | >WEEKS WORTH OF H2O & FOOD. 
+    | >GOOD. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >THIS CREW NEEDS TO RECHARGE FTL NOW. 
+    | >CAN SEND CRITICAL CARE TRANSPORT TO GET YOU. 
+    | >ONLY OTHER SHIP HERE AT BASE RN. 
+    | >FANCY. LUCKY YOU. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >BASED, BASE. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >STANDBY.  
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >STANDING BY. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFF, NO CRITICAL CARE TRANSPORT. 
+    | >HAPPENS TO BE IN CLEANING. RE-GALVANIZING ITS HULL.  
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THAT IS A THING?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >YES. 
+    | >FOR 12 HRS, ONCE EVERY 5 YEARS. 
+    | >SORRY AGAIN. HOW UNLUCKY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >WELL.
+    | >SHIT. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >FIRST CREW IS DUE BACK SOON.
+    | >WILL SEND ASAP. 
+    | >STANDBY.  
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NOTHING ELSE TO DO BUT. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >COME IN BASE, THIS IS 1A3ODC, DO YOU COPY?
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >COPY 1A3ODC, THIS IS BASE.
+    | >GO AHEAD.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >JUST LOOKING FOR AN UPDATE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >TEAM IS BACK, BUT CHARGING.
+    | >NO NEWS.
+    | >SORRY, WE ARE A LITTLE BUSY.
+    | >WILL UPDATE.
+    | >DISTRESS IF ANY TROUBLE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >ROGER.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >BASE, I KNOW YOU ARE NOT RESPONSIVE.
+    | >NOT A DISTRESS CALL, SO.
+    | >BUT HOPE IT'S OK THAT I JUST TYPE.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YEAH, YOU GUYS FOCUS ON THAT RECHARGE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THIS IS AN ODD PLACE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THERE IS A DISTANT STAR, PROB SEVERAL AUS.[[footnote]]Astronomical unit; the distance between Earth and the Sun (1.496x10^^8^^ km).[[/footnote]]
+    | >MODERATE LIGHT.
+    | >THIS NEBULA THOUGH.
+    | >IS BIG. BUT FAR ENOUGH AWAY.
+    | >I CAN COVER IT WITH MY PALM.
+    | >IF I CLOSE ONE EYE.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >LOOKING STRAIGHT UP AT IT HURTS MY NECK.
+    | >NEW MEANING TO THE TERM MOONROOF.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THE ROTATION OF THIS MOON IS FAST.
+    | >THE NEBULA HAS DISAPPEARED OVER THE HORIZON AND BACK AGAIN SEVERAL TIMES.
+    | >I THINK I'VE ONLY BEEN HERE FOR
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >6 HOURS.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >*6 EARTH HOURS.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >SEVERAL OTHER MOONS OR PLANETS OR WHATEVER MOVING AROUND THE NEBULA.
+    | >THEY ARE VERY SMALL FROM HERE.
+    | >BUT I CAN SEE THEM REFLECT LIGHT AS THEY CROSS THE GAS CLOUD. 
+    | >MUST BE GOING VERY FAST. 
+    | >THEY GET OUT PAST IT AND THEN SLOW DOWN.
+    | >THEN FALL BACK DOWN AND GO BEHIND IT.
+    | >KIND OF FUN TO WATCH.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >MAYBE MIND TRICKS, BUT THE NEBULA SEEMS BRIGHTER OR BIGGER EACH TIME. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >THIS NEBULA REMINDS ME OF GIMO.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >GIMO IS MY CAT.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >BASE.
+    | >COME IN.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >MOONS AROUND NEBULA STOPPED.
+    | >NO LONGER ORBITING.
+    | >NOT SURE WHAT THIS IS.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >DEFINITELY STATIONARY NOW.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >I THINK THE STAR IS GETTING DIMMER.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >HOLD ON.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YES DEFINITE. 
+    | >STAR GETS DARKER EACH ROTATION.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >LOTS MORE STARS NOW. 
+    | >THIS IS GETTING WEIRD. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >UNLESS YOU RESPOND I THINK I AM GOING TO DISTRESS CALL.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YOU THERE?
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, DO YOU COPY?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >YES. I AM HERE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >GOOD TO HEAR FROM YOU.
+    | >IS THE TEAM ON THE WAY?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >YES, TEAM IS EN ROUTE.
+    | >T-MINUS 3 HRS.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >*EARTH HRS
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >DAMN LOL. THANKS.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JESUS YOU ARE LIKE AN EX GF. 
+    | >WITH ALL THE MESSAGES.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >WHY WOULD YOU NAME A CAT GIMO?
+    | >ANIMAL CRUELTY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >NAMED AFTER NON-GMO.
+    | >CUZ HE SMOL.
+    | >DID YOU SEE ALL MESSAGES?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >READING.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >OK. HM.
+    | >STANDBY.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >MEDICAL WANTS TO KNOW:
+    | >WHAT IS YOUR:
+    | >NAME, DATE OF BIRTH, WHAT YEAR IS IT?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >JEFFREY JAMESON
+    | >03/29/49
+    | >IN EARTH YEARS?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >KIDDING. 2493.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >I'M FINE. NEURO CHECKS ARE GOOD.
+    | >I'M NOT GOING CRAZY OUT HERE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >YEAH THEY HAVE TO CHECK.
+    | >O2 LEVELS?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >97.25%.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >OK. NOT SURE ABOUT THE MOONS.
+    | >OR STAR.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >ME NEITHER. NEVER HEARD OF ANYTHING LIKE THIS.
+    | >IT'S VERY DARK NOW.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm"]]
+[[div class="farcommBody"]]
+    | >EXCEPT FOR THE NEBULA.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >COME IN BASE
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >TONY
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, WHAT IS YOUR EMERGENCY?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >THE MOON HAS STOPPED.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >THE MOON I AM ON HAS STIPPED ROTATING. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, ARE YOU SURE?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >TWHAT DO YOUR MEAN YES I AM SURE.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >IM STOPPED. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >IN THE DARK. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >NEBULA iS DIRECTLY OVERHEAD. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >PERFECTLY ALIGNED.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >HUGE. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >EYES BRIGHTER. 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, REMAIN CALM.
+    | >TEAM IS INBOUND.
+    | >5 MIN.
+    | >TRY YOUR RADIO JUST IN CASE. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHY ARE THESE EYES
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >1A3ODC, TEAM IS AT NEBULA.
+    | >REPEAT, TEAM IS AT NEBULA.
+    | >VISUAL DESCRIPTION CONFIRMED.
+    | >ANIMAL LIKE WITH "EYES"
+    | >DO YOU COPY?
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >I COPY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >THE AREA IS DARK.
+    | >TEAM REPORTING VERY POOR VISIBILITY. 
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >I COPY.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY, TELL US THE ORIENTATION OF THE NEBULA FROM YOUR POV.
+    | >WHAT DO YOU SEE WHEN YOU LOOK AT IT?
+    | >INCLUDE PROMINENT FEATURES.
+    | >WE CAN DEDUCE YOUR POSITION.
+    | >USING 3D MODEL.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >STRAIGHT ON.
+    | >THROUGH THE CLOUD.
+    | >LOOKING DIRECTLY THROUGH GAP.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >LARGER ARM OF NEBULA CLOUD ON RIGHT SIDE.
+    | >EYES TOWARD ME.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >TO CONFIRM:
+    | >YOU ARE LOOKING STRAIGHT THROUGH?
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >YES.
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >ARE YOU SURE THE MOON IS DARK?
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >YES.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHATS THE MATTER
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHATS WRONG
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >TEAM IS REPORTING THEY ARE LOOKING THROUGH THE NEBULA TOO.
+    | >WE KNOW WE AREN'T ON THE OPPOSITE SIDE OF IT.
+    | >LARGER ARM OF NEBULA CORONA IS ON THEIR RIGHT, LIKE YOURS.
+    | >NO MOON.
+    | >SHOULD BE RIGHT ON YOU.
+    | >SOS BEAM STILL ON?
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >YES DAMN IT
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHATS GOING ON
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >TONY
+    | >FUCKING TALK TO ME
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >NO SOS BEAM.
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHAT
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >I'M MOVING
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >MOON IS MOVING TOWARDS NEBULA
+    | >FAST
+    | >VERY FAST
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHY CANT YOU SEE ME
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >WHY ARE THESE EYES NOW
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >FUCK THIS
+    | >I AM LAUNCHING OFF
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >LIFT OFF
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY, % CHANCE OF FINDING YOU IS LESS
+    | >WITH YOU MOVING
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm3"]]
+[[div class="farcommBody"]]
+    | >NOT GOING TO GET SWALLOWED 
+    | >INTO SOME BLACK HOLE 
+        [[/div]]
+[[/div]]
+
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY COME IN
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY COME IN
+    | >THEY FOUND THE MOON
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY COME IN
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >YOU CANT BE THAT FAR
+    | >COME IN
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY THIS IS TONY
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >JEFFREY
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="farcommTop"]]
+FARCOMM 1A3ODC
+[[/div]]
+[[div class="farcomm2"]]
+[[div class="farcommBody"]]
+    | >COME IN
+        [[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[note]]
+[[size 125%]]
+<{{[http://rpcauthority.wikidot.com/rpc-329/offset/1 COMM LINE ENDED. ENTANGLEMENT PAIRING NO LONGER FOUND]}}>
+[[/size]]
+[[/note]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+

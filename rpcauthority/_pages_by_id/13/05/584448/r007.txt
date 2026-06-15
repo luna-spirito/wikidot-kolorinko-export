@@ -1,0 +1,32 @@
+---
+title: "Black Cat Nebula"
+tags: ["misfortune2020"]
+page_id: "1305584448"
+site: "rpcauthority"
+slug: "contest:misfortunecontestieatcrepes"
+revision: 7
+revision_id: "1517004360"
+author: 5982545
+timestamp: 1703605610
+---
+
+[[include component:contest-entry
+|ported=	yes
+|link=	rpc-329
+|title=	RPC-329
+]]
+
+[!--Thanks to [[*user Vizlox]] for CSS for FARCOMM--]
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- Pages/Offsets
+http://rpcauthority.wikidot.com/fragment:blackcatnebula1
+http://rpcauthority.wikidot.com/fragment:blackcatnebula2
+--]
+

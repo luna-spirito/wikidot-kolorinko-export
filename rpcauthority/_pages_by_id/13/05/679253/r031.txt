@@ -1,0 +1,2483 @@
+---
+title: "866 1"
+tags: []
+page_id: "1305679253"
+site: "rpcauthority"
+slug: "fragment:866-1"
+revision: 31
+revision_id: "1357785486"
+author: 6264298
+timestamp: 1606022595
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:nihil-theme/code/1);
+[[/module]]
+[[module CSS]]
+/*
+Nihil theme
+
+Designed by Boson and Vizlox
+
+Based on the RPC Database themes by Jenkins
+*/
+
+:root {
+  --body-background: #000;
+  --text-color: #aaa;
+  --topbar-dropdown-background: #141518;
+
+  --header-text-visibility: hidden;
+  --header-custom-text: 'Children of Nihil';
+  --header-tagline-custom-text: 'The Arrow and the Flood';
+  --header-tagline-top: 3px;
+  --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Anihil-theme/NihilWhiteLogo.png);
+  }
+
+}
+[[/module]]
+
+A muted, shrill screech tore through the quiet land as a rusted folding gate shuddered open, its barbed-wire top just peeking over the dusty haze of the wide, glassy flats. The faint chatter of distant radio towers muttered in the hot air, voices carried over the winds through the old chainlink fence below, an evidently hasty construction by whomever had built it.
+
+For a moment all was quiet in the open fenced space, the desert sun beating hungrily on the torrid land. A distant vehicle revved, sputtering to life, and before long the sound of engines grew louder and louder. An old jeep burst through the barbed gateway, ambling forth jerkily across the dry, cracked ground as its driver spurred it on from its checkpoint. 
+
+Its driver was already tired, already stressed, but she carried on anyway. There was a job to be done, after all.
+
+//And what a shit start it's been,// Em thought, eyes watering as she tried desperately to quell the butterflies in her stomach. Outside the gate, there'd been barely anyone to greet her but a lone ASF guy, his eyes half-glazed over. Piss-poor facilities, piss-poor containment -- it was nothing like anywhere else she'd been. She regretted not listening to what the others'd told her about AFRICOM. Her tiredness didn't help, either.
+
+The jeep jerked, breaking her from complaint, back to reality. She swore.
+
+Try as she might, she couldn't help it when her eyes shifted in and out of focus as she drove. Em bit down softly upon the thick of her lip, just enough as not to draw blood in spite of the stress building up inside her. //Stay awake, Em. Come on.// Hands clenched tightly around the jeep's battered leather steering wheel, she was careful not to make one move out of place as the shuddering thing wobbled this way and that, her windshield dust-rimmed and warm from the hot air.
+
+The files on the seat beside her slipped out onto the floor of the car, blowing about. //Damn it//. She'd have to pick those up when she got out.
+
+It had been a while since she'd done this. Back home she preferred to use public transportation, supplied cars, anything. It was easier that way.
+
+Even without sleep deprivation on the table, it hadn't been normal to drive alone for a long time, now.
+
+"No false turns, Em," she berated under her shaking breath, brow furrowing. "You're better 'n that."
+
+Garbled voices issued from the radio to her belt, the channels switching constantly. It was distracting, but not unwelcome; distraction was good, better than the alternative. The hot wind blew, the engine-sounds grumbling. Her stomach growled; briefly the image of a nice cup in her hands, warm and homely, flashed in the back of her sleepless mind. Distractions, distractions...
+
+"Coffee would've been nice 'bout now..."
+
+//No time, stupid. The wheel, remember the wheel!//
+
+Her cousin would have told her she was being too serious again. //Always so absorbed in your work now, Milly,// he'd have said. //How 'bout ya cut loose sometime? Treat yourself? God knows you deserve it.//
+
+She pursed her lips, moot humming synchronous with the engines of the car. They'd meant to meet today at her dad's favourite coffee place, catch up on old bygones. Three years of work tended to sew distance in a family, and as much as he joked she knew he'd been busy, too. 
+
+Family was important. She knew that now better than anyone, but even so, when work came calling... 
+
+Her supervisor, Gilmore, had contacted her on Thursday, just under three days ago. A private flight was already arranged to a base in Egypt, papers signed -- everything. it was cruel to do this to her cousin, she knew as much, but this was more important. Work took her mind off things. He understood that.
+
+She'd barely rested on the way here, the watchful eyes of some trooper or another making such goals difficult, not to forget the endless string of contingency check after contingency check piled on top of her plate. She'd tried joking half-heartedly with one of the guards at the time, half to find answers and half to fill the void of silence. She'd known him from a previous job, but it seemed he'd decided to change his name.
+
+//Jackboots, huh? Join the union while we weren't looking?//
+
+//Got family in maint. Slang's catchy.//
+
+//Me too, a cousin. Say, you know where we're goin' in this thing?//
+
+Jackboots went silent after that. Probably didn't know, or just didn't care enough to tell her. //Whatever//. She was used to people doing that to her, anyway.
+
+//It'd just be a quick job,// Gil had said. //Type o' shit you've dealt with before, and I know how much ya prattle on about Egypt. Thought you'd like it.//
+
+The request had been unspecific at the time, and he was right, she //did// like Egypt, so //of course// she’d said yes. They’d often had her go on abrupt trips like this, but they’d never been too dangerous, considering the nature of her line of work. Her father's position didn't hurt, either. As much as she liked the fantasy that her position was built on merit, she knew her past had essentially thrown that notion out of the window. It was plain to her as much as any of her colleagues that blood mattered more than the Authority would care to admit when it came to things like these. 
+
+This was supposed to have been no different, and yet somehow - it’d become just that: something //strange//, but not in any way she could pinpoint. The engine revved, and she dialed back on the pedal. She couldn't risk overheating it, especially not in this kind of weather.
+
+These burning flats before her now offered little comfort. So unlike the desert outside the fence, there was no fine sand, no windswept sediment; shattered layers of sand-turned glass radiated out across the space, now already half-covered with dust even though it had only been a week since supposed impact. It was so similar to images from nuclear test sites she’d seen, but there was no radiometric signature, the gauge on the seat next to her beeping slow and silent as ever.
+
+She’d asked when she arrived if she would have a team with her. Such a request was -- damn them -- viewed as nonsensical -- everything she was supposed to study was in her areas of expertise, and the anomaly presented no immediate danger to her health: ‘it’s just translation’, Comm had said in their classic scatter-brained, doldrum instructions. So, of course, the request was denied. And, upon arrival at the blasted place, the guards had left her too - she was on her own.
+
+A jolt. The jeep shook still. Something was blocking her path. Slowly, she let out a sigh of relief she hadn't known she'd been holding.
+
+The engine sputtered, car drawing to a stop. Squinting, she peered through the biting dust that covered the windshield before her. The vague outline of her destination jutted faintly through the haze, not too much farther away.
+
+When she’d first been told about the pyramid, she’d been excited. Her father had often taken her on trips with her cousin when they were younger to these kinds of places, old archaeological dig sites and the like; those times were some of the rare moments she could remember as being truly //happy// in her childhood, joining him in his work and actually getting to know what was usually so often a quiet, reserved man, a better teacher than parent. That aside, it was like any child’s dream come true: to be //the archeologist//, to discover the next KV62 -- Tutankhamun’s tomb. Now that she was here, though...  
+
+The photographs given to her in the briefing room hadn’t been impressive, not at all: the strange thing was smaller than even the smallest of pyramids at Giza, struggling to reach some fifteen meters in height. Standing before it now, she thought it more a lump of raw-cut bricks in a loosely triangular fashion than any conventional pyramid she knew.
+
+A small smile crossed her face, brown eyes thoughtful; the analyst in her knew better than to judge things by their outward appearance.
+
+Coughing, Em shut the door, grabbing her pack out of the back. It was relatively light, with enough rations for two days -- all she’d need, they’d said. Reaching inside her bag’s small outer pocket, she pulled out a handheld communicator. 
+
+//Hourly reports necessary//. Those were her instructions.
+
+Communicator set on the correct channel and fastened tightly to her belt, she set off. A distant bird called over the sands, its voice high and keening. Em looked up. It was a falcon.
+
+//“Arrived at the site.”// she spoke out, her voice hoarse from sand. The device croaked in response, giving her a swift go-ahead and simple instructions. A dry sinking feeling set in, a resignation she knew well. "Alright, Em. Time to work."
+
+The sandy air was less obfuscating now, the stark form of the middling pyramid near-eroded beyond the point of recognition now jutting up black against a yellow-blue sky. //Find the inscriptions//. That was what they’d said. She steeled herself. Three breaths. Then forward.
+
+------
+
+[[div class="paperGray typewrite2"]]
+
+------
+[[=]]
++ RPC-866 Mission Brief Transcript (██/██/████)
+[[/=]]
+------
+
+**//[Silence; 3 seconds.]//**
+
+**A:** You’re late.
+
+**B:** Plane got caught up, there was a storm. Y'know, your guards weren't very welcoming.
+
+**A:** Not their job. Still awake?
+
+**B:** Barely. Burning the midnight oil, you know how it is... Say, you have coffee?
+
+**A:** No, we don't. I’m sorry for all this, you were one of the few available first-response researchers. Not many sign up for FR. Your file says you are a paralinguist?
+
+**B:** Yes, but they’ve used me all over. My father’s-
+
+**A:** We know about your father. Taught you a lot, didn’t he?
+
+**B:** Yeah. Took me on all kinds of trips when I was a kid to places like this, but... You know how it is, when you're grown up. We're both so busy.
+
+**A:** He is an intelligent man. 
+
+**B:** Yeah. I've -- yeah, I've been told that a lot.
+
+**[Pause]**
+
+**A:** Let’s get started, then. Did they tell you anything about what you would be dealing with on the way here?
+
+**B:** Zilch. They were all quite tight-lipped on the whole thing, I'd assumed they didn't know much. 
+
+**A:** You'd be correct. An unfortunate side-effect of scheduling, I’m afraid -- had to borrow a few, move 'em around. Look - here's the rep. About a week ago something crashed just off-Site. Research - us - has had our hands full.
+
+**B:** That why I’m here?
+
+**A:** Exactly. You're smart, and we are in desperate need of //smart people//. Temporary boundaries have been set up since then, but we're not fully done with testing, not yet. We’re calling it RPC-866. 
+
+**B:** What's ‘It’?
+
+**A:** Mostly just a large impact site. No crater, but the sand’s all turned to glass. Crash revealed a pyramidal structure of some kind. See for yourself.
+
+//**[A file is thrown on the desk, hitting its surface with a loud smack.]**//
+
+**B: [Pause]** Hit anything habitable?
+
+**A:**  No, of course not. You wouldn't be here, otherwise.
+
+**B:**  Any word from AEDF?
+
+**A:** Nothing. Or at least, no reports on it.
+
+**B:** ... Cover-up? 
+
+**A:** We don't know, and even if we did, I doubt I'd be able to tell you that kind of information given your standing. Alright, let's see...where were we... Ah, right, we've been sending in several scouts over the past week on your way here. Experimenting, searching, //testing//. Despite the green glass, there's no apparent radiation on the surface. Sent in geologists, they did a rough prelim survey using ground-penetrating radar. Check the papers, it's all in there.
+
+**B:** This is... strange. You sure it's not a mistake on their part?
+
+**A:** We had 'em run it through several times. Each time same results, but it's not manmade, it's pulsing, the radius changing. Some guy said it was almost living, but that was unsubstantiated. Seismic tests are variable too. There's some kind of cavity under there, and a... way leading down, at least we think. Its size is spatially inconsistent, almost definitely anomalous to some degree, though we don't suspect anything particularly dangerous. It isn't growing more than it already has, anyway.
+
+**B:** What does any of this have to do with my work?
+
+**A:** We found several engraved inscriptions by the base, hieroglyphic in nature, though some seem half-ruined by the impact. Our linguists on-site seem to think it's related to writings from the Middle Kingdom, but that's nonsensical. I know it was last minute, but none of our people can translate it, and, well, with your Father's past work...
+
+**B:** Yes, yes, I know. 
+
+**A:** A brilliant paralinguist, he is. I've seen your credentials, you're the same. If your file's to be believed anyway, seems you're not one to pass up on a job like this, either.
+
+**B:** Wouldn't dream of it. My boss Gil always says I'm a bit upstart, but-
+
+**A:** Nonsense. You're perfect.
+
+**B:** Cheers, cheers. Hey, uh, I do have some questions, though-
+
+**A:** Yes?
+
+**B:** Do you have any pictures of this text? I could do it here, and-
+
+**A:** Nothing concrete. Researcher Hussain left site yesterday to get more resources from his labs in Greece, muttering about some tests or another. Selfish bastard took whatever resources we were going to give you with 'im, you know how people like him can be. There is one photo, though. It'll be in the files, should help you find the area.
+
+**B:** Got it. If I can be so bold-- this is a friggin' scratch job. Who organised this?
+
+**A:**  I did. Spent a long, long time talkin', not many takers. You try talking the ASF captain into sending his boys down this hole. Not enough understanding to warrant the risk, not enough danger to warrant the risk, we're in between. That's where you come in. 
+
+**B:** Still seems off. Hussain leaving already? It's only been three days since impact, right?
+
+**A:** What more can I say, Miss Lee; budget cuts make martyrs of us all, and old men are greedy buggers. Your equipment should be top-notch, though.
+
+**B:** I know. So - I go in, read the walls, come back. Just like the ol' stories.
+
+**A:** Of course. Authority's history is full of one individual, two individuals going in and scrying the demons. 
+
+**B:** Authority's history is full of //martyrs//, more like.
+
+**A:** Your equipment's top-notch, as we said. Quality of the people's the same, quality of equipment? Swords to microprocessors. Command might tweak your protocols off what you encounter, but in-and-out is your priority. You'll have survival rations for any changes. Transcribe anything you can read. Report your status hourly, and report any difficulties encountered.
+
+**B:** Camera would make this easier. But there's always -
+
+**A:** -always something. No cameras. They don't work right in the site. Don't know why.
+
+**B:** Do we ever?
+
+**A:** Irrelevant. Any other questions?
+
+**B:** Nope.
+
+**A:** You’ll get there in a jeep, so I’ll have to show you how to protect it from the sand while you’re inside the pyramid. Everything else is regular desert precautions -- food, clothing, water... You should be able to take care of that. A Geiger counter's in your bag, just in case something crops up. Be careful, there are possible loose pockets scattered across the site, but their permanence is… strange, at best. You’ll need to… 
+
+[[/div]]
+
+------
+
+“Shit.”
+
+She held up the image against the cyan sky, grimy fingernails clenching the cumpled, overexposed photo. //Budget cuts indeed//. Lowering it, she looked down upon the smooth, faded base of the pyramid, dark and hard and drinking in the hot sun. The engravings ought to have been there, they //were// there in the photo, but... they weren't. 
+
+They'd disappeared.
+
+She'd circled the pyramid nearly five times by now, trying in vain to find the spot in the image, but it was to no avail. The waning day had only grown warmer, and at the edge of her vision the light on the glass swam about, glimmering like water in some strange ocean.
+
+Even now, resting for a time in her jeep, she was finding it hard to cope. It was hot as //shit//. 
+
+It’d been three identical hourly reports when she finally stopped searching. The sun was beating down on the arid place, winds a pale echo of what she’d get back in New Jersey at this time of year. In the horizon, distant heat drowned all sight, smearing it like an artist would paint. The sun seemed like it would keep up until everything in its sight was turned to specks of ash, but Em did not hold on to any such illusions. Sunset was only five hours away, and with it came even worse cold.
+
+She did as they’d told her -- radio OL-Site-866 if she had trouble.
+
+The few hours that remained of scorching sunlight kept dripping past, monotonous and indifferent.  She called Command once, asking in vain to return or get some guidance but-- nothing. Each time her requests were denied, the channel closed before she could even finish a thought.
+
+They wanted her there, she knew that much. They wanted her here, and knew more than they let on. So, why give her so little information? She knew they depended on her for this, but it was damn hard to do much with just a crappy photo and bare-bones info. Visual and memetic hazards weren’t a laughing matter, and almost every advance on the field was made at the expense of many ruined or vanished lives. Perhaps the ineptitude of it all had something to do with the protocol 'adjustments', they'd talked about in the briefing. Certainly, it seemed Hussain had left the project for as much. Or maybe, it was her father. His involvement with the Authority still had elements that lay privy to her even now, and she'd often find herself discovering the paths he'd laid for her to follow.
+
+That changed nothing with this, though. She was important, but not enough for anyone in AFRICOM to give a shit beyond protocol. It just didn't make //sense//.
+
+//Shit//.
+
+So, there she was -- stuck. Throwing the jeep's door open lazily, she staggered out, making to climb up the languid pyramid. When she reached its storied pinnacle, she sat down with a groan against the cap's rough, flat surface, staring out over the deserts of Southern Egypt as she desperately tried to avoid hyperthermia from the afternoon heat. Long breaths and frequent small gulps of water helped, but solved nothing.
+
+//At least the Geiger counter's not gone off,// she thought as she sweltered. //That's got to count for something.//
+
+The dust got in her mouth again. Gagging, she stabilised herself. Six eighths of the day down. The time dripped away unbidden, and old memories rose up, ones she'd usually drowned out with the noise of her new life. She hated this. Work was supposed to -- it was supposed to absorb her, not leave her alone to fester in thought. She knew she was supposed to be better than this, but sometimes it was hard. Even over half a decade later, she could still hear his voice behind it all.
+
+"I was supposed to-" The sentence died soon after she'd started it, the words plastic on her lips. It was wrong to think about could-haves, should-haves. She'd been going clean for several years now, no more therapy, no more drugs. To ruin that would be suicide. She was single, //free//. It was good, it //felt// good. Her cousin was talking to her again, and-- 
+
+//And now I’m here//. Silence lingered.
+
+After a while, she got up again, clambering slowly down the dusty sides of the stepped thing as spit crusted the edges of her tired mouth. AFRICOM had fame for being one of the worst Regional Commands, but she never could’ve imagined it was this bad. Slipping on a loose stone, she almost tumbled off the side, catching her balance just in time. 
+
+"Holy crap."
+
+Stumbling a little, she steeled herself. She had to keep failing for a while before calling off the excursion. She couldn't afford to lose this. //Even if the heat kills me//.
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+------
+
+[[div class="paperGray typewrite2"]]
+
+**B:** Hello? Hello? He-
+
+**B:** Are you there? Over.
+
+**B:** Hello?
+
+[[/div]]
+------
+
+[[div class="paperGray typewrite2"]]
+
+**B:** I’ve found nothing. Hello? Hello? 
+
+**//[Pause.]//**
+
+**B:** There’s no entrance. Over.
+
+[[/div]]
+
+------
+
+[[div class="paperGray typewrite2"]]
+
+
+**B:** Hello? Hello? Is anyone there? 
+
+**B:** **[Sigh.]**
+
+**A: [Click]** Your report?
+
+**B:** I’ve been calling for several hours now, there’s //nothing// here but the pyramid. It’s almost evening. Was there something up with Comms?
+
+**A:** That’s not important. Listen -- there's been a protocol change.
+
+**B:** What?
+
+**A:** Have you felt any shaking?
+
+**B:** What- no, no I haven't.
+
+**A:** Our seismometers are going crazy. Something's changing, but, we don't know what. We need you to try and get inside the pyramid, there's no -- 
+
+**B:** Hello? Hello?
+
+**A:** No time -- 
+
+**B:** I can't hear you, I-
+
+**A:** -- Hear me? Can you hear me better now?
+
+**B:** Yes, yes. You were cutting out.
+
+**A:** Sorry, we've been experiencing radio interference all day. It's been difficult to get a signal. As I was saying, you need to get inside. We think some entrance might open. Stay close to the pyramid. Where are you currently?
+
+**B:** Right next to it. East side.
+
+**A:** Get to the west. 
+
+**B:** Listen, with this protocol change, does this mean I'll get some backup? Reserves, maybe? 
+
+**A:** Negative. 
+
+**B:** What?
+
+**A:** Negative. This can only be done by you. We're currently attending to something else. Some researchers on strike, you know how it is.
+
+**B:** Yeah, sure... but, I need more supplies. I might be getting hyperthermia, and- Can you open the gate?
+
+**[Pause]**
+
+**B:** Hello?
+
+**[Pause]**
+
+**B:** Hell-
+
+**A:** No. We cannot do that. Keep looking.
+
+**B:** What do I have to look for?
+
+**[Garbled voices on the other end, unintelligible]**
+
+**B:** Hello?
+
+**[Pause]**
+
+**B:** I said, what do I-
+
+**A:** Entra--
+
+**[Click]**
+
+[[/div]]
+
+------
+
+When she found it, it was almost by accident.
+
+She’d been going in circles around the base of the pyramid for a long while now. The wind had died down, but the heat simply became worse as the rich orange sun sank low to the thin horizon, amplified by the dark colour of the pyramid. The glass shimmered now. No more supplies. Communications’ little spiel had given her more anger than help, and--
+
+In a bout of rage, she’d kicked a loose stone. Her Geiger counter went off, beeps screaming into the air, and it was then that the back half of the pyramid had imploded. As soon as it started, all noise departed from the scene -- even the Geiger counter had grown silent by the second. Through the mess of dust kicked out by the rubble, she saw it: it was crude, more a hole than a passage, but it was there regardless. She stumbled backward, fearing overexposure to radiation, but the silence of the Geiger counter comforted her with safety.
+
+//The entrance.//
+
+Carefully unzipping her backpack, she pulled out a flashlight Research had provided in the event of night-searches. A place like this could potentially go quite deep, and it didn't hurt to have it on hand.
+
+Of course, it was only after she’d rushed into the passage for shade when she realised its significance. The heat was different there, less overbearing. The temperature abruptly dropped, the air embracing her tired body. A cold wind came from the tunnel and rushed through her hair, Em crying out in relief. She could barely see ahead even with the flashlight, but the echo kept ringing for a little while -- whatever this passage was, it went deep. She drowned her parched throat in water before taking a single step--
+
+-- and suddenly, her foot caught on nothing. The floor beneath imploded, and swiftly she plunged into an empty gloom, the entrance sealing itself behind her. The passage collapsed into a vertical shaft, taking her down, down, down into the dark. The cold wind whispered past, her only sensation other than fear and vertigo.
+
+No one could hear her scream.
+
+Even as she fell, the air grew colder, freezing, eating at her skin Something rough scraped the side of her head. Everything swam, strange sounds echoing below her like murmured voices from a distant city street. She hit the ground with a smack, and consciousness left her.
+
+------
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/fragment%3A866-2/8662.png width="650px"]]
+
+------
+
+She awoke at the bottom of the shaft, a jumble of limbs sprawled silly on flat earth. There was no light. Flipping over onto her back, she groped around in the gloom for her pack, hands scrambling around as her eyes opened blearily onto the naked dark of the… whatever it was.
+
+Her body ached with pain, though strangely enough nothing seemed broken. Her hands found the dusty fabric strap they sought, the old cloth scraping on half-bloodied fingers. A faint chattering sound echoed in the otherwise silent realm about her.
+
+//Clackclackclackclackclackclack-//
+
+What was… 
+
+//Oh.//
+
+She hadn’t even noticed when her teeth had started chattering. She’d become numb to the cold, too numb. Whatever. It was better than the heat above, anyhow. Shit-
+
+Her hand fell to her belt, feeling about. //Please don’t be broken, please don’t be bro- Oh, thank God.// 
+
+The communicator was slightly bent, but nothing a little jolt couldn’t fix. She exhaled a shaky sigh of relief. At least Research provided her with durable equipment for this shit-fest. A part of her wondered if they knew the entrance would involve falling. They must have, right? 
+
+//Why didn’t they tell me that?//
+
+The chatter of her teeth continued, resounding off unseen walls. It was so dark. Something could be watching her.
+
+“Light,” she said to no one, her voice hoarse from the sands above. “I need light.”
+
+She reached inside the pack, groping about. It took a bit, but she found it on the floor next to her: the flashlight.
+
+It would provide no warmth in this foul place, but it would give her something to see with. Her dirt-scratched thumb pressed against the base, blinding white light cutting through damp, dusty air. Her eyes were blinded for a minute, but adjusted soon enough, blinking in the face of the first light she’d seen since coming down here.
+
+Before her, a flat passage stretched out, brick-cut walls leading off into a further gloom with no side-branches to speak of. The ceiling was flat. Taking a brief moment, she shone the flash-light up above her. The shaft from which she’d came had no daylight streaming through it. Whatever way she had come, it had long since shut.
+
+The comms were static. There would be no reports for a while, not until she had better signal.
+
+"Damnit," she exhaled out, wheezing softly in the dead air.
+
+Readying herself, she steadily stood up, strapping her bag across shaking shoulders. A blisteringly cold wind brushed past half-scratched skin. All other options were exhausted. There was only one feasible choice left.
+
+She stepped forward, this time hoping no further fall came.
+
+None did.
+
+------
+
+She walked for what seemed like hours in that dusty old hall, its walls smooth and ever so crudely-cut. There were no inscriptions. She was alone but for her teeth and her flash-light.
+
+//Off to fight the dragon eh, Saint Georgine?// her cousin would had said once, when they were kids exploring a cave on a camping trip with her father's stolen flashlight. He'd always been into the whole knights-and-armour thing, and found it amusing to turn every excursion they had together into some 'medieval quest', much to her chagrin. Somehow, he'd made his way into the Maintenance Union using those lines. Shaking her head, Em coughed, reaching for her communicator. 
+
+//Damn//. Still nothing. 
+
+//What kind of 'strike' can even happen in a remote site like this?//
+
+The passage before her was narrowing. With still no right or left turns, she was forced to squeeze herself sideways. The stone walls scraped at her back as she shimmied past, neck bent. 
+
+She tasted metal on her lips. Something on her face was bleeding, probably a cut from the fall. Her ears were ringing, a sound borne from an older time. 
+
+"Hospital sounds." 
+
+The silly words had slipped from her lips unbidden, the haunting noise ringing all too familiar. She could still remember those white walls. 
+
+Suddnely, the passage stopped. A wall. Her body was situated such that she could go neither forward nor back. 
+
+“Oh, come on!”
+
+Her voice was answered only by her own back at her, almost mocking. She slammed her bruised elbow repeatedly into the wall, crying out in a small yelp of pain. She had //not// come this far to be blocked like this. 
+
+“Come, on, move, you, stupid- //ah!//”
+
+The wall gave way before her, and she stumbled out sideways into a jumble on the floor, her flashlight flickering upon impact. Muttering curses under her breath, she staggered up using the wall as an anchor.
+
+//Phew.//
+
+She jammed her flashlight a bit for more light, its ghostly glare blazing through a thick sheet of dust into a faint space before her. A... room. She’d found a room. Shapes swam in the dark around her, shifting and churning like waves in water, but she didn’t care. It had four corners, four sides, it was //normal//. A room was a room, and a room meant a place to //rest//.
+
+She let out another sigh of relief, this time louder. She set the flashlight in the small room’s centre for a bit, sitting down. Even now, the shadows twisted and curled at the edges of the room, goaded fears she'd thought long-suppressed. 
+
+It was so dark. In some defiance to no one but herself, she flashed the light at the corners. 
+
+"Thank God."
+
+There was nothing. Nothing but dust. She exhaled, heart thumping. Even when she’d been younger, on camping trips with her family with no one but her cousin to keep her company as wolves howled in distant hills, she’d always had a small part of her that had been afraid of things like this. The dark. The unknown. Her eyes flitted into the shadows.
+
+//People with things to hide.//
+
+She’d hated it, yet here she was anyway, walking into it headfirst. It was a flaw, she supposed - some vestigial part in her that felt drawn to the things she so despised, in some abysmal effort to prove herself to… Someone. Her father?
+
+At first, maybe. Not later, though. She chuckled hollowly. Her cousin would hate her for thinking such things. She was supposed to be better, now. She was in the Authority, for God's sake!
+
+//I am better//, she reminded herself. She pushed the memories down as quickly as they bubbled up, her back straight. The unwillingness to keep going was still there, but fueled by dread rather than apathy. //You have a job to do, Em. Do it.//
+
+The light was faint, but it was enough. The old room swept out before her, its corbelled roof reaching far above her head much in the manner of Giza, though far larger. Four walls as she had guessed marched around her, three being smooth, untouched, carved and built by skilled hands. The fourth, though… The fourth was //strange//. There were markings on it, lines, old figures splayed out in harmony across it, vaguely hieroglyphic -  but if so they were unlike any style she had ever seen. 
+
+Her eyes were tired and unfocused, still adjusting to the harsh glare of the flashlight. Making a mental note to check the wall's text again later, her eyes were drawn to what lay above them.
+
+A winged woman engraved, adorned with once-bright paint, took up the whole length of the visible wall, ochre-lined eyes shining an unblemished crystal-blue amid the dust. It was a image she knew well, the face of Ma’at, Order, though the depiction had barely any features left on that face left rotten by time. Beneath it, more gashed than carved, was a bloated serpent, coiled and languished, seemingly in defeat: //Isfet//. Chaos.
+
+Its patterned skin looked like it was moving, its golden eyes gleaming. Something in Em stirred. Much like the pyramid outside, it seemed it too might have something to hide. Tearing her gaze from the twisting worm, her eyes found those of the goddess’s on the wall. Cunningly carved, filled with higher knowledge, they seemed to bore into Em’s frail form, as if watching, knowing, //seeking something//, something Em couldn’t possibly have or know.
+
+This room was supposed to have been something of a rest, but instead all she felt was something… else, there with her. Something altogether different, something that was scraping and chipping and gnawing at the back of her head, begging to be let out. Shivering, she shook the feeling off. It was too cold now to care about that.
+
+She glanced at the flickering communicator on her hip, its white noise still buzzing in the empty air. It was then when she realised how tired she truly was. The signal interference would likely carry on for some time, and... it couldn't hurt to take some rest.
+
+God knows she needed it after everything the past three days.
+
+Her eyes scanned the wall in front of her, the wide open wings of Ma’at looming over her shadowed figure. 
+
+//A few hours. That’s all I need//.
+
+Her pack serving as a pillow, she curled up desperately in the middle of the room, yearning for warmth her body could not provide. Rest indeed.
+
+------
+
+When she awoke, there was nothing. No room, no Ma’at, no cold air.
+
+Still dark -- no, black. There was so much… nothing.
+
+Water.
+
+“Hello, child.”
+
+A voice, a man’s voice. Everything was numb. 
+
+She was… swimming. Swimming in, a lake? Ocean? something-
+
+“Hello. Sorry, just getting the light.”
+
+It was that voice again, so familiar yet so strange. The noise scraped at her thoughts. She tried so hard to find a name to match it, a face to mask it. 
+
+She found nothing. Nothing but a voided hate. 
+
+A quick turn, and her eyes met something apart from the dark -- a pale light, almost neon. The globe-like thing revealed a hooded figure behind it, faceless and pale, standing atop a swaying reed boat all wrought of seeming gold. It slowly wheeled toward her, drifting on the reflective nothing, shivering and shaking as if blown by an absent wind.
+
+“Hello?” she shouted.
+
+“Good afternoon.”
+
+“W-what?”
+
+“I can’t see you. Wait a minute.”
+
+The boat didn’t stop as it drew nearer, drifting carelessly past. She called out, doggy-paddling  in vain toward the quickly passing boat. She kept sinking, plunging, and the boat kept passing. Emily waved desperately, losing a few seconds of air in hopes of getting a response.
+
+“I’m here! I’m-”
+
+Water filled her lungs. Spluttering and coughing, she resurfaced. The boat was far away, now. The figure hadn’t even turned.
+
+“I’m here!”
+
+The darker, older voice, sad and cold yet no less familiar, spoke again.
+
+ “I cannot //see// you, child. From where do you speak?”
+
+She tried to speak again, but nothing came out, words washed away by distant, unfathomable water. The light grew brighter, the dark darker. A faint golden outline of a door appeared in the distance, fainter than stars through late-night smog.
+
+“I can’t hear you. I can’t see you. Are you-”
+
+Echoes, distant scuffling in the dark. The water was cold, cold, cold… The globe, bobbing this way and that as it drew farther and farther away, suddenly went out. A yawning darkness sunk its teeth into its absence. 
+
+The voice grew more frantic, muffled.
+
+“I can’t-”
+
+Water filled her lungs and ears before she could hear more. She gasped for air, but nothing worked. Nothing worked. 
+
+The voice again, but it’s close, so close, almost… next to her.
+
+“//I can’t hear you.//”
+
+Darkness.
+
+------
+
+//I'm drowning, I'm drowning, I'm--//
+
+She shot up, gasping for reprieve from imagined water in her lungs, clenching her chest in some meagre attempt to still her racing heart. Her eyes couldn't focus, her head kept spinning. She felt like some great beached whale, popped and left to dry. When she finally calmed, she carefully set her palms to the flat ground beneath her, hacking and coughing away in the hollow air. There was no liquid, no doorway, no reedboat. Just... earth. Above her, the form of Ma’at stood supreme, eyes cold and unnerving. The air about her was warmer now, like the presence of the figure in her dream had… driven the cold away.
+
+ The flashlight was dim again. She swore.
+
+//I can’t hear you//.
+
+Stupid dreams…  She needed a distraction. 
+
+It was then she remembered the script. Well-- anything was better than circular thoughts, right?
+
+Clambering up, she took her flashlight to peer closer at the intricate wall before her, studying the hieroglyphs. 
+
+//Jesus H. Christ…//
+
+They were nothing like those anywhere else, not even… Egyptian. Sumerian symbols, maybe? Like gunpowder stricken by spark, the unwillingness was soon gone.
+
+Even then, they seemed older. It was truly nothing she knew -- slightly cuneiform, but not even similar to the most basic proto-cuneiform pictograms. The curved lines reminded her more of modern Japanese //kanji// than any ancient text.
+
+"Is //this// what they wanted me to look at?" she muttered incredulously. //They want me to translate this shit?//
+
+//No, Em, you're being stupid. Probably just want you to record the script down, that's it. Like outside, right? Record what you see, take it back...//
+
+But... how? She was trapped inside, and comms... she hadn't checked, but those were probably a no-go. Her eyes turned to the wall, fingers reaching out to meet the face of the cut wall before her, beneath Isfet's shifting form.
+
+The characteristic cartouches of Egyptian hieroglyphs were present here, as far as she could see. Perhaps she could try to at least identify individual characters? But even then, there didn't seem to be any; rather, individual lines meshed with each other and stopped at varying lengths, smaller finishes and wedges creating a nigh-inpenetrable web around the basic characters. No rules in the placement of these were immediately apparent, their strange spaghettified forms melded at random throughout "word-blocks", identifiable only by the very brief empty lines that separated them.
+
+At least the intended order of reading appeared to be identical to hieroglyphs -- horizontal, right to left, with occasional vertical top-down lines --, but somehow these were intermingled as if structured like a crossword. Egyptian hieroglyphs were only deciphered successfully after decades of analyzing multiple adjacent translations in ancient Greek -- how could a single researcher do anything but throw around the wildest of speculations?
+
+But of course -- her father was brilliant, and //supposedly// so was she. The distraction was worth it, anyhow. She knelt in front of the wall, trying to thumb the button of her comms, static as they were. Obtuse as Communications seemed to be, it was likely the nature of the day's signaling issues and whatever else that was happening on-site that was cause for the delay.
+
+In suitable fashion, her comms were still fritzed. After a few minutes of trying and failing to find a signal, she looked to her right. The passage she’d come from was blocked. To her left, a new one had opened, as if the room had rotated or the door shifted. There were rumbling sounds, shaking. Picking up her flashlight, she walked out. She couldn't stay here.
+
+As soon as she left, the rumbling stopped, the room behind her replaced by a flat wall. Something or... someone, was choosing her path for her, funneling her, though to where she did not know.
+
+The voice was still echoing in her head, louder and more hungry than before. Steadily, she drew herself up. 
+
+//It’s a dream. Nothing more. I fell down too hard.//
+
+A breath.
+
+//I can’t see you//. 
+
+That voice again… it was too familiar. The echoes were dangerous, the memories lethal. She couldn’t rest here. Turning around, her light found another empty doorway, opening into a further gloom. It wasn’t ideal, but it was enough. She needed a reason to leave, //now//. 
+
+Burning.
+
+Even as she walked, she heard a different voice echo, far more jovial yet no less alien. It burned through the silence like a candle burned through night. 
+
+//Oh, where were you when the fires burned aloft//
+
+//The wheels turned and turned and the Angels shed their cloth//… 
+
+It was singing a song, old verses waxing in the dark.
+
+//Oh, where were you when they shattered that old Sun,//
+
+//The shadows torn the waters shorn the world made to run//… 
+
+The lines trailed off.
+
+“Thither the Serpent coils.”
+
+And then, she was alone. The voice stopped after that, hanging in the air like the smell of wet grass after a rainstorm. There was no water here, though. Only dust.
+
+It haunted her steps.
+
+------
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/fragment%3A866-2/knightsean.png width="650px"]]
+
+------
+
+[[div class="paperGray typewrite2"]]
+
+**B: [Static]** Hello? Hello? Can anyone hear me?
+
+**A:** -- You are -- here, I am here, I --
+
+**B:** Hello? 
+
+**A:** Sorry, connection again.
+
+**B:** That's fine, listen, I -- 
+
+**A:** There's no time. Have you found them?
+
+**B:** Found what? Interference cut you off last time.
+
+**A:** The inscriptions.
+
+**B:** Yes, maybe, but I... I'm not sure. It's not really readable, and the room where they were seemed to not like me very much. Forced me out. It's like you said but, so much //more//.  Its construction seemed Egyptian at first, but it's not Middle Kingdom by any means... best I can do is transcribe. I don't think it's any alphabet we know of.
+
+**A:** That's fine. You have to try. You are -- and I don't put things like this lightly, our first foray into something like this. Any radiation spikes?
+
+**B:** Uh, I haven't checked, give me a sec.
+
+**A:** All good.
+
+**B:** No. Nothing. It went off before I fell in, but -- yeah. Listen, I'm //inside the pyramid,// and there's a dead end. Do you think I could get, uh, some help getting.... 
+
+**A:** A dead end? Describe your surroundings.
+
+**B:** Seems similar to a funerary corridor from the Valley of Kings, with text on the walls and all, but there’s nothing connected to it. Nothing I can think of, anyway.
+
+**A:** Interesting. General structure?
+
+**B:** A plunge, a short hall, and this… room, though I’m not there right now. Nothing else. I’ll need help getting back up, I’m at least a dozen meters below ground.
+
+**A:** Is there anything else? Someone, else?
+
+**B: [Pause]**
+
+**B:** Yes, actually.
+
+**A:** Yes?
+
+**B:** Wait, I- Just, nevermind.
+
+**A:** Are you sure?
+
+**B:** Yeah. About that uh, help, I-
+
+**A:** Yes. Give me a second, I’ll request Site-464. 
+
+**[Pause; 20 seconds.]** 
+
+**A:** Negative. You’ll have to stay there for a while.
+
+**B:** I can’t translate this, I--
+
+**A:** Protocol has changed again, I'm sorry to say. AFRICOM orders. Command has reason to believe RPC-866 is what is causing this interference with our signal. We cannot send people in. Whatever's inside there, it's keeping us out. We need you to investigate //on the ground//.
+
+**B:** I'm alone?
+
+**A:** We've tried dynamite, and other more... anomalous, means. Whatever that thing's made of, it's impossible to break. 
+
+**B:** God-- I… 
+
+**A:** Do you need further instruction? Advice?
+
+**B:** Yeah. It -- it might help.
+
+**A:** Try exiting, looking away, entering again, then looking around. If I’m correct, you should be in an ACS 2 space: they can vary a lot each time you look at them. If you can write down what you see, I should be able to help you more.
+
+**B:** ACS 2…  Fine. I can work with that.
+
+**A:** Roger.
+
+[[/div]]
+
+------
+
+She’d been walking for what felt like ages upon ages, the cold walls leering over her as if watching, waiting. It felt useless- //everything// felt useless; her walking, her stupid reports, her //job//. She’d tried what they said, but had only gotten halfway through transcribing - not even translating - the codex before giving up.
+
+She’d needed a break.
+
+ The flickering flashlight cut through the dark like a knife through cake, its gentle light glimmering through dust, maybe moisture, as she advanced. A hand to the wall.
+
+//Nope. Just dust.// 
+
+"Damnit!” Her voice came out dry from a parched throat, half ragged from travelling. She’d stubbed her toe on some unseen rock. "Useless, useless, use-" Her rambling was cut off by a shower of shallow coughs. Her chest was getting tight.
+
+She was stuck here. She was stuck //here//.
+
+The air was stagnant as she walked through the wide hallway, feet kicking up ancient wispy strands of dust from old stones she subconsciously felt weren’t real. Reality, it seemed, had become subjective, malleable, a shifting river just as the watery vision she’d had when she first fell in; the hall stretched on before her in a way she felt she didn’t want to look for the ending, a gaping maw into some great nothing. 
+
+She’d been so wrapped up in thought she hadn’t even noticed the tree sat squat in the midst of the passage, hardwood branches laden with bright yellow fruit, half-melding into the stone roof above. A thick //whap// came from its bark when it suddenly collided with her mid-stride, and only then did she think that the tree had no business existing at all in the stone halls of this tomb. 
+
+Nor, really, did the man sitting in one of its branches. 
+
+She looked up, falling on her back. He was sitting in the branches, seemingly frozen, apples half dangling from his hands. //Is he sleeping?// 
+
+“Y- what?”
+
+The man started from his sleep. He was wearing some kind of plumed armour set, though it seemed to her more like a child’s interpretation of an armored turban than anything functional. A garish halberd dropped down from above, but Em jumped to the side just in time. It fell through the floor.
+
+“Oh- oh!” he shouted, leaping from the tree to stand in front of her unfazed. He landed on his feet, she noted idly. “Pardon me, I was erm- deep in thought.”
+
+He sounded so jovial, but she couldn’t help but taste an off-ness in his words, like it was less new and more an echo, some old, faded memory of a relative made flesh. It was like the other man at the boat, but a different kind of familiarity - where one was something sinister, this was something warmer, something… familial.
+
+She shook it off.
+
+//Damn pyramid//.
+
+The strange, familiar voice broke her from her thoughts.
+
+“What brings such an odd fellow to my humble resting place, hm?”
+
+She stammered, still on the ground. “H-how did- when-”
+
+“Oh- oh dear. You seem to be rather delirious. Fret not, sweet swallow, it happens to the best of us!”
+
+Swallow. A weird thing to call someone, but oddly familiar again. Her dry throat roiled at her when she tried to speak. “When did you... Get there?”
+
+The plumed knight shrugged. “When I’m in a bit of a pickle- a rough spot, per say- I take a nap. It helps to get one’s brain churning, mmm- yes.”
+
+So the guy was a nutter. Probably went mad from being stuck in here so long, judging by his getup. That was okay. She could deal with a mad anomalous guy. That was good- explainable even, by Authority standards.
+
+But damn it if he didn’t just seem so familiar.
+
+She took a chug of water from her sack, exhaling in relief. Her throat was better now.
+
+“So where did the- tree come from?” She asked, finally getting up and rubbing her bruised face.
+
+The knight shook his head. “Oh, one daren’t have a notion, not in this capstone of a realm.”
+
+“...Capstone?”
+
+“Oh yes!” He chuckled, his laugh oddly dour, sad. “For that’s what this is after-all: another brick in the hallowed walls of the world, stuck somewhere near the top of a winding river, endless and tall … Or was it- wide?” He paused, thoughtful. “I’m forgetting something again, give me time, time, t...”
+
+Definitely mad then, but, a fun kind of mad: Alice in Wonderland mad, not Egyptian ruin mad. //Yes.// She could work with this -- best to play along.
+
+“Uh- could I get your... Name? I’m a- scribe, I guess, for some... explorers." //God, you're bad at this.// "They’re - we’re - exploring this uh, ‘capstone’ you have here.”
+
+“A scribe, you say? An eye-seeker then, a writ of wills, a scrivener, a song-traveller. Many names there are for that which hungers for the words of the world, eyeless and not. //Interesting...//” A pause, the tapping of metal. “I’ve known many a- scribe in my time, sweet swallow, their names as bountiful as the Walkers of old ere their found’ring… Aaru, N’agal, Lithri, then Aqui, then- hum, hmm... ”
+
+He continued off, muttering as he paced around the base of the strange trunk. She asked again, prodding for good measure.
+
+“Uh, hello?”
+
+He shook his head again, his plume bouncing up and down with his helm. “Mmm. Mmmmn- Sean.”
+
+“Wh- Sean?”
+
+He nodded profusely, the armour shimmering spectral. He picked an apple from the branches, bright and golden. He tossed it between his hands as he spoke.
+
+“That was my name. You asked me, little bird.”
+
+“Your name’s Sean?”
+
+An alarm bell went off in her head. She didn’t know why.
+
+“What, is there another?”
+
+“Just, didn’t pin you as a… Sean, that’s all.”
+
+//What am I even saying?//
+
+He laughed again in the same eerily fat contagious laugh that seemed to haunt his every proclamation. “Why, tis a noble name! I’ve known many a man named Sean, and all turned out to be right good fellows in the end.”
+
+It was strange when she found herself laughing along with him, even when she’d so soon before been walking amid hollow tunnels of dust and darkness. She leaned back against the trunk of the tree, the bark almost a cushion beckoning her too-tired neck and back after walking for so long. “So… what do you even do down here? Or uh… //up//, rather...”
+
+“Why, I clean. These halls.”
+
+Distant water dripped from some bygone place behind them. He tossed the golden apple at her, but when she made to catch it, it disappeared.
+
+"I'm sorry. Things always slip away, in this place."
+
+He sounded almost remorseful.
+
+“...Clean? How?”
+
+He chuckled //again//, though this time it was more mocking than sad, as if she was supposed to be in on some grand old secret, some trick at a party. “With my sword, of course! Any number of ghastly things come crawling out of those cracked bricks, and one can’t be ill-prepared to deal with them.”
+
+“Things? What things, If you don’t mind me asking, of course.”
+
+“Why, you should know better than anyone, sweet swallow. It’s marked you, after all!”
+
+A faint chill ran down her spine. She fidgeted with the straps of her pack. He picked another apple, tossing it at her.
+
+She could never catch them.
+
+“Wait- what has?”
+
+The fat laugh again, though this time it was ill-placed.
+
+“The ferryman, of course! The chainer of all things, the breaker, the taker, the maker, he who heralds order from the waters. The bastard sun he is, a festered thing…  He is the one I cannot reach, but also-- the one I await, I seek, the one I…”
+
+He paused for a moment, dust-covered helm jerking as if in fear, in conflict.
+
+“... the one I… ”
+
+More silence, more muttering.
+
+“I don’t know, anymore.”
+
+“Right…” She didn’t really know what to say to that. “So… should I go to uh, find this- ”
+
+Sir Sean’s voice turned dour, swiftly grasping her hand with gloves of cold metal. Another apple hit the floor, but this time, it did not disappear.
+
+“//No!// You must never go to him! Promise me this!”
+
+“I- I promise.”
+
+They paused for a second, his murky head glimmering in the half-light of the hall.
+
+“Can I ask why?’
+
+He laughed again, forcing out a wooden chuckle. It was an artificial noise, made even more inhuman by its thin, low echo bouncing across the walls. Apples fell like rain from the old tree now, their rotting pulp littering the floor.
+
+“You are like… a stone lodged between two cliffs, the weight of the world pressing down on your shoulders, no? The Serpent and the Ferryman, both want you.”
+
+“Serpent?”
+
+The Knight shuddered, his voice as dry as swaying reeds on a riverside. His foot crushed an apple as he took a step forward, his shoulders sinking in some kind of strange sadness, bereft once more.
+
+“A will beyond wills, a necessary darkness. Unimportant. Forever-and-ever, the two wills fight, chained and chained in circles. I’m getting ahead of, myself, and you…you are but a lost little swallow, no? A… Scribe. A scrivener. A-”
+
+He paused before saying the final title, as if realising something important he’d missed.
+
+“You seek… knowing things, do you not?”
+
+Her rational mind screamed at her to take up the offer. Communications wasn’t being particularly helpful, and should she ever wish to actually gain anything of note for them in this excursion, this was the only step that made //sense//.
+
+But the irrational part of her was filled with just, //fear//. A fear that had started the moment she had fell down the shaft into the darkness, and had only grown even now that she was somewhere… else. 
+
+The Knight’s voice, hollow and clear, cut through her train of thought like a knife through butter.
+
+“I can take you where you need to go, should you wish it.”
+
+She paused, quelling her apprehensions. This was her only chance.
+
+“If it’s not too much trouble…”
+
+“Really?”
+
+“Uh… yeah.”
+
+The Knight stood up, as if confused.
+
+“No one’s… said yes, to me. Before.”
+
+“There were other people?”
+
+“It is nothing, sweet swallow. Don’t worry for it.” He took a few steps ahead before stopping, turning to her with a nod. “Come, follow me... “
+
+And so they walked, slithering toward the claustrophobic horizon like a drugged snake in afternoon heat. As if in feverish dream, everything around them slowly faded, the world now as gold as the skin of fallen apples. She walked.
+
+------
+
+A jolt; her senses returned, Had she -- //Have I fallen asleep?//
+
+But it couldn’t be. The string of consciousness never slipped away. Rather than leaving her, it had coiled itself around her neck, whispering into her ear as its grasp grew tighter. Things danced to her senses, things that weren’t there. A thousand languages, a thousand voices, a thousand tongues, voices that gave way once more into the familiar, lonely silence. She fumbled for her flashlight. The passage stretched out before her like a ribbed cage - for cage was what this was. There was no way out she could foresee.
+
+“Hello? Uh, Sir… Sean?”
+
+Nothing but echoes returned. The Knight- if he’d even existed - had disappeared some time ago. She was alone.
+
+She was //alone//. She yelled.
+
+“Damnit- Ow!”
+
+She’d kicked the wall in her frustration, forgetting her bruised feet in her anger.
+
+//I should have known it was a shitty dream//. 
+
+She stared out for a while in a daze. The walls were closing in on her now, though she couldn’t be sure if it was simply the trick of the light or something other.
+
+She was a //linguist//. What did they want of her?
+
+What did they-? What did they want?
+
+She still heard the voice, the //bad voice// she had decided, worming its way through her head like some cancer.
+
+No matter. 
+
+She had to find a way out.
+
+------
+
+Even as she tried to move forward in the empty wayspace, her mind was assaulted with images, visions, voices of things that hadn’t happened for many years. It hurt to move. The passage walls had disappeared. She was alone on a flat plain, a faint red light on the horizon, but the floor pitch-black.
+
+A voice - //her voice//.
+
+“Daddy, I don’t want to go to Hell.”
+
+“You won’t. You’re a good little girl.”
+
+“Daddy, //please//. I’m scared. I’m scared. I’m scared.”
+
+“You’ll be fine, that pastor was just spouting hogwash. Go outside, play with your cousin. I’ll stop by the store after work for some almond cookies for you tomorrow... okay?”
+
+“I’m scared.” 
+
+“Go.”
+
+Flames burned all around her. The empty frame of a distant door lay far away, the path now a flimsy thing twisting and turning thither and that through an open lake of fire, smoke choking the emptiness. The red light on the horizon deepened. Even with all the fire and smoke, the air was still deathly cold. She coughed loudly, the voices still swimming, though now their speakers were less distinguishable.
+
+No.
+
+“We’re all winners.”
+
+That hateful voice answered, not the knight she had met but rather the darker voice over the gloomy water, old reed-boat creaking.
+
+“No, there’s only one winner.”
+
+Chains, chains, chains in a black lake, far away. Shifting stars in distant worlds.
+
+“Me.”
+
+Soon the flames too were swallowed in darkness, the old memories dredged up by the pit long gone as the illusion dissipated. The dark before her beckoned, a stranger kind of evil that soon melted into bright city lights, fairy-things dancing on old store-windows and glimmering streets running beneath a whitening sky beyond.
+
+//Thither the Sun rises//.
+
+And so she passed, into the snow.
+
+------
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/fragment%3A866-2/centralpark.png width="650px"]]
+
+------
+
+The ferryman’s voice.
+
+//Seeing is believing, child.//
+
+Snow. She was in- snow? The familiar trees of Central Park spread out before her, curling trunks tressed in white.
+
+//What…?//
+
+A voice made her turn, //her voice//. She was laughing, a faceless man spinning her around with some exaggerated sense of fancy only a girl, young and foolish, could fall for. They were kissing.
+
+Her stomach turned to lead.
+
+“Mills…”
+
+His voice now. She’d forgotten how suave, how sure he’d seemed.
+
+“You’re so //perfect//.”
+
+“Shhh… ”
+
+Another kiss, another faux nothing whispered in the air. A black bicycle with a singing bell whizzed past, snow showers gleaming white.
+
+“Finals are over soon, right?”
+
+She remembered now. It was her second year of university. She’d snuck out, and-
+
+“Just ‘round the corner. You know the deal.” 
+
+Emily hated how she had smiled at him.
+
+“//Then//…”
+
+“One more year after that. Then, you know, we can - “
+
+There was a faint edge to her younger self’s voice, an edge she knew was childish desperation. 
+
+A pause, whispers buried in snowy parkland. Her mouth was dry, her breaths shallow.
+
+“We can finally - we can finally be together. If only my dad-”
+
+He’d sounded so sweet, his hand so firm.
+
+A firm foundation. 
+
+“Shhh, don’t stress it, //please//. Let’s just- y’know, enjoy the moment. We’re here, right?”
+
+“I- I like that.”
+
+Light touches, a stronger will breaking through it all.
+
+“I like //you//. Don’t you- don’t forget that.”
+
+Even now, she never could, no matter how many times she forced the memories to the back of her mind, praying and hoping for some kind of erasure, some half-baked solace that she knew would never come. 
+
+The whispers were rushed now.
+
+“Does he know?”
+
+“Nothing. He’s busy with work. I’m uh, alone, for the week.”
+
+“Alone… ?”
+
+A feeble attempt at denial. At normalcy. 
+
+“I can’t this week. I should be- I should be studying, and uh-”
+
+Snuffed.
+
+A kiss. A whisper. Walls eroding, breaking down.
+
+Even then there had been signs. Not in their speech, but everything else. It all mattered.
+
+“Fine.”
+
+“Thursday again?”
+
+“Yeah, uh-. Thursday.” Her voice had caught on the air then, half apprehensive and half tantalised by the mystique of the forbidden.
+
+His lips were curled in a sly snake’s smile, golden eyes turning to blackened coal in the dying light, so stark against the snow.
+
+“We both know you wasted so much time listening to him, time we could have used for more important things.” Disgust. Disgust. Disgu- “Wait here.”
+
+“Wait, what? Where are you-”
+
+He was running now, disappearing behind a clump of trees. Muffled words behind faded branches.
+
+“It’s a surprise!”
+
+Faint shadows, a ring exchanged. Mutters under sheets as the fire burned in the chimney. Old promises. 
+
+Lead turned to ash, and she heard his voice whisper, worming its way ever-deeper.
+
+It was still speaking as the scenes shifted, cycling, the tunnel coming back into focus as she stumbled on even as the snow still fell.
+
+Serpent or Sun, shadow or light, whatever it was. It was back. 
+
+“We’ll be good together. Brains and brawn, order and chaos, right and wrong, the //Dynamic Duo//. Just tell me that doesn’t sound abso-frickin’ //awesome//. It’ll be cool, right?”
+
+Flashes of Ma'at's likeness flickered through her head, coupled with voices of various people both known and unknown, seen and unseen. This one though… it’d been following her.
+
+“Right?”
+
+The voice spoke to empty air.
+
+“Come on, come //on//, you can do it! Lights… Camera… //Action…// ” 
+
+Running now. 
+
+“Presto!”
+
+//The room. That damn room.//
+
+“Who… who are you?” she cried out in the empty air.
+
+No answer, then… 
+
+A voice, burning dark like kindling. The snow melted, leaving only a dusty cold.
+
+“Testing… testing… Pullin’ the right chords… firin’ the right gun… Shoot up some shit-faced monkeys full of electricity and watch ‘em dance, right?”
+
+Melding shadows.
+
+“You. I’m watching you dance.”
+
+Laughing, laughing, echoing down lost passages. She was so hollow, lungs wheezing as she stumbled forward.
+
+//His// voice.
+
+“You’ll see anything. Believe, //anything//.”
+
+She collapsed then in the tight hallway, eyes wide blank at the smooth-cut wall before her.
+
+It was the painting. That central room, the one everything seemed to keep leading to.
+
+//Stupid Knight with his stupid advice, leading me…// 
+
+Every time she’d tried to escape it, something dragged her back. Some memory, some dream, something… else. Nothing was safe in the dark.
+
+And the voices… 
+
+They all were amplified in that room, the room that everything fed to, the room that stretched out before her like a yawning cavern, plain but for a wall. The scene was different than before, though. It was no longer one of victory or defeat, but rather… a struggle, something darker. There was a lone figure writ on the wall between the two gods.
+
+Ma’at was watching, Isfet coiled to strike.
+
+//They know I’m here.//
+
+The voices hungered on.
+
+------
+
+She’d spent so long collapsed on the floor, she hadn’t even noticed the gloved hand that appeared from in the emptiness before her.
+
+“Mmmm, mmmm, //mmmm//…  it took a long time for me to find you.”
+
+She raised her shaky head in the gloom, eyes straining in disbelief. The Knight, no, Sean, was before her, his strange silhouette almost welcoming in the dark. 
+
+“W-what... “
+
+A hearty laugh echoed around her.
+
+“You are silly when you are confused, sweet swallow.”
+
+“I, uh…”
+
+Her head spun. The Knight seemed rigid in the darkened light.
+
+“I’m so sorry for leaving you alone, he was- blocking me.”
+
+“Wha- who?” Her words were slurred.
+
+“The Ferryman. Always leaves me with things to clean, it seems.”
+
+She took his hand at last, the strong arm pulling her up like an anchor to its resting place. They were silent for a while -- and at last she spoke.
+
+“I-I’ve seen… so many things.“
+
+“Oh, have you now?”
+
+“The Ferryman, the… what’s-what’s even here with me?”
+
+“All answers are revealed in time, sweet swallow. Come. We can’t stay. //It’s watching us//,” his low voice rumbled, motioning with a shrug to the image of Ma’at and Isfet supreme above her, blue eyes scalding. He tugged at her hand, but suddenly she stopped, her true purpose in the room bubbling up from buried memory.
+
+“//Wait!//”
+
+The Knight paused, confused.
+
+“What? Did you not hear my tidings? We have to-”
+
+“It’s part of my uh, my-” she paused, trying to find her words. “I’m supposed to write about- this,” she motioned to the wall. “About what it all means.”
+
+She fumbled in  her pack. Dried leaves of paper with half-faded symbols glimmered in the dark. 
+
+//I don’t even remember doing this…// 
+
+“Ah, yes!” He chuckled, voice accented in the dark. “You are a scribe. I seem to have- forgot again. I’m sorry, sweet swallow.”
+
+//Me too.//
+
+“M’fine. Fine. Sorry I-”
+
+She bent over, vertigo. What was going on with her right now?
+
+“My comms don’t work. I’m supposed to translate the symbols, and I can’t and-”
+
+She stared at the paper. Not even her own trace was familiar when speaking that apocryphal script.
+
+“I don’t know why they want to keep me here. I don’t know what they mean.”
+
+“It is not wise to stay in the presence of beings like these without a plan.”
+
+Pen to paper, mind to stone.
+
+“I have to copy. I have to... ”
+
+She began tracing the symbols out in drying ink, though even as she began she felt the knight - //Sean//, shaking her.
+
+“Yes, but //he’s// coming. If we don’t hurry-”
+
+There was a boom. The ground shook.
+
+“I can’t. I have to, I have to-”
+
+“You have to fly, scrivener. Fly, now!”
+
+Another boom, another tremble. Dust swirled like soup.
+
+“I-”
+
+“It’s over.”
+
+Old stones fell down from the roof, sand biting into her skin.
+
+“There is nothing I can do, sweet swallow.” His voice was almost sad. “Your life is out of my hands.”
+
+The Knight turned and strode away, soon covered by falling debris. The world turned wet, smearing away like old oil into a distant darkness of water and dust, more charnel pit than painting, more coffin than throne. She set off stumbling through a dark she did not know, praying she was alone.
+
+She was not alone, though. Before long, the tunnel she had passed through gave way on the left side to an endless gloom by a waterfront, a yawning chasm where a great winding river twisted this way and that like a luminous worm beneath her. In the distance, faint spectral light danced, as if seen through a frosted windshield in midwinter. Reeds swayed in wide ghostly meads to either side of the sluggish stream, their pale plumes catching in the dim light.
+
+A snake slithered in their midst.
+
+------
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/fragment%3A866-2/khnum.png width="650px"]]
+
+------
+
+“Welcome to Eventide, child.”
+
+She was on a flatboat now, its sides swaying this way and that in black water. Distance lights glimmered like stars over the murky waves. The reed-flats hedged them in like a wall to either side.
+
+//This again? Oh, come on!//
+
+The cloaked ferryman was in front of her, steering, steering, steering on and on in the dark. The lamp was lit.
+
+“Hello?”
+
+He turned, revealing a ram’s face coloured richest blue, serrated horns curling around soulless eyes lit lazily by a lamp on a frayed cord held between cloven fingers. She heard his voice speak to her, though not by mouth.
+
+“I can see you now.”
+
+The dark voice she knew.
+
+“You are… the ferryman.”
+
+“Meddling guides have told you meddling words, have they not?” A voice like a dry breath murmured in the shallows, drier than sands in a night-cloaked desert. “No matter. I am but Evening. We are racing now, racing to the Dawn.”
+
+The unease in her heart only built. The voice sounded so similar to… 
+
+No. This wasn’t his voice. This wasn’t meant to be //his// voice. She raised her chin high.
+
+“He told me to stay away from you… Sean.”
+
+He paused, peering out over the edge of the boat into the water. A shuddering splash echoed on unseen walls.
+
+“Sean?” His voice seemed puzzled, though edged with the faintest air of distaste. At length, he spoke again. “I know none by that name. I am but Evening, after all.” His neck shook and snapped, creaking as if exposed bone grinding on a rock older than time. “Come, we have to go.”
+
+“Go? Go where?” Old poles leered in the water, a yawning pit opening before them in the gathering gloom. Another splash, another swirl of movement.
+
+“A Serpent moves in the water. A Serpent moves in the blood. We cannot stay.” One paddle smote the placid waters.
+
+“We cannot stay while he can see you, and I cannot.”
+
+The boat set off, and her with it.
+
+And then, a memory… 
+
+------
+
+
+It had been normal for a time. 
+
+It had been so //damn normal//.
+
+Before her now she saw her younger self all sprawled out over the couch, crying into a bowl of old Dreyer’s ice cream half-melted. The light of the TV stained the grunge of the darkened room, illuminating a small slip of paper half crumpled on the table, futile checks and old wads alongside it.
+
+They hadn’t paid their rent that month.
+
+Will wasn’t there, of course. She’d been alone that night, alone but for the flickering lights of some house renovation program playing softly in sync to the beat of falling tears.
+
+They both had dreams, back then.  They worked from home for a time, in a little flat in New York, paying rent, doing normal things. He’d often go out, but always come back. They were liked by their neighbours, loved even. There was never a visit from her father, but it didn't matter. They had each other, and that was enough. It’d been fine. They’d been, they’d been making it for a while. Barely, of course, but it didn’t matter: they were together. That dream had quickly changed.
+
+A buzz in the dark, dark bright. She saw her tired form groan, reaching over to pick up her phone. It was an email. Even now, she remembered its words though she could not see them, the very same words that reminded her she’d had a family, after two years of silence between them all. 
+
+She’d made her choice after all, and they’d made theirs. The buzz again. Though she was far away, Em could still see the name at the top. Sean. Her cousin Sean, not the knight Sean.
+
+//That was why he’d seemed so familiar...//
+
+At the time she’d hated his calls, his texts. She’d said… horrible things. She drove him away, even when he’d been the only one in her family to care about her, in his own annoying fashion as the stupid janitor he was. Then, he disappeared, going God knows where. Of course, she knew //now//, but then?
+
+Then, it had been yet another addition to a downward spiral that had long been in motion, but one whose depths she could not fathom even then.
+
+//Calm it, Em. You went to a shrink. You’re better now. You’re-//
+
+She was supposed to be better. Why did she feel so cold?
+
+The door opened suddenly with a wooden creak, the faint silhouette of a drunken husband framed by yellowed light. He was stumbling, his slurred voice laden with tales half-told of some violent defeat or tall tale, physical or emotional. Even as she saw herself rush to catch him, her world changed again.
+
+------
+
+She was in the passage again. Her legs were stumbling.
+
+//Have I been… walking this whole time?//
+
+She didn’t know. Not anymore.
+
+“Hiya, miss.”
+
+A boy, a little boy with curly hair. He had a light in his hand. Tears were still streaming down her face.
+
+//I’m such a screw-up.//
+
+"M'bored. You seem bored too." He looked up at her, his voice laden with mischief. 
+
+Em groaned, leaning back against the dry wall. The boy was tapping soft fingers on stone, though Em derived no discernable pattern in their chatter.
+
+"Not bored. Tired. There's a difference." She stretched out her legs before her, wiping the tears off her face.
+
+The boy looked around, mild confusion flitting across his face. He set down his light on the floor, its brilliance far outshining Em's  nearly-dead flashlight.
+
+"Mom always told me daydreaming is bad."
+
+"Seems like a shit mother, then. That why you're here with me?"
+
+"You were daydreaming. I wanted to wake you up."
+
+"I'm not-"
+
+"That //is// what you're doin' though, isn't it? 'Sides. I'm lonely. I know these things."
+
+He smiled so innocently, eyes tired yet filled with a wonder she'd long since lost. Her heart went out to him, even though they'd just met. 
+
+“You’re kind of silly, aren’t you?” he asked, babbling.
+
+“Who- who are you?”
+
+The boy pondered for a minute, his face drawn into a pout.
+
+“Humm…. I dunno.”
+
+“Just- leave me alone.”
+
+“Wait-- I have a friend who can help you, should you take his advice." the boy pranced along. "He’s the magic man!”
+
+“... He?”
+
+“Tall, knight’s suit. Big voice, bigger laugh.”
+
+//The Knight!//
+
+She felt a frail hope rise in her chest. Of all the strange beings in this place, the knight seemed the most… stable, the least likely to vanish or turn against her. The best bet. She'd never gotten the advice he was going to give her, anyway.
+
+//God, she was so stupid//.
+
+The kid’s voice again.
+
+“Soooooo, you gonna come?”
+
+She wiped her tears.
+
+“Oh- yes! That’s actually who I’ve been looking for.”
+
+“Yippee!” The kid did a little twirl, light bobbing about. “Follow me!”  He then ran off, and she with him, knees bruised and tired but running all the same. Even as they ran, the boy sang a little rhyme, at first quiet, but gradually louder with every passing verse.
+
+//Oh, where were you when the fires burned aloff,//
+//The wheels turned and turned and the Angels shed their cloth.//
+//Oh, where were you when they shattered that old Sun,//
+//The shadows torn. the waters shorn. the world made to run…//
+
+The melody. She knew it, though from where she did not remember. It was haunting, strange, disarmingly melodic yet dissonant all the same. The tune changed, its rhyme-scheme shifted.
+
+“He killed the dragon,” his voice said. “He tried to kill the dragon. But the dragon was the knight, so he took the dragon.”
+
+//Knight? Dragon?//
+
+“Who?” she tried to ask, but the boy did not answer, only continuing to sing as he skipped.
+
+//Oh, where were we when they fought in those old wars,//
+//Guns blazed, Eggs razed, the shadows gone in scores.//
+//Oh, where were we when the Eyes were sung awake,//
+//The Maker Fixed, the Maker chained, the Maker burned the Wake...//
+
+“Slithering snakes, serpent shakes, dancing in the night!”
+
+More passages, more dust.
+
+//Oh, Oh, how they screamed, the nine spread all aur-orred,//
+//The Worm killed, the Emp’ror scorned, Time was ill-adorned.//
+//Oh, old dragon, why’d you have to mourn?//
+//The world anew, the worms askew, the Udduk shelved to store...//
+
+She coughed.
+
+//Wheels, wheels, wheels too, burned kingdoms in the dust//- “Oh!” He stopped. They'd been walking for a while.
+
+“What was that?”
+
+“What was what?”
+
+“That rhyme.”
+
+“Oh!” he laughed all silly. “My Pa sang it to me. Cool, right?”
+
+“Yeah….” //Not cool, not cool.// “Right.”
+
+“Presto!”
+
+They had stopped. A covered flatness stretched out before them, the floor white and salty.
+
+The boy stopped walking. The wind was cold, //so cold//. Drums boomed in the distance. “What? Where’s the big man? Where-" Another drum, louder this time. "//oh jeepers//, I’m outta here.”
+
+The boy ran, disappearing into the dark. As his steps became echoes, his voice rang briefly back into Emily’s ears. “You should run too," the frail voice called, tinged with fear. "He rises from the waters  - the shambling ram…”
+
+//Click//.
+
+Silence. Nothing but silence.
+
+“Testing… Testing… Can you hear me?”
+
+Sudden lights blared down on her like stage-lights for a strange play, leaving her eyes temporarily stunned. The loud, crowing voice broke once more into the empty dark.
+
+The ferryman had come.
+
+“You can! I can see you now!”
+
+Deeper in, deeper in. The old rower’s face turned and twisted, ram’s head staring eerily at her from its fixture in his darkened body.
+
+//Shit//.
+
+“Sorry. Technical problems. Gates, doorways, in-between spaces. It’s all such a mess.” His speech garbled. “Testing, testing. You’re gasping like a fish, child.”
+
+“Where… Sean.”
+
+“Your cousin?”
+
+“No, the other one.”
+
+“Which other one?”
+
+//What//?
+
+“Just, never mind.” The strange being stood tall in its boat beside her now, robes straightened in expectation. “We’ve got a job to do.”
+
+“A job… ?”
+
+“We gotta take care of something. You remember, right?”
+
+A puff of smoke blew into her face. The man threw his hands up in exasperation.
+
+“You remember, //don’t//-”
+
+Silence.
+
+She nearly had a heart attack when his voice spoke again, as if whispered right into her ear.
+
+“We gotta take care of dear ol’ Will, don’t we?”
+
+The face leered, eyes a reddened gold. Shit. //Shit//. She hadn’t told - she hadn’t-. The voice on the black water, the voice that had been plaguing her thoughts, //everything//, it was always //his//.
+
+//It’s a surprise…//
+
+Will’s voice. The thing had //Will’s voice//.
+
+She couldn’t breathe. She couldn’t breathe. She-
+
+An icy chill curled around her heart. She hadn’t thought about… She’d tried not to think about… in years. Even as she turned to face the man, the scene changed, her feet tripping on an unseen stone.
+
+//I can’t see you.//
+
+------
+
+When she finally looked up, she found herself strewn yet again on the very floor of the room -- the very same, with the gaze of Ma’at’s painted likeness glaring down on her, kohl-lined eyes brighter than the very sun itself.
+
+After everything, she was here again. Alone. Lost. //Why now?//
+
+The silence ate through the very last echo. Everything lay in perfect stillness, unmoving. Undoubtedly, something else new laid outside the room. Even now, the emptiness of those hallways beckoned her.
+
+The stillness broke just a little bit -- she turned her head to Ma’at and Isfet, notebook in hand. //You haven’t moved at all, have you?//
+
+Trace by trace, she staved away the silence with her pen. Her ink tried its hardest to replicate the strange script, failing at every step. Every new look at the wall brought her a new detail, old etches remembered differently or hidden until now like a never-ending book. //No matter, more ink would fix the mistake.//,
+
+Again and again she tried, and again she failed, turning back once, twice, thrice, eternal to the same old few symbols. The wall truly was irreplicable, unique, ever-shifting. 
+
+She didn’t care that Ma’at wouldn’t let her walk any longer. Near-stillness was better. The stillness could scream at her ears, but it couldn’t hit her cheek. It couldn’t even try.
+
+Slowly, so slowly, everything turned monochrome grey, a silent palette in the dark. //Rest//, her body screamed, so rest she did. She laid herself against the wall, and closed her eyes. Whatever nightmare awaited, Em didn’t care. She would be still. And if not - she could dare to dream.
+
+------
+
+A way out.
+
+The walls opened adagio beneath Ma’at’s gaze, splitting apart and drowning the bare, droll nothingness of the dark places. Sunlight slivered between the rugged halves, searing her cold body and tired retinas with the force of a blessed thunderstrike.
+
+A way out!
+
+The light didn’t even hurt that much. It hadn’t been so long, right? The slight pain was almost unnoticeable in the ecstasy of escape. Em squished her own body against the hard stone, ever-so-slowly shifting and making way like a crab at low-tide. It was wide enough to pass through, now. She found herself running, legs hurriedly battering at a lightspeed pace. 
+
+The dry openness of the blasted sand burned at her feet, green glass cutting at bare ankles, but she didn’t care. The scorching gaze of the midday sun received her, its warm, hostile embrace friendly and freeing compared to the dark oblivion in the pyramid.
+
+Her run turned to a jog, and a jog to a walk. 
+
+The horizon smeared in the heat, the widening flats stretching out beside and behind. To her back, the pyramid was already far behind, a black pinprick in the wider world of tan and faded blue. Dunes were about her now as innumerable as waves in an ocean, glass reflecting the sun like water in summer. The fence lay before her. It was so close, its bare gates set ajar to welcome their prodigal child.
+
+And then, a voice;
+
+[[div class="paperGray typewrite2"]]
+
+A: You’ll have to stay there for a while.
+
+[[/div]]
+
+The sands stretched silly before her, the distance to the gates widening and widening until she was little but a speck in a golden sea. She was running again, running desperately to try and reach //something//, but nothing worked.
+
+The communicator buzzed again.
+
+“Why?! There’s nothing to even look at here, and I-”
+
+[[div class="paperGray typewrite2"]]
+
+A: Command has reason to believe RPC-866 contains some kind of hostile entity related to the impact event. You have to find out exactly what it is. AFRICOM orders. 
+
+Sorry, ma’am. If it were for me, we’d be trying to get you out. I will try to assist you along the way.
+
+[[/div]]
+
+“I’m a goddamn linguist! I //can’t stay in that place//.”
+
+The words felt familiar to her. //Did I say that before?//
+
+She threw her notepad to the ground and stamped on it with her feet.
+
+Silence.
+
+The sun departed its pedestal, and started falling down, collapsing into the earth. Distant dunes and the shuddered fence drew farther and farther away, and even as she ran the sand had begun to run father than her. Like an ocean, it took the swimmer wherever it wanted. She was sinking.
+
+[[div class="paperGray typewrite2"]]
+
+A: Get back here.
+
+[[/div]]
+
+She tripped, and her head met hard rock as it hit the ground. Her consciousness slipped even as the shock reverberated through her battered body, down, down in the dark. She was being boxed, chained, confined to dreams one more.
+
+Or had she ever stopped sleeping in the first place?
+
+------
+
+A jolt -- now awake. Her heart was racing. The adrenaline subsided almost immediately, soon replaced by exhaustion at its best: boring monotony, like she had some long-lasting hiccup she couldn’t get rid of.
+
+//I’m not… out?//
+
+Her eyes roamed about over familiar stone walls, lit only by her flashlight. It was foolish to put hope in a light, she knew that much now at least - it too would eventually get snuffed out and she would be alone at last, alone but for Ma’at and Isfet again in the dark, voices scraping at her head. Maybe whoever they came from would just strangle her now and she could escape, forever.
+
+It would be a sweet release.
+
+She fiddled with her hands. She hadn’t been hungry or thirsty yet, but she'd probably need to eat or drink sooner rather than later. How long would her rations last? She had enough for about three days, if eaten with care. But would it be a good way to go? Slowly watching supplies dwindle, struggling to keep the lights on for just a minute longer?
+
+//One, two…// she counted the days in her head, but soon she realised it was futile. Time had slipped by her like sand in this place.
+
+//Why?//
+
+Staying in the room wouldn’t do her any good, that’s for sure. Even going mad would be a better fate, anesthetised by a fading psyche. 
+
+Maybe she had to move for just a little longer. Just a few steps more, perhaps. She struggled a little to get up -- and a striking noise startled her. A little book, musty but no less intact, had slipped from her lap. It didn’t look familiar, brown and gray instead of her notebook’s own plain black.
+
+She fumbled around, hands closing around its battered spine to bring it under the gaze of her flickering flashlight. //Shit.//
+
+An Authority logo met her gaze.
+
+------
+
+__**Addendum 866-01:** Recovered Journal Entries.__
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+Ra traveled on the Mesektet to the land beyond the moon, his face a falcon.
+The Nile turned to sludge, a cry filled the air.
+At the river's end sat Apep on a broken seat.
+
+"Foul creature, why do you cry?" Ra asked, his face a ram.
+"Will you not leap to consume me as you have before? Your tears have stained the river.
+"Has the door to Duat closed?"
+
+Apep did not speak
+The darkness in it bled.
+What once has touched the Arrow turns to sand until its word is lifted.
+
+Ra asked again, his face a beatle, "Why do you cry!
+"Your tears have stained the riverbed! I ask you, Apophis, old adversary,
+"Stop this crying at once."
+
+"I am not a medium," the snake said, "but what I am now is fire.
+"I burn.
+"And your world will burn with me."
+
+[[/div]]
+
+@@ @@
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+RPC-866 is a dream; a dream of a snake coiled around the moon.
+
+A swirling dream, gripped in its powerful maws, insides rotting, eating away at the night sky.
+
+Ma'at's sword piercing its tail, cutting through, ripping apart the scales, blood seeping away from the wound.
+
+Its scales rot, falling into the earth and fading into the air.
+
+They turn to rain, to dripping poisons and acid to pierce the mind.
+
+The black pus fills the deep dark abyss it came from; Nu.
+
+A boatman rows across, victory eternal tarnished.
+
+I can't see you, are you trying to say something?
+
+And the open hand, splayed fingers cross by, crushing your teeth and chaining you forever.
+
+Do you remember?
+
+[[/div]]
+
+@@ @@
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+The boatman rows, rows, rows. Through twisted metal and broken glass.
+
+Through punctured wheels and his lying corpse.
+
+Laws made Will!
+
+You did this, you did this!
+
+RPC-866 are the crocodile tears your fake eyes gushed.
+
+Lying minx, lying minx!
+
+RPC-866 is the heart you never had.
+
+Crash, crash, crash, crash!
+[[/div]]
+
+@@ @@
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+The broken arrow falls to the ground -- neutered, but lethal still.
+
+Beg and hold on to whatever order you still have.
+
+Ma'at; Will; Authority; Order; Ra; Sunlight;
+
+The serpent is not dead yet.
+
+It will never be.
+
+You won’t ever be.
+
+But there’s a choice.
+
+[[/div]]
+
+------
+
+Its contents were strange… But not unexpected. The handwriting was much clearer than hers, but evidently so much older. Traced with calm and thought, each letter had intention and logic behind it. 
+
+But what was written with those letters spoke a rather different story -- there was evidently a considerable amount of time between each entry. Enough time for whoever wrote it to be affected by the same thing as her. But... that that wasn’t quite right, was it?
+
+The words spoke too familiarly to her. They rang too many bells. Was this really written for another person? Or was it… 
+
+//Laws made Will.//
+
+//No, no. That’s silly. That’s just a dream. That’s just... Just-//
+
+A doorway appeared before her. Taking a shaky breath, she got up. She stepped through it, into golden light.
+
+------
+
+Fat pigeons sat squat on empty rooftops. A shallow path wound out before her, leading her further and further into empty alleys and streets lit by dour lamps. It was New York again.
+
+//Why is it always New York? I haven’t been here in… years…//
+
+Even as she pondered, the buildings slowly fell around her, melting into sandy plains beneath the switchback walkway. Old pillars capped by lotus-petals stood around her, empty things of an older time, vaguely Egyptian but little else. In the far horizon, a silver thread wound up and up into a starless void, the place where the sky was darkest. The path was leading to it.
+
+“You’re lost.”
+
+It was a girl's voice. Em turned around to find at her hip a skinny little girl with red ribbons in her hair, big yellow boots smattered with mud hanging off her belt. The poor thing had tearstains on her face, but her cold eyes were smiling.
+
+Her voice was not a child's.
+
+"You're not real. I know you're not real." Em shook the girl off, staring into the stricken sky still-lined with scattered skyscrapers jutting out of the sand. The silvery thread glimmered. "I have to keep moving."
+
+"Don't even 'member me, huh," the girl seemed to whine. "Why should I be surprised, you didn't remember Benny either."
+
+//Benny?// 
+
+Slowly, the memories slipped back to her. It was an old name, one she hadn't heard in years, not since she'd lived back at the apartments with... him. 
+
+Their neighbours were often out, too often. Will'd always be at the bar, she'd be alone, and, well -- the kids needed to be taken care of, right? Sean had visited a few weeks later, he'd //loved// them. Always asked for them in calls, texts, emails. Played with them, brought them legos and candy, done so much more than Em could ever hope. Benny... that had been the boy's name, the one who sung little songs. She could see it now, his curly head bobbing as he explored her balcony... 
+
+//The pyramid used his face//, she realised. And the girl -- 
+
+The family had long since moved out, their often-empty apartment now made permanently barren. She'd been evicted soon after. She doubted they'd still be the same age as they'd been, not now. It had to have been a vision.
+
+//Damn//, she cursed in her head. She couldn't even remember the girl's name.
+
+The twisting thread above shone leaden grey. The kid spoke again. “That’s the riverbed. Glad you like it. Shitty thing, but had to be fixed eventually.”
+
+"Fixed?"
+
+"Y'know. Benny //did// tell you."
+
+"I'm sorry kid, I'm not -- I'm not very good at remembering things like this, right now."
+
+The girl made a clucking noise with her mouth.
+
+"That's weird," the girl paused a bit and pouted, though never leaving Em's side. At length, she continued, this time with the very question Em had been dreading. "You're weird. D'you remember my name?"
+
+Em remembered so many things about the girl, so many different memories. Reading to her, helping her with homework while the siblings' mother had been out drinking, giving them colouring books... 
+
+But the name remained elusive, gone. Even the face before her was half-featureless.
+
+"No. I'm, I'm sorry," Em heaved out. "I can't."
+
+"S'fine. Used to it." The girl gave a little twirl as she skipped ahead in those bright yellow boots, twirling about on the rickety walkway. "I’m Molly,” she announced, cutting her off. “Like the drug.”
+
+"I'm sorry, what?" 
+
+"Y'know, cuz you de-pend on me!"
+
+The kid said it like it was a joke, but Em knew better. Those two were the only thing keeping her sane as her relationship had deteriorated. 
+
+'I'm not good with kids', she'd told herself before she started daycaring for them, but -- she'd done it anyway, because that was what she'd always done. More things, more distractions, more love to fill some hole no manner of work could ever fill. The dark thread in the distance seemed straighter now, tapering at the bottom, black and hard and gleaming, plunging into the sands like a-
+
+“Hey, you listening?”
+
+Snapping fingers.
+
+“Hey! Hey! I’m talkin’ to you,” she said, half giggling.
+
+“I need to go somewhere.”
+
+The girl frowned, looking up at the thread in the distance.
+
+"You need help remembering?"
+
+The voice seemed almost like a real girl, at that moment. Enough for Em to pretend, anyway.
+
+"I... don't know."
+
+Her hands fidgeted.
+
+“You’re lost," the girl said, wide blue eyes gleaming. "You're lost an' you need my help!"
+
+“Yeah, I... ” her eyes scanned the horizon. "I do, kid."
+
+"Hmmm," the girl murmured loudly, hungry eyes squinting as she pondered. "Gimme candy if I do this."
+
+Em couldn't help but chuckle, even as delirious as she was. She was almost going to reply, but then -- 
+
+The little brat slapped her face.
+
+“I’m hitting you, I’m hitting you, I’m-”
+
+Her cheek was getting raw, the girl's nails sharp.
+
+“//Stop, please//,” Emily choked out.
+
+“I’m hitting you. Also, just take the bridge, it’ll be faster.”
+
+To their right, a low bridge lifted out of the sand, a wooden thing built on poles of beaten bronze in the blasted waste.
+
+Suddenly, they were in a car, driving. Molly was gone. 
+
+The familiar voice again, morphing slowly into something hateful, something she’d pushed away for years, something… 
+
+//I’ve got you. I’m here for you, Mills. I always get my-//
+
+A screaming car-horn, and scattered glass. The car spun out into nothing, nothing but memory. There was an explosion.
+
+A steering wheel was spinning out, a W etched in the leather. He’d been so proud about it, when he’d first gotten the car.
+
+//It’s a surprise,// he’d said.
+
+“That Will problem, right?”
+
+The hawk’s wings flapped loudly above them, eyes wreathed in flame.
+
+“Let’s talk about it.”
+
+Emily screamed, her mind now locked in memory.
+
+//Believing//.
+
+------
+
+She awoke to the smell of weed and burning paper. //Where-//
+
+Their old RV. //Shit//.
+
+There was muffled yelling outside thin walls.
+
+Just another-
+
+//Fuck!//
+
+Her hands were shaking, gripping the edge of the bent-up cot. She suddenly felt like there wasn’t enough air. She stumbled outside onto ragged grass, about to bolt, but a hand was at her shoulder.
+
+“Just watch. Just wait.”
+
+Sean’s voice in an armoured suit. A comfort.
+
+Rusty hinges, crying. Broken needles lying on grass.
+
+Will’s voice. It was cold, so damn cold.
+
+“You were out again. Where’d you go?”
+
+“I was at the bar.”
+
+“You shouldn’t-”
+
+“We fucking need money, Will. We’re broke, and //both// of us know who’s fault it-”
+
+A smack. Between tears, her voice, cut by disbelief.
+
+“You…  hit me…”
+
+“I… did.”
+
+His voice was shaking, as if even he didn’t realise what he’d done.
+
+“You hit me.”
+
+A pause. The autumn leaves blew like paper in the wind.
+
+“You shouldn’t have left. We’re supposed to be in this //together//, Mills... “
+
+“Together? You just fucking hit me and that’s what you’re talking about?”
+
+“I- you, uh, I uh- You shouldn’t have left.”
+
+“I... We needed the- God. I should have listened to my cousin. I never should have… ”
+
+“Never should have what?”
+
+“I- it’s nothing.”
+
+“Have you been talking to him?”
+
+“I- no, I-”
+
+“I told you not to talk to him, I know how he thinks of me.”
+
+“I know, but-” 
+
+“What, Mills? What were you gonna- ”
+
+“//JUST LET ME FUCKING SPEAK!//”
+
+No one spoke for a while, the scene frozen, his hand half-raised. Her other self looked like a deer in headlights, young and afraid.
+
+“//I’m s-scared of you.//”
+
+“You… Oh, Mills, you don’t have to be.”
+
+His voice was softer now, disarming, wolf’s-teeth clothed in sheep’s skin.
+
+“I don’t know what to be, anymore. Not with you.”
+
+“Just answer my question, it’ll be fine… Hey, wait-”
+
+Stumbling off.
+
+“Mills? Mills!”
+
+Anger seeping, a savage redness in darkened light.
+
+“-Back here, //now!//-”
+
+Running. Crunching needles, broken glass. A recording studio, gathering dust in moonlight.
+
+“It’s time to go.”
+
+The Knight - Sean’s -  arabesque glove opened before her, a hand she readily took.
+
+The world turned to water.
+
+------
+
+
+She was in the passage once more, her head swimming. She was dizzy, but somehow so much clearer. Her brain had shifted gears so swiftly, running faster now. It was like she had cracked her neck.
+
+Whatever was in the pyramid, it was trying to get //personal//. It had memories, it knew //everything//. Was it the faceless man? The girl? 
+
+How did it know about //Will//?
+
+It was a memory she’d worked so hard to bury, one that had taken both her parents and cousin’s help to fix, to get rid of. Her life was fixed now. She’d gone to University. She’d accepted her father’s training. She’d stopped shutting Sean out. Hell, her dad had even gotten her a job. She wasn’t…
+
+This was ten years ago. This was… 
+
+That was why it was showing her New York. It was where she met him, where she’d-
+
+//Shit//. 
+
+Stumbling down the hall, she took a right turn in the gloom, her flashlight illuminating a further doorway, the very same she’d thought she’d escaped through earlier. When she finally reached it, she found it… shut.
+
+//Double shit//. 
+
+Eyes still half glazed-over with tears, she battered her fists against the shut stone door. Distant grinding of rock and metal echoed through the forgotten tunnels, and she felt the scraping at the back of her head again.
+
+//I’ll be seeing you//. 
+
+She slammed harder, crying out. Her communicator’s channels were jammed. Something was… interfering with them. 
+
+She stumbled on back into the dark, tears biting through the dust on her face. Bright eyes.
+
+//Seen.//
+
+------
+
+//Where, what...//
+
+She was sitting in a waiting room. Everything was pure white, a blinding light so different to every darkness she’d known before. Her ears burned with a ringing so piercing it was almost a scream.
+
+//Hospital sounds//...
+
+She bit back on her lip, trying not to cry. There was no comfort in this light.
+
+A seam opened in the white, a creaking door. A man jogged through it, holding his hat and coat dearly as he raced to his seat before her.
+
+“Sorry for the wait, Emily Lee, was it?”
+
+“Yeah.”
+
+Miller. She hadn’t seen him in years. Not since… 
+
+“Well, I have your files here with me. Shall we begin?”
+
+“Yeah, m’fine.”
+
+She felt empty.
+
+He sat down careful with intention, thin fingers lowering a briefcase on the table before her as if every movement had to be executed perfectly. 
+
+He was more actor than person.
+
+“So, is everything well?”
+
+Something was pounding on her skull.
+
+“Wait-”
+
+“Yes?”
+
+“S-sorry, my head.” Her vision was hazy, her words slurring.
+
+“That’s fine. I know things have been- difficult, right now. Is everything alright, Miss Lee?”
+
+“Actually - no, I- not really... ”
+
+//Why am I here? Why-//
+
+“Well, we can talk about it then. That’s why I’m here, right?”
+
+His smile was so brilliant it nearly outshined the room around them.
+
+“Yeah, uh. Yeah.”
+
+“So,” his pen made a tap-tap-tap on a check-board. “Have you been eating?”
+
+“M’trying.” Her head rolled to the side, staring into blank white. The world spun. “I’m a little… lost, lately. Tired. Ever since, you know… It’s been… hard.”
+
+His face stitched itself into a grave expression, jotting down notes silently. Finally, he stopped, eyes half-obscured by light reflecting off dark glasses.
+
+“I would imagine so. Last time you mentioned you’ve been trying to find a place to stay. Did anything come of that?”
+
+“My cousin- we haven’t spoken in a while, but I think he’d be willing. I’m at a… motel, for now. I can’t stay where… ” her words trailed off into the silence.
+
+“I understand. I really do.”
+
+He cleared his throat. “Has your sleeping gotten better?”
+
+“I- still wake up at night. There's this, slight feeling that I need to do something, but I don't know what. I go looking around my house, but I can never find… what it is, you know?”
+
+A nod, his face understanding.
+
+“That’s not an unusual thing after trauma, especially for one living alone such as yourself… “ He paused as she choked on tears. “Have you tried calling your father again?”
+
+Images of old passages flashed through her mind, a dusty dark so different to the white. //I’m not supposed to be here.//
+
+She tried not to reply, but her mouth didn’t listen. She knew then that she was not a person but rather a passenger, some silent watcher… a vessel on some strange boat.
+
+//I can see you, now//.
+
+“No, he’s still not returning my calls,” her voice came out a jumbled mess. “You’d think after the hospital he’d… be there for me. Sean’s tried contacting him, but- nothing.”
+
+“Does he know about the… incident?”
+
+Flashes in her head. A rusting door. A fight. A… drive. A car, careening near a bridge. 
+
+“Of course he does. I told you he was at-”
+
+“Not that one.”
+
+Lips pursed.
+
+“No. He never will.”
+
+“But you think he’ll give you a job. Like he did your cousin.”
+
+“Yes.” Her voice was firm, resolute.
+
+“Alright.” He flipped a page, an edge slightly ripping in the silence. “Moving on. This, er, loss. Have you found something to pass the time? Television, a hobby…?”
+
+Television. Home improvement, HGTV, old cooking shows… 
+
+The past.
+
+“No. Nothing interests me.”
+
+“If we had met, say um, a year or two ago, would your answer have been any different?”
+
+She paused. Something else spoke for her.
+
+“I used to… draw and uh, sing… I had a dream with… you know, to set up a recording studio together. We were really into music. Up before that point I’d been studying languages at university like my father did, but-”
+
+“But?”
+
+“Things changed.”
+
+Another page torn. A new one set. 
+
+“Things always change. You’ll have to be more specific.”
+
+“I fucked up.”
+
+“You did?”
+
+“I fucked up. My life was going- fine, and then- then I went with… with Will, and he- “ //Not now, not now, not...//
+
+“Shhh, shhh, here, have some tissues. Dry your eyes.”
+
+A box slid across the desk. Dried vision drank in the sterile light. She felt a hand slide atop hers, glasses set down upon the table. Doctor Miller’s uncovered eyes glowed golden.
+
+//I’m not supposed to be here.//
+
+“He’s gone, Miss Lee. He’ll never bother you again.”
+
+"No, I- He still watches me. I still see him. I was at the bank the other day, I swear I saw his eyes on me in the crowd, I--"
+
+"Have you ever heard of the Fregoli Delusion, Miss Lee?"
+
+Her head was swimming again, vision blurring. "W-what?"
+
+"It's quite rare. Everything we've talked about, these past few months... you seeing him in all manner of people, all this about him... following you. It just fits. You see him everywhere, always thinking he's in disguise. You're not well, Miss Lee. He's dead."
+
+"No, no I saw him, he--"
+
+“He’s dead.”
+
+Her eyes fluttered about, half blinded by the white room.
+
+“I know, but- it still feels so //real//. And-”
+
+The car. The fire. The lights. 
+
+“And what, Miss Lee?” he paused, ordering his notes. “Is there something else?”
+
+Guilt ate at her. A clock ticked and ticked away invisible on the wall.
+
+“I should hate him, for what he did. But I don’t, instead…”
+
+“Yes?”
+
+“Instead I feel…” she paused, thinking for the right word to say. “Guilty.”
+
+“Guilty? That’s //interesting//, isn’t it. Care to tell me why?”
+
+She curled up in her chair, gripping the table to stop her hands from trembling. There was a strange hunger in the doctor’s eyes, like he… wanted something.
+
+He had golden eyes. //Will’s eyes//. She wanted to run, she wanted to scream but-
+
+But still she was but a passenger, in a body that wasn’t hers. She couldn’t even cry.
+
+“You know how we were, before... “ 
+
+He nodded.
+
+“We’d gone strong for years but, something down the line changed. I don’t know how, where, but- he became… distant. It was like he was drifting away from me, from…us”
+
+“You’ve never gone into how things came to be before, with me.”
+
+“I- I lied. It made it easier.”
+
+“Like you’re lying now?”
+
+The air grew colder, frigid even.
+
+“W-what?”
+
+“I know he didn’t just drift away. You’re leaving something out.”
+
+“No I’m-”
+
+“He was violent, wasn’t he. He was cruel.”
+
+“I- how did you-”
+
+“That’s not important.” His pen clicked, eyes lowering to paper. “Why are you guilty? You aren’t responsible for your relationship, are you?”
+
+“It was both of us. I grew less interested in the dream we had together. Will- he blamed me, started going to bars, gambling more, getting into accidents- we had no money. We lived in the same house, but were… two people. Two separate lives. Strangers. I could have- I //should have// changed things, have been more supportive, have-”
+
+“Should have, could have, would have, so what?” His eyes rolled. “That doesn’t change the fact of what happened, Miss Lee.”
+
+“But-”
+
+“He was //violent//.”
+
+“We had-”
+
+“He was //cruel//.”
+
+“We had plans-”
+
+“He had plans for //you//, alright. He popped you like a tick, and left you to bleed, expecting you to give him everything when he gave you nothing. But. Grief.”
+
+He licked his lips, gold eyes smiling.
+
+“I still caused things.” Her voice was small now. “I still hurt him.”
+
+“How did you cause things?”
+
+Silence. The pen tapped thrice. Another page torn, scattered on the floor.
+
+“I- I ruined what we had. He was… harsh, but always- it was only fair, what he did in the end… ”
+
+“There is nothing fair or just about what happened.”
+
+"He's dead."
+
+“Was it fair when he-”
+
+“Stop.”
+
+Silence.
+
+“You’re such a bitch about things sometimes, you know that?”
+
+“What?” It was like she’d been slapped.
+
+//I’m not supposed to be here//.
+
+“You heard me.”
+
+“This isn’t professional.”
+
+//Why did I say that? Why am I still talking to him? He’s horrible. Why-//
+
+He pinched his nose, letting out a long reedy sigh of dusty air. A smile spread slowly across his face once more, a false thing more like some gilded billboard on a penitentiary than anything remotely genuine.
+
+His pen clicked.
+
+“You’re right. I’m sorry. It wasn’t my place.” The words were spoken as if he was reading off a cue card. He straightened his jacket, before continuing. “What you had, it was, um,  a toxic relationship, for both of you. That doesn’t change his choices. It doesn’t change the fact that //you// didn’t cause him to do what he did, just as //you// didn’t cause him to die in that crash. You know that, right?”
+
+“He wasn’t- These… these thoughts, they- they slither into my head. I can’t… force them out.”
+
+“Do you need some aspirin? You mentioned your head was pounding, earlier.”
+
+“It’s fine.”
+
+His smile grew, so incongruous to everything around them. It was brilliant.
+
+“I’ve seen the reports. He’d been screaming at you. You’d driven him up the wall with your shit, you know that? You had injuries from before the crash. It wasn’t your fault he didn’t wear a seat-belt, unless… ”
+
+It lay unsaid. She’d been the one to swerve the wheel, half out of worry and half out of some…  To get him to stop. To make it end. To-
+
+“I-” her voice cracked. “I’m sorry.”
+
+“And the truth comes out.”
+
+His eyes were hungry, searching. A ripple under his cheek, something moving. The scraping was back.
+
+She couldn’t see very straight. It was all… swirling, swirling together… 
+
+“I-”
+
+“Oh?” His eyes lit up. “Is there something you want to say?”
+
+“Nothing. It was-” she took a breath, muttering something unintelligible.
+
+“I think it was very important. Speak up.”
+
+Images flashed, her past, the present. Burning engines, explosions. Will’s words cutting into her like swords in the night.
+
+“I need you to be honest with me, Mills.”
+
+The voice, the face, was changing, shifting, hungry eyes searching and peeling back every wall she’d ever had.
+
+“I…”
+
+//Mills?//
+
+She couldn’t have done it, but - she did. She’d… 
+
+“I killed him.”
+
+She was naked. She was alone.
+
+The darkness danced outside the light, piercing her skin like a thousand needles. Acupuncture. 
+
+“I need you to think, about //why// you’re guilty.”
+
+The man’s head continued to shiver and shift, moulding itself in the dying light.
+
+“What more do you want? I fucking- I fucking said it already, I-”
+
+The shifting face settled on one she knew all-too-well, dark but grinning as if some ghoul reborn. Will’s cold eyes stared back at her, a face half bloodied and burned and gashed. His right arm was torn off just as it had upon impact, blood dribbling on the white floor. There was riverweed in his hair.
+
+“I want you to think about what you did to me.”
+
+He was shaking her now, hand closing around her throat.
+
+“I want you to think about why you did what you did.”
+
+“This isn’t fair.”
+
+Air, air, //air//.
+
+His face was close to hers, eyes wild. A thousand different voices swirled.
+
+“I want you,” it was so close, too close. “To think,”
+
+“It felt powerful, didn’t it? You just wanted an escape, so you-”
+
+“You seized control,”
+
+“You killed him.”
+
+“It wasn’t your fault, you just, moved the wheel.”
+
+“You were both meant to die. Imperfection,”
+
+“But then-”
+
+“But then he did, and you survived.”
+
+“A surprise, isn’t it?”
+
+“You liked it. That power, it was like a drug, right?”
+
+“You’re just like him.”
+
+“It was like Molly.”
+
+“How’s that fair in love and war?”
+
+“How’s that-”
+
+“How’s that fair?”
+
+“Your fault, your fault, your fault, your-”
+
+She screamed.
+
+“Stop, //stop!//.”
+
+“Your fault, your fault, your-”
+
+Every voice stopped as the light faded, a different voice rising like a tenor from the choir of rabble. 
+
+//I’m not supposed to be here.//
+
+“It’s a runway, now. A runway to the Dawn.”
+
+Water filled her lungs, and it all bled black. 
+
+------
+
+[[=image http://rpcsandbox.wdfiles.com/local--files/fragment%3A866-2/866finall.png width="650px"]]
+
+------
+
+A sheet of water rolled over her eyes like a curtain being drawn. She lay flat in a rocking boat, tumultuous velvety black waves crashing over its sides. The ferryman stood tall above her, untouched by the spray. He was humming.
+
+The wind was blowing haughtily from the east.
+
+He held a lantern to his now-faceless face. “Are you ready to take care, now that we can both see?”
+
+“I don’t--“ she started, then sputtered as another wave of starlit sea smacked her face. 
+
+She sat up, coughing. “I still don’t know what you //mean//.”
+
+His eyeless eyes stared sullen. “This picture show needs to end, I’m sorry to -- say.”
+
+“Picture show?”
+
+//What?//
+
+“Aye,” he nodded, as if it made sense. “Dream waltz. Seen me as a good many things, I ken. I ken.”
+
+Out in the dark of that writhing sea, she saw their destination puncture the gloom: a distant isle, sand white as bone, just barely visible above the phantasmal waters. There upon it like a tooth jutted out a rectangular thing of girth and height immeasurable, tapering as it ascended into the impossible sky towards a pyramidal top: an obelisk. Its sides seemed almost amphibian -- like flaps and folds of wet permeable skin seen from afar, reflecting unnaturally the half-light of the ferryman’s lantern. The thing looked disjointed, simultaneously uniform and not, a paradoxical testament to something her mind could not hope to comprehend, both inhumanly good and inhumanly horrible all the same. It was in memoriam to something beyond time itself.
+
+And, they were going //towards// it. Eyes unfocused, she looked idly off the side of the swaying boat. Even in the dark, she could see other things in the water, other things in the waves. Chest-sized pockmarked stones began to peek above the sloshing ebony rapids, themselves emitting a sickly grey light to guide her unwilling passage for the monument.
+
+In the churning of the frothy tides, they looked almost like faces. Did they have eyes?
+
+//Your fault//. She choked back a sob.
+
+“This isn’t-- why are you bringing me here?”
+
+The cloaked ferryman said nothing, only lowering his head an imperceptible amount. She saw now that he was not faceless -- that had been a trick of the dark; within his hood swarmed a million beetles, all joyously pressing into and scuttling around and copulating with one another in some terrible orgy that was in itself wrought in the larger shape of a great scarab's head, dark and green and red and golden, near pulsing in the lamp’s cold light.
+
+“Would you not listen to music?”
+
+It was speaking, its strange tongue seemingly wrought of sunlight itself.
+
+“The night is longest ‘fore the dawn, and we’re not far into the former.”
+
+“This is-“ she started, casting a glance over the edge of the gold-inlaid reed boat. In the tumult of the waves, she saw what looked like the legs of a beetle reaching from the depths and grasping for one of the stones. She looked away quickly, perturbed. “Y-you’ve, done nothing but fuck with me this whole time, and now you want me to listen to your- song?”
+
+“You have not met //me// yet -- only my unfortunately curated, predecessors.”
+
+//Still just speaks nothing but gibberish,// was her only thought. The ferryman lowered his gestalt head even more, as though he’d heard. 
+
+He didn’t reply, only steering onwards. His soft hums softly buzzed louder through the blustery wind.
+
+“W-what’s this stuff in the water?”
+
+He spoke again with Will’s voice, but she knew what came from that golden tongue was impossibly dissonant to him. “The snake coils in the reeds, the beetles thrust through the water. All sounds like gibberish, aye?”
+
+“…Aye.” 
+
+//Aye. The Egyptian boatman speaks like a Scot.//
+
+//Your fault, your fault...//
+
+“It is gibberish, to an extent,” he went on, as though he couldn’t hear her terrified musings. It was begrudgingly comforting, in a way that frightened her. “Gibberish made up by particularly clever scribes -- like you, a bit -- to describe what they didn’t want to know.”
+
+//How’s that fair in love and war?//
+
+“Like- like that song, the one the…” she paused, trying to find her words. “The boy was singing.”
+
+The cloaked beetle’s head of beetles nodded. “A dream with more credence than most.”
+
+Their boat veered away from the bulbous rocks dotting the waves, ferryman’s oar pushing it ever onward along its obdurately isle-bound path. “You’re... different now,” she said, holding onto one side of the golden reed boat as it turned.
+
+“I am more true. More -- keep th’ heid, if you will -- awake.”
+
+//The heid?//
+
+She couldn’t help but say it. “…and you speak oddly half in Gaelic, for an Egyptian.”
+
+The ferryman shrugged, his strangely toned arms plowing his oar through the water like a scythe through wheat. He was shaking, a reedy sound she only realised later had been a laugh coming from his ruined throat. “An Egyptian? What can I tell you, the snake makes mockery of us all. Even me -- ‘cept, this close to the Dawn, it gets rather… difficult.”
+
+//Another half-answer.//
+
+“I’ve always had a soft spot for scribes,” he continued. “Even in the real -- for this is only half -- they’ve been some of my favourites, my… chosen. You’d know, you are one; Makers in their own right.”
+
+She coughed, dust fluttering by the light of the ferryman’s pale lantern. “But they don’t //make// anything- it’s just recording what’s already there.”
+
+“Ain’t that just it!” He exclaimed, steering the reed boat around another stone. “Like that song you heard- ill-fitting for your own situation as it was, the one who wrote it was doing just that --  recording what had already happened, all those eons ago...”
+
+Two things she sensed vividly then, in the ferryman’s rich voice. One was a distinct yet strange //admiration// -- as though all the psychotic lines of seeing and not seeing had been only half-truths, and that this was the one who could see her truly. The other was a sickly melancholy, like a parent leading a kid to the doctor’s office and distracting them along the car ride.
+
+Both coiled through one another in his speech, one fact ringing true in her mind: he was only talking because he admired her, yet he would still ferry her onwards to her fate.
+
+Even now, the events of the white room played out again in her head, the contradictory echoes of her own admission tearing at her, the dark voices tearing at her mind.
+
+//Your fault, your fault, your-//
+
+//Am I going insane?//
+
+“So that song was-- was real, then?” She choked out over the spray. 
+
+“Not in this world. Or the next. But, in one far away… mayhaps.”
+
+“But the dream was--“ His eyes had been golden that day, brighter than the now-absent sun. “I-it was in... New York.”
+
+The ferryman nodded, still pushing his oar through the inky sea. “That’s all this is. Echoes of echoes, shadows on the dirt wall of a snake-hole.”
+
+Even in the silent emptiness, his voice seemed to echo, too. Around them, the sea still churned, the faintly glowing stones in the water still mumbling. Dark shapes moved at the edge of sight, rolling across the plain.
+
+In the back of her mind, she felt a snake coil, the scraping unbearable. “That-- includes you?”
+
+//Am I going insane?//
+
+She couldn’t stop her own thoughts.
+
+Again, he tilted his head downwards, hood drooping, smaller beetles dropping to the floor of the boat like clumps of mud off a stick. “An unfortunate shadow of a person is still, at its clearest, the person.”
+
+“But you’re so--“ the reed boat came grating against a stone, the ferryman calmly pushing it away with his oar. Beneath the waves she saw again those beetle’s forelegs, grabbing and then rolling the vaguely head-shaped rock like a dung beetle would retrieve its prize. //Do not dwell on it,// her voice of reason commanded. She cleared her throat. “You’re so, //strange//- you don’t belong in this dream, if it is one. I was- ” her voice caught on nothing. “I was told to avoid you.”
+
+He dodged her last comment.
+
+“Only,” the ferryman said, his voice now a soft drawl emanating from that golden beetle’s tongue. “This is not a whole dream. Half, yes- the echoes within, yes- but not in whole.”
+
+The thing coiled tighter around the back of her mind. “…You mean the snake, that the dreams talked of. That - Sean, spoke of.”
+
+“Sean?” 
+
+He didn’t know. //How can he not know?//
+
+The water broiled beneath.
+
+“Not my- not my cousin Sean, the other one. The Knight.”
+
+He said nothing. They’d drawn near to the monument’s shore now, that archaic glistening chunk of shadow reflecting only the cerulean light from the ferry’s lantern. The sand from which it came emitted its own sickly bone-shine, callous and bleached yellow as it glimmered against the black backdrop. There were more faces in the water now. Shore-bound stones jutted through waves, paradoxically black whitecaps crashing onto them and wetting head-like carven features. The ferryman hummed once more in some nonverbal parallel to that bygone dream-song from earlier, and the thing in her mind coiled ever-tighter.
+
+It was the boy’s song.
+
+//Your fault.//
+
+When their boat finally came aground, there was a flash in the water. She jumped from her seat, turning to see what would no doubt be some other bastardized Egyptian nightmare- only to find the face of her cousin in the waves. Not the knight who had stolen his voice; her cousin, the blood of her blood and the flesh of her flesh, reflected from nowhere onto that sloshing black mirror. 
+
+He held a gun like some parody desperado, aiming hopeless into some dark horizon, and soundlessly fired into the dark-capped waves. Beside him were more reflections, she saw, of other things -- some true, some gross misinterpretations of things she only half-remembered and half-dreamed of some older time -- child-dreams, hopes and memories beholden; she saw her first university, her high school, her cleaning the studio, her second, full graduation, her time in the Authority, therapy, doing what she loved…  
+
+And every other mirror-wave, it seemed, held Will. Always caught in some forcibly misremembered but terribly //vindictive// moment, she couldn’t help but turn to face the Ferryman. The thing that’d stolen his voice, the thing that’d brought her to this great and terrible place. 
+
+He only hung his thousand-beetled head as if in mourning, refusing to even look at her. More insects dropped onto the deck, struggling afoot.
+
+She felt both angry and sorry for him, but for the latter she didn’t know why. Her head turned towards that island-bound obelisk, as if driven as per the programmed orders of some grand design, metal parts moving under her neck and skin and bones, forward onto the sand.
+
+//I’m an animatronic,// she thought absently.
+
+She had no control, not anymore.
+
+The spired thing stood obnoxiously high into the sky before her, jaunt extrusions twisting from that otherwise orderly monument of shimmering scales. Up close now, it was only a few feet away from where they’d hit the shore, and she saw that its base was comprised not of stone but of millions of things, all dead or dying: some insects, some vaguely aquatic, others almost wormlike in reflection of the lightless mere. The spindly corpses had been knit together by a dark velvet gum, flowing liquid scale binding them all into a shape clearly not meant to be. It was a bulbous thing, bursting at the seams, with a sickly allure. 
+
+//It’s a surprise,// he’d said, even as the cold snows of Central Park had blustered around them. 
+
+He’d proposed that day. She’d made a choice.
+
+She moved towards the prow of their reed-boat, and nearly stepped ashore. A muscular arm jut out in front of her as suddenly as she’d begun moving, two-toned golden muscles holding itself mechanically steady in front of her chest. She turned, and saw the ferryman’s cloaked head staring at her.
+
+“Are you sure?” It asked.
+
+A nod. “Your lies have been sweet, but they were just-- that, lies.”
+
+//You lied, too.//
+
+//Your fault, your fault, your fault…//
+
+Emily fought off the tears, staring hard at the being that was hindering here. Never had she seen a thing look so simultaneously sorrowful and… content. His arm slid back beneath his cloak, and she stepped off the reed boat. The sand shuffled in response, once, then twice, then kept shuffling.
+
+Instantly she felt a stinging warmth rise in the back of her mind, cold rings shooting through every nerve. With horror, she saw faces in the bone-sand -- faces just like that in the water’s dark reflections, but all staring up at her at once in a way that had been invisible from the boat, obscured by the waves. They whispered from beneath her feet, horrid lies and spiteful insults. A mouth chomped wildly on the sole of her foot, and she fell screaming into the sand.
+
+The obelisk leered above her.
+
+Their whispers became yells, engulfing her in a current of hateful noise. //Your fault,// they jeered, and she saw in those mounds the faces of her once loved ones: cousins she had played with as a child, boys she had loved, and family members she’d all but forgotten, all were there, screaming and screaming and screaming. 
+
+Above them stood the ferryman, his shimmering face sullen from his perch on that battered boat. 
+
+He was still.
+
+//You bastard,// she tried to call, but nothing came out. She felt at once in unison with that frightful mind-snake’s hatred, felt it rise within her like a spring uncoiling. It felt //good//- and that was the part that scared her the most. She wanted- needed- a way to put a stop to it, a way to make both of them stop their incessant howling.
+
+Ultimately, it was the ferryman who gave her the answer. From his cloak he pulled a strange thing- she could barely make it out before it was tossed onto the sand near where she lay. A scrimshaw razor, engraved with thousands of tiny scenes; she didn’t care for the engravings. 
+
+“A choice,” he said, the voices rising. He was //so, so sad//. “To make it right.”
+
+In an instant the razor was in her hand, then //in// her hand; cutting and scratching and then horribly grinding against her free forearm. The pain barely bothered her anymore - she needed something, //anything// to stop the howling,the jeering, the mind-shatteringly false accusations that seemed so horribly true. A great wheel of bone turned at the base of the towering monolith as she cut away at her arm, a snake wrapped around the pit of her mind.  It felt paradoxically //good//- good to be rid of their jeers for but a moment, //good// if only because the pain of her now unrecognizable forearm was greater still, drowning out the memories that plagued her.
+
+The car was kareening off the bridge.
+
+//Just like the one that killed him.//
+
+Voices, voices, voices… 
+
+//Just like I killed him//.
+
+The snake cried alongside her, the pathetic thing. She ground and ground, ivory against bone, the faces in the sand screaming unbearable words. When her arm was no more than an angled spike of viscera and boney chunks, she cast one last pained look to the ferryman. He cast his head down like he so often did, and she saw again the flash in the waves. The face of her cousin, who she’d taken so much solace in, now shining with self-perceived malice through the black tide. 
+
+When the flash came on his face again, she snapped the spike of her arm in two. A hollow cry ripped unwillingly from her throat, the scrimshaw razor cast to the sand by bloody fingers. She fell forward alongside it, turning the spike inward through her gut as her face hurtled towards the jeering crowd writ in sediment beneath her.
+
+//A choice//, the Ferryman had said. It was //her// choice.
+
+She’d lied to herself enough, anyway. In the sand there was a final face- Will’s face, his eyes glistening gold in the dark. High above, atop the blackened capstone, she heard that terrible snake bawl louder and louder, shrieking over the blackened plain in some unholy dirge. She couldn’t stop what she’d begun. 
+
+Suddenly, the cold wind shifted to the east. Bloodshot eyes lifted from the body-strewn sand. 
+
+In the distant horizon, set tall and dark against the shattered sky, so solemnly sailed the ferryman, away into an early light. Behind, rising luminously over the black meres like a lantern but with none of its warmth, there was a pale sun, its light playing off the wind-whipped waves as if they were crystal.
+
+It was bleeding.
+
+It was then that the bone-spear did its job. It was then, that the whole world turned to darkness.
+
+[http://rpcauthority.wikidot.com/rpc-866/offset/2 The snake had never stopped crying.]
+

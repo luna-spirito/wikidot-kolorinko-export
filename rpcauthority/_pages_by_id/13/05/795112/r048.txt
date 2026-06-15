@@ -1,0 +1,624 @@
+---
+title: "Research Style"
+tags: ["component"]
+page_id: "1305795112"
+site: "rpcauthority"
+slug: "component:research-style"
+revision: 48
+revision_id: "1367510531"
+author: 5258122
+timestamp: 1628547767
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:research-theme/code/1);
+[[/module]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+[[/module]]
+
+[[collapsible show="+ Code"]]
+[[code type="css"]]
+/*
+Research Documentation Styles
+
+Created by Vizlox
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ruthie&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mr+Bedfort&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dr+Sugiyama&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bonbon&amp;amp;amp;display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.research-paper {
+  background: var(--background-4); 
+  border: solid 2px #666; 
+  padding: 1px 15px;
+}
+
+.research-paper>p {
+  text-indent: 30px;
+}
+
+.research-paper sup {
+  text-indent: 0;
+}
+
+.paper1, .paper2, .paper3, .paper4, .paper5, .paperGray, .paperYellow, .tabletBlack {
+  padding: 15px;
+  margin: 15px;
+  color: #111;
+  box-shadow: 2px 1px 1px 2px #9c9483;
+  border-radius: 20px;
+}
+
+.paper1 .image-block, .paper1 .image-block .image-caption,
+.paper2 .image-block, .paper2 .image-block .image-caption,
+.paper3 .image-block, .paper3 .image-block .image-caption,
+.paper4 .image-block, .paper4 .image-block .image-caption,
+.paper5 .image-block, .paper5 .image-block .image-caption,
+.paperGray .image-block, .paperGray .image-block .image-caption,
+.paperYellow .image-block, .paperYellow .image-block .image-caption,
+.tabletBlack .image-block, .tabletBlack .image-block .image-caption {
+  background: none;
+  box-shadow: none;
+  border: none;
+  font-family: Special Elite;
+  color: rgba(20,20,20,0.9);
+  font-weight: bold;
+  text-shadow: 0 0 4px rgba(0,0,0,0.3);
+}
+
+.paper1 .image-block img,
+.paper2 .image-block img,
+.paper3 .image-block img,
+.paper4 .image-block img,
+.paper5 .image-block img,
+.paperGray .image-block img,
+.paperYellow .image-block img,
+.tabletBlack .image-block img {
+  border: 2px solid rgba(0,0,0,0.5);
+}
+
+.paper1 .enlarge-true:hover,
+.paper2 .enlarge-true:hover,
+.paper3 .enlarge-true:hover,
+.paper4 .enlarge-true:hover,
+.paper5 .enlarge-true:hover,
+.paperGray .enlarge-true:hover,
+.paperYellow .enlarge-true:hover,
+.tabletBlack .enlarge-true:hover {
+    transform: none;
+}
+
+.paper1 {
+  background: #c9bfa9 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper1.png);
+}
+
+.paper2 {
+  background: #f8f3e4 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper2.png);
+  box-shadow: 2px 1px 1px 2px #b5b1a5;
+}
+
+.paper3 {
+  background: #d9d5c8 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper3.png);
+  box-shadow: 2px 1px 1px 2px #b0aca2;
+}
+
+.paper4 {
+  background: #d5cca7 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper4.png);
+  box-shadow: 2px 1px 1px 2px #a39c81;
+}
+
+.paper5 {
+  background: #cac4b4 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper5.png);
+  box-shadow: 2px 1px 1px 2px #ada89a;
+}
+
+.paperGray {
+  background: #bbbbbf url(http://rpcauthority.wikidot.com/local--files/component:research-style/papergrey.png);
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px 1px #97939e;
+}
+
+.paperYellow {
+  background: #fbf5d8 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paperYellow.png);
+  box-shadow: 0 0 2px 0 #d1ccb2;
+  border-radius: 5px;
+}
+
+.tabletBlack {
+  background: #060507 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paperBlack.png);
+  color: #d00;
+  text-shadow: 0 0 3px #500;
+  border: none;
+  border-radius: 10px;
+  box-shadow: inset 1px 1px 100px 100px #010008;
+}
+
+.typewrite1 {
+  font-family: Syne Mono;
+  line-height: 150%!important;
+}
+
+.typewrite2 {
+  font-family: Special Elite;
+  font-size: 110%;
+  line-height: 150%!important;
+}
+
+.marck {
+  font-family: Marck Script;
+  font-size: 150%;
+}
+
+.rocksalt {
+  font-family: Rock Salt;
+  font-size: 110%;
+  line-height: 200%!important;
+}
+
+.nycd {
+  font-family: Nothing You Could Do;
+  font-size: 160%;
+}
+
+.belle {
+  font-family: La Belle Aurore;
+  font-size: 175%;
+}
+
+.rainbow {
+  font-family: Over the Rainbow;
+  font-size: 150%;
+}
+
+.monsieur {
+  font-family: Monsieur La Doulaise;
+  font-size: 210%;
+}
+
+.ruthie {
+  font-family: Ruthie;
+  font-size: 225%;
+}
+
+.bedfort {
+  font-family: Mr Bedfort;
+  font-size: 175%;
+}
+
+.sugiyama {
+  font-family: Dr Sugiyama;
+  font-size: 200%;
+}
+
+.patrick {
+  font-family: Patrick Hand SC;
+  font-size: 200%;
+}
+
+.beth {
+  font-family: Beth Ellen;
+  font-size: 125%;
+}
+
+.bonbon {
+  font-family: BonBon;
+  font-size: 165%;
+}
+
+.dokdo {
+  font-family: East Sea Dokdo;
+  font-size: 200%;
+}
+
+.yeon {
+  font-family: Yeon Sung;
+  font-size: 130%;
+}
+
+.pirata {
+  font-family: Pirata One;
+  font-size: 160%;
+}
+
+.yellowtail {
+  font-family: Yellowtail;
+  font-size: 190%;
+}
+
+.indieflower {
+  font-family: Indie Flower;
+  font-size: 150%;
+}
+
+.shadows {
+  font-family: Shadows Into Light;
+  font-size: 170%;
+}
+
+.revisionStamp {
+  font-family: Big Shoulders Stencil Display;
+  font-size: 30px;
+  position: relative;
+  transform: rotate(3deg);
+  color: rgba(20,20,20,0.5);
+  text-shadow: 0 0 4px rgba(0,0,0,0.5);
+}
+
+.revisionStamp.blue {
+  color: rgba(20,20,100,0.5);
+  text-shadow: 0 0 4px rgba(0,0,100,0.5);
+}
+
+.revisionStamp.red {
+  color: rgba(100,20,20,0.5);
+  text-shadow: 0 0 4px rgba(100,0,0,0.5);
+}
+
+.revisionStamp p {
+  margin: 0;
+  position: absolute;
+  right: 0;
+  top: -15px;
+}
+
+.barcode {
+  font-family: "Libre Barcode 39";
+  font-size: 125%;
+}
+
+@media (max-width: 768px) {
+
+.revisionStamp {
+  font-size: 15px;
+}
+
+}
+[[/code]]
+[[/collapsible]]
+
++ How to use 
+
+> @@[[module css]]@@
+> @import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+> @@[[/module]]@@
+
+[[tabview]]
+[[tab typewrite1]]
+[[div class="paperGray typewrite1"]]
++++ Syne Mono
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab typewrite2]]
+[[div class="paperGray typewrite2"]]
++++ Special Elite
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab marck]]
+[[div class="paper1 marck"]]
++++ Marck
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab rocksalt]]
+[[div class="paper1 rocksalt"]]
++++ Rock Salt
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab nycd]]
+[[div class="paper1 nycd"]]
++++ Nothing You Could Do
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab belle]]
+[[div class="paper1 belle"]]
++++ Belle
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab rainbow]]
+[[div class="paper1 rainbow"]]
++++ Rainbow
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab monsieur]]
+[[div class="paper1 monsieur"]]
++++ Mosieur
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab ruthie]]
+[[div class="paper1 ruthie"]]
++++ Ruthie
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab bedfort]]
+[[div class="paper1 bedfort"]]
++++ Bedfort
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab sugiyama]]
+[[div class="paper1 sugiyama"]]
++++ Sugiyama
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab patrick]]
+[[div class="paper1 patrick"]]
++++ Patrick
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab beth]]
+[[div class="paper1 beth"]]
++++ Beth Ellen
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab bonbon]]
+[[div class="paper1 bonbon"]]
++++ BonBon
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab dokdo]]
+[[div class="paper1 dokdo"]]
++++ East Sea Dokdo
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab yeon]]
+[[div class="paper1 yeon"]]
++++ Yeon Sung
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab pirata]]
+[[div class="paper1 pirata"]]
++++ Pirata One
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab yellowtail]]
+[[div class="paper1 yellowtail"]]
++++ Yellowtail
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab indieflower]]
+[[div class="paper1 indieflower"]]
++++ Indie Flower
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab shadows]]
+[[div class="paper1 shadows"]]
++++ Shadows Into Light
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+[[/tabview]]
+
+[[tabview]]
+[[tab paper1]]
+[[div class="paper1 belle"]]
++++ paper1
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab paper2]]
+[[div class="paper2 belle"]]
++++ paper2
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab paper3]]
+[[div class="paper3 belle"]]
++++ paper3
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab paper4]]
+[[div class="paper4 belle"]]
++++ paper4
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab paper5]]
+[[div class="paper5 belle"]]
++++ paper5
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab paperGray]]
+[[div class="paperGray typewrite1"]]
++++ paperGray
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab paperYellow]]
+[[div class="paperYellow marck"]]
++++ paperYellow
+
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+
+[[tab tabletBlack]]
+[[div class="tabletBlack yellowtail"]]
++++ tabletBlack
+
+As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. 
+
+However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. 
+
+And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+[[/tab]]
+[[/tabview]]
+
+++ HOW TO USE FONTS
+
+First, take the class of the font and the class of the paper you want. These are in the tabs. Then put them in a div block like this:
+
+> @@[[div class="marck paper3"]]@@
+> This produces a div with the "marck" font and the "paper3" background. 
+> @@[[/div]]@@
+
+See:
+
+[[div class="marck paper3"]]
+This produces a div with the "marck" font and the "paper3" background.
+[[/div]]
+
+The typewrite1 and typewrite2 fonts are meant to be used with the paperGray background to create a typewritten text look. They don't look great on the other paper backgrounds.
+
+The patrick font is meant to be used for titles. It may not look that great for regular text.
+
+----
+
+++ REVISION STAMP
+
+Use this stamp text for revisions and other stamp text
+
+> @@[[div class="paper3 belle"]]@@
+> @@[[div class="revisionStamp"]]@@
+> AMENDED 12 JUNE 2024
+> @@[[/div]]@@
+> 
+> TEXT
+> 
+> @@[[/div]]@@
+
+[[div class="paper3 belle"]]
+[[div class="revisionStamp"]]
+AMENDED 12 JUNE 2024
+[[/div]]
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+
+Also, colored versions:
+
+> @@[[div class="revisionStamp red"]]@@
+> AMENDED 12 JUNE 2024
+> @@[[/div]]@@
+
+[[div class="paperGray typewrite2"]]
+[[div class="revisionStamp red"]]
+AMENDED 12 JUNE 2024
+[[/div]]
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+
+> @@[[div class="revisionStamp blue"]]@@
+> AMENDED 12 JUNE 2024
+> @@[[/div]]@@
+
+[[div class="paperGray typewrite2"]]
+[[div class="revisionStamp blue"]]
+AMENDED 12 JUNE 2024
+[[/div]]
+    As stated before, Wood Chip’s signature is RS1>00.000.01, and this value has never changed in the course of The Institute’s history, which would objectively the reality it originates from a prime candidate for exploration, requiring minimal math to open a spatial rift towards the location. However, due to it also being such an infinitely low value, this reality would not be able to exist at all, but as seen with the existence of Wood Chips, it does. And if a spatial rift of any kind were to be open towards this reality, the difference between baseline signatures and this location would be so drastically different that it could cause damage to the fabric of reality, however, the creation of a brief enough rift could allow for any objects in the other end to access out reality, and if following the characteristics of Wood Chips, remain stable.
+[[/div]]
+
+----
+
+++ BARCODE TEXT
+
+> TEXT TEXT TEXT @@[[span class="barcode"]]barcoded text[[/span]]@@ TEXT TEXT TEXT
+
+TEXT TEXT TEXT [[span class="barcode"]]barcoded text[[/span]] TEXT TEXT TEXT
+
+
+[[div class="paperGray typewrite2"]]
+[[div class="revisionStamp blue"]]
+BARCODE [[span class="barcode"]]sertn[[/span]]
+[[/div]]
+Bla Bla Bla
+
+This text has barcodes in it. [[span class="barcode"]]t7r7321[[/span]] Isn't that crazy?
+[[/div]]
+

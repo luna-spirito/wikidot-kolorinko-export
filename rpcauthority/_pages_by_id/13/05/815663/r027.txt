@@ -1,0 +1,1347 @@
+---
+title: "_author Page"
+tags: []
+page_id: "1305815663"
+site: "rpcauthority"
+slug: "_author-page"
+revision: 27
+revision_id: "1357650892"
+author: 3118961
+timestamp: 1605476912
+---
+
+[[module css]]
+.label:nth-child(n+2) {
+  display: none;
+}
+
+.label {
+  display: block;
+}
+
+#page-title {
+    display: none;
+}
+
+.content-box {
+  border: 2px dashed #666;
+  background: var(--code-background);
+}
+
+.content-box.activity {
+  background-image: url(http://www.rpc-wiki.net/local--files/component:icons/Badge-Activity.png);
+  background-repeat: no-repeat;
+  background-size: 25px;
+  background-position-x: 3px;
+  background-position-y: 3px;
+}
+[[/module]]
+
+[[div style="font-weight: bold; text-align: center;"]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Author Page
+[[/div]]
+[[div class="unmargined" style="font-size: 95%; margin-left: 0px; margin-right: 0px;"]]
+----
+[[/div]]
+[[/div]]
+
+> = Message [[*user Croal]] or [[*user Vizlox]] if you wish to be added to this list. You must have multiple articles or contributions to be added.
+> 
+> = Users with the "Theta" role on Discord will be given an active contributor badge on their Author Page entry.
+
+= [[[author-attribution|Author Attribution Page]]]
+
+[[div class="content-panel" style="font-weight: bold; text-align: center;"]]
+Enter a personal author page title below.
+
+[[module NewPage button="Create an Author Page" tags="author-page"]]
+
+[[<]]
+- You may not have more than one author page.
+- You must have at least 2 site contributions.
+- Your author page must be functional, easy to use for finding your works.
+- Your author page cannot include anything that inhibits usability.
+[[/<]]
+
+[[/div]]
+
+[[div class="content-panel" style="text-align: center; font-weight: bold;"]]
+[[span style="font-size: 90%;"]][#A A] | [#B B] | [#C C] | [#D D] | [#E E] | [#F F] | [#G G] | [#H H] | [#I I] | [#J J] | [#K K] | [#L L] | [#M M] | [#N N] | [#O O] | [#P P] | [#Q Q] | [#R R] | [#S S] | [#T T] | [#U U] | [#V V] | [#W W] | [#X X] | [#Y Y] | [#Z Z][[/span]]
+
+[[# special]]
++ -#- 
+
+----
+[[# A]]
++ -A-
+[[div class="content-box"]]
+[[collapsible show="Agent Pandoo 1"]]
+[[*user Agent Pandoo 1]]
+
+[[module ListPages created_by="Agent Pandoo 1" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Agent Pandoo 1" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Agent Pandoo 1" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Alex Mercer Fan Club"]]
+[[*user Alex Mercer Fan Club]] | [[[site-manager-todd-author-page-1-at-the-writer-s-edge|Author Page]]]
+
+[[module ListPages created_by="Alex Mercer Fan Club" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Alex Mercer Fan Club" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Alex Mercer Fan Club" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box activity"]]
+[[collapsible show="Almarduk"]]
+[[*user Almarduk]] | [[[almarduk|Author Page]]]
+
+[[module ListPages created_by="Almarduk" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-661]]] | Co-write with [[*user KaiserXI]]
+[[[RPC-866]]] | Co-write/Rewrite with [[*user moist bread]] and [[*user Fortunae]]
+
+[[module ListPages created_by="Almarduk" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Almarduk" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="AnomalousDucky"]]
+[[*user AnomalousDucky]] | [[[anomalousducky-s-author-page|Author Page]]]
+
+[[module ListPages created_by="AnomalousDucky" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="AnomalousDucky" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="AnomalousDucky" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Arbiter_Soul"]]
+[[*user Arbiter_Soul]]
+
+[[module ListPages created_by="Arbiter_Soul" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Arbiter_Soul" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Arbiter_Soul" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="ariii_kanariii"]]
+[[*user ariii_kanariii]] | [[[ari-s-page-of-wonders|Author Page]]]
+
+[[module ListPages created_by="ariii_kanariii" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ariii_kanariii" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ariii_kanariii" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Ascriber"]]
+[[*user Ascriber]]
+
+[[module ListPages created_by="Ascriber" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Ascriber" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Ascriber" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[Containment Hub]]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# B]]
++ -B-
+
+[[div class="content-box"]]
+[[collapsible show="BallYT"]]
+[[*user BallYT]]
+
+[[module ListPages created_by="BallYT" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-670]]] | Co-write with [[*user Alex Mercer Fan Club]]
+
+[[module ListPages created_by="BallYT" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="BallYT" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Big Mark"]]
+[[*user Big Mark]] | [[[big-marks-based-page|Author Page]]]
+
+[[module ListPages created_by="Big Mark" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Big Mark" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Big Mark" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Blairin"]]
+[[*user Blairin]]
+
+[[module ListPages created_by="Blairin" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-002-ARC]]] | Rewrite
+[[[RPC-002-J]]] | Co-write with LackOfOrison
+[[[RPC-228-archived]]] | Co-write/Rewrite
+
+[[module ListPages created_by="Blairin" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Blairin" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[Protection Hub]]]
+[[[amazingco-hub|Amazing! Co. GoI]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="bXluYW1lamVmZg"]]
+[[*user bXluYW1lamVmZg]]
+
+[[module ListPages created_by="bXluYW1lamVmZg" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-131]]] | Co-write with [[*user Vizlox]]
+[[[RPC-000]]] | Co-write with [[*user Sinaticus]], [[*user ieatcrepes]] and [[*user Prototype_Toaster]]
+
+[[module ListPages created_by="bXluYW1lamVmZg" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="bXluYW1lamVmZg" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# C]]
++ -C-
+
+[[div class="content-box activity"]]
+[[collapsible show="Croal"]]
+[[*user Croal]]
+
+[[module ListPages created_by="Croal" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Croal" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Croal" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[Research-Hub]]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# D]]
++ -D-
+
+[[div class="content-box"]]
+[[collapsible show="d4rkseid"]]
+[[*user d4rkseid]]
+
+[[module ListPages created_by="d4rkseid" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="d4rkseid" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="d4rkseid" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Doctor Lupin"]]
+[[*user Doctor Lupin]]
+
+[[span class="label"]]RPCs:[[/span]]
+[[module ListPages created_by="Doctor Lupin" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+%%title_linked%%
+[[/module]]
+
+[[[RPC-003]]]
+
+[[module ListPages created_by="Doctor Lupin" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Doctor Lupin" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[Groups of Interest]]]
+Contributor to [[[Object Classes]]]
+Contributor to [[[Site Index]]]
+Contributor to [[[governments-of-interest|Agencies of Interest]]]
+Contributor to [[[MST Registry]]]
+Contributor to [[[Project Blue Book]]]
+Contributor to [[[aep-hub|AEP Association]]]
+Contributor to [[[threats-hazards|Threats and Hazards]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Drjemin"]]
+[[*user Drjemin]]
+
+[[module ListPages created_by="Drjemin" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Drjemin" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Drjemin" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Dr Leinasso"]]
+[[*user Dr Leinasso]]
+
+[[module ListPages created_by="Dr Leinasso" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Dr Leinasso" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Dr Leinasso" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="DrNog"]]
+[[*user DrNog]]
+
+[[module ListPages created_by="DrNog" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="DrNog" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="DrNog" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[Object Classes]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="DrPierson"]]
+[[*user DrPierson]] | [[[dr-pierson-s-author-page|Author Page]]]
+
+[[module ListPages created_by="DrPierson" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="DrPierson" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="DrPierson" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[groups-of-interest#toc6|MI13 GoI]]]
+Contributor to [[[Writers Guide]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="DrXOUBLE D"]]
+[[*user DrXOUBLE D]]
+
+[[module ListPages created_by="DrXOUBLE D" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-400]]]
+[[[RPC-450]]]
+
+[[module ListPages created_by="DrXOUBLE D" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="DrXOUBLE D" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# E]]
++ -E-
+
+
+[[div class="content-box"]]
+[[collapsible show="Excer"]]
+[[*user Excer]] | [[[excer|Author Page]]]
+
+[[module ListPages created_by="Excer" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-606]]] | Co-write with [[*user ImNotEric]]
+
+[[module ListPages created_by="Excer" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Excer" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# F]]
++ -F-
+
+[[div class="content-box"]]
+[[collapsible show="FeeshyYeeshy"]]
+[[*user FeeshyYeeshy]]
+
+[[span class="label"]]RPCs:[[/span]]
+[[module ListPages created_by="FeeshyYeeshy" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+%%title_linked%%
+[[/module]]
+
+[[[RPC-221]]]
+[[[RPC-910]]]
+
+[[module ListPages created_by="FeeshyYeeshy" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="FeeshyYeeshy" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# G]]
++ -G-
+
+[[div class="content-box"]]
+[[collapsible show="Gearhart"]]
+[[*user Gearhart]] | [[[gearhart|Author Page]]]
+
+[[module ListPages created_by="Gearhart" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Gearhart" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Gearhart" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Geckovstheworld"]]
+[[*user Geckovstheworld]] | [[[geckos-author-page|Author Page]]]
+
+[[module ListPages created_by="Geckovstheworld" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Geckovstheworld" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Geckovstheworld" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="GibbyFuckingDies"]]
+[[*user GibbyFuckingDies]] | [[[baubius-author-page-part-ii-this-time-its-in-rpc|Author Page]]]
+
+[[module ListPages created_by="GibbyFuckingDies" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-980]]] | Co-write with [[*user Prototype_Toaster]]
+
+[[module ListPages created_by="GibbyFuckingDies" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="GibbyFuckingDies" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="google_chrome"]]
+[[*user google_chrome]] | [[[chrome-authorpage|Author Page]]]
+
+[[module ListPages created_by="google_chrome" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-170]]] | Co-write with [[*user Wow Very Anomalous]]
+
+[[module ListPages created_by="google_chrome" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[The Beast, when there are no nations]]] | Co-write with [[*user Togetic]])
+
+[[module ListPages created_by="google_chrome" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="GrammerPoliseCheif"]]
+[[*user GrammerPoliseCheif]] | [[[grammarpolisecheif|Author Page]]]
+
+[[module ListPages created_by="GrammerPoliseCheif" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-465]]] | Co-write with [[*user Alex Mercer Fan Club]]
+[[[RPC-655]]] | Co-write with [[*user Alex Mercer Fan Club]]
+
+[[module ListPages created_by="GrammerPoliseCheif" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="GrammerPoliseCheif" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# H]]
++ -H-
+
+[[div class="content-box"]]
+[[collapsible show="Hellsverg"]]
+[[*user Hellsverg]]
+
+[[module ListPages created_by="Hellsverg" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Hellsverg" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Hellsverg" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="H F Dummie"]]
+[[*user H F Dummie]] | [[[dummie-s-office-of-meticulous-records|Author Page]]]
+
+[[module ListPages created_by="H F Dummie" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-749]]] | Co-write with [[*user Jimmyboyhaha]]
+
+[[module ListPages created_by="H F Dummie" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="H F Dummie" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Hydrozen"]]
+[[*user Hydrozen]] | [[[hydrozen|Author Page]]]
+
+[[module ListPages created_by="Hydrozen" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Hydrozen" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Hydrozen" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# I]]
++ -I-
+
+[[div class="content-box"]]
+[[collapsible show="ICFD"]]
+[[*user ICFD]]
+
+[[module ListPages created_by="ICFD" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-940]]] | Co-write with [[*user KaiserXI]]
+
+[[module ListPages created_by="ICFD" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ICFD" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="ieatcrepes"]]
+[[*user ieatcrepes]]
+
+[[module ListPages created_by="ieatcrepes" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-000]]] | Co-Write with [[*user Sinaticus]], [[*user bXluYW1lamVmZg]] and [[*user Prototype_Toaster]]
+[[[RPC-002]]] | Co-write/Rewrite
+[[[RPC-017]]] | Co-write/Rewrite
+[[[RPC-228]]] | Co-write/Rewrite
+[[[RPC-990]]] | Co-write/Rewrite
+
+[[module ListPages created_by="ieatcrepes" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ieatcrepes" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="ImNotEric"]]
+[[*user ImNotEric]]
+
+[[module ListPages created_by="ImNotEric" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ImNotEric" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ImNotEric" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# J]]
++ -J-
+
+[[div class="content-box"]]
+[[collapsible show="JerryJohn"]]
+[[*user JerryJohn]]
+
+[[module ListPages created_by="JerryJohn" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="JerryJohn" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="JerryJohn" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="jetairliner"]]
+[[*user jetairliner]]
+
+[[module ListPages created_by="jetairliner" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="jetairliner" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="jetairliner" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box activity"]]
+[[collapsible show="JimmyBoyHaha"]]
+[[*user JimmyBoyHaha]]
+
+[[module ListPages created_by="JimmyBoyHaha" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-660]]] | Co-write with [[*user GrammerPoliseChief]]
+
+[[module ListPages created_by="JimmyBoyHaha" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="JimmyBoyHaha" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="JimmyJohnJohnson"]]
+[[*user JimmyJohnJohnson]]
+
+[[module ListPages created_by="JimmyJohnJohnson" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="JimmyJohnJohnson" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="JimmyJohnJohnson" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# K]]
++ -K-
+
+[[div class="content-box activity"]]
+[[collapsible show="KaiserXI"]]
+[[*user KaiserXI]]
+
+[[module ListPages created_by="KaiserXI" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="KaiserXI" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="KaiserXI" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+----
+[[# L]]
++ -L-
+----
+[[# M]]
++ -M-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Minutemen"]]
+[[*user Minutemen]] | [[[minutemen|Author Page]]]
+
+[[module ListPages created_by="Minutemen" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Minutemen" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Minutemen" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Moenennbys"]]
+[[*user Moenennbys]]
+
+[[module ListPages created_by="Moenennbys" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Moenennbys" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Moenennbys" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="moist bread"]]
+[[*user moist bread]] | [[[the-best-author-page-ever-not-clickbait|Author Page]]]
+
+[[module ListPages created_by="moist bread" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-168]]] | Co-write with [[*user ianofdoom2]]
+
+[[module ListPages created_by="moist bread" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="moist bread" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="MrBazzle"]]
+[[*user MrBazzle]]
+
+[[module ListPages created_by="MrBazzle" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="MrBazzle" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="MrBazzle" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# N]]
++ -N-
+----
+[[# O]]
++ -O-
+----
+[[# P]]
++ -P-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Peanutmanington"]]
+[[*user Peanutmanington]] | [[[agent-star-s-dream-palace|Author Page]]]
+
+[[module ListPages created_by="Peanutmanington" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Peanutmanington" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Peanutmanington" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[Object Classes]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="PhoenixOfHope"]]
+[[*user PhoenixOfHope]]
+
+[[module ListPages created_by="PhoenixOfHope" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="PhoenixOfHope" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="PhoenixOfHope" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box activity"]]
+[[collapsible show="Prototype_Toaster"]]
+[[*user Prototype_Toaster]] | [[[protos-author-page|Author Page]]]
+
+[[module ListPages created_by="Prototype_Toaster" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-000]]] | Co-Write with [[*user Sinaticus]], [[*user bXluYW1lamVmZg]] and [[*user ieatcrepes]]
+
+[[module ListPages created_by="Prototype_Toaster" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Prototype_Toaster" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# Q]]
++ -Q-
+----
+[[# R]]
++ -R-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Redtide"]]
+[[*user Redtide]]
+
+[[module ListPages created_by="Redtide" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-279]]] | Co-write with [[*user Yoknapatawpha]]
+[[[RPC-630]]] | Co-write with [[*user Alex Mercer Fan Club]]
+
+[[module ListPages created_by="Redtide" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Redtide" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Researcher Ezekiel"]]
+[[*user Researcher Ezekiel]]
+
+[[module ListPages created_by="Researcher Ezekiel" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Researcher Ezekiel" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Researcher Ezekiel" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# S]]
++ -S-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Sinaticus"]]
+[[*user Sinaticus]] | [[[plzkillme|Author Page]]]
+
+[[module ListPages created_by="Sinaticus" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-390]]] | Co-write with [[*user jetairliner]]
+
+[[module ListPages created_by="Sinaticus" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Sinaticus" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[Object Classes]]]
+Contributor to [[[Acquired Media]]]
+Contributor to [[[Site Index]]]
+Contributor to [[[Groups of Interest]]]
+Contributor to [[[threats-hazards|Threats & Hazards]]]
+Contributor to [[[Writers Guide]]]
+Contributor to [[[Research Hub]]]
+Contributor to [[[Protection Hub]]]
+Contributor to [[[Containment Hub]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="SovereignAuthority"]]
+[[*user SovereignAuthority]]
+
+[[module ListPages created_by="SovereignAuthority" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="SovereignAuthority" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="SovereignAuthority" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="SticksNTricks"]]
+[[*user SticksNTricks]]
+
+[[module ListPages created_by="SticksNTricks" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-887]]] | Co-write with [[*user ICFD]] and [[*user TheGreatTarbolin69]]
+
+[[module ListPages created_by="SticksNTricks" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="SticksNTricks" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# T]]
++ -T-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Tactical Nuke"]]
+[[*user Tactical Nuke]]
+
+[[module ListPages created_by="Tactical Nuke" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Tactical Nuke" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Tactical Nuke" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="televisionist"]]
+[[*user televisionist]] | [[[redeeming-qualities-may-not-apply-s-fm-divebar|Author Page]]]
+
+[[module ListPages created_by="televisionist" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="televisionist" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[The History of the Lexicon Auctoritas]]] | Co-write with [[*user GibbyFuckingDies]]
+
+[[module ListPages created_by="televisionist" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="TheGreatTarbolin69"]]
+[[*user TheGreatTarbolin69]] | [[[thegreattarbolin69|Author Page]]]
+
+[[module ListPages created_by="TheGreatTarbolin69" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-887]]] | Co-write with [[*user ICFD]] and [[*user SticksNTricks]]
+
+[[module ListPages created_by="TheGreatTarbolin69" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="TheGreatTarbolin69" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="ThermicLine"]]
+[[*user ThermicLine]]
+
+[[module ListPages created_by="ThermicLine" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-358]]] | Co-write with [[*user arbiter_soul]]
+
+[[module ListPages created_by="ThermicLine" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="ThermicLine" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[Guide For Newbies]]]
+Contributor to [[[Research Hub]]]
+Contributor to [[[Tagging Guide]]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box"]]
+[[collapsible show="Togetic"]]
+[[*user Togetic]] | [[[Togetic|Author Page]]]
+
+[[module ListPages created_by="Togetic" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-917]]] | Co-write with [[*user TheGreatTarbolin69]]
+
+[[module ListPages created_by="Togetic" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Togetic" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# U]]
++ -U-
+----
+[[# V]]
++ -V-
+----
+
+[[div class="content-box activity"]]
+[[collapsible show="Vizlox"]]
+[[*user Vizlox]] | [[[vizcucks-author-page|Author Page]]]
+
+[[module ListPages created_by="Vizlox" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Vizlox" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Vizlox" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-box activity"]]
+[[collapsible show="Von Pincier"]]
+[[*user Von Pincier]]
+
+[[module ListPages created_by="Von Pincier" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[RPC-193]]] | Co-write with [[*user Vizlox]]
+
+[[module ListPages created_by="Von Pincier" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[[Operation Sub Vesuviua]]] | Co-write/Rewrite with [[*user ieatcrepes]]
+
+[[module ListPages created_by="Von Pincier" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+
+Contributor to [[[Editing Policy]]]
+Contributor to [[[Writers Guide]]]
+[[/collapsible]]
+[[/div]]
+
+[[# W]]
++ -W-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Wow Very Anomalous"]]
+[[*user Wow Very Anomalous]]
+
+[[module ListPages created_by="Wow Very Anomalous" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Wow Very Anomalous" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Wow Very Anomalous" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# X]]
++ -X-
+----
+
+[[div class="content-box"]]
+[[collapsible show="Xedric"]]
+[[*user Xedric]]
+
+[[module ListPages created_by="Xedric" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Xedric" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Xedric" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[# Y]]
++ -Y-
+----
+[[# Z]]
++ -Z-
+
+[[div class="content-box"]]
+[[collapsible show="Zemmymorph"]]
+[[*user Zemmymorph]]
+
+[[module ListPages created_by="Zemmymorph" separate="no" category="-contest" order="title" tags="rpc rpc-j -_author-page-hide" perPage="100"]]
+[[span class="label"]]RPCs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Zemmymorph" separate="no" category="-contest" order="title" tags="tale document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Tales and Docs:[[/span]]%%title_linked%%
+[[/module]]
+
+[[module ListPages created_by="Zemmymorph" separate="no" category="-contest" order="title" tags="alternative-content guide translated -rpc -rpc-j -tale -document -_author-page-hide" perPage="100"]]
+[[span class="label"]]Other Content:[[/span]]%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[/div]]
+

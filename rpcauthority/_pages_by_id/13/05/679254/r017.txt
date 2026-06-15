@@ -1,0 +1,202 @@
+---
+title: "866 2"
+tags: []
+page_id: "1305679254"
+site: "rpcauthority"
+slug: "fragment:866-2"
+revision: 17
+revision_id: "1459783458"
+author: 3672751
+timestamp: 1649034426
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:nihil-theme/code/1);
+
+.footnotes-footer {
+display:none;
+}
+
+[[/module]]
+[[module CSS]]
+/*
+Nihil theme
+
+Designed by Boson and Vizlox
+
+Based on the RPC Database themes by Jenkins
+*/
+
+:root {
+  --body-background: #000;
+  --text-color: #aaa;
+  --topbar-dropdown-background: #141518;
+
+  --header-text-visibility: hidden;
+  --header-custom-text: 'Children of Nihil';
+  --header-tagline-custom-text: 'The Arrow and the Flood';
+  --header-tagline-top: 3px;
+  --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Anihil-theme/NihilWhiteLogo.png);
+  }
+
+}
+[[/module]]
+
+[[include component:image-block name= http://rpcsandbox.wikidot.com/local--files/fragment:866-3/866.jpg|width=…px|caption= Woodcut depiction of RPC-866 recovered from //Auctoritas Imperata// archives. Originally discovered during containment breach.]]
+
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/omega-black.png]]
+
+**Registered Phenomena Code:** 866
+
+**Object Class:** Omega-Black
+
+**Hazard Types:** Immeasurable Hazard
+
+**Description:** RPC-866 designates a hostile entity of nonspecific characteristics, primarily manifesting as a recurrent hallucination experienced by human beings in a 20km^^2^^ area just northwest of the Hala’ib Triangle disputed territory between Egypt and Sudan. 
+
+A no-fly zone has been established in the area as per the 1959 agreement between Regional Director Ehsaan Awad and General Salah Nasr of the newly-founded and reorganised Mukhabarat,[[footnote]] General Intelligence Directorate of Egypt[[/footnote]] though increasing tensions with other agencies in the Middle East,[[footnote]] Blue Star, among others [[/footnote]] and within the Mukhabarat itself today, threaten the reliability of this status. 
+
+RPC-866 is primarily experienced by an unrecognised village settlement with a population count of 167 individuals near the modern-day Lake Nasser along the Nile River. All current inhabitants have experienced RPC-866 at least once in their lifetime, but disagree upon dates and characteristics of each event. Such dates range from "days ago" to several decades before present day.
+
+Accounts of similar events to RPC-866 have been collected from a large variety of location-specific sources, spanning thousands of years in potential range of occurrence. However, these accounts are considered unreliable, and their connection to RPC-866 is tangential at best.[[footnote]] Recorded oral tradition among the Tarabin People speak of a star falling from the sky in various forms ranging back at the very least hundreds of years. These reports have been corroborated by two other unnamed tribes, whose traditions maintain distinct similarities though they have not passed through Egypt for at least several decades each.[[/footnote]]
+
+Other characteristics are universally agreed upon by all inhabitants, most prominently the belief that RPC-866 is precipitated by the impact event of an unknown object.
+
+Said "impact area" of RPC-866 is variable, but generally believed to be a 1.3km^^2^^ circumference in the centre of the aforementioned 20km^^2^^ area. Between late June and early July of each year, RPC-866-1 manifests within this zone.
+
+RPC-866-1 is a 15m tall black pyramid with no visible entry. RPC-866-1 is believed to consist of the primary entry point for sacrificial subjects, allowing passage into RPC-866-2.
+
+RPC-866-2 is an approx. 3km^^3^^ area beneath RPC-866-1, believed to be RPC-866's body or physical manifestation. This area appears to constitute either a false vacuum or a low-ACS influence sphere where known physical laws do not apply, or do so inconsistently. If containment procedures are not applied after manifestation, RPC-866-2 commences to rapidly expand, and is expected to quickly reach surface elevation if left uncontained for a brief period. 
+
+Over the past century, AFRICOM has secured enough influence within the local government to ensure a semi-permanent landing zone near the site to aid in containment. This is the only way to approach RPC-866-1 during manifestation events.
+
+Manifestations of RPC-866, including dates, range, and location, have been catalogued by both the Authority and its predecessor, the //Auctoritas Imperata//, since the year 1590, whereupon the site first fell under a modern form of containment.
+
+The true influence of RPC-866 prior to its acquisition by the //Auctoritas// is unknown. In the event that containment fails, it is understood to have the capacity to trigger the emergence of anomalous negative tychokinetic trends at a scale large enough to impact the integrity of worldwide operational secrecy, as well as sudden manifestation of variable Gamma-Red or higher anomalous entities, objects, or locations. Exposure of human beings to RPC-866-1 or -2 is invariably fatal, with affected subjects being unable to leave its immediate surroundings and eventually perishing due to inanition, dehydration or other unrecorded causes of death. 
+
+RPC-866 is highly hostile and may be sapient. Human psychological suffering may be positively correlated with appeasement of RPC-866, and is imperative in both analysis and containment of the entity.[[footnote]] It is unknown how or why this is the case; experimentation in the traditional sense cannot be undertaken due to the volatile nature of the containment of RPC-866, thus making the scientific method impractical. [[/footnote]]
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/866-again/leimajj.png|width=650px|caption= RPC-866-1]]
+
+A containment breach of RPC-866 has occurred only once, in the year 1590. This event, known then by members of the //Auctoritas Imperata// as the "Year of Blood", consisted of the extremely rapid spread of an unknown hazardous memetic and biological agent through small farming communities along the Nile in the modern territory of Egypt and Sudan.[[footnote]] For unknown reasons, small pockets of population throughout other world-wide locations were also affected, though to a lesser degree [[/footnote]] Methodology behind the spread of said agent is unknown; competing hypotheses among the Research Division upon the review of //Auctoritas// records suspect both airborne and vector-borne transmission, though neither can be confirmed through testable study.
+
+Members of the //Auctoritas// were not made aware of its occurrence until after the agent had spread considerably, leaving a multitude of villages and small hamlets abandoned, and causing small-scale famine in the region. Travel routes of Ottoman Empire merchants collaborating with the organization were impacted severely. 
+
+Human beings affected by the agent are recorded as having conformed into two distinct groups, labeled by the //Auctoritas// as ‘active’, and ‘passive’ respectively. Both groups would first experience symptoms of what is now known as psychosis to varying degrees for a ‘warming period’ of three to five days. Upon completion of said ‘warming period’, the agent would have already spread considerably inside the subject’s central nervous system, reaching the frontal lobe and cerebellum regions inside the brain, allowing it to control voluntary movement. A ‘migration period’ would ensue, the subjects being moved in large ‘herds’ by their own limbs to assumed suitable conditions for the agent to grow and develop.[[footnote]]Usually remote, flat areas in the desert far from human habitation[[/footnote]]
+
+Upon arrival, the active group would be instigated to engage in extensive self-mutilation of their hands, replacing them with sharp, makeshift objects often composed of their own bone. Said active subjects would then repeatedly attempt to use their modified hands to practice pithing[[footnote]] A technique in which a needle or rod is inserted into a subject's brain or spine, usually small animals, in order to immobilise them or provoke a reaction. [[/footnote]] with the passive subjects, who are recorded as being near-comatose for the duration of the previous events. Upon the immobilization of a vast majority of passive groups, affected active subjects would undergo rapid cellular growth, generating sharp bone structures to intersect with the victim's nervous system, which would subsequently be overtaken by the affected subject's own.
+
+Further cellular growth would ensue, creating a single large, live tumorous mass. These masses would later be carried and laid together by other affected subjects, which would attempt to sculpt them together into singular shapes, aided by further bone and muscle growth from the mass itself. Resulting shapes would be vaguely cylindrical 3 to 16m tall towers, adorned with sharp bone growths and nonfunctional eye-like teratomas.[[footnote]] Most said towers were ‘built’ in these remote, flat locations as to seemingly mimic ancient sundials, leaving the immediate surroundings of afflicted populations abandoned upon their completion. [[/footnote]] While unconfirmed, it is believed that the resulting structure would remain at least partially conscious during the entire process.
+
+These structures would later be burned down in a makeshift pyre constructed by the remaining passive subjects. Each pyre was constructed entirely of circular objects in the shape of wheels. After igniting each pyre, subjects would attempt to carve arrow-like objects from items previously regarded by them as sentimentally important, to then throw these items and themselves inside. 
+
+Other suspected anomalous events bearing similar symbology, yet different circumstances, also occurred in the region and in areas outside of it; instances have been recorded where persons would burst into laughter, become melancholic, or attempt suicide via drowning.
+
+The breach was eventually ended following accidental execution of current-day containment procedures. This allowed the //Auctoritas// - and by extension, the modern-day Authority - to gain a foothold among the local governments of the time that would extend up until the dissolution of the Ottoman Empire during the first World War.
+
+Old Auctoritas records stored in the modern town of Abu Simbel contain local accounts of farmers predating the incident that refer to a nomadic movement or ‘cult’ dedicated to the worship of falling stars and an indistinct “riverman” figure that rows beneath the heavens.[[footnote]] Similarities to Bedouinn accounts are of note, but a direct relationship remains unsubstantiated due to other irregularities. It is believed that said riverman figure could be a corruption or distortion of various chthonic deities in ancient Egyptian religious tradtion, most notably Ra, as the depiction of his journey through the Duat and the riverman’s symbology in ancient inscriptions are similar in many aspects; either as a jackal, hawk, ram, or scarab, the riverman rows from the sky to the underworld in a perpetual cycle to ensure that the sun would continue to rise. A major inconsistency with the characterisation of Ra is that the riverman is invariably depicted as faceless.[[/footnote]]
+
+It is believed that this group of unknown name and origin maintained a crude form of containment of RPC-866 prior to the arrival of the //Auctoritas.//[[footnote]] A less-supported hypothesis proposes that the group may instead have caused the breach directly. [[/footnote]] Attempts to contact this group, or further investigate their disappearance and containment failure of RPC-866 have failed.
+
+------
+
+**Containment Protocols:** Containment of RPC-866 can only be achieved during late June or early July of every year, as RPC-866-1 can only manifest during this period.
+
+Vigilance of RPC-866 must be constant during this period, as if RPC-866-1 manifests, containment measures are to be __immediately__ carried out. Safe margin for execution of containment procedures is 9 days. No emergency procedures for failure to execute containment have been developed.
+
+Containment of RPC-866 is achieved through exposure of a singular human being to RPC-866-2. Maximum efficiency is reached by subjects with past trauma or violent experiences, as well as lack of security and self-esteem. Treatment of these subjects must be impersonal since initial contact by OL-Site-866 until deployment to RPC-866-1, in order to facilitate conditions for maximum psychological damage of the subject and satisfaction of RPC-866.
+
+A list of 300 potential subjects is kept in OL-Site-866, including their contact data and characteristics that may benefit long-term containment. This list is to be maintained and refreshed monthly, prioritizing subjects within the Authority's First Response program. It is imperative that any and all subjects within this list are or have been Authority employees of clearance level 2 or higher, most preferably prepared subliminally using controlled situations and circumstances over the course of years prior to final use.[[footnote]] Due to the action of local and foreign governments, on the grounds of both religious and political objections following Egypt's regime change in 1952 and the subsequent Secret Abdication of 1956 as orchestrated under CIA ambassadors, AFRICOM was no longer officially permitted to use non-Authority personnel (prisoners of war, death row initiates or otherwise) for containment purposes. This protocol wasn't enforced fully until the year 2000, when Sudanese troops withdrew from the Hala'ib Triangle nearby and budget cuts from within AFRICOM forced into full utilisation of Authority employees for containment purpose, though other options are currently being sought out as to conserve resources. [[/footnote]]
+
+The Authority has ensured safe containment of RPC-866 may continue indefinitely.
+
+__**Containment Addendum 866-01:__ ████ Protocol Execution.**
+
+------
+[[=]]
+[[collapsible show=" » Open Addendum -- LV5 Clearance Required «" hide =" "]]
+[[/=]]
+[[<]]
+**Brief Officer:** ████ ████████ (A)
+
+**Sacrificial Subject:** Sam Harding (B)
+
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+
+------
+[[=]]
++ RPC-866 Mission Brief Transcript (██/██/████)
+[[/=]]
+------
+
+**//[B enters the room and sits across A. A closes a small gray booklet with an Authority logo in its front side.]//**
+
+**//[Silence; 6 seconds.]//**
+
+**A:** You’re late.
+
+**B:** I'm sorry, it's been a long flight. Haven't slept a wink.
+
+**A:** Still awake?
+
+**B:** Almost. I just wish you'd given me a few more hours to rest.
+
+**A:** ##ababab|I’m so sorry for all this, you were one of the few available first-response researchers. Not many## ##7d7d7d|sign up for FR. Your file says you are a seismologist? ## 
+
+##7d7d7d|**B:** Yes, I've ## ##525557|studied## ##3c4042|at## 
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+
+[[/<]]
+[[/div]]
+[[/collapsible]]
+------
+
+[[=]]
+<< [[[RPC-865]]] | RPC-866 | [[[RPC-867]]] >>
+[[/=]]
+

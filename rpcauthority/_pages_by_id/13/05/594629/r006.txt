@@ -1,0 +1,1110 @@
+---
+title: "The Endless Allegiance"
+tags: ["misfortune2020"]
+page_id: "1305594629"
+site: "rpcauthority"
+slug: "contest:misfortunecontestlogangreenjeans"
+revision: 6
+revision_id: "1517004387"
+author: 5982545
+timestamp: 1703605813
+---
+
+[[include component:contest-entry]]
+
+[[module css]]
+
+.hazards-margin {
+   margin-top: -5px;
+}
+
+@media (max-width: 768px) {
+      .hazards-margin {
+            margin-top: 0px;
+       }
+}
+
+.big-text {
+   font-size: 1.2em;
+}
+
+.addendum-container {
+   margin-top: 20px;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+.addendum-collapsible {
+   text-align: center;
+}
+
+.autopsy-container {
+   background-color: #333;
+   border: solid 3px #fff;
+   box-shadow: 0px 0px 5px #333;
+   color: #fff;
+   font-family: monospace;
+   margin: 15px 20px;
+   text-align: left;
+}
+
+.autopsy-header {
+   background-color: #fff;
+   color: #333;
+   margin: 0px;
+   padding-left: 20px;
+}
+
+.autopsy-body {
+   font-size: 1.35em;
+   margin-top: -20px;
+   padding: 10px;
+}
+
+.autopsy-dialogue {
+   background-color: #3e3e3e;
+   border-left: solid 3px #fff;
+   border-radius: 0px 10px 10px 0px;
+   padding: 5px;
+   padding-left: 7px;
+}
+
+.briefing-container {
+   background-color: #fafafa;
+   box-shadow: inset 0px 0px 7px #333;
+   color: #333;
+   font-family: monospace;
+    margin: 10px 15px;
+   padding: 10px 20px;
+   text-align: left;
+}
+
+.briefing-header {
+   border-bottom: solid 0px #333; 
+   font-size: 1.4em;
+}
+
+.briefing-body {
+   font-size: 1.3em; 
+   padding: 5px;
+}
+
+.research-container {
+   background-color: #fafafa;
+   border: solid 2px #335B97;
+   color: #333;
+   font-family: monospace;
+   margin: 15px 10px;
+   text-align: left;
+}
+
+.research-header {
+   background-color: #335B97; 
+   color: #fafafa;
+   margin: 0px;
+   padding-left: 20px; 
+}
+
+.research-body {
+   font-size: 1.35em;
+   margin-top: -20px;
+   padding: 10px;
+}
+
+.research-dialogue {
+   background-color: #dadada;
+   border-left: solid 3px #335B97;
+   border-radius: 0px 10px 10px 0px;
+   padding: 5px;
+   padding-left: 7px;
+}
+
+.classified-container {
+   background: linear-gradient(180deg, rgba(74,74,74,1) 0%, rgba(66,66,66,1) 10%, rgba(51,51,51,1) 50%, rgba(45,45,45,1) 90%, rgba(40,40,40,1) 100%); 
+   border: solid 3px #666; 
+   border-radius: 5px; 
+   box-shadow: 0px 0px 5px #333, inset 0px 0px 5px #666; 
+   color: #fafafa; 
+   font-family: monospace; 
+   margin: 15px 15px; 
+   padding: 10px; 
+   text-align: left;
+}
+
+.classified-intro {
+   font-size: 3em; 
+   text-align: center; 
+   text-shadow: 0px 0px 5px #fafafa;
+}
+
+.classified-main {
+   background-color: #3c3c3c; 
+   border: dashed 3px #555; 
+   border-radius: 5px; 
+   font-size: 1.35em;
+   margin: 10px;
+}
+
+.classified-header {
+   border-bottom: solid 1px #555; 
+   margin-left: 10px; 
+   margin-right: 10px; 
+   padding-left: 10px;
+}
+
+.classified-body {
+   margin: 20px;
+}
+
+.classified-dialogue {
+   background-color: #444;
+   border-left: solid 2px #fafafa; 
+   border-radius: 0px 5px 5px 0px; 
+   padding: 5px; padding-left: 7px;
+}
+
+.classified-letter-container {
+   background-color: #353535; 
+   border: solid 1px #fafafa; 
+   border-radius: 5px; 
+   box-shadow: 0px 0px 7px #999; 
+   margin: 35px 5px 10px 5px;
+}
+
+.classified-letter-header {
+   background-color: #fafafa; 
+   color: #333; 
+   padding-left: 25px;
+}
+
+.classified-letter-body {
+   font-size: 1.35em; 
+   margin-top: -10px;
+   padding: 5px 15px;
+}
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-red.png]]
+
+**Registered Phenomena Code:** 013
+
+**Object Class:** Gamma-Red
+
+[[div class="hazards-margin"]]
+[[include component:hazards top-spacing=none |sapient=show|psychotronic=show|transmutation=show|aggression=show]]
+[[/div]]
+
+[[span class="big-text"]]**Containment Protocols:**[[/span]] ASF personnel are to maintain a circular, 10 km perimeter around OL-Site-013. RPC-013-2 instances threatening the perimeter of OL-Site-013 are to be terminated. ASF units are not to engage RPC-013-1. Upon sighting an RPC-013-1 instance ASF personnel are expected to immediately retreat and request assistance.
+
+RPC-013-1 instances are to be contained in a standard humanoid containment cell inside OL-Site-013. RPC-013-1 are never to be transported off of RPC-013. Any requests for wooden objects, especially sticks, is to be denied. Sightings, breaches, or raids on OL-Site-013 by RPC-013-1 are to be handled only by a designated ATG team.
+
+[[span class="big-text"]]**Description:**[[/span]] RPC-013 is an island approximately 200 km off the coast of █████████████, USA. A coniferous forest covers most of RPC-013's mountainous terrain, with the remaining land being flat, grassy plains. With satellite surveillance, RPC-013's size, shape, and climate is shown to drastically change at a rate which should not be possible. However, while on RPC-013 or even viewing it from the ocean, the geography does not appear to change at all. Devices such as compasses become inoperable upon entering the island, making navigation even more difficult.
+
+All anomalous wildlife found on RPC-013 will now be designated as RPC-013-2. RPC-013-2 all loosely resemble non-anomalous animals, but differ in size, color, and form, the last being how the instance is structured anatomically.[[footnote]]Form is the most malleable of the three factors, as it can range from something as simple as proportionately larger antlers, simple bone structure changes, or even total revamps that completely change the instance.[[/footnote]] RPC-013-2 are known to travel in packs, and are hostile to Authority personnel. The intelligence of RPC-013-2 instances varies, but is thought to be generally low. Their relationship with RPC-013-1 is still under investigation.
+
+RPC-013-1 refers to anomalous individuals who live on RPC-013 and use psychotronic abilities. All RPC-013-1 instances discovered by the Authority have been female, have pale skin, and wear a black dress. RPC-013-1's abilities include near limitless transmutation and a barrier summoning ability.[[footnote]]The barrier's strength, radius, and visibility can change depending on the instance, but will always be circular, tinted blue and able to stop small arms gunfire.[[/footnote]] Their transmutation ability is their main weapon against Authority personnel. It is ranged and can change 1 connected[[footnote]]Connected in the context of this document meaning "more than 25% of this object is touching this object," like clothes on a person for example.[[/footnote]] object into another object, this includes living beings. RPC-013-1 need a wooden stick to use any of their abilities, without it they lose most of their anomalous properties. This is most likely because the stick's absence affects their psychological state in a way that disables their abilities.
+
+[[div class="addendum-container"]]
+----
+
+[[div class="addendum-collapsible"]]
+[[collapsible show="► Addendum 013-A: RPC-013-2 Autopsy Logs ◄" hide="▼ Addendum 013-A: RPC-013-2 Autopsy Logs ▼"]]
+[[/div]]
+
+[[div class="autopsy-container"]]
+
+[[div class="autopsy-header"]]
++ RPC-013-2 Autopsy Log #1
+[[/div]]
+
+[[div class="autopsy-body"]]
+**Medical Examiner:** Dr. L██████
+**Subject:** RPC-013-2 (14)
+
+**Time:** 6:36 PM
+**Date:** 7/9/18
+
+[[div class="autopsy-dialogue"]]
+**<Begin Log>**
+
+**5 seconds of silence.**
+
+**Dr. L██████:** Going by the temperature of the body, the subject's time of death was 11 hours ago. There are no toxins or drugs in the subject's blood.
+
+**The sound of scribbling on a piece of paper.**
+
+**Dr. L██████:** In the subject's stomach I found leaves and grass, meaning it was most likely a herbivore. The subject was not dehydrated, nor are there any injuries, besides the ones inflicted by ASF. The subject was healthy before its death. As for the animal it's based off of...
+
+**Pause for 8 seconds.**
+
+**Dr. L██████:** Though it is the size of a moose, I would say it's a deer from its proportions. 
+
+**Scribbling stops.**
+
+**Dr. L██████:** Compared to a normal deer, the subject's skeleton is much larger, its antlers more sharp, and has a thick layer of skin which was tough to cut through. There are wounds on its head, but the blood on its antlers is not its own.
+
+**Footsteps, Dr. L██████'s voice gets fainter.**
+
+**Dr. L██████:** The cause of death is blood loss from the bullet wounds in its head and torso. Even though there are many, many holes in it, most were not deep enough to hit any vital organs.
+
+**More footsteps, Dr. L██████'s voice gets louder.**
+
+**Dr. L██████:** In conclusion, I would recommend ammo that is more suited to pierce through flesh against instances like this. Because of its thick skin, it was able to survive rapid gunfire and kill 3 ASF personnel before its termination. That is all.
+
+**<End Log>**
+[[/div]]
+[[/div]]
+
+[[div class="autopsy-header"]]
++ RPC-013-2 Autopsy Log #4
+[[/div]]
+
+[[div class="autopsy-body"]]
+**Medical Examiner:** Dr. L██████
+**Subject:** RPC-013-2 (27)
+
+**Time:** 3:57 PM
+**Date:** 7/20/18 
+
+[[div class="autopsy-dialogue"]]
+**<Begin Log>**
+
+**Dr. L██████:** The subject is undoubtedly based off of a wolf.
+
+**Scribbling begins.**
+
+**Dr. L██████:** The subject's hind legs are structured to be bipedal instead of down on all fours. The torso has been flattened and stretched. Its shoulders have been broadened. Its arms have hands instead of paws. The hands only have four fingers and end in sharp claws. Its head seems to be a normal wolf's, though it's hard to tell with the damage that's been done. Its height is at least 2 meters.
+
+**Scribbling stops.**
+
+**Dr. L██████:** The subject is muscular, and was in excellent health.
+
+**The sound of flesh being cut and torn open.**
+
+**Dr. L██████:** The internal organs are extremely damaged due to the piercing ammo I suggested. The subject was a carnivore.
+
+**More cutting.**
+
+**Dr. L██████:** From the blood patterns at the scene, it would appear that the head wounds were postmortem. I believe the bullet in its heart is what killed the subject.
+
+**Something metallic is set down.**
+
+**Dr. L██████:** The time of death was 7 hours ago. Blood shows no toxins in its system.
+
+**Footsteps, Dr. L██████'s voice gets louder.**
+
+**Dr. L██████:** Because this particular subject did not have thick skin, the piercing ammo was unnecessary. Perhaps a secondary firearm with regular ammo? Or even the other way around, with a secondary that uses piercing and a primary that uses regular? That would be up to you.
+
+**<End Log>**
+[[/div]]
+[[/div]]
+
+[[div class="autopsy-header"]]
++ RPC-013-2 Autopsy Log #12
+[[/div]]
+
+[[div class="autopsy-body"]]
+**Medical Examiner:** Dr. L██████
+**Subject:** RPC-013-2 (64) 
+
+**Time:** 2:19 AM
+**Date:** 8/2/20 
+
+[[div class="autopsy-dialogue"]]
+**<Begin Log>**
+
+**Dr. L██████:** This is the strangest subject I've had on my table yet. Its very round, like a blob, and has no neck. Its on all fours and the legs are short and look like stumps. Its covered in neon green and bright blue fur. The eyes are big and bulbous. Instead of a nose, there's just two nostrils. It almost looks like a child's drawing. It is very unpleasant to look at.
+
+**There is a deep inhale, and exhale.**
+
+**Dr. L██████:** Twisting my arm, I'd say it's a heavily altered bear.
+
+**Scribbling starts and stops.**
+
+**Dr. L██████:** The subject is at least 5 meters long. The time of death was 4 hours ago. There are two bullets in its head.
+
+**Silence, before sawing and cutting is heard.**
+
+**Dr. L██████:** From what I heard, the subject was easily sighted from the compound, most likely due to its bright fur and immense size. When the ASF team found it, the subject was writhing on the ground, shrieking. Which would make sense, considering the amount of broken bones and ruptured organs I'm seeing in the subject.
+
+**The sawing becomes quicker.**
+
+**Dr. L██████:** I would consider this a mercy killing. The subject would not have survived for long like this.
+
+**The sawing stops, something metallic is set down.**
+
+**Dr. L██████:** The strange thing is I'm not seeing any external wounds that would have done this much damage. No holes, no bruises, not even a scrape.
+
+**The sound of flesh being sliced.**
+
+**Dr. L██████:** The only way that would be possible is if whatever happened either left the surface undamaged, unlikely, or was internal. But that--
+
+**Clanging is heard, Dr. L██████ gasps.**
+
+**Dr. L██████:** [EXPLETIVE]ing postmortem spasms!
+
+**Something bangs against metal, silence for 6 seconds.**
+
+**Dr. L██████:** That's... odd. Does this subject have two stomachs?
+
+**Flesh being pulled apart can be heard.**
+
+**Dr. L██████:** This... this isn't even connected to anything, it's like a... flesh pouch.
+
+**Pause of 11 seconds.**
+
+**Dr. L██████:** Excuse my... unprofessionalism. Looking at the internal damage, it seems to get worse the closer it gets to this "pouch." The pouch is large, bigger than any other organ in the subject's body. It seems to be hollow. It is not empty. 
+
+**Dr. L██████ starts breathing heavily.**
+
+**Dr. L██████:** Now that it's exposed and in the light I can see an RPC-013-2 instance inside. Its outline is humanoid, most likely altered to be bipedal. It is much larger than I am.
+
+**Silence for 7 seconds.**
+
+**Dr. L██████:** I... I don't know what to do.
+
+**Footsteps, Dr. L██████'s voice gets louder.**
+
+**Dr. L██████:** It's looking at me now. Its eyes are orange.
+
+**Ripping flesh can be heard.**
+
+**Dr. L██████:** I'm going to turn the recorder off now.
+
+**<End Log>**
+[[/div]]
+
+**RPC-013-2 Incident #87:** While performing an autopsy, Dr. L██████ is killed by an instance of RPC-013-2. Dr. L██████ failed to reach the alarm, which resulted in the death of 6 more personnel before the termination of the RPC-013-2 instance. All further autopsy requests of RPC-013-2 will not be authorized.
+
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+----
+
+[[div class="addendum-collapsible"]]
+[[collapsible show="► Addendum 013-B: ATG Briefing ◄" hide="▼ Addendum 013-B: ATG Briefing ▼"]]
+[[/div]]
+
+[[div class="briefing-container"]]
+[[div class="briefing-header"]]
++ ATG Briefing
+----
+[[/div]]
+[[div class="briefing-body"]]
+
+++ ATG Teams
+
+ATG (Anti-Transmutation Gear) Teams are ASF units specially trained to contain RPC-013-1 instances. Before deployment, assigned personnel will have to complete 2 training courses. Each course will go over the equipment and strategy required to contain RPC-013-1. Once qualified, ATG personnel will be transferred to OL-Site-013.
+
+++ ATG Equipment
+
+Upon deployment, ATG personnel will be expected to be able to get ready in under 5 minutes. This requires them to know their equipment inside and out.
+
+**Weaponry**
+
+ATG personnel may use any weapon in the armory of OL-Site-013. Weapons with high rates of fire, or weapons with heavy penetration are the most effective. ATG Personnel will be expected to make non-lethal shots only. The termination of any RPC-013-1 instance will be frowned upon. 
+
+**ATG Vest**
+
+The ATG Vest is standard to all ASF personnel assigned to RPC-013, even those not in an ATG Team. This is because it is a simple, effective countermeasure to RPC-013-1's transmutation abilities. The ATG Vest is a modified Kevlar vest covered in plastic, hexagonal plates that are slightly smaller than an average hand. The plates are designed in such a way that while it does latch onto the vest, it is not actually connected and are easily removable. RPC-013-1 are able to transform only 1 connected (connected meaning more than 25% of an object touching another object) entity at a time. This means that if they hit the plates on the vest, instead of transmuting the entire person they will only transmute that plate.
+
+Other ATG clothing, similar to the vest, has been experimented with. The results from previous containment attempts have shown that they are too restrictive, and only slightly increase the rate of survival. The only ATG clothing permitted for field use is the ATG Vest.
+
+**Misc.**
+
+Standard handcuffs, communicators, knives, etc. Any other equipment not listed, like medical supplies or flares, personnel are free to bring as long as they can justify it to their superior.
+
+++ Expectations
+
+All ATG Personnel are to follow the information in this document, as well as any additional information given by their superior. Failure to do so will result in demotion. If the information in this document is ever updated, ATG personnel will be notified.
+
+ATG personnel may keep this document as a guide, even though it is intended for briefing.
+
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+----
+
+[[div class="addendum-collapsible"]]
+[[collapsible show="► Addendum 013-C: RPC-013-1 Research Documents ◄" hide="▼ Addendum 013-C: RPC-013-1 Research Documents ▼"]]
+[[/div]]
+
+[[div class="research-container"]]
+
+[[div class="research-header"]]
++ RPC-013-1 Research Document #1
+[[/div]]
+
+[[div class="research-body"]]
+
+**Researcher:** Dr. M██████
+**Subject:** RPC-013-1 (3)
+
+**Time:** 7:34 PM
+**Date:** 7/13/18
+
+**Experiment Description:** An RPC-013-1 subject will be rendered unconscious and will be given a wooden stick. Various firearms and weapons will then be tested on the subject to gauge their effectiveness.
+
+[[div class="research-dialogue"]]
+
+**<Begin Log>**
+
+**Dr. M██████:** --I'll just put everything back, no harm done. Oh, uh, the subject is now unconscious, and I will place the stick in their hand.
+
+**[Dr. M██████ prepares the subject.]**
+
+**Dr. M██████:** Even while unconscious, the subject's barrier ability should activate subconsciously whenever an attack is thrown at it. I'm going to test that with my hand, just to make sure.
+
+**A sound similar to something hitting bullet proof glass is heard. Dr. M██████ inhales sharply.**
+
+**Dr. M██████:** Ow... I have confirmed that the barrier is up.
+
+**A loud click is heard.**
+
+**Dr. M██████:** Now then, time for the real tests.
+
+**A gunshot goes off, silence for a few seconds.**
+
+**Dr. M██████:** Standard ammunition is... not very effective.
+
+**Another click, then a gunshot.**
+
+**Dr. M██████:** Armor piercing ammunition is more effective-- but still not able to penetrate.
+
+**Something metallic is set down, Dr. M██████ chuckles.**
+
+**Dr. M██████:** This is going to be a dangerous one.
+
+**A quiet click, a loud click, something clattering on the floor, and then something is dropped onto the barrier. Running footsteps can be heard.**
+
+**Silence for around 5 seconds.**
+
+**An explosion goes off, shaking the table the recorder is sitting on. Footsteps of someone approaching.**
+
+**Dr. M██████:** Well, that's disappointing. Not as effective as piercing ammo. Now for what I've been looking forward to...
+
+**Dr. M██████ grunts, something is set down with a loud bang. Dr. M██████ laughs.**
+
+**Dr. M██████ (shouting):** Now testing the Barret .50 cal!
+
+**A much louder gunshot is heard.**
+
+**Dr. M██████:** Very effective, almost broke through the barrier! If I wasn't wearing ear protection I would most definitely have tinnitus now.
+
+**Loud whirring and heavy machinery moving.**
+
+**Dr. M██████ (shouting):** Now for the drill!
+
+**Sounds of metal being grinded against a hard surface.**
+
+**Dr. M██████ (shouting):** It's almost broken through! Once it has I'll retrieve the stick!
+
+**A few more seconds of drilling, until the machine powers down.**
+
+**Dr. M██████:** Extremely effective. There is a large hole in the barrier. I can easily reach in and--
+
+**Dr. M██████ yells, but it is cut off. Something falls to the ground.**
+
+**RPC-013-1 (3):** Too loud...
+
+**An alarm starts to go off.**
+
+**<End Log>**
+
+[[/div]]
+
+**RPC-013-1 Incident #9:** If Dr. M██████ had not been killed, he would have been heavily reprimanded for his clear insubordination. Dr. M██████ did not have the documentation or the permission to operate any of the equipment he used for this experiment, which he took under false pretenses that he would have a professional use them. Dr. M██████ grew impatient and unruly, and launched the test with no supervision whatsoever, which resulted in a containment breach. Regardless, the experiment should not go to waste, as he did test the effectiveness of the weapons
+
+**Conclusion:** No experiments that let RPC-013-1 possess a stick, even if they are unconscious, will be authorized from here on.
+
+[[/div]]
+
+[[div class="research-header"]]
++ RPC-013-1 Research Document #2
+[[/div]]
+
+[[div class="research-body"]]
+
+**Subject:** RPC-013-1 (1)
+
+**Time:** 10:37 PM
+**Date:** 7/3/18
+
+**Foreword:** Surveillance footage of a contained RPC-013-1 instance being transported off of RPC-013 on an Authority vessel.
+
+[[div class="research-dialogue"]]
+
+**<Begin Log>**
+
+**10:37 --** The subject is walking in a circle worriedly. The subject height looks to be about 160cm tall, and weighing around 50kg. Their skin is a pale white, and their veins are visible through the skin. The subject is covered in bruises and cuts. The subject's body and facial structure are that of a normal 20 year old girl.
+
+**10:39 --** There is no audio, but the subject is seen reacting to a loud noise, most likely the ship's horn.
+
+**10:40 --** The ship begins moving. The subject becomes increasingly more panicked.
+
+**10:43 --** The subject begins to slam into the steel door. It does nothing.
+
+**10:46 --** Now lying on the bed, the subject closes their eyes and starts breathing heavily.
+
+**10:48 --** As the ship officially leaves the river flowing from RPC-013, the subject begins to writhe in pain.
+
+**10:49 --** They are speaking to someone on the intercom, clearly distressed.
+
+**10:50 --** The subject's spasms make them fall off of the bed, they are now curled up on the floor.
+
+**10:51 --** As the ship gets farther from RPC-013, the subject's skeleton becomes visible through the skin as it starts to glow a bright green. The subject vibrates with pain.
+
+**10:52 --** Medical personnel arrive, but they cannot assist the subject.
+
+**10:53 --** The subject is now spasming intensely. Their bones are crushed from the inside, turning into dust.
+
+**10:54 --** Their limbs stop flailing, the subject's flesh falls into itself as it loses support.
+
+**<End Log>**
+
+[[/div]]
+
+**Conclusion:** OL-Site-013 is approved for construction for the proper containment of RPC-013-1.
+
+[[/div]]
+
+[[div class="research-header"]]
++ RPC-013-1 Research Document #3
+[[/div]]
+
+[[div class="research-body"]]
+
+**ATG Team Members:** ██████ ████ (ATG-01), ███ ███████ (ATG-02), ██████ ████████ (ATG-03), █████ ███████ (ATG-04), ███████ █████ (ATG-05)
+**Subject:** RPC-013-1 (2)
+
+**Time:** 3:08 AM
+**Date:** 7/5/18
+
+**Foreword:** Bodycam footage of the containment of RPC-013-1 (2).
+
+[[div class="research-dialogue"]]
+
+**<Begin Log>**
+
+**3:08 --** ATG-01's camera is turned on. Only leaves are visible, they are hiding in bushes. The sound of footsteps can be heard.
+
+**3:09 --** ATG-01 whispers, "On the count of 3." They tap their communicator 4 times, the last one being emphasized. The camera shifts up and is aimed into a small clearing of trees.
+
+**3:10 --** As ATG-01 moves forward, RPC-013-1 (2) can be seen in the middle of the clearing. They are sitting down, looking at the ground. Figures in the background approach the instance, they are the rest of the ATG Team. Their weapons are drawn.
+
+**3:11 --** RPC-013-1 (2), now referred to as the subject, notices the ATG Team approaching. The subject stands up quickly, ATG-01 begins firing. One by one, every member of the ATG team does the same. None of the bullets seem to hit the subject.
+
+**3:12 --** Now taking turns between firing and reloading, the ATG Team begins to circle around the subject. Now that ATG-01 has gotten closer, the bullets can be seen suspended in midair around the subject. The subject takes out a wooden stick.
+
+**3:13 --** A flash of light flies from the stick towards ATG-03, it misses and goes off into the woods. The other ATG members can be heard yelling, it is unintelligible.
+
+**3:14 --** The subject fires again, hitting ATG-05 in the chest. ATG-01 looks over, molten lava can be seen pouring out from their ATG Vest. ATG-05 screams while trying to take off the vest, they are unsuccessful. ATG-01 yells, "Cover the gap!" Their formation shifts.
+
+**3:15 --** An RPC-013-2 instance appears behind ATG-02 and knocks them to the ground. ATG-01 and ATG-03 keep firing at the subject, ATG-04 goes to assist ATG-02. The subject fires at ATG-03 and hits their vest, a cereal box falls to the ground in front of them.
+
+**3:16 --** A small crowd of RPC-013-2 instances has gathered, they are converging around ATG-02 and ATG-04. One of ATG-01's bullets gets through the subject's barrier and hits them in the leg. They are still standing.
+
+**3:17 --** The subject fires into the crowd of RPC-013-2, managing to hit ATG-04's arm. ATG-04 disappears and an ATG Vest falls to the ground, ATG-02 stops firing at the RPC-013-2 instances and looks inside the vest.
+
+**3:18 --** ATG-02 shouts, "Bomb!" They pull a lit stick of dynamite from inside the ATG Vest and throw it into the grouped RPC-013-2 instances. Many of them are terminated, ATG-02 joins the formation and fires at the subject.
+
+**3:19 --** The subject fires at ATG-01 and misses, a flash of light speeds by the camera. An alarm clock can be heard from inside the woods behind ATG-01, it attracts more RPC-013-2 instances.
+
+**3:20 --** Too overwhelmed, the subject's barrier gives in and they are shot in the shoulder and foot. They fall to the ground, unconscious. The ATG team surrounds the subject and begins firing outward at RPC-013-2 instances. ATG-01 speaks into their communicator, "We've contained it, now pull us out." The video feed ends.
+
+**<End Log>**
+
+[[/div]]
+
+**Conclusion:** It seems that encirclement and constant gunfire influences RPC-013-1's psyche in a way that weakens their abilities just enough to let attacks through their barrier. This will be the containment strategy going forward.
+
+[[/div]]
+
+[[/div]]
+
+[[/collapsible]]
+
+----
+
+[[div class="addendum-collapsible"]]
+[[collapsible show="► Addendum 013-D: Classified ◄" hide="▼ Addendum 013-D: Classified ▼"]]
+[[/div]]
+
+[[div class="classified-container"]]
+
+[[div class="classified-intro"]]
+
+INPUTTING CREDENTIALS
+
+...
+
+...
+
+...
+
+CREDENTIALS RECEIVED
+
+VERIFYING CREDENTIALS
+
+...
+
+...
+
+...
+
+...
+
+...
+
+CREDENTIALS VERIFIED
+
+ACCESS GRANTED
+
+[[/div]]
+
+[[div class="classified-main"]]
+
+[[div class="classified-header"]]
++ RPC-013-1 Interview
+[[/div]]
+
+[[div class="classified-body"]]
+
+**Interviewer:** Dr. K███
+**Interviewed:** RPC-013-1 (2)
+
+**Time:** 5:24 PM
+**Date:** 7/13/18
+
+[[div class="classified-dialogue"]]
+
+**<Begin Log>**
+
+**Dr. K███:** Where do you live?
+
+**RPC-013-1 (2):** I live in a cave.
+
+**Dr. K███:** A cave? Why?
+
+**RPC-013-1 (2):** I like caves.
+
+**Dr. K███:** Hm... Does anyone else live in the cave with you?
+
+**RPC-013-1 (2):** No. Everyone is spread out. There are other caves besides the one I live in. Some may not even live in caves.
+
+**The sound of flipping through paper.**
+
+**Dr. K███:** What do you eat?
+
+**RPC-013-1 (2):** ... You do realize we can make anything, right? I could turn anything, even you, into a nice breakfast spread.
+
+**Dr. K███ coughs uncomfortably.**
+
+**Dr. K███:** Let's change the subject, how long have you been on the island?
+
+**RPC-013-1 (2):** 9 years.
+
+**Dr. K███:** So you weren't born here? 
+
+**Silence, Dr. K███ begins scribbling in his notes.**
+
+**Dr. K███:** No? How did you get to the island?
+
+**RPC-013-1 (2):** I was given a choice. I chose to come here.
+
+**Dr. K███:** Do you regret your choice?
+
+**Silence.**
+
+**Dr. K███:** Okay, moving on. Why did you choose to come here?
+
+**RPC-013-1 (2):** I thought it would be fun.
+
+**Dr. K███:** Is it?
+
+**RPC-013-1 (2):** It was.
+
+**Dr. K███:** Was?
+
+**Silence, Dr. K███ sighs.**
+
+**Dr. K███:** Did someone bring you to the island?
+
+**Silence.**
+
+**Dr. K███:** Is there something, or someone, preventing you from answering?
+
+**Silence.**
+
+**Dr. K███:** You look like you want to answer. Is there--
+
+**RPC-013-1 (2):** Please be quiet, I am trying to listen.
+
+**Dr. K███:** Listen to what?
+
+**RPC-013-1 (2) inhales sharply.**
+
+**RPC-013-1 (2):** Nothing.
+
+**Dr. K███ scoffs.**
+
+**Dr. K███:** Really?
+
+**RPC-013-1 (2):** Yes, really.
+
+**Silence.**
+
+**Dr. K███:** Let me try to help you out here. You know what a hypothetical is?
+
+**RPC-013-1 (2):** ... Yes.
+
+**Dr. K███:** Good, I'm going to ask you some hypothetical questions. Let's start off with an easy one. How would you stop someone from saying things you don't want them to say?
+
+**Silence.**
+
+**RPC-013-1 (2):** I... I would listen to everything they said.
+
+**Dr. K███:** Oh, and hypothetically, how would you do that?
+
+**Silence, Dr. K███ begins writing down notes.** 
+
+**Dr. K███:** I see. Are you able to say any more about this... listener?
+
+**RPC-013-1 (2):** No.
+
+**Dr. K███:** Okay, I'll move to something else. I think I know a hard one, would you like to hear it?
+
+**RPC-013-1 (2):** Y-yes.
+
+**Dr. K███:** How do you get off an island that's under constant surveillance and surrounded by patrol boats without being seen?
+
+**RPC-013-1 (2):** I can't get off of this hypothetical island at all, but... someone who could... no I can't say that.
+
+**Dr. K███:** Are you sure?
+
+**RPC-013-1 (2):** Well, it's... someone could get off the island if they were... "see through."
+
+**Dr. K███:** Interesting. Are you willing to push a bit further?
+
+**RPC-013-1 (2):** I don't know if I can.
+
+**Dr. K███:** Not even one more hypothetical?
+
+**RPC-013-1 (2):** ... Just one more then.
+
+**Dr. K███:** Why would children be being brought to this hypothetical island?
+
+**RPC-013-1 (2):** You know about--? I mean... I can only think of two reasons.
+
+**Silence.**
+
+**Dr. K███:** Which would be?
+
+**RPC-013-1 (2):** I didn't... I didn't...
+
+**Silence.**
+
+**Dr. K███:** Can you hear me?
+
+**RPC-013-1 (2):** I... I didn't--
+
+**Something crashes against the ground, a sound like wind blowing throughout the room can be heard.**
+
+**Dr. K███:** No, no, no!
+
+**Rapid footsteps can be heard, RPC-013-1 (2) starts groaning in pain.**
+
+**Dr. K███:** What is this? Who is doing this?
+
+**Whispering can be heard, it is unintelligible.**
+
+**Dr. K███:** What? What are they doing to the--
+
+**RPC-013-1(2)'s screaming covers up the rest of the question.**
+
+**Dr. K███:** Tell me!
+
+**RPC-013-1 (2) speaks, but it is an incoherent jumble of vowels.**
+
+**Dr. K███:** I--
+
+**RPC-013-1 (2)'s screaming interrupts him.**
+
+**Dr. K███:** I'm sorry.
+
+**Footsteps approach the recorder.**
+
+**<End Log>**
+
+[[/div]]
+
+**Conclusion:** This log marks the official start of the investigation into the entity controlling RPC-013-1 instances. Dr. K███ states that the RPC-013-1 instance's final message was, "Underground." Dr. K███ will be given a psyche evaluation. 
+
+[[/div]]
+
+[[div class="classified-header"]]
++ RPC-013-1 Research Document #4
+[[/div]]
+
+[[div class="classified-body"]]
+
+**ATG Team Members:** ██████ ████ (ATG-01), ████ █████ (ATG-02), ██████ ████████ (ATG-03), ██████ ████ (ATG-04), ████ ████████ (ATG-05)
+
+**Time:** 9:03 AM
+**Date:** 7/15/18
+
+**Foreword:** Bodycam footage from Incident RPC-013-1 #11.
+
+[[div class="classified-dialogue"]]
+
+**<Begin Log>**
+
+**9:03 --** ATG-01's camera is turned on, it is dark, but it is clear that they are in a cave. The cave descends deeper.
+
+**9:05 --** As they get deeper a light comes into view. It is a candle placed on some rocks. You can see ATG-03 to ATG-01's left.
+
+**9:06 --** They round a corner and there are more candles trailing down the walls. The amount of candles increases as they proceed.
+
+**9:09 --** A sound echoes throughout the cave, the ATG team stops and prepares for engagement. Nothing happens. They continue walking.
+
+**9:11 --** More sounds echo off the walls, it sounds like laughter.
+
+**9:15 --** They are now very deep below ground, running footsteps and joyful laughter can be heard clearly.
+
+**9:17 --** ATG-01 reaches a corner and looks around it. The camera cannot see what they are seeing. ATG-01 stands still for an extended amount of time.
+
+**9:18 --** ATG-01 turns to the ATG Team and says, "Do not fire until I say to." They all nod.
+
+**9:19 --** ATG-01 and the rest of the ATG Team goes around the corner. The environment transitions from a cave into a large open room with wood floors and intricate wallpaper. It is lit up with candles and gas lamps. There are normal, non-anomalous children running around the room. Their ages range from 5 to 11. They look like they are playing tag.
+
+**9:20 --** As the ATG Team enters the room, the children do not notice them at first. An instance of RPC-013-1 sitting on a leather armchair notices them immediately. She stands up and runs through a set of doors opposite to where the ATG Team entered.
+
+**9:21 --** The children, 8 in total, finally notice the ATG team and starts to surround them. They marvel at what they believe to be soldiers.
+
+**9:23 --** ATG-02 gets down on one knee and attempts to befriend the children. He is unsuccessful. ATG-03 walks over and asks the children if they want to play tag outside, they say they do.
+
+**9:24 --** ATG-03 and ATG-05 proceed to escort the children outside. ATG-01, ATG-02, and ATG-04 remain, they start to walk towards the door the RPC-013-1 instance escaped to.
+
+**9:25 --** The three ATG members proceed through the doors. It leads into another cave that goes even deeper. There are strange markings on the wall lit up by the many candles lining both sides of the cave. 
+
+**9:28 --** As they move down, the markings on the wall become more frequent. The cave seems to have formed like a spiral staircase that wraps downward.
+
+**9:29 --** They finally reach the end of the cave and come upon another room. They enter. There is a large stone slab in the middle of the room. It is stained with blood. There are 5 RPC-013-1 instances gathered around the slab. 1 of them is the instance from earlier. The other 4 are children.
+
+**9:30 --** The ATG Team raises their weapons. All 5 instances drop their sticks on the floor and raise their hands in surrender. Confused, the ATG Team slowly approaches them.
+
+**9:31 --** Suddenly, ATG-01's camera is hit with a flash of green light. All of the ATG members are blinded. When they regain their sight, the adult RPC-013-1 instance is dead on the floor. The 4 underaged instances are gone.
+
+**9:34 --** After looking around the room and arguing, the ATG members decide to head outside and request assistance.
+
+**<End Log>**
+
+[[/div]]
+
+**Conclusion:** The children found have been taken into custody.
+
+[[/div]]
+
+[[div class="classified-header"]]
++ Victim Interview
+[[/div]]
+
+[[div class="classified-body"]]
+
+**Interviewer:** Dr. G███
+**Interviewed:** ████ ██████
+
+**Time:** 2:20 PM
+**Date:** 7/18/18
+
+**Foreword:** A child found on RPC-013 is interviewed for information on the figure controlling RPC-013-1.
+
+[[div class="classified-dialogue"]]
+
+**<Begin Log>**
+
+**Dr. G███:** How are you, ████?
+
+**████ ██████:** I'm okay.
+
+**Dr. G███:** You seem a little down, pal. What's the matter?
+
+**████ ██████:** I don't like it here.
+
+**Dr. G███:** Why's that?
+
+**Silence.**
+
+**████ ██████:** I wanna go back to the nice lady.
+
+**Dr. G███:** The nice lady?
+
+**████ ██████:** Yea, she knows magic.
+
+**Dr. G███:** Ah, the nice lady. Can you tell me about her?
+
+**Silence.**
+
+**Dr. G███:** It's okay if you don't want to.
+
+**████ ██████:** I'm sorry, I promised to keep a secret.
+
+**Dr. G███:** I see. Do you like magic?
+
+**████ ██████:** ... Yeah.
+
+**Dr. G███:** Well, believe it or not, I actually know some magic.
+
+**████ ██████:** Really?
+
+**Dr. G███:** Mhm, you wanna see?
+
+**████ ██████:** Yeah!
+
+**The sound of paper folding.**
+
+**Dr. G███:** See this coin? I want you to watch it carefully.
+
+**[Dr. G███ begins to perform a magic trick.]**
+
+**Dr. G███:** Now then, I'm gonna put it in this hand, and I'm gonna make it disappear.
+
+**[Dr. G███ makes the coin appear like it has vanished.]**
+
+**████ ██████:** It's gone!
+
+**Dr. G███:** Yup, want to guess where it is?
+
+**████ ██████:** It's... in your sleeve?
+
+**Dr. G███:** Nope, it's in my other hand.
+
+**████ ██████:** How did you do that?
+
+**Dr. G███:** I can't tell you. Magician's code.
+
+**████ ██████:** Please?
+
+**Dr. G███:** Well, I could tell you if you wanted to become... a magician.
+
+**████ ██████:** Yes, I do!
+
+**Dr. G███:** Good, watch me do it again.
+
+**[Dr. G███ performs the magic trick a second time.]**
+
+**████ ██████:** I still don't get it!
+
+**Dr. G███:** Here, I'll walk you through it. Take the coin.
+
+**Footsteps.**
+
+**Dr. G███:** You have to take the coin and put it into that fold between the knuckle of the index finger and your palm, like this.
+
+**████ ██████:** Okay...
+
+**Dr. G███:** Now, cover up your hand as you do it, take the coin out of the fold quickly and put it in your other hand. Yea, like that. Now close up the hand that they think the coin is in, and put the hand it's actually in down.
+
+**████ ██████:** Oh...! The coin was never in that hand, it was in the other one the whole time!
+
+**Dr. G███:** Think you can do it on your own?
+
+**████ ██████:** Mhm.
+
+**[████ ██████ performs the magic trick.]**
+
+**████ ██████:** Did it look right?
+
+**Dr. G███:** Yeah, you got it down. Welcome to being a magician.
+
+**████ ██████ gasps.**
+
+**████ ██████:** I'm a magician?
+
+**Dr. G███:** You know magic now, don't you?
+
+**████ ██████ laughs excitedly.**
+
+**Dr. G███:** But with this power comes great responsibility, now we have to follow the magician's code. We can't tell anybody who doesn't know magic about how we do our tricks, and we can't keep secrets from each other.
+
+**████ ██████:** We can't?
+
+**Dr. G███:** That's right, not even a promise can justify breaking the magician's code.
+
+**Silence.**
+
+**████ ██████:** You wanna know about the lady, right?
+
+**Dr. G███:** I do. Would you tell me?
+
+**████ ██████:** Okay... but promise not to tell her I told you, okay?
+
+**Dr. G███:** I promise.
+
+**████ ██████:** She showed up at my door and asked me if I liked magic. I said yeah and she picked me up, and then I was here. She said she was gonna make us into magicians too. Only the girls though, for some reason.
+
+**Dr. G███:** Hm. What would happen to the boys?
+
+**████ ██████:** I don't know, she never told us.
+
+**Dr. G███:** Is there anything else you can tell me?
+
+**████ ██████:** Um... she said the boys had a "special purpose," I don't know what that means.
+
+**Scribbling is heard.**
+
+**Dr. G███:** Thank you, ████. I hope you become a fine magician some day.
+
+**<End Log>**
+
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+
+[[div class="classified-letter-container"]]
+
+[[div class="classified-letter-header"]]
++ Regarding RPC-013-3 
+[[/div]]
+
+[[div class="classified-letter-body"]]
+
+To all personnel who receive this document,
+
+I must ask you to be discrete when discussing the entity you have been calling "RPC-013-3."
+
+Until there is an adequate amount of information to ensure we can contain this entity and keep it contained, I cannot authorize any action against it. All personnel will continue gathering information from captured RPC-013-1 instances, which I believe to be the best path available to us. The more we know about the entity, the likelier the chance we can effectively contain it.
+
+Currently, the designation RPC-013-3 does not exist, and will remain that way for the time being. The RPC-013 document, for lower clearance levels, will not have any mention of the entity. Information of an unseen, uncontained entity on RPC-013 that can move through Authority controlled territory does not need to be spread, especially to EOIs. Punishment will vary for indiscretion.
+
+Thank you for understanding.
+
+-- Site Director Mayfield
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+
+[[/collapsible]]
+
+----
+[[/div]]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-012]]] | RPC-013 | [[[RPC-014]]] >>
+[[/=]]
+

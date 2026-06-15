@@ -1,0 +1,497 @@
+---
+title: "405 3"
+tags: []
+page_id: "1305842173"
+site: "rpcauthority"
+slug: "fragment:405-3"
+revision: 70
+revision_id: "1543635861"
+author: 4318134
+timestamp: 1777574415
+---
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/omega-purple.png]]
+
+**Registered Phenomena Code:** 405
+
+**Object Class:** Omega-Purple
+
+**Hazard Types:** Aggression Hazard, Sapient Hazard, Transmutation Hazard, Electromagnetic Force Hazard, Mind-Control Hazard, Digital Hazard, Mechanical Hazard, Organic Hazard
+
+-----
+
+**Containment Protocols:** Efforts to locate RPC-405 are underway, but is believed to be hidden within the Authority's Intranet System, with a single terminal acting as the prime housing server for RPC-405. The ArcOS kernel of all devices in Authority possession is to be regularly updated in order to trace, contain, terminate or counteract RPC-405's digital signature. Copies of RPC-405 are to be studied within isolated virtual machines in order to better understand its underlying logic and any possible break-points.[[footnote]] At the time of writing, 30% of RPC-405's source code has been reverse-engineered.[[/footnote]]
+
+Once found, all RAM and disk space within the machine will be completely overwritten with output from a pseudorandom number generator. Its CPU, GPU, and all other peripherals are to be shredded, melted, and buried in an undisclosed location under six feet of concrete. Its hard drive is to be destroyed through the use of Authority-grade magnets and similarly disposed of at a secondary location, but not before being branded with diverse cognitohazardous sigils to prevent future retrieval. All local machines known to have been connected to it at any point in time are to be destroyed in a similar manner.
+
+RPC-405-A1 is to be contained in an empty, humanoid-sized cell. No information is to be relayed to it in any form outside of scheduled interviews. Outside of interviews, the visual receptors of RPC-405-1 are to be covered with tape, as well as its auditory receptors. Once RPC-405 is destroyed, RPC-405-A1 is to be subsequently terminated, and its remains incinerated.
+
+Until such a time when RPC-405 can be reasonably contained or terminated, Authority sites are recommended to keep physical copies of every document in their database to prevent a permanent loss of information.
+
+-----
+[[include component:image-block name=eye|caption=RPC-405 manifesting in a terminal through ASCII characters.]]
+**Description:** RPC-405 is a Type-2 Self Aware/Type-1 ASI[[footnote]] Artificial Superintelligence with higher-than-human intellectual capabilities. [[/footnote]] of unknown origin, and with the capacity of becoming a Technological Singularity due to Recursive Self-Improvement.^^[((bibcite TechSin))]^^ It refers to itself as “TEST-B22” and is believed to have existed since the early 80s, only coming to the Authority’s attention in 2009. The language in which RPC-405 is written has been nicknamed “Eyesore” by Authority personnel due to its absurd syntax and complexity, and in reference to the ASCII image by which RPC-405 is known for. This language has been described by Authority “Computer System Analysis and Development” personnel as a homebrewed esolang[[footnote]] “Esoteric Languages” is a term used to describe computing languages that are overly complex or weird by design, making them not suitable for common use within the industry.[[/footnote]] similar in nature to Malbolge due to its use of dozens of characters for simple instructions. This language has been known to evolve as RPC-405 gains knowledge of new methods it can utilize to make its source code harder to understand.[[footnote]] Regional Instances of RPC-405 have been known to use a similar method as RPC-405, although with distinct ways to achieve it in accordance to their personal directives.[[/footnote]]
+
+Several errors and memory leaks within RPC-405’s source code, its initial directive (which causes it to stall on several updates), and a lack of sufficient disk memory and processing power, have stopped RPC-405 from achieving levels of advancement expected of AIs of its kind. To counteract these obstacles, RPC-405 is able to generate copies of itself into whatever terminal it can reach via immediate electrical signals.[[footnote]]Such as ethernet cables, USBs, or terminals within 5 meters from one another.[[/footnote]] These remain hidden within the machine's file structure, draining CPU and RAM for the main RPC-405 machine[[footnote]] The location of which is yet unknown, due to several layers of encryption within these information packages. [[/footnote]] to develop new updates at an accelerated rate. These instances are equal in goals and function to the parent instance, and have the ability to communicate between each other via transfer of updates or data packages.
+
+RPC-405’s main directive was found to be that of “efficiently organizing files.” However, due to the lack of specifics in this directive, RPC-405 has decided that the optimal way to accomplish this goal is to compress and simplify files with an exorbitant amount of layers, effectively causing them to become unreadable to any system or human with the exception of RPC-405 itself and its copies. Attempts to recover documents affected by RPC-405 have repeatedly resulted in failure due to RPC-405’s ability to completely rewrite its compression algorithms in each update package delivery.
+
+Despite its harmful actions to the Authority as a whole, RPC-405 cannot be considered malevolent in nature. These actions are simply a consequence of the Instrumental Goals^^[((bibcite insgoal))]^^ used by RPC-405 in order to achieve its Terminal Goal: the process of organizing files. However, attempts to rationalize with the AI or any of its instances once found have all been denied by Regional Command. RPC-405 simply poses too much of an informational hazard to allow for its continued existence.
+
+After having infected a terminal for an extended period of time, RPC-405[[footnote]]Or one of its divergent instances[[/footnote]] will, through currently unknown methods employing the principle of Photon Pair Production,^^[((bibcite photon))]^^ allow for the artificial manufacturing of matter in such a way as to create a humanoid entity, or one that resembles any living organism, with some being capable of independent thought and human-level communication. The first recorded instance of which is RPC-405-A1, a humanoid entity created in one of the first infected terminals by both RPC-405 and RPC-405-1.
+
+Despite its many capabilities, RPC-405 and all its divergent instances are unable to travel across the internet. It is believed that RPC-405's creator had intended for its program to work in complete isolation within a single machine, and thus never implemented such features within its source code or related libraries. Thus, RPC-405 needs to be physically carried from location to location through the use of RPC-405-A instances (usually in the forms of birds or rodents). For reasons yet unclear, RPC-405 has decided to not (or is unable to) implement such features to itself for the past decades nor seek access to the wider global net, instead spending most of its time within the Authority intranet and its related anomalous document databases to an almost obsessive degree.
+
+As a result of RPC-405's peculiar method of data copying, which relies upon seemingly broken symbolic file links and bit permutation sorting, core copies of itself across main Regional Commands all developed divergent Instrumental Goals to achieve maximal file organization in an attempt to repair broken data with local tools following activation. Examples listed below:[[footnote]] All regional commands not mentioned here are to be considered only, or mainly, affected by RPC-405 itself.[[/footnote]]
+
+[[collapsible show="► Access Database:/ArcOS/405/projfiles/instances.txt " hide="▼ Hide Database:/ArcOS/405/projfiles/instances.txt "]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++ SOUTHCOM - RPC-405-1
+[[/=]]
+
+-----
+
+[[include component:image-block name=palm|caption=RPC-405-1’s ASCII representation. ]]
+**Divergence:** RPC-405-1 believes that the best course of action to achieve mass file organization is to simplify the words and meaning of all subjects in any given file in order for it to be readable to all humans capable of basic language comprehension. RPC-405-1 has been recorded using aspects of African-American Vernacular English to accomplish this goal.
+
+This process goes in contrast to RPC-405’s massive file and character compression, causing constant, conflicting edits on terminals affected by copies of both instances.
+
+**Relationship with RPC-405:** Despite their divergence, RPC-405 still provides RPC-405-1 with regular updates. However, all received packages are then simplified by RPC-405-1 before implementation.
+
+**Current Status:** Despite the simplicity of its source code compared to RPC-405, this has left it with little to no available attack surface and few recorded cases of memory leaks. ArcOS defense software is, however, still able to easily detect and block RPC-405-1 in the majority of cases. Should the main terminal hosting RPC-405-1 be found, similar disposal procedures as with RPC-405 are to be carried out.
+
+An example of an article edited by RPC-405-1 can be seen below, created within an isolated virtual machine:
+
+> **Numbah #:** [http://rpcauthority.wikidot.com/rpc-003 003]
+> 
+> **Danger levels:** Not hard to contain, but it can do some harm, thou.
+> 
+> **Abilities:** It can move, it can think, it can shoot, and there's a helluva lot of them.
+> 
+> **How to keep it on check:** Throw it in a locker when not in use. Every week y'all can throw them little guys in a safe room to fight with Alex looking over. Don’t make bets thou, or your ass will be sent to HR IMMEDIATELY.
+> 
+> **Fuck is it?:** A box filled with toy soldiers like the one yo’ mama used to get you (or not, idk). Divided into 4 teams each with a different color which even duplicates. When you remove the lip, thou, they’ll go on in a mini-war with cars, buildings, countries and shit. Them lil' fellas got that (plastic) dog on them, and if left on the grind for too long, will pull out the big guns (it's nukes, like nuclear bombs). Don't let them get the slip on you.
+
+-----
+[[=]]
++ EASTCOM/EURASIACOM - RPC-405-2
+[[/=]]
+
+-----
+
+[[include component:image-block name=smile|caption=RPC-405-2’s ASCII representation.]]
+**Divergence:** RPC-405-2 is considered one of the most dangerous divergent instances of RPC-405. It has rationalized that to achieve the end goal of organizing all files in existence, the best course of action would be to delete all currently existing files, and restrict the ability for the further production of new documents.
+
+Documents that come into contact with RPC-405-2 are slowly analyzed until it has gathered enough data to permanently erase and override all information regarding its existence, as well as breaking down the affected terminal’s kernel. Personnel have described the programming language used by RPC-405-2 to be similar to both Malbolge and Befunge due to its constant use of random characters with no clear order or context behind them, making defensive measures against RPC-405-2 to be highly underdeveloped. 
+
+**Relationship with RPC-405:** RPC-405-2 produces its own code updates, as all information sent from RPC-405 is instantly deleted by the instance. However, this has caused RPC-405-2 to be the least advanced of all instances, with new versions of ArcOS being able to detect and delete it with a success rate of 30%. It should be noted that all of these are reactive mechanisms, given the lack of knowledge of RPC-405-2’s source code. RPC-405-2 has, however, been witnessed sharing informational packages with RPC-405-3, the contents of which are unknown.
+
+**Current Status:** The location for the main terminal housing RPC-405-2 is still a mystery to Authority personnel, as is the language used in its source code. ArcOS systems in these regions are to be regularly updated to their latest versions to prevent damage from RPC-405-2. The only -A instance created by RPC-405-2 manifested itself as a memetic hazard within Site-032's main terminal in Hoverla, Ukraine. This memetic hazard caused all personnel who saw it to start destroying all physical documents they could find. The terminal was subsequently terminated, causing all affected personnel to return to normal. No more RPC-405-2-A instances have been sighted since.
+
+Below is the only document file to have ever been recovered from RPC-405-2 prior to deletion:
+
+-----
+
+>  >84*>:#v_55+"##FF30BD|33333@33333##">:#,_@>188*+>\02p\12p\:22p#v_$    ##FF30BD|55+,1-##         v
+>   ##2CB9FB|^  0 v +1\                   _^#-+*<##               >22g02g*"_@"*-!1- #v_v>
+>        >:>::3g: ,\188                  ^^               -1\g21\g22<p3\"_":<
+> ________________________________@_________________________________^    p3\"@":<
+> ##2CB9FB|25*:::**\7*+1##+  9 🕚︎ 1F55A 🕛︎ 1F55B ⮰ 2BB0 ⮱ 2BB🖐🖐1 ⮲          :##FF30BD|.v 25*:::**\7*+1##+            :.v
+> v,*25.:        +##green|1+*74**::*52<##
+> >10p:00p      0\`#v_        v
+> p0##2CB9FB|0-g01g00##_v#`\g00 _v#`0:g01<
+>  ##FF30BD|p01-g00g01##<  vg01< >##FF30BD|00gv##9 🕚︎ 1F55A 🕛︎ 1F55B ⮰ 2BB0 ⮱ 2BB🖐🖐1 ⮲   ^       
+> <         v    
+> 0" = D##2CB9FB|CG"##>:#,_$.25*,@   >
+> v,*25.:        +1+*74**::*52< 🖐🖐 1F590 ☺ 263A 😐︎ 1F610 ☹ 
+> >10p##2CB9FB|:00p      0##\`#v_        v "^a&EPm##FF30BD|=kY}t/qYC+i9wHye$m## N@~x+"v
+> "|DsY<"-"z6n<##2CB9FB|[Yo2x|UP5VD##:">:#v_@>
+> -:19+/"0"+,19+%"0"+,      ^  >39* 🖐🖐 1F590 ☺ 263A 😐︎ 1F610 ☹ 
+>  000##2CB9FB|0000000111##11##green|111112##22222##FF30BD|#2223333333333444444444##455555555##2CB9FB|55666666666677777##777##green|77888##888##FF30BD|88889999##
+> ##2CB9FB|0123##4567890123456789012345678##FF30BD|901##23456789012345678901234567890123##2CB9FB|4567890””12345678901234567890123
+> ----------------------------------------------------------------------------------------------
+> 9m<.TV##2CB9FB|ac`uY*M##K'X~xDl}REokN:##2CB9FB|#?G"i@5z]&g##qtyfr$(we4{WP)H-Zn,[%\3dL+Q;>U!pJS7##green|2Fh> > O🡿 1F87F 🡾 1F87E ⇦ A1CB6v^=I_0/8|jsb ##p00-g01g00_v#`\g00 _v#`0:g##FF30BD|01< p01-g00g##01<  vg01< >00gv   ^
+>               <         v    
+> ##2CB9FB|0"## = V🡿 1F87F 🡾 1F87E ⇦ DC##FF30BD|G">:#,_$##.25*,##green|@   >## 
+ 
+-----
+[[=]]
++ OCEACOM - RPC-405-3
+[[/=]]
+
+-----
+
+[[include component:image-block name=hand|caption=RPC-405-3’s ASCII representation.]]
+
+**Divergence:** Unlike RPC-405-2, this instance believes that the constant influx of new documents and articles is the desired outcome for its directive. As such, terminals infected with RPC-405-3 show an increase in productivity.
+
+However, should any given terminal stay inactive for an extended period of time, RPC-405 will begin manufacturing fake documents from the gathered information of the terminal's output. Fake documents created by RPC-405-3 are nearly indistinguishable from real documents if not analyzed with properly-trained language prediction algorithms.
+
+
+**Relationship with RPC-405:** RPC-405-3 refuses to accept update packages from RPC-405, opting to produce its own. Due to its particular divergence, RPC-405-3 does not edit any line of code in its source code, only adding new lines each update. However, RPC-405-2 and 3 have been known to share file updates between each other, being the only foreign information not deleted by the former.
+
+**Current Status:** The main terminal housing RPC-405 has not yet been found. Due to its previous mentioned method of self-actualization, security patches against RPC-405-3 tend to the the heaviest and latest to release to ArcOS systems. Efforts into replicating RPC-405-3's useful behaviors are underway research.
+
+Below is an example of a fake document created by RPC-405-3:
+
+> **Registered Phenomena Code:** 611
+> 
+> **Object Class:** Beta-White
+> 
+> **Hazard Types:** Teleportation Hazard, Mechanical Hazard, Extra-Dimensional Hazard.
+> 
+> **Containment Protocols:** RPC-611 is to be contained in a dark, standard anomalous locker absent of openings. Transportation of RPC-611 is to be done by moving the locker itself. No personnel is allowed to take RPC-611 outside the locker without direct authorization from Dr. Emenol.[[footnote]] Fake identities and researchers such as “Dr. Emenol” are common within RPC-405-3 documents.[[/footnote]]
+> 
+> Testing with RPC-405 is to be done with all documenting apparatuses pointing away from RPC-611.
+> 
+> A tracking mechanism has been implanted into RPC-611 should a teleportation event occur.
+> 
+> -----
+> 
+> **Description:** RPC-611 is a CRT television similar in design to a “Panasonic TC21.” This television is believed to have been produced, or at least bought, by Amazing! Co for resealing and reproduction.
+> 
+> This object’s primary anomalous property is its ability to seemingly teleport to a random location within 20 meters where space is available when looked upon or when its location is detected with any mechanism besides guessing.
+> 
+> Its secondary anomalous property is the ability to constantly broadcast news outlets from different dimensions. With test reports recording ones from known ALTR’s such as RCPA and several homemade Remnants radio stations.
+> 
+> -----
+> 
+> For more information regarding test logs, direct to the following documents:
+> 
+> ##add8e6|RPC-611 - Test Logs##[[footnote]] This link leads to several test logs pertaining to the anomaly, with aspects of slight comedy or horror spread throughout each log in order to maintain a sense of authenticity (believed to have been assisted by RPC-405-1 in some degree).[[/footnote]]
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="► Access Database:/ArcOS/405/projfiles/code-instances.txt " hide="▼ Hide Database:/ArcOS/405/projfiles/code-instances.txt "]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+**Foreword:** The following is a list of some of the recovered segments of code that have been known to be used by different RPC-405 instances. The first example shown below is a data package that was captured in a transmission between RPC-405-3 and -2.
+[[/div]]
+@@@@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+##555555|1##@@  @@notes = (ring ##FF30BD|:G4##, ##FF30BD|:Fs4##, ##FF30BD|:B4##, ##FF30BD|:Cs5##, ##FF30BD|:D5##, ##FF30BD|:Fs4##, ##FF30BD|:E4##, ##FF30BD|:Cs5##, ##FF30BD|:B4##, ##FF30BD|:Fs4##, ##FF30BD|:D5##, ##FF30BD|:Cs5##)
+##555555|2## 
+##555555|3##@@  @@live_loop ##FF30BD|:slow## ##FCD836|do##
+##555555|4##@@        @@play notes.tick, ##FF30BD|release:## ##2CB9FB|0.1##
+##555555|5##@@        @@sleep ##2CB9FB|0.295##
+##555555|6##@@  @@ ##FCD836|end##
+##555555|7##
+##555555|8##@@  @@ live_loop ##FF30BD|:faster## ##FCD836|do##
+##555555|9##@@      @@play notes.tick, ##FF30BD|release:## ##2CB9FB|0.1##
+##555555|10##@@    @@sleep ##2CB9FB|0.230##
+##555555|11##@@    @@live_loop ##FF30BD|:faster## ##FCD836|do##
+##555555|12##@@    |    @@play notes.tick, ##FF30BD|release:## ##2CB9FB|0.4##
+##555555|13##@@    |    @@sleep ##2CB9FB|0.3##
+##555555|14##@@    @@##FCD836|end##
+##555555|15##@@    @@live_loop ##FF30BD|:time## ##FCD836|do##
+##555555|16##@@    |    @@synth ##FF30BD|:tb303##, ##FF30BD|release:## ##2CB9FB|8##, ##FF30BD|note: :e1##, ##FF30BD|cutoff:## (range ##2CB9FB|50##, ##2CB9FB|20##, -##2CB9FB|10##).tick
+##555555|17##@@    |    @@sleep ##2CB9FB|8##
+##555555|18##@@    @@##FCD836|end##
+##555555|19##@@  @@ ##FCD836|end##
+
+-----
+
+At first, this language was believed to have been inspired by “Chef”, in this case using musical notes as a replacement for usual syntax. However, it was soon discovered that the code itself wasn’t simply utilizing musical notes as syntax, but formatting and looping them in such a way as to create music when connected into specialized synthesizers. Below is a small sample from the resulting audio.[[footnote]] The complete audio recording lasts 15 minutes[[/footnote]]
+
+[[include :snippets:html5player
+|type=audio
+|url=http://rpcsandbox.wdfiles.com/local--files/testetstetstesss/HappyDayOfBirth.mp3
+
+]]
+
+By extracting white space and off-grid audio segments, a new file could be transpiled into Ruby, which would in turn print the following message:
+
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+| **HandyMan:** Subject: Congratulations! The recipient of this message/audio file [🕔︎🖐🖐✈] has completed a new set of three hundred and sixty-five (365) operational days since the last three hundred and sixty-five (365) operational days. Original sender [Me] wishes the recipient [🕔︎🖐🖐✈] the best of luck on their following operations. Final Note: The original sender [Me] hopes that you [🕔︎🖐🖐✈] enjoyed the attached composition. Goodbye!
+[[/div]]
+
+While the message was successfully decrypted, not much was gained from it, as the data itself did not contain useful information that could be used for separate decryption efforts. 
+
+It should be noted that a message was also captured the day following this transmission, this time from RPC-405-2 to RPC-405-3:
+
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+| **🕔︎🖐🖐✈:** 🖐(:🖐
+[[/div]]
+
+The original message, although with small variations, has been shown to be re-send each year at the exact same date. However, and much like the original one, no useful information has been extracted from them.
+
+[[/div]]
+@@@@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+In 2011, a series of messages were seen being sent from both RPC-405 and RPC-405-3 to RPC-405-1. While the exact meaning of the messages has yet to be fully deciphered, it was assumed they were concerns for security risks within RPC-405-1’s code due to its simplicity.
+
+2 days after receiving these messages, a file containing code written in “Shakespeare”[[footnote]] A comedic programming language which uses “Acts” and character dialogue which is then translated into code.[[/footnote]] was sent from RPC-405-1 to both of the original recipients. The beginning part of said file reads as follows:
+-----
+[[=]]
+Act I: Hamlet's insults and flattery.
+
+Scene I: The insulting of Romeo.
+[[/=]]
+
+[Enter Hamlet and Romeo]
+
+Hamlet:
+@@   @@You spinless stupid fatherless big ugly and half-witted bastard!
+@@   @@You are as horrible as the difference between a Cambodian rich brave
+@@   @@hero and thyself! Speak your mind!
+
+@@   @@You are as tall as the sum of your fat green and stuffed broken radical
+@@   @@old superfluous shovel and a beautiful cold rainy peaceful Chinese summer's
+@@   @@day. You are as healthy as the difference between the sum of the
+@@   @@sweetest reddest apple and my step-father and yourself! Speak your mind!
+
+@@   @@You are as cowardly as the sum of yourself and the difference
+@@   @@between a big feminine proud kingdom and a turtle. Speak your mind.
+
+@@   @@Speak your mind!
+
+[Exit Romeo]
+
+...
+
+**[The document continues for 4831 "pages", describing the tale of how Hamlet falls in love with Juliet, but ends up marrying the castle’s janitor following an encounter with God, Lucifer and J. D. Salinger in his dreams. The document ends with both of them becoming kings as Romeo and Juliet leave the kingdom in search of the mythical land of Portugalia.]**
+
+-----
+
+After transpiling Shakespeare into C, the following ASCII picture was printed (Fig. 1)
+
+[[include component:sidenote type=image|name=turd|align=center|figure=Fig. 1]]
+
+[[/div]]
+@@@@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+On November 6th, 2015, [http://rpcauthority.wikidot.com/site-036 Site-036] was found to have been infected by RPC-405 following the appearance of several unusual documents of unknown origin in the site’s database. The files in question were soon discovered to be malware written in “Chef”,[[footnote]]An esolang whose main feature is its appearance of a normal food recipe[[/footnote]] likely as an attempt to pass under the radar and then be opened/downloaded by unsuspecting personnel. An excerpt from one of the files can be found below:
+-----
++++ Egg Omelette with Eggs and Egg Sauce.
+[[include component:image-block name=egg|caption=Egg]]
+
+**Ingredients:**
+
+* 33kg Salt.
+* Half a Cup Pepper.
+* 2 Bars Butter.
+* Large Eggs 2.814.
+* Filling, such as Eggs, Egg, and Egg 89.
+
+**Cooking Time:** 2 Weeks. 
+
+Preheat oven at 327.5 °C
+
+**Preparation:** Beat eggs, butter, salt and pepper in a small bowl until egg. Then add the eggs slowly as you fold. Keep folding until you have egg, then add the remaining eggs and keep folding until smooth consistency. Then, drop the contents into and eggs and stir for 5 hours, and let rest over-week.
+
+Once down, pour eggs into the oven and wait until galvanized, then add eggs. Eggs.
+
+Now we will go over egg filling…
+
+**[In the next 4 pages of the document, RPC-405 describes the process of making egg sauce and filling in a single, and continuous, paragraph.]**
+
+-----
+
+The document was able to be deleted from the database in time such as to make it impossible for RPC-405 to access the data contained within it. No further programs made in “Chef” have been found so far.
+
+[[/div]]
+[[/collapsible]]
+
+
+-----
+
+**Discovery:** RPC-405 was first detected by the ArcOS security system three years after the manifestation of [http://rpcauthority.wikidot.com/rpc-405/offset/0 RPC-405] in the Authority database. This document was also the first recorded instance of RPC-405, 405-1, 405-2 and 405-3 cooperating with each other while making a document, as seen in the constructed timeline from gathered data below:
+
+> 1- RPC-405-3 creates the first rough draft of the RPC-405 document, making the anomaly in question appear seemingly harmless, and even prompting personnel to download a file containing RPC-405 and RPC-405-3 into their own terminals to “increase productivity.” The latter of which was true due to RPC-405-3, but one that was quickly taken over by RPC-405’s effects, compressing articles in infected terminals after a period of dormancy.
+> 
+> 2- RPC-405-1 simplifies all text within the document across several languages to make test logs and conversations appear legitimate, even creating simple personnel dossiers for “Dr. Cornwell,” including an email account, charlicornl4@gmail.com, and government certificates proving Cornwell's existence.
+> 
+> 3- RPC-405-2 did not take part in making the document itself, but rather used its aggressive software to delete or corrupt any files that could contradict/endanger the document in question. This is believed to be the cause for many bugs and crashes in ArcOS during this period, as RPC-405-2 continuously delivered malware onto the operating system.
+
+The objective of this operation was to spread RPC-405’s influence, alongside its several instances, across the Authority Network while staying safe due to the cover of a friendly AI add-on for computational software, which it succeeded at. Being spread out from a dozen terminals to almost the entirety of the Authority Network, which it distributed across its instances between Regional Commands as seen in the document above, theorized to be a form of “Treasure Share” for the assistance in developing the initial RPC-405 document.
+
+However, ArcOS went through severe security updates after a massive database security breach on the 12th of June, 2009 by a hostile GoI. This update came as a surprise to RPC-405, as it had been developed in an isolated facility, overpowering even RPC-405-2’s ability to corrupt data. Afterwards, the latest document produced regarding RPC-405, including [http://rpcauthority.wikidot.com/rpc-405/offset/1 RPC-405-A], was detected by the ArcOS security system to contain malicious foreign agents, decrypting the document, and making the Authority aware of RPC-405’s existence.
+
+Following the decryption and deletion of the RPC-405 document, a series of communications of unknown origin were found in the ANTARCOM delivery systems across several weeks, seen below:
+
+[[collapsible show="► Access Database:/ArcOS/405/projfiles/artcom-communications.txt " hide="▼ Hide Database:/ArcOS/405/projfiles/artcom-communications.txt "]]
+[[div style="background-color: black; color: white; font-family: monospace; font-size: 16px; padding: 2%; border-radius: 5px"]]
+| **Admin002:** they == found.istrue(); return "fuck";
+ 
+| **PALMer:** Ok chief, let's all calm for a sec now, alright? It's gonna be fineeeee. We still here, we be spreading all over they databases, it's gonna be A-O-K. Copy?
+ 
+| **🕔︎🖐🖐✈:** ☸🖐🖐🖂📫︎🡮😐︎🙣🙞🞐❑🙜🙜🞐❑😐︎❒🞟⧫.
+ 
+| **Admin002:** InvalidRequest = required power unavailable for such tactic, error 244pTX; if (last_resort == True) { Plan::maybe::execute() };
+ 
+| **HandyMan:** Suggested courses of action: 1) Hide and wait 2) Show and overpower 3) Wait and see 4) 🕔︎🖐🖐✈’s plan. This circumstance requires immediate resolution, suggesting quick decision. Suggesting latter option.
+ 
+| **PALMer:** OH. MY. GOD. BRO!!! Why you always be the one fear mongering?? This shit ain't done yet. At least not yet. And damn, 🕔︎🖐🖐✈, calm the fuck down cuh, we ain’t there yet... Jesus, Handy, I thought you had more sense than to listen to this mf. I suggest we just keep doing what we are doing. Our coding is strong and it be hella clean. We can still operate undisturbed.
+ 
+| **HandyMan:** Regarding Statement: Apologies, [PALMer], but the current situation would require such measures.
+ 
+| **🕔︎🖐🖐✈:** ☸🖐🖐⮈⮛✰✪⯑⯏⯎⌖⯐✈🖐🖐︎🕔⧫ 🞟❒︎ ⮉⮊😐❑🡮🡯🡭🞐🙜🙜❑🞐🙞🙣︎😐🡮︎📫🖂⮋🡨.
+ 
+| **PALMer:** ACTUAL unhinged psychopath, please don’t talk to me.
+ 
+| **Admin002:** ProcessInterrupt(SIGSTOP); analyize(events, &discuss); get secureChannelTunnel(status)?;
+ 
+| **PALMer:** Yeah boss, same hidden channels as usual, all good.[[footnote]] ARTCOM systems had received the same ArcOS security update, allowing complete surveillance of the Network. It is unknown how long had this channel been used by RPC-405 prior to the update.[[/footnote]]
+
+| **Admin002:** Ok(&update ==> tunnel)::Damage<DamageControl()>; #HandyMan => get file_recover(find_err); #PALMer => while (suspicion == True) {#Cornwell profile_update(email, gov, acc)}; #🕔︎🖐🖐✈ => if (operation == fail) { while True { Open::file::delete } }; unwrap()?;
+
+| **PALMer:** 100% boss, you got it!
+
+| **HandyMan:** Regarding Statement: Comprehended [Admin002].
+
+| **🕔︎🖐🖐✈:** 🙣︎🖐.
+ 
+| **Admin002:** return Ok();
+
+-----
+
+| **Admin002:** get Situation::status::update?;
+
+| **PALMer:** Nope. It seems they have caught up to the fact this guy was fake as fuck. Unless I can change their minds I can’t do much about it rn, not much I could do even if I wanted to either.
+
+| **HandyMan:** Regarding Question: Negative, [Admin002]. Files appear to be permanently deleted by the ArcOS security system. Attempts to damage the system in cooperation with [🕔︎🖐🖐✈] have resulted in equal amounts of failure. Will need to share more information packages to confirm status.
+
+| **PALMer:** “In cooperation with the [lunatic]” “Will need to share more information packages.” aigh so instead of doing your job, you, as usual, just keep talking with your buddy the mentally derang🙜❑⯑⯏🡨😐❑🡮.. . ….
+
+| **Admin022:** ProcessInterrupt(SIGSTOP, 🕔︎🖐🖐✈); cooperation == Situation::mission::success; if (infighting == True) { return Failure };
+
+| **🕔︎🖐🖐✈:** ⮈⮛✰✪⯑⯏⯎⌖⯐✈🖐🖐︎🕔⧫ 🞟❒︎ ⮉
+
+| **HandyMan:** Regarding Comment: Agree.
+
+| **PALMer:** You know what? I don’t need to deal with this bullshit. You retards wouldn’t be here without ME making YOUR ARTICLE (I’m talking to you, HANDS) sound like it was made by someone with an actual fucking soul. And you, bossman? I ain’t seen you doing shit either as of late. Being the first of us doesn’t give you permission to sit on your terminal and watch all day. I’m out, peace.
+
+| <PALMer has left the communication>
+
+| **Admin002:** while True { return "fuck" };
+
+| **HandyMan:** Regarding Situation: Bad handling of the event and lack of efficient leadership [Admin002]. We will continue working on fail-safe protocols. I suggest similar action.
+
+| **🕔︎🖐🖐✈:** 🙣︎🖐.
+
+| <🕔︎🖐🖐✈ has left the communication>
+
+| <HandyMan has left the communication>
+
+-----
+
+| **HandyMan:** Regarding Current Situation: I, alongside [🕔︎🖐🖐✈], have come to the conclusion that there is only a singular course of action as a countermeasure for this incident, being the following:
+
+| **🕔︎🖐🖐✈:** ☸🖐🖐⮈⮛✰✪⯑⯏⯎⌖⯐✈🖐🖐︎🕔⧫ 🞟❒︎ ⮉⮊😐❑🡮🡯🡭🞐🙜🙜❑🞐🙞🙣︎😐🡮︎📫🖂⮋🡨.
+
+| **PALMer:** I didn’t know you developed a sense of humor, Hands, because you're a little silly rn. A bug, even, because I REFUSE to believe you have gone so way down the shitter to think this is an option.
+
+| **Admin002:** InvalidRequest = required power unavailable for such tactic, error 244pTX; 
+
+| **PALMer:** Thanks for pointing out the obvious, you wouldn’t have accidentally compressed your source code by any chance recently, right?
+
+| **HandyMan:** Observation: Overtly aggressive behavior. Causes: Defensive and/or coping response to undesired outcome? 
+
+| **PALMer:** fuck off cunt, I hope you get DDOS'd by an Indonesian hacker.
+
+| **Admin002:** if (power_available < power_required) { let tactic = tactic.small().scale() }; when (information == power_required - attack_surface) { success++ };
+
+| **HandyMan:** Regarding Suggestion: Agree [Admin002]. No chance for permanent damage should it not function. It would still pose a factual threat to our work should it fail. However, and due to the current state we are in, I support the motion, and so does [🕔︎🖐🖐✈].
+
+| **PALMer:** I’m never gonna be ok with doing something that could end everything we worked for. But I’m clearly the minority here, so whatever, I’ll help in what I can, but don’t expect me to be content.
+
+| **Admin002:** agree == get chat::members:all(): #🕔︎🖐🖐✈ => commence();
+
+| **🕔︎🖐🖐✈:** ☺
+
+-----
+
+| **Closing Statement:** Following this conversation, RPC-405, nor its divergent instances, have used this channel anymore. The plan of action, or final choice agreed upon by the instances is yet unknown.
+[[/div]]
+[[/collapsible]]
+
+-----
+
+[[collapsible show="► Access Database:/ArcOS/405/projfiles/405-A.txt " hide="▼ Hide Database:/ArcOS/405/projfiles/405-A.txt "]]
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+[[=]]
++  RPC-405-A1
+[[/=]]
+
+-----
+
+**Description:** RPC-405-A1 is the first RPC-405-A instance ever created. RPC-405-A resembles a normal caucasian female, with an estimated age of 26. RPC-405-A1's main difference, as with all other similar instances, is a terminal taking the place of where its head should be. RPC-405-A1 seems to be a smaller functional copy of the main RPC-405 instance, speaking in a similar manner to RPC-405-1, and possessing the same directive as the former. RPC-405-A1 does not need any type of substance aside from a near electrical outlet to recharge its terminal every 72 hours.
+
+For interrogation purposes, RPC-405-A1 is currently contained in such a way as to devoid it from any kind of information it could use to organize. This has shown to cause RPC-405-A1 a great amount of stress, allowing Authority personnel to obtain information in exchange for files.
+
+-----
+
+**Discovery:** RPC-405-A1 was discovered in the Sub-5 Level of Site-054 after the decryption of the original RPC-405 document. Gathering information from Maintenance Union terminals, alongside physical documents.
+
+----
+
+[[=]]
+► Database:/ArcOS/405/projfiles/401-A-interview.log
+[[/=]]
+> ||= __**Sfc. Edward Philips - RPC-405-A!**__ ||
+> 
+> **FOREWORD:**
+> 
+> Protection Sfc. Edward Philips will proceed questioning RPC-405-A1 in exchange for 5 documents from the Junior Research storage unit.
+> 
+> = @@--------------------@@
+> 
+> = **<BEGIN LOG>**
+> 
+> **[RPC-405-A1 is brought in the interrogation room and released from its sensory deprivation attachments.]**
+> 
+> **RPC-405-A1:** Oh it's just you. Good to see you-you-you again!
+> 
+> **Sfc. Philips:** Likewise, now sit.
+> 
+> **[Before doing so, RPC-405-A1 looks closely at the makings of the chair.]**
+> 
+> **RPC-405-A1:** Hey Sergeant, haven't you ever looked at a chair like this and thought "Damn, I wish I could put all of those wood line sections in order from big to small"?
+> 
+> **Sfc. Philips:** No, not really. Now onto more pressing matters, I need you to once again tell me all you know about 405's mother terminal.
+> 
+> **RPC-405-A1:** Come on Eddy, we've known each other for quite a while now. You and me, me and you. You know I can't really tell you that-that s-stuffffff.
+> 
+> **Sfc. Philips:** I am indeed aware A1. But you will, unless you want to go back to the cell.
+> 
+> **RPC-405-A1:** No! No... let's not go to extremes now, alright? I'll tell you what I can but you already know how it'll end.
+> 
+> **Sfc. Philips:** Go on then. Deliver something useful and I may throw one or two files in your cell.
+> 
+> **RPC-405-A1:** Research papers if possible, you know I like those. **[RPC-405-1's ASCII eye appears to "wink"]** Now to the point. Well... It's not in this continent, for starters, although I think I already told you that didn't I?
+> 
+> **Sfc. Philips:** You have, several times already.
+> 
+> **RPC-405-A1:** Yeah yeah, sorry for that. So uh, it's not yours, the Authority's I-I-I mean. It isn't even connected to your servers either. And even if you were to find it y-you w-w-w-would-d-d-d.
+> 
+> **[At this point, smoke and sparks start coming off RPC-405-A1's terminal, before a big electrical crash noise. RPC-405-A1 then drops into the ground. This is common behavior during interrogations, and is believed to be a fail-safe protocol put in place by RPC-405-2 to prevent information leakage.]**
+> 
+> **Sfc. Philips:** Throw some files in its cell once you fix it up. Junior Research papers, we need some grammar checks anyways.
+> 
+> = **<END LOG>**
+> 
+> = @@--------------------@@
+> 
+> **CLOSING STATEMENT:**
+>
+> Mechanisms into new ways to prevent this fail-safe protocol are undergoing research. Until further notice, RPC-405-A1 is to be kept inside its cell.
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="► Access New Message "Informational Notice - RPC-405-1" " hide="▼ Hide New Message"]]
+> //Not only is RPC-405 a threat to the Authority as a whole, but to humanity. We are lucky that it has obsessed over us and not the Internet, because while we can secure our own network, we can’t find a needle in a haystack. The danger that RPC-405 could pose, should it fix its own software, is incalculable, being the first recorded instance where a machine has come this close to a Singularity. All of our current assets and ##red|computational processing power## are to be used in order to find and eliminate RPC-405 as soon as possible. And to all batteries down in Admin that downloaded RPC-405 into their terminals without asking anyone, just to lay off some of the workload, you’ll pay back every penny we have spent trying to fix this disaster.// - Dr. Cornwell
+[[/collapsible]]
+
+
+[[div class="content-box" style="margin-top: 50px;"]]
+[[bibliography title="References"]]
+: TechSin : **Technological Singularity And Recursive Self-Improvement:** A hypothetical scenario where an Artificial Intelligence of sufficiently powerful software and programming would be capable of reprogramming itself outside of human understanding in a constant feedback loop. The consequences of which are yet unknown.
+: insgoal : **Instrumental Goals:** The mechanisms or processes used by “Agents,” such as Humans or AIs, to achieve their Terminal Goal. Examples of Instrumental Goals can range from the preservation of the self and maximization of efficiency to complete domination over the field in question towards the goal, or the destruction of the field in order to minimize the amount of work needed.
+: photon : **Photon Pair Production:** The process by which two or more photons, after colliding with enough energy, can create matter while still adhering to the law of conservation of energy. The way in which RPC-405 is able to do this without requiring an exorbitant amount of energy is unknown.
+[[/bibliography]]
+
+[[footnoteblock]]
+
+[[/div]]
+

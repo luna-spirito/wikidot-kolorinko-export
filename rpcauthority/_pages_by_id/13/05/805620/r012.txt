@@ -1,0 +1,138 @@
+---
+title: "Nihil Theme"
+tags: ["theme"]
+page_id: "1305805620"
+site: "rpcauthority"
+slug: "component:nihil-theme"
+revision: 12
+revision_id: "1357630336"
+author: 6436891
+timestamp: 1605412150
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:nihil-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+Nihil Theme
+
+Designed by Boson, Vizlox and Fortunae
+
+Based on the RPC Database theme by Jenkins
+*/
+
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+
+:root {
+  --body-background: #000;
+  --text-color: #aaa;
+  --topbar-dropdown-background: #141518;
+  --nav-hover-background: #4a423b;
+  --primary-text-color: #806b5c;
+
+  --link-color: #b58672;
+  --link-hover-color: #db9172;
+  --new-page-color: #968569;
+  --star-rating-hue: 170deg;
+
+  --header-background: url(http://rpcauthority.wikidot.com/local--files/component:nihil-theme/nihil4.png);
+  --header-text-visibility: hidden;
+  --header-custom-text: 'Children of Nihil';
+  --header-tagline-custom-text: "D o w n p o u r";
+  --header-tagline-top: 3px;
+  --header-tagline-color: #616161!important;
+  --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Anihil-theme/NihilWhiteLogo.png);
+  --header-tagline-color: #633ea3;
+  --header-font: Syne Mono;
+  --header-tagline-font: Special Elite;
+
+  --search-button-background: #333;
+  --search-button-hover-background: #636363;
+  --search-input-color: #4d4d4d;
+  --search-input-hover: #696969;
+
+  --blockquote-background: #13161a;
+  --blockquote-border: 2px solid #222;
+
+  --table-header-background: #191c20;
+  --table-header-background-alt: var(--background-3);
+  --table-header-color: #aeaeae;
+  --table-cell-color: #888;
+  --table-cell-background: #0f1113;
+  --table-border: 1px solid #3c3c3c;
+
+  --WT-body-background: #f0e7df;
+  --WT-nav-hover-background: #4a423b;
+  --WT-topbar-hover-background: #4a423b;
+  --WT-primary-text-color: #806b5c;
+  --WT-tabview-button-selected-background: #e08354;
+  --WT-star-rating-background: #6e503f;
+
+  --WT-header-background: url(http://rpcauthority.wikidot.com/local--files/component:nihil-theme/nihil4.png);
+  --WT-header-text-visibility: hidden;
+  --WT-header-custom-text: 'Children of Nihil';
+  --WT-header-tagline-custom-text: 'It's Raining Outside';
+  --WT-header-tagline-top: 3px;
+  --WT-header-tagline-color: #616161!important;
+  --WT-header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Anihil-theme/NihilWhiteLogo.png);
+  --WT-header-tagline-color: #633ea3;
+  --WT-header-font: Syne Mono;
+  --WT-header-tagline-font: Special Elite;
+
+  --WT-search-button-background: #333;
+  --WT-search-button-hover-background: #636363;
+  --WT-search-input-color: #4d4d4d;
+  --WT-search-input-hover: #696969;
+
+  --WT-link-color: #806255;
+  --WT-new-page-color: #522c2c;
+  --WT-star-rating-hue: 170deg;
+
+  --WT-sidenote-open-background: #e08354;
+  --sidenote-open-background: #31231c;
+
+  --tv1: url("http://rpcsandbox.wdfiles.com/local--files/rotasrequest/backleft.png");
+  --tv2: repeat-y;
+  --tv3: top left;
+
+  --tv4: url("http://rpcauthority.wikidot.com/local--files/component:nihil-theme/backleft.png"), url("http://rpcauthority.wikidot.com/local--files/component:nihil-theme/backright.png");
+  --tv5: repeat-y, repeat-y;
+  --tv6: top left, top right;
+}
+
+@media (max-width: 1199px) {
+
+  body {
+    background-image: var(--tv1);
+    background-repeat: var(--tv2);
+    background-position: var(--tv3);
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+  body {
+    background-image: var(--tv4);
+    background-repeat: var(--tv5);
+    background-position: var(--tv6);
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  #header {
+    background-size: 45px;
+    background-position: 10px 50px;
+  }
+
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
