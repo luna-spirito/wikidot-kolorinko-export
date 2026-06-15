@@ -1,0 +1,754 @@
+---
+title: "RPC-814"
+tags: ["destabilization-hazard", "gamma", "immeasurable-hazard", "incorporeal-hazard", "neutralized", "rpc", "top10", "visual-hazard", "yellow"]
+page_id: "1024838293"
+site: "rpcauthority"
+slug: "rpc-814"
+revision: 39
+revision_id: "1379323950"
+author: 4981794
+timestamp: 1631429726
+---
+
+[[module CSS]]
+:root {
+    --v1: red;
+    --WT-v1: #b91f1f;
+
+    --v2: #ff3434;
+    --WT-v2: #b91f1f;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Tinos:400,700');
+
+@media (min-width: 769px) {
+blockquote {
+   margin: 10px;
+}
+}
+
+.red .collapsible-block-link, .red .foldable-list-container a {
+    color: var(--v2);
+}
+
+li.folded .foldable-list-container a {
+    animation: blink 0.7s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+    0% { color: transparent; }
+    100% { color: var(--v2); }
+}
+[[/module]]
+
+[[module css]]
+.document {
+display: inline-block;
+border: solid 1px #ccc;
+background: #1a1a1a;
+fwidth:96.5%;
+padding: 20px;
+color: #ccc;
+box-shadow: 0 2px 4px rgba(68, 68, 68, .5);
+[[/module]]
+
+[[include component:rate stars=none|decimal=show|ten=show]]
+
+[[include component:image-block
+name=angel.png|
+caption=A copy of RPC-814.|
+width=357px]]
+
+[[f<image http://www.rpcauthority.wikidot.com/local--files/component:icons/gamma-yellow.png]]
+**Registered Phenomena Code:** 814
+
+**Object Class:** Gamma-Yellow (Neutralized)
+
+**Hazard Types:** Incorporeal Hazard, Destabilization Hazard, Visual Hazard, Immeasurable Hazard
+
+[[include component:sidenote figure=Project Personnel Info|contents=
+
+**Assigned Facility:** OL-Site-814 (defunct)
+
+**Research Lead:** Dr. Lucas Ranger
+
+**Assigned MST(s):** Uniform-7 ("The Vipers")
+
+**Director of Containment:** Marshall Holst
+|content-align=true
+]]
+
+**Containment Protocols:** As of 7/24/2014, RPC-814 no longer appears online. All copies of RPC-814 are no longer considered to be anomalous.
+
+RPC-814-1 has been successfully neutralized, and all RPC-814-2 instances are presumed deceased. PoI-744893928 has been amnesticized and released.
+
+[[collapsible show="[+] Show Archived Containment Protocols" hide="[-] Hide Archived Containment Protocols"]]
+
+18 Authority webcrawlers have been programmed and deployed onto the internet in order to neutralize newly created and known RPC-814 manifestations. Websites where RPC-814 is known to frequent are to be temporarily shut down until the phenomenon's presence can be fully liquidated. Photographic and digital copies of RPC-814's appearances and source code are stored within [[[Site-015]]]'s database. Copies of RPC-814's source code must be deleted and scrubbed from Site-015's internal intranet if any inhuman activity is observed by any number of personnel and/or security software. Failure to do so is considered to be a breach of containment.
+
+RPC-814-1 and, subsequently, all members of RPC-814-2 are to be monitored at all times. When possible, any offspring produced by these entities is to be systematically neutralized by ASF personnel[[footnote]] No newborn RPC-814-2 offspring are currently alive. This containment protocol is largely provisional. [[/footnote]]. The town where RPC-814-1 is situated has been evacuated in a cover-up operation. The local water reservoir has been contaminated with hallucinogenic substances authorized by the UNAAC for use in esoteric containment operations. The cover-up lists the official reason for evacuation as a chemical leak in the area's plumbing. RPC-814-2 instances are only allowed to drink water directly sourced from the town's water supply, which must be refilled with the appropriate amount of chemicals every 1-2 months. Insertion of sodium cyanide and [REDACTED][[footnote]] Information redacted as per Article 6.7 of the Authority Crimes Tribunal. [[/footnote]] is authorized in the event of a containment breach in and/or around RPC-814-1, involving RPC-814-2.
+
+The statue(s) and location shown in RPC-814 are not to be sought after, as they do not physically exist.
+
+[[/collapsible]]
+
+**Description:** RPC-814 was an internet advertisement which, upon clicked, would lead the victim to a website housing multiple lethal cognitohazards in the form of digital images. All cognitohazards displayed caused near-instantaneous cardiac arrest, and often death afterwards. The contents of the website itself were largely incoherent strings of text describing a nonexistent cemetery in █████, Minnesota, USA, as well as a series of paranormal happenings involving an unspecified number of statues on the property.
+
+Following the sedation and eventual neutralization of RPC-814's web domain[[footnote]] Done via 18 Marduk-class webcrawlers, which were designed specifically to wipe RPC-814 from cyberspace. [[/footnote]], its IP address was traced back to █████, Minnesota, where RPC-814-1 and, subsequently, RPC-814-2 were discovered. The town's residents were evacuated (see //Archived Containment Protocols//).
+
+[[include component:image-block
+name=house.png|
+caption=RPC-814-1|
+width=300px]]
+
+RPC-814-1 was a two story house located in the northern outskirts of the town. The structure's exterior, prior to neutralization, exhibited an anomalous pattern which obscured it from view. RPC-814-1 and its direct surroundings relative to a subject's line of sight would appear blurred, with some reports describing a resemblance to digital media censorship and citing a seemingly artificial appearance to the field. Due to this, RPC-814-1's entrances were only discovered 12 days after its discovery. RPC-814 had been hosted by RPC-814-1 itself. The structure's architecture was later confirmed to exhibit anomalous dimensions, appearing to have manifested recently as opposed to during construction. Cognitohazardous patterns within the paint covering its outer walls have been known to cause migraines.
+
+[[include component:image-block
+name=family.png|
+caption=RPC-814-2|
+width=300px]]
+
+RPC-814-2 was a family of entities living within RPC-814-1. There were 6 instances prior to neutralization, with the youngest specimen being 4 years old. Each instance was obscured by a spatial anomaly which surrounded their entire physical forms. The anomaly (RPC-814-2-A) was black in coloration, and appeared within all known means of visual documentation. RPC-814-2 are unable to comprehend humans, and display an acute aversion to moving outside of RPC-814-1. RPC-814-2-A also appears in all photographs depicting humans native to RPC-814-1. Each RPC-814-2 instance exhibited symptoms of schizophrenia, extreme paranoia, and mild psychosis.
+
+**Discovery:** RPC-814 was discovered when Authority webcrawler I/O COLOMBIA had initially detected RPC-814 on an online forum on 6/28/2014. A copy of the website linked from RPC-814 was scrubbed of harmful cognitohazardous properties and reported to Site-015. Over the course of three weeks, a set of 18 webcrawlers designed specifically to target RPC-814 manifestations was dispatched into cyberspace. A total of 3 deaths were found to have been directly caused by RPC-814, all of which were within the state of Minnesota.
+
+On 7/13/2014, the source of RPC-814 was traced back to █████, Minnesota, USA. RPC-814-1 was discovered, as well as a minor anomalous phenomenon preventing word of the object from spreading outside of █████. A cover-up operation successfully removed all non-anomalous residents from the area, listing the official reason for evacuation as a chemical leak in the area's plumbing. All citizens were amnesticized.
+
+Attempts to infiltrate RPC-814-1 extended throughout 7/14/2014 to 7/16/2014. See //Addendum 814.1// for more details.
+
+**Addendum 814.1:** RPC-814-1 Infiltration & Exploration Log 814.1
+
+After both entrances to RPC-814-1 were uncovered, Agent Glover was selected to explore the structure's interior. Thermal imaging led to the discovery of RPC-814-2 three days prior.
+
+Agent Glover successfully entered RPC-814-1 on 7/16/2014.
+
+[[collapsible show="[+] Show Exploration Log 814.1" hide="[-] Hide Exploration Log 814.1"]]
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: #1d2126; color: #fff; border-left: #fff 10px solid;"]]
+
+= **Exploration Log 814.1**
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: transparent; color: #fff;"]]
+
+**Date:** 7/16/2014
+
+**Infiltrator:** Agent Glover
+
+[[/div]]
+
+<Begin Log>
+
+**Glover:** Alright. //Phew.// Got in. That was harder than I thought. I don't know. Okay. I think this is the living room
+
+//[15 second pause.]//
+
+**Glover:** Hello? Command?
+
+//[4 second pause.]//
+
+**Glover:** Shit. Fuck. Uh, Command? Come in.
+
+//[6 second pause.]//
+
+**Glover:** God. Okay. Command isn't coming in and I don't have enough energy to try and leave... The outside is... Do you see that? The outside is pitch black. The windows must be anomalous. Okay.
+
+//[Glover unsheathes his firearm and points of forward. He takes a deep breath and begins moving.]//
+
+**Glover:** //[shouting]// This is the police! Put your hands up and get on the ground!
+
+//[Glover runs over to the dinner table. All 6 RPC-814-2 instances are sitting and eating charbroiled hamburger patties. RPC-814-2/5 is resting its head against the table.]//
+
+**Glover:** //[shouting]// Hey! Hands up! This is an arrest!
+
+//[No reponse. Glover approaches RPC-814-2/3, which is sitting at the far left end of the table.]//
+
+**Glover:** //[panting]// They can't-- hello?!
+
+//[Glover reaches to touch RPC-814-2/3's head. His hand phases through it instead. Glover gasps.]//
+
+**Glover:** They... They can't hear me, can they? //[shouting]// Hello?!
+
+//[Silence for 2 minutes. The RPC-814-2 continue eating.]//
+
+**Glover:** Alright. They cannot seem to comprehend my presence. My hand goes right through 'em. Like ghosts. Felt like my fingers were asleep.
+
+**RPC-814-2/4:** How was your day.
+
+//[None of the other instances respond.]//
+
+**RPC-814-2/4:** The website was taken down.
+
+//[No response. RPC-814-2/4 pounds its hand on the table, causing the remaining instances to jerk up and turn towards it]//
+
+**RPC-814-2/4:** First Caleb fucking ignored me and runs up. Little bitches! I've told you they're real. They're real. They found us and they took--
+
+**RPC-814-2/3:** H-Honey, please, calm down!
+
+**RPC-814-2/4:** Shut up! They're here! The website was taken down!
+
+//[RPC-814-2/2 runs from the table. RPC-814-2/6 follows.]//
+
+**RPC-814-2/3:** Stop it. They're not real, Bob. Stop! You're in over your head! //Stop!//
+
+**RPC-814-2/4:** Oh, don't give me //that//. They're real. They're //real!// You've seen the police outside! They're real! I'm right and you know it!
+
+**RPC-814-2/3:** Hon, t-that's behind us now. I just want to have a normal family again. Please.
+
+**RPC-814-2/4:** Look at what they did to the kids, Glenda. Look at them. I'm right.
+
+**RPC-814-2/3:** The website killed three people!
+
+**RPC-814-2/4:** And they were all glow-niggers[[footnote]] May be in reference to the FBI or CIA. [[/footnote]]! I'm right! Look what they did to our kids!
+ 
+**RPC-814-2/3:** Honey, please calm down!
+
+**RPC-814-2/4:** I'm //right!//
+
+[Several minutes pass. RPC-814-2/3 slams both fists on the table and runs upstairs]
+
+**RPC-814-2/4:** //Caleb!// Get your fucking ass down here and eat your dinner!
+
+[Fifteen seconds pass. RPC-814-2/3 begins to sob. RPC-814-2/5 remains motionless]
+
+**Glover:** Jesus. Um, okay. I'm gonna go follow the two little ones that ran.
+
+[[include component:image-block
+name=light.png|
+caption=The stairway. Spatial phenomena around lights and doors.]]
+
+//[Glover walks over to the stairway. There are two doors either side of it. Glover enters the left door. Inside, RPC-814-2/6 and RPC-814-2/2 are sitting on the ground playing a video game on a television set. They are both sitting against a bunk bed.]//
+
+//[Glover exits the room and proceeds upstairs. He pans the camera towards the dinner table; only RPC-814-2/5 remains. The stairway leads to a hall. The door at the end has been opened slightly. Glover proceeds.]//
+
+//[RPC-814-2/4 is seen sitting at a desk facing a computer. It can be heard quietly mumbling to itself. The floor is littered with wrinkled papers and Polaroid photographs. Agent Glover picks up one of said photographs. It shows a police car driving on the street outside of RPC-814-1, facing east. Another photograph shows a local pharmacy.]//
+
+**RPC-814-2/4:** Took the website down. Fucking glow-niggers. God damn it, Cooper! Had to fuck with a glow-nigger, you //bastard!//
+
+**Glover:** Jesus. I'll just take a few of--
+
+//[Glover pauses. He then displays a photo of PoI-744893928[[footnote]] Cooper Kelly, a fugitive known to have worked with GEAR in his past. Defected from the Authority in 1997. [[/footnote]].]//
+
+**Glover:** I got something. I remember this fucker from '99. I think we got a lead.
+
+//[He stores the photographs in his pocket and exits the room.]//
+
+//[Glover travels to the laundry room. RPC-814-2/3 appears to be passed out on top of one of the laundry machines. Agent Glover comes to an abrupt stop, and pans the camera down to his feet. A deceased cat is lying on the floor behind RPC-814-2/3. The condition of its body suggests severe malnutrition. Glover then swiftly turns around and leans against the wall, coughing.]//
+
+**Glover:** Fuck. //Fuck.//
+
+//[Silence for 4 seconds. RPC-814-2/4 can be heard screaming hysterically upstairs.]//
+
+**Glover:** Okay. Cooper. //Fuck//-- uh, Cooper's got something to do with this. Send a team in here and extract all data from the dad's computer. I'm done here. I need to get out of here before I lose my //god damn// marbles.
+
+<End Log>
+
+[[/div]]
+
+Agent Glover was able to successfully exit RPC-814-1 on 7/17/2014.
+
+[[/collapsible]]
+
+**Addendum 814.2:** MST Uniform-7 ("The Vipers") arrived at OL-Site-814[[footnote]] A small, temporary outpost set up on the block across from RPC-814-1. [[/footnote]] on 7/18/2014. The photographs and documents recovered by Agent Glover were given to U7-Cap for examination. After a meeting took place it was decided that the pharmacy, called //The █████ Drugstore//, would be raided by Uniform-7. It was later discovered by the on-site Research team that the owner of the establishment, Todora Merlo, did not exist in any of the Intelligence Department's records. Transactions to an unknown entity were also uncovered.
+
+MST Uniform-7 surrounded The █████ Drugstore at 7:34 EST the same day. As U7-2 and 5 were about to break the door down, it swung open. A Caucasian male, approximately 30 years of age, manifested before the team. He identified himself as an unnamed operative deployed by Omega Iota[[footnote]] An anomalous conglomeration of corporations specializing in supernatural sciences and business operations controlled by a centralized, oligarchical council. [[/footnote]] and invited MST Uniform-7 into the store. Nothing of interest was recovered. The operative was restrained by Uniform-7 and escorted to OL-Site-814 for questioning.
+
+[[collapsible show="[+] Show Audio Log 814.63 (L4 CLEARANCE REQUIRED)" hide="[-] Hide Audio Log 814.63 (ACCESS GRANTED)"]]
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: #1d2126; color: #fff; border-left: #fff 10px solid;"]]
+
+= **Conference Transcript 28371-814**
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: transparent; color: #fff;"]]
+
+**Date:** 7/18/2014
+
+**Attendees:**
+* Researcher Branden ([[[Site-015]]], Research Division)
+* Dr. Lucas Ranger (Site-917, Research Division)
+* Arthur Bennett (Omega Iota Representative)
+
+[[/div]]
+
+<TRANSCRIPT BEGIN>
+
+**Arthur:** I apologize for the inconvenience, gentlemen. It seems our equipment has eluded us.
+
+**Ranger:** What's your business here.
+
+**Arthur:** The same reason you've come. I presume you are aware of the thing underneath that house?
+
+**Branden:** What "thing?"
+
+**Arthur:** A memotophysical parasite. It seems to have been attracted to Cooper's scent. See, Bob came to one of our fronts last June. The drugstore is owned by Mirage Incorporated.
+
+**Branden:** One of your dummy companies, I presume.
+
+**Arthur:** //[grins]// Very good.
+
+**Ranger:** Don't get cocky. You're in deep shit.
+
+**Arthur:** I am aware. If not for your forces showing up we would have been forced to deploy a Tracer Unit. We know how much the UNAAC hates when we do that, so you're here, hmm?
+
+**Branden:** No. We located the house after Bob started airing advertisements to his website on the internet.
+
+**Ranger:** Three people died, Arthur. And you're saying Omega Iota controlled this... parasite?
+
+**Arthur:** A remnant of one of our surveillance programs, Mr. Ranger.
+
+**Ranger:** //Doctor// Ranger.
+
+**Arthur:** No need for formalities. Lucky for you we have made sure to censor any news of the hazard coming from town. I'm sure you have found out about that as well. //[Arthur leans against the table.]// We took good care of it.
+
+**Branden:** A Tracer Unit would not be in our best interest. Thanks for the help.
+
+**Ranger:** //Thanks?// Arthur, I've been following Omega Iota's tracks since 1985. We //know// about the Bauhaus Project.
+
+**Branden:** Excuse me?
+
+**Ranger:** They used parasitic architectural anomalies to brainwash the public. They decided to take it out of Africa when the UNAAC stepped in. Went quiet. Now I know why.
+
+**Arthur:** The Bauhaus Project was in //your// interests, Lucas. With the creation of the world wide web we found it necessary to block the supernatural world from the public's minds entirely.
+
+**Ranger:** [http://www.rpc-wiki.net/rpc-131 Physical quanta] are fragile. You can't just //bend// them like that!
+
+**Arthur:** The memetic veil would have been impossible to broadcast without an appropriate ground. Our employment of transmutable architecture was a sound way to keep the grounds hidden in plain sight. Now, I do admit this breach was our fault-- but Cooper should have known better than to leave his footprints all over our documents.
+
+**Branden:** You're saying Cooper Kelly caused this?
+
+**Arthur:** He was certainly a contributing factor. We mean no harm, doctor; this was all just a simple mistake. If not for Cooper's meddling this would have never happened.
+
+//[Silence.]//
+
+**Arthur:** You're looking for him, //too//, aren't you?
+
+**Ranger:** Just tell us what you can do.
+
+**Arthur:** We can give you your fugitive. We can lead him right to your task forces. And-- and this is just a recommendation-- I would kill off the family. They have been reduced to spirits. Insert [REDACTED] into their water supply, and they'll be gone.
+
+**Ranger:** As for the parasite?
+
+**Arthur:** The heart is usually located in the attic. Rip it from the ceiling and it will die.
+
+**Branden:** Thank you, Arthur. We'll contact the Operations Department immediately and make a neutralization request.
+
+**Ranger:** It had better work.
+
+**Arthur:** You've nothing to worry about. //[Arthur checks his watch]// I am late for the company luncheon. Mirage Inc. will send you financial compensation once the task is done. Think of this as an... //apology gift//.
+
+//[Arthur demanifests.]//
+
+<TRANSCRIPT END>
+
+[[/div]]
+
+[[/collapsible]]
+
+**Addendum 814.3:** Neutralization
+
+A neutralization request was filed for RPC-814-1 and RPC-814-2 on 7/18/2014. It was accepted by the Operations Department on 7/19/2014 due to the anomaly's immense threat to national normalcy. █████'s water supply was contaminated with [REDACTED] the next day. Thermal imaging technology confirmed the deaths of RPC-814-2. Signs of destabilization were observed within RPC-814-1. At 6:30 EST, MST Uniform-7 was tasked with infiltrating RPC-814-1 and neutralizing a newly discovered anomaly (RPC-814-3) within its attic. Doing so would eliminate RPC-814-1's anomalous properties.
+
+[[collapsible show="[+] Neutralization Log 814" hide="[-] Neutralization Log 814"]]
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: #1d2126; color: #fff; border-left: #fff 10px solid;"]]
+
+= **Neutralization Log 814**
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: transparent; color: #fff;"]]
+
+**Date:** 7/20/2014
+
+**Team:** MST Uniform-7 ("The Vipers")
+
+**Members:** U7-Cap, U7-2, U7-3, U7-4, U7-5
+
+[[/div]]
+
+<Begin Log>
+
+**U7-Cap**: Gear in check?
+
+**U7-3:** Yeah.
+
+**U7-2:** Good.
+
+**U7-5:** We're all good.
+
+**U7-Cap:** Right, lemme just... Command's out. We've been cut off from the outside world, gentlemen.
+
+**U7-4:** Shit.
+
+**U7-2:** Just make it quick, guys.
+
+**U7-Cap:** Exactly, we'll be out in no time. Ranger said the heart's above us, in the attic. Jerry, Tanner-- Research told us to check the dinner room.
+
+**U7-4:** Yes sir.
+
+//[U7-4 and U7-2 turn the corner and come to a sudden stop.]//
+
+**U7-2:** Charlie, uh, we got a situation.
+
+//[The rest of the team walks up behind them. There is a swirling black mass above the table. U7-4 diverts his gaze.]//
+
+**U7-3:** Should we approach? What did they even //put// in that shit?
+
+**U7-Cap:** [http://www.rpc-wiki.net/rpc-438  Classified]. Come on, men, we're going upstairs.
+
+//[The team turns around and makes their way up the staircase. As they approach the corner, the footage distorts, and each unit can be heard screaming and crashing into the floor. Once the feed is recovered, it appears as if the house's geometry has flipped upside-down, as the team is now lying on the roof.]//
+
+**U7-3:** //Fuck// was that?!
+
+**U7-4:** I don't get paid enough for this shit.
+
+**U7-Cap:** Calm down. Ugh, fuck-- what the... Shit. The stairs are above us.
+
+**U7-2:** Okay, so the house flipped. Big deal. Can we just get on with it, please?
+
+**U7-Cap:** Affirmative. Keep your eyes forward.
+
+//[Uniform-7 descends further down the stairway. The entrance to the hallway is absent. The staircase only extends further.]//
+
+**U7-4:** //Big deal,// eh?
+
+**U7-5:** A stretchway[[footnote]] "A Mobilized Specialized Teams Registry (MST) slang term for an area of low-Coherency in which space is "stretched," causing nearby objects to become suddenly out of reach." -- [[[Lexicon Auctoritas]]] [[/footnote]], you think?
+
+**U7-2:** Sure as hell looks like it.
+
+//[Uniform-7 continues to descend for 10 minutes. At 7 minutes, three units begin to breathe heavily.]//
+
+**U7-3:** Charlie, this... //[exhales]// It's gettin' hot, man.
+
+**U7-Cap:** You think I don't know that?
+
+**U7-2:** How far down are we?
+
+**U7-5:** Uhh... Says here we're on the first level.
+
+**U7-4:** Destabilization. Amazing. Keller, check the coherency.
+
+**U7-3:** 3.07.
+
+**U7-4:** //Amazing//.
+
+//[6 minutes cut for brevity.]//
+
+**U7-3:** Alright. No. Can't do this no more, cap.
+
+**U7-5:** I'm about to pass out.
+
+**U7-Cap:** Keep pushing.
+
+**U7-4:** We've been descending for half an hour. I'm going up.
+
+**U7-5:** Me too.
+
+**U7-3:** Cap, this shit doesn't end. It's a stretchway.
+
+**U7-Cap:** Fine. Team, we're going back.
+
+**U7-5:** Thank the //lord//!
+
+//[MST Uniform-7 turns around. They traverse the stairway for 2 minutes until U7-4 bumps into a wooden hatch as he rounds a corner.]//
+
+**U7-4:** The hell?
+
+**U7-5:** A trapdoor?
+
+**U7-Cap:** This just keeps getting better and better.
+
+//[U7-4 pushes the hatch open. Uniform-7 climbs out of the hole, finding themselves amidst what appears to be a suburban neighborhood. All cars and houses are made out of asphalt. No animal or plant life is present. The architecture of said houses is indicative of those built in the 1920s.]//
+
+**U7-3:** Oh god.
+
+**U7-4:** Check the coherency.
+
+**U7-5:** It hasn't changed. The air feels weird.
+
+**U7-Cap:** Agreed. I... I don't know what to do.
+
+**U7-2:** I--
+
+**U7-5:** Scope out the area. Stay together and explore the houses. If we're still inside, it's bound to be here.
+
+**U7-3:** Yeah?! How the fuck do you know that!
+
+**U7-5:** I don't. I just know we've gotten outta //far// worse. Remember the twister[[footnote]] RPC-████-A [[/footnote]]?
+
+**U7-3:** Yeah.
+
+**U7-5:** We were stuck in that thing for a week. We have enough rations to last us four, and if we're out for over 60 hours, Command'll send more boys to demolish the place.
+
+//[The team approaches one of the houses. U7-4 pushes the door open. The structure is hollow.]//
+
+**U7-2:** So they're just, like, shells?
+
+**U7-4:** Looks like it. We--
+
+//[The structure begins to tremble. U7-4 and U7-2 run back as it tumbles down.]//
+
+**U7-Cap:** Jesus.
+
+**U7-2:** //[panting]// It's all fake. Built up like, uh... blocks.
+
+**U7-4:** Slightest push sends 'em crashing down.
+
+**U7-2:** Right. Like jenga.
+
+//[Next 40 minutes cut for brevity.]//
+
+**U7-3:** There's gotta be //something// here!
+
+**U7-Cap:** //[with mouth full]// Relax, Springer. Eat. We'll get going in an hour.
+
+**U7-2:** So uh... Jerry.
+
+**U7-4:** Hm?
+
+**U7-2:** How's the wife?
+
+**U7-4:** Good. You?
+
+**U7-2:** I don't-- I'm not married.
+
+**U7-4:** Oh.
+
+**U7-5:** The temperature has been at 98.6 degrees Fahrenheit since we got here. It's showing no signs of changing. There's no wind, no clouds in the sky-- I think... Charlie, I think we're still in the house?
+
+**U7-Cap:** Oh really? //[swallows food]// What made 'ya think that, Einstein?
+
+**U7-4:** Stretchways can't go on forever. The anomaly is sentient, so it must run out of energy eventually. There's bound to be an end somewhere.
+
+**U7-3:** Yeah, but for how long?
+
+**U7-5:** If it's alive, not for long. That's assuming this thing needs to eat, shit, sleep... But the numbers are too vague, guys. We'll never know.
+
+//[U7-2 wipes his mouth and taps his feet against the ground rhythmically.]//
+
+**U7-Cap:** Well it sure isn't good to lose hope. All we know is that it's sentient, and by the files, it looks like there's a way of killing it.
+
+**U7-3:** How do we know for sure?
+
+**U7-Cap:** We take their word for it.
+
+**U7-3:** Bullshit. We--
+
+//[A black tendril bursts from the ground and wraps around U7-2's leg. He screams as it is pulled into a hole. U7-3 and U7-4 rush over to him and grab him by the shoulders, preventing him from being dragged down further.]//
+
+**U7-2:** //God dammit!// Shut up for a sec, help me out here!
+
+**U7-Cap:** Fuck fuck fuck fuck fuck fuck-- shoot it! Shoot it!
+
+//[U7-3 hastily unsheathes his handgun and shoots the tentacle. The bullet severs it from the body, and it unravels from U7-2's leg. It squirms around for a few moments before falling limp. U7-2 removes his leg from the hole and holds it. His protective suit has been breached.]//
+
+**U7-2:** //Hhnnrrrrg!// It got me good.
+
+//[U7-4 begins to bandage U7-2's wounds.]//
+
+**U7-5:** Hope //that// answered your question
+
+**U7-Cap:** We found our bugger. Men, weapons out!
+
+//[The sky turns to a deep red hue.]//
+
+**U7-3:** That can't be good.
+
+**U7-2:** I'm good, I'm-- //[U7-2 stands up hesitantly]// I can do this.
+
+**U7-4:** Let's hope so.
+
+//[A head surfaces from the hole. It has no eyes or nose, with completely black skin. Its mouth covers most of its face. It turns towards U7-3 and screams.]//
+
+//[All units collectively shoot at it. The entity unearths itself, revealing itself to be an obese humanoid measuring at least 2 meters tall. It continues to scream before lunging at U7-3.]//
+
+**U7-3:** //[incomprehensible screaming]//
+
+//[U7-4 wraps his arm around the entity's neck and lifts it off of U7-3, pinning it against the ground. U7-Cap presses the muzzle of his rifle to its heads and fires several times.]//
+
+**U7-2:** The heart! Get the heart!
+
+//[The horizon stretches and distorts. The ground becomes uneven. The entity pushes U7-4 off of it and bites into U7-Cap's shoulder.]//
+
+**U7-Cap:** //[shouting]// God-- fuck!
+
+//[The ground begins to even out as the entity expands in size. U7-2 fires a single shot, hitting it on the shoulder and sending it flying back. U7-Cap jogs away and takes off his helmet. He vomits a dark substance.]//
+
+//[U7-4 runs over to the entity and punches it in the jaw. He stabs his dagger into its chest and cuts a vertical opening through its torso. Its intestines spill out. The entity begins to spasm. U7-4 reaches inside its chest and squeezes his fist.]//
+
+//[Footage corrupted for 4 minutes.]//
+
+//[MST Uniform-7 manifests outside of RPC-814-1. Its anomalous properties have ceased.]//
+
+<End Log>
+
+[[/div]]
+
+Mario Adams was treated for a snapped tendon. Captain Charlie Mays regained his memory of his time in the Authority three days later. RPC-814 was officially pronounced neutralized on 7/24/2014.
+
+[[/collapsible]]
+
+**Addendum 814.4:** Interview Log 744893928.4
+
+[[collapsible show="[+] Interview Log 744893928.4" hide="[-] Interview Log 744893928.4"]]
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: #1d2126; color: #fff; border-left: #fff 10px solid;"]]
+
+= **Interview Log 744893928.4**
+
+[[div style="margin: 10px; padding: 10px; border: #fff 1px dotted; background: transparent; color: #fff;"]]
+
+**Interviewed:** PoI-744893928 ("Cooper Kelly")
+
+**Interviewer:** Researcher Branden
+
+**Foreword:** On 7/22/2014, PoI-744893928 ("Cooper Kelly") was spotted near The █████ Drugstore's entrance. Records indicate he made several calls to RPC-814-1's address asking about the condition of his brother, Bob Kelly. ASF personnel surrounded PoI-744893928 before he withdrew a Glock 17 and pointed it at the nearest opponent. After 5 minutes, ASF personnel were able to subdue and arrest PoI-744893928. The gun was later found to contain no ammunition.
+
+[[/div]]
+
+<Begin Log>
+
+**Branden:** We're set. How are you doing today, Cooper?
+
+**PoI-744893928:** //[unresponsive]//
+
+**Branden:** Right. We would appreciate if you could cooperate, Cooper. You--
+
+**PoI-744893928:** You've really stooped //that// low.
+
+**Branden:** How do you mean?
+
+//[PoI-744893928 looks up at Researcher Branden and spits on his glasses. Branden removes them and wipes them clean with the collar of his coat.]//
+
+**PoI-744893928:** First [REDACTED]. Now you hit up Three Eyes[[footnote]] Common slang for Omega Iota. [[/footnote]]. What'd you do to Bob?
+
+**Branden:** The Kelly family's fate is not our responsibility.
+
+**PoI-744893928:** Are they alive?!
+
+**Branden:** No.
+
+//[PoI-744893928 slouches in his chair, covering his face.]//
+
+**Branden:** I'm sorry.
+
+**PoI-744893928:** Damn you. Damn you to hell.
+
+**Branden:** What is your affiliation with Omega Iota?
+
+**PoI-744893928:** None of your concern.
+
+**Branden:** Your family died as a result of your meddling within their resources. They were killed by an infohazardous parasite which inserted itself into their dwelling's architecture. Does that sound familiar to you?
+
+**PoI-744893928:** //[unresponsive]//
+
+**Branden:** It's not your fault.
+
+**PoI-744893928:** I worked for GEAR for four years after I left. My team was stationed at a facility in Vietnam, back in 1994. I just didn't... didn't think //they'd// show up.
+
+**Branden:** Omega Iota?
+
+**PoI-744893928:** Wry bitches sent something after us. Like your men, but... //bigger//. So me and my boys, well, we revolted. GEAR was on the verge of calling the UNAAC about them peddling //god knows what// through our jurisdiction-- b-but //Bob//...
+
+//[PoI-744893928 looks at Researcher Branden.]//
+
+**PoI-744893928:** You fuckers should know what you're dealing with.
+
+**Branden:** We know. But our-- //[Researcher Branden rubs his forehead and sighs.]// It's difficult for me to put it into words.
+
+**PoI-744893928:** Because you'd be snuffed out by the Board, huh?
+
+**Branden:** I am legally required to deny that.
+
+**PoI-744893928:** Bullshit!
+
+//[PoI-744893928 slams his fists against the table. There is a moment of silence before he begins crying.]//
+
+**Branden:** It isn't your fault, Cooper.
+
+**PoI-744893928:** //Bullshit//! Stop trying to push that shit in my face! They-- they-- they killed them //all//!
+
+**Branden:** You're in the dark, Cooper. There were circumstances that were completely out of our control-- //your// control. The Leviathan[[footnote]] Another unofficial nickname for Omega Iota. [[/footnote]] admits--
+
+**PoI-744893928:** Oh, cut the crap!
+
+**Branden:** It will be over soon, Cooper.
+
+//[There is a pause.]//
+
+**PoI-744893928:** So I'm becoming a CSD?
+
+**Branden:** No. Let's hope it doesn't come to that. Your memory will be wiped, and you will forget about the supernatural. Your life will be back to normal before you know it and, when you wake up in bed tomorrow, Bob and his family will have died in a house fire.
+
+**PoI-744893928:** They, they abduct citizens, doctor. They lurk in the dark, making deals with anyone who's foolish enough to--
+
+**Branden:** I think I've heard enough. This is Research--
+
+**PoI-744893928:** //Shut up//! They have the power to snuff out any rival, and dissident, they-- they--
+
+**Branden:** This is Researcher Branden. We're done here.
+
+**PoI-744893928:** They're in your mind--!
+
+<End Log>
+
+[[/div]]
+
+[[/collapsible]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[div class="red"]]
+[[collapsible show="ENTER CREDENTIALS" hide="ACCESS GRANTED"]]
+[[div class="content-panel"]]
+[[=]]
+**Transcript of Black Site Internal Intelligence Council meeting "Responding to the Minnesota Crisis"**
+**[Identity of Council Members are obscured]**
+//Attending Guest: Arthur Bennett of Omega Iota//
+[[/=]]
+> **[BEGIN TRANSCRIPT]**
+> 
+> **A**: We have ten minutes. So nice of you to join us, Arthur.
+> 
+> **Arthur:** The pleasure is mine. Let us get started: Omega Iota holds responsibility for the parasite's breach. Transporting assets is tedious, as you know, and the timing of its little fit was unpredictable. However, if not for Cooper Kelly, this would have never happened.
+> 
+> **B:** Yeah. Arthur, I'm sure you'd rather not discuss the elephant in the room here, but our men have mapped over three hundred miles under Minnesota. This is not an isolated case.
+> 
+> **C:** //Over three hundred miles//, Arthur! Care to explain this?
+> 
+> **Arthur:** The parasite fed on the Kelly family's remains, yes? These creatures' mating habits are defined by their appetite. In short; the more they eat, the more they duplicate. You're lucky only one was noticed by the Divisions otherwise, well, I'm //sure// GD-ANTC would have been far from pleased.
+> 
+> **A:** Is there an official name for these "parasites"?
+> 
+> **Arthur:** DA1839, but we called them "parasitus fabrica". You already know why they were created.
+> 
+> **C:** But with the ability to reproduce?
+> 
+> **Arthur:** These are not robots, sir. We cannot simply create a physical infovore from scratch. And some adjustments just couldn't be made without sacrificing its drive for survival. And you must understand, gentlemen-- they broke from our will. When it caught Cooper's scent in their territory, it escaped from our grasp.
+> 
+> **B:** We can't trust your handling of this crisis any longer, Arthur. Omega Iota's judgement is unsound. Therefore, we are relieving your jurisdiction over the anomalous organisms underneath Minnesota.
+> 
+> **A:** I hope you understand.
+> 
+> **Arthur:** Perfectly fine by us. But if you, by chance, require some assistance, give us a call.
+> 
+> **A:** That will not be necessary.
+> 
+> **[END TRANSCRIPT]**
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[footnoteblock]]
+
+----
+
+[[include component:rate]]
+
+[[=]]
+<< [[[RPC-813]]] | RPC-814 | [[[RPC-815]]] >>
+[[/=]]
+

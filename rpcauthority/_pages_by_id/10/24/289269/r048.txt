@@ -1,0 +1,360 @@
+---
+title: "Nucorp Industries Theme"
+tags: ["theme"]
+page_id: "1024289269"
+site: "rpcauthority"
+slug: "component:nucorp-industries-theme"
+revision: 48
+revision_id: "1523155220"
+author: 5982545
+timestamp: 1721596807
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:nucorp-industries-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600|Raleway|Roboto+Mono');
+
+/*
+    Nucorp Industries Theme (made by Qual; requested by Hellsverg)
+    [2020 Wikidot Theme]
+*/
+
+
+
+/* General */
+
+#header h1 a::before {
+    font-family: 'Exo 2', sans-serif;
+    margin-left: 40px;
+    text-decoration: none;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    font-family: Raleway,sans-serif;
+    margin-left: 40px;
+    font-size: 100%;
+}
+
+h1, h2 {
+    color: #fff;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+    font-family: Raleway,sans-serif;
+}
+
+
+
+/* Links */
+a {
+    font-weight: bold;
+    color: var(--link-color);
+    background: transparent;
+    transition: color 0.5s ease;
+}
+ 
+a.newpage {
+    font-weight: bold;
+    color: var(--new-page-color);
+    background: transparent;
+}
+ 
+a:hover {
+    font-weight: bold;
+    color: var(--link-hover-color);
+    background-color: transparent;
+}
+
+#page-content p a, #page-content p a.newpage, #page-content p a:hover {
+    text-decoration: underline;
+}
+
+/* (Variables to make other pts. of the highlight hover show up) */
+.collapsible-block a, #toc a {
+    text-decoration: underline;
+}
+
+.footnotes-footer a {
+    text-decoration: none;
+}
+
+#page-content p a.footnoteref {
+    text-decoration: none;
+}
+
+
+/* Tabveiw */
+
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    border-left: var(--basic-border);
+    border-top: var(--basic-border);
+    border-right: var(--basic-border);
+}
+
+
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    padding: 0px 0 0;
+}
+
+.yui-nav li {
+    min-height: none;
+}
+
+.sideTabview .yui-nav {
+    border-right: var(--basic-border)!important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+
+
+/* Border Section */
+
+#search-top-box-input, #search-top-box-form input[type=submit], #top-bar .search-button a {
+    border: 1px solid #b2b2b2;
+}
+
+#top-bar ul li ul {
+    border-color: #969696;
+}
+
+
+
+/* Panel Border Section */
+
+.header-panel {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+    border-top: var(--basic-border);
+
+    border-bottom: none;
+}
+
+.footer-panel {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+    border-bottom: var(--basic-border);
+
+    border-top: none;
+}
+
+.body-panel {
+    border: var(--basic-border);
+}
+
+
+
+/* News Block Border Section */
+
+.header-panel .news-block {
+    border: var(--basic-border);
+}
+
+.footer-panel .news-block {
+    border: var(--basic-border);
+}
+
+.news-block .body-panel:nth-child(even) {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+
+    border-top: none;
+    border-bottom: none;
+}
+
+
+
+/* Miscellaneous */
+
+hr {
+    background: #969696;
+    border-bottom: #666;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+td.cellStyle {
+    border-left: var(--basic-border);
+    border-right: var(--basic-border);
+}
+.sidenoteI {
+    padding: 0px;
+    border: var(--basic-border);
+}
+
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        color: #fff!important;
+    }
+}
+
+:root {
+
+    --primary-background: #32353b;
+    --nav-hover-background: #32353b;
+    --content-bar-background: #202226;
+
+
+    --text-color: #ccc;
+    --body-background: #171717;
+    --primary-text-color: #fff;
+    --font-family: Montserrat, sans-serif;
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: tato, sans-serif;
+    --header-custom-text: 'Nucorp Industries';
+    --header-tagline-custom-text: 'The Future At Your Doorstep.';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Anucorp-industries-theme/NuCorp_Logo.png); size: 150%;
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anucorp-industries-theme/NuCorp_Header.png);
+    --header-tagline-color: #ccc;
+    --header-tagline-top: 15px;
+
+    --link-color: #c0cecf;
+    --link-hover-color: #ffffff;
+    --new-page-color: #969696; 
+    --button-border: 1px solid #ffffff;
+    --button-background: #32353b;
+    --button-hover-border: 1px solid #fff;
+    --button-hover-background: #171717;
+ 
+    --search-button-background: #32353b;
+    --search-button-hover-background: #171717;
+    --search-input-color: #32353b;
+    --search-input-hover: #171717;
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: #32353b;
+    --topbar-hover-background: #202226;
+    --topbar-divider: 1px solid #969696;
+    --topbar-dropdown-border-color: #fff;
+ 
+    --news-block-body-panel-background-even: #2d2d33;
+ 
+    --sidebar-crit-corner-color: var(--link-color);
+    --star-rating-hue: -40deg;
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #ccc;
+ 
+    --template-block-background: #1a1414;
+    
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid #969696;
+    --tabview-button-selected-background: #969696;
+    --tabview-button-selected-color: #fff;
+    --tabview-button-hover-background: #7a7a7a;
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-tabs-box-shadow: 1px 0 1px 1px var(--content-box-shadow-color);
+    --tabview-side-box-shadow: var(--content-box-shadow);
+    --tabview-side-border: var(--basic-border);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: #969696;
+    --tabview-side-button-divider: 1px solid var(--tabview-side-button-selected-background);
+
+    --basic-border: 1px solid #969696;
+
+    --owindow-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --account-options-border: 1px solid #b2b2b2;
+    --tags-border: var(--basic-border);
+    --topbar-dropdown-border-color: var(--basic-border-color);
+    --toc-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --blockquote-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --tabview-border: var(--basic-border);
+    --table-border: var(--basic-border);
+    --template-block-border: var(--basic-border);
+
+    --sidenote-open-background: #969696;
+    --sidenote-contents-border: var(--basic-border);
+    --sidenote-figure-border: var(--basic-border);
+
+    --BT-resizer-background: #2d2d33;
+    --BT-scrollbar-thumb-background: #969696;
+    --BT-scrollbar-thumb-hover-background: #c0cecf;
+
+    --tabview-side-scrollbar-background: 32353b;
+    --tabview-side-scrollbar-thumb-background: #969696;
+    --tabview-side-scrollbar-thumb-hover-background: #c0cecf;
+
+
+}
+ 
+
+#printuser {
+    color: #32353b;
+    background-color:transparent;
+}
+
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #fff;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+#login-status a {
+    color: #c0cecf;
+    
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+#account-options li a:hover {
+    color: #fff;
+    background: #202226;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #fff;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: var(--text-color);
+}
+
+ 
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:nucorp-industries-theme/code/1); @@
+> @@ [[/module]] @@
+

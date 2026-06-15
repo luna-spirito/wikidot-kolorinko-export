@@ -1,0 +1,223 @@
+---
+title: "RPC-306"
+tags: []
+page_id: "1046966760"
+site: "rpcauthority"
+slug: "fragment:thelid-2"
+revision: 28
+revision_id: "1356699824"
+author: 3672751
+timestamp: 1602560601
+---
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[module CSS]]
+.email2 {
+
+     background: url(http://rpcauthority.wikidot.com/local--files/rpc-465/what.png);
+     background-size: 285px 285px;
+     background-position: center;
+     background-repeat: no-repeat;
+     border: solid 2px #000000;
+     width: 570px;
+     padding: 1px 15px;
+     margin: 10px 10px 10px 40px;
+     box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+[[/module]]
+
+[[=]]
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-climatological.png style="margin-top: 1px; width: 35px;" title="Climatological"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-geological.png style="margin-top: 1px; width: 35px;" title="Geological"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-extreme-temperature.png style="margin-top: 1px; width: 35px;" title="Extreme Temperature"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-contact.png style="margin-top: 1px; width: 35px;" title="Contact"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png style="margin-top: 1px; width: 35px;" title="Ideological"]] 
+|align=center
+|name=http://rpcauthority.wdfiles.com/local--files/fragment%3Athelid-1/lidtop.jpg
+|width=100%
+|caption={{Fig. 1:}} RPC-306 containment area
+]]
+[[/=]]
+
+[[table style="none; width: 100%;"]]
+[[row]]
+[[cell rowspan="2"]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/beta-yellow.png width="50px"]]
+[[/cell]]
+[[cell]]
+[[size 125%]]**Registered Phenomena Code:** 306[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###32547A|**Level 2**##[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**Object Class:** --Alpha-Yellow-- ##7D3C3A|Beta-Yellow##[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###32547A|**Restricted**##[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+[[include component:image-block 
+    name=Slab|
+    caption={{Fig. 2:}} Photo of RPC-306 taken upon discovery|
+    width=300px|
+    align=right
+]]
+
+**Hazards:** Climatological Hazard, Geological Hazard, Extreme Temperature Hazard, Contact Hazard, ##7D3C3A|Ideological Hazard##
+
+**Containment Protocols:** --Given that RPC-306’s origins are currently unknown and its anomalous properties do not have a severe impact on the surrounding towns and villages, only the immediate area surrounding RPC-306 is to be sectioned off-- ##7D3C3A|Given Incident 306-1 and the subsequent changes in RPC-306's effects, the immediate area of RPC-306 is to be walled off to the general public## under the premise of the land being reserved for --wildlife-- preservation ##7D3C3A|of endangered species##. The monument itself is to be researched via robots equipped with self-heating mechanisms, --while the residents of the nearby town of ████████████ are to be questioned in a casual, non-suspicious manner about any information they may know about RPC-306.--
+
+##7D3C3A|The residents of the nearby town of ████████████ are to be covertly surveilled on a daily basis. No mention of RPC-306 to the citizens is permitted. All residents caught trespassing into RPC-306's containment area are to be amnesticized and released back into the village.##
+
+**Description:** RPC-306 is a 3m x 1m x 0.33m rectangular runestone,[[footnote]] An elevated rock with runic inscriptions engraved on one or more of its faces. [[/footnote]] located in the wilderness of Greenland, at latitude ███ longitude ███. The stone itself is made of solid granite and analysis indicates that it has stood in its current location for roughly 1,000 years undisturbed. The runes seem to be of Nordic origin, though the specifics of which clan created it are indiscernible. Perplexingly, at the bottom of RPC-306 is a poem written in English, as opposed to the Nordic runes written across the rest of the stone, of which reads:
+
+> //May thine fields remain bare,//
+> 
+> //And the fruits within slumber in peace,//
+> 
+> //So that order be restored throughout.//
+> 
+> //For what gluttons dost not chaos reign supreme?//
+
+[[include component:image-block 
+    name=Village|
+    caption={{Fig. 3:}} Nearby town of ████████████|
+    width=250px|
+    align=left
+]]
+The temperature surrounding RPC-306 in a circular radius of roughly --1,000 km-- ##7D3C3A|750 km## rests at --7 degrees Celsius-- ##7D3C3A|15 degrees Celsius## below temperatures standard to Greenland year-round. This ring of influence encapsulates several small Greenlandic towns and villages. The anomalous drop in temperature rises exponentially the closer one gets to RPC-306, with the runestone itself often measuring in very close to absolute zero, even during summer months. Despite this, no frost or ice build-up occurs on the stone or the immediate surrounding area, though very little plant life can grow due to the extremely low temperatures.
+
+##7D3C3A|RPC-306 seems to have an alternate effect on the population of the nearby town of ████████████. The citizens of the town have been documented performing unusual actions in the proximity of RPC-306, and have snuck past Authority patrols to do so, as with Incident 306-1. While it is possible for the latter to be a failure on the Authority’s part with regards to Containment, the former seems to be due to an ideological anomaly that affects all residents of the town. Children as young as five years have been recorded partaking in the same activities as adults. This ideological hazard is also responsible for the earlier “discomfort” when presented with evidence of RPC-306’s existence. Affected individuals seem bound to keep RPC-306 a secret, and as such will exhibit extreme signs of distress upon its mentioning. Since the changes in Containment Protocols, questioning the population about RPC-306 has brought in no new information whatsoever on the anomaly.##
+
+[[include component:image-block 
+    name=Fig|
+    caption={{Fig. 4:}} PoI-306-66|
+    width=200px|
+    align=right
+]]
+
+**Discovery:** RPC-306 was discovered in winter of 1971 when archaeologists within the Authority went on a recreational hike through the wilderness of Greenland. Authority agents were swiftly called in to section off the area upon the death of one of the aforementioned archaeologists due to RPC-306-inflicted frostbite. Since its discovery, RPC-306 has remained in its original location, untouched and unmoving. The runestone's anomalous properties with regards to temperature have mysteriously increased in strength and range tenfold since new containment protocols were implemented in early 2000.
+
+##7D3C3A|Given Incident 306-1, and the consequent messages from Head Researcher Gilligan, Agent Kessler and Site Director Marshalssön, plans are being made to relocate RPC-306 to Site-016 for further study, This is to ensure stronger security measures can be put into effect in order to control RPC-306's ideological properties. A robot with the capability to lift RPC-306 and move it to Site-016 is currently being developed by Containment's Engineering Component. The relocation process is expected to take place December 7, ████.##
+
+**Addendum 306.1:** Incident 306-1
+
+//NOTE: The following is taken from surveillance footage of RPC-306's containment area.//
+
+> [[=]]
+> **VIDEO LOG**
+> 
+> ------
+> 
+> || **00:00 – 00:59** ||
+> 
+> [[/=]]
+> 
+> {{**Camera 1:**}} **[** //It is night. Camera feed shows a faint outline of RPC-306 in the darkness for fifteen seconds// **]**
+> 
+> **[** //A shadowy figure appears on the footage. The person can be made out to be carrying a bag and a large, tubular item, later identified as a rug. The figure falls to both knees, laying the rug out, and pulling out four candles from the bag, placing them on each corner of the tapestry and lighting them. The light illuminates the person’s form, identifying them as PoI-306-66. He prostrates himself towards RPC-306.// **]**
+> 
+> {{**PoI-306-66:**}} Guide us, o lord. Help us see the error in the ways of our ancestors.
+> 
+> **[** //PoI-306-66 sits up and produces an ornamented metal tray and several fruits and vegetables from the bag, possibly stolen from the village farm. He lays the tray out in front of him, with all the fruits placed on top neatly.// **]**
+> 
+> {{**PoI-306-66:**}} Mired in gluttony, bathed in avarice.
+> 
+> **[** //PoI-306-66 pulls out a pocket knife, holding it up to his hand.// **]**
+> 
+> {{**PoI-306-66:**}} Their foolishness guided their undoing.
+> 
+> **[** //He pierces his skin, blood dripping onto the fruits. PoI-306-66 winces in pain before continuing.// **]**
+> 
+> {{**PoI-306-66:**}} May we eternally atone.
+> 
+> **[** //He picks up the lighter previously used to light the candles. He ignites it.// **]**
+> 
+> {{**PoI-306-66:**}} And if the world succumbs as well–
+> 
+> **[** //PoI-306-66 lights the food on fire.// **]**
+> 
+> {{**PoI-306-66:**}} – may they suffer the same fate.
+> 
+> **[** //At that moment, Camera 1 malfunctions and the feed cuts out.// **]**
+
+**Addendum 306.2:** Transferal Requests
+
+//NOTE: The following are statements unanimously requesting the transportation of RPC-306 from its site of origin to Site-016 from Agent Kessler, Head Researcher Gilligan, and Site Director Marshalssön, correspondingly.//
+
+> I know I’m not in much of a position to change containment policy on a whim, but I think we’ve gotten as much information out of these people as we’re going to get. As much as I hate to complain, this ideological hazard is making my job very hard. We need to evaluate the potential cost of resorting to more brutal, direct methods of getting the info we want out of these people compared to the info itself. We could very well end up breaking some bones over a rock that, for all we know, has no hidden purpose whatsoever.
+> 
+> I’d like to raise the idea of moving RPC-306 away from its current location to be permanently contained in Site-016. I think it’s something a lot of the boys on the team have secretly been thinking about, but have been too shy to bring up directly. Maybe the ideological hazards will dissipate when RPC-306 has been removed from its spot and ████████████ is no longer in the field of influence. We might even do the people there a favor and maybe end a curse that they’ve been suffering under for generations or something.
+> 
+> I mean, I’ve read the stone. What does it know about the ways of the world?
+> 
+> - Kessler
+
+
+> To those who it may concern,
+> 
+> I have been monitoring the analysis of RPC-306 over the past two weeks. It seems that the containment protocols we have established in order to halt the strange ideological hazards that RPC-306 imparts onto the local population has become harder and harder to mitigate. All the people we amnesticize come back days later just as devout as before. On top of that, it seems that the intensity and the range of RPC-306’s temperature effects have been affected by these rituals that they have been performing. RPC-306’s range of influence is smaller, yes, but the intensity of its effects has more than doubled. It is not hard to imagine what the ramifications of this would be were RPC-306’s range of influence were to grow back to its previous levels. We must do all we can to ensure that these rituals are not performed.
+> 
+> What RPC-306 says may just be window-dressing. There may be no true history to this stone, and the rituals it forces the locals to perform may be derived from nothing in particular. In such an exceedingly likely case, I would recommend immediate transferal of the stone to Site-016. I am reminded of a saying: “What dost a stone knoweth about the ways of the world?” I am therefore proceeding with the aforementioned course of action. The transferal to Site-016 will ensure that the stone can be studied in an environment that we can control, as opposed to one that it controls us in.
+> 
+> I have contacted Site Director Victör Marshalssön about containment at Site-016. I am confident he will approve, given the stone itself, aside from these ideological anomalies that may very well abate with distance, is easily contained and dangerous on its own. In the meantime, I want all focus to move to development of a means of transport. The miserable rock itself cannot be moved by any means we have currently at our disposal, but given our capabilities, I find it hard to believe that we could develop a means to accomplish this.
+> 
+> Research. Protection. Containment.
+> - Head Researcher Gilligan
+@@ @@
+[[div class="document"]]
+[[<]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+[[span class="name"]] **Containment of RPC-306 at Site-016** [[/span]]
+[[span class="email"]] <@@vmarshalsson@authority.rpc@@> [[/span]]  [[span class="dateR"]] 3:09 PM [[/span]]
+
+@@ @@
+
+-----
+
+RPC-306 Staff,
+
+I write to inform you of Site-016's desire to contain RPC-306. As previously stated, the anomaly seems to be unstable in its current position and could greatly benefit from being moved to the confines of this committee. This is not to denigrate your work so far, only to offer improvement. I think we will all sleep better at night knowing that damned rock is not pyschologically affecting the residents of any town, regardless of population size.
+
+"What does a rock know about the ways of the world?" This question has crossed my mind several times within the past 24 hours. It makes me question the idea that what is written on a rock is set in stone, pun not intended. As such, I expect no difficulties whatsoever moving RPC-306 to Site-016. In fact, I believe the sooner we move forward with this, the better. Site-016 will provide whatever materials are necessary.
+
+I believe I can count on you all to get the job done.
+@@ @@
+[[>]]
+Victör Marshalssön -
+[[/>]]
+[[>image https://i.imgur.com/zSImwSA.png width="5%"]]
+[[/<]]
+[[/div]]
+
+[[footnoteblock]]
+@@@@
+@@@@
+
+------
+
+[[=]]
+**[ [[size 125%]]{{NOTE: Use the navigation arrows below to view future revisions}}[[/size]] ]**
+[[/=]]
+[[table style="none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 150%]][http://www.rpc-wiki.net/rpc-306 <<][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 150%]][http://www.rpc-wiki.net/rpc-306/offset/2 >>][[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+
+------
+
+@@@@
+@@@@
+

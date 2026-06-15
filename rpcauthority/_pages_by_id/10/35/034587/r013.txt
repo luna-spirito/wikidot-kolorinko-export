@@ -1,0 +1,39 @@
+---
+title: "RPC-749"
+tags: ["alpha", "co-authored", "organic-hazard", "rcpa", "rpc", "runnerup", "sapient-hazard", "toparticle", "yellow"]
+page_id: "1035034587"
+site: "rpcauthority"
+slug: "rpc-749"
+revision: 13
+revision_id: "1386029287"
+author: 4981794
+timestamp: 1635759449
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]Death Is Late To The Party[[/span]]
+
+[[include component:rate
+|one=show
+|runnerup=show
+|stars=none
+|decimal=show
+]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[include component:rate
+|one=show
+|runnerup=show
+|decimal=show
+]]
+
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:jimmydummieautumn-1
+http://www.rpc-wiki.net/fragment:jimmydummieautumn-2
+--]
+@@ @@
+@@ @@
+[[footnoteblock]]
+

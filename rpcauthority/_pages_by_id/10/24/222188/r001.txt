@@ -1,0 +1,112 @@
+---
+title: "_most Recently Created"
+tags: []
+page_id: "1024222188"
+site: "rpcauthority"
+slug: "_most-recently-created"
+revision: 1
+revision_id: "1073070128"
+author: 3118961
+timestamp: 1586221944
+---
+
+[[module CSS]]
+.content-panel .content-type-title > p {
+  margin: 0;
+}
+.content-panel .content-type-title {
+  font-size: 120%;
+  font-weight: bold;
+  padding: 5px 20px;
+}
+.content-panel .content-type-description {
+padding: 0 20px;
+text-align: justify;
+}
+.content-panel.content-row .content-type-description {
+padding: 5px 20px;
+}
+.content-panel.content-row .content-type-description-2 {
+padding: 0 20px;
+text-align: justify;
+}
+[[/module]]
+
+[[div class="content-panel content-row"]]
+[[div class="content-type-title"]]
+Most Recently Created Pages
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+Page
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+Date Created
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+Comments
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+[[module ListPages tags="-admin" category="* -fragment" order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" separate="false" rss="Most Recently Created" rating=">=-15"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: center;"]]
+%%created_at%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: center;"]]
+%%comments%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="content-panel"]]
+[[module ListPages tags="-admin" category="* -fragment" order="created_at desc" perPage="30" separate="false" rss="Most Recently Created"]]
+[[head]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell]]
+Page
+[[/cell]]
+[[hcell]]
+Date Created
+[[/cell]]
+[[hcell]]
+Comments
+[[/cell]]
+[[/row]]
+[[/head]]
+[[body]]
+[[row]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[cell]]
+%%created_at%%
+[[/cell]]
+[[cell]]
+%%comments%%
+[[/cell]]
+[[/row]]
+[[/body]]
+[[foot]]
+[[/table]]
+[[/foot]]
+[[/module]]
+[[/div]]
+
