@@ -1,0 +1,33 @@
+---
+title: "Tag Search Panel White"
+tags: []
+page_id: "1455858109"
+site: "rpcauthority"
+slug: "tag-search-panel:white"
+revision: 13
+revision_id: "1524283046"
+author: 5982545
+timestamp: 1725045573
+---
+
+[[html]]
+<style>
+    #container, input, select, button {
+    	border: 1px solid #666;
+    	color: #333;
+    }
+    #container, input, select { background: #eee; }
+    button, input[type=submit] {
+    	background: #fff;
+    	border-radius: 0;
+    }
+    button:hover, input[type=submit]:hover {
+    	background: #548de0;
+    	border-color: #000;
+    	color: #000;
+    }
+    a { color: #236ec4; }
+</style>
+[[include tag-search-panel:_shell themeSuffix="/theme_name/white"]]
+[[/html]]
+

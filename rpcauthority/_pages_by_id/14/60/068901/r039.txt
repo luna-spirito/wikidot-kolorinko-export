@@ -1,0 +1,91 @@
+---
+title: "Site-070 Theme"
+tags: ["theme"]
+page_id: "1460068901"
+site: "rpcauthority"
+slug: "component:site-070-theme"
+revision: 39
+revision_id: "1531629561"
+author: 4330657
+timestamp: 1755516963
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:site-070-theme/code/1);
+[[/module]]
+
+[[collapsible]]
+[[code type="css"]]
+/*
+Site-070 Theme
+
+Created by Jokezm
+Based on the Research Theme
+*/
+
+:root {
+/* PALLET SHEET */
+--body-background: #141518;
+--text-color: #aaa;
+--primary-text-color: #88408D;
+--nav-hover-background: #662f6a;
+--topbar-dropdown-background: #141518;
+
+/* LINKS */
+--link-color: #88408D;
+--link-hover-color: #A14BA5;
+--new-page-color: #88408D;
+
+/* BUTTONS */
+--button-border: 1px solid #3a1b3c;
+--button-background: #442046;
+--button-hover-border: 1px solid #552858;
+--button-hover-background: #552858;
+  
+/* HEADER */
+--header-icon: url(http://rpcauthority.wikidot.com/local--files/component:site-070-theme/Site070logo.png);
+--header-background: url(http://rpcauthority.wikidot.com/local--files/component:site-070-theme/Site-070-Header.png);
+--header-text-visibility: hidden;
+--header-custom-text: 'Site-070 Database';
+--header-tagline-custom-text: 'In the light of the Scholar.';
+--header-mobile-font-size: 80%;
+  
+/* BLOCKQUOTE */
+--blockquote-background: #13161a;
+--blockquote-border: 1px solid #494949;
+  
+/* TABLE */
+--table-header-background: #191c20;
+--table-header-background-alt: var(--background-3);
+--table-header-color: #aeaeae;
+--table-cell-color: #888;
+--table-cell-background: #0f1113;
+--table-border: 1px solid #3c3c3c;
+
+/* Page Title */
+--page-title-color: #99479e;
+
+/* TABVIEW */
+.yui-navset .yui-content {
+    background: var(--blockquote-background) !important;
+    border-top: none !important;
+    border: 2px solid rgba(0,0,0, 0.40);
+    background-color: unset;
+    color: #c0c0c0;
+
+/* Rating Modules */
+--star-rating-hue: 45deg;
+ 
+/* Sidenote Color */
+--sidenote-open-background: #271c31!important;
+--sidebar-crit-corner-color: #d161d8;
+}
+
+}
+
+[[/code]]
+[[/collapsible]]
+
+
+[[include :rpcsandbox:pallet]]
+

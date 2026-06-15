@@ -1,0 +1,18 @@
+---
+title: "Elect Gd Base"
+tags: ["component"]
+page_id: "1452222318"
+site: "rpcauthority"
+slug: "component:elect-gd-base"
+revision: 2
+revision_id: "1517596403"
+author: 2947029
+timestamp: 1705791468
+---
+
+[[cell style="text-align: center;" colspan="{$terms}"]]
+[[div style="border-bottom: 4px solid {$color}; color: {$color};"]]
+{$name}
+[[/div]]
+[[/cell]]
+

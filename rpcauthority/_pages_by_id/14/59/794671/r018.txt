@@ -1,0 +1,247 @@
+---
+title: "RPC-381"
+tags: ["aggression-hazard", "animated-hazard", "beta", "organic-hazard", "rpc", "sentient-hazard", "yellow"]
+page_id: "1459794671"
+site: "rpcauthority"
+slug: "rpc-381"
+revision: 18
+revision_id: "1530908963"
+author: 2533761
+timestamp: 1752073078
+---
+
+[[include component:rate]]
+
+[[module css]]
+:root {
+--nav-hover-background: #472d75;
+ 
+--body-background: #080808;
+--header-icon: url(https://rpcauthority.wdfiles.com/local--files/rpc-381/RPCA.jfif);
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablacksite-theme/Black_Site_Header.png);
+ 
+--star-rating-background: rgba(0,0,0,0.15);
+--star-rating-reading-background: rgba(0,0,0,0.15);
+--binary-rating-background: rgba(0,0,0,0.15);
+ 
+--search-button-background: black;
+--search-button-hover-background: #111;
+--search-input-color: black;
+--search-input-hover: #111;
+ 
+--sidebar-header-color: white;
+--sidebar-hover-background: white;
+--sidebar-hover-color: black;
+--sidebar-mobile-open-menu-color: #c0c0c0;
+--sidebar-mobile-open-menu-border: 3px solid #c0c0c0;
+--sidebar-mobile-open-menu-background: black;
+--sidebar-mobile-background: black;
+ 
+--page-title-color: #eee;
+ 
+--blockquote-background: rgba(0,0,0,0.4);
+--blockquote-border: none;
+--blockquote-border-radius: 5px;
+--blockquote-padding: 1px 10px;
+ 
+--content-panel-border: none;
+--content-panel-background: rgba(255,255,255,0.05);
+--toc-background: rgba(0,0,0,0.15);
+--content-panel-border-radius: 10px;
+--content-panel-padding: 15px;
+ 
+--image-block-caption-background: rgba(0,0,0,0.15);
+ 
+--tabview-background: rgba(0,0,0,0.15);
+--tabview-button-background: rgba(0,0,0,0.4);
+--tabview-button-selected-background: #2d224f;
+--tabview-button-hover-background: #2d224f;
+--tabview-bar-color: #444;
+--tabview-button-border: none;
+--tabview-border: 2px dashed #444;
+--tabview-side-border: 2px solid var(--content-bar-background);
+--tabview-side-button-hover-background: var(--tabview-button-hover-background);
+--tabview-side-button-selected-background: #36285d;
+--tabview-side-scrollbar-thumb-background: #383249;
+--tabview-side-scrollbar-thumb-hover-background: #343041;
+ 
+--link-color: #7652e1;
+--link-hover-color: #a185f6;
+--new-page-color: #483a75;
+--sidebar-crit-corner-color: #714cb5;
+ 
+--page-background: #151515;
+--page-padding: 15px;
+--page-border-radius: 15px;
+--header-text-visibility: hidden;
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'Research. Protection. Containment.';
+ 
+--header-tagline-color: #e5e5e5;
+ 
+--star-rating-hue: 45deg;
+ 
+--sidenote-open-background: #291f36;
+
+}
+[[/module]]
+
+[[include :rpcauthority:component:special-box number=381|
+object-class=Beta|
+lethality-rating=Yellow|
+symbol=beta-yellow|
+aggression=true|
+sentient=true|
+animated=true|
+organic=true|]]
+[[include component:image-block
+    name=https://rpcauthority.wdfiles.com/local--files/rpc-381/T-Rex.jfif
+    |caption=[https://rpcauthority.wdfiles.com/local--files/rpc-381/T-Rex.jfif RPC-381-B-1]
+]]
++++ **Containment Protocols:**
+RPC-381 instances are to remain in the abandoned facility in which they were found (since designated OL-Site-381), which is to remain hidden from public attention. 
+
+Due to occasional altercations among RPC-381 instances, authorised personnel may enter the enclosures for the purpose of repairing damaged specimens.
+
+Personnel are to maintain caution while in the presence of inactive instances to prevent possible confrontations and are to be treated as if still possessing their sensory organs.
+
+OL-Site-381 is to be disguised as a government pathogen-research facility. Contradictory accounts of the location's nature are to be circulated online in order to misdirect the public. Accounts accurately describing RPC-381 are to be censored and their perpetrators issued the appropriate class of amnestic.
+
+As such, the outer appearance has been left in its dilapidated state albeit with added warning signs, and minimal observable security. While lethal force is authorised, this is only to be a last resort; detaining and interrogating trespassers in a manner consistent with the cover story is preferred.
+
++++ **Description:**
+RPC-381 consists of a number of animate fossils[[footnote]]Currently 147.[[/footnote]] mostly belonging to varying species of the clade //Dinosauria//,[[footnote]]Some species discovered, such as Mosasaurus, for instance, are not classified as dinosaurs.[[/footnote]] discovered in a disused exhibit facility. These fossils behave as their living counterparts presumably did, displaying behaviours such as territoriality, and hunting instincts. 
+
+Instances do not require sustenance and do not produce waste but simulate what is believed to be typical behaviour of their live counterparts. They will engage in combat with one another on occasion, resulting in pieces of fossil and bone being chipped or damaged. It should be noted, however, that acts that would normally damage material as fragile as dinosaur fossils do not appear to affect instances in a manner that would be expected. 
+
+While minor chips appear to heal independently, significant damage requires external sources of bone for restoration, requiring periodic enclosure access. Despite lacking sensory organs, instances can detect sound and will be roused from their 'sleeping' state by noise of sufficient volume, intensity, and/or proximity. 
+
+Whilst OL-Site-381 was discovered abandoned and in a dilapidated state, no confirmed sightings of RPC-381 have occurred outside of the facility grounds. However, unconfirmed, scattered reports of unexplained skeletal remains in nearby areas have reached Authority attention. Investigation into these is ongoing. 
+
+The site where RPC-381 was discovered is located in Loving County, TX, USA, and is approximately 1,030 acres (4.16 sq km) in size.[[footnote]]The population density of this region is a mere 0.036 inhabitants/sq km, contributing to its concealment from public attention despite its immense size.[[/footnote]] The entirety of the facility consists of one single, large, covered building, and utilises some form of light-bending material to obscure its appearance from satellite images and long-distance observations.[[footnote]]The facility only becomes noticeable once one is within sufficient proximity. It is hypothesised that there may also be a memetic component to this material.[[/footnote]]
+
+[[include component:image-block
+    name=https://rpcauthority.wdfiles.com/local--files/rpc-381/landscape.jpg|
+    caption=[https://rpcauthority.wdfiles.com/local--files/rpc-381/landscape.jpg OL-Site-381]
+]]
+
+The precise nature of the facility is unclear, but on-site materials seem to indicate that the operators eventually intended to open it to the public.[[footnote]]This is conjectural at this time.[[/footnote]] Specific instances of RPC-381 are kept secure in enclosures and are mostly kept separated by 'species', although enclosures capable of housing multiple species also exist.
+
+The enclosures remain otherwise functional despite their state of disarray. These enclosures are contained within reinforced concrete walls. These walls feature large panes of reinforced glass in certain portions to allow for viewing. Enclosures are surrounded by further measures at ensuring containment including moats, barbed wire, and electric fencing.[[footnote]]With the site falling under Authority control, the electricity to these fences has been re-supplied.[[/footnote]]
+
+Additional equipment believed to have been utilised in containment procedures, such as motion trackers, CCTV cameras, and thermal imaging,[[footnote]]It is presumed that these were for tracking personnel as the instances themselves lack body heat.[[/footnote]] whilst in a state of disrepair, have been restored to their previous functionality. 
+
++++ **Discovery:**
+The existence of RPC-381 came to Authority attention following a suspicious pattern of fatal auto accidents, initially flagged as possible auto insurance fraud. These accidents were linked to local urban legends in the region concerning disappearances, cryptid sightings, and similar phenomena. Investigation into the veracity of these accounts is ongoing.
+
+Recovered documents indicate that the former operators of OL-Site-381, long since departed, relied on human spinal remains for repairs. Whether this indicates a preference by the creators or if the healing process depends on the type of bone matter utilised is unknown at this time. 
+
+[[collapsible show="+ LIST OF SPECIMENS IN CONTAINMENT" hide="- LIST OF SPECIMENS IN CONTAINMENT"]]
+
+|| **Designation** || **Species** || **Number of Instances** ||
+|| RPC-381-A || //Spinosaurus Aegyptiacus// || 1 ||
+|| RPC-381-B || //Tyrannosaurus Rex// || 3 ||
+|| RPC-381-C || //Utahraptor Ostrommaysi// || 7 ||
+|| RPC-381-D || //Dilophosaurus Wetherilli// || 5 ||
+|| RPC-381-E || //Triceratops Horridus// || 13 ||
+|| RPC-381-F || //Stegasaurus Ungulatus// || 9 ||
+|| RPC-381-G || //Allosaurus Europaeus// || 5 ||
+|| RPC-381-H || //Giganotosaurus Carolinii// || 1 ||
+|| RPC-381-I || //Brachiosaurus Altithorax// || 4 ||
+|| RPC-381-J || //Gallimimus Bullatus// || 9 ||
+|| RPC-381-K || //Compsognathus Longipes// || 13 || 
+|| RPC-381-L || //Archaeopteryx Siemensii// || 1 ||
+|| RPC-381-M || //Procompsognathus Triassicus// || 27 ||
+|| RPC-381-N || //Carnotaurus Sastrei// || 3 ||
+|| RPC-381-O || //Velociraptor Mongoliensis// [[footnote]]Not to be confused with the much larger //Deinonychus Antirrhopus//.[[/footnote]] || 9 || 
+|| RPC-381-P || //Deinonychus Antirrhopus// [[footnote]]Not to be confused with the much smaller //Velociraptor Mongoliensis//.[[/footnote]] || 3 ||
+|| RPC-381-Q || //Atrociraptor Marshalli// || 3 ||
+|| RPC-381-R || //Apatosaurus Louisae// || 7 ||
+|| RPC-381-S || //Diplodocus Carnegii// || 3 ||
+|| RPC-381-T || //Ceratosaurus Nasicornis// || 3 ||
+|| RPC-381-U || //Pachycephalosaurus Wyomingensis// || 3 ||
+|| RPC-381-V || //Parasaurolophus Walkeri// || 5 || 
+|| RPC-381-W || //Ankylosaurus Magniventris// || 3 ||
+|| RPC-381-X || //Pteranodon Longiceps// || 5 ||
+|| RPC-381-Y || //Quetzalcoatlus Northropi// || 1 ||
+|| RPC-381-Z || //Mosasaurus Missouriensis// || 1 ||
+
+[[/collapsible]]
+
+[[collapsible show="+ RECOVERED DOCUMENTS" hide="- RECOVERED DOCUMENTS"]]
+The following are fragmentary remains of documents[[footnote]]Documents have burn marks consistent with deliberate attempts at destruction.[[/footnote]] recovered from OL-Site-381:
+
+"//...V43.52XA	Car driver injured in collision with other type car in traffic accident, initial encounter
+M99.01		Segmental and somatic dysfunction of cervical region
+S13.4XXA		Sprain of ligaments of cervical spine, initial encounter
+M99.02		Segmental and somatic dysfunction of thoracic region
+S23.3XXA		Sprain of ligaments of thoracic spine, initial encounter
+M99.03		Segmental and somatic dysfunction of lumbar region
+S33.5XXA		Sprain of ligaments of lumbar spine, initial encounter
+M99.04		Segmental and somatic dysfunction of sacral region
+G89.11 		Acute pain due to trauma
+M62.49		Contracture of muscle, multiple sites
+R51.9 		Headache, unspecified
+M79.2 		Neuralgia and neuritis, unspecified...//"
+
+"//...M54.12	Radiculopathy, cervical region
+M54.14		Radiculopathy, thoracic region
+G58.0		Intercostal neuropathy
+G44.311		Acute post-traumatic headache, intractable
+M25.512		Pain in left shoulder
+M54.2		Cervicalgia
+M99.01		Segmental and somatic dysfunction of cervical region
+M99.02		Segmental and somatic dysfunction of thoracic region
+M99.08		Segmental and somatic dysfunction of rib cage
+M88.03		Segmental and somatic dysfunction of lumbar region
+M60.9		Myofascitis Unspec...//"
+
+"//...a 4mm right foraminal disc herniation compressing the right C7 nerve root with moderate bilateral foraminal narrowing at C6-C7...//" 
+
+"//...skin was prepped with betadine and alcohol, and trigger points were identified in the serratus posterior, iliocostalis, internal oblique, and latissimus dorsi muscles via palpation. A 27-gauge, 1.25-inch needle was advanced into each trigger point, eliciting jump sign. Following negative aspiration, 10ml of a 1:1 solution of 0.25% bupivacaine and 2% lidocaine, and 60mg Toradol was injected into each trigger point using...//"
+
+"//...neck was prepped and draped in sterile fashion using chlorhexidine. 2% lidocaine was then infiltrated intradermally and deeper at the T9-T10 interspace. An 18-gauge needle was used to nick the skin, and a 20-gauge Tuohy needle was inserted through the skin nick and advanced slowly until the tip of the needle contacted the upper edge of the T1 lamina...//"
+
+[[/collapsible]]
+
+[[collapsible show="+ DISCOVERY AND EXPLORATION" hide="- DISCOVERY AND EXPLORATION"]]
+An unusually high frequency of auto accidents was noted by insurance investigators occurring in and around Loving County, TX, USA between [REDACTED] and [REDACTED], with the findings being forwarded to the Texas Department of Insurance. 
+
+Suspecting possible fraud, the Texas Department of Insurance's Fraud Unit looked into the situation and uncovered evidence that these accidents were being staged by an unknown third party.[[footnote]]Since the Authority took over all research on this matter, it has since been determined that a number of related minor collisions have occurred where nobody sought out medical treatment let alone legal representation for personal injury.[[/footnote]] Further investigation revealed that a significant number of those involved retained the same personal injury law firm: [REDACTED].
+
+Clients of this law firm were referred to the same orthopedic spinal surgeon [REDACTED] for consultations and were almost all invariably recommended for spinal surgery, mostly consisting of laminectomies. An investigation into both the law firm and the orthopedic spinal surgeon revealed that they were ultimately owned and being operated by subsidiaries of the same parent organisation.
+
+However, research into this parent company revealed no records, with listed addresses being abandoned and means of communication being non-operational. It was not until the discovery of OL-Site-381 that the Authority was notified by elements within Texan and US law enforcement, when the instances of RPC-381 were discovered. 
+
+OL-Site-381 was located by law enforcement and other government personnel after interviews with residents of Loving County, TX indicated a statistically large number of missing persons cases as well as reports of sightings of cryptids. Based on details determined by cross-referencing these different reports, law enforcement located OL-Site-381 on [REDACTED].
+
+Upon discovering the then-abandoned site, the investigating personnel called in their discovery. A SWAT unit was eventually dispatched to enter the location, with support from the ATF and DEA, under suspicion that it could be a current or former base of operations for some kind of criminal organisation. 
+
+However, upon entering the facility, they encountered the contained RPC-381 instances. Embedded agents within local law enforcement then alerted the Authority, who took over the investigation. The law enforcement agents involved were amnesticised and a perimeter established to ensure no civilians entered the vicinity.
+
+All other non-Authority personnel involved in the investigation were likewise suitably amnesticised, with all records being transferred to the Authority itself. Authority-led research subsequently uncovered a number of urban legends in surrounding towns regarding disappearances and sightings of cryptids.[[footnote]]Whilst these accounts suggest possibly escaped or wild instances of RPC-381, the veracity of these accounts have yet to be verified.[[/footnote]]
+
+All further information is classified at Level 2-381:
+[[include :scp-int:component:coltop show=+ INPUT CREDENTIALS|hide=- CREDENTIALS VERIFIED]]
+
+Full Exploration Log: [*http://rpcauthority.wikidot.com/exploration-log-ast-501-381-01 INPUT CREDENTIALS]
+
+Exploration of OL-Site-381 indicates that several instances have almost certainly already escaped and may still be active in the wild based on continuing reports. Whilst the enclosures are intact, several jars containing inactive instances of RPC-381 were discovered.
+
+Investigating members of AST-500 at first assumed they were 'dead' or the remains of previously living versions that failed. However, one jar broke during transportation, resulting in the entire skeleton falling to the floor in one piece. Shortly after release, the instance animated and escaped, startling the members of AST-500 tasked with its retrieval. Jars already in a broken state were subsequently discovered shortly later. 
+
+Since the Authority has taken over containment of RPC-381, several reports referring to skeletal cryptids has reached Authority attention. Containment efforts here are to consist of interviewing subjects and only using amnestics where appropriate. If deemed appropriate, subjects may be permitted to continue circulating their accounts for plausible deniability and/or to encourage contradictory accounts. 
+
+If wild 'live' instances of RPC-381 are discovered, Authority command is to be alerted immediately so that the appropriate team can be dispatched for the instance's tracking and, if possible, capture. However, if encountered, the use of appropriate sleep agents is permitted.[[footnote]]Whilst instances lack the physiology normally required for such agents to work, they are nevertheless susceptible to their effects through unknown means.[[/footnote]]
+
+Whilst the name of the company responsible has produced no viable leads, at least one name recovered from documentation, a Mr. Hans Drommond, has been tied to various anomalous enterprises involving dinosaurs and similar fauna.
+
+[[include :scp-int:component:colend]]
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-380]]] | RPC-381 | [[[RPC-382]]] >> 
+[[/=]]
+

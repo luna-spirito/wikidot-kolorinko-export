@@ -1,0 +1,40 @@
+---
+title: "942 Containment Logs"
+tags: ["supplemental"]
+page_id: "1451381569"
+site: "rpcauthority"
+slug: "942-containment-logs"
+revision: 2
+revision_id: "1518867876"
+author: 8774075
+timestamp: 1710001255
+---
+
+[[module css]]
+@import url(https://rpcauthority.wdfiles.com/local--code/component:containment-theme/1);
+[[/module]]
+
+[[=]]
++ Credentials Accepted.
+[[/=]]
+
+[[<]]
++++ {{RPC-942 has gone through 2 previous methods of containment before its current containment protocols were put into use. This document exists for archival purposes in the event alternate methods of containment arise.}}
+[[/<]]
+
+[[div class="site-doc" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+++ {{Containment Log 942.1:}}
++++ {{RPC-942's containment chamber was originally a 10ft^^3^^vacuum sealed chamber, designed to keep RPC-942 in place via suction. These containment protocols only worked for a few hours, as RPC-942 managed to malfunction the suction system, breaking the machine entirely.}} 
+
++++ {{It was later discovered that RPC-942 had excreted high volumes of the unknown black substance to clog the suction device. Other related attempts to use suction to restrain RPC-942 have only provided temporary containment. Rendering vacuum methods as emergency only.}}
+
+
+++ {{Containment Log 942.2:}}
++++ {{RPC-942's containment chamber remained the same in its dimensions, the chamber was equipped with a unit that produced large amounts of refrigerant to test the properties of RPC-942's mist.}} 
+
++++ {{The refrigerant unit was meant to lower the temperature within the containment chamber, in hopes that freezing temperatures would slow and/or freeze RPC-942. Initial tests showed some success in slowing down RPC-942's movements. However, RPC-942 soon reacted and began to manipulate air currents to generate heat within the chamber, negating the refrigeration.}}
+
++++ {{RPC-942 generated enough heat to malfunction the refrigerant unit, however it was discovered that RPC-942 inhibits reaction to loud noises, as the unit began to make loud screeching noises from internal parts scraping together. Causing RPC-942 to react and flee towards a corner of its cell. The refrigeration method is deemed ineffective for long-term containment.}}
+
+[[/div]]
+

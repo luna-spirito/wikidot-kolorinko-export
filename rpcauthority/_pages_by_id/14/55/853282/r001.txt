@@ -1,0 +1,16 @@
+---
+title: "Author Page List Content"
+tags: ["component"]
+page_id: "1455853282"
+site: "rpcauthority"
+slug: "component:author-page-list-content"
+revision: 1
+revision_id: "1522941849"
+author: 5982545
+timestamp: 1720455843
+---
+
+[[module ListPages created_by="{$user}" separate="no" category="-contest" order="title" tags="{$tags} -rewrite -co-authored -_author-page-hide" perPage="100"]]
+[[span class="label"]]{$label}:[[/span]]%%title_linked%%
+[[/module]]
+

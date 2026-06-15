@@ -1,0 +1,26 @@
+---
+title: "Contest Entry"
+tags: ["component"]
+page_id: "1451972098"
+site: "rpcauthority"
+slug: "component:contest-entry"
+revision: 1
+revision_id: "1516983342"
+author: 5982545
+timestamp: 1703447920
+---
+
+[[module css]]
+.contest-entry-ported { display: none; }
+.contest-entry-ported-yes {
+    display: block;
+    margin-top: .75em;
+}
+[[/module]]
+
+[[div class="templateBlock" style="font-size: 1.3em;"]]
+This page is an archive for a contest entry that was hosted at a special URL. [[span class="contest-entry-ported contest-entry-ported-{$ported}"]]The article has since been ported to the main site as [[[{$link}|{$title}]]].[[/span]]
+[[/div]]
+
+----
+

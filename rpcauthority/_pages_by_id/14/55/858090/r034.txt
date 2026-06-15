@@ -1,0 +1,206 @@
+---
+title: "Tag Search Panel Shell"
+tags: []
+page_id: "1455858090"
+site: "rpcauthority"
+slug: "tag-search-panel:_shell"
+revision: 34
+revision_id: "1529192398"
+author: 5982545
+timestamp: 1744384433
+---
+
+<style>
+    #container {
+    	padding: 1em;
+    	font: 0.80em verdana, arial, helvetica, sans-serif;
+    	position: relative;
+    }
+    p { line-height: 2em; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wideInputs input {
+    	box-sizing: border-box;
+    	display: block;
+    	width: 100%;
+    }
+    #infoButton { cursor: pointer; }
+    #info {
+    	position: absolute;
+    	top: 0;
+    	margin: 0;
+    	display: none;
+    	animation: fade 0.2s;
+    }
+    @keyframes fade {
+    	from { opacity: 0; }
+    	to { opacity: 1; }
+    }
+</style>
+<div id="container">
+    <div style="position: relative;">
+    	<div id="controlPanel">
+    		<p style="margin-top: 0;">Separate tags by commas or spaces. <a href="http://rpcauthority.wikidot.com/tagging-guide" target="_blank">(List of tags)</a><br/>
+    		<a id="infoButton">(Where is the text search?)</a></p>
+    		
+    		<form>
+    			<p class="wideInputs"><label for="additiveTags">Include pages with any of these tags: </label><input id="additiveTags"></input>
+    			<label for="requiredTags">Exclude pages without all of these tags: </label><input id="requiredTags"></input>
+    			<label for="subtractiveTags">Exclude pages with any of these tags: </label><input id="subtractiveTags"></input></p>
+    			
+    			<p><label for="ratingComparison">Rating (1-5, decimal): </label><select id="ratingComparison"></select> <input id="ratingBaseline" style="display: none; width: 4em;" type="number"></input><br/>
+    			<label for="votesComparison">Votes (positive integer): </label><select id="votesComparison"></select> <input id="votesBaseline" style="display: none; width: 4em;" type="number"></input></p>
+    			
+    			<p><label for="pageOrder">Order: </label><select id="pageOrder">
+    				<option value="created_at desc">Date (newest-oldest)</option>
+    				<option value="created_at">Date (oldest-newest)</option>
+    				<option value="updated_at desc">Last edit (newest-oldest)</option>
+    				<option value="updated_at">Last edit (oldest-newest)</option>
+    				<option value="rating desc">Rating (highest-lowest)</option>
+    				<option value="rating">Rating (lowest-highest)</option>
+    				<option value="votes desc">Votes (greatest-least)</option>
+    				<option value="votes">Votes (least-greatest)</option>
+    				<option value="size desc">Source length (greatest-least)</option>
+    				<option value="size">Source length (least-greatest)</option>
+    				<option value="title">Alphabetical (A-Z)</option>
+    				<option value="title desc">Alphabetical (Z-A)</option>
+    				<option value="random">Random</option>
+    			</select></p>
+    			
+    			<p><label for="specificCreatorCheckbox">Specific creator?: </label><input id="specificCreatorCheckbox" type="checkbox"/> <input id="specificCreator" style="display: none;"></input></p>
+
+    			<input type="submit" value="Go" id="goButton"></input>
+    		</form>
+    	</div>
+
+    	<div id="info">
+    		<p style="margin-top: 0;"><strong>Where is the text search?</strong></p>
+    		
+    		<p>As of writing, the search tool on Wikidot (our host) is sadly nonfunctional. If you need to find keywords in article content or titles, you can utilize a third-party search engine.</p>
+    		
+    		<p>In most popular search engines (including Google, Bing, Yahoo, and DuckDuckGo), you can search our domain by appending "site:rpcauthority.wikidot.com" (without quotes) to your search query. We cannot guarantee that this method will return every page.</p>
+    		
+    		<button id="infoReturnButton">Return</button>
+    	</div>
+    </div>
+</div>
+
+<script>
+    var canStealFocus = false;
+    
+    const additiveInput = document.getElementById("additiveTags");
+    const requiredInput = document.getElementById("requiredTags");
+    const subtractiveInput = document.getElementById("subtractiveTags");
+    const orderInput = document.getElementById("pageOrder");
+    const ratingComparisonInput = document.getElementById("ratingComparison");
+    const ratingBaselineInput = document.getElementById("ratingBaseline");
+    const votesComparisonInput = document.getElementById("votesComparison");
+    const votesBaselineInput = document.getElementById("votesBaseline");
+    const specificCreatorCheckbox = document.getElementById("specificCreatorCheckbox");
+    const specificCreatorInput = document.getElementById("specificCreator");
+    
+    const comparisonOptions = ["any", ">", "<", "=", ">=", "<=", "<>"];
+    function fillComparisonInput(input, linkedInput) {
+    	for (const option of comparisonOptions) {
+    		const node = document.createElement("option");
+    		node.textContent = option;
+    		node.setAttribute("value", option);
+    		input.appendChild(node);
+    	}
+    	
+    	input.addEventListener("change", function(e) {
+    		linkedInput.style.display = (e.target.value == "any") ? "none" : "inline";
+    		if (canStealFocus) linkedInput.focus();
+    	}, { passive: true });
+    }
+    fillComparisonInput(votesComparisonInput, votesBaselineInput);
+    fillComparisonInput(ratingComparisonInput, ratingBaselineInput);
+    specificCreatorCheckbox.addEventListener("change", function(e) {
+    	specificCreatorInput.style.display = (e.target.checked) ? "inline" : "none";
+    	if (canStealFocus) specificCreatorInput.focus();
+    });
+    
+    additiveInput.value = sessionStorage.getItem("additiveTags") || "";
+    requiredInput.value = sessionStorage.getItem("requiredTags") || "";
+    subtractiveInput.value = sessionStorage.getItem("subtractiveTags") || "";
+    orderInput.value = sessionStorage.getItem("order") || "created_at desc";
+    ratingComparisonInput.value = sessionStorage.getItem("ratingComparison") || "any";
+    ratingComparisonInput.dispatchEvent(new Event("change"));
+    ratingBaselineInput.value = sessionStorage.getItem("ratingBaseline") || "";
+    votesComparisonInput.value = sessionStorage.getItem("votesComparison") || "any";
+    votesComparisonInput.dispatchEvent(new Event("change"));
+    votesBaselineInput.value = sessionStorage.getItem("votesBaseline") || "";
+    specificCreatorCheckbox.checked = sessionStorage.getItem("specificCreatorCheckbox") == "true";
+    specificCreatorCheckbox.dispatchEvent(new Event("change"));
+    specificCreatorInput.value = sessionStorage.getItem("specificCreator") || "";
+    canStealFocus = true;
+    
+    function getTagsFromInput(input, prefix) {
+    	const str = input.value.trim();
+    	if (str == "") return [];
+    	
+    	const array = str.split(/[ ,]+/);
+    	for (let i = array.length - 1; i >= 0; i--) array[i] = prefix + array[i];
+    	return array;
+    }
+    
+    function goFunction() {
+    	let voteBugPossible = orderInput.value.includes("votes");
+    	let endStr = orderInput.value;
+    	
+    	const specificCreator = specificCreatorInput.value.trim();
+    	if (specificCreatorCheckbox.checked && specificCreator) {
+    		endStr += "/created_by/" + specificCreator;
+    	}
+    	
+    	const ratingComparison = ratingComparisonInput.value;
+    	const ratingBaseline = Number(ratingBaselineInput.value);
+    	if (ratingComparison != "any" && ratingBaselineInput.value != "") {
+    		if (isNaN(ratingBaseline) || ratingBaseline < 1 || ratingBaseline > 5) return alert("Error: Score must be a number from 1 to 5!");
+    		endStr += "/rating/" + ratingComparison + (ratingBaseline * 10);
+    	} else if (voteBugPossible) {
+    		endStr += "/rating/>0";
+    		voteBugPossible = false;
+    	}
+    	const votesComparison = votesComparisonInput.value;
+    	const votesBaseline = parseInt(votesBaselineInput.value);
+    	if (votesComparison != "any" && votesBaselineInput.value != "") {
+    		if (isNaN(votesBaseline) || votesBaseline < 0 || votesBaseline != Number(votesBaselineInput.value)) return alert("Error: Votes must be a positive integer!");
+    		endStr += "/votes/" + votesComparison + votesBaseline;
+    	} else if (voteBugPossible) {
+    		endStr += "/votes/<999999999";
+    	}
+    	
+    	const additiveTags = getTagsFromInput(additiveInput, "");
+    	const requiredTags = getTagsFromInput(requiredInput, "%2b");
+    	const subtractiveTags = getTagsFromInput(subtractiveInput, "-");
+    	let tagsStr = [...additiveTags, ...requiredTags, ...subtractiveTags].join();
+    	if (tagsStr) tagsStr = "/tags/" + tagsStr;
+    	
+    	sessionStorage.setItem("additiveTags", additiveInput.value);
+    	sessionStorage.setItem("requiredTags", requiredInput.value);
+    	sessionStorage.setItem("subtractiveTags", subtractiveInput.value);
+    	sessionStorage.setItem("order", orderInput.value);
+    	sessionStorage.setItem("ratingComparison", ratingComparison);
+    	sessionStorage.setItem("ratingBaseline", ratingBaselineInput.value);
+    	sessionStorage.setItem("votesComparison", votesComparison);
+    	sessionStorage.setItem("votesBaseline", votesBaselineInput.value);
+    	sessionStorage.setItem("specificCreatorCheckbox", specificCreatorCheckbox.checked);
+    	sessionStorage.setItem("specificCreator", specificCreatorInput.value);
+    	
+    	window.parent.location.replace("http://rpcauthority.wikidot.com/search:tags" + tagsStr + "/order/" + endStr + {$themeSuffix} + "#page-title");
+    }
+    
+    document.getElementById("goButton").addEventListener("click", goFunction, { passive: true });
+    document.getElementById("infoButton").addEventListener("click", function() {
+    	document.getElementById("controlPanel").style.animation = "";
+    	document.getElementById("controlPanel").style.visibility = "hidden";
+    	document.getElementById("info").style.display = "block";
+    }, { passive: true });
+    document.getElementById("infoReturnButton").addEventListener("click", function() {
+    	document.getElementById("controlPanel").style.animation = "fade 0.2s";
+    	document.getElementById("controlPanel").style.visibility = "";
+    	document.getElementById("info").style.display = "";
+    }, { passive: true });
+</script>
+

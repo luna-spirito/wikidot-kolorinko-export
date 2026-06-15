@@ -1,0 +1,193 @@
+---
+title: "_topnavdemo"
+tags: []
+page_id: "1459913835"
+site: "rpcauthority"
+slug: "_topnavdemo"
+revision: 11
+revision_id: "1531163864"
+author: 5982545
+timestamp: 1753364135
+---
+
+[[div class="top-bar"]]
+* [# RPC Archive]
+ * [[[rpc-archive#001|001 – 099]]]
+ * [[[rpc-archive#100|100 – 199]]]
+ * [[[rpc-archive#200|200 – 299]]]
+ * [[[rpc-archive#300|300 – 399]]]
+ * [[[rpc-archive#400|400 – 499]]]
+ * [[[rpc-archive#500|500 – 599]]]
+ * [[[rpc-archive#600|600 – 699]]]
+ * [[[rpc-archive#700|700 – 799]]]
+ * [[[rpc-archive#800|800 – 899]]]
+ * [[[rpc-archive#900|900 – 999]]]
+ * [[[non-canon-hub|Joke/Non-Canon]]]
+ * [[[Archived Pages]]]
+* [# Divisions]
+ * [[[research-hub|Research]]]
+ * [[[protection-hub|Protection]]]  
+ * [[[containment-hub|Containment]]]
+ * [[[administration-hub|Administration]]]
+ * [[[directorate|Global Directors]]]
+* [# Library]
+ * [[[Tales]]]
+ * [[[Documents]]]
+ * [[[series-archive|Storylines]]]
+ * [[[authority-events-hub|Authority Events]]]
+ * [[[Contest Archive]]]
+ * [[[catalog-of-lesser-anomalous-items|Lesser Items]]]
+ * [[[catalog-of-lesser-anomalous-locations|Lesser Locations]]]
+ * [[[event-index|Lesser Events]]]
+* [# Entities of Interest]
+ * [[[Groups of Interest]]]
+ * [[[governments-of-interest|Agencies of Interest]]]
+ * [[[Alternate Realities]]]
+* [# Operational]
+ * [[[about-the-rpc-authority|About the Authority]]]
+ * [[[Object Classes]]]
+ * [[[threats-hazards|Threats & Hazards]]]
+ * [[[security-clearance-levels|Clearance Levels]]]
+ * [[[Personnel Dossier]]]
+ * [[[Site Index]]]
+ * [[[list-of-all-msts|MST List]]]
+ * [[[Terminology Index]]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+* [# RPCs]
+ * [[[rpc-archive|Archive I]]]
+ * [[[non-canon-hub|Joke/Non-Canon]]]
+ * [[[Archived Pages]]]
+* [# Divisions]
+ * [[[research-hub|Research]]]
+ * [[[protection-hub|Protection]]]  
+ * [[[containment-hub|Containment]]]
+ * [[[administration-hub|Administration]]]
+ * [[[directorate|Global Directors]]]
+* [# Library]
+ * [[[Tales]]]
+ * [[[Documents]]]
+ * [[[series-archive|Storylines]]]
+ * [[[authority-events-hub|Authority Events]]]
+ * [[[Contest Archive]]]
+ * [[[catalog-of-lesser-anomalous-items|Lesser Items]]]
+ * [[[catalog-of-lesser-anomalous-locations|Lesser Locations]]]
+ * [[[event-index|Lesser Events]]]
+* [# EOIs]
+ * [[[Groups of Interest]]]
+ * [[[governments-of-interest|Agencies of Interest]]]
+ * [[[Alternate Realities]]]
+* [# Info]
+ * [[[about-the-rpc-authority|About the Authority]]]
+ * [[[Object Classes]]]
+ * [[[threats-hazards|Threats & Hazards]]]
+ * [[[security-clearance-levels|Clearance Levels]]]
+ * [[[Personnel Dossier]]]
+ * [[[Site Index]]]
+ * [[[list-of-all-msts|MST List]]]
+ * [[[Terminology Index]]]
+[[/div]]
+
+[[module CSS]]
+#page-content ul {
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+#page-content ul li {
+    list-style: none;
+    float: left;
+    position: relative;
+}
+#page-content ul a {
+    color: var(--topbar-text-color);
+    transition: none;
+}
+#page-content li a {
+    display: block;
+    margin: 0;
+    padding: 1px 1em;
+}
+#page-content ul li a {
+    border-left: solid 1px rgba(64,64,64,.1);
+    border-right: solid 1px rgba(64,64,64,.1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 1px;
+    overflow: hidden;
+}
+#page-content li ul {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    visibility: hidden;
+    border: solid var(--topbar-dropdown-border-color);
+    border-width: 0 1px 1px;
+    box-shadow: 0 2px 6px rgba(0,0,0,.5);
+}
+#page-content li ul li {
+    padding: 0;
+    margin: 0;
+    display: block;
+    float: none;
+}
+#page-content li ul li a {
+    border-width: 0;
+    color: #fff;
+    border-width: 0;
+    width: 150px;
+    line-height: 160%;
+    height: auto;
+    max-height: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    background: var(--body-background);
+    color: var(--topbar-dropdown-color);
+}
+#page-content ul > li:hover > ul { visibility: visible; }
+#page-content ul > li:hover > a, #page-content .top-bar a:hover {
+    background: var(--topbar-hover-background);
+    color: var(--topbar-hover-color);
+    text-decoration: none;
+}
+
+#top-bar .top-bar, #top-bar .mobile-top-bar > ul { display: none; }
+#page-content, #main-content, #content-wrap { position: static; }
+#page-content .top-bar, #page-content .mobile-top-bar {
+    position: absolute;
+    width: 90%;
+    max-width: 980px;
+    top: 145px;
+    left: 0;
+    margin: auto;
+    z-index: 10;
+}
+#page-content .top-bar {
+    font-size: 90%;
+    right: 24px;
+}
+#page-content .mobile-top-bar {
+    right: 0;
+    bottom: initial;
+}
+#page-content .mobile-top-bar > ul { float: left; }
+
+@media (max-width: 768px) {
+    #page-content .mobile-top-bar { display: block !important; }
+}
+#side-bar { z-index: 11 !important; }
+[[/module]]
+
+**Changes:**
+# En dashes replace the hyphenated ranges in the RPC Archive tab. "-Js/Non-Canon" is renamed "Joke/Non-Canon" for clarity.
+# The Lore tab is renamed back to "Divisions". "Authority Events" is moved to the Library tab above "Contest Archive".
+# The Authority Library tab is abbreviated to "Library". "Operations" is removed. "Series' Archive" is renamed "Storylines". "Archived Pages" is moved to the bottom of the RPC Archive tab.
+# The Authority Archive tab is removed. "Personnel Dossier" and "Site Index" are moved to the Operational tab between "Security Clearance Levels" and "Mobile Specialized Teams". Lesser anomalies are moved to the bottom of the Library tab. "Acquired Media" is removed.
+# The Operational Info tab is abbreviated to "Operational". "Security Clearance Levels" and "Mobile Specialized Teams" are renamed "Clearance Levels" and "MST List" respectively to prevent line breaks.
+
+**Notes:** "Operations" and "Acquired Media" are the only links removed, in the interest of space: both are rarely-updated offshoots of the Documents hub.
+
+I previously added a "[[[Persons of Interest]]]" link to the Entities of Interest tab between "Agencies of Interest" and "Alternate Realities", but as that page is currently dormant, it was excluded.
+

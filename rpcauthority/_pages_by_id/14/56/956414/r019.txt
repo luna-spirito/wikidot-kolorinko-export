@@ -1,0 +1,735 @@
+---
+title: "RPC-903"
+tags: ["contestwinner", "done-and-dusted", "emotional-hazard", "immeasurable-hazard", "neutralized", "psychotronic-hazard", "rpc", "sapient-hazard", "sensory-hazard", "translated"]
+page_id: "1456956414"
+site: "rpcauthority"
+slug: "rpc-903"
+revision: 19
+revision_id: "1533061823"
+author: 9487909
+timestamp: 1760669299
+---
+
+[[include component:rate |winner=true |translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/rpc-903"]] ]]
+
+[[div style="display: inline-block; border:dashed 4px #444451; background:#121517; float:center; width:84%; padding:1px 15px; margin: 10px 10px 40px 40px"]]
+
+[[=]]
++ [[span style="color:red"]] **__NOTICE OF ARCHIVAL__** [[/span]]
+
+----
+
+This is a general notice to readers that this document is currently under evaluation by a review committee under the OIRS. This committee review aims to determine the viability of this anomaly - now neutralized - continuing to occupy a designation on the Main Index of Contained Anomalies. Recent events have significantly reduced the number of staff members assigned to RPC-903 and the current budget reallocation requires that available labor be focused elsewhere. These factors alongside the lack of any requirement for active containment suggests that this document can be safely archived as a lesser anomaly and removed from the index. The committee has not come to a decision yet as of this notice, but should they decide on archival this designation will be reassigned to a new anomaly and the current documentation will be placed in the OIRS filing system - accessible by request if needed.
+
+----
+
+++ 15/04/2021
+
+[[/=]]
+
+[[/div]]
+
+[[=]]
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin-top: 1px; width: 35px;" title="Sapient"]] [[image http://rpcauthority.wdfiles.com/local--files/threats-hazards/Psychotronic.png style="margin-top: 1px; width: 35px;" title="Psychotronic"]] [[image https://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-emotional.png style="margin-top: 1px; width: 35px;" title="Emotional"]] [[image https://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sensory.png style="margin-top: 1px; width: 35px;" title="Sensory"]] [[image https://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-immeasurable.png style="margin-top: 1px; width: 35px;" title="Immeasurable"]]  
+|align=center
+|name=https://rpcsandbox.wdfiles.com/local--files/happenings/school.png
+|width=100%
+|caption=//Photo of ███████████ High School, taken from the Garden City Telegram. (2011)//
+]]
+[[/=]]
+
+[[module CSS]]
+
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.container {
+  color: #FFF;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 1200;
+}
+
+.sub_title {
+  font-family: 'Open Sans', sans-serif;
+  float: center;
+  width: 79%;
+  border: none;
+  margin: auto;
+}
+
+.block {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+
+  position: relative;
+  background-color: #FFC;
+  padding: 2rem;
+  max-width: 480px;
+}
+
+.block_b {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+
+  position: relative;
+  background-color: #e1c699;
+  padding: 2rem;
+  max-width: 480px;
+}
+
+.prompt {
+    float: center;
+    border: none;
+    border-radius: 4px;
+    background:#333;
+    color: #FFF;
+    width: 89%;
+    padding: 7px 17px;
+    margin: auto;
+}
+
+[[/module]]
+
+[[div style="background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Aicons/neutralized.png); background-position: 0% 50%; background-repeat: no-repeat; padding-left: 85px;"]]
+
+**Registered Phenomena Code:** 903
+
+**Object Class:** Neutralized
+⠀
+
+
+
+[[/div]]
+
+------
+
+**Containment Protocols:** As of **20/12/2018** the OIRS[[footnote]] Office of Information Records and Security [[/footnote]] has reduced this document's object class to "Neutralized" and per this ruling the related anomalies no longer require active containment measures. The remains of 903-A and 903-B have been interred in civilian fashion as testing cleared them of anomalous activity. The remains of 903-C were never recovered and as such are likely destroyed. The structure in which the events took place has been designated safe by Protectorate NT-100[[footnote]] Neutralization Team [[/footnote]] personnel.
+
+Keywords from this document remain in the ACI Web Crawler database, as such any breach of security regarding this documentation will be flagged as part of their continued activities. There has only been one minor breach of information security[[footnote]] Please refer to Addendum 903.01. [[/footnote]] regarding RPC-903, so it is considered Very Low Priority by Authority intelligence.
+
+If needed, historical protocols used prior to the redesignation can be accessed below.
+
+[[table]]
+[[row]]
+[[cell style="border: solid 0.5px #c0c0c0; background-color: #1d2022; width: 900px; padding: 5px 5px;"]]
+[[collapsible show="[+] Protocols Archive 15/08/2012 (OBSOLETE)" hide="[-] Close"]]
+**Containment Protocols:** Following the extensive operation conducted by the NT-100 agents and the OA&S, regular operations of the high school will be allowed to continue. The presence of ACI personnel within the local government will remain until further notice. Aforementioned ACI operatives should focus efforts on monitoring school grounds for anomalous activity. To this end AECR devices have been installed at key locations within ███████████'s civilian infrastructure which feed data directly to a central database. These devices will also require regularly scheduled repairs, which will fall under the responsibility of stationed ACI operatives. Any fluctuations are to be reported to the on-site supervisor and passed to the closest Authority installation for review by RPC-903 researchers.
+
+Web Crawlers are to be assigned to monitor for data breaches regarding the events of RPC-903 and consider the issue High Priority due to the prominent dissemination of anomalous material originating from RPC-903 across various information networks and television broadcasts.
+
+Scouting of satellite and atmospheric data for 903-A and 903-B is to be ongoing pursuant to their identification and acquisition by the Protectorate if detected.
+
+903-C is to be contained in a standard issue humanoid residence cell, outfitted with a Totalcare-P1900 adjustable base medical bed and Morphine IV for tranquilization. Wheelchairs should be close and accessible to personnel at all times in case immediate movement is necessary. In accordance with the standards of other humanoid subjects in containment onsite, 903-C will require a guard to be present at all times in the case of a breach. Prolab keeps their own documentation on humane procedures regarding sapient containment which can be referenced if needed.
+
+903-C will require regular examination by psychological researchers both to stabilize mental activity as well as to ascertain more information on the nature of the subject's condition. These researchers will be assigned to RPC-903 by the OA&S, however their activities will be subject to oversight by a committee of selected reviewers from the OEaR.
+[[/collapsible]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: solid 0.5px #c0c0c0; background-color: #1d2022; width: 280px; padding: 5px 5px;"]]
+[[collapsible show="[+] Protocols Archive 05/03/2018 (OBSOLETE)" hide="[-] Close"]]
+**Containment Protocols:** Regular operations of ███████████ High School as well as the functions of ███████████'s local government will be allowed to continue unimpeded. An ACI operative with specialization in espionage and AECR maintenance is to be assigned to cover in ███████████ on a rotation of 2 months. The operative should focus efforts on monitoring school grounds and the burial plots of 903-A/B for anomalous activity. To this end AECR devices have been installed at key locations within ███████████'s civilian infrastructure which feed data directly to a central database. These devices will also require regularly scheduled repairs, which will fall under the responsibility of the stationed ACI operative. Any fluctuations will be reported to the on-site supervisor and passed to the closest Authority installation for review by RPC-903 researchers.
+
+Keywords from this document remain in the ACI Web Crawler database, so any breach of security regarding this documentation will be flagged as part of their continued activities considered Low Priority.
+
+903-C is to be contained in a standard issue humanoid residence cell, outfitted with a Totalcare-P1900 adjustable base medical bed and Morphine IV for tranquilization. Surge protectors and humidity detectors are to be installed in the cell, feeding data to site security. Wheelchairs should be close and accessible to personnel at all times in case immediate movement is necessary. In accordance with the standards of other humanoid subjects in containment onsite, 903-C will require a guard to be present at all times in the case of a breach. Prolab keeps their own documentation on humane procedures regarding sapient containment which can be referenced if needed.
+
+903-C requires regular consultation with Dr. Gorman to stabilize mental activity and ascertain more information on the nature of the subject's condition. Researchers serving as Dr. Gorman's staff will be assigned to RPC-903 by the OA&S, and their activities will be subject to oversight by a committee of selected reviewers from the OEaR. For any clarification on duties regarding 903-C please contact Dr. Gorman.
+[[/collapsible]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: solid 0.5px #c0c0c0; background-color: #1d2022; width: 280px; padding: 5px 5px;"]]
+[[collapsible show="[+] Protocols Archive 16/07/2018 (OBSOLETE)" hide="[-] Close"]]
+**Containment Protocols:** Continued monitoring of communications in ███████████ is to be overseen by onsite researchers. Included in sweeps should be satellite data as well as seismic activity. Any extreme fluctuations are to be reported to the on-site supervisor and passed to the closest Authority installation for review by RPC-903 researchers.
+
+Following the recent major information breach Web Crawlers are to actively scout for information regarding RPC-903 considered at High Priority.
+
+903-C is to be contained in a standard issue humanoid residence cell, outfitted with a Totalcare-P1900 adjustable base medical bed and Morphine IV for tranquilization. Power provided to the cell is to be supplied by an isolated circuit separate from the site's main grid, with voltage detectors feeding data to site security. Barometers are also to be present. Wheelchairs should be close and accessible to personnel at all times in case immediate movement is necessary. To provide stimulation and prevent decay of mental faculties, 903-C will be allotted 5 hours every week to engage in recreational activity. The schedule for these activities is to be under the discretion of Dr. Gorman, pending approval by the review committee. In accordance with the standards of other humanoid subjects in containment onsite, 903-C will require a guard to be present at all times in the case of a breach. Prolab keeps their own documentation on humane procedures regarding sapient containment which can be referenced if needed.
+
+903-C requires regular consultation with Dr. Gorman both to stabilize mental activity as well as to ascertain more information on the nature of the subject's condition. Researchers serving as Dr. Gorman's staff will be assigned to RPC-903 by the OA&S, and their activities will be subject to oversight by a committee of selected reviewers from the OEaR. For any clarification on duties regarding 903-C please contact Dr. Gorman.
+[[/collapsible]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+**Description:** The designation RPC-903 refers collectively to a grouping of anomalous phenomena related to an armed conflict which took place at the ███████████, Kansas high school on February 11th, 2011. Various anomalies appeared to be either physically detected or claimed by bystanders and Authority personnel during and after the activity on school grounds.
+
+The event itself consisted of two student perpetrators[[footnote]] Designated 903-A and 903-B. [[/footnote]] entering the school premises at 7:45, where they began to utilize various firearms[[footnote]] Primarily a Ruger Mini-14 5.56x45mm semi-automatic rifle and a Remington Model 887 12-gauge shotgun. [[/footnote]] to enact violence upon the other students and faculty present. Early on local authorities arrived at the school grounds - fire services first, followed by police and medical services - but did not intervene to avoid inciting further retaliation. This continued until activity effectively ceased at 13:28. Authority Intelligence was alerted to the occurrence by the appearance of anomalous incidents on local news broadcasts. Protectorate personnel arrived in ███████████ at 11:54 under the guise of supplemental emergency services. Protectorate Rangers under RE-50 deployment were the first to enter the premises following the cessation of activity, as local law enforcement was at that time occupied with crowd control. While the school's structure appeared to have no lingering anomalous properties, the rangers did catalog and acquire several other emergent instances.
+
+[[include component:image-block
+    name= https://rpcsandbox.wdfiles.com/local--files/happenings/1531720214938.png|
+    caption=[Unconfirmed] Believed to be a still from the ███████████ High security system in which 903-B is visible. Digital forensics are ongoing.|
+]]
+
+Primarily, the absence of 903-A and 903-B from the school grounds was considered to be a major discrepancy by onsite Authority personnel. Despite the perimeter not reporting any escaping individuals, neither 903-A/B nor their remains were recovered on school property. To this end, the Authority conducted a number of wide-range recovery operations in the following years, all of which were unsuccessful[[footnote]] Operations were ended following the recovery of remains by local authorities. [[/footnote]]. As well, there appeared to be a lack of evidence in the school's security system that the attack had taken place. Some images of students in panic are captured, but 903-A and 903-B do not appear on any of the cameras wired to the school's system. Footage acquired by local journalists does contain the sound of gunshots, but no perpetrators appear in this footage. Victims are seen exiting but there at this time exists no concrete visual evidence of the injuries being inflicted. Aside from 903-A/B, the only other individual known to be present for the attack that does not appear on security footage is 903-C. However it is currently unknown the extent to which this subject was involved in the violence prior to their own injury.
+
+Anomalies were also claimed to be present in the accounts given by witnesses both within the school and in the surrounding area. These accounts can not be considered totally viable, given the effects that PTSD and other psychological afflictions can have on victims of traumatic experiences. Certain consistencies present themselves, especially when describing the erratic behavior of 903-A and 903-B. Witnesses described them at various points appearing to be panicked by something, firing into the air and running from a perceived threat the witnesses could not confirm. A surprising number of witnesses reported architectural changes occurring over the course of the attack. Considering there is no physical evidence that changes of that description occurred when analyzing the structure of the school itself, these accounts are regarded as low trust. Still, researchers are actively monitoring ACS levels in ███████████ in order to explore the possibility.
+
+Regarding acquired physical anomalies, during the initial Protectorate sweep a female student[[footnote]] Designated 903-C. [[/footnote]] that had been paralyzed was discovered in the school's boiler room by RE-50 rangers. Authority medical analysis found the condition to be the result of a fracture in her lower spine, likely a gunshot wound sustained from behind while she was fleeing from the perpetrators[[footnote]] The wound was consistent with those inflicted by a Mini-14, implicating 903-A. [[/footnote]]. When the rangers attempted to recover 903-C they began to be accosted by what were described as "phantoms". Alongside her paralysis, 903-C appeared to have developed a condition wherein her consciousness had an ambient effect on the coherency of the surrounding space. It was later discovered that while these manifestations generally did not possess physicality and were as a result undetectable by technological means, the generated entities sometimes imposed lasting effects on surrounding objects. During the course of 903-C's containment this has posed a difficulty to the Maintenance Union as the manifestations are typically the cause of electrical and HVAC complications on site. --For more information regarding the condition of 903-C please contact Dr. Gorman on the project team--[[footnote]] Dr. Gorman is currently deceased. [[/footnote]].
+
+[[include component:image-block
+    name= https://rpcsandbox.wdfiles.com/local--files/happenings/photo.png|
+    caption= Photograph of 903-A and 903-B recovered from 903-B's home. Photographer unknown. Date unknown. Identifying information redacted.|align=left
+]]
+
+Forensic analyses of the personal histories of 903-A/B, and documentation on the town of ███████████ itself remain incomplete. For unknown reasons 903-A and 903-B cleared their domiciles of all personal belongings prior to the attack, save for a few items. This has made gauging motives and methods difficult for Authority investigators. The parents of 903-A and 903-B have been brought in for questioning numerous times; however, complications in the application of amnestics resulted in permanent cerebral damage to these parties and as such they have been able to provide extremely limited information. Currently these individuals remain in civilian medical care, but researchers concede that further questioning of them is not a possibility. ACI plants within the local government of ███████████ have attempted to acquire blueprints of the school, but it would appear several historical documents which should be on file were lost by the town's library several years ago. This represents a level of negligence found by researchers to be unacceptable, but in the interest of maintaining information security Administration has cautioned against contributing to further discord in ███████████.
+
+For a number of RPC-903's discrepancies, research is ongoing.[[footnote]] This status may change depending on the results of the Archival review. [[/footnote]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Update:**__
+
+On October 4th, 2013 the remains of 903-A and 903-B were recovered by local law enforcement on school premises. This followed a two year search effort both by civilian law enforcement and Authority personnel to recover 903-A and 903-B. As a result of this discovery all activities pursuant to research regarding 903-A and 903-B will cease. Staff assigned to such activities will either be reassigned or rotated out by the OA&S.
+
+Containment Protocols will be updated to reflect the current status of 903-A and 903-B, as well the documentation for RPC-903 will be redesignated to a new object class after an evaluation by the OIRS review committee.
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Update:**__
+
+Following a major containment breach on September 13th, 2018, 903-C escaped containment along with several other humanoid subjects. In the resulting engagement 903-C was neutralized while Protectorate personnel attempted a recovery operation. As 903-C represented the only remaining anomalous activity under the purview of RPC-903, the OIRS will be conducting a review to determine the efficacy of this document's current object class. If found to be non-representative, the OIRS will redesignate it. In all probability if RPC-903 is redesignated it will be to Neutralized. All teams assigned to the project should keep this in mind for now.
+
+Containment Protocols will be updated to reflect the current status of 903-C.
+[[/div]]
+
+------
+> ||= __**Addendum 903.01**__ _
+> Data Breach||
+------
+
+The only severe data breach that has occurred related to RPC-903 was contained largely within a video released on the platform YouTube by a small "horror" content creator reiterating details of the case to spin a mysterious and conspiratorial narrative. The issue lied in that the video referenced excerpts of forum posts that Web Crawlers had at that point failed to quarantine for several years. The information presented in these posts are not revelatory as it pertains to the Authority, but nonetheless compromised material which was to be classified by intelligence personnel. Both the original video and the forum threads have since been removed by Web Crawlers, though the video remains in Authority archives and can be accessed below.
+
+ [[collapsible show="▶Access File" hide="▼Playing File...."]]
+[[html]]
+<iframe width="700" height="390" src="https://www.youtube.com/embed/UrYCs2ZaWv4" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[[/html]]
+[[/collapsible]]
+------
+> ||= __**Addendum 903.02**__ _
+> 903-C||
+------
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Excerpt extracted from Review Committee Statement on Proposal 3410**__
+
+"At this point, it is becoming increasingly clear that we have no methods of treating her condition. Though on certain days she might appear even coherent to the researchers, more often than not her splintered thought process takes hold and the resulting instances of reality incoherence have presented issues for containment. As much as this committee would like to see 903-C's condition improve, to see the effects of her injury start to subside, we believe that the best course of action available is to attain what information we can from 903-C and from her condition.
+
+Which is why we have recommended the procedure as outlined in page 76 of the proposal. It is invasive, and there is a certain level of risk that it may heavily reduce her cognition and recall, but what we can be sure of is that the intel we gain will be absolutely vital perhaps even in preventing other conditions of this nature. This proposal has been brought before the Board before, however a procedure such as this requires the approval of the project's head researchers. A small cadre has formed to oppose the procedure that we believe have been influenced by Dr. Gorman as a result of his unprofessional emotional attachment to the subject.
+
+While the project team has continually assured that they are doing everything in their power to improve the condition of 903-C through cognitive therapy and pharmaceutical methods, the committee is in agreement that we have not been presented with promising results. Granted, periods of lucidity are common, but in order for us to feel comfortable retracting our recommendation we would need to see a level of improvement which exceeds a certain benchmark. Since this proposal was first submitted, the project team has requested that the date by which this benchmark is to be met be pushed back further, and further, and further.
+
+For the most part these requests have been approved, but moving forward further requests to push the date back will be denied. As well, the OA&S has accepted our request that Dr. Gorman's staff be rotated out to mitigate what the committee considers unprofessional bias. Frankly we are of the opinion that the recent events in Dr. Gorman's personal life have contributed to his forming an unhealthy attachment to 903-C, and it is only out of a commitment to continuity when treating sapients that we do not pursue further action against him. What the committee does hope is that as a result of our actions Dr. Gorman strongly re-evaluates his behavior and begins to take our recommendations seriously. The OEaR has reiterated to us that it //will// exercise its authority to overrule his decisions if he continues to be uncooperative."
+
+------
+
+[[/div]]
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Excerpt extracted from the Official Response to Committee Statement on Proposal 3410**__
+
+"Slander is not a word presented lightly to proceedings of any nature, and thus I feel some apprehension in deploying it here. Though, it is difficult for me to summon another term which seems representative of the accusations that have been put forward by the review committee in their statement. They have implied that my own personal loss has informed my behavior towards the subject, which greatly insults not only me but the integrity of my staff and the entire project team. We have no stronger motive driving us than maintaining the mission of the Authority. The wellbeing of the subject is in fact a concern, but only insofar as her continued safety presents an undeniable benefit to the research we are conducting.
+
+The proposal brought forward is considered - not just by me, but the research team as a whole - to be barbaric at worst and short-sighted at best. While the insight gained presents a //probability// of useful applications, the data we gather by continuing to observe 903-C's condition and how it related to her //conscious// mind we believe to be of much more import.
+
+Regardless of the team's feelings toward the procedure, I assess that the committee's most substantive criticism is in regards to the psychological improvement benchmark, and the continual pushback of the benchmark date. We do admit, this has posed a difficulty for everyone involved with 903-C. While we are of the opinion that the total trajectory is one of improvement, her aggressive fragmentation often leads to short periods of relapse in cognition which can cause setbacks in our efforts to reach the benchmark.
+
+To illustrate this, I've included in this response copies of several manifestation logs that I've recorded over the course of 903-C's containment which I believe instill a distinct trend of improvement. We expect that these will assist in bringing the committee over to our perspective, and shut the door on the perceived animus between them and our team."
+
+[[>]]
+- Dr. Gorman
+[[/>]]
+
+------
+
+[[/div]]
+
+[[collapsible show="[+] Manifestation Log 08/02/2012" hide="[-] Close"]]
+> = **Manifestation Log** [TRANSCRIPT]
+> 
+> **Date:** 08/02/2012
+> 
+> **Researcher:** Dr. Gorman
+> 
+> **Subject:** 903-C
+> 
+> **[Begin Log]**
+> 
+> **Dr. Gorman:** Hello again, it's very good to see you.
+> 
+> **903-C:** **[No Response.]**
+> 
+> **Dr. Gorman:** All things considered you look very well. Healthy, even. How are you feeling?
+> 
+> **903-C:** Not great.
+> 
+> **Dr. Gorman:** Anything that we can do to help alleviate that?
+> 
+> **903-C:** What do you want? Really? How many shrinks are they gonna send in here before somebody gives me a straight fucking answer?
+> 
+> **Dr. Gorman:** I think you know the purpose of a "shrink" is to gauge your mental wellbeing. None of us want anything from you other than your own feelings.
+> 
+> **903-C:** I. Feel. Angry. I. Feel. Sad. I. Feel. Bored. There, now please either let me go home or get the fuck out.
+> 
+> **Dr. Gorman:** You see that? That's why you're still here. It's been, what, a year and those are still happening. We're just trying to figure out why so that we can help you.
+> 
+> **903-C:** //I don't want help! I want out of here!//
+> 
+> **Dr. Gorman:** There are restraints on you, that won't help.
+> 
+> **903-C:** I just want... I don't know what I want. //I want to die!// I... I can't even remember where I am half the time.
+> 
+> **Dr. Gorman:** Why did you start crying? What might have caused that shift in mood?
+> 
+> **903-C:** Can't you hear it? //Can't you hear it?// It's hurting me, it's hurting me, it's hurting me!
+> 
+> **Dr. Gorman:** What is? Are you remembering something from the school?
+> 
+> **903-C:** School. I was at school. It hurt then. It still hurts. I can feel it, why am I still feeling it?
+> 
+> **Dr. Gorman:** Just breathe, just breathe. What happened in the school?
+> 
+> **903-C:** █████ and █████... I... they hurt people. I hurt people.
+> 
+> **Dr. Gorman:** The attackers? You helped them?
+> 
+> **903-C:** //No! No!// I can't help them, I can't! They're my friends and they just... where are they? Where'd they go?
+> 
+> **Dr. Gorman:** Like I said, breathe. Breathe. In, and out. You see, I'm not afraid of it. You don't have to be either.
+> 
+> **903-C:** They were running away.
+> 
+> **Dr. Gorman:** Your friends, or the other students?
+> 
+> **903-C:** They weren't my friends! They were monsters! Or, no, the monsters came from somewhere else. The monsters came from... the trees. Oh no, oh no, oh no, not there! NOT THERE!
+> 
+> **Dr. Gorman:** Ok, breathe. Now, ok, I'm not supposed to touch you but I'm only holding this to help center you. Are you centered?
+> 
+> **903-C:** I'm here. I'm not there.
+> 
+> **Dr. Gorman:** Ok, ok. Just clear something up for me, this one thing. Were you friends with █████ and █████ or not?
+> 
+> **903-C:** I was. We were friends, and I helped them. But... they hurt me, and I punished them. It hurts my head, thinking about it.
+> 
+> **Dr. Gorman:** Why?
+> 
+> **903-C:** How can both things be true?
+> 
+> **Dr. Gorman:** We don't know. That's a tough thing to put on you, I get. But right now you're all we got. That's why we saved you.
+> 
+> **903-C:** Saved? Safe? Is that... what we're calling it?
+> 
+> **Dr. Gorman:** See, a joke means you're already feeling better. Look, from now on I'll be the only one you talk to ok? No more random shrinks, just me. Will that work?
+> 
+> **903-C:** I guess. If I do better... can I leave?
+> 
+> **Dr. Gorman:** One day, sure.
+> 
+> **[END OF LOG]**
+
+------
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Manifestation Description**__
+
+During this encounter the manifestations were rather severe. Already when I entered a swarm of what I assume to be gnats was crowning the small cell. As the subject's agitation grew, they became first wasps and then some sort of leathery bat-creature. Particularly when the subject began to discuss the events of the attack in ███████████, what appeared to be vocalizing humanoid figures began pounding on the door and walls from the outside, all this while blood was dripping from the light fixtures. Of particular note upon the mention of "trees" the subject began to hyperventilate, as well the pounding grew much more insistent and the air pressure began to decrease steadily. Luckily these manifestations were abated rather expediently. To me this is a positive portent for future improvement.
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="[+] Manifestation Log 15/05/2013" hide="[-] Close"]]
+> = **Manifestation Log** [TRANSCRIPT]
+> 
+> **Date:** 15/05/2013
+> 
+> **Researcher:** Dr. Gorman
+> 
+> **Subject:** 903-C
+> 
+> **[Begin Log]**
+> 
+> **903-C:** Alright, so, tell me Doc. Why do you think it is you're so uptight? Is it cause you had the hots for your mom?
+> 
+> **Dr. Gorman:** No, no. You're not ever going to turn this on me, no matter how many times you try. So let me do my thing ok?
+> 
+> **903-C:** Fine, fine.
+> 
+> **Dr. Gorman:** I want to get a handle on your mental state. We've been doing this regularly for a while. I want to hear from you how you think you're doing.
+> 
+> **903-C:** I'm doing something good. Good things, bad things. Doing. I'm sorry, I. It's me right? It wants me? To. Let me just.
+> 
+> **Dr. Gorman:** It's ok, take your time.
+> 
+> **903-C:** Not, I'm sorry, not doing well. Fuck, I keep doing that. Going somewhere else.
+> 
+> **Dr. Gorman:** It's not a competition. Best to think of it like a cold. You have it, and you've gotta fight it. But it doesn't matter how fast you do it, only that you get better.
+> 
+> **903-C:** But I'm... not breathing right. Not better. You see! It's touching me!
+> 
+> **Dr. Gorman:** It won't hurt you. You'll remember where you are and it will go away. And now, you remember.
+> 
+> **903-C:** I'm in my bed. I'm... still in my fucking bed.
+> 
+> **Dr. Gorman:** I don't know where you learned to swear like that, don't kids have any decency these days?
+> 
+> **903-C:** Not... not at my school. 8-4.
+> 
+> **Dr. Gorman:** 8-4?
+> 
+> **903-C:** Just something screaming. Sorry, saying. Is there a way to get better food here? I'm miserable with this slop.
+> 
+> **Dr. Gorman:** Would you be miserable without it?
+> 
+> **903-C:** I'd... starve, right?
+> 
+> **Dr. Gorman:** Just saying, perspective.
+> 
+> **903-C:** Fuck off. I'm serious. I need some stimulation besides the books you leave me. This place doesn't even have a window.
+> 
+> **Dr. Gorman:** I'm breaching protocol just by leaving the books. Those are good at least right?
+> 
+> **903-C:** Iliad is good. Reminds me of what we we're studying in English. Nymph. Echo...
+> 
+> **Dr. Gorman:** Sorry?
+> 
+> **903-C:** Echo, echo.
+> 
+> **Dr. Gorman:** Hey, hey. In and out.
+> 
+> **903-C:** It repeats. Again and again and again and again. Alone each and every night!
+> 
+> **Dr. Gorman:** You're staring at it! Stop looking! It's not there. It isn't-
+> 
+> **903-C:** I know. I know. But there's a storm.
+> 
+> **Dr. Gorman:** Just let it pass.
+> 
+> **903-C:** It won't.
+> 
+> **Dr. Gorman:** //Shit!//
+> 
+> **903-C:** Oh no. They're gonna be pissed aren't they?
+> 
+> **Dr. Gorman:** They're always pissed.
+> 
+> **[END OF LOG]**
+
+------
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Manifestation Description**__
+
+Manifestations for this session were eventful but rather tame. The "it" referenced at one point was a number of black tentacles that had risen from the floor and were grabbing her. They dissipated quickly with my help. The "problem" instance began at the mention of the Iliad, the room flooded into what resembled a miniature ersatz ocean. This would have been fine were it not for the storm that coalesced. It luckily wasn't dangerous but as it dispersed it released an electric charge which caused some localized outages on site. No breaches, but the MU was still pretty cross with me. Regardless, I still see it as an important step - testing the extent to which the manifestations can leave lasting physical effects.
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="[+] Manifestation Log 27/11/2014" hide="[-] Close"]]
+> = **Manifestation Log** [TRANSCRIPT]
+> 
+> **Date:** 27/11/2014
+> 
+> **Researcher:** Dr. Gorman
+> 
+> **Subject:** 903-C
+> 
+> **[Begin Log]**
+> 
+> **903-C:** Ok, I can't stand it anymore. You have to do something about the nightmares! I can't sleep! I know you're causing them, somehow, you people. This place. You're doing this to me and YOU HAVE TO STOP!
+> 
+> **Dr. Gorman:** Slow, slow. We haven't even started yet.
+> 
+> **903-C:** You need to stop them, I can't sleep!
+> 
+> **Dr. Gorman:** Look if you are having nightmares, the best way to stop them is to talk through them. That's what I'm here for.
+> 
+> **903-C:** If I start talking I won't stop, and if I don't stop it'll come and it won't go away.
+> 
+> **Dr. Gorman:** There's a something?
+> 
+> **903-C:** It was... it's been here. It was there, at the school when I, when... it happened.
+> 
+> **Dr. Gorman:** There was something at the school during the attack.
+> 
+> **903-C:** Well, before too. The whole town, we. I don't know, we could feel it but not quite see it. It followed us. We all had it.
+> 
+> **Dr. Gorman:** What was it?
+> 
+> **903-C:** A monster. Wyrm. Dragon... a monster.
+> 
+> **Dr. Gorman:** You've mentioned monsters before.
+> 
+> **903-C:** No, no, no. This, it's... This one is real.
+> 
+> **Dr. Gorman:** Oh, this is one is real? Hm. Well, what does it look like?
+> 
+> **903-C:** It's uh... big. Really big. Huge. Enormous.
+> 
+> **Dr. Gorman:** Ok.
+> 
+> **903-C:** It's got... a million hands. To reach out. To grab you, touch you. A million mouths to lie through, to swallow you whole. And at the top... three eyes.
+> 
+> **Dr. Gorman:** Just three?
+> 
+> **903-C:** To watch, to wit, to wait. Wait. They will wait. They will wait until you give yourselves to them.
+> 
+> **Dr. Gorman:** Sorry?
+> 
+> **903-C:** Then you're theirs. They lie inside you. Killing time.
+> 
+> **Dr. Gorman:** Now hold on-
+> 
+> **903-C:** Killing. They killed, I.... I can feel it. I... I can't I can't I can't I can't I can't. It's-
+> 
+> **Dr. Gorman:** Hold on.... Ok. Stop, just wait. I see it too ok. I see it too, it's there. But it won't hurt you. It can't hurt you. Just let it pass. Center yourself and come back to the room. Let it fly away.
+> 
+> **903-C:** Sorry, sorry, I... I'm here. I'm here.
+> 
+> **Dr. Gorman:** Are you alright?
+> 
+> **903-C:** No. I- I don't know.
+> 
+> **Dr. Gorman:** Well look, it's good you let it pass. It's gone now.
+> 
+> **903-C:** It isn't.
+> 
+> **Dr. Gorman:** It is, we're fine.
+> 
+> **903-C:** They all come back in the nightmares.
+> 
+> **Dr. Gorman:** It may not be the best time but, I think I'll ask them to prescribe you some Nabilone, alright? If nothing else it should help with nightmares.
+> 
+> **[END OF LOG]**
+
+------
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Manifestation Description**__
+
+This session had some of the most intense manifestations I've seen from 903-C. It's likely that the nightmares have been causing aggressive fragmentation to a severe degree. From the beginning of the encounter the walls of 903-C's cell were thick with some form of pseudo-flesh vine. Something, perhaps in the air, had caused the light from the cell's standard fixtures to shift into a red spectrum. Oddly enough, despite the fanciful description, the only thing that manifested during 903-C's description of the "monster" was a facsimile of the full moon, a single thin cloud slowly moving across it. Of course the effects reached a peak of intensity right around the point she mentioned "killing". What appeared to be a creature wearing the likenesses of both 903-A and 903-B began to emerge from an opening that had developed on the wall beside her. While I would absolutely consider this a low point as far as her lucidity is concerned, I find it promising that I was able to use the techniques I've developed to assist in dispersing entities of this demanding. It assures me that my rapport with the subject can indeed influence useful practices when dealing with her condition.
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="[+] Manifestation Log 10/01/2016" hide="[-] Close"]]
+> = **Manifestation Log** [TRANSCRIPT]
+> 
+> **Date:** 10/01/2016
+> 
+> **Researcher:** Dr. Gorman
+> 
+> **Subject:** 903-C
+> 
+> **[Begin Log]**
+> 
+> **Dr. Gorman:** Hey, they tell me you've been a little down lately. You want to talk about it?
+> 
+> **903-C:** **[No Response.]**
+> 
+> **Dr. Gorman:** I know you want my help. So I'm not leaving.
+> 
+> **903-C:** **[No Response.]**
+> 
+> **Dr. Gorman:** This is a tactic. Deep down you want to talk to me.
+> 
+> **903-C:** Do I? Is that what you've deduced?
+> 
+> **Dr. Gorman:** I... yes, I mean. I think.
+> 
+> **903-C:** It's her birthday.
+> 
+> **Dr. Gorman:** Uh, who?
+> 
+> **903-C:** You don't even know. You don't know anything.
+> 
+> **Dr. Gorman:** I'm trying.
+> 
+> **903-C:** My mom! Today's her birthday. You wanna know why I'm "down"? That's why.
+> 
+> **Dr. Gorman:** I'm not sure what you mean.
+> 
+> **903-C:** I've just been thinking about her a lot lately. And I realized, she's probably dead.
+> 
+> **Dr. Gorman:** That's a leap isn't it?
+> 
+> **903-C:** No, she's dead. I... I can't hear her anymore. I've been listening. She's not there.
+> 
+> **Dr. Gorman:** Are you sure what you're experiencing is real, or is it a distortion caused by your condition?
+> 
+> **903-C:** She's probably been dead a while too. I just wasn't thinking about her.
+> 
+> **Dr. Gorman:** Well-
+> 
+> **903-C:** Oh god, what kind of daughter am I?
+> 
+> **Dr. Gorman:** Hm?
+> 
+> **903-C:** You know, I don't even remember what color her eyes were. How sad is that.
+> 
+> **Dr. Gorman:** I don't-
+> 
+> **903-C:** She's gone, and there are so many things about her I can't remember. Because I just wasn't paying attention. I felt like... she'd always be there. I took her for granted and now I can't even do her the decency of remembering her properly.
+> 
+> **Dr. Gorman:** **[No Response.]**
+> 
+> **903-C:** And you know, she remembered everything about me. My favorite foods, music, my schedule. She really cared. She thought about me all the time and I didn't think about her at all. Just had to be an emo teen. She did everything for me. God, did I even thank her? Did she even know I loved her?
+> 
+> **Dr. Gorman:** I'm sure she did.
+> 
+> **903-C:** I bet she'd know what color my eyes are, even if I've forgotten. And I couldn't give her the time of day. I probably really hurt her, acting like I didn't care.
+> 
+> **Dr. Gorman:** I don't think it's healthy to feed hatred like that. What you're feeling is grief. Regret. Fell that. Don't let it spiral into self hatred.
+> 
+> **903-C:** No, no. It's you that I hate. You and your clipboard and your tape recorder. Your coat, this room, this bed, this place. I hate that I'm here and she's gone. That I was hollowed out and that my mom died thinking I didn't care because YOU think you own me!
+> 
+> **Dr. Gorman:** I don't know what you mean.
+> 
+> **903-C:** I can't replace whoever it is you lost any more than I can replace mom. Stop trying. See you in September.
+> 
+> **Dr. Gorman:** Remember where you are.
+> 
+> **903-C:** I'm in hell and you're the jailer. Keeper. Toucher. Thing.
+> 
+> **Dr. Gorman:** Do you want a tissue? You cried an awful lot.
+> 
+> **903-C:** **[No Response.]**
+> 
+> **Dr. Gorman:** You managed to keep the cell intact this time, I think that's an improvement.
+> 
+> **903-C:** **[No Response.]**
+> 
+> **Dr. Gorman:** Ok, well. You did that on purpose.
+> 
+> **[END OF LOG]**
+
+------
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Manifestation Description**__
+
+Relatively subdued manifestations here. Likely related to 903-C's mood was the ever present fog inside the cell which made it difficult to see. Present as well were indistinct gaseous entities mimicking the forms of women that would coalesce and then dissipate at random intervals. Their forms would shift from seemingly docile to a more violent and extreme shape as the tenor of the conversation shifted. While her disagreement with me may seem to be a setback I interpret her willingness to challenge me as encouraging progression in the development of her sense of self. As well, the manifestations appeared to be directly mirroring 903-C's own desire, reflecting her conscious need to try and reform some image of her mother from obscure memories. This shows to me that when she is focused the manifestations can be influenced toward a specific outcome. The Maintenance Union informed me that the noise I heard near the end of the session was a water pressure issue that occurred in some nearby plumbing systems.
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="[+] Manifestation Log 19/04/2018" hide="[-] Close"]]
+> = **Manifestation Log** [TRANSCRIPT]
+> 
+> **Date:** 19/04/2018
+> 
+> **Researcher:** Dr. Gorman
+> 
+> **Subject:** 903-C
+> 
+> **[Begin Log]**
+>  
+> **Dr. Gorman:** Alright, I have to ask. What's with the candles?
+> 
+> **903-C:** They help me think.
+> 
+> **Dr. Gorman:** Oh, you've been thinking have you?
+> 
+> **903-C:** Yes. In fact, I've found that if I focus on making one thing, and keeping that one thing there, my mind is clearer.
+> 
+> **Dr. Gorman:** So you made candles.
+> 
+> **903-C:** Fuck off.
+> 
+> **Dr. Gorman:** I've been thinking too. About the, uh, spats that we've been having.
+> 
+> **903-C:** That what you're calling them.
+> 
+> **Dr. Gorman:** These past couple of years we haven't seen eye to eye, I know. A lot of confrontational sessions. But I've come up with an exercise that might help.
+> 
+> **903-C:** Is it letting me go?
+> 
+> **Dr. Gorman:** Do you remember a year or so back, when you told me about your mother. How you were upset at how little you knew about her?
+> 
+> **903-C:** I recall.
+> 
+> **Dr. Gorman:** Well, why don't you tell me about her. Some things you actually do remember. It will be a little painful, but you've come a long way. I'd like to try, at least.
+> 
+> **903-C:** Stop trying to be my friend. Friends. I had an eye and they had two. Sorry.
+> 
+> **Dr. Gorman:** Come on.
+> 
+> **903-C:** Fine. Start.
+> 
+> **Dr. Gorman:** Well, I was hoping you'd just go off. Um... music. What kind of music did she like?
+> 
+> **903-C:** I told you my grandpa was white, right? Her taste definitely came from him. She loved those white boy oldies. I'm talking old-old. And you know, once my dad was out of the picture and we moved in with gramps it was all that fucking played in that house.
+> 
+> **Dr. Gorman:** I'm guessing you weren't the biggest fan.
+> 
+> **903-C:** It got annoying after 10 years, you know? But I guess I can't complain. I also had a thing for old white people music, I probably got it from her diseased genes. It's just that my interest skewed towards the intellectual pursuits of the 80s, like any good teenager.
+> 
+> **Dr. Gorman:** I'd hardly call 80's pop intellectual.
+> 
+> **903-C:** Pop? Don't you fucking dare. I'll hit you if you start making accusations. Or I would if.
+> 
+> **Dr. Gorman:** Hey, hey, we were having a moment.
+> 
+> **903-C:** Right um, shoot. Deep deep ocean. I can't - I can't I'm dr-
+> 
+> **Dr. Gorman:** Sh. Sh. Your mom. Think of your mom and her crappy music. Did she dance? Can you see her dancing?
+> 
+> **903-C:** Have a good time, but remember... remember... Spanish. I sucked at Spanish. Couldn't remember the words.
+> 
+> **Dr. Gorman:** I guess it's not PC for me to say but I kind of doubt that.
+> 
+> **903-C:** No, mom she. She never spoke it. Hated when I'd try. I never knew why.
+> 
+> **Dr. Gorman:** You didn't ask?
+> 
+> **903-C:** Just one more thing I'll never know about her. Nice job making me feel better.
+> 
+> **Dr. Gorman:** Hey, I was just-
+> 
+> **903-C:** I think you should go.
+> 
+> **Dr. Gorman:** The session isn't over yet. I'm sorry but-
+> 
+> **903-C:** //Go!//
+> 
+> **Dr. Gorman:** Hey, hey the candles you- Oh no, oh no, oh god! Quick!
+> 
+> **[END OF LOG]**
+
+------
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Manifestation Description**__
+
+Once again I find myself quite impressed by the improvements 903-C has made in developing mechanisms with which to deal with her condition. The focus on display in keeping the candles manifested was admirable, even if the manifestation would at times shift in relation to the intensity of her mood. As well, I would say this session includes quite a major discovery. In knocking over the candles, 903-C actually lit the bedsheets on fire. Yes, a real lasting physical fire. It took some effort to extinguish but it is always so fascinating to learn something new about this condition. I'll make note of it and set the research team onto exploring this further. Whatever team is left anyway.
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#1d2022; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Closing Statement on 903-C from Dr. Gorman**__
+
+As of today they have officially announced the neutralization of 903-C. With her gone, there are no longer any requirements for active containment on any anomaly relating to RPC-903. It is likely the OIRS will be reviewing the documentation and I have no doubt they will be downgrading its object class. I was always of the opinion that her condition was steadily improving, but it would appear there were factors at play I failed to properly consider and account for. The situation being what it is, I am prepared to take full responsibility for the outcome of this project. I don't doubt that as a result I will likely not be named project head for any assignment in the near future, or perhaps ever again. I am still of the opinion that data we gathered while studying 903-C was undeniably useful, but I am unwilling to allow anyone else on the team to bear the blame for the ultimate result of our methods.
+
+One might, if they were so inclined, interpret my statements as an indictment of my behavior and an implicit show of regret that I did not heed the warnings and proposals of the OEaR committee. I will not comment on this line of thought, only present it to the reader for contemplation.
+
+To close out, the data collected on 903-C including biometrics, manifestation logs, personal documents etc. will be held in the OA&S file storage facilities. If anyone still assigned to RPC-903 requires access to them they can contact the OA&S staff center and request clearance. The office space used by the research team will be reassigned as they are rotated out, as outlined in the memorandums they will all receive from OA&S shortly following the publication of this statement. It would be unprofessional of me to express an emotional response here, but I think as a way to motivate the research team as they move on from this project I will end this statement with a piece by one of my favorite French poets.
+
+------
+
+**La Fée Moderne**
+
+//K//notted in the //t//angles of this world
+//L//iving //a//gainst //b//lack waves //b//uffeting the ony//x// shore
+//Y//ellow glares small in that darkness
+//N//ew are these sorrows
+Yet o//l//d
+
+[[>]]
+- 182//4//
+[[/>]]
+[[/div]]
+

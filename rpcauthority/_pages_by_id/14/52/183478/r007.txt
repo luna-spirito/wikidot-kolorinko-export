@@ -1,0 +1,96 @@
+---
+title: "GD-AFRI"
+tags: ["document", "personnel"]
+page_id: "1452183478"
+site: "rpcauthority"
+slug: "gd-afri"
+revision: 7
+revision_id: "1541748996"
+author: 5982545
+timestamp: 1770050430
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aadministration-theme/Administration.png width="150px"]]
+
+[[=]]
+++ >> Office of the Directorate <<
+
+
++ GLOBAL DIRECTOR "AFRICOM"
+[[/=]]
+----
+
+[[# GD-AFRI]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Africa%20Command.png width="200px"]]
+
+**GD-AFRI:** Global director representative for Africa.
+
+**Personality Archetype:** A middle-aged Caucasian man somewhere in his early 40s of Afrikaner heritage. He is fluent in English, Dutch, and Afrikaans, and is a veteran of [[[An incomplete history of the Authority|Operation Dawn Initiative]]]. Spoggerig is described as being egotistical, strategic, moderately conservative, hardworking, and a man devoted to his work. He enjoys boasting about his progress and accomplishments as a Global Director whenever he gets the chance, yet is, more often than not, unable to back said boasts up.
+
+Spoggerig spent most of his early years growing up in South Africa before later moving to The Netherlands with the rest of his family sometime in the early-90s following the dissolution of the apartheid regime. He would later enlist himself in the Royal Netherlands Army in 1999, before eventually being recruited by the [[[Authority Security Force|ASF]]] in 2003 and later passing the Authority Introduction Program in 2004. From there, he would be deployed to the Middle East in order to assist Authority forces in Operation Dawn Initiative. Following ODI's eventual conclusion in 2006, Spoggerig would be relocated to Site-040 in South Africa, mainly due to his fluency in Afrikaans. From there, he would decide to pursue a career in the Administration Division, later becoming the Site Director in March of 2016.
+
+**Relationships:** Spoggerig has been known for favoring any division as long as they provide some sort of value to him and the rest of AFRICOM, which usually comes from him wanting to strengthen his position. He is also well known for being a wild card among the other members of the directorate. Just because he sides with someone or agrees on certain matters with them doesn't mean that he considers them as an ally, or even a friend for that matter.
+
+Although he never attempts to deliberately antagonize the rest of the Global Directors, he is infamous among his peers for his egotistical attitude. Most of his relationships with the other members of the directorate are based solely on potential personal or monetary gain, and as such are not designed to last long.
+
+----
+
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/gd-the-humanitarian-2021/AFRICOM_Zulu_Forces.png|caption=Zulu Forces patch.|width=200px|align=right]]
+
+MST Alpha-1-AFRI ("Zulu Forces'') designates the personal protection unit tasked with guarding the AFRICOM GD Representative. Originally several WESTCOM units trying to establish a more prevalent Authority foothold within mid-twentieth century Africa, the MST had undergone several significant structural changes over the years.
+
+Today, the force consists of various personnel handpicked from across the Authority's pool of decorated Protectorate and Deputy ASF officers for their occupational proficiency; united in their fierce loyalty towards Command.
+ 
+Zulu Forces maintain a strict regiment: Operating several mobile camps across the continent. The team mainly consists of a primary strikeforce, led by joint Commanders and assisted by technical, intelligence, and adaptive medical services, respectively.
+
+Their methodology stresses preparation above all else: assassination attempts, wilderness training, and EMP blackouts are among the thousands of contingencies the team is prepared to adapt to in the chaotic political climate of Africa. No move is made by GD-AFRI that has not meticulously been plotted by the MST beforehand. Each member is also trained to provide rapid aid when needed: Often prioritizing coordinating non-combative personnel away from enemy engagement.
+
+However, in the field, the Zulu Forces operatives favor a much more direct approach that emphasizes long-term strategy: Opting to overwhelm their opponents rapidly or guard their objective rigidly. Despite this, Zulu Forces are the least technologically advanced unit of MST Alpha-1, often utilizing standard heavy artillery with minimal body augmentations and special recognizance equipment. Although, there have been several discussions for independent NuCorp contracts for stealth-ware and lightweight body armor (currently pending).
+
+----
+
+**Rap Sheet**
+
+* **Bodyguards:** 6 Personnel
+* **Overwatch:** 2 Personnel
+* **Logistics/ACI Support:** 4 Personnel
+* **Comms/Technical Support:** 2 Personnel
+* **Medical Support** 4 Personnel
+* **Rifle:** FN FAL
+* **Other Equipment:** APY All-Terrain Tanks, NOBX3 Night vision goggles, TMK-MO Medical Operator Kit
+
+----
+[[=]]
++ Further Assignments
+[[/=]]
+----
+//Previous directors of AFRICOM://
+
+**2021-2024** | [http://rpcauthority.wikidot.com/gd-the-humanitarian-2021 The Humanitarian]
+----
+//Articles involving GD-AFRICOM or Zulu Forces://
+[[module ListPages separate="no" tags="+gd-afri +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-afri -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+
+[[=]]
+> +++++ [ DECLASSIFICATION PENDING GD APPROVAL ]
+[[/=]]
+[[/div]]
+

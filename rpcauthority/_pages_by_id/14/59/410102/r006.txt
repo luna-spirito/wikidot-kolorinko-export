@@ -1,0 +1,186 @@
+---
+title: "Tale Topics"
+tags: ["hub"]
+page_id: "1459410102"
+site: "rpcauthority"
+slug: "tale-topics"
+revision: 6
+revision_id: "1530093876"
+author: 5982545
+timestamp: 1747086946
+---
+
+[[module CSS]]
+.topicOptions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.topicOptions > div {
+    width: 29%;
+    flex-grow: 1;
+    padding: 10px;
+    border: var(--basic-border);
+    border-bottom-width: 3px;
+    background: var(--primary-background);
+    box-shadow: var(--content-box-shadow);
+    border-radius: 10px;
+    height: 14em;
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    transition: 0.3s;
+}
+.topicOptions > div > p:first-child, .topicOptions > div > p:first-child a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.topicOptions > div > * { margin: 0; }
+.topicOptions > div > h1:nth-child(2) {
+    padding-bottom: 5px;
+    border-bottom: 1px solid;
+    border-color: inherit;
+    font-weight: bold;
+    color: var(--link-color);
+}
+.topicOptions > div > p:nth-child(3) {
+    flex-grow: 1;
+    margin: 1em 0;
+}
+.topicOptions > div > h1:last-child {
+    padding: 5px 10px;
+    background: var(--secondary-background);
+    border: inherit;
+    border-width: 1px;
+    border-radius: 10px;
+}
+.topicOptions > div:hover {
+    border-color: var(--link-color);
+    color: var(--link-hover-color);
+    box-shadow: 0 0 1px 1px #fff2;
+    transition: none;
+}
+.topicOptions > div:hover > h1:nth-child(2) { color: var(--link-hover-color); }
+[[/module]]
+
+[[=]]
+These tags label tales and documents for navigation purposes:
+
+[[div class="topicOptions"]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +horror" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bhorror"]] [[/a]]
++ Horror
+Has disturbing or unsettling elements.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +eoi-tale" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2beoi-tale"]] [[/a]]
++ EOI Tale
+Involves groups, governments, or persons of interest.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +alt-timeline" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2balt-timeline"]] [[/a]]
++ Alt-Timeline
+Takes place in or interacts with alternate timelines.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +military" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bmilitary"]] [[/a]]
++ Military
+Involves MSTs, the ASF, or other militaristic elements.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +research" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bresearch"]] [[/a]]
++ Research
+Involves Authority researchers, or the research of anomalies.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +containment" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bcontainment"]] [[/a]]
++ Containment
+Involves the containment of anomalies.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +noir" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bnoir"]] [[/a]]
++ Noir
+Falls under the Noir genre, including elements of mystery, murder and conspiracy.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +comedy" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bcomedy"]] [[/a]]
++ Comedy
+Has lighthearted or comical elements.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +history" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bhistory"]] [[/a]]
++ History
+Details the history of the RPC Authority universe.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +non-canon" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bnon-canon"]] [[/a]]
++ Non-Canon
+Does not take place in the same connected universe as normal articles. 
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst +short" wrapper="no"]]
+[[div style="order: -%%total%%;"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,%2bshort"]] [[/a]]
++ Short
+Fewer than 1000 words long.
++ %%total%%
+[[/div]]
+[[/module]]
+
+[[module CountPages tags="tale document -grp -site -personnel -mst -horror -eoi-tale -alt-timeline -military -research -containment -noir -comedy -history"]]
+[[a href="/tales/tags/tale,document,-grp,-site,-personnel,-mst,-horror,-eoi-tale,-alt-timeline,-military,-research,-containment,-noir,-comedy,-history"]] [[/a]]
++ Uncategorized
+Has yet to be categorized.
++ %%total%%
+[[/module]]
+
+[[/div]]
+[[/=]]
+

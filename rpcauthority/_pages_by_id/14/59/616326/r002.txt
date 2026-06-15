@@ -1,0 +1,137 @@
+---
+title: "Hazard Poker Card CSS"
+tags: ["component"]
+page_id: "1459616326"
+site: "rpcauthority"
+slug: "component:hazard-poker-card-css"
+revision: 2
+revision_id: "1530997178"
+author: 5982545
+timestamp: 1752528995
+---
+
+[[module CSS]]
+.cardBox {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    --scale: 0.8;
+}
+.cardBox .error-block { display: none; }
+
+.cardArea, .cardArea .card {
+    width: calc(85px*var(--scale));
+    height: calc(119px*var(--scale));
+}
+.cardArea {
+    position: relative;
+    padding: calc(5px*var(--scale));
+}
+.cardArea .card {
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: linear-gradient(to bottom right, #fff, #dff);
+    position: relative;
+    pointer-events: none;
+    bottom: 0;
+    transition: bottom 0.4s, box-shadow 0.4s;
+    box-shadow: var(--content-box-shadow), 0 -1px 0 1px #8080cd inset;
+
+    animation: cardWiggle 2s infinite linear alternate;
+}
+.cardArea:nth-child(3n+1) .card { animation-delay: 1s; }
+.cardArea:nth-child(3n+2) .card { animation-delay: 0.5s; }
+.card .cardImage {
+    width: calc(64px*var(--scale));
+    height: calc(64px*var(--scale));
+    background: calc(-3px*var(--scale)) / calc(70px*var(--scale));
+    filter: contrast(1.2);
+    border: 1px solid #000;
+    border-radius: 3px;
+    box-shadow: 2px 2px #0553 inset;
+}
+.cardArea .hoverText {
+    display: inline-block;
+    padding: 8px;
+    position: absolute;
+    bottom: calc(100% + 5px);
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    background: #fff;
+    color: #777;
+    border-radius: 6px;
+    z-index: 10;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.2s;
+    font-size: 85%;
+    pointer-events: none;
+    user-select: none;
+    box-shadow: var(--content-box-shadow);
+}
+.cardArea .hoverText span {
+    display: inline-block;
+    font-size: 170%;
+    line-height: 100%;
+    color: #000;
+    margin-bottom: calc(5px*var(--scale));
+}
+.cardArea .hoverText > p { margin: 0; }
+.cardArea .hoverText::after {
+    content: " ";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border: 5px solid;
+    border-color: transparent;
+    border-top-color: #fff;
+}
+.cardArea:hover .card {
+    bottom: 10px;
+    transition: bottom 0.1s, box-shadow 0.1s;
+    box-shadow: 5px 10px 3px var(--secondary-background), 0 -1px 0 1px #8080cd inset;
+}
+.cardArea:hover .hoverText {
+    visibility: visible;
+    opacity: 1;
+    bottom: calc(100% + 17px);
+    transition: 0.1s;
+}
+
+@keyframes cardWiggle {
+    from { transform: rotateZ(-1.5deg); }
+    to { transform: rotateZ(1.5deg); }
+}
+
+.cardArea .card::before, .cardArea .card::after {
+    content: "";
+    position: absolute;
+    width: calc(12px*var(--scale));
+    height: calc(13px*var(--scale));
+    background: 0/calc(12px*var(--scale)) calc(13px*var(--scale)) no-repeat;
+}
+.cardArea .card::before {
+    top: calc(5px*var(--scale));
+    left: calc(3px*var(--scale));
+}
+.cardArea .card::after {
+    bottom: calc(5px*var(--scale));
+    right: calc(3px*var(--scale));
+    transform: scaleY(-1);
+}
+.cardArea .card.spades::before, .cardArea .card.spades::after { background-image: url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/suit-spades.png); }
+.cardArea .card.clubs::before, .cardArea .card.clubs::after { background-image: url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/suit-clubs.png); }
+.cardArea .card.hearts::before, .cardArea .card.hearts::after { background-image: url(https://rpcauthority.wdfiles.com/local--files/hazard-poker/suit-hearts.png); }
+.cardArea .card.diamonds::before, .cardArea .card.diamonds::after { background-image: url(https://rpcauthority.wdfiles.com/local--files/hazard-poker/suit-diamonds.png); }
+
+@media (max-width: 900px) {
+    .cardBox { --scale: 0.65; }
+}
+[[/module]]
+

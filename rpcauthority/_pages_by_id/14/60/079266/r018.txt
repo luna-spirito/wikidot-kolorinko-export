@@ -1,0 +1,307 @@
+---
+title: "Site-070"
+tags: ["document", "site", "translated"]
+page_id: "1460079266"
+site: "rpcauthority"
+slug: "site-070"
+revision: 18
+revision_id: "1543067698"
+author: 4330657
+timestamp: 1775117176
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:site-070-theme/code/1);
+
+.log {
+background-color: var(--primary-background);
+    border: var(--basic-border);
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+[[/module]]
+
+[[include component:rate title=site-070 | translations=show | translationblock = [[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/sitio-070"]] ]]
+
+[[div class="site-doc" style="background: var(--background-3); border: solid 2px #666; padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/site-index/site-header-white.png width="60%"]]
+
+[[=]]
+[[size xx-large]]**Site-070**[[/size]]
++ **Research & Reverse-Engineering Facility**
+[[/=]]
+
+[[include component:image-enlarge name=070base.png|align=center|width=700px|caption= OL-Site-070-B guarding the border of Site-070.]]
+
+**Established:** 4th March, 1966 / 13th April, 1973
+
+**Front Cover:** Gyda National Park
+
+**Location:** 71°50'35.0"N 78°12'23.0"E
+
+**Codename:** “Vigil”
+
+**Hex-code**: [46]
+
+**Site Occupation:** Research, Engineering, Spiritual
+
+**Division Jurisdiction:** EASTCOM [Research]
+
+**Total Area:** 
+* 11,500 m^^2^^ (Site)
+* 33,000 m^^2^^ (OL-Site)
+
+------
++++ Background Information:
+Site-070 is a research division facility dedicated to the study and reverse-engineering of anomalies for practical application. Personnel assigned to Site-070 are granted unrestricted freedom to pursue any research and experiments of their choosing, free from the oversight and interference of the Authority. Throughout its operation, Site-070 has produced some of the most advanced technologies in the veiled world, pushing the Authority to the forefront of the technological arms race against rival governments. 
+
+The only mandate Site-070 is bound to is the prohibition against conducting experiments involving CSD-class personnel. To circumvent this restriction, researchers began conducting experiments on themselves to achieve results. This environment has also fostered frequent instances of self-endangerment among personnel in pursuit of research objectives, resulting in the highest rate of site fatalities per capita.[[footnote]] See: //[/what-goes-on-in-site-070 What Goes on in Site-070]//. [[/footnote]]
+
+The ACI has reported that Site-070 may extend beyond what can be seen. They allege the existence of an extensive substructure that has the potential to accommodate thousands of additional members. These claims remain unverified due to lack of evidence.
+------
++++ The Scholar's Influence:
+
+[[include component:image-block name= 070eye.jpg
+|width= 200px
+|caption= "The Eye of the Scholar", a holy symbol in the Site-070 Cult.
+]]
+
+Personnel bound by “Site-070’s contract” are subject to an anomalous cognitive influence that induces self-endangering behaviors that border on suicide. This property is known as the "//Scholar's Influence//".[[footnote]] The Scholar in question is GD-SCHL “The Devil”, who served as the Research Division Global Director from 1968-1972. [[/footnote]]
+
+This influence is believed to induce progressive cognitive decline, frequently accompanied by episodes of acute psychosis. When coupled with unrestricted access to anomalous specimens for experimentation, the resulting instability poses a substantial threat to both Site-070 personnel and the surrounding environment.
+
+Secondary effects include the development of a quasi-religious veneration for Site-070’s senior leadership and founding authority. Verified intelligence regarding the so-called “//Pupils of the Scholar//” remains minimal; no stationed personnel have been able to provide verifiable accounts of its doctrine, practices, or initiation rituals.
+
+It is also possible that anomalous properties behave differently under this influence. The staff of Site-070 are known to have a symbiotic relationship with the anomalies they research; the two entities often rely on each other for support. 
+
+Recognizing the potential threat posed by inner-facility personnel to the Authority and the broader populace, OL-Site-070 and MST Oscar-6 "Unseeing" were established to mitigate risks associated with the uncontrolled activities of the inner-facility without entering the facility itself.
+
+------
++++ Authority Jurisdiction:
+
+Site-070 is classified as an Authority facility as long as a representative from the Office of Ethics and Review (OEaR) conducts an annual inspection and submits an assessment report to the Presidium. Under these conditions, Site-070 remains under the Authority’s welfare and judicial protection.
+
+Beyond the OEaR’s annual assessment, the Authority has no authorized means of acquiring additional intelligence on Site-070. Unauthorized entry into the facility constitutes a serious breach of protocol and is subject to severe disciplinary measures.
+
+[[collapsible show="[+] LEVEL 4 CLEARANCE REQUIRED" hide="[-] ACCESS GRANTED"]]
+
+The only way for the Authority to lawfully step inside Site-070 is by first classifying the site as a ##42f5ec|proxy## group of interest with the potential of immediately becoming ##f54242|hostile##. This redesignation is enacted if the OEaR fails to complete its annual visit and remains in effect until the subsequent inspection is conducted.
+
+[[div class="log"]]
+++ Pupils of the Scholar
+##42f5ec |Proxy##
+
+* Authority-Aware
+* Unveiled
+* Seeker
+* Sculptor
+* Structured
+* Local
+
+[[f>image 070logo1.png width="150px"]]
+**Overview:** The //Pupils of the Scholar// is the collective designation for all personnel who have entered into Site-070’s contract. Current records confirm the existence of 1,140 such research staff; however, more individuals may have entered into similar agreements and are subject to the facility’s influence. 
+
+If the OEaR, //for whatever reason//, fails to conduct its annual visit, Site-070 is to be reclassified into a Pupils of the Scholar base for a year, and the staff's contractual affiliation with the Authority is null and void until next year. Authority would be authorized to employ any intrusive measures against Site-070, provided such operations are conducted under the joint supervision of GD-SCHL and GD-EAST.
+
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[=]]
++ **Site Departments** 
+[[/=]]
+
+----
+
+[[tabview]]
+  [[tab Civil]]
+
++++ ##royalblue|█## Civil Department
+
+The Civil Department is Site-070’s official representative, acting as the facility's judicial authority and administration. As the primary intermediary with the Authority, it oversees the transfer of research materials, logistical assets, documentation, and other critical resources.
+
+Internally, the Civil Department manages Site-070’s organizational hierarchy and directs its diplomatic and operational relations. Owing to its high public profile and influence, it is widely regarded as the most corrupt division within the facility. Multiple investigations have confirmed that several of its members also hold senior positions within the Counsel Department.
+
+* Recruitment Team
+* Managerial Control Team
+* Communication Team
+* Intelligence Team
+* Patent Team
+
+  [[/tab]]
+  [[tab Research]]
++++ ##darkorchid|█## Research Department
+As Site-070’s largest division, the Research Department maintains the most direct and frequent contact with anomalies. All personnel in the inner-facility are active and contributing members of the Research Department.
+
+Researchers operate with considerable freedom in their experimental methods, valuing documentation and records as a form of currency within the department. A distinct social hierarchy pervades the organization, where status and influence are determined not only by the significance of one’s findings but also by the lengths one is willing to go to obtain them.
+
+Researchers in this department often experiment on themselves or on each other, taking advantage of the Scholar’s Influence as a protective buffer against both physiological and psychological harm. Notably, the harmful characteristics of anomalies are less potent within Site-070 than everywhere else; in some instances, this influence alters the anomaly so significantly that it exhibits properties entirely divergent from its source.
+
+* Archive Review Team
+* Scientific Analysis Team
+* Experimentation Team
+* Sample Extraction Team
+
+  [[/tab]]
+  [[tab Engineering]]
+
++++ ##goldenrod|█## Engineering Department
+
+The Engineering Department is the beating heart of Site-070, responsible for developing many of the Authority’s most advanced technologies. The Civil and Sustainment Departments dedicate the bulk of their logistical resources to sustaining its operations.
+
+A defining characteristic of Site-070’s Engineering Department is its capacity to produce derivative replications of anomalies sampled within the facility. These “replicants” may manifest as mechanical, biological, or metaphysical constructs, each retaining the defining properties and behavioral characteristics of their source anomalies.
+
+While most products provided to the Authority take the form of mechanical systems exhibiting diluted or partial properties of the original RPCs, some hybridized anomalies has been extracted. The creation of these "hybrid anomalies" involves the mixing and matching of various anomalous characteristics into a single entity, device, and/or system.
+
+* Core Physical & Mechanical Team
+* Chemical & Biological Team
+* Theoretical Metaphysics Team
+* Sample Replicant Team
+* etc.
+
+
+  [[/tab]]
+  [[tab Suppression]]
+
++++ ##firebrick|█## Suppression Department
+Site-070 has no conventional weapons or ASF personnel. Instead, security and offensive force are delegated internally, resulting in the establishment of the Suppression Department: a paramilitary security division composed primarily of rotating Site staff. 
+
+This unit routinely deploys anomalous technologies and prototype systems as operational assets. The department is tasked with safeguarding personnel against internal and external threats, which include hostile anomalies and unauthorized incursions.
+
+Personnel assigned to this department are identifiable by the complete concealment of their faces and the presence of a red armband worn on the right arm. Non-Site-070 Authority personnel are advised to avoid contact with members of the Suppression Department, as they have demonstrated extreme hostility toward external Authority staff, especially MSTs.
+
+* Emergency Confinement Team
+* Security Team
+* Strike Team
+* Anti-MST Force
+
+  [[/tab]]
+  [[tab Sustainment]]
++++ ##green|█## Sustainment Department
+
+The Sustainment Department is Site-070’s operative body for the management of material resources and long-term operational viability. Its responsibilities include the oversight of energy production, food supply, maintenance schedules, janitorial operations, etc. Despite the mundanity of the Sustainment Department's tasks, they are the most secretive section of Site-070; both the OEaR and MST Oscar-6 have reported that direct sightings of its personnel are rare.
+
+The Sustainment Department is suspected to be the largest division within Site-070, with total personnel numbers potentially exceeding all current Authority estimates. Internal documentation references the existence of infrastructure such as thermal reactors, agricultural installations, libraries, and a cathedral, none of which appear in the original architectural schematics or satellite imagery of the facility.[[footnote]]The leading theory is that these facilities are hidden underground.[[/footnote]]
+
+* Resource Team
+* Maintenance Team
+* Architecture Team
+* etc.
+
+  [[/tab]]
+  [[tab Counsel]]
++++ ##white|█## Counsel Department
+
+Also known as the //Pupils of the Scholar//, the Counsel Department functions as both the religious and ideological authority within Site-070. Its responsibilities extend beyond spiritual leadership to encompass the physical and psychological counseling of personnel, mediating interpersonal disputes, and ensuring the continued welfare and loyalty of the workforce.
+
+The department holds the highest position within Site-070’s internal hierarchy, wielding influence over both operational and cultural policy. Many of its senior members are veteran researchers who have served within Site-070 for decades, possessing both extensive technical expertise and deep ideological alignment with the Scholar’s doctrine.
+
+* Medical Team[[footnote]]Site-070’s medical division operates differently from conventional medical teams, relying primarily on anomalous phenomena and internally developed technologies for the treatment and recovery of personnel. [[/footnote]]
+* Paranoia Team[[footnote]] The Paranoia Team specializes in the detection, monitoring, and mitigation of perceived psychological and ideological threats within Site-070. [[/footnote]]
+* Welfare Council
+* Covent of the Scholar
+  [[/tab]]
+[[/tabview]]
+
+----
+
+[[=]]
++ **Site Administration**
+[[/=]]
+
+----
+
+**Administrative Officials:**
+
+* **Site Director:** Dr. Maxim Solzhenitsyn
+
+* **Assistant Site Director:** (?)
+
+* **Head of Administrative Review:** Rep. Julius Zeyer
+
+* **Head of OL-Site Security:** Col. Sergei Bulkagov
+
+----
+> **IMPORTANT NOTICE:**
+> 
+> Due to the nature of Site-070, only research personnel are allowed to volunteer to work for the facility. The research division is solely responsible for the containment, security, and medical needs of the staff in the facility.
+> 
+> It is ill-advised for staff to respond to any distress signal sent by the inner-facility.
+
+**On-Site Personnel:**
+
+* **Department Heads:** 6
+
+* **Administrative Assistants:** 40
+
+* **Medical Personnel:** (?)
+
+* **Research Personnel:** 1,140
+
+* **Security Personnel:** 220 (OL-Site-070)
+
+* **Maintenance Personnel:** (?)
+
+* **CSD Personnel:** N/A
+
+**Total:** 1,406
+
+----
+
+[[=]]
++ **Garrisoned Forces (OL-Site)**
+[[/=]]
+
+----
+**ASF Response Team**
+Stationed in the wings of OL-Site-070-B, this containment force is tasked with the monitoring and security of Site-070 and its personnel. Should an inner-facility personnel or anomaly breach containment, they are to directly respond to MST-Oscar-6.
+
+**Oscar-6:** ("Unseeing")
+This mobilized unit specializes in the suppression of Site-070 personnel and in executing formal raids as ordered by the Authority.
+
+**November-7:** ("Hammer The Gamma")
+A section of this strike force is tasked with aiding Oscar-6 in the extermination of Site-070 staff members in case of an ##red|OUTSTANDING NEUTRALIZATION ORDER##.
+----
+
+[[=]]
++ **Anomalies Contained** 
+[[/=]]
+----
+> **Sampled** - A minor sample of the anomaly was used for testing.
+> 
+> **Temporary** - Anomaly was temporarily contained for testing.
+> 
+> **Permanent** - Anomaly is permanently contained in Site-070.
+> 
+> **Created** - Anomaly was created by Site-070's research and reverse-engineering staff.
+
+||~ RPC # ||~ Status ||~ Object info ||
+|| [[[RPC-002]]] || Temporary, Sampled || Object was sampled to create the [/patent-100 Praetorian CIWS vII]. ||
+|| [[[RPC-571]]] || Sampled || A denomination of RPC-571 called the //Pierro Decorticate// was formed within the site. ||
+|| [[[RPC-846]]] || Created, Permanent || Model created using material and analytical samples from [[[RPC-022]]], [[[RPC-224]]], and [[[RPC-550]]].||
+||... ||... ||... ||
+
+----
+
+[[=]]
++ **Sub-Sections**
+[[/=]]
+
+----
+**OL-Site-070-A:** "The Doorbell"
+Eastern border checkpoint. This facility is responsible for transporting resources in and out of the facility. 
+
+**OL-Site-070-B:** "The Shutter"
+Southern border checkpoint. The main garrison for Oscar-6 agents to watch over Site-070 for potential threats.
+
+**OL-Site-070-C:** "The Curtain"
+Western border checkpoint. An administrative facility responsible for managing personnel that enter or exit the facility.
+
+@@ @@
+
+
+[[/div]]
+

@@ -1,0 +1,182 @@
+---
+title: "Page Tags"
+tags: []
+page_id: "1455906589"
+site: "rpcauthority"
+slug: "_pagetagstest"
+revision: 36
+revision_id: "1530116659"
+author: 5982545
+timestamp: 1747249825
+---
+
+[[module CSS]]
+#page-content { container: page / inline-size; }
+#page-content > p:first-child {
+    text-align: right;
+    margin-top: 0;
+    font-size: 90%;
+}
+#page-content > h2 { text-align: center; }
+
+#tagged-pages-list {
+    columns: 2 auto;
+    column-gap: 1em;
+    column-rule: 1px dashed #666;
+    counter-reset: i;
+    margin-bottom: 1em;
+}
+@container page (min-width: 570px) {
+    #tagged-pages-list { columns: 3 auto; }
+}
+.pages-list-item { break-inside: avoid-column; }
+.pages-list-item .title {
+    display: flex;
+    word-break: break-word !important;
+}
+.pages-list-item .title::before {
+    counter-increment: i;
+    content: counter(i) ". ";
+    font-size: 65%;
+    color: #666;
+    margin-top: 5px;
+    margin-right: 2px;
+    min-width: 19px;
+}
+
+.foldingTable {
+    border-bottom: var(--table-border);
+    box-shadow: var(--table-box-shadow);
+    margin-bottom: 1em;
+}
+.foldingTable .collapsible-block-folded, .foldingTable .collapsible-block-unfolded-link {
+    margin-bottom: 0;
+    background: var(--content-bar-background);
+    border: var(--table-border);
+    border-bottom: none;
+    text-align: center;
+}
+.foldingTable .collapsible-block-folded a, .foldingTable .collapsible-block-unfolded-link a {
+    display: block;
+    padding: 0.3em 0.7em;
+}
+.foldingTable .collapsible-block-content { opacity: 1 !important; }
+.foldingTable table {
+    margin: 0;
+    box-shadow: none;
+    --link-color: #8585d2;
+    --link-hover-color: #adadff;
+}
+.foldingTable table td {
+    background: var(--news-block-body-panel-background-even);
+    color: #777;
+    cursor: default;
+    font-size: 85%;
+}
+.foldingTable table td a { cursor: pointer; }
+.foldingTable table th {
+    background: var(--content-panel-background);
+    width: 20%;
+}
+.foldingTable table tr:last-child > * { border-bottom: none; }
+
+.tagCloudArea {
+    padding: 0.5em 1em;
+    background: var(--primary-background);
+    box-shadow: var(--table-box-shadow);
+    border: var(--table-border);
+    text-align: justify;
+}
+.tagCloudArea > p {
+    margin: 0 0 0.5em;
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid var(--horizontal-rule-secondary-background);
+}
+.pages-tag-cloud-box .tag:hover {
+    text-decoration: underline;
+    filter: brightness(1.3);
+    transition: filter 0.5s;
+}
+[[/module]]
+
+Jump to: [#table Tags] | [#cloud Tag Cloud]
+
+[[module PagesByTag]]
+
+[[# table]]
+
+[[div class="foldingTable"]]
+[[collapsible show="+ Page Types" hide="- Page Types"]]
+||~ Main || [/_t/rpc rpc] - [/_t/tale tale] - [/_t/document document] - [/_t/rpc-j rpc-j] - [/_t/alternative-content alternative-content] - [/_t/author-page author-page] - [/_t/contest contest] - [/_t/event event] - [/_t/guide guide] - [/_t/hub hub] - [/_t/supplemental supplemental] ||
+||~ Secondary || [/_t/001 001] - [/_t/test-log test-log] - [/_t/art art] - [/_t/archived archived] - [/_t/archived-by-author archived-by-author] - [/_t/information information] - [/_t/lore lore] - [/_t/policy policy] ||
+||~ Internal || [/_t/component component] - [/_t/format format] - [/_t/redirect redirect] - [/_t/reserved reserved] - [/_t/theme theme] ||
+[[/collapsible]]
+[[collapsible show="+ Object Classes" hide="- Object Classes"]]
+||~ Lethality || [/_t/white white] - [/_t/yellow yellow] - [/_t/orange orange] - [/_t/red red] - [/_t/purple purple] - [/_t/black black] ||
+||~ Containment || [/_t/alpha alpha] - [/_t/beta beta] - [/_t/gamma gamma] - [/_t/omega omega] ||
+||~ Secondary || [/_t/explained explained] - [/_t/neutralized neutralized] - [/_t/utility utility] ||
+||~ Other || [/_t/theta theta] - [/_t/epsilon epsilon] - [/_t/uncontained uncontained] ||
+[[/collapsible]]
+[[collapsible show="+ Hazard Types" hide="- Hazard Types"]]
+||~ General || [/_t/aggression-hazard aggression-hazard] - [/_t/ballistic-hazard ballistic-hazard] - [/_t/climatological-hazard climatological-hazard] - [/_t/geological-hazard geological-hazard] - [/_t/grouped-hazard grouped-hazard] - [/_t/invisibility-hazard invisibility-hazard] - [/_t/psychotronic-hazard psychotronic-hazard] - [/_t/sapient-hazard sapient-hazard] - [/_t/sentient-hazard sentient-hazard] - [/_t/transmutation-hazard transmutation-hazard] ||
+||~ Physical || [/_t/bio-hazard bio-hazard] - [/_t/contact-hazard contact-hazard] - [/_t/corrosive-hazard corrosive-hazard] - [/_t/electromagnetic-force-hazard electromagnetic-force-hazard] - [/_t/explosive-hazard explosive-hazard] - [/_t/extreme-temperature-hazard extreme-temperature-hazard] - [/_t/radiation-hazard radiation-hazard] - [/_t/temporal-hazard temporal-hazard] - [/_t/toxic-hazard toxic-hazard] ||
+||~ Reality || [/_t/destabilization-hazard destabilization-hazard] - [/_t/extra-dimensional-hazard extra-dimensional-hazard] - [/_t/gravitational-hazard gravitational-hazard] - [/_t/teleportation-hazard teleportation-hazard] ||
+||~ Cognitive || [/_t/auditory-hazard auditory-hazard] - [/_t/emotional-hazard emotional-hazard] - [/_t/ideological-hazard ideological-hazard] - [/_t/info-hazard info-hazard] - [/_t/memory-alteration-hazard memory-alteration-hazard] - [/_t/mind-control-hazard mind-control-hazard] - [/_t/mind-regression-hazard mind-regression-hazard] - [/_t/sensory-hazard sensory-hazard] - [/_t/visual-hazard visual-hazard] ||
+||~ Properties || [/_t/animated-hazard animated-hazard] - [/_t/aquatic-hazard aquatic-hazard] - [/_t/ecological-hazard ecological-hazard] - [/_t/extra-terrestrial-hazard extra-terrestrial-hazard] - [/_t/immeasurable-hazard immeasurable-hazard] - [/_t/incorporeal-hazard incorporeal-hazard] - [/_t/mechanical-hazard mechanical-hazard] - [/_t/microscopic-hazard microscopic-hazard] - [/_t/organic-hazard organic-hazard] - [/_t/regenerative-hazard regenerative-hazard] - [/_t/titanic-hazard titanic-hazard] - [/_t/tychokinetic-hazard tychokinetic-hazard] ||
+||~ Other || [/_t/esoteric-hazard esoteric-hazard] - [/_t/non-hazardous non-hazardous] ||
+[[/collapsible]]
+[[collapsible show="+ Tales" hide="- Tales"]]
+||~ Topics || [/_t/alt-timeline alt-timeline] - [/_t/comedy comedy] - [/_t/containment containment] - [/_t/eoi-tale eoi-tale] - [/_t/history history] - [/_t/horror horror] - [/_t/military military] - [/_t/noir noir] - [/_t/research research] ||
+||~ Meta || [/_t/continuation continuation] - [/_t/short short] ||
+[[/collapsible]]
+[[collapsible show="+ Documents" hide="- Documents"]]
+||~ Documents || [/_t/operation operation] - [/_t/site site] - [/_t/personnel personnel] - [/_t/mst mst] - [/_t/acquired-media acquired-media] ||
+||~ Acquired Media || [/_t/footage footage] - [/_t/goi-doc goi-doc] - [/_t/photograph photograph] - [/_t/writings writings] ||
+[[/collapsible]]
+[[collapsible show="+ Canons" hide="- Canons"]]
+||~ Non-Canon || [/_t/non-canon non-canon] ||
+||~ Cosmic Embers || [/_t/cosmic-embers cosmic-embers] - [/_t/grp grp] - [/_t/ce-lore ce-lore] ||
+[[/collapsible]]
+[[collapsible show="+ Formats" hide="- Formats"]]
+||~ Divisions || [/_t/research-tone research-tone] - [/_t/protection-tone protection-tone] - [/_t/containment-tone containment-tone] - [/_t/administration-tone administration-tone] - [/_t/aci-tone aci-tone] ||
+||~ Events || [/_t/new-frontier-format new-frontier-format] - [/_t/caribbean-deep-format caribbean-deep-format] ||
+||~ Other || [/_t/format-break format-break] ||
+[[/collapsible]]
+[[collapsible show="+ Badges" hide="- Badges"]]
+||~ Badges || [/_t/toparticle toparticle] - [/_t/topjoke topjoke] - [/_t/top10 top10] - [/_t/contestwinner contestwinner] - [/_t/eventwinner eventwinner] - [/_t/runnerup runnerup] - [/_t/challengewinner challengewinner] ||
+[[/collapsible]]
+[[collapsible show="+ Miscellaneous" hide="- Miscellaneous"]]
+||~ Authorship || [/_t/co-authored co-authored] - [/_t/collaboration collaboration] - [/_t/remake remake] - [/_t/rewrite rewrite] ||
+||~ International || [/_t/translated translated] - [/_t/translation translation] ||
+||~ Other || [/_t/aedf aedf] ||
+[[/collapsible]]
+[[collapsible show="+ Entities of Interest" hide="- Entities of Interest"]]
+||~ Groups || [/_t/academy academy] - [/_t/aep aep] - [/_t/amazing.co amazing.co] - [/_t/cetaces-kin cetaces-kin] - [/_t/children-of-nihil children-of-nihil] - [/_t/church-of-malthus church-of-malthus] - [/_t/gard gard] - [/_t/gear gear] - [/_t/kabushiki-kawaii kabushiki-kawaii] - [/_t/nucorp nucorp] - [/_t/the-array the-array] ||
+||~ Agencies || [/_t/bluebook bluebook] - [/_t/foa foa] - [/_t/mi13 mi13] - [/_t/pcaao pcaao] - [/_t/unaac unaac] - [/_t/vssp vssp] ||
+||~ Alternate Realities || [/_t/rcpa rcpa] - [/_t/remnants remnants] ||
+[[/collapsible]]
+[[collapsible show="+ Global Directorate" hide="- Global Directorate"]]
+||~ Divisional || [/_t/gd-schl gd-schl] - [/_t/gd-cmdr gd-cmdr] - [/_t/gd-arch gd-arch] ||
+||~ Regional || [/_t/gd-north gd-north] - [/_t/gd-south gd-south] - [/_t/gd-west gd-west] - [/_t/gd-east gd-east] - [/_t/gd-afri gd-afri] - [/_t/gd-eura gd-eura] - [/_t/gd-asia gd-asia] - [/_t/gd-ocea gd-ocea] ||
+||~ Special || [/_t/gd-antc gd-antc] - [/_t/gd-war gd-war] - [/_t/gd-aedf gd-aedf] ||
+[[/collapsible]]
+[[collapsible show="+ Contests" hide="- Contests"]]
+||~ Events || [/_t/fail-safe fail-safe] - [/_t/below-zero below-zero] - [/_t/sub-vesuvia sub-vesuvia] - [/_t/cair-aisling cair-aisling] - [/_t/cair-aisling-art cair-aisling-art] - [/_t/budgetcuts budgetcuts] ([/_t/budgetcuts-research research] - [/_t/budgetcuts-protection protection] - [/_t/budgetcuts-containment containment]) - [/_t/new-frontier new-frontier] - [/_t/caribbean-deep caribbean-deep] - [/_t/missingrpc missingrpc] ||
+||~ Event Art || [/_t/fail-safeart fail-safeart] - [/_t/below-zero-art below-zero-art] - [/_t/sub-vesuvia-art sub-vesuvia-art] - [/_t/budgetcuts-art budgetcuts-art] - [/_t/new-frontier-art new-frontier-art] - [/_t/caribbean-deep-art caribbean-deep-art] ||
+||~ Contests || [/_t/001c 001c] - [/_t/halloweenrpc halloweenrpc] - [/_t/halloweenwritings halloweenwritings] - [/_t/halloweenphoto halloweenphoto] - [/_t/winterrpc winterrpc] - [/_t/wintertale wintertale] - [/_t/jcontest jcontest] - [/_t/004 004] - [/_t/divisioncontest divisioncontest] - [/_t/bob bob] - [/_t/j2020 j2020] - [/_t/j2020art j2020art] - [/_t/trh trh] - [/_t/misfortune2020 misfortune2020] - [/_t/mythsmagic-writing mythsmagic-writing] - [/_t/broaderhorizons2022 broaderhorizons2022] - [/_t/mincon2023 mincon2023] - [/_t/minconart2023 minconart2023] - [/_t/done-and-dusted done-and-dusted] - [/_t/hazardpoker hazardpoker] ||
+[[/collapsible]]
+[[/div]]
+
+[[# cloud]]
+
+[[div class="tagCloudArea"]]
+Tag Cloud
+[[module TagCloud limit="9999"]]
+[[/div]]
+
+----
+
+= [[[Tagging Guide]]] | **Page Tags** | [[[search:tags|Tag Search]]]
+

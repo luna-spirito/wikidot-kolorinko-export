@@ -1,0 +1,139 @@
+---
+title: "The Done and Dusted Contest"
+tags: ["contest"]
+page_id: "1454056701"
+site: "rpcauthority"
+slug: "done-and-dusted"
+revision: 23
+revision_id: "1525036628"
+author: 5982545
+timestamp: 1728087086
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:done-and-dusted-contest-theme/code/1);
+
+@media (max-width: 1099px) {
+.submissionsContainer {
+display: none;
+}
+}
+
+@media (min-width: 1100px) {
+.submissionsContainer {
+position: absolute;
+left: 730px;
+}
+}
+
+.submissions {
+  background: var(--content-panel-background);
+  padding: 5px;
+  box-shadow: var(--content-box-shadow);
+}
+
+.submissions a {
+  text-decoration: none;
+}
+[[/module]]
+
+[[div class="submissionsContainer"]]
+[[div class="submissions"]]
+Submissions
+[[size 150%]]
+= [#submissions ▼]
+[[/size]]
+[[/div]]
+[[/div]]
+
+[[div class="image"]]
+[[=image banner2.jpg width="100%" style="box-shadow: 0px 9px 40px black;"]]
+[[/div]]
+
+[[div style="font-size: 110%"]]
+Every story must come to an end.
+
+There was once a [[[rpc-187|daring aviator]]] whose signal faded into the distance; a [[[rpc-809|punishing prohibitor]]] that went unheeded; a mundane man with a [[[rpc-525|crazed cult following]]] that passed on with him; and a [[[rpc-929|dreamland of childlike wonder]]] whose dreamer finally awoke. All have reached their last chapter, without an epilogue in sight.
+
+This season, join us as we sail the murky river and catalogue the nullified anomalies of Authority history: the broken, the explained, the lost, and the forgotten. Dig them up. Shake their hands. It is time we pull them up to the surface; into the light, where we'll find our closure.
+
+Let these stories walk yet again as we head towards a known end, whilst enjoying the journey that leads to it.
+[[/div]]
+
+[[div class="content-panel"]]
+
++ Official Placements
+
+**1st Place** ties between [[[RPC-973]]] by [[*user Raggabrash]] and [[[RPC-903]]] by [[*user bXluYW1lamVmZg]], sharing a 4.8 star rating.
+
+**2nd Place** goes to [[[RPC-965]]] by [[*user Mr Makor]], with a 3.92 star rating.
+
+**3rd Place** goes to [[[RPC-711]]] by [[*user TheGreatTarbolin69]], with a 3.9 star rating.
+
++++ Secondary Challenge
+
+Finally, [[*user Mr Makor]], for his killer performance, has been voted the winner of the __**Dead on Arrival**__ Award!
+
+[[/div]]
+----
+[[# submissions]]
++ Submissions
+[[div class="content-panel"]]
+++++ Writing Submissions:
+[[module ListPages separate="no" tags="+done-and-dusted -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%**[[/size]]
+[[/module]]
+[[/div]]
+
+[[div style="font-size: 95%"]]
+
+[[collapsible show="[+] Archived Contest Rules and Challenges" hide="[-] Archived Contest Rules and Challenges"]]
+
+----
+
++ Submissions Info
+
+**##ccc|The Done and Dusted Contest**:## Create an RPC, tale, or document pertaining to an anomaly that is, either completely or majorly, destroyed or nonfunctioning. To qualify, please use the tag "done-and-dusted" in your submissions.
+
+* **##ccc|Optional Challenge:** The Dead on Arrival Award:## During the voting period, site voters who rate the majority of the contest works will be approached by the Contest Team to vote on which article had the best and most well-written termination possible.
+
++ Rules & Article Requirements:
+* Your article must follow [[[site-rules#toc2|normal uploading rules]]] and receive two pieces of crit in the [/forum/c-4288628/drafts drafts forum]. Do not coldpost!
+* Your article must include either the [/system:page-tags/tag/neutralized Neutralized (NT)] or [/system:page-tags/tag/explained Explained (ET)] secondary object classes, or involve substantial damage to the anomaly's functionality.
+* Multiple submissions, post-submission edits/article reworks, and pre-existing unpublished drafts are allowed.
+* Do not excessively advertise, vote-hound, or request a vote change for your submissions.[[footnote]]To advertise your articles, consider posting them in the RPC Community Discord, linked in the sidebar (use #discovery).[[/footnote]]
+* Using alt accounts or other deceitful means of vote manipulation will result in disqualification and a ban from future contests.
+
+----
+
+[[div style="padding-left: 5%;"]]
++++ Submission Dates:
+[[div style="padding-left: 3%;"]]
+###ccc|**Writing & Multi-Media Submissions Open**:## 14th of June, 12:00AM EDT
+###ccc|**Writing & Multi-Media Submissions Close**:## 29th of September, 11:59PM EDT
+Winners will be announced on **October 4th, 2024**
+[[/div]]
+
+**1st place** goes to the highest-rated article and garner its author both bragging rights and a cash prize of $40 USD.[[footnote]] To receive your prize, please make sure you have a valid online transfer method. [[/footnote]] The **top three entrants** will be featured on the front page. The winner of **the Dead on Arrival Award** will net its author the "Memento Mori" author page badge (permanently) & the "Memento Mori" Discord role (for three months). It will also net a 10k Toddbux severance package.
+*  Contact [[*user televisionist]] or [[*user 8ismo]] for any questions/concerns.
+
+[[/div]]
+[[/collapsible]]
+[[collapsible show="[+] Contest Credits" hide="[-] Contest Credits"]]
+----
+++++++ A Special Thank You To:
+Directed by [[*user Televisionist]],
+And with creative input & idea brainstorming from: [[*user SuperSpambot]], [[*user Almarduk]], [[*user Blairin]]
+
+Consultant and revising work by [[*user DoubleDenial]]
+
+Image and project-saving grit by [[*user 8ismo]]
+
+(Seriously, thank you both. I couldn't have finished on time without you.)
+
+----
+[[footnoteblock]]
+
+[[/collapsible]]
+[[/div]]
+

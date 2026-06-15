@@ -1,0 +1,125 @@
+---
+title: "Tag Search"
+tags: []
+page_id: "1454098752"
+site: "rpcauthority"
+slug: "search:tags"
+revision: 113
+revision_id: "1541781059"
+author: 5982545
+timestamp: 1770219322
+---
+
+[[module CSS]]
+:root {
+    --v1: #0002;
+    --WT-v1: #0000000c;
+}
+
+#page-content > p:first-child { margin-top: 0; }
+#page-content iframe { box-shadow: var(--content-panel-box-shadow); }
+
+.results {
+    background: var(--content-panel-background);
+    box-shadow: var(--content-panel-box-shadow);
+    border: var(--content-panel-border);
+}
+.results .list-pages-box p { margin: 0; }
+.results .list-pages-item {
+    display: flex;
+    padding: 4px;
+}
+.results .list-pages-item:nth-child(2n) { background: var(--v1); }
+.leftBox { flex-grow: 1; }
+.rightBox {
+    width: 160px;
+    flex-shrink: 0;
+    text-align: right;
+}
+
+.listIndex span:last-child { visibility: hidden; }
+
+.imageBox {
+    margin-right: 0.9ex;
+    display: flex;
+    align-items: center;
+}
+.imageBox:empty { margin: 0; }
+.imageBox a {
+    width: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageBox img {
+    border: 1px solid var(--content-box-border-color);
+    position: absolute;
+    width: 55px;
+    z-index: 1;
+    transition: .05s;
+}
+.imageBox a:hover img {
+    width: 75px;
+    z-index: 2;
+}
+
+.results .printuser { white-space: nowrap; }
+.tagList {
+    font-size: 0.8em;
+    opacity: 0.85;
+}
+.tagList a {
+    border-bottom: 1px solid #6667;
+    padding: 1px;
+    transition: background 0.2s ease;
+}
+.tagList a:hover { background: #6662; }
+
+@media (min-width: 800px) {
+    .tagList a { white-space: nowrap; }
+}
+[[/module]]
+
+[[module ListPages limit="1" category="tag-search-panel" name="@URL|black" urlAttrPrefix="theme"]]
+%%content%%
+[[/module]]
+
+[[div class="results"]]
+[[div style="background: #0002; padding: 4px;"]]
+[[module CountPages tags="@URL" votes="@URL" rating="@URL" created_by="@URL" category="_default"]]
+Found %%total%% page[[#ifexpr %%total%%!=1 | s]].
+[[/module]]
+[[/div]]
+
+[[module ListPages tags="@URL" votes="@URL" rating="@URL" order="@URL" created_by="@URL" category="_default" perPage="50"]]
+[[div class="listIndex"]]
+##666|%%index%%.##[[size 115%]].[[/size]]
+[[/div]]
+[[div class="imageBox"]]
+[[image :first size="square" link="%%fullname%%"]]
+[[/div]]
+[[div class="leftBox"]]
+[[size 115%]]**%%title_linked%%**[[/size]] by %%created_by_linked%%
+[[div style="margin-left: 1em;"]]
+[[size 80%]]Posted __%%created_at|%b %e, %Y|agohover%%__[[/size]]
+[[span class="tagList"]]%%tags_linked%%[[/span]]
+[[/div]]
+[[/div]]
+[[div class="rightBox"]]
+%%rating%%
+[[div style="font-size: 85%;"]]
+**★ [[#expr %%rating_percent%%/20]]** (%%rating_votes%% vote[[#ifexpr %%rating_votes%%!=1 | s]]) ##666||## 🗨 %%comments%%
+**JI:** [[#expr %%rating_votes%%*(%%rating_percent%%/20-3)+0]] ##666||## **VI:** [[#expr %%rating_percent%%/20 *(1-2/(%%rating_votes%%+2))*100%999/100]]
+[[/div]]
+[[/div]]
+[[/module]]
+[[/div]]
+
+[[size 80%]]The Jenkins Index (JI) estimates an article's popularity. JI = votes * (rating - 3)
+The Vizlox Index (VI) estimates an article's quality. VI = rating * (1 - 2 / (votes + 2))
+Ratings on articles from 2018-2020 may be skewed by invalid votes[[/size]]
+
+----
+
+= [[[Tagging Guide]]] | [[[system:page-tags|Page Tags]]] | **Tag Search**
+

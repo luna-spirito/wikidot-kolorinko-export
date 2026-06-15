@@ -1,0 +1,47 @@
+---
+title: "_collapsetranslations"
+tags: []
+page_id: "1459785740"
+site: "rpcauthority"
+slug: "_collapsetranslations"
+revision: 12
+revision_id: "1542376383"
+author: 5982545
+timestamp: 1772417753
+---
+
+[[module CSS]]
+.readingStyle {
+    /*border-left: none;*/
+    padding: 0 3px 1px 3px;
+}
+.translationStyle::before {
+    content: url(https://rpcauthority.wdfiles.com/local--files/component%3Aicons/international.png);
+    padding: 0 2px;
+}
+.translationStyle {
+    position: relative;
+    font-size: 0;
+    padding: 0 3px;
+    background: var(--star-rating-reading-background);
+    border-left: var(--star-rating-border);
+}
+.translationStyle a {
+    display: none;
+    padding: 3px;
+}
+.translationStyle a:last-child {
+    display: initial;
+    padding: 0;
+    position: absolute;
+    left: 15%; width: 70%;
+    top: 10%; height: 80%;
+}
+.translationStyle:focus-within::before { content: none; }
+.translationStyle:focus-within a { display: inline-block; }
+.translationStyle:focus-within a:last-child { z-index: -1; }
+.translationStyle:has(a:hover)::before, .translationStyle a:hover, .readingStyle a:hover { filter: brightness(70%); }
+[[/module]]
+
+[[include rpc-003]]
+

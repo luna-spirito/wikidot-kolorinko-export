@@ -1,0 +1,116 @@
+---
+title: "RPC-479"
+tags: ["grouped-hazard", "omega", "rpc", "transmutation-hazard", "uncontained", "white"]
+page_id: "1459897376"
+site: "rpcauthority"
+slug: "rpc-479"
+revision: 4
+revision_id: "1530916682"
+author: 3672751
+timestamp: 1752122530
+---
+
+[[module CSS]]
+
+.blockquote {
+  margin: 12.8px 30px;
+  border: var(--blockquote-border);
+  color: var(--text-color);
+  background: var(--blockquote-background);
+  border-radius: var(--blockquote-border-radius);
+  padding: var(--blockquote-padding);
+  box-shadow: var(--blockquote-box-shadow);
+}
+
+[[/module]]
+
+[[include component:rate]]
+
+[[include :rpcauthority:component:special-box number=479|
+object-class=Omega|
+lethality-rating=White|
+symbol=omega-white|
+grouped=true|
+transmutation=true|
+]]
+
+------
+
+[[include component:image-enlarge name=http://rpcsandbox.wikidot.com/local--files/almadraft25/Les_Archives_de_Lyon_au_Palais_Saint-Jean_06.jpg | align=right| width=300px |  caption=Subsurface Unit 10. (04/06/1922)]]
+
+**Containment Protocols:** Due to the size of the Deep Records Vault, the extraordinary amount of material it contains, and the extreme age of significant portions of it, full containment of RPC-479 is an intractable problem: texts cannot be transported offsite without advance notice and laborious procedures to ensure sterility, as well as conservation/restoration and safe travel in the case of particularly aged material.
+
+No texts whose sterility is unproven are to be moved offsite, as the conditions for spread are poorly understood. It is feared that transportation of instances, should RPC-479 operate in a wave-like manner, could provoke a relay effect, in which the area between instances is made subject to infection.
+
+Conversely, no new physical texts may be stored at the Deep Records Vault. No textual material, anomalous or otherwise, may be moved into or out of Site-031, and only digital records are permitted within its bounds.
+
+Containment staff priorities are thus to arrest infection and attempt to preserve as much material within the Deep Records Vault as currently allotted resources permit, prioritizing recent records and other texts of interest (post-1900) over older tomes. 
+
+~~~~
+
+This primarily concerns Wings D through F, as well as Subsurface Units 6, 10, 18, and 22, within which the most recent material is concentrated. 
+
+In order to allow for more complete and consistent coverage, a number of vacated rooms at an intermediate depths have been converted into temporary living quarters. These are supplied with relative amenities and a landline connection to Site-031's storage servers.
+
+Monitoring is to be achieved by daily sampling of the above-mentioned regions in search for symptoms of RPC-479, regulated by availability of qualified personnel. Other regions may be monitored at the discretion of Containment staff insofar as resources allow. 
+
+Symptomatic texts must be digitized before full conversion where possible, prioritizing those with higher classification or at the discretion of Records Staff Head Lorenzini. Further policy is region-specific: burning of infected texts, even if not digitized, is permitted for critical areas with a high density of material of interest, and a limited number (no more than 1,000) of fully-converted texts no longer than 500 pages may be stored long-term to attempt restoration. The above-surface floors of Wing A have been dedicated to long-term storage of infected material whose disposal is unauthorized.
+
+Regions containing texts older than the construction of Site-031 (namely, the deepest 29 floors of Wing B, and the archaeological segment incorporated to Wings E and F) are deprioritized, owing to the possibility of exposure disrupting normal Containment Division operations (e.g. by memetic and/or thaumatic influence). This includes writing authored by the Auctoritas Imperata or other precursor organizations.
+
+------
+
+**Description:** A long-standing metamorphic phenomenon targeting potentially all texts kept in Site-031's Deep Records Vault. Affected files, which include but are not limited to paper records, books, and scrolls, have all their content transformed so as to become a roughly philosophical text titled //Alexandria & Ithaca: Pilgrimage Along the Lunar Terminator//. Each fully-converted instance is entirely unique in content, though it is unclear whether they are parts of a larger text.
+
+Early infection is apparent in textual incoherencies: grammatical faults may appear, titles may differ from index listings, paragraphs may become derailed into unrelated and sometimes incoherent topics, and most notably, characters are sometimes "clumped" in text-disruptive ways (i.e. irrespective of kerning and line spacing). Such formations are sometimes referred to as "boils" in other documentation referring to RPC-479.
+
+Alteration takes place gradually, throughout a variable length of time. The process has never been observed, and possibly cannot take place in the presence of an observer, but is suspected to involve the physical shifting of printed ink. Later writing is excluded, most often signatures and annotations, though handwriting is not necessarily unaffected if it belongs to the original text. The distinction between original and later text is nebulous and sometimes inconsistent. [View Addendum 7C-091997-479 for a list of notable experiments.]
+
+Remarkably, converted texts are fully isomorphic to the original: that is, letters and other characters remain exactly equal in number before, throughout, and after infection, suggesting that the process only rearranges them. Thus, RPC-479 is technically not destructive, as it is feasible for shorter texts to be reconstructed from their fully altered version. 
+
+Such a procedure involves the manual counting of each instance of each character in the converted text for inputting into specialized software to attempt recreation of the original by brute-force permutation of characters. Although grammatical and syntactic correctness of output can be assured programmatically, coherence and validity cannot: verification must be done by hand or through anomalous means. Full reconstruction of longer texts is prohibitively expensive in terms of computational and personnel time.
+
+RPC-479 is capable of spreading to adjacent texts, but may not be limited (or influenced) by proximity. The phenomenon has chronically reappeared throughout the service history of the Deep Records Vault in spite of systematic purging of affected material, which might imply either an asymptomatic stage of infection, or that it is inextricably linked to the Vault itself, among other proposed hypotheses. 
+
+This is especially suspected of its various subsurface tracts, particularly Unit 16, where it reemerged thrice (1891, 1929, 1948) prior to abandonment. An unclear amount of critical texts in Unit 16 were copied and archived elsewhere, but around 250 were fully transformed and remain in-situ.
+
+[[include component:image-enlarge name=http://rpcsandbox.wikidot.com/local--files/almadraft25/Archiv_NES.jpg | align=left| width=300px |  caption=Subsurface Unit 16. (07/07/1993)]]
+
+Prior to the appearance of RPC-479 (circa 1870, exact date unknown), Site-031 was a critical component of Authority operations in Europe, being a prominent recipient of records, scientific writings, logistical memoranda, legal instruments, and other material of interest. 
+
+Its importance predates the Authority, as its oldest structures were under study and/or reclaimed from abandonment by the Auctoritas Imperata. It is highly likely RPC-479 was introduced to the Deep Records Vault, either as a form of short-term sabotage, or erasure of historical records considered threatening by another veiled group.
+
+Additionally, the operational pressure exerted by RPC-479 makes it unlikely that pre-Authority records of Site-031 and the builders of its archaeological structures will be examined with any particular consideration in the indefinite future. Pending a drastic shift in the effective capacity of Site-031, its early history is considered lost.
+
+The uncertain genre classification for texts affected by RPC-479 is owed to their generally incoherent, though not nonsensical, content. Thematic throughlines are known to exist, generally pertaining to isolation, the sensation of being bound with chains, extreme thirst, and building interiors. 
+
+~~~~
+
+Examples of the latter are sometimes interpreted as oblique allusions to the Deep Records Vault, and thus suspected to imply some form of awareness. 
+
+The Moon is mentioned uncommonly in-text, but does consistently appear in pictures and drawings mutated by RPC-479. Notably, such depictions are the only known appearances of the titular lunar terminator[[footnote]] A terminator is the dividing line between the lit and dark sides of a celestial body. [[/footnote]] related to the anomaly.
+
+An incomplete text by the title //Pilgrimage Along the Lunar Terminator//, authored by one Mateo Urquiza de la Vega (likely a pseudonym), was reportedly discovered in 1823 by the Authority in association to an unrecorded Lesser Anomalous Event, prior to the appearance of RPC-479. Though it does hold some thematic resemblance to RPC-479, it is at large stylistically unrelated, has never been moved from its storage in Site-046, and holds no other apparent links to the phenomenon.
+
+------
+
+**Addendum B9-042001-479:** Excerpt.
+
+//(From instance 479-677A30:  ch. 8, "To See the World in Shades of Blue", pp. 148, original unknown, 1941-1943.)//
+
+[[include component:image-enlarge name=http://lafundacionscp.wikidot.com/local--files/scp-es-340/lunar-terminator-alt.png | align=center| width=600px |  caption=Converted text.]]
+
+[[div class="blockquote"]]
+
+Although the history of extreme rapacity is numberlessly recapitulated prior (see Chapter 1, 2, 3, 4, 5, 6, 7 and prior), the urgent modality of dehydration, desiccation, dissection, decapitation, demands receptiveness to demands of further explanation: that is, the demands of a dire katabasis into the ancient, steely, age-worn walls of a finite abstract (physical) space.
+
+This feeling evolves, akin to the skirring of the innervated skin done by the miniature obtrusions of rusty bondage where it is chronically restricted to make oneself merry, by means of progressive encasement and/or insulation. Frankly, I'm torpid. It is imperious (i.e. hazardous) to view and/or consider the congeniality of a flourishing mind (i.e. urge to speculate and philosophize) and the withering of investment into one's own expectations--ceteris paribus, both equal. 
+
+The skyline, imagined, is ever seared with the image of a somnambulant future and its possibilities (if any), which is diamantine in its therapy. The quivering thing, shriven of outwardness, welcomes the firmament's invasion. Such an inward discontinuity in chronicity must thus suffice, cherished though proper only of a riven substance & substance-less self.
+
+[[/div]]
+
+Note the abundance of redundancy and alliteration.
+
+It is generally thought that this segment pertains to the mental state of the writer (if indeed the notion of a writer is applicable to RPC-479). Debate continues as to whether this is desperation, resignation, or contentment.
+

@@ -1,0 +1,24 @@
+---
+title: "Hazard Poker Card"
+tags: ["component"]
+page_id: "1459598025"
+site: "rpcauthority"
+slug: "component:hazard-poker-card"
+revision: 2
+revision_id: "1530997176"
+author: 5982545
+timestamp: 1752528984
+---
+
+[[div class="cardArea"]]
+[[div class="card {$suit}"]]
+[[div class="cardImage" style="background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-{$img}.png);"]]
+ 
+[[/div]]
+[[/div]]
+[[div class="hoverText"]]
+[[span]]{$name}[[/span]]
+({$value})
+[[/div]]
+[[/div]]
+

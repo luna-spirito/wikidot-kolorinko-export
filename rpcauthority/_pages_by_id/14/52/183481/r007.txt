@@ -1,0 +1,91 @@
+---
+title: "GD-SOUTH"
+tags: ["document", "personnel"]
+page_id: "1452183481"
+site: "rpcauthority"
+slug: "gd-south"
+revision: 7
+revision_id: "1541748682"
+author: 5982545
+timestamp: 1770049021
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+
+[[div class="content-panel" style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Aadministration-theme/Administration.png width="150px"]]
+
+[[=]]
+++ >> Office of the Directorate <<
+
+
++ GLOBAL DIRECTOR "SOUTHCOM"
+[[/=]]
+----
+
+[[# GD-SOUTH]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/authority-regional-sites/%5B2022%5D%20Southern%20Command.png width="200px"]]
+
+**GD-SOUTH:** Global director representative for South America.
+
+**Personality Archetype:** Red Cutter is a timid and non-confrontational middle aged man who rose to the upper echelons of SOUTHCOM due to a considerably impressive knowledge and understanding of Authority, particularly Administration, bureaucracy and paperwork.
+
+When initially hired by the Authority as an archivist, Red Cutter's Authority documents incorrectly identified him as a female instead of a male. The error had not been identified by anyone until he noticed that he was eligible for a maternity leave in his contract renewal. Initially believing it was a spelling error, Red Cutter began a long and complicated process of obtaining, filling in and sending various forms and papers to correct his mistake - a process that although took a considerable amount of his free time also gave him a much deeper understanding of how unoptimised such processes were within the Authority.
+
+By the time he had corrected the mistake within his personnel file, Red Cutter gained a respectable proficiency in Authority paperwork and a wide web of connections consisting of other staff members who required assistance with their own issues. His talent was recognised and cultivated, with him discontinuing a small gross of unnecessary and out of date forms and noticeably improving the flow of data and information within the OIRS.
+
+**Relationships:** Red Cutter holds no favoritism towards any specific Division, including Administration. He puts much greater importance to the connections and communications between each respective Division and the many, many departments that make it up. While there were concerns for his shyness hindering his work, it has only served to fuel the surprise of his ability to stand his ground in meetings and confidently showcase possible ways for all parties to benefit.
+----
+
+[[include component:image-block name=SOUTHCOM_Goat_Killers.png|caption=Goat Killer's patch.|width=200px|align=right]]
+
+MST Alpha-1-SOUTH, designated Goat Killers, is a fairly recent Unit created after the dispatching of the old Alpha-1-South team, and theorized to be founded/co-founded by ex-Director Yeta during his 2021 term. Although most of its origins are unknown, it is known a good portion of the staff found inside MST Alpha-1-SOUTH ("Goat Killers'') have personal connections to Southern Experimentation League members. Although limited on resources, and some appearing to be similar to normal ASF, despite this fact, the Unit appears to have "distinctive characteristics."
+
+Alpha-1-SOUTH can be found constantly surrounding the GD even in situations of isolationism, and rarely one can be found without the other, only standing when absolute security is found, one such example can be found during Meeting 4910.
+The MST appears to be mostly incapable of communicating outside of a few members. It is unknown if this is a physical deformity or a code inside the Unit.
+
+The Unit appears to be composed of a small number, but still might be found to be one of the most effective Alpha-1 Units, this seems to be the result of SUT (Small Unit Tactics) that are taught to newcomers when introduced, although the information of the joining method appears to be hidden from most of Authority Database.
+
+----
+
+**Rap Sheet**
+
+* **Bodyguards:** 10 Personnel
+* **Overwatch:** 4 Personnel
+* **Rifle:** AKM
+* **Other known Tools:** M84 stun grenade, Noise grenades, Fragmentation grenades.
+
+----
+[[=]]
++ Further Assignments
+[[/=]]
+----
+//Previous directors of SOUTHCOM://
+
+**2021-2024** | [http://rpcauthority.wikidot.com/gd-yeta-2021 Yeta]
+----
+
+Articles involving GD-SOUTH or Goat Killers:
+[[module ListPages separate="no" tags="+gd-south +rpc" perPage="50" order="fullname"]]
+%%linked_title%% - %%first_paragraph%%
+[[/module]]
+
+[[module ListPages separate="no" tags="+gd-south -rpc" perPage="50" order="name"]]
+%%title_linked%%
+[[/module]]
+
+[[=]]
+> +++++ [ DECLASSIFICATION PENDING GD APPROVAL ]
+[[/=]]
+
+[[/div]]
+

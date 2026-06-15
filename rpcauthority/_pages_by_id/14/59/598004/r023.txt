@@ -1,0 +1,358 @@
+---
+title: "Hazard Poker"
+tags: ["contest"]
+page_id: "1459598004"
+site: "rpcauthority"
+slug: "hazard-poker"
+revision: 23
+revision_id: "1531095629"
+author: 5982545
+timestamp: 1753015108
+---
+
+[[include component:hazard-poker-card-css]]
+
+[[module CSS]]
+#page-title {
+    font-size: 300% !important;
+    margin-bottom: 0.2em;
+}
+
+.submissions {
+    position: absolute;
+    left: 775px;
+    background: var(--primary-background);
+    box-shadow: var(--content-box-shadow);
+    padding: 5px;
+    text-align: center;
+    transition: background 0.1s, color 0.1s;
+}
+.submissions a { text-decoration: none; }
+.submissions > p:first-child a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+}
+.submissions:hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+.headerImage { margin: -40px 0 -20px; }
+
+@media (max-width: 1289px) {
+    div.submissions {
+    	position: relative;
+    	left: 0;
+    	display: flex;
+    }
+    .submissions > * {
+    	width: 0;
+    	flex-grow: 1;
+    	text-align: center
+    }
+    table.wiki-content-table { font-size: 80%; }
+}
+[[/module]]
+
+[[div class="submissions"]]
+[#submissions  ]Submissions
+
+[[size 150%]][#submissions ▼][[/size]]
+[[/div]]
+
+Throw caution to the wind; it's time for Hazard Poker!
+
+[[div class="content-panel"]]
++ Official Placements
+**1st Place** goes to [[[rpc-699|RPC-699 - Mold to Come]]] by [[*user Almarduk]], with a 4.36 star rating.
+
+**2nd Place** goes to [[[rpc-489|RPC-489 - The Day the World (almost) Ended]]] by [[*user TheGreatTarbolin69]], with a 4.18 star rating.
+
+**3rd Place** goes to [[[rpc-923|RPC-923 - Galaxy Gas]]] by [[*user Doomchad]], with a 3.92 star rating.
+
++++ Secondary Challenge
+Finally, [[*user Mr Makor]] wins the __**Card Shark**__ Award with [[[rpc-605|RPC-605 - Till We Part]]] and a hand of two pair!
+[[/div]]
+
+[[collapsible show="[+] Archived Contest Rules and Challenges" hide="[-] Archived Contest Rules and Challenges"]]
+**The Hazard Poker Contest:** Contact [[*user televisionist]] //(Discord: @redeemingqualities)// or [[*user Superspambot]] //(@superspambot)// to be assigned a "hand" of four random hazards. You have one chance to ask the dealer to reshuffle any number of them, but beware: you still don't know what you'll get! Your article must include these hazards, along with any others that you decide to include yourself. Upload your submission with the tag "hazardpoker". The highest-rated article at the end shall win!
+
+...But that's only half the fun. Each card you get corresponds to a point value in the table below: the more obscure the hazard, the higher its value.
+
+||~ Value ||~ Spades ||~ Clubs ||~ Hearts ||~ Diamonds ||
+||~ 4 || Mechanical || Aggression || Sensory || Aquatic ||
+||~ 5 || Titanic || Ballistic || Auditory || Organic ||
+||~ 6 || Teleportation || Sentient || Visual || Contact ||
+||~ 7 || Incorporeal || Sapient || Animated || Bio-Hazard ||
+||~ 8 || Gravitational || Grouped || Emotional || Extreme Temperature ||
+||~ 9 || Microscopic || Invisibility || Ideological || Toxic ||
+||~ 10 || Immeasurable || Psychotronic || Mind-Control || Regenerative ||
+||~ Jack || Temporal || Transmutation || Mind-Regression || Corrosive ||
+||~ Queen || Destabilization || Ecological || Extra-Terrestrial || Explosive ||
+||~ King || Extra-Dimensional || Geological || Memory Alteration || Radiation ||
+||~ Ace || Tychokinetic || Climatological || Info-Hazard || Electromagnetic Force ||
+
+The **Card Shark award** goes to the writer who can pull off an article with the highest value hand. To qualify for this award, however, your entry must earn a site rating of 3.5 or higher.
+
+**Optional Challenge:** But wait, there's more! If you want to test your luck further and gain an edge on the competition, you can ask the dealer for a fifth card before receiving your hand. And, if you take this chance, you can bet your own Discord Toddbux into the pot for the Card Shark award: just announce your bet to your dealer and then give them the appropriate amount.
+
+The winner of the Card Shark award will receive a 10,000 Toddbux blind, all other bets, and double their own. If there is a tie in this category, the higher bidder wins.
+
++ Rules
+* For this contest, submissions are limited to one per person.
+* Your article must follow [[[site-rules#toc2|normal uploading rules]]]; do not coldpost!
+* If you and another writer collaborate on an entry, you may choose either of your hands to use.
+* Do not abuse or unfairly manipulate voters.
+ * To advertise your articles, consider posting them in the [[[discord|RPC Community Discord]]] (use #discovery).
+* Using alt accounts or other deceitful means of vote manipulation will result in disqualification and a ban from future contests.
+
++ Deadlines
+Submissions close **July 13th at 11:59PM EST**. Winners will be announced **July 19th**.
+
+First place will go to the highest-rated article and net its author bragging rights. The top three entrants will be featured on the front page. The winner of the Card Shark award will receive a minimum 10,000 Toddbux payout.
+
+Contact [[*user televisionist]] for any questions or concerns.
+[[/collapsible]]
+
+----
+
+[[# submissions]]
++ Submissions
+[[div class="submissionBlock"]]
+= [[size 125%]]1.[[/size]] [[span class="submissionTitle"]]**[[[RPC-699]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Almarduk]]**[[/size]][[/span]]
+= [[size 125%]]//"Mold to Come"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Grouped|img=grouped|value=8|suit=clubs]]
+[[include component:hazard-poker-card name=Microscopic|img=microscopic|value=9|suit=spades]]
+[[include component:hazard-poker-card name=Psychotronic|img=psychotronic|value=10|suit=clubs]]
+[[include component:hazard-poker-card name=Explosive|img=explosive|value=Queen|suit=diamonds]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]2.[[/size]] [[span class="submissionTitle"]]**[[[RPC-489]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user TheGreatTarbolin69]]**[[/size]][[/span]]
+= [[size 125%]]//"The Day the World (almost) Ended"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Auditory|img=auditory|value=5|suit=hearts]]
+[[include component:hazard-poker-card name=Extra-Dimensional|img=extra-dimensional|value=King|suit=spades]]
+[[include component:hazard-poker-card name=Extra-Terrestrial|img=extra-terrestrial|value=Queen|suit=hearts]]
+[[include component:hazard-poker-card name=Mind-Control|img=mind-control|value=10|suit=hearts]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]3.[[/size]] [[span class="submissionTitle"]]**[[[RPC-923]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Doomchad]]**[[/size]][[/span]]
+= [[size 125%]]//"Galaxy Gas"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Microscopic|img=microscopic|value=9|suit=spades]]
+[[include component:hazard-poker-card name=Mechanical|img=mechanical|value=4|suit=spades]]
+[[include component:hazard-poker-card name=Destabilization|img=destabilization|value=Queen|suit=spades]]
+[[include component:hazard-poker-card name=Transmutation|img=transmutation|value=Jack|suit=clubs]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]4.[[/size]] [[span class="submissionTitle"]]**[[[RPC-815]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Indrid_Hot]]**[[/size]][[/span]]
+= [[size 125%]]//"Kamikaze Icebergs"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Memory Alteration|img=memory-alteration|value=King|suit=hearts]]
+[[include component:hazard-poker-card name=Aquatic|img=aquatic|value=4|suit=diamonds]]
+[[include component:hazard-poker-card name=Sentient|img=sentient|value=6|suit=clubs]]
+[[include component:hazard-poker-card name=Extreme Temperature|img=extreme-temperature|value=8|suit=diamonds]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]5.[[/size]] [[span class="submissionTitle"]]**[[[RPC-605]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Mr Makor]]**[[/size]][[/span]]
+= [[size 125%]]//"Till We Part"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Organic|img=organic|value=5|suit=diamonds]]
+[[include component:hazard-poker-card name=Temporal|img=temporal|value=Jack|suit=spades]]
+[[include component:hazard-poker-card name=Transmutation|img=transmutation|value=Jack|suit=clubs]]
+[[include component:hazard-poker-card name=Invisibility|img=invisibility|value=9|suit=clubs]]
+[[include component:hazard-poker-card name=Toxic|img=toxic|value=9|suit=diamonds]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]6.[[/size]] [[span class="submissionTitle"]]**[[[RPC-878]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Jamiroquai777]]**[[/size]][[/span]]
+= [[size 125%]]//"Preserved in My Embrace"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Aquatic|img=aquatic|value=4|suit=diamonds]]
+[[include component:hazard-poker-card name=Contact|img=contact|value=6|suit=diamonds]]
+[[include component:hazard-poker-card name=Radiation|img=radiation|value=King|suit=diamonds]]
+[[include component:hazard-poker-card name=Teleportation|img=teleportation|value=6|suit=spades]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]7.[[/size]] [[span class="submissionTitle"]]**[[[RPC-637]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Abbefalkon]]**[[/size]][[/span]]
+= [[size 125%]]//"By My Father's Working Hands"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Immeasurable|img=immeasurable|value=10|suit=spades]]
+[[include component:hazard-poker-card name=Memory Alteration|img=memory-alteration|value=King|suit=hearts]]
+[[include component:hazard-poker-card name=Animated|img=animated|value=7|suit=hearts]]
+[[include component:hazard-poker-card name=Transmutation|img=transmutation|value=Jack|suit=clubs]]
+[[/div]]
+[[/div]]
+
+[[div class="submissionBlock"]]
+= [[size 125%]]8.[[/size]] [[span class="submissionTitle"]]**[[[RPC-446]]]**[[/span]] [[span class="submissionAuthor"]]by [[size 125%]]**[[user Superspambot]]**[[/size]][[/span]]
+= [[size 125%]]//"Misery Loves Company"//[[/size]]
+----
+[[div class="cardBox"]]
+[[include component:hazard-poker-card name=Grouped|img=grouped|value=8|suit=clubs]]
+[[include component:hazard-poker-card name=Gravitational|img=gravitational|value=8|suit=spades]]
+[[include component:hazard-poker-card name=Extreme Temperature|img=extreme-temperature|value=8|suit=diamonds]]
+[[include component:hazard-poker-card name=Geological|img=geological|value=King|suit=clubs]]
+[[/div]]
+[[/div]]
+
+----
+
+[[=image title-card.png width="100%" style="margin: -20px 0 -10px; filter: drop-shadow(0px 9px 40px #000);"]]
+
+[[div style="font-size: 150%"]]
+**GD-EAST:** //"Great, Swabian Rift's still open and you're back! Sit down, Spoggerig's cleaning out the Patriot."//
+[[/div]]
+
+----
+
+[[div style="font-size: 85%"]]
+[[collapsible show="+ Credits" hide="- Credits"]]
+Directed by [[*user Superspambot]]
+With creative input from [[*user televisionist]], [[*user 8ismo]], [[*user Almarduk]], and [[*user DoubleDenial]]
+[[/collapsible]]
+[[/div]]
+
+[[module CSS]]
+/*
+    Hazard Poker Theme, 2025
+    made by DoubleDenial for the Contest Team
+    submission blocks designed by Qual
+    (exclusive to this hub, because it's not for articles)
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@700&display=swap');
+
+:root {
+    --primary-text-color: #9d9046;
+    --body-background: url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/bg-body.png) top, #14221a;
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/header-icon.svg);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/bg-header.png);
+    --header-text-visibility: hidden;
+    --header-custom-text: "Hazard Poker";
+    --header-color: #ffed89;
+    --header-font: "Birthstone", cursive;
+    --header-font-size: 310%;
+    --header-mobile-font-size: 160%;
+    --header-tagline-custom-text: "Gamble with pride!";
+    --header-tagline-font: "Birthstone", cursive;
+    --header-tagline-font-size: 200%;
+    --header-mobile-tagline-font-size: 140%;
+    --search-button-background: var(--tv1);
+    --search-button-hover-background: var(--nav-hover-background);
+    --topbar-dropdown-background: #371717;
+    --nav-hover-background: #66372c;
+    --link-color: #ecda74;
+    --link-hover-color: #ffed89;
+    --new-page-color: #a68547;
+    --star-rating-hue: 170deg;
+    --primary-background: #37261d;
+    --background-3: #241a19;
+    --basic-border: 1px solid #423b2a;
+    --basic-border-color: #423b2a;
+    --table-border: 1px dashed var(--basic-border-color);
+    --table-header-background: #2f2018;
+    --text-box-form-background: var(--background-3);
+    --text-box-form-border: var(--basic-border);
+    --button-background: var(--background-3);
+    --button-border: var(--basic-border);
+    --button-hover-background: var(--nav-hover-background);
+    --button-hover-border: 1px solid var(--nav-hover-background);
+    --sidebar-crit-corner-color: #ffe6b5;
+    --sidebar-mobile-open-menu-color: #6c6041;
+    --sidebar-mobile-open-menu-border: 3px solid #6c6041;
+    
+    --tv1: #371717;
+    --tv2: 6px double #332;
+}
+
+#header h1 {
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+#header h1, #header h2 { text-shadow: 2px 2px 2px #000, -1px 0 #f005, 1px 0 #00f5; }
+.open-themes-container { display: none; }
+
+body { box-shadow: 0 0 60px 30px inset #111b15; }
+#content-wrap {
+    margin: 0 auto;
+    padding: 2em 0;
+    background: var(--tv1);
+    border: var(--tv2);
+    border-width: 0 6px;
+}
+
+#page-title, .side-block .heading, h1, h2, h3, h4, .footnotes-footer .title, .entryTitle {
+    font-family: "Crimson Text", serif;
+    text-shadow: 1px 2px 1px #000;
+    line-height: 93%;
+}
+#page-title { font-size: 250%; }
+
+.side-block .heading { font-size: 1.4em !important; }
+#side-bar div.menu-item a { border-radius: 6px; }
+
+#main-content a[href^="http"]::after { filter: hue-rotate(180deg) saturate(0.5); }
+
+#footer { margin-top: 0; }
+
+@media (max-width: 768px) {
+    #header h1 {
+    	margin-bottom: -4px;
+    	margin-top: 5px;
+    }
+}
+
+.submissionBlock {
+    margin: 1.5em 1em;
+    padding: 4em 5em;
+    background: url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/Title%20Card%20Top%20Border.png) top, url(http://rpcauthority.wdfiles.com/local--files/hazard-poker/Title%20Card%20Bottom%20Border.png) bottom, #250404;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 6px double #3327;
+    border-radius: 5em;
+    color: #9d9046;
+    box-shadow: 0 0.5em 0.5em #0006;
+}
+.submissionBlock > p { margin: 0; }
+.submissionBlock > p:first-child { margin-bottom: 1ex; }
+.submissionBlock:has(.error-block) { display: none; }
+.submissionTitle {
+    font-size: 275%;
+    line-height: 100%;
+}
+.submissionAuthor {
+    font-style: italic;
+    white-space: pre;
+    --link-color: #9d9046;
+    --link-hover-color: #aea04e;
+}
+
+@media (max-width: 550px) {
+    .submissionBlock { padding: 4em 3em; }
+}
+[[/module]]
+

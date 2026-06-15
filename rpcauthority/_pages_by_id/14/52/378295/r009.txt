@@ -1,0 +1,91 @@
+---
+title: "Image Info Base"
+tags: ["component"]
+page_id: "1452378295"
+site: "rpcauthority"
+slug: "component:image-info-base"
+revision: 9
+revision_id: "1517782646"
+author: 3050074
+timestamp: 1706473968
+---
+
+[[module css]]
+@media (min-width: 769px) {
+.enlarge-true {
+    transition: .05s;
+    position: relative;
+}
+ 
+.enlarge-true:hover {
+    transform: scale(1.5);
+    transition: .05s;
+    transition-delay: .2s;
+    z-index: 15;
+}
+}
+[[/module]]
+
+[[div class="image-block block-{$align}" style="width:{$width}; padding: 5px 5px 5px 5px; text-align: center"]]
+
+[[span style="color: #DEDEDE; font-weight: bold; font-size: 14px;"]]{$title}[[/span]]
+------
+[[image {$name} class="enlarge-{$enlarge}" style="width:{$width};" link={$link}]]
+
+[[div style="padding: 0 0 0 0; text-align: left"]]
+[[span style="color: #DEDEDE"]]{$caption}[[/span]]
+[[/div]]
+
+------
+[[table]]
+
+[[row]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: bold"]]Capital:[[/span]]
+[[/cell]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: lighter"]]{$capital}[[/span]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: bold"]]Official Languages:[[/span]]
+[[/cell]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: lighter"]]{$languages}[[/span]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: bold"]]Legal Jurisdiction:[[/span]]
+[[/cell]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: lighter"]]{$jurisdiction}[[/span]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: bold"]]Government:[[/span]]
+[[/cell]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: lighter"]]{$government}[[/span]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: bold"]]Population:[[/span]]
+[[/cell]]
+[[cell style="padding: 5px 0px 5px 0px"]]
+[[span style="color: #DEDEDE; font-weight: lighter"]]{$population}[[/span]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+
+[[/div]]
+

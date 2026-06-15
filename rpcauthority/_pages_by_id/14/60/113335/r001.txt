@@ -1,0 +1,14 @@
+---
+title: "Mi13inv"
+tags: ["component"]
+page_id: "1460113335"
+site: "rpcauthority"
+slug: "component:mi13inv"
+revision: 1
+revision_id: "1532193106"
+author: 3050074
+timestamp: 1757350749
+---
+
+[[include component:mi13inv-base title={$title}|interviewed={$interviewed}|interviewer={$interviewer}|date={$date}]]
+

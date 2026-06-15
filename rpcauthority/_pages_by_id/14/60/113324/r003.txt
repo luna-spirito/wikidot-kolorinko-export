@@ -1,0 +1,63 @@
+---
+title: "Mi13adden Base"
+tags: ["component"]
+page_id: "1460113324"
+site: "rpcauthority"
+slug: "component:mi13adden-base"
+revision: 3
+revision_id: "1532273366"
+author: 4330657
+timestamp: 1757779118
+---
+
+[[module CSS]]
+:root {
+  --cell-size: 80px;
+}
+
+@media (max-width: 767px) {
+  :root {
+    --cell-size: 50px;
+  }
+
+  .sender-div {
+    font-size: 10px !important;
+  }
+}
+[[/module]]
+
+[[table style="border-collapse:collapse; width: 100%; margin: -6px 2px -6px -6px"]]
+           [[row]]
+[[cell style="background: silver; border-right: 2px solid silver; width: var(--cell-size); height: var(--cell-size);"]]
+[[=]]
+[[image http://rpcsandbox.wdfiles.com/local--files/component:mi13adden-base/MI13print.png style="width:var(--cell-size); height:var(--cell-size);"]]
+[[/=]]
+[[/cell]]
+[[cell style="border-bottom: 7px solid silver;"]]
+
+
+[[div style="display: block; text-align: center;"]]
+  [[span style="border-bottom: 1px dashed silver; font-size: var(--title-size);"]]
++ {$title}
+  [[/span]]
+[[/div]]
+
+
+[[/cell]]
+           [[/row]]
+           [[row]]
+[[cell style="background: silver; color: black; font-size: 22px; width: var(--cell-size); height: auto; vertical-align: top;"]]
+[[div style="border-top: 2px solid #171c22; margin: -2px 5px 0 5px"]]
+[[/div]]
+[[div style="font-size: 14px; margin: -15px 5px 0 5px"]]
+ **To:**
+[[/div]]
+[[div class="sender-div" style="font-size: 12px; margin: -15px 5px 0 5px"]]
+[[>]]
+{$sender}
+[[/div]]
+[[/>]]
+
+[[/cell]]
+[[cell style="padding: 3px 4px 3px 20px"]]
+

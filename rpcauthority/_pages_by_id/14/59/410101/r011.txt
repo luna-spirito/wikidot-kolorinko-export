@@ -1,0 +1,168 @@
+---
+title: "Tales Hub"
+tags: ["hub"]
+page_id: "1459410101"
+site: "rpcauthority"
+slug: "tales"
+revision: 11
+revision_id: "1529870907"
+author: 5982545
+timestamp: 1746226051
+---
+
+[[module CSS]]
+:root {
+    --v1: var(--button-hover-background);
+    --WT-v1: var(--background-4);
+}
+
+#page-title {
+    font-size: 350%;
+    margin: -3px 0 5px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+
+.browserOptions p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0.5em 0;
+    border: var(--button-border);
+    border-width: 1px 0;
+    background: var(--button-background);
+    box-shadow: var(--content-box-shadow);
+}
+.browserOptions p > strong {
+    background: var(--background-3);
+    width: 100%;
+    font-size: 70%;
+}
+.browserOptions a {
+    padding: 3px 0;
+    width: 25%;
+    flex-grow: 1;
+    transition: none;
+}
+.browserOptions a:hover {
+    background: var(--v1);
+    text-decoration: none;
+}
+
+#main-content .list-pages-item {
+    padding: 4px 0;
+    position: relative;
+}
+#main-content .list-pages-item > p, #main-content .list-pages-item > p a {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+#main-content .list-pages-item > div {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: flex-end;
+    border-left: 3px solid #494949;
+    padding: 5px 10px;
+    background: var(--background-3);
+    box-shadow: var(--content-box-shadow);
+    transition: 0.2s;
+    position: relative;
+    right: 0;
+}
+#main-content .list-pages-item:hover > div {
+    right: 7px;
+    border-left-color: var(--link-hover-color);
+    border-left-width: 7px;
+    padding-right: 8px;
+    box-shadow: 0 0 1px 1px #fff2;
+    transition: 0.05s;
+}
+#main-content .list-pages-item > div > p { margin: 0; }
+#main-content .list-pages-item > div > p:first-child {
+    font: 170% "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica;
+    align-self: flex-start;
+    transition: 0.2s;
+}
+#main-content .list-pages-item > div.tale > p:first-child a { font-style: italic; }
+#main-content .list-pages-item:has(> p a:hover) > div > p:first-child a {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+    transition: 0.05s;
+}
+#main-content .list-pages-item > div > p:last-child {
+    align-self: flex-end;
+    text-align: right;
+    flex-shrink: 0;
+    white-space: nowrap;
+    font-size: 70%;
+    color: #777;
+}
+#main-content .list-pages-item .printuser a {
+    position: relative;
+    z-index: 2;
+}
+#main-content .list-pages-item .printuser a::before { content: none !important; }
+#main-content .list-pages-item .printuser.deleted > img { display: none; }
+.page-rate-list-pages-start img {
+    width: 13px;
+    vertical-align: top;
+}
+
+.pager-no { display: none; }
+.pager {
+    background: var(--background-3);
+    box-shadow: var(--content-box-shadow);
+    margin: 0.5em 0;
+    font-size: 70%;
+}
+.pager, .pager .target { display: flex; }
+.pager > *, .pager .target a {
+    width: 0;
+    flex-grow: 1;
+    margin: 0 !important;
+}
+.pager .current {
+    padding: 0;
+    border: var(--button-hover-border) !important;
+    background: var(--button-hover-background);
+    color: var(--button-hover-color);
+    font-weight: normal;
+}
+.pager .dots {
+    padding: 0;
+    border: var(--button-border);
+    color: #777;
+}
+[[/module]]
+
+[[=]]
+The untamed waters: explore deeper stories within the RPC canon.
+
+[[div class="browserOptions"]]
+**Browse by...** [/tales Date] [[[tale-topics|Topic]]] [/tales/order/created_by Author] [[[series-archive|Series]]] [/tales/order/title Title] [/tales/order/votes%20desc Popularity] [/tales/order/rating%20desc/votes/%3E19 Rating] [/tales/order/random Random]
+[[/div]]
+[[/=]]
+
+[[module ListPages order="@URL" tags="@URL|tale document -grp -site -personnel -mst" votes="@URL"]]
+[[a href="/%%fullname%%"]] [[/a]]
+[[div [[iftags tale]]class="tale"[[/iftags]]]]
+%%title_linked%% [[size 75%]][[iftags non-canon]](NC)[[/iftags]] [[iftags cosmic-embers]](CE)[[/iftags]][[/size]]
+
+%%rating%% | ##var(--text-color)|%%rating_votes%%##
+%%created_at|%b %e, %Y%% by ##var(--text-color)|[[user %%created_by%%]] [[iftags co-authored collaboration]]and more[[/iftags]]##
+[[/div]]
+[[/module]]
+
+[[div style="background: var(--background-4); border: solid 2px #666666; border-radius: 4px; margin: 2em auto 0; padding: 10px 38px; width: 70%;"]]
+
+= //To create a new Tale, enter the title and click Create Tale.//[[footnote]]  If you are unable to create a page using the module below, try creating a page normally by choosing your desired URL (i.e. @@http://rpcauthority.wikidot.com/your-page-name@@) and adding the tag "tale" via the "Tags" button at the bottom of the page. Other relevant tags may be found in the [[[Tagging Guide]]].[[/footnote]]
+
+[[module NewPage size="30" tags="tale" button="Create Tale"]]
+[[/div]]
+

@@ -1,0 +1,35 @@
+---
+title: "Tag Search Panel Black"
+tags: []
+page_id: "1455858106"
+site: "rpcauthority"
+slug: "tag-search-panel:black"
+revision: 13
+revision_id: "1524283040"
+author: 5982545
+timestamp: 1725045536
+---
+
+[[html]]
+<style>
+    #container, input, select, button { color: #c0c0c0; }
+    #container { background: #1d2022; }
+    input, select, button {
+    	background: #181d22;
+    	border: 1px solid #2c3340;
+    	border-radius: 0;
+    }
+    button:hover, input[type=submit]:hover {
+    	background: #27415c;
+    	border-color: #27415c;
+    	color: #fff;
+    }
+    a {
+    	color: #5295e1;
+    	transition: color 0.5s ease
+    }
+    a:hover { color: #84b7f5; }
+</style>
+[[include tag-search-panel:_shell themeSuffix=""]]
+[[/html]]
+
