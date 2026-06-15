@@ -1,0 +1,21 @@
+---
+title: "Поиск по тегам"
+tags: []
+page_id: "106604889"
+site: "obscurative"
+slug: "system:page-tags"
+revision: 28
+revision_id: "146883935"
+author: 4518363
+timestamp: 1535992835
+---
+
+[[module ListPages category="* -draft" tags="@URL|nothing" order="title"]]
+[[[%%link%%|%%title%%]]]
+[[/module]]
+
+В черновиках (убрать позже):
+[[module ListPages category="draft" tags="@URL|nothing" order="title"]]
+[[[%%link%%|%%title%%]]]
+[[/module]]
+

@@ -1,0 +1,16 @@
+---
+title: "Статьи по рейтингу"
+tags: []
+page_id: "106633847"
+site: "obscurative"
+slug: "rating"
+revision: 13
+revision_id: "710464136"
+author: 4518363
+timestamp: 1553881860
+---
+
+[[module ListPages category="_default" order="rating desc" separate="yes"]]
+%%title_linked%%, рейтинг %%rating%%
+[[/module]]
+
