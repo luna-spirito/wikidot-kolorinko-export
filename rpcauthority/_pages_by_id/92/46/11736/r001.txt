@@ -1,0 +1,24 @@
+---
+title: "Random Tale"
+tags: []
+page_id: "924611736"
+site: "rpcauthority"
+slug: "random:random-tale"
+revision: 1
+revision_id: "1521419274"
+author: 5982545
+timestamp: 1720137556
+---
+
+[[module CSS]]
+#page-title {
+display: none
+}
+[[/module]]
++ Redirecting...
+[[div style="display: none;"]]
+[[module ListPages category="*" order="random" limit="25" tag="tale -continuation"]]
+[[include :snippets:redirect url=%%link%%]]
+[[/module]]
+[[/div]]
+

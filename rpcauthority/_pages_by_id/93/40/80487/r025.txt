@@ -1,0 +1,124 @@
+---
+title: "Below Zero Theme"
+tags: ["theme"]
+page_id: "934080487"
+site: "rpcauthority"
+slug: "component:below-zero-theme"
+revision: 25
+revision_id: "1050603465"
+author: 3118961
+timestamp: 1584296363
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:below-zero-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+Below Zero Theme
+[2019 Wikidot Theme]
+Created by Vizlox
+*/
+
+:root {
+    --primary-text-color: #6a99af;
+    --body-background: #272f31;
+    --basic-border: 1px solid #3e535c;
+    --basic-border-color: #3e535c;
+    
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Below Zero';
+    --header-tagline-custom-text: 'Shattered Ice';
+    --header-mobile-font-size: 100%;
+    --header-mobile-tagline-font-size: 100%; 
+
+    --nav-hover-background: #3f6475;
+
+    --header-background: url('http://www.rpc-wiki.net/local--files/component:below-zero-theme/Header.png');
+    --header-icon: url('http://www.rpc-wiki.net/local--files/component:below-zero-theme/AnomalyIce.png');
+    --header-color: #c5cae4;
+    
+    --content-bar-background: #212d31;
+    
+    --tabview-side-tabs-background: #293a3e;
+    --tabview-side-button-selected-background: #212527;
+    --tabview-side-scrollbar-thumb-background: #304850;
+    --tabview-side-scrollbar-thumb-hover-background: #2e4149;
+
+    --link-color: #68bde5;
+    --link-hover-color: #85d2f6;
+    
+    --search-button-background: #1b2b32;
+    --search-button-hover-background: #365564;
+    --search-input-color: #33454d;
+    --search-input-hover: #2d5468;
+    --star-rating-hue: -20deg;
+
+    --sidenote-closed-background: #212a2c;
+    --sidenote-open-background: var(--content-bar-background);
+
+    --WT-primary-text-color: #6392a8;
+    --WT-body-background: #e3e7e9;
+ 
+    --WT-header-text-visibility: hidden;
+    --WT-header-custom-text: 'Below Zero';
+    --WT-header-tagline-custom-text: 'Shattered Ice';
+    --WT-header-mobile-font-size: 100%;
+    --WT-header-mobile-tagline-font-size: 100%; 
+ 
+    --WT-nav-hover-background: #558da8;
+    --WT-topbar-hover-background: #30708f;
+ 
+    --WT-header-background: url('http://www.rpc-wiki.net/local--files/component:below-zero-theme/HeaderLight.png');
+    --WT-header-icon: url('http://www.rpc-wiki.net/local--files/component:below-zero-theme/AnomalyIce.png');
+    --WT-header-color: #c5cae4;
+    --WT-header-tagline-color: #7cc0e0;
+ 
+    --WT-content-bar-background: #b9c2c6;
+ 
+    --WT-link-color: #248ec2;
+ 
+    --WT-search-button-background: #2d4953;
+    --WT-search-button-hover-background: #487185;
+    --WT-search-input-color: #3e545c;
+    --WT-search-input-hover: #48626c;
+
+    --WT-tabview-button-selected-background: #69aaca;
+    --WT-tabview-button-hover-background: #8f9da4;
+    --WT-tabview-button-selected-color: #fff;
+    
+    --WT-sidenote-figure-closed-color: #fff;
+    --WT-sidenote-figure-open-color: var(--text-color);
+    --WT-sidenote-closed-background:  #69aaca;
+    --WT-sidenote-open-background: var(--content-bar-background);
+    
+    --WT-open-themes-background: #1d2022;
+    --WT-open-themes-hover-color: #68bde5;
+    
+    --WT-star-rating-background: var(--basic-border-color);
+    --WT-star-rating-border: var(--basic-border);
+    --WT-star-rating-border-radius: 0;
+    --WT-star-rating-box-shadow: none;
+    --WT-star-rating-stars-box-shadow: none;
+    --WT-star-rating-hue: 160deg;
+    --WT-star-rating-filter: hue-rotate(var(--WT-star-rating-hue)) saturate(0.75);
+
+    --BT-open-themes-border: 2px solid #a3aeb4;
+    --BT-open-themes-background: #e7f7fe;
+    --BT-open-themes-color: #000;
+    --BT-open-themes-hover-color: #248ec2;
+    --BT-open-themes-hover-border: solid 2px #68bde5;
+    --BT-scrollbar-thumb-background: #274c5a;
+    --BT-scrollbar-thumb-hover-background: #284049;
+}
+
+#search-top-box-form input[type=submit]:hover {
+    color: #fff!important;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

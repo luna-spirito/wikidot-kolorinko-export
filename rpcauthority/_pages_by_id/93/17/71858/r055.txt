@@ -1,0 +1,334 @@
+---
+title: "Widget Hub"
+tags: ["guide", "hub"]
+page_id: "931771858"
+site: "rpcauthority"
+slug: "widget-hub"
+revision: 55
+revision_id: "1544174656"
+author: 5982545
+timestamp: 1779889806
+---
+
+[[module css]]
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Widget Hub
+[[/div]]
+
+[[=]]
+This page exists as a list of site components that you can use in your articles. 
+[[/=]]
+
+[[toc]]
+
+> = **How to use includes**
+> 
+> Most components require use of an include module. It is usually easiest to copy the code from an article that uses it and modify it to what you need.
+> 
+> You can read the official Wikidot guide [[[https://www.wikidot.com/doc-wiki-syntax:include|here]]].
+
+> = **How to use themes**
+> 
+> Place this code at the top of your article and plug in the URL
+> 
+>> [[module CSS]]
+>> @import url(https://rpcauthority.wdfiles.com/local--code/component:example-theme/1);
+>> [[/module]]
+
++++ Components
+
+[[div class="content-panel"]]
+**Hazard Image Block** by [[*user mrpines]]
+
+A component that allows you to include the hazard images with hover-text above an image.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://rpcauthority.wdfiles.com/local--files/widget-hub/imagehazards.png width="100%"]]
+[[/collapsible]]
+
+[[[http://rpcsandbox.wikidot.com/component:hazard-image-block-introduce|Guide]]]
+
+**[[[/forum/t-13027195/new-hazard-image-block|Updated Version]]]**
+[[/div]]
+
+[[div class="content-panel"]]
+**Sidenotes** by [[*user 0ktober]]
+
+Collapsible information boxes you can put on the side of the screen.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://rpcauthority.wdfiles.com/local--files/widget-hub/sidenotepreview.png width="100%"]]
+[[/collapsible]]
+
+[[[sidenote-guide|Guide]]]
+[[/div]]
+
+[[div class="content-panel"]]
+**Hazard Block** by [[*user 0ktober]]
+
+A stylized replacement for the hazard types based on the Hazard Image Block.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://rpcauthority.wdfiles.com/local--files/widget-hub/HazardBlocks.png width="100%"]]
+[[/collapsible]]
+
+[[[component-hazards-guide|Guide]]]
+[[/div]]
+
+[[div class="content-panel"]]
+**Manual Hazard Block** by [[*user DoubleDenial]]
+
+A fully customizable equivalent to the Hazard Block.
+
+[[[manual-hazards-guide|Guide]]]
+[[/div]]
+
+[[div class="content-panel"]]
+**Infoboxes** by [[*user 0ktober]]
+
+Information boxes that display out-of-universe information about an article.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://rpcauthority.wdfiles.com/local--files/widget-hub/infobox.png width="100%"]]
+[[/collapsible]]
+
+Both:
+
+> @@[[include component:infobox canon=TEXT|series=TEXT]]@@
+
+Only series:
+
+> @@[[include component:infobox series=TEXT]]@@
+
+Only canon:
+
+> @@[[include component:infobox canon=TEXT]]@@
+
+[[/div]]
+
+[[div class="content-panel"]]
+**Global Director Warning** by [[*user JimmyBoyHaha]]
+
+A header that warns the reader that the following file is top-secret.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://i.imgur.com/Bm9KDu4.png width="100%"]]
+[[/collapsible]]
+
+Example:
+> [[include :rpcsandbox:component:gd-warning
+> |bg-image=https://rpcsandbox.wdfiles.com/local--files/component%3Agd-warning/arrpeesee.png
+> |bg-opacity=0.1
+> |text-top=BY ORDER OF THE GLOBAL DIRECTORATE
+> |text-bottom=The following file describes an anomalous fungal infection, and is Level 3/660 Classified
+> @@@@@@ @@@@@@
+> @@**Unauthorized access is forbidden.**@@
+> |phenomena-code=660
+> ]]
+[[/div]]
+
+[[div class="content-panel"]]
+**Rightside File Navigators** repurposed by  [[*user Teoman Deniz]] and [[*user Televisionist]], code cleaned up by [[*user 0ktober]] (primary module of said rework was from [[[http://topia.wikidot.com/file-nav-test|here]]]).
+
+A customizable table of contents bar that follows the page as you scroll.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://i.imgur.com/zqk5yf5.png width="100%"]]
+[[/collapsible]]
+
+Code:
+
+> @@[[include nav:side-right@@
+>     @@width=     |@@
+>     @@background=     |@@
+>     @@border=     |@@
+>     @@border-radius=    |@@
+>     @@padding=     |@@
+>     @@box-shadow=     |@@
+>     @@container-height=     |@@
+>     @@]]@@
+> 
+> @@[[=]]@@
+> @@[[size 120%]]**(Document Title)**[[/size]]@@
+> @@[[size 75%]]**File Nav**[[/size]]@@
+> @@----@@
+> @@[[/=]]@@
+> 
+> @@(Anchor Text)@@
+> 
+> @@[[div style="margin: auto"]]@@
+> 
+> 
+> 
+> @@[[/div]]@@
+> @@[[/div]]@@
+> @@[[/div]]@@
+@@@@
+
+[[collapsible show="+ Example:" hide="- Example:"]] 
+[[=]]
+[[size 125%]] **Example was taken from the Archive I Page** [[/size]]
+[[/=]]
+> @@[[include nav:side-right@@
+>     @@width=7.9rem|@@
+>     @@background=var(--primary-background)|@@
+>     @@border=var(--nested-content-border)|@@
+>     @@border-radius=var(--element-border-radius)|@@
+>     @@padding=5px|@@
+>     @@box-shadow=var(--content-panel-box-shadow)|@@
+>     @@]]@@
+> 
+> @@[[=]]@@
+> @@[[size 120%]]**Archive I**[[/size]]@@
+> @@[[size 75%]]**File Nav**[[/size]]@@
+> @@----@@
+> @@[[/=]]@@
+> 
+> @@[[div style="margin: auto"]]@@
+> 
+> @@[#operational Op. Info.]@@
+> @@[#001 001–099]@@
+> @@[#100 100–199]@@
+> @@[#200 200–299]@@
+> @@[#300 300–399]@@
+> @@[#400 400–499]@@
+> @@[#500 500–599]@@
+> @@[#600 600–699]@@
+> @@[#700 700–799]@@
+> @@[#800 800–899]@@
+> @@[#900 900–999]@@
+> 
+> @@[[/div]]@@
+> @@[[/div]]@@
+> @@[[/div]]@@
+[[/div]]
+[[/collapsible]]
+
+[[div class="content-panel"]]
+**Special Class & Hazard Box** by [[*user Almarduk]], [[*user 0ktober]], [[*user TTPY]]
+
+A formatting tool to replace the top-of-page formatting and tie it neatly in a box.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image https://rpcauthority.wikidot.com/local--files/widget-hub/specialboxsample.png width="100%"]]
+[[/collapsible]]
+
+[[[special-box-guide|Guide]]]
+[[/div]]
+
+
+[[div class="content-panel"]]
+**Taxonomy** by [[*user jokezm]]
+
+An image component that allows you to classify your anomalous species's kingdom, tribe, species, etc.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[=image http://rpcauthority.wdfiles.com/local--files/taxonomy-guide/ArtificierAnt.png width="320px"]]
+[[/collapsible]]
+
+[http://rpcauthority.wikidot.com/taxonomy-guide Guide]
+
+[[/div]]
+
++++ Modules
+
+
+[[div class="content-panel"]]
+**Auptics III Bianhua Author Quote Module** by [[*user Malfestance]]
+
+Invisible text that allows the author to display a custom embed when the ;rpc/;page command is invoked by the Auptics III Bianhua discord bot on the RPC Authority discord.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+[[image aupticscompare.png width="100%"]]
+[[/collapsible]]
+
+[[[auptics-author-quote-module-guide|Guide]]]
+
+Code:
+
+> @@[!--{[A3AQM::!::@@
+> maintext="Main text of embed."::
+> objectclass="Specific Object Class."::
+> title="Custom Title"::
+> imglink="Image Link.png"
+> @@]}--]@@
+@@@@
+[[/div]]
+
+[[div class="content-panel"]]
+**Mobile Container** by [[*user Jokezm]]
+
+A module and div to help your CSS keep its structure and not overflow on mobile. You can also wrap them around components and tables.
+
+[[collapsible show="+ Preview" hide="- Preview"]]
+
+------
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/mobile-contianer/Withcontain.jpg|align=center|width=300px|caption=With mobile-container.]]
+
+------
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/mobile-contianer/Withoutcontain.jpg|align=center|width=300px|caption=Without mobile-container.]]
+
+------
+
+[[/collapsible]]
+
+Code: 
+> [[module CSS]]
+> @media screen and (max-width: 480px) {
+> @@ @@ .mobile-container {
+> @@ @@ @@ @@  width: 100%;
+> @@ @@ @@ @@ font-size: 0.8em;
+> @@ @@ @@ @@  padding: 0;
+> @@ @@ @@ @@  margin: 0;
+> @@ @@ }
+> }
+> [[/module]]
+
+(Wrap this around your CSS/table/component)
+> @@[[div class="mobile-container"]]@@
+> 
+> @@[[/div]]@@
+
+[[/div]]
+
+
++++ Formatting
+
+[[div class="content-panel"]]
+**Division Tones**
+
+A set of alternate RPC formats specific to each division.
+
+[[[Research Tone]]]
+
+[[[Research Paper Tone]]]
+
+[[[Protection Tone]]]
+
+[[[ACI-Tone]]]
+
+[[[ASF Tone]]]
+
+[[[Administration Tone]]]
+
+[[/div]]
+
++++ Themes
+
+[[module listPages category="component" tags="theme -_widget-hub-hide" perPage="255" limit="255" order="title"]]
+[[div class="content-panel"]]
+**%%title_linked%%**
+
+> @@[[module css]]@@
+> @import url(https://rpcauthority.wdfiles.com/local--code/%%fullname%%/1);
+> @@[[/module]]@@
+[[/div]]
+[[/module]]
+

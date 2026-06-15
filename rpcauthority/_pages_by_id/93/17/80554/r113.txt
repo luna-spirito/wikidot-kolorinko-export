@@ -1,0 +1,26 @@
+---
+title: "baubius"
+tags: ["author-page"]
+page_id: "931780554"
+site: "rpcauthority"
+slug: "baubius-author-page-part-ii-this-time-its-in-rpc"
+revision: 113
+revision_id: "1355867996"
+author: 2200357
+timestamp: 1600298573
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:omega-iota-theme/code/1);
+[[/module]]
+
+[[module Listpages created_by="GibbyFuckingDies" order="created_at desc" category="-fragment -component" perPage="999999999999999999999999" tag="-translation"]]
+[[div class="preview {$background}"]]
+
+*  %%title_linked%% [[image :first class="imagepre {$image}" style="margin: -10px 0px; width: 35px; border: solid 1px lightgray;"]]
+
+[[/div]]
+[[/module]]
+
+* [[[RPC-980]]] with [[*user Prototype_Toaster]]
+

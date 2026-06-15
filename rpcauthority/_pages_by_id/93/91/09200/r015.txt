@@ -1,0 +1,99 @@
+---
+title: ""
+tags: ["author-page"]
+page_id: "939109200"
+site: "rpcauthority"
+slug: "dr-pierson-s-author-page"
+revision: 15
+revision_id: "1364212812"
+author: 2776183
+timestamp: 1618998570
+---
+
+[[module CSS]]
+
+@import url(http://rpcsandbox.wikidot.com/component:pierson-theme/code/1);
+
+#page-title {
+     display: none;
+}
+
+#header {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/dr-pierson-s-author-page/ACERPC.svg);
+}
+
+[[/module]]
+
+[[include component:image-block name= http://rpcsandbox.wdfiles.com/local--files/introduction-3/D_STdgxU0AAkuR9.jpg%20large.jpg|caption= (Special thanks to [https://twitter.com/BlySpooder Feesh]) |width= 260px]]
+
++ A Note from the Author
+
+Hello, my name is Blake Pierson as every author and writer knows or refers me to in the RPC Community. It's not actually my name; it's more so a pseudonym that I'm more comfortable to be identified or addressed. Of course, others tend to refer me as Dr. Pierson-- //not a doctor of course.//
+
+Currently a college student, I started writing for the RPC Authority on July 1, 2018. Since then, my works exclusively expanded outside as a writer, from artistry to video eding, and became a Site Moderator for a short period. In all honesty, I felt like I made several impacts in the community by helping those who are new to the RPC Community, and contributed to the expanding RPC Universe. //Perhaps, who knows.// 
+
+Below further this page, you'll find additional information about my works on the site, and a link to my Youtube Channel where I posted 'Lore Explained' type of videos. Until then, see you around.
+
+//Mhm,//
+
+- Dr. Pierson
+
+@@ @@
+
+[[=]]
++ Channel
+[[/=]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/dr-pierson-s-author-page/unknown.png width="100%" link="https://www.youtube.com/channel/UCx9ZYXL4x6G7_jM6EbfqneA"]]
+
+[[=]]
++ **Articles**
+[[/=]]
+
+[[module ListPages created_by="DrPierson" perPage="250" separate="no" tags="rpc" order="title" prependLine="||~ Registered Phenomena Code||~ Date of Creation||"]]
+|| %%title_linked%% || %%created_at%% ||
+[[/module]]
+
+[[=]]
++ **Tales**
+[[/=]]
+
+[[module ListPages created_by="DrPierson" perPage="250" separate="no" tags="tale" order="created"  prependLine="||~ Recorded Documents||~ Date of Creation||"]]
+|| %%title_linked%% || %%created_at%%||
+[[/module]]
+
+[[=]]
++ **Supplementals**
+[[/=]]
+
+
+[[=]]
++++ **Miscellaneous**
+[[/=]]
+
+[[module ListPages created_by="DrPierson" perPage="250" separate="no" tags="-tale, -rpc, -author-page, -lore, -canon, -personnel" prependLine="||~ Supplements ||"]]
+|| %%title_linked%% ||
+[[/module]]
+
+@@ @@
+
+[[=]]
++++ **Contributed Lore**
+[[/=]]
+
+[[module ListPages created_by="DrPierson" perPage="250" separate="no" tags="lore, canon" order="created"  prependLine="||~ Recorded Documents||~ Tags||"]]
+|| %%title_linked%% || %%tags_linked%%||
+[[/module]]
+
+@@ @@
+
+[[=]]
++++ **Personnel File**
+[[/=]]
+
+[[module ListPages created_by="DrPierson" perPage="250" separate="no" tags="personnel" prependLine="||~ Name||"]]
+|| %%title_linked%% ||
+[[/module]]
+
+[[footnoteblock]]
+

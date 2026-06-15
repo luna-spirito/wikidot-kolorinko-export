@@ -1,0 +1,49 @@
+---
+title: "KeksimusMaximus"
+tags: ["author-page"]
+page_id: "931790715"
+site: "rpcauthority"
+slug: "keksimusmaximus"
+revision: 3
+revision_id: "978943254"
+author: 1844792
+timestamp: 1573158968
+---
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+##red|KEKSIMUS####gold|MAXIMUS##
+[[/div]]
+
+[[tabview]][[tab About KeksimusMaximus]]
+[[=]]
+**##red|Before the Authority##**
+[[/=]]
+I had been interested in the SCP Foundation years prior to the establishment of the RPC Authority. I was quite young then, still in middle school.  I was well aware that at the time I was not fit to write articles just yet. As time marched on, through my high school years, I mostly forgot about the SCP Foundation and that style of fiction. During this time my skills in writing improved dramatically.
+[[=]]
+##Red|**Discovering the Authority##**
+[[/=]]
+ It was actually a coincidence that during my freshman year of university, I was introduced to the RPC Authority by watching Eastside-Steve on YouTube. It caught my attention because it was different than the usual SCP videos that I had mostly been ignoring in my subscription feed. I did not yet know about the incident on the SCP wiki regarding low quality articles, staff abuse of power, and political biases. My first impression of the authority was that the website was easier on the eyes and the object classifications made more sense. I of course, looked deeper into the RPC Authority and discovered the controversy that helped give rise to the community. I watched Metokur's infamous LGBSCP video, among others. The whole research session rekindled my interest in anomalous entities. I was never a member of the SCP wiki, so I hold no grudge against any of its members, but the Authority seemed to have a more favorable community, higher standards, and a format that I found preferable. I knew from the start that I wanted to help the authority grow. I began reading articles, joined the site, and brainstormed ideas for my own contributions.
+[[=]]
+**##red|Dawn of a Writer##**
+[[/=]]
+Eventually a stock image of an ornate ink-quill gave me the idea behind [[[RPC-252]]], my first site contribution. Generally my articles are written on my free time or during particularly easy classes, where I needn't pay much attention to lectures in the first place. I intend to write more actively, as well as provide more peer-criticism in the near future. I want to do all that I can to help the RPC Authority prosper as a community. 
+[[/tab]]
+[[tab RPCs]]
+[[module ListPages tags="rpc" order="title" created_by="keksimusmaximus"]]
+%%rating%% %%rating_votes%% %%title_linked%% - %%comments%% comments
+[[/module]][[/tab]]
+[[tab Tales]]
+[[module ListPages tags="tale" order="title" created_by="keksimusmaximus"]]
+%%rating%% %%rating_votes%% %%title_linked%% - %%comments%% comments
+[[/module]][[/tab]]
+[[tab Other Articles]]
+[[module ListPages tags="-rpc -tale" order="title" created_by="keksimusmaximus"]]
+%%rating%% %%rating_votes%% %%title_linked%% - %%comments%% comments
+[[/module]][[/tab]][[/tabview]]
+
