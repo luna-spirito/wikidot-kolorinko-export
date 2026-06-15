@@ -1,0 +1,53 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 87
+revision_id: "148497117"
+author: 4473061
+timestamp: 1537888829
+---
+
+[[[no-rate:news|❖ Новости]]]
+
+[[[forum:start|☻ Форум]]]
+
+[[[no-rate:rating|❖ Рейтинг статей]]]
+-----
+
+[[[no-rate:object list|۩ Список объектов]]]
+
+[[[no-rate:object-n list|۩ Нейтрализованные объекты]]]
+-----
+
+[[[no-rate:faq|■ FAQ]]]
+
+[[[no-rate:rules|■ Правила сайта]]]
+-----
+[[[forum:recent-posts|❖ Новые сообщения]]]
+ 
+[[[system:recent-changes|❖ Свежие правки]]]
+-----
+
+[[module ListUsers users="."]]
+[[[draft:%%name%% | ❖ Мой черновик]]]
+[[/module]]
+
+[[[no-rate:drafts|◆ Список черновиков]]]
+-----
+
+[[[system:join|❖ Стать участником]]]
+
+[[[no-rate:users|◆ Список участников]]]
+
+[[[system:invite|◆ Приглашение участников]]]
+
+[[[system:who-invited|◆ Проверка приглашений]]]
+-----
+
+[[[http://university-of-pandora.wikidot.com/system:page-tags|❖ Облако тегов]]]
+
+[[[admin: manage this site|Управление сайтом]]]
+

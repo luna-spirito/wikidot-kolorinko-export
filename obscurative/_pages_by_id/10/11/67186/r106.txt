@@ -1,0 +1,46 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 106
+revision_id: "899722922"
+author: 4518363
+timestamp: 1565015736
+---
+
+[[[news|Новости]]]
+
+[[[start|Форум]]]
+
+-----
+
+[[object list|Список объектов]]]
+
+[[[rating|Рейтинг статей]]]
+
+-----
+[[[recent-posts|Новые сообщения]]]
+ 
+[[[recent-changes|Свежие правки]]]
+
+[[[sandbox|Полигон]]]
+-----
+
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[/module]]
+
+[[[drafts|Список черновиков]]]
+-----
+
+[[[join|Стать участником]]]
+
+[[[users|Список участников]]]
+
+[[[discord|Discord чат]]]
+-----
+
+[[[http://university-of-pandora.wikidot.com/system:page-tags|Облако тегов]]]
+
