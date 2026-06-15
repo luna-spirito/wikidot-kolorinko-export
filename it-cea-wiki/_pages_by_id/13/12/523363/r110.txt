@@ -1,0 +1,118 @@
+---
+title: "Strutture sotto controllo della CEA"
+tags: ["home"]
+page_id: "1312523363"
+site: "it-cea-wiki"
+slug: "facilities"
+revision: 110
+revision_id: "1532677941"
+author: 9546096
+timestamp: 1759628862
+---
+
++ Informazioni
+[[tabview]]
+[[tab Definizione]]
+Ci sono diverse classificazioni per le strutture su cui la CEA ha controllo ed in cui opera, ovvero Sedi, Campi e le Punti di backup. Le differenze e cose importanti da sapere su riguardo a quest'ultime sono le seguenti:
+
+# Le Sedi sono strutture costruite e in possesso della CEA, zone private e strettamente sorvegliate, dove solo il personale e possibilmente dei "finanziatori" possono entrare per degli "accertamenti".
+# I Campi invece sono una zona, esterna alla proprietà della CEA, che però, per vari motivi (il principale è la presenza obbligata di un'anomalia, che per l'integrità del suo contenimento) deve essere nella sua sorveglianza e/o possesso. Tutto per il contenimento di anomalie. 
+# Le Basi sono aree militari della CEA nelle quali solo UAM e personale autorizzato possono entrare, non sono fatte per contenere anomalie o altro per un periodo prolungato, sono principalmente posti nelle quali le UAM risiedono fino a quando non devono venir chiamate in altri punti. In aggiunta, possono venir utilizzate per mantenere documenti o oggetti temporanemente prima che vengano mossi ad altre strutture.
+# I Punti di backup sono zone controllate dalla CEA, solitamente piccole case o edifici rurali dove dentro ci sono copie del database della CEA.
+[[/tab]]
+[[tab Gradi]]
+Le strutture sotto il controllo della CEA sono classificate in base a un sistema a gradi per determinarne l'importanza.
+
+Ci sono 5 gradi totali, dove il grado 1 rappresenta le aree più importanti della CEA ed il grado 5 rappresenta le aree meno importanti.
+
+# Grado: Strutture di massima priorità, solitamente contenenti personale importante o anomalie utili alla CEA.
+# Grado: Strutture importanti, solitamente legate alla presenza di anomalie di alta portata al loro interno o di alta importanza strategica.
+# Grado: Strutture di importanza media per la CEA, ovvero quelle più comuni.
+# Grado: Strutture minori di bassa importanza, solitamente sono nuove strutture o alcune che contengono poche anomalie al loro interno.
+# Grado: Le strutture di Grado 5 sono le meno importanti, queste hanno pochissime anomalie, c'è poco personale che ci opera e non sono di alta importanza strategica.
+[[/tab]]
+[[tab Aree]]
+Le strutture sotto controllo della CEA sono a loro volta suddivise in aree, ciò è per delineare a cosa sono dovute venir usate le varie sezioni della struttura. Le aree sono:
+
+**Alba:** Aree addette al personale, come dormitori, bagni, uffici, etc.
+
+**Mezzogiorno:** Aree di contenimento leggero, ovvero un'area nella quale anomalie facili da contenere e da potenziale aggressivo basso risiedono.
+
+**Tramonto:** Aree di contenimento pesante, ovvero un'area nella quale anomalie difficili da contenere e da potenziale aggressivo alto risiedono.
+
+**Notte:** Area attualmente inutilizzata.
+[[/tab]]
+[[/tabview]]
+----
++ Struttura di contenimento
+[[tabview]]
+[[tab Sedi]]
+> **[/site-singolarity Sede Singolarità]** (1)
+> 
+> La Sede Singolarità è una delle sedi più importanti della CEA, locata a ##red|**[ACCESSO NEGATO]**##, ospita CEA estremamente importanti ed è la base operativa dell'High Jury. L'accesso a questa sede è limitato al personale di autorizzazione Alpha.
+----
+> **[/site-saturn Sede Saturno]** (2)
+> 
+> La Sede Saturno è una struttura specializzata nel contenimento di una vasta gamma di entità biologiche. Situata in Valle d'Aosta, la sede è il centro di ricerca principale per esseri umanoidi, senzienti o biologici.
+----
+> **[/site-andromeda Sede Andromeda]** (3)
+> 
+> La sede Andromeda è un centro operativo "specializzato" al contenimento di entità umanoidi estremamente ostili verso la vita, caratterizzato principalmente da un coefficiente d'adattabilità relativamente elevato. Questa struttura è progettata per affrontare entità e fenomeni con caratteristiche anomale o potenzialmente pericolose per la società.  
+----
+> **[/site-pluto Sede Plutone]** (4)
+> 
+> La sede è usata per il contenimento di oggetti anomali ancora non ben capiti e/o pericolosi, la Sede Plutone ospita anomalie enigmatiche e pericolose come la [/cea-011 Televisione distruttiva] oppure CEA meno pericolosi ma che hanno ancora bisogno di un'analisi scientifica come la [/cea-002 Sfera d'acciaio]. 
+[[/tab]]
+[[tab Campi]]
+> **Campo Nettuno** (4)
+> 
+> Il Campo Nettuno, situato in una posizione strategica, nato originariamente come base della ex. UAM "Animal's Fury" come base momentanea per contenere [[[CEA-003]]], è in seguito diventata una base dalla quale tenere d'occhio diverse anomalie nella zona. La struttura è sotto amministrazione della Sede Saturno.
+----
+> **Campo Venere** (5)
+> 
+> Il Campo Venere è la villa nella quale [[[CEA-016]]] è contenuto. La villa è stata convertita in una struttura di ricerca. Le sue funzioni sono limitate alla ricerca su CEA-016 ed il campo non dev'essere assegnato al contenimento o alla ricerca di altre anomalie. La struttura è sotto amministrazione della Sede Saturno.
+----
+> **Campo Deimos** (5)
+> 
+> Il Campo Deimos è un campo costruito attorno a CEA-041. Oltre al recinto contenente l'anomalia, sono state costruite altre 3 piccole baite che fungono una da dormitorio, una da magazzino e una da laboratorio di ricerca. Il campo ha una limitata capacità di tenere persone e risorse, quindi non troppo personale dev'essere assegnato all'area. Ulteriori piccole anomalie possono comunque essere assegnate al campo.
+----
+> **Campo Persefone** (5)
+> 
+> Il Campo Persefone è stato inaugurato durante i rinnovi della CEA fatti in seguito all'insurrezione della United Researchers. Essa era in precedenza la Sede Plutone, ma in seguito all'espansione delle aree d'operazione della CEA, avere 3 sedi l'una attaccata all'altra era rindondante e non esattamente untile. A questo fine la vecchia Sede Plutone venne designata per venir abbandonata e le sue anomalie spostate presso una nuova struttura, anch'essa designata come Sede Plutone. Sfortunatamente, non è possibile muovere [[[CEA-094]]]; di conseguenza, la struttura è stata trasformata nel Campo Persefone e circa l'80% della struttura originale è stata abbandonata. La struttura è sotto amministrazione della Sede Saturno.
+----
+> **Campo Cassiopea** (3)
+> 
+> Il Campo Cassiopea è stato inaugurato durante i rinnovi della CEA fatti in seguito all'insurrezione della United Researchers. Essa era in precedenza la Sede Andromeda, ma in seguito all'espansione delle aree d'operazione della CEA, avere 3 sedi l'una attaccata all'altra era rindondante e non esattamente untile. A questo fine la vecchia Sede Andromeda venne designata per venir abbandonata e le sue anomalie spostate presso una nuova struttura, anch'essa designata come Sede Andromeda. Sfortunatamente, si è deciso che provare a muovere [[[CEA-030]]] ed altri CEA presenti nella struttura sia fin troppo pericoloso; di conseguenza, la struttura è stata trasformata nel Campo Cassiopea e circa il 45% della struttura originale è stata abbandonata. La struttura è sotto amministrazione della Sede Saturno.
+----
+> **Campo Sweeps** (5)
+> 
+> Il Campo Sweeps consiste nelle aree attorno a [[[CEA-012]]], in particolare la struttura stessa, le aree precedentemente occupate dalla DONA e la baita di [[[CEA-096]]]. L'area in questione è principalmente inoccupata e solo controlli mensili vengono performati sull'area. La struttura è sotto amministrazione della Sede Saturno.
+----
+> **Campo Leo** (5)
+> 
+> Il Campo Leo comprende [[[CEA-108]]] ed un raggio di 50m attorno alla struttura in cui le 3 guardie sono posizionate. Non sono presenti altre strutture, ne sono previsti controlli di alcun tipo, se non sotto richiesta. La struttura è sotto amministrazione della Sede Saturno.
+----
+> **Campo Halley** (3)
+> 
+> Il Campo Halley consiste in [[[CEA-024]]] e le aree circostanti. In quest'area non è assegnato personale, ne sono presenti strutture della CEA. Controlli periodici devono venir 'performati per assicurarsi che l'Oscura Proliferazione non abbiamo iniziato a comportarsi in un modo imprevisto. La struttura è sotto amministrazione della Sede Saturno.
+[[/tab]]
+[[tab Basi]]
+> **Base Coppola** (3)
+> 
+> Base Coppola è la base dell'UAM "Among You" ed è nominata dopo il capo e fondatore della squadra, Capitano Ciro Coppola. La struttura in sé è relativamente piccola, con aree ricreative, dormitori, un garage per veicoli, aree per allenamenti ed altro. La struttura è stata interamente pagata da C. Coppola stesso e fu la prima base costruita dalla CEA.
+----
+> **Base Lava** (3)
+> 
+> Base Lava è la base operativa dell'UAM "Hydra", essa contiene un dormitorio, una mensa, un'armeria, un'area per il generatore con attaccata un'officina per riparazioni e stoccaggio, un'area di allenamento ed uno spazio dove parcheggiare auto e moto. La struttura è nominata in onore del vecchio capitano dell'ormai defunta UAM "Red Scorpion", Capitano Giovanni Lava, dopo che morì durante l'insurrezione della United Researchers.
+----
+> **Base Felix** (2)
+> 
+> Base Felix è la base operativa della UAM "Hell Bringers", essa contiana un'enorme armeria, un'area di allenamento dedicata, un'area di stoccaggio, un'officina riparazioni, una mensa, dormitori, un'area per il generatore ed una base medica. La struttura è nominata in onore di uno dei fondatori della CEA, Dottore Andrea Felix, il quale morì nello stesso attentato che uccise Mr. Alex e Mr. Mauro, gli altri due fondatori della CEA.
+[[/tab]]
+[[tab Punti di backup]]
+[[=]]
+**N/A**
+[[/=]]
+[[/tab]]
+[[/tabview]]
+

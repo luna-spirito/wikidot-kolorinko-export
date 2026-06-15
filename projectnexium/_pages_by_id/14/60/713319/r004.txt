@@ -1,0 +1,20 @@
+---
+title: "Random LOG"
+tags: ["admin", "redirect"]
+page_id: "1460713319"
+site: "projectnexium"
+slug: "random:random-log"
+revision: 4
+revision_id: "1541873692"
+author: 9624521
+timestamp: 1770664276
+---
+
+[[module ListPages category="_default" order="random" limit="1" tag="log"]]
+Random LOG: %%title_linked%%
+[[/module]]
+
+[[module ListPages category="_default" order="random" limit="1" tag="log"]]
+[[include :snippets:redirect url=%%link%%]]
+[[/module]]
+

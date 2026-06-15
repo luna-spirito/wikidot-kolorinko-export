@@ -1,0 +1,113 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "1449137664"
+site: "anomalydataroom"
+slug: "nav:side"
+revision: 77
+revision_id: "1539811359"
+author: 4632971
+timestamp: 1763815707
+---
+
+[[div class="close-menu"]]
+[#a ✖ Close Menu]
+[[/div]]
+~~~~
+
+[[div class="side-block resources"]]
+
+[[=]]
+[[div_ class="menu-item"]]
+[[[home:home|Home]]]
+[[/div]]
+[[/=]]
+
+[[/div]]
+
+[[div class="side-block media" style="padding: 10px 0;"]]
+
+[[=]]
+[[image https://anomalydataroom.wdfiles.com/local--files/nav%3Aside/icon2 link="https://discord.gg/k8P7qbNfQS" alt="Discord"]]
+[[/=]]
+
+[[/div]]
+
+[[div class="side-block"]]
+
+
+[[div class="heading"]]
+First Time Here?
+[[/div]]
+
+
+[[div_ class="menu-item"]]
+[[[main:newbie-guide|Newbie Guide]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[system:join|Join the Site :)]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[main:contact|Help Out With CSS 'n Sh*t]]]
+[[/div]]
+
+[[/div]]
+
+[[div class="side-block"]]
+
+[[div class="heading"]]
+Community Stuff
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[forum:start|Discussion Forums]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[forum:recent-posts|Newest Forum Posts]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[system:recent-pages|Newest Pages]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[system:recent-changes|Recent Changes]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[system:members|Member List]]]
+[[/div]]
+
+[[/div]]
+
+[[div class="side-block"]]
+
+[[div class="heading"]]
+Useful Guides
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[main:reading-guide|How to Read ADFs]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[main:writing-guide|How to Write ADFs]]]
+[[/div]]
+
+[[/div]]
+
+[[div class="side-block media"]]
+
+[[=]]
+[[div_ class="menu-item"]]
+[[[random:random-adf|Random ADF]]]
+[[/div]]
+[[/=]]
+
+[[/div]]
+
+~~~~
+

@@ -1,0 +1,19 @@
+---
+title: "Page categories"
+tags: []
+page_id: "1468109862"
+site: "generalarchivesdirectorate1"
+slug: "system:list-all-categories"
+revision: 0
+revision_id: "1541858517"
+author: 9720100
+timestamp: 1770620229
+---
+
+[[module Categories]]
+----
+++ Hidden Pages
+[[module ListPages category="*" pagetype="hidden" order="fullname" separate="no"]]
+%%category%% - %%title_linked%%
+[[/module]]
+

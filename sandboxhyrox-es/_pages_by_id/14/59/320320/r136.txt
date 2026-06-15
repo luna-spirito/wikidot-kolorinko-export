@@ -1,0 +1,306 @@
+---
+title: "AMLY-020"
+tags: []
+page_id: "1459320320"
+site: "sandboxhyrox-es"
+slug: "amly-020"
+revision: 136
+revision_id: "1541789437"
+author: 9161410
+timestamp: 1770270025
+---
+
+[[span class="listresize" color="#212f3c" style="font-size: 0px; line-height: 10px;"]]Refugio Mexica[[/span]]
+
+[[include :hyroxcorp-es:component:text-appear]]
+
+[[module CSS]]
+@import url(https://hyroxcorp-es.wdfiles.com/local--code/component:site-0-theme/1);
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+
+:root {
+    --v1: red;
+    --WT-v1: #b91f1f;
+
+    --v2: #ff3434;
+    --WT-v2: #b91f1f;
+}
+
+@media (min-width: 769px) {
+blockquote {
+   margin: 10px;
+}
+}
+
+.red .collapsible-block-link, .red .foldable-list-container a {
+    color: var(--v2);
+}
+
+li.folded .foldable-list-container a {
+    animation: blink 0.7s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+    0% { color: transparent; }
+    100% { color: var(--v2); }
+}
+
+.Signika-Negative {
+    font-family: 'Signika Negative';
+}
+
+.classification {
+    font-size: 140%;
+    border-bottom: 2px solid #a57f2c;
+    border-top: 2px solid #a57f2c;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    background-color: #611232;
+    background-image: url(http://sandboxhyrox-es.wikidot.com/local--files/inefp-theme/INEFP-Special.png);
+    background-position: center center;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 3px;
+}
+[[/module]]
+
+[[include :hyroxcorp-es:component:rate]]
+
+[[include :hyroxcorp-es:component:caja-peligros numero=020|
+clase=Axium|
+nombre=Refugio Mexica|
+color1=Yellow|
+color2=Amarillo|
+agresion=true|extra-dimensional=true|grupal=true|auditivo=true|incorporeo=true]]
+[[=]]
+**{{Nivel de Autoridad requerido:}}**
+[[span class="Signika-Negative"]]| 1 | ##lime|2## | 3 | 4 | 5 | Ω |[[/span]]
+[[/=]]
+
+**Medidas de Confinamiento Especial:** Ambos objetos que conforman a AMLY-020 deberán ser contenidas en una misma habitación en el Sitio-0. El uso de AMLY-020 para pruebas debe ser aprobado por personal de Nivel de Autoridad 2 en adelante. Cualquier miembro del personal que tenga raíces completamente españolas deberá ser removido de un rango de 4 metros de proximidad de la habitación. Las MCE[[footnote]] Medidas de Confinamiento Especiales[[/footnote]] para ambos objetos se han puesto en listas diferentes:
+[[collapsible show="[+] AMLY-020-1" hide="[-] AMLY-020-1"]]
+> AMLY-020-1 debe ser contenido en un //LOAE//[[footnote]]Locker para Objetos Anómalos Estándar[[/footnote]] con combinación que irá cambiando cada final de mes. El objeto deberá ser mantenido a una temperatura no mayor a 25 °C para evitar daños en su estructura, si se es detectado un daño en el objeto, el Departamento de Taumaturgia deberá iniciar las reparaciones pertinentes del objeto.
+[[/collapsible]]
+[[collapsible show="[+] AMLY-020-2" hide="[-] AMLY-020-2"]]
+> AMLY-020-2 deberá ser contenido en una habitación de 3.5×3.5m³ a un mínimo de 20 °C para evitar daños a la integridad del objeto. La base del espejo deberá revisarse semanalmente en búsqueda de cualquier indicador de humedad, plaga o de cualquier otro indicio de riesgo hacia la base. Si es detectado cualquier indicador de riesgo para el espejo, la base deberá ser reemplazada en un lapso de 3 días hábiles para evitar que el espejo se quiebre debido a un posible impacto contra el suelo.
+[[/collapsible]]
+
+**Descripción:** AMLY-020 es la clasificación colectiva asignada a dos artículos distintos designados como AMLY-020-1 y AMLY-020-2 respectivamente. Estos artículos no mostrarán actividades anómalas en caso de no estar en presencia —directa o cercana— a su contraparte. A continuación se describen los objetos que componen AMLY-020:
+
+[[tabview]]
+[[tab 020-1]]
+[[include :hyroxcorp-es:component:image-block name=http://sandboxhyrox-es.wikidot.com/local--files/amly-020/AMLY-020-1NEW.png
+|caption=AMLY-020-1
+|enlarge=false
+|width=100%
+|align=center]]
+* __AMLY-020-1__: Este es un artefacto cerámico mexica conocido como silbato de la muerte (//Ehecachichtli// en náhuatl). El objeto está compuesto principalmente de arcilla, imitando una calavera con penacho —Quetzalapacancayótl—[[footnote]] Palabra náhuatl que significa "tocado de quetzal" o "corona de quetzal". Este artículo hace referencia a un penacho o corona utilizado por gobernantes y personas importantes dentro de la sociedad mexica y era fabricado con las plumas del quetzal, ave sagrada en la cultura mexica.[[/footnote]] de plumas al rededor del cráneo. En general, el artículo muestra cierto grado de desgaste debido al tiempo y antigüedad de este. A pesar de su desgaste actual, AMLY-020-1 aún es funcional. Actualmente no se ha podido determinar una fecha concreta de la fecha de fabricación del objeto más allá de estimaciones realizadas en comparación con sus homólogos no anómalos.
+[[/tab]]
+[[tab 020-2]]
+[[include :hyroxcorp-es:component:image-block name=http://sandboxhyrox-es.wikidot.com/local--files/amly-020/020-2.png
+|caption=AMLY-020-2 bajo confinamiento.
+|enlarge=false
+|width=100%
+|align=center]]
+
+* __AMLY-020-2__: Consiste en un espejo de obsidiana circular de 2.3 metros de diámetro que reposa de forma vertical en una base de madera hecha originalmente a partir de un árbol //Buddleja cordata//[[footnote]] Comúnmente llamado //Tepozán//. [[/footnote]]. Las capacidades anomalías de AMLY-020-2 radican enteramente en el disco de obsidiana, siendo la base de este una característica que puede ser eliminada sin afectar a las características de la anomalía[[footnote]]Esta base, de hecho, ha sido reemplazada en varias ocasiones a través de los años debido al desgaste de esta. Las nuevas bases para AMLY-020-2 se realizan con las mismas proporciones y apariencia de la base original con fines de preservación del aspecto del AMLY. Los restos de la base original se guardan en los almacenes de la base. [[/footnote]].
+[[/tab]]
+[[/tabview]]
+
+Tanto AMLY-020-1 como AMLY-020-2 no mostrarán anomalías notorias si no se usan en conjunto. Existe un límite de alcance de distancia en el que ambos artículos reaccionan al otro. Este límite consiste en el rango en el cual la frecuencia de AMLY-020-1 pueda alcanzar al AMLY-020-2.
+
+Para la activación de las capacidades anómalas asociadas a AMLY-020, se deberá utilizar primeramente al -1, lo cual desencadenará la reacción y activación de -2. Al usarse, AMLY-020-1 emitirá una frecuencia sonora de hasta 55 Hertz (Hz), lo que provoca en la actividad casi inmediata de AMLY-020-2.
+Al activarse, el disco perteneciente al AMLY-020-2 responderá con un agrietamiento progresivo seguido de una fractura total y casi instantánea de su superficie. Sin embargo, en vez de fragmentarse por completo, la superficie de obsidiana del disco experimentará una distorsión anómala atribuida a un fenómeno de naturaleza espacial actualmente incomprendido, "transformándose" en un tipo de acceso a una clase de dimensión de bolsillo nombrada AMLY-020-ED.
+
+AMLY-020-ED corresponde a una réplica exacta de la ciudad capital (altepetl) del antiguo Imperio mexica, Tenochtitlan. AMLY-020-ED se encuentra en excelente estado y completamente funcional, demostrando ser una copia de Tenochtitlan durante sus días de funcionamiento entre los años 1325 a 1521 —Fechas inexactas, mayormente estimaciones—. Determinar un rango o punto temporal exacto para así saber a qué fecha o tiempo corresponde AMLY-020-ED no ha sido posible actualmente.
+
+De momento, todos los intentos por salir que área que corresponda a la ciudad principal —y parte del lago de Texcoco— no han dado resultados por diversos factores anómalos que permite la salida del área. Existe una clase de perimetral que impide la salida de Tenochtitlan; esta barrera no está definida por medios tangibles, pero se ha logrado determinar que ha de tener una forma similar a una cúpula.[[footnote]]Estimación salida tras múltiples exploraciones del área y señalamiento hasta los puntos límites donde se es posible llegar. [[/footnote]] 
+Intentos de exploración mediante drones tampoco han sido útiles. Estos objetos presentan fallas y daños al acercarse a los límites, antes de eventualmente cesar su funcionamiento. Inclusive las grabaciones aéreas que capten más allá del perímetro permitido desarrollan fallas e interferencias que hacen insalvable el archivo.
+Para obtener información más detallada con respecto a AMLY-020-ED, consulte los //__Archivos de Exploración__//.
+
+AMLY-020 manifiesta propiedades letales en sujetos de descendencia española por uno de dos métodos: 
+
+* Al momento en que AMLY-020-1 es usado, el sujeto de descendencia española sufrirá de manera casi inmediata una convulsión, siendo la causa de la muerte, en todos los casos, muerte cerebral.
+* Cuando el sujeto de descendencia española entra al interior de AMLY-020-ED, las entidades residentes dentro de este empezarán a cazar al sujeto. Cuando este es capturado, este será usado en una clase de ritual de sacrificio de índole sagrada.
+
+Actualmente, no existe una manera de evitar que los sujetos afectados mueran por alguna de estas dos causas.
+
+------
+[[=]]
++++ __Anexos__
+[[/=]]
+
+[[div class="red"]]
+[[collapsible show="[+] Acceder a Archivo de Exploración: 020.1" hide="[-] Cerrar Archivo de Exploración: 020.1"]]
+[[/div]]
+[[div style="center no-repeat;; background-color: #1F2125; float: center; color: #C0C0C0; border: solid 2px #666666; padding: 10px 10px; color:"]]
+
+[[=]]
+++++ **Departamento de Experimentación Anómala: 020.1**
+[[/=]]
+~~~~~
+[[table style="border-bottom: solid 3px; border-top: solid 3px; width: 100%;"]]
+[[row]]
+[[cell rowspan="4"]]
+[[=image http://sandboxhyrox-es.wikidot.com/local--files/imagenes-modificadas/DalethBW.png width="75px;" style="filter: invert(100%);"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Div:** Daleth
+[[/cell]]
+[[cell]]
+**Fecha:** 17/05/20██
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Sujeto:** AMLY-020-ED
+[[/cell]]
+[[cell]]
+**Nivel de Autoridad:** 2
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell colspan="2"]]
+**Personal:** SPV-3442, Dr. Collin Keatren.
+[[/cell]]
+[[/row]]
+[[/table]]
+
+**Propósito de la Prueba:** Enviar a SPV-3442 (Ahora designado como S-001) al interior de AMLY-020-ED para reconocimiento y mapeo inicial. S-001 dispondrá de un equipo de comunicación por radio experimental, cámara de bolsillo y un kit mínimo de muestreo.
+
+**Instrucciones:** Avanzar con cautela, evitar interacción directa con los espectros y recolectar referencias visuales y objetos de baja manipulación.
+
+------
+
+[[=]]
+[[size 140%]]**[Inicio del Registro de la Misión**][[/size]]
+[[/=]]
+
+= **__[13:00]__**
+
+S-001: Vale… entro ahora. Se siente raro, como cuando vuelves a un barrio viejo que conociste de niño.
+
+> Dr. Collin: Mantén la calma y describe paso a paso. ¿Señales visuales o auditivas inmediatas?
+
+S-001: Hay ruido, como voces lejanas. Huele —no sé cómo decirlo— a copal y algo a tierra mojada. Las calles parecen limpias, como si la gente acabara de irse.
+
+> Dr. Collin: Recuerda: fotografia todo, no toques objetos si no es estrictamente necesario. Mantén la línea. Si algo te mira fijamente, retrocede.
+
+= **__[13:05]__**
+
+S-001: Estoy frente a una vivienda de madera. Hay figuras dentro, parecen personas pero translúcidas. No se mueven cuando me acerco, solo me miran.
+
+> Dr. Collin: ¿Ropa, objetos reconocibles?
+
+S-001: Ropa antigua. Veo utensilios de obsidiana en una mesa y lo que parecen mantos con bordados. No parecen agresivos.
+
+> Dr. Collin: Perfecto. ¿Alguna inscripción o pintura en paredes?
+
+S-001: Sí, hay pictogramas. Tomé fotos.
+
+= **__[13:15]__**
+
+S-001: Doc… hay un patio central donde están preparando algo. Lo llaman ofrenda, parece. Veo pequeñas vasijas, hojas y… fuego ceremonial.
+
+> Dr. Collin: ¿Hay cantos o sonidos coordinados?
+
+S-001: Sí. Es un canto repetitivo, no entiendo las palabras, pero suena como un coro en náhuatl. No parecen dirigidos a mí, más bien al centro del patio.
+
+> Dr. Collin: No te acerques al círculo del ritual. Mantente en la periferia y registra audio. Si el tono cambia, aborta y retrocede.
+
+= **__[13:30]__**
+
+S-001: (sonidos de pisadas leves y respiración) He avanzado por una calle lateral. Encontré una pequeña plaza con un estanque seco y piedras que funcionan como asientos. Hay una figura en una de las esquinas que me observó y luego se apartó, como invitándome a seguir.
+
+> Dr. Collin: No sigas a las figuras. Regresa al punto de entrada y completa el mapeo de las calles principales. ¿Algún indicio de fauna viva?
+
+S-001: No. Solo esas… presencias. A veces me da la sensación de estar en dos tiempos a la vez: oigo el zumbido de la ciudad actual y el murmullo antiguo.
+
+= **__[13:41]__**
+
+S-001: Llegué al centro, doc. Hay un grupo reunido —no son agresivos— están formando una especie de ceremonia. Siento una tristeza extraña cuando me acerco.
+
+> Dr. Collin: ¿Detectas símbolos de sacrificio o instrumentos punzantes?
+
+S-001: Sí, hay cuchillos de obsidiana alineados, pero no los están usando aún. Parecen parte de la ofrenda. Uno de los espectros tomó algo y lo colocó en el centro; luego todos entonaron más fuerte.
+
+> Dr. Collin: Mantente a distancia y documenta. ¿Puedes identificar alguna referencia temporal?
+
+S-001: No nombres, pero las vestimentas y el estilo coinciden con lo que vi en los libros de historia. Siento que esto es una réplica muy precisa.
+
+= **__[13:50]__**
+
+S-001: Doc, ahora hacen algo raro: levantan las manos y un brillo pálido rodea la vasija central. Creo que van a iniciar un ritual “oficial”.
+
+> Dr. Collin: Creo que es suficiente, S-001, por favor inicia tu regreso hacia la entrada de AMLY-020-ED
+
+//S-001 empieza su camino de regreso a dónde entró a AMLY-020-ED, no sin antes tomar objetos que se encontraban dentro de la Extra-Dimensión.//
+
+[[=]]
+[[size 140%]]**[Fin del Registro de la Misión**][[/size]]
+[[/=]]
+-----
+[[=]]
+**Registro Final:** Estado de la Misión -- ##green|Éxitosa##
+[[/=]]
+------
+
+**Notas:** //Por lo que logramos averiguar, estos espectros en realidad pueden ser verdaderos supervivientes de lo que se conoce como la conquista por parte de España y la caída de Tenochtitlán, esto debido a que la datación de los objetos se remonta dos años posteriores a los eventos ocurridos en 1521, expediciones más profundas se requerirán después.// — Dr. Collin Keatren.
+[[/div]]
+[[/collapsible]]
+
+[[div class="red"]]
+[[collapsible show="[+] Acceder a Archivo Recuperado: Archivo de la INEFP" hide="[-] Cerrar Archivo Recuperado: Archivo de la INEFP"]]
+[[/div]]
+[[div class="blockquote" style="background: #fff; color: #000;"]]
+[[=image http://sandboxhyrox-es.wikidot.com/local--files/amly-020/INEFP-Banner.png width="250px" style="filter: invert(100%);"]]
+[[div class="classification"]]
+Objeto Paranormal Registrado: 1337
+
+Riesgo: Bajo
+
+Ocultamiento: Absoluto
+[[/div]]
+Mantenimiento: El Objeto deberá ser almacenado dentro de las instalaciones del Museo Nacional de Antropología e Historia (A cargo del INAH)
+
+[[/div]]
+[[/collapsible]]
+----
+[[=]]
+Autores: [[*user Lukario_Dalmatian]] y [[*user Dr_Niko_25]]
+[[/=]]
+----
+
+[[div style="center no-repeat; float: center; color: #C0C0C0;"]]
+
+[[=]]
+[[size 110%]] [[collapsible show="» Notas al pie «" hide="« Notas al pie »"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[=]]
+<< [[[AMLY-019]]] | AMLY-020 | [[[AMLY-021]]] >>
+[[/=]]
+
+[[include :hyroxcorp-es:component:imagen-creditos
+|autor=[[*user Lukario_Dalmatian]] y [[*user Dr_Niko_25]]]]
+
+> Título: 020-1NEW.jpg
+> Autor: Lukario_Dalmatian (Trabajo Propio, IA)
+> Tomado de: http://sandboxhyrox-es.wikidot.com/amly-020
+
+> Título: 020-2.png
+> Autor: Lukario_Dalmatian (Trabajo Propio, IA)
+> Tomado de: http://sandboxhyrox-es.wikidot.com/amly-020
+
+[[include :hyroxcorp-es:component:imagen-creditos-fin]]
+

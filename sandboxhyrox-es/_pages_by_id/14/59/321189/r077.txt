@@ -1,0 +1,105 @@
+---
+title: "Grupos de Interés WIP"
+tags: []
+page_id: "1459321189"
+site: "sandboxhyrox-es"
+slug: "united-imperium-of-ascended-beings"
+revision: 77
+revision_id: "1543873401"
+author: 9161410
+timestamp: 1778634256
+---
+
+[[module css]]
+:root {
+    --v1: #42f5ec; /* Proxy */
+    --WT-v1: #00938c;
+
+    --v2: #42f563; /* Allied */
+    --WT-v2: #0da228;
+
+    --v3: #f5ef42; /* Neutral */
+    --WT-v3: #b3ad0c;
+
+    --v4: #777; /* Ambiguous */
+    --WT-v4: #777;
+
+    --v5: #f54242; /* Hostile */
+    --WT-v5: red;
+
+    --v6: #8d42f5; /* Unknown */
+    --WT-v6: #8d42f5;
+
+    --v7: #fff; /* Dissolved */
+    --WT-v7: #000;
+
+    --v8: #1d2022; /* Special Background */
+    --WT-v8: #000;
+}
+
+.textBlock {
+    background-color: var(--primary-background);
+    border: var(--basic-border);
+    margin: 5px 0;
+    padding: 14px 24px;
+}
+
+#page-title {
+    display: none;
+}
+
+div#container-wrap {
+    background: var(--header-background) top left repeat-x; !important
+}
+[[/module]]
+
+[[div class="textBlock" style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; border-radius: 10px; margin: 0 auto; padding: 10px 30px;"]]]]
+
+[[div style="line-height: normal; text-align: center; font-size: 250%; font-weight: bold;"]]
+ **{{Grupos de Interés}}**
+[[/div]]
+
+----
+
+[[size 112%]]
+**Descripción General:** Desde sus inicios, la Corporación ha identificado y vigilado a múltiples organizaciones con distintos niveles de conocimiento sobre lo anómalo. Algunas de estas entidades comparten objetivos similares y cooperan ocasionalmente con la Corporación, mientras que otras buscan explotar las anomalías para obtener poder, beneficios económicos u otros fines desconocidos. Estas diferencias han dado lugar a alianzas estratégicas, rivalidades encubiertas y conflictos que se desarrollan fuera del conocimiento público. Además, existen organizaciones que no tienen relación directa con lo anómalo, pero que son consideradas de interés debido a sus actividades, influencia o vínculos indirectos con la Corporación.
+
+Para gestionar esta compleja red de actores, la Corporación mantiene un sistema de monitoreo constante sobre los denominados Grupos de Interés (GdI). Este documento recopila información relevante sobre dichas organizaciones, clasificándolas según su relación con lo anómalo, su nivel de amenaza y su historial de interacciones con la Corporación. El objetivo es comprender sus motivaciones, capacidades y métodos de operación, lo que permite anticipar riesgos, establecer posibles alianzas y, cuando sea necesario, intervenir para proteger a la población y evitar que anomalías peligrosas caigan en manos equivocadas.
+[[/size]]
+
++ Código de Amenaza 
+
+[[collapsible show="[ + ] Mostrar" hide="[ – ] Ocultar"]]
+||~ **Tipo** ||~ **Afiliación** ||
+|| ##var(--v1)|Controlado## || El Grupo se encuentra bajo control directo de la Corporación, ya sea por subordinación formal, captura operativa, infiltración total o dependencia absoluta de sus recursos, directrices y supervisión. ||
+|| ##var(--v2)|Aliado## || El Grupo coopera de manera constante con la Corporación, comparte objetivos relevantes o proporciona apoyo logístico, táctico, científico o político de forma voluntaria, estable o mutuamente beneficiosa. ||
+|| ##var(--v3)|Neutral## || El Grupo mantiene una distancia clara respecto a la Corporación y no presenta una relación de apoyo, oposición o dependencia significativa; cualquier interacción suele ser limitada, indirecta o circunstancial. ||
+|| ##var(--v4)|Ambiguo## || El Grupo muestra una relación variable, contradictoria o difícil de clasificar frente a la Corporación; puede cooperar en ciertos contextos, oponerse en otros o actuar según intereses cambiantes sin una alineación verificable. ||
+|| ##var(--v5)|Hostil## || El Grupo posee una postura activa de oposición, daño o destrucción contra la Corporación, sus activos, su personal, sus objetivos o, en casos extremos, contra la vida existente en general. ||
+|| ##var(--v6)|Desconocido## || No existen datos suficientes para determinar la relación real del Grupo con la Corporación. Sus motivos, capacidades y postura operativa permanecen sin confirmar o no han podido ser evaluados con fiabilidad. ||
+|| ##var(--v7)|Disuelto## || El Grupo ha dejado de operar como una entidad funcional, ya sea por abandono interno, fragmentación irreparable, exterminio, absorción o destrucción directa a manos de la Corporación. ||
+
+||~ **Tipo** ||~ **Atributos** ||
+|| Inconsciente. || El Grupo tiene no conocimiento de la existencia de la Corporación. ||
+|| Consciente. || El Grupo tiene conocimiento de la existencia de la Corporación. ||
+|| Cegado || El Grupo desconoce la existencia de lo anómalo. ||
+|| Revelado || El Grupo es consciente de la existencia de los anómalo. ||
+|| Buscador || El Grupo recolecta activamente anomalías. ||
+|| Creador || El Grupo es capaz de crear anomalías. ||
+|| Estructurado || El Grupo tiene una estructura jerárquica definida. ||
+|| Fracturado || El Grupo no tiene una estructura jerárquica definida. ||
+|| Local || El Grupo solo existe dentro de un área o áreas pequeñas y localizadas. ||
+|| Nacional || El Grupo existe dentro de una sola nación. ||
+|| Multinacional || El Grupo abarca múltiples naciones. ||
+|| Dimensional || El Grupo existe dentro de una dimensión alterna. ||
+|| Multidimensional || El Grupos abarca múltiples dimensiones alternas. ||
+[[/collapsible]]
+
+> = **Tabla de Contenidos**
+
+[[/div]] 
+
+[[div class="content-box"]]
+[[footnoteblock]]
+[[/div]]
+

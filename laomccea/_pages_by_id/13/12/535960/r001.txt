@@ -1,0 +1,19 @@
+---
+title: "Image Block Base"
+tags: []
+page_id: "1312535960"
+site: "laomccea"
+slug: "component:image-block-base"
+revision: 1
+revision_id: "1460962538"
+author: 3090772
+timestamp: 1652161095
+---
+
+[[div class="scp-image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} style="width:{$width};" link={$link}]]
+[[div class="scp-image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

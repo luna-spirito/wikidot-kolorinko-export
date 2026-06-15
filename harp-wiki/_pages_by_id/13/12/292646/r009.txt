@@ -1,0 +1,177 @@
+---
+title: "Theme"
+tags: ["component"]
+page_id: "1312292646"
+site: "harp-wiki"
+slug: "archive:theme"
+revision: 9
+revision_id: "1385985293"
+author: 7460495
+timestamp: 1635575737
+---
+
+[[div [[iftags -component]]style="display: none"[[/iftags]]]]
+[[module CSS show="true"]]
+/* H.A.R.P Wiki theme
+ * [2021 wikidot theme]
+ * Created by Mr Jack456
+**/
+ 
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300;600&display=swap');
+ 
+#content-wrap {
+     position: relative;
+     margin: 2em auto 0;
+     max-width: 1040px;
+     min-height:1350px;
+     height: auto !important;
+}
+ h1, #page-title {
+     color: #000000;
+     padding: 0 0 0.25em;
+     margin: 0 0 0.6em;
+     font-weight: bold;
+     font-family: Sans;
+}
+ #page-title {
+     font-family: 'Open Sans', sans-serif;
+     font-size: 250%;
+     padding: 1;
+     margin: 1;
+}
+ h1 {
+     margin-top: 0.7em;
+     padding: 0;
+     font-weight: bold;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 200%;
+ 
+}
+ h2 {
+     font-size:175%;
+}
+ h2, h3, h4, h5, h6, h7 {
+     margin: 0.5em 0 0.4em;
+     padding: 0;
+     letter-spacing: 0;
+     font-family: 'Open Sans', sans-serif;
+}
+ #page-title {
+     border-color: #000000;
+}
+ ul {
+     list-style: square;
+}
+ #top-bar ul {
+    /* list-style-image: none;
+    /* IE ONLY! IF list-style-image IS SET */
+}
+ li, p {
+     line-height: 141%;
+}
+ a {
+     color: #0000FF;
+     text-decoration: none;
+     background: transparent;
+}
+ a.newpage {
+     color: #00FFFF;
+     text-decoration: none;
+     background: transparent;
+}
+ a:hover {
+     text-decoration: underline;
+     background-color: transparent;
+     transition: 0.125s;
+}
+ .form-control {
+     width: 95%;
+}
+/* top bar width */
+}
+ #top-bar ul {
+    /* list-style-image: none;
+    /* Image set */
+}
+ li, p {
+     line-height: 141%;
+}
+ a {
+     color: 0000FF;
+     text-decoration: none;
+     background: transparent;
+}
+ 
+ #header, #top-bar {
+     width: 90%;
+     max-width: 980px;
+     margin: 0 auto;
+}
+ #top-bar {
+     width: 100%;
+     margin: 0 auto;
+ 
+}
+ .mobile-top-bar {
+     display: none;
+     position: absolute;
+     left: 1em;
+     bottom: 0px;
+     z-index: 0;
+}
+ body {
+     background-color: #fff;
+     font-size: 0.75em;
+     font-family: 'Open Sans', sans-serif;
+     color: #000000;
+}
+ div#container-wrap {
+     background: url(http://harp-wiki.wdfiles.com/local--files/component%3Atheme/Header-harp-wiki26277.png) top left repeat-x;
+     background-size: 105px;
+}
+/* Header */
+ #header {
+     height: 140px;
+     position: relative;
+     z-index: 10;
+     padding-bottom: 22px;
+    /* FOR MENU */
+     background: url(http://harp-wiki.wdfiles.com/local--files/component%3Atheme/Harp-logo.png) 10px 40px no-repeat;
+     background-size: 100px;
+}
+ 
+ #header h1 {
+     margin-left: 120px;
+     padding: 0;
+     float: left;
+     max-height: 95px;
+}
+ #header h2 {
+     margin-left: 125px;
+     padding: 0;
+     clear: left;
+     float: left;
+     font-size: 105%;
+     max-height: 38px;
+}
+ 
+div.new-post a {
+     border-radius: 10px;
+     transition: 0.125s;
+}
+ div.new-post a:hover {
+     background-color: #e92f2f;
+     color:white;
+     text-decoration: none;
+}
+#header h1 a,
+#header h2 span {
+    font-family: 'Encode Sans SC', sans-serif;
+}
+ 
+#header h2 span {
+     color: #FFFF00
+[[/module]]
+[[/div]]
+

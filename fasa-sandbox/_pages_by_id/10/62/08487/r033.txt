@@ -1,0 +1,42 @@
+---
+title: "Topbar menu"
+tags: []
+page_id: "106208487"
+site: "fasa-sandbox"
+slug: "nav:top"
+revision: 33
+revision_id: "1528963308"
+author: 8285008
+timestamp: 1743394643
+---
+
+[[include :the-insurgency-blue:theme:fasa]]
+
+[!--
+> **Page Notes**
+> 
+> This is your topbar, as the name suggests. The topbar contains the normal topbar and the mobile-topbar, which is a little different.
+>
+> In addition to translation, make adjustments as you feel necessary. You are not obliged to just copy the English site. Anyway translate only each articles display-name, not the URL-name (should look like [[[groups-of-interest|Interessengruppen]]])
+--]
+
+[[div class="top-bar"]]
+
+* [[[start | Home]]]
+* [http://fasa.wikidot.com/formatting-guide Writing Format]
+* [http://fasa.wikidot.com/writing-guide Writer's Guide]
+
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+* [[[start | Home]]]
+* [http://fasa.wikidot.com/formatting-guide Writing Format]
+* [http://fasa.wikidot.com/writing-guide Writer's Guide]
+
+[[/div]]
+

@@ -1,0 +1,27 @@
+---
+title: "Agency Tales"
+tags: []
+page_id: "102719279"
+site: "fasa"
+slug: "agency-tales"
+revision: 1
+revision_id: "142654077"
+author: 4488053
+timestamp: 1534611764
+---
+
++++ ##3b44e5 | This document is an index of all FASA Tales, sorted in alphabetical order.##
+
+**Notice:** Pages created using this form will automatically be tagged as a //tale//.
+
+[[module NewPage size="20" tags="tale" button="Create Tale"]]
+
+The writing's should automatically show up here, provided you use the "tale" tag.
+------
+++ Current Tales:
+[[module ListPages tags="tale" order="rating desc" perPage="10" ]]
+**%%linked_title%%** by %%author%% %%date%%
+
+**Rating:** %%rating%%
+[[/module]]
+

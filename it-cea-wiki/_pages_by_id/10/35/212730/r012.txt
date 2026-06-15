@@ -1,0 +1,22 @@
+---
+title: "Più votati"
+tags: ["home"]
+page_id: "1035212730"
+site: "it-cea-wiki"
+slug: "up-voted"
+revision: 12
+revision_id: "1529035001"
+author: 4022955
+timestamp: 1743690613
+---
+
+[[=]]
++++ [[size 150%]]Sono elencati di seguito gli articoli più votati del sito.[[/size]]
+
+[[module ListPages rating=">0" tags="-meme -home -staff -archived, -author, -sandbox" order="rating desc" separate="false" limit="1500" perPage="250"]]
+%%title_linked%% (Voti : %%rating%%, Commenti : %%comments%%)
+[[/module]]
+[[/=]]
+
+[[size 0%]] I swear, nobody votes in this shithole. [[/size]]
+

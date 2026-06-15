@@ -1,0 +1,83 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "57676061"
+site: "scp-sandbox-3"
+slug: "nav:side"
+revision: 39
+revision_id: "1543786629"
+author: 6388899
+timestamp: 1778184871
+---
+
+[[module css]]
+#side-bar .sandbox_menu-item a {
+    font-weight: 700;
+}
+
+#side-bar form input {
+    max-width: 90%;
+    align-self: center;
+    margin-inline: auto;
+}
+[[/module]]
+
+[[div class="side-block media" style="padding: 10px 0;"]]
+[[=]]
+[[image https://scp-wiki.wdfiles.com/local--files/nav:side/social-facebook.png link="https://www.facebook.com/scpfoundation" alt="Facebook"]][[image https://scp-wiki.wdfiles.com/local--files/nav:side/social-twitter.png link="https://twitter.com/scpwiki" alt="Twitter"]][[image https://scp-wiki.wdfiles.com/local--files/nav:side/social-reddit.png link="https://www.reddit.com/r/SCP" alt="Reddit"]][[image https://scp-wiki.wdfiles.com/local--files/nav:side/social-instagram.png link="https://www.instagram.com/scpfoundationwiki" alt="Instagram"]][[image https://scp-wiki.wdfiles.com/local--files/nav:side/social-bluesky.png link="https://bsky.app/profile/scpwiki.com" alt="Bluesky"]][[image https://scp-wiki.wdfiles.com/local--files/nav%3Aside/social-tiktok.png link="https://www.tiktok.com/@scpwikiofficial?" alt="TikTok"]][[image https://scp-wiki.wikidot.com/local--files/nav:side/icon-Discord-2023.png link="https://discord.com/invite/scp" alt="Discord"]]
+[[/=]]
+[[/div]]
+
+~~~~
+
+[[div class="side-block resources"]]
+
+[[div class="heading"]]
+Create a Sandbox Page
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[module NewPage button="Create" size="20"]]
+[[/div]]
+
+[[/div]]
+
+[[div class="side-block"]]
+
+[[div class="sandbox_menu-item"]]
+[/ Main]
+[https://scp-sandbox-3.wikidot.com/system:join Join the Site!]
+[[/div]]
+
+[[div class="heading"]]
+Resources
+[[/div]]
+[[div class="sandbox_menu-item"]]
+[https://scp-wiki.wikidot.com/ SCP Wiki]
+[https://scpwiki.com/how-to-write-an-scp How to Write an SCP]
+[https://scpwiki.com/guide-hub Guide Hub]
+[https://scp-wiki.wikidot.com/wiki-syntax Wiki Syntax]
+[https://scp-wiki.wikidot.com/guide-for-writing#toc5 About Critique]
+[https://scp-wiki.wikidot.com/zyns-co-authoring-tips#toc5 Collaborative Page Info]
+[[/div]]
+
+[[/div]]
+
+[[div class="side-block resources"]]
+[[collapsible show="Admin" hide="Admin"]]
+[[div class="menu-item"]]
+[[image main.png]][/_admin Site Manager]
+[[/div]]
+[[div class="menu-item"]]
+[[image default.png]][https://www.wikidot.com/doc:wiki-syntax Wiki Syntax]
+[[/div]]
+[[div class="menu-item"]]
+[[image default.png]][[[nav:side|Side]]] | [[[nav:top|Top]]] | [[[component:theme|Theme]]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+[[a href="#" class="close-menu"]]
+[[image https://scp-wiki.wdfiles.com/local--files/nav%3Aside/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+

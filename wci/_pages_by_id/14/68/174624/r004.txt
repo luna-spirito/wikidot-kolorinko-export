@@ -1,0 +1,34 @@
+---
+title: "Members"
+tags: ["noedit"]
+page_id: "1468174624"
+site: "wci"
+slug: "component:members"
+revision: 4
+revision_id: "1542298500"
+author: 9546096
+timestamp: 1772019640
+---
+
+[[include component:do-not-edit | extra= ////]]
+[[div class="blueborder-block"]]
+[[div class="wiki-link" style="text-align: center;"]]
++ [[[{$link}|{$name}]]]
+[[/div]]
+
+----
+
+[[=image {$logo} width="240px" ]]
+
+----
+[[div class="blueborder-block"]]
+[[div class="about unmargined"]]
+About Us
+----
+[[/div]]
+
+[[include about:{$about}]]
+
+[[/div]]
+[[/div]]
+

@@ -1,0 +1,17 @@
+---
+title: "Page Tags"
+tags: ["admin", "site"]
+page_id: "1331827962"
+site: "timeless-places"
+slug: "system:page-tags"
+revision: 6
+revision_id: "1544501412"
+author: 3437739
+timestamp: 1780851494
+---
+
+[[div style="float:right; width: 50%;"]]
+[[module TagCloud limit="200" target="system:page-tags"]]
+[[/div]]
+[[module PagesByTag]]
+
