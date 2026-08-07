@@ -1,0 +1,14 @@
+---
+title: "Image Block Static"
+tags: []
+page_id: "1024230117"
+site: "fasa"
+slug: "component:image-block-static"
+revision: 0
+revision_id: "1073085482"
+author: 4293614
+timestamp: 1586262426
+---
+
+[[include :rpcauthority:component:image-block-base name={$name}|caption={$caption}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right|enlarge=false]]
+

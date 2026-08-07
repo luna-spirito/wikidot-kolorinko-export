@@ -1,0 +1,37 @@
+---
+title: "Global CSS"
+tags: ["admin"]
+page_id: "1304907800"
+site: "agiat"
+slug: "css:global-css"
+revision: 3
+revision_id: "1510266661"
+author: 3090772
+timestamp: 1684208027
+---
+
+[[code type="css"]]
+/*  Place here any CSS code that you would like to affect both the Default and Home themes */
+
+/* Forum Customizations */
+.forum-thread-box .description-block {
+padding: .5em 1em;
+border-radius: 10px;
+box-shadow: 0 1px 5px rgba(0,0,0,.15),
+inset 0 1px 0 rgba(255,255,255,.8),
+inset 0 10px 5px rgba(255,255,255,.25),
+inset 0 -15px 30px rgba(0,0,0,.1)
+}
+
+.thread-container .post .head {
+padding: 0.5em 1em;
+background-color: gray;
+background: linear-gradient(to right, #333333, #555555);
+box-shadow: inset 2px 3px 6px rgba(0,0,0,.15);
+border-radius: 5px 5px 0 0;
+}
+
+[[/code]]
+
+[[module Comments]]
+

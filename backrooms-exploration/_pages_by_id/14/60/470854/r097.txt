@@ -1,0 +1,47 @@
+---
+title: "Home"
+tags: []
+page_id: "1460470854"
+site: "backrooms-exploration"
+slug: "start"
+revision: 97
+revision_id: "1542981295"
+author: 9646251
+timestamp: 1774739008
+---
+
+[[include front-page:css]]
+[!-- creepypasta --]
+[[include front-page:banner]]
+[[include front-page:explore]]
+[[include front-page:branches]]
+[[div class="grid-container newsblocks"]]
+
+[[div class="news styled-quote linkblock"]]
++++ Tech Support Wiki
+//We owe a lot to the TS Backrooms Wiki, as most articles are archived from here.//[https://backrooms-wiki.wikidot.com/ (link)]
+[[/div]]
+[[div class="news styled-quote linkblock"]]
++++ MGHC Wiki
+//This wiki was inspired by the MGHC wiki! Go check it out!//[https://backrooms-mghc.wikidot.com/ (link)]
+[[/div]]
+[[/div]]
+[[div class="styled-quote"]]
+[[=]]
+++++ Newly Released Content
+[[module ListPages pagetype="*" category="_default theme" separate="no" limit="14"]]
+%%linked_title%%, ##green|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+[[/=]]
+[[/div]]
+
+------
+
+Still in Beta Phase
+Full Release: ~Late 2026 - Mid 2027
+
+-------
+
+M.E.G. Official Database
+Circa 2025-2026
+

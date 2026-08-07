@@ -1,0 +1,18 @@
+---
+title: "Global CSS"
+tags: []
+page_id: "1449885454"
+site: "adr-sandbox"
+slug: "css:global-css"
+revision: 0
+revision_id: "1513772183"
+author: 4632971
+timestamp: 1694134352
+---
+
+[[code type="css"]]
+/*  Place here any CSS code that you would like to affect both the Default and Home themes */
+
+
+[[/code]]
+

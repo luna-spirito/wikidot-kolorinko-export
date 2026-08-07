@@ -1,0 +1,169 @@
+---
+title: "Site Template"
+tags: ["sandbox"]
+page_id: "1083039033"
+site: "fasa-sandbox"
+slug: "site-template"
+revision: 5
+revision_id: "1135564938"
+author: 5928651
+timestamp: 1590401386
+---
+
+[[tabview]]
+[[tab Overview]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+[[=image http://fasacss.wdfiles.com/local--files/start/doubleFASA.png width="200px"]]
+
+[[=]]
+[[size xx-large]]**Site-XXX**[[/size]]
+
+[[size xx-large]]**[Insert Codename for Sites]**[[/size]]
+[[/=]]
+
+------
+[[include component:image-block name=https://i.ytimg.com/vi/DH0BQtwEAsM/maxresdefault.jpg|caption=Insert your image followed by a small description of the image. If none is available, then leave this text alone.|width=500px]]
+-----
+[[=]]
++++ Overview
+[[/=]]
+-----
+**Founded:**
+
+**Located:**
+
+**Site Director:**
+
+**Background Information:**
+[[/div]]
+[[/tab]]
+[[tab History]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+[[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
+[[=]]
++++ NOTICE FROM THE DOCUMENT HORIZON PROTECT (D.H.P) DIVISION
+[[/=]]
+[[/div]]
+-----
+[[=]]
++++ History
+[[/=]]
+-----
+[[/div]]
+[[/tab]]
+[[tab Bio & Section]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ [Insert Bio Codename/Nickname] BIO
+[[/=]]
+-----
+**Founded:**
+
+**Lead Researcher:**
+
+**Background Information:**
+
+**History:**
+-----
+[[=]]
++++ Section-XXX
+[[/=]]
+-----
+
+**Section Position:**
+
+**Founded:**
+
+**Background Information:**
+[[/div]]
+[[/tab]]
+[[tab Offices & Wings Section]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ Offices & Wings Section
+[[/=]]
+-----
+[[/div]]
+[[/tab]]
+[[tab Administrative Official]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ Administrative Official
+[[/=]]
+-----
+
+* **Site Director:**
+
+* **Assistant Site Director:**
+
+* **Dir. of Personnel & Management:**
+
+* **Dir. of Security System:**
+
+* **Dir. of Garrisoned AET:**
+
+* **Dir. of Human Resources:**
+[[/div]]
+[[/tab]]
+[[tab On-Site Personnel]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ On-Site Personnel
+[[/=]]
+-----
+
+* **Department Heads:**
+
+* **Administrative Assistants:**
+
+* **Medical Personnel:**
+
+* **Research Personnel:**
+
+* **AETs Personnel:**
+
+* **Containment Personnel:**
+[[/div]]
+[[/tab]]
+[[tab Division]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ List of Division
+[[/=]]
+-----
+[[/div]]
+[[/tab]]
+[[tab AET Site Division]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ AET Site Division
+[[/=]]
+-----
+[[/div]]
+[[/tab]]
+[[tab Incident Logs]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ Incident Logs
+[[/=]]
+-----
+[[/div]]
+[[/tab]]
+[[tab Site Anomalies]]
+[[div style="center no-repeat; background-color: white; float: center; border: solid 2px black; padding: 1px 15px; "]]
+-----
+[[=]]
++++ Site Anomalies
+[[/=]]
+-----
+[[/div]]
+[[/tab]]
+[[/tabview]]
+

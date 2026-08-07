@@ -1,0 +1,63 @@
+---
+title: "Volverse un Miembro"
+tags: ["admin"]
+page_id: "1453856076"
+site: "hyroxcorp-es"
+slug: "system:join"
+revision: 22
+revision_id: "1540603915"
+author: 9161410
+timestamp: 1765638173
+---
+
+[[div class="content-panel content-box centered" style="font-weight: bold;"]]
+[[=]]
+[[image https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mexico_road_sign_SR-06.svg/2048px-Mexico_road_sign_SR-06.svg.png width="200px"]]
+
++ LEE ESTOS ANTES DE APLICAR PARA MIEMBRO
+
+++ **[*http://hyroxcorp-es.wikidot.com/guia-para-nuevos Guía para Nuevos]**
+++ **[*http://hyroxcorp-es.wikidot.com/reglas-del-sitio Reglas del Sitio]**
+[[/=]]
+[[/div]]
+[[collapsible show="—>(¿Listo?)<—" hide=" "]]
+Para unirte, necesitas abrir una cuenta en nuestra plataforma, Wikidot. Si aún no tienes una, encontrarás un botón para hacerlo abajo. //**Debido a un error en Wikidot, es posible que no puedas registrarte con una dirección de Hotmail o una dirección de correo electrónico que contenga números**//; en ese caso, prueba con otra dirección de correo electrónico.
+
+-----
+
+Una vez que hayas iniciado sesión, puedes escribir una breve solicitud para unirte a nuestro sitio.
+Tu solicitud debe **incluir:**
+
+* Fecha de Nacimiento
+* Al menos una frase explicando por qué deseas unirte.
+* (Opcional) Cuéntanos dónde te enteraste de la wiki de la Corporación.
+
+**Tu solicitud debe tener buena gramática.** Asegúrate de revisarla, ya que las solicitudes con errores gramaticales serán rechazadas.
+
+[[div class="content-box dashed" style="text-align: center; background-color: #13131c; color: #c0c0c0; padding: 20px;"]]
+Al enviar tu solicitud a continuación, aceptas seguir las reglas del sitio .
+[[module MembershipApply]]
+
+[https://www.wikidot.com/default--flow/login__CreateAccountScreen?originSiteId=1 Si no tienes una cuenta de Wikidot, haz click aquí]
+[[/div]]
+
+Por favor, permítenos un tiempo para revisar tu solicitud. Si tu solicitud es rechazada, tenga en cuenta que puedes volver a presentarla tantas veces como sea necesario.
+
+Si no puedes volver a presentar tu solicitud y aparece un mensaje que dice "Ya haz presentado tu solicitud en este sitio" durante más de 24 horas, envía un mensaje a [[*user Lukario_Dalmatian]]
+[[/collapsible]]
+
+[[module CSS]]
+.collapsible-block-folded { 
+text-align: center;
+font-size: 110%;
+}
+.collapsible-block-unfolded-link { 
+display: none;
+}
+
+#membership-apply-box > p {
+    text-align: center;
+    font-weight: bold;
+}
+[[/module]]
+

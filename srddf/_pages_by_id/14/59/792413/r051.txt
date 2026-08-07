@@ -1,0 +1,188 @@
+---
+title: "Void"
+tags: []
+page_id: "1459792413"
+site: "srddf"
+slug: "theme:void"
+revision: 51
+revision_id: "1540896025"
+author: 9720100
+timestamp: 1766412165
+---
+
+[[module CSS]]
+ 
+ body{
+     margin: 0px;
+}
+ 
+ 
+ #content-wrap {
+     _height: 1%;
+     min-height: 1px;
+    padding: 10px 0px 1px 0px;
+ }
+
+ 
+ /* * html #main-content {height: 1%;} */
+ 
+ #account-options li{
+     display: block;
+     margin: 0; padding: 0;
+    width: 100%;
+ }
+#account-options li a {
+     display: block;
+     box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     padding: 2px 5px;
+     z-index: 40;
+    width: 100%;
+ }
+ 
+#account-options li a:hover {
+     color: black;
+ }
+#account-topbutton {
+     font-size: 80%;
+     font-weight: bold;
+     padding: 0 5px;
+ }
+ 
+
+/* Site background image */
+ 
+body {
+    background-image: url(https://i.postimg.cc/gcwCc5dG/background-void.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: white;
+ 
+}
+
+ 
+/* Background color of all content of the page below header */
+#content-wrap {
+    background-image: none;
+    background-repeat: repeat-y ;
+    background-position: top left;
+    margin-left: 20px;
+    padding-top: 0px;
+}
+ 
+#page-content {
+    padding: 10px;
+}
+ 
+/* 1st MENU ELEMENT */
+ 
+/* Background color */
+
+
+/* ---------------------------------- */
+ 
+ 
+/* ---------------------------------- */
+
+ 
+/*  FONTS   */
+ 
+/* General font family and color*/
+body {
+    font-family: Verdana, Arial, Helvetica;
+    color: ;
+}
+ 
+/* Font family of headers */
+h1,h2,h3,h4,h5,h6{
+    font-family: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica;
+}
+ 
+/* Sizes, weight and text-decorations of headers */
+h1{
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding-left: 34px;
+    line-height: 30px;
+}
+h2{
+    font-weight: normal;
+    font-size: 150%;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding-left: 34px;
+    height: 30px;
+}
+h3{
+    font-weight: normal;
+    font-size: 130%;
+    text-decoration: none;
+}
+h4{
+    font-weight: bold;
+    font-size: 120%;
+    text-decoration: none;
+}
+h5 {
+    font-weight: bold;
+    font-size: 100%;
+    text-decoration: none;
+}
+h6 {
+    font-weight: bold;
+    font-size: 90%;
+    text-decoration: none;
+}
+ 
+a {
+    color: #41c3ff;
+    text-decoration: none;
+}
+ 
+a:hover {
+    color: #b7e8ff;
+    text-decoration: none;
+    background: transparent;
+ 
+}
+ 
+a:visited {
+    color: #41c3ff;
+}
+ 
+a.newpage {
+    color: #bd8a40;
+}
+ 
+a.newpage:hover {
+    color: #bd8a40;
+    text-decoration: underline;
+}
+ 
+#footer {
+    color: #444;
+    background-color: transparent;
+    opacity: 1.0;
+    border-bottom:1px solid #888;
+    border-top:1px solid #888;
+}
+ 
+#footer a {
+    color: #666;
+    text-decoration: none;
+}
+ 
+ 
+#login-status {
+    color: black;
+ 
+}
+h1 {
+    margin-top: -20px; /* Hoặc điều chỉnh đến khi nó nằm đúng chỗ bạn muốn */
+    text-align: center; /* Tùy bạn nếu muốn căn giữa */
+}
+
+[[/module]]
+

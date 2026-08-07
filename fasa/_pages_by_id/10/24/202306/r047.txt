@@ -1,0 +1,37 @@
+---
+title: ""
+tags: ["lordsown"]
+page_id: "1024202306"
+site: "fasa"
+slug: "lordsown:hub"
+revision: 47
+revision_id: "1073710049"
+author: 4392748
+timestamp: 1587106535
+---
+
+[[module css]]
+@import url(http://fasa.wdfiles.com/local--files/lordsown-font/stylesheet.css)
+
+
+[[/module]]
+[[=image http://fasa.wdfiles.com/local--files/lordsown%3Ahub/Lords%20own%20icon]]
+[[module css]]
+#page-title {
+display: none
+}
+.listresize {
+font-size: 12px !important;
+line-height: 141%;
+}
+[[/module]]
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px; font-family: 'anglicantextregular';"]]
+[[size 200%]]
+Lord's Own
+[[/size]]
+[[/div]]
+[[div style="text-align: center; font-size: 125%"]]
+[Ecclesiastes 12:13]
+The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.
+[[/div]]
+

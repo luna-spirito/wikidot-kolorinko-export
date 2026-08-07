@@ -1,0 +1,47 @@
+---
+title: "Tagging Guide"
+tags: ["admin", "site"]
+page_id: "1365705069"
+site: "timeless-places"
+slug: "tagging-guide"
+revision: 86
+revision_id: "1544501322"
+author: 3437739
+timestamp: 1780850940
+---
+
++++ << [[[/system:join| Join The Site!]]] | Tagging Guide | [[[/Credits| Credits]]] >>
+
+> +++ Used by administrators for classifying articles, allowing them to be sorted into the correct modules.
+@@@@
+-----
+[[=]]
+@@@@
+[[tabview]]
+[[tab Article Tags]]
+> || Tag || Purpose ||
+> || article || Goes on all articles. ||
+> || space || Goes on Spaces. ||
+> || anomaly || Goes on Anomalies. ||
+> || summary || Goes on Summaries. ||
+> || joke || Goes on Joke articles. ||
+[[/tab]]
+[[tab Site Tags]]
+> || Tag || Purpose ||
+> || site || Goes on all pages. ||
+> || information || Goes on official information pages. ||
+> || guide || Goes on guide pages. ||
+> || policy || Goes on official site policy pages. ||
+> || author-page || Goes on all author pages. ||
+> || sandbox || Goes on all sandboxes. ||
+> || admin|| Goes on all admin pages ||
+[[/tab]]
+[[tab Other Tags]]
+> || Tag || Purpose ||
+> || single-author || Articles written by one author. ||
+> || co-authored || Articles written by multiple authors. ||
+[[/tab]]
+[[/tabview]]
+
+[[/=]]
+

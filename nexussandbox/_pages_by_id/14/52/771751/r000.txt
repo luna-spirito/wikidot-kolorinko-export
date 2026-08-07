@@ -1,0 +1,21 @@
+---
+title: "Black Highlighter Theme"
+tags: []
+page_id: "1452771751"
+site: "nexussandbox"
+slug: "theme:black-highlighter-theme"
+revision: 0
+revision_id: "1518521501"
+author: 8285008
+timestamp: 1708729298
+---
+
+[[module CSS]]
+@import url("https://cdn.scpwiki.com/theme/en/black-highlighter/css/min/normalize.min.css");
+@import url("https://cdn.scpwiki.com/theme/en/black-highlighter/css/min/black-highlighter.min.css");
+
+a[rel="license"]::after {
+    content: ".";
+}
+[[/module]]
+

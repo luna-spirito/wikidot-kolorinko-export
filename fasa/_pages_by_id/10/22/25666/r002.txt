@@ -1,0 +1,61 @@
+---
+title: "Search this site"
+tags: []
+page_id: "102225666"
+site: "fasa"
+slug: "search:site"
+revision: 2
+revision_id: "1524833210"
+author: 8285008
+timestamp: 1727180290
+---
+
+[[html]]
+<html>
+<head>
+<title>Search My Site</title>
+<style>
+.search-box {
+  border: 1px solid black;
+  padding: 10px;
+  width: 90%; /* Adjust the width as needed */
+  height: fit-content;
+}
+.search-input {
+  width: 75vw; /* Make the input field take the full width */
+  padding: 10px; /* Add some padding for better appearance */
+  font-size: 16px; /* Increase the font size */
+}
+.search-button {
+  padding: 10px 20px; /* Add padding to the button */
+  font-size: 16px; /* Increase the font size */
+}
+.results-box {
+  border: 1px solid black;
+  padding: 10px;
+  width: 90%;
+  height: 500px; /* Adjust the height as needed */
+  margin-top: 20px;
+}
+</style>
+<script type="text/javascript">
+function searchSite() {
+  var query = document.getElementById('searchQuery').value;
+  var resultsDiv = document.getElementById('results');
+  resultsDiv.innerHTML = '<iframe src="https://www.bing.com/search?q=site:fasa.wikidot.com ' + query + '" width="100%" height="100%"></iframe>';
+  return false;
+}
+</script>
+</head>
+<body>
+<form onsubmit="return searchSite();">
+  <div class="search-box">
+    <input type="text" id="searchQuery" name="q" class="search-input" placeholder="Search the wiki . . ." />
+    <input type="submit" value="Search" class="search-button" />
+  </div>
+</form>
+<div id="results" class="results-box"></div>
+</body>
+</html>
+[[/html]]
+

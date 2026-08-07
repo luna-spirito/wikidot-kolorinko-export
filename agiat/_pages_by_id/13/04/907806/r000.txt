@@ -1,0 +1,45 @@
+---
+title: "Contact"
+tags: []
+page_id: "1304907806"
+site: "agiat"
+slug: "main:contact"
+revision: 0
+revision_id: "1355969032"
+author: 6748992
+timestamp: 1600674790
+---
+
+= **To send a message to the site owner, use this form:**
+
+[[module MailForm title="Contact via Wikidot.com" format="csv"]]
+
+# name 
+ * title: First name, last name
+ * type: text
+ * rules:
+  * required: true
+# organisation
+ * title: Organization/Company
+ * hint: Leave blank if none
+# country
+ * title: Country
+# email
+ * title: Email
+ * type: text
+ * rules:
+  * required: true
+  * match: /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+$/
+# comment
+ * type: textarea
+ * title: Your message 
+ * rules:
+  * maxLength: 5000
+# mycaptcha
+ * title: What's 19+125?
+ * type: text
+ * rules:
+  * required: true 
+  * match: /^(144)$/
+[[/module]]
+

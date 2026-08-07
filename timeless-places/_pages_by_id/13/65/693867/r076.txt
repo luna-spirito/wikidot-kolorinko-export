@@ -1,0 +1,54 @@
+---
+title: "Anomalies"
+tags: ["site"]
+page_id: "1365693867"
+site: "timeless-places"
+slug: "anomalies"
+revision: 76
+revision_id: "1544501400"
+author: 3437739
+timestamp: 1780851447
+---
+
+[[=]]
++++ Anomalies | [[[/joke-anomalies | Joke Anomalies]]] >>
+[[/=]]
+~~~~
+> +++ Anomalies are recurrent oddities that have one or multiple of the following qualities: Taking on multiple forms, are not bound to a single space / appear to travel between them, are not broad or vague in concept, or are frequently reported by a multitude of individuals.		
+@@@@
+-----
+@@@@
+~~~~
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]]
++ TOP RATED  
+[[/size]] 
+-----
+[[module ListPages rating=">-1" order="rating desc" tags="+anomaly -joke" limit="999" perPage="999"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+
+[[/div]]
+
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]] 
++ NEW PAGES
+[[/size]]
+-----
+[[module ListPages  order="creationdate asc" tags="+anomaly -joke" limit="999" perPage="999"]]
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+[[/div]]
+~~~~
+-----
+[[div class="scroll-holder"]]
+[[size 110%]]
++ A-Z  
+[[/size]]
+-----
+[[module ListPages rating=">-1" order="title desc desc" tags="+anomaly -joke" limit="999" perPage="999"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%## 
+[[/module]]
+
+[[/div]]
+

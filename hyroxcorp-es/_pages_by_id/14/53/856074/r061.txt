@@ -1,0 +1,132 @@
+---
+title: "Top Navigation"
+tags: []
+page_id: "1453856074"
+site: "hyroxcorp-es"
+slug: "nav:top"
+revision: 61
+revision_id: "1543044756"
+author: 9161410
+timestamp: 1775013918
+---
+
+[[module listPages limit="1" category="theme" name="@URL|black" urlAttrPrefix="theme"]]
+%%content%%
+[[/module]]
+
+[[div class="open-themes-container"]]
+[[module listPages pagetype="*" category="-nav -forum" limit="1" range="."]]
+[[div class="open-themes themes-white"]]
+[%%link%%/theme_name/white ⬢]
+[[/div]]
+[[div class="open-themes themes-black"]]
+[%%link%% ⬢]
+[[/div]]
+[[/module]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+* Anomalías
+ * [/archivos-amly Archivos AMLY]
+ * [/fmi Fenómenos de Menor Interés]
+ * [/ear Eventos Anómalos Registrados]
+ * [/rau Recursos Anómalos Útiles]
+* Archivos
+ * [[[Informe del Personal]]]
+ * [[[Operaciones]]]
+ * [[[Divisiones]]]
+ * [[[Historias]]]
+ * [[[Eventos de la Corporación]]]
+ * [[[/unidad-de-respuesta-movil|Hub URM]]]
+* EdIs
+ * [[[Grupos de Interés]]]
+ * [[[Autoridades de Interés]]]
+ * [[[Realidades Alternas]]]
+* Info
+ * [[[Sobre la Corp.]]]
+ * [[[Clases y Peligros]]]
+ * [[[Niveles de Autoridad]]]
+ * [[[Índice de Instalaciones]]]
+* Otros
+ * [/sintaxis-wikidot Sintaxis WikiDot]
+ * [/materiales Materiales]
+ * [/iconos Iconos]
+ * [/concursos Archivo de Concursos]
+ * [/archivo Páginas Archivadas]
+[[/div]]
+
+[[div class="top-bar"]]
+
+* Anomalías
+ * [/archivos-amly Archivos AMLY]
+ * [/fmi Fenómenos de Menor Interés]
+ * [/ear Eventos Anómalos Registrados]
+ * [/rau Recursos Anómalos Útiles]
+* Archivos
+ * [[[Informe del Personal]]]
+ * [[[Operaciones]]]
+ * [[[Divisiones]]]
+ * [[[Historias]]]
+ * [[[Eventos de la Corporación]]]
+ * [[[/unidad-de-respuesta-movil|Hub URM]]]
+* Entidades de Interés
+ * [[[Grupos de Interés]]]
+ * [[[Autoridades de Interés]]]
+ * [[[Realidades Alternas]]]
+* Información
+ * [[[Sobre la Corp.]]]
+ * [[[Clases y Peligros]]]
+ * [[[Niveles de Autoridad]]]
+ * [[[Índice de Instalaciones]]]
+* Otros
+ * [/sintaxis-wikidot Sintaxis WikiDot]
+ * [/materiales Materiales]
+ * [/iconos Iconos]
+ * [/concursos Archivo de Concursos]
+ * [/archivo Páginas Archivadas]
+[[/div]]
+
+[[span class="search-button"]][[[search:buscador|Buscar]]][[/span]]
+
+[!-- Code to only display on this site --]
+
+[[module css]]
+/* External Links */
+
+#main-content a[href^="http"]::after {
+background-position: center right;
+background-repeat: no-repeat;
+background-image: url(http://www.rpc-wiki.net/local--files/component:icons/external-ltr.png);
+background-image: linear-gradient(transparent,transparent),url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2213%22 height=%2213%22%3E %3Cpath fill=%22%2336b%22 d=%22M5.002 1.01h7v7l-2-2-3 2v-1l3-2.25 1 1V2.01h-3.75l1 1-2.25 3h-1l2-3z%22/%3E %3Cpath fill=%22%2336b%22 d=%22M7.002 3.01h-5v8h8v-5h-1v4h-6v-6h4z%22/%3E %3Cpath fill=%22%2315a5ea%22 d=%22M4.082 5.51c0-.621.621-.621.621-.621 1.864.621 3.107 1.864 3.728 3.728 0 0 0 .621-.62.621-1.245-1.864-1.866-2.485-3.73-3.728z%22/%3E %3C/svg%3E");
+padding-right: 13px;
+content: "";
+}
+
+#main-content a[href^="http://hyroxcorp-es.wikidot.com"]::after,
+#main-content a[href^="https://hyroxcorp-es.wikidot.com"]::after,
+#main-content a[href^="http://www.hyroxcorp-es.wikidot.com"]::after,
+#main-content a[href^="https://www.hyroxcorp-es.wikidot.com"]::after,
+#main-content a[href^="http://hyrox-es.net"]::after,
+#main-content a[href^="https://hyrox-es.net"]::after,
+#main-content a[href^="http://www.hyrox-es.net"]::after,
+#main-content a[href^="https://www.hyrox-es.net"]::after {
+background-image: none;
+padding-right: 0;
+}
+
+.printuser a::after, .rateContainer a::after, .image-block a::after {
+background-image: none!important;
+padding-right: 0!important;
+}
+
+#page-content .mobile-top-bar {
+display: none;
+}
+
+[[/module]]
+

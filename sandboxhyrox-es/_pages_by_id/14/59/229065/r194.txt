@@ -1,0 +1,201 @@
+---
+title: "HyrOS Theme"
+tags: []
+page_id: "1459229065"
+site: "sandboxhyrox-es"
+slug: "css"
+revision: 194
+revision_id: "1541414004"
+author: 9161410
+timestamp: 1768518017
+---
+
+[[module css]]
+@import url(https://sandboxhyrox-es.wdfiles.com/local--code/css/1);
+[[/module]]
+
+**Theme Import CSS:**
+> @@[[module css]]@@
+> @@@import url(https://sandboxhyrox-es.wdfiles.com/local--code/css/1);@@
+> @@[[/module]]@@
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+@import url('https://fonts.googleapis.com/css?family=Teko');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('http://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+
+@import url(https://hyroxcorp-es.wdfiles.com/local--code/component:sidebar-visible/1);
+
+:root {
+--title-font: 'Jockey One', sans-serif;
+--headers-font: 'Teko', sans-serif;
+--body-font: 'Lato', sans-serif;
+--body-background: #2b2e33;
+--header-background: linear-gradient(#253677, #253575 20px, #21284b 132px, #1b213f 145px, #1b1b27 145px, #1f1f29 150px, #181822 166px, #0000004c 166px, #0000 179px);
+--link-color: #385E9B;
+--link-hover-color: #426EBC;
+--new-page-color: #073782;
+--search-button-background: var(--WT-search-button-background);
+--search-button-border: var(--WT-search-button-border);
+--search-button-hover-background: var(--WT-search-button-hover-background);
+--search-button-hover-border: var(--WT-search-button-hover-border);
+--search-input-hover-border: var(--WT-search-input-hover-border);
+--search-input-hover-color: var(--WT-search-input-hover-color);
+--search-input-color: var(--WT-search-input-color);
+--search-input-hover: var(--WT-search-input-hover);
+--search-input-border: var(--WT-search-input-border);
+}
+
+/* Body */
+ 
+body {
+    font-family: var(--body-font);
+}
+ 
+/* Breadcrumbs and Title */
+ 
+#breadcrumbs{
+margin: auto;
+text-align: center;
+padding-bottom: 4px;
+}
+ 
+#page-title {
+    position: relative;
+    text-align: center;
+    margin-bottom: 0;
+    font-family: var(--title-font);
+}
+
+/* User Name*/
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #b3b3b3;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.5);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#printuser {
+    color: #32353b;
+    background-color:transparent;
+}
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: #fff;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+#login-status a {
+    color: #c0cecf;
+ 
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+#account-options li a:hover {
+    color: #fff;
+    background: #202226;
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: #fff;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+/* Header */
+ 
+#header {
+    background-image: url(http://sandboxhyrox-es.wikidot.com/local--files/css/ProjectKepler_Logo.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(10rem - 2.125rem);
+    background-position: center 15px;
+    display: grid;
+    justify-content: center;
+}
+ 
+#header h1, #header h2 {
+    margin-left: 25px;
+}
+ 
+#header h2 {
+    text-align: center;
+}
+ 
+#header h1 a, #header h2 span {
+    color: transparent;
+    text-shadow: none;
+    font-size: 0;
+}
+ 
+#header h2 span {
+    all: unset;
+    font-size: 0;
+}
+ 
+#header h1 a::before {
+    color: white; 
+    text-shadow: 3px 3px 5px #000;
+    font-family: 'Teko', sans-serif;
+    content: "Project Kepler";
+    letter-spacing: 2.5px;
+    font-size: 60px;
+}
+ 
+#header h2 span::before {
+    color: #e3e3e3;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+    font-size: 95%;
+    content: "Terra Invicta";
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-style: oblique;
+}
+
+/* Headings */
+ 
+h1 {
+    font-weight: bold;
+    font-size: 215%;
+    font-family: var(--title-font);
+}
+ 
+h2, h3, h4, h5, h6 {
+    font-family: var(--headers-font);
+}
+
+@media (max-width: 768px) {
+#top-bar {
+    position: absolute;
+    top: 145px;
+}
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :sandboxhyrox-es:paleta]]
+

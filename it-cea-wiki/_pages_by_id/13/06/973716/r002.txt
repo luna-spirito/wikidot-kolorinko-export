@@ -1,0 +1,20 @@
+---
+title: "Random Page"
+tags: ["staff"]
+page_id: "1306973716"
+site: "it-cea-wiki"
+slug: "random-page"
+revision: 2
+revision_id: "1518132155"
+author: 4022955
+timestamp: 1707475033
+---
+
+[[module ListPages category="*" order="random" limit="1"]]
+Random Page: %%title_linked%%
+[[/module]]
+
+[[module ListPages category="*" order="random" limit="1"]]
+[[include :snippets:redirect url=%%link%%]]
+[[/module]]
+

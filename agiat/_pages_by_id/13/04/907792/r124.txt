@@ -1,0 +1,73 @@
+---
+title: "Top Navigation"
+tags: ["admin"]
+page_id: "1304907792"
+site: "agiat"
+slug: "nav:top"
+revision: 124
+revision_id: "1542220578"
+author: 7633904
+timestamp: 1771698362
+---
+
+[[div class="top-bar"]]
+* Archivos
+ * [[[expedientes | Expedientes]]]
+ * [[[help:lugares-de-interes | Lugares de Interés]]]
+* Información 
+ * [[[help:compendio-del-agiatverso| Compendio del AGIATverso]]]
+ * [[[help:clasificaciones-niveles-de-riesgo-y-designaciones | Clasificaciones, niveles de riesgo y designaciones]]]
+ * [[[help:personal-de-la-agiat | Personal de la AGIAT]]]
+ * [[[help:fuerzas-especiales-moviles | Fuerzas Especiales Móviles]]]
+* [[[cronicas-de-la-agiat | Crónicas]]]
+ * [[[taumaturgia-101 | Taumaturgia 101]]]
+ * [[[desaparición-de-mirray-hub | La Desaparición de Mirray]]]
+* Comunidad
+ * [[[fichas-de-autor | Fichas de autor]]]
+ * [[[galerias-de-arte | Galerías de arte]]]
+ * [[[version-original | Versión Original]]]
+ * [[[concursos-de-la-comunidad | Concursos de la comunidad]]]
+
+[[/div]]
+
+
+
+
+[!-- DO NOT REMOVE THE BELOW --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: none; }
+[[/module]]
+
+[[div style="display : none;"]]
+[[module ListUsers users="."]]
+[[include admincss:%%name%%]]
+[[/module]]
+[[/div]]
+
+
+[[div class="mobile-top-bar"]]
+* Archivos
+ * [[[expedientes | Expedientes]]]
+ * [[[help:lugares-de-interes | Lugares de Interés]]]
+* Información 
+ * [[[help:compendio-del-agiatverso| Compendio del AGIATverso]]]
+ * [[[help:clasificaciones-niveles-de-riesgo-y-designaciones | Clasificaciones, niveles de riesgo y designaciones]]]
+ * [[[help:personal-de-la-agiat | Personal de la AGIAT]]]
+ * [[[help:fuerzas-especiales-moviles | Fuerzas Especiales Móviles]]]
+* Crónicas
+ * [[[cronicas-de-la-agiat | HUB DE CRÓNICAS]]]
+ * [[[taumaturgia-101 | Taumaturgia 101]]]
+ * [[[desaparicion-de-mirray-hub | La Desaparición de Mirray]]]
+* Comunidad
+ * [[[fichas-de-autor | Fichas de autor]]]
+ * [[[galerias-de-arte | Galerías de arte]]]
+ * [[[version-original | Versión Original]]]
+ * [[[concursos-de-la-comunidad | Concursos de la comunidad]]]
+
+ 
+[[/div]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+

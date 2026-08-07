@@ -1,0 +1,54 @@
+---
+title: "Summaries"
+tags: ["site"]
+page_id: "1365746812"
+site: "timeless-places"
+slug: "summaries"
+revision: 70
+revision_id: "1544501432"
+author: 3437739
+timestamp: 1780851557
+---
+
+[[=]]
++++ Summaries | [[[/joke-summaries| Joke Summaries]]] >>
+[[/=]]
+~~~~
+> +++ Summaries are first hand accounts detailing personal experiences inside of spaces / anomalous encounters. Everyone has a story, perhaps these will serve as inspiration for you to tell your own. 
+@@@@
+-----
+@@@@
+~~~~
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]]
++ TOP RATED
+[[/size]] 
+-----
+[[module ListPages rating=">-1" order="rating desc" tags="+summary -joke" limit="999" perPage="999"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+
+[[/div]]
+
+[[div class="recent-block" style="display: inline-block; float: none;"]]
+[[size 110%]] 
++ NEW PAGES
+[[/size]]
+-----
+[[module ListPages  order="creationdate asc" tags="+summary -joke" limit="999" perPage="999"]]
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%##
+[[/module]]
+[[/div]]
+~~~~
+-----
+[[div class="scroll-holder"]]
+[[size 110%]]
++ A-Z  
+[[/size]]
+-----
+[[module ListPages rating=">-1" order="title desc desc" tags="+summary -joke" limit="999" perPage="999"]] 
+> +++ > %%title_linked%% - ##00ff00| +%%rating%%## 
+[[/module]]
+
+[[/div]]
+

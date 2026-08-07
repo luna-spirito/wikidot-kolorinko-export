@@ -1,0 +1,148 @@
+---
+title: "Side Navigation"
+tags: []
+page_id: "1453856073"
+site: "hyroxcorp-es"
+slug: "nav:side"
+revision: 134
+revision_id: "1542874999"
+author: 9161410
+timestamp: 1774310111
+---
+
+[!--
+    Modified by Lukario_Dalmatian for Hyrox Corporation
+
+    Original sidebar code by Croquembouche from the SCP Wiki
+    http://www.wikidot.com/user:info/croquembouche
+--]
+[[div class="side-block"]]
+
+[[div_ class="menu-item"]]
+[[a href="http://hyroxcorp-es.wikidot.com/"]][[image http://rpcauthority.wdfiles.com/local--files/nav%3Aside/home.png]] Menú[[/a]]
+[[/div]]
+----
+[[div_ class="heading"]]
+Base de Datos AMLY
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Archivos AMLY]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Serie AMLY-INT]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Serie AMLY-LUDUS/No Canon]]]
+[[/div]]
+
+------
+[[div_ class="heading"]]
+Sitio
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Páginas Mejor Calificadas]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Paginas Sin Calificación/Peor Calificadas]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[AMLY Aleatorio]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Historia Aleatoria]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Página Aleatoria]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[/system:recent-changes Cambios Recientes]
+[[/div]]
+----
+[[div_ class="heading"]]
+Para los nuevos
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[System:join | ¡Vuelvete un miembro!]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[guia-para-nuevos | Guía para Nuevos]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[widget-hub | Hub de Widgets]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[template-hub | Hub de Plantillas]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[reglas-del-sitio | Reglas del Sitio]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Aparta tu Articulo]]]
+[[/div]]
+------
+[[div_ class="heading"]]
+Comunidad
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[*http://sandboxhyrox-es.wikidot.com/ | Sandbox]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[forum:start | Foro]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Página de Autores]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[Galería de Arte]]]
+[[/div]]
+-----
+[[div_ class="heading"]]
+Administración
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[*/_admin|Administrar]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[/nav:top Editar menú horizontal]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[/nav:side Editar menú lateral]
+[[/div]]
+
+-----
+
+[[div_ class="menu-item"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/e/e5/CC_BY-SA_icon.svg link ="http://creativecommons.org/licenses/by-sa/4.0/ "style ="width: 170px;"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[a href="#" class="close-menu"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav%3Aside/black.png style="z-index:-1; opacity: 0.3;"]]
+[[/a]]
+
+[[include :agiat:component:toolbar-historial]]
+
