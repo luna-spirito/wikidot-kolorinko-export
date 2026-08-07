@@ -1,0 +1,230 @@
+---
+title: "Rational Gaze's Author Page, I Guess?"
+tags: ["author-page"]
+page_id: "1468824845"
+site: "rpcauthority"
+slug: "rational-gaze"
+revision: 7
+revision_id: "1544677659"
+author: 2533761
+timestamp: 1781638190
+---
+
+[[module css]]
+:root {
+--nav-hover-background: #472d75;
+ 
+--body-background: #080808;
+--header-icon: url(https://rpcauthority.wdfiles.com/local--files/rational-gaze/RPCA.jfif);
+--header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Ablacksite-theme/Black_Site_Header.png);
+ 
+--star-rating-background: rgba(0,0,0,0.15);
+--star-rating-reading-background: rgba(0,0,0,0.15);
+--binary-rating-background: rgba(0,0,0,0.15);
+ 
+--search-button-background: black;
+--search-button-hover-background: #111;
+--search-input-color: black;
+--search-input-hover: #111;
+ 
+--sidebar-header-color: white;
+--sidebar-hover-background: white;
+--sidebar-hover-color: black;
+--sidebar-mobile-open-menu-color: #c0c0c0;
+--sidebar-mobile-open-menu-border: 3px solid #c0c0c0;
+--sidebar-mobile-open-menu-background: black;
+--sidebar-mobile-background: black;
+ 
+--page-title-color: #eee;
+ 
+--blockquote-background: rgba(0,0,0,0.4);
+--blockquote-border: none;
+--blockquote-border-radius: 5px;
+--blockquote-padding: 1px 10px;
+ 
+--content-panel-border: none;
+--content-panel-background: rgba(255,255,255,0.05);
+--toc-background: rgba(0,0,0,0.15);
+--content-panel-border-radius: 10px;
+--content-panel-padding: 15px;
+ 
+--image-block-caption-background: rgba(0,0,0,0.15);
+ 
+--tabview-background: rgba(0,0,0,0.15);
+--tabview-button-background: rgba(0,0,0,0.4);
+--tabview-button-selected-background: #2d224f;
+--tabview-button-hover-background: #2d224f;
+--tabview-bar-color: #444;
+--tabview-button-border: none;
+--tabview-border: 2px dashed #444;
+--tabview-side-border: 2px solid var(--content-bar-background);
+--tabview-side-button-hover-background: var(--tabview-button-hover-background);
+--tabview-side-button-selected-background: #36285d;
+--tabview-side-scrollbar-thumb-background: #383249;
+--tabview-side-scrollbar-thumb-hover-background: #343041;
+ 
+--link-color: #7652e1;
+--link-hover-color: #a185f6;
+--new-page-color: #483a75;
+--sidebar-crit-corner-color: #714cb5;
+ 
+--page-background: #151515;
+--page-padding: 15px;
+--page-border-radius: 15px;
+--header-text-visibility: hidden;
+--header-custom-text: 'RPC Authority';
+--header-tagline-custom-text: 'Research. Protection. Containment.';
+ 
+--header-tagline-color: #e5e5e5;
+ 
+--star-rating-hue: 45deg;
+ 
+--sidenote-open-background: #291f36;
+ 
+--WT-content-bar-background: #666;
+ 
+--WT-nav-hover-background: #472d75;
+--WT-topbar-hover-background: var(--WT-nav-hover-background);
+ 
+--WT-body-background: #0a0a0a;
+--WT-header-icon: url(http://www.rpc-wiki.net/local--files/component:blacksite-theme/blacksiteLogo.png);
+--WT-header-background: url(http://www.rpc-wiki.net/local--files/component:blacksite-theme/blackHeader.png);
+ 
+--WT-search-button-background: #000;
+--WT-search-button-hover-background: #111;
+--WT-search-input-color: #000;
+--WT-search-input-hover: #111;
+ 
+--WT-sidebar-header-color: #aaa;
+--WT-sidebar-hover-background: var(--nav-hover-background);
+--WT-sidebar-mobile-background: #111;
+ 
+--WT-sidebar-color: #777;
+--WT-topbar-dropdown-color: #777;
+ 
+--WT-page-title-color: #aaa;
+ 
+--WT-blockquote-background: #999;
+--WT-blockquote-border: 2px dashed #444;
+--WT-blockquote-border-radius: 0;
+--WT-blockquote-padding: 1px 10px;
+ 
+--WT-content-panel-border: none;
+--WT-content-panel-background: rgba(255,255,255,0.4);
+--WT-toc-background: #999;
+--WT-toc-border: 2px dashed #444;
+--WT-content-panel-border-radius: 10px;
+--WT-content-panel-padding: 15px;
+ 
+--WT-tabview-background: #999;
+--WT-tabview-button-selected-background: var(--nav-hover-background);
+--WT-tabview-button-hover-background: #625681;
+--WT-tabview-border: 2px dashed #444;
+--WT-tabview-button-selected-color: #eee;
+ 
+--WT-link-color: #3b17a6;
+--WT-new-page-color: #483a75;
+ 
+--WT-page-background: #999;
+--WT-page-padding: 15px;
+--WT-page-border-radius: 15px;
+ 
+--WT-header-text-visibility: hidden;
+--WT-header-custom-text: 'Black Site';
+--WT-header-tagline-custom-text: 'Jus Primae Noctis';
+ 
+--WT-header-tagline-color: #fff;
+ 
+--WT-content-box-border-color: #5f5f5f;
+ 
+--WT-sidenote-figure-closed-color: #fff;
+--WT-sidenote-figure-open-color: #fff;
+--WT-sidenote-open-background: #666;
+ 
+--WT-star-rating-background: #444;
+--WT-star-rating-border: 2px solid #666;
+--WT-star-rating-border-radius: 0;
+--WT-star-rating-box-shadow: none;
+--WT-star-rating-stars-box-shadow: none;
+--WT-star-rating-hue: 205deg;
+--WT-star-rating-filter: hue-rotate(var(--WT-star-rating-hue));
+ 
+--WT-open-themes-hover-color: #7652e1;
+--WT-basic-border-color: #444;
+ 
+--WT-table-header-background: #444;
+--WT-table-header-background-alt: #666;
+--WT-table-cell-background: #999;
+--WT-table-border: 1px solid #444;
+--WT-table-header-color: #aaa;
+ 
+--WT-content-bar-color: #ccc;
+ 
+--BT-open-themes-border: 2px solid #777;
+--BT-open-themes-background: #ddd;
+--BT-open-themes-color: #000;
+--BT-open-themes-hover-color: #3b17a6;
+--BT-open-themes-hover-border: solid 2px #7652e1;
+--BT-scrollbar-thumb-background: #39275a;
+--BT-scrollbar-thumb-hover-background: #342849;
+}
+[[/module]]
+[[=]]
++ LONG, SUSTAINED, AND INARTICULATE YELLING.
+[[/=]]
+[[=image REPENT.jpg size="medium"]]
+[[=]]
+[[html]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEBsQTKZFOE?si=by9DQbPPPIELXKTB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[[/html]]
+[[/=]]
+[[=]]
++++ FEAR MY THOUGHTS; OR, IDEAS I AM WORKING ON
+[[/=]]
+
+++++ [http://rpcsandbox.wikidot.com/incoherentscreeching MY 'MAGNUM OPUS'; OR, INCOHERENT SCREECHING]
+A load of old guff that I've had farting about in my brain for awhile that constituted an admittedly poor man's attempt at a singular narrative with characters, plot, and all that noise. Will probably end up being its own thing in addition to being shoehorned into the RPC metaverse at some point. 
+
+++++ A WHOLE NEW WORLD
+An extra-dimensional pocket universe that can be used to bop around the multiverse. 
+
+++++ A TOTALLY LEGITIMATE SERVICE
+A website that basically trolls people by deliberately getting their requests wrong. So, kind of like a genie/djinn or monkey's paw except comical/trickster rather than actively malevolent.
+
+++++ SCARED SHITLESS
+Almost forgot about this one. It originated from the whole troll site thing. Basically, the idea is that these are laxatives that result in a brief panic attack (3-5 seconds) that then causes the subject to completely evacuate the entire contents of their bowels. 
+
+++++ PRESIDENT IMMORTUS
+So, after watching season 4 of Doom Patrol, and noting similarities between criticisms of Warren Harding and Donald Trump, I thought, why not have them both be manifestations of the same inter-dimensional being? Half-man, half-politician. Could also be similar to the Occuria from FFXII, I suppose.
+
+++++ HUMANS ARE A MYTH
+I did have an idea whereby other species in the galaxy have kept the existence of humans a secret from their respective populations, on the grounds that humans are simply too terrifying. As such, the Sol system is basically a galactic exclusive zone maintained by the galactic version of the UN, and so most aliens think humans are a myth. 
+
+++++ [http://rpcauthority.wikidot.com/rpc-381 THORACIC PARK]
+An abandoned theme park/zoo containing animate dinosaur fossils that were maintained by replacing damaged portions with bits of human spine. 
+
+++++ [http://rpcauthority.wikidot.com/rpc-468 INVISISTEEL] 
+A material that is see-through that can render anything it covers invisible and also has other properties to aid in concealment. 
+
+++++ PANZERMENSCH
+A cyborg with armour reinforced with fibres of AB matter.
+
+++++ YE OLDE INTERNET
+So, there's this running joke about older people (i.e. Boomers and the Silent Generation) always going on about how things were 'back in [their] day', and younger folks tend to satirise that. Well, awhile ago, I thought 'what is the most ridiculous thing an old person could say?' and so I came up with: 'back in my day, the Internet was made out of wood!' and a whole rant about not being able to put 'the Internet' next to the stove lest it catch on fire. It only recently occurred to me that this might make a good RPC idea.
+
+++++ DESTRUCTO CUBES
+I had a dream about cubes that functioned as a vacuum and could somehow also be used to contain anti-matter. You could thus use them like grenades. 
+
+++++ POOR MAN'S RESURRECTION/ACCIDENTAL ORGAN SNATCHER
+Not really sure on what angle to go with this one, but I had an idea of someone who was an organ donor being resurrected. Either their previously donated organs get resurrected with them, and therefore put back, or they're missing their previously donated organs and need replacements. Either scenario seems like it would make a decent RPC. 
+
+++++ MONTEZUMA'S REVENGE
+I had a dream whereby I went back in time and had to convince Hernan Cortes and Montezuma to team up to help me defeat a transdimensional wizard in Scotland. There were dinosaurs and it involved airships and submersibles.
+
+[[=]]
+[[=image Orbis%20Non%20Sufficit.jpeg size="medium"]]
+[[html]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkMqZw_Rpys?si=wlG40Dmt89IzJ036" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[[/html]]
+[[/=]]
+

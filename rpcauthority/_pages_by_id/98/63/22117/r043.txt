@@ -1,0 +1,609 @@
+---
+title: "Nucorp Hub"
+tags: ["hub", "nucorp"]
+page_id: "986322117"
+site: "rpcauthority"
+slug: "nucorp-hub"
+revision: 43
+revision_id: "1545743338"
+author: 3099812
+timestamp: 1786029355
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:nucorp-industries-theme/code/1);
+[[/module]]
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+.headingImage img {
+    max-width: 100%;
+}
+
+@media (max-width: 768px) {
+    .portrait img {
+        width: 100%;
+    }
+
+    .portrait .image-container {
+        padding: 1em;
+        float: none;
+    }
+}
+[[/module]]
+
+> //As of the conclusion of Phase 3 of Project Portal, trans-dimensional observation suggests the Global Enterprise for Advanced Research to be the remnants of an alternate iteration of Nucorp Industries. Research is in progress: approved personnel may view Research Document ALTR-████-#889 (Neutralized-ALTR RD Site-002 folder) or request relevant authorities for further information.//
+>
+> //GoI file for GEAR has been attached to the Nucorp Industries database entry, under the "File B" sub-designation. Copy of a private entry link directed to GD-████ attached below.//
+> [[>]]
+>  -- A. Keegan - Site-002 4A Archivist
+> [[/>]]
+
+[[div class="content-box" style="border-color: #f50; background-image: url(http://rpcsandbox.wikidot.com/local--files/gear-templates/GEAR_Logo.png); background-position: 2%; background-size: 50px; background-repeat: no-repeat; padding-left: 10px;"]]
+= [http://rpcauthority.wikidot.com/gear-hub VIEW FILE B]
+[[/div]]
+
+
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[div class="whiteThemeInvert headingImage"]]
+[[=image https://rpcauthority.wdfiles.com/local--files/nucorp-hub/NucorpHeader4.png width="600px"]]
+[[/div]]
+
+[[div class="content-panel portrait"]]
+[[f<image https://rpcauthority.wdfiles.com/local--files/nucorp-hub/Portrait width="140px"]]
+
+//"History has shown time after time that humanity can only undertake a great change when a common threat befalls them. Wars have been fought, kings have been slain, and billions have fallen all in the name of survival... No more. I believe that humanity is capable of virtue, to live side-by-side in peace. I aim to create a world with no violence, to bring harmony, serenity, equanimity; a world with no boundaries."//
+@@@@
+@@@@
+—Lord Wilhelm van der Berg, Grandfather of Nucorp Industries (1867-1944)
+~~~~
+[[/div]]
+
+@@@@
+
+[[tabview]]
+
+[[tab Introduction]]
+‎
+[[div style="background: #000000; border: dashed 1px #858585; padding: 0px 15px 5px; margin: 0px 3%; background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**Damien van der Berg**
+@@ @@
+[[module ListUsers users="."]]
+[[span class="email"]] From: <@@damienberg@nucorpindustries.com@@> [[/span]]
+[[span class="email"]] To: <@@%%title%%@authority.rpc@@> [[/span]]
+[[span class="email"]] **Subject: __Welcome**__ [[/span]]
+[[/module]]
+[[/div]]
+------
+~~~~
+------
+[[collapsible show="Expand new message?" hide="Show Less"]]
+[[module ListUsers users="."]]
+Dear Director %%title%%,
+[[/module]]
+
+I want to offer my deepest condolences to the friends and family of the late GD-████. As was written in our contract, I have granted you an access key to our database. You may also make a copy of this database to be perused by your subordinates; of course, with certain redactions in accordance with your security clearances.
+
+With that being said, let me be the first to bid you welcome. Welcome to both your new role and to our continued partnership.
+
+We shall do great things together.
+
+[[>]]
+__**Damien van der Berg**__
+CEO & President
+Nucorp Industries
+[[/>]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+Nucorp Industries was officially founded in 1956 as a result of a merger between two corporate entities: Chelmsfordshire Iron Works, a shipbuilding company, and Nucorp Institute, a privately-funded consortium of researchers. Nowadays, we operate as a privately held, applied scientific research and development company with a strong focus on reverse-engineering anomalous objects into safe, useful products.
+
+From home appliances to small arms, supersonic aircraft to battleships, or even a simple consultation before you commit to a purchase, we have the means to meet every customer's wants and needs—all while drawing on knowledge gained from our research into the unknown.
+
+Discover how Nucorp Industries has evolved over the years from its humble beginnings into the global conglomerate we all know today. Journey through 120 years of remarkable accolades. Meet Lord Wilhelm van der Berg, the man who started it all, and discover how our household icons, such as the Phasegate™, came to be. With Nucorp Industries, we deliver the future at your doorstep.
+
+~~~~
+
++ Our Vision and Mission
+[[div class="left-column" style="padding: 1px 20px;"]]
+[[=]]
+[[size 125%]] **//"Dedicating our lives for the betterment of humanity; through trial and error, one experiment after another."//** [[/size]]
+[[/=]]
+
+Our founder has always believed that innovation and technological advancements can unite humanity around a common goal. As with wars, innovation grows exponentially when humanity works together.
+[[/div]]
+
+[[div class="right-column" style="padding: 1px 20px;"]]
+[[=]]
+[[size 125%]] **//"Making better worlds—perfect communities to live in and grow old together, safe and sound."//** [[/size]]
+[[/=]]
+
+Although Nucorp Industries has always striven for absolute innovation, our team still holds to our late founder's optimistic vision: to make the world a better place for humanity, free from senseless violence—a utopia, with their safety guaranteed.
+[[/div]]
+
+~~~~
+[[/tab]]
+
+[[tab A Brief History]]
+
++ Humble Beginnings
+
+Our Grandfather, Lord Wilhelm van der Berg, was born on June 5, 1867, and was an heir to a very wealthy merchant family. Growing up, Lord van der Berg listened to stories of how his father had supplied weapons to the Confederate States of America as a trading tool for their cotton. He'd often hear his father gloat about how they'd effectively prolonged the war to enrich themselves, all while wearing the same cotton the Americans had killed each other for on their backs.
+
+[[include component:image-block | align=left| width=280px | name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/Rennard.jpg | caption=//Rennard,// the premier clipper ship of the Lion Star Navigation Co.]]
+
+From then on, Lord van der Berg vowed never to perpetuate suffering, unlike his forefathers. He inherited his father's company and title as a Liveryman after his passing in 1899. He took no time to modify his merchant ships to instead ferry mail and passengers, effectively transforming his business into a transportation company and renaming it as the **Lion Star Navigation Company**.
+
+Lord van der Berg had also taken a more proactive role in the British government during this time, running for the Lord Mayor of London in 1901. He married his wife around this time, with whom he had a son named **Maximilian van der Berg**.
+
++ An Unlikely Investment
+
+As part of his political endeavors, Lord van der Berg frequented many colleges in London to scout for aspiring scholars and sponsor their research. Among these scholars, Lord van der Berg met with one, **Edward Nu**, during a thesis tribunal at the Royal College of Science.
+
+[[include component:image-block | align=right| width=250px | name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/EdwardNuBar.jpg | caption=Edward Nu (c. 1901).]]
+
+During the presentation, Nu presented a fresh red apple and two wicker baskets: one was placed right side up and the other upside down. He then dropped the apple into the right-side-up basket, and it immediately began dropping from the upside-down basket, albeit profoundly rotted.
+
+Edward Nu had just presented interdimensional travel, harnessing a naturally occurring burst of energy affectionately named **"Nu-particles"** at the time. The professors were, understandably, skeptical. When asked to repeat the demonstration, Nu stated that any repetitions with the experiment were impossible, since he had exhausted the last of his Nu-particles during the demonstration. With no way to replicate the experiment in a short window of time, the professors dismissed Edward Nu's demonstration as a con and promptly expelled him from the college. Fortunately, Lord van der Berg took both pity and interest in Nu's research, and he would eventually make a rather risky gamble and sponsor it.
+
+After this point, the two of them grew closer, both striving to deepen research into Nu-particles, hoping to one day invent a safe method for their use and ultimately revolutionize travel and transport. However, Edward Nu disappeared one day, and his body was never found, leaving only his research logs behind. Lord van der Berg, still hopeful that Nu-particles would be applied someday, poured a significant portion of his wealth into hiring scholars and establishing a research company in 1906 to continue research into Nu-particles, named **Nucorp Institute**.
+
++ Outbreak of War
+
+With the outbreak of the First World War and reports rolling in of German cruisers targeting British ships, regardless of their status as a naval or civilian entity, Lord van der Berg began to downsize his fleet, fearing innocent lives might be caught in the crossfire. By May 1915, he had sold most of his passenger ships to the Royal Navy for retrofitting as hospital ships, with some even becoming armed cruisers.
+
+However, as he was still not satisfied with the safety of British ships in the waters of Dover, Lord van der Berg ultimately decided to pivot solely into the shipbuilding business. On June 19, 1916, Lord van der Berg had sold off the last of his ocean liners and bought a plot of land in Chelmsford, UK, to establish the new headquarters of his shipbuilding company, the **Chelmsfordshire Iron Works**.
+
+[[include component:image-block | align=center| width=650px | name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/Chelmsfordshire.jpg | caption=Former headquarters of the Chelmsfordshire Iron Works.]]
+
+The transformation of his business had proven quite expensive. As such, Lord van der Berg quickly sold off his sponsored research, patents, and inventions, almost outright shutting down Nucorp Institute, scrapping the research into Nu-particles, and selling off the findings. He also began training his son, Maximilian, to take over the recently transformed shipyard business as he sought to live far away from the conflict.
+
+The van der Bergs' business remained stagnant well after the conclusion of the Spanish Civil War. During this time, Lord van der Berg had grown ill due to old age. However, he strived to sponsor one last research project before his passing.
+
+Lord van der Berg ultimately visited the Kaiser Wilhelm Society for the Advancement of Science in 1939 and read the paper published that day regarding the evidence of a nuclear fission reaction. He immediately jumped on the opportunity and directed the long-stagnated Nucorp Institute scholars to research everything about this discovery—pouring the last bit of his personal wealth along the way.
+
+While others worked to build a nuclear bomb, Lord van der Berg instead built a nuclear power reactor. His last wish was then realized in 1942, in the form of the first-ever evidence of a nuclear fission reaction in Chicago. Unfortunately, Lord van der Berg passed away shortly thereafter during the closing stages of the Second World War in 1944.
+
+After the conclusion of the Second World War, Lord van der Berg's son, Maximilian, planned to shutter Nucorp Institute for good in an attempt to bolster his increasingly lucrative shipbuilding business. The scientists within the Institute were left neglected, with many ultimately quitting to pursue their own avenues.
+
++ Authority Figure
+
+[[include component:image-block | align=left| width=280px | name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/MaximilianBar.jpg | caption=Maximilian van der Berg, 1953.]]
+
+The success of both forms of nuclear fission (power generation and mass destruction) attracted Authority officials to hire the scientists behind the inventions. After interviewing numerous current and former Nucorp Institute scientists, they instead found that most of them were involved with the almost-forgotten research into Nu-particles.
+
+The Authority then offered Maximilian van der Berg the chance to partner with Nucorp Institute as a whole rather than salvage the scientists individually. However, the partnership contract also stipulated manufacturing capabilities that Nucorp Institute lacked.
+
+Research notes on Nu-particles gave Maximillian van der Berg significant leverage in the contractual negotiations and practically gave him an offer he could not possibly refuse. As such, he combined the research capabilities of Nucorp Institute with the manufacturing knowledge, machinery, and factories of his shipbuilding company into a single entity: **Nucorp Industries**.
+
+Partnership between the Authority and Nucorp Industries was formalized on November 9, 1956. While Nucorp Industries provided advanced research and development, the Authority provided funding, security, and consultancy on the anomalous world.
+
++ Securing Footholds
+
+From here on out, Nucorp Industries worked tirelessly day after day to establish new research and manufacturing plants across the world. Partnerships were formed, companies were taken over, and countless projects were commissioned over the years. At the same time, funding and advisory from the majority stakeholder, the Authority, had allowed us to strengthen our research division.
+
+As Nucorp Industry operates in a veiled world, any contracts outside the Authority must be approved by an independent oversight board. Nevertheless, mass-manufactured products using knowledge gained from reverse-engineered anomalies (e.g., microchips) have since proven to be a lucrative business for Nucorp Industries.
+
++ Nu-Nucorp
+
+The funding and advisory provided by the Authority had proven fruitful for the research into Nu-particles. On October 9, 1972, a Nucorp scientist successfully developed a safe method of travel within the greater inter-reality world, the **GS-1 Phasegate**.
+
+Expeditions undertaken by trained professionals began just a few months after the first successful test firing of the Phasegate. While the dimensions explored during the expeditions had proven quite dangerous, with a few confirmed fatalities due to environmental factors, the Phasegate has since proven itself safe, and the data gained were verifiably priceless.
+
+Nucorp explorers had found a dimension seemingly made entirely of bare concrete floors stretching into infinity, yet with a breathable atmosphere. This dimension proved to be the perfect medium for transporting both people and cargo, as it operates on a higher-dimensional plane of energy than ours, stretching the distance traveled.
+
++ Global Conglomerate
+
+Today, Nucorp Industries has evolved into the international powerhouse that we all know. We had since developed numerous products from humble household appliances to lumbering giants like the **'Oluja' Tilt-Engine Aircraft**. Access to numerous research facilities and manufacturing installations across the globe enabled the rapid deployment of new technologies into our customers' hands.
+
+Research into Nu-particles and the inter-reality world is still active; new avenues await discovery. Nucorp Industries had also planned to eventually commercialize the Phasegate™ for the general public, ultimately revolutionizing travel and transport just as our Grandfather, Wilhelm van der Berg, once dreamed.
+
+[[/tab]]
+
+[[tab For Investors & Partners]]
+
++ Investment Opportunities
+
+As Nucorp Industries is not publicly traded, we have implemented a selection and screening process for potential investors. You may also be chosen to join our exclusive Investors' Club through our partner and subsidiary connections.
+
+Please know that our partner and majority stakeholder, the Authority, limits us on which investors and partners we can induct based on their standing with them.
+
++ Commissioned Projects, Partnerships, and Subsidiaries
+
+If you or your company has been inducted into our Investors' Club, you may submit a request form for an audience with our many Project Managers for professional consulting for whichever projects you may wish us to undertake.
+
+If your company wishes to partner with us, or many of our subsidiaries, or even become one of our subsidiaries, you may submit an audience request form to one of our Inter-Company Relations Officers and go through the approval process.
+
+[[size 125%]] **We Welcome Any Background**[[/size]]
+Several members of an Engineer cult have inserted themselves into our hierarchy. There are, at most, two or three dozen of them, with most holding high-ranking administrative positions. 
+
+Some were cultists at the time they were hired, while others were indoctrinated due to their importance within the company. With access to our advanced technology, the followers of the Engineer hope to gain an edge over their rival, dangerous Nihilist sects in spite of their lesser numbers.
+
++ Career Opportunities
+
+Know someone who might have the skills and motivations necessary to work with us? Notify our Human Resources Officers and receive a commission for up to 50% of each recruit's first month's salary.
+
+If you'd like to work for us, please use the career portals on job search engines and recruitment platforms.
+
++ Why Us?
+
+[[size 125%]] **World Leading Anomalous Research Consortium** [[/size]]
+
+Nucorp Industries is currently the best-equipped anomalous research & development company, staffed with the most experts in their respective fields.
+
+[[size 125%]] **Certified Anomaly Reverse-Engineering and Manufacturing Plant** [[/size]]
+
+Nucorp Industries has been able to safely research and exploit anomalous objects and phenomena to their fullest potential, thanks to advancements in safety measures. As such, we have the means to manufacture both safe-to-use products and even our own anomalies, kickstarting centuries of research and development.
+
+[[size 125%]] **Secure International Assets** [[/size]]
+
+Of course, the anomalous assets we work with are inherently dangerous to the general public. As such, we have contracted highly trained private security personnel with the best track records to protect our assets, both domestic and international.
+
+
+[[/tab]]
+
+[[tab Newsroom]]
+
+> + Hong Kong 'TECHSPO' to unveil new travel & transport breakthrough by Nucorp Industries
+>
+> June 13, 2026
+> Nucorp Industries CEO announced during a keynote session about their involvement with the upcoming 'TECHSPO' held in Hong Kong later this month. "Be prepared to feast your eyes upon the future of travel and transport," says Damien van der Berg... (Read More)
+
+----
+
+> + Anomalous components for civilian cars? 'Groundbreaking,' says Nucorp analyst
+>
+> April 30, 2026
+> As full self-driving cars are getting more and more prevalent, the need for powerful computers skyrockets amid shortages in memory chips. Nucorp industry analyst Harold Marko proposes radical new 'synthetic brains' to car manufacturing giant... (Read More)
+
+----
+
+> + 'Oluja' transport aircraft takes to the skies
+>
+> May 1, 2018
+> The radical new tilt-jet 'Oluja' personnel transport aircraft takes its first flight over Homey Airport, Nevada, despite controversies regarding the reliability of tilt-engine aircraft. "Preposterous!" says aviation engineer Robert Newey. "No way this won't end in... (Read More)
+
+----
+
+> + 'Compound 335' opens Pandora's Box on ethical discussions
+>
+> August 13, 2008
+> Nucorp Industries' new TN-335 patent promises to revolutionize crime fighting by introducing 'zero-consequence' torture to suspects in custody. 'It only stimulates the part of the brain that processes pain; it doesn't actually do any damage,' says Nucorp's head scientist for the project... (Read More)
+
+----
+
+> + The United Nations strongly condemns Nucorp's research into inter-reality tech
+>
+> January 19, 1984
+> As tensions arise between the world's anomaly agencies, the United Nations has begun cracking down on unauthorized and dangerous research and experimentation into anomalous technologies. 'For the safety of humanity,' as stated in the UN's letter of condemnation for... (Read More)
+
+----
+
+> + Who are the 'GEAR'?
+>
+> May 19, 1980
+> A group of Nucorp managerial officers returning from their own Phasegate has declared itself as the rightful owners of Nucorp Industries. Nucorp CEO Nicolaus van der Berg attempted to avoid a hostile takeover and instead supported the group to establish itself as an independent company known as the Global... (Read More)
+
+----
+
+> + 'Phasegate' to revolutionize travel in the near future
+>
+> February 19, 1972
+> After years of research, Nucorp finally unveils its new 'trans-reality phasegate' that will soon allow travel into other realities. "Of course, we would still need to conduct expeditions and even establish a foothold into these unknown realities," says Nucorp CEO, Maximilian... (Read More)
+
+----
+
+> + Shipbuilding company and research institute merger for a partnership deal?
+>
+> November 9, 1956
+> Business conglomerate Maximillian van der Berg merges his shipyard company and his father's inherited research institute as part of a partnership deal with industry giant RPC Authority. 'It was arguably one of the more bizarre propositions I've had that I couldn't possibly refuse,' says... (Read More)
+
+[[/tab]]
+
+[[tab Our Portfolio]]
+
++ GS-1 Phasegate
+
+[[include component:image-block | align=center| width=650px | name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/Phasegate | caption=MGS-1, prototype of a mobile deployable iteration of the original GS-1 Phasegate.]]
+
+The GS-1 Phasegate (known internally as Project 13) is an apparatus that allows travel into the greater inter-reality world using supercooled, superpositioned Nu-particles. Discs containing liquefied Nu-particles are arranged in a circle around one another, then spun at high rotations while being cooled to a fraction of a degree above absolute zero. Centripetal force causes the Nu-particles to superpose within the discs' parameter, thus providing a solid foundation for a portal.
+
+Destinations may be selected by adjusting the discs' rotational forces and tuning them to specific gravitational loads. In contrast, specific spatial points within the destination may be adjusted by locally altering the temperature within specific discs to varying degrees, creating hotspots that correspond to the Cartesian coordinate system.
+
+One way to use the greater inter-reality world to travel within our universe is to find a dimension with higher "planar energy" than ours. This planar energy can be explained similarly to how gravity works. For example, a ball resting atop a cliff would have a higher potential energy than one that rests in a valley, and if pushed, would naturally fall towards the valley. The same logic can be applied to a dimension with a greater planar energy; the same distances traveled within that dimension would be shorter compared to ours. Any object that travels within it would essentially be "falling sideways" into our universe. The inverse effect would apply if it were a dimension with a weaker planar energy than ours.
+
+The initial explorations of new inter-reality destinations must be conducted in a hermetically sealed chamber to prevent environmental, biological, or chemical incidents. Mobile versions of the Phasegate must have their destination and spatial selection pool locked to verified lists only.
+
+[[collapsible show="[+] Development History" hide="[-] Development History"]]
+
+Inter-reality travel was first discovered in 1906 by Edward Nu during his thesis presentation at the Royal College of Science. During that time, inter-reality travel was restricted to a far more primitive and dangerous form, as metallurgical knowledge and materials science had not yet advanced beyond their rudimentary stages.
+
+A primitive form of inter-reality travel utilizing Nu-particles may be achieved by first condensing Nu-particles into a slurry, casting them into discs, and cooling them as low a temperature as possible. Inter-reality travel using this method is only possible if the discs are cooled to below -12 °C; however, it is extremely dangerous, as there is no tangible way to select a destination or specific points in space.
+
+Full-scale development of broader inter-reality travel only began in 1956, a few months after Nucorp Industries was formally established, with the primary goal of developing a safe travel method capable of selecting specific destinations. The project was officially designated as **Project Prima Via**, which produced the GS-1 Phasegate and was first operational on September 12, 1972.
+
+Further development of the Phasegate project has produced the MGS-1 Mobile Phasegate (designated internally as Project 13B), a smaller, mobile, deployable version designed for exterior or emergency use. It has the same fundamental components as its parent version, albeit with a simplified construction to reduce cost and complexity and a restricted destination selection pool. This mobile model is also intended for eventual mass commercial use, with an additional development target to ensure maximum safety and reliability.
+
+[[/collapsible]]
+
+[[collapsible show="[+] Dimension Eridani 9/58" hide="[-] Dimension Eridani 9/58"]]
+
+Eridani 9/58 (discovered March 14, 1999) is a designation for a dimension seemingly made out of an infinite plane of bare concrete flooring. Yet, it possesses an atmosphere with air pressure and material composition similar to Earth's. Eridani 9/58 is lit by a seemingly stationary source of light in the sky that keeps the dimension at a perpetually hospitable temperature of 23 °C, albeit constantly obscured by a thick water-based fog.
+
+Extensive research and exploration into this dimension have found no tangible threats to human life, save for a lack of water or other biological materials to sustain it. This dimension is also at a significantly higher planar energy level than Earth's, making it suitable for travel and transportation. Findings suggest that for every 1 meter traveled within Eridani 9/58, 798.12 meters would have been traveled on Earth.
+
+Construction for transportation infrastructure (such as railways) has begun after expeditionary teams have given the all-clear signal and seismographic analyses have found no underground abnormalities. Eridani 9/58 will be the primary means of the mass commercial adoption of inter-reality travel and transport.
+
+[[/collapsible]]
+
+----
+
++ [http://rpcauthority.wikidot.com/vtol-4-oluja 'Oluja' Tilt-Engine Personnel Transport & Reconnaissance Aircraft]
+
+[[include component:image-block | align=center| width=650px | name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/Oluja2.jpg | caption=Project 150 'Oluja' original blueprints.]]
+
+The Oluja (known internally as Project 150) is a multi-role tiltjet personnel transport and cargo aircraft with both vertical takeoff and landing (VTOL) and short takeoff and landing (STOL) capabilities. It is designed to combine the loitering and personnel deployment capabilities of a helicopter with the range, speed, and superior cruising performance of a conventional turbofan aircraft.
+
+[[collapsible show="[+] Development History" hide="[-] Development History"]]
+
+The idea for a tiltjet personnel transport aircraft was conceived in 1994 after Authority representatives approached Nucorp Industries' Aerospace division to commission a small, lightweight aircraft that could facilitate the rapid deployment of their agents to hostile areas.
+
+The first concept designs for the Oluja were for a tiltrotor aircraft more akin to popular models already on the market. However, Authority representatives were insistent that the aircraft must sustain more than 600 km/h during normal cruise and reach a top speed of over 900 km/h at full power.
+
+The speed requirements automatically rule out a rotor design, as high-speed rotor vortices can produce significant turbulence and vibration, leading to airframe damage. Subsequent designs utilize non-afterburning turbofan engines, significantly increasing the aircraft's top and cruising speeds.
+
+However, because tiltjet designs require the engines to be mounted high on the wingtips and the aircraft must generate sufficient lift at low speeds, the wings must be both thick and straight. Here, another problem is introduced: the wave and induced drag from the wings' shape and thickness limit their cruising and top speeds.
+
+One way to alleviate this problem is to use a swept wing; however, such a design would instead introduce a forward pitching moment, as the heavy engines must be placed further back relative to the airframe. Another way is to use a variable-sweep wing. Again, this design introduces more drawbacks than advantages due to the aforementioned pitching moment and the heavier components required for the wing's sweeping mechanism.
+
+Ultimately, Nucorp engineers settled on using the simpler straight wings, albeit with a thinner airfoil, and a liberal addition of high-lift devices (such as flaps and slats) to produce more lift at low speeds. The projected design would give the aircraft a cruising speed of Mach 0.63 (716 km/h) at 7,000 m and a top speed of Mach 0.85 (913 km/h) at sea level.
+
+The prototype of the Oluja took flight on May 1, 2018, above Authority's Site-002 Airspace & Test Range in Nevada, USA. The test flight was also witnessed by several outside parties acting as part of Nucorp's Investors' Club invitational event. Widespread scrutiny of the aircraft's reliability, given its tiltjet design, quickly emerged, with the majority of investors turning away due to the risk. However, the Oluja's test flight was enough to impress the RPC Authority officials. The first Oluja unit to be received by the Authority's MST agents was delivered on August 17, 2021.
+
+[[/collapsible]]
+
+[[collapsible show="[+] Specifications" hide="[-] Specifications"]]
+
++++ General Characteristics (Oluja CGR.4)
+
+* **Crew:** 2
+* **Capacity:**
+ * 8 (seated), or 12 (floor loaded)
+ * 500 kg of internal cargo
+* **Length:** 16.4 m
+* **Width:** 17.42 m
+* **Wingspan:** 15.2 m
+* **Height:**
+ * 3.86 m over tail fins
+ * 5.24 m with nacelles vertical
+* **Wing Area:** 15.7 m^^2^^
+* **Empty Weight:** 5,121 kg
+* **Gross Weight:** 7,513 kg
+* **Max Takeoff Weight:** 8,573 kg
+* **Fuel Capacity:** 3,000 L (2,392 kg) internal
+ * 2x 450 L (358 kg) drop tanks for combat
+ * 2x 1,500 L (1,183 kg) drop tanks for ferry
+* **Powerplant:** 2× Nucorp Nu-MINA Type II/V high-bypass turbofan engines, 41 kN thrust each, 45 kN with water injection
+
++++ Performance
+
+* **Maximum Speed:** Mach 0.85 (913 km/h) at sea level
+* **Maximum Cruise Speed:** Mach 0.63 (716 km/h) at 7,000 m
+* **Never Exceed Speed:** 1,000 km/h IAS
+* **Range:** 721 km
+* **Ferry Range:** 2,452 km
+* **Service Ceiling:** 14,910 m
+* **Rate of Climb:** 210 m/s
+* **Wing Loading:** 193.8 kg/m^^2^^
+* **Thrust/Weight:** 1.03 at maximum take-off weight with water injection
+
++++ Armaments
+
+* **Guns:** 2x Nexter 20mm M621 autocannons
+* **Hardpoints:** 6 total: 2x under-wing AAM launch rails and 4x under-wing pylon stations with provisions to carry combinations of:
+ * **Rockets:**
+  * 12x LAU-61 rocket pods (each with 19x General Dynamics Hydra 70mm rockets)
+  * 12x LAU-68 F/A rocket pods (each with 7x BAE AGR-20 APKWS II rockets)
+ * **Missiles:**
+  * Air-to-air missiles
+   * 4x Raytheon AIM-92 Block I ATAS
+   * 2x Loral AIM-9P-5 Sidewinder
+   * 2x Diehl IRIS-T
+   * 2x Vympel R-73E (with APU-73 adapter)
+   * 2x Denel R-Darter
+  * Air-to-surface missiles
+   * 16x Lockheed AGM-114K Hellfire II
+   * 12x MBDA Brimstone 
+   * 12x KBP 9K121 Vikhr (with APU-6 adapter)
+ * **Bombs:**
+  * 8x General Dynamics Mk 81 (unguided and retarded variants)
+  * 4x General Dynamics Mk 82 (unguided and retarded variants)
+  * 4x Boeing GBU-38(V)5/B JDAM
+  * 4x Raytheon Paveway IV
+  * NPO FAB-250 M-62 (with APU-68 adapter)
+ * **Others:**
+  * Cobham plc RR-184 chaff dispenser
+  * Elettronica Aster 55mm MJU-52 / B flare dispenser
+  * Saab BOL-510 Behind-of-Launcher chaff/flare dispenser
+  * Rafael AN/AAQ-28 Litening targeting pod
+  * 2x pintle mounts for
+   * 7.62mm FN M240B machine guns, or
+   * 12.7mm FN GAU-21 heavy machine guns, or
+   * 12.7mm Fulcrum GAU-19 rotary heavy machine guns
+
++++ Avionics
+
+* Leonardo Grifo-E AESA Radar
+* Leonardo Praetorian DASS ESM-RWR Radar Warning Receiver
+* Leonardo Praetorian DASS LWR Laser Warning Receiver
+* Elettronica X-Eye Electronic Warfare Suite
+* Leonardo Praetorian DASS MAW Missile Approach Warner
+* Ariel Mk II TRD Towed Radar Decoy
+
+[[/collapsible]]
+
+----
+
++ Maximillian Mirror
+
+[[include component:image-block | align=right|
+ name=photograph| name=https://rpcauthority.wdfiles.com/local--files/nucorp-hub/photograph.jpg |
+ caption=The first successful photograph taken through a Maximillian Mirror device. Taken in 4/22/2008, projected to 4/22/1908.
+]]
+
+The Maximillian Mirror (known internally as Project 703) is an electronic device connected to a 0.5mm foil of transparent, cubic, anomalous silicate crystal (named Analepsite) native to ███████████ 1/94 that, when interacting with an electric current, alters refractions passed through itself to display a past iteration of the area being refracted. The Maximillian Mirror is designed to use the properties of analepsite to alter pictures taken through chemical processing, as image sensors do not capture the effect. The device itself contains a screen and a numbered input keyboard calibrating the electric pulse sent through the foil covering the lens of the camera; an earlier date correlating with a higher discharge.
+
+It should be noted that the analepsite foil has a limited use, as the electric discharge gradually damages the crystal, producing microfractures at first and breaking apart after extended use. The thinnest produced analepsite foils can withstand 7-9 photographs, while the widest foils (though materially intensive) can reliably produce 20 photographs before cracking.
+
+[[div style="border: var(--blockquote-border); color: var(--text-color); background: var(--blockquote-background); border-radius: var(--blockquote-border-radius); padding: var(--blockquote-padding); box-shadow: var(--blockquote-box-shadow); margin: 0px 50px 0px 50px; padding: 3px 20px;"]]
+
+· __**NOTICE:**__ Science teams assigned to Project 703 are advised that analepsite is a deeply scarce resource due to its methodical extraction and extradimensional origin; Maximillian Mirror photographs should be taken sparingly and both originals and copies should be handled with the utmost care. Losses (such as the incident regarding the missing archives during the "30th Decennial Research World's Fair") will not be treated lightly.
+
+[[/div]]
+
+----
+
++ TN-335 Psychoactive Agent
+
+Nucorp Patent TN-335—also known as Compound 335—is a psychoactive agent that comes in pre-filled, disposable plastic injectors commonly used in cases requiring advanced interrogation techniques. TN-335 is packaged in a hermetically sealed fiberglass case containing the following items:
+
+* 3x ##red|TN-335## injector (red needle cover)
+* 5x ##green|SL-973## Antipsychotic injector (green needle cover)
+* 1x Stainless steel bite block
+* 1x Leather straitjacket (one size fits all)
+* 3x Ratchet straps (webbed polyester straps, steel buckle)
+* 1x Field guide
+
+[[include component:image-block | align=right| width=195px | name=http://rpcsandbox.wdfiles.com/local--files/hellsverg-fifth/TN335 | caption=TN-335 chemical structure.]]
+
+SL-973 is a neuroleptic medication used to nullify the effects of TN-335, which can be used before or after the injection of Compound 335. SL-973 injectors are similar in both structure and mechanism, with the only defining difference being the green safety cap rather than the red one on TN-335 injectors.
+
+Both TN-335 and SL-973 injectors feature a needle cover that automatically extends after use and a time-released extermination solution to remove traces of the compounds that may remain inside the injector. TN-335 and SL-973 injectors do not bear distinguishing markings and are safe to discard in public disposal units. Wipe down used injectors thoroughly to remove residual DNA and fingerprints, and always recycle.
+
+TN-335 and SL-973 compounds are shelf-stable and are suitable for use 10 years after the listed production date. Always check the expiry date before use, and return any expired injectors to Authority Biochemical Unit personnel or Nucorp Industries representatives. Place any unused TN-335 and SL-973 injectors back in the case. Store in a cool and dry place out of direct sunlight.
+
+**NOTE:** TN-335 should only be administered by MST Sierra-8 ("Sundowners") investigators or qualified personnel carrying certification for Sensitive Medications and Treatments – 2006 (SMT/06). Do not attempt Compound 335 administration without qualified personnel.
+
+**NOTE:** In the case of spillage, TN-335 compound vapors can induce mild effects if inhaled. If you encounter a broken TN-335 vial and/or injector, or suspect there has been a spillage, vacate the area immediately and contact the Authority's Biochemical Unit. The brevity code for TN-335 spillage is **"Nightmare."**
+
+[[collapsible show="[+] Directions" hide="[-] Directions"]]
+
+++ **Directions:**
+
+[[div style="background: #212121; border: dashed 0.5px #666666; background-position: 50% 75%; color: #C0C0C0; background-repeat: no-repeat; background-size: 175px; border: solid 2px #666666; margin: 0px 50px 0px 50px; padding: 5px 10px; color:"]]
+
+[[=]]
+++ ##red|**DO NOT USE INJECTORS IF SEAL IS BROKEN**##
+[[/=]]
+
+[[/div]]
+
+TN-335: ##red|RED## needle cover
+SL-973: ##green|GREEN## needle cover
+
+# Grasp ##red|TN-335## injector with the red needle cover pointed downwards
+# Remove blue safety cap and position thumb on the ridged button¹
+# Position the red needle cover directly on the subject's exposed skin
+# Press the button until it clicks, and hold the injector in place for 5 seconds
+# Subject will lose consciousness within 10 seconds of injection
+# Prop subject with the leather straitjacket and steel bite block
+# If necessary, use the ratchet straps to hold the subject in place
+# Subject will remain unconscious for approximately 30 minutes
+# Inject subject with ##green|SL-973## antipsychotics if you wish to abort²
+# Interrogate subject as necessary
+
+¹ Each TN-335 injector features a fiberglass safety membrane rated for 5 lbs of force to prevent accidental injections. Should the need arise, the fiberglass membrane can be discarded by pulling the plastic tab until you hear a click. The membrane will shatter, and the injector can be used without resistance.
+
+² The administrative procedure of Compound SL-973 is similar to that of Compound 335. SL-973 is effective at aborting the effects of Compound 335 if administered 1 hour before the injection or within 30 minutes of the injection.
+
+[[div style="background: #212121; border: dashed 0.5px #666666; background-position: 50% 75%; color: #C0C0C0; background-repeat: no-repeat; background-size: 175px; border: solid 2px #666666; margin: 0px 50px 0px 50px; padding: 5px 10px; color:"]]
+
+[[=]]
+++ ##red|**DO NOT INJECT MORE THAN 1 DOSE EVERY 5 MINUTES**##
+[[/=]]
+----
+Oversaturation of Compound 335 can send the subject into shock and permanently damage the brain. Signs of an overdose include:
+* Increased heart rate
+* Dilated pupils and photosensitivity
+* Incoherent speech
+
+[[/div]]
+@@ @@
+
+[[/collapsible]]
+
+[[collapsible show="[+] How It Works" hide="[-] How It Works"]]
+
+++ **How it Works:**
+
+Compound 335 manipulates the chemical balance in the subject's occipital lobe and nervous system to induce visual hallucinations and extreme pain, respectively. The Compound can be divided into 4 different stages, namely:
+
+* **Stage 1: Controlled Unconsciousness.** The Compound first acts as a general anesthesia by blocking the electrical signals from traveling to the subject's brain. This neurochemistry allows interrogating personnel time to prepare the subject for restraint.
+* **Stage 2: Cortex Stimulation.** The Compound then stimulates the subject's insular cortex and secondary somatosensory cortex, thereby inducing extreme pain.
+* **Stage 3: Visual-Auditory Hallucinations.**
+* **Stage 4: Shock.**
+
+Thorough research found no evidence of long-lasting psychological effects when the compounds are administered as directed (one dose every 5 minutes, up to 3 doses within a 24-hour timeframe). However, subjects may suffer injuries as an indirect effect of the TN-335 injection, such as suicide.
+
+**Known Issue:** Subjects diagnosed with ADHD/ADD exhibited negated psychotic effects of Compound 335.
+
+[[/collapsible]]
+
+[[collapsible show="[+] UNAAC Common Article 3 Controversy" hide="[-] UNAAC Common Article 3 Controversy"]]
+
+++ **UNAAC Common Article 3 Controversy**
+
+On July 23, 2013, UNAAC representatives visited the Nucorp Industries' Biochemical Research & Development Facility in Langley, VA, to assess compliance with products and equipment standards. They found the TN-335 project to be "cruel and unusual", and later issued a statement condemning the use of TN-335 in interrogations.
+
+As stated previously, thorough research has found no direct link between physical damage from TN-335 injections. However, the UNAAC stated that subjects carrying the memory of the experience violated Common Article 3, which prohibits cruel and unusual punishment.
+
+[[div style="border: var(--blockquote-border); color: var(--text-color); background: var(--blockquote-background); border-radius: var(--blockquote-border-radius); padding: var(--blockquote-padding); box-shadow: var(--blockquote-box-shadow); margin: 0px 50px 0px 50px; padding: 3px 20px;"]]
+
+//We do recognize the lack of any physical damage to persons undergoing Compound 335 administration. However, those same people do carry the memory of the inhumane treatments the Compound had subjected them to. It is no different than, say, a soldier being traumatized by the torture his enemy had put him through during captivity, even though his wounds had long since healed. The trauma is still there.//
+[[>]]
+— Leopold Schröder, UNAAC Ethics Director
+[[/>]]
+
+[[/div]]
+
+As such, all TN-335 compounds produced in January 2014 onwards include additional compounds that target the subject's hippocampus to prevent memory consolidation; subjects undergoing TN-335 treatment will lose the memory of the experience approximately 1 hour after injection.
+
+[[/collapsible]]
+
+----
+
+[[/tab]]
+
+[[/tabview]]
+
+----
+[[=]]
++ **Nucorp-Authority Joint Projects**
+[[/=]]
+----
+[[module ListPages separate="no" tags="+nucorp +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+----
+[[=]]
++ **Documents Archive**
+[[/=]]
+----
+[[module ListPages tags="nucorp -rpc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
+[[/div]]
+

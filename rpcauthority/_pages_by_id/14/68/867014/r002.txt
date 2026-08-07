@@ -1,0 +1,41 @@
+---
+title: "_rumor Template Base"
+tags: []
+page_id: "1468867014"
+site: "rpcauthority"
+slug: "_rumor-template-base"
+revision: 2
+revision_id: "1544764987"
+author: 5982545
+timestamp: 1781993823
+---
+
+[[module CSS]]
+@import url({$theme});
+
+#page-title { margin-bottom: 1.22em; }
+#breadcrumbs { display: none; }
+.fakeBreadcrumbs {
+    position: relative;
+    bottom: 30px;
+    margin-bottom: -30px;
+}
+
+@media (max-width: 768px) {
+    .fakeBreadcrumbs { font-size: 1.111em; }
+}
+[[/module]]
+
+[[div class="fakeBreadcrumbs"]]
+[[[terrible-trio-event#submissions|Terrible Trio]]] » %%title%%
+[[/div]]
+
+%%content%%
+
+[[div class="blockquote" style="text-align: center;"]]
+Please let us know if you can confirm this rumor.
+[[div style="display: flex; justify-content: center;"]]
+[[module Rate]]
+[[/div]]
+[[/div]]
+

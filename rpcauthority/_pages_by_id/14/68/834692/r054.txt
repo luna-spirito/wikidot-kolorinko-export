@@ -1,0 +1,758 @@
+---
+title: "RPC-912"
+tags: ["beta", "co-authored", "organic-hazard", "regenerative-hazard", "rpc", "sapient-hazard", "sensory-hazard", "utility", "yellow"]
+page_id: "1468834692"
+site: "rpcauthority"
+slug: "rpc-912"
+revision: 54
+revision_id: "1545646432"
+author: 7013424
+timestamp: 1785661388
+---
+
+[[span class="listresize"]]Cerebral Motility[[/span]]
+
+[[module CSS]]
+:root {
+   --v1: none;
+   --WT-v1: invert(.4);
+}
+.oirs-notice {
+   position: relative;
+   width: 85%;
+   color: var(--open-themes-background);
+   border: dashed 4px var(--content-box-border-color);
+   padding:1px 15px;
+   margin: 10px 40px;
+   background: var(--primary-background);
+   z-index: 1;
+}
+.oirs-notice::before {
+   content: "";
+   position: absolute;
+   top: 0; left: 0; width: 100%; height: 100%;
+   z-index: -1;
+   background: url('http://rpcsandbox.wikidot.com/local--files/for-sheepsy/OIRS-transparent.png') center/200px no-repeat;
+   filter: var(--v1);
+}
+
+@media screen and (max-width: 480px) {
+  .oirs-notice {
+    display: inline-block;
+    float: none;
+    width: 85%;
+    padding: 1px 15px;
+    margin: 10px;
+  }
+}
+
+/* mobile support */
+@media screen and (max-width: 480px) {
+  .responsive-container {
+    width: 100%;
+    font-size: 0.8em;
+    transform: translate(-80px, 0px)!important;
+  }
+}
+}
+[[/module]]
+[[div class="oirs-notice"]]
+[[=]]
+[[span style="color:red"]] [[size 120%]]**__NOTICE FROM THE OIRS ARCHIVAL COMMITTEE__**[[/size]] [[/span]]
+-----
+**This is a general notice informing all staff that the following document is outdated and awaits a review of its contents. Please contact your assigned Containment specialist for the latest update on protocols.**
+
+**Modification of the designated subject is pending updates from the Office of Information Records and Security.**
+-----
++++ 29/04/2019
+[[/=]]
+[[/div]]
+[[div style="float: left; margin: 0 -20px 0 0;"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/ttpy-object-class/Beta-Yellow.png style="width: 70px"]]
+[[image http://rpcauthority.wdfiles.com/local--files/widget-hub//utility.png style="margin: -30px 45px; height: 45px"]]
+[[/div]]
+
+**Registered Phenomena Code:** 912
+
+**Object Class:** ##FFE100|Beta-Yellow## (##2B7FFF|Utility##)
+[[include component:hazards top-spacing=none|sapient=show|organic=show|sensory=show|regenerative=show]]
+
+----
+**Containment Protocols:** RPC-912 is to be contained at [http://rpcauthority.wikidot.com/site-031 Site-031-1] in a specialized humanoid containment cell within the personnel facility. The cell’s interior is to be clad with 2 cm thick lead panels for soundproofing. RPC-912 is granted limited roaming privileges under the supervision of at least one IB-280 ASF officer. During this time, RPC-912 is prohibited from extending its nerve filaments, which must remain styled in tightly bound arrangements to prevent accidental contractions.
+
+If RPC-912 enters its nesting phase outside its cell, containment personnel equipped with industrial gloves are to pick and dolly the subject back into its containment cell. Under no circumstances should interactions or otherwise alarming actions occur when RPC-912 is in this state. For more information, refer to Addendum-912-03.
+----
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/rpc-912/P-00912|caption=RPC-912, dated 1948. Photo recovered from within Gomez Pedro’s journal during acquisition of the anomaly.]]
+**Description:** RPC-912 is a 107-year-old humanoid resembling a human female of Mestizo Colombian ancestry in its early 20s. Subject has a standing height of 158 cm,[[footnote]]5’2”[[/footnote]] pale skin, grey eyes, and reddish-brown nerve endings visually identical to hair stemming from the head. Additional aberrations include the absence of senescence in muscle and nerve tissue due to their mitotic properties, as well as approximately 214% more nerves than normal. Subject’s exposed nerve endings can elongate from a resting length of 95 cm to ≈1230 cm long. They also have an instantaneous reflexive reaction to trauma by densifying to ≈5220 kg/m^^3^^, granting the subject a protective layer directly below the hypodermis.
+
+Subject exhibits a strong regenerative capacity in muscle and nerve tissue. The process involves its nerve endings extruding from the injury to form a base for flesh to envelop and mend the bruised area. The extent and duration of regeneration depend on the severity of the damaged part; a 2-cm-deep cut heals in 4 seconds, whereas severe body lacerations can take up to 5 hours to regenerate. Its body’s energy expenditure heightens correspondingly. It has been noted that non-fatal damage to RPC-912’s vital organs induces a coma until they are fully reconstructed.
+
+RPC-912’s nerve ending hairs are prehensile and connective in nature. These nerve endings are an extension of the subject’s nervous system, allowing it to bond with foreign nerve endings and override them by sending action differentials. This grants RPC-912 motor control over other subjects after puncturing their skin with its nerve filaments. The subject’s nervous system has adapted by developing natural systemic analgesia[[footnote]]More commonly referred to as pain insensibility[[/footnote]] in response to this predicament over the years. The entity lacks fine motor control and precision over its prehensile abilities.[[footnote]]Pending update. See Addendum-912-05[[/footnote]] As a result, this causes an influx of involuntary movements. Said spasms have been deemed a safety hazard following Experiment-912-012.
+
+RPC-912 shows a cold but overall cordial demeanor, with an altruistic tendency to help others. However, RPC-912 also displays volatile behavior primarily due to a long history of residing in zones of conflict,[[footnote]]See Addendum-912-01[[/footnote]] exhibiting episodes of psychological distress. As a defensive mechanism, RPC-912’s hair exhibits a reflexive ”nesting” behavior, where its filaments will autonomously and tightly wrap around the instance’s torso and head, forming a dense defensive barrier. During this state, the entity is non-responsive to external stimuli.
+
+**Discovery:** On 20/05/2013 in El Doncello, a police report was filed about a member of the ELN[[footnote]]//Ejercito de Liberacion Nacional// (National Liberation Army) is an insurgent guerrilla organization active since 1964.[[/footnote]] attacking a woman who disarmed him with her hair. He was later apprehended, confirmed the report, and added he only attacked it in retaliation when it once ”compelled [him] to jump off a cliff” in 1989. Authority-fronted governmental agencies flagged a series of matching teaching credentials spanning more than five decades in rural Colombia, previously flagged for identity fraud, until a corroborating witness's testimony about the incident suggested a living match.
+
+RPC-912 was found in a bungalow rental on 25/01/2015 in the village of Linderos, municipality of Caquetá, Colombia. Upon arrival, the subject was found grading papers for a local primary school. RPC-912 remained completely still at the ASF containment team's entry to its residence and calmly complied during extraction.
+
+During the investigation, the ELN member was later found to have been charged with 10 counts of child trafficking and 4 counts of murder. He was later transferred to the Cesar Police Department, where he was released shortly after.
+----
+**Addenda:**
+@@@@
+[[collapsible show="[+] Addendum-912-01: Interview (09/02/2015)" hide="[×] Addendum-912-01: Interview (09/02/2015)"]]
+[[div class="blockquote"]]
+ **Interviewed:** RPC-912
+
+**Interviewer:** Dr. Carmen Mateo
+
+**Foreword:** RPC-912 was uncooperative for the first two weeks upon arrival at Site-031-1, entering its nesting phase when approached. Afterwards, it expressed the desire to speak with Authority personnel. Dialogue was translated from Spanish.
+----
+= **<Begin Log, 08:34:06 AM [9/02/2015] >**
+**Dr. Mateo:** Please state your full name, birth date, and place of origin.
+
+**RPC-912:** Aura Gomez Osorio. I was born on March 29th of 1912. I’m from Colombia.
+
+**Dr. Mateo:** ...Excuse me, you said 1912?
+
+**RPC-912:** Yes, I’m aware I do not look my age.
+
+**Dr. Mateo:** That’s... 103 years. You basically lived through most of modern Colombian history.
+
+**RPC-912:** //(Sigh)// Not an exciting prospect, mind you.
+
+**Dr. Mateo:** Right, I would know most of our history isn’t exactly peaceful. Come to think of it, how have you lived through most of it? Someone ought to have noticed at some point.
+
+**RPC-912:** Not many have. Made sure to go from one city to the next every ten years to avoid suspicion. I never looked back at any of them until 20 more years had passed. Then I may go back.
+
+**Dr. Mateo:** Alright. And how did you sustain yourself through these years?
+
+**RPC-912:** I work as a multi-subject teacher, or worked, seeing that I’m behind these walls. Mainly taught English for the better part of 80 years, for primary and preparatory levels at some point.
+
+**Dr. Mateo:** What about armed conflict? It was and still is omnipresent across all of Colombia.
+
+**RPC-912:** There’s what’s called ”teacher programs”, which rotate every 2 to 3 years. I usually joined those within red zones[[footnote]]Term used to describe zones of armed paramilitary guerrilla forces[[/footnote]] since no one batted an eye at new hires doing this job. We blended behind the jungle and the occasional distant gunfire far from the government’s, if not civilization’s, grasp to notice. After all, why would they go near that? 
+
+**Dr. Mateo:** It must have been difficult to have only lived in strife.
+
+**RPC-912:** It wasn’t always like this. I used to teach at a regular school in the 1930s, under a government and all. It was alright until people started picking up on how little I’ve aged. Thankfully, they didn’t suspect anything abnormal by the time I left. I couldn’t risk my outward appearance stopping me from providing for my family.
+
+**Dr. Mateo:** I see. But I must ask how you avoided drawing the attention of armed groups to your home.
+
+**RPC-912:** At a certain point of doing this job, you slowly become invisible around them. I can tell you that I once didn’t, at least not at first. 
+
+**Dr. Mateo:** I’m sorry to hear that.
+
+**RPC-912:** For what it’s worth, the salary bonus was good.
+
+**Dr. Mateo:** Could you tell us more about your.. abilities?
+
+//(RPC-912 tilts her head up towards the security camera and down to the one way glass)//
+
+**RPC-912:** //(Sigh)// I suppose there is no point in hiding it now. Can you step about.. 2 meters away? I don’t have good control over it.
+
+**Dr. Mateo:** Alright.
+
+//(Dr. Mateo complies, moving back 3 meters away)//
+
+//(RPC-912 raises her nerve filaments in all directions, protruding straight from her scalp and extending up to 6 meters)//
+
+//(Nerve filaments wobble for a moment before falling down, RPC-912 deeply exhales)//
+
+**Dr. Mateo:** Jesus.. So what that man said was true.
+
+**RPC-912:** What man?
+
+**Dr. Mateo:** He said something about you pushing him off a cliff.
+
+**RPC-912:** Did he?
+
+**Dr. Mateo:** Well, compelled, but it’s ba-
+
+**RPC-912:** Then it wasn’t my fault. He did it out of his own volition, yet here I am behind bars while he walks out scott-free after killing children.
+
+**Dr. Mateo:** Were you or were you not involved in this?
+
+**RPC-912:** What do you think?
+
+**Dr. Mateo:** ...Okay, moving on. How often have you used these powers?
+
+**RPC-912:** Not much. This is the most I’ve demonstrated in decades. 
+
+**Dr. Mateo:** One last question. When the Authority team found you, they reported you showed no reaction besides confusion and stillness. Why?
+
+**RPC-912:** ...I thought it was the ELN. It is not uncommon that they use our homes as hiding spots from the military. The best one can do is remain still and pray nothing final happens, or get caught.
+
+**Dr. Mateo:** Thank you, that will be all for today.
+= **<End Log, 09:15:56 a.m [9/02/2015]>**
+----
+**Closing Statement:** Subject showed signs of distress and melancholy. Further inquiry into its mental condition is advised.
+[[/div]]
+[[/collapsible]]
+[[collapsible show="[+] Addendum-912-02: Recovered Materials (12/02/2015)" hide="[×] Addendum-912-02: Recovered Materials (12/02/2015)"]]
+Notable retrieved materials from the rental RPC-912 inhabited before acquisition include:
+* Suitcase with various school supplies and planning kit
+* Hourly timetable attached to a calendar marked every 3 and 10 years on February 8th
+* Letter sent from Miguel Gomez to Aura Gomez pinned to the fridge door.
+* Badly damaged journal
+* Thank you letter from Vilomah[[footnote]]A group of interest whose primary directive is bringing back the dead and extending life[[/footnote]] attached within the journal
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+**Foreword:** Journal under Gomez Pedro’s name. Extensive damage halfway in the journal, assumed to have been caused by a coffee spill. Extraneous entries have also been redacted.
+[[div class="blockquote"]]
+__January 1st 1912__
+
+On this bright new day and year, we chose to name her Aura.
+[[/div]]
+[[div class="blockquote"]]
+__February 10th 1912__
+
+Something has been bothering us for a while now. Our sisters, mothers, aunts, and grandmothers all asked if the baby was kicking or showing any movement. Emelia has been eating and sleeping how a pregnant woman would, so this is probably nothing.
+[[/div]]
+[[div class="blockquote"]]
+__March 29th 1912__
+This --fucking-- hospital’s useless like the rest of them. My child is wheezing and they say there’s nothing that can be done. To hell with them! Demons curse my child and they can’t lift a finger. Why, of course, they’re men of faulty science rather than of God, affronts to his name! May all the doctors in this godforsaken hospital be damned.
+
+A clergyman approached me, God bless his soul, and proposed an absolution. An exorcism. He said she’d be put under extracurricular care to a service called Soul Reviving Services and I can’t be there for her till then.
+
+If it comes down to sending her away for days for a chance, I must take it. May God and Emelia forgive me, but she is my daughter. I can’t just let her die.
+[[/div]]
+[[div class="blockquote"]]
+__March 30th 1912__
+
+After considering all options I could think of, I have accepted the offer. I had to. For 10 hours, from bank and loan to contract on donkey rides till dawn to send my Aura away. Emelia woke up this morning, and I had to explain everything to her. How I relinquished all our estate to save a cursed child.
+
+Oh loving lord Jesus, I commend this little one into Your loving arms. Carry Your little lamb home gently, I pray,
+
+Amen. Please bring her safe and sound.
+[[/div]]
+[[div class="blockquote"]]
+__April 8th 1912__
+
+She’s here! Aura’s finally back home! She looks well and pure. I have never been so relieved in my life. I’m inviting the entire family over next week, everyone. We’ll cook a feast to celebrate a whole day and night, just for our Aura! A toast for whom we wish were with us: Dario, Fransisco, Roberto, and Jacobo. May you return prized with the enemy’s bloody communist heads!
+[[/div]]
+[[div class="responsive-container"]]
+[[div style="position: relative; display: inline-block;"]]
+[[div style="background: #141414; color: #e6e6e6; border: 2px solid #404040;
+      box-shadow: 3px 5px 13px 1px #000000; padding: 10px;
+      transform: translate(80px, 7px) rotate(1deg); font-family: georgia;
+      max-width: 500px;"]]
+[[size 120%]] __Dear Gomez Osorio,__ [[/size]]
+@@@@
+[[span style="margin-right: 30px"]]@@ @@[[/span]] We are pleased to inform you that your daughter has been cured of cerebral palsy without issue. As planned, she will grow to be a healthy girl and live for longer than she would otherwise have. And per the contract’s terms, we will be visiting to check on your child’s livelihood.
+@@@@
+[[span style="margin-right: 30px"]]@@ @@[[/span]]We welcome you to use our services again.
+@@@@
+  [[div style="display: block; text-align: right; "]]
+  [[f>image http://rpcauthority.wikidot.com/local--files/rpc-912/P-00912-V style="width:100px; margin: 0px 0px 0px 0px; transform: translate(-1px, -64px);"]]
+//Call us at ███-███-███//
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="blockquote"]]
+__June 2nd 1913__
+
+Her hair moved. On its own. I thought what I saw last week was my imagination, and that Emelia was talking crazy, but it moved against the wind like it had a mind of its own. We’ve always questioned it but now we can’t ignore it. We keep calling soul reviving services, and they aren’t picking.
+
+Dario has come back home, and I write this only in name. His skin, posture, hair. His teeth, or lack of. No man would believe this is a 25 years old man. I talked to him for 2 minutes straight, asking about the war, himself, his brothers, to no response. Then, as if snapping out of a daze, he blurted out wanting to sleep in his bedroom.
+
+After some deliberation, we’ve decided to lock Aura in till we find a priest to cure her and Dario. However, it looks like a blessing will cost us an arm and a leg. I fear that despite my prayers for his safe arrival and my daughter’s purity, they landed on deafened ears.
+[[/div]]
+[[div class="blockquote"]]
+__January 11th 1918__
+
+Emelia woke me up to tell me a representative of Soul Reviving Services was at the door. He was dressed in a black suit with a flower pin on his shirt, and expressed his congratulations for our daughter’s livelihood. Before we could say anything, he revealed that our daughter’s illness was magically expunged, and that she would live for a hundred years more. He explained that we were owed to know it, that ”she was a success”. We always assumed it was a blessing but this is different; This is witchcraft. The time she fell off a 4 story building and got up as if nothing happened, pierced our skin with her hair as we kissed her, the ever paling skin and eyes the older she got; these aren’t gifts nor sheer luck. Despite all my rage, I couldn’t lay a finger on him. I remember that cursed night and having lost everything to them but truly I can’t stay angry, because of them she did not die.
+
+This news comes to me after a bountiful harvest. We have finally been able to buy back the livestock we sold for the exorcism. What a sham that happened to be. We lost Dario to that charlatan priest, and had lost our Aura years ago. I’m afraid of eating or selling any of it, as they could be tainted by her hands.
+
+This was no curse, she simply was possessed from the start. God presented me with a test of faith 6 years ago, and as a result of failing, I was befallen with divine punishment. After almost 5 years we got our answer, but I’m not sure if we wanted to hear it.
+[[/div]]
+[[div class="blockquote"]]
+__March 29th 1922__
+
+She stopped bending her hair in our presence, and refuses to admit that they didn’t just stop one day. She has grown distant from us ever since she once went missing in the jungle. I think she tried hiding it from us, but the tips of her hair were tinged in blood. We are always powerless to steer her from such paths, I pray and hope whatever happened out there laid no harm on her.
+
+Has my faith waned for finding solace in demonspawn? Last week, I started looking at my wife with disdain for resolutely avoiding our daughter, even though I have done the same for 4 years. Yet, whenever I caught glimpses of her folding our laundry with her hair, or washing the dishes in a few minutes before quietly going back to her room, I couldn’t help but see good and humanity in her heart despite the curse. However distant she may get, she still brings up those two dimples from time to time.
+
+--It’s her 10th birthday today, and--
+[[/div]]
+The following entry was found clipped at the bookend of the journal.
+[[div class="blockquote"]]
+__April 12th 1948__
+
+Dear Aura,
+
+I leave this message to inform you that various thugs have spread across Colombia in the wake of Gaitán’s assassination, and that they’ve come for our village to destroy and pillage it. Seeing that the government is in shambles, the village has decided to unite and fend for itself against those savages. I trust that you will be able to provide for mama and your little brother Miguel till the village is safe.
+
+I want to apologize for all the years I’ve flogged and neglected you. For all the slights and madness I put you through. I convinced myself you were a monster, a divine punishment for betraying God’s judgement. But I realize now only God decides who lives and who doesn’t. That no matter the wicked witchcraft they spelled upon you, a human soul was never truly extinguished.
+
+No matter how old we get and you don’t, you will always be our Aura. You are the light of our life, and we love you very much. I pray you lead a normal, happy life.
+[[/div]]
+@@@@
+[[/div]]
+@@@@
+[[/collapsible]]
+[[collapsible show="[+] Addendum-912-03: Psychiatric Profile (15/03/2016)" hide="[×] Addendum-912-03: Psychiatric Profile (15/03/2016)"]]
+[[div class="blockquote"]]
+[[=]]
++++ Clinical Psychiatric Profile
+[[/=]]
+----
+**Subject:** RPC-912 aka Aura Gomez Osorio
+
+**Conducting Psychiatrist:** Dr. Juana Cano 
+----
+[[=]]
+**Differential Diagnosis**
+[[/=]]
+[[div class="blockquote"]]
+__**CPTSD:**__ Complex post-traumatic stress disorder
+----
+**Manifestation:** Base heart rate at 115 bpm, suggesting a continuous state of hypervigilance. Loud sounds alert the subject to their source, prompting it to hide for 20+ minutes before scouting the area. In one documented case, it lapsed into its nesting phase for 10 minutes. 
+
+**Cause:** Severe parental abuse growing up. Chronic exposure to armed conflict spanning over 70 years. Seeing its students having been abducted has compounded this trigger. Subject has also expressed that atrocities she had been exposed to in the 1950s, namely the maiming and bayonetting of civilians, have led to her seclusion from society.
+
+**Treatment:** General PTSD counselling. ASF officers directly involved in the supervision and containment of RPC-912 are to attach silencers to their weapons to avoid alarming the subject.
+[[/div]]
+[[div class="blockquote"]]
+__**DPDR:**__ Depersonalization-derealization disorder
+----
+**Manifestation:** Occasionally, the subject blankly stares for minutes at a time before returning to normal. This occurs only during nighttime. Subject also experiences a similar effect after connecting its nerves to another living being. Subject reports that its nerve filaments have recently started moving on their own.
+
+**Cause:** Consistent interconnection of nerve endings with foreign bodies and practicing motor control over them. Additionally, the subject mentioned that its halted physical appearance has affected how it sees its surroundings and people in general, most prominently in its close ones’ deaths.
+
+**Treatment:** Scheduling nighttime activities before 8 PM. Interviews that involve family matters must be followed with an active schedule to keep the subject lucid and present.
+[[/div]]
+[[div class="blockquote"]]
+__**Paranoia**__
+----
+**Manifestation:** Commitment to cautionary mannerisms and habits. Subject insists on sticking to a particular routine that exhibits the least likely risk of unwanted attention. Moreover, it speaks to select persons deemed trustworthy only to a limited extent of topics.
+
+**Cause:** Subject’s incessant tendency to determine if its anomalous abilities have been detected by other persons.
+
+**Treatment:** Subject is to be escorted outside its containment cell to an outdoor area and publicly manipulate its nerve filaments once a day. Recreational activities similar to a degree to her prior ones are provided to avoid this condition from progressing into OCD.
+[[/div]]
+[[div class="blockquote"]]
+__**Aichmophobia:**__ Irrational fear of sharp objects
+----
+**Manifestation:** Despite its insensitivity to physical pain, the subject avoids anything sharp, including its nerve filaments. Subject spends 1-2 hours a day privately clashing its nerves’ tips against hard surfaces till they’re dulled, before braiding them into a manageable length.
+
+**Cause:** Due to the nature of interconnecting nerves with those of other beings, the subject externally experiences the same pain responses as those it inserts its nerves into.[[footnote]]While the subject doesn’t experience the pain physically, the punctured individual transmits neural signals directly back to the subject, leading to a psychosomatic pain response[[/footnote]] Subject claims to have gone against this fear growing up for the sake of discovery until exhausting it 4 months after.
+
+**Treatment:** Enforce experiments that involve using its nerve filaments on live subjects.
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="[+] Addendum-912-04: Interview (14/04/2016)" hide="[×] Addendum-912-04: Interview (14/04/2016)"]]
+[[div class="blockquote"]]
+**Interviewed:** RPC-912
+
+**Interviewer:** Dir. of Research Dr. Ferdinand Bellard
+
+**Foreword:** Dr. Ferdinand Bellard requested to interview RPC-912 upon reading its file and psychiatric profile.
+----
+= **<Begin Log, 10:34:06 a.m [14/04/2016] >**
+**Dr. Bellard:** Thank you for agreeing to an interview this morning. I- we understand you’ve been having a hard time adapting to your new life here.
+
+//(A momentary silence passes)//
+
+**RPC-912:** It’s... odd, I’m not used to doing nothing.
+
+**Dr. Bellard:** How come? We’ve provided you with a variety of activities to keep you occupied.
+
+**RPC-912:** That’s not what I meant. I had a routine I was committed to. I used to help students, prepare exams, grade papers, plan annual curricula. But now, there is a certain void in its place.
+
+**Dr. Bellard:** Is that so?
+
+**RPC-912:** Yes, I had a purpose to stick to, and it kept my wit sharp.
+
+**Dr. Bellard:** You mean family?
+
+//(RPC-912 can be seen leering at Dr. Bellard)//
+
+**Dr. Bellard:** I’m sorry, I shouldn’t have asked.
+
+//(A short silence passes, RPC-912’s face visibly softens)//
+
+**RPC-912:** Miguel, my baby brother. I’ve been reminiscing about our past together, what few decades those were. The more time passes here, the more I look back instead of forward.
+
+**Dr. Bellard:** Would you elaborate on that?
+
+**RPC-912:** These four walls aren’t an obvious enough answer?
+
+**Dr. Bellard:** I was not referring to that.
+
+**RPC-912:** Yes, I know.
+
+**Dr. Bellard:** Miss Osorio, it doesn’t need to continue like this. No matter which way you put it, you have been spiraling.
+
+**RPC-912:** And whose fault is that, exactly?
+
+**Dr. Bellard:** Please, this is important so we can help you. If you can’t speak to us, we can’t help you.
+
+**RPC-912:** //(Sigh)// I suppose you won’t drop the subject, so you want to hear everything. Yes?
+
+**Dr. Bellard:** I’d appreciate it if you did.
+
+**RPC-912:** Fine. I carried him through thick and thin from one year to the next, one rental to the next, and kept him safe and sound away from the madness of it all. He couldn’t help but cling to me to where he didn’t belong. And in spite of it all, I made time for him to enjoy a healthy childhood when our parents treated us as bastards. I would cook him Arepas and Bandeja Paisa when I had the money to spare, and did not scold him for pulling those idiotic pranks on me; If it meant I could see his smile.
+
+**Dr. Bellard:** That’s wonderful.
+
+**RPC-912:** It wasn’t long before things fell apart. When The Violence[[footnote]]La Violencia was a ten-year civil war which occurred in Colombia, 1948-1958[[/footnote]] swept through the nation after Gaitán’s death, Miguel was among the first to be dragged into it. He screamed at me. ”Whip them off, Aura!” he screamed, ”Save me”! I’m a... coward. I should have done something; I //had// the power to stop those grunts, but I didn’t. I was afraid to ever bend my hair again.
+
+//(RPC-912’s hair can be seen rising for 2 seconds before limping down)//
+
+**RPC-912:** Then I had to push through 10 years before I could come home to my family. My mother was still hacking away on her sewing machine, and my dad... For years I lived with my mother and two cousins; there wasn’t anything to do but hold on to that hope he was still out there till one day he did come, s-... standing on his wooden leg meters away from the door. He could not bear to look me in the eye before walking forward, handing me his personal files and limping away, without having said a word. I... God.
+
+**Dr. Bellard:** I’m sorry.
+
+**RPC-912:** It’s okay. It wasn’t all for naught. My mother had applied for retirement, so I had to carry the mantle. I was like a sister to my cousins despite being as old as their mothers. Thankfully, they grew up and made a living of their own, and I lived with my mother till she passed on herself. That’s when I headed back to the red zones to make enough for myself and my brother. 
+
+**Dr. Bellard:** Have you heard from your brother again?
+
+**RPC-912:** No, but there was one time when he sent me a letter, February 12 1991. He expressed his desire to visit me but never did.
+
+**Dr. Bellard:** Pardon me, but I must ask, if he expressed his desire to meet, why haven’t you done so yourself?
+
+**RPC-912:** Because he was living somewhere I had just left. I couldn’t have risked being seen by anyone there. I wish I could see him again. I read that letter so many times I lost count. In a way, I feel like I promised my father only to break it out of cowardice.
+
+**Dr. Bellard:** I understand.
+
+**RPC-912:** //(Exhale)// I’ll admit. I appreciate you listening to me talk about all this. It’s not often that I... Actually, I think you may be the first to hear it.
+
+**Dr. Bellard:** Anytime. Well, that will be all for today. If you ever need anything, just let us know.
+
+//(Dr. Bellard stands up and begins walking away)//
+
+**RPC-912:** Do you not wish to say anything?
+
+//(Dr. Bellard stands still)//
+
+**RPC-912:** I saw it in your eyes; you’ve been meaning to say something yourself.
+
+**Dr. Bellard:** I... I don’t know if you remember this, Miss Osorio, but I’m Ferdinand Bellard, from Catatumbo. I took your classes when I was in third and fourth grade; that was in 1967-1968. Do you remember me?
+
+**RPC-912:** Ferdinand? Yes, that name is not common, and impossible to forget.
+
+ **Dr. Bellard:** You and the class used to call me Fredo!
+
+**RPC-912:** Oh yes! That one time I threw the board eraser at you for not paying attention. It was made of wood, too, back when the government still provided teachers with materials. Left a mark on your forehead for two days straight.
+
+**Dr. Bellard:** I... Hahaha! Yes, I remember that.
+
+**RPC-912:** Is there anything else?
+
+**Dr. Bellard:** No. That will be it for today.
+
+**RPC-912:** Happy to help, Fredo. 
+= **<End Log, 10:58:56 a.m [14/04/2016]>**
+----
+**Closing Statement:** After an inquiry in the National Civil Registry, a match for a person by the name of Miguel Gomez Osorio was found to have been born in 1932 to Gomez and Emelia. Records show wire transfers spanning across 50 years from multiple addresses to Miguel Gomez’s account. Mr. Miguel passed away in 2014 at the age of 82, at which point transfers were still being received for another 2 years before the Authority closed the account.
+
+Dr. Ferdinand Bellard notes that the event RPC-912 described involving him never occurred. 
+[[div class="blockquote"]]
+**RPC-912 Experimentation Request** (16/04/2016)
+@@@@
+//”Personally oversee an experimentation program on RPC-912 for the sake of utilizing its secondary anomalous ability.”//
+[[>]]
+- Dir. of Research Dr. Ferdinand Bellard
+[[/>]]
+----
+
+**Approved** (19/04/2016)
+[[>]]
+- Assistant Site Director Dr. Emilia Fischer
+[[/>]]
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+[[collapsible show="[+] Addendum-912-05: Experiments Log" hide="[×] Addendum-912-05: Experiments Log"]]
+[[div class="blockquote"]]
+**Experiment-912-003**
+
+**Conducted by:** Dr. Carmen Mateo
+
+**Date:** 01/05/2015
+
+**Materials:** RPC-912, One (1) live laboratory rat (//Rattus norvegicus//).
+
+**Objective:** Evaluate the effects of RPC-912’s filament insertion into an active nervous system and monitor muscle response.
+------
+RPC-912 successfully penetrates 3 of its nerve filaments into the subject’s dorsal pores. Initial insertion achieves full connection without triggering behavioral responses or significant spikes in telemetry. However, upon receiving the instruction to compel the subject to move forward, RPC-912’s lack of fine motor control results in an instantaneous, extreme application of mechanical tension. Telemetry immediately indicated a catastrophic spike in the subject’s heart rate and vocalization frequency.
+
+The subject sustained closed fractures in the left femur and fibula due to the abrupt, uncoordinated forceful movement. The test was prematurely terminated to prevent further trauma.
+------
+**Afterword:** RPC-912 visibly expressed revulsion during and after the test. Subject refused to engage in further tests, entering its nesting phase when approached. This continued for two weeks before the resumption of tests.
+[[/div]]
+[[div class="blockquote"]]
+**Experiment-912-012**
+
+**Conducted by:** Dr. Carmen Mateo
+
+**Date:** 17/08/2016
+
+**Materials:** RPC-912, CSD-7648.
+
+**Objective:** Evaluate the precision of RPC-912 motor control over a test subject.
+----
+CSD-7648 is introduced into a test chamber opposite to RPC-912’s chamber. Between them is a barred window through which RPC-912 is instructed to attempt to move CSD-7648’s fingers, forearm, and then entire arm by sending signals into CSD’s nervous system. RPC-912 complies; CSD-7648 reports no physical pain after connecting with his nervous system. Finger movement can be seen; subject reports successfully moving the fingers directed by corresponding intent. Forearm movement is achieved, but the direction of movement is less articulate. RPC-912 requests abating the test after attempting simultaneous movement of the forearm and fingers, which is denied. RPC-912 attempts to move the entire arm, only for RPC-912 to go limp in the process. At which point the effect of the natural analgesia wears off and CSD-7648 tears out the nerve filament from his arm in a panic. 
+
+CSD-7648 is transferred to the medical ward. X-rays and MRI analysis confirm traumatic dislocation of the left arm articulations accompanied by muscular torsion. CSD-7648 sustains permanent wrist impairment.[[footnote]]More commonly referred to as a slight sprain[[/footnote]]
+----
+**Afterword:** In contrast with previous tests, this test shows that motor control over nerve filaments can be improved with practice, as a muscle could. Dummy tests are recommended to further refine RPC-912’s precision.
+[[/div]]
+[[div class="blockquote"]]
+**Experiment-912-038**
+
+**Conducted by:** Dr. Ferdinand Bellard
+
+**Date:** 30/10/2017
+
+**Materials:** RPC-912, CSD-7721
+
+**Objective:** Gauging RPC-912’s ability to exert holistic control over the human body.
+----
+CSD-7721 is introduced into a test chamber opposite to RPC-912’s chamber. RPC-912 proceeds as usual by penetrating CSD-7721’s skin into several categorically distinct points in the body. Dr. Bellard instructs RPC-912 to ambulate the subject. An attempt to move the subject fails in their fall. RPC-912 attempts to sit the subject up, whose legs bend in a manner that causes a slight muscular torsion in the left calf. Eventually, CSD-7721 is stood upright. RPC-912 manages to toddle the subject forward in small, irregular steps. CSD-7721 reaches one wall of the chamber and then its opposite, before the test is aborted.
+----
+**Afterword:** RPC-912 demonstrates greater control and resilience of her motor skills. CSD-7721 is treated for his injury. Despite this, he shows interest in continued testing with RPC-912. Repeats of this test are to continue till RPC-912 masters control over its filaments.
+[[/div]]
+[[div class="blockquote"]]
+**Experiment-912-066**
+
+**Conducted by:** Dr. Ferdinand Bellard
+
+**Date:** 16/04/2019
+
+**Materials:** RPC-912, CSD-7721
+
+**Objective:** Manipulate CSD-7721’s body to dance.
+----
+CSD-7721 is introduced inside RPC-912’s test chamber. Subject then pierces the same points and prompts CSD-7721 to do the twist dance. RPC-912 successfully maintains the subject dancing for 8 minutes without showing any signs of exertion.  Dr. Bellard adds to the test the use of a second CSD, of which none were available then. Dr. Bellard instead opts to enter the containment room and orders RPC-912 to utilize its filaments on his body to dance in unison with CSD-7721’s. Subject complies and is able to manipulate both persons, albeit poorly. This continues for 20 seconds before losing control and retracting its filaments. As RPC-912 limps down, a smile can be seen on its face.
+----
+**Afterword:** Dr. Bellard and CSD-7721 fell to the floor, the latter exhausted from the experiment. Containment personnel retrieved both personnel, then escorted the anomaly back to its cell. 
+[[/div]]
+[[/collapsible]]
+[[collapsible show="[+] Addendum-912-06: Interview (17/04/2019)" hide="[×] Addendum-912-06: Interview (17/04/2019)"]]
+[[div class="blockquote"]]
+**Interviewed:** RPC-912
+
+**Interviewer:** Dr. Ferdinand Bellard
+
+**Foreword:** RPC-912 requested to have a conversation with Dr. Ferdinand Bellard.
+----
+= **<Begin Log, 15:34:40 a.m [17/04/2019] >**
+
+**Dr. Bellard:** Good afternoon, Miss Aura.
+
+**RPC-912:** Good afternoon to you, too. I’m glad you could join me for lunch.
+
+**Dr. Bellard:** Wow. This is the first time I’ve seen you in such a good mood. I assume this is from the tests?
+
+**RPC-912:** It’s not only that, Fredo. My senses are razor sharp, I can recall memories from when I was an infant, and for a century I haven’t felt so... alive.
+
+**Dr. Bellard:** Oh you flatter me, it was just much-needed exercise.
+
+**RPC-912:** Hey!
+
+**Dr. Bellard:** Oh, I’m sorry. Freudian slip. We wished to see how far we could push your anomalous abilities, and before I knew it, it became a personal obligation of mine.
+
+**RPC-912:** It’s fine.
+
+**Dr. Bellard:** You know, I figured you’d be mad at me. Every step of the way I seemed... incessant. Pushy to do more than what was asked of me. By no means was I offloading work by overseeing your experiments. On the contrary, I was operating a double shift.
+
+**RPC-912:** But... I have to ask why? I understand I was once your teacher, but that was decades past. What pushed you to do all this?
+
+**Dr. Bellard:** Well, back then I preferred coming up with ingenious ways to do the same task. Instead of a paper bag, I’d use a small fishnet and carry my lunch by hand. I saw all my friends were right-handed, so I went out of my way to make my left the dominant. I was the second mouse waiting for the cheese, except that cheese was going against the grain just for the sake of it. But you’d do everything by the numbers with no recompense for thinking outside the box; you even went as far as lowering my grades just for using a different formula to get the //same// answers! I kind of hated you for it, too.
+
+**RPC-912:** ...And?
+
+**Dr. Bellard:** //(Chuckle)// Nothing more, really.
+
+**RPC-912:** Oh, so this was payback. Payback brewing for 40 yea- oh you little turd!
+
+**Dr. Bellard:** //(Laugh)// There is the Miss Aura I know!
+
+**RPC-912:** I didn’t swear at my students!
+
+**Dr. Bellard:** You certainly yelled, though!
+
+**RPC-912:** Oh fine, fair enough. Are we square now?
+
+**Dr. Bellard:** Hahah yes! Yeah...
+
+//(A momentary silence passes)//
+
+**RPC-912:** I know Miguel has passed on. Every chance I had to see him, I stopped myself. And for what? Because I was afraid I’d hurt him, or was I just too afraid to bear it myself? That I may pass by his residence to see another face to tell me such news, to even try to explain why someone who looked thrice my age was so important to me, that I must lie I’m his.. fucking granddaughter.
+
+//(RPC-912’s nerve filaments rise slightly)//
+
+**RPC-912:** Tell me. When-
+
+**Dr. Bellard:** You don’t need to know that, Aura.
+
+**RPC-912:** I.. Yes, you’re right. It doesn’t help knowing.
+
+**Dr. Bellard:** It’s better to leave the past behind. Besides, I’m sure he lived a happier life with your help.
+
+**RPC-912:** ...In a way, there is a silver lining to this strange curse. I suppose it’s God’s way of keeping me happy for a little bit longer, if even in his twisted sense of humor lumped me with an old fart like you.
+
+**Dr. Bellard:** Consider it punitive retirement.
+
+**RPC-912:** Hah... Um M- Ferdinand. I want to apologize for lying to you. I honestly did not remember you.
+
+**Dr. Bellard:** That’s fine. I always did.
+= **<End Log, 15:52:12 a.m [17/04/2019]>**
+----
+**Closing Statement:** Dr. Ferdinand Bellard delegates his position as Head Researcher back to Dr. Carmen Mateo, handing her a file of added instructions on how to further accommodate RPC-912 and ”nurture” its capabilities.
+[[div class="blockquote"]]
+**RPC-912 Utility Request** (18/04/2019)
+@@@@
+//”As a final request of my tenure as RPC-912 Head Researcher, I recommend granting the subject access to higher medical education to utilize its abilities for neuroscientific applications.”//
+[[>]]
+- Dir. of Research Dr. Ferdinand Bellard
+[[/>]]
+----
+**Approved** (23/04/2019)
+[[>]]
+- Assistant Site Director Dr. Emilia Fischer
+[[/>]]
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="[+] Message from Dr. Harrison Jhoulen" hide="[×] Message from Dr. Harrison Jhoulen"]]
+[[div class="email"]]
+[[div class="meta"]]
+**From:** Dr. Harrison Jhoulen <[[span class="fakeLink"]]@@har_jhoulen@authority.rpc@@[[/span]]>
+**To:** Dr. Carmen Mateo, Dr. Juana Cano
+**Subject:** Position Delegation Notice
+**Sent:** //April 30th, 2019, 11:14 AM (32 minutes ago)//
+[[/div]]
+
+------
+
+[[div class="body"]]
+As the Head Researchers of RPC-912, you will be relieved of your positions and delegated to different phenomena within a month’s notice. This decision is based on last week’s incident.
+[[div class="blockquote"]]
+**##000000|__Incident-[031-1]-077__##**
+
+##000000|At 2:13 PM, April 23, 2019, a lever-locking mechanism for CSD holding block #7 was overridden, causing the breach of 52 CSDs in total. The cause was found to be a coordinated assault on Officer Pedro R. Lenard for grudge reasons. The assault was carried out at 2:01 PM, led by CSD-7648 and CSD-6658. The two ringleaders hacked into the site and subsequently operated the Site-section override levers. The release of multiple Low Lethality anomalies amid the ensuing chaos provided cover for the CSD cohort.##
+
+##000000|During the riot at 2:34 PM, CSD-7648 entered Dr. Ferdinand Bellard’s office and took him hostage with a confiscated Authority Agent pistol. CCTV security footage captured the moment RPC-912 escaped her cell and headed towards Dr. Bellard’s office. When she arrived, the anomaly disarmed CSD-7648 by stabbing her hair into his wrist through a gap in his stolen body armor. While distracted, RPC-912 was slashed by CSD-9743 on the shoulder. As a defensive reflex, RPC-912 compelled CSD-7648 to shoot CSD-9743, which resulted in CSD-9743's eventual termination. CSD-7648 would be killed moments after the shooting, via strangulation at Dr. Bellard’s hands. After the CSD riot was put down, both Dr. Bellard and RPC-912 were moved to the site medical wing for treatment.##
+[[/div]]
+While we commemorate RPC-912's swift action in rescuing Dr. Bellard and its continued progress in rehabilitation, the newfound grasp of its anomalous abilities poses a greater threat to site staff. As Director, I have determined that the available security at Site-031-1 no longer meets RPC-912's containment requirements. In addition, damage sustained during the incident revealed that the subject has a reduced ability to regenerate its skin and arteries. The rest of RPC-912 is still aging, and in time, those parts of her not anomalously immortal will fall apart. These are the two reasons I believe RPC-912 should be transferred to a site better suited to her.
+
+RPC-912 is hereby set for transfer to [[[Site-026]]] at 9:00 AM, June 1, 2019.
+[[>]]
+Regards,
+- __**Site Director Harrison Jhoulen**__
+[[/>]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+**Visitational Access Request** (25/05/2019)
+@@@@
+//"After recuprication, I would like to request Site-026 affiliate credentials for visitation purposes per RPC-912’s request."//
+[[>]]
+- Dir. of Research Dr. Ferdinand Bellard
+[[/>]]
+----
+**Pending Approval**
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[module CSS]]
+div.email::before {
+    content: url(https://rpcauthority.wdfiles.com/local--files/rpc-006-j/email-top-triangle.png);
+    position: absolute;
+    left: 99px;
+    top: -10px;
+}
+div.email {
+    background: white;
+    color: black;
+    border: 1px solid;
+    padding: 13px 10px 0;
+    margin-top: 20px;
+    position: relative;
+    animation: email-open 0.5s;
+}
+div.email > * { animation: email-fadeInContent 1s; }
+div.email span.fakeLink {
+    color: gray;
+    cursor: pointer;
+}
+div.email span.fakeLink:hover { text-decoration: underline; }
+div.email div.meta::before {
+    content: url(https://rpcauthority.wdfiles.com/local--files/component%3Atheme/AuthorityLogoSVG.svg);
+    float: left;
+    margin-right: 5px;
+    height: 5em;
+    filter: invert(100%);
+    position: relative;
+    bottom: 1px;
+    width: 64px;
+    animation: email-fadeInContent 1s;
+}
+div.email div.meta p {
+    margin-top: 0;
+    line-height: normal;
+}
+div.email div.body p { line-height: 1.5em; }
+
+@keyframes email-open {
+    from {font-size: 0;}
+    to {font-size: 12.8px;}
+}
+@keyframes email-fadeInContent {
+    0% {opacity: 0;}
+    45% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+div.preloadImages {
+    visibility: hidden;
+    position: absolute;
+    width: 0;
+    height: 0;
+}
+[[/module]]
+[[div class="preloadImages"]]
+[[image https://rpcauthority.wdfiles.com/local--files/rpc-006-j/email-top-triangle.png]]
+[[image https://rpcauthority.wdfiles.com/local--files/component%3Atheme/AuthorityLogoSVG.svg]]
+[[/div]]
+----
+[[div class="content-panel"]]
+[[collapsible show="[+] Footnotes" hide="[×] Footnotes"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/div]]
+@@@@
+[[div style="border-bottom: 2px solid #8a8a8a; margin-bottom: 1px;"]]
+[[/div]]
+[[div style="border-bottom: 1px solid #8a8a8a;"]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-911]]] | RPC-912 | [[[RPC-913]]] >>
+[[/=]]
+
+[[include component:rate title=rpc-255]]
+
+[!--{[A3AQM::!::
+maintext="<br>"Ready, Ike? Kick the baby!""::
+objectclass="Beta-Yellow (Utility)"::
+title="RPC-912"::
+imglink="http://rpcauthority.wikidot.com/local--files/rpc-912/P-00912"::
+planttruncationlink=false
+]}--]
+

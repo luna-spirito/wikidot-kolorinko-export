@@ -1,0 +1,1570 @@
+---
+title: "New Frontier Theme"
+tags: ["theme"]
+page_id: "1324066690"
+site: "rpcauthority"
+slug: "component:new-frontier-theme"
+revision: 68
+revision_id: "1544742775"
+author: 5258122
+timestamp: 1781914202
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:new-frontier-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+/*
+    The New Frontier Theme (made by Qual; requested by Administration for Official Contest Use) Additional Credits:  Saloon Map by Rota, Dirty Golden Seal edited by Rota on Main Event Page, Circled Text used in link made by Almaduk, Images by Qual; Inspired by both the Cair Aisling Teme, SCP Foundation Aces and Eights Canon Theme, and the Unusual Cargo Theme,
+*/
+
+
+
+/* General Content Section: */
+ 
+body {
+    font-weight: bold;
+    letter-spacing: 1px;
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Wooden%20Background.png), url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Grime%20Background.png);
+    background-size: 40%, 250%;
+    background-position: left top, bottom center;
+    background-repeat: repeat, repeat-x;
+}
+
+#main-content {
+font-family: var(--header-font);
+    max-width: 1200px;
+}
+
+#page-content {
+font-family: var(--body-font);
+    max-width: 1200px;
+
+    font-size: 110%;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: 3px;
+}
+
+
+
+#page-title {
+font-family: var(--header-font);
+    font-size: 235%;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+
+    text-align: center;
+    text-shadow: var(--paper-stain-text-shadow);
+    text-transform: uppercase;
+
+    border-bottom: 4px ridge #46464070;
+    box-shadow: 0px 2px 8px -2px var(--golden-trim-border-color);
+    margin: 0em;
+    margin-bottom: 8px;
+}
+
+#breadcrumbs {
+font-family: var(--header-font);
+    text-align: center;
+    word-spacing: 4px;
+    text-shadow: var(--main-text-shadow);
+
+    padding-bottom: 0.5em;
+    margin: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+
+    border-bottom: 2px solid #33333159;
+    box-shadow: 0px 2px 4px #b3872159;
+}
+
+
+
+/* Page Header Section: */
+
+#header h1 {
+    top: -10px!important;
+}
+
+#header h1 a::before {
+font-family: var(--header-font);
+    font-size: 55%; 
+    word-spacing: 10px;
+    letter-spacing: 4.5px;
+
+    text-decoration: none;
+    text-shadow: 3px 2px 0 #00000042, 2px 2px 10px #b387217a, var(--paper-stain-text-shadow);
+    text-transform: uppercase;
+
+    margin-left: -0.5em;
+}
+
+#header h2::before {
+font-family: var(--subheader-font);
+    font-size: 100%;
+    text-shadow: var(--paper-stain-text-shadow);
+    margin-left: -0.7em;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+
+
+
+/* Header Section: */
+
+h1 {
+font-family: var(--title-font);
+    font-size: 26s0%;
+    font-weight: bold;
+    color: var(--primary-text-color);
+    text-shadow: 3px 3px 4px #4c474375, 0.5px 0.5px 14px #d3980f;
+    text-transform: uppercase;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2, h3 { 
+font-family: var(--header-font);
+    font-weight: bold;
+    font-size: 185%;
+
+    color: var(--sidebar-header-color);
+    text-shadow: var(--paper-stain-text-shadow);
+    margin: 5px 0px;
+}
+
+h4, h5, h6 {
+font-family: var(--subheader-font);
+    font-size: 160%;
+
+    color: var(--page-title-color);
+    text-shadow: var(--paper-stain-text-shadow);
+    margin: 5px 0px;
+}
+
+.title, strong {
+    color: var(--sidebar-header-color);
+}
+
+
+
+/* Search Function Section: */
+
+#search-top-box-form input[type=submit], #top-bar .search-button a {
+font-family: var(--subheader-font);
+}
+
+#search-top-box input, #top-bar .search-button a {
+font-family: var(--header-font);
+}
+
+#search-top-box-form input[type=submit]:hover, #search-top-box-form input[type=submit]:focus, , #top-bar .search-button a:hover {
+    color: var(--primary-text-color);
+}
+
+#search-top-box input.empty {
+    color: #422314f0;
+}
+
+#top-bar .search-button a {
+    line-height: 80%;
+}
+
+
+
+/* Top Bar Section: */
+
+#top-bar ul li.sfhover ul li a, #top-bar ul li:hover ul li a {
+    padding-top: 3px;
+}
+
+#top-bar ul li ul {
+    border: var(--secondary-ridge-border);
+    border-bottom: var(--primary-ridge-border);
+    box-shadow: var(--main-hard-box-shadow), 0 5px 15px 3px var(--outer-shadow-color), var(--main-inner-box-shadow);
+}
+
+#top-bar ul li ul li a {
+font-family: var(--subheader-font);
+}
+
+#top-bar ul li a {
+font-family: var(--header-font);
+    border-right: 4px solid #583e00;
+    border-left: 4px solid #a37400;
+}
+
+#top-bar ul li.sfhover a, #top-bar ul li:hover a {
+    border-right: 4px solid #675930;
+    border-left: 4px solid var(--main-border-color);
+}
+
+#top-bar ul {
+    border-left: 2px solid #46464070;
+    border-right: 2px solid #46464070;
+}
+
+#top-bar ul li a::first-letter {
+    color: var(--primary-text-color);
+    text-shadow: var(--first-letter-text-shadow);
+}
+
+#top-bar ul li a::first-letter {
+    font-size: 140%;
+}
+
+#top-bar ul li.sfhover ul li a::first-letter, #top-bar ul li:hover ul li a::first-letter {
+    font-size: 120%;
+}
+
+#top-bar ul li:hover>a::first-letter, #top-bar ul li.sfhover a:hover::first-letter, #top-bar ul li:hover a:hover::first-letter {
+    color: var(--light-text-color);
+    text-shadow: 1px 1px 1px #000, 0px 0px 15px var(--primary-text-color);
+}
+
+#top-bar li, #top-bar li a:hover {
+    box-shadow: inset 0px 0px 8px 1px #6d4c0dc9;
+    background: #ddcda145;
+}
+
+
+
+/* Sidebar */
+ 
+#side-bar {
+font-family: var(--subheader-font);
+    width: 17.5em;
+    padding: 1em;
+    text-shadow: var(--main-text-shadow);
+}
+
+#side-bar div.menu-item a {
+    background-color: var(--primary-background);
+    border: var(--secondary-ridge-border);
+    width: 208px;
+    margin: 6px calc(-1em - 1px) 0 -0.5em;
+    box-shadow: 0 0 10px var(--inner-shadow-color), inset 1px 1px 20px var(--inner-shadow-color), 1px 1px 7px var(--hard-shadow-color);
+}
+ 
+#side-bar div.menu-item a:hover {
+    color: var(--sidebar-hover-color);
+    text-decoration: none;
+    width: 208px;
+}
+
+#side-bar .heading {
+font-family: var(--header-font);
+    text-transform: uppercase;
+    padding-left: 1em;
+}
+
+#side-bar .heading:first-letter {
+    color: var(--primary-text-color);
+    font-size: 140%;
+    text-shadow: var(--first-letter-text-shadow);
+}
+
+#side-bar hr {
+    margin-top: 1.5em;
+}
+
+.heading {
+    letter-spacing: 1px;
+}
+
+
+
+/* Mobile Compatability: */
+
+@media (max-width: 878px) {
+#top-bar {
+    font-size: 84%;
+}
+
+#top-bar ul li a {
+font-family: var(--header-font);
+    border-right: 1px solid #583e00;
+    border-left: 1px solid #a37400;
+}
+
+#top-bar ul li.sfhover a, #top-bar ul li:hover a {
+    border-right: 1px solid #675930;
+    border-left: 1px solid var(--main-border-color);
+}
+
+#top-bar ul li a::first-letter {
+    font-size: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+#header {
+    background-position: 0px 0.4em;
+    background-size: 80%;
+}
+
+#side-bar:target .close-menu {
+    background: rgb(175 159 122 / 30%) 1px 1px repeat;
+}
+
+#main-content {
+    padding: 1em!important;
+    }
+}
+
+@media (max-width: 604px) {
+#header {
+    background-position: 0px 3.4em;
+    background-size: 90%;
+    }
+}
+
+@media (max-width: 320px) {
+#top-bar {
+    font-size: 70%;
+    }
+}
+
+
+
+/* Link Content: */
+
+a {
+    font-weight: bold;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+a.newpage {
+    font-weight: bold;
+}
+
+.printuser a {
+    border: none!important;
+    box-shadow: none!important;
+}
+ 
+#main-content p a, a.collapsible-block-link {
+    border: 1px solid #ce67509e;
+    transition: 0.3s;
+    border-radius: 50%;
+    padding: 0px;
+    font-size: 110%;
+    padding-left: 4px;
+    padding-right: 4px;
+    text-shadow: 0px -3px 2px #681e122b, 0px 3px 2px #681e122b, 0.5px 0.5px 20px #ffb200, 0.5px 0.5px 20px var(--primary-text-color);
+    box-shadow: 1px 1px 14px #ce675047;
+}
+
+#main-content p a:hover, a.collapsible-block-link:hover {
+border: 1px solid #ce6750e0;
+    transition: 0.3s;
+    border-radius: 50%;
+    padding: 0px;
+    font-size: 110%;
+    padding-left: 4px;
+    padding-right: 4px;
+    box-shadow: -3px -1px 6px #ff00002e;
+    text-shadow: 0px -1px 1px #681e122b, 0px 1px 1px #681e122b, .5px 0.5px 20px #ffb200, 0.5px 0.5px 20px var(--primary-text-color);
+}
+
+
+#main-content p a.newpage {
+    border: none!important;
+}
+
+#page-content .yui-navset a {
+    transition: none;
+    padding: normal;
+}
+
+a.footnoteref {
+    border: none!important;
+    box-shadow: none!important;
+}
+ 
+
+
+
+/* ------------- Tabview Borders Section: Beginning ------------- */
+
+/* General Tabview Borders (Regular + Side Tabview): */ 
+
+.yui-navset, .sideTabview .yui-navset {
+    border-top: var(--primary-ridge-border);
+    border-left: var(--side-ridge-border);
+    border-right: var(--side-ridge-border);
+    border-bottom: var(--primary-ridge-border); 
+}
+ 
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    padding: 0px 0 0;
+}
+
+ .yui-navset .yui-nav li a:hover, .sideTabview .yui-nav li:hover {
+    color: var(--light-text-color);
+}
+
+.sideTabviewMini .yui-content {
+    border-left: var(--side-ridge-border);
+}
+
+.sideTabviewMini .yui-navset-top .yui-nav {
+    border-right: var(--side-ridge-border);
+    border-bottom: none!important;
+}
+
+/* Compact Tabview Borders: */
+ 
+.compactTabview .yui-nav {
+    border-top: var(--primary-ridge-border);
+    border-left: var(--side-ridge-border);
+    border-right: var(--side-ridge-border);
+    border-bottom: var(--primary-ridge-border);
+}
+ 
+.compactTabview .yui-content {
+    border-right: var(--side-ridge-border)!important;
+    border-left: var(--side-ridge-border)!important;
+    border-top: var(--primary-ridge-border)!important;
+    border-bottom: var(--primary-ridge-border)!important;
+}
+ 
+.compactTabview .yui-navset {
+    border: none!important;
+}
+ 
+/* Side Border Tabview Content: */
+ 
+.sideTabview .yui-nav {
+    border-top: none !important;
+    border-right: var(--side-ridge-border)!important;
+    border-left: none !important;
+    border-bottom: none !important;
+}
+
+.sideTabview .yui-content {
+    background: var(--tabview-background);
+}
+
+/* ------------- Tabview Borders Section: End ------------- */
+
+
+
+/* Page Content Module and Block Font Section: */
+
+.image-block .image-caption, #toc, table.wiki-content-table tl, .cellStyle, .yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav, .sidenoteH {
+font-family: var(--subheader-font);
+    color: var(--primary-text-color);
+}
+
+blockquote, .yui-navset .yui-content, .content-panel, .news-block, .featured-block, .info-block {
+font-family: var(--block-font);
+    color: var(--primary-text-color);
+    word-spacing: 3px;
+}
+
+table.wiki-content-table th, .header-panel, .footer-panel {
+font-family: var(--header-font);
+    color: var(-primary-text-color);
+}
+
+
+
+/* Box Border Section: */
+
+.left-column, .right-column {
+    width: 49%;
+}
+
+.content-box, .content-panel, #toc, .content-block, .info-block, .featured-block, .news-block, .hovertip, .owindow, .footnotes-footer, .yui-navset, .sideTabview .yui-navset, .tableStyle, #account-options {
+    border: var(--side-ridge-border);
+    border-top: var(--secondary-ridge-border);;
+    border-bottom: var(--primary-ridge-border);
+}
+
+.header-panel {
+    border-bottom: var(--secondary-ridge-border);
+}
+
+.footer-panel {
+    border-top: var(--secondary-ridge-border);
+}
+
+.news-block .body-panel:nth-child(even) {
+    border-top: none;
+    border-bottom: none;
+}
+
+.news-block .body-panel {
+    border-bottom: var(--secondary-ridge-border);
+    border-top: var(--secondary-ridge-border);
+}
+
+
+
+/* Table Border Section: */
+
+table.wiki-content-table {
+    border: 4px solid var(--primary-text-color);
+}
+
+table.wiki-content-table th {
+    border: 3px solid var(--primary-text-color);
+}
+
+table.wiki-content-table td {
+    background-color: var(--table-cell-background);
+    border: 2px solid var(--primary-text-color);
+    padding: 0.3em 0.7em;
+    color: var(--text-color);
+}
+
+/* Identification Matrix Table Border */
+
+.identification-matrix table.wiki-content-table {
+    overflow-x:auto;
+}
+
+.identification-matrix table.wiki-content-table th, .identification-matrix table.wiki-content-table td {
+    font-style: italic;
+    text-align: center;
+    padding: 7px 5px;
+    background: #a89b6e36;
+}
+
+/* Identification Matrix Table Border */
+
+.identification-matrix table.wiki-content-table {
+    border: 3px solid #b69c77c7;
+    box-shadow: 0px 0px 15px #a2925c, inset 0px 0px 10px #796d44;
+}
+
+/* Identification Matrix Table Header */
+
+.identification-matrix table.wiki-content-table th {
+    color: #482a1994;
+    text-shadow: var(--paper-stain-text-shadow);
+    background: #b1a37554;
+    border: 2px solid #806d4c40;
+    box-shadow: inset 3px 3px 9px #b39754b0 !important;
+}
+
+/* Identification Matrix Table Reg. Cell */
+
+.identification-matrix table.wiki-content-table td {
+    color: var(--page-title-color);
+    font-family: var(--subheader-font);
+    text-shadow: var(--paper-stain-text-shadow);
+    text-align: center;
+
+    padding: 0.3em 0.7em;
+
+    background-color: #e3d6be82;
+    border: 2px solid #b09b767d;
+    box-shadow: inset 3px 3px 10px #b19b5fb8!Important;
+}
+
+
+
+/* Box Shadow Section: */
+
+#container {
+    box-shadow: inset 0px -60px 100px #1b1b1b, inset 0px -80px 100px #000;
+}
+
+#main-content, form#edit-page-form, #side-bar {
+    text-shadow: 0 0 20px var(--inner-shadow-color), 0 0 3px #af9a4f;
+    border: var(--main-content-border);
+    box-shadow: var(--main-hard-box-shadow), 0 0 60px 4px var(--giant-shadow-color), inset 0px 0px 60px var(--inner-shadow-color), inset 0px -30px 200px var(--inner-shadow-color);
+    background: var(--primary-background) var(--custom-paper-background-1);
+    background-size: 100%;
+}
+
+#side-bar div.menu-item a, #search-top-box input.empty, #search-top-box-form input[type=submit], #top-bar .search-button a {
+    box-shadow: 0px 2px 10px var(--hard-shadow-color), inset 0px 0px 5px var(--inner-shadow-color);
+}
+
+.image-block img {
+    box-shadow: var(--content-box-shadow), var(--main-inner-box-shadow);
+    margin-top: .5em;
+}
+
+.yui-navset .yui-content {
+    box-shadow: var(--main-inner-box-shadow);
+}
+
+.sideTabview .yui-navset, .sideTabview .yui-navset * {
+    box-shadow: none!important;
+}
+
+.sideTabview .yui-navset {
+    box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), var(--main-inner-box-shadow)!important;
+}
+
+table.wiki-content-table, .header-panel, .footer-panel, .news-block .body-panel, .featured-block .body-panel, .info-block .body-panel, .sidenoteH, .sidenoteC, .sidenoteI {
+    box-shadow: inset 0px 0px 10px var(--inner-shadow-color);
+}
+ 
+.content-box, .content-panel, #toc, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block, .hovertip, .owindow, .footnotes-footer, .yui-navset, .sideTabview .yui-navset, .tableStyle, #top-bar ul li ul, #account-options {
+    box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), var(--main-inner-box-shadow);
+}
+
+
+
+/* Rating Font Section: */
+
+.rateContainer {
+font-family: var(--header-font);
+    font-size: normal;
+
+    word-spacing: normal;
+    letter-spacing: normal;
+    margin-bottom: 0.5em;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+
+
+/* Image Block Section: */
+
+.image-block .image-caption {
+    background: none;
+    border-top: none;
+}
+
+.image-block {
+    background: none;
+    box-shadow: none;
+}
+
+.image-block img {
+    border: var(--basic-border);
+    background: var(--primary-background);
+}
+
+
+
+/* Sidenote Section: */
+
+.sidenoteI {
+    padding: 0px;
+}
+
+.sidenoteH {
+    border: var(--side-ridge-border);
+    border-top: var(--secondary-ridge-border);
+    border-bottom: var(--primary-ridge-border);
+}
+
+.sidenoteC, .sidenoteI {
+    border-top: none;
+    border-left: var(--side-ridge-border);
+    border-right: var(--side-ridge-border);
+    border-bottom: var(--primary-ridge-border);
+}
+
+
+
+/* Page Bottom Section: (Edit Box, Wikidot Bottom Bar, Ect.) */
+
+form#edit-page-form {
+    padding: 10px 40px 1em 10px;
+}
+
+#thread-description, #np-text, #post-edit, .field-header .form-wiki, .field-content .form-wiki, .text.form-control, #file-comments, .form .text, #edit-meta-newtag-form .text, .new-page-box .text, #edit-page-textarea, #edit-page-title, #edit-page-comments, .query-area .text, #membership-by-apply-text, .yui-content .text {
+    border: 6px ridge var(--golden-trim-border-color);
+    box-shadow: var(--main-outer-box-shadow);
+}
+
+ table.edit-page-bottomtable {
+    margin: 10px 10px;
+}
+
+#footer {
+font-family: var(--header-font);
+    border-top: 4px ridge var(--golden-trim-border-color);
+    border-bottom: 4px ridge var(--golden-trim-border-color);
+    box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), var(--main-inner-box-shadow);
+    background: var(--news-block-body-panel-background-even);
+}
+
+.footnotes-footer {
+    padding: 1em;
+    margin: 1em;
+    background: var(--primary-background);
+}
+
+#footer a {
+    color: var(--primary-text-color);
+}
+
+#license-area {
+font-family: var(--subheader-font);
+    background: var(--content-panel-background);
+    box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), var(--main-inner-box-shadow);
+}
+
+
+
+/* Page History Section: */
+
+td.optionstd {
+    width: 6em!important;
+    height: 3em;
+}
+
+table.page-history td.optionstd a {
+    border: var(--basic-border)!important;
+}
+
+
+
+/* Custom Background Variation Section: */
+
+.paper-bg-1, .paper-bg-2, .paper-bg-3, .paper-bg-4, .paper-bg-5, .paper-bg-6 {
+  padding: 15px;
+  margin: 15px;
+  box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), 0 0 60px -25px var(--giant-shadow-color), inset 0px 0px 10px var(--inner-shadow-color), inset 0px -10px 50px var(--inner-shadow-color);
+  border-radius: 5px;
+}
+
+.paper-bg-1 {
+  background: var(--custom-paper-background-1);
+}
+
+.paper-bg-2 {
+  background: var(--custom-paper-background-2);
+}
+
+.paper-bg-3 {
+  background: var(--custom-paper-background-3);
+}
+
+.paper-bg-4 {
+  background: var(--custom-paper-background-4);
+}
+
+.paper-bg-5 {
+  background: var(--custom-paper-background-5);
+}
+
+.paper-bg-6 {
+  background: var(--custom-paper-background-6);
+}
+
+/* Dot Leader Section: */
+
+th.flat-cell {
+    float: left; 
+}
+
+th.dot-leader {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Dot%20Leader%20Background.png); 
+    width: 100%; 
+    background-repeat: repeat-x; 
+    background-position: 
+    bottom; 
+    background-size: 1.4%;
+}
+
+
+
+/* Divider hr Section: */
+
+hr, #side-bar hr, .content-panel hr, .yui-content hr, .info-block hr, .news-block hr, .featured-block hr, blockquote hr {
+    height: 2px;
+    background: linear-gradient(45deg, transparent, #988f7a, #988f7a, #4c474370, #988f7a, #988f7a, transparent);
+    box-shadow: 0px -2px 4px 0px var(--golden-trim-border-color);
+}
+
+.regular-divider hr {
+    background: #8e846d!important;
+    box-shadow: 0px 0px 7px 1px #b387218c!important;
+}
+
+.fancy-divider-1 hr {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Fancy%20Divider%201.png) no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 60px;
+    margin: 10px 0;
+    box-shadow: none;
+}
+
+.fancy-divider-2 hr {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Fancy%20Divider%202.png) no-repeat;
+    background-size: 101%;
+    background-position: center;
+    height: 50px;
+    margin: 10px 0;
+    box-shadow: none;
+}
+
+.fancy-divider-3 hr {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Fancy%20Divider%203.png) no-repeat;
+    background-size: 101%;
+    background-position: center;
+    height: 50px;
+    margin: 10px 0;
+    box-shadow: none;
+}
+
+.fancy-divider-4 hr {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Fancy%20Divider%204.png) no-repeat;
+    background-size: 50%;
+    background-position: center;
+    margin: 9px 0;
+    height: 70px;
+    box-shadow: none;
+}
+
+.fancy-divider-5 hr {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Fancy%20Divider%20%205.png) no-repeat;
+    background-size: 35%;
+    background-position: center;
+    height: 150px;
+    margin: 10px 0;
+    box-shadow: none;
+}
+
+/* Font Variation Section: */
+
+.indent li, .indent p {
+    text-indent: 1.5em;
+}
+
+.drop-cap {
+font-family: var(--header-font);
+    font-size: 530%;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px var(--primary-text-color);
+    color: var(--primary-text-color);
+
+    padding: 3px;
+    margin-right: 7px;
+    margin-left: 1px;
+
+    float: left;
+    line-height: 65px;
+}
+
+.drop-cap-fancy {
+font-family: var(--title-font);
+    font-size: 530%;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px var(--primary-text-color);
+    color: var(--primary-text-color);
+
+    padding: 3px;
+    margin-right: 7px;
+    margin-left: 1px;
+
+    border: 2px solid var(--primary-text-color);
+    border-bottom: 3px solid var(--primary-text-color);
+    border-radius: 2px;
+
+    float: left;
+    line-height: 65px;
+    box-shadow: 0 0px 5px var(--primary-text-color), inset 0 0 5px var(--primary-text-color);
+}
+
+.Playfair {
+    font-family: 'Playfair Display SC', serif;
+}
+
+.Merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.Castoro {
+    font-family:  'Castoro', serif;
+}
+
+.Anton {
+    font-family: 'Anton', sans-serif;
+}
+
+.Asap {
+    font-family: 'Asap', sans-serif;
+}
+
+
+
+ /* Miscellaneous Section: */
+
+#h-perpage, .optionstd a, .new-post .btn, #history-form-1 .btn-sm, .well .btn-sm, .change-textarea-size a, .buttons .btn-small, .action-area .btn-default, .action-area .btn-primary, .col-lg-10 .form-control, .form-actions .btn-danger, .buttons .btn-default, .target a, .buttons .btn-danger, #edit-cancel-button, #edit-save-button, .button-close-message, .button-close-window, .button-cancel, .button-insert-code, #wd-ed-codewizard-type, #wd-ed-imagewizard-position, #wd-ed-imagewizard-uri, #wd-ed-imagewizard-byuri .button, #wd-ed-imagewizard-flickr, #wd-ed-imagewizard-byflickr .button, .query-area .button, .button-close, .button-rename, .button-no\,-cancel, .button-yes\,-delete, #file-upload-form .btn-primary, .button-move, #action-area .buttons .btn-primary, #edit-page-form .buttons .btn-info, #view-diff-div .button, .button-yes\,-revert, .modal-footer .btn-danger, .modal-footer .btn-default, .modal-footer .btn-primary, #mba-apply, .yui-content .button, .btn-warning, #edit-meta-newtag-form div .btn, .new-page-box .button, #page-templates, #recent-posts-category, .forum-recent-posts-box form .btn, .owindow .button-bar .btn {
+font-family: var(--header-font);
+    color: var(--light-text-color);
+    box-shadow: var(--main-outer-box-shadow);
+    font-weight: bold;
+}
+
+.pager .current {
+    border: 2px solid var(--link-color);
+}
+
+.hovertip {
+    font-family: var(--header-font);
+}
+
+blockquote { 
+    background: var(--custom-paper-background-1);
+    box-shadow: var(--main-hard-box-shadow), var(--main-outer-box-shadow), 0 0 60px -25px var(--giant-shadow-color), inset 0px 0px 10px var(--inner-shadow-color), inset 0px -10px 50px var(--inner-shadow-color);
+}
+
+.owindow {
+font-family: var(--header-font);
+}
+
+.highlight td {
+    background-color: var(--primary-background);
+}
+
+::selection {
+    color: #fcfcfc;
+    background: #8b5542c4;
+}
+
+
+:root {
+
+
+
+/* General Variables Section: (Main Var., Sidebar, put Custom/Reference Variables here) */
+    --text-color: #42423e;
+    --page-title-color: #4c4743;
+    --sidebar-header-color: #422314f0;
+
+    --light-text-color: #e3d6be;
+    --primary-text-color: #681e12;
+
+    --sidebar-hover-color: var(--light-text-color);
+    --sidenote-figure-open-color: var(--primary-background);
+    --sidenote-open-background: var(--primary-text-color)
+;
+
+/* Font Variables Section: (Categorizes Fonts used in Theme to a Few Changeable Variable) */
+
+    --header-font: 'Merriweather', serif;
+    --subheader-font: 'Castoro', serif;
+    --title-font: 'Playfair Display SC', serif;
+    --body-font: helvetica;
+    --block-font:  'Asap', sans-serif;
+
+/* Background Variables Section: (Important) */
+
+    --body-background: #695c4c;
+    --nav-hover-background: var(--primary-text-color);
+
+    --primary-background: #e3d6be;
+    --content-bar-background: #ccb68f;
+    --content-panel-background: #ddcda1;
+    --news-block-body-panel-background-even: #cdbe91;
+
+    --modal-header-background: var(--primary-background);
+    --modal-body-background: var(--news-block-body-panel-background-even);
+
+    --blockquote-background: var(--primary-background);
+    --horizontal-rule-background: ; /* unused due to fading effect */
+
+/* Header Variables Section: */
+
+    --header-text-visibility: hidden;
+    --header-custom-text: '';
+    --header-tagline-custom-text: '';
+    --header-icon-size: auto calc(11.5rem - 2.125rem);
+--header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Heading.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Header.png);
+    --header-color: var(--primary-text-color);
+    --header-tagline-color: var(--sidebar-header-color);
+    --header-tagline-top: 8px;
+
+/* Link Variables Section:  */
+ 
+    --link-color: #ac2711;
+    --link-hover-color: #d83535;
+    --new-page-color: #c53f2985;
+ 
+/* Link Variables Section:  */
+
+  --custom-paper-background-1: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%201.png);
+  --custom-paper-background-2: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%202.png);
+  --custom-paper-background-3: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%203.png);
+  --custom-paper-background-4: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%204.png);
+  --custom-paper-background-5: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%205.png);
+  --custom-paper-background-6: url(http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Paper%20Background%206.png);
+
+/* Button Variables Section: */ 
+ 
+    --button-hover-color: #d6d6d6;
+    --button-background: var(--primary-text-color);
+    --button-hover-background: var(--link-color);
+
+    --button-border: 4px ridge var(--golden-trim-border-color);
+    --button-hover-border: var(--secondary-ridge-border);
+
+/* Search Bar Variables Section: (in header: top of pg.) */
+
+    --search-button-background: var(--content-bar-background);
+    --search-button-border: 4px ridge var(--main-border-color);
+
+    --search-button-hover-background: var(--content-panel-background);
+    --search-button-hover-border: var(--secondary-ridge-border);
+
+    --search-input-text: var(--page-title-color);
+    --search-input-hover-color: var(--primary-text-color);
+
+    --search-input-color: var(--content-panel-background);
+    --search-input-border: var(--search-button-border);
+
+    --search-input-hover: var(--primary-background);
+    --search-input-hover-border: var(--search-button-hover-border);
+
+/* Topbar Variables Section: */
+
+    --topbar-dropdown-color: var(--sidebar-header-color);
+    --topbar-dropdown-background: var(--primary-background);
+    --topbar-text-color: var(--sidebar-header-color);
+    --topbar-hover-background: var(--primary-text-color);
+    --topbar-hover-color: var(--light-text-color);
+    /* --topbar-divider: ; */
+    --topbar-dropdown-border-color: var(--primary-text-color);
+  
+
+/* Tabview Variables Section: (Reg., Large, Hidden...) */
+ 
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: var(--secondary-ridge-border);
+    --tabview-button-selected-background: var(--primary-text-color);
+    --tabview-button-selected-color: var(--light-text-color);
+    --tabview-button-hover-background: var(--link-color);
+
+
+/* Side-Tabview Variable Section: */ 
+
+    --tabview-side-tabs-background: var(--content-panel-background);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--tabview-button-selected-background);
+    --tabview-side-button-divider: var(--primary-ridge-border);
+
+    --tabview-side-scrollbar-background: var(--news-block-body-panel-background-even);
+    --tabview-side-scrollbar-thumb-background: var(--tabview-side-button-selected-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--tabview-button-hover-background);
+
+/* Scrollbar Variables Section: (Use usually in random with "--tabview-side-scrollbar..." var.) */
+
+    --BT-scrollbar-background: #93834f;
+    --BT-resizer-background: var(--primary-text-color);
+    --BT-scrollbar-thumb-background: var(--primary-text-color);
+    --BT-scrollbar-thumb-hover-background: var(--link-color);
+
+/* Tables Variables Section: */
+ 
+    --table-header-color: var(--primary-text-color);
+    --table-cell-color: var(--primary-background);
+    --table-box-shadow: none;
+
+/* Custom Variables Section: (Variables made specifically for this theme that are hard-coded in) */
+
+    --main-border-color: #bba258;
+    --golden-trim-border-color: #b38721;
+
+    --main-content-border: 8px ridge var(--golden-trim-border-color);
+    --primary-ridge-border: 6px ridge var(--main-border-color);
+    --secondary-ridge-border: 4px ridge var(--main-border-color); 
+    --side-ridge-border: 8px ridge var(--main-border-color);
+
+    --inner-shadow-color: #948757;
+    --outer-shadow-color: #3c39357a;
+    --hard-shadow-color: #480903;
+    --giant-shadow-color: #00000073;
+
+    --main-outer-box-shadow: 0 0 10px 5px var(--outer-shadow-color);
+    --main-inner-box-shadow: inset 1px 1px 20px var(--inner-shadow-color);
+    --main-hard-box-shadow: 4px 4px 8px var(--hard-shadow-color);
+
+    --paper-stain-text-shadow: 1px 1px 0px #ffffff40, 0.5px 0.5px 5px var(--golden-trim-border-color);
+    --first-letter-text-shadow: 1px 0px 1px #ffffff52, 0px 0px 15px var(--primary-text-color);
+    --main-text-shadow: 0 0 8px var(--inner-shadow-color), 1px 1px 1px #af9a4f;
+
+/* Miscellaneous Variables Section: (Text, template, critcorner, star hue) */
+
+    --text-box-form-background: var(--news-block-body-panel-background-even); 
+    --text-box-form-border: var(--secondary-ridge-border);
+    --template-block-background: var(--primary-background);  
+
+    --code-background: var(--primary-background); 
+    --sidebar-crit-corner-color: #9e6549;
+    --star-rating-hue: 170deg; 
+
+    --star-rating-background: var(--content-panel-background);
+    --star-rating-cell-background: var(--content-bar-background);
+    --star-rating-reading-background: var(--content-bar-background); 
+    --star-rating-stars-box-shadow: none!important;
+
+    --footer-color: var(--sidebar-header-color);
+    --footer-background: var(--news-block-body-panel-background-even);
+
+ /* Borders Variables Section: (Sect. Size may vary based on Theme; Check for dead custom var., either clump variables together or put them in the corresponding sect.) */
+
+    --basic-border: 2px solid var(--main-border-color);
+    --dashed-border: 1px dashed var(--main-border-color);
+    --thick-border: 2px solid var(--main-border-color);
+
+    --content-block-border: var(--basic-border);
+    --content-panel-border: var(--emergency-border);
+    --content-box-border-color: var(--main-border-color);
+
+    --content-box-shadow: var(--main-outer-box-shadow), var(--main-inner-box-shadow);
+    --template-block-border: var(--basic-border);
+    --star-rating-border: var(--primary-ridge-border);
+    --footnote-border: var(--secondary-ridge-border);
+    --tags-border: 2px solid var(--link-color);
+
+/* Variables Out of Commission for Theme: (Ridge was mainly hardcoded; Emergency Border in case hard coding goes haywire) */
+
+    --table-border: none;
+    --tabview-border: none;
+    --image-block-border: none;
+
+    --emergency-border: 3px dotted #ff83fb;
+
+    --tabview-side-border: var(--emergency-border);
+    --owindow-border: var(--emergency-border);
+    --toc-border: var(--emergency-border);
+    --sidenote-contents-border: var(--emergency-border);
+    --sidenote-figure-border: var(--emergency-border);
+
+/* Account Opt. (Don't put w/ rest of borders, to be used in tandem w/ Hover box in extended options)*/
+
+    --account-options-border: var(--primary-ridge-border);
+}
+
+
+.printuser {
+font-family: var(--header-font);
+    font-weight: bold;
+    color: var(--light-text-color);
+    background-color:transparent;
+}
+
+#account-options { 
+font-family: var(--header-font);
+}
+
+#login-status {
+font-family: var(--subheader-font);
+    font-weight: bold;
+    font-size: 90%;
+    color: var(--light-text-color);
+ 
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+    background: rgba(0,0,0,0.25);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+    z-index: 30;
+}
+ 
+#login-status a {
+    color: var(--light-text-color); 
+}
+ 
+#login-status a:hover {
+    color: var(--link-hover-color);
+}
+ 
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--page-title-color);
+    border: 0px solid #ccc;
+    text-shadow: var(--paper-stain-text-shadow);
+    font-weight: bold;
+}
+ 
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: var(--tabview-button-selected-color);
+    text-shadow: 1px 1px 1px black, 0px 0px 15px var(--primary-text-color);
+}
+
+ 
+.open-themes-container {
+    display: none;
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[collapsible show="+ Assets (Images and Fonts)" hide="- Assets (Images and Fonts)"]]
+----
+[[=]]
+++ **The New Frontier Assets: Logos**
+[[/=]]
+
+~~~~
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++++ The New Frontier Title & Tagline:
+[[/div]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Heading.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ The New Frontier Sign:
+++++ (Wooden)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Wooden%20Sign.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ The New Frontier Sign:
+++++ (Painted)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Painted%20Sign.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Grimey Auctoritas Logo
+++++ (Made for Literally no Reason)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Auctoritas%20Dirty%20Golden%20Sigil.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Golden Auctoritas Logo
+++++ (Made for Literally no Reason)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Auctoritas%20Clean%20Golden%20Sigil.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="left-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ The New Frontier Logo:
+++++ (Official Theme Logo)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Logo.png width="100%"]]
+[[/div]]
+[[/div]]
+
+
+[[div class="right-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ Remade Auctoritas Logo
+++++ (Old Logo Remake)
+[[/div]]
+
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Auctoritas%20Remade%20Sigil.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+----
+[[=]]
+++ **The New Frontier Assets: Theme Textures**
+[[/=]]
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ The New Frontier Theme Header:
+[[/div]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/New%20Frontier%20Header.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ The New Frontier Wooden Background:
+[[/div]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Wooden%20Background.png width="100%"]]
+[[/div]]
+[[/div]]
+
+[[div class="center-column"]]
+[[div style="text-align: center; margin: 2.5em;"]]
+++ The New Frontier Bottom Texture:
+++++ (Grime at bottom of screen)
+[[/div]]
+[[div class="art"]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/Grime%20Background.png width="100%"]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+----
+
+[[=]]
+++ **The New Frontier Custom Paper Backgrounds:**
+[[/=]]
+
+[[div class="paper-bg-1"]]
+Paper Background 1:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-1"]] Paper Background One Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-2"]]
+Paper Background 2:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-2"]] Paper Background Two Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-3"]]
+Paper Background 3:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-3"]] Paper Background Three Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-4"]]
+Paper Background 4:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-4"]] Paper Background Four Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-5"]]
+Paper Background 5:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-5"]] Paper Background Five Text [[/div]]@@
+[[/div]]
+
+[[div class="paper-bg-6"]]
+Paper Background 5:
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[[>|Dead Link]]]
+
+> @@[[div class="paper-bg-6"]] Paper Background Six Text [[/div]]@@
+[[/div]]
+
+----
+
+[[=]]
+++ **The New Frontier Fancy Dividers:**
+[[/=]]
+
+[[div class="regular-divider"]]
+----
+[[/div]]
+
+> @@[[div class="regular-divider"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-1"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-1"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-2"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-2"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-3"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-3"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-4"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-4"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+[[div class="fancy-divider-5"]]
+----
+[[/div]]
+
+> @@[[div class="fancy-divider-5"]]@@
+> @@----@@
+> @@[[/div]]@@
+
+----
+
+[[=]]
+++ **The New Frontier Drop Cap Classes:**
+[[/=]]
+
+> @@ [[span class="drop-cap"]] D [[/span]] rop Class Fancy Text @@
+
+[[span class="drop-cap"]] L [[/span]]orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+> @@ [[span class="drop-cap"]] D [[/span]] rop Class Fancy Text @@
+
+[[span class="drop-cap-fancy"]] L [[/span]]orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+----
+
+[[=]]
+++ **Div Classes: Indent and Dot Leader**
+[[/=]]
+
+[[div class="indent"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[[/div]]
+
+> @@ [[div class="indent"]] Indent Text [[/div]] @@
+
+
+
+[[table]] [[row]]
+[[hcell class="flat-cell"]]
+Sample Text
+[[/hcell]]
+[[hcell class="dot-leader"]][[/hcell]]
+[[hcell class="flat-cell"]]
+Lorem Ipsum
+[[/hcell]]
+[[/row]] [[/table]]
+
+[[table]] [[row]]
+[[hcell class="flat-cell"]]
+[[[http://www.rpc-wiki.net/component:theme|Real Link]]]
+[[/hcell]]
+[[hcell class="dot-leader"]][[/hcell]]
+[[hcell class="flat-cell"]]
+Lorem Ipsum
+[[/hcell]]
+[[/row]] [[/table]]
+
+[[table]] [[row]]
+[[hcell class="flat-cell"]]
+[[[>|Dead Link]]]
+[[/hcell]]
+[[hcell class="dot-leader"]][[/hcell]]
+[[hcell class="flat-cell"]]
+Lorem Ipsum
+[[/hcell]] 
+[[/row]] [[/table]]
+
+> @@ [[table]] [[row]] @@
+> @@ [[hcell class="flat-cell"]] @@
+> @@ Lorem @@
+> @@ [[/hcell]] @@
+> @@ [[hcell class="dot-leader"]][[/hcell]] @@
+> @@ [[hcell class="flat-cell"]] @@
+> @@ Ipsum @@
+> @@ [[/hcell]] @@
+> @@ [[/row]] [[/table]] @@
+
+----
+
+[[=]]
+++ **The New Frontier Class Fonts:**
+[[/=]]
+
+[[span class="Playfair"]] "Playfair Text" [[/span]]
+> @@ [[span class="Playfair"]] Playfair Text [[/span]] @@
+
+[[span class="Merriweather"]] "Merriweather Text" [[/span]]
+> @@ [[span class="Merriweather"]] Merriweather Text [[/span]] @@
+
+[[span class="Castoro"]] "Castoro Text" [[/span]]
+> @@ [[span class="Castoro"]] Castoro Text [[/span]] @@
+
+[[span class="Anton"]] "Anton Text" [[/span]]
+> @@ [[span class="Anton"]] Anton Text [[/span]] @@
+
+[[span class="Asap"]] "Asap Text" [[/span]]
+> @@ [[span class="Asap"]] Asap Text [[/span]] @@
+
+[[/collapsible]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:new-frontier-theme/code/1); @@
+> @@ [[/module]] @@
+
