@@ -1,0 +1,244 @@
+---
+title: "Funhouse"
+tags: ["art", "author-page"]
+page_id: "1468368609"
+site: "rpcauthority"
+slug: "funhouse"
+revision: 127
+revision_id: "1545718348"
+author: 7013424
+timestamp: 1785940468
+---
+
+[[module css]]
+@import url(https://rpcauthority.wdfiles.com/local--code/component%3Afunhouse-theme/1);
+[[/module]]
+
+[[module CSS]]
+
+.dattop {
+   background-image: url(https://files.catbox.moe/oxberh.gif);
+   background-position: 0% 50%;
+   background-repeat: no-repeat;
+   background-size: 10px;
+   padding-left: 0px;
+}
+
+.racismisbad {
+   animation: car 400s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes car {
+    0% { transform: translate(0px, 0px) rotate(0deg); }
+    15% { transform: translate(1px, 0px) rotate(0deg); }
+    20% { transform: translate(650px, 0px) rotate(0deg); }
+    35% { transform: translate(650px, 0px) rotate(0deg); }
+    45% { transform: translate(651px, 0px) rotate(0deg); }
+    50% { transform: translate(1600px, 0px) rotate(0deg); }
+    63% { transform: translate(1600px, 0px) rotate(0deg); }
+    65% { transform: translate(1100px, 0px) rotate(0deg); }
+    67% { transform: translate(1100px, 0px) rotate(0deg); }
+    75% { transform: translate(1600px, 0px) rotate(0deg); }
+    89% { transform: translate(1600px, 0px) rotate(0deg); }
+    90% { transform: translate(-4000px, -200px) rotate(0deg); }
+    98% { transform: translate(-950px, 0px) rotate(0deg); }
+    100% { transform: translate(0px, 0px) rotate(0deg); }
+}
+
+[[/module]]
+
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/funhouse/fagfight.png|caption="I wish to see stick figures fighting to the death." - [[*user Excer]]|align=center|width=700px]]
+
+[[# wearesoback]]
+
+[[tabview]]
+[[tab Memorandum]]
++* Writing
+||~ Registered Phenomena Code||~ Commentary||
+||**[[[RPC-832]]]** || **Granfalloon:** I started working on this back in September 2023 with no real theme in mind. The issue is I tried too hard to make it inspired by The Thing before properly brainstorming what I want to do with it. Eventually, Red and I tried to pick up the pieces and enforce a theme on top, but I got exhausted with it and opted to post it prematurely. I suppose I can come back to it at some point and tie down the mystery and its connection to Nivaldi, which is shotgunned at you by the end. ||
+||**[[[RPC-767]]]**|| **Behavioural Bloodletting:** Original author [[*user DrNecrofeelya]], who FUCKING DELETED IT AFTER I LEFT CRIT. Literally kept no local or online copies anywhere. Thankfully, Double had a site backup, which allowed me to snatch a copy and rewrite it. What's most frustrating about this is that it was basically at the finish line, and he dipped. And instead of shelving it, he fucking scraps and trashes it. Funny that this is among the better articles I've published, and for whatever reason, would rather transfer all credit to me despite it being a rewrite.||
+||**[[[RPC-694]]]**|| **Watson:** Hazard Poker entry a whole year after I was dealt my hand. This was really forced; regardless, I'm glad I practiced dialogue with it. I have yet to hear Double's thoughts on it in review, which I'm certain I'll include in Important Advice once it's up. There are some minor fixes I wish to implement, eventually. ||
+||**[[[RPC-912]]]**|| **Cerebral Motility:** Co-authored with [[*user Leonor Titania]], originally intended to be a rewrite, it ended up becoming a long-winded effort to make the best it could be while simultaneously appeasing Sheespy's vision. Overall, a real fucking stressful experience. So much fighting and bullshit between us, but somehow it led to something we're truly proud of. It may not be the same anomalous property she insisted on, but it is great and my best effort yet. It's missing a single segment to justify the experiments as therapy, that connection being essential but improperly conveyed. A clinical overview of the nerve filaments, and perhaps better elaboration on Vilomah's involvement.||
+||**[http://rpcsandbox.wikidot.com/box-of-cox Box of Cox]**|| Muh Sandbox[[span style="color:transparent"]]🐿️[[/span]]||
++* All My Favorites
+++* RPCs
+# **[[[RPC-202]]]** ([[*user 0ktober]])
+# **[[[RPC-117]]]** ([[*user antdem0n]])
+# **[[[RPC-341]]]** ([[*user MF_Tomb]])
+# **[[[RPC-983]]]** (GibbyFuckingDies)
+# **[[[RPC-973]]]** ([[*user Raggabrash]])
+# **[[[RPC-691]]]** ([[*user Rotifer]])
+# **[[[RPC-042]]]** ([[*user DrPierson]])
+# **[[[RPC-429]]]** ([[*user JimmyBoyHaha]])
+# **[[[RPC-621]]]** ([[*user H_F_DUMMIE]])
+# **[[[RPC-624]]]** ([[*user Raggabrash]])
+++* SCPs
+# **[https://scp-wiki.wikidot.com/scp-055 SCP-055]** ([[*user qntm]]/CptBellman)
+# **[https://scp-wiki.wikidot.com/scp-3001 SCP-3001]** ([[*user OZ Ouroboros]])
+# **[https://scp-wiki.wikidot.com/scp-2998 SCP-2998]** ([[*user Eskobar]])
+# **[https://scp-wiki.wikidot.com/scp-610 SCP-610]** ([[*user NekoChris]])
+# **[https://scp-wiki.wikidot.com/scp-4001 SCP-4001]** ([[*user GentleGifts]])
+# **[https://scp-wiki.wikidot.com/shaggydredlocks-proposal CODE NAME: S. D. Locke]** ([[*user S D Locke]])
+# **[https://scp-wiki.wikidot.com/scp-231 SCP-231]** ([[*user DrClef]])
+# **[https://scp-wiki.wikidot.com/scp-1230 SCP-1230]** ([[*user MrPixel]])
+# **[https://scp-wiki.wikidot.com/scp-176 SCP-176]** ([[*user Aelanna]])
+# **[https://scp-wiki.wikidot.com/scp-1504 SCP-1504]** ([[*user MayD]])
+[[/tab]]
+[[tab RPC Authority Gallery]]
+@@@@
+**[http://rpcauthority.wikidot.com/site-terminal-injections 2026 Site Terminal Injections]**
+@@@@
+@@@@
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/site-terminal-injections/P-TTL|align=center|width=550px|]]
+@@@@
+@@@@
+[[collapsible show="+ ALT" hide="× ALT" hideLocation="both"]]
+@@@@
+@@@@
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/site-terminal-injections/P-TTLA|align=center|width=550px|]]
+@@@@
+@@@@
+[[/collapsible]]
+@@@@
+@@@@
+----
+@@@@
+**[[[RPC-487]]]** - Kettle's Purple-palmed Wallabies
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/rpc-487/kettle.jpg|align=center|width=550px|]]
+@@@@
+@@@@
+----
+@@@@
+**[[[RPC-832]]]** - Granfalloon: Illustrations retrieved from Senior Researcher Rayyan F. Palmer’s journal.
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/rpc-832/P-00832-1|caption=RPC-832|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/rpc-832/P-00832-2|caption=RPC-832-S14|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/rpc-832/P-00832-4|caption=RPC-832-S37|align=center|width=550px]]
+@@@@
+@@@@
+----
+@@@@
+@@@@
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/funhouse/thirteenpoints|caption= [[[RPC-472]]]|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/nikusha|caption=[[[RPC-846]]]|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/devilsadvocate|caption=[[[RPC-370]]], interview 4|align=center|width=550px]]
+@@@@
+@@@@
+[[collapsible show="+ Almond" hide="× Melvin" hideLocation="both"]]
+@@@@
+@@@@
+[[include component:image-block name=http://rpcauthority.wikidot.com/local--files/funhouse/6969-j%20%26%20248-j.png|caption=[[[RPC-6969-J]]] & [[[RPC-248-J]]]|align=center|width=550px]]
+@@@@
+@@@@
+[[/collapsible]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/cmere|caption=[[[RPC-035]]]|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/kaballicadillac|caption="Kaballic department head running from [http://rpcauthority.wikidot.com/gd-schl The Scholar] after consuming roughly two kilos of esoteric supplemental substances, XX.XX.2021" - [[*user 8ismo]]|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/pee|caption=[[[RPC-945]]]|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/nevertouchgrass|caption=[[[RPC-113]]]|align=center|width=550px]]
+@@@@
+@@@@
+[#wearesoback ^^ Back ^^]
+[[/tab]]
+[[tab Cosmic Embers Gallery]]
+@@@@
+**[http://rpcauthority.wikidot.com/iskoin-alien-report Iskoin Alien Report]**
+@@@@
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/iskoin-alien-report/IskoArt.png|caption=Iskoin|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=http://rpcauthority.wdfiles.com/local--files/iskoin-alien-report/Binding.png|caption=Iskoin Arm Binder|align=center|width=550px]]
+@@@@
+@@@@
+----
+@@@@
+**[http://rpcauthority.wikidot.com/flare-alien-report Flare Alien Report]** (Stain effects added by [[*user Mr Makor]])
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/flare-alien-report/Worker.jpg|caption=Worker variant|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/flare-alien-report/Bug.jpg|caption=Greasebug variant|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/flare-alien-report/Incinerator.jpg|caption=Incinerator variant|align=center|width=550px]]
+@@@@
+@@@@
+----
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/phantsemites|caption=[http://rpcauthority.wikidot.com/zidophant-alien-report Zidophants]|align=center|width=550px]]
+@@@@
+@@@@
+[#wearesoback ^^ Back ^^]
+[[/tab]]
+[[tab Important Advice]]
+[[div class="blockquote"]]
+"It's a great first try, but I think it suffers a lot from being overwritten...The tests are by in large redundant with the Description and could easily be summarized into 1-3 entries....The visual of a botched self-trepanation is strong enough that all the ensuing explanation only dilutes its impact with the kind of "scientist makes contact with something and goes insane" plot that every Lovecraft short story is about."
+[[/div]]
+* [[*user Almarduk]] on [[[RPC-832]]]
+
+[[div class="blockquote"]]
+"...the article does have a little bit of a spoonfeeding problem...These articles are not only written for qualified researchers but world-class ones at that, and us real-world laymen can use Google just fine. This took away from the immersion for me; the site is meant to satisfy the niche of reading a document that is not meant for you to read, and the spoonfeeding made it obvious to me the specific points where the author was afraid the terminology would go over the head of the layman reader."
+[[/div]]
+* [[*user Malfestance]] on [[[RPC-912]]]
+
+[[div class="blockquote"]]
+Footnotes should be used for clarification/correcting misconceptions, and should be accurate to the context. Using it to tell a white lie (handwaving/dismissing a permanent wrist impairment, a severe injury, as a "slight sprain") goes completely against that principle. Of course a footnote can be used for humorous effect but it still has to be professional in tone, accurate and truthful with its technicality
+
+Take the way I used it jokingly in one of my articles: A captured civilian becomes aggressive and combative during an interview with no provocation, assaults the interviewer, and gets assaulted in return with a cattle prod by security. He screams that the Geneva Conventions are being violated. The subsequent footnote clarifies that the GC pertains to the treatment of non-combatants (civilians/POWs) during war, and as this is not a war scenario, it's not being violated.
+[[/div]]
+* [[*user GrammerPoliseCheif]] on [[[RPC-912]]]
+
+[[/tab]]
+[[tab Fanart :D]]
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/F-00767|align=center|width=550px]]
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/F-00767-I|align=center|width=550px]]
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/F-00767-II|caption=By [[*user Leonor Titania]]|align=center|width=550px]]
+@@@@
+@@@@
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/F-00694.png|align=center|width=550px]]
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/funhouse/F-00912.png|caption=By [[*user Adejny]]|align=center|width=550px]]
+[[/tab]]
+[[/tabview]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="racismisbad"]]
+[[div class="dattop"]]
+‎ 
+[[/div]]
+[[/div]]
+[!--{[A3AQM::!::
+maintext="<br>""I wish to see stick figures fighting to the death." - Excer"::
+objectclass="Omega-Black (Utility)"::
+title="Funhouse"::
+imglink="http://rpcauthority.wikidot.com/local--files/funhouse/fagfight.png"::
+planttruncationlink=false
+]}--]
+

@@ -1,0 +1,524 @@
+---
+title: "RPC-193"
+tags: ["alpha", "amazing.co", "co-authored", "contact-hazard", "destabilization-hazard", "fail-safe", "mechanical-hazard", "nucorp", "rpc", "translated", "transmutation-hazard", "utility", "yellow"]
+page_id: "835223693"
+site: "rpcauthority"
+slug: "rpc-193"
+revision: 34
+revision_id: "1544747781"
+author: 9161410
+timestamp: 1781935320
+---
+
+[[span class="listresize"]]The Amazing! Co. Kidz-Frendly STAPLOR!™[[/span]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:fail-safe-theme/code/1);
+[[/module]]
+
+[[module css]]
+:root {
+    --v1: #f58b40; /* Orange Text */
+    --WT-v1: #d56210; /* Orange Text in Light Mode */
+}
+.cell {
+    background-color: var(--table-cell-background);
+    border: var(--table-border);
+    padding: 0.3em 0.7em;
+}
+
+.hcell {
+    background-color: var(--table-header-background-alt);
+    border: var(--table-border);
+    padding: 0.3em 0.7em;
+    color: #eee;
+}
+
+@media (min-width: 769px) {
+.customTable {
+    float: right; 
+    width: 55%;
+}
+}
+[[/module]]
+
+[[include component:rate translations=show|translationblock=[[image http://www.rpc-wiki.net/local--files/component:icons/pt.png link="http://autoridaderpc-pt-br.wikidot.com/rpc-193"]]]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-yellow.png]]
+
+**Registered Phenomena Code:** 193
+
+**Object Class:** Alpha-Yellow (Formerly Alpha-White)
+
+**Secondary Class:** Utility
+
+**Hazard Types:** Mechanical, Transmutation, Contact, Destabilization 
+
+[[table style="box-shadow: var(--content-box-shadow); border-collapse: collapse; border-spacing: 0; margin: 15px;" class="customTable"]]
+[[row]]
+[[cell class="hcell" colspan="3"]]
+[[=]]
+Current RPC-193 Distribution
+[[/=]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="hcell"]]
+**Instance**
+[[/cell]]
+[[cell class="hcell"]]
+**Site**
+[[/cell]]
+[[cell class="hcell"]]
+**Location**
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+##var(--v1)|193-1##
+[[/cell]]
+[[cell class="cell"]]
+##f54242|--014--##
+[[/cell]]
+[[cell class="cell"]]
+##f54242|--Machine Shop 3E--##
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+##var(--v1)|193-2##
+[[/cell]]
+[[cell class="cell"]]
+##f54242|--014--##
+[[/cell]]
+[[cell class="cell"]]
+##f54242|--Machine Shop 3E--##
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+193-3
+[[/cell]]
+[[cell class="cell"]]
+022
+[[/cell]]
+[[cell class="cell"]]
+Machine Shop 1A
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+193-4
+[[/cell]]
+[[cell class="cell"]]
+040
+[[/cell]]
+[[cell class="cell"]]
+Advanced Materials Laboratory
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+193-5
+[[/cell]]
+[[cell class="cell"]]
+100 
+[[/cell]]
+[[cell class="cell"]]
+Experimental Surgical Facility 6F
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+193-6
+[[/cell]]
+[[cell class="cell"]]
+100
+[[/cell]]
+[[cell class="cell"]]
+Experimental Surgical Facility 7F
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+193-7
+[[/cell]]
+[[cell class="cell"]]
+100
+[[/cell]]
+[[cell class="cell"]]
+Anomalous Equipment Production Laboratory
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="cell"]]
+193-8
+[[/cell]]
+[[cell class="cell"]]
+019
+[[/cell]]
+[[cell class="cell"]]
+AEDF Fleet Yard, Tool Bay 5
+[[/cell]]
+[[/row]]
+[[/table]]
+
+**Containment Protocols:** When not in use as part of a NuCorp Coherency Bonder (NCCB), each RPC-193 instance is to be stored within a standard containment locker. Personnel wishing to employ an RPC-193 instance as part of an NCCB must have passed a certified Applied Coherency Technology Safety Course within the previous calendar year, and abide by all posted safety regulations. For further information on safe handling and usage of RPC-193 instances and NCCB machinery, consult the NCCB Procedures and Operation Manual, available in the "Personnel Safety Resources" section of the Containment Intranet.
+
+~~~~
+
+In the event that an RPC-193 instance must be transported, personnel should employ a standard Insulated Secure Container equipped with an automatic data logger.
+
+**UPDATE 14/06/2019:** Following recent events at Site-014, --RPC-193-1 is believed to be destroyed-- and RPC-193-2 is pending reclassification. The Containment Protocols only apply to RPC-193 instances that were unaffected. For further information, see Addendum 193.2.
+
+**Description:** RPC-193 is the collective designation for 8 anomalous staplers capable of manipulating the [[[acs-guide|coherency]]] of localized areas in order to form molecular bonds between objects. Pressing down on the stapler arm creates an area of low-coherency space (with an estimated ACS of 2.5) in which matter is capable of rapid structural flux. RPC-193 instances are capable of detecting when the matter within this space happens to exist within a stable bond, at which point the stapler instantly re-stabilizes reality, preserving the bond.
+
+RPC-193 are visually identical to Swingline-brand 747 staplers, but show a noticeably inferior quality of construction and a single-piece upper arm which cannot be opened or reloaded. Upon recovery, each instance was found with a paper tag reading "Amazing! Co. Kidz-Frendly STAPLOR!™", typical branding for products created by the Group of Interest "Amazing! Co.". The anomalous properties and structure of RPC-193 are significantly more stable and functional than is normal for items produced by this group. This has allowed for more advanced applied research than is usually possible with anomalous objects. (See Addendum 193.1)
+
+**Discovery:** RPC-193 was found on ██/██/198█ during a routine sweep of the docklands of Surabaya, Indonesia, as part of an ongoing investigation of GEAR activities in the area. Unusually for Amazing! Co. products, the crate in which the anomalies were stored bore no markings or branding. A single-piece of dot-matrix printer paper was found at the bottom of the shipping crate, with the following message, in English:
+
+[[div class="content-panel left-column"]]
+= Front face, printed
+> José, staplor work too good, dumb fuck. How make cheap staple, sell lot if cost too much, huh? Start again!
+[[/div]]
+[[div class="content-panel right-column"]]
+= Rear face, in ballpoint pen ink
+> //Fuck you jim. Hard work go in staplor. Don't care if too safe, too much. I send to distribution department anyway.//
+[[/div]]
+
+~~~~
+
+Ink, paper, and handwriting analyses of this document have proven inconclusive.
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/von-pincier/NCCB.png|
+caption=Testing of an early NCCB prototype, 198█.|
+width=300px
+]]
+
+**Addendum 193.1:** During routine multispectral surface analysis of RPC-193, it was discovered that the volume and intensity of RPC-193's anomalous effect could be altered through exposure to high-energy photons. Concentrated and controlled bursts of X-ray and gamma radiation were able to consistently manipulate the anomalous capabilities of RPC-193. 
+
+In 198█, NuCorp was contracted with the task to design and construct a device allowing for the safe usage of RPC-193 as an industrial manufacturing tool. The result of this endeavor has been designated as the NuCorp Coherency Binder. 
+
+~~~~
+
+NCCBs have been in active use by a variety of Authority facilities in manufacturing facilities, most prominently machine shops and a variety of exotic material production workshops. NCCBs allow for the rapid assembly of parts into a finished state without the need for welding, solder or adhesives. For further information on the NCCB project, see //Building an Anomalous Future: Coherency Binding Systems//, NuCorp Internal Publications, 1990.
+
+**Addendum 193.2:** On 13 June, 2019, an event occurred in which Site-014 was destroyed due to a nuclear blast. RPC-193-1 and RPC-193-2 were both in use at Site-014 during the event. At approximately 04:42, Site-014's external logistical tracking database (located on Site-███) registered the activation of the data logging system in the Insulated Secure Container (ISC) associated with RPC-193-2. This indicated that the anomaly had been removed from its storage locker and was being packed for transport. Subsequent data logs, investigations of Site-014 and the recovery of the body of Junior Machinist B.L. Yaron in ████████, Nevada (Approximately 25km away from Site-014) allow for a rough reconstruction of events leading to the removal of RPC-193-2 from Site-014.
+
+[[collapsible show="+ Event Log" hide="- Event Log"]] 
+> = **Event Log 193.1**
+> 
+> **Date:** ██/██/████
+> 
+> ------
+> 
+> **[BEGIN LOG]**
+> 
+> **@@[04:36 - 04:37]@@** RPC-193-2 is incorporated and active as part of Site-014 Machine Shop 3E's NCCB system. Prior work orders indicate it was being used to construct structural components for ongoing renovation work on the containment system for RPC-███.
+> 
+> **@@[04:37 - 04:40]@@** Site-014 nuclear fail-safe detonates, leading to power loss and substantial damage to Machine Shop 3E. Notably, the NCCB is partially crushed by a collapsing ceiling element, causing damage to RPC-193-2 which distorts the device's upper arm and causes it to enter a permanently active state. Elevated radiation levels within Machine Shop 3E begin to alter the size and intensity of RPC-193-2's coherency field at random. Machine Shop 3E radiation warning and suppression systems activate.
+> 
+> **@@[04:40 - 04:46]@@** Machine shop staff become aware of the risk posed by RPC-193-2's uncontrolled low-coherency field. Machinists Y██████, U█████ and A█████████ attempt to use the NCCB's safety equipment to deactivate RPC-193-2.
+> 
+> **@@[04:46 - 04:48]@@** Machinist U█████ is killed when RPC-193-2 causes the floor beneath her to assume a liquid state.
+> 
+> **@@[04:48 - 04:51]@@** Machinist Y██████ is killed by internal coherency damage to his stomach, liver, and kidneys.
+> 
+> **@@[04:51 - 04:52]@@** Machinist A█████████ succeeds in manually removing RPC-193-2 from its NCCB and partially inserting it into its Insulated Secure Container (ISC) before succumbing to severe coherency disjunction injuries[[footnote]] Refers to a range of traumatic internal and external injuries caused by sudden movement between areas of higher and lower-coherency space, in which internal organs and tissues become misaligned, detached from or bonded to each other. [[/footnote]] to the hands, arms, face and chest.
+> 
+> **@@[04:52 - 04:53]@@** Junior Machinist Yaron, now the only conscious survivor in the Machine Shop, closes the ISC using his personal identification codes but fails to fully activate its air filtration system. The structure of the ISC contains RPC-193-2's coherency field but does not adequately protect against radioactive contamination penetrating the container.
+> 
+> **@@[04:53 - 05:10]@@** Accelerometer and limited positioning data from the ISC indicates that Junior Machinist Yaron exits the machine shop with the ISC, heading in the direction of the nearest Site-014 exit.
+> 
+> **@@[05:10 - 05:15]@@** Junior Machinist Yaron addresses the ISC data logger directly, apparently in an attempt to explain his reasoning for exiting the Site. Data is corrupted by subsequent radiation and low-coherence exposure.
+> 
+> "...going to get this thing [unintelligible] open air where [unintelligible] lower radiation emissions, uh- keep the field from getting any big [data loss] ...could bond the whole damn Site together."
+> 
+> **@@[05:15 - 05:19]@@** The ISC is placed on the passenger seat of a general-usage van stored on level 2 of Site-014's main parking garage. Audio feed records the engine starting. Junior Machinist Yaron drives the van out of the Site-014 parking garage, apparently hitting or grazing against debris and the walls of the exit tunnel in the process. It is believed from subsequent investigations of the parking garage that at some point the van hit a structural post hard enough to shatter the passenger-side window. The resulting impact jars open the improperly-sealed ventilation system in the ISC.
+> 
+> **@@[05:19 - 05:20]@@** ISC positioning data reveals that the vehicle has exited Site-014 and is travelling away from the Site in a southeasterly direction. The ISC's radiation sensors detect increasing levels of airborne radiation.
+> 
+> **@@[05:20 - 05:36]@@** The van reaches the outskirts of ████████. Radiation levels in the ISC continue to rise.
+> 
+> **@@[05:36 - 05:38]@@** ISC data recorder registers a spike in radiation, then ceases to function, likely due to a sudden drop in localized coherency.
+> 
+> **[05:38]** Due to the rapidly-decreasing coherency within the van, Junior Machinist Yaron loses control of the vehicle, exiting the road and subsequently crashing into the side of a local McDonald's restaurant. The 103-km/h impact kills Yaron instantly and ejects the ISC through the exterior wall of the restaurant with enough force to cause it to partially open, fully exposing the active RPC-193-2 to the interior of the structure.
+> 
+> **[11:21]** Authority disaster response teams arrive at the restaurant following the detection of an unusually strong radiation source.
+> 
+> **[END LOG]**
+> 
+> ----
+> 
+> **Closing Statement:** RPC-193-1 has since been recovered, undamaged, from its storage locker.
+[[/collapsible]]
+
+Immediately following the destruction of Site-014, several MSTs were deployed to the location for various operations. MST Echo-8[[footnote]]An MST specialized in missions relating to toxic or poisonous environments.[[/footnote]] was tasked with investigating areas with high levels of radiation, including the McDonald's restaurant. A transcript of this investigation is available below.
+
+[[collapsible show="+ Investigation Log 193.1" hide="- Investigation Log 193.1"]] 
+> = **Excerpt from Investigation Log 193.1**
+> 
+> **Date:** ██/██/████
+> 
+> **Team:** Mobile Specialized Team Echo-8 - "Plague Doctors"
+> 
+> **Captain:** E8-Cap
+> 
+> **Members:** E8-1, E8-2, E8-3
+> 
+> **Foreword:** Due to the levels of ambient radiation in the area surrounding Site-014, Echo-8 members were equipped with Level 3 Hazardous Material suits [[footnote]] Two-piece suits which are splash-proof but not fully airtight, worn with a full-face respirator instead of an independent air supply. [[/footnote]], scintillation detectors, and were following all standard Authority protocols for operations in areas of dangerous ionizing radiation. Team members had chosen to forgo wearing personal video recorders to save weight, and due to the open sightlines around the area of operations.
+> 
+> At this point in time, the site had only been observed from a distance, and no efforts had been made to measure the coherency of the area.
+> 
+> ------
+> 
+> **[BEGIN LOG]**
+> 
+> **E8-2:** Looking at give or take 120 microsieverts per hour[[footnote]] An hourly radiation dosage probable to induce long-term health effects, consistent with the background radiation caused by the detonation of Site-014. [[/footnote]]- do you confirm?
+> 
+> **E8-1:** Same on my end.
+> 
+> **E8-3:** Confirm. Let's try to be in and out of here in the next 20 minutes, folks.
+> 
+> **E8-2:** Okay, initial report... nothing they didn't already pick up on the long-range cameras. It's a McDonald's. Van crashed through one wall.
+> 
+> **E8-3:** Lots of dust everywhere, but that's to be expected- and they're sure no civilians have left the building?
+> 
+> **E8-1:** You heard the brief. Not a peep from this place for the past two, three hours at least.
+> 
+> **E8-2:** Well, someone's still inside. You see that? Something's fogging the glass, but that was definitely movement.
+> 
+> **E8-3:** You getting this, Command?
+> 
+> **E8-Cap:** Clear as day, E8-3. Infrared is pulling up some serious temperature fluctuations from inside the building, could be the source of the condensation on the windows.
+> 
+> **E8-1:** Jeez, it must be freezing in there.
+> 
+> **E8-2:** Eh, could be dust on the panes- gonna get closer. Shit, you see that?
+> 
+> **E8-Cap:** Clarify, E8-2.
+> 
+> **E8-2:** The whole building's kind of... melted. Like it's gone runny and fused with the ground.
+> 
+> **E8-1:** No way that's heat damage, though- shit, look at those cars- the tires are, uh...
+> 
+> **E8-3:** Like they turned to slush and just started seeping into the asphalt. Command, be advised that there may be more than just radiation at work here. I, uh- I don't know what this is.
+> 
+> **E8-Cap:** Do you wish to proceed? Your call, E8-3, but we're recommending you pull out before things get worse.
+> 
+> **E8-3:** If there's the possibility of people still alive in there, I think we're obligated to proceed. 
+> 
+> **E8-Cap:** Understood. I'm moving a pickup team to the edge of the safe zone.
+> 
+> //[E8-1 moves to investigate one of the vehicles in the parking lot.]//
+> 
+> **E8-1:** The tread is part of the asphalt- they're fused or something. And, uh... yeah, we got a body in the front seat.
+> 
+> //[E8-2 moves to join E8-1 by the vehicle.]//
+> 
+> **E8-1:** Jesus, poor woman- her hands are, uh, they've gone... into the steering wheel.
+> 
+> **E8-2:** Definitely some kind of spatial anomaly going on here- but something powerful enough to fuse matter like that would be obvious, right?
+> 
+> **E8-Cap:** We're not recording any unusual EM activity that would be indicative of a spatial or dimensional distortion on our end, E8-2.
+> 
+> //[E8-3 attempts to open the front doors of the restaurant, but appears to be unable to move them.]//
+> 
+> **E8-3:** It's not condensation: it's a thin layer of something on the inside of the windows. Could be dust, but it's spread too evenly. And I'm still seeing that movement.
+> 
+> //[E8-2 and E8-1 join E8-3 by the front door.]//
+> 
+> **E8-2:** There //is// a big hole in the side of the building.
+> 
+> **E8-1:** That van[[footnote]] The vehicle utilized by Junior Machinist Yaron. [[/footnote]] looks wedged in there pretty good, but I bet we could squeeze around it. Just don't tear your suit.
+> 
+> **E8-3:** All right, let's give it a try- but if we run into any obstructions, we pull out and send a drone in instead. This is rubbing me the wrong way.
+> 
+> //[Video of the exploration team taken from the edge of the safe zone by the recovery team dispatched to assist them reveals that, for approximately 0.2 seconds, E8-2's silhouette appeared heavily distorted on the recording before returning to normal.]//
+> 
+> **E8-2:** Did you just-?
+> 
+> **E8-1:** Come again?
+> 
+> **E8-2:** Never mind. I think I got some sweat in my eye. Let's, uh... let's keep moving.
+> 
+> //[The team approaches the crashed van, gathering around the hole in the wall of the restaurant. E8-1 leans briefly against the van's side door while E8-3 attempts to probe the debris surrounding the crash.]//
+> 
+> **E8-3:** I think if we shift some of this rubble, we might just...
+> 
+> //[Video recording shows E8-1 briefly sliding into the body of the van, which appears, for two frames, to be glowing intensely.]//
+> 
+> **E8-1:** Oh //fuck.// The hell was that?
+> 
+> **E8-2:** Are you all right?
+> 
+> **E8-1:** I don't know- maybe a muscle spasm or something in my arm?
+> 
+> **E8-2:** You think radiation, maybe...?
+> 
+> **E8-1:** No, this was like a cramp. But, uh- do you- do you see that?
+> 
+> //[E8-2 vanishes from the footage for 0.4 seconds. E8-1's head appears to be detached from his torso.//
+> 
+> **E8-Cap:** We're getting some strange multispectral readings here. Recommend again that you get out of there, E8-3.
+> 
+> //[E8-3 steps back from the van, and appears to be having some difficulty keeping his balance.//
+> 
+> **E8-3:** Sure. Yeah. I'm, um. I'm getting some odd, uh... some odd colours in my vision whenever I look too closely at that van and, uh, hold on-
+> 
+> //[Video recording shows a large, transparent crystalline structure, protruding from the space between the wall of the restaurant and the crashed van. It partially intersects and passes through all members of the exploration team for 0.3 seconds.//
+> 
+> **E8-2:** Benedictions of benedictions of benedictions of the light which in time will not become to have been what we once were- oh god, fuck what the hell was that? What did I just-?
+> 
+> **E8-1:** Holy shit, Command, are you seeing this? These, uh- these red- what //is that//, it's so bright, so slippery but then down it goes and we run and follow under the trees where they eat and sing and prognosticate on outcomes-
+> 
+> **E8-Cap:** What in the hell is going on in there?
+> 
+> //[At this point, observation equipment began registering intense visual and spatial distortions surrounding the members of the investigation team. E8-2's left leg was observed to separate from his body, while E8-1's body began producing brightly flickering fractal patterns. E8-3 was observed being followed by a rapidly-rotating column of red triangular objects, which repeatedly passed through his extremities whenever he moved. These effects are consistent with the exposure of high-coherency matter to areas of intensely low-coherency space.]//
+> 
+> **E8-3:** I- fuck- Dave- E8-2 is- but- why won't the movement of the patterns of the light at the summit in time and the place where we were look at the snow the red snow-
+> 
+> **E8-1:** -out of here!
+> 
+> **E8-2:** -zond zond zond zond zond and when they strapped me to the chair the doctor made me watch him take Father's face apart and put it back together wrong and we were there, there in the train station, and he said he was him but he wasn't, he was someone else, and then the lightning and it was there in the window, its face bloodied burlap-
+> 
+> //[E8-1 and E8-3 begin dragging E8-2 back to the perimeter of the contaminated area, where they are assisted by the recovery team. The coherency effects subside as they leave the parking lot.]//
+>
+> 
+> **[END LOG]**
+> 
+> ----
+> 
+> **Closing Statement:** Members of the exploratory team all showed symptoms consistent with brief exposure to a low coherency environment.[[footnote]]  The symptoms of uncontrolled speech and accompanying paraphasia, or speaking of grammatically-inconsistent phrases, is an unpleasant but ultimately harmless side-effect of direct immersion in space with an ACS of less than 3. [[/footnote]] E8-1 and E8-3 were treated for minor coherency disjunction injuries. E8-2 suffered severe disjunction dactyly[[footnote]] The fusing together of fingers, toes, and other extremities. [[/footnote]] and the loss of his left leg. Subsequent AECT investigations of the area showed localized and shifting pockets of low-coherence space which were too small to produce the usually obvious signs of unstable reality, but still large enough to cause negative effects in the surrounding matter.
+
+[[/collapsible]]
+
+A secondary mission to Investigation 193.1 was approved with the goal of safely entering the building. Members of MSTs Alpha-3 ("Scavengers"), November-12 ("Dumpster Divers"), Echo-8 ("Plague Doctors"), India-13 ("Squirrel on a Stick"), and Uniform-1 ("Through God's Eyes") were assigned to clean-up and containment operations. Personnel from November-12, Uniform-1, and India-13 approached the restaurant on foot, while Alpha-3 and the remainder of the response team secured a working perimeter and assisted with civilian evacuation efforts. Uniform-1 members entered the building equipped with coherency-stabilizing and radiation-resistant suiting and equipment. 
+
+[[collapsible show="+ Investigation Log 193.2" hide="- Investigation Log 193.2"]] 
+> = **Investigation Log 193.2**
+> 
+> **Date:** ██/██/████
+> 
+> **Team:** Mobile Specialized Team Uniform-1 - "Through God's Eyes", India-13 ("Squirrel on a Stick")
+> 
+> **Captain:** U1-Cap
+> 
+> **Members:** U1-1, U1-2, I13-1
+> 
+> **Foreword:** MST Uniform-1 came equipped with a specialty-built [[[http://www.rpc-wiki.net/the-anderson-eckhardt-coherency-test|AECR]]] capable of operating under high-radiation conditions. 
+>  
+> ------
+> 
+> **[BEGIN LOG]**
+> 
+> **I13-1 Dufresne:** The, uh... the hazing at the edge of the vision, that's normal?
+> 
+> **U1-1 Bryakov:** That's normal. Whole area seems to be below ACS 3.7, 3.8- visual distortions are normal. Nothing permanently harmful.
+> 
+> **U1-2 Imbemwe:** Hold up. Area 'round that car is a slogger.
+> 
+> **I13-1:** A slo-?
+> 
+> **U1-1:** Area where all matter is fluid- know that feeling in a nightmare where it feels like you can't move fast enough?
+> 
+> **I13-1:** That but real? Fuck.
+> 
+> **U1-1:** Yeah, they're nasty.
+> 
+> **I13-1:** So you've got, like, a whole lexicon for this?
+> 
+> **U1-1:** Dippers, tripups, stretchways, red snow... lots.
+> 
+> **I13-1:** Do I want to know?
+> 
+> **U1-2:** No, and you're not cleared anyway. Hold. Detector just dropped down to somewhere below ACS 3. Dufresne, mark this perimeter- no one goes past this without a coherency suit.
+> 
+> **I13-1:** Don't worry, I don't need much convincing. We'll handle the clean-up from here. Good luck.
+> 
+> //[U1-1 and U1-2 utilize a fire axe to cut open the door of the restaurant, which has become bonded with the wall surrounding it.]//
+> 
+> **U1-2:** Well goddamn. Can't say I've ever seen one of those before.
+> 
+> **U1-Cap:** What do you see?
+> 
+> **U1-1:** It appears to be a, uh- a //mass// of some kind- there's a sort of pit where the restaurant floor should be, and this big, rolling lump of... of stuff.
+> 
+> **U1-Cap:** Can you clarify?
+> 
+> **U1-2:** It's made of, well- meat. I see bits of human tissue, but also what might be concrete, restaurant furniture, electrical wiring- there are a few self-serve terminals, or what's left of them sticking out of one edge.
+> 
+> **U1-Cap:** And it's... animate?
+> 
+> **U1-2:** It's just sort of... writhing, I guess.
+> 
+> **U1-1:** No obvious movement in our direction. I think this is more than just a stapler, Command. The ACS readings I'm getting from this thing are quite low. If I had to guess, I'd say that 193-2 is, well- inside there somewhere?[[footnote]] Further investigation has shown that RPC-193-2 is irrevocably bonded to the larger structure of RPC-193-A and should be considered lost.[[/footnote]] I'm not sure if you're picking this up, but it's making some odd noises.
+> 
+> **U1-Cap:** Nothing on our end.
+> 
+> **U1-2:** Hold on, let me boost the suit gain- see if you can hear this.
+> 
+> **RPC-193-A**[[footnote]] This designation has been applied retroactively. [[/footnote]]**:** WELCOME TO MCDONALD'S, PLEASE SELECT A MENU OPTION
+> 
+> **U1-2:** It sounds like the text-to-speech setting on the menu computers. The option for blind people.
+> 
+> **U1-Cap:** And is it saying anything... intelligible?
+> 
+> **U1-1:** I don't know if we're going to get anything coherent out of it unless we can somehow decode that mess of a computer.
+> 
+> **RPC-193-A:** ONION RINGS
+> 
+> **U1-2:** "Coherent"? Hah. We could always ask it to say, uh... "Fries" for yes and "Shake" for no.
+> 
+> **U1-1:** What, and "Big Mac" for "I don't know"?
+> 
+> **U1-2:** Why not? We've communicated wi-
+> 
+> **RPC-193-A:** FRIES FRIES FRIES
+> 
+> **U1-1:** ...spooky.
+> 
+> **RPC-193-A:** SHAKE
+> 
+> **U1-2:** Oh my God. Do you think it-?
+> 
+> **RPC-193-A:** FRIES
+> 
+> **U1-1:** Command, do you follow? Bryakov, keep it talking.
+> 
+> **U1-Cap:** The research team is getting every word. Careful in there, U1-1.
+> 
+> **U1-1:** You can understand me?
+> 
+> **RPC-193-A:** FRIES
+> 
+> **U1-2:** There was an... an accident. Were- are you human?
+> 
+> **RPC-193-A:** BIG MAC
+> 
+> **U1-1:** Are you in pain?
+> 
+> **RPC-193-A:** SHAKE SPICY CHIPOTLE SIDE SALAD
+> 
+> **[END LOG]**
+> 
+> ----
+> 
+> **Closing Statement:** Members of the Site-015 Research division trained in PROCSE[[footnote]] Protocols for the Contact of Sapient Entities, the various Authority algorithms and constructed languages intended to ease communications with intelligent anomalous entities which would not otherwise be able to imitate or employ human speech. [[/footnote]] instructed U1-1 and U1-2 in establishing, via yes-or-no-questions, that RPC-193-A was capable of reading written English but not capable of producing any phrase not stored in the memory of its computer text-to-speech database.
+> 
+> With assistance from other members of Uniform-1, U1-1 and U1-2 then constructed an "alphabet grid" using a variety of on-site materials. RPC-193-A was able, via gross body movements, to spell out the following phrases:
+> 
+>> = FLASH IN SKY 
+>> 
+>> = BIG BOOM 
+>> 
+>> = ARE PEOPLE HURT 
+>> 
+>> = CAN WE HELP
+[[/collapsible]]
+
+[[footnoteblock]]
+[[=]]
+<< [[[RPC-192]]] | RPC-193 | [[[RPC-194]]] >>
+[[/=]]
+

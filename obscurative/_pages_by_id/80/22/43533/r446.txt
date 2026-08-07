@@ -1,0 +1,18 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 446
+revision_id: "1545749482"
+author: 4518363
+timestamp: 1786052307
+---
+
+[[include draft:luna-spirito test=**hi**]]
+
+[[module ListPages order="created_at desc"]]
+%%title_linked%% %%revisions%%
+[[/module]]
+

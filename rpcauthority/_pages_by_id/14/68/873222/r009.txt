@@ -1,0 +1,971 @@
+---
+title: "Terrible Trio Theme"
+tags: ["theme"]
+page_id: "1468873222"
+site: "rpcauthority"
+slug: "component:terrible-trio-theme"
+revision: 9
+revision_id: "1545185633"
+author: 5258122
+timestamp: 1783904927
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:terrible-trio-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+
+/*
+ * Terrible Trio Theme
+ * Made by Qual, requested by Contest Team — 2026 Wikidot Theme
+ * Cleaned and organized by structure
+ */
+
+/* ============================================================
+   TABLE OF CONTENTS
+   1. Font Imports
+   2. CSS Variables (Root)
+   3. Body & Background
+   4. Header
+   5. Navigation (Top Bar & Sidebar)
+   6. Page Title
+   7. Typography (Headings, Links, Selection)
+   8. Page Content Blocks
+      8a. Blockquotes
+      8b. Image Blocks
+      8c. Content Panels, TOC, Page Options
+      8d. Sidenotes
+      8e. Offset Block System
+   9. Tabview
+  10. Rating & Account UI
+  11. Edit & Form Controls
+  12. Footer & License
+  13. Mobile Responsiveness
+   ============================================================ */
+
+
+/* ============================================================
+   1. FONT IMPORTS
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive&display=swap');
+@import url('https://fonts.cdnfonts.com/css/blankblizzkrieg');
+@import url('https://fonts.cdnfonts.com/css/chenier');
+
+
+/* ============================================================
+   2. CSS VARIABLES
+   ============================================================ */
+
+:root {
+    /* --- Colors --- */
+    --color-crimson:         #7a0202;
+    --color-crimson-hover:   rgb(175, 26, 0);
+    --color-dark-shadow:     hsl(0deg 100% 8% / 70%);
+    --color-gold:            #e4ba30;
+    --color-gold-hover:      #ffdd6e;
+    --color-new-page:        rgb(179, 113, 113);
+
+    /* --- Background Surfaces --- */
+    --primary-background:    #fbf6e9;
+    --secondary-background:  beige;
+    --body-background:       #1f1f1f;
+    --content-bar-background: #dcd7cc;
+    --content-panel-background: #fbf6e9;
+    --text-box-form-background: #e7e2d2;
+    --modal-body-background: #c7c2b3;
+    --modal-header-background: var(--content-bar-background);
+    --news-block-body-panel-background-even: #fff2ca;
+    --blockquote-background: rgb(22, 22, 22, 0.6);
+    --template-block-background: var(--primary-background);
+
+    /* --- Text --- */
+    --text-color:            #620000;
+    --primary-text-color:    #cccccc;
+    --horizontal-rule-secondary-background: #818181;
+
+    /* --- Links --- */
+    --link-color:            var(--color-crimson);
+    --link-hover-color:      var(--color-crimson-hover);
+    --new-page-color:        var(--color-new-page);
+
+    /* --- Borders --- */
+    --basic-border-color:    #818181;
+    --basic-border:          1px solid var(--basic-border-color);
+    --table-border:          2px solid var(--primary-background);
+    --content-border:        2px solid var(--primary-background);
+    --text-box-form-border:  1px solid var(--text-color);
+
+    /* --- Shadows --- */
+    --box-shadow-default:    -0.8em 0.8em 1em var(--color-dark-shadow);
+    --content-box-shadow:    var(--box-shadow-default);
+    --star-rating-stars-box-shadow: var(--box-shadow-default);
+
+    /* --- Buttons --- */
+    --button-border:         none;
+    --button-hover-border:   none;
+    --button-background:     #6d6d6d;
+    --button-hover-background: var(--nav-hover-background);
+
+    /* --- Navigation --- */
+    --nav-hover-background:  var(--link-color);
+    --topbar-text-color:     var(--secondary-background);
+    --topbar-dropdown-background: var(--primary-background);
+    --topbar-hover-background: var(--nav-hover-background);
+    --topbar-hover-color:    var(--sidebar-hover-color);
+    --topbar-divider:        1px solid var(--link-color);
+    --topbar-dropdown-border-color: var(--basic-border-color);
+    --topbar-dropdown-color: var(--text-color);
+
+    /* --- Sidebar --- */
+    --sidebar-header-color:  var(--link-color);
+    --sidebar-hover-background: var(--color-crimson);
+    --sidebar-crit-corner-color: var(--link-hover-color);
+
+    /* --- Tabview --- */
+    --tabview-background:          var(--primary-background);
+    --tabview-border:              2px solid var(--secondary-background);
+    --tabview-bar-border:          4px solid var(--color-crimson);
+    --tabview-button-border:       none;
+    --tabview-button-hover-color:  var(--primary-background);
+    --tabview-button-hover-background: var(--color-gold);
+    --tabview-button-selected-background: var(--text-color);
+    --tabview-button-selected-color: var(--primary-background);
+    --tabview-side-tabs-background: var(--secondary-background);
+    --tabview-side-tabs-box-shadow: none;
+    --tabview-side-box-shadow:     var(--content-box-shadow);
+    --tabview-side-border:         none;
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--color-crimson);
+    --tabview-side-button-divider: 1px solid var(--tabview-side-button-selected-background);
+
+    /* --- Tabview Scrollbar --- */
+    --BT-scrollbar-background:                 var(--primary-background);
+    --BT-scrollbar-thumb-background:           var(--link-color);
+    --BT-scrollbar-thumb-hover-background:     var(--link-hover-color);
+    --BT-resizer-background:                   var(--primary-background);
+    --tabview-side-scrollbar-background:       var(--content-bar-background);
+    --tabview-side-scrollbar-thumb-background: var(--BT-scrollbar-thumb-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--BT-scrollbar-thumb-hover-background);
+
+    /* --- Sidenotes --- */
+    --sidenote-contents-border:    2px solid var(--primary-background);
+    --sidenote-figure-border:      2px solid var(--primary-background);
+    --sidenote-open-background:    var(--color-crimson);
+    --sidenote-open-color:         var(--primary-background);
+    --sidenote-figure-open-color:  #e5e5e5;
+
+    /* --- Search --- */
+    --search-button-background:        rgb(204, 182, 143, 0.75);
+    --search-button-hover-background:  #2e2e2e;
+    --search-button-border:            2px solid rgb(41, 41, 41, 0.4);
+    --search-button-hover-border:      2px solid rgb(91, 91, 91, 0.5);
+    --search-input-color:              rgb(204, 182, 143, 0.4);
+    --search-input-text:               #292929;
+    --search-input-border:             2px solid rgb(41, 41, 41, 0.4);
+    --search-input-hover-border:       2px solid rgb(91, 91, 91, 0.5);
+
+    /* --- Header --- */
+    --header-text-visibility:   hidden;
+    --header-custom-text:       '';
+    --header-tagline-custom-text: '';
+    --header-icon: url(https://rpcauthority.wdfiles.com/local--files/component%3Aterrible-trio-theme/terrible-logo-left-fixed.png);
+    --header-background: url(https://rpcauthority.wdfiles.com/local--files/component%3Aterrible-trio-theme/terrible-header.png);
+    --header-tagline-color:     none;
+    --header-tagline-top:       8px;
+    --header-icon-size:         auto calc(11.5rem - 2.125rem);
+
+    /* --- Misc --- */
+    --code-background:          var(--primary-background);
+    --account-options-border:   1px solid var(--nav-hover-background);
+    --star-rating-hue:          150deg;
+    --star-rating-reading-background: var(--new-page-color);
+
+    /* --- Shared Image Assets --- */
+    --asset-pushpin:   url(https://rpcauthority.wdfiles.com/local--files/component%3Aterrible-trio-theme/tt-pushpin.png);
+    --asset-paper:     url(https://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/tt-paper-transparent.png);
+    --asset-divider:   url(https://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/tt-divider.png);
+    --asset-corkboard: url(https://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/tt-corkboard-bg.png);
+    --asset-conspiracy: url(https://rpcauthority.wdfiles.com/local--files/component:new-frontier-theme/tt-conspiracy-bg.png);
+    --asset-notebook:  url(https://thumbs.dreamstime.com/b/raster-seamless-horizontal-lines-folded-paper-texture-realistic-rendering-76680606.jpg);
+}
+
+
+/* ============================================================
+   3. BODY & BACKGROUND
+   ============================================================ */
+
+body {
+    background-color: #794f24;
+    background-image: var(--asset-conspiracy), var(--asset-corkboard);
+    background-repeat: repeat-y, repeat;
+    background-size: 100%;
+    letter-spacing: 1px;
+}
+
+
+/* ============================================================
+   4. HEADER
+   ============================================================ */
+
+#header {
+    background-position-x: center;
+    background-position-y: 20%;
+    background-size: 50%;
+}
+
+#header h1 a {
+    margin: 0;
+    width: 100%;
+    padding-left: 0;
+    padding-bottom: 61px;
+}
+
+#header h1 a::before {
+    margin-left: 25px;
+    text-decoration: none;
+    text-shadow: 2px 2px 0 #000;
+    letter-spacing: 0.9px;
+}
+
+#header h2::before {
+    margin-left: 25px;
+    text-shadow: 1px 2px 0 #000;
+    font-size: 100%;
+}
+
+
+/* ============================================================
+   5. NAVIGATION (TOP BAR & SIDEBAR)
+   ============================================================ */
+
+#top-bar ul li a,
+#side-bar div.menu-item a {
+    font-weight: 500 !important;
+}
+
+#top-bar ul li ul {
+    background-image: var(--asset-paper);
+    background-repeat: repeat-x;
+    background-size: 100%;
+}
+
+/* Sidebar */
+
+#side-bar {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -25em;
+    width: 17em;
+    height: 100%;
+    background: var(--sidebar-mobile-background);
+    overflow-y: auto;
+    z-index: 10;
+    padding: 1em 1em 0 1em;
+    transition: left 0.5s ease-in-out 0.1s;
+    -webkit-transition: left 0.5s ease-in-out 0.1s;
+    -moz-transition: left 0.5s ease-in-out 0.1s;
+    -ms-transition: left 0.5s ease-in-out 0.1s;
+    -o-transition: left 0.5s ease-in-out 0.1s;
+}
+
+#side-bar:target {
+    display: block;
+    left: 0;
+    width: 17em;
+    margin: 0;
+    border-right: 1px solid #dedede;
+    z-index: 10;
+    background-image: var(--asset-paper);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+#side-bar:target .close-menu {
+    background: none 1px 1px repeat !important;
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#side-bar hr {
+    display: none;
+}
+
+#side-bar .heading {
+    color: var(--sidebar-header-color);
+    font-family: 'Blankblizzkrieg', sans-serif;
+    font-size: 1.5em;
+}
+
+#side-bar div.menu-item a {
+    padding-left: 1em;
+    font-family: 'Chenier', sans-serif;
+    font-size: 120%;
+    text-decoration: none;
+    width: 208px;
+}
+
+#side-bar div.menu-item a:hover {
+    text-decoration: none;
+    width: 208px;
+}
+
+/* Open Menu Button */
+
+.open-menu {
+    display: block !important;
+}
+
+.open-menu a {
+    display: block !important;
+    position: fixed;
+    top: 0.5em;
+    left: 0.5em;
+    z-index: 15;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    width: 30px;
+    height: 30px;
+    line-height: 0.9em;
+    text-align: center;
+    background: var(--sidebar-mobile-open-menu-background) !important;
+    color: var(--sidebar-mobile-open-menu-color) !important;
+    border: var(--sidebar-mobile-open-menu-border);
+    border-radius: 0.3em;
+    transition: all 0s ease 0s;
+}
+
+.open-menu a:hover {
+    text-decoration: none !important;
+    color: var(--link-color) !important;
+    border: solid var(--link-color);
+    transition: all 0s ease 0s;
+}
+
+.mobile-top-bar {
+    display: block;
+}
+
+
+/* ============================================================
+   6. PAGE TITLE
+   ============================================================ */
+
+#page-title {
+    font-family: 'Blankblizzkrieg', sans-serif;
+    text-align: center;
+    font-size: 300%;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    color: var(--color-crimson);
+
+    padding: 1em 0.5em 0.5em 0.5em;
+    background-color: mintcream;
+    background-image:
+        url("/local--files/component:terrible-trio-theme/pushpin.png"),
+        var(--asset-notebook);
+    background-repeat: no-repeat, repeat;
+    background-position-x: center, left;
+    background-size: 6%, 90%;
+
+    transform: rotate(3deg);
+    margin: 1em 0em 2em 0em;
+    box-shadow: var(--box-shadow-default);
+}
+
+
+/* ============================================================
+   7. TYPOGRAPHY (HEADINGS, LINKS, SELECTION)
+   ============================================================ */
+
+h1 {
+    font-family: 'Blankblizzkrieg', sans-serif;
+    color: var(--color-crimson);
+    font-weight: 600;
+    font-size: 200%;
+    word-spacing: 10%;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Chenier', sans-serif;
+    font-weight: 100;
+    color: var(--color-crimson);
+}
+
+h2 { font-size: 200%; margin: 0.5em 0; }
+h3 { font-size: 170%; }
+
+blockquote h3, .blockquote h3 {
+    font-size: 170%;
+    margin: 15px 0;
+    line-height: 95%;
+}
+
+/* Horizontal Rule */
+
+hr {
+    background: var(--asset-divider);
+    margin: 1em 0;
+    height: 3.5em;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.content-panel hr,
+.yui-content hr,
+.info-block hr,
+.news-block hr,
+.featured-block hr,
+blockquote hr,
+.blockquote hr,
+.pinned hr {
+    background: var(--text-color);
+    height: 2px;
+    margin: 18px 0;
+}
+
+/* Links */
+
+p a,
+p a.newpage,
+.page-watch-options a,
+#main-content .page-tags a,
+#action-area a {
+    text-decoration: none;
+    transition: color 0.5s ease;
+    background: var(--color-gold);
+    box-shadow: 0px 0px 2px #ffcc00;
+    padding: 2px 4px;
+    font-weight: bold;
+}
+
+p a:hover,
+.collapsible-block a:hover,
+.footnotes-footer a:hover,
+#toc a:hover {
+    transition: 0.3s;
+    background: var(--color-gold-hover);
+    box-shadow: 0px 0px 2px 1px var(--color-gold-hover);
+}
+
+#page-content a:empty { padding: 0; } /* Anchor fix */
+
+.page-options-bottom a:hover {
+    padding: 0 8px !important;
+}
+
+#page-content .yui-navset a {
+    transition: none;
+    padding: 0;
+}
+
+#page-content .yui-content a {
+    padding: 1px 2px;
+}
+
+/* Selection */
+
+::selection {
+    background-color: var(--color-gold);
+    color: var(--color-crimson);
+    box-shadow: 0px 0px 10px #1b2d6e;
+}
+
+
+/* ============================================================
+   8. PAGE CONTENT BLOCKS
+   ============================================================ */
+
+/* Shared borders for major content elements */
+.image-block,
+.sideTabview .yui-navset,
+#toc,
+.content-panel,
+.tableStyle,
+blockquote,
+.content-box,
+.content-block,
+.featured-block,
+.info-block,
+.news-block {
+    border: var(--content-border);
+}
+
+.sidenoteI {
+    border: var(--content-border);
+    padding: 0;
+}
+
+/* Shared paper texture for panel/header/body elements */
+.header-panel,
+.body-panel,
+.footer-panel,
+.info-block .body-panel,
+.news-block .body-panel:nth-child(even),
+.news-block .body-panel,
+table.wiki-content-table td,
+table.wiki-content-table th,
+.modal-header,
+.owindow,
+.owindow .title,
+.modal-body,
+.featured-block .body-panel {
+    background-image: var(--asset-paper);
+    background-repeat: repeat-x;
+}
+
+/* 8a. BLOCKQUOTES */
+
+blockquote,
+.blockquote {
+    background-image:
+        var(--asset-pushpin),
+        var(--asset-pushpin),
+        var(--asset-notebook);
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-position-x: left 2%, right 2%, left;
+    background-position-y: top 5%, top 5%, top 0%;
+    background-size: 3em, 3em, 559px;
+
+    padding: 38px 1em 1em 15%;
+    border: var(--content-border);
+    color: var(--color-crimson);
+    box-shadow: var(--box-shadow-default);
+}
+
+blockquote p,
+.blockquote p {
+    margin: 18px 0;
+    font-size: 110%;
+    line-height: 129%;
+}
+
+.page-source {
+    background: var(--code-background);
+    border: var(--code-border);
+}
+
+/* 8b. IMAGE BLOCKS */
+
+.image-block {
+    background-color: var(--primary-background);
+    background-image: var(--asset-pushpin), var(--asset-paper);
+    background-repeat: no-repeat, repeat;
+    background-position-x: center, left;
+    background-size: 3em, auto;
+    padding: 2em 1em 1em 1em;
+    box-shadow: var(--box-shadow-default);
+}
+
+.image-block .image-caption {
+    background-color: var(--secondary-background);
+}
+
+/* 8c. CONTENT PANELS, TOC, PAGE OPTIONS, ACTION AREA */
+
+/* Shared pushpin+paper layout for pinned panels */
+.content-panel,
+#toc,
+div#page-options-container,
+div#action-area {
+    background-image: var(--asset-pushpin), var(--asset-pushpin), var(--asset-paper);
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-position-x: left 2%, right 2%, left;
+    background-position-y: top 2px, top 2px, top 0;
+    background-size: 3em, 3em, auto;
+    padding: 2.5em 1em 1em 1em;
+    box-shadow: var(--box-shadow-default);
+}
+
+#toc {
+    background-color: var(--primary-background);
+}
+
+div#page-options-container,
+div#action-area {
+    background-size: 3em, 3em, 559px;
+    background-color: var(--secondary-background);
+    border: 2px solid var(--secondary-background);
+}
+
+div#action-area {
+    box-sizing: border-box;
+    margin-top: 1em;
+}
+
+/* 8d. SIDENOTES */
+
+.sidenoteC {
+    background-image: var(--asset-paper);
+    background-repeat: repeat-x;
+}
+
+.sidenoteH,
+.sidenote.sidenoteLock-false:hover .sidenoteH {
+    background-image: var(--asset-pushpin), var(--asset-paper);
+    background-size: 3em, 20em;
+    background-repeat: no-repeat, repeat;
+    background-position-x: center, left;
+    background-position-y: top 0.5em;
+    padding-top: 2em;
+}
+
+/* 8e. OFFSET BLOCK SYSTEM */
+
+.offset-right        { float: right; }
+.offset-right > *    { float: none; }
+
+.offset-left         { float: left; c }
+.offset-left > *     { float: none; }
+
+/* Intensity scale: 1 (subtle) → 5 (full bleed) */
+.offset-right.right-5 { margin-right: calc(((50vw - 50%) * -1)   + 1rem); }
+.offset-right.right-4 { margin-right: calc(((50vw - 50%) * -0.8) + 1rem); }
+.offset-right.right-3 { margin-right: calc(((50vw - 50%) * -0.6) + 1rem); }
+.offset-right.right-2 { margin-right: calc(((50vw - 50%) * -0.4) + 1rem); }
+.offset-right.right-1 { margin-right: calc(((50vw - 50%) * -0.2) + 1rem); }
+
+.offset-left.left-5 { margin-left: calc(((50vw - 50%) * -1)   + 1rem); }
+.offset-left.left-4 { margin-left: calc(((50vw - 50%) * -0.8) + 1rem); }
+.offset-left.left-3 { margin-left: calc(((50vw - 50%) * -0.6) + 1rem); }
+.offset-left.left-2 { margin-left: calc(((50vw - 50%) * -0.4) + 1rem); }
+.offset-left.left-1 { margin-left: calc(((50vw - 50%) * -0.2) + 1rem); }
+
+/* Rotation utilities (left = counter-clockwise, right = clockwise) */
+.roleft5   { transform: rotate(-5deg);  transform-origin: top left; }
+.roleft10 { transform: rotate(-10deg); transform-origin: top left; }
+.roleft15 { transform: rotate(-15deg); transform-origin: top left; }
+.roleft20 { transform: rotate(-20deg); transform-origin: top left; }
+.roleft25 { transform: rotate(-25deg); transform-origin: top left; }
+.roleft30 { transform: rotate(-30deg); transform-origin: top left; }
+
+.roright5   { transform:   rotate(5deg); transform-origin: top right; }
+.roright10 { transform: rotate(10deg); transform-origin: top right; }
+.roright15 { transform: rotate(15deg); transform-origin: top right; }
+.roright20 { transform: rotate(20deg); transform-origin: top right; }
+.roright25 { transform: rotate(25deg); transform-origin: top right; }
+.roright30 { transform: rotate(30deg); transform-origin: top right; }
+
+.pinred { background-color: #f5c9d0; }
+.pinorange { background-color: #FFE0B2; }
+.pinyellow { background-color: #f5e97e; }
+.pingreen { background-color: #9ce9a2; }
+.pinblue { background-color: #9cc4e9; }
+.pinindigo { background-color: #aebaff; }
+.pinviolet { background-color: #fad9ff; }
+.pinblack { background-color: #9cc4e9; }
+.pinwhite { background-color: #393732; color: #a9b1ad; }
+
+.pinned { 
+    background-image: 
+url('https://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/tt-pinned-pushpin.png'),
+url('https://rpcauthority.wdfiles.com/local--files/component%3Anew-frontier-theme/sticky-bg.png'); 
+    background-position: center top 0.5em, top left; 
+    background-repeat: no-repeat, repeat; 
+    background-size: 3em, 100% !important; 
+
+    padding: 2em 1em 1em 1em; 
+    margin: 1em; 
+    display: inline-block; 
+    vertical-align: top;
+    background-size: 100% 100%;
+ 
+    width: 12em; 
+    height: 12em; 
+
+    box-shadow: 0.8em 0.8em 1em rgba(0,0,0,0.15);
+    border: 1px solid #ccc; 
+    overflow: hidden; 
+}
+
+/* ============================================================
+   9. TABVIEW
+   ============================================================ */
+
+.yui-navset {
+    box-shadow: var(--box-shadow-default);
+}
+
+ul.yui-nav,
+.compactTabview .yui-nav,
+.sideTabview .yui-nav,
+.sideTabviewMini .yui-nav {
+    background-image: var(--asset-pushpin), var(--asset-pushpin), var(--asset-paper);
+    padding-top: 2.5em;
+    background-position-x: left 2%, right 98%, left 0%;
+    background-size: 3em, 3em, 100%;
+    background-repeat: no-repeat, no-repeat, repeat;
+}
+
+.compactTabview .yui-nav,
+.sideTabview .yui-nav,
+.sideTabviewMini .yui-nav {
+    padding-top: 0;
+}
+
+.yui-navset .yui-content,
+.sideTabview .yui-navset {
+    background-image: var(--asset-paper);
+    background-color: var(--tabview-background);
+}
+
+.sideTabviewMini .yui-nav {
+    border: none !important;
+}
+
+.sideTabviewMini .yui-content {
+    grid-column-start: 2;
+    border: var(--tabview-border) !important;
+    border-left: var(--tabview-bar-border) !important;
+}
+
+
+/* ============================================================
+   10. RATING & ACCOUNT UI
+   ============================================================ */
+
+.rateContainer {
+    font-size: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+    letter-spacing: 0;
+}
+
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+    color: lightgrey;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+    background: rgb(0, 0, 0, 0.4) !important;
+    padding: 3px 5px 3px 4px;
+    border-radius: 6px;
+}
+
+#login-status a       { color: var(--link-color); }
+#login-status a:hover { color: var(--link-hover-color); }
+
+#login-status ul a {
+    background: var(--news-block-body-panel-background-even);
+    color: var(--link-color);
+    border: none;
+    text-shadow: none;
+}
+
+#login-status ul a:hover {
+    background: var(--nav-hover-background);
+    color: var(--secondary-background);
+}
+
+#printuser {
+    color: #ccb68f;
+    background-color: transparent;
+}
+
+#account-options #account-options,
+a#account-topbutton {
+    color: #ccb68f;
+}
+
+.open-themes-container {
+    display: none;
+}
+
+/* Search */
+
+#search-top-box-form input[type=submit],
+#top-bar .search-button a {
+    color: #555555;
+}
+
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus,
+#top-bar .search-button a:hover {
+    background: rgb(204, 182, 143, 0.75);
+    color: #555555;
+}
+
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background-color: rgb(204, 182, 143, 0.75);
+    color: #000;
+}
+
+#search-top-box input.empty {
+    color: #2e2e2e;
+}
+
+search-top-box-form input[type=submit] {
+    color: rgb(41, 41, 41, 0.75);
+}
+
+/* Hovertip */
+
+.hovertip .content {
+    padding: 0.2em 0.5em;
+    border: var(--basic-border);
+}
+
+/* Pager */
+
+.pager .current {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: var(--basic-border);
+}
+
+/* Highlight */
+
+highlight td {
+    background-color: var(--primary-background);
+}
+
+
+/* ============================================================
+   11. EDIT & FORM CONTROLS
+   ============================================================ */
+
+#action-area h1 {
+    margin: 1em;
+}
+
+table.edit-page-bottomtable {
+    margin: 10px;
+}
+
+input#edit-page-title {
+    width: 100%;
+}
+
+/* All button-like elements share these base styles */
+#h-perpage, .optionstd a, .new-post .btn, #history-form-1 .btn-sm,
+.well .btn-sm, .change-textarea-size a, .buttons .btn-small,
+.action-area .btn-default, .action-area .btn-primary,
+.col-lg-10 .form-control, .form-actions .btn-danger,
+.buttons .btn-default, .target a, .buttons .btn-danger,
+#edit-cancel-button, #edit-save-button,
+.button-close-message, .button-close-window,
+.button-cancel, .button-insert-code,
+#wd-ed-codewizard-type, #wd-ed-imagewizard-position,
+#wd-ed-imagewizard-uri, #wd-ed-imagewizard-byuri .button,
+#wd-ed-imagewizard-flickr, #wd-ed-imagewizard-byflickr .button,
+.query-area .button, .button-close, .button-rename,
+.button-no\,-cancel, .button-yes\,-delete,
+#file-upload-form .btn-primary, .button-move,
+#action-area .buttons .btn-primary,
+#edit-page-form .buttons .btn-info,
+#view-diff-div .button, .button-yes\,-revert,
+.modal-footer .btn-danger, .modal-footer .btn-default,
+.modal-footer .btn-primary, #mba-apply,
+.yui-content .button, .btn-warning,
+#edit-meta-newtag-form div .btn,
+.new-page-box .button, #page-templates,
+#recent-posts-category,
+.forum-recent-posts-box form .btn,
+.owindow .button-bar .btn {
+    border: var(--button-border) !important;
+    background: var(--button-background) !important;
+    color: #e5e5e5;
+}
+
+
+/* ============================================================
+   12. FOOTER & LICENSE
+   ============================================================ */
+
+#footer,
+#license-area {
+    background-image: var(--asset-paper);
+    background-repeat: repeat-x;
+    border-top: 2px solid var(--primary-background);
+}
+
+#footer {
+    background: var(--content-bar-background);
+    color: var(--text-color);
+}
+
+#footer a {
+    color: var(--link-color);
+    background: transparent;
+}
+
+#license-area {
+    background: var(--secondary-background);
+    color: #878787;
+}
+
+
+/* ============================================================
+   13. MOBILE RESPONSIVENESS
+   ============================================================ */
+
+@media (min-width: 769px) {
+    #top-bar .mobile-top-bar ul { display: none; }
+    #main-content { margin: 0 12em; }
+}
+
+@media (max-width: 768px) {
+    #header {
+        background-position: 0 0.5em;
+        background-size: 25em;
+    }
+
+    #main-content {
+        background-position: 1rem 2.5em;
+        padding: 1em !important;
+    }
+
+    #side-bar:target .close-menu {
+        background: none 1px 1px repeat !important;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 600px) {
+    .offset-right,
+    .offset-left {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 425px) {
+    #header {
+        background-position: center;
+        background-size: 74%;
+    }
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:terrible-trio-theme/code/1); @@
+> @@ [[/module]] @@
+

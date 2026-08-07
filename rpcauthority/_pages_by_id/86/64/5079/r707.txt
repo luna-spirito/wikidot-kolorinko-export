@@ -1,0 +1,241 @@
+---
+title: ""
+tags: ["hub", "information"]
+page_id: "86645079"
+site: "rpcauthority"
+slug: "start"
+revision: 707
+revision_id: "1545354352"
+author: 3638389
+timestamp: 1784574448
+---
+
+[[module CSS]]
+.body-panel[data-link$="event-has-come"] {
+    margin: 2px;
+    position: relative;
+}
+.body-panel[data-link$="event-has-come"]::after, .body-panel[data-link$="/hazard-poker-contest"]::before {
+    content: "";
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    width: 100%;
+    height: 100%;
+    padding: 2px;
+}
+.body-panel[data-link$="event-has-come"]::after {
+    background: linear-gradient(to right, #c66513, #ac8f65, #c66513);
+    box-shadow: var(--content-box-shadow), inset 0px 0px 5px #ac8f6580, inset 0 0 7px #ffff0017;
+    z-index: -1;
+    animation: newsGradientCycle 4s infinite alternate linear;
+}
+.body-panel[data-link$="event-has-come"]::before {
+    z-index: 1;
+    transition: 0.5s;
+    pointer-events: none;
+}
+.body-panel[data-link$="event-has-come"]:hover::before {
+    box-shadow: 0px 0px 5px #ac8f6580, 0 0 7px #ffff0017, inset 0px 0px 5px #ac8f6580, inset 0 0 7px #ffff0017;
+    transition: 0.1s;
+}
+.body-panel[data-link$="event-has-come"] a {
+    color: #c59050;
+    text-shadow: 0px 0px 5px #ac8f6580, 0 0 15px #8f0303ab;
+}
+.body-panel[data-link$="event-has-come"] a:hover { color: #d7b58d; }
+.body-panel[data-link$="event-has-come"] a::after { filter: hue-rotate(180deg); }
+
+@keyframes newsGradientCycle {
+    from { background-position: 0; }
+    to { background-position: 1200px; }
+}
+[[/module]]
+
+[[=]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 380%; font-weight: bold; margin: 2px 0 5px;"]]
+AUTHORITY DATABASE
+[[/div]]
+[[/=]]
+
+[[div class="news-block"]]
+[[div_ class="header-panel"]]
+Site News
+[[/div]]
+
+[[module FrontForum category="4269934" limit="4"]]
+[[div_ class="body-panel" data-link="%%link%%"]]
+[[div_ class="news-date"]]
+**%%linked_title%%** - %%date|%B %e, %Y|agohover%%
+[[/div]]
+[[div_ class="news-content"]]
+%%content%%
+[[/div]]
+[[/div]]
+
+[[/module]]
+
+[[div_ class="footer-panel"]]
+[/forum/c-4269934/sort/start/name/start News Archive]
+[[/div]]
+[[/div]]
+
+[[module ListUsers users="."]]
+[[div class="featured-hider"]]
+ [[/div]]
+[[/module]]
+[[div class="featured-block"]]
+[[div_ class="header-panel"]]
+##f44|NOTICE##
+[[/div]]
+[[div_ class="body-panel"]]
+If you are unable to log in to your Wikidot account, try using http://www.rpcauthority.wikidot.com in order to log in. Or, go to your Chrome cookies, and under blocked cookies, allow Wikidot in order to continue using the __rpc-wiki.net__ domain.
+[[/div]]
+[[/div]]
+
+[[div class="featured-block left-column"]]
+[[div_ class="header-panel"]]
+Featured Article
+[[/div]]
+[[div_ class="body-panel"]]
+[[div_ class="featured-title"]]
+[[[rpc-267|RPC-267 - The Widow and the Mechcronomicon ]]]
+[[/div]]
+
+@@@@
+//"Please no, she's all I have left to remind me of the old world. My darling you can't leave me… She cannot leave me, I won't let her, I'll bring her back myself if I must. She'll be mine once more whether ███ ████████ wishes or not."//
+
+[[/div]]
+[[/div]]
+
+[[div class="featured-block right-column"]]
+[[div_ class="header-panel"]]
+Featured Article
+[[/div]]
+[[div_ class="body-panel"]]
+[[div_ class="featured-title"]]
+[[[rpc-279|RPC-279 - The Act of Vanishing Completely]]]
+[[/div]]
+
+//"A silhouette of its upended head stares in the direction of the researcher, who attempts to vocalize something indistinctly but is interrupted by a loud growl similar in sound to a pig squeal. The audiovisual feed cuts off."//
+
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="featured-block left-column"]]
+[[div_ class="header-panel"]]
+Featured Tale
+[[/div]]
+[[div_ class="body-panel"]]
+[[div_ class="featured-title"]]
+[[[tales-from-the-authority:chapter-1|Tales From The Authority: Chapter 1 - The Beast Amongst Flowers]]]
+[[/div]]
+
+He thought of his past work. He remembers putting a bullet in an almost man-thing, its uncanny features that hid a mess of flesh and teeth. He remembered how the thing moved, twitching like a puppet on invisible strings.
+
+[[/div]]
+[[/div]]
+
+[[div class="featured-block right-column"]]
+[[div_ class="header-panel"]]
+Featured Article
+[[/div]]
+[[div_ class="body-panel"]]
+[[div_ class="featured-title"]]
+[[[rpc-266|RPC-266 - Looking Glass Labyrinth | ʜɈniɿγdɒ⅃ ƨƨɒlӘ ϱniʞoo⅃]]]
+[[/div]]
+
+//"The Purities stay. Dialectics is the only way around psychic interference."//
+
+//"The mirrors. They torture the psitain. They keep your eyes from admiring evil. We need more mirrors, not less, until every surface reflects."//
+
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="info-block"]]
+[[div_ class="header-panel"]]
+Social Media
+[[/div]]
+[[div_ class="body-panel centered socials-panel"]]
+[[a href="discord"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav:side/discord.png]]Discord
+[[/a]]
+[[a href="https://twitter.com/RPCAuthority"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav:side/twitter.png]]Twitter
+[[/a]]
+[[a href="https://www.reddit.com/r/TheRPCAuthority"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav:side/reddit.png]]Reddit
+[[/a]]
+[[a href="https://www.redbubble.com/people/RPCAuthority/portfolio?asc=u"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav:side/redbubble.png]]Redbubble
+[[/a]]
+[[a href="https://steamcommunity.com/groups/ORPCGP"]]
+[[image http://rpcauthority.wdfiles.com/local--files/nav:side/steam.png style="padding: 1px;"]][[span style="white-space: nowrap;"]]Steam Group[[/span]]
+[[/a]]
+[[/div]]
+[[/div]]
+
+~~~~
+
+[[div class="info-block"]]
+[[div_ class="header-panel"]]
+Site Info
+[[/div]]
+[[div_ class="body-panel centered"]]
+[[[staffpage|List of Staff Members]]]
+[[/div]]
+[[div_ class="body-panel"]]
+The RPC Authority Wiki **[[[component:theme|Black Supremacy]]]** theme was created by [[user 0ktober]]. It uses code from the **Supremacy** theme as a base, created by [[user James_Pitchford]]. The theme is also based on the unofficial **RPC Authority Dark Theme** Chrome extension, created by [[user bobbytheevil]], using code and other components of this theme. 
+
+The Black Supremacy **Header Background** was created by [[user Logangreenjeans]].
+
+The RPC Authority Wiki **Anomaly** logo was designed by [[user VolgunStrife]].
+
+Portions of this site are constructed from code courtesy of the SCP Wiki.
+
+This work is licensed under a [[[http://creativecommons.org/licenses/by-sa/3.0/|Creative Commons Attribution-ShareAlike 3.0 Unported License]]].
+
+[[/div]]
+[[/div]]
+
+[[module CSS]]
+.front-forum-box > div:nth-child(odd) .body-panel { background: var(--news-block-body-panel-background-even); }
+
+.front-forum-box .news-content > * { display: none; }
+.front-forum-box .news-content:not(:has(.frontpage-show)) > p:first-of-type {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.frontpage-show { display: block !important; }
+.frontpage-show p:first-child { margin-top: 0; }
+.frontpage-show p:last-child { margin-bottom: 0; }
+
+.featured-hider, .featured-hider + div { display: none; }
+
+.socials-panel {
+    display: flex;
+    justify-content: space-around;
+}
+.socials-panel a {
+    font-size: 120%;
+    font-weight: bold;
+    margin-bottom: -2px;
+}
+.socials-panel a::after, .socials-panel br { display: none; }
+.socials-panel img {
+    vertical-align: middle;
+    margin: 0 0.5ex 2px 0;
+}
+
+/* alignment fix for multi-line featured blocks */
+.featured-block .body-panel p:first-of-type { margin-top: 0; }
+[[/module]]
+

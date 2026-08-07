@@ -1,0 +1,603 @@
+---
+title: "Terrible Trio Event"
+tags: ["event"]
+page_id: "1468873319"
+site: "rpcauthority"
+slug: "terrible-trio-event"
+revision: 16
+revision_id: "1545550925"
+author: 4318134
+timestamp: 1785369499
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:research-style/code/1);
+@import url(http://rpcauthority.wikidot.com/component:terrible-trio-theme/code/1);
+#page-title { text-align: center; }
+
+.submissions {
+    position: absolute;
+    left: 775px;
+    background: var(--primary-background);
+    box-shadow: var(--content-box-shadow);
+    padding: 5px;
+    text-align: center;
+    transition: background 0.1s, color 0.1s;
+}
+.submissions a { text-decoration: none; }
+#page-content .submissions > p:first-child a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    background: none;
+    padding: 0;
+    box-shadow: none;
+}
+.submissions: hover {
+    background: var(--nav-hover-background);
+    color: #fff;
+}
+
+@media (max-width: 1289px) {
+    div.submissions {
+    	position: relative;
+    	left: 0;
+    	display: flex;
+    }
+    .submissions > * {
+    	width: 0;
+    	flex-grow: 1;
+    	text-align: center
+    }
+    table.wiki-content-table { font-size: 80%; }
+}
+
+#u-headerImage img { aspect-ratio: 16/9; }
+[[/module]]
+
+[[div class="submissions"]]
+[#submissions  ]Submissions
+
+[[size 150%]]▼[[/size]]
+[[/div]]
+[[div class="pinred pinned offset-left left-4 roleft5"]]
+Amazing! stock rises to
+3 billion before plummeting.
+
+Anomalous bear market
+manipulation?
+[[/div]]
+
+[[div class="content-panel"]]
++ HAVEN’T YOU HEARD? [[size 80%]]-- THE RUMOR MILL[[/size]]
+----
+[[module ListPages category="rumor-a rumor-n rumor-k" limit="3" order="random" separate="no" wrapper="no"]]
+[[div]]
+**%%created_at|%d.%m.%Y%%:** %%title_linked%% ([[#ifexpr %%rating%% > 0 | +]]%%rating%%)
+[[/div]]
+[[/module]]
+[[/div]]
+
+[[div class="pinindigo pinned offset-right right-5 roright25"]]
+[[=]]
+KK behind the funding of 
+several gacha games. 
+For __what__ purpose? 
+[[/=]]
+[[/div]]
+
+
+
+[[div id="headerImage"]]
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/terrible-trio-event/conspiracy-board.png|align=center|width=100%|caption=It can't all be connected, can it?]]
+[[/div]]
+
+
+[[div class="pinwhite pinned offset-left left-3 roleft10"]]
+[[=]]
+Truce between Nucorp and GEAR. 
+Possible collaboration: 
+Codename **NOVA VIA**
+[[/=]]
+[[/div]]
+
+~~~~
+[[div class="typewrite2 paperGray"]]
+[[size 120%]][[collapsible show="GENERAL STATUS UPDATE - FAX EMAIL #01" hide=" "]][[/size]]
+[[div class="typewrite2 paper1"]]
+
+[[=]]
+-----
++++ ##black|{{EURASIACOM - SEAT OF THE GLOBAL DIRECTOR}}##
++++++ ##black|{{High Office of the Presidium}}##
+[[/=]]
+[[<]]
+{{__FROM__: Site-███, ██████ | Office of [http://rpcauthority.wikidot.com/gd-eura GD-EURA]}}
+{{__TO__: Informed Authority Staff - OPERATION TRIFECTA}}
+{{__SUBJECT__: Unusual GoI Activity - Progress Report 20/07/2026}}
+
+{{Greetings,}}
+
+{{I believe it unnecessary to reiterate the current predicament we've been dealing with these past few weeks. Instead, I want to thank our brave men and women for their quick efforts in dealing with Amazing! Co. and their newest product lines. I've always advocated for my fellow Directors to take them more [http://rpcauthority.wikidot.com/rumor-a:amazing-co-sold-products-to-dictatorships-throughout seriously], and the recent spree of deaths caused by RPC-759 has thankfully been sufficient to allocate more resources towards them.}}
+
+{{This is not to say that Kabushiki Kawaii nor Nucorp are being ignored. While a [http://rpcauthority.wikidot.com/rumor-n:nucorp-demo-for-time-travel-photography-has-odd-limi few documents were lost during the investigation], members of the [http://rpcauthority.wikidot.com/rumor-n:nucorp-has-been-infiltrated-by-engineer-cultists Office of Occult Concerns] were able to establish contact with Nucorp subsidiaries, amongst them various cults previously unknown to us. Similarly, I'm happy to announce the acquisition of the [http://rpcauthority.wikidot.com/rumor-k:kabushiki-kawaii-implicated-in-anomalous-drug-bust Choumeng Group], their assets, and affiliate connections by the EURACOM financial administration following UNAAC hearings. They will continue to operate as Authority front companies while MST Romeo-7 tracks down any surviving members of the drug operation.}}
+
+{{As our work continues, I feel the need to warn personnel of possible third-party investment and manipulation of Amazing! Co. Despite their products' dubious quality, Amazing! Co. has always maintained a certain "internal consistency" with their operations. Now, products have become almost formulaic, copying off of one another. Mass production is a known mechanism of theirs, but the pattern has changed in a conspicuous manner: new product lines, only as large as a few thousand items, are shipped and advertised at a rate large enough to overwhelm Annullifiers's best. They fear that, just a month from now, Amazing! Co. could reach a pace of 30 product lines each day, greatly saturating intelligence assets assigned to tracking them. Moreso, this appears to be the intent, and represents a break on ~30 years of consistent modus operandi.}}
+
+{{Whatever or not this third-party is the cause behind Nucorp and Kabushiki's increased activity is something to be seen. I expect you all to work according to your salaries in these next two weeks until the next operational report. Do not disappoint us.}}
+
+{{Best regards,}}
+
+[[>]]
+{{Halfpenny}}
+{{EURASIACOM's Global Director}}
+[[/>]]
+
+{{PD: While Prolab's A!CO-033 department makes use of their new funds, I recommend [http://rpcauthority.wikidot.com/rumor-a:the-misspellings-and-grammer-mistakes-in-amazing-co abstaining from reading] the latest Catalog(ue).}}
+
+[[/<]]
+[[/div]]
+[[/div]]
+
+[[div class="typewrite2 paper1"]]
+
+[[=]]
+-----
++++ ##black|{{EURASIACOM - SEAT OF THE GLOBAL DIRECTOR}}##
++++++ ##black|{{High Office of the Presidium}}##
+[[/=]]
+[[<]]
+{{__FROM__: Site-███, ██████ | Office of GD-EURA}}
+{{__TO__: Informed Authority Staff - OPERATION TRIFECTA}}
+{{__SUBJECT__: Re: Unusual GoI Activity - Progress Report 20/07/2026}}
+
+{{On another note, don't harass staff about them "betraying" the Authority, or requesting their reclassification as a "Hostile" group. Damien is a lovely business partner, but I'd prefer not to constantly reassure him of our organization's continued cooperation. As much as it hurts me to admit, the Authority is no longer Nucorp Industries' largest investor, and they are not required to answer to us.}}
+
+{{And stop calling Administration about [http://rpcauthority.wikidot.com/rumor-a:amazing-co-has-been-in-a-partnership-with-mcdonald-s McDonald's]. This particular venue was a bootleg amalgamation of nearby fast food chains by Amazing! Co. which happened to result in an almost-identical recreation of McDonald's. Upon closer inspection, one can clearly notice the typographic font used in the entire store to be that of Popeyes. This and other covert market tactics by Amazing! Co. will be dealt with in time, preferably without interference by our own staff.}}
+
+{{Best regards,}}
+
+[[>]]
+{{Halfpenny}}
+{{EURASIACOM's Global Director}}
+[[/>]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-panel"]]
+
+[[=]]
++ [[# submissions]] __**GATHERED DATA**__
+[[/=]]
+
+
+[[/div]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+#u-dataTableWrapper {
+    box-shadow: var(--table-box-shadow);
+    font-size: 90%;
+}
+#u-dataTable { display: flex; }
+#u-dataTable > div, #u-artSection {
+    background: repeating-linear-gradient(45deg, #111, #111 10px, #171313 10px, #171313 20px);
+    border: var(--table-border);
+    color: var(--table-cell-color);
+}
+#u-dataTable > div {
+    width: 0;
+    flex: 1;
+    border-right-style: none;
+}
+#u-dataTable > div:last-child { border-right-style: solid; }
+#u-dataTableWrapper .dataTableHeader {
+    text-align: center;
+    border-bottom: var(--table-border);
+    margin: 0;
+    padding: .3em 0;
+    color: #fff;
+    font-size: 200%;
+    height: 1.2em;
+    position: relative;
+}
+#u-dataTableWrapper .dataTableHeader p {
+    margin: 0;
+    position: relative;
+}
+#u-dataTableWrapper .dataTableHeader::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: center/40% no-repeat;
+    opacity: .2;
+}
+
+#u-dataTable .collapsible-block {
+    padding: 3px;
+    background: #000;
+    color: #aaa;
+    border-bottom: var(--table-border);
+}
+#u-dataTable .collapsible-block-folded, #u-dataTable .collapsible-block-unfolded-link {
+    text-align: center;
+    text-align-last: justify;
+    white-space: nowrap;
+}
+#u-dataTable .collapsible-block-content br { display: block; margin: .5em; }
+#u-dataTable input.text { 
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#u-dataTable > div > .list-pages-box, #u-artSection .list-pages-box {
+    font-size: 95%;
+    padding: 0.3em 0.7em;
+    color: #999;
+}
+#u-dataTable > div > .list-pages-box a { font-size: 130%; }
+
+#u-nucorp .dataTableHeader a, #u-kawaii .dataTableHeader a { color: #fff !important; }
+#u-nucorp .dataTableHeader {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anucorp-industries-theme/NuCorp_Header.png) 0 #656464;
+    font-family: 'Exo 2', sans-serif;
+}
+#u-nucorp .dataTableHeader p, #u-amazing .dataTableHeader p { bottom: 2px; }
+#u-nucorp .dataTableHeader::before { background-image: url(https://rpcauthority.wdfiles.com/local--files/component%3Anucorp-industries-theme/NuCorp_Logo.png); }
+#u-nucorp, #u-artSection {
+    --link-color: #c0cecf;
+    --link-hover-color: #fff;
+}
+#u-amazing .dataTableHeader {
+    background: url(https://rpcauthority.wdfiles.com/local--files/terrible-trio-event/amazing-stripes.png) #339966;
+    font-family: "Comic Sans MS", "Bradley Hand ITC", sans-serif;
+    text-shadow: -3px 0px 0px #c13744, 3px 0px 0px #c13744, -2px -2px 0px #c13744, 0px 2px 0px #c13744, 0px -2px 0px #c13744, 1px -2px 0px #c13744, 1px 2px 0px #c13744, 2px -2px 0px #c13744, -2px 2px 0 #c13744, 2px 2px 0 #c13744;
+}
+#u-amazing .dataTableHeader a { color: #fc0; }
+#u-amazing {
+    --link-color: #fc0;
+    --link-hover-color: #ff0;
+}
+#u-kawaii .dataTableHeader {
+    background: url(http://rpcsandbox.wikidot.com/local--files/component:kawaii-korps-theme/kkbg.png) top/250% #9535ad;
+    font-family: 'Lobster', cursive;
+    color: #fff;
+}
+#u-kawaii .dataTableHeader::before { background-image: url(http://www.rpc-wiki.net/local--files/groups-of-interest/KK.png); }
+#u-kawaii {
+    --link-color: #bd58d6;
+    --link-hover-color: #dc72f6;
+}
+
+#u-artSection {
+    border-top-style: none;
+    --link-color: #d67c7c;
+    --link-hover-color: #ffb6b6;
+}
+#u-artSection .dataTableHeader {
+    font-size: 125%;
+    background: #4e1919;
+}
+
+/* theme overrides */
+#u-dataTableWrapper a, #u-dataTableWrapper a:hover {
+    background: none;
+    box-shadow: none;
+    color: var(--link-color);
+    padding: 0;
+}
+#u-dataTableWrapper a:hover {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    #u-dataTableWrapper .dataTableHeader { font-size: 130%; }
+    #u-dataTable .collapsible-block-folded, #u-dataTable .collapsible-block-unfolded-link {
+    	white-space: initial;
+    	text-align-last: unset;
+    }
+}
+
+@media (min-width: 769px) {
+    #u-dataTable .collapsible-block-folded::before { content: "++ "; }
+    #u-dataTable .collapsible-block-folded::after { content: " ++"; }
+    #u-dataTable .collapsible-block-unfolded-link::before { content: "-- "; }
+    #u-dataTable .collapsible-block-unfolded-link::after { content: " --"; }
+}
+[[/module]]
+
+[[div id="dataTableWrapper"]]
+[[div id="dataTable"]]
+[[div id="nucorp"]]
+[[div class="dataTableHeader"]]
+[/nucorp-hub Nucorp]
+[[/div]]
+
+[[collapsible show="ACCESS DATA FLOW" hide="CLOSE DATA FLOW"]]
+[[module ListPages category="rumor-n" perPage="250" separate="no"]]
+[[#ifexpr %%rating%% > 0 | +]]%%rating%% - [[[%%fullname%%|%%title%%]]]
+[[/module]]
+[[module NewPage category="rumor-n" button="Add rumor"]]
+[[/collapsible]]
+
+[[module ListPages tags="terribletrio-nucorp" order="random" perPage="250" separate="no"]]
+%%title_linked%% by %%created_by%%
+[[/module]]
+
+[[module CountPages tags="terribletrio-nucorp"]]
+[[#ifexpr %%total%% == 0 | Nothing yet...]]
+[[/module]]
+[[/div]]
+[[div id="amazing"]]
+[[div class="dataTableHeader"]]
+[/amazingco-hub Amazing! Co.]
+[[/div]]
+
+[[collapsible show="ACCESS DATA FLOW" hide="CLOSE DATA FLOW"]]
+[[module ListPages category="rumor-a" perPage="250" separate="no"]]
+[[#ifexpr %%rating%% > 0 | +]]%%rating%% - %%title_linked%%
+[[/module]]
+[[module NewPage category="rumor-a" button="Add rumor"]]
+[[/collapsible]]
+
+[[module ListPages tags="terribletrio-amazing" order="random" perPage="250" separate="no"]]
+%%title_linked%% by %%created_by%%
+[[/module]]
+
+[[module CountPages tags="terribletrio-amazing"]]
+[[#ifexpr %%total%% == 0 | Nothing yet...]]
+[[/module]]
+[[/div]]
+[[div id="kawaii"]]
+[[div class="dataTableHeader"]]
+[/kabushiki-kawaii-hub Kabushiki Kawaii]
+[[/div]]
+
+[[collapsible show="ACCESS DATA FLOW" hide="CLOSE DATA FLOW"]]
+[[module ListPages category="rumor-k" perPage="250" separate="no"]]
+[[#ifexpr %%rating%% > 0 | +]]%%rating%% - [[[%%fullname%%|%%title%%]]]
+[[/module]]
+[[module NewPage category="rumor-k" button="Add rumor"]]
+[[/collapsible]]
+
+[[module ListPages tags="terribletrio-kabushiki" order="random" perPage="250" separate="no"]]
+%%title_linked%% by %%created_by%%
+[[/module]]
+
+[[module CountPages tags="terribletrio-kabushiki"]]
+[[#ifexpr %%total%% == 0 | Nothing yet...]]
+[[/module]]
+[[/div]]
+[[/div]]
+
+[[div id="artSection"]]
+[[div class="dataTableHeader"]]
+Artwork
+[[/div]]
+
+[[module ListPages tags="terribletrio-art" order="random" perPage="250" separate="no"]]
+%%title_linked%% by %%created_by%%
+[[/module]]
+[[/div]]
+[[/div]]
+
+[[div class="pinyellow pinned offset-left left-2 roright10"]]
+Under no circumstances does "Amazing! World" call for another failsafe nuke. That was a mistake.
+[[/div]]
+
+
+[[div class="typewrite2 paperGray"]]
+
+[[=]]
++ The conspiracy has only just begun
+[[/=]]
+----------
+The Authority has, since its conception, fought against and alongside Groups of Interest. These organizations have all been the source of many anomalies and the roads that lead to them. Each of them has a specific identity, personal goals, and methods for reaching them. For the longest time, the Authority has managed to contain the influence of its rivals, juggling more than a dozen of them at a time, until now.
+
+Without warning, three Groups of Interest have experienced rapid development and increased activity. A tide of Amazing! Co. products and commercials threaten to tear open the veil, Nucorp's boom in research rapidly paves the road towards the application of dangerous knowledge, and Kabushiki Kawaii has been working around the clock in establishing connections in the veiled and unveiled world.
+
+[[div class="pinblue pinned offset-right right-4 roleft5"]]
+**Evan Sanders (4'5, 45 yr/old):**
+"The local strip-club was bought out. I've seen the strippers regularly come out of manholes."
+[[/div]]
+
+Protection is unable to catch its breath as it moves from one location to another; Research is working around the clock, trying to parse the information and materials brought to them; and Containment struggles to find the resources and means to keep everyone safe. Even the Presidium has begun to buckle under the pressure of this assault -- one that some presume may be directed by an unknown fourth party.
+
+To successfully deal with this crisis, the Authority needs information. It needs files. It needs data. It needs you to find out what is going on and why.
+
+Good luck, agent.
+
+[[/div]]
+
+
+[[div class="typewrite1 paperYellow"]]
+[[=]]
++ __RULES__
+//For the following couple of weeks, we will be gathering data related to each of the three GoIs. There are two methods for gathering data related to them and collecting points, as well as goals to work towards.//
+[[/=]]
+
+------
+[[=]]
+++ Rumor mill and verified data
+[[/=]]
+
+[[div class="pinviolet pinned offset-left left-4 roright5" style="font-family: Candace !important"]]
+--Is there a Ms Amazing?--
+--Little chance.--
+Damn it.
+[[/div]]
+
+The sudden boom in activity has sent agents scrambling to comb through old documents, cross-reference information from old reports, and reconnect with retired operatives. In an attempt to contain the most immediate and obvious threat, the Authority has investigated Amazing! Co. and expanded its debriefing document accordingly. Your goal is to expand it further by contributing your findings and cross-referencing your knowledge with newly acquired rumors.
+
+This is the first method of collecting points. Instead of creating an article, you can contribute by creating a short blurb for the hub directly and having other writers corroborate your work. Your submission should consist of a logline, a short sentence describing the gist of the main text, and the rumor itself, which //should not be longer than 250 words.// Each rumor will be added to the hub once it reaches a tenth of its word count in upvotes, rounded up. For example, if your rumor has 136 words, you will need 14 upvotes.
+
+[[div class="content-panel"]]
+
+Given the amount of misinformation propagated among these Groups and Authority resources, the Presidium has the power to veto any rumor that is obviously incorrect or contradicts existing information. The effort will still be appreciated — a rumor that reaches the required upvotes and gets vetoed still gains you points at a 0.5x modifier. Keep researching, only do it in the right direction!
+
+[[/div]]
+[[/div]]
+
+
+> +++ The process of writing and adding rumors is as follows:
+> 
+> At the bottom of each Group's data flow is a text input. Type a short "headline" for your rumor and press "add rumor". You will be taken to the page editor, where you may write a report on the situation of 250 words or fewer. Press "Save" once you're done. Everything else works automatically for you -- there's no need to add a rating module or any other boilerplate.
+
+[[div class="pinred pinned offset-right right-5 roright15"]]
+Sudden drop in natality in areas with Kabushiki Kawaii influence - why?
+[[/div]]
+
+[[div class="pinwhite pinned offset-left left-3 rorleft20"]]
+Has Nucorp ever bought out an A.R. Authority?
+[[/div]]
+
+[[div class="typewrite1 paper2"]]
+
+[[=]]
+++ Articles
+[[/=]]
+
+The second method is writing articles. Each written entry is categorized by its respective GoI. The Group should be the central focus of the story to receive full points. There are no teams, so you may write for any GoI without worrying about point loss; in fact, writing an article that involves two, or all three, applies 1.5x and 2x modifiers respectively to all relevant parties. Articles that only feature the relevant GoIs without making them the central point gain a 0.5x point modifier.
+
+Upload your entry with the "terribletrio" tag, plus any of the following for the applicable groups: "terribletrio-nucorp", "terribletrio-amazing", and "terribletrio-kabushiki".
+
+[[div class="pinred pinned offset-right right-3 roleft20"]]
+05/29/24: Amazing! Co blimp dumps shredded tax documents over small Connecticut town. Painted to look like confetti.
+[[/div]]
+
+[[div class="pingreen pinned offset-left left-2 roright15"]]
+Corporate Espionage: Gear giving grants Amazing! Co. has been confirmed.
+[[/div]]
+
+
+[[=]]
++++ Rumor articles
+[[/=]]
+
+Rumors aren't just for show: Once rumors are verified, you have the option of basing your article on newly available information. When you pick a rumor (or more than one!), credit it appropriately in the forum post and discussion page once it is uploaded. Rumor articles gain a bonus to their score equal to the point value of the rumor(s) they used. You may not use rumors that have been vetoed, nor rumors written by yourself. The rumors also need to have a suitably important and relevant point in the article—so no offhand mentions!
+
+------
+
+[[=]]
+++ Breakthroughs
+[[/=]]
+
+The veiled world has been whipped into a whirl of activity, and agents are fighting tooth and nail to highlight the most important and relevant topics to address. Knowing what has happened in the past and what is happening in the present will allow the fight to continue well into the future.
+
+Throughout the contest, at the end of each of three approximately two-week-long segments, the Presidium will analyze all collected data and decide where to direct funds and manpower. The best-performing article of each Group will be selected to expand the official GoI hub: Mysterious subdepartments, lesser-known practices, details hidden in plain sight, and everything beyond are all on the table. These breakthroughs in effort and research will forever shape the Group of Interest.
+
+To sweeten the pot even further, breakthrough articles will be treated as worth TRIPLE their points. Want to make sure the Group comes out on top? Better start combing through those rumors.
+
+[[div class="content-panel"]]
+
+     [[div class="pinyellow pinned offset-right right-5 roright25"]]
+     [[div style="font-family: calibri; font-size: 100%; color: purple"]]
+          //AFTER ALL,//
+          //WE ARE YET TO KNOW WHAT THE GROUPS//
+          //ARE WORKING TOWARDS//
+          //AND WHO IS FUNDING THEM,//
+          //NO?//
+     [[/div]]
+     [[/div]]
+
+[[=]]
+//Once the contest ends, the GoI with the highest score will have its best articles featured on the front page. There will be additional consequences to making breakthroughs before the clock strikes twelve -- as well as not making them.//
+[[/=]]
+
+[[/div]]
+[[/div]]
+
+[[div class="pinwhite pinned offset-left left-5 roleft10"]]
+Claims of van der Berg being born to a Indonesian Orthodox priest in Smiljan. Where do they come from?
+[[/div]]
+
+[[div class="typewrite1 paperYellow"]]
+
+[[=]]
+++ __ART AND MEDIA__
+[[/=]]
+In addition to writing submissions, art and media may also be submitted. You may only have one art page to include all Terrible Trio art you create for the event. Preferably, your art page should be named "[your username]'s Terrible Trio Art".
+
+Submitted art may include content from the Terrible Trio event itself, as well as anything related to the Terrible Trio GoIs. You may also submit an art piece as a rumor, and it is scored as a 150-word rumor. If your media is included in the hub, your page is scored as if it is an article. The artist will decide which Group to award their earned points to.
+
+[[module NewPage button="Create Art Entry" tags="terribletrio terribletrio-art alternative-content art"]]
+
+If the button above does not work, navigate to the URL where you want to upload your art submission, and, once it is posted, add the following tags: "terribletrio terribletrio-art alternative-content art".
+[[/div]]
+
+[[div class="typewrite1 paper3"]]
+
+[[=]]
++ Scoring
+[[/=]]
+
+[[tabview]]
+  [[tab Points]]
+    **Rumors** gain points equal to a tenth of their worth in upvotes, rounded up. Rumors need to be verified on the hub; otherwise, they are not scored.
+
+ **Articles** are scored as follows:
+- A 5-star vote is worth 5 points.
+- A 4-star vote is worth 4 points.
+- A 3-star vote or lower does not give points.
+
+  [[/tab]]
+
+[[tab Bonus points]]
+**Rumor articles** add the total points of the used rumors to those scored through votes.
+
+    **Breakthrough articles** triple the total points of the chosen article. [[footnote]] For example, if an article has three 5-star ratings, two 4-star ratings, and two rumors worth 12 and 10 points, respectively, the total point score of the article will be 135 points.[[/footnote]]
+[[/tab]]
+
+[[tab Additional Permissions]]
+Articles that do not feature the GoI are scored with a 0.5x modifier; points go towards the Group the author chooses at the moment of publishing the article.
+
+    **Art and Media** are scored as articles.
+[[/tab]]
+
+[[tab Point changes]]
+Twice a month, the Presidium will analyze point distribution, rumor capital, and similar features and decide whether it needs to change. These changes will apply to all contributions to the event from that moment.
+[[/tab]]
+
+[[/tabview]]
+--------
+
+[[=]]
+++ __EVENT SCHEDULE__
+
+JUNE 19^^th^^/20^^th^^ - Event starts. Rumor mill submissions open.
+JULY 1^^st^^ - Submissions open, First stage begins.
+JULY  16^^th^^ - First stage ends, breakthroughs are announced. The second stage begins.
+AUGUST 1^^st^^ - Second stage ends, breakthroughs are announced, third and final stage begins.
+AUGUST 16^^th^^ - Third stage ends, breakthroughs are announced and submissions are closed.
+AUGUST 23^^rd^^ - Ratings are closed and winners are announced!
+
+[[/=]]
+
+[[/div]]
+
+
+[[div class="content-panel"]]
+[[collapsible show="Open Credits & Footnotes" hide="Close credits"]]
+
+An event by [[*user 8ismo]]
+GoI page and event hub writers - [[*user 8ismo]], [[*user TheGreatTarbolin69]], [[*user Superspambot]], [[*user Hellsverg]]
+Rumor mill code and formatting - [[*user DoubleDenial]]
+GoI theme rework and event theme - [[*user televisionist]], [[*user TheGreatTarbolin69]]
+RPC event logo and key art - [[*user 8ismo]]
+
+[[footnoteblock]]
+
+[[/collapsible]]
+
+[[/div]]
+
