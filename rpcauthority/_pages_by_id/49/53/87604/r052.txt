@@ -1,0 +1,883 @@
+---
+title: "Amazingco Theme"
+tags: ["theme"]
+page_id: "495387604"
+site: "rpcauthority"
+slug: "component:amazingco-theme"
+revision: 52
+revision_id: "1544744106"
+author: 5258122
+timestamp: 1781920315
+---
+
+[[module css]]
+@import url(https://rpcauthority.wikidot.com/component:amazingco-theme/code/1);
+[[/module]]
+ 
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+Amazing! Co. Theme 2026
+
+Created by Tarbolin69 & Qual
+Based on the original Amazing! Co. Theme, made by Jerry
+Boilerplate/code stolen from Jokzm.
+*/
+
+
+/* ============================================================
+   ROOT VARIABLES
+   ============================================================ */
+
+:root {
+
+    /* --- PALETTE --- */
+    --a-bgteal:     #088893;
+    --a-content-blue: hsl(185deg 90% 30% / 90%);
+    --a-red:        #c13744;
+    --a-blu:        teal;
+    --a-yell:       #ffcc00;
+    --a-s-yell:     #b5a565;
+    --a-gre:        #339966;
+    --a-shad:       #72339933;
+    --bg_blue:      #0c747c;
+
+    /* --- BORDERS --- */
+    --m-red-border:  4px solid var(--a-red);
+    --s-red-border:  2px solid var(--a-red);
+    --m-blu-border:  4px solid var(--a-blu);
+    --s-blu-border:  2px solid var(--a-blu);
+    --m-yell-border: 4px solid var(--a-yell);
+    --s-yell-border: 2px solid var(--a-yell);
+
+    /* --- SHADOWS --- */
+    --a-shadow:      8px 8px 0px var(--a-shad);
+    --a-h-shadow:
+        -3px  0px 0px var(--a-red),  3px  0px 0px var(--a-red),
+        -2px -2px 0px var(--a-red),  0px  2px 0px var(--a-red),
+         0px -2px 0px var(--a-red),  1px -2px 0px var(--a-red),
+         1px  2px 0px var(--a-red),  2px -2px 0px var(--a-red),
+        -2px  2px 0   var(--a-red),  2px  2px 0   var(--a-red);
+    --rainbow-shadow-border:
+        inset 0px 0px 0px  3px var(--a-gre),
+        inset 0px 0px 0px  6px var(--a-bgteal);
+    --content-box-shadow:
+        0px  3px 0px 0px var(--a-gre),
+        0px  6px 0px 0px var(--a-blu),
+        8px 14px 0px      var(--a-shad);
+    --content-box-shadow-color: var(--a-shad);
+
+    /* --- BODY & TEXT --- */
+    --body-background:    var(--a-gre);
+    --text-color:         #d4edef;
+    --primary-text-color: var(--a-yell);
+    --page-title-border:  3px solid var(--a-yell);
+
+    /* --- LINKS --- */
+    --link-color:       var(--a-yell);
+    --link-hover-color: #ffff00;
+    --new-page-color:   var(--a-red);
+
+    /* --- BUTTONS --- */
+    --button-border:            var(--s-red-border);
+    --button-background:        var(--a-gre);
+    --button-hover-color:       var(--a-red);
+    --button-hover-border:      var(--s-red-border);
+    --button-hover-background:  var(--a-yell);
+
+    /* --- NAVIGATION --- */
+    --nav-hover-background:      var(--a-yell);
+    --topbar-text-color:         var(--a-yell);
+    --topbar-dropdown-background: #088893;
+    --topbar-hover-color:        var(--a-red);
+
+    /* --- SIDEBAR --- */
+    --sidebar-hover-color:            var(--a-red);
+    --sidebar-header-color:           var(--a-yell);
+    --sidebar-crit-corner-color:      var(--a-red);
+    --sidebar-mobile-open-menu-color: var(--a-yell);
+
+    /* --- CONTENT PANELS --- */
+    --primary-background:   var(--bg_blue);
+    --secondary-background: rgba(23, 1, 10, 0.15);
+    --content-bar-background: #008e99;
+    --content-bar-color:    var(--a-red);
+    --news-block-body-panel-background-even: teal;
+
+    /* --- TABLES --- */
+    --table-header-background:     #c13744;
+    --table-header-background-alt: #2d2d2d;
+    --table-header-color:          var(--a-yell);
+    --table-cell-color:            var(--text-color);
+    --table-border:                var(--s-red-border);
+
+    /* --- SEARCH --- */
+    --search-button-border:            var(--s-blu-border);
+    --search-button-background:        var(--a-bgteal);
+    --search-button-hover-background:  var(--a-yell);
+
+    /* --- MODALS & DIALOGS --- */
+    --modal-body-background:   var(--a-bgteal);
+    --modal-header-background: var(--a-blu);
+    --owindow-border:          var(--m-red-border);
+
+    /* --- TABVIEW --- */
+    --tabview-background:                   var(--a-blu);
+    --tabview-border:                       var(--s-red-border);
+    --tabview-bar-border:                   var(--m-red-border);
+    --tabview-button-background:            transparent;
+    --tabview-button-border:                none;
+    --tabview-button-selected-background:   var(--a-yell);
+    --tabview-button-selected-color:        var(--text-color);
+    --tabview-button-hover-background:      var(--secondary-background);
+    --tabview-side-border:                  none;
+    --tabview-side-tabs-background:         #313336;
+    --tabview-side-tabs-box-shadow:         1px 0 1px 1px var(--content-box-shadow-color);
+    --tabview-side-box-shadow:              var(--content-box-shadow);
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--a-yell);
+    --tabview-side-button-divider:          1px solid var(--tabview-side-button-selected-background);
+    --tabview-side-scrollbar-background:    var(--content-bar-background);
+    --tabview-side-scrollbar-thumb-background:       var(--BT-scrollbar-thumb-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--BT-scrollbar-thumb-hover-background);
+
+    /* --- SCROLLBAR --- */
+    --BT-resizer-background:              var(--bg_blue);
+    --BT-scrollbar-thumb-background:      var(--a-red);
+    --BT-scrollbar-thumb-hover-background: var(--a-yell);
+
+    /* --- SIDENOTES --- */
+    --sidenote-closed-background:   var(--a-bgteal);
+    --sidenote-open-background:     var(--a-red);
+    --sidenote-contents-border:     var(--s-red-border);
+    --sidenote-figure-border:       var(--s-red-border);
+
+    /* --- MISC --- */
+    --nested-content-border: var(--m-red-border);
+    --footnote-border:        var(--basic-border);
+    --footnote-background:    var(--primary-background);
+    --star-rating-hue:        190deg;
+    --star-rating-background: var(--a-red);
+    --code-background:        var(--a-gre);
+    --text-box-form-background: var(--a-gre);
+
+    /* --- HEADER / LOGO --- */
+    --header-text-visibility: hidden;
+    --header-icon: url('https://rpcauthority.wdfiles.com/local--files/component%3Aamazingco-theme/amazing-logo.gif');
+    --header-icon-size: 15em;
+}
+
+a.footnoteref {
+    display: inline-block;
+    padding: none;
+}
+
+/* ============================================================
+   GLOBAL / BODY
+   ============================================================ */
+
+body {
+    font-family: "Comic Sans MS", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+    font-size: 0.80em;
+    background: var(--body-background);
+    color: var(--text-color);
+    background-image:
+        url('https://rpcauthority.wdfiles.com/local--files/component%3Aamazingco-theme/amazing-rainbow.png'),
+        url('https://rpcauthority.wdfiles.com/local--files/component%3Aamazingco-theme/amazing-stripes.png');
+    background-repeat: no-repeat, repeat;
+    background-attachment: fixed, scroll;
+    background-size: cover, 100%;
+}
+
+::selection {
+    color: var(--a-red);
+    background: var(--a-yell);
+}
+
+hr {
+    margin: 1em -1em;
+    height: 3px;
+    border: none;
+    background: var(--a-red) !important;
+    box-shadow: 0px 2px 0px var(--a-gre), 0px 4px 0px var(--a-blu);
+}
+
+h1 {
+    color: var(--a-yell);
+    font-weight: bold;
+    text-shadow: var(--a-h-shadow);
+}
+
+h2, h3, h4, h5, h6 {
+    color: #ffcc00;
+    font-family: "Comic Sans MS", "Bradley Hand ITC", sans-serif;
+    text-shadow: -3px -3px 0 var(--a-gre);
+}
+
+
+/* ============================================================
+   LINKS
+   ============================================================ */
+
+p a,
+a.collapsible-block-link {
+    padding: 3px;
+    transition: color 0.5s ease, box-shadow 0.5s ease, background 0.8s ease;
+    box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 0px 0px transparent;
+}
+
+p a:hover,
+a:hover #toc,
+a:hover.collapsible-block-link {
+    color: var(--a-red);
+    background: var(--a-yell);
+    padding: 3px;
+    transition: color 0.5s ease, box-shadow 0.5s ease, background 0.8s ease;
+    box-shadow: 3px 0px 0px var(--a-red), 6px 0px 0px var(--a-gre), 9px 0px 0px #2bb1dd;
+}
+
+
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+
+div#content-wrap {
+    margin: 0.5em auto 0;
+    min-height: fit-content !important;
+}
+
+div#container-wrap {
+    background: url('https://rpcauthority.wdfiles.com/local--files/component%3Aamazingco-theme/amazing-header.png') top left repeat-x;
+}
+
+#header h1 {
+    margin: 0;
+    width: 100%;
+}
+
+#header h1 a {
+    margin: 0;
+    width: 100%;
+    padding-left: 0;
+    padding-bottom: 61px;
+}
+
+#main-content {
+    background: var(--a-content-blue);
+    padding: 0;
+    border-left: var(--m-red-border);
+    border-right: var(--m-red-border);
+    box-shadow: -4px 0px 0px 0px teal, -8px 0px 0px 0px #ffcc00, 8px 0px 0px var(--a-shad);
+}
+
+#page-content {
+    padding: 1em;
+    font-size: 120%;
+}
+
+#page-title {
+    color: #ffcc00;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 250%;
+    background: var(--bg_blue);
+    text-shadow: var(--a-h-shadow);
+    border-bottom: var(--m-red-border);
+    box-shadow: 0px 4px 0px var(--a-gre), 0px 8px 0px var(--a-s-yell), 0px 12px 0px var(--a-blu);
+}
+
+.page-options-bottom {
+    margin: 0;
+    margin-top: 4px;
+}
+
+#license-area {
+    background: var(--a-bgteal);
+}
+
+#toc {
+    background: var(--bg_blue);
+}
+
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+
+#header {
+    background-position-y: 20%;
+    background-position-x: center;
+    background-size: 22%;
+}
+
+@media (max-width: 768px) {
+    #header {
+        background-position: center 2em;
+        background-size: 15em;
+    }
+}
+
+
+/* ============================================================
+   TOP BAR
+   ============================================================ */
+
+#top-bar .search-button a {
+    padding: 0;
+    box-shadow: var(--a-shadow);
+    border: var(--s-red-border);
+}
+
+#top-bar ul li ul {
+    border: 2px solid var(--a-red);
+    border-bottom: var(--m-red-border);
+    box-shadow: var(--content-box-shadow) !important;
+}
+
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus,
+#top-bar .search-button a:hover {
+    border: var(--s-red-border);
+    color: var(--a-red);
+    background: var(--search-button-hover-background);
+}
+
+
+/* ============================================================
+   SIDEBAR — SHARED
+   ============================================================ */
+
+#side-bar {
+    width: 20em;
+    padding: 0;
+    position: absolute;
+    float: right;
+    margin: 0 0 0 5em;
+    clear: left;
+}
+
+#side-bar .side-block {
+    padding: 1em 0 3em 0;
+    margin: 0 0 0 -50px;
+    width: 100%;
+    background: var(--a-content-blue);
+    border-radius: 0 0 0 2em;
+    border-left: var(--m-yell-border);
+    border-bottom: var(--m-yell-border);
+    box-shadow: var(--a-shadow);
+}
+
+#side-bar hr {
+    visibility: hidden;
+}
+
+
+/* ============================================================
+   SIDEBAR — DESKTOP (min-width: 768px)
+   ============================================================ */
+
+@media (min-width: 768px) {
+    #side-bar div.menu-item a {
+        margin: 0 calc(0em - 1px) 0 0;
+        padding: 0.4em 0 0.4em 3.5em !important;
+        width: 85%;
+    }
+
+    #side-bar .heading {
+        font-size: 1.5em;
+        margin: -1em calc(-2em + 2px) 0.5em 0;
+        font-weight: bold;
+        color: var(--sidebar-header-color);
+        padding-left: 2em;
+        width: 85%;
+        text-shadow:
+            -2px -2px 0px var(--a-red),  0px  2px 0px var(--a-red),
+             0px -2px 0px var(--a-red),  1px -2px 0px var(--a-red),
+             1px  2px 0px var(--a-red),  2px -2px 0px var(--a-red),
+            -2px  2px 0   var(--a-red),  2px  2px 0   var(--a-red);
+    }
+
+    #side-bar .menu-item.discord a::before {
+        content: url('https://rpcauthority.wdfiles.com/local--files/nav%3Aside/discord.png');
+        position: absolute;
+        left: 14.5em;
+    }
+
+    #side-bar .menu-item.lore a::before {
+        content: url('https://rpcauthority.wdfiles.com/local--files/nav%3Aside/lore.png');
+        position: absolute;
+        left: 14.5em;
+    }
+
+    #side-bar .menu-item.reddit a::before {
+        content: url('https://rpcauthority.wdfiles.com/local--files/nav%3Aside/reddit.png');
+        position: absolute;
+        left: 14.5em;
+    }
+
+    #side-bar .menu-item.steam a::before {
+        content: url('https://rpcauthority.wdfiles.com/local--files/nav%3Aside/steam.png');
+        position: absolute;
+        left: 14.5em;
+    }
+
+    #side-bar .menu-item.twitter a::before {
+        content: url('https://rpcauthority.wdfiles.com/local--files/nav%3Aside/twitter.png');
+        position: absolute;
+        left: 14.5em;
+    }
+
+    #side-bar .menu-item.redbubble a::before {
+        content: url('https://rpcauthority.wdfiles.com/local--files/nav%3Aside/redbubble.png');
+        position: absolute;
+        left: 14.5em;
+    }
+}
+
+
+/* ============================================================
+   SIDEBAR — MOBILE (max-width: 768px)
+   ============================================================ */
+
+@media (max-width: 768px) {
+    #side-bar {
+        position: fixed;
+        top: 0;
+        left: -20em;
+        width: 20em;
+        height: 100%;
+        overflow-y: auto;
+        z-index: 10;
+        transition: left 0.5s ease;
+        margin: 0;
+        float: none;
+    }
+
+    #side-bar:target {
+        left: 0;
+        height: 100%;
+        width: 23em;
+    }
+
+    #side-bar .side-block {
+        min-height: 100%;
+        margin: 10px;
+        border-radius: 0;
+        box-sizing: border-box;
+        border: none;
+        border: var(--m-yell-border);
+        position: sticky;
+        width: 20em;
+    }
+
+
+    #side-bar .heading {
+        font-size: 1.2em;
+        margin: 1em calc(-1em + 2px) 0.5em 4em;
+        font-weight: bold;
+        color: var(--sidebar-header-color);
+        text-shadow: var(--a-h-shadow);
+    }
+
+    #side-bar .menu-item>a {
+        padding-right: 3em !important;
+        width: 82% !important;
+        margin: 0px calc(-1em - 1px) 0 0em !important;
+    }
+
+#side-bar div.menu-item a
+ {
+    transition: all 0.1s ease-in-out;
+    display: block;
+    padding: 0.4em 1em 0.4em 0.5em;
+    font-size: 12.8px;
+    color: var(--sidebar-color);
+    width: 100%;
+    background-position-x: center;
+}
+
+}
+
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+#footer {
+    margin-top: 0px !important;
+    border-top: var(--m-red-border);
+    border-bottom: var(--m-yell-border);
+}
+
+#footer a {
+    color: var(--a-yell);
+}
+
+a.footnoteref, a.footnoteref:hover {
+    padding: 0em;
+}
+
+/* ============================================================
+   CONTENT BLOCKS
+   ============================================================ */
+
+.content-panel,
+#toc,
+.image-block,
+.tableStyle,
+table.wiki-content-table,
+.featured-block,
+.info-block,
+.news-block,
+.content-box,
+.content-block {
+    border-left: var(--s-red-border);
+    border-top: var(--s-red-border);
+    border-right: var(--s-red-border);
+    border-bottom: var(--m-red-border);
+    box-shadow: var(--content-box-shadow);
+}
+
+.content-panel {
+    background: var(--bg_blue);
+    margin: 1.5em 0.5em 1.5px 0.5em;
+}
+
+blockquote {
+    border: var(--m-red-border);
+    box-shadow: var(--rainbow-shadow-border), var(--a-shadow);
+    padding: 1.5em;
+    transition: none;
+}
+
+.content-panel hr,
+.yui-content hr,
+.info-block hr,
+.news-block hr,
+.featured-block hr,
+blockquote hr,
+.content-box hr {
+    background: var(--a-red) !important;
+    box-shadow: 0px 2px 0px var(--a-gre);
+    margin: 1em 0;
+    height: 2px !important;
+    border: none !important;
+}
+
+.highlight td {
+    background-color: var(--primary-background);
+}
+
+.news-block .body-panel .news-date {
+    color: var(--a-red);
+    font-size: 80%;
+}
+
+.image-block .image-caption {
+    background: var(--bg_blue);
+    color: var(--text-color);
+}
+
+.rateContainer {
+    margin: 0 0 1.5em 0;
+}
+
+.page-source {
+    background: var(--a-gre);
+}
+
+.starStyle {
+    background: var(--a-red);
+}
+
+
+/* ============================================================
+   SIDENOTES
+   ============================================================ */
+
+.sidenoteC,
+.sidenoteI,
+.sidenote.sidenoteLock-false .sidenoteC,
+.sidenote.sidenoteLock-false .sidenoteI {
+    color: var(--sidenote-contents-open-color);
+    border-bottom: var(--m-red-border);
+    border-left: var(--s-red-border);
+    border-right: var(--s-red-border);
+}
+
+/* Default: shadow visible */
+.sidenoteH {
+    background: var(--sidenote-closed-background);
+    border: var(--m-red-border);
+    color: var(--sidenote-figure-closed-color);
+    text-align: center;
+    padding: 0.5em;
+    box-shadow: var(--rainbow-shadow-border);
+    transition: box-shadow 0.5s ease, background 0.5s ease;
+}
+
+/* Open state: shadow gone */
+.sidenote.sidenoteLock-true .sidenoteH {
+    background: var(--a-red);
+    box-shadow: none;
+}
+
+/* Desktop hover: shadow gone on hover */
+@media (min-width: 1000px) {
+    .sidenote.sidenoteLock-false:hover .sidenoteH {
+        background: var(--a-red);
+        box-shadow: none;
+    }
+}
+
+/* Mobile: always show open style, no shadow */
+@media (max-width: 999px) {
+    .sidenoteH {
+        background: var(--sidenote-open-background);
+        color: var(--sidenote-figure-open-color);
+        box-shadow: none;
+    }
+}
+
+
+/* ============================================================
+   TABVIEW
+   ============================================================ */
+
+.yui-navset {
+    margin: 1.5em 0;
+}
+
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    background: var(--a-red);
+    border: var(--s-red-border);
+}
+
+.yui-navset .yui-nav li.selected a {
+    background: #c74015 !important;
+    color: #ffffff !important;
+}
+
+.yui-navset .yui-nav .selected a em {
+    color: var(--a-red);
+    background: var(--a-yell);
+}
+
+.yui-navset .yui-content {
+    border-top: none;
+    border-bottom: var(--m-red-border) !important;
+    padding: 1.5em;
+}
+
+.compactTabview .yui-nav::before {
+    color: var(--a-yell);
+}
+
+.sideTabviewMini .yui-navset .yui-content {
+    border-top: var(--tabview-border) !important;
+}
+
+.sideTabview .yui-navset {
+    border: var(--s-red-border);
+    border-bottom: var(--m-red-border);
+    margin: 1em 0 2em 0 !important;
+    box-shadow: var(--content-box-shadow);
+}
+
+.sideTabview .yui-nav {
+    border-right: var(--m-red-border) !important;
+}
+
+
+/* ============================================================
+   ACCOUNT / LOGIN
+   ============================================================ */
+
+#login-status {
+    top: 0;
+    color: var(--a-yell);
+    padding: 5px;
+    background: var(--bg_blue);
+    border-bottom-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    border: var(--s-red-border);
+    border-bottom: var(--m-red-border);
+    border-top: 0;
+    box-shadow: 4px 3px 0px 0px var(--a-shad), 4px 0px 0px 0px var(--a-shad);
+}
+
+#login-status a {
+    background: transparent;
+    color: var(--a-yell);
+}
+
+#login-status a:hover {
+    background: transparent;
+    color: var(--link-hover-color);
+}
+
+#login-status ul a {
+    background: var(--bg_blue);
+    color: black;
+}
+
+#login-status ul a:hover {
+    background: var(--a-yell);
+    color: var(--a-red);
+}
+
+#account-options {
+    border: var(--s-red-border);
+    box-shadow: 5px 5px 0px var(--a-shad);
+}
+
+.open-themes a {
+    visibility: hidden;
+}
+
+
+/* ============================================================
+   FORMS & EDIT AREA
+   ============================================================ */
+
+#thread-description,
+#np-text,
+#post-edit,
+.field-header .form-wiki,
+.field-content .form-wiki,
+.text.form-control,
+#file-comments,
+.form .text,
+#edit-meta-newtag-form .text,
+.new-page-box .text,
+#edit-page-textarea,
+#edit-page-title,
+#edit-page-comments,
+.query-area .text,
+#membership-by-apply-text,
+.yui-content .text {
+    background-color: var(--a-gre);
+    color: #000;
+}
+
+textarea#edit-page-textarea {
+    width: 85% !important;
+}
+
+#action-area {
+    width: fit-content;
+    padding: 1em;
+    border: var(--a-red-border);
+    background: var(--control-content-background);
+}
+
+form#edit-page-form {
+    padding: 1em;
+    border: var(--s-red-border);
+    background: teal;
+}
+
+table.form td div.sub,
+form div.sub {
+    font-size: 90%;
+    color: var(--a-red);
+}
+
+/* form div.sub is black to override the red above for non-table contexts */
+form div.sub {
+    color: black;
+}
+
+div.buttons input {
+    background: var(--bg_blue);
+}
+
+input.text {
+    background: var(--bg_blue);
+    color: black;
+}
+
+
+/* ============================================================
+   BUTTONS (box-shadow overrides)
+   ============================================================ */
+
+#h-perpage,
+.optionstd a,
+.new-post .btn,
+#history-form-1 .btn-sm,
+.well .btn-sm,
+.change-textarea-size a,
+.buttons .btn-small,
+.action-area .btn-default,
+.action-area .btn-primary,
+.col-lg-10 .form-control,
+.form-actions .btn-danger,
+.buttons .btn-default,
+.target a,
+.buttons .btn-danger,
+#edit-cancel-button,
+#edit-save-button,
+.button-close-message,
+.button-close-window,
+.button-cancel,
+.button-insert-code,
+#wd-ed-codewizard-type,
+#wd-ed-imagewizard-position,
+#wd-ed-imagewizard-uri,
+#wd-ed-imagewizard-byuri .button,
+#wd-ed-imagewizard-flickr,
+#wd-ed-imagewizard-byflickr .button,
+.query-area .button,
+.button-close,
+.button-rename,
+.button-no\,-cancel,
+.button-yes\,-delete,
+#file-upload-form .btn-primary,
+.button-move,
+#action-area .buttons .btn-primary,
+#edit-page-form .buttons .btn-info,
+#view-diff-div .button,
+.button-yes\,-revert,
+.modal-footer .btn-danger,
+.modal-footer .btn-default,
+.modal-footer .btn-primary,
+#mba-apply,
+.yui-content .button,
+.btn-warning,
+#edit-meta-newtag-form div .btn,
+.new-page-box .button,
+#page-templates,
+#recent-posts-category,
+.forum-recent-posts-box form .btn,
+.owindow .button-bar .btn {
+    box-shadow: 4px 4px 0px var(--a-shad);
+}
+
+
+/* ============================================================
+   MISC
+   ============================================================ */
+
+.hovertip .content {
+    padding: 0.2em 0.5em;
+    border: var(--s-red-border);
+    box-shadow: var(--a-shadow);
+}
+
+.owindow {
+    border: var(--owindow-border);
+    box-shadow: 0 0 0 4px var(--a-gre), 0 0 0 8px var(--a-yell), 0 0 0 12px var(--a-blu);
+}
+
+.odialog-shader {
+    background-color: var(--a-red);
+    opacity: 0.4;
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
