@@ -1,0 +1,33 @@
+---
+title: "База знаний"
+tags: []
+page_id: "932530354"
+site: "obscurative"
+slug: "database"
+revision: 7
+revision_id: "979693269"
+author: 4518363
+timestamp: 1573303461
+---
+
+Список отчетов:
+[[module CSS]]
+.list-pages-box {
+  display: flex;
+  flex-flow: row wrap;
+}
+.list-pages-item {
+  flex-basis: 50%;
+  flex-grow: 1;
+}
+.page-rate-list=pages-start {
+  float: right;
+  width: 10em;
+  margin-right: 5em;
+}
+[[/module]]
+
+[[module ListPages category="incidents" perPage="40"]]
+%%title_linked%% %%rating%%
+[[/module]]
+

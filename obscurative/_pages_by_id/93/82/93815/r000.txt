@@ -1,0 +1,36 @@
+---
+title: "Технологии"
+tags: []
+page_id: "938293815"
+site: "obscurative"
+slug: "technologies"
+revision: 0
+revision_id: "985536812"
+author: 5219975
+timestamp: 1574060675
+---
+
+**В данном разделе находятся краткие отчеты о технологиях, используемых ВИК "Сыновья Афины" и её дочерними компаниями:**
+
+[[module CSS]]
+.list-pages-box {
+  display: flex;
+  flex-flow: row wrap;
+}
+.list-pages-item {
+  flex-basis: 50%;
+}
+.page-rate-list-pages-start {
+  float: right;
+  width: 10em !important;
+  margin-right: 5em;
+}
+.page-rate-list-pages-start {
+  bottom: 3px;
+}
+[[/module]]
+
+[[module ListPages category="technology" perPage="40"]]
+%%title_linked%% %%rating%%
+[[/module]]
+

@@ -1,0 +1,29 @@
+---
+title: "Lab Protect"
+tags: []
+page_id: "931795967"
+site: "obscurative"
+slug: "include:lab-protect"
+revision: 0
+revision_id: "978940196"
+author: 4518363
+timestamp: 1573146500
+---
+
+[[module CSS]]
+#u-whitescreen {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+.user-{$user} {
+  display: none;
+}
+[[/module]]
+[[module ListUsers users="."]]
+[[div class="user-%%name%%" id="whitescreen"]]
+[[/div]]
+[[/module]]
+

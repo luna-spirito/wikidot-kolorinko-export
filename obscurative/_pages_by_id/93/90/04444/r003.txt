@@ -1,0 +1,17 @@
+---
+title: "Телепортация"
+tags: ["Лекция", "Пространство_Фрисцель"]
+page_id: "939004444"
+site: "obscurative"
+slug: "teleportation"
+revision: 3
+revision_id: "1033376867"
+author: 4518363
+timestamp: 1576949888
+---
+
+[[module Rate]]
+[[module ListPages parent="." limit="1" offset="@URL|0" order="created_at"]]
+%%content%%
+[[/module]]
+

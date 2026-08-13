@@ -1,0 +1,17 @@
+---
+title: "База знаний"
+tags: []
+page_id: "932530354"
+site: "obscurative"
+slug: "database"
+revision: 1
+revision_id: "979692603"
+author: 5219975
+timestamp: 1573301123
+---
+
+Список отчетов:
+[[module ListPages category="incidents" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
