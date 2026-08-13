@@ -1,0 +1,71 @@
+---
+title: "Черновик"
+tags: []
+page_id: "912402266"
+site: "obscurative"
+slug: "draft:host-ember"
+revision: 16
+revision_id: "1033638843"
+author: 5641171
+timestamp: 1577965850
+---
+
+[[div style="font-weight: normal; font-size: 200%"]]
+Первый. Второй. Третий.
+[[/div]]
+
+[[=]]
+----
+@@ @@
+> Могущество заключается в том, что не перечит мирозданию.
+> Каждое открытие является проявлением знаний, полученных через опыт и исследование.
+> Могущество — последствие применение знания.
+> @@ @@
+> @@ @@
+> Насколько же тогда могущественным будет человек, заглянувший за пределы реальности?
+> Ответ прост.
+> Он беспомощен, разорван на части и зарыт в страшной могиле.
+> @@ @@
+> @@ @@
+> Могиле, зовущейся "реальностью". 
+@@ @@
+----
+[[/=]]
+@@ @@
+
+
+
+
+
+
+[[module CSS]]
+#page-title { 
+display: none;
+}
+#content-wrap {
+    padding-bottom: 4em;
+    margin: 0px 50px 0 50px;
+}
+#content-wrap {
+    padding-top: 0em;
+    background: none;
+}
+#header {
+    background: var(--header-background);
+    padding-top: 0em;
+    padding-bottom: 0em;
+} 
+#side-bar {
+    margin-top: 0em;
+}
+#side-bar {
+    float: left;
+    position: relative;
+    right: 4em;
+    width: 18em;
+    padding: 1em;
+    margin: 0 0px 1em 0;
+    clear: left;
+}
+[[/module]]
+

@@ -1,0 +1,2971 @@
+---
+title: "RPC-961"
+tags: ["ballistic-hazard", "gd-asia", "grouped-hazard", "idealogical-hazard", "immeasurable-hazard", "kabushiki-kawaii", "omega", "psychotronic-hazard", "purple", "rpc", "sapient-hazard", "teleportation-hazard", "terribletrio", "terribletrio-kabushiki", "transmutation-hazard"]
+page_id: "1469135539"
+site: "rpcauthority"
+slug: "rpc-961"
+revision: 60
+revision_id: "1545937337"
+author: 4330657
+timestamp: 1786608811
+---
+
+[[span class="listresize"]]Holy Knights of Love, Truth, and Justice[[/span]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --pink: #E887AB;
+  --blue: #639EE6;
+  --green: #A5CF7C;
+}
+
+.rpc-thumb img {
+  padding-left: 15px;
+  width: 120px;
+}
+
+.banner {
+background: #ffffff url(https://upload.wikimedia.org/wikipedia/commons/b/b4/View_of_Kyoto_skyline_from_Kiyomizu-dera.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) center center/cover no-repeat content-box local;
+}
+
+.pinkbg {
+background: #ffc7d2 url(http://www.rpc-wiki.net/local--files/rpc-961/shingpink.jpg) center bottom/cover repeat;
+}
+
+.pinkbg a {
+    color: #0000EE;
+    text-decoration: underline;
+    transition: none !important;
+}
+
+.pinkbg a:visited {
+    color: #551A8B;
+}
+
+.pinkbg a:hover {
+    color: #0000A3;
+}
+
+.pinkbg a:active {
+    color: #FF0000;
+}
+
+.translated {
+color: #8f8f8f;
+border-top: 1px dashed #8f8f8f;
+}
+
+@media screen and (max-width: 480px) {
+  .rpc-thumb img {
+    padding-left: 13px !important;
+    width: 80px !important;
+  }
+}
+
+/* Make tables shrink on mobile */
+
+.blog-layout td:first-child {
+  width: 20%;
+}
+
+.blog-layout td:last-child {
+  width: 80%;
+}
+
+@media screen and (max-width: 480px) {
+  .blog-layout {
+    table-layout: fixed;
+    width: 100% !important;
+  }
+
+  .blog-layout td:first-child {
+    width: 30% !important;
+  }
+
+  .blog-layout td:last-child {
+    width: 70% !important;
+  }
+
+  .blog-layout td {
+    max-width: 100%;
+    overflow-wrap: break-word;
+  }
+}
+
+.content-panel {
+    display: block;
+    width: 100%;
+max-width: 100%;
+    margin: 0;
+}
+
+@media screen and (max-width: 480px) {
+    .content-panel {
+        width: auto !important;
+        margin: initial !important;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+
+.blogd {
+  background: white;
+  display: block;
+  width: 90%;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 10px 0 5px 10px;
+  padding: 1px 10px 4px 10px;
+  font-family: "M PLUS Rounded 1c", "Noto Sans JP", sans-serif;
+  border-left: 1px solid #639EE6;
+  border-right: 1px solid #639EE6;
+  border-bottom: 1px solid #639EE6;
+  border-top: 10px solid #639EE6;
+  border-radius: 4px;
+}
+
+/* Shrink blog posts on mobile */
+@media screen and (max-width: 480px) {
+  .blogd {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 5px 0 !important;
+    padding: 5px !important;
+    font-size: 0.8em;
+  }
+
+  .mobile-container {
+    width: 100% !important;
+    font-size: 0.8em;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+
+.dated {
+font-size: 12px;
+color: #639EE6;
+}
+
+.blogd p { /* REMOVE THIS IN JAPANESE TL */
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px 0px 5px 0px;
+    line-height: 2;
+}
+[[/module]]
+
+[[include component:rate]]
+
+
+[[include :rpcauthority:component:special-box number=961|
+object-class=Omega|
+lethality-rating= [[span style="color: #9E48F7;"]]Purple [[/span]] |
+symbol=omega-purple|
+immeasurable=true|
+grouped=true|
+psychotronic=true|
+sapient=true|
+ideological=true|
+ballistic=true|
+transmutation=true|
+teleportation=true|
+]]
+
+------
++++ **Containment Protocol:**
+The whereabouts of RPC-961 and any active members of GoI-961: "//the Holy Knights of Love, Truth, and Justice//" (HKLTJ) remain under active scrutiny. Due to RPC-961's "incognito veil" property, conducting investigations into entities associated with the case has proven difficult. Multiple Mobile Specialized Teams (MSTs) and Authority Central Intelligence (ACI) cells throughout Japan have been assigned to assist with the investigation.
+
+Should Authority personnel encounter an RPC-961-1 instance or a HKLTJ affiliate, they are to exercise precautionary measures and immediately report all observed activity to the ACI. Personnel are prohibited from establishing personal relationships or otherwise fraternizing with RPC-961-1 instances or HKLTJ affiliates.
+
+Although the HKLTJ has not displayed outward enmity toward the Authority, the organization remains highly antagonistic toward Authority interests. Combined with the group’s potential to disrupt the veil, ASIACOM has officially declared it as a hostile entity of interest. Regardless of the benevolent intentions displayed by individual RPC-961-1 instances, GoI-961 is to be regarded as an active threat.
+
+
+[[collapsible show="[+] Termination Notice" hide="[-] Termination Notice"]]
+[[div class="blockquote"]]
+
+++ **To Terminate Magical Girls -- GD-ASIA**
+##8f8f8f|Re: On the course of action of RPC-961 and GoI-961##
+
+------
+(06/03/2025)
+
+As a part of ASIACOM's representative director, I have signed an executive mandate for the Authority to carry out the HOLY KNIGHTS OF LOVE, TRUTH, AND JUSTICE's ##red|[OUTSTANDING NEUTRALIZATION ORDER]##. There is no longer any place for any site directors within the AUTHORITY JAPANESE BRANCH to object to this, and it will be your duty to carry this mission should you encounter them.
+
+//Magical Girls//, as they would come to be known, operate under emotions rather than physics and physiology. So long as they believe themselves to be capable, it is difficult to properly kill them.  In practical terms, these girls are able to survive for as long as they did because each individual believes that their story has not ended.
+
+This “Magical Girl Termination Project” has been met with a lot of controversy among the Authority and Japanese officials alike. After all, these girls have never once shown any malice towards another human being, and their efforts to help people are earnest. It is this exact nature of theirs that makes them dangerous in our polite society.
+
+The current GoI-961 team, //Team Melody//, has been active in West Tokyo since late 2023, and like their predecessor, is made up of three RPC-961-1 individuals. So far, the Authority has been unsuccessful in capturing and/or terminating these instances.
+
+Regarding inquiries into whether RPC-961 and Team Melody may be utilized against Kabikushi Kawaii, all communication between Authority personnel and the anomalies is prohibited. This restriction will remain in effect for the duration of the tribunal's investigation into allegations that  MST [*http://rpcauthority.wikidot.com/hotel-11-karasu Hotel-11] "Karasu"[[footnote]] Formed from the remnants of Japan's now-defunct PTSU/公安九課 (Paranormal Trafficking Surveillance Unit), Hotel-11 combats anomalous human trafficking within East Asia and Oceania, with a primary focus on suppressing the GoI Kabushiki Kawaii. [[/footnote]]  personnel have supported the HKLTJ and distributed critical ACI information to the group. This is standard protocol and should come as no surprise to anyone.
+
+
+[[/div]]
+[[/collapsible]]
+------
++++ **Description:**
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/MagicMascot.jpg|width=230px|caption=RPC-961 {{(2008)}}]]
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/wandia.jpg|width=230px|caption=RPC-961-2 wands belonging to Team Exusiai {{(2009)}}]]
+
+RPC-961 is a reality-bender assuming the form of an animated stuffed plush doll resembling a featureless humanoid figure. The entity is distinguished by a pair of pink glass eyes and a pink ribbon affixed on its head. RPC-961 communicates using a childlike voice and mannerisms, identifying itself as a fairy named "Princess Claudette" sent to Earth to correct the wrongs of humanity.
+
+The primary objective of RPC-961 is to protect humans from supernatural threats and enact moral justice into society. The entity searches for human subjects it considers “worthy” and grants them the opportunity to become a "Holy Knight of Love, Truth, and Justice" in exchange for granting them the "incredible power to uphold goodness in the world." Once subjects agree to these terms, they permanently inherit a portion of the entity's powers.
+
+Individuals who accept RPC-961's contract are given the power to transform into an RPC-961-1 instance, an class entities referred to as “magical girls”. Despite their human appearance, the internal anatomy of these entities is malleable and psychotronic in nature. This altered anatomy allows them to resist cognito-hazards and physically withstand injuries that would otherwise result in immediate incapacitation or death.
+
+RPC-961-1 instances possess various psychotronic and/or reality-warping abilities, which are channeled through plastic toys designed around the user's role, personality, and personal interests. These objects, designated RPC-961-2, can be manifested or demanifested by the instance at any time. When separated from its owner, the item will retain a small fraction of its owner’s anomalous properties, which is active regardless of who is wielding it. 
+
+The capabilities of RPC-961-1 instances are fueled by the expression of positive emotions such as joy, willpower, pride, love, etc. Conversely, they are susceptible to the adverse effects of physical and mental stress resulting from emotional pain and mood disorders. Prolonged exposure to negative emotions may result in the RPC-961-1 instance becoming more vulnerable to physical harm.
+
+What is theorized to be an “Incognito Veil” surrounds RPC-961-1 instances, which helps conceal their civilian identities and obscures any information that connects their personas. This property only deactivates when the RPC-961-1 instance directly confesses their identity to an individual.
+
+[[div class="blockquote"]]
+
+Each RPC-961-1 instance has special properties unique to their own. However, among them, there is a common trend of properties inherent to their character. The list is as follows:
+
+* Enhanced senses
+* Heightened Durability
+* Flight and levitation[[footnote]] The method varies from shifting one’s own gravity, stepping on air, or aviation. Some instances like RPC-961-1-4 “Glimmer Green” lack this power. [[/footnote]]
+* Superhuman strength and speed
+* Accelerated healing factor
+* Heightened stamina 
+* Energy conduct and projection
+* Cognitohazard and memetic resistance
+* Materialize RPC-961-2 costumes and toys out of thin air
+* Innate awareness of the approximate location of RPC-961 and nearby RPC-961-1 instances
+
+[[/div]]
+------
++++ **Addendum 961.A:** GoI-961
+
+[[div class="content-panel"]]
+++ HKLTJ / "The Holy Knights of Love, Truth, and Justice"
++++ ##red|Hostile## 
+
+* --Authority-Unaware--[[footnote]] For a long period of time, the HKLTJ assumed Hotel-11 was the entire Authority force. [[/footnote]]
+* Unveiled
+* Fractured
+* Local
+
+The //Holy Knights of Love, Truth, and Justice// (愛と真実と正義の聖騎士), sometimes known as Claudetta's Magical Girls, is a Japanese vigilante group composed primarily of juvenile human girls that have entered RPC-961’s contract. While all contracted individuals share a common benefactor (RPC-961), no centralized command structure exists. Instead, they operate in small, independent teams that rarely coordinate with other teams outside of exceptional circumstances.
+
+The overarching objective of the HKLTJ is to eliminate both anomalous and non-anomalous threats to humanity. Their motivations stem from RPC-961's concept of righteousness and each individual's personal understanding of justice. This has led the HKLTJ to make enemies of various GoIs such as Kabushiki Kawaii and Togen Biotech.[[footnote]] A private, but publicly visible industrial biotechnological company. It is a major [http://rpcauthority.wikidot.com/church-of-malthus-hub Church of Malthus] Chapter within Japan. [[/footnote]]
+
+------
++++ **History**
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/savetheworld.jpg|width=250px|caption=
+RPC-961's recruitment website, linked from ha10.net {{(2008)}}
+------
+せかいをすくえ！
+{{Save the World!!}}
+あくをたおせ！!
+{{Defeat Evil!!}}
+愛と真実と正義の聖騎士！!
+{{Holy Knights of Love, Truth, and Justice!!}}
+@@ @@
+]]
+
+The first documented RPC-961-1 instance was created in early 2007, following RPC-961's initial manifestation, which the entity claims occurred after it "fell down from Wonderland." RPC-961 selected 17-year-old Meiko ████ as its first "Magical Girl" and directed her to carry out vigilante activities throughout Yokohama. 
+
+Very little information regarding RPC-961-1-1's activities exists, largely due to the discretion with which the instance conducted its operations. The vigilante known by the alias ##white|”Exusiai”## was primarily documented through eyewitness testimonies and urban rumors.
+
+The instance remained active for approximately 6 months before retiring; citing a spinal injury and the pressure to finish secondary school entrance examinations as a reason. Upon retiring, the majority of RPC-961-1-1's anomalous abilities and contractual obligations to RPC-961 were relinquished; however, traces of its original capabilities have continued to manifest intermittently.
+
+RPC-961 was first encountered by the Authority on 15/11/2007, after the account of "a living plush doll" was reported to the local police in ███████. Authority agents would quickly dispatch to assess the situation and find RPC-961 hopping through the marketplace while singing.
+
+[[collapsible show="[+] RPC-961 Interview (15/11/2007)" hide="[-] RPC-961 Interview (15/11/2007)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+**Date:** 15/11/2007
+
+**Location:** ███ █████
+
+**Interviewed:** RPC-961
+
+**Interviewer:** Dr. █████ Aizawa, Hotel-11/44 Off. Naoko
+
+**Foreword:** The Authority easily apprehended RPC-961 and placed it in an interrogation room to assess its nature and intention.
+
+------
+
+**Dr. Aizawa:** What do you think that is?
+
+**Off. Naoko:** Looks like nothing more than an animated stuffed animal.
+
+**Dr. Aizawa:** Its reality signature is unstable. Could be an extradimensional entity... or perhaps a reality bender.
+
+**Off. Naoko:** (//Sigh//) 本当に面倒だよね。##8f8f8f|What a hassle, huh?## I don't interact with enough anomalies to know how to deal with it.
+
+**RPC-961:** わたし、ぬいぐるみじゃないちょむ。
+##8f8f8f|I'm not a stuffed animal, chomu.##
+
+**Off. Naoko:** しゃべった！？
+##8f8f8f|It spoke!?##
+
+**Dr. Aizawa:** Ah, do you speak English?
+
+**RPC-961:** 英語とは何でしょうか？
+##8f8f8f|What is English?##
+
+**Dr. Aizawa:** (//Clears throat//) こんにちは。突然こんな形で拘束してしまって申し訳ありません。
+##8f8f8f|(//Clears throat//) Hello. I'm sorry we had to apprehend you so suddenly.##
+
+**RPC-961:** だいじょうぶ。
+##8f8f8f|It's okay.##
+
+**Dr. Aizawa:** あなたのような存在に出会うことは滅多にありませんから。少し話を聞かせていただきたいのです。
+##8f8f8f|We were simply curious. It's very unusual for us to encounter someone like you.##
+
+**RPC-961:** わかったわよ。クロデッタは隠れるのが苦手だ。次はもっと気をつけるちょむ。
+##8f8f8f|I understand. Claudetta sucks at hiding. I'll be more careful next time, chomu.##
+
+**Dr. Aizawa:** それでしたら、しばらく私たちの施設で保護を受けるというのはどうでしょう。その前に、あなたが何者なのか、どんな目的を持っているのか教えていただ
+##8f8f8f|Perhaps it would be safer if you stayed with us. Though first we'd need to understand what you are, and what your intentions are.##
+
+**RPC-961:** やだよ、クロデッタはここには泊まらないよ。ここやだ
+##8f8f8f|No way, Claudetta will not stay here. This place sucks.##
+
+**Dr. Aizawa:** あなたが安心できるような部屋を用意することはできます。 
+##8f8f8f|I'm sure we could prepare a room to your liking.##
+
+**RPC-961:** 場所じゃない。みんながへん。君たち、変な人たちだぞ。
+##8f8f8f|It's not the place. It's all of you. You all feel… very strange.##
+
+**Dr. Aizawa:** 私たちはただの科学者と公務員です。あなたに危害を加えるつもりはありません。
+##8f8f8f|We're simply scientists and government workers. We don't intend to harm you.##
+
+**RPC-961:** でも、ここはまっくら。うーん……ちがう。  
+##8f8f8f|But it's dark here. Hmm... No, this isn't it.##
+
+**Dr. Aizawa:** ……何が違うのですか？
+##8f8f8f|...What isn't it?##
+
+**RPC-961:** つぎの伝説の戦士がいない。  
+##8f8f8f|I can't find the next legendary warrior here.##
+
+**Dr. Aizawa:** 伝説の戦士、ですか？詳しく聞かせてもらえますか。
+##8f8f8f|Legendary warrior? Could you explain?##
+
+**RPC-961:** クロデッタは愛と真実と正義の聖騎士になれる人を探しに地球へ来た。人類を悪から守れるのは、その人たちだけ。  
+##8f8f8f|Claudetta came to Earth to search for people worthy to become Holy Knights of Love, Truth, and Justice. Only they can save humanity from evil.##
+
+**Dr. Aizawa:** それなら、私たちも同じでしょう？。我々も人々を守るために働いていますよ。  
+##8f8f8f|In that case, aren't we the same? We're working to protect people, too.##
+
+**RPC-961:** そうかもしれない。でも愛も真実も見えない。正義だけ。みんな、うそつきで冷たい人ばっかり、ちょむ。 
+##8f8f8f|That might be true. But there's no love or truth here, only justice. To Claudetta, you all seem like cold-hearted liars, chomu.##
+
+**Dr. Aizawa:** もし私たちの事情を説明できれば—  
+##8f8f8f|If we could explain ourselves—##
+
+**RPC-961:** 人間の心は見える。  
+##8f8f8f|I can see the hearts of humans.##
+
+(//ASF personnel instinctively step back, hands hovering near their holstered weapons.//)
+
+**RPC-961:** 弁護士さん呼んでいいちょむ？  
+##8f8f8f|Can I call my lawyer, chomu?##
+
+**Dr. Aizawa:** ……え？
+##8f8f8f|...What?##
+
+**RPC-961:** 悪いことしてない人を弁護士なしで取り調べしたらダメ。  
+##8f8f8f|You can't interrogate someone who hasn't done anything wrong without a lawyer.##
+
+**Dr. Aizawa:** ……いや、日本の法律はそういうものでは—
+##8f8f8f|...No... that's not how Japanese law works—##
+
+(...)
+
+**Off. Naoko:** (//Whispering//) ...Let it. It might lead us somewhere.
+
+**Dr. Aizawa:** ……分かりました。少し時間をください。
+##8f8f8f|...Alright. Give us a moment.##
+
+**Dr. Aizawa:** ...What do you mean?
+
+**Off. Naoko:** Another lead, maybe.
+
+(//RPC-961 is handed a telephone.//)
+
+**RPC-961:** (//Dialing//) めーちゃん！助けてちょむ！怖い人たちに囲まれてる！クロデッタ、何もしてないのに！
+##8f8f8f|(Dialing.) Mee-chan! Help, chomu! Scary people are surrounding Claudetta! Even though Claudetta didn't do anything!##
+
+**████:** クローデッタ！？どうしたの！？  
+##8f8f8f|Claudetta!? What happened!?##
+
+**RPC-961:** めーちゃん、法律勉強してるちょむ？クロデッタを助けて。
+##8f8f8f|Mee-chan, aren't you studying law, chomu? Help Claudetta.##
+
+**████:** いや、どうやって！？
+##8f8f8f|How am I supposed to help!?##
+
+**RPC-961:** クロデッタにもわかんね。でも助けて！
+##8f8f8f|Claudetta doesn't know either. But help!##
+
+**████:** あなた妖精でしょ！？部屋から出ればいいじゃん！
+##8f8f8f|You're a fairy, aren't you!? Just leave the room!##
+
+**RPC-961:** あっ、そうだった。
+##8f8f8f|Oh. Right.##
+
+(//RPC-961 immediately demanifests.//)
+
+**Off. Naoko:** ……は？
+##8f8f8f|...Huh?##
+
+------
+
+**Afterword:** The identity of the caller RPC-961 contacted couldn't be traced. It was only months later that the caller was discovered to be Meiko ████.
+
+[[/div]]
+[[/collapsible]]
+
+Following Exusiai's retirement, RPC-961 began making posts across multiple boards on the Leaf Heaven website[[footnote]] ha10.net "Leaf Heaven", also known as Happa Tengoku (葉っぱ天国) is a long-running anonymous Japanese message board.[[/footnote]] in an attempt to recruit additional RPC-961-1 instances. The majority of these posts were dismissed as spam or trolling by users. However, RPC-961 eventually succeeded in recruiting a new candidate after receiving a response from a single poster, Masako "Seiko" ████, who was only 10 years old at the time. Masako ████ would recruit 2 of her friends and form an HKLTJ team named after the first RPC-961-1 instance.
+------
+
++++ **The Incognito Veil**
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/claudettachomu.jpg|width=200px|caption=Questionably sourced ID card]]
+
+The incognito veil extends to both digital and physical records that may reveal the identities of RPC-961-1 instances, including those who have since retired. It was initially theorized that this effect resulted from an antimemetic phenomenon which removed or obscured information deemed harmful to RPC-961.
+
+However, following a 2008 investigation by ASIACOM into this phenomenon, it was discovered that the data was manually altered or deleted by personnel. Further inquiry identified the responsible individual as RPC-961 itself, acting under legitimate Authority credentials.
+
+Subsequent review revealed that RPC-961 had obtained an official appointment within the Authority Central Intelligence (ACI), holding the position of Inspector General with Level 4 Security Clearance. An internal audit found no evidence of credential forgery, unauthorized access, or procedural misconduct; instead, indicating that RPC-961 obtained the position through standard administrative and legal appointment procedures.
+
+[[collapsible show="[+] Open Phonecall (09/11/2008)" hide="[-] Open Phonecal (09/11/2008)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+**Date:** 09/11/2008
+
+**Caller:** Masato Takahashi
+
+**Called:** Claudetta Chomu (RPC-961)
+
+**Foreword:** ASIACOM subsequently spent approximately 6 months petitioning the Protection Division to revoke RPC-961's appointment within ACI. The request was ultimately approved, resulting in RPC-961's reassignment and removal from all future projects involving either itself or GoI-961.
+------
+
+**RPC-961:** Good afternoon. This is Claudetta Chomu, Inspector General of the Authority Central Intelligence, Japanese Branch. May Claudetta ask who you are, chomu? And how may Claudetta be of assistance?
+
+**Takahashi:** 私は高橋雅人。ASIACOMの副管理官です。GD-ASIAより、あなたに関する調査の全権限を与えられています。
+##8f8f8f|My name is Masato Takahashi. I am the Assistant Director of ASIACOM. I have been granted full authority by GD-ASIA to conduct an investigation into you.##
+
+**RPC-961:** ...Sorry, chomu. Claudetta can only speak English.
+
+**Takahashi:** I am Masato Takahashi, assistant manager of ASIACOM. I have been granted full authority by GD-ASIA to investigate you.
+
+**RPC-961:** Ah. Thank you, chomu. So, what would you like from Claudetta?
+
+**Takahashi:** I want to hold a personal meeting.
+
+**RPC-961:** Sorry, but Claudetta is busy with in-person meetings, chomu. However, is there anything you would like to discuss?
+
+**Takahashi:** You. Your position. You're dealing with extremely serious matters within this bureaucracy.
+
+**RPC-961:** Ah.
+
+(...)
+
+**RPC-961:** Claudetta understands.
+
+**Takahashi:** Then you should also understand why I find it extremely unusual that when we attempted to investigate records related to RPC-961 and GoI-961, we found that the information had been altered or removed.
+
+**RPC-961:** The information was deemed sensitive, chomu.
+
+**Takahashi:** By whom?
+
+**RPC-961:** By Claudetta.
+
+**Takahashi:** ...You personally altered Authority records?
+
+**RPC-961:** Correct.
+
+**Takahashi:** Without notifying regional oversight?
+
+**RPC-961:** Claudetta consulted GD-CMDR, chomu.
+
+**Takahashi:** ...What?
+
+**RPC-961:** According to Authority Regulation 4-12, Section 7, subsection C, Inspector-level personnel may request immediate protective classification of information involving anomalous personnel, assets, or affiliated groups if disclosure presents a credible risk to operational security or personnel safety. This also gives minors protection from invasive investigation without a proper warrant from the appropriate branch director... chomu.
+
+**Takahashi:** That regulation does not give you permission to erase records.
+
+**RPC-961:** Claudetta did not erase records.
+
+**Takahashi:** Then what do you call manually removing files from databases?
+
+**RPC-961:** Claudetta classified them as restricted information and transferred them to protected archives, chomu.
+
+**Takahashi:** Without authorization from ASIACOM?
+
+**RPC-961:** Claudetta's authorization came from GD-CMDR.
+
+**Takahashi:** GD-CMDR was unaware of the full extent of what you were doing.
+
+**RPC-961:** Then Claudetta apologizes. However, the approval was still given.
+
+**Takahashi:** You exploited a procedural loophole.
+
+**RPC-961:** No, Claudetta followed procedure.
+
+**Takahashi:** You expect me to believe that?
+
+**RPC-961:** Yes.
+
+**Takahashi:** You are an anomalous mascot creature who somehow became Inspector General, and now you're telling me everything is perfectly normal?
+
+**RPC-961:** Claudetta is not responsible for how others perceive Claudetta's existence. Claudetta was appointed because Claudetta was qualified.
+
+**Takahashi:** Qualified?
+
+**RPC-961:** Claudetta passed all required evaluations, received approval from appropriate authorities, and performed assigned duties successfully.
+
+(...)
+
+**RPC-961:** If this is all, Claudetta will be hanging up. Please contact HR if you have any complaints, chomu.
+
+**[End of call]**
+
+------
+**Afterword:** No information as to how RPC-961 was employed, its relationship to GD-CMDR and the Protection Division, or its supposed declaration of resignation in 20██ was ever found.
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[/div]]
+
+------
+
++++ **Addendum 961.B-1:** Team Exusiai
+
+[[div class="content-panel"]]
+
++++ **Team Exusiai**
+
+"Team Exusiai" (チームエクシア) was founded in February 2008 in Kyoto, and would continue operations until 2015. The team is comprised of a tight-knit group of friends that stayed together all throughout Elementary School to High School, accruing various associates and anomalous artifacts throughout their time.
+
+Throughout their tenure, Team Exusiai primarily opposed the joint operations of Kabushiki Kawaii and Togen Biotech, disrupting human trafficking and narcotics distribution networks operated through affiliated yakuza organizations. As the team gradually uncovered the anomalous world, their operations became increasingly effective. During their period of activity, anomalous incidents throughout Kyoto declined significantly, with much of the reduction attributed to their intervention.
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/casualExusiai.jpg|width=400px|align=center|caption=RPC-961 and Team Exusiai {{(2012)}}]]
+
+Unlike RPC-961-1-1 before them, the first few months of Team Exusiai's activities were highly public and theatrical, frequently drawing attention from civilians and local media. Their battles often resulted in significant property damage and widespread public disturbances, requiring extensive efforts from the Japanese government and the Authority to suppress information and maintain the integrity of the Veil.
+
+This has caused an antagonistic relationship between Team Exusiai and the Authority, which originally tried to suppress and confine them through peaceful means. The group would remain hostile, however, as they were responsible for destroying several Authority On-Location Sites and garrisons under the belief that the confinement of anomalous subjects was "inhumane". 
+
+------
+
+[[table]][[row]][[cell style="vertical-align: top;"]]
+
+|||| **Code:** 961-1-2 ||
+|| **Name:** ██正子 ##8f8f8f|{{Masako}}##|| **Alias:** ##var(--pink)|"Pretty Pink"## ||
+|| **Birth Date:** 30/07/1998 || **Contract Date:** 03/02/2008 ||
+
+**Description:** 961-1-2 was the first of the three individuals to be contracted by RPC-961 and became the de facto leader of the group, often leading the GoI on missions and deciding on objectives that RPC-961 offered. As such, the entity also has the closest relationship with RPC-961.
+
+Its primary RPC-961-2 instance manifests as a red ribbon. When activated, the ribbon is capable of extending and altering its trajectory. The ribbon can be used for restraint, movement, and defensive purposes, with additional effects being produced through specific choreographed dance moves.
+
+RPC-961-1-2 was briefly mentored by Meiko ████ (RPC-961-1-1) during the first few days following her transformation into an RPC-961-1 instance. Following this period, RPC-961-1-2 was inspired by Meiko's guidance and went on to establish a team of its own.
+
+[[/cell]][[cell style="vertical-align: top;"]]
+[[span class="rpc-thumb"]]
+[[image http://www.rpc-wiki.net/local--files/rpc-961/pinkchan.png]]
+[[/span]]
+[[/cell]][[/row]][[/table]]
+
+
+[[collapsible show="[+] Open ATM Security Log (05/02/2008)" hide="[-] ATM Security Log (05/02/2008)"]]
+
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+
+**Date:** 05/02/2008
+
+**Location:** 61 █████, ████ ███, Kyoto
+
+**Media:** Security Camera overseeing ATM
+
+**Foreword:** Prior to the other members being recruited, she would often intervene in street crime. The first video documentation of RPC-961 activity was from the camera installed near an ATM that was being broken into.
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+
+**[2:29]** (//A camera installed in the ATM with limited audio recording capabilities captures an individual attempting to break into the machine outside a gas station. RPC-961-1-2 is visible turning the corner behind foliage, observing for some time and seemingly practicing a speech before approaching the building.//)
+
+**[2:30]** (//RPC-961-1-2's speech becomes audible.//)
+
+**RPC-961-1-2:** Meiko-senpai is watching, so... Hmm...
+
+**[2:31]** (//A brilliant flash of light appears out of RPC-961-1-2's wand.//)
+
+**RPC-961-1-2:**  Hey, stop! You're not supposed to steal money! And breaking things is even worse!
+If you turn yourself in now, maybe the police officers will forgive you!
+
+(//Individual turns around in alarm. Points and exclaims something that appears to shock RPC-961-1-2.//)
+
+**RPC-961-1-2:**  Ehh...? You don't have to get mad just because you know you're doing something bad!
+
+(//Individual mutters something and starts to walk away from the ATM and the anomaly.//)
+
+**RPC-961-1-2:**  Hey! Wh- come back!
+
+**[2:33]** (//RPC-961-1-2 raises a ribbon stick into the air and quickly changes their outfit into the team uniform. Their ribbon becomes much longer as they spin it several times before it seeks out the vandal and ensnares them completely.//)
+
+(//Individual is dragged back to the camera's range as RPC-961-1-2 appears to speak to him for several minutes. The ribbon seems to be restricting his ability to breathe and talk.//)
+
+**RPC-961-1-2:**  .. and I know it's only natural everyone wants money, but- hey! Are you listening?! This is important!
+
+**[2:39]** (//Individual is seemingly unconscious. RPC-961-1-2 panics and releases him before retreating to the foliage and watching. Eventually, the individual rolls off his back, coughs, and runs away. The anomaly retreats.//)
+
+**RPC-961-1-2** (//Panicking//)  Meiko-senpai! Meiko-senpai! Help! What should I do!?
+
+------
+
+[[/div]]
+[[/collapsible]]
+
+
+------
+
+[[table]][[row]][[cell style="vertical-align: top;"]]
+
+|||| **Code:** 961-1-3 ||
+|| **Name:** ██美夕 ##8f8f8f|{{Miyu}}## || **Alias:** ##var(--blue)|"Bubble Blue"##||
+|| **Birth Date:** 14/11/1998 || **Contract Date:** 11/02/2008 ||
+
+**Description:** 961-1-3 was the second of the three individuals to be contracted by RPC-961 after their classmate RPC-961-1-2 recruited them. Having lived a sheltered life, RPC-961-1-3 was the shyest and most reluctant member of the group, rarely taking action without the instruction or guidance of others.
+
+It’s primary RPC-961-2 instance manifests as a blue bubble wand, the toy used to create bubbles by waving it through the air. When activated, the wand is capable of producing soap bubble-like constructs that are durable enough to repel small firearms. RPC-961-1-3 is also able to determine the air density inside the pocket, sometimes producing bubbles capable of raising herself into the air, or with an obfuscating smoke.
+
+The entity is able to create or destroy the produced bubbles on command, and in some cases the bubbles pop in an explosion or with caustic materials depending on what is inside the pocket, although these additional effects usually are only produced through specific choreographed dance moves or verbal spells like its peers.
+
+
+
+[[/cell]][[cell style="vertical-align: top;"]]
+[[span class="rpc-thumb"]]
+[[image http://www.rpc-wiki.net/local--files/rpc-961/bluechan.png]]
+[[/span]]
+[[/cell]][[/row]][[/table]]
+
+[[collapsible show="[+] Open Witness Log (13/08/2008)" hide="[-] Open Witness Log (13/08/2008)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+
+**Date:** 13/08/2008
+
+**Location:** ███ █████ Police Station, Kyoto
+
+**Interviewed:** Hiyarama █████
+
+**Interviewer:** Off. Naoko Yamazaki
+
+**Subject:** RPC-961-1-3, [[[RPC-614|RPC-614-U13]]][[footnote]] 
+**RPC-614** (Unregistered #13)
+
+**Object Class:** ##red|Gamma-Red##
+
+A designation for a variety of humanoid constructs created and distributed by Kabushiki Kawaii. These entities have feline features such as cat ears and cat tails. Their bodies are implanted with several mechanical implants created for assassination. 
+
+------
+
+[[/footnote]]
+
+**Foreword:** At this point, ASIACOM had opened a case on the anomaly and began intelligence gathering via Hotel-11 agents within the National Police Agency. RPC-961-1-3 was first identified by witness testimony.
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+
+**[09:29]** (//Officer Naoko Yamazaki's transcript of this recording marks this as the beginning of relevant content. Currently, she is across a table from witness Hiyarama █████, who is explaining an event during his shift as a public toilet cleaner.//)
+
+**Hirayama:** That's when the girl started climbing the building.
+
+**Off. Naoko:** Sorry, just to confirm, you mean the girl wearing the baseball cap?
+
+**Hirayama:** Yes... It was really shocking. Her hands... You know those toys? The little balls that flip inside out when you throw them?
+
+**Off. Naoko:** Ah... Like those mechanical puppets in Kabuki?
+
+**Hirayama:** Exactly! Her hands opened up like that, and I could see bones, nails, metal... You've seen them too, haven't you?
+
+**Off. Naoko:** Don't concern yourself with that. Please continue.
+
+**Hirayama:** She dug her fingers into the concrete and climbed incredibly fast. I'd already been watching because she seemed frightened, and then this little girl in blue started chasing after her.
+
+**Off. Naoko:** How was the girl able to keep up?
+
+**Hirayama:** She was practically flying. Jumping over streetlights, bouncing off buildings... and she left glowing soap bubbles behind her the whole time.
+
+**Off. Naoko:** So she was wearing blue, not pink?
+
+**Hirayama:** That's right. ...Eh? I don't remember mentioning pink.
+
+**Off. Naoko:** Don't worry about that. What happened once they reached the rooftop?
+
+**Hirayama:**  So, that girl started shouting something about “justice” and tried to lunge at the kid who was climbing up. But she couldn’t reach her… By then, she’d already climbed all the way to the top of the building. The girl in the blue clothes looked really frustrated. How should I put it… she was stomping her feet like a child. At that point, I realized this wasn’t just some harmless prank, so I called the police from my car. I’d never seen anything like that before.
+
+**[09:37]** (//Hirayama takes a short break to drink water.//)
+
+**Hirayama:** Then the girl raised up what looked like a wand. At first I thought it was just a toy bubble wand, but... a huge bubble suddenly appeared and lifted her up. Like a balloon, just floating upward. Like a hot air balloon, I suppose. She started catching up to the climber, who looked pretty alarmed. Once she got close, she trapped the girl inside a large bubble. The girl inside… she started scratching that bubble like a mad cat, but it refused to burst. The girl in blue was lecturing her again as that happened... Ah, right. I have a video. I recorded it myself... Would you like to see it?
+
+**[09:55]** (//Hirayama reaches into his bag and takes out a red video camera and plays a file for Officer Naoko. Transcription is as follows.//)
+
+------
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/buruview.jpg|width=300px|align=center|caption=Screencap from Hirayama's phone.]]
+
+**RPC-961-1-3:** Um... okay... first... you have to go to school properly.
+
+(//RPC-961-1-3 pauses and takes out a folded piece of paper from her bag.//)
+
+**RPC-961-1-3:** ...This part was written by Tomo-chan. "You can't skip school! And you shouldn't hurt people!"
+
+(//RPC-961-1-3 looks away awkwardly.//)
+
+**RPC-961-1-3:** ...Though, well... we do skip school when monsters appear... o... I guess that's... kind of unavoidable...
+
+(//RPC-961-1-3 quickly looks back at the paper.//)
+
+**RPC-961-1-3:** But! Hurting people is still wrong! Whether they're a monster... or a human... if they're suffering, we have to help them.
+
+**RPC-614-U13:** It's all bullshit!! What do you know, you little brat!! Get rid of this damn bubble right now!! Let me down!! Then… I’ll cut you to pieces!!
+
+**RPC-961-1-3:** Eep...!
+
+(//RPC-961-1-3 steps back shaking, but looks back at its paper.//)
+
+**RPC-961-1-3:** ...Um, I didn’t write that response. Amana-chan, you shouldn’t use words like that... Did you learn that at school? But... I can’t let you off the hook. Not until you apologize properly and promise you won’t hurt anyone else. Because, you haven’t killed anyone yet, but... the person at the station--
+
+ (//A sudden gust catches both bubbles and begins carrying them away from the rooftop.//)
+
+**RPC-961-1-3:** Eh!? W-waahhh!!
+
+------
+
+**Hirayama:** After that, the bubble the two of them were in was blown away by the wind. At the time, I thought the girl in the blue clothes was trying to escape, but perhaps that wasn’t the case. It looked as if she herself was trying to get out of the bubble. That was the last time I saw them.
+
+**Off. Naoko:** That’s interesting. Thank you for your testimony. Before we wrap up, I’d like to show you a few photos, so please take a look at them.
+
+(//Off. Naoko places several photographs on the table.//)
+
+**Hirayama:** Um... I'm not sure if this is relevant, but come to think of it, that girl with the sharp tongue kept muttering a certain name over and over. It was as if she held a grudge against that person.
+
+**Off. Naoko:** ... Whose name was that?
+
+**Hirayama:** "Kurobane" ...I believe.
+
+**Off. Naoko:** Kurobane...
+
+(...)
+
+**Hirayama:** …Does that name mean anything to you?
+
+**Off. Naoko:** …I can't say for certain yet.
+
+**[10:04]** (//End of relevant content.//)
+
+------
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[table]][[row]][[cell style="vertical-align: top;"]]
+
+|||| **Code:** 961-1-4 ||
+|| **Name:** ██朋 ##8f8f8f|{{Tomo}}## || **Alias:** ##var(--green)|"Glimmer Green"## ||
+|| **Birth Date:** 14/02/1998 || **Contract Date:** 14/02/2008 ||
+
+**Description:** RPC-961-1-4 was the last member of Team Exusiai to enter into a contract with RPC-961, having done so on its birthday. It is the most reserved member of the group, taking a strategic and analytical approach to its operations as opposed to engaging in combat. 
+
+Its primary RPC-961-2 instance manifests as a toy gun modeled after a rifled musket. The weapon is capable of firing projectiles with sufficient force to destroy inanimate objects; however, when used against living targets, the projectiles only produce blunt-force impacts. Additional effects may manifest when RPC-961-1-3 verbally recites the corresponding "spells" prior to firing.
+
+Due to its weaker connection to RPC-961 and its ideals, the entity possesses significantly lower anomalous output than its teammates. As a result, it frequently relies on coordinated support from the other members of Team Exusiai or direct assistance from RPC-961 during engagements.
+
+[[/cell]][[cell style="vertical-align: top;"]]
+[[span class="rpc-thumb"]]
+[[image http://www.rpc-wiki.net/local--files/rpc-961/greenchan.png]]
+[[/span]]
+[[/cell]][[/row]][[/table]]
+
+[[collapsible show="[+] Open TV Interview Transcript (13/02/2009)" hide="[-] Close TV Interview Transcript (13/02/2009)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+
+**Program:** 「街角びっくりスクープ！」 ##8f8f8f|“Street Corner Surprise!”##
+
+**Original Air Date:** 13/02/2009
+
+**Network:** ██████ TV
+
+**Foreword:** ██████ TV is a private, unveiled variety television network specializing in the coverage of anomalous affairs throughout Japan, alongside comedic segments and entertainment programs based on recent anomalous events. The network has remained an entity of interest to the Authority for an extended period due to its unexplained financing.
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/gurimaview.jpg|width=400px|align=center|caption=Screencap from the TV interview]]
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+[[=]]
+**[Opening Theme]**
+[[/=]]
+
+(//Cheerful music. Footage of Kyoto landmarks plays alongside clips of Team Exusiai battling an anomalous creature.//)
+
+**Host:** Today's unbelievable scoop comes from Kyoto! Everyone's favorite guardian of the city: Glimmer Green!
+
+[[=]]
+**[Audience Applause]**
+[[/=]]
+
+**Co-Host:** She's adorable, isn't she? (//Laughs//)
+
+
+**Host:** Our crew managed to catch her just moments after today's battle. Let's take a look!
+[[=]]
+**[VTR Begins]**
+
+**"An Interview with Kyoto's Magical Girl!"**
+[[/=]]
+
+(//Footage shows Glimmer Green brushing dust from her costume. Her toy pistol shrinks back into its ordinary plastic form.//)
+
+[[=]]
+**"Immediately after the battle!"**
+
+**"Kyoto's Magical Girl Spotted!!"**
+[[/=]]
+
+(//Excited music plays as the camera jogs toward Glimmer Green, who's dusting herself off after the battle.//)
+
+**Reporter:** Ah! There she is! Glimmer Green-chan!
+
+(//Glimmer Green looks up in surprise.//)
+
+**Glimmer Green:** Ah... Hello. (//Small bow//)
+
+[[=]]
+**[Audience: "Awww!"]**
+[[/=]]
+
+**Host (Studio):** She's so polite already!
+
+**Reporter:** You remembered us, right?
+
+(//Glimmer Green thinks.//)
+
+**Glimmer Green:** Umm... ██████ TV...?
+
+[[=]]
+**✖ "So close!"**
+
+**[Audience Laughter]**
+[[/=]]
+
+**Reporter:** We're from ██████ TV.
+
+**Glimmer Green:** Ah! I'm sorry, it's been a while... (//Laughs awkwardly and bows.//)
+
+[[=]]
+**[Audience: "Awww!"]**
+[[/=]]
+
+**Host (Studio):** She apologized again!
+
+**Reporter:** You just finished another fight! Are you okay?
+
+**Glimmer Green:** Yes, I'm alright. Thank you for asking.
+
+**Reporter:** We saw you just defeated some sort of monster over there. Can you tell us what it was?
+
+**Glimmer Green:** It was a type of Oni. I think the English word for them is... "[[[RPC-758|Devilfolk]]]." It appeared near ████-██ and was bothering people. It would've been dangerous if he was left alone; someone could get hurt. Thankfully, my friends and I were there to stop it before it grew too big.
+
+**Reporter:** An Oni!? Weren't you scared?
+
+**Glimmer Green:** Yes, but... If there are people who need help, I'll do my best. I want to help people.
+
+[[=]]
+**"I just want to help people!"**
+
+**[Audience Applause]**
+[[/=]]
+
+**Host (Studio):** She's so earnest...
+
+**Co-Host:** And to think, she's only eleven! She's very mature for his age, isn't she?
+
+**Host (Studio):** Wouldn’t it be wonderful if your child grew up like this?
+
+[[=]]
+**[Audience Laughs]**
+[[/=]]
+
+**Reporter:** Can we ask you a few questions?
+
+**Glimmer Green:** If it's something I can answer...
+
+**Reporter:** You're only eleven years old, yes?
+
+**Glimmer Green:** Yes.
+
+**Reporter:** Amazing, you're in elementary school, and you're already saving people. But it must be difficult, right? Your parents must worry about you. What do they think about your activities here?
+
+(//Glimmer Green looks away for several seconds.//)
+
+**Glimmer Green:** ... I'm sorry. I can't answer that.
+
+**Reporter:** Ah... Is it a secret?
+
+**Glimmer Green:** Yes. I don't want to talk about my family on television. I'm sorry. (//She bows again.//)
+
+[[=]]
+**[Audience: "Awww..."]**
+[[/=]]
+
+**Host (Studio):** What a good kid...
+
+**Reporter:** Then let us ask you a more magical-girl-related question! Where do your powers come from?
+
+**Glimmer Green:** Huh? Didn't Pretty Pink already tell you? A fairy named Claudetta fell down from Wonderland and gave us our powers.
+
+**Reporter:** Really?
+
+**Glimmer Green:** Really.
+
+[[=]]
+**[Huge Audience Laughter]**
+[[/=]]
+
+**Host (Studio):** She said it with such a straight face!
+
+**Reporter:** What about your gun? Does it have powers too?
+
+(//Camera zooms in.//)
+
+(//Glimmer Green looks at the pistol, then slowly back at the reporter.//)
+
+**Glimmer Green:** No, all of our weapons are fake. It's just for appearances. We can fight without it. But it's more fun using weapons, isn't it?[[footnote]] RPC-961-1-4 is lying here. It is by this point, the entity has gotten suspicious of ██████ TV. [[/footnote]]
+
+[[=]]
+**[Audience Laughter]**
+[[/=]]
+
+**Reporter:** Really? Then... could we take a closer look?
+
+**Glimmer Green:** Eh?... Ahaha... I'm sorry, no.
+
+**Reporter:** Ah... No?
+
+[[=]]
+**"An immediate refusal!"**
+
+**[Audience Laughter]**
+[[/=]]
+**Glimmer Green:** ... I'm sorry. I think it's time for me to go.
+
+**Reporter:** Then could we follow you for a day? We'd love to see how a magical girl spends her time!
+
+(//Glimmer Green glances briefly toward an alley behind the camera.//)
+
+**Glimmer Green:** ...I'm sorry. Please don't follow me.
+
+**Reporter:** Just until you meet your teammates—
+
+**Glimmer Green:** No. I'm sorry. My teammates are waiting for me. Thank you very much for cheering us on. Please excuse me.
+
+(//She walks away.//)
+
+**Reporter:** Ah! Wait!
+
+(//The camera begins following her//.)
+
+(//Glimmer Green stops walking but does not turn around.//)
+
+(//After a brief pause, the cameraman stops. Glimmer Green bows one final time before leaving the frame.//)
+
+[[=]]
+**[Back to Studio]**
+[[/=]]
+
+**Host:** She's always polite!
+
+**Co-Host:** I wonder how many times she apologized for saying “no” (lol)
+
+**Panelist:** She's actually pretty careful, isn't she?
+
+**Host:** Maybe that's why she's been protecting Kyoto for so long.
+
+(//The studio lights dim slightly.//)
+
+**Host:** Now… we have a special announcement from the program.
+
+(//Dramatic music begins playing.//)
+
+**Host:** An announcement from our honored guest today, Mr. Nobuyuki Kurobane.
+
+[[=]]
+**[Audience Applause]**
+[[/=]]
+
+
+------
+
+**Afterword:**  ██████ TV would later come under investigation by the Authority on ██/██/2010 for suspected connections to several yakuza-affiliated groups. The investigation revealed that the television program had been covertly established by Kabushiki Kawaii as a means of gathering intelligence on individuals of interest.
+
+RPC-961-1-4 appears to have independently identified this connection over the course of this interview. Following this segment, RPC-961-1-4 made repeated efforts to avoid contact with ██████ TV personnel and refused subsequent interview requests.
+
+[[/div]]
+[[/collapsible]]
+
+------
++++ **Exploits**
+
+The activities of Team Exusiai were primarily documented through an Ameba blog,[[footnote]] Ameba (アメーバ) is a Japanese blogging and social networking website launched in 2004 and gained popularity in 2008. [[/footnote]] which served as the team's public record of its day-to-day exploits. Despite repeated efforts by the Authority to remove the blog and its associated domain, the website would invariably reappear shortly after its deletion through anomalous means.
+
+An archived copy of the blog, including a selection of preserved entries, is provided below.
+
+[[div class="banner"
+style="
+height: 100px;
+border-left: 2px solid #0582ca;
+border-right: 2px solid #0582ca;
+border-top: 1px solid #0582ca;
+width:100%;
+"]]
+
+[[div style="padding: 20px 0px 0px 20px; color: white; font-size: 1.5rem; text-shadow: 0px 0px 10px #000000; font-family: "Sour Gummy", sans-serif;"]]
+Team Exusiai Blog
+[[/div]]
+
+[[/div]]
+[[div class="pinkbg"
+style="
+width: 100%;
+border: 2px solid #0582ca;
+color: black;
+min-height: 600px;
+height: auto;
+font-size: 11px;
+"]]
+
+[[table class="blog-layout"]]
+[[row]]
+
+[[cell style="vertical-align: top;"]]
+
+[[div class="mobile-container"
+style="
+background: white;
+padding: 0px 5px 2px 5px;
+border: 1px solid #0582ca;
+margin: 0 auto;
+color: var(--blue);
+font-size: 0.60rem;
+"]]
+[[div style="text-align: center; background: linear-gradient(0deg, #6ea13a 0%, #BDDE81 100%); color: white; padding: 2px 0px; border-radius: 4px; margin-top: 5px;"]]
+[[size 123%]]**TEAM EXUSIAI**[[/size]]
+☆ Official Blog ☆
+[[/div]]
+
+**Hello! This is Bubble Blue♪**
+
+In this blog, we’ll be sharing updates on Team Exia’s activities and our daily lives with all of you!
+
+Thank you so much to everyone who supports us☆
+
+We look forward to your continued support of Team Exusiai!
+
+[[=]]
+[[image http://www.rpc-wiki.net/local--files/rpc-961/teambaner.png style="max-width: 100%;"]]
+[[/=]]
+
+
+[[div class="mobile-container"
+style="
+border-top: 1px dashed #0582ca;
+margin: 5px 0;
+"]]
+[[/div]]
+
+##85c346|**Archive**##
+
+[[a href="javascript:void();"]]2009年[[/a]]
+[[a href="javascript:void();"]]2010年[[/a]]
+[[a href="javascript:void();"]]2011年[[/a]]
+[[a href="javascript:void();"]]2012年[[/a]]
+[[a href="javascript:void();"]]2013年[[/a]]
+[[a href="javascript:void();"]]2014年[[/a]]
+[[a href="javascript:void();"]]2015年[[/a]]
+
+
+[[div style="
+border-top: 1px dashed #0582ca;
+margin: 10px 0;
+"]]
+
+[[/div]]
+
+##85c346|**Contact Info**##
+[[a href="javascript:void();"]][REDACTED][[/a]]
+
+[[/cell]]
+[[cell style="vertical-align: top; horizontal-align: right;"]]
+
+[[div style="
+max-height: 597px;
+overflow-y: auto;
+"]]
+
+[[div class="blogd"]]
+[[span class="dated"]] 2009年2月3日 [[/span]]
+
+Holy Knights of LOVE, TRUTH, and JUSTICE!
+
+[[/div]]
+
+
+[[div class="blogd"]]
+[[span class="dated"]]2009年2月13日[[/span]]
+
+Tomo-senpai is on TV~!! (*´∀｀*)
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/gurimaview.jpg width="200px"]]
+
+She's so cool...!
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2009年4月24日[[/span]]
+
+##var(--blue)|Hey, everyone, I heard a scary story today. Have you heard it? Hey, hey...##
+Listen closely—
+Once upon a time, there was a man named Tenno Meiji.
+When he died, he harbored resentment and sorrow toward us internet folks...
+Now, I already know what you're all thinking.
+"Ha! Give it a rest, this guy's dead."
+That's what you're thinking, right?
+But don't you know...?
+The ghost of Tenno Meiji, he's still out there!
+For example...
+//Who's standing behind you all...?//
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[div class="translated"]]
+
+##var(--pink)|(You know [http://rpcauthority.wikidot.com/rpc-024 Emperor Meiji] was a real person, right? w)##
+
+##var(--blue)|Wait... he was real...? I thought it was just a name... I give up ( ; ω ; )##
+[[/div]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2009年6月14日[[/span]]
+
+[[size 110%]] ##var(--pink)|**I played with my little sister today!**## [[/size]]
+
+My little sister is still young, so I'm keeping my magical girl identity a secret.
+But I'd like to tell her when she gets older, someday ♪
+I hope she stays healthy and happy forever.
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2009年6月28日[[/span]]
+
+##var(--pink)|Today was really tough...##
+You know, my little sister ended up making a contract with Claudetta.
+...No, wait—##FF69EB|SHE ACTUALLY SUCCEEDED IN MAKING A CONTRACT!?##
+At first I told her, "It's too soon!" but I never thought she'd actually pull it off...
+Plus, she's way too strong!
+My ribbon, Blue-chan's Bubble Stick, and Green-chan's musket are all cool, but...
+My little sister's weapon turned out to be a MOBILE SUIT!?
+Claudetta kept saying "It's not a Gundam," but...
+No, look at it. THAT'S CLEARLY A GUNDAM!
+It's a giant robot, loaded with weapons, and it even has real guns.
+I-isn't that kind of cheating!?
+We're magical girls over here, and only my little sister gets a Gundam!?
+But... we all managed to stop her in time, and no one got hurt, so I'm really glad about that.
+I made sure to scold my sister, "Don't do dangerous things!"
+And I told Claudetta that, too!
+...If she's going to make another contract, maybe she should wait until she's at least 11.
+[[size 80%]]##var(--pink)|Big sis is feeling a little guilty right now.##[[/size]]
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2009年6月29日[[/span]]
+
+**##FF69EB|PURE PINK NEON-chan's## ##var(--pink)|hair is pink...!!##**
+Huh, you can change your hair color when you transform!?
+//Nobody told me that!!//
+I wonder if I can still change mine...
+I want pink hair...
+But black hair is already part of Pretty Pink's character design...
+If I changed it now, everyone would be like, "Who!?" w
+...I wish I'd known sooner.
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+
+
+[[div class="blogd"]]
+[[span class="dated"]]2010年3月19日 [[/span]]
+
+##1A266B|**Today's Mission:**## ##var(--blue)|"Defeat the Gashadokuro!"##
+##1A266B|**Result:**## ##green|"Success!"##
+
+Today we fought a [[[RPC-494|Gashadokuro]]].
+Does everyone know what a Gashadokuro is?
+It's a gigantic skeleton yōkai made from human bones.
+The Gashadokuro we encountered today was probably around fifteen meters tall.
+It was really huge and really scary!
+I wish we'd known a way to lay it to rest properly, but we didn't, so we separated its bones as much as we could.
+Since they were human bones, it felt a little like we were disturbing someone's grave, which I didn't like...
+But if we'd left it alone, I think a lot of people would have been in danger
+Thankfully, it was deep in the mountains where there weren't many people around, so nobody got caught up in it!
+I hope someday we can find a way to deal with yōkai without having to defeat them.
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2010年5月14日 [[/span]]
+
+I hope I get to see Exusiai-senpai transform again…
+
+Pretty Pink-chan would probably faint from shock lol (⁀ᗢ⁀)
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2010年7月28日[[/span]]
+
+##1A266B|**Today's Mission:**## ##var(--blue)|"Rescue the kitten in the tree!"##
+##1A266B|**Result:**## ##red|"Failure"##
+
+Glimmer Green tried to climb up but fell down...
+I told her, "Pretty Pink and I can fly, you know?" but she didn't listen...
+By the way, the kitten hopped down on its own and was just fine.
+...The kitten might have been the most level-headed one of us all...(´・ω・`)
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2010年9月5日[[/span]]
+
+[[size 120%]]Chomu... Chomu...[[/size]]
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/chomudance.gif]]
+
+[[>]]
+##var(--blue)|**—???**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2011年3月29日[[/span]]
+
+##1A266B|**Today's Mission:**## ##var(--blue)|"Defeat Emperor Meiji's demon generals!"##
+##1A266B|**Result:**## ##green|"Success!"##
+
+Today, we went and defeated Emperor Meiji's demon generals together!
+At first, when they said "generals," I thought they were going to be really strong and scary people...
+They really were demons.
+And there were three of them...
+But Seiko-chan tied them all up with her ribbons, Tomo-chan blocked their escape, and then I stopped them from moving with my bubbles!
+...I wonder if I was helpful?
+By the way, the strongest one wasn't a demon general. It was Seiko-chan.
+She told me, "Miyu-chan, don't move!" so I made sure not to move at all.
+Afterwards, we all had ice cream together.
+Ice cream tastes better after winning.
+...Emperor Meiji, please don't call any more demon generals, okay?
+Otherwise we'll have to go defeat them again... (个_个)
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+
+[[div class="blogd"]]
+[[span class="dated"]]2011年5月6日[[/span]]
+
+Today, I fought that girl again.
+As expected... it was scary.
+She always looks angry, but I think she's actually in a lot of pain...
+We've been fighting for years, but I feel like I still haven't been able to understand her at all.
+What should I do?
+I don't want to defeat her.
+I really just... want to become friends.
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2011年7月2日[[/span]]
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/casualExusiai.jpg width="200px"]]
+
+##var(--blue)|Speaking of Claudetta... she gets along well with everyone, doesn't she? ┐(︶▽︶)┌##
+
+##var(--green)|Everyone just thinks she's an expensive-looking toy.##
+
+##var(--pink)|But she might just be the cutest expensive-looking toy in the world♪##
+
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2012年2月3日[[/span]]
+
+A new Pretty Cure?! I'm so glad it was on ANN!
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2012年2月5日[[/span]]
+
+I watched the first episode! Miyuki-chan is so cute! I wonder if Seiko-chan looks good with pink hair, too... ٩(^‿^)۶
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2012年5月30日[[/span]]
+
+[[size 200%]]##639EE6|〇✦## ##var(--pink)|♡✦## ##A5CF7C|☆✦##[[/size]]
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/chibixusiai.png style="width:200px;"]]
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2012年6月17日[[/span]]
+
+##var(--pink)|**Something really surprised me today!**##
+
+Guess what...
+Claudetta can actually take on a human form!?
+And she's super cute!!
+Want to know what she looks like?
+Ehehe~ //I'm not telling♪//
+But you know, I'd somehow convinced myself of something.
+Since she's been living in Japan for so long, I just assumed she'd look Japanese!
+But then again, her name is "Claudetta," and she's actually better at speaking English than Japanese.
+...Come to think of it, why did I ever think that? www
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2012年8月16日[[/span]]
+
+By the way, regarding Emperor Meiji,
+We still haven't figured out how to defeat him.
+We've tried a few times, but it hasn't worked out.
+If you're going to the Kyoto Imperial Park, please don't go alone.
+Also, if you see anything strange, absolutely do not go near it.
+Please be careful.
+
+[[>]]
+##var(--green)|**—Green**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2013年2月17日[[/span]]
+
+##var(--blue)|**Where have all the yōkai gone...?**##
+
+I feel like I haven't been seeing many yōkai lately.
+There used to be so many more.
+In the mountains, around temples, on the roads at night...
+I wonder where they went?
+Maybe they're all hiding somewhere.
+Or...
+[http://rpcauthority.wikidot.com/rpc-257 Maybe they're just gone?]
+That's kind of lonely.
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+
+[[div class="blogd"]]
+[[span class="dated"]]2013年9月10日[[/span]]
+
+[[size 120%]]##var(--pink)|PRETTY♡PINK##[[/size]]
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/prettypink.png style="height:140px;"]]
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2013年9月14日[[/span]]
+
+[[size 120%]]##var(--green)|GLIMMER☆GREEN##[[/size]]
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/glimmergreen.png style="height:140px;"]]
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2013年9月19日[[/span]]
+
+[[size 120%]]##var(--blue)|BUBBLE〇BLUE##[[/size]]
+
+[[image http://www.rpc-wiki.net/local--files/rpc-961/bubbleblue.png style="height:140px;"]]
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2014年3月23日[[/span]]
+
+Back when I first became a magical girl, I really wanted everyone to notice me.
+I wanted people to cheer me on, to call out my name… I guess I kind of longed for that.
+But in the end, that never happened.
+Maybe we’re the kind of people who get forgotten more easily than you’d think. Hahaha…
+But you know, even if no one remembers my name, my desire to help others never changes.
+You don't really need anyone to watch you when you're doing the right thing... right?
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2014年7月4日[[/span]]
+
+##var(--green)|**I saw a red-crowned crane.**##
+
+It was my first time seeing one in person, so I was really surprised.
+Red-crowned cranes are very rare birds.
+It happened when my family and I went on a trip to Hokkaido.
+Above the frozen lake, the red-crowned cranes were performing a beautiful dance.
+It was absolutely beautiful.
+...But I wasn’t as moved as I thought I would be.
+"Maybe they looked prettier on screen," I found myself thinking.
+Why did I think that?
+But just then, my mom put her hand on my shoulder and said, "Should we head out soon?"
+Before I knew it, it seemed I’d been watching them for an hour.
+Maybe I was just completely absorbed in the moment.
+As I watched the red-crowned cranes, I found myself wishing I could fly, too.
+I wished I could have what those wings possess.
+That’s why lately, I’ve been folding paper cranes.
+Did you know? They say that if you fold a lot of paper cranes, your wish will come true.
+But… My wish had already come true.
+That’s why I think I’m happy.
+
+[[>]]
+##var(--green)|**—Green**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2014年11月15日[[/span]]
+
+##var(--pink)|**We're Going to Comiket!**##
+
+We'll be participating in Comic Market 87, which takes place from December 29 to 31!
+It's a place I've always wanted to visit, so I'm really looking forward to it!
+I've heard there will be a huge crowd... but maybe we'll even get to meet some of you who know us?
+Hehe, I'm holding out a little hope♪
+We're going to have a blast that day!
+If you see us, please feel free to say hi!
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2014年12月31日[[/span]]
+
+##var(--pink)|**About yesterday.**##
+
+Yesterday, we went to Comic Market!
+It was somewhere I'd wanted to visit for a long time, and I really had so much fun.
+Of course, there weren't that many people who knew who we were...
+But even so, some people came up to us and said, "We're cheering for you!"
+That made me so happy♪
+Hehe... I think I was actually more excited than they were lol
+It really was a wonderful day.
+...
+I still can't quite find the right words for what happened yesterday.
+But...
+If there's anyone out there who's hurting alone right now...
+You don't have to bear it all by yourself.
+I'm sure someone will find you.
+...At least, that's what I believe.
+The New Year is almost here.
+I hope next year will be a year filled with lots of smiles for everyone.
+It's a little early, but...
+//Happy New Year!//
+Please continue to support Team Exusiai next year, too♪
+See you again soon!
+
+[[>]]
+##var(--pink)|**—Pink**##
+[[/>]]
+[[/div]]
+
+[[div class="blogd"]]
+[[span class="dated"]]2015年1月1[[/span]]
+
+Happy New Year!
+
+[[>]]
+##var(--blue)|**—Blue**##
+[[/>]]
+[[/div]]
+
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+
+[[/div]]
+------
+
+[[/div]]
+
+------
+
++++ **Addendum 961.B-2:** Kabushiki Kawaii
+
+[[div class="content-panel"]]
+
++++ **Kabushiki Kawaii**
+
+Team Exusiai would especially target Kabushiki Kawaii, as they were active in Kyoto and operated a major underground human trafficking ring during the mid to late 2000s, after the {{[REDACTED]}} incident quietly destabilized the local government and left numerous blind spots that bad actors have taken advantage of. Although public life remained largely the same, the Authority branch and the Japanese government have been scrambling to put things back in order before the veil could be ripped.
+
+Nobuyuki Kurobane (黒羽伸行), a senior executive of the company and the chief logistics officer of the Kyoto network, became a recurring figure within Team Exusiai's tenure. Kurobane has gained a fascination with RPC-961 and Team Exusiai. He was responsible for orchestrating many of the group's battles in what he called an "experiment in engaging narratives". This "experiment" includes the creation of a group of specialized, often young SecuPro[[footnote]] "Security Product" - a modified subject created for military purposes [[/footnote]] subjects, which often underwent rigorous upgrades and modifications to catch up to the growing power of Team Exusiai.
+
+[[collapsible show="[+] Kyoto Municipal Subway Footage (07/04/2011)" hide="[-] Kyoto Municipal Subway Footage (07/04/2011)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+
+**Date:** 07/04/2011
+
+**Location:** Kyoto Municipal Subway Karasuma Line - ████ ███ Station
+
+**Media:** CCTV footage
+
+**Subject:** RPC-961-1-2, RPC-961-1-3, RPC-961-1-4, RPC-614-U13
+
+**Foreword:** By this time, Team Exusiai had been closing in on their investigation of Kabushiki Kawaii and was intercepting the company's main trade networks in Kyoto. The following footage follows an encounter between Team Exusiai and a recurring RPC-614-U13 instance that was designed and upgraded to terminate them.
+
+The identifiers of each RPC-961-1 instance have been color-coded for convenience. 
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/subwayevent.jpg|width=250px|align=center|caption=Security footage still]]
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+**[17:44]**
+
+(//RPC-961-1-4 raises its rifle and inaudibly whispers a spell. A shot impacts the ground directly in front of the RPC-614-U13 instance, forcing it to stop.//)
+
+##var(--green)|**RPC-961-1-4:**## Amana! Stop. We don’t want to hurt you.
+
+(//RPC-614-U13 laughs bitterly. Several mechanical weapons unfold from its hollowed-out arms.//)
+
+**RPC-614-U13:** (//Panicking slightly, the instance breathes and composes itself.//) You think you won just because there were three of you? That's cute. …Or maybe I should say, that's kind of pathetic.
+
+(//A red ribbon instantly wraps around RPC-614-U13's arms and legs.//)
+
+##var(--pink)|**RPC-961-1-2:**## Don’t call me cute so suddenly!
+
+##var(--green)|**RPC-961-1-4:**## ...That’s what’s bothering you?
+
+##var(--pink)|**RPC-961-1-2:**## Of course. I’m a girl after all.
+
+##var(--blue)|**RPC-961-1-3:**## Seiko-chan… I don't think this is the time to say that.
+
+(//The RPC-614-U13 instance stares at them.//)
+
+**RPC-614-U13:** …You’re seriously disgusting.
+
+(//A blade extends from the RPC-614-U13 instance's torso. It cuts through the ribbon before opening a gun embedded in its hollowed arm.//)
+
+##var(--blue)|**RPC-961-1-3:**##「//BUBBLE SHIELD！//」
+
+(//The projectile is captured by the bubble constructs and explodes.//)
+
+##var(--blue)|**RPC-961-1-3:**## Eh.
+
+##var(--pink)|**RPC-961-1-2:**## Ouch… Fireworks!?
+
+**RPC-614-U13:** (//Mocking voice//) “Are you okay? I'll help you! You have a heart, too!” Do you really think that if you say something like that to the enemy, they'll suddenly turn into a goody-two-shoes? //Are you retarded?//
+
+(//Another volley of fireworks is fired out of the instance's gun.//)
+
+##var(--blue)|**RPC-961-1-3:**## But… We really do want to help you!
+
+(//RPC-961-1-3 blocks the attack with its bubble constructs.//)
+
+##var(--blue)|**RPC-961-1-3:**## Because we can tell you’re hurting.
+
+**RPC-614-U13:** ...So what? Whether I'm hurting or not, who cares?
+
+##var(--green)|**RPC-961-1-4:**## We do, dumbass!
+
+**RPC-614-U13:** ...You're ridiculous.
+
+(//An alternate weapon begins unfolding from the RPC-614-U13 instance's arm, switching to a high-caliber ████ rifle.//)
+
+##var(--pink)|**RPC-961-1-2:**## Amana…
+
+(//RPC-614-U13 hesitates.//)
+
+##var(--pink)|**RPC-961-1-2:**## Are you really going to shoot that?
+
+(...)
+
+(//The weapon retracts slightly. Instead, RPC-614-U13 fires every remaining explosive charge.//)
+
+##var(--pink)|**RPC-961-1-2:**##「//TWINKLE RIBBON PURE LOVE REVOLUTION！//」
+
+(//A massive number of ribbons shoot forward.//)
+
+(//RPC-614-U13 cuts through them.//)
+
+##var(--pink)|**RPC-961-1-2:**## You cut all of them!?
+
+(//RPC-614-U13 dodges the remaining ribbons and redirects them to wrap around RPC-961-1-4.//)
+
+##var(--green)|**RPC-961-1-4:**## Masako!?
+
+##var(--pink)|**RPC-961-1-2:**## S-Sorry!
+
+(//RPC-961-1-2 runs towards RPC-961-1-4 and tries to untangle its ribbons.//)
+
+##var(--blue)|**RPC-961-1-3:**##「RAINBOW BUBBLE BRILLIANT BURST！」
+
+(//A massive bubble wave launches forward. RPC-614-U13 dodges, but one leftover firework left in stasis inside the bubble explodes behind her.//)
+
+(//RPC-614-U13 stumbles and falls on the floor.//)
+
+**RPC-614-U13:** …Kh.
+
+(//RPC-961-1-2 immediately restrains RPC-614-U13 with its ribbons.//)
+
+##var(--pink)|**RPC-961-1-2:**## Amana… Let’s stop this.
+
+(//RPC-614-U13 struggles but its blades malfunction.//)
+
+##var(--pink)|**RPC-961-1-2:**## It hurts, doesn’t it? What they did to you… what you’re doing now. But you don’t have to keep hurting yourself any longer.
+
+(//RPC-614-U13 instance is silent.//)
+
+##var(--blue)|**RPC-961-1-3:**## No matter how many weapons they put on you… No matter how much they changed you… You’re still human. You’re still a girl like us.
+
+(//RPC-614-U13 looks away.//)
+
+**RPC-614-U13:** … It’s worthless.
+
+(...)
+
+(//RPC-614-U13 opens its jaw and unlocks the gas chamber within its thorax.//)
+
+##var(--blue)|**RPC-961-1-3:**## Eh?
+
+(//Tear gas emanates out of RPC-614-U13, weakening RPC-961-1-2's ribbon and allowing it to escape.//)
+
+(//The three RPC-961-1 instances fall to the ground and cough violently.//)
+
+##var(--pink)|**RPC-961-1-2:**## Miyu...
+
+(//RPC-961-1-3 manifests water out of its wand and splashes them at the other instance's face.//)
+
+##var(--green)|**RPC-961-1-4:**## (//Coughs//) ...She ran away.
+
+##var(--pink)|**RPC-961-1-2:**## Again!? (//Choking for air//)
+
+##var(--green)|**RPC-961-1-4:**## Yeah.
+
+(//RPC-961-1-4 lowers her rifle slightly, watching the smoke where RPC-614-U13 escaped. The instance slowly breathes to detox the tear gas from its system.//)
+
+##var(--green)|**RPC-961-1-4:**## (//Shouting//) …How many times are you going to give her a grand speech about love and friendship and expect her to change her mind!?
+
+##var(--pink)|**RPC-961-1-2:**## However many times it takes!
+
+##var(--blue)|**RPC-961-1-3:**## Yes! Exactly what Seiko-chan said!
+
+##var(--green)|**RPC-961-1-4:**## ...You really think that's going to magically work? 
+
+##var(--pink)|**RPC-961-1-2:**## But Claudetta believed in us. We became good thanks to her.
+
+##var(--green)|**RPC-961-1-4:**## We were already good kids!
+
+##var(--pink)|**RPC-961-1-2:**## So you're saying Amana-chan is different?
+
+##var(--green)|**RPC-961-1-4:**## That's not what I mean... She's done things we haven't. //She really did just try to kill us.//
+
+##var(--pink)|**RPC-961-1-2:**## That's just a minor detail!
+
+##var(--green)|**RPC-961-1-4:**## A minor- minor detail…?
+
+##var(--pink)|**RPC-961-1-2:**## Yes exactly!
+
+##var(--green)|**RPC-961-1-4:**## Unbelievable! You’re unbelievable!
+
+##var(--blue)|**RPC-961-1-3:**## But... she didn't actually fire it this time.
+
+##var(--green)|**RPC-961-1-4:**## ...You two are seriously too soft.
+
+##var(--pink)|**RPC-961-1-2:**## Tomo-chan...
+
+##var(--green)|**RPC-961-1-4:**## What?
+
+##var(--pink)|**RPC-961-1-2:**## Are you willing to give up on Amana-chan?
+
+(...)
+
+##var(--green)|**RPC-961-1-4:**## ...Tch.
+
+##var(--pink)|**RPC-961-1-2:**## Is that a yes or a no?
+
+##var(--green)|**RPC-961-1-4:**## ...You already know.
+
+##var(--pink)|**RPC-961-1-2:**## Say it.
+
+##var(--green)|**RPC-961-1-4:**## (//Sigh//) ...I'm not giving up.
+
+##var(--pink)|**RPC-961-1-2:**## Hehe. You really are kind.
+
+##var(--green)|**RPC-961-1-4:**## I'm not.
+
+##var(--blue)|**RPC-961-1-3:**## Tomo-chan, are you embarrassed right now?
+
+##var(--green)|**RPC-961-1-4:**## I'm not!
+
+##var(--pink)|**RPC-961-1-2:**## Your face is red.
+
+##var(--green)|**RPC-961-1-4:**## I'm just hot after fighting.
+
+##var(--blue)|**RPC-961-1-3:**## Cute.
+
+(//RPC-961-1-3 looks back toward where RPC-614-U13 escaped.//)
+
+##var(--blue)|**RPC-961-1-3:**## Still... I really think she's changing little by little.
+
+##var(--pink)|**RPC-961-1-2:**## Yeah. She didn't use that huge gun.
+
+##var(--blue)|**RPC-961-1-3:**## And... She used tear gas instead of neurotoxin.
+
+##var(--pink)|**RPC-961-1-2:**## Tear gas...? (//Laughs//)
+
+##var(--green)|**RPC-961-1-4:**## ...Really?
+
+##var(--pink)|**RPC-961-1-2:**## (//Laughing//) Ahah--ahaha! I-I mean...! Last time she was seriously trying to kill us...! This time it's just 'My eyes hurt!' and 'I can't stop coughing!'... Ahahaha! (//Continues laughing//)
+
+##var(--green)|**RPC-961-1-4:**## (//Chuckles//) Your way of explaining it is terrible.
+
+##var(--blue)|**RPC-961-1-3:**## But... she really is gentler than before.
+
+##var(--green)|**RPC-961-1-4:**## I wonder what she'll use next.
+
+##var(--blue)|**RPC-961-1-3:**## Eh?
+
+##var(--green)|**RPC-961-1-4:**## Pepper spray, maybe.
+
+##var(--pink)|**RPC-961-1-2:**## Ha! (//Continues laughing//) S-stop...!
+
+##var(--green)|**RPC-961-1-4:**## I could see it happening.
+
+##var(--blue)|**RPC-961-1-3:**## Amana-chan has so many weapons... Pepper spray wouldn't even surprise me.
+
+##var(--pink)|**RPC-961-1-2:**## Ahahaha!! Stop, seriously stop!
+
+(//RPC-961-1-2 continues laughing.//)
+
+##var(--green)|**RPC-961-1-4:**## ...Seiko-chan.
+
+##var(--pink)|**RPC-961-1-2:**## What?
+
+##var(--green)|**RPC-961-1-4:**## If you're laughing this much, maybe she'll target Miyu-chan next.
+
+##var(--blue)|**RPC-961-1-3:**## Eh!? Why me!?
+
+##var(--green)|**RPC-961-1-4:**## Because you like cat ears.
+
+##var(--blue)|**RPC-961-1-3:**## Eh?
+
+##var(--pink)|**RPC-961-1-2:**## Don't tell me... you think Amana-chan is cute too?
+
+##var(--blue)|**RPC-961-1-3:**## No, that's not it!?
+
+##var(--green)|**RPC-961-1-4:**## That reaction was suspicious.
+
+##var(--blue)|**RPC-961-1-3:**## Even you, Tomo-chan!?
+
+(//RPC-961-1-2 begins laughing harder.//)
+
+##var(--blue)|**RPC-961-1-3:**## Seiko-chan! Don't laugh!
+
+##var(--pink)|**RPC-961-1-2:**## (//Gasping for breath//) S-sorry... but…!
+
+##var(--green)|**RPC-961-1-4:**## Well, I guess that's just very Miyu-chan.
+
+##var(--blue)|**RPC-961-1-3:**## What does that mean!?
+
+##var(--green)|**RPC-961-1-4:**## Well, being weak to cute things is very Miyu-chan.
+
+##var(--blue)|**RPC-961-1-3:**## Is that supposed to be a compliment!?
+
+##var(--green)|**RPC-961-1-4:**## A weird girl who loves cats.
+
+##var(--blue)|**RPC-961-1-3:**## That's mean!
+
+(//RPC-961-1-2 is laughing uncontrollably.//)
+
+##var(--green)|**RPC-961-1-4:**## …Masako?
+
+(//RPC-961-1-2 falls over. RPC-961-1-4 immediately runs to its side to check on it.//)
+
+##var(--green)|**RPC-961-1-4:**## She passed out.
+
+##var(--blue)|**RPC-961-1-3:**## Seiko-chan!?
+
+##var(--green)|**RPC-961-1-4:**## She laughed too much.
+
+##var(--blue)|**RPC-961-1-3:**## ...So it was true after all.
+
+##var(--green)|**RPC-961-1-4:**## What is?
+
+##var(--blue)|**RPC-961-1-3:**## That the only thing capable of defeating a magical girl... is another magical girl.
+
+##var(--green)|**RPC-961-1-4:**## Her resistance to laughter is dangerously low.
+
+------
+**Afterword:** By the time the Authority recovered the footage, there was evidence of tampering from a previous actor, most likely being KK. The footage appears to have been deliberately left for the Authority to gather. 
+
+[[/div]]
+[[/collapsible]]
+
+**Underground Notoriety**
+
+Through the effort of the Authority and the Japanese government, knowledge of RPC-961 and Team Exusiai has largely been repressed from the general public. Meanwhile, KK, under the direction of Kurobane, began advertising Team Exusiai and their exploits, seeding their niche popularity within underground communities in Japan in the effort to let the group's guard down and potentially turn them into a valuable asset of the company.
+
+Much of Team Exusiai's niche popularity has been orchestrated by KK under Kurobane's direction, utilizing shell circles, front organizations, and third-party vendors in Comiket to distribute Team Exusiai-related media and encourage direct interaction between a select group of civilians, despite the Authority's continued effort of information suppression.
+
+Investigation found no evidence that the Comic Market Preparatory Committee was aware of these activities; KK instead exploited the event's decentralized structure to establish a substantial covert presence without the knowledge or cooperation of its organizers.
+
+[[collapsible show="[+] Tokyo Comiket Composite Footage (30/12/2014)" hide="[-] Tokyo Comiket Composite Footage (30/12/2014)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+**Date:** 31/12/2014
+
+**Location:** Tokyo Big Sight, Comic Market 87 - Service Corridor ████
+
+**Media:** Camera footage composite 
+
+**Subject:** RPC-961-1-2. RPC-961-1-3, RPC-961-1-4, [[[RPC-439|RPC-439-U]]][[footnote]] 
+**RPC-439** (Unregistered Prototype)
+
+**Object Class:** ##red|Gamma-Red##
+
+A production of a biomechanical entity with a feminine humanoid shape. The entity has an especially potent regenerative ability. It displays psychopathic tendencies, commonly displaying no care for human life.
+
+------
+
+[[/footnote]], [[[RPC-904|RPC-904-1-U3]]][[footnote]] 
+**RPC-904**-1 (Unregistered #3)
+
+**Object Class:** ##yellow|Alpha-Yellow##
+
+A production of sapient hermaphroditic humanoid entities with a parachute-like, membranous dermis that stretches the full height of their bodies. Its reproductive system is on its forehead and can spawn fetal instances designated RPC-904-1.
+
+------
+
+[[/footnote]]
+
+**Foreword:** During Comic Market 87, Team Exusiai was investigating possible activity related to Kabushiki Kawaii's assets.
+
+[[include component:image-enlarge name=http://www.rpc-wiki.net/local--files/rpc-961/securitystill.png|width=250px|align=center|caption=Footage Still]]
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+
+**[F1 11:12]**
+
+(//RPC-961-1-3 runs through the crowd towards the other two instances, carrying several bags of merchandise.//)
+
+##var(--blue)|**RPC-961-1-3:**## S-sorry! Did I keep you waiting?
+
+##var(--pink)|**RPC-961-1-2:**## Hehe. Did you really buy that much?
+
+(//RPC-961-1-3 holds up several bags.//)
+
+##var(--blue)|**RPC-961-1-3:**## Because... it's important.
+
+##var(--pink)|**RPC-961-1-2:**## All of it?
+
+##var(--blue)|**RPC-961-1-3:**## Yeah. All of it.
+
+(//RPC-961-1-2 laughs softly.//)
+
+##var(--pink)|**RPC-961-1-2:**## I only bought this. (//RPC-961-1-2 shows a small fan-made Team Exusiai pin.//) I wanted more, but... I already spent a lot on the hotel.
+
+##var(--blue)|**RPC-961-1-3:**## That's why I told you I'd pay for it!
+
+##var(--pink)|**RPC-961-1-2:**## No way. I can't let you do that, I'd feel bad.
+
+##var(--blue)|**RPC-961-1-3:**## We're friends. You don't have to worry about that...
+
+##var(--pink)|**RPC-961-1-2:**## Ehehe~ But it feels better if I buy it myself.
+
+##var(--green)|**RPC-961-1-4:**## ...You two haven't forgotten why we're here, right?
+
+##var(--pink)|**RPC-961-1-2:**## ██████-chan told us. She said the next Comiket might have a lead on KK.
+
+**[F2 11:19]**
+
+##var(--blue)|**RPC-961-1-3:**## But... do you really think an assassin would be here?
+
+##var(--green)|**RPC-961-1-4:**## I don't know. Here, monsters and cosplayers are almost impossible to tell apart.
+
+##var(--blue)|**RPC-961-1-3:**## I thought we would be more famous by now...
+
+##var(--green)|**RPC-961-1-4:**## The government and Karasu have been erasing our existence. Right now, we're barely more than an imageboard rumor.
+
+##var(--pink)|**RPC-961-1-2:**## What a shame... I wanted cute fan arts.
+
+(//The three instances continue walking through the crowd.//)
+
+**[F3 11:21]**
+
+##var(--blue)|**RPC-961-1-3:**## ...But there are so many people here. If a monster appears, this could turn into a disaster.
+
+##var(--pink)|**RPC-961-1-2:**## It's okay. Bad guys usually don't want to fight somewhere crowded.
+
+##var(--blue)|**RPC-961-1-3:**## IF they're human.
+
+##var(--green)|**RPC-961-1-4:**## If it's a monster... we'll save everyone first. After that, Karasu will erase everyone's memories, as they usually do.
+
+##var(--blue)|**RPC-961-1-3:**## ...Can they really erase people's memories?
+
+##var(--pink)|**RPC-961-1-2:**## Who knows? Claudetta can hide our identities, so maybe Karasu has some kind of science serum that makes people forget.
+
+##var(--blue)|**RPC-961-1-3:**## Eh!? Then... what if they've made us forget something too!?
+
+##var(--pink)|**RPC-961-1-2:**## (//Laughs//) Ahaha, relax, Miyu-chan! A magical girl's heart can't be corrupted! Right, Tomo-chan?
+
+##var(--green)|**RPC-961-1-4:**## (//Smiles softly//) ...Well, ours can't, at least.
+
+(//RPC-961-1-2 suddenly strikes an exaggerated hero pose.//)
+
+##var(--pink)|**RPC-961-1-2:**## Ready...!
+
+(//RPC-961-1-3 giggles and copies the pose. After a brief sigh, RPC-961-1-4 reluctantly joins them.//)
+
+**(Together):** The Holy Knights of Love, Truth, and Justice! Team Exusiai!!
+
+(//Several nearby convention-goers glance toward them. The three freeze in place.//)
+
+##var(--blue)|**RPC-961-1-3:**## ...People are staring.
+
+##var(--pink)|**RPC-961-1-2:**## Ah.
+
+##var(--green)|**RPC-961-1-4:**## (//Flustered//) ...I told you not to do that.
+
+**[F4 11:28]**
+
+(//The three walk through the exhibition halls. Eventually, they notice a cosplayer wearing a detailed mechanical costume over a maid outfit.//)
+
+##var(--pink)|**RPC-961-1-2:**## Wow... That cyborg maid cosplay is amazing.
+
+##var(--blue)|**RPC-961-1-3:**## ...But isn't it a little //too// realistic?
+
+(//The three instances stop their track and exchange glances. After a moment, they silently nod and begin following the cosplayer.//)
+
+**[F5 11:36]**
+
+(//The cosplayer notices the three instances following her and begins walking away from the crowd, eventually disappearing through a service entrance leading toward the industrial area behind the exhibition halls.//)
+
+**[F6 11:45]**
+
+(//The three instances follow at a distance. The sounds of the convention gradually fade behind them as the cosplayer continues toward the industrial facilities bordering the convention grounds.//)
+
+##var(--blue)|**RPC-961-1-3:**## ...She's going pretty far away from the convention center.
+
+##var(--green)|**RPC-961-1-4:**## Wait, isn't that a factory?
+
+(//RPC-961-1-4 looks toward the large industrial buildings ahead.//)
+
+##var(--green)|**RPC-961-1-4:**## ...A coil center.
+
+**[F7 11:49]**
+
+(//Inside a warehouse undergoing maintenance near the coil-processing facility. The cosplayer enters the building. RPC-961-1-2, RPC-961-1-3, and RPC-961-1-4 follow cautiously, keeping behind stacked equipment and construction materials.//)
+
+##var(--green)|**RPC-961-1-4:**## There she is.
+
+##var(--pink)|**RPC-961-1-2:**## ██████-chan really said KK was at Comiket, but...
+
+(//The cosplayer stops. The three immediately duck out of sight.//)
+
+##var(--blue)|**RPC-961-1-3:**## Shh.
+
+(//The cosplayer looks around before continuing deeper into the warehouse. Several other cosplayers enter and gather around it.//)
+
+##var(--green)|**RPC-961-1-4:**## ...What are they doing?
+
+(//The cosplayers begin speaking among themselves.//)
+
+##var(--pink)|**RPC-961-1-2:**## ...Let's go.
+
+**[F8 11:52]**
+
+(//RPC-961-1-2 steps out from behind the equipment and approaches the cosplayer. The other cosplayers notice her and begin leaving through another exit.//)
+
+##var(--pink)|**RPC-961-1-2:**## Excuse me! (//RPC-961-1-2 catches up to the cosplayer//) Yoo-hoo~!!
+
+(//The cosplayer turns around with a smile.//)
+
+**RPC-439-U:** Yes? What is it?
+
+##var(--pink)|**RPC-961-1-2:**## Comiket was pretty crowded, huh?
+
+(//The other cosplayers stare at RPC-961-1-2, then cautiously leave.//)
+
+**RPC-439-U:** Yeah. It really was.
+
+##var(--pink)|**RPC-961-1-2:**## Your cosplay is amazing! If you don't mind, could we take a picture together?
+
+**RPC-439-U:** (//Breathing slowly//) O-of course! Y-yes, please! I would love to!
+
+##var(--pink)|**RPC-961-1-2:**## Yay!
+
+**RPC-439-U:** That cosplay is Cardcaptor Sakura, right?
+
+##var(--pink)|**RPC-961-1-2:**## Hehe~ Yep! The second cutest pink magical girl ever. (//RPC-961-1-2 pulls out her flip phone.//)
+
+**RPC-439-U:** (//Chuckles//) Of course.
+
+(//RPC-961-1-2 takes the picture as an opportunity to take a closer look at the cosplayer.//)
+
+(...)
+
+(//A faint, distorted giggle comes from the cosplayer.//)
+
+**RPC-439-U:** ...Hehe.
+
+(//RPC-439-U slowly removes part of the costume, revealing the mechanical body hidden beneath. RPC-961-1-2 freezes, instinctively stepping back.//)
+
+**RPC-439-U:** Is this what you wanted to see~?
+
+**RPC-439-U:** Come on, get a closer look. I wouldn't mind.
+
+##var(--pink)|**RPC-961-1-2:**## Ahaha... s-so you really are a cyborg... (//Looks back at RPC-961-1-3 and RPC-961-1-4 nervously//) You’re not affiliated with Togen Biotech, are you...?
+
+**RPC-439-U:** Togen Biotech...? (//Tilts head//) I'm sorry... I know you don't like them very much, but I can't lie to my idol. Yes, I am from KK. But... that doesn't mean we can't be friends, right?
+
+##var(--pink)|**RPC-961-1-2:**## O-of course not!
+
+**RPC-439-U:** You're too kind...! (//RPC-439-U approaches RPC-961-1-2.//) It's like meeting an angel in real life... Team Exusiai... if only you knew how much I adore you, how much I look up to you, how much you saved me...
+
+(//RPC-439-U begins giggling softly, clutching its mechanical body.//)
+
+**RPC-439-U:** It's like a dream... Do you understand? (//RPC-439-U slowly reaches toward RPC-961-1-2, its damaged fingers trembling slightly.//) I feel like I'm finally back to how I was. You came to take me with you, didn't you...? Just for me...?
+
+##var(--pink)|**RPC-961-1-2:**## Eh...? Are you... a fan?
+
+**RPC-439-U:** Yes!
+
+##var(--pink)|**RPC-961-1-2:**## (//Face lights up//) That's great! Then... Do you want to be friends?
+
+##var(--green)|**RPC-961-1-4:**## Masako! Be serious!
+
+(//RPC-439-U laughs again, clutching its chest.//)
+
+**RPC-439-U:** I love you. I really, really love you. But... I couldn't get close. Because I'm not beautiful like you.
+
+##var(--blue)|**RPC-961-1-3:**## S-Seiko, please step back. I don't like this...
+
+(//RPC-439-U gently holds RPC-961-1-2's hand.//)
+
+**RPC-439-U:** So... just once is enough. I wanted to stand beside you. (//RPC-439-U falls to its knees and shakes violently.//)
+
+##var(--pink)|**RPC-961-1-2:**## Are you alright?
+
+(//RPC-439-U's hand trembles. A faint clicking sound comes from inside its chest.//)
+
+##var(--pink)|**RPC-961-1-2:**## ...Huh?
+
+(//RPC-439-U detonates a small explosive embedded inside its body. The blast erupts outward, throwing RPC-961-1-2 backwards and immediately triggering its transformation.//)
+
+##var(--blue)|**RPC-961-1-3:**## Seiko-chan!
+
+##var(--green)|**RPC-961-1-4:**## Seiko! (//Runs towards RPC-961-1-2//)
+
+##var(--pink)|**RPC-961-1-2:**## (//Coughs and groans in pain//) I-I'm alright... I transformed in time... More importantly, check on her!
+
+(//RPC-961-1-3 and RPC-961-1-4 immediately transform and approach RPC-439-U.//)
+
+(//RPC-439-U stands motionless. Its damaged body slowly begins regenerating, pieces of its mechanical frame pulling themselves back together.//)
+
+**RPC-439-U:** ...Again.
+
+(//RPC-439-U looks down at its own hands, trembling.//)
+
+##var(--blue)|**RPC-961-1-3:**## Are you alright...? Does it hurt?
+
+**RPC-439-U:** I'm sorry... I didn't mean to break you. But... I wanted you to look at me.
+
+(//RPC-439-U stares at RPC-961-1-2. For a moment, it looks almost relieved. Then it begins laughing.//)
+
+**RPC-439-U:** Hehe... Kurobane-sama told me... If I became as strong as you... I could become part of Team Exusiai.
+
+##var(--blue)|**RPC-961-1-3:**## That's not for that old geezer to decide!
+
+##var(--green)|**RPC-961-1-4:**## But... That doesn't mean we want to fight you. Okay? Let's calm down and talk.
+
+**RPC-439-U:** Ahaha... You're so kind. Ever since you saved me, I've been trying my best. I've gotten stronger. Strong enough to stand beside you.
+
+(...)
+
+**RPC-439-U:** So... Watch me. Let me show you how strong I've become.
+
+(//Blades begin extending from its still-regenerating arms.//)
+
+##var(--blue)|**RPC-961-1-3:**## ...So we really have to fight.
+
+(//RPC-961-1-3 and RPC-961-1-4 immediately move in front of RPC-961-1-2.//)
+
+##var(--blue)|**RPC-961-1-3:**##「RAINBOW BUBBLE BRILLIANT BURST！」
+
+##var(--green)|**RPC-961-1-4:**##「SUPER EMERALD SHOOTING STAR！」
+
+(//The attacks strike RPC-439-U, forcing it backwards.//)
+
+##var(--pink)|**RPC-961-1-2:**## Don't hurt her!
+
+##var(--blue)|**RPC-961-1-3:**## We don't want to hurt her either!
+
+##var(--green)|**RPC-961-1-4:**## No...!
+
+(//RPC-961-1-4 notices several mechanical devices embedded beneath RPC-439-U's regenerating flesh.//)
+
+##var(--green)|**RPC-961-1-4:**## Bombs... They're implanted inside her body!
+
+(//The three instances look into the distance where a crowd was passing by, realizing the danger. RPC-439-U looks down at the devices scattered throughout its body. For a moment, it seems confused.//)
+
+**RPC-439-U:** ...That's right. Kurobane-sama gave them to me.
+
+(//RPC-439-U slowly touches one of the explosives embedded in its chest, almost gently.//)
+
+**RPC-439-U:** He said that with these... I could get closer. If I became stronger... you would finally look at me.
+
+(//RPC-961-1-4 tackles RPC-439-U to dig out the explosives embedded between its flesh.//)
+
+##var(--green)|**RPC-961-1-4:**## I'm sorry, I'm sorry, I'm sorry!
+
+**RPC-439-U:** I just wanted to be with you. So why... does everything keep breaking?
+
+(//The explosives begin arming.//)
+
+##var(--pink)|**RPC-961-1-2:**## Wait! You don't have to do this, we—
+
+##var(--blue)|**RPC-961-1-3:**##「BUBBLE SHIELD！」
+
+(//RPC-961-1-3 creates a bubbles around RPC-961-1-4 and RPC-439-U. The explosives inside RPC-439-U immediately detonate. The bubble absorbs most of the blast, but RPC-439-U's body is torn apart inside.//)
+
+(…)
+
+(//RPC-961-1-2 steps back, horrified.//)
+
+##var(--pink)|**RPC-961-1-2:**## ...No.
+
+(//The remains of RPC-439-U slowly begin regenerating.//)
+
+##var(--blue)|**RPC-961-1-3:**## Now!
+
+##var(--green)|**RPC-961-1-3:**## While she's regenerating, get all the bombs out!
+
+(//RPC-961-1-2, RPC-961-1-3, and RPC-961-1-4 rush toward RPC-439-U's regenerating body.//)
+
+(//They carefully remove each explosive device embedded throughout its body. RPC-439-U weakly laughs while unable to move.//)
+
+**RPC-439-U:** ...I knew it. You're kind.
+
+(//Suddenly, a high-pitched screech echoes from behind them.//)
+
+##var(--blue)|**RPC-961-1-3:**## W-what is that noise?
+
+(//A high-pitched screech echoes through the abandoned service corridor. The sound shakes the metal walls and forces the three instances to cover their ears.//)
+
+##var(--blue)|**RPC-961-1-3:**## Ugh...!
+
+##var(--pink)|**RPC-961-1-2:**## My ears!
+
+(//A figure drops from the ceiling, landing between Team Exusiai and RPC-439-U. The impact cracks the concrete floor.//)
+
+##var(--green)|**RPC-961-1-4:**## Another one!?
+
+(//RPC-904-1-U3 unfolds its translucent limbs and emits a low, distorted noise. It ignores Team Exusiai completely, crawling toward RPC-439-U.//)
+
+**RPC-904-1-U3:** ...Kii.
+
+**RPC-439-U:** (//RPC-439-U weakly laughs.//) You came...
+
+(//RPC-904-1-U3 presses itself against RPC-439-U for comfort. RPC-439-U turns down the volume of the speaker locked around its neck.//)
+
+**RPC-904-1-U3:** Here.
+
+**RPC-439-U:** Yeah. You're here.
+
+(//RPC-904-1-U3 relaxes slightly.//)
+
+(//RPC-439-U looks toward Team Exusiai.//)
+
+**RPC-439-U:** (//RPC-439-U's face immediately shifts to one of anger.//) Those girls... they're taking me away.
+
+(//RPC-904-1-U3 immediately turns toward Team Exusiai. Its body stiffens.//)
+
+**RPC-904-1-U3:** ...No.
+
+##var(--pink)|**RPC-961-1-2:**## What?
+
+##var(--green)|**RPC-961-1-4:**## You're turning on us that quickly?
+
+##var(--blue)|**RPC-961-1-3:**## We don't want to hurt her—
+
+**RPC-439-U:** Liar. (//RPC-439-U slowly stands, still regenerating.//) Everyone says that. But in the end... they break me.
+
+(//RPC-904-1-U3 begins growling.//)
+
+**RPC-439-U:** It's okay... I'm here.
+
+**RPC-904-1-U3:** ...Together.
+
+**RPC-439-U:** Yeah.
+
+(//RPC-904-1-U3 lowers its body, preparing to attack.//)
+
+**RPC-439-U:** Together, we'll stop them.
+
+##var(--pink)|**RPC-961-1-2:**## 「TWINKLE RIBBON PURE LOVE REVOLUTION！」
+
+(//A volley of ribbons shoots out of RPC-961-1-2's wand and wraps around the two anomalies. RPC-439-U tries to cut them off with its blade.//)
+
+##var(--pink)|**RPC-961-1-2:**## Blue! Secure the area! Make sure no one comes in!
+
+##var(--blue)|**RPC-961-1-3:**## Got it, Seiko!
+
+##var(--pink)|**RPC-961-1-2:**## Green! Make sure she doesn't explode!
+
+##var(--green)|**RPC-961-1-4:**## (//Readies its rifle//) Pink, stay close to me!
+
+(//RPC-439-U suddenly releases RPC-904-1-U3. It immediately lunges toward RPC-439-U, but RPC-439-U tears open a section of its own torso and reaches inside. Its fingers close around one of the explosives embedded within its body.//)
+
+(//RPC-439-U pulls the explosive free, tearing away a piece of its own flesh in the process. It throws the device toward RPC-961-1-2.//)
+
+(//RPC-961-1-4 immediately raises its rifle and shoots the explosive out of the air. The device detonates harmlessly against the far wall.//)
+
+(//RPC-904-1-U3 suddenly launches itself toward RPC-961-1-4.//)
+
+(//Before it can reach the instance, RPC-961-1-2 catches it with a ribbon and violently pulls it sideways, wrapping the construct around a nearby metal support beam.//)
+
+##var(--green)|**RPC-961-1-4:**## I'm sorry... I really don't want to do this.
+
+(//RPC-961-1-4 fires several shots into RPC-439-U, deliberately targeting the exposed sections of its body where the remaining explosives are visible. Each impact tears through its mechanical frame.//)
+
+**RPC-904-1-U3:** (//Screeching//) Stop! Stop!
+
+(//RPC-439-U staggers but begins laughing.//)
+
+**RPC-439-U:** I'm okay... I don't mind.
+
+(//RPC-439-U looks toward the three instances, smiling despite the damage.//)
+
+**RPC-439-U:** If it's you... If it's you guys, I don't mind being broken.
+
+(//RPC-904-1-U3 struggles against the ribbon. One of its arms breaks free. It reaches toward the speaker mounted around its neck and increases the volume.//)
+
+(//A high-pitched screech erupts from the speaker. RPC-961-1-4 staggers, covering its ears as it loses its footing.//)
+
+##var(--green)|**RPC-961-1-4:**## Ugh...!
+
+(//RPC-904-1-U3 immediately tears itself free and flies toward RPC-439-U, positioning its body between it and Team Exusiai.//)
+
+##var(--blue)|**RPC-961-1-3:**## (//Panicking//) Karasu...! Karasu is coming!
+
+##var(--pink)|**RPC-961-1-2:**## ...You're kidding.
+
+(//Police siren can be heard in the distance.//)
+
+##var(--pink)|**RPC-961-1-2:**## Blue! Come back! Protect that flying girl! She's not bulletproof!
+
+(//RPC-961-1-3 immediately breaks away and flies back toward RPC-904-U. A bubble construct forms around RPC-904-U, shielding it from the approaching personnel.//)
+
+(//RPC-961-1-2, RPC-961-1-3, and RPC-961-1-4 reposition themselves around RPC-439-U, forming a defensive perimeter. RPC-439-U remains motionless between them, watching the corridor ahead.//)
+
+(//The sound of approaching footsteps and shouted orders echoes through the warehouse. A Hotel-11 team enters the corridor, weapons raised.//)
+
+(//Hotel-11/44 moves to the front of the formation and advances toward RPC-961-1-2.//)
+
+##var(--pink)|**RPC-961-1-2:**## ...Officer Naoko.
+
+(//RPC-439-U turns toward the approaching personnel. Its expression changes.//)
+
+**RPC-439-U:** Karasu...
+
+(//RPC-439-U looks from Hotel-11 back toward RPC-961-1-2.//)
+
+**RPC-439-U:** The Authority... right? (//Its smile begins to fade.//) Are they your friends too?
+
+(//RPC-439-U's voice begins to tremble.//)
+
+**RPC-439-U:** But... I'm supposed to be the only one you need, aren't I? (//RPC-439-U's expression twists into anger.//) That's not fair. It's not fair...
+
+**Hotel-11/44:** Don't move! Resist, and we'll open fire!
+
+(//RPC-439-U slowly walks towards Hotel-11 personnel, readying its bomb.//)
+
+##var(--blue)|**RPC-961-1-3:**## 「BUBBLE SHIELD！！」
+
+(//Before the operatives can fire, a bubble construct immediately forms around the entire formation, enclosing them in a barrier.//)
+
+(//RPC-439-U explodes right outside the perimeter of the barrier.//)
+
+**RPC-439-U:** (//Choking on its own blood as it regenerates.//) I'll kill them for you... People who bother you don't need to be around anymore.
+
+**[The rest of the footage has been deleted.]**
+
+
+------
+
+**Afterword:** Comic Market 87 continued without civilian or Authority personnel casualties, largely due to the intervention of Team Exusiai. However, neither the RPC-961-1 instances nor the associated KK anomalies were successfully apprehended.
+
+Hotel-11/44 - Off. Naoko, and the remainder of her unit reported that the involved entities had escaped their sight during the incident. This account remains unverified, as no CCTV, body camera, or other recorded footage documenting the entities' departure has been recovered.
+
+[[/div]]
+[[/collapsible]] 
+
+**Final Encounter with Kurobane**
+
+Over the following three years, Team Exusiai was involved in several hundred documented and undocumented engagements against KK assets across western Japan, further inflicting significant losses against KK infrastructure, particularly throughout the Kansai region. Post-incident analysis suggests that very few of these operations were coincidental. 
+
+Kurobane increasingly fell out of favor with other KK executives, many of whom accused him of deliberately enabling Team Exusiai's continued activities at the expense of the company's long-term interests. Internal communications repeatedly criticized his willingness to sacrifice personnel, facilities, and revenue in pursuit of what he described as a "complete narrative."
+
+After several years of repeated encounters, Team Exusiai had established the trust of numerous former KK assets, many of whom voluntarily provided intelligence on the organization's operations. Information gathered through these contacts ultimately led the group to identify the location of Nobuyuki Kurobane in ██████ ██████ Corporate Headquarters.
+
+[[collapsible show="[+] Corporate HQ, Kurobane’s office (18/08/2015)" hide="[-] Corporate HQ Kurobane’s office (18/08/2015)"]]
+
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+
+**Date:** 18/08/2015
+
+**Location:**  ██████ ██████ Corporate Headquarters, Executive Office Level ██
+
+**Media:** Internal security camera network
+
+**Subjects:** Nobuyuki Kurobane, RPC-961-1-2, RPC-961-1-3, RPC-961-1-4, RPC-439-U, RPC-614-U13
+
+**Foreword:** Following several months of investigation, Team Exusiai identified the location of Kurobane within Kabushiki Kawaii's Kyoto headquarters. On 18/08/2015, RPC-961-1-2, RPC-961-1-3, RPC-961-1-4, and multiple allied ████ ███ initiated an unauthorized assault on the facility to rescue civilians and anomalous captives as well as apprehend Nobuyuki Kurobane.
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+
+(//An elderly male is seated in the office chair. Despite his apparent age and gray hair, the subject has a youthful appearance and exhibits unusually energetic mannerisms.//)
+
+**Kurobane:** Yoo-hoo~! Team Exusiai!
+
+(//RPC-961-1-2 immediately raises its wand.//)
+
+##var(--pink)|**RPC-961-1-2:**## 「HEART BEAM！」
+
+(//A crimson beam tears across the room. Kurobane casually steps aside.//)
+
+**Kurobane:** (//Clapping slowly//) Nice... Coming straight for the finish, huh? You've gotten pretty ruthless. Ahaha... It's been a while, Pretty Pink-chan. Did you miss me?
+
+##var(--pink)|**RPC-961-1-2:**## 「TWINKLE RIBBON PURE LOVE REVOLUTION！」
+
+(//Countless ribbons burst from the wand. Kurobane draws his sword, severing several ribbons before the remaining ones coil around his arms and torso, restraining him.//)
+
+##var(--pink)|**RPC-961-1-2:**## ...It's over.
+
+**Kurobane:** Ahaha! Looks like you got me. Well now... I must be getting old if I can be caught this easily.
+
+(//The ribbons tighten around Kurobane's body.//)
+
+(...)
+
+(//A cracking sound echoes through the room.//)
+
+(//Kurobane's arms split apart. Flesh, mechanical weapons, and writhing tendrils burst from beneath his skin, snapping the ribbons one by one.//)
+
+**Kurobane:** ...But you know. Just because I'm old, that doesn't mean I can't keep up with kids like you.
+
+(//The tendrils surge toward RPC-961-1-2. It narrowly evades a barrage of fireworks, blades, and grasping appendages.//)
+
+(//RPC-961-1-3 lands in front of RPC-961-1-2.//)
+
+##var(--blue)|**RPC-961-1-3:**## 「BRILLIANT BUBBLE BURST！」
+
+(//The incoming projectiles are captured inside hundreds of floating bubble constructs before exploding harmlessly within them.//)
+
+**Kurobane:** Ah! Bubble Blue-chan! You came too! Then all that's left is Glimmer Green-chan, right?
+
+(//RPC-961-1-2 and RPC-961-1-3 rush Kurobane simultaneously. The mass of flesh extending from Kurobane's body intercepts both attacks. A tendril seizes RPC-961-1-3 before hurling it into the floor with enough force to send it crashing through to the level below.//)
+
+##var(--pink)|**RPC-961-1-2:**## //BLUE!//
+
+**Kurobane:** Ah... Fighting you guys really is fun! Ahaha! You know, I've even put my own position at risk just so I could play with you. So... let's enjoy this until the very end, okay?
+
+(//More projectiles shoot out of Kurobane’s arms. RPC-961-1-2 parries each of them with its hand.//)
+
+**Kurobane:** You three have really grown. I remember it like it was yesterday. When we first met, you fought just like actors on a stage. You wanted nothing more than everyone's cheers and attention. But... that time didn't last forever.
+
+##var(--pink)|**RPC-961-1-2:**## (//Steps back and readies its wand//) Tch, what are you on about?
+
+**Kurobane:** I've been thinking about something, Pretty Pink-chan. That maybe... magic has already disappeared from this world. Don't you feel the same? The yōkai that once lived in this country have lost their homes and vanished, and even ghosts and monsters are now defeated by humans wearing body armor and carrying M60s.
+
+(//Kurobane chokes on his own laughter before calming down and composing himself.//)
+
+**Kurobane:** And in an era like this... you suddenly appeared. Hehe... //It felt as if the age of magic had truly returned.//
+
+(//RPC-961-1-3 reemerges from the floor below with RPC-961-1-4 supporting it.//)
+
+##var(--green)|**RPC-961-1-4:**## Are you okay? Can you still fight?
+
+##var(--blue)|**RPC-961-1-3:**## (//Coughs//) Yes... I'm okay. More importantly, what about everyone else?
+
+##var(--green)|**RPC-961-1-4:**## Meiko-senpai and the others are working on it. They're also evacuating the employees here.
+
+##var(--blue)|**RPC-961-1-3:**## I see... Then that's a good plan.
+
+(//RPC-961-1-2, RPC-961-1-3, and RPC-961-1-4 assume combat positions.//)
+
+**Kurobane:** Ah... That's more like it. You three are only truly yourselves when you're together.
+
+##var(--blue)|**RPC-961-1-3:**## What you did to those people... it's unforgivable.
+
+##var(--green)|**RPC-961-1-4:**## And KK ends here. We'll burn everything to the ground and make sure nobody gets hurt by you again.
+
+(//Kurobane laughs.//)
+
+**Kurobane:** That's it... That's what I've always loved about you. That spirit of yours from seven years ago.
+
+##var(--green)|**RPC-961-1-4:**## 「SUPER EMERALD SHOOTING STAR！」
+
+(//RPC-961-1-4's bullet shoots through Kurobane's right arm, mangling it.//)
+
+**Kurobane:** Hehe... Nice shot. As expected of you, Glimmer Green-chan.
+
+(//Kurobane's damaged right arm detaches from the main construct. The severed mechanical limb reconfigures itself into a regular arm.//)
+
+**Kurobane:** You know, Team Exusiai... I really do have to thank you. You showed me that magic still exists in this world. That the heart to save others can still have the power to change the world. ...You even changed me. Hehe... Did you know? //I'm your biggest fan.// That's why... I want to ask you one thing.
+
+(//Kurobane charges to a melee attack, focusing all the mechanical blades on the RPC-961-1 instances.//)
+
+**Kurobane:** Your kindness... what has it truly left behind? No one knows the good you've done, no matter how many people you save. Even those you rescued... eventually have their memories erased. And yet, you still try to save people?
+
+##var(--green)|**RPC-961-1-4:**## Even so, we'll keep doing it. Because it's the right thing to do. That's all that matters!
+
+(Kurobane's body cracks and shifts. Flesh and machinery twist around him as his form begins to distort.)
+
+**Kurobane:** Hehe… It really is that simple, isn't it?
+
+(//RPC-961-1-2, RPC-961-1-3, and RPC-961-1-4 assume their finishing stance.//)
+
+##var(--pink)|**RPC-961-1-2:**## Pretty Pink!
+
+##var(--blue)|**RPC-961-1-3:**## Bubble Blue!
+
+##var(--green)|**RPC-961-1-4:**## Glimmer Green!
+
+**(Together):**「The Holy Knights of Love, Truth, and Justice! TEAM EXUSIAI!」
+
+**(Together):**「「BRILLIANT SHINING REVOLUTIONARY BLA──」
+
+(//Kurobane swings an arm. A blade erupts from the mass of flesh surrounding him, cleaving open the rear wall of the office. Dust fills the room. Behind the broken wall stands RPC-439-U, restraining a heavily injured RPC-614-U13.//)
+
+##var(--blue)|**RPC-961-1-3:**## Amana...?
+
+(//The three immediately stop their attack. Kurobane's body cracks again, stretching his right arm.//)
+
+(//RPC-614-U13 looks away guiltily, avoiding RPC-961-1-3's eye contact.//)
+
+**Kurobane:** Solving everything with a finishing move before the tragedy can even happen... A convenient outcome like that would be boring, wouldn't it?
+
+(//Kurobane produces a pistol from beneath his coat and presses it against RPC-614-U13's head.//)
+
+**Kurobane:** Your life... my life... and this child's life. In the end, we're nothing more than small passages in a much larger story. There will be nothing left after the three of you are gone. Even if this building burns to the ground, the ashes left behind will become nothing more than dust to be cleaned away.
+
+(//He cocks the pistol.//)
+
+##var(--blue)|**RPC-961-1-3:**## D-Don't... please...
+
+(…)
+
+**Kurobane:** (//Tilts head//) Detransform. Drop your weapons.
+
+**RPC-614-U13:** N-no, don't!
+
+(//Without looking away from RPC-614-U13, Kurobane strikes the side of its head with the grip of his pistol. RPC-614-U13 collapses to the floor. RPC-439-U instinctively flinches, but remains silent.//)
+
+(//After a brief hesitation, RPC-961-1-2, RPC-961-1-3, and RPC-961-1-4 detransform and place their wands on the floor.//)
+
+(//Still aiming the pistol at RPC-614-U13, Kurobane bends down and picks up RPC-961-1-2's wand, turning it over in his hands.//)
+
+**Kurobane:** ...I see. Even separated from the user, the power itself remains.
+
+(//Kurobane collects the remaining wands and places them inside his coat.//)
+
+(//He lets out a quiet sigh. The smile on his face gradually fades.//)
+
+**Kurobane:** KK will exist long after I die. Long after the three of you are gone as well. Even if this entire building burns to the ground... nothing will change.
+
+(…)
+
+**Kurobane:** Seven years... and Japan hasn't changed at all. Heh... It really is a cruel world.
+
+(…)
+
+**Kurobane:** But... you three taught me something important. Changing the world isn't everything. Sometimes... changing the lives of the people closest to you might be what truly means saving someone. For me... that was the three of you. So—
+
+(//Kurobane raises the pistol toward RPC-614-U13. He smiles at Team Exusiai before pulling the trigger.//)
+
+##var(--pink)|**RPC-961-1-2:**## NO!!
+
+(//RPC-614-U13's chest cavity suddenly opens. A concealed mechanical blade lashes outward, cutting across Kurobane's wrist. His shot goes wide as he staggers backward, clutching the injured hand while still holding the pistol.//)
+
+**Kurobane:** //...You little brat!//
+
+(//Kurobane steadies the pistol with his uninjured hand and fires repeatedly at RPC-614-U13.//)
+
+(//RPC-614-U13 dodges each shot, deliberately keeping itself between the line of fire and Team Exusiai.//)
+
+(//It suddenly rushes Kurobane, knocking him off balance. As he stumbles, it snatches RPC-961-1-3's wand from his coat and throws it toward its owner.//)
+
+**RPC-614-U13:** //Miyu!!//
+
+(//Enraged, Kurobane immediately raises his pistol toward RPC-439-U. Before he can fire, RPC-961-1-4 rushes in and tackles RPC-439-U to the floor, knocking it out of Kurobane's line of fire.//)
+
+(//Kurobane clicks his tongue and immediately redirects his aim toward RPC-961-1-2.//)
+
+##var(--blue)|**RPC-961-1-3:**## 「BUBBLE SHIELD！！」
+
+(//A spherical barrier forms around RPC-961-1-2. The fired round ricochets off the barrier and strikes Kurobane in the forehead.//)
+
+(...)
+
+(//Kurobane slowly raises a hand to his forehead. He stares at the blood on his fingertips before turning his gaze toward RPC-961-1-3.//)
+
+##var(--blue)|**RPC-961-1-3:**## (//Trembling//) No... no, that's not it... I-I... I... //I didn't mean to...//
+
+(...)
+
+(//Kurobane smiles faintly.//)
+
+(//He closes his eyes and collapses.//)
+
+(...)
+
+(//RPC-961-1-3 collapses to its knees, screaming as it begins sobbing uncontrollably.//)
+
+##var(--pink)|**RPC-961-1-2:**## Miyu! It's okay... it's okay...! We're here. We're right here, okay? It's okay...!
+
+(//RPC-961-1-2 embraces RPC-961-1-3.//)
+
+##var(--green)|**RPC-961-1-4:**## Miyu... You didn't do anything wrong. You didn't... none of this was your fault...
+
+(//RPC-961-1-4 kneels beside the pair. The three remain huddled together as RPC-961-1-3 continues to cry.//)
+
+(...)
+
+(//Several alarms activate throughout the facility. Smoke begins pouring through the fractured walls as the building initiates a facility-wide fire in response to Kurobane's death.//)
+
+(//RPC-961-1-2 and RPC-961-1-4 remain beside RPC-961-1-3, continuing to comfort it.//)
+
+(//RPC-961-1-2 looks toward RPC-439-U and RPC-614-U13.//)
+
+##var(--pink)|**RPC-961-1-2:**## ...There are still people in this building. Please... save them. Even if you hate them... don't leave them behind.
+
+(...)
+
+(//RPC-439-U and RPC-614-U13 silently exchange glances.//)
+
+(//The two nod once before leaving the office without another word.//)
+
+------
+
+**Afterword:** Following the incident, ███ KK personnel and assets were recovered outside ██████ ██████ HQ after having been saved from the burning building. RPC-961-1-2 and RPC-961-1-4 remain unaccounted for. RPC-961-1-3 voluntarily surrendered itself to Authority custody, remaining silent during the whole procedure. 
+[[/div]]
+
+[[/collapsible]]
+------
+
+[[/div]]
+
+------
+
++++ **Addendum 961.B-3:** ASIACOM HQ
+
+[[div class="content-panel"]]
++++ ASIACOM Headquarters
+
+Following the destruction of ██████ ██████ HQ and the death of Nobuyuki Kurobane, RPC-961-1-3 voluntarily surrendered to Authority custody. The Authority initiated operations to secure remaining KK assets throughout Kyoto and dismantle the organization's regional network. 
+
+RPC-961-1-3 was subsequently interrogated for its seven-year operational history of Team Exusiai, including the identities of other RPC-961-1 instances and their involvement with KK-related incidents. However, RPC-961-1-3 refused to answer any of the questions, even after extended pressure and coercion.
+
+During RPC-961-1-3's confinement, RPC-961-1-2 and RPC-961-1-4 remained unaccounted for following the incident. No confirmed sightings of either instance were reported, and no further Team Exusiai activity was observed in Kyoto.
+
+[[collapsible show="[+] ASIACOM HQ Site Siege (28/08/2015)" hide="[-] ASIACOM HQ Site Siege (28/08/2015)"]]
+[[div class="blockquote" style="height: 800px; overflow-y: auto;"]]
+**Media:** Security Camera Footage Composite
+
+**Date:** 28/08/2015
+
+**Location:** ASIACOM Headquarters, Regional Site-07, Saitama Prefecture, Japan
+
+**Subjects:**{{[REDACTED]}}
+
+**Foreword:** One week after RPC-961-1-3's arrest, the subject was escorted through an internal Regional Site-07 corridor after another unsuccessful interrogation session. 
+
+The following footage consists of a composite reconstruction compiled from internal security cameras, facility monitoring systems, and personnel recordings during the subsequent containment breach.
+
+##8f8f8f|**(Transcript translated from Japanese)**##
+------
+
+**[CAM-31 12:20]**
+
+(...)
+
+(//Distant gunfire is heard elsewhere within the facility. Personnel briefly stop.//)
+
+**ASF-042:** ...What was that?
+
+(//Another burst of gunfire is heard, closer this time. Several personnel begin raising their weapons.//)
+
+**Facility Announcement:** Regional Site-07 has been breached by multiple unidentified hostile entities. I repeat. Regional Site-07 has been breached by multiple unidentified hostile entities. All armed personnel are to immediately report to their assigned sectors.
+
+**ASF-046:** Everyone, take your positions!
+
+**Facility Announcement:** Non-combat personnel are to follow the instructions of armed personnel and immediately proceed to the nearest designated evacuation area.
+
+(//The distant gunfire stops.//)
+
+(...)
+
+(//RPC-961-1-3 watches the ASF personnel around it anxiously, then steps forward, positioning itself between them and the direction of the approaching disturbance.//)
+
+**ASF-012:** //Get back!//
+
+(//RPC-961-1-3 hesitates, then looks toward the ceiling.//)
+
+##var(--blue)|**RPC-961-1-3:**## ...It could be KK...
+
+(//ASF-012 looks toward the subject. Four ASF personnel move to surround RPC-961-1-3, keeping their weapons trained toward the approaching disturbance.//)
+
+**ASF-012:** Stay there.
+
+(//The ceiling cracks.//)
+
+(...)
+
+(//The ceiling collapses. Two RPC-961-1 instances descend through the opening. RPC-961-1-2 glides through the breach using an extended ribbon construct while RPC-961-1-4 lands immediately beside it.//)
+
+(//RPC-961-1-3 stares at them.//)
+
+##var(--blue)|**RPC-961-1-3:**## S-Seiko-chan...
+
+(//RPC-961-1-2 looks toward RPC-961-1-3.//)
+
+##var(--blue)|**RPC-961-1-3:**## Tomo-chan...
+
+(//RPC-961-1-4 and RPC-961-1-2 smile at RPC-961-1-3 while visibly crying.//)
+
+**Hotel-11/28:** Hostile entities confirmed! Engage!
+
+(//The personnel open fire.//)
+
+(//RPC-961-1-2 immediately raises its wand. Ribbons burst outward, intercepting the incoming rounds.//)
+
+(//RPC-961-1-4 moves forward, shielding RPC-961-1-2 from the remaining fire.//)
+
+(//Additional security personnel begin rushing into the corridor.//)
+
+(//Two ASF personnel seize RPC-961-1-3 and begin dragging it away from the breach.//)
+
+##var(--blue)|**RPC-961-1-3:**## W-wait...!
+
+(//RPC-961-1-3 struggles against their grip, looking back toward RPC-961-1-2 and RPC-961-1-4.//)
+
+(//A ribbon strikes the floor in front of the advancing personnel, forcing them to stop.//)
+
+(//From the breach behind RPC-961-1-2 and RPC-961-1-4, additional figures begin descending into the facility.//)
+
+(//RPC-961-1-3 looks past the two instances.//)
+
+(//Multiple unregistered anomalies, including KK constructs, ████, and unknown RPC-961-1 instances, emerge through the breach to support the main RPC-961-1 instances, leading the charge.//)
+
+##var(--pink)|**RPC-961-1-2:**## Don't kill anyone, okay?!
+
+(//RPC-614-U13 and RPC-904-1-U3 silently nod as they aid RPC-961-1-2.//)
+
+(//RPC-614-U13 shoots out fireworks to disorient the ASF personnel. RPC-961-1-2 restrains several guards with ribbon constructs as they lose their footing.//)
+
+(//RPC-961-1-2 looks toward the direction in which RPC-961-1-3 was taken.//)
+
+##var(--pink)|**RPC-961-1-2:**## Tomo-chan!
+
+(//RPC-961-1-4 looks back.//)
+
+##var(--pink)|**RPC-961-1-2:**## Go get Miyu!
+
+##var(--green)|**RPC-961-1-4:**## On it!
+
+(//RPC-961-1-4 immediately breaks away from the group and runs toward the direction in which RPC-961-1-3 was taken.//)
+
+**[CAM-21 12:39]**
+
+**[CAM-22 12:40]**
+
+**[CAM-26 12:40]**
+
+**[CAM-01 12:41]**
+
+(//Traversing a corridor, RPC-961-1-4 encounters GD-ASIA accompanied by MST Alpha-1 personnel. Alpha-1 operators immediately raise their weapons.//)
+
+##var(--green)|**RPC-961-1-4:**## I don't have time for this right now! Sorry!
+
+(//RPC-961-1-4 immediately runs past the group.//)
+
+(//Several Alpha-1 personnel turn to pursue it. GD-ASIA raises one hand, stopping them. GD-ASIA watches RPC-961-1-4 disappear around the corner.//)
+
+**Alpha-1-7/01:** (//Over radio//) Secure Room ██-██.
+
+**[CAM-04 12:43]**
+
+(//Site-wide lockdown procedures initiate. Blast doors throughout the facility begin sealing. Emergency lighting activates.//)
+
+**Facility Announcement:** Regional Site-07 is now entering lockdown procedures. Multiple anomalous entities have breached containment. All personnel are to proceed immediately to designated evacuation zones. Armed response units are to deploy to assigned sectors and neutralize all hostile entities.
+
+**[CAM-44 12:46]**
+
+(//RPC-961-1-4 arrives at Room ██-██. RPC-961-1-3 is surrounded by numerous armed ASF and MST personnel. All weapons are immediately redirected toward RPC-961-1-4.//)
+
+##var(--green)|**RPC-961-1-4:**## Miyu-chan!
+
+(//RPC-961-1-3 raises its head. Its expression immediately softens into a smile.//)
+
+##var(--blue)|**RPC-961-1-3:**## ...Tomo-chan.
+
+(//RPC-961-1-4 sprints directly through the line of guards before they can establish clear fields of fire.//)
+
+(//Multiple guards discharge their weapons. Gunfire ceases almost immediately. Inspection later confirms that bubble constructs had formed over each weapon's muzzle, preventing the projectiles from leaving the barrels.//)
+
+(//RPC-961-1-3 is observed holding its transformation wand. The subject had already transformed before RPC-961-1-4's arrival. It appears visibly panicked after witnessing the gunfire.//)
+
+##var(--green)|**RPC-961-1-4:**## Haha! You never detransformed?
+
+##var(--blue)|**RPC-961-1-3:**## I-I...
+
+(//RPC-961-1-4 grabs RPC-961-1-3 by the hand.//)
+
+##var(--green)|**RPC-961-1-4:**## Come on!
+
+(//RPC-961-1-4 turns toward the armed personnel.//)
+
+##var(--green)|**RPC-961-1-4:**## Everyone, hurry home to your family! And make sure to tell your kids, "//Magical girls never lose!//"
+
+(//RPC-961-1-4 laughs before pulling RPC-961-1-3 away from the room. Neither instance attempts to harm pursuing personnel.//)
+
+**[CAM-22 12:49]**
+
+##var(--blue)|**RPC-961-1-3:**## ...Why did you come back for me?
+
+**[CAM-28 12:50]**
+
+##var(--green)|**RPC-961-1-4:**## Isn't it obvious? //Because we love you, idiot!//
+
+**[CAM-31 12:56]**
+
+(//RPC-961-1-4 and RPC-961-1-3 arrive at the main hall. Several anomalies stand nearby while ███ armed personnel remain incapacitated on the floor.//)
+
+(//Upon seeing RPC-961-1-3, RPC-961-1-2 immediately runs toward it.//)
+
+##var(--pink)|**RPC-961-1-2:**## //Miyu-chan, you idiot! Don't ever do that again...//
+
+(//RPC-961-1-2 embraces RPC-961-1-3 tightly. Its voice begins to shake.//)
+
+##var(--pink)|**RPC-961-1-2:**## You're such a bad kid, you know...
+
+##var(--green)|**RPC-961-1-4:**## (//Laughing while sobbing//) Seriously. She's the worst kid I've ever seen.
+
+##var(--pink)|**RPC-961-1-2:**## I mean... who even gets incarcerated before graduating!? You can't put that on your future resume!
+
+(//RPC-961-1-3 laughs quietly.//)
+
+##var(--blue)|**RPC-961-1-3:**## Is that it?
+
+##var(--pink)|**RPC-961-1-2:**## I-it’s not just that...! I still have homework to do, too... And the snacks I saved for Miyu-chan... are still right here... (//Sniffle//) Besides... there's the blog... Everyone's been waiting for it, right...?
+
+(//RPC-961-1-2's voice becomes increasingly emotional, and it begins rambling. RPC-961-1-3 laughs softly and hugs it tighter.//)
+
+##var(--green)|**RPC-961-1-4:**## Even if you thought it was your fault... that doesn't mean you can just leave us behind. You should think about us too.
+
+##var(--blue)|**RPC-961-1-3:**## (//Smiles//) ...I really am terrible, aren't I?
+
+##var(--pink)|**RPC-961-1-2:**## ...Yeah... B-but that's just Miyu for you. (//Sniffle//)
+
+##var(--green)|**RPC-961-1-4:**## S-so... please stay with us from now on, okay? Let's graduate from high school... and go to college... Then we'll get jobs, start a family... and have lots of kids! (//RPC-961-1-4 laughs weakly while tears continue falling.//)
+
+##var(--blue)|**RPC-961-1-3:**## ...That sounds kind of boring.
+
+##var(--pink)|**RPC-961-1-2:**## Yeah. (//Smiles//) But it's okay as long as we're together, right?
+
+##var(--blue)|**RPC-961-1-3:**## //Together...//
+
+(//RPC-961-1-3 looks toward RPC-961-1-1. RPC-961-1-1 briefly blushes before turning away.//)
+
+##white|**RPC-961-1-1:**## ...Sorry. I don't think this is the right time for me to step in.
+
+(//RPC-961-1-1 continues assisting injured anomalies following the siege.//)
+
+##white|**RPC-961-1-1:**## Besides... isn't it about time you all quit being magical girls?
+
+**RPC-961:** Claudetta has saved up for your retirement plans, chomu.
+
+##white|**RPC-961-1-1:**## W-what!? You never told me you could get paid for this!
+
+**RPC-961:** Apologies. Claudetta didn't have money back then, chomu.
+
+(//RPC-961-1 grabs RPC-961 and squishes it in frustration. RPC-961-1-2 laughs.//)
+
+##var(--green)|**RPC-961-1-4:**## You heard that, right? Haha, we can actually retire.
+
+##var(--blue)|**RPC-961-1-3:**## But... if we're gone, who will protect everyone?
+
+##var(--pink)|**RPC-961-1-2:**## Who knows? Let's just figure it out when the time comes.
+
+
+**[CAM-31 13:14]**
+[[/div]]
+[[/collapsible]]
+
+------
+**Aftermath**
+
+Following the events at ASIACOM Headquarters, Team Exusiai ceased all known operations by 30/08/2015. The Official Team Exusiai blog has announced the group's retirement. The identities and whereabouts of the RPC-961-1 instances were never confirmed, and no further anomalous activity associated with the group has been recorded. The investigation remains open but inactive, with the case officially classified as unresolved.
+
+[[collapsible show="[+] Final blog post (18/03/2016)" hide="[-] Final blog post (18/03/2016)"]]
+
+[[div class="blogd" style="margin: 0 auto; color: black; font-size: 12px;"]]
+
+[[span class="dated"]]2016年3月18[[/span]]
+
+To everyone,
+I have a special announcement to make today.
+Believe it or not… we’ve successfully graduated from high school!
+Hehe… It still doesn’t quite feel real yet, but this means we’re “grown-ups” now, right?
+Actually… lately, we haven’t been able to do as much hero work as we used to.
+It’s a little… embarrassing to admit, but… we were completely swamped with school.
+Studying was tough, and we had so many assignments…
+I think that might have been the first time I ever saw Glimmer Green-chan crying at her desk (lol).
+But the three of us worked hard… and we managed to graduate.
+Also... over the past few years, we’ve made so many new friends.
+You guys are all studying hard and doing your best every day, too.
+I’m sure you still have a lot more to learn and many challenges ahead compared to us…
+But we’ll always be cheering for all of you!
+I’d be happy if we could laugh together, share our worries, and move forward little by little.
+To everyone who’s supported us from the very beginning, thank you so much.
+There were plenty of fun times and tough times… 
+But we were able to make it this far because of all of you who cheered us on and our precious friends.
+We don’t know yet what paths we’ll take from here on out…
+But we’ll keep doing our best, staying true to who we are.
+Thank you so much for supporting Team Exusiai up until now. 
+And please continue to support us in the future, too.
+
+[[>]]
+##var(--pink)|**—Pretty Pink**##
+[[/>]]
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[/div]]
+
+------
+
++++ **Addendum 961.C:** 961-1 Registry
+
+Despite continued suppression efforts by the Authority, the HKLTJ has maintained a limited operational presence within Japan.  After the disbanding of Team Exusiai, several independent RPC-961-1 instances were documented between 2015--2022. However, none of these instances has reached the scale or impact observed during Team Exusiai's seven-year operation.
+
+The most recently identified collective, designated "Team Melody", was established in 2023 within Tokyo. The group seems to be a direct continuation of Team Exusiai's original motivation of dismantling GoI activities within the country.
+
+[[collapsible show="[+] Message from Team Melody (12/02/2023)" hide="[-] Message from Team Melody (12/02/2023)"]]
+> Beware, RPC Authority, the Holy Knights of Love, Truth, and Justice’s one and only Team Melody has arrived to save the world from evil. So give up any wrongs you plan to commit! Hurry home to your family! And make sure to tell your kids, 'Magical girls never lose!'
+> 
+> [[>]]
+> **— RPC-961-1-5  ##BDA1FF|"Lovely Lavender"##**
+> [[/>]]
+[[/collapsible]]
+------
+[[div class="content-panel" style="width: iniitial !important;"]]
+[[collapsible show="+ Footnotes" hide="- Footnotes"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/div]]
+
+[!--{[A3AQM::!::
+maintext="<br>"Individuals who accept RPC-961's contract are given the power to transform into an RPC-961-1 instance, an entity class referred to as “magical girls”. Despite their human appearance, the internal anatomy of these entities is malleable and psychotronic in nature. This altered anatomy allows them to resist cognito-hazards and physically withstand injuries that would otherwise result in immediate incapacitation or death.""::
+objectclass="Omega-Purple"::
+title="RPC-961"::
+imglink="http://www.rpc-wiki.net/local--files/rpc-961/MagicMascot.jpg"::
+planttruncationlink=false
+]}--]
+
+
+[[=]]
+<< [[[RPC-960]]] | RPC-961 | [[[RPC-962]]] >>
+[[/=]]
+

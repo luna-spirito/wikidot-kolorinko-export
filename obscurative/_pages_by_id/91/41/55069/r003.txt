@@ -1,0 +1,17 @@
+---
+title: "Image"
+tags: []
+page_id: "914155069"
+site: "obscurative"
+slug: "include:image"
+revision: 3
+revision_id: "1203759805"
+author: 4518363
+timestamp: 1592163597
+---
+
+[[include :sons-of-athena:include:raw-image
+caption = {$caption} | caption = NONE
+| img = {$img}
+| width = {$width} | width = 100%}]]
+
