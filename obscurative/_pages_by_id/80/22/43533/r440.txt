@@ -1,0 +1,57 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 440
+revision_id: "1518040129"
+author: 4518363
+timestamp: 1707161876
+---
+
+[[div class="rimg" style="margin-top: 6px"]]
+[[div class="check"]]
+[[html]]
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+<script type="text/javascript" src="http://airglow-sa.github.io/alliance-scripts/o_013/anim/ta_v22.js"></script>
+<link href="http://files.scientific-alliance.obscurative.ru/local--theme/alliance/style.css" rel="stylesheet" media="all" />
+
+<style type="text/css"> .wire {text-align: center; vertical-align: middle; margin-top: -10px; width: 300px} </style>
+
+<div class="wire"></div>
+
+<script type="text/javascript">
+$(function(){
+
+var frame_list = [
+{"c": "print", "txt": "Подключение к удалённому серверу"},
+{"c": "define_progressbar", "len": 25},
+{"c": "change_global_delay", "delay_ms": 30},
+{"c": "step_delay", "cnt": 30},
+{"c": "rst"},
+{"c": "print", "txt": "Проверка защитного контрмемагента"},
+{"c": "define_progressbar", "len": 25},
+{"c": "change_global_delay", "delay_ms": 80},
+{"c": "step_delay", "cnt": 30},
+{"c": "rst"},
+{"c": "print", "txt": "Не удалось связаться с когнисхемой.<br/><br/>Наличие контрмема не подтверждено.<br/><br/>Изображение не может быть показано."},
+];
+
+var NTA = new window.Term_animation({
+$parent: $('.wire'),
+$container: $('.wire'),
+frames: frame_list,
+default_mode: "print"
+});
+NTA.start();
+});
+</script>
+
+[[/html]]
+[[/div]]
+
+[[span]]{$0}[[/span]]
+[[/div]]
+

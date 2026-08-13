@@ -1,0 +1,276 @@
+---
+title: "jimmyboyhaha author page™ (epilepsy warning haha)"
+tags: ["author-page"]
+page_id: "800394196"
+site: "rpcauthority"
+slug: "jimmyboyhaha"
+revision: 209
+revision_id: "1051091465"
+author: 4981794
+timestamp: 1585308387
+---
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Notable');
+
+#header {
+    background: url(https://i.pinimg.com/originals/2f/03/e1/2f03e17971849660d63714fe381dcb13.gif) no-repeat !important;
+    background-size: 100px 100px !important;
+}
+
+div#header h1 a span {
+    font-size: 0px;
+}
+
+div#header h1 a:before {
+    content: "jimmyboyhaha author page™";
+    color: red;
+    font-family: 'Notable', cursive;
+    font-size: 30px;
+}
+
+div#header h2 span {
+    font-size:0px;
+    padding: 4px;
+}
+
+div#header h2:after {
+    content: "the best page on the entire site";
+    color: red;
+    font-family: monospace;
+}
+
+#page-title {
+    color: white;
+    font-family: 'Anton', cursive;
+    font-size: 300%;
+    text-align: center;
+    border: none;
+    transform: skewX(30deg) !important;
+}
+
+#search-top-box-input, #search-top-box-input:hover, #search-top-box-input:focus {
+    background-color: #000000;
+    border-radius: 2px 7px 2px 0px !important;
+}
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    border: solid 1px #4286f4;
+    color: red;
+    background-color: #7e873d;
+}
+#search-top-box-form input[type=submit] {
+    background: linear-gradient(to bottom, #000000, #9f9f9f9f, #f8f8f8, #7c007c);
+    color: #ae000b;
+    border-radius: 100px;
+}
+ 
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus {
+    background: linear-gradient(to bottom, #000000, #9f9f9f9f, #f8f8f8, #7c007c);
+    color: #ae000b;
+    border-radius: 0px;
+}
+
+#side-bar {
+    background:url(https://fsa.zobj.net/crop.php?r=KrySFSv79GBvqzcOltS-49hioV6IyHNhtXDcFiqzJjLfy0ibzIy1Jdsn29b0keaBV6qZGRtplxE5e3V0vl3TZDwoRsAZO0cYc78DAxX4nSKd14dhgQ2a_vOf4RzbpReO5bw4X9l1KUKJL6X6);
+    border: 10px solid #ffffff;
+    width: 20%;
+    border-radius: 10px;
+    background-size: 210px 290px !important;
+}
+
+#page-content {
+    font-family: "Comic Sans MS";
+}
+
+body {
+    background:url(https://media2.giphy.com/media/6wpHEQNjkd74Q/giphy.gif) !important;
+}
+
+#footer {
+    font-size: x-small;
+    background: #ffffff;
+    color: black;
+}
+
+#footer a {
+    color: black;
+}
+
+#license-area {
+    font-size: x-small;
+    background: #810081;
+    color: black;
+}
+
+#license-area a {
+    color: #a4a4a5;
+}
+
+blockquote {
+    border: none;
+    background-color: #f4f4f4;
+    border-left: 2px solid #4286f4;
+    border-right: 2px solid #4286f4;
+    border-top: 2px solid #4286f4;
+    border-bottom: 2px solid #4286f4;
+    color: #333333;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.racismisbad {
+   animation: shake 1s; 
+    animation-iteration-count: infinite; 
+}
+
+@keyframes shake {
+    0% { transform: translate(68px, 68px) rotate(0deg); }
+    10% { transform: translate(-68px, -68px) rotate(-1deg); }
+    20% { transform: translate(-68px, 68px) rotate(1deg); }
+    30% { transform: translate(68px, 68px) rotate(0deg); }
+    40% { transform: translate(68px, -68px) rotate(1deg); }
+    50% { transform: translate(-68px, 68px) rotate(-1deg); }
+    60% { transform: translate(-68px, 68px) rotate(0deg); }
+    70% { transform: translate(68px, 68px) rotate(-1deg); }
+    80% { transform: translate(-68px, -68px) rotate(1deg); }
+    90% { transform: translate(68px, 68px) rotate(0deg); }
+    100% { transform: translate(68px, -68px) rotate(-1deg); }
+}
+
+[[/module]]
+
+[[div class="racismisbad"]]
+[[=image https://vignette.wikia.nocookie.net/fantendo/images/0/0e/Purple_Pikmin_%28alt_2%29_-_Pikmin_2.png/revision/latest?cb=20151004113830 width="100px;"]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+> [[=]]
+> [[size 200%]]~ ARTICLES ~[[/size]]
+> ----
+> [[size 180%]]RPCs[[/size]]
+> ----
+> [[/=]]
+> [[div style="border: 1px solid #888; border-radius: 10px; width: 300px; float: right; background-color: #f4f4f4; font-size: 110%; font-family: sans-serif; margin-top: 15px; padding-top: 90px; padding-bottom: 90px; padding-left: 3px; padding-right: 3px;"]]
+> [[=]]
+> Even as a researcher working at The Authority of all places, I find this completely unacceptable. Find an alternative as soon as possible.
+> [[/=]]
+> [[/div]]
+> [[size 160%]][[[RPC-979]]][[/size]]
+> [[size 145%]]Arachkids[[/size]]
+> @@ @@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]My first article. It's about spiders that pose as human children. In this one, I tried to make something better out of the "spiders" and "child endangerment" clichés in horror, and this is the result.[[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=tIT20oeQJ1w 🕷️][[/size]]
+> [[/=]]
+> [[/div]]
+> @@@@
+> @@@@
+> ----
+> [[div style="border: 1px solid #888; border-radius: 10px; width: 300px; float: right; background-color: #f4f4f4; font-size: 110%; font-family: sans-serif; margin-top: 15px; padding-top: 140px; padding-bottom: 140px; padding-left: 3px; padding-right: 3px;"]]
+> [[=]]
+> if all evil is open call +44 ██████████
+> [[/=]]
+> [[/div]]
+> [[size 160%]][[[RPC-618]]][[/size]]
+> [[size 145%]]Pandora's Cardboard Box[[/size]]
+> @@@@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]Cowritten with [[*user Jokezm]], RPC-618 is a massive tonal shift from my previous article. This came to fruition one day when Jokezm posted thoughts of rewriting a deleted article of his, alongside the image to the right. It was about paper demons. I asked if I could collab with him on it, and that's the story of this baby. He made all the images himself, and that's incredible.[[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=C4nCy5CITc8 📦][[/size]]
+> [[/=]]
+> [[/div]]
+> @@@@
+> ----
+> [[div style="border: 1px solid #888; border-radius: 10px; width: 300px; float: right; background-color: #f4f4f4; font-size: 110%; font-family: sans-serif; margin-top: 15px; padding-top: 115px; padding-bottom: 115px; padding-left: 3px; padding-right: 3px;"]]
+> [[=]]
+> WE, the CHURCH OF MALTHUS, must fight disease… with disease.
+> [[/=]]
+> [[/div]]
+> [[size 160%]][[[RPC-660]]][[/size]]
+> [[size 145%]]Put It Out Before It Puts You Out[[/size]]
+> @@@@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]RPC-660 is an article introducing a sect of The Church of Malthus that specializes in fungi and infections. I wrote this with [[*user GrammerPoliseCheif]], who proposed the idea of the fungal cigarettes. Smoking is bad for you don't smoke kiddos it's bad[[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=I4LRsn3Eg-o 🚬][[/size]]
+> [[/=]]
+> [[/div]]
+> @@@@
+> ----
+> [[div style="border: 1px solid #888; border-radius: 10px; width: 300px; float: right; background-color: #f4f4f4; font-size: 110%; font-family: sans-serif; margin-top: 15px; padding-top: 100px; padding-bottom: 100px; padding-left: 3px; padding-right: 3px;"]]
+> [[=]]
+> Keep walking.
+> [[/=]]
+> [[/div]]
+> [[size 160%]][[[RPC-755]]][[/size]]
+> [[size 145%]]BUT I WOULD WALK 500 MILES, AND I WOULD WALK 500 MORE[[/size]]
+> @@@@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]Sometimes people get tired after walking for a while, and just want to lay down. What if they couldn't lay down haha[[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=oUv0NbjbGzQ 🚶][[/size]]
+> [[/=]]
+> [[/div]]
+> @@@@
+> ----
+> [[div style="border: 1px solid #888; border-radius: 10px; width: 300px; float: right; background-color: #f4f4f4; font-size: 110%; font-family: sans-serif; margin-top: 15px; padding-top: 90px; padding-bottom: 90px; padding-left: 3px; padding-right: 3px;"]]
+> [[=]]
+> Yes, your RPC-749 instances are still alive. They are still squirming in pain, unable to meet death, because your Authority says so. An unrighteous Authority.
+> [[/=]]
+> [[/div]]
+> [[size 160%]][[[RPC-749]]][[/size]]
+> [[size 145%]]Death Is Late To The Party[[/size]]
+> @@@@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]I wrote this article with [[*user H F Dummie]] as part of the RPC-131 contest. He originally asked me to collab with him, and I couldn't say no to one of my favorite authors. The idea of being still alive despite having loads of injuries is terrifying to me. Although this didn't win the contest, it came second place. That's a plus![[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=XsCOajqLycI 💀][[/size]]
+> [[/=]]
+> [[/div]]
+
+> [[=]]
+> [[size 160%]]RECOMMENDED ARTICLES[[/size]]
+> ----
+> [[size 120%]]These are some of my favorite articles on the site, in numerical order. Go read them, they're epic[[/size]]
+> 
+> [[size 130%]]
+> [[[RPC-009]]]
+> [[[RPC-029]]]
+> [[[RPC-036]]]
+> [[[RPC-037]]]
+> [[[RPC-068]]]
+> [[[RPC-137]]]
+> [[[RPC-202]]]
+> [[[RPC-205]]]
+> [[[RPC-313]]]
+> [[[RPC-364]]]
+> [[[RPC-365]]]
+> [[[RPC-373]]]
+> [[[RPC-409]]]
+> [[[RPC-656]]]
+> [[[RPC-666]]]
+> [[[RPC-750]]]
+> [[[RPC-800]]]
+> [[[RPC-801]]]
+> [[[RPC-836]]]
+> [[[RPC-896]]]
+> [[[RPC-997]]]
+> [[[RPC-999]]]
+> [[/size]]
+> [[/=]]
+

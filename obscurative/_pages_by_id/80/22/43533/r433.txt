@@ -1,0 +1,60 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 433
+revision_id: "1507616086"
+author: 4518363
+timestamp: 1676136142
+---
+
+[[module CSS]]
+
+.synopsis {
+  display: flex;
+  flex-flow: row no-wrap;
+}
+
+.synopsis > :nth-child(1) {
+  margin: auto;
+  padding: 1em;
+}
+
+.synopsis > :nth-child(1) > * {
+  width: max-content;
+}
+
+.synopsis > :nth-child(2) > * {
+  border: 1px solid grey;
+  border-top-width: 0;
+  padding: 5px;
+}
+
+.synopsis > :nth-child(2) > :first-child {
+  border-top-width: 1px;
+  border-radius: 5px 5px 0 0;
+}
+
+.synopsis > :nth-child(2) > :last-child {
+  border-radius: 0 0 5px 5px;
+}
+[[/module]]
+
+[[div class="synopsis"]]
+[[div style="margin: auto;"]]
+Ground and Center
+[[/div]]
+[[div]]
+[[div]]
+Definition:
+Create a core in your soul that you can come back to—a storm eye center of calm and peace while the storm whirls around you.
+[[/div]]
+[[div]]
+Main Action:
+Take time to understand your essential, fundamental self. Breathe. You got this.
+[[/div]]
+[[/div]]
+[[/div]]
+

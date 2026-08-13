@@ -1,0 +1,230 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 413
+revision_id: "1460929707"
+author: 4518363
+timestamp: 1652020802
+---
+
+[[div id="timeline"]]
+
+[[include include:timepoint
+| year = 1
+| max = 25
+| name = Основание первого научно-исследовательского аванпоста "ALCOR", в дальнейшем переименованного в малую Британию
+| img = .
+]]
+
+[[include include:timepoint
+| year = 2
+| max = 25
+| name = Начало полномасштабной колонизации Пограничья. Основание первых частных и Государственных аванпостов.
+| img = .
+]]
+
+[[include include:timepoint
+| year = 2,5
+| max = 25
+| name = Впервые было обнаружено поселение цивилизации-попаданца. Ей оказалось небольшое племя Хвайгучи, предки земного племени Вампаноаг.
+]]
+
+[[include include:timepoint
+| year = 3
+| max = 25
+| name = Появление первых банд, занявшихся грабежом караванов и налетами на аванпосты. Их происхождение неизвестно.
+]]
+
+[[include include:timepoint
+| year = 3,1
+| max = 25
+| name = Вторая волна колонизации Пограничья, оказавшаяся куда более массовой, чем первая.
+]]
+
+[[include include:timepoint
+| year = 3
+| max = 25
+| name = Появление первых банд, занявшихся грабежом караванов и налетами на аванпосты. Их происхождение неизвестно.
+]]
+
+[[include include:timepoint
+| year = 7
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:mario
+| name = Первое путешествие, рассказ Марио Балотти
+| img = https://media.discordapp.net/attachments/692691898858733622/749649638184976434/2.png
+]]
+
+[[include include:timepoint
+| year = 11
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:black-tears
+| name = Черные слезы
+]]
+
+[[include include:timepoint
+| year = 18
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:raid
+| name = Рейд
+| img = https://media.discordapp.net/attachments/801114211937157180/803265660314320916/369f1cdcda42f46e.png?width=450&height=335
+]]
+
+[[include include:timepoint
+| year = 19
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:another-world
+| name = Другой Мир
+]]
+
+[[include include:timepoint
+| year = 14
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:swamper
+| name = Гильдия Болотников
+| img = https://media.discordapp.net/attachments/668029990062915595/798206182078677022/9cfa78a034f5cfef.png?width=315&height=201
+]]
+
+
+[[/div]]
+
+[[module CSS]]
+
+#u-timeline {
+  --back: Peru; /* Цвет линии или её текстура */
+  --for: Sienna; /* Цвет событий на линии */
+  --height: 50px; /* Высота линии */
+  --limiter: Sienna; /* Цвет ограничителей слева и справа */
+  --timepoint-width: 5px; /* Ширина события */
+  
+  
+  
+  --hb2: calc(var(--height)/2);
+}
+
+#u-timeline hr, #u-timeline br {
+  display: none;
+}
+
+#u-timeline {
+  position: relative;
+  height: 8em;
+}
+
+#u-timeline::after {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 50%;
+  width: 100%;
+  height: var(--height);
+  margin-top: calc(var(--hb2)*(-1));
+  border: 5px solid;
+  border-color: white var(--limiter);
+  background: var(--back) 0 / contain;
+  z-index: 0;
+}
+
+#u-timeline div {
+  position: absolute;
+  margin-top: var(--hb2);
+  top: 50%;
+  width: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+#u-timeline div::after, #u-timeline a {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-top: calc(var(--height)*(-1));
+  margin-left: calc(var(--timepoint-width)*(-1));
+  width: var(--timepoint-width);
+  height: var(--height);
+  background: var(--for);
+  z-index: 1;
+}
+
+#u-timeline a {
+  z-index: 2;
+}
+
+#u-timeline div * {
+  display: none;
+}
+
+#u-timeline div:hover {
+  width: 20em;
+  margin-left: -10em;
+  background: white;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+
+#u-timeline div:hover * {
+  display: block;
+}
+
+#u-timeline .time {
+  display: block;
+  position: absolute;
+  top: calc(var(--height)*(-1));
+  left: 50%;
+  margin-left: -0.5em;
+  margin-top: -1em;
+  width: 5em;
+  text-align: left;
+  transform: rotateZ(-45deg);
+  transform-origin: left;
+}
+
+#u-timeline .name {
+  margin-top: 1em;
+}
+
+#u-timeline img {
+  width: 100%;
+}
+
+[[/module]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[module CSS]]
+table {
+   counter-reset: line-number;
+}
+
+td:first-child:before {
+  content: counter(line-number) ".";
+  counter-increment: line-number;
+  padding-right: 0.3em;
+}
+[[/module]]
+
+[[module listpages created_by="@URL" separate="false" category="*" prependLine="||~ ||~ Название ||~ Рейтинг (голосов) ||~ Теги ||~ Создана ||~ Обновлена ||~ Автор ||"  order="name"]]
+|| ||%%title_linked%% || %%rating%% (%%rating_votes%%)  || %%tags_linked%% || %%created_at%%|| %%updated_at%%||  [[[/draft:guardian-spirit/created_by/%%created_by%% | %%created_by%% ]]] || 
+[[/module]]
+
+
+[[[/draft:undreim-page-by-user/created_by/UndReim | UndReim]]]
+[[[/draft:undreim-page-by-user/created_by/Rieraf | Rieraf]]]
+[[[/draft:undreim-page-by-user/created_by/scifyro |  scifyro]]]
+[[[/draft:undreim-page-by-user/created_by/Guardian-Spirit | Guardian Spirit]]]
+[[[/draft:undreim-page-by-user/created_by/Redseet | Redseet]]]
+[[[/draft:undreim-page-by-user/created_by/ObsidianFox | ObsidianFox]]]
+

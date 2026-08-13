@@ -1,0 +1,18 @@
+---
+title: "_theme Testpage"
+tags: []
+page_id: "801753165"
+site: "rpcauthority"
+slug: "_theme-testpage"
+revision: 1
+revision_id: "847242127"
+author: 3646714
+timestamp: 1558938407
+---
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/karabogatheme1/code/1);
+[[/module]]
+
+[[[link|http://www.rpc-wiki.net/_theme-testpage]]]
+

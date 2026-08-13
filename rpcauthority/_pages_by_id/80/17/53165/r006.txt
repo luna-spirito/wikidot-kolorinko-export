@@ -1,0 +1,22 @@
+---
+title: "_theme Testpage"
+tags: []
+page_id: "801753165"
+site: "rpcauthority"
+slug: "_theme-testpage"
+revision: 6
+revision_id: "1388961467"
+author: 7810432
+timestamp: 1645223594
+---
+
+[[module css]]
+@import url (http://rpcsandbox.wikidot.com/kessler-division-theme-code);
+[[/module]]
+
+[[[http://www.rpc-wiki.net/_theme-testpage]]]
+
+[[[http://www.rpc-wiki.net/_theme-testpage|Link]]]
+
+@import url(http://rpcsandbox.wikidot.com/karabogatheme1/code/1);
+

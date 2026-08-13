@@ -1,0 +1,233 @@
+---
+title: "jimmyboyhaha author page™ (epilepsy warning haha)"
+tags: ["author-page"]
+page_id: "800394196"
+site: "rpcauthority"
+slug: "jimmyboyhaha"
+revision: 114
+revision_id: "892561444"
+author: 4981794
+timestamp: 1563333674
+---
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Notable');
+
+#header {
+    background: url(http://waywardsandbox.wdfiles.com/local--files/gay/waywardxrpc.png) no-repeat left 50px !important;
+    background-size: 150px 780px !important;
+    padding: -200px;
+  position: relative;
+  -webkit-animation: mymove 1s infinite; /* Safari 4.0 - 8.0 */
+  animation: mymove 1s infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+
+div#header h1 a span {
+    font-size: 0px;
+}
+
+div#header h1 a:before {
+    content: "jimmyboyhaha author page™";
+    color: red;
+    font-family: 'Notable', cursive;
+    font-size: 30px;
+}
+
+div#header h2 span {
+    font-size:0px;
+    padding: 4px;
+}
+
+div#header h2:after {
+    content: "the best page on the entire site";
+    color: red;
+    font-family: monospace;
+}
+
+#page-title {
+    color: white;
+    font-family: 'Anton', cursive;
+    font-size: 300%;
+}
+
+#search-top-box-input, #search-top-box-input:hover, #search-top-box-input:focus {
+    background-color: #000000;
+    border-radius: 2px 7px 2px 0px !important;
+}
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    border: solid 1px #4286f4;
+    color: red;
+    background-color: #7e873d;
+}
+#search-top-box-form input[type=submit] {
+    background: linear-gradient(to bottom, red, blue, green);
+    border-radius: 100px;
+}
+ 
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus {
+    background: linear-gradient(to bottom, yellow, purple, brown);
+    border-radius: 50px;
+}
+
+#side-bar {
+    background:url(https://fsa.zobj.net/crop.php?r=KrySFSv79GBvqzcOltS-49hioV6IyHNhtXDcFiqzJjLfy0ibzIy1Jdsn29b0keaBV6qZGRtplxE5e3V0vl3TZDwoRsAZO0cYc78DAxX4nSKd14dhgQ2a_vOf4RzbpReO5bw4X9l1KUKJL6X6);
+    background-size: 210px 200px !important;
+}
+
+#page-content {
+    font-family: "Comic Sans MS";
+}
+
+body {
+    background:url(https://media2.giphy.com/media/6wpHEQNjkd74Q/giphy.gif) !important;
+}
+
+#footer {
+    font-size: x-small;
+    background: #ffffff;
+    color: black;
+}
+
+#footer a {
+    color: black;
+}
+
+#license-area {
+    font-size: x-small;
+    background: #810081;
+    color: black;
+}
+
+#license-area a {
+    color: #a4a4a5;
+}
+
+blockquote {
+    border: none;
+    background-color: #f4f4f4;
+    border-left: 2px solid #4286f4;
+    border-right: 2px solid #4286f4;
+    border-top: 2px solid #4286f4;
+    border-bottom: 2px solid #4286f4;
+    color: #333333;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.racismisbad {
+   animation: shake 1s; 
+    animation-iteration-count: infinite; 
+}
+
+@keyframes shake {
+    0% { transform: translate(68px, 68px) rotate(0deg); }
+    10% { transform: translate(-68px, -68px) rotate(-1deg); }
+    20% { transform: translate(-68px, 68px) rotate(1deg); }
+    30% { transform: translate(68px, 68px) rotate(0deg); }
+    40% { transform: translate(68px, -68px) rotate(1deg); }
+    50% { transform: translate(-68px, 68px) rotate(-1deg); }
+    60% { transform: translate(-68px, 68px) rotate(0deg); }
+    70% { transform: translate(68px, 68px) rotate(-1deg); }
+    80% { transform: translate(-68px, -68px) rotate(1deg); }
+    90% { transform: translate(68px, 68px) rotate(0deg); }
+    100% { transform: translate(68px, -68px) rotate(-1deg); }
+}
+
+[[/module]]
+
+[[div class="racismisbad"]]
+[[=image https://vignette.wikia.nocookie.net/fantendo/images/0/0e/Purple_Pikmin_%28alt_2%29_-_Pikmin_2.png/revision/latest?cb=20151004113830 width="100px;"]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+> [[=]]
+> [[size 200%]]~ ARTICLES ~[[/size]]
+> ----
+> [[size 180%]]RPCs[[/size]]
+> ----
+> [[/=]]
+> [[div style="border: 1px solid #888; width: 300px; float: right; background-color: #f4f4f4;"]]
+> [[image http://www.rpc-wiki.net/local--files/rpc-979/skool.jpeg width="300px"]]
+> [[div style="font-size: 80%; font-family: sans-serif; padding: 2px;"]]
+> [[=]]
+> {{fig. 1.1:}} ████ Elementary, █████ Prefecture, Japan. Location of first recorded RPC-979 instance.
+> [[/=]]
+> [[/div]]
+> [[/div]]
+> [[size 160%]][[[RPC-979]]][[/size]]
+> [[size 145%]]Arachkids[[/size]]
+> @@@@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]My first article. It's about spiders that pose as human children. In this one, I tried to make something better out of the "spiders" and "child endangerment" clichés in horror, and this is the result.[[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=tIT20oeQJ1w 🕷️][[/size]]
+> [[/=]]
+> [[/div]]
+> @@@@
+> ----
+> [[div style="border: 1px solid #888; width: 300px; float: right; background-color: #f4f4f4;"]]
+> [[image http://rpcauthority.wdfiles.com/local--files/rpc-618/Ppandoro.png width="300px"]]
+> [[div style="font-size: 80%; font-family: sans-serif; padding: 2px;"]]
+> [[=]]
+> {{fig. 1.1:}} RPC-618 during an inactive state. {{(circa 2014)}}
+> [[/=]]
+> [[/div]]
+> [[/div]]
+> [[size 160%]][[[RPC-618]]][[/size]]
+> [[size 145%]]Pandora's Cardboard Box[[/size]]
+> @@@@
+> [[div style="padding-right: 310px;"]]
+> [[size 130%]]Cowritten with [[*user Jokezm]], RPC-618 is a massive tonal shift from my previous article. This came to fruition one day when Jokezm posted thoughts of rewriting a deleted article of his, alongside the image to the right. It was about paper demons. I asked if I could collab with him on it, and that's the story of this baby. He made all the images himself, and that's incredible.[[/size]]
+> @@@@
+> [[=]]
+> [[size 300%]][https://www.youtube.com/watch?v=C4nCy5CITc8 📦][[/size]]
+> [[/=]]
+> [[/div]]
+
+> [[=]]
+> [[size 160%]]RECOMMENDED ARTICLES[[/size]]
+> ----
+> [[size 120%]]These are some of my favorite articles on the site, in no particular order. Go read them, they're epic[[/size]]
+> 
+> [[size 130%]]
+> [[[RPC-800]]]
+> [[[RPC-365]]]
+> [[[RPC-999]]]
+> [[[RPC-997]]]
+> [[[RPC-029]]]
+> [[[RPC-036]]]
+> [[[RPC-750]]]
+> [[[RPC-666]]]
+> [[[RPC-313]]]
+> [[[RPC-836]]]
+> [[[RPC-009]]]
+> [[[RPC-037]]]
+> [[[RPC-137]]]
+> [[[RPC-409]]]
+> [[[RPC-205]]]
+> [[[RPC-068]]]
+> [[[RPC-202]]]
+> [[[RPC-896]]]
+> [[/size]]
+> [[/=]]
+

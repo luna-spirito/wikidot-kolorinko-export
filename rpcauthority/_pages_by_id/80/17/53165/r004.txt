@@ -1,0 +1,20 @@
+---
+title: "_theme Testpage"
+tags: []
+page_id: "801753165"
+site: "rpcauthority"
+slug: "_theme-testpage"
+revision: 4
+revision_id: "964926730"
+author: 5017664
+timestamp: 1570555327
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:containment-theme);
+[[/module]]
+
+[[[http://www.rpc-wiki.net/_theme-testpage]]]
+
+[[[http://www.rpc-wiki.net/_theme-testpage|Link]]]
+

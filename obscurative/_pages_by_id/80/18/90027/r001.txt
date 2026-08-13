@@ -1,0 +1,48 @@
+---
+title: "Bases Core"
+tags: []
+page_id: "801890027"
+site: "obscurative"
+slug: "include:bases-core"
+revision: 1
+revision_id: "847363834"
+author: 1767012
+timestamp: 1559284069
+---
+
++ {$type} {$name}
+
+[[div class="rimg"]]
+[[image {$logo} width="300"]]
+[[span]]{$logo_title}[[/span]]
+[[/div]]
+**Расположение:** {$location}
+**Предназначение:** 
+{$mission}
+**Персонал:** {$persones}
+**Объекты:**
+[[module ListPages tags="{$key_tag}" category="_default" name="object-*"  separate="no" ]]
+* %%title_linked%%  ( [[*user %%created_by%%]] )
+[[/module]]
+**Примечания:** {$comments}
+
+[[module CSS]]
+.rimg {
+    float: right;
+    border: 1px solid #c8ccd1;
+    padding: 3px;
+    background-color: #f8f9fa;
+    font-size: 94%;
+    text-align: center;
+    overflow: hidden;
+    width: 256px;
+}
+.rimg img {
+    background-color: #fff;
+    border: 1px solid #c8ccd1;
+}
+.rimg  span {
+    text-align: left;
+}
+[[/module]]
+

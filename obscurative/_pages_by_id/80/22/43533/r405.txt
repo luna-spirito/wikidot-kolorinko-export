@@ -1,0 +1,133 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 405
+revision_id: "1365942386"
+author: 4518363
+timestamp: 1622127031
+---
+
+[[div id="timeline"]]
+
+[[include include:timepoint
+| year = 13
+| max = 25
+| link = bla
+| name = Какой-то там конфликт
+| img = https://media.discordapp.net/attachments/632236100252860426/757913793547206676/b99d6bd69911929c.png
+]]
+
+[[include include:timepoint
+| year = 4
+| max = 25
+| link = bla2
+| name = Что-то там ещё
+| img = https://media.discordapp.net/attachments/632236100252860426/757913793547206676/b99d6bd69911929c.png
+]]
+
+[[/div]]
+
+[[module CSS]]
+
+#u-timeline {
+  --back: url(https://obscurative.wdfiles.com/local--files/main/sons-of-athena.svg); /* Цвет линии или её текстура */
+  --for: blue; /* Цвет событий на линии */ 
+  --height: 10px; /* Высота линии */
+  --limiter: black; /* Цвет ограничителей слева и справа */
+  --timepoint-width: 5px; /* Ширина события */
+  
+  
+  
+  --hb2: calc(var(--height)/2);
+}
+
+#u-timeline hr, #u-timeline br {
+  display: none;
+}
+
+#u-timeline {
+  position: relative;
+  height: 8em;
+}
+
+#u-timeline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  height: var(--height);
+  margin-top: calc(var(--hb2)*(-1));
+  border: 5px solid;
+  border-color: white var(--limiter);
+  background: var(--back) 0 / contain;
+  z-index: 0;
+}
+
+#u-timeline div {
+  position: absolute;
+  margin-top: var(--hb2);
+  top: 50%;
+  width: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+#u-timeline div::after, #u-timeline a {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-top: calc(var(--height)*(-1));
+  margin-left: -5px;
+  width: var(--timepoint-width);
+  height: var(--height);
+  background: var(--for);
+  z-index: 1;
+}
+
+#u-timeline a {
+  z-index: 2;
+}
+
+#u-timeline div * {
+  display: none;
+}
+
+#u-timeline div:hover {
+  width: 20em;
+  margin-left: -10em;
+  background: white;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+
+#u-timeline div:hover * {
+  display: block;
+}
+
+#u-timeline .time {
+  display: block;
+  position: absolute;
+  top: calc(var(--height)*(-1));
+  left: 50%;
+  margin-left: -0.5em;
+  margin-top: -1em;
+  width: 5em;
+  text-align: left;
+  transform: rotateZ(-45deg);
+  transform-origin: left;
+}
+
+#u-timeline .name {
+  margin-top: 1em;
+}
+
+#u-timeline img {
+  width: 100%;
+}
+
+[[/module]]
+

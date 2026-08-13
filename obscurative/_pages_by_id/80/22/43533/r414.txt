@@ -1,0 +1,244 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 414
+revision_id: "1460996599"
+author: 4518363
+timestamp: 1652298139
+---
+
+[[html]]
+<div id="conv">
+  <select id="conv-type">
+    <option value="tf->te">Время Пограничья -> Время Земли</option>
+    <option value="te->tf">Время Земли -> Время Пограничья</option>
+    <option value="df->de">Дата Пограничья -> Дата Земли</option>
+    <option value="de->df">Дата Земли -> Дата Пограничья</option>
+  </select>
+  <div class="date">
+    <label id="date-day-label">День</label>
+    <input id="date-day" type="number">
+  </div>
+  <div class="date">
+    <label id="date-month-label">Месяц</label>
+    <div id="date-month"></div>
+  </div>
+  <div class="date">
+    <label id="date-year-label">Год</label>
+    <input id="date-year" type="number">
+  </div>
+  <div id="out"></div?
+</div>
+
+<script>
+"use strict";
+/* Hours in days, months and years in Frontier */
+const fdayhours = 36;
+const fmonthhours = 170*fdayhours;
+const fyearhours = 6*fmonthhours;
+const origin = new Date("1972-03-01");
+const monthnames = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"];
+const fmonthnames = ["января", "февраля", "июня", "июля", "августа", "декабря"];
+
+var ea;
+{
+    var dayhours = 24;
+    var monthhours = dayhours*30;
+    var yearhours = dayhours*365;
+    ea = [dayhours, monthhours, yearhours];
+}
+var fr = [fdayhours, fmonthhours, fyearhours];
+
+function time(hours, to) {
+  var divrem = (x, y) => [Math.floor(x / y), x % y];
+  var [ryears, hours] = divrem(hours, to[2]);
+  var [rmonths, hours] = divrem(hours, to[1]);
+  var [rdays, _] = divrem(hours, to[0]);
+  return [rdays, rmonths, ryears];
+}
+
+function initTime() {
+  [["day", "Дней"], ["month", "Месяцев"], ["year", "Лет"]].forEach(([a, b]) => {
+    document.getElementById(`date-${a}-label`).innerText = b;
+  });
+  fieldDay.max = "";
+  var monthWrap = document.getElementById("date-month");
+  monthWrap.innerHTML = "";
+  fieldMonth = document.createElement("input");
+  fieldMonth.type = "number";
+  fieldMonth.addEventListener("change", recalc);
+  monthWrap.appendChild(fieldMonth);
+}
+
+// It's better to join this in a single function, but we both know that I won't.
+function initDate(mx) {
+  [["day", "Число"], ["month", "Месяц"], ["year", "Год"]].forEach(([a, b]) => {
+    document.getElementById(`date-${a}-label`).innerText = b;
+  });
+  fieldDay.max = mx;
+  var monthWrap = document.getElementById("date-month");
+  monthWrap.innerHTML = "";
+  fieldMonth = document.createElement("select");
+  var usableMonths;
+  if(fromFrontier) {
+    usableMonths = fmonthnames;
+  } else {
+    usableMonths = monthnames;
+  }
+  usableMonths.forEach(x => {
+    var opt = document.createElement("option");
+    opt.innerText = x;
+    fieldMonth.appendChild(opt);
+  });
+  fieldMonth.addEventListener("change", recalc);
+  monthWrap.appendChild(fieldMonth);
+}
+
+var fieldDay;
+var fieldMonth;
+var fieldYear;
+var fieldOut;
+var fieldType;
+
+var translateTime = true;
+var fromFrontier = true;
+
+function recalc() {
+  if(translateTime) {
+    var from, to;
+    if(fromFrontier) {
+      to = ea;
+      from = fr;
+    } else {
+      to = fr;
+      from = ea;
+    }
+    var hours = (fieldDay.valueAsNumber || 0)*from[0] + (fieldMonth.valueAsNumber || 0)*from[1] + (fieldYear.valueAsNumber || 0)*from[2];
+    var [days, months, years] = time(hours, to);
+    fieldOut.innerText = `${days} дней, ${months} месяцев, ${years} лет`;
+  } else {
+    /* Translate date */
+    var day = fieldDay.valueAsNumber || 1;
+    var month = fieldMonth.selectedIndex + 1;
+    var year = fieldYear.valueAsNumber || 1;
+    if(fromFrontier) {
+      var hours = (day-1)*fdayhours + (month-1)* fmonthhours + (year-1)* fyearhours;
+      var out = new Date(origin);
+      out.setHours(origin.getHours()+hours);
+      fieldOut.innerText = `${out.getDate()} ${monthnames[out.getMonth()]} ${out.getFullYear()} года`;
+    } else {
+      var hours = (new Date(`${year}-${month}-${day}`)-origin)/1000/60/60;
+      if(!isNaN(hours)) {
+        var [day, month, year] = time(hours, fr);
+        console.log(month);
+        fieldOut.innerText = `${day+1} ${fmonthnames[month+1]} ${year+1} года`;
+      } else {
+        fieldOut.innerText = "";
+      }
+    }
+  }
+}
+
+function reselect() {
+  var val = fieldType.value;
+  // Maybe someone could use object here instead of these else ifs.
+  if(val == "tf->te") {
+    fromFrontier = true;
+    translateTime = true;
+    initTime();
+  } else if (val == "te->tf") {
+    fromFrontier = false;
+    translateTime = true;
+    initTime();
+  } else if (val == "df->de") {
+    fromFrontier = true;
+    translateTime = false;
+    initDate(170);
+  } else if (val == "de->df") {
+    fromFrontier = false;
+    translateTime = false;
+    initDate(31);
+  }
+  recalc();
+}
+
+window.onload = () => {
+  fieldType = document.getElementById("conv-type");
+  fieldType.addEventListener("change", reselect);
+  fieldOut = document.getElementById("out");
+  fieldDay = document.getElementById("date-day");
+  fieldYear = document.getElementById("date-year");
+  [fieldDay, fieldYear].forEach(x => x.addEventListener("change", recalc));
+  initTime();
+};
+</script>
+<style>
+#conv {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
+#conv label {
+  display: block;
+}
+</style>
+[[/html]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[module CSS]]
+table {
+   counter-reset: line-number;
+}
+
+td:first-child:before {
+  content: counter(line-number) ".";
+  counter-increment: line-number;
+  padding-right: 0.3em;
+}
+[[/module]]
+
+[[module listpages created_by="@URL" separate="false" category="*" prependLine="||~ ||~ Название ||~ Рейтинг (голосов) ||~ Теги ||~ Создана ||~ Обновлена ||~ Автор ||"  order="name"]]
+|| ||%%title_linked%% || %%rating%% (%%rating_votes%%)  || %%tags_linked%% || %%created_at%%|| %%updated_at%%||  [[[/draft:guardian-spirit/created_by/%%created_by%% | %%created_by%% ]]] || 
+[[/module]]
+
+
+[[[/draft:undreim-page-by-user/created_by/UndReim | UndReim]]]
+[[[/draft:undreim-page-by-user/created_by/Rieraf | Rieraf]]]
+[[[/draft:undreim-page-by-user/created_by/scifyro |  scifyro]]]
+[[[/draft:undreim-page-by-user/created_by/Guardian-Spirit | Guardian Spirit]]]
+[[[/draft:undreim-page-by-user/created_by/Redseet | Redseet]]]
+[[[/draft:undreim-page-by-user/created_by/ObsidianFox | ObsidianFox]]]
+

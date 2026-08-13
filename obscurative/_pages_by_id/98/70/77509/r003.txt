@@ -1,0 +1,20 @@
+---
+title: "Уровни доступа"
+tags: []
+page_id: "987077509"
+site: "obscurative"
+slug: "include:access-levels"
+revision: 3
+revision_id: "1035157404"
+author: 4518363
+timestamp: 1581618388
+---
+
+[[div id="level1"]]
+[[/div]]
+[[div id="level2"]]
+[[/div]]
+[[div class="access-levels"]]
+[#u-level0  ][[span class="level-{$level1}"]][#u-level1  ][[/span]][[span class="level-{$level2}]][#u-level2  ][[/span]]
+[[/div]]
+
