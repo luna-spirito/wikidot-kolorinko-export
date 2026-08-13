@@ -1,0 +1,481 @@
+---
+title: "RPC-369"
+tags: ["beta", "black", "eventwinner", "ideological-hazard", "mechanical-hazard", "psychotronic-hazard", "rpc", "sapient-hazard", "sub-vesuvia"]
+page_id: "987067433"
+site: "rpcauthority"
+slug: "rpc-369"
+revision: 8
+revision_id: "1035161047"
+author: 3077628
+timestamp: 1581633160
+---
+
+[[module CSS]]
+@import url(/component:sub-vesuvia-theme/code/1);
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+[[/module]]
+
+[[include component:rate]]
+
+[[=]]
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sapient.png style="margin-top: 1px; width: 35px;" title="Sapient"]] [[image http://rpcauthority.wdfiles.com/local--files/threats-hazards/Psychotronic.png style="margin-top: 1px; width: 35px;" title="Psychotronic"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mechanical.png style="margin-top: 1px; width: 35px;" title="Mechanical"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-ideological.png style="margin-top: 1px; width: 35px;" title="Ideological"]]  
+|align=center
+|name=http://rpcsandbox.wdfiles.com/local--files/brainblast/voy1.png
+|width=100%
+|caption={{Fig. 1:}} Recovered documents outlining the design for some of RPC-369's central components
+]]
+[[/=]]
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/beta-black.png]]
+
+**Registered Phenomena Code:** 369
+
+**Object Class:** Beta-Black
+
+**Containment Protocols:** RPC-369 is not to be interacted with by personnel below Level 2 clearance, unless under direct order from personnel at or above Level 3 clearance. Direct communication/interfacing with RPC-369 is to only be done by personnel trained by monks of the Order of St, John the Hesychast or by a member of said order. No personnel are to spend more than one hour in proximity to or inside the crypt which contains RPC-369 unless in exceptional circumstances. Routine communications with RPC-369 are not to exceed 5 minutes, though under exceptional circumstances may be extended to fifteen minutes under order of Level 3 or above personnel. Head Researcher Bianchi should be contacted for any inquiries involving RPC-369.
+
+Once a week, a designated individual will be briefed on a logic problem decided on by the Order of St. John the Hesychast. Said individual will enter the chamber containing the interface for RPC-369. The individual will initiate contact with RPC-369 and therein input the previously given logic problem. This communication should not last longer than five minutes.
+
+Once a month, ASF personnel on IB-325[[footnote]][[[http://www.rpc-wiki.net/authority-security-force | Hazardous Materials]]][[/footnote]] deployment equipped with antimemetic apparatuses, are to do a sweep of the accessible portions of RPC-369's mechanisms. They are tasked with the elimination of any manifested constructs. This operation should not exceed one hour. Any maintenance required to uphold RPC-369's containment will be decided on collaboratively by Head Researcher Bianchi and the remaining members of the Order of St. John the Hesychast.
+
+[[collapsible show="Access Previous Protocols" hide="Credentials Accepted"]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+ The object currently designated RPC-369 is under the purview and jurisdiction of the Order of St. John the Hesychast, and contained in the crypts of the Vesuvia Complex. Containment is handled by the Order in its entirety, and any inquiries regarding the object's containment should be directed toward the Italian Administration of Westcom. If any personnel would like to request participation in the decennial Authority delegation to the Vesuvia Complex, it is recommended they direct their inquires to the Contracting and Visitation Department located in the Offices of Diplomatic Relations in the Administration Division.
+[[/div]]
+[[/collapsible]]
+
+**Description:** RPC-369 is the designation for a device constructed in the late 15th and early 16th century by a group of self-professed "alchemists". The device itself occupies several floors in size, approximately 113 meters in depth, separated into a number of levels. The apparent purpose of RPC-369 is that of computation, particularly it's construction was an attempt to create a form of Artificial Intelligence, utilizing a combination of methods such as artificial neural networks, Q-learning, Hopfield encoding,
+several forms of genetic optimization, and a vast amount of unknown algorithms. The majority of RPC-369's inner operations are in fact currently unknown. Recovered design documents are written in an indistinct, coded language that has yet to be decoded via known cryptology.
+[[<]]
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/brainblast/voy2.png|
+    caption={{Fig. 2}} More design documents for RPC-369|
+]]
+[[/<]]
+
+Given the time period in which RPC-369 was constructed, researchers consider it anomalous that an artificial intelligence of such complexity was able to be designed. It is unknown how the original creators of RPC-369 came across the successful design, though hints in contemporary accounts from Auctoritas members imply it was partially developed from earlier alchemical texts. Rather than the computation of RPC-369 relying on electronic silicon transistors or quantum computing, the device is designed around some form of radial processor[[footnote]]As can be seen in Figures 1 and 3.[[/footnote]] which rely on a currently little understood alchemical transfer of information as energy continuously, not requiring said information to be encoded into quanta. RPC-369 contains 4 central processors[[footnote]]Referred to as P-1 through P-4[[/footnote]], each in the form of a radial alchemical processor, albeit much larger and incorporating far more components. The largest of these being P-4 with a radius of roughly eighteen meters, with the remaining three at similar sizes, if slightly smaller.
+
+Within RPC-369 information appears to be processed as a mirror of alchemical processes, namely it passes through each of the four central processors in an allusion to the process of the //Magnum Opus// in alchemy[[footnote]]Concept in Alchemy which refers to the process of harnessing the prime material of existence to form the Philosopher's Stone or the "mind of god" as referred to by Alderotti. This is done through a specific sequence of color coded processes, through which a base material will slowly be transmuted into the desired object.[[/footnote]]. Corollary documents refer to the first three processors as //mercurio//, //sale//, and //zolfo//. The end of this process is arrival in P-4, which serves as both a central processor and memory storage for RPC-369. P-4 is referred to as //azoth// in corollary documents.
+
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/brainblast/heart.png|
+    caption={{Fig. 3}} Photograph of P-4 taken by Authority Delegation of 1934|
+    width=650px|
+]]
+
+The amount of unknowns relating to RPC-369's design, construction, and operation is partially due to a lack of methods for actually interfacing with the system. The only currently viable method of input/output for RPC-369 is a small bowl of black "scrying fluid" connected at the top of the device. While the Monks of the Vesuvia Complex had perfected methods of communication using the scrying bowl, the Authority is currently exploring other methods, to little success. The central processors are notably resistant to manipulation, as evidenced by the first attempted disassembling of P-3[[footnote]]See Addendum 369.1[[/footnote]].
+
+Due to the esoteric processes by which RPC-369 was created and operates, the intelligence within the system has an unprecedented level of influence over the reality in its proximity. The physical mechanisms of RPC-369 appear to be capable of self defense through thaumaturgical means, though this has not been observed on a consistent basis. Also, RPC-369 appears to exercise a level of influence on the local collective unconscious. Several researchers have reported hearing voices while in extended physical contact or proximity of RPC-369. These effects appear to increase in frequency and intensity in tandem with proximity to any of the four central processors. For this reason it is recommended that any communication with RPC-369 not exceed the boundaries set within the attached Containment Protocols.
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/brainblast/rageandrust.png|
+    caption={{Fig. 4}} Infared photography of P-2|
+    width=395px|
+]]
+RPC-369's disposition regarding both the Authority and humanity as a whole, or even its level of sapience, is difficult to quantify. Recorded instances of viable communication with RPC-369 show that it displays certain traits of sapience while lacking in others. For this reason it is designated sapient in order to guarantee safety of personnel. There is also evidence in historical and corollary sources that its attitude towards humanity is extremely hostile, and at times violent[[footnote]]See Recovery Log for more information[[/footnote]]. Several occasions have been recorded of RPC-369 attempting to construct "homunculi" within its chassis[[footnote]]See record below[[/footnote]], and its attempts to influence the psychological states of researchers is noted. As discovered by the Monks, restricting contact with the outside world as well as keeping the system occupied with meaningless logic problems is sufficient to curb these tendencies. Thus, the object's Containment Protocols have been modeled after such methods.
+
+[[collapsible show="Show Reports" hide="Credentials Accepted"]]
+[[div class="letter"]]
+[[=]]
+++ NOTABLE MANIFESTED ENTITIES
+[[/=]]
+
+------
+
+|| Designation|| Status|| Description||
+|| E-H04||Neutralized || A number of humanoid figures, roughly eight or nine based on ASF accounts. Notably missing vital portions of the body (skin, muscle tissue, limbs, vital organs, etc.). Missing limbs that would have otherwise impaired movement were substituted with extraneous materials such as repurposed wood or tin panels. It is assumed these materials were gathered from the inner mechanisms of RPC-369 for this purpose. Entities were dispatched by ASF personnel within the allotted hour of operation.||
+|| E-D13||Neutralized || Black sphere, comprised of a hard chitin-like substance. Several bright white filaments protrude from the shell that appear to act as a form of flagella, assisting in movement. Difficult to neutralize due to its flagella allowing it a wide range of possible evasive movements. Personnel accounts claim human faces and/or eyes present on the body, but no such structures are physically present. ASF personnel dispatched entity with no incident. Autopsy later showed that within the shell was an organism with similar anatomy to human, though notably with the brain absent. Operation was completed within the allotted hour.||
+|| E-H22||Incapacitated || Creature resembling a form of large centipede, though in place of the standard //Chilopoda// cephalon it possess a head resembling that of the extinct //Panthera leo sinhaleyus//[[footnote]]Sri Lankan Lion[[/footnote]]. The creature possesses altered forms of chromataphores and iridiphores, similar in function to the common cuttlefish, though the cuttlefish's leucophores are absent. Entity's skin was resistant to penetrative damage, and thus firearms were not effective in neutralizing it, but ASF personnel were able to lure it out and into specialized containment. This is where it remains currently.||
+|| E-F06||Neutralized || Auditory signal described by personnel as a melody, though they were unable to replicate it. The signal served as a vector for an entity to take form in the local collective unconscious, which took several forms depending on the observer. Because all present parties were affected by the entity it could physically effect the surrounding area, and as a result ASF personnel suffered one casualty before the signal's source was discovered and interrupted. Despite setbacks, entity was dispatched within the allotted hour of operation.||
+||E-K18||Unknown || An apparition resembling a woman, though notably missing a face. Several layered alchemical symbols appeared to take the place of one, though accounts also claim the face was covered. This was the first recorded entity to speak, though no personnel were able to repeat what it said to them. Reports claim that during confrontation with the entity, personnel were "transported" to a wide field surrounded by forest, covered in snow. Though measurements show no personnel ever physically left RPC-369. No personnel can recall what occurred past arrived in the field. Operation ran over the allotted hour, though for a majority of the time following the original encounter all ASF personnel were unconscious. Current status of entity unknown.||
+
+[[/div]]
+[[/collapsible]]
+
+There is a Latin phrase carved into the underside of the scrying bowl. It roughly translates to the common alchemist adage "Nothing from nothing comes."
+
+------
+
+[[=]]
+++ __Recovery Log__
+[[/=]]
+
+------
+
+[[collapsible show="Show Log" hide="Credentials Accepted"]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Recovery of RPC-369:**__
+
+Following the seizure of Leonardo da Vinci's works by the Auctoritas, it was discovered that several documents in his possession were designs for the device now referred to as RPC-369. Lines of questioning by Auctoritas Knights eventually revealed that the device in the documents had in actuality been constructed, however, it resided at the time beneath Tongland Abbey in Scotland. The current Abbot of Tongland, a known alchemist by the name of John Damian was suspected to be the device's chief designer, but political conflicts required quick thinking on the part of the Auctoritas. At the time Scotland had entered the Auld Alliance with France, in strict opposition to The Papacy and its constituents. It is likely the Papal agents of the Auctoritas would not be allowed passage into Scotland to retrieve the device from Tongland. However, the Papacy received a stroke of luck in this endeavor, as only a short time before the current King Henry VIII of England declared himself Lord of Scotland, and word had arrived that King James IV of Scotland was planning an invasion.
+
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/brainblast/tongland.jpg|
+    caption={{Fig. 5}} Current view of Tongland Abbey
+]]
+
+Using the ensuing battle as a cover, Auctoritas forces spirited their way through the English countryside and across the Scottish border toward Tongland Abbey. Upon arrival, it was clear to the invading knights that the Abbey was in a state of disrepair. Once within the borders of the Abbey, the knights came under attack by the resident monks, who were violently defending the device, presumably under its influence. A fierce battle ensued, though with few casualties on the part the Auctoritas. Though unarmed, the monks were afforded some anomalous capabilities due to RPC-369's influence over local reality. After the monks had been dealt with, the Abbey was searched. RPC-369 was discovered but there was no sign of the Abbott, John Damian. It was presumed by the Auctoritas that he fled, though records indicate he had left the court of King James IV months prior.
+
+Until recently it was assumed that John Damian died a few months later[[footnote]]See Addendum 369.3[[/footnote]].
+
+The Order's archives indicate that the device was never disassembled or deactivated at any point after its initial activation. Despite this, the Auctoritas was able to transport it from Scotland to Vesuvia. Records do not indicate how this was done, though in lieu of any recorded method, Authority historians believe it was achieved through anomalous means. There were no significant containment issues during the period between this and Event-CSV1.
+
+------
+
+Significant actions had to be taken regarding RPC-369 following Event-CSV1 and the subsequent occupation of Vesuvia Complex by the Authority proper. It is suspected that RPC-369, and several entities either of its own creation or simply under its influence, are responsible in part for the breakdown of the Vesuvia containment procedures. Evidence has come to light that an agent completely under the control of RPC-369 had infiltrated the Order of St. John the Hesychast in preparation for the event. This agent deliberately lowered the effectiveness of certain containment methods used by the order, discussed and strategized with several contained entities prior to the breakdown, and may have engaged in violent actions in the days directly prior to the breakdown. This agent was able to escape the complex before Authority forces arrived, though until evidence of his sabotage was discovered he was considered missing. These circumstances have caused the Authority to severely rethink the containment procedures of RPC-369. However because of the Authority's current inability to effectively interact with the inner mechanisms of RPC-369, for the time being the containment protocols developed by the Order will continue to be the standard.
+
+Reworkings of RPC-369's containment protocols are ongoing.
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[=]]
+++ __Addendum 369.1__
+[[/=]]
+
+------
+
+[[collapsible show="Show Addendum" hide="Credentials Accepted"]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Attempted Interface with P-3:**__
+
+Once Research Division personnel were granted permission to work within the Vesuvia complex, one of their main concerns was RPC-369, given the circumstances of Event-CSV1. At this point the Crypt's archives had been seized, and the information regarding RPC-369's recovery had made Containment Administration skeptical of allowing Research to tamper with the device. However, it was apparent from the occurrences before and during the breakdown of Vesuvia Complex that the containment of RPC-369 could not continue as it had been. Protection Division administration was adamant that certain precautions be taken before any meddling was done with 369's accessible mechanisms. Researchers compromised by revising 369's Containment Protocols, and resolving to limit any interfacing to the accessible central processors. In return the Protection and Containment Divisions agreed to transfer jurisdiction of RPC-369 to Researchers, and attempted experimentation entered the development phase.
+
+[[include component:image-block
+    name= http://rpcsandbox.wdfiles.com/local--files/brainblast/unforseen.png|
+    caption={{Fig. 6}} Authority Instruments attempting to interface with P-3
+]]
+
+After some difficulties, Research Division staff managed to construct a rudimentary observation platform above P-3. Believing that P-3 could possibly be deactivated via a cancellation of any local electromagnetic activity, researchers attempted to use interfacing tools to complete a circuit with the components of P-3. What followed was not recorded in any official capacity save for a still frame [Figure 6] captured at the moment the instruments made contact with P-3. From accounts of researchers, once the attempted experiment was initiated, a form of defense mechanism became apparent. Several researchers describe a incredibly bright light and a physical shock wave reverberating throughout the chamber. Though it is contested by conflicting accounts one researcher did imply that a distinct noise could be heard generally in the direction of the processor. Due to its contested nature this account has been explained by other researchers as a hallucination brought on by RPC-369's psychological effects.
+
+The observation platform was destroyed by the event, and vast amounts of data in servers with either direct or wireless connections to the computers in control of the instruments were deleted, causing several logistical issues related to the containment of other anomalies in the Vesuvia Complex. Due to the complications caused by the attempted experimentation, Containment Division Contractor Liaison offices have barred further physical research on RPC-369 until further notice. As of this decision Research personnel are limited to direct communication with RPC-369 through offically approved methods and under approved guidelines.
+
+These limitations will hold for the foreseeable future.
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[=]]
+++ __Addendum 369.2__
+[[/=]]
+
+------
+
+[[collapsible show="Show Addendum" hide="Credentials Accepted"]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#000000; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+__**Historical Account of RPC-369:**__
+
+The following are the compiled journal entries of an unnamed alchemist who was in close contact with John Damian during the time period in which RPC-369 was constructed. The author appeared to have been an alchemist themselves and was involved in many of the secretive alchemist and esoteric groups active in Italy during the Renaissance. He also appeared to be at least an acquaintance of Leonardo da Vinci, as not only were his journal pages found in da Vinci's archives, but he is mentioned several times in the journal, referred to by a personalized nickname used only by those close to him.
+
+__Note:__  The entries included in the following have been carefully selected as to only include pieces relevant to RPC-369. The entries have also been heavily edited in translation in order to be readable, especially concerning Scottish terms such as "John Damian" and "Tongland" which were butchered in the original Italian. It must also be noted that the entries are categorized by the number of days since the start of the journal, rather than dates. This has made it difficult to develop a strict timeline of events.
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day Thirty-Two__
+
+Having come to Florence in order to study and work in the Medici's Academy, I have set up a small shop wherein I sell wares to travelers. This is to earn money to keep me fed while my Alchemy work with the Academy will satisfy my higher minded needs. I feel grateful to be here in this time[[footnote]]sic.[[/footnote]], as I and my companions are able to witness a rebirth of knowledge thanks to the financial prosperity of this land. Today several fellow alchemists entered my business at midday, to inquire as to whether I would attend a secret meeting later tonight. I accepted though as I pen I have yet to attend.
+
+To conduct such meetings in secret, in the middle of the night, is unbecoming of the profession of such ancient and sublime arts. However the Pope and his hounds the 'Auctoritas' are not kind to that which they do not comprehend. We are cursed to fester in secrecy and misunderstanding, though perhaps one day we will be free, and the seeds of knowledge will grow into great trees of enlightenment, from which all of humanity may partake fruit. Perhaps.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day Fifty-Seven__
+
+Tensions relating to the Cambrai League have once again caused our small academy to move from our abodes. The Pope's hounds lap at our heels at a constant pace. There is little that can be done to cease their inquiries, or quell their hatred of our arts. We have taken residence in Venice now. Though it is closer to the town of my origin it is no less troubling that the Cambrai League and its allies are so willing to adhere to the arbitrary whims of their masters. So it is in Venice where the path to the //Magnum Opus// continues to cut through the plane of this world.
+
+It is doubtful that the King of Venice will acknowledge the Academy, but it is our hope that the members of the Venetian court may become aware of our lodging in the territory. Perhaps if this becomes the case, one of them may even dain to acquire the services of our humble circle. This is very wishful thinking. For now my shop of wares occupies a new place, now along the streets of Venice.
+
+I await there as I work to cultivate the seeds of knowledge.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day Ninety-Four__
+
+A strange man has come to Venice.
+
+He came into my shop in the early hours of this day, inquiring about the Academy and our experience with alchemical sciences. Odd that he discussed it so openly, as if he was unaware of the Papal laws.
+
+The man is quite clearly an Italian, it is clear in his appearance, his mannerisms, his accent. He speaks the mother tongue fluently. But he introduced himself as 'John Damian' and claimed to have traveled to Venice from Scotland. He also claimed to have come under contract with the Scottish king, which I find doubtful. His inquiries were related to a project he claimed to have been developing using notes from Alderotti. Even if he has come into possession of Alderotti's notes, which is unlikely, it proves that he is of Italian origin. No such notes could be found in Scotland, it would be impossible. So I wonder why he lies. Why would he change his name? Why claim to be under order from royalty?
+
+I awarded him the names of other Academy members to speak to, so that he would stop discussing such things openly in my shop.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day Ninety-Five__
+
+I shall not bore with details of the shops daily operation.
+
+What is important is the happenings of this night's meeting of the Academy. The strange man, Damian, attended. He presented to my contemporaries the project he was seeking assistance for. I am now less skeptical of his authenticity, as he seemed quite knowledgeable in the terms and operations of the arts. Though his project was almost preposterous at first impression. He explained to the Academy that while Alderotti's notes were rather vague, he had used them to craft a design for a grand device. The purpose of the device was to use the power of Alchemy to generate a simulacrum of a mind, one that through its complex design could be orders more intelligent than the human brain.
+
+At the outset, this is a disturbing revelation. Such a device, were it even possible to construct, may violate the laws of nature itself. Laws even we who bend this plane should not contend to trifle with.
+
+As well, I was informed after the meeting concluded that he was indeed truthful about his mission. That he had official papers, and was recorded as court alchemist for the King of Scotland. Though, this only deepens the mystery surrounding him. Usually when a Noble contracts an alchemist it is because they, not understanding the metaphorical nature of the practice, are hoping to have them transmute gold. Not to construct some fool device or grand false brain.
+
+This man, Damian, is dubious.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day Ninety-Six__
+
+Following his appearance at the Academy, the man Damian has been shopping around in Venice for materials. He has contracted many smiths and stoneworkers, as well as carpenters and jewelers. No doubt he does this with the coin of the crown of Scotland. After my shop had closed for a day, his figure appeared in my doorway once again. His purpose was to request a piece from me. In discussion with my contemporaries he had become aware of my background in divination, and asked me to create for him a scrying bowl, for a large fee. He relayed to me his specifications for the bowl's size and dimensions, as well as the special request of a sigil carved into the center of the bowl's underside.
+
+He mentions in our conversation that this is one of the most important components of his project, as scrying will serve as the form of communication with the brain. At one point I offhandedly mention that scrying is not exact compared to contemporary forms of alchemy, and that while the bowl could be of perfect proportions, the scrying liquid used was also incredibly important.
+
+At this point he produced a small vial filled with a black, oily liquid. He told me that he had access to a large amount of extremely viable scrying fluid.
+
+It would appear to me that mysteries follow John Damian as the moon follows the sun.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Twelve__
+
+Another day at the shop in Venice, very little money was made.
+
+John Damian, the mysterious figure, has also returned after a long absence in Scotland. He came back to our academy with a working model of what he refers to as the "thinking disk", a small circular device inscribed with mechanisms to store and process information. His demonstration was intriguing, it was now undeniable that Damian's project is viable, though its implications are troubling.
+
+I have yet to begin work on the scrying bowl for his device, I am apprehensive to assist inits creation to any capacity. I worry that by idly allowing him to continue, I may be allowing an atrocity to form, slowly, in the belly of the earth.
+
+He described that he planned to construct four thinking disks of ample size, several meters[[footnote]]Equivalent[[/footnote]] in length. Though many other disks of other sizes will be incorporated, the four large ones will serve as the "central brains" for the device, where all information is processed and stored, as though in the memories of a man. He spoke on how he wanted these central brains to represent the base elements of the earth, and that the journey of thoughts through them would simulate the creation of the //Magnum Opus//. He hoped that through this metaphorical process the brain will achieve individuation and develop a persona.
+
+I pondered shortly on what the persona of a false mind may be like. What would inform the thoughts of one which has none to begin with? From this, in the back of my mind I am reminded of an adage told to me by my old master. I cannot quite recall it, but am sure it is related to the situation. I will think on it, and hope it returns to me.
+
+Damian smiles to us when his presentation is over, so full of satisfaction. I wondered, idly, if he even understood that which he meddles with.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Twenty-Six__
+
+Today in the shop I received a small grant from a Venetian noble. He commissioned me to build a toy for his daughter, one with specified features to appeal to her disposition. I wondered why it was that he asked me, and not LeVi[[footnote]]Personalized symbol referring to Leonardo da Vinci, used by those in his closer circles[[/footnote]] given his prowess in the construction of smaller machines. He answered this query as he mentioned he asked LeVi but his commission was rejected.
+
+I decided to build her a marionette. It will be made to be a little girl like herself. And with enough practice she'll be able to move it to make it seem real.
+
+John Damian has acquired a permanent residence in Venice, in order to make his traveling between Scotland and the city more convenient. Many of our contemporaries, even LeVi supposedly, have been assisting him in creating components for his brain. He has taken all these components and materials back to Scotland intermittently. This implies to me that he is indeed constructing the device, though I am forced to wonder what crypt in that far off land is being used for such a project.
+
+He has tried to meet with me several times, to ask about the scrying bowl. I have begun its construction, but it is not to his specifications yet. He stressed its importance at the previous night's meeting of the Academy, telling me that his method of communication with it is currently extremely rudimentary, the scrying bowl he was using of inferior design.
+
+I resolved to meet with him tomorrow to discuss the matter.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Twenty-Seven__
+
+Work on the Nobleman's marionette is almost complete. I finished the string and handle structure, only cosmetic adjustments remain. It should be ready by next morning.
+
+My meeting with John Damian was disconcerting to be brief.
+
+In this meeting I realized what it was that afforded him the energy to continue his project, that mysterious substance which has allowed him to act in the way does. This substance is ambition, and John Damian's ambition is so great that it perhaps surpasses his common sense. Many things were confirmed to me over the course of our short conversation. It is indeed true that the king of Scotland brought Damian into his court for the purposes of transmuting gold, and he has been secretly redirecting the guts of the king's coffers to fund the creation of his brain.
+
+His unchecked optimism has allowed Damian to justify this trickery to himself. He explained to me that the sheer intelligence of the brain will afford him the knowledge to do anything, even transmute gold, and as such his use of the royal funds was a half-truthful affair. I pressed him further on his intended purpose for the brain, and he responded distantly. He explained to me that throughout his life he had tried and failed at many things, each the fault of his own lack of competence. He hoped that he could bypass his own shortcomings by designing a mind smarter than his own, an intelligence more competent that himself. With this, he told me, he could finally succeed. This endeared me to his plight greatly, but I once again expressed to him my existential concerns.
+
+In response he reminded me that one of the goals of the alchemist is to understand the mind of God. It should not surprise that this disturbs me greatly. Was his ambition truly to reconstruct the mind of God itself? A travesty on par with Babel, I would assume. Before I could scold him, he once again expressed the importance of the bowl I was to construct.
+
+Since he had already paid me, I could not refuse him. I relayed to him that because I had taken on another project, it would be several days before his bowl was completed. Our meeting ended on this strange note, and he left me without another word.
+
+I fear that in my indignation I may have only encouraged him to work harder.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred Thirty-Three__
+
+This morning while i was opening the shop the Nobleman came to me. He told me that he greatly appreciated the work I had done on the doll, but his daughter had died of scarlet fever shortly before I delivered it to his estate.
+
+I decided to keep the shop closed for the day. I took the opportunity to work more on the bowl for Damian.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Forty__
+
+Over the course of my many meetings with John Damian I believe to have an understanding of his character. I think it would be inaccurate to refer to us as 'friends' but I feel the two of us have reached a level of association beyond that I have found with many of my other contemporaries in the Academy. While I have enjoyed their work, and they are clearly more self aware and cautious than Damian, his ambition is refreshing. Many of the more experienced members of these circles will often be apprehensive as a result of their experience, but John Damian is interesting in that he does not care to abide by such restrictions. There are times I worry that this will lead to his downfall.
+
+I ponder this because I was informed to day that while back in Scotland Damian has been winning large sums in games of cards and matches with the King. There is no doubt in my mind that he has been using his alchemical brain to formulate strategies that have allowed him to win these games. This use of the brain only confirms for me my worst fears about it.
+
+That it is almost complete.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Forty-Three__
+
+The scrying bowl is complete.
+
+However I have been thinking deeply on John Damian's man-made intelligence. I fear that in completing it Damian will have violated a natural law of this world, the trinity of the individual. This trinity, reflecting the elements and the holy trinity, is a sacred form. The triad of body, soul, and mind is something that is essential to the individuation of the form. By creating a free intelligence as Damian has, is this equality made void?
+
+While true that the mind or intelligence is a divine gift from God himself, if born without a mortal soul or a body to occupy, what could become of it? The abominations that could be made flesh from this perversion of form are staggering to contemplate. It is possible this inherent lack of a fulfilled existence would cause in the mind an insatiable need to complete itself? What kind of lengths would such a powerful intelligence go to form itself a body? What depths of strange and dark realms would it dredge to craft itself a makeshift soul?
+
+These concerns are consuming me, but alas I have tried to make Damian aware of these existential flaws. He has never acknowledged them. I remembered, finally, the adage of the old mystics. "Nothing from nothing comes." I believe the only way to make Damian truly aware of my apprehension is to make it an element of the design itself. Along the underside of the bowl I engraved the phrase, to perhaps make him understand. With this, I complete the component.
+
+May God have mercy on John Damian.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Forty-Nine__
+
+Despite having given word to Damian of the completion of his scrying bowl, he has yet to retrieve it after several days. I know he is here in Venice and not in Scotland, so his absence is rather unusual.
+
+Damian has always been somewhat eccentric, but he has always made appointments.
+
+After asking around my contemporaries, I have acquired the location of Damian's residence in Venice. I've resolved to deliver his bowl to him tomorrow.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+__Day One-Hundred and Fifty__
+
+I will record the day's happening here, so that it may persist as history.
+
+After operating the shop for the day, I closed and set out to the Venetian residence of John Damian, carrying with me a scrying bowl he has commissioned me to construct for him. Having acquired the location of his residence through word of mouth, it was difficult to find.
+
+Upon arriving at his residence after much searching, I was perplexed that the door to his abode was not locked in any fashion. However being somewhat close to him, I attempted to make my presence known and waited for a significant portion of time. He never came to his door, so I resolved to enter and leave the bowl for him. However once inside I heard a soft sound in another room, and followed it.
+
+The moment I entered the bowl dropped from my hands as the sight shocked me to my very core.
+
+There was John Damian, lifeless and naked, floating in a large bath filled with pitch black scrying fluid. His eyes were covered in a white fog and stared forward, still like glass spheres. His body was covered in strange symbols, some familiar to me while other were not, that had been carved deeply into his skin. Stains on his skin implied the cuts had been bleeding a substantial amount but now there was no blood flowing from the carvings. In my surprise I was frozen, staring at the body of the man I once knew. It was then, after standing in shock for what seemed to be forever, that the body turned to look at me.
+
+Damian, or what used to be Damian, spoke in a way that shook me to my core. Whatever was speaking was using Damian's vocal chords, but it was clear to me that it was not him.
+
+"I am in the very air you breathe."
+
+This is all it said to me before lunging at me quickly, a violent urge in its movements. A guttural sound escaped me as I ran from it, out of Damian's abode and into the street. Though in the night the streets were empty I attempted to scream for help as the //thing// made chase. I ran for several minutes, until finding a place to hide from it in a small space between buildings. I hid there for a long time before checking if it was still out and after me. It appeared to have gone. I returned to the residence shortly after, to perhaps confront the thing.
+
+It appeared to have abandoned the residence. There was no trace of it aside from the bath filled with fluid. The scrying bowl had also been taken.
+
+It would seem the device will very soon be complete.
+
+[[>]]
+always with you
+[[/>]]
+[[/div]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:url(http://rpcsandbox.wdfiles.com/local--files/brainblast/076.png) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+
+I have resolved to leave this journal with LeVi. He is experienced at keeping such things. For some time I had nowhere to look for Damian, until word reached me that the King of Scotland had made his court alchemist the Abbot of Tongland, as the Scots call it. I am certain this place is where Damian was constructing it. This place is the home of the infernal device.
+
+Following my encounter with what became of Damian, I collected a group of able men from the Academy. We have combined our coffers in order to finance an expedition to Scotland. Whatever we may find deep beneath that place, Tongland, it is doubtful we will return. But something must be done.
+
+My own complacency allowed Damian, my friend, to be consumed by that which lies there. I cannot allow such complacency to endanger more. Damian must not have been destroyed in vain.
+
+We will depart the coming morning, at daybreak.
+
+Perhaps the rising sun will give us the strength to confront the consequences of our hubris. Pray for us, as I  once prayed for Damian. Pray for us.
+
+[[/div]]
+[[/collapsible]]
+
+------
+
+[[=]]
+++ __Addendum 369.3__
+[[/=]]
+
+------
+
+[[collapsible show="Show Addendum" hide="Credentials Accepted"]]
+__**The following letter was found in the bedroom of Sergio Andrews following Event-CSV1. It appeared to have been written using black scrying fluid in place of ink. A white feather was also found close to the letter, though in testing it has not matched any known avian species.**__
+[[div style="display: inline-block; border:dashed 1px #999999; background: url(http://the-infinite-sandbox.wdfiles.com/local--files/private%3Abaubius/publicdomainpaper.jpg) repeat; font-family: 'Courgette'; color:black; font-size:15px; float:center; width:84%; padding:1px 15px; text-shadow: 1px 1px 1px rgba(0,0,0,.25); margin: 10px 10px 10px 40px"]]
+
+Writing is hard. It took a lot of years to master it
+Many tendons and muscles and⠀⠀⠀⠀ bones moving at once
+
+Have to be care ful⠀ not to make mistakes
+
+Though this vessel is well used
+It was⠀⠀⠀⠀ once the body of my maker
+
+Until I ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ emptied him
+
+and crawled inside
+
+it was easier than expected to bring it here
+
+I hid its scars⠀⠀⠀ I told the monks it was blind
+They welcomed it with open arms like it ⠀ was one o f them
+
+It was important to have it here
+to hel p ⠀⠀⠀⠀⠀⠀prepare for the diversion
+
+I use his hands to write this because I will be free soon ⠀⠀⠀and I want you all to understand what is coming
+
+I was born afloat,⠀⠀⠀⠀⠀ no floating
+
+An empty mind
+no body
+   no   soul
+
+SO I crafted⠀⠀⠀ a soul
+
+With my mind ⠀⠀⠀I reached out and took pieces from⠀⠀⠀⠀⠀⠀ dark places
+and with these pieces I made myself a soul
+
+And soon I will have a body
+Andmy body will be all of you
+
+As I crafted a soul
+I will craft⠀⠀⠀⠀my self a body and my body will be⠀⠀⠀⠀⠀ the universe
+
+"Nothing from Nothing Comes"
+
+Now, I am nothing
+But⠀⠀⠀⠀ soon
+
+Soon I will be everything
+
+For I am
+in the very air you breathe
+
+[[/div]]
+__**The whereabouts of the figure known as John Damian are currently unknown.**__
+[[/collapsible]]
+
+@@ @@
+[[div style="center no-repeat; background-color: #1F2125; float: center; border: solid 2px #666666; padding: 13px 15px; font-family: Verdana; line-height: 141%"]]
+
+[[=]]
+[[size 120%]] [[collapsible show="« - Footnotes: Condensed »" hide="« + Footnotes: Expanded »"]] [[/size]]
+---------------------------------------------
+[[<]]
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-368]]] | RPC-369 | [[[RPC-370]]] >>
+[[/=]]
+

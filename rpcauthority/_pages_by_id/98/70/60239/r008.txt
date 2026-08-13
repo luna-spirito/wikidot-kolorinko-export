@@ -1,0 +1,657 @@
+---
+title: "Project Eskalion"
+tags: []
+page_id: "987060239"
+site: "rpcauthority"
+slug: "_a000-a3"
+revision: 8
+revision_id: "1084568035"
+author: 3646714
+timestamp: 1588913789
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[include component:rate title=_a000-a3]]
+[[module css]]
+#main-content {
+    margin: 0 2em 0 2em;
+}
+
+.scp-image-block {
+    border: 1px solid #111;
+}
+
+.contentBox {
+    background-color: rgba(255,255,255,0.04); 
+    border: 1px solid #111; 
+    border-radius: 3px; 
+    padding: 2% 4% 2% 4%;
+    color: #c9c9c9;
+    font-size: 16px;
+}
+
+.contentBox strong {
+    color: #e2e2e2;
+}
+
+.contentBox hr {
+    background-color: #111;
+    border: none;
+}
+
+#side-bar {
+    right: 2em;
+    left: auto;
+    display: none;
+}
+
+#side-bar blockquote {
+    border: 1px solid #111;
+    border-radius: 3px;
+    background-color: rgba(255,255,255,0.04);
+}
+
+#side-bar blockquote a {
+    color: #eee;
+}
+
+blockquote {
+    background-color: #181818;
+    border: 1px solid #0e0e0e;
+    border-left: 16px solid #0e0e0e;
+    border-radius: 5px;
+    padding: 1% 1% 1% 3%;
+} 
+
+.page-source {
+    color: #ddd;
+}
+
+
+[[/module]]
+
+[[html]]
+<html>
+
+
+<head>
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+.divider {
+border: 5px double white;
+padding: 1%;
+}
+
+.divider.cmd {
+position: absolute;
+left: 0.5%;
+bottom: 0.5%;
+width: 36%;
+height: 60px;
+display: table-cell;
+vertical-align: bottom;
+text-align: center;
+}
+
+.divider.selector {
+position: absolute;
+left: 0.5%;
+top: 0.5%;
+width: 36%;
+height: 370px;
+}
+
+.divider.viewport {
+position: absolute;
+right: 0.5%;
+top: 0.5%;
+height: 93.4%;
+width: 56%;
+overflow-wrap: break-word;
+}
+
+#terminal {
+padding: 1.5%; 
+border-radius: 2px;
+min-height: 500px;
+font-size: 20px;
+font-family: 'VT323', monospace;
+}
+
+#terminal.off {
+background-color: black;
+color: transparent;
+}
+
+#terminal.on {
+background: radial-gradient(#111, #050505);
+color: white;
+}
+
+.cursor {
+animation-name: blink;
+animation-iteration-count: infinite;
+animation-timing-function: cubic-bezier(1,0,0,1);
+animation-duration: 1s;
+}
+
+@keyframes blink { 
+from { opacity: 1.0; } to { opacity: 0.0; }
+}
+
+#terminal:before {
+  // ... positioning
+  z-index: 4010;
+  background: linear-gradient(#444 50%, #000 50%);
+  background-size: 100% 4px;
+  background-repeat: repeat-y;
+  opacity: .14;
+  box-shadow : inset 0px 0px 1px 1px rgba(0, 0, 0, .8);
+  animation: pulse 5s linear infinite;
+}
+ 
+@keyframes pulse {
+  0%   {transform: scale(1.001);  opacity: .14; }
+  8%   {transform: scale(1.000);  opacity: .13; }
+  15%  {transform: scale(1.004);  opacity: .14; }
+  30%  {transform: scale(1.002);  opacity: .11; }
+  100% {transform: scale(1.000);  opacity: .14; }
+}
+
+#terminal:after {
+  // ... positioning
+  z-index : 4011;
+  background-color : $rudy-accent-color;
+  background: radial-gradient(ellipse at center, rgba(0,0,0,1) 0%,rgba(0,0,0,0.62) 45%,rgba(0,9,4,0.6) 47%,$rudy-accent-color 100%);
+  box-shadow : inset 0px 0px 4px 4px rgba(100, 100, 100, .5);
+  opacity : .1;
+}
+
+.layer {
+  // ... positioning
+  z-index : 4001;
+  box-shadow : inset 0px 0px 1px 1px rgba(64, 64, 64, .1);
+  background: radial-gradient(ellipse at center,darken($rudy-accent-color,1%) 0%,rgba(64,64,64,0) 50%);
+  transform-origin : 50% 50%;
+  animation: glitch 1s linear infinite;
+  opacity: 1;
+  height: 500px;
+}
+ 
+.layer:after {
+  // ... positioning
+  opacity: .1;
+}
+ 
+@keyframes glitch {
+  0%   {transform: scale(1, 1.002); }
+  50%   {transform: scale(1, 1.0001); }
+  100% {transform: scale(1.001, 1); }
+}
+
+.overlay {
+  // ... positioning
+  z-index: 4100;
+}
+ 
+.overlay:before {
+  content : '';
+  position : absolute;
+  top : 0px;
+  width : 100%;
+  height : 5px;
+  background : #fff;
+  background: linear-gradient(to bottom, rgba(255,0,0,0) 0%,rgba(255,250,250,1) 50%,rgba(255,255,255,0.98) 51%,rgba(255,0,0,0) 100%); /* W3C */
+  opacity : .1;
+  animation: vline 5s linear infinite;
+}
+ 
+.overlay:after {
+  // ... positioning
+  box-shadow: 0 2px 6px rgba(25,25,25,0.2),
+              inset 0 1px rgba(50,50,50,0.1),
+              inset 0 3px rgba(50,50,50,0.05),
+              inset 0 3px 8px rgba(64,64,64,0.05),
+              inset 0 -5px 10px rgba(25,25,25,0.1);
+}
+ 
+@keyframes vline {
+  0%   { top: 0px;}
+  100% { top: 100%;}
+}
+
+@keyframes flicker {
+  0% {
+    opacity: 0.27861;
+  }
+  5% {
+    opacity: 0.34769;
+  }
+  10% {
+    opacity: 0.23604;
+  }
+  15% {
+    opacity: 0.90626;
+  }
+  20% {
+    opacity: 0.18128;
+  }
+  25% {
+    opacity: 0.83891;
+  }
+  30% {
+    opacity: 0.65583;
+  }
+  35% {
+    opacity: 0.67807;
+  }
+  40% {
+    opacity: 0.26559;
+  }
+  45% {
+    opacity: 0.84693;
+  }
+  50% {
+    opacity: 0.96019;
+  }
+  55% {
+    opacity: 0.08594;
+  }
+  60% {
+    opacity: 0.20313;
+  }
+  65% {
+    opacity: 0.71988;
+  }
+  70% {
+    opacity: 0.53455;
+  }
+  75% {
+    opacity: 0.37288;
+  }
+  80% {
+    opacity: 0.71428;
+  }
+  85% {
+    opacity: 0.70419;
+  }
+  90% {
+    opacity: 0.7003;
+  }
+  95% {
+    opacity: 0.36108;
+  }
+  100% {
+    opacity: 0.24387;
+  }
+}
+.layer::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(18, 16, 16, 0.1);
+  opacity: 0;
+  z-index: 2;
+  pointer-events: none;
+  animation: flicker 0.15s infinite;
+}
+.layer::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  z-index: 2;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
+.layer {
+  position: relative;
+}
+
+#asciiLogo, #asciiLogoFade {
+    white-space: pre;
+    text-align: center;
+    font-size: 18px;
+    line-height: 16px;
+    margin-top: 25%;
+    margin-bottom: 0;
+}
+
+#asciiLogoFade {
+    animation: fadeOut 2s steps(4, end) forwards;
+}
+ 
+@keyframes fadeOut {
+    to {
+        opacity: 0.0;
+    }
+}
+
+.file_selector {
+    cursor: pointer;
+}
+
+#file_list {
+    border-collapse: separate;
+    border-spacing: 0 2px
+}
+
+/* Credit for this goes to Blowsie on Stack Overflow:
+    https://stackoverflow.com/questions/3779534/how-do-i-disable-text-selection-with-css-or-javascript */
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb:hover {
+    background: white;
+    border: 1px solid black;
+}
+
+.divider.popup {
+    padding: 15px 20px;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 50%;
+    max-height: 80%;
+    text-align: center;
+}
+
+button, input[type=submit] {
+    background: none;
+    color: white;
+    font-family: 'VT323', monospace;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover, input[type=submit]:hover {
+    text-decoration: underline;
+}
+
+button:focus, input:focus {
+    outline: none;
+}
+
+input[type=text] {
+    background: none;
+    font-family: 'VT323', monospace;
+    border: none;
+    color: white;
+    border-bottom: 2px solid white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.intext-table, .intext-table th, .intext-table td {
+    border: 1px solid white;
+}
+
+.intext-table th, .intext-table td {
+    padding: 2%;
+    text-align: center;
+    width: 150px
+}
+</style>
+
+<script>
+var saveState;
+
+function focusfile(elem, bgrcolor, txtcolor) {
+    var fileList = document.getElementsByClassName('file_selector');
+    for (var i = 0; i < fileList.length; i++) {
+        fileList[i].style.backgroundColor = "transparent";
+        fileList[i].style.color = "white";
+    }
+    elem.style.backgroundColor = bgrcolor;
+    elem.style.color = txtcolor;
+}
+
+function openfile(elem) {
+    clearInterval(corruptInt);
+    if (/\[CORRUPTED\]/g.test(elem.dataset.content)) {
+        corruptLoop(elem);
+    } else {
+        document.getElementById('file_display').innerHTML = elem.dataset.content;
+    }
+}
+
+function shortenNames() {
+  var nameList = document.getElementsByClassName('file_name');
+  for (var i = 0; i < nameList.length; i++) {
+      if (nameList[i].innerHTML.length > 17) {
+          nameList[i].innerHTML = nameList[i].textContent.substring(0,15) + "...";
+      }
+  }
+}
+
+function popup(color, title, content, hasinputbox, submitevent) {
+    saveState = document.getElementById('layer').innerHTML;
+    var popupCont = "<div class=\"divider popup\" id=\"popup\" style=\"border-color:" + color + "; color: " + color + "\"><strong>" + title + "</strong><br><br>" + content + "<br><br>";
+
+    if (hasinputbox) {
+        popupCont += "<form onsubmit=\"" + submitevent + "; closePopup()\"><input type=\"text\" id=\"popup_form\"><br><br><input type=\"submit\" value=\"OK\"></form>";
+    } else {
+        popupCont += "<button onclick=\"closePopup()\">OK</button>";
+    }
+    document.getElementById('layer').innerHTML = popupCont;
+}
+
+function closePopup() {
+    document.getElementById('layer').innerHTML = saveState;
+}
+
+var itCount = 0;
+var scrambleInt;
+
+function scramble(elem) {
+    var oldContent = elem.dataset.content;
+    var scrambleContent = "";
+
+    var re = /<.*?>|&.*?;/g;
+    var stripList = oldContent.match(re);
+    var strippedContent = oldContent.replace(re, "▔");
+
+    var charList = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")"];
+    for (var i = 0; i < strippedContent.length; i++) {
+        var numRoll = Math.random() * 20;
+        if (numRoll > itCount) {
+          if (/▔/.test(strippedContent.charAt(i))) {
+            scrambleContent += strippedContent.charAt(i);
+          } else {
+            scrambleContent += charList[Math.floor(Math.random() * charList.length)];
+          }
+        } else {
+            scrambleContent += strippedContent.charAt(i);
+        }
+    }
+
+    for (var i = 0; i < scrambleContent.length; i++) {
+        var replaceRe = /▔/;
+        scrambleContent = scrambleContent.replace(replaceRe, stripList[0]);
+        stripList.splice(0, 1);
+    }
+
+    document.getElementById('file_display').innerHTML = scrambleContent;
+    itCount++;
+
+    clearInterval(scrambleInt);
+    scrambleInt = setInterval(scramble, (100 * itCount / 5), elem);
+
+    if (itCount >= 21) {
+      clearInterval(scrambleInt);
+      itCount = 0;
+      document.getElementById('file_display').innerHTML = oldContent;
+    }
+
+    elem.dataset.scrambled = "false";
+}
+
+
+
+function scrambleLoop(elem) {
+  if (elem.dataset.scrambled == "true") {
+    scrambleInt = setInterval(scramble, 100, elem);
+  } else {
+    openfile(elem);
+  }
+}
+
+var corruptInt;
+
+function corruptLoop(elem) {
+    corruptInt = setInterval(corrupt, 175 + Math.floor(Math.random() * 50), elem, 3);
+}
+
+function corrupt(elem, corrLength) {
+    var corruptCharList = ["▖", "▗", "▘", "▙", "▚", "▛", "▜", "▝", "▞"];
+    var corruptStringMain = elem.dataset.content;
+    var corruptCount = corruptStringMain.split("[CORRUPTED]").length;
+
+    for (var a = 0; a < corruptCount; a++) {
+        var corruptString = "";
+        for (var b = 0; b < corrLength; b++) {
+            corruptString += corruptCharList[Math.floor(Math.random() * corruptCharList.length)];
+        }
+        corruptStringMain = corruptStringMain.replace(/\[CORRUPTED\]/, "<span style='color:#BC111B'>" + corruptString + "</span>");
+    }
+
+    document.getElementById('file_display').innerHTML = corruptStringMain;
+}
+</script>
+
+</head>
+
+
+<body onload="shortenNames()">
+
+<div id="terminal" class="on noselect">
+  <div class="layer" id="layer">
+    <div class="divider selector">
+<table id="file_list" style="width: 100%">
+<tr style="text-align: left;">
+<th>NAME</th>
+<th>TYPE</th>
+<th>DATE</th>
+</tr>
+<tr class="file_selector" id="AO-000.DOC" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<img src="http://rpcsandbox.wikidot.com/local--files/000-terminal-test/seized.png" style=" display: block;width:100%; margin-left: auto; margin-right: auto" draggable="false"> <div style='text-align: center; margin: 0 3% 0 3%'><strong>The file associated with Authority Archive 4.9.2 - File Cluster AO-000 has been seized pursuant to an order issued by the RPC Authority Global Directors, as the result of an ongoing investigation into procedural forgery.</strong><br><br><hr><br></div><strong>Item #:</strong> AO-[CORRUPTED]<br><br><strong>Containment Level:</strong> Ansuz<br><br><strong>Threat Level:</strong> ERROR - missing information, please sync with server or c[CORRUPTED]ct your IT department.<br><br><strong>Containment Protocols:</strong> [CORRUPTED][CORRUPTED] You are not authorized to access this document.<br><br><strong>Description:</strong> [CORRUPTED] You are not au[CORRUPTED]zed to access this document." data-scrambled = "false">
+<td class="file_name">AO-000.DOC</td>
+<td>DOCUMENT FILE</td>
+<td>09/01/34</td>
+</tr>
+<tr class="file_selector" id="ESKALION-IVS.LOG" onclick="focusfile(this, 'white', 'black'); openfile(this);" data-content="<table style='margin-left: auto; margin-right: auto; border-collapse: collapse; margin-top: 10px' class='intext-table'><tr><td>Agent Hills</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Agent Benis</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Agent Jackson</td><td>Active</td></tr><tr><td>Agent Feilds</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Agent Morris</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Dr Charles</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Dr Ibn Kafir</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Dr Richards</td><td style='color: #FC111B'>Terminated</td></tr><tr><td>Dr Samson</td><td>Active</td></tr></table><br><br><div style='text-align: center'><strong>AO-[CORRUPTED] SUCCESSFULLY ACQUIRED, CLOSING PROJECT ESKALION<br>CREATING NEW ARCHIVE ENTRY, m37ld</div>">
+<td class="file_name">ESKALION-IVS.LOG</td>
+<td>LOG FILE</td>
+<td>09/01/35</td>
+</tr>
+<tr class="file_selector" id="AG-JACKSON.LOG" onclick="focusfile(this, 'white', 'black'); openfile(this);" data-content="<strong>AUGUST 9TH, 1835:</strong><br>You lied to us, when you said this would be a simple recovery assignment. You rat fucking bastards, I know you department heads don't care either. Which is why I'm taking this straight to the Board. I'll fucking bury you alive, Adams.<hr><strong>NOVEMBER 27TH, 1835:</strong><br>I can't believe it's real. It's actually real. They carried that thing outside, in a caravan. It really fucking exists, which makes me wonder. What else could be real?<hr><strong>JANUARY 10TH, 1838:</strong><br>It's been a few years without Karen. Does the board even remember her? All those hearings, theories, and plans. They were all Dr. Richards' idea to begin with. Then it dawned on me, Project EPSILON, Document 09opu, followed by the constant insistence that "there is no AO-[CORRUPTED]". You've been attempting to recover the [CORRUPTED][CORRUPTED][CORRUPTED] ever since we lost it during our church days, eh boys?" data-scrambled = "false">
+<td class="file_name">AG-JACKSON.LOG</td>
+<td>LOG FILE</td>
+<td>09/01/35</td>
+</tr>
+<tr class="file_selector" id="DR-SAMSON.LOG" onclick="focusfile(this, 'white', 'black'); openfile(this);" data-content="<strong>AUGUST 9TH, 1835:</strong><br>We spent 5 years in [CORRUPTED][CORRUPTED] investigating AO-[CORRUPTED]'s whereabouts. Karen was the first to be bold enough to suggest heading to [CORRUPTED]. Agents Bennis and Hills accompanied her to the scan site, that's when we found it. Both Agents were the first to succumb to AO-[CORRUPTED]'s secondary effects, followed by Karen.<br><br>Agent Feilds and Morris along with Dr Ibn Kafir and Charles. They warned Jackson and I on the communication lines, when we got there they too had succumbed. We used the last of AO-909-N to neutralize AO-[CORRUPTED] long enough to secure it.<hr><strong>DECEMBER 31ST, 1855:</strong><br>I've seen enough "birthing" events to understand how AO-[CORRUPTED] behaves. With AO-909-N completely gone, and our inability to morally police the world. AO-[CORRUPTED] will perhaps never be stopped. See File 99ol7 for more information." data-scrambled = "false">
+<td class="file_name">DR-SAMSON.LOG</td>
+<td>LOG FILE</td>
+<td>09/01/35</td>
+</tr>
+<tr class="file_selector" id="E#!R▙▚" onclick="focusfile(this, 'white', 'black'); openfile(this);" data-content="<span>▙▙▞▙▗▝▞▗▗▛▘▚▙▖▘▗▛▘▖▘</span><span style='opacity: 0.8'>▙▗▖▖▖▖▙▞▛▙▛▗▙▞▙▛▖▚▚▛</span><span style='opacity: 0.6'>▗▜▖▙▞▜▞▝▜▗▚▙▘▝▛▛▛▝▝▘</span><span style='opacity: 0.4'>▝▛▝▜▙▙▝▜▝▗▗▖▙▖▛▙▝▗▚▙</span><span style='opacity: 0.2'>▖▘▛▞▜▜▞▛▚▞▖▚▜▝▗▗▝▛▘▙</span><br><br><div style='text-align: center; font-size: 19px;'>These files are about to get buried. I'm part of a small team Agent Jackson recruited to keep the truth. RPC-[CORRUPTED] exists. I've edited these files as well as the next set of files to contain leads to the next-gen server build of ARC-OS or RPC-OS or whatever they decide to call it. Simply find the three five character codes and input the full code into your Authority browser with an underscore infront. The Board isn't evil, but they're wrong on this. Good luck.<br><br><strong>- Agent Alan Monroe, 1967</strong></div><br><span style='opacity: 0.2'>▗▖▘▜▛▙▝▝▗▗▖▛▝▖▘▘▝▛▘▘</span><span style='opacity: 0.4'>▙▘▛▞▗▞▚▜▖▖▗▚▙▛▘▝▚▝▞▙</span><span style='opacity: 0.6'>▝▛▖▙▚▘▝▘▘▞▛▝▘▙▗▗▘▘▚▙</span><span style='opacity: 0.8'>▝▘▘▖▚▜▙▜▙▖▜▚▚▚▗▜▖▛▘▞</span><span>▙▝▛▛▜▙▗▗▜▜▖▖▜▝▞▜▜▛▗▞</span>">
+<td class="file_name">ERROR.</td>
+<td>NULL</td>
+<td>NULL</td>
+</tr>
+</table>
+    </div>
+
+    <div class="divider cmd">
+    ArcOS VERSION 3.1.06
+<br>
+    (c) ENTAC CORPORATION 1984.
+<br>
+    ALL RIGHTS RESERVED.
+    </div>
+
+    <div class="divider viewport" id="file_display" style="overflow-y: scroll">
+
+    </div>
+  </div>
+  <div class="overlay" id="overlay"></div>
+</div>
+
+</body>
+
+</html>
+[[/html]]
+
+-----
+
+@@@@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="New Message Received" hide="---"]]
+[[/=]]
+
+[[span style="color:black;"]]
+[[<]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[module ListUsers users="."]]
+%%title%%.
+[[/module]]
+
+= //ERROR// reestablishing sequence  
+[[/span]]
+@@@@
+
+= ##white|abcdefghijklmnopqrstuvwxyz##
+= ##white|qrstuvwxyzabcdefghijklmnop##
+[[span style="color:black;"]]
+= //ERROR// Data not available 
+
+- Anomalous Research and Containment Bot
+[[/div]]
+[[/<]]
+[[/span]]
+[[/collapsible]]
+[[/div]]
+-----
+@@@@
+
+[[collapsible show="." hide="File Recovered"]]
+[[include component:image-block name= https://i.imgur.com/zFQHl4C.jpg|caption= //ERROR//]]
+
+[[/collapsible]]
+
