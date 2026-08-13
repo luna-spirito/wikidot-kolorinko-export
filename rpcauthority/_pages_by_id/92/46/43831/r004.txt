@@ -1,0 +1,198 @@
+---
+title: "Return My Islands"
+tags: ["theme"]
+page_id: "924643831"
+site: "rpcauthority"
+slug: "component:return-my-islands"
+revision: 4
+revision_id: "1050998192"
+author: 5255092
+timestamp: 1585195799
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:return-my-islands/code/1);
+[[/module]]
+
+[[code type="css"]]
+:root {
+/* PALLET SHEET */
+ 
+--basic-border: 1px solid #666;
+--basic-border-color: #666;
+--dashed-border: 1px dashed #666;
+ 
+--element-border-radius: 2px;
+ 
+--primary-background: #ffffff;
+--secondary-background: rgba(0,0,0,0.15);
+ 
+--primary-text-color: #3e6aa3;
+ 
+/* BASE COLORS */
+ 
+/* General Elements */
+--text-color: #000000;
+--unmargined-color: var(--primary-text-color);
+--horizontal-rule-background: var(--basic-border-color);
+--action-area-border: var(--dashed-border);
+--alert-info-border: var(--dashed-border);
+--owindow-border: var(--basic-border);
+--tags-border: var(--basic-border);
+--error-color: #f54242; 
+ 
+/* Body */
+--body-background: url('https://media.gettyimages.com/videos/argentina-flag-video-id1126675179?s=640x640') repeat; 
+ 
+/* Footer */
+--footer-background: #14141a;
+ 
+/* Page Content */
+--page-background: none;
+--page-padding: none;
+--page-border: none;
+--page-border-radius: 0;
+ 
+/* Page Title */
+--page-title-color: var(--primary-text-color);
+--page-title-border: var(--basic-border);
+ 
+/* Generic Buttons */
+--button-border: var(--basic-border);
+--button-background: #181d22;
+--button-hover-background: #27415c;
+ 
+/* Header */
+--header-icon: url(https://i1.wp.com/lavozcasilda.com.ar/wp-content/uploads/2018/06/Juan-D.-Per%C3%B3n.png?fit=231%2C218);
+--header-background: url(https://media.gettyimages.com/videos/argentina-flag-video-id1126675179?s=640x640);
+--header-font-weight: bold;
+--header-tagline-font-weight: bold;
+--header-font: default;
+--header-tagline-font: default;
+--header-color: #fff;
+--header-tagline-color: var(--primary-text-color);
+--header-text-visibility: hidden;
+--header-custom-text: 'Viva la Patria';
+--header-tagline-custom-text: 'Fuck You Jacob';
+ 
+/* Search Bar */
+--search-button-background: #1b1f32;
+--search-button-hover-background: #363f64;
+--search-input-hover-border: 1px solid #fff;
+--search-input-hover-color: #fff;
+--search-input-color: #33384d;
+--search-input-hover: #2d3668;
+--search-input-border: 1px solid #999;
+ 
+/* Sidebar */
+--sidebar-divider-color: var(--basic-border-color);
+--sidebar-header-color: var(--primary-text-color);
+--sidebar-hover-background: #https://i1.wp.com/lavozcasilda.com.ar/wp-content/uploads/2018/06/Juan-D.-Per%C3%B3n.png?fit=231%2C218;
+--sidebar-hover-color: #fff;
+--sidebar-mobile-open-menu-color: var(--basic-border-color);
+--sidebar-mobile-open-menu-border: 3px solid var(--basic-border-color);
+--sidebar-mobile-open-menu-background: var(--primary-background);
+--sidebar-mobile-background: var(--primary-background);
+ 
+/* Topbar */
+--topbar-text-color: #aaa;
+--topbar-dropdown-background: #292b30;
+--topbar-hover-background: #2d4975;
+--topbar-divider: 1px solid #2d4975;
+--topbar-dropdown-border-color: var(--basic-border-color);
+ 
+/* Link Colors */
+--link-color: #ff0000;
+--link-hover-color: #ff0000;
+--new-page-color: #626eb2;
+ 
+/* Wikidot Tables */
+--table-header-background: var(--content-bar-background);
+--table-cell-background: var(--primary-background);
+--table-border: none;
+--table-box-shadow: var(--content-box-shadow);
+ 
+/* Tabs */
+--tabview-background: var(--primary-background);
+--tabview-bar-color: #ffffff;
+--tabview-border: none;
+--tabview-button-background: transparent;
+--tabview-button-border: none;
+--tabview-button-selected-background: var(--primary-background);
+--tabview-button-selected-color: var(--text-color);
+--tabview-button-hover-background: var(--secondary-background);
+ 
+/* Footnotes */
+--footnote-border: var(--basic-border);
+--footnote-background: var(--primary-background);
+ 
+/* Table of Contents */
+--toc-border: none;
+--toc-background: var(--primary-background);
+--toc-box-shadow: var(--content-box-shadow);
+ 
+/* Content Panels */
+--content-panel-border-radius: var(--element-border-radius);
+--content-panel-background: var(--primary-background);
+--content-panel-border: none;
+--content-panel-padding: 10px 20px;
+--content-panel-box-shadow: var(--content-box-shadow);
+--content-bar-background: #24272a;
+--content-bar-color: #ffffff;
+--content-box-shadow: 1px 1px 1px 1px #191919;
+--news-block-body-panel-background-even: #1a1c1e;
+ 
+/* Quotes */
+--blockquote-background: var(--secondary-background);
+--blockquote-border: none;
+--blockquote-border-radius: var(--element-border-radius);
+--blockquote-padding: 1px 10px;
+--blockquote-box-shadow: var(--content-box-shadow);
+ 
+/* Image Blocks */
+--image-block-caption-background: var(--content-bar-background);
+--image-block-border: none;
+--image-block-background: var(--primary-background);
+--image-block-box-shadow: var(--content-box-shadow);
+ 
+/* Pager */
+--pager-background: var(--primary-background);
+ 
+/* Rating Modules */
+--star-rating-background: var(--primary-background);
+--star-rating-border: none;
+--star-rating-reading-background: #111;
+--star-rating-on: url(http://www.rpc-wiki.net/local--files/component:icons/star-on.png);
+--star-rating-half: url(http://www.rpc-wiki.net/local--files/component:icons/star-half.png);
+--star-rating-off: url(http://www.rpc-wiki.net/local--files/component:icons/star-off.png);
+--binary-rating-background: var(--primary-background);
+--binary-rating-border: none;
+ 
+/* Text Inputs */
+--text-box-form-background: #ffffff;
+--text-box-form-border: 1px solid #2c3340;
+ 
+/* Forum Threads */
+--forum-thread-background: var(--primary-background);
+--forum-thread-border: var(--basic-border);
+--forum-thread-border-radius: var(--element-border-radius);
+ 
+/* Forum Categories */
+--forum-category-background-even: #1a1c1e;
+--forum-category-background-odd: var(--primary-background);
+ 
+/* Code Blocks */
+--code-background: #111;
+--code-border: var(--dashed-border);
+ 
+/* Account Options */
+--account-options-background: var(--primary-background);
+--account-options-border: var(--basic-border);
+ 
+/* Template Block */
+--template-block-border: 2px solid #ffffff;
+--template-block-background: #ffffff;
+
+}
+[[/code]]
+

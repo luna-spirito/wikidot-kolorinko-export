@@ -1,0 +1,160 @@
+---
+title: "AnomalousDucky's Author Page"
+tags: ["author-page"]
+page_id: "920886160"
+site: "rpcauthority"
+slug: "anomalousducky-s-author-page"
+revision: 27
+revision_id: "971665835"
+author: 5640120
+timestamp: 1572269486
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+.quote{
+    border: 2px dashed #666;
+    color: #ccc;
+    background-color: #111;
+    display: inline-block;
+    margin: auto;
+    width: 84%;
+    padding: 15px;
+}
+[[/module]]
+
+[[=]]
++ ##2650eb|Welcome to my author page!##
+[[/=]]
+
+[[=]]
+++ ##2650eb|I am AnomalousDucky. I create simple CSS edits and RPC articles.##
+[[/=]]
+
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #fff;"]]
+
+[[div class="quote"]]
+[[collapsible show="Mainsite Pages" hide="Hide"]]
+[[*user AnomalousDucky]]
+++++ __RPCs__
+[[module ListPages created_by="AnomalousDucky" separate="no" tags="rpc rpc-j -_author-page-hide" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Other Content__
+[[module ListPages created_by="AnomalousDucky" separate="no" tags="alternative-content -_author-page-hide" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+
+++++ __Acquired Media__
+
+[[=]]
+
+[[[acquired-media:p-424 | P-424]]]
+
+[[[acquired-media:p-397 | P-397]]]
+
+[[/=]]
+
+[[/collapsible]]
+[[/div]]
+
+[[/div]]
+
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #fff;"]]
+
+[[=]]
+[[div class="quote"]]
+[[collapsible show="Sandbox Pages" hide="Hide"]]
+
+[http://rpcsandbox.wikidot.com/anomalousducky Draft Sandbox]
+
+[http://rpcsandbox.wikidot.com/anomalousducky-finished-scrapped-drafts Finished / Scrapped Drafts]
+
+[http://rpcsandbox.wikidot.com/component:77theme Site-077 Theme]
+
+[http://rpcsandbox.wikidot.com/damien-co-theme Damien Co Theme]
+
+[http://rpcsandbox.wikidot.com/all-my-pages And more!]
+[[/div]]
+[[/=]]
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #fff;"]]
+
+[[div class="quote"]]
+[[collapsible show="Lesser Object Contributions" hide="Hide"]]
+[[=]]
+
++ ##2650eb|LO-119##
+
+[[div class="content-panel standalone series"]]
+**Designation:** LO-119
+
+**Description:** A .3 x .3 x .3 meter 'Rubix Cube' bearing an immeasurable amount of densely packed cubes.
+
+**Site Location:** Site-077's low risk anomalous object storage wing.
+
+**Properties:** The value of cubes LO-119 possesses constantly changes, with it's average amount being around 85,000. Subjects attempting to 'solve' LO-119 report an inability to do so, and begin to experience intense emotional distress when met with failure.
+[[/div]]
+
+----
+
+[[/=]]
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #fff;"]]
+
+[[div class="quote"]]
+[[collapsible show="CSS Contributions" hide="Hide"]]
+[[=]]
+++ ##2650eb|Damien Co Theme##
+
+[http://rpcsandbox.wikidot.com/damien-co-theme Link]
+
+**Made with [http://www.scp-wiki.net/css-theme-preparation-tool CSS Theme Preparation Tool]**
+
+Logo by [[*user TheOfficialOvermind]]
+
+You can add this to your articles with this code:
+
+**[[include :rpcsandbox:damien-co-theme]]**
+(W/O asterisks)
+
+++ ##2650eb|Site-077 Theme##
+
+Another theme made by the one and only [http://www.scp-wiki.net/css-theme-preparation-tool CSS Theme Preparation Tool].
+
+[http://rpcsandbox.wikidot.com/component:77theme Link]
+
+You can add this to your articles with this code:
+**[[include :rpcsandbox:component:77theme]]**
+(W/O asterisks)
+
+**CURRENTLY GETTING REWORKED.**
+[[/=]]
+[[/div]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[=]]
+[[embed]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eAObPkzGLTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[[/embed]]
+[[/=]]
+
+[[=]]
+**Not my video, but this guy makes a lot of cool stuff.**
+[[/=]]
+

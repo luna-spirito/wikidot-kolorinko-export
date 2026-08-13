@@ -1,0 +1,148 @@
+---
+title: "Анти-мем"
+tags: []
+page_id: "834739131"
+site: "obscurative"
+slug: "draft:warning"
+revision: 81
+revision_id: "881303982"
+author: 3477739
+timestamp: 1562776256
+---
+
+[[module CSS]]
+a:visited {
+    color: #487a7a;
+}
+
+
+/* HEADER */
+#header {
+    height: 140px;
+    position: relative;
+    z-index: 10;
+    padding-bottom: 30px; /* FOR MENU */
+    background: url(http://organization-phoenix.wdfiles.com/local--files/sklad-files/LogoPhoenix) 10px 35px no-repeat;
+}
+
+#header h1 a {
+    content: "Учреждение ``Феникс``";
+}
+
+#header h1 a::before {
+    content: "Учреждение ``Феникс``";
+}
+
+#header h1 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+
+#header h2 {
+    margin-left: 120px;
+    padding: 0;
+    clear: left;
+    float: left;
+    font-size: 105%;
+    max-height: 38px;
+}
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+#header h2 span::before {
+    content: "Последнее пристанище человечества";
+    display: block;
+    margin: 0;
+    padding: 0px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: #f0f0c0;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+
+
+.page-rate-widget-start > * {
+  filter: hue-rotate(139deg) brightness(60%);
+}
+[[/module]]
+[[Module Rate]]
+@@@@
+[[=]]
+[[div class="rimg"]]
+[[image http://organization-phoenix.wdfiles.com/local--files/sklad-files/0099 width="600" ]]
+[[/div]] 
+[[/=]]
+[[=]]
+[[collapsible show="Открыть файл данных объекта ХХ" hide="Закрыть файл"]]
+[[/=]]
+[[<]]
+
+[[=]]
+[[span style="font-size: 110%; color:#487a7a;"]]**- [БЛОКИРОВКА СНЯТА] -**[[/span]]
+[[span style="font-size: 110%; color:#487a7a;"]]Протокол ALEPH-5/451-0 деактивирован[[/span]]
+[[/=]]
+@@@@
+**##2F4F4F|Категория:##** ##487a7a|Трасреальный##
+
+**##2F4F4F|Уровень угрозы:##** ##487a7a|Офаним##
+
+**##2F4F4F|Уровень изоляции:##** ##487a7a|2##
+
+----
+
+**Меры предосторожности:** 
+
+**Описание:** 
+
+@@@@
+----
+[[div style="border-radius: 0px; border: #2F4F4F solid 3px; background-color: #dffff3; padding: 0 15px 0 15px;"]]
+[[=]]
+[[span style="font-size: 110%; color:#487a7a;"]]**Инцидент**[[/span]]
+[[/=]]
+
+**##2F4F4F|Тутуту##**, 
+----
+[[=]]
+[[div class="rimg"]]
+[[image http://organization-phoenix.wdfiles.com/local--files/sklad-files/0098 width="600" ]]
+[[/div]] 
+[[/=]]
+
+[[/div]]
+@@@@
+----
+[[div style="border-radius: 0px; border: #2F4F4F solid 3px; background-color: #dffff3; padding: 0 15px 0 15px;"]]
+[[=]]
+[[span style="font-size: 110%; color:#487a7a;"]]**Бред**[[/span]]
+[[/=]]
+
+[[>]]
+//**##2F4F4F|С-8##**//
+[[/>]]
+----
+[[=]]
+[[div class="rimg"]]
+[[image http://organization-phoenix.wdfiles.com/local--files/sklad-files/0097 width="600" ]]
+[[/div]] 
+[[/=]]
+
+[[/div]]
+
+[[/<]]
+@@@@
+[[<]]
+[[footnoteblock title="Дополнительная информация"]]
+[[/<]]
+[[/collapsible]]
+

@@ -1,0 +1,228 @@
+---
+title: "Интерактивный рассказ"
+tags: []
+page_id: "787379310"
+site: "obscurative"
+slug: "archive:game"
+revision: 205
+revision_id: "943930855"
+author: 4518363
+timestamp: 1567941128
+---
+
+[!--[[module CSS]]
+#side-bar {
+  display: none;
+}
+#main-content {
+  margin: 0;
+}
+[[/module]]--]
+[[html]]
+<!-- CSS -->
+
+<style>
+body {
+  font: 0.8em Verdana, arial, helvetica,sans-serif
+}
+li {
+  padding: 5px;
+}
+#content {
+  position: relative;
+  height: 200px;
+}
+#text {
+  width: 95%;
+  height: 100%;
+  float: left;
+  border: solid black 1px;
+  box-sizing: border-box;
+  padding: 10px;
+  overflow-y: scroll;
+  resize: vertical;
+  list-style-type: "\25bc";
+  border-radius: 5px;
+  margin: 0;
+}
+#text > * {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+#text > li {
+  margin-left: 11px;
+}
+#text > *, #buttons li {
+  transition: 2s all ease-in-out;
+  opacity: 0;
+}
+
+#buttons {
+  list-style-type: "\25b6";
+}
+#psych {
+  float: right;
+  width: 4%;
+  height: 100%;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: linear-gradient(white 0%, orange 10%);
+  background-repeat: no-repeat; 
+  background-position-y: 100px;
+  transition: 4s all cubic-bezier(.22,.61,.36,1);
+</style>
+
+<!-- HTML -->
+
+<div>
+  <div id="content">
+    <ul id="text">
+    </ul>
+    <div id="psych">
+    </div>
+  </div>
+  <ul id="buttons">
+  </ul>
+</div>
+
+<!-- JS -->
+<script>
+var text = document.getElementById("text");
+var buttons = document.getElementById("buttons");
+var url = "http://pandora-university.wdfiles.com/local--files/draft%3Agame/";
+var psych = document.getElementById("psych");
+var psych_health = 50;
+var loc = {};
+function _log(elem) {
+  let scroll = text.scrollTop == text.scrollTopMax;
+  let available = true;
+  if(!scroll && typeof text.scrollTo === 'undefined') {
+    available = false;
+    let temp = text.scrollTop;
+    text.scrollTop += 1;
+    if(temp == text.scrollTop)
+      scroll = true;
+    text.scrollTop -= 1;
+  }
+  text.appendChild(elem);
+  if(scroll)
+    if(available)
+      text.scrollTo({
+        top: text.scrollTopMax,
+        behavior: "smooth"
+      });
+    else
+      text.scrollTop = text.scrollHeight;
+  setTimeout(function() {elem.style.opacity = 1;}, 50);
+}
+function log(msg) {
+  let elem = document.createElement("p");
+  elem.innerHTML = msg;
+  _log(elem);
+}
+function talk(branch) {
+  let prev_speaker = "";
+  let speaker = "";
+  dialog = branch.text;
+  if(typeof dialog === 'string')
+    dialog = [dialog];
+  let i = 0;
+  let aff = branch.psych;
+  if(typeof aff === "number")
+    psych_add(aff);
+  function repeat() {
+    let val = dialog[i];
+    if(typeof val === 'object') {
+      if(val[0] === '-') {
+        let temp = speaker;
+        speaker = prev_speaker;
+        prev_speaker = temp;
+      } else {
+        prev_speaker = speaker;
+        speaker = val[0];
+      }
+      val = val[1];
+    }
+    let msg = "";
+    if(speaker != "")
+      msg = speaker+": ";
+    msg = msg+val;
+    log(msg);
+    i++;
+    if(i>=dialog.length) {
+      addButtons(branch.responses);
+    } else
+      setTimeout(repeat, val.length*4);
+  }
+  setTimeout(repeat, 100);
+}
+function load(id) {
+  let xhr;
+  let timeout;
+  function post() {
+    xhr = new XMLHttpRequest()
+    xhr.open("GET", url+id+".json");
+    xhr.timeout = 3000;
+    xhr.ontimeout = function() {alert("timeout!"); setTimeout(post, 0);};
+    xhr.addEventListener("loadend", end);
+    ///xhr.responseType="json";
+    xhr.send();
+  }
+  function end() {
+    clearTimeout(timeout);
+    if(xhr.status == 200) {
+      loc = JSON.parse(xhr.responseText);
+      talk(loc);
+    } else {
+      setTimeout(post, 0);
+    }
+  }
+  post();
+}
+
+function addButtons(options) {
+  if(typeof options === "undefined")
+    return;
+  if(!Array.isArray(options))
+    options = [options];
+  for(let i = 0; i < options.length; i++) {
+    let option = options[i];
+    let button = document.createElement('button');
+    button.addEventListener("click", function() {select(option);});
+    button.innerHTML = option.response;
+    let li = document.createElement("li");
+    li.appendChild(button);
+    buttons.appendChild(li);
+    setTimeout(function() {li.style.opacity = 1;}, 50);
+  }
+}
+
+function select(response) {
+  buttons.innerHTML = "";
+  let elem = document.createElement("li");
+  elem.innerHTML = response.response;
+  _log(elem);
+  setTimeout(function() {talk(response);}, 400);
+}
+
+function psych_add(val) {
+  psych_upd(psych_health+val*2);
+}
+
+function psych_upd(val) {
+  psych_health = val;
+  let col;
+  if(val >= 66) {
+    col = "green";
+  } else if (val <= 33) {
+    col  = "red";
+  } else {
+    col  = "orange";
+  }
+  psych.style["background-position-y"]= (100-val)*2+"px";
+}
+
+load("start");
+</script>
+[[/html]]
+

@@ -1,0 +1,53 @@
+---
+title: "_contesty"
+tags: []
+page_id: "924603669"
+site: "rpcauthority"
+slug: "_contesty"
+revision: 19
+revision_id: "1295811797"
+author: 3118961
+timestamp: 1595901515
+---
+
+[[module listpages order="rating desc" tags="cair-aisling -collaboration" separate="no"]]
+# %%rating%% %%rating_decimal%% (%%rating_votes%% votes) %%title_linked%%
+[[/module]]
+
+[[module listpages order="rating desc" tags="cair-aisling-art" separate="no"]]
+# %%rating%% %%rating_decimal%% (%%rating_votes%% votes) %%title_linked%%
+[[/module]]
+
+[!--
++ Writing Submissions
+
+[[module ListPages separate="no" category="*" tags="+cair-aisling -hub -collaboration -donotshowupinmodule" perPage="100" order="created_at desc"]]
+@@* [[size 110%]][[[@@%%fullname%%|%%title%%@@]]][[/size]] [[size 105%]]//by// **@@%%created_by%%@@**[[/size]]@@
+[[/module]]
+
++ Art Submissions
+
+[[module ListPages separate="no" category="*" tags="+cair-aisling-art -hub -collaboration -donotshowupinmodule" perPage="100" order="created_at desc"]]
+@@* [[size 110%]][[[@@%%title%%@@]]][[/size]] [[size 105%]]//by// **@@%%created_by%%@@**[[/size]]@@
+[[/module]]
+
++ Writing Submissions
+
+* [[size 110%]][[[dreaming-of-being-a-pirate-part-1|Dreaming of being a Pirate]]][[/size]] [[size 105%]]//by// **Excer**[[/size]]
+* [[size 110%]][[[RPC-190]]][[/size]] [[size 105%]]//by// **JimmyBoyHaha**[[/size]]
+* [[size 110%]][[[Sirensong]]][[/size]] [[size 105%]]//by// **Fortunae**[[/size]]
+* [[size 110%]][[[RPC-360]]][[/size]] [[size 105%]]//by// **Agent Eldritch**[[/size]]
+* [[size 110%]][[[The Battle Below the Mouldering Spire]]][[/size]] [[size 105%]]//by// **PhoenixOfHope**[[/size]]
+* [[size 110%]][[[caseouverture|Case OUVERTURE]]][[/size]] [[size 105%]]//by// **Von Pincier**[[/size]]
+* [[size 110%]][[[RPC-448]]][[/size]] [[size 105%]]//by// **Almarduk**[[/size]]
+* [[size 110%]][[[RPC-433]]][[/size]] [[size 105%]]//by// **TheGreatTarbolin69**[[/size]]
+* [[size 110%]][[[RPC-370]]][[/size]] [[size 105%]]//by// **GibbyFuckingDies**[[/size]]
+* [[size 110%]][[[four-pages-preface|Four Pages Forming a Preface]]][[/size]] [[size 105%]]//by// **Von Pincier**[[/size]]
+* [[size 110%]][[[frost-bitten-chapter-1-frostbreath|Frostbreath]]][[/size]] [[size 105%]]//by// **Big Mark**[[/size]]
+
++ Art Submissions
+
+* [[size 110%]][[[8ismo Cair Aisling Art Gallery]]][[/size]] [[size 105%]]//by// **8ismo**[[/size]]
+* [[size 110%]][[[Vizlox Cair Aisling Art]]][[/size]] [[size 105%]]//by// **Vizlox**[[/size]]
+--]
+
