@@ -1,0 +1,120 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 197
+revision_id: "904477902"
+author: 3477739
+timestamp: 1566142694
+---
+
+[[module Rate]]
+[[=]]
+Theme by [[*user Rieraf]]
+[[/=]]
+**Category:** Biological
+
+**Threat level:** Ishim
+
+**Isolation level:** 5
+
+**Precautionary measures:** Object 058 is contained in a containment chamber modified to meet the needs of object. The containment chamber must be maintained at a constant cleanliness. 2 attendants should clean containment chamber from blood and other contaminants every 3 hours. At least 1 employee must always be near object to monitor of him status. If 058 complains about pain, the employee should immediately inject 5 ml of morphine intravenously into object.
+
+In event of fainting caused by the loss of a large amount of blood, 058 should immediately be delivered to medical building.[[footnote]] Text [[/footnote]]
+
+**Description:** Object 058 has the outward appearance of a Mongoloid male of around 8 years of age. In the center of the body 058 there is a hole with a diameter of 10 cm. The heart of object, as well as parts of him other organs, is absent. Role of the heart was taken by the muscles and blood vessels of object, which is why its body constantly pulsates. _
+
+> Quote
+>> Quote
+
+-----
+[[footnoteblock]]
+[[=]]
+<< [[[object-057|057]]] | 058 | [[[object-059|059]]] >>
+[[/=]]
+
+[[Module CSS]]
+
+#header #login-status :not(a) {
+color: #aaa;
+}
+
+#header {
+ Background: #2f3136;
+}
+
+#header h1 a, #header h1 a:hover {
+ color: #bb0001;
+} 
+
+#content-wrap, #container-wrap-wrap {
+ Background: #2f3136;
+ Color: #c0c0c0;
+}
+
+a {
+color:#bb0001;
+}
+a:hover {
+color:#5f0001;
+}
+a:visited {
+color:#bb0001;
+}
+a.newpage {
+color:#6d4343;
+}
+a.newpage:hover {
+color:#6d4343;
+text-decoration:underline;
+}
+
+side hr {
+ Background-color: #000;
+}
+
+hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+
+#top-bar {
+ Background-color: #1e2124;
+}
+
+#side-bar hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+ 
+#side-bar {
+ border: solid 1px #888;
+ border-radius: 8px;
+ margin-left: 15px;
+ margin-right: 20px;
+ color: #bb0001;
+}
+
+#side-bar a {
+ color: #c0c0c0;
+}
+
+.rate-module-stars {
+    background-color: #bb0001 !important;
+}
+ 
+.page-rate-widget-start img {
+ filter: hue-rotate(170deg);
+}
+
+blockquote {
+ border: solid 1px #888;
+ background: #1e2124;
+ border-radius: 0;
+ color: #c0c0c0;
+}
+
+[[/module]]
+

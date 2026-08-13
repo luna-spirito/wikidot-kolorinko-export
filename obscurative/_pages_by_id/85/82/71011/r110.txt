@@ -1,0 +1,127 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 110
+revision_id: "904470414"
+author: 3477739
+timestamp: 1566120388
+---
+
+[[div class="content-panel"]]
+
+[[div class="headline"]]
+[[=]]
+{{ЗАГОЛОВОК}}
+[[/=]]
+----
+[[/div]]
+[[div style="overflow: auto"]]
+[[div class="content-toc"]]
+**Оглавление**
+Текст
+Текст
+Текст
+[[/div]]
+
+Текст
+Текст[[footnote]] Текст [[/footnote]]
+Текст
+[[/div]]
+-----
+
+Текст
+Текст
+[[[Object-098|Ссылка]]]
+
+[[div class="panel-footer"]]
+[[footnoteblock]]
+[[/div]]
+
+[[/div]]
+
+[[div class="sublists"]]
+
+[[div class="content-panel" style="width: 45%; padding: 15px;"]]
+[[=]]
+[[# non-canon]]
++ Неканоничные объекты
+[[/=]]
+----
+[[>]]
+##gray|Суффикс: -NC##
+[[/>]]
+
+Неканонические объекты хоть и нарушают какие-либо аспекты канона Университета, но это не означает, что они должны быть написаны менее качественно или быть несерьёзными.
+
+[[module ListPages category="_default" separate="no" tags="Объект +Неканон" perPage="50" order="fullname"]]
+* %%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+[[/div]]
+
+[[div class="content-panel" style="width: 45%; padding: 15px;"]]
+[[=]]
+[[# joke]]
++ Шуточные объекты
+[[/=]]
+----
+[[>]]
+##gray|Суффикс: -J##
+[[/>]]
+
+Шуточные объекты следует воспринимать менее серьёзно, чем все остальные объекты. Шуточные объекты существуют для того, что бы веселить читателей.
+
+[[module CSS]]
+.listresize {
+  font-size: inherit !important;
+}
+[[/module]]
+
+[[module ListPages category="_default" separate="no" tags="Объект +Шуточный" perPage="50" order="fullname"]]
+* %%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+[[/div]]
+
+[[/div]]
+
+
+
+
+
+
+
+[[Module CSS]]
+
+#side-bar hr {
+ height: 1px;
+ background: #000;
+ margin: 10px 40px 10px 40px;
+}
+
+
+
+/*===========================================*/
+
+div.headline {
+ font-size: 350%;
+ font-weight: bold;
+ margin: 2px 0 5px;
+}
+
+div.headline hr {
+ margin-bottom: 0;
+}
+
+.sublists {
+  display: flex;
+}
+
+.sublists > * {
+  flex-grow: 1;
+}
+[[/module]]
+

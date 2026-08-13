@@ -1,0 +1,82 @@
+---
+title: "_o2gjz9s0"
+tags: ["aep", "non-canon", "supplemental"]
+page_id: "409356475"
+site: "rpcauthority"
+slug: "_o2gjz9s0"
+revision: 3
+revision_id: "518815697"
+author: 4583766
+timestamp: 1544744980
+---
+
+[[module css]]
+#page-title {display: none;}
+[[/module]]
+[[html]]
+<style>
+@import url('http://rpcsandbox.wikidot.com/terminal-style-aep/code/1');
+/* importing because im lazy */
+
+.term-link {
+    color: white;
+    text-decoration: none;
+}
+
+.term-link:active, .link-inactive {
+    color: black;
+    background-color: white;
+}
+</style>
+
+<div id="terminal" class="on">
+<div class="layer">
+ALERT: YOU ARE ATTEMPTING TO ACCESS THE AEP DATA STREAM WOULD YOU LIKE TO CONTINUE?<br><br>
+<div id="choice-block">
+<a class="term-link" href="#" onclick="document.getElementById('choice-block').innerHTML = '<span class=\'link-inactive\'>YES</span><br><br>'; document.getElementById('typing-block').innerHTML = '> '; textDisplayLoop();">YES</a> | <a class="term-link" href="#" onclick="window.parent.location.href = 'http://rpc-wiki.net/rpc-series';">NO</a> | <a class="term-link" href="#" onclick="displayInfo();">INFORMATION</a>
+</div>
+<div id="typing-block">
+</div>
+</div>
+</div>
+
+<script defer>
+var listOfStrings = ["03 CONNECTED","05 CONNECTED","05: I believe that worked as intended.","03: Pfft, easy peasy sell them a little sob story and they eat it up.","05: Indeed.","03: God you are so robotic sometimes.","05: Indeed. That tends to happen when one has removed many of the frailties you humans seem to have and replaced them with perfect machines.","03: You say that and all I hear is beep boop.","05: Hmmm... have you seen 01?","03: Nah last I spoke with him he was dealing with personal business whatever that means.","05: Perhaps it would be best not to pry?","03: Oh but my dear robot Prying is exactly what I do!","01 CONNECTED","01: All right I think the excuse worked.","03: Oh heya 01 took you long enough where were you.","01: I don't believe that is any of your business.","05 what is our time frame on project Ethos","05: Everything remains on track which is rather surprising considering how much trouble 02 caused.","01: Good, make sure the next guy put in charge of it has a little bit more mental fortitude then 02 had.","05: Indeed.","03: Yes that would be a smart idea.","01: so tell me 03, you think anyone outside of the council has any idea what's going on?","03: Doubtful, that little fluff piece you released seems to have relaxed everyone. ”I sure am helping!” what fools.","01: Perfect. Anything else I should know about?","03: Nope.","05: No.","01: Dismissed.","03 DISCONNECTED","05 DISCONNECTED","01: Not too long now.","01 DISCONNECTED", "CONNECTION TERMINATED"
+
+];
+
+var infoText = "<br>The AEP datastream is a secure data communications network utilized by the G5s.";
+var infoTextShown = false;
+
+var i = 1;
+var a = 0;
+
+function displayInfo() {
+    if (infoTextShown == false) {
+        document.getElementById('typing-block').innerHTML = infoText;
+        infoTextShown = true;
+    } else {
+        document.getElementById('typing-block').innerHTML = '';
+        infoTextShown = false;
+    }
+}
+
+function textDisplayLoop() {
+    if (a < listOfStrings[i-1].length) {
+        var speed = Math.floor(Math.random()*1) + 10;
+        document.getElementById('typing-block').innerHTML += listOfStrings[i-1].charAt(a);
+        a++;
+        setTimeout(textDisplayLoop, speed);
+    } else if (a == listOfStrings[i-1].length) {
+        if (i < listOfStrings.length) {
+            a = 0;
+            i++;
+            document.getElementById('typing-block').innerHTML += "<br><br>> "
+            setTimeout(textDisplayLoop, 10);
+        }
+    }
+}
+</script>
+
+[[/html]]
+

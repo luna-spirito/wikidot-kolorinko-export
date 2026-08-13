@@ -1,0 +1,61 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 150
+revision_id: "904475402"
+author: 3477739
+timestamp: 1566136197
+---
+
+[[module Rate]]
+
+Текст
+Текст
+Текст
+-----
+Текст
+Текст
+Текст
+
+[[Module CSS]]
+
+#content-wrap, #container-wrap-wrap {
+ Background: #2f3136;
+ Color: #c0c0c0;
+}
+
+#content-wrap a, #container-wrap-wrap a {
+ color: #bb0001;
+}
+
+hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+
+#top-bar {
+ Background-color: #1e2124;
+}
+
+#side-bar hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+ 
+#side-bar {
+ border: solid 1px #888;
+ border-radius: 8px;
+ margin-left: 15px;
+ margin-right: 20px;
+ color: #bb0001;
+}
+
+#side-bar a {
+ color: #c0c0c0;
+}
+
+[[/module]]
+

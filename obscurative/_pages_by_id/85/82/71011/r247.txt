@@ -1,0 +1,279 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 247
+revision_id: "904491751"
+author: 3477739
+timestamp: 1566188650
+---
+
+[[module Rate]]
+[[=]]
+Theme by [[*user Rieraf]]
+[[/=]]
+
+[[include :organization-phoenix:include:image-block name=http://organization-phoenix.wdfiles.com/local--files/sklad-files/LogoSetPrimse.png|caption=Object 058 in infirmary.|width=250px]]
+
+**Category:** Biological
+
+**Threat level:** Ishim
+
+**Isolation level:** 5
+
+**Precautionary measures:** Object 058 is contained in a containment chamber modified to meet the needs of object. The containment chamber must be maintained at a constant cleanliness. 2 attendants should clean containment chamber from blood and other contaminants every 3 hours. At least 1 employee must always be near object to monitor of him status. If 058 complains about pain, the employee should immediately inject 5 ml of morphine intravenously into object.
+
+In event of fainting caused by the loss of a large amount of blood, 058 should immediately be delivered to infirmary.[[footnote]] Text [[/footnote]]
+
+**Description:** Object 058 has the outward appearance of a Mongoloid male of around 8 years of age. In the center of the body 058 there is a hole with a diameter of 10 cm. The heart of object, as well as parts of him other organs, is absent. Role of the heart was taken by the muscles and blood vessels of object, which is why its body constantly pulsates. _
+> Quote
+>> Quote
+
+[[div class="content-panel"]]
+Text
+Text
+Text
+[[/div]]
+-----
+[[footnoteblock]]
+[[=]]
+<< [[[object-057|057]]] | 058 | [[[object-059|059]]] >>
+[[/=]]
+
+[[tabview]]
+[[tab FFF]]
+Text
+[[/tab]]
+[[tab GGG]]
+Text
+[[/tab]]
+[[/tabview]]
+
+[[Module CSS]]
+
+#header #login-status * {
+color: #aaa;
+}
+
+#header #login-status a {
+color: #bb0001;
+}
+
+#header {
+ Background: transparent;
+}
+
+#header h1 a, #header h1 a:hover {
+ color: #bb0001;
+ margin-left: 2em;
+} 
+
+#content-wrap, #container-wrap-wrap {
+ Background: #2f3136;
+ Color: #c0c0c0;
+}
+
+#header {
+  background: linear-gradient(#232529 8px, #2f3136 40em);
+}
+
+#content-wrap {
+  background: linear-gradient(#232529 8px, #2f3136 40em);
+}
+
+a {
+color:#bb0001;
+}
+a:hover {
+color:#5f0001;
+}
+a:visited {
+color:#bb0001;
+}
+a.newpage {
+color:#6d4343;
+}
+a.newpage:hover {
+color:#6d4343;
+text-decoration:underline;
+}
+
+side hr {
+ Background-color: #000;
+}
+
+hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+
+#top-bar {
+ Background-color: #151618;
+}
+
+#side-bar hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+ 
+#side-bar {
+ border: solid 1px #888;
+ border-radius: 8px;
+ margin-left: 15px;
+ margin-right: 20px;
+ color: #bb0001;
+}
+
+#side-bar a {
+ color: #c0c0c0;
+}
+
+.rate-module-stars {
+    background-color: #bb0001 !important;
+}
+ 
+.page-rate-widget-start img {
+ filter: hue-rotate(170deg);
+}
+
+blockquote {
+ border: solid 1px #888;
+ background: #1e2124;
+ border-radius: 0;
+ color: #c0c0c0;
+}
+
+#top-bar li ul li a {
+background: #1e2124;
+color: #c0c0c0;
+border: solid 1px #151618;
+box-shadow: 0;
+}
+
+#footer {
+background: #1e2124;
+}
+
+/*========================================*/
+
+div.content-panel {
+ padding: 15px;
+ margin: 15px 5px;
+ border: solid 1px #888888;
+ border-radius: 10px;
+ background-color: #1e2124;
+ box-shadow: 0 0 0 0 #1e2124;
+}
+
+div.content-panel hr {
+ background-color: #c0c0c0;
+}
+
+div.content-panel .left-column {
+ float: left;
+}
+div.content-panel .right-column {
+ float: right;
+}
+
+div.content-panel .panel-footer {
+ padding: 1px 10px;
+ color: #c0c0c0;
+ font-size: 100%
+ font-weight: bold;
+}
+
+div.content-panel .panel-footer a {
+ color: #c0c0c0;
+}
+
+div.content-panel .content-toc {
+ float: right;
+ padding: 0 20px;
+ background-color: #1e2124;
+ border: solid 1px #888888;
+ border-radius: 5px;
+ margin: 20px 0 5px 5px;
+ white-space: nowrap;
+}
+
+/*========================================*/
+
+
+.yui-navset .yui-content {
+background: #2f3136;
+}
+
+.yui-navset .yui-nav .selected a {
+ background: #bb0001;
+}
+
+.yui-navset .yui-nav .selected a:hover {
+ background: #bb0001;
+}
+
+/*========================================*/
+
+.image-block {
+    border: solid 1px #1e2124;
+    box-shadow: 0 1px 4px rgba(0,0,0,.25);
+    width: 300px;
+}
+ 
+.image-block.block-right {
+        float: right;
+    clear: right;
+    margin: 0 2em 1em 2em;
+}
+ 
+.image-block.block-left {
+    float: left;
+    clear: left;
+    margin: 0 2em 1em 0;
+}
+ 
+.image-block.block-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+.image-block img {
+    border: 0;
+    width: 300px;
+}
+.image-block .image-caption {
+    background-color: #1e2124;
+    border-top: solid 1px #1e2124;
+    padding: 2px 0;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+color: #c0c0c0;
+}
+
+.image-block > p {
+    margin: 0;
+}
+.image-block .image-caption > p {
+    margin: 0;
+    padding: 0 10px;
+}
+
+[[/module]]
+
+[[Module Css]]
+#header > h1:before {
+  content: "";
+  background: url("http://organization-phoenix.wdfiles.com/local--files/sklad-files/LogoSetPrimse.png") no-repeat;
+  background-size: contain;
+  display: inline-block;
+  position: absolute;
+  width: 4em;
+  height: 4em;
+  left: -2em;
+  bottom: -1.5em;
+}
+[[/Module]]
+

@@ -1,0 +1,29 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 114
+revision_id: "904471088"
+author: 3477739
+timestamp: 1566122338
+---
+
+[[Module CSS]]
+
+#top-bar {
+ Background-color: #888;
+}
+
+#side-bar hr {
+ height: 1px;
+ background: #000;
+}
+ 
+#side bar {
+ border: solid 2px;
+ border-radius: 10px;
+ background: #ccc;
+[[/module]]
+
