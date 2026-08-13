@@ -1,0 +1,21 @@
+---
+title: "Интерактивный рассказ"
+tags: []
+page_id: "787379310"
+site: "obscurative"
+slug: "archive:game"
+revision: 4
+revision_id: "832412771"
+author: 4518363
+timestamp: 1557071742
+---
+
+[[module CSS]]
+#side-bar {
+  display: none;
+}
+#main-content {
+  margin: 0;
+}
+[[/module]]
+

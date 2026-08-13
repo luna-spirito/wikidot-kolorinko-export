@@ -1,0 +1,42 @@
+---
+title: "Интерактивный рассказ"
+tags: []
+page_id: "787379310"
+site: "obscurative"
+slug: "archive:game"
+revision: 5
+revision_id: "832483502"
+author: 4518363
+timestamp: 1557072318
+---
+
+[[module CSS]]
+#side-bar {
+  display: none;
+}
+#main-content {
+  margin: 0;
+}
+[[/module]]
+[[html]]
+<!-- CSS -->
+
+<style>
+#over {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.25);
+}
+</style>
+
+<!-- HTML -->
+
+<div>
+  <div id="over">
+    Hello.
+  </div>
+</div>
+[[/html]]
+

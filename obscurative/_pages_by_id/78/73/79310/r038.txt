@@ -1,0 +1,108 @@
+---
+title: "Интерактивный рассказ"
+tags: []
+page_id: "787379310"
+site: "obscurative"
+slug: "archive:game"
+revision: 38
+revision_id: "833504709"
+author: 4518363
+timestamp: 1557080588
+---
+
+[!--[[module CSS]]
+#side-bar {
+  display: none;
+}
+#main-content {
+  margin: 0;
+}
+[[/module]]--]
+[[html]]
+<!-- CSS -->
+
+<style>
+#over {
+  display: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+#over-text {
+  display: table-cell;
+  vertical-align: middle;
+}
+#text {
+  height: 200px;
+  width: 100%;
+  border: solid black 1px;
+  box-sizing: border-box;
+}
+</style>
+
+<!-- HTML -->
+
+<div>
+  <div id="over">
+    <div id="over-text">
+      Hello.
+    </div>
+  </div>
+  <div id="content">
+    <div id="text">
+    </div>
+    <div id="buttons">
+    </div>
+  </div>
+</div>
+
+<!-- JS -->
+
+<script>
+var buttons = document.getElementById("buttons");
+var url = "http://university-of-pandora.wdfiles.com/local--files/draft%3Agame/";
+var location = {};
+function log(msg) {
+  console.log(msg);
+  alert(msg);
+}
+function talk(dialog) {
+  alert("test!");
+  let speaker = "";
+  if(typeof dialog === 'string')
+    dialog = [dialog];
+  for(let i = 0; i < dialog.length; i++) {
+    let val = dialog[i];
+    if(typeof val === 'object') {
+      speaker = val[0];
+      val = val[1];
+    }
+    let msg = "";
+    if(speaker != "")
+      msg = speaker+": ";
+    log(msg+val);
+    alert("works!");
+  }
+}
+function load(loc) {
+  let xhr = XMLHttpRequest.open("GET", url+loc+".json", false);
+  alert("1");
+  function req() {
+    alert("executing");
+    xhr.send();
+    if(xhr.status == 200) {
+      location = JSON.parse(xhr.responseText);
+      talk(location.description);
+    } else
+      setTimeout(req, 500);
+  }
+  req();
+}
+
+load("start");
+</script>
+[[/html]]
+

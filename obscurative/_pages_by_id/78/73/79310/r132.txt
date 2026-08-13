@@ -1,0 +1,170 @@
+---
+title: "Интерактивный рассказ"
+tags: []
+page_id: "787379310"
+site: "obscurative"
+slug: "archive:game"
+revision: 132
+revision_id: "834933451"
+author: 4518363
+timestamp: 1557228899
+---
+
+[!--[[module CSS]]
+#side-bar {
+  display: none;
+}
+#main-content {
+  margin: 0;
+}
+[[/module]]--]
+[[html]]
+<!-- CSS -->
+
+<style>
+body {
+  font: 0.8em Verdana, arial, helvetica,sans-serif
+}
+#over {
+  display: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+#over-text {
+  display: table-cell;
+  vertical-align: middle;
+}
+#text {
+  height: 200px;
+  width: 100%;
+  border: solid black 1px;
+  box-sizing: border-box;
+  padding: 10px;
+  overflow-y: scroll;
+  margin-bottom: 20px;
+  resize: vertical;
+}
+#text p {
+    margin-top: 0;
+}
+#text p, #buttons li {
+  transition: 2s all ease-in-out;
+  opacity: 0;
+}
+
+#buttons {
+  list-style-type:square;
+}
+</style>
+
+<!-- HTML -->
+
+<div>
+  <div id="over">
+    <pre id="over-text">
+      Hello.
+    </div>
+  </div>
+  <div id="content">
+    <div id="text">
+    </div>
+    <ul id="buttons">
+    </u>
+  </div>
+</div>
+
+<!-- JS -->
+<script>
+var text = document.getElementById("text");
+var buttons = document.getElementById("buttons");
+var url = "http://university-of-pandora.wdfiles.com/local--files/draft%3Agame/";
+var loc = {};
+function log(msg) {
+  let elem = document.createElement("p");
+  elem.innerHTML = msg;
+  let scroll = text.scrollTop == text.scrollTopMax;
+  text.appendChild(elem);
+  if(scroll)
+    text.scrollTop = text.scrollTopMax;
+  setTimeout(function() {elem.style.opacity = 1;}, 50);
+}
+function talk(branch) {
+  let speaker = "";
+  dialog = branch.text;
+  if(typeof dialog === 'string')
+    dialog = [dialog];
+  let i = 0;
+  function repeat() {
+    let val = dialog[i];
+    if(typeof val === 'object') {
+      speaker = val[0];
+      val = val[1];
+    }
+    let msg = "";
+    if(speaker != "")
+      msg = speaker+": ";
+    msg = msg+val;
+    log(msg);
+    i++;
+    if(i>=dialog.length) {
+      addButtons(branch.responses);
+    } else
+      setTimeout(repeat, val.length*2);
+  }
+  setTimeout(repeat, 100);
+}
+function load(id) {
+  let xhr;
+  let timeout;
+  function post() {
+    xhr = new XMLHttpRequest()
+    xhr.open("GET", url+id+".json");
+    xhr.timeout = 3000;
+    xhr.ontimeout = function() {alert("timeout!"); setTimeout(post, 0);};
+    xhr.addEventListener("loadend", end);
+    ///xhr.responseType="json";
+    xhr.send();
+  }
+  function end() {
+    clearTimeout(timeout);
+    if(xhr.status == 200) {
+      loc = JSON.parse(xhr.responseText);
+      talk(loc);
+    } else {
+      setTimeout(post, 0);
+    }
+  }
+  post();
+}
+
+function addButtons(options) {
+  if(typeof options === "undefined")
+    return;
+  if(!Array.isArray(options))
+    options = [options];
+  for(let i = 0; i < options.length; i++) {
+    let option = options[i];
+    let button = document.createElement('button');
+    button.addEventListener("click", function() {select(option);});
+    button.innerHTML = option.response;
+    let li = document.createElement("li");
+    li.appendChild(button);
+    buttons.appendChild(li);
+    setTimeout(function() {li.style.opacity = 1;}, 50);
+  }
+}
+
+function select(response) {
+  buttons.innerHTML = "";
+  log(response.response);
+  setTimeout(function() {talk(response);}, 0);
+}
+
+load("start");
+</script>
+[[/html]]
+

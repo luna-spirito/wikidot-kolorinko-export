@@ -1,0 +1,77 @@
+---
+title: "Интерактивный рассказ"
+tags: []
+page_id: "787379310"
+site: "obscurative"
+slug: "archive:game"
+revision: 19
+revision_id: "833194820"
+author: 4518363
+timestamp: 1557077849
+---
+
+[!--[[module CSS]]
+#side-bar {
+  display: none;
+}
+#main-content {
+  margin: 0;
+}
+[[/module]]--]
+[[html]]
+<!-- CSS -->
+
+<style>
+#over {
+  display: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+#over-text {
+  display: table-cell;
+  vertical-align: middle;
+}
+#text {
+  height: 200px;
+  width: 100%;
+  border: solid black 1px;
+  box-sizing: border-box;
+}
+</style>
+
+<!-- HTML -->
+
+<div>
+  <div id="over">
+    <div id="over-text">
+      Hello.
+    </div>
+  </div>
+  <div id="content">
+    <div id="text">
+    </div>
+    <div id="buttons">
+    </div>
+  </div>
+</div>
+
+<!-- JS -->
+
+<script>
+var buttons = document.getElementById("buttons");
+var url = "";
+function isString(str) {
+  return typeof str === 'string';
+}
+function log(msg) {
+  
+}
+function load() {
+}
+</script>
+[[/html]]
+
