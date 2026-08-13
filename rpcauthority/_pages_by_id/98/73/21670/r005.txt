@@ -1,0 +1,41 @@
+---
+title: "Two Sides Of Creation"
+tags: ["alternative-content", "art", "sub-vesuvia-art"]
+page_id: "987321670"
+site: "rpcauthority"
+slug: "two-sides-of-creation"
+revision: 5
+revision_id: "1035439333"
+author: 4433848
+timestamp: 1581876713
+---
+
+[[module css]]
+
+@import url(http://www.rpc-wiki.net/component:sub-vesuvia-theme/code/1);
+
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[module CSS]]
+
+.email2 {
+
+     background: url(https://cdn.discordapp.com/attachments/557728455471661063/589683621775015956/result_4.png);
+     background-size: 285px 285px;
+     background-position: center;
+     background-repeat: no-repeat;
+     border: solid 2px #000000;
+     width: 570px;
+     padding: 1px 15px;
+     margin: 10px 10px 10px 40px;
+     box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+[[/module]]
+
+
+[[include component:rate]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/two-sides-of-creation/due%20vinci.jpg]]
+

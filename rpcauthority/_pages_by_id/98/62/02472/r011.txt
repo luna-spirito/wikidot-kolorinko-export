@@ -1,0 +1,124 @@
+---
+title: "Sub Vesuvia Theme"
+tags: ["theme"]
+page_id: "986202472"
+site: "rpcauthority"
+slug: "component:sub-vesuvia-theme"
+revision: 11
+revision_id: "1046909577"
+author: 3118961
+timestamp: 1582579066
+---
+
+[[module CSS]]
+@import url(/component:sub-vesuvia-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+
+/*
+Sub Vesuvia Theme
+
+Created by Vizlox for the RPC Authority Sub Vesuvia writing event
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cantata+One&display=swap');
+
+:root {
+    --primary-text-color: #d32d2d;
+    --body-background: #2f2929;
+    --basic-border: 1px solid #5c3e3e;
+    --basic-border-color: #5c3e3e;
+
+    --table-border: 1px solid #3d2929;
+ 
+    --header-background: url(http://www.rpc-wiki.net/local--files/component:sub-vesuvia-theme/RedHeader.png);
+    --header-icon: url(http://www.rpc-wiki.net/local--files/component:sub-vesuvia-theme/RedLogo.png);
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Sub Vesuvia';
+    --header-tagline-custom-text: 'The Crypt is Opening';
+    --header-tagline-font: 'Kaushan Script';
+    --header-font: 'Cantata One';
+    --header-tagline-color: #000;
+ 
+    --nav-hover-background: #753f3f;
+ 
+    --header-color: #954c4c;
+ 
+    --content-bar-background: #312121;
+ 
+    --link-color: #e25151;
+    --link-hover-color: #f57171;
+    --new-page-color: #924f4f;
+
+    --search-button-background: #321b1b;
+    --search-button-hover-background: #643636;
+    --search-input-color: #4d3333;
+    --search-input-hover: #682d2d;
+    --star-rating-hue: 135deg;
+    
+    --primary-background: #221d1d;
+
+    --news-block-body-panel-background-even: #1e1a1a;
+
+    --button-border: 1px solid #402c2c;
+    --button-background: #221818;
+    --button-hover-border: 1px solid #5c2727;
+    --button-hover-background: #5c2727;
+
+    --text-box-form-background: #221818;
+    --text-box-form-border: 1px solid #402c2c;
+
+    --sidenote-closed-background: #2f2323;
+    --sidenote-open-background: var(--content-bar-background);
+
+    --WT-primary-text-color: #d32d2d;
+
+    --WT-header-background: url(http://www.rpc-wiki.net/local--files/component:sub-vesuvia-theme/RedHeader.png);
+    --WT-header-icon: url(http://www.rpc-wiki.net/local--files/component:sub-vesuvia-theme/RedLogo.png);
+    --WT-header-text-visibility: hidden;
+    --WT-header-custom-text: 'Sub Vesuvia';
+    --WT-header-tagline-custom-text: 'The Crypt is Opening';
+    --WT-header-tagline-font: 'Kaushan Script';
+    --WT-header-font: 'Cantata One';
+    --WT-header-tagline-color: #000;
+ 
+    --WT-nav-hover-background: #ca4444;
+     --WT-topbar-hover-background: #ca4444;
+    
+    --WT-header-color: #954c4c;
+    --WT-content-bar-background: #d0c0c0;
+
+    --WT-link-color: #be2424;
+    --WT-new-page-color: #924f4f;
+
+    --WT-search-button-background: #321b1b;
+    --WT-search-button-hover-background: #643636;
+    --WT-search-input-color: #4d3333;
+    --WT-search-input-hover: #682d2d;
+
+    --WT-button-background: #fee;
+    --WT-button-hover-background: #e05454;
+
+    --WT-sidenote-figure-open-color: #fff;
+    --WT-sidenote-closed-background:  #ca4444;
+    --WT-sidenote-open-background: var(--content-bar-background);
+    
+    --WT-open-themes-background: #221d1d;
+    --WT-open-themes-hover-color: #e25151;
+    --WT-open-themes-hover-border: solid 2px #e25151;
+    
+    --WT-star-rating-background: var(--basic-border-color);
+    --WT-star-rating-border: var(--basic-border);
+    --WT-star-rating-border-radius: 0;
+    --WT-star-rating-box-shadow: none;
+    --WT-star-rating-stars-box-shadow: none;
+    --WT-star-rating-hue: 315deg;
+    --WT-star-rating-filter: hue-rotate(var(--WT-star-rating-hue));
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+

@@ -1,0 +1,70 @@
+---
+title: "RPC-628"
+tags: ["aquatic-hazard", "auditory-hazard", "beta", "emotional-hazard", "extra-terrestrial-hazard", "neutralized", "orange", "organic-hazard", "regenerative-hazard", "rpc", "sapient-hazard", "sub-vesuvia", "titanic-hazard", "toparticle"]
+page_id: "987323965"
+site: "rpcauthority"
+slug: "rpc-628"
+revision: 85
+revision_id: "1048032633"
+author: 2947029
+timestamp: 1583296252
+---
+
+[[module CSS]]
+
+#page-title {
+
+  display: none;
+
+}
+
+
+
+.meta-title {
+
+  border-bottom: solid 1px #5c3e3e;
+
+  color: #d32d2d;
+
+  font-weight: bold;
+
+  margin: 0 0 0.6em;
+
+  padding: 0 0 0.25em;
+
+  font-size: 200%;
+
+}
+
+
+
+.meta-title p {
+
+  margin: 0;
+
+}
+
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[module CSS]]
+
+@import url(http://www.rpc-wiki.net/component:sub-vesuvia-theme/code/1);
+
+[[/module]]
+
+[[include component:rate one=show]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+
+[[div class="meta-title"]]
+%%title%%
+[[/div]]
+
+%%content%%
+[[/module]]
+
+[[=]]
+<< [[[RPC-627]]] | RPC-628 | [[[RPC-629]]] >>
+[[/=]]
+
