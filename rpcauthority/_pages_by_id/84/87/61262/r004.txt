@@ -1,0 +1,709 @@
+---
+title: "The Observer Section"
+tags: ["bluebook", "eoi-tale", "fail-safe", "gear", "tale", "translated", "unaac"]
+page_id: "848761262"
+site: "rpcauthority"
+slug: "the-observer-section"
+revision: 4
+revision_id: "901587633"
+author: 5258122
+timestamp: 1565575742
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]The Observer Section[[/span]]
+
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/component:new-theme/code/1);
+[[/module]]
+
+[[module css]]
+#page-title {display: none;}
+#side-bar {display: none;} 
+#main-content {margin: 0 2em;} 
+[[/module]]
+[[module css]]
+@import url(http://rpcsandbox.wikidot.com/bluebook-theme/code/1);
+[[/module]]
+
+[[include component:rate title=the-observer-section]]
+
+General Trygve Lie sat on his chair, focused on reading a report that he got from one of his men. They were assigned to monitor the situation of a large reptilian creature, witnessed by one of the satellites as it left the smoldered remains of the Authority's Site-014. Apart of him wanted what the satellites saw to be completely false, a mistake caused by radiation interference, even though he knew that wasn't a thing. The monitor on his terminal told him a different story. 
+
+Feeling as if he had gotten all the information he needed for the report, the uneasy general walked out of his office. 
+
+"General Lie!" The General's second in command was waiting outside of his office, standing in attention as the man opened the door to leave. 
+
+"As you were. Now, tell me why you're here?" The General was of an older breed, short white hair, just over 6 feet tall, and still in good shape. 
+
+"The UNAAC is holding a meeting." The General towered above Michelle Pearce, his the over-eager Lieutenant-General. She was of the newer breed, short hair, and in good shape. 
+
+"What does that have to do with us?" Blue Book rarely got involved in what the UNAAC did, which is why he was not going to attend. 
+
+"I heard rumors that they know who was behind the detonation of that nuke in Nevada"
+
+"Unless whatever terror group did it has access to spaceships, it does not concern us."
+
+"A little birdie may have told the Russian government about the Authority's AEGIS, which may or may not be brought up in the meeting, but I can't confirm that."
+
+"Perhaps I will attend it then. Though you shouldn't just give out incriminating information to governments for no reason" The General said as he made his way down the hall, towards the meeting room in which the UNAAC meets. 
+
+"The Russians offered the little birdie some additional funding if the bird gave them more information on the incident." 
+
+"I think that is called 'taking a bribe' if I am not mistaken." The General did not like this type of political game. 
+
+"Considering what the report said about the large reptile leaving the blast site. I think we, the little birdie, will need the extra funding" She said, although hated to admit it.
+
+Two security officials stood in front of the doors that lead to the meeting room. They were well built and firm.
+
+"Apologies sir, but this area is restricted." The security official on the left stated.
+
+General Trygve took out a laminated piece of paper, no bigger than a trading card, from his pocket and showed it the two security officials. "You know the rules of being a representative of a non-member state, right?"
+
+The man on the right glanced at the paper, and at General Trygve.
+
+"You may not speak unless asked to, and you may not vote."
+
+General Trygve embraced what the security officer said, though he felt agitated by it.
+
+Both of the security officials opened the door, catching the attention of the other representatives as General Trygve revealed himself entering the room.
+
+"It's nice to see Blue Book deciding to show up, please take your seats at the observation area." The Speaker glared at General Trygve as he entered, not impressed by the time of the General's arrival.
+
+"This [http://www.rpc-wiki.net/awakening-hell-s-gate meeting is now in session.]" The Speaker said as she banged her gavel twice.
+
+= ...
+
+The meeting was uninteresting, the Russians only beat around the bush in their attempt to bring up the AEGIS to the Authority. And with the main reason for his attention to the meeting passed, General Lie zoned out for the remainder of the talking. 
+
+After it was adjourned, the General made his way to Jennifer Smith, the representative for GEAR. 
+
+"Hello Jennifer, it's been a while"
+
+"What business do you have with GEAR?" Jennifer went straight to the point. 
+
+"I need a status update on those actuators that we hired you to develop"
+
+The president of GEAR was visibly distressed from this question, "I actually have the files for those in my briefcase, we actually completed the project, and the files in my briefcase are the blueprints. But a few weeks back the UNAAC passed a motion prohibits the sale of blueprints developed by para-companies to individuals or groups that are not direct members of the UNAAC, or directly approved by them. This includes observer organizations, like Project Blue Book."
+
+The General sighed, "of course they did something like this... Just give me the blueprints, I'll deal with the fallout."
+
+Jennifer examined her options, thinking about Blue Book and its position to the UNAAC. She knew that Blue Book was technically a higher power than the UNAAC, and she knew that Blue Book paid really well. "Alright," The president of the para-company opened her briefcase and handed the General a rather large file that used elastic bands to keep papers from falling out. 
+
+The General took the file back to his office where Pearce was waiting patiently, "What happened?" She was curious about the meeting the General had left. 
+
+"Nothing interesting, the Russians failed to do much with what the 'little birdie' gave them."
+
+"That's a shame. Say, what's that your holding?"
+
+"The blueprints for the last piece to the TitanX. I just need to send it to the SRB so they can finalize the design, then we will get the EMB to begin production." The General smiled as he entered his office. He removed the elastic bands from the folder and began to scan them, one at a time, with the device that others would often mistake for a printer on his desk. The process took a little of half an hour, but after the scanning was complete he put the papers back in order in the folder and sent it to the archives. 
+
+He sent the file he made with the scanned papers to the part of SRB where it was needed. He then looked at the report of the oversized lizard he left on his desk during the UNAAC meeting. "Now the weapon we designed specifically to kill oversized Xenos like you, has its last piece." The Head General couldn't help but smile as he said this. 
+@@@@
+@@@@
+[[html]]
+<html>
+
+
+<head>
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+.divider {
+border: 5px double white;
+padding: 1%;
+}
+
+.divider.cmd {
+position: absolute;
+left: 0.5%;
+bottom: 0.5%;
+width: 36%;
+height: 60px;
+display: table-cell;
+vertical-align: bottom;
+text-align: center;
+}
+
+.divider.selector {
+position: absolute;
+left: 0.5%;
+top: 0.5%;
+width: 36%;
+height: 370px;
+}
+
+.divider.viewport {
+position: absolute;
+right: 0.5%;
+top: 0.5%;
+height: 93.4%;
+width: 56%;
+overflow-wrap: break-word;
+}
+
+#terminal {
+padding: 1.5%; 
+border-radius: 2px;
+min-height: 500px;
+font-size: 20px;
+font-family: 'VT323', monospace;
+}
+
+#terminal.off {
+background-color: black;
+color: transparent;
+}
+
+#terminal.on {
+background: radial-gradient(#111, #050505);
+color: white;
+}
+
+.cursor {
+animation-name: blink;
+animation-iteration-count: infinite;
+animation-timing-function: cubic-bezier(1,0,0,1);
+animation-duration: 1s;
+}
+
+@keyframes blink { 
+from { opacity: 1.0; } to { opacity: 0.0; }
+}
+
+#terminal:before {
+  // ... positioning
+  z-index: 4010;
+  background: linear-gradient(#444 50%, #000 50%);
+  background-size: 100% 4px;
+  background-repeat: repeat-y;
+  opacity: .14;
+  box-shadow : inset 0px 0px 1px 1px rgba(0, 0, 0, .8);
+  animation: pulse 5s linear infinite;
+}
+ 
+@keyframes pulse {
+  0%   {transform: scale(1.001);  opacity: .14; }
+  8%   {transform: scale(1.000);  opacity: .13; }
+  15%  {transform: scale(1.004);  opacity: .14; }
+  30%  {transform: scale(1.002);  opacity: .11; }
+  100% {transform: scale(1.000);  opacity: .14; }
+}
+
+#terminal:after {
+  // ... positioning
+  z-index : 4011;
+  background-color : $rudy-accent-color;
+  background: radial-gradient(ellipse at center, rgba(0,0,0,1) 0%,rgba(0,0,0,0.62) 45%,rgba(0,9,4,0.6) 47%,$rudy-accent-color 100%);
+  box-shadow : inset 0px 0px 4px 4px rgba(100, 100, 100, .5);
+  opacity : .1;
+}
+
+.layer {
+  // ... positioning
+  z-index : 4001;
+  box-shadow : inset 0px 0px 1px 1px rgba(64, 64, 64, .1);
+  background: radial-gradient(ellipse at center,darken($rudy-accent-color,1%) 0%,rgba(64,64,64,0) 50%);
+  transform-origin : 50% 50%;
+  animation: glitch 1s linear infinite;
+  opacity: 1;
+  height: 500px;
+}
+ 
+.layer:after {
+  // ... positioning
+  opacity: .1;
+}
+ 
+@keyframes glitch {
+  0%   {transform: scale(1, 1.002); }
+  50%   {transform: scale(1, 1.0001); }
+  100% {transform: scale(1.001, 1); }
+}
+
+.overlay {
+  // ... positioning
+  z-index: 4100;
+}
+ 
+.overlay:before {
+  content : '';
+  position : absolute;
+  top : 0px;
+  width : 100%;
+  height : 5px;
+  background : #fff;
+  background: linear-gradient(to bottom, rgba(255,0,0,0) 0%,rgba(255,250,250,1) 50%,rgba(255,255,255,0.98) 51%,rgba(255,0,0,0) 100%); /* W3C */
+  opacity : .1;
+  animation: vline 5s linear infinite;
+}
+ 
+.overlay:after {
+  // ... positioning
+  box-shadow: 0 2px 6px rgba(25,25,25,0.2),
+              inset 0 1px rgba(50,50,50,0.1),
+              inset 0 3px rgba(50,50,50,0.05),
+              inset 0 3px 8px rgba(64,64,64,0.05),
+              inset 0 -5px 10px rgba(25,25,25,0.1);
+}
+ 
+@keyframes vline {
+  0%   { top: 0px;}
+  100% { top: 100%;}
+}
+
+@keyframes flicker {
+  0% {
+    opacity: 0.27861;
+  }
+  5% {
+    opacity: 0.34769;
+  }
+  10% {
+    opacity: 0.23604;
+  }
+  15% {
+    opacity: 0.90626;
+  }
+  20% {
+    opacity: 0.18128;
+  }
+  25% {
+    opacity: 0.83891;
+  }
+  30% {
+    opacity: 0.65583;
+  }
+  35% {
+    opacity: 0.67807;
+  }
+  40% {
+    opacity: 0.26559;
+  }
+  45% {
+    opacity: 0.84693;
+  }
+  50% {
+    opacity: 0.96019;
+  }
+  55% {
+    opacity: 0.08594;
+  }
+  60% {
+    opacity: 0.20313;
+  }
+  65% {
+    opacity: 0.71988;
+  }
+  70% {
+    opacity: 0.53455;
+  }
+  75% {
+    opacity: 0.37288;
+  }
+  80% {
+    opacity: 0.71428;
+  }
+  85% {
+    opacity: 0.70419;
+  }
+  90% {
+    opacity: 0.7003;
+  }
+  95% {
+    opacity: 0.36108;
+  }
+  100% {
+    opacity: 0.24387;
+  }
+}
+.layer::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(18, 16, 16, 0.1);
+  opacity: 0;
+  z-index: 2;
+  pointer-events: none;
+  animation: flicker 0.15s infinite;
+}
+.layer::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  z-index: 2;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
+.layer {
+  position: relative;
+}
+
+#asciiLogo, #asciiLogoFade {
+    white-space: pre;
+    text-align: center;
+    font-size: 18px;
+    line-height: 16px;
+    margin-top: 25%;
+    margin-bottom: 0;
+}
+
+#asciiLogoFade {
+    animation: fadeOut 2s steps(4, end) forwards;
+}
+ 
+@keyframes fadeOut {
+    to {
+        opacity: 0.0;
+    }
+}
+
+.file_selector {
+    cursor: pointer;
+}
+
+#file_list {
+    border-collapse: separate;
+    border-spacing: 0 2px
+}
+
+/* Credit for this goes to Blowsie on Stack Overflow:
+    https://stackoverflow.com/questions/3779534/how-do-i-disable-text-selection-with-css-or-javascript */
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb:hover {
+    background: white;
+    border: 1px solid black;
+}
+
+.divider.popup {
+    padding: 15px 20px;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 50%;
+    max-height: 80%;
+    text-align: center;
+}
+
+button, input[type=submit] {
+    background: none;
+    color: white;
+    font-family: 'VT323', monospace;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover, input[type=submit]:hover {
+    text-decoration: underline;
+}
+
+button:focus, input:focus {
+    outline: none;
+}
+
+input[type=text] {
+    background: none;
+    font-family: 'VT323', monospace;
+    border: none;
+    color: white;
+    border-bottom: 2px solid white;
+    font-size: 20px;
+    text-align: center;
+}
+</style>
+
+<script>
+var saveState;
+
+function focusfile(elem, bgrcolor, txtcolor) {
+    var fileList = document.getElementsByClassName('file_selector');
+    for (var i = 0; i < fileList.length; i++) {
+        fileList[i].style.backgroundColor = "transparent";
+        fileList[i].style.color = "white";
+    }
+    elem.style.backgroundColor = bgrcolor;
+    elem.style.color = txtcolor;
+}
+
+function openfile(elem) {
+    clearInterval(corruptInt);
+    if (/\[CORRUPTED\]/g.test(elem.dataset.content)) {
+        corruptLoop(elem);
+    } else {
+        document.getElementById('file_display').innerHTML = elem.dataset.content;
+    }
+}
+
+function shortenNames() {
+  var nameList = document.getElementsByClassName('file_name');
+  for (var i = 0; i < nameList.length; i++) {
+      if (nameList[i].innerHTML.length > 17) {
+          nameList[i].innerHTML = nameList[i].textContent.substring(0,15) + "...";
+      }
+  }
+}
+
+function popup(color, title, content, hasinputbox, submitevent) {
+    saveState = document.getElementById('layer').innerHTML;
+    var popupCont = "<div class=\"divider popup\" id=\"popup\" style=\"border-color:" + color + "; color: " + color + "\"><strong>" + title + "</strong><br><br>" + content + "<br><br>";
+
+    if (hasinputbox) {
+        popupCont += "<form onsubmit=\"" + submitevent + "; closePopup()\"><input type=\"text\" id=\"popup_form\"><br><br><input type=\"submit\" value=\"OK\"></form>";
+    } else {
+        popupCont += "<button onclick=\"closePopup()\">OK</button>";
+    }
+    document.getElementById('layer').innerHTML = popupCont;
+}
+
+function closePopup() {
+    document.getElementById('layer').innerHTML = saveState;
+}
+
+var itCount = 0;
+var scrambleInt;
+
+function scramble(elem) {
+    var oldContent = elem.dataset.content;
+    var scrambleContent = "";
+
+    var re = /<.*?>|&.*?;/g;
+    var stripList = oldContent.match(re);
+    var strippedContent = oldContent.replace(re, "▔");
+
+    var charList = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")"];
+    for (var i = 0; i < strippedContent.length; i++) {
+        var numRoll = Math.random() * 20;
+        if (numRoll > itCount) {
+          if (/▔/.test(strippedContent.charAt(i))) {
+            scrambleContent += strippedContent.charAt(i);
+          } else {
+            scrambleContent += charList[Math.floor(Math.random() * charList.length)];
+          }
+        } else {
+            scrambleContent += strippedContent.charAt(i);
+        }
+    }
+
+    for (var i = 0; i < scrambleContent.length; i++) {
+        var replaceRe = /▔/;
+        scrambleContent = scrambleContent.replace(replaceRe, stripList[0]);
+        stripList.splice(0, 1);
+    }
+
+    document.getElementById('file_display').innerHTML = scrambleContent;
+    itCount++;
+
+    clearInterval(scrambleInt);
+    scrambleInt = setInterval(scramble, (100 * itCount / 5), elem);
+
+    if (itCount >= 21) {
+      clearInterval(scrambleInt);
+      itCount = 0;
+      document.getElementById('file_display').innerHTML = oldContent;
+    }
+
+    elem.dataset.scrambled = "false";
+}
+
+
+
+function scrambleLoop(elem) {
+  if (elem.dataset.scrambled == "true") {
+    scrambleInt = setInterval(scramble, 100, elem);
+  } else {
+    openfile(elem);
+  }
+}
+
+var corruptInt;
+
+function corruptLoop(elem) {
+    corruptInt = setInterval(corrupt, 150, elem, 6);
+}
+
+function corrupt(elem, corrLength) {
+    var corruptCharList = ["▖", "▗", "▘", "▙", "▚", "▛", "▜", "▝", "▞"];
+    var corruptStringMain = elem.dataset.content;
+    var corruptCount = corruptStringMain.split("[CORRUPTED]").length;
+
+    for (var a = 0; a < corruptCount; a++) {
+        var corruptString = "";
+        for (var b = 0; b < corrLength; b++) {
+            corruptString += corruptCharList[Math.floor(Math.random() * corruptCharList.length)];
+        }
+        corruptStringMain = corruptStringMain.replace(/\[CORRUPTED\]/, "<span style='color:#BC111B'>" + corruptString + "</span>");
+    }
+
+    document.getElementById('file_display').innerHTML = corruptStringMain;
+}
+</script>
+
+</head>
+
+
+<body onload="shortenNames()">
+
+<div id="terminal" class="on noselect">
+  <div class="layer" id="layer">
+    <div class="divider selector">
+<table id="file_list" style="width: 100%">
+<tr style="text-align: left;">
+<th>NAME</th>
+<th>TYPE</th>
+<th>DATE</th>
+</tr>
+<tr class="file_selector" id="Blue Book Database" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<Ins><strong>Project Details</Ins></strong><br><strong>Project Numeration:</strong> P-1278 <br><br><strong>Project Name:</strong> 10th Generation Titan <br><br><strong>Project Type:</strong> Vehicle <br><br><strong>Role:</strong> Combat <br><br><strong>Specialization:</strong><br> Terminating Kaiju-class Xeno-organisms <br><br><strong>Vehicle Shape:</strong> Mechanized Humanoid <br><br><strong>Height (Approximate):</strong> 60 Meters<br><br> <strong>Mass (Approximate):</strong> 27000kg<br><br> <strong>Project Status (Design):</strong> 100% <br><br> <strong>Number Manufactured:</strong> 1 (TitanX-01)" data-scrambled = "false">
+<td class="file_name">Project Details</td>
+<td>Text File</td>
+<td>21-07-2019</td>
+<tr class="file_selector" id="Blue Book Database" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<Ins><strong>Description</Ins></strong><br> TitanX-01 is a bipedal mechanized combat suit that stands at approximately 60 meters high. The TitanX-01 is operated by a single pilot that connects to the mech via a cybernetic cerebral connection port. This allows for the TitanX-01 to have a much greater degree of control than older Bluebook mechs. <br><br>The Titan-01 is equipped with a deployable plasma edged sword, that can cut through large scale Xeno-organisms. Additionally, the TitanX-01 is equipped with the latest innovation in plasma shielding technology, which allows it to absorb massive blows with little damage actually being taken by the TitanX-01." data-scrambled = "false">
+<td class="file_name">TitanX-01 Outline</td>
+<td>Text File</td>
+<td>21-07-2019</td>
+<tr class="file_selector" id="Combat Tactics" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<Ins><strong>Development Difficulties</Ins></strong><br> The main difficulty in the development of the tenth generation Titan, was the development of an actuator that could handle the immense weight of a machine as large as the tenth generation Titans needed to be. Because of these issues, Bluebook turned tom the GEAR para-company for assistance in the development of these parts. <br><br>Additionally, development of the cerebral connection port proved to be difficult. But the usage of the ET-016 tech, that was recovered from the remains of their engagement with the Martian defense fleet on 15/03/2019, proved critical for the development of this system." data-scrambled = "false">
+<td class="file_name">Difficulties</td>
+<td>Text File</td>
+<td>21-07-2019</td>
+<tr class="file_selector" id="Combat Tactics" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<Ins><strong>Production Goals</Ins></strong><br> The production goals for the tenth generation Titan is to have it such that there are always at least 2 TitanX available at any one time. This is to be accomplished by the production of three additional units, and the establishment of production lines for parts of the TitanX. Additionally, all pilots chosen to operate a TitanX must show nothing but absolute loyalty to Bluebook." data-scrambled = "false">
+<td class="file_name">Production Goals</td>
+<td>Text File</td>
+<td>21-07-2019</td>
+<tr class="file_selector" id="Combat Tactics" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<Ins><strong>Utilization</Ins></strong><br> Due to the nature of the TitanX, pilots are to be trained exclusively using advanced simulators. Pilots are to only enter the TitanX when it's being deployed for a mission. Missions for which the TitanX is a suitable piece of equipment for, are one which involve exterminating Kaiju-class Xenos.<br><br> It should be noted that as the TitanX is a specialist weapon, the TitanIX will not be retired from active service." data-scrambled = "false">
+<td class="file_name">Method of Usage</td>
+<td>Text File</td>
+<td>21-07-2019</td>
+<tr class="file_selector" id="Blue Book Database" onclick="focusfile(this, 'white', 'black'); openfile(this); " data-content="<strong>[CORRUPTED]</strong><br> Due to the nature of the tech we used for the cerebral connection port, any pilot that is attached to a TitanX will have their consciousness forcibly transferred into the machine regardless of whether we make the TitanX is capable of accepting their mind or not. This is presumed to be the same process that is used by ET-016 to give their drones the advanced AI that they need to engage in autonomous combat. <br><br> Because of this effect, the SRB has designed the TitanX such that it can accept, and sustain, the consciousness of any pilot that is linked up to it. However, due to the limitations of humanities developments in self repairing code, I can only assure you that any pilot uploaded to a TitanX will be serviceable for one month before their mind becomes too corrupt to function. <br><br> After one month the mind of the pilot will begin to noticeably deteriorate, and will need to be purged from the system. The SRB has already taken the liberty of designing the system that will be used to purge corrupted minds from the TitanX. <br><br> - Dr. [CORRUPTED]" data-scrambled = "false">
+<td class="file_name">[CLASSIFIED]</td>
+<td>Text File</td>
+<td>21-07-2019</td>
+</tr>
+</table>
+    </div>
+
+    <div class="divider cmd">
+    Blue Book VERSION 4.1.06
+<br>
+    (c) PROJECT BLUE BOOK.
+<br>
+    P-1278
+    </div>
+
+    <div class="divider viewport" id="file_display" style="overflow-y: scroll">
+
+    </div>
+  </div>
+  <div class="overlay" id="overlay"></div>
+</div>
+
+</body>
+
+</html>
+[[/html]]
+@@@@
+@@@@
+The General smiled as he looked at the TitanX-01, towering above any other mech that Bluebook had produced before. Lie knew that this was needed, as the frequency of Kaiju appearances had been rapidly increasing in modern times. Though he could not help but create the proposal for the TitanXI in his mind. That's not to say that the TitanX wasn't impressive to him, because how could 60 meters of mecha not impress a person?
+
+= ...
+
+The next day Lie put in the order for the development of the TitanXI, with the only real improvement he wanted being that the mind of the pilot wouldn't become stuck in the machine. Which was something that the SRB could get on board with. 
+
+"Hopefully we don't have to use this thing before the TitanXI is done." The General said as he sat up in his chair, ready for another busy day of work when he heard a knock on his door. "May I come in?" the General's second in command said from the other side of the door. 
+
+"You may"
+
+Pearce entered the office and stood in attention, "The UNAAC is having a meeting" she stated. 
+
+"At ease, what's this meeting about?"
+
+"The UNAAC is going to be-"
+
+There was another knock on the door, "UNAAC needs Project Blue Book to be represented in the next meeting." The voice on the other side of the door was not one that the General recognized. "I'll be there" Trygve answered. Footsteps could be heard as whoever was at the door left. 
+
+"I think I know what the meeting is about now" the General stated, "do you mind assuming control while I am at this meeting?"
+
+"Yes sir" the Michelle answered as she stood in attention. 
+
+General Trygve exited his office and made his way towards the meeting hall. "Come right in" The two men in front of the door were quick to let the General in. Trygve Lie knew how the UNAAC treated him in different scenarios, and he knew what it meant when they treated him well. 
+
+The General opened the door, to find that he had arrived slightly late. "Now that Bluebook has arrived we can begin, please take your seat in the defendant's area" The Speaker was not impressed by the time of the General's arrival. "Now let us begin this trial" The speaker stated. 
+
+"This is the case of GEAR breaking UNAAC terms of service and selling developed blueprints to the non-member organization known as Project Blue Book" The speaker announced why the General was here. 
+
+= ...
+
+The majority of this "trial" was simply the examination of security footage showing the GEAR representative handing the General the folder that contained the blueprints of the actuators Bluebook needed. Even though Bluebook was one of the defendants Trygve wasn't called to the stand until nearly 3 hours into the trial. 
+
+When he was brought to the stand, he immediately ignored the questions that the prosecutor asked him and began to speak his own words, "Under the collateral damage criminal immunity act section 9, any third party hired by Project Blue Book may be completely pardoned of any crimes committed while under the command of Project Blue Book. And since GEAR was under our employ, they are immune to your laws."
+
+"That only applies in emergency scenarios, so unless you can provide proof of this being an emergency scenario then that doesn't apply." The Speaker was persistent. 
+
+"Here you go" The General handed the Speaker a document from his inner coat pocket. 
+
+[[div style="color:black;background-color: white; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]] 
+[[=]]
+[[f=image logo width="100px"]]
++ ##black|ET-███-█-███: ███████ ██████ ██████##
+[[/=]]
+
+█████████ ███ █ ███ ██ █████ ████ █████ ████████ █ █████ ██ ██ ██ ████ ███████ ████ ██████ ████ █████ ████████ ████ █ ███ █████ ███ ██████ ███ █ ███ ███ ██████ ███████ █████ ██ ████ ███ ████ ██████ ████ ███ ███ ███████ ████ ████████ ████ ███ █████ ██ ███ █ ██ ██ ██ ███ ████████ ███████ ███████ ██ ███ █████ ██ ███ ███████ █████ ███ █████ █ ███ ███ ██████ ███████ █████ ██ ████ ███ ███ ██ ███ ████████ ███████ ███████ ██ ███ █████ ███ ███ ███████ █████ ███ ███
+
+███ ████ ██ ███████ ██████ ████ ███████ ███ ███████ ██████ ███████ ███ ████ ████ █████ █ ███ ███ ████ ████ █ ██ █ ███ ████ ████ █████ ████
+ 
+█████ ████ ███ █ ███ ██ ███ ███ █████ ███████ ████ █████ ████████ █ █████ ██ ██ ██ ████ ███████ ████ ██████ ████ █████ ████████ █████ ███ █████ ███ ██████ ██ █████ ████ ██ █████ ████ ███ █████ ██ ██ ███ ███ ███ ████████ ████ ███ ████ ██ ████ ██████ ███████ █████ █████ ████ █████ ████████ ████ █ ███ ██ ████ ██ ███ █████ █ █████ ███ █ ███ ███ ██████ ███████ █████ ██ ████ ███ ████ ██████ ████ ███ ███ ███████ ████ ████████ ████ ███ █████ ██ ███ █ ██ ██ ██ ███ ████████ ███████ ███████ ██ ███ █████ ███ ███████ █████ ███ ███
+
+█████████ ███ █ ███ ██ ███ ███ █████ ███████ ████ █████ ██████ ███ ███ ███ ████████ ████ ███ ████ ██ ████ ██████ ███████ █████ █████ █ ██ ████ █ ████ ██ ███ █████ █ █████ ███ █ ███ ███ ██████ ██ ██ █████ ████ ██ ███ █████ █ █████ ███ █ ███ ███ ██████ ███████ █████ ██ ████ ███ ████ ██████ ████ ███ ███ ███████ ████ ████████ ████ ███ █████ ██ ████ ██ ██████ ████ ████ ███ ████ ███ ████ ██ ███ ████ █ ███ ███████ █████ ███ ███
+@@@@  
+@@@@
+[[/div]]
+
+The Speaker spoke again, "What am I looking at?"
+
+General Lie responded, "a classified ongoing operation"
+
+"How am I supposed to believe you?"
+
+"Because I am the acting Head General of Project Blue Book, and I have far more to lose by lying here than I have to gain"
+
+"Is there any other evidence that you can provide to assure us that this is an Emergency Scenario"
+
+"The description of an Emergency Scenario is that the acting Head General of Project Blue Book considers it an Emergency Scenario, so if I say it is an Emergency Scenario that's what it is" 
+
+The Speaker went quite and the General spoke again, "If that is all I will be taking my leave."
+
+"You can't just leave in the middle of a trial" The Speaker was trying to keep any order they could in this courtroom.
+
+"Project Blue Book isn't subject to the laws of the UNAAC, and we never will be" The General made his way to the doors of the meeting hall and exited them swiftly. Making extra effort to return to his office in a timely manner, and continue the work that he felt actually mattered.
+
