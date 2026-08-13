@@ -1,0 +1,83 @@
+---
+title: "RPC-###"
+tags: []
+page_id: "987060282"
+site: "rpcauthority"
+slug: "_000-be-2"
+revision: 3
+revision_id: "1084568083"
+author: 3646714
+timestamp: 1588914029
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:blacksite-theme/code/1);
+[[/module]]
+
+[[include :rpcsandbox:mrpines-css-include]]
+[[include component:rate title=_000-be-2]]
+
+> [[span style="color:red;"]]**Registered Phenomena Code:**[[/span]] //ERROR//
+>
+> [[span style="color:red;"]]**Object Class:**[[/span]] //Classified//
+>
+> [[span style="color:red;"]]**Hazard Types:**[[/span]] //Classified//
+@@@@
+@@@@
+
+------
+[[=]]
+[[span style="color:red;"]]
++ **Containment Protocols**
+[[/span]]
+[[/=]]
+------
+= NA 
+ 
+------
+[[=]]
+[[span style="color:red;"]]
++ **Description**
+[[/span]]
+[[/=]]
+------
+= NA
+
+@@@@
+@@@@
+
+-----
+
+@@@@
+[[div class="request rpc"]]
+[[=]]
+[[collapsible show="New Message Received" hide="---"]]
+[[/=]]
+
+
+[[<]]
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[span style="color:black;"]]
+[[module ListUsers users="."]]
+%%title%%.
+[[/module]]
+
+
+This is where the road ends. I've had to cover your tracks too much. You've made too many mistakes, and I can't devote my time to you. If the Board finds us out, everything we've done will be lost, and I can't let that happen. Farewell.
+
+- Agent Marcus Monroe
+----
+
+[[=]]
+**<Dispensing Kabbalic Kill Agent>**
+[[/=]]
+[[=image http://www.rpc-wiki.net/local--files/_000-be-2/easy.gif style="width: 99%; border: solid 1px #000000; padding: 1px"]]
+
+
+[[/div]]
+[[/<]]
+[[/span]]
+[[/collapsible]]
+[[/div]]
+-----
+

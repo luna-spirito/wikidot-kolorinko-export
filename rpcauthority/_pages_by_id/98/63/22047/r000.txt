@@ -1,0 +1,39 @@
+---
+title: "RCPA Hub"
+tags: ["hub", "rcpa"]
+page_id: "986322047"
+site: "rpcauthority"
+slug: "rcpa-hub"
+revision: 0
+revision_id: "1034178245"
+author: 3118961
+timestamp: 1579984118
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+The Righteous Centralized Protection Authority (RCPA, widely referred to as the 'Authoritarians') is an alternate timeline iteration of the Authority that has openly seized control of their world. Initially motivated by the desire to protect humanity more completely and efficiently, they have long grown corrupted and arrogant in their dominance. Embracing the use of the anomalous to their own ends, the RCPA's ethos of "justice" has been twisted into a creed that demonizes rogue anomalies and dissidents indiscriminately together as "villains". Recently, certain links between the RCPA timeline and our own have opened; their presence in our world has been actively combated, as their creed of justice and utter lack of subtlety are antitheses to our Authority.
+
+The RCPA hires or creates anomalous persons on a wide scale to enforce its rule; known as Protectors, many are idolized in state propaganda. While most Protectors combat rogue and destructive anomalies (often more powerful than counterparts in our timeline, due to the open and widely-available nature of the anomalous), others aid their ASF in suppressing various local insurgencies against the global power of the Authority.
+[[/div]]
+
+[[div class="content-panel"]]
++++ RCPA RPCs
+[[module ListPages separate="no" tags="rcpa rpc" perPage="50" order="fullname"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="rcpa -rpc" separate="no"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

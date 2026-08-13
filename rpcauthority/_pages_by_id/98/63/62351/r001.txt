@@ -1,0 +1,81 @@
+---
+title: "Remnants Hub"
+tags: ["hub", "remnants"]
+page_id: "986362351"
+site: "rpcauthority"
+slug: "remnants-hub"
+revision: 1
+revision_id: "1034256047"
+author: 3118961
+timestamp: 1580266617
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+The Remnants are a fractured iteration of the Authority from a timeline where reality wavered for one unexplained moment (dubbed the Alpha trigger), causing a single universe-wide calamity and a subsequent cascade of new anomalies. Unable to keep the public veil of normalcy, and facing wide spread containment breaches of catastrophic levels, the Authority chain of command has broken down and left only splinters and shadows to continue their work.
+
+Immediately the priority became to evacuate all citizens they could to another timeline, and with their evacuation, their problems are quickly becoming the problems of the baseline Authority. Very little is known about the current state of the Remnant world, and all reliable information has been compiled below.
+
+[[collapsible show="[+] Status Report" hide="[-] Minimize"]]
+> [[size large]]**Remnant Report**[[/size]]
+> 
+> **Condition of Earth**
+> 
+> **Africa** - Significant portions of the continent have been replaced with a volcanic hellscape. Casualties are countless, and hordes of demon-like creatures spew from the deep craters pocketing it's surface.
+> 
+> **Galápagos Islands** - Annexed by a collection of Church of Malthus sects. Population largely converted into sapient tortoises.
+> 
+> **Australia** - Mention of giant animals and other supernatural anomalies. Sydney previously ravaged by a brood of parasitic grubs.
+> 
+> **Condition of Solar System**
+> 
+> **Sun** - Normal, but surrounded by spatial anomalies.
+> 
+> **Mercury** - Taken off its orbit and currently with a collision course with the sun.
+> 
+> **Venus** - Visuals of giant monsters have been witnessed on the planet's surface.
+>  
+> **Earth** - Individual county reports mentioned above. The AEP have surprisingly taken a major foothold in reclaiming small sections of the Earth, however they've grown hostile to all Authority personnel. The Moon was witnessed 2 weeks after the Alpha trigger turning into a Nautilus and swimming away. Its whereabouts are unknown.
+> 
+> **Mars** - Colonised and home to the New Dawn Initiative, a group built from the remains of Project Blue Book and civilians rescued before their departure.
+>  
+> **Ceres** - Ceased existing. No evidence of it being destroyed exists, so speculation continues.
+> 
+> **Asteroid Belt** - Graveyard of spaceships, both human and non human.
+> 
+> **Jupiter** - All the moons of Jupiter have been consumed by a large entity that replaced the core of Jupiter with itself. The entity has been estimated to be almost the size of the planet.
+> 
+> **Saturn** - The Planet shifts between another universe and ours every earth year. It’s moons are all infested with hostile life.
+> 
+> **Uranus** - Collided with Neptune.
+> 
+> **Neptune** - Collided with Uranus. After the collision a new planet was formed, many Remnant members nicknamed the new planet "Whocares".
+> 
+> **Pluto** - Grew 10x it’s size. It is considered --not a dwarf planet-- still is a dwarf planet on a technicality.
+> 
+> **Eris** - Thrown out of the solar system by a gravitational anomaly.
+> 
+> **Sedna** - Converted into a planet sized clockwork machine.
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-panel"]]
++++ Remnants RPCs
+[[module ListPages separate="no" tags="+remnants +rpc" perPage="50" order="created_at"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="remnants -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

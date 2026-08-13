@@ -1,0 +1,41 @@
+---
+title: "Academy of True Art Hub"
+tags: ["academy", "hub"]
+page_id: "986362344"
+site: "rpcauthority"
+slug: "academy-hub"
+revision: 0
+revision_id: "1034255965"
+author: 3118961
+timestamp: 1580266305
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+//L'Academia della vera arte// or "The Academy of True Art" is an art school of European origin, though attempts to actually physically locate it have thus far proved unsuccessful. The Academy's membership includes numerous anomalous and non-anomalous individuals, and is believed to include various widely-known and famous artists, past and present. Members frequently operate under a variety of aliases, chosen for its thematic connections to the medium and style of art created by the artist.
+
+Since the discovery of the Academy and their production of anomalous artworks, the Authority has become aware of a significant community operating against the Academy, in large part consisting of those either rejected by or banned from operating under the Academy's auspices. Many of these artists produce anomalous works which are volatile, dangerous, and unpredictable. The Academy has been compliant in providing information leading to the capture of the artists and the containment of their works, and has made it clear that such works go against the Academy's goals of creating anomalous art without disrupting the fabric of society.
+
+The Academy's main goal is the promulgation of low-level anomalous artworks. They have consistently operated under the slogan "Reality is our canvas" throughout their recorded history, and tend to produce anomalies which involve novel but non-harmful physics or reality-alteration hazards. While the capture and interrogation of members of the Academy is of moderate priority to the Authority, their continued cooperation in identifying rogue elements must be kept in mind. Rejected or former Academy members are high-priority capture targets, especially if they have, or are in the process of, producing anomalous artwork.
+[[/div]]
+
+[[div class="content-panel"]]
++++ RCPA RPCs
+[[module ListPages separate="no" tags="+academy +rpc" perPage="50" order="created_at"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="academy -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

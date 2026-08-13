@@ -1,0 +1,186 @@
+---
+title: "Черновик Redseet"
+tags: []
+page_id: "598350725"
+site: "obscurative"
+slug: "draft:redseet"
+revision: 342
+revision_id: "1366393528"
+author: 2679482
+timestamp: 1623409528
+---
+
+[[module Rate]]
+
+[[tabview]]
+
+[[tab Таймлайн]]
+
+[[div id="timeline"]]
+
+[[include include:timepoint
+| year = 7
+| max = 25
+| link = bla
+| name = Какой-то там конфликт
+| img = https://media.discordapp.net/attachments/632236100252860426/757913793547206676/b99d6bd69911929c.png
+]]
+
+[[include include:timepoint
+| year = 4
+| max = 25
+| link = bla2
+| name = Что-то там ещё
+| img = https://media.discordapp.net/attachments/632236100252860426/757913793547206676/b99d6bd69911929c.png
+]]
+
+[[/div]]
+
+[[module CSS]]
+
+#u-timeline {
+  --back: url(data:image/jpeg;base64,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); /* Цвет линии или её текстура */
+  --for: Sienna; /* Цвет событий на линии */ 
+  --height: 10px; /* Высота линии */
+  --limiter: black; /* Цвет ограничителей слева и справа */
+  --timepoint-width: 5px; /* Ширина события */
+  
+  
+  
+  --hb2: calc(var(--height)/2);
+}
+
+#u-timeline hr, #u-timeline br {
+  display: none;
+}
+
+#u-timeline {
+  position: relative;
+  height: 8em;
+}
+
+#u-timeline::after {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 50%;
+  width: 100%;
+  height: var(--height);
+  margin-top: calc(var(--hb2)*(-1));
+  border: 5px solid;
+  border-color: white var(--limiter);
+  background: var(--back) 0 / contain;
+  z-index: 0;
+}
+
+#u-timeline div {
+  position: absolute;
+  margin-top: var(--hb2);
+  top: 50%;
+  width: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+#u-timeline div::after, #u-timeline a {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-top: calc(var(--height)*(-1));
+  margin-left: calc(var(--timepoint-width)*(-1));
+  width: var(--timepoint-width);
+  height: var(--height);
+  background: var(--for);
+  z-index: 1;
+}
+
+#u-timeline a {
+  z-index: 2;
+}
+
+#u-timeline div * {
+  display: none;
+}
+
+#u-timeline div:hover {
+  width: 20em;
+  margin-left: -10em;
+  background: white;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+
+#u-timeline div:hover * {
+  display: block;
+}
+
+#u-timeline .time {
+  display: block;
+  position: absolute;
+  top: calc(var(--height)*(-1));
+  left: 50%;
+  margin-left: -0.5em;
+  margin-top: -1em;
+  width: 5em;
+  text-align: left;
+  transform: rotateZ(-45deg);
+  transform-origin: left;
+}
+
+#u-timeline .name {
+  margin-top: 1em;
+}
+
+#u-timeline img {
+  width: 100%;
+}
+
+[[/module]]
+
+
+[[/tab]]
+[[tab Эмбер]]
+
+**Аванпост Эмбер** — независимый подземный аванпост, расположенный в северо-западной части Эйриса. Основан в 1984 году. Основным источником дохода является добыча драгоценных и полудрагоценных руд и камней. Оптимальная толщина межмировой оболочки и низкая напряженность поля Королева делают межпространственный импорт и экспорт относительно доступным и недорогим. Аванпост известен во всем Пограничье своей необычной и крайне привлекательной архитектурой. Основной материал строительства — камень. Население в данный момент составляет более 4 тысяч человек.
+
+++ История
+
+Аванпост был основан в 1984 году промышленным концерном "Frifield" и позиционировался как место добычи драгоценных металлов. Исследования автономными аппаратами выявили, что портал образовался внутри разветвленной пещерной системы в северо-западной части Эйриса, близ Гибрисового залива. Данная местность считается непригодной для проживания ввиду крайне высоких температур, причиной которых является горячее течение, проходящее вдоль этой части материка. Однако температура и влажность в пещерах оказалась вполне комфортной и позволяла организовать долговременное поселение.
+
+14 марта 1984 года концерн отправил первую группу колонистов, численностью в 30 человек для подготовки аванпоста к заселению. Выяснилось, что стены пещер представлены не только сложным в обработке гранитом, но и куда более податливым сланцем. Вскоре после первой группы, концерн, с небольшими промежутками отправил и остальные. Основной упор при выборе колонистов делался на технические навыки, особенно на наличие опыта в горном деле. 
+
+++ Пещерная система
+
+Пещерная система Эмбера простирается на многие километры под толщей скал и в данный момент до конца не изучена. Пещеры располагаются на глубине трехсот метров ниже уровня моря. Пещерная система имеет многочисленные выходы на поверхность, однако основными можно назвать Южный, Подводный и Северный.
+
+Главный ярус системы исследован полностью, именно в нем расположен Эмбер. Остальные восемь ярусов используются нечасто и изучены слабо. Северо-западная часть яруса затоплена морской водой. В среднем высота потолка пещер колеблется в районе 3-4 метров, достигая в своей высшей точке (Красный зал) высоты в 15 метров. 
+
+Существует множество выходов из пещер, однако наиболее крупными являются лишь Южный и Подводный, которые соединяются в большом полузатопленном зале. Здесь находится основной подводный порт Эмбера, а также верфь для подводных лодок. Северный выход немногим уступает остальным в размерах, но удобное расположение делает его крайне популярным среди пеших путешественников.
+
+К северу от верфи располагается шестиметровая "статуя Дружбы", представляющая собой огромный монумент, изображающий двух мужчин, пожимающих друг другу руки. Монумент был построен в честь открытия первого торгового пути с аванпостом Свободной Мексики. 
+
+Местность западнее монумента полностью затоплена морской водой. Здесь работает множество саун, которые привлекают богатых туристов и жителей аванпоста. Также именно в зоне затопления добываются различные виды рыб, приплывающих из вод Раскаленного океана и вольготно чувствующих себя в темных жарких туннелях.
+
+К северу от зоны затопления расположен так называемый Синий зал, прозванный так в честь многочисленных сапфиров, турмалинов и топазов, содержащихся в огромных жилах и образующих причудливые узоры на стенах и потолке зала.
+
+Красный зал, находящийся к северу от Синего похож на своего собрата с тем отличием, что стены и потолок испещрены рубинами и гранатами. Благодаря своей близости к Эмберу зал был выбран в качестве места общих собраний и проведения массовых мероприятий.
+
+Зал мечты представляет собой огромное включение пористой базальтовой и тальковой породы, благодаря чему своды зала способны гасить большую часть звуков, в том числе и эхо. Зал часто выбирают для уединения и одиноких размышлений.
+
+++ Эмбер
+
+Аванпост расположен в центре главного яруса пещерной системы. Высота свода в этом месте достигает семи метров. Основная часть построек вырезана в стенах пещеры в несколько ярусов, соединенных металлическими лестницами и мостками.
+[[/tab]] 
+
+[[tab ALCOR]]
+
+**Алькор (англ. ALCOR)** — военизированная исследовательская компания, специализирующаяся на лунных и транс-лунных исследованиях, логистических перевозок, а также занимающаяся предоставлением сил специального назначения для работы в условиях микрогравитации и внекорабельной деятельности. Основана в 2001 году американским предпренимателем Альбертом Шавхманном, в данный момент капитализация компании составляет более 7,7 млрд. долларов.
+
+**Краткая история**
+
+
+[[/tab]]
+
+
+[[/tabview]]
+

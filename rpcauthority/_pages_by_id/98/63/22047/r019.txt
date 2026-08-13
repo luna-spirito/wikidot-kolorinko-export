@@ -1,0 +1,307 @@
+---
+title: "RCPA Hub"
+tags: ["hub", "rcpa"]
+page_id: "986322047"
+site: "rpcauthority"
+slug: "rcpa-hub"
+revision: 19
+revision_id: "1231984864"
+author: 3118961
+timestamp: 1594591498
+---
+
+[[module CSS]]
+@import url(http://www.rpc-wiki.net/component:rcpa-theme/code/1);
+[[/module]]
+
+[[module CSS]]
+#page-title {
+display: none;
+}
+
+.listresize {
+    font-size: 14px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+[[div style="background-color: black; color: white; font-size: 380%; font-weight: bold; border: dashed 4px blue; padding: 0%; border-radius: 0px"]]
+[[=]]
+
+##red|« NOTICE »##
+
+[[/=]]
+[[/div]]
+[[div style="background-color: black; color: white; border: solid 4px white; padding: 0%; border-radius: 0px"]]
+[[div style="float: left; width: 15px; clear: none;"]]
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+╏
+[[div class="mobileOnly"]]
+╏
+╏
+╏
+[[/div]]
+[[/div]]
+[[div style="float: left; clear: none; width: calc(100% - 15px)"]]
+You are accessing this database from an ##red|UNAUTHORIZED CIVILIAN TERMINAL##.
+@@ @@
+@@ @@
+@@ @@
+Though unrecommended, this action is NOT illegal. 
+You are performing this action for one of two reasons:
+@@ @@
+A. You do not have access to a public government terminal
+@@ @@
+B. You are a hostile entity operating in a non-centralized area
+@@ @@
+To avoid option B, you have been rerouted to DATABASE_PUBLIC.
+[[/div]]
+~~~~
+[[/div]]
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+[[=]]
+[[module ListPages limit="1" category="*" order="updated_at desc"]]
+Welcome back, ANONYMOUS. Today's date is %%updated_at|%Y/%m/%d%%.
+[[/module]]
+
+> [[div class="unmargined" style="font-size: 380%; font-weight: bold; margin: 2px 0 5px;"]]
+> AUTHORITY DATABASE
+> [[/div]]
+> [[div class="unmargined"]]
+> PUBLIC EDITION
+> [[/div]]
+> ArcOS 1.14
+> [[/=]]
+[[div style="background-color: black; color: white; font-size: 16px; border: solid 2px #666666; padding: 0%; border-radius: 0px"]]
+[[tabview]]
+  [[tab Introduction]]
+> Welcome to the public portal of the Righteous Central Protection Authority Database, your easily accessible guide to known declassified anomalies.
+
+> If you wish to view our immense catalogue of registered phenomena, or seek information regarding your friendly neighborhood Protector units, please review the list in the next tab. Each registered phenomena file has been assigned a number, and a nickname. 
+
+> If you wish to view our declassified list of anomalous GoIs (Groups of Interest), please select the third tab. Groups of Interest are organizations/nations that stand out from normal groups.
+> 
+> Your __free__ continental news portal may be found below this terminal.
+
+[[div style="text-align: center; font-size: 150%;"]]
+Remember: your civic duty is Vigilance.
+
+Righteousness may only be achieved when humanity accepts its need for Protection. If you see dissidence, report it immediately.
+
+The Eyes must watch evermore.
+[[/div]]
+
+  [[/tab]]
+  [[tab File Catalogue]]
+
+> The Authority is the world's #1 repository for anomalous knowledge, and offers much of this information for public consumption. In the modern digital age, civilian access to the Authority Database is easier than ever. Many anomalies remain classified, however, a large portion of our anomalous catalogue has been deemed fit for public consumption. In your daily life under the Authority's watchful eye, you will encounter many things previously considered strange or unnatural. These things are incredibly common in the modern era, and some - your friendly Protector units - have even been weaponized for benefit of the population.
+> 
+> Dissent with this knowledge will be thoroughly expunged.
+
++++ DECLASSIFIED RPCs
+[[module ListPages separate="no" tags="+rcpa +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ DECLASSIFIED MISC. FILES
+[[module ListPages tags="rcpa -rpc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]  
+
+[[/tab]]
+[[tab Anomalous Groups of Interest]]
+[[=]]
++++ GROUPS OF INTEREST
+[[/=]]
+> Since the dark ages, much of humanity has sought to control or hide the anomalous for its own selfish and unrighteous benefit. The Authority has kept extensive records on the actions and state of these groups, and has in recent years destroyed many that sought to do civilization harm. Many have been discovered or changed in the modern age, and may be grouped into multiple distinct categories. We have provided a useful code system for GOI distinction.
+> 
++ Threat Code
+[[collapsible]]
+||||~ Affiliations||
+||##blue| Proxy##||The Group is under direct control by the Authority.||
+||##red| Unrighteous##||The Group's motivation or actions are against objective morality.||
+||##black| Neutral##||The Group is neither righteous or unrighteous in its actions and motivations.||
+||##purple| Righteous##||The Group is consistently and objectively righteous.||
+
+||||~ Attributes||
+||Authority-Aware||The Group is aware of the existence of the Authority. This only applies in specific circumstances.||
+||Veiled||The Group is unaware of certain aspects of the anomalous.||
+||Seeker||The Group actively collects anomalies.||
+||Sculptor||The Group is capable of creating anomalies.||
+||Structured||The Group has a defined, hierarchical structure.||
+||Fractured||The Group does not have a defined, hierarchical structure.||
+||Multinational||The Group spans multiple nations.||
+||National||The Group exists within a single nation.||
+||Local||The Group only exists within a small, localized area or areas.||
+[[/collapsible]]
+
+------
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/fragment%3Ajimmydummieautumn-2/Authority_Logo_White.png width="150px"]]
+
++ RPC Authority
+++ ###f54242|A2-Unrighteous­­##
+
+* Authority-Aware
+* Veiled
+* Seeker
+* Sculptor
+* Structured
+* Multinational
+
+The RPC Authority is an alternate timeline iteration of the Authority that has not passed the 1921 Berlin Charter. Reluctant in their use of the anomalous to their own ends, the Authority instead possesses an incorrect interpretation of its founding principles, being willing to delay the advancement of the human race or overlook major humanitarian disasters in its twisted sense of "Research", "Protection", and "Containment".
+
+While the RPC Authority lacks control over major geopolitical figures, they remain one of the most dominant organizations within their local anomalous community. Other than a lower access to funding and other resources, the RPC Authority is structurally similar to the Authority.
+
+**Verdict:**
+
+This group has proven to be extremely unrighteous. While seemingly a clone of the RCPA (a hypothesis we were led to believe during our brief cooperation in the early 1950s) the RPC Authority has proven to be highly detrimental to the human race of the RPC Authority's universe. To forcefully liquidate the RPC Authority would open up the RCPA's access to double the resources and double the manpower, thereby progressing humanity of both universes further. Due to the unrighteous nature of the RPC Authority, rebellions are to be expected. The aforementioned rebellions are to be supported whenever possible.
+
+Due to limits in our inter-universal technology, no major offensives into the RPC Authority is to be planned. However, based on our current understanding of inter-universal communication, only small-scale skirmishes may even be possible, rendering any plan for forced liquidation as impractical.
+
+If you're reading this from an RPC Authority terminal, you have a limited time to repent. Cease your unrighteousness this instant, and we will not come for you.
+[[/div]]
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Amazing%21%20Co. width="200px"]]
++ Amazing! Co.
+++ ##purple|A4-Righteous##
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Fractured
+* Multinational
+
+Amazing! Co. is a worldwide corporate conglomerate specializing in anomaly production. Their employment record is immaculate, their product list duly so. They produce weaponry, consumables, beauty products, toys, furniture- all in the name of Righteousness. Amazing! Co. is truly anomalous, it possesses no true CEO or organizational council. However, since the transformation of the Authority into its modern self, Amazing! Co. has become one of our most valued assets in the modern age of anomaly consumption.
+
+**Verdict:** 
+
+Despite its dubious origins, Amazing! Co. is one of the most important allies to the Authority's protection efforts, and its contributions to the overall status of humanity cannot be understated. Our militaries utilize Amazing! Co. branded guns, our civilians eat beans from an Amazing! Co. can, and our infrastructure is riddled with Amazing! Co. jobs. Above all else, friendly relations with this group must not fail, lest our cause be held back generations.
+[[/div]]
+
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+[[f>image http://www.rpc-wiki.net/local--files/groups-of-interest/KK.png width="150px"]]
++ Kabushiki Kawaii
+++ ##blue|A2-Proxy##
+
+* Authority-Aware
+* Unveiled
+* Sculptor
+* Structured
+* Multinational
+
+Kabushiki Kawaii, informally referred to as Kawaii Korps in some sects, is a corporation specializing in anomalous cosmetic and sexual appeasement products. Much of Kabushiki Kawaii's catalogue may be considered immoral by some, yet their ability to create organic life from anomalous means is unchallenged by most other groups. 
+
+**Verdict:** 
+
+Righteous, but no longer needed. Kabushiki Kawaii's anomalous organic construction technology has proved incredibly valuable in the outfitting of our militaries with Protector units. Thought not truly needed in the modern age, as the technology is found in Authority sites across the globe, Kabushiki Kawaii has been allowed to continue producing anomalous entities for sexual and/or cosmetic purposes due to its usefulness. Authority operatives have been put in place within the corporation's CEO board, to ensure its complacency. 
+[[/div]]
+
+> **[FURTHER LOGS PENDING DECLASSIFICATION]**
+
+[[/tab]]
+[[/tabview]]
+[[div style="background-color: blue; color: yellow; font-size: 16px; border: solid 2px #666666; padding: 0%; border-radius: 0px"]]
+[[=]]
+╏        ARCOS.1.14 PUBLIC TUNNEL          ┃  Serial  ┃  Connected  ┃  Login time ##red|[ERROR]##  ╏
+[[/=]]
+[[/div]]
+
+[[/div]]
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+C:\DOS\BBS\US_ANNA>arcos.1.14
+Loading . . .                                                     
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+Selected BBS [AUTHORITY_NEWS_NETWORK_OF_AMERICA SEARCH ENGINE]                                   
+Dialing number...                                                     
+Sending connection key...                                             
+Receiving data... 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+@@@@ 
+[[div style="background-color: black; color: white; font-size: 16px; border: solid 2px #666666; padding: 0%; border-radius: 0px"]]
+[[html]]
+<!-- Random string code modified from http://www.scp-wiki.net/scp-5000-j "SCP-5000-J: The Cookie Caper" created by user DrMagnus of the SCP Wiki -->
+<style>
+p {
+color: white;
+font-size: 16px;
+line-height: 141%;
+font-family: "Courier New";
+}
+.more {
+color: cyan;
+text-decoration: underline;
+}
+</style>
+<p> 
+╏ <span style="color: blue;">DAILY NEWS PORTAL FOR CONTINENT OF</span> <span style="color: red;">NORTH AMERICA</span> <br>
+╏ READING REQUIRED FOR ALL ASF/ASI/NORTHCOM PERSONNEL <br>
+╏<br>
+╏<br>
+╏<br>
+╏<br>
+<span id="rand"></span> <br>
+╏
+</p>
+<script>
+var randomStrings = [
+"╏ NEW YORK CRIME RATE EXPERIENCING RECORD LOW ┃ <span class=\"more\">more</span> <br>╏<br> ╏ AMAZING! CO. © BUYOUT OF FIREARMS PREDICTED 158,000 ┃ <span class=\"more\">more</span> <br>╏<br> ╏ SARAGOSSA RIFT VETERANS MAY EXPERIENCE FINANCIAL BENEFIT ┃ <span class=\"more\">more</span> <br>╏<br>╏  BELOVED LAS VEGAS PROTECTOR CHARGED WITH OCCULTISM ┃ <span class=\"more\">more</span> <br>╏<br>╏ AMERICA'S RAPID OBESITY PROBLEM - CAUSED BY CHINESE REBELS ┃ <span class=\"more\">more</span> <br>╏<br> ╏ KK. © \"GLOWING TATTOOS\" MAY CAUSE CANCER ┃ <span class=\"more\">more</span>",
+"╏ AFRICAN VACATION OPPORTUNITIES - ASF BENEFITS ┃ <span class=\"more\">more</span> <br>╏<br> ╏ LAS VEGAS PROSTITUTION AT RECORD HIGH ┃ <span class=\"more\">more</span> <br>╏<br> ╏ SARAGOSSA RIFT MAY BE STILL ONGOING, SAYS ASF ┃ <span class=\"more\">more</span> <br>╏<br>╏  AMAZING! CO. © PARTNERS WITH COCA-COLA ┃ <span class=\"more\">more</span> <br>╏<br>╏ AMERICA'S RAPID OBESITY PROBLEM - CAUSED BY CHINESE REBELS ┃ <span class=\"more\">more</span> <br>╏<br> ╏ NEW URBANIZATION INFRASTRUCTURE PROJECT - SUPPOSED RATMEN ┃ <span class=\"more\">more</span>",
+"╏ KIDS RADIO STATION FOLLOWING VEGAS PROTECTOR GOES DARK ┃ <span class=\"more\">more</span> <br>╏<br> ╏ LAS VEGAS PROSTITUTION AT RECORD HIGH ┃ <span class=\"more\">more</span> <br>╏<br> ╏ 1/3 OF PROTECTION CLAIMS PRESENT AT SARAGOSSA ┃ <span class=\"more\">more</span> <br>╏<br>╏  AMAZING! CO. © PARTNERS WITH COCA-COLA ┃ <span class=\"more\">more</span> <br>╏<br>╏ 79% GOVERNMENT APPRECIATION RATING IN AFRICA  ┃ <span class=\"more\">more</span> <br>╏<br> ╏ MIDDLE-EASTERN NIHILIST OCCULTISM FINALLY DYING ┃ <span class=\"more\">more</span>",
+"╏ AMAZING! CO. RELEASES NEW © \"AMAZING COCAINE SODA\" - CONTAINS COCAINE ┃ <span class=\"more\">more</span> <br>╏<br> ╏ RIGHTEOUSNESS ON THE RISE, SOURCES SAY ┃ <span class=\"more\">more</span> <br>╏<br> ╏ NEW FUNK MAKES RESURGENCE IN RURAL REGIONS ┃ <span class=\"more\">more</span> <br>╏<br>╏ NATIONAL CENSUS AND AUDIT NEXT MONTH ┃ <span class=\"more\">more</span> <br>╏<br>╏ <span style=\"color: red;\">[DELETED]</span> <br>╏<br> ╏  INTERNATIONAL TRADE LAW FOR \"SPICY CARROTS\" REWRITTEN  ┃ <span class=\"more\">more</span>"
+];
+window.onload = function() {
+var text = randomStrings[Math.floor(Math.random() * randomStrings.length)]
+document.getElementById("rand").innerHTML = text;
+}
+
+</script>
+[[/html]]
+[[div style="background-color: blue; color: yellow; font-size: 16px; border: solid 2px #666666; padding: 0%; border-radius: 0px"]]
+[[=]]
+╏        © ANNA BBS TUNNEL          ┃  Serial  ┃  Connected  ┃  Login time ##red|[ERROR]##  ╏
+[[/=]]
+[[/div]]
+[[/div]]
+

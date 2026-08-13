@@ -1,0 +1,469 @@
+---
+title: "Черновик Redseet"
+tags: []
+page_id: "598350725"
+site: "obscurative"
+slug: "draft:redseet"
+revision: 398
+revision_id: "1389383795"
+author: 2679482
+timestamp: 1646540247
+---
+
+[[module Rate]]
+
+[[tabview]]
+
+[[tab Новый год]]
+[[module CSS]]
+.plashqa_frame {
+  width: 100%;
+  border: 0;
+}
+[[/module]]
+
+[/system:page-tags/tag/к_вычитке анн нубас]
+
+[[iframe http://scp-ru.wdfiles.com/local--files/draft:jewalky/apcs-js.html?scp-number=SCP-0000&scp-class=keter&non-standard-class=A&lineFirst=%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%20%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%204&lineSecond=%D0%9A%D1%83%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%20%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%20%D0%98%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,%2044-871&lineThird=%D0%A5%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C%20%D0%B2%20%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B5%2032%D0%92%D0%90%20%D0%97%D0%BE%D0%BD%D1%8B%207&danger-select-1=%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B2%D0%BE%D0%B7%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5&danger-select-2=%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81&danger-select-3=%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D0%B7%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B&danger-select-4=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%20%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&danger-select-5=%D0%9F%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0&danger-select-6=%D0%97%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D0%B0&activation=%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82&threat-ind=6&containment-risk=KC&k-class=CK class="plashqa_frame" height="150"]]
+
+[[html]]
+This is rendered through [[HTML]] tag
+[[/html]]
+
+@@@@
+@@@@
+
+[[html]]
+<style>
+  audio { width: 100%; }
+</style>
+<audio preload="metadata" controls="">
+  <source src="http://scp-ru.wdfiles.com/local--files/draft%3Amaestrogame/founded1.mp3">
+</audio>
+[[/html]]
+
+@@@@
+@@@@
+
+[[module CSS]]
+.tabview-centered .yui-nav {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+[[/module]]
+
+[[div class="tabview-centered"]]
+[[tabview]]
+[[tab Вкладка 1]]
+Текст на вкладке 1
+[[/tab]]
+[[tab Вкладка 2]]
+Текст на вкладке 2
+[[/tab]]
+[[tab Вкладка 3]]
+Текст на вкладке 3
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+@@@@
+@@@@
+
+
+[[module CSS]]
+@keyframes switch2 {
+  0% {
+    font-size: 0;
+  }
+  50% {
+    font-size: 0;
+  }
+  51% {
+    font-size: inherit;
+  }
+  100% {
+    font-size: inherit;
+  }
+}
+.switch2-container .switch-1 {
+  animation: 4s infinite steps(1, start) switch2;
+}
+.switch2-container .switch-2 {
+  animation: 4s infinite steps(1, start) switch2;
+  animation-delay: -2s;
+}
+[[/module]]
+
+[[div]]
+А тут текст, который [[span class="switch2-container"]] [[span class="switch-1"]]не[[/span]][[span class="switch-2"]]иногда[[/span]] [[/span]] может меняться вместе с потоком.
+[[/div]]
+
+@@@@
+
+@@@@
+
+Магические вкладки кардалак
+[[html]]
+<script>
+window.sessionStorage.corrupted='';
+</script>
+[[/html]]
+[[tabview]]
+[[tab Вкладка 1]]
+[[html]]
+<style>
+body {font-family: verdana,arial,helvetica,sans-serif;font-size:12.8px;}
+</style>
+<script>
+//console.log('trigger 1');
+var scriptTag = document.scripts[document.scripts.length - 1];
+var parentTag = scriptTag.parentNode;
+
+function checkCorrupted() {
+  if (!!window.sessionStorage.corrupted) {
+    parentTag.querySelector('.data-corrupted').innerHTML = '[ДАННЫЕ ПОВРЕЖДЕНЫ]';
+    return;
+  }
+  window.requestAnimationFrame(checkCorrupted);
+}
+window.requestAnimationFrame(checkCorrupted);
+//console.log(1, window.getComputedStyle(document.body))
+</script>
+<div class="data-corrupted">Тут данные на вкладке 1</div>
+[[/html]]
+[[/tab]]
+[[tab Вкладка 2]]
+[[html]]
+<style>
+body {font-family: verdana,arial,helvetica,sans-serif;font-size:12.8px;}
+</style>
+<script>
+//console.log('trigger 2');
+var scriptTag = document.scripts[document.scripts.length - 1];
+var parentTag = scriptTag.parentNode;
+
+function checkCorrupted() {
+  if (!!window.sessionStorage.corrupted) {
+    parentTag.querySelector('.data-corrupted').innerHTML = '[ДАННЫЕ ПОВРЕЖДЕНЫ]';
+    return;
+  }
+  window.requestAnimationFrame(checkCorrupted);
+}
+window.requestAnimationFrame(checkCorrupted);
+</script>
+<div class="data-corrupted">Тут данные на вкладке 2</div>
+[[/html]]
+[[/tab]]
+[[tab Вкладка 3]]
+[[html]]
+<style>
+body {font-family: verdana,arial,helvetica,sans-serif;font-size:12.8px;}
+</style>
+<script>
+//console.log('trigger 3');
+function checkTrigger() {
+  var cs = window.getComputedStyle(document.body);
+  if (cs.display !== "" && (cs.blockSize !== "auto" || cs.perspectiveOrigin.indexOf('px')!==-1)) {
+    //console.log('display', window.getComputedStyle(document.body).display, window.getComputedStyle(document.body));
+    window.sessionStorage.corrupted='1';
+    console.log('data corrupted');
+    return;
+  }
+  window.requestAnimationFrame(checkTrigger);
+}
+window.requestAnimationFrame(checkTrigger);
+</script>
+<div class="data-corrupted">Теперь данные повреждены</div>
+[[/html]]
+[[/tab]]
+[[/tabview]]
+
+НЕ ПРОКРУЧИВАЙТЕ ВНИЗ
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[html]]
+<body>
+<div id="marquee" class="" style=" font-size: 130%;background: black; color: white; white-space: pre;" direction="left" scrollamount="0" bgcolor="black" color="white"><span>  Штормовое предупреждение! На территории штата сформировался устойчивый Ксау-шторм. Не поддавайтесь панике и четко следуйте инструкциям, которые будут доводиться до граждан в режиме реального времени                                                Усиление Ксау-шторма до  третьей категории подтверждено                                                              не покидайте домов до поступления сигнала «отбой»                                                             не смотрите в окна, что бы ни происходило на улице                                                             свяжите детей на случай, если их маниакальное желание покинуть дом станет невыносимым. Не слушайте ничего из того, о чем будут говорить ваши дети                                                              закройте все двери и окна. Убедитесь, что из дома нет других выходов. Не смотрите на стены. В стенах нет других выходов. Они никуда не ведут. Пожалуйста, не думайте о стенах. Игнорируйте звуки из-за стен. Снаружи ничего нет                                                             закройте глаза и зажмите уши                                                             я не стану аномалом                                                             нет                                                             НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО НОРМАЛЬНОСТЬ ПРЕВЫШЕ ВСЕГО... Я УМРУ, НО НЕ СТАНУ АНОМАЛОМ
+
+                                
+</span></div>
+<script>
+const inViewport = (entries, observer) => {
+  console.log('IN VIEWPORT', entries, observer);
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.setAttribute('class', 'animating');
+    }
+  });
+};
+
+const Obs = new IntersectionObserver(inViewport);
+const obsOptions = {
+  root: null,
+  trackVisibility: true,
+};
+
+Obs.observe(document.getElementById('marquee'));
+</script>
+<style>
+#marquee {
+  padding-left: 100%;
+  overflow: hidden;
+}
+#marquee.animating span {
+  display: inline-block;
+  animation: marquee 180s linear infinite;
+}
+
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+</style>
+</body>
+[[/html]]
+
+
+[[module ListUsers users="."]]
+[/draft:%%name%%/edit/true/t/8351949/title/%%name%%+черновик Создать авторский черновик]
+[[/module]]
+
+[[/tab]]
+
+[[tab Деятельность ИР в иных мирах]]
+
+
+
+[[/tab]]
+
+
+[[tab Таймлайн]]
+
+[[div id="timeline"]]
+
+[[include include:timepoint
+| year = 7
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:mario
+| name = Первое путешествие, рассказ Марио Балотти
+| img = https://media.discordapp.net/attachments/692691898858733622/749649638184976434/2.png
+]]
+
+[[include include:timepoint
+| year = 11
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:black-tears
+| name = Черные слезы
+]]
+
+[[include include:timepoint
+| year = 18
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:raid
+| name = Рейд
+| img = https://media.discordapp.net/attachments/801114211937157180/803265660314320916/369f1cdcda42f46e.png?width=450&height=335
+]]
+
+[[include include:timepoint
+| year = 19
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:another-world
+| name = Другой Мир
+]]
+
+[[include include:timepoint
+| year = 14
+| max = 25
+| link = http://obscurative.wikidot.com/frontier:swamper
+| name = Гильдия Болотников
+| img = https://media.discordapp.net/attachments/668029990062915595/798206182078677022/9cfa78a034f5cfef.png?width=315&height=201
+]]
+
+
+[[/div]]
+
+[[module CSS]]
+
+#u-timeline {
+  --back: Peru; /* Цвет линии или её текстура */
+  --for: Sienna; /* Цвет событий на линии */ 
+  --height: 50px; /* Высота линии */
+  --limiter: Sienna; /* Цвет ограничителей слева и справа */
+  --timepoint-width: 20px; /* Ширина события */
+  
+  
+  
+  --hb2: calc(var(--height)/2);
+}
+
+#u-timeline hr, #u-timeline br {
+  display: none;
+}
+
+#u-timeline {
+  position: relative;
+  height: 8em;
+}
+
+#u-timeline::after {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 50%;
+  width: 100%;
+  height: var(--height);
+  margin-top: calc(var(--hb2)*(-1));
+  border: 5px solid;
+  border-color: white var(--limiter);
+  background: var(--back) 0 / contain;
+  z-index: 0;
+}
+
+#u-timeline div {
+  position: absolute;
+  margin-top: var(--hb2);
+  top: 50%;
+  width: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+#u-timeline div::after, #u-timeline a {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-top: calc(var(--height)*(-1));
+  margin-left: calc(var(--timepoint-width)*(-1));
+  width: var(--timepoint-width);
+  height: var(--height);
+  background: var(--for);
+  z-index: 1;
+}
+
+#u-timeline a {
+  z-index: 2;
+}
+
+#u-timeline div * {
+  display: none;
+}
+
+#u-timeline div:hover {
+  width: 20em;
+  margin-left: -10em;
+  background: white;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+
+#u-timeline div:hover * {
+  display: block;
+}
+
+#u-timeline .time {
+  display: block;
+  position: absolute;
+  top: calc(var(--height)*(-1));
+  left: 50%;
+  margin-left: -0.5em;
+  margin-top: -1em;
+  width: 5em;
+  text-align: left;
+  transform: rotateZ(-45deg);
+  transform-origin: left;
+}
+
+#u-timeline .name {
+  margin-top: 1em;
+}
+
+#u-timeline img {
+  width: 100%;
+}
+
+[[/module]]
+
+
+[[/tab]]
+[[tab Эмбер]]
+
+**Аванпост Эмбер** — независимый подземный аванпост, расположенный в северо-западной части Эйриса. Основан в 1984 году. Основным источником дохода является добыча драгоценных и полудрагоценных руд и камней. Оптимальная толщина межмировой оболочки и низкая напряженность поля Королева делают межпространственный импорт и экспорт относительно доступным и недорогим. Аванпост известен во всем Пограничье своей необычной и крайне привлекательной архитектурой. Основной материал строительства — камень. Население в данный момент составляет более 4 тысяч человек.
+
+++ История
+
+Аванпост был основан в 1984 году промышленным концерном "Frifield" и позиционировался как место добычи драгоценных металлов. Исследования автономными аппаратами выявили, что портал образовался внутри разветвленной пещерной системы в северо-западной части Эйриса, близ Гибрисового залива. Данная местность считается непригодной для проживания ввиду крайне высоких температур, причиной которых является горячее течение, проходящее вдоль этой части материка. Однако температура и влажность в пещерах оказалась вполне комфортной и позволяла организовать долговременное поселение.
+
+14 марта 1984 года концерн отправил первую группу колонистов, численностью в 30 человек для подготовки аванпоста к заселению. Выяснилось, что стены пещер представлены не только сложным в обработке гранитом, но и куда более податливым сланцем. Вскоре после первой группы, концерн, с небольшими промежутками отправил и остальные. Основной упор при выборе колонистов делался на технические навыки, особенно на наличие опыта в горном деле. 
+
+++ Пещерная система
+
+Пещерная система Эмбера простирается на многие километры под толщей скал и в данный момент до конца не изучена. Пещеры располагаются на глубине трехсот метров ниже уровня моря. Пещерная система имеет многочисленные выходы на поверхность, однако основными можно назвать Южный, Подводный и Северный.
+
+Главный ярус системы исследован полностью, именно в нем расположен Эмбер. Остальные восемь ярусов используются нечасто и изучены слабо. Северо-западная часть яруса затоплена морской водой. В среднем высота потолка пещер колеблется в районе 3-4 метров, достигая в своей высшей точке (Красный зал) высоты в 15 метров. 
+
+Существует множество выходов из пещер, однако наиболее крупными являются лишь Южный и Подводный, которые соединяются в большом полузатопленном зале. Здесь находится основной подводный порт Эмбера, а также верфь для подводных лодок. Северный выход немногим уступает остальным в размерах, но удобное расположение делает его крайне популярным среди пеших путешественников.
+
+К северу от верфи располагается шестиметровая "статуя Дружбы", представляющая собой огромный монумент, изображающий двух мужчин, пожимающих друг другу руки. Монумент был построен в честь открытия первого торгового пути с аванпостом Свободной Мексики. 
+
+Местность западнее монумента полностью затоплена морской водой. Здесь работает множество саун, которые привлекают богатых туристов и жителей аванпоста. Также именно в зоне затопления добываются различные виды рыб, приплывающих из вод Раскаленного океана и вольготно чувствующих себя в темных жарких туннелях.
+
+К северу от зоны затопления расположен так называемый Синий зал, прозванный так в честь многочисленных сапфиров, турмалинов и топазов, содержащихся в огромных жилах и образующих причудливые узоры на стенах и потолке зала.
+
+Красный зал, находящийся к северу от Синего похож на своего собрата с тем отличием, что стены и потолок испещрены рубинами и гранатами. Благодаря своей близости к Эмберу зал был выбран в качестве места общих собраний и проведения массовых мероприятий.
+
+Зал мечты представляет собой огромное включение пористой базальтовой и тальковой породы, благодаря чему своды зала способны гасить большую часть звуков, в том числе и эхо. Зал часто выбирают для уединения и одиноких размышлений.
+
+++ Эмбер
+
+Аванпост расположен в центре главного яруса пещерной системы. Высота свода в этом месте достигает семи метров. Основная часть построек вырезана в стенах пещеры в несколько ярусов, соединенных металлическими лестницами и мостками.
+[[/tab]] 
+
+[[tab ALCOR]]
+
+**Алькор (англ. ALCOR)** — военизированная исследовательская компания, специализирующаяся на лунных и транс-лунных исследованиях, логистических перевозок, а также занимающаяся предоставлением сил специального назначения для работы в условиях микрогравитации и внекорабельной деятельности. Основана в 2001 году американским предпренимателем Альбертом Шавхманном, в данный момент капитализация компании составляет более 7,7 млрд. долларов.
+
+**Краткая история**
+
+
+[[/tab]]
+
+
+[[/tabview]]
+

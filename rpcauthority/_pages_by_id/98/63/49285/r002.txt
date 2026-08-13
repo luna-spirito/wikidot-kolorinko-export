@@ -1,0 +1,21 @@
+---
+title: "RPC-948"
+tags: ["alpha", "black", "remnants", "rpc", "utility"]
+page_id: "986349285"
+site: "rpcauthority"
+slug: "rpc-948"
+revision: 2
+revision_id: "1034231263"
+author: 3118961
+timestamp: 1580175495
+---
+
+[[include component:rate title="RPC-948"]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- http://www.rpc-wiki.net/fragment:rpc-948-1 --]
+[!-- http://www.rpc-wiki.net/fragment:rpc-948-2 --]
+

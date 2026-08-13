@@ -1,0 +1,32 @@
+---
+title: "The Sun Is at the Horizon yet the Church Is Lit From Above"
+tags: ["alternative-content", "art", "sub-vesuvia-art"]
+page_id: "986569480"
+site: "rpcauthority"
+slug: "the-sun-is-at-the-horizon-yet-the-church-is-lit-from-above"
+revision: 5
+revision_id: "1034535693"
+author: 3118961
+timestamp: 1580795099
+---
+
+[[module CSS]]
+.painting img {
+    max-width: 90%;
+}
+[[/module]]
+
+[[module CSS]]
+@import url(/component:sub-vesuvia-theme/code/1);
+[[/module]]
+
+[[include component:rate]]
+
+[[div class="painting"]]
+[[=image 478.png]]
+[[/div]]
+
+[[=]]
+**[[[RPC-478]]]**
+[[/=]]
+

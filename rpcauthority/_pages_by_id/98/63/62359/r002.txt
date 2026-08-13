@@ -1,0 +1,43 @@
+---
+title: "German Anomalous Research Division Hub"
+tags: ["gard", "hub"]
+page_id: "986362359"
+site: "rpcauthority"
+slug: "gard-hub"
+revision: 2
+revision_id: "1034256152"
+author: 3118961
+timestamp: 1580266986
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+The German Anomalous Research Division[[footnote]] //Deutschen Anomal Forschung Abteilung// or DAFA in the original German.[[/footnote]] was established by the leaders of the German National Socialist Worker's Party (NSDAP), in collaboration with former hard-line members of the //[[[foa-hub|Reichsokkultabteilung]]]// shortly after their consolidation of power. GARD was created as a regional containment agency which would work alongside the Authority. Relations swiftly broke down when it was discovered that GARD was actively weaponizing anomalous objects. The German branch of the Authority, which had developed considerable national ties to the German government, sided with the NSDAP. Fearing a revolt, a decision was quickly met to transport all movable anomalies in Europe to less invasion-prone countries such as the United States and South Africa. Ultimately, the German branch of the Authority would sever ties with the parent organization in 1937 and merge with GARD.
+
+During and before the Second World War, GARD operated two primary branches. //Ahnenerbe//[[footnote]] Literally 'Ancestral Heritage' [[/footnote]] specialized in anomalous science, population control and eugenics, while //Schwarze Sonne//[[footnote]] Literally 'Black Sun' [[/footnote]] focused on occultic practices and applied mythology. GARD operated under direct military control, with a commanding general answering directly to Hitler and the German High Command.
+
+The outbreak of war in 1939 led to the formation of the RPC Authority Volunteer Army for the Allied Forces (RAVAAF), composed of members of the Authority, MI13, and former members of the FOA, which would act as agents within resistance cells and military units to report/combat any weaponised anomalies created by GARD and possibly contain/neutralise them. Raids on GARD facilities by the RAVAAF were common throughout the war, but it was not until 1944 that MST Alpha-1 operatives were able to assassinate the organization's command staff. The resultant mismanagement, combined with attempts by individual GARD units to seize command of the organization, led to chaos in the lower ranks and substantial loss of support among the upper echelons of the German government.
+
+The exact size and composition of GARD in the present day remains unclear. The organization has greatly decreased in size since the Second World War, and most of its original personnel are either incarcerated by the UNAAC or dead. GARD cell activity is fleeting and unpredictable, giving little indication of whether they still exist as a coherent organization.
+[[/div]]
+
+[[div class="content-panel"]]
++++ GARD RPCs
+[[module ListPages separate="no" tags="+gard +rpc" perPage="50" order="created_at"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="gard -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+
