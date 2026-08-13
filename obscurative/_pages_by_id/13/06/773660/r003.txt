@@ -1,0 +1,61 @@
+---
+title: "Theme"
+tags: []
+page_id: "1306773660"
+site: "obscurative"
+slug: "frontier:_template"
+revision: 3
+revision_id: "1359629116"
+author: 2679482
+timestamp: 1612610421
+---
+
+[[module CSS]]
+a {
+}
+[[/module]]
+
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Seaweed+Script&display=swap');
+@import url("https://use.typekit.net/ubr6sdz.css");
+
+:root {
+    --theme-base: "nuscp"
+    --theme-id: "sarkic-theme"
+    --theme-name: "Sarkicism Theme";  
+
+    --logo-image: url("http://scptestwiki.wdfiles.com/local--files/sigma%3Asark/sarkic.png");
+    --header-title: "The Sarkic Cults";
+    --header-subtitle: "nom god";
+    --header-font:  banshee-std;
+    --gradient-header: url(http://scptestwiki.wdfiles.com/local--files/sigma%3Asarkic-theme/paper-1074131_640.jpg);
+    --header-background-image-size: 640px 7.5rem;
+    --diagonal-stripes: none;
+
+     --white-monochrome: 255, 230, 230;
+    /* white */
+    --pale-gray-monochrome: 247, 220, 220;
+        /* v light gray for blockquotes and stuff */
+    --light-pale-gray-monochrome: 247, 220, 220;
+    /* very light pale gray for misc. use */
+    --very-light-gray-monochrome: 230, 180, 180;
+    /* light accent gray for login status */
+    --gray-monochrome: 100, 66, 66;
+    /* gray */
+    --dark-gray-monochrome: 70, 48, 48;
+    /* dark accent gray for sidebar background */
+    --black-monochrome: 38, 12, 12;
+    /* black */
+    --blood-red: 95, 0, 13;
+    /* dried blood */
+    
+    --swatch-background: 255, 244, 208;
+
+    /* Primary Header Colors */
+    --swatch-headerh1-color: var(--blood-red);
+    --swatch-headerh2-color: var(--blood-red);
+}
+[[/module]]
+

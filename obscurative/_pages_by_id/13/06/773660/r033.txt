@@ -1,0 +1,76 @@
+---
+title: "Theme"
+tags: []
+page_id: "1306773660"
+site: "obscurative"
+slug: "frontier:_template"
+revision: 33
+revision_id: "1359632556"
+author: 2679482
+timestamp: 1612629552
+---
+
+[[module CSS]]
+#header h1 a {
+  color: transparent;
+font-family: 'cursive';
+}
+
+#header h1 a::before {
+    content: "ПОГРАНИЧЬЕ";
+    color: #ce5419;
+    text-shadow: 3px 3px 5px #000000;
+    font-size: 250%;
+}
+
+#header h2 span {
+    color: transparent;
+}
+
+#header h2::before {
+  content: none;
+}
+
+#header h2 span::before {
+    content: "";
+    color: #ce5417;
+    text-shadow: 3px 3px 5px #000000;
+}
+
+
+#skrollr-body {
+  position: relative;
+}
+
+#skrollr-body::after, #skrollr-body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#skrollr-body::before {
+  background: url(https://sons-of-athena.wdfiles.com/local--files/world-2/background.jpg) top no-repeat;
+  background-size: 100% auto;
+  z-index: -4;
+}
+
+#skrollr-body::after {
+  background: linear-gradient(#ffc4, #d3ad78cc 53vw, #d3ad78 63vw);
+  z-index: -3;
+}
+ 
+ 
+
+a {
+  color: #e6283c;
+}
+
+a::visited, a::hover {
+ color: #850005;
+}
+
+[[/module]]
+

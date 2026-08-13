@@ -1,0 +1,17 @@
+---
+title: "Theme"
+tags: []
+page_id: "1306773660"
+site: "obscurative"
+slug: "frontier:_template"
+revision: 80
+revision_id: "1480131098"
+author: 4518363
+timestamp: 1660926749
+---
+
+[[include frontier:theme]]
+[[span id="dez"]][[[https://dez.obscurative.ru/obs/%%name%% | →]]][[/span]]
+
+%%content%%
+
