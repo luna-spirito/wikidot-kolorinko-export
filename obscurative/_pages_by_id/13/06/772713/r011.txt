@@ -1,0 +1,322 @@
+---
+title: "Redseet Test"
+tags: []
+page_id: "1306772713"
+site: "obscurative"
+slug: "frontier:redseet-test"
+revision: 11
+revision_id: "1359627501"
+author: 2679482
+timestamp: 1612602974
+---
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+[[/module]]
+
+
+
+
+[[div style="border: 3px outset #e60000;padding:20px;width:377px;margin:auto;background-color:#212121;font-family:'Neucha';font-size:137%;color:rgb(244, 244, 244)"]]
+[[=]]
+Это красивая табличка.
+[[/=]]
+[[/div]]
+
+
+------
+
+[[div style="margin:auto; border: solid 1px black; width: 570px; padding: 20px; margin:auto; background: white;"]]
+А вот это еще одна.
+
+
+= -- ● --
+[[/div]]
+
+
+[[div style="border:solid 2px #004F00; background:#f2f2c2; padding:5px; margin-bottom: 5px;"]]
+
+[[=]]
+[[size 130%]] //**Вечнохолодные**// [[/size]]
+[[/=]]
+
+[[div style="overflow:auto"]]
+
+[[div style="display: inline-block; border:solid 1px #004F00; background:#FFFDD9; padding: 5px; float: left; margin-bottom: 5px; width: 260px; min-height: 100px;"]]
+[[size 90%]]//ah tagáere cæ-lónthêdde
+phele ah méigga thære ccíde
+migét ahôde fæ fædáde co fæth todê
+ah tagáere cæ-lónthêdde
+me ah táror//
+
+------
+
+//наконец-то я нашла то, что искала
+место, где совесть меня не гложет
+ибо я — странница, что набрела на ещё более странную войну
+наконец-то я нашла то, что искала
+так прими же меня//^^1^^[[/size]]
+[[/div]]
+
+[[div style="border: solid 1px #004F00; background:#FFFDD9; padding:5px; margin: 0 0 5px 280px; min-height: 250px;"]]
+Вечнохолодные -- древний, но сейчас практически исчезнувший народ, чья родина -- земные планы.^^2.^^
+
+поиск новой, экзотической дичи заводил их в столь отдалённые от земных планов места, как Круговерть и даже низы Разбитых Сосудов.
+[[/div]]
+[[/div]]
+[[div style="border:solid 1px #004F00; background:#FFFDD9; padding: 5px; margin-bottom: 3px;"]]
+//Тела их стройны, гибки и укутаны в одежды из искрящейся паутины. Руки и ноги тонки, но необычайно сильны, а с красотой лиц сравнится лишь представляемая ими опасность. У них много имён, но в этих краях их называют Вечнохолодными, а сами себя они величают Mhlánt Mæbê. Они капризны и непостоянны, будто дети, и, как и любые дети, жестоки. Три вещи в этом мире распаляют их ледяные сердца более всего: пляски, охота и пытки.// -- Джуунарр Возвращённый, "Отзвуки".^^5.^^
+[[/div]]
+
+^^1: Стихотворение или отрывок из песни на языке Вечнохолодных. Обнаружено Авраамом Бен Иешуой, было вырезано на несущей опоре одного из старых домов Провиденса. Перевод выполнен госпожой Куори Неицич.^^
+^^2: Таким образом, они по праву носят титул Второго народа Нинхурсаг. Попытки некоторых личностей оспорить этот факт не увенчались успехом.^^
+^^5: При всём его авторитете, нельзя считать Джуунарра достоверным кладезем знаний. Он, несомненно, один из самых старых и самых умных Древних, что приходили в Библиотеку, но за годы заточения даже самый стойкий разум склонен искажаться. Его таблички изобилуют неточностями и противоречиями другим источникам. -- Л.С.^^
+[[/div]]
+
+
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,wght@1,300&display=swap');
+.page {
+     float: center;
+     border: solid 4px #444444;
+     padding: 1px 15px;
+     margin: 10px 10px 10px 40px;
+     box-shadow: 2px 1px 3px rgba(0,0,0,.2);
+     background: white;
+     width: 60%;
+     margin:auto;
+     font-family: 'Piazzolla', serif;
+     color: black;
+     font-size: 110%;
+     
+}
+[[/module]]
+
+
+@@ @@
+
+@@ @@
+
+------
+
+@@ @@
+
+[[div style="background: url(http://scpfoundation.ru/local--files/djkaktus-s-proposal/amber.png) center no-repeat ; border: solid 2px #000000; width: 570px; padding: 1px 15px; margin: 0 auto; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+++ Опрашивающий:
+[ДАННЫЕ УДАЛЕНЫ]
+
+++ Опрашиваемый:
+Член туземного племени Восточной Сибири с отсутствующим самоназванием. Положение в общине и какая-либо содержательная информация отсутствует.
+
+------
+
+{{[НАЧАЛО СТЕНОГРАММЫ]}}
+
+**Опрашивающий:** Объясните мотивы нападения вашего племени на школу. Вы казнили весь преподавательский состав, фундамент здания был раздроблен подручными инструментами.
+
+**Опрашиваемый:** Они учили о том, что есть небо.
+
+**Опрашивающий:** В чём проблема?
+
+**Опрашиваемый:** Нету никакого неба. Есть земля и ветер. Ветер творит снег, прикасаясь к воде.
+
+**Опрашивающий:** Вы недавно рассуждали о какой-то синей точке, по видимому не на небе, а в глубине ветров. Называли её Небтеул-хаагн. Повторите.
+
+**Опрашиваемый:** В глубине самого далёкого ветра находится яйцо из снежной дымки, оно цвета свежего льда. Внутри него свои страшные ветры. //[длительное молчание]//
+
+**Опрашивающий:** Продолжайте. Чьё это яйцо? Кто из него должен вылупиться.
+
+**Опрашиваемый:** //[молчание]//
+
+**Опрашивающий:** Продолжайте. Иначе мы сделаем это снова. //[отодвигается от стола]//
+
+**Опрашиваемый:** //[полушёпотом]// Яйцо Серого Кита... Когда туманная дымка разобьётся, Серые Киты поплывут по ближним ветрам. А зарево будет чистейшим. Зимний Тур своими рогами вскроет каждого Кита, серп месяца вспорет утробу мрака. //[короткое молчание]// Когда брюхо последнего кита будет открыто, то земля и ветер перестанут быть по разные стороны.
+
+**Опрашивающий:** Объясните смысл своего последнего предложения.
+
+**Опрашиваемый:** Земля это земля, на ней остаются. Ветер это ветер, он уносит от тех, кто остался. Когда Серые Киты будут вскрыты, ветер упадёт на землю, и ушедшие будут вместе с теми, кто остался. Больше не будет ни тех, ни других. Будет Великая Груда всех кто ушёл, а на ней будут и те, кто остался. Но тогда разницы не будет. В Груду будет собрано всё, и не будет больше унесённого. И прекратятся стенания.
+
+**Опрашивающий:** Почему стенания прекратятся?
+
+**Опрашиваемый:** Потому что ветер упадёт на землю. //[молчание]// Он не будет уносить, всё будет оставаться, а всё что было унесено, будет здесь. Сложено в кучку. В горку. В груду. Когда всё собрано вместе, это хорошо. Например, коренья собраны вместе, семья собрана вместе. Нет ушедших, нет недостатка.
+
+**Опрашивающий:** Как скоро то самое яйцо вылупится?
+
+**Опрашиваемый:** //[усмехается]// А вы разве не видите, что ещё чуть-чуть? Первые Киты просочились сквозь трещинки, поплыли по ближним ветрам, первым Китам вспороли брюхо, первые груды насобирались. Но это всё малое. Малое перед большим. Вы сами пришли сюда, потому что видите это. Вы делаете с нами это и просите в страхе рассказывать, но наших рассказов вам всегда мало. Почему вы продолжаете? Мы же вместе: я, и ты, и все, кто за дверью... Вместе будем сложены в Груду, и даже ваши злые мысли будут. Вы сами всё поймёте, когда будете уложены. И я всё пойму.
+
+{{[КОНЕЦ СТЕНОГРАММЫ]}}
+[[/div]]
+
+------
+
+------
+
+------
+
+
+[[module CSS]]
+/* ---- Визуальная тема, по мотивам темы Второго Хитота и Саркической темы, с элементами от темы Flopstyle ---- */
+/* ---- http://scp-wiki.wikidot.com/theme:hytoth ---- http://scptestwiki.wikidot.com/sigma:sarkic-theme ---- */
+
+#header h1 a {
+    font-size: 260%;
+    color: transparent;
+    text-shadow: none;
+    font-family: 'Marck Script', cursive;
+}
+ 
+#header h1 a::before {
+    content: "ПОГРАНИЧЬЕ";
+    color: #8B4513;
+    text-shadow: 3px 3px 5px #000000;
+}
+ 
+
+#header h2 span {
+    font-size: 160%;
+    color: transparent;
+    text-shadow: none;
+    font-family: 'Marck Script', cursive;
+}
+#header h2 span::before {
+    content: "Мир-2";
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+
+div#container-wrap {
+    background: url(http://scp-wiki.wdfiles.com/local--files/theme%3Ahytoth/autumn_bg.png) repeat-x;
+}
+
+#header {
+    background-image: url(http://scp-ru.wdfiles.com/local--files/draft%3Agattebara/eye.png);
+}
+
+a {
+    color: #B52B19;}
+ 
+a.newpage {
+    color: #B52B19;}
+
+blockquote,
+div.blockquote {
+    border: solid 1px #43130D;
+    background-color: #f5f5f5;
+    width: 60%;
+    margin:auto;
+}
+ 
+hr {
+    background-color: #665731;
+}
+
+ h1, h2, h3, h4, h5, h6{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     margin-bottom: .57em;
+     font-family: 'Montserrat Alternates', sans-serif;
+ 
+     word-break: unset;
+}
+
+div.tabula {background-color:#FCF5E0; padding: 1px 8px; border: solid 4px #444444; box-shadow: 2px 1px 3px rgba(0,0,0,.2);}
+div.opening {float: center; border: solid 2px #800000; width: 570px; padding: 1px 15px; margin:0 auto; box-shadow: rgba(0,0,0,.2); background-color: #fdd3af; margin-bottom: 10px;}
+div.nicole {float: center; border: solid 2px #43130D; width: 570px; padding: 1px 15px; margin:0 auto; box-shadow: rgba(0,0,0,.2); background-color: #fbf2b7; margin-bottom: 10px;}
+
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-color:#ffd585; /* color between tab list and content */
+}
+ 
+.yui-navset .yui-nav a,
+.yui-navset .yui-navset-top .yui-nav a {
+    background-color: #ffd585 ! important; /* tab background */
+    border-color: #ffd585;
+    color: #000000;
+    transition: 0.125s;
+}
+ 
+.yui-navset .yui-nav a em {
+background-color: #6a0702;
+box-shadow: 0px 1px 2px rgba(106,7,2,0.7);
+border-color: #6a0702;
+color: #ffd3af;
+}
+ 
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a:focus,
+.yui-navset .yui-nav .selected a:hover {
+    background-color: #ffd585; /* selected tab background */
+    color: black;
+}
+ 
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a em {
+    border-color: #cb8d58;
+    box-shadow: 0px 1px 2px rgba(106,7,2,0.5);
+ background-color: #ffd3af;
+ color: #6a0702;
+}
+ 
+.yui-navset .yui-content {
+    background-color: #ffd585; /* content background color */
+}
+ 
+.yui-navset .yui-content,
+.yui-navset .yui-navset-top .yui-content {
+    border-color: #ffd585; /* content border */
+    border-top-color:#ffd585; /* different border color */
+}
+ 
+.yui-navset-left .yui-content {
+    border-left-color: #b7a9a9; /* different border color */
+}
+
+
+#side-bar .side-block {
+    border: 1px solid #40150d;
+    box-shadow: 0 2px 6px rgba(64, 21, 13, 1);
+    background: #ffd3af!important;
+    border-radius: 2px;
+}
+#side-bar .heading {
+    color: #40150D;
+    border-bottom: solid 1px #40150d;
+}
+ 
+#side-bar img {
+    filter: hue-rotate(70deg);
+    -webkit-filter: hue-rotate(70deg);
+}
+#side-bar div.side-block:nth-child(7) > div:nth-child(1) > div:nth-child(1) img {
+    filter: none;
+    -webkit-filter: none;
+}
+ 
+
+#top-bar ul li ul {
+    border: solid 1px #40150D;
+}
+#top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-top: 1px solid #40150D;
+}
+ 
+#top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    background: #c84c02;
+    color: #ffffff;
+}
+#top-bar ul li ul a, #top-bar a:hover {
+    color: #943301;
+}
+#top-bar ul li.sfhover a:hover,
+#top-bar ul li:hover a:hover {
+    background: #EA7749; /* top bar hover background color */
+}
+[[/module]]
+

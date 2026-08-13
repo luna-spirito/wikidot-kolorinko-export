@@ -1,0 +1,40 @@
+---
+title: "Redseet Test"
+tags: []
+page_id: "1306772713"
+site: "obscurative"
+slug: "frontier:redseet-test"
+revision: 4
+revision_id: "1359627165"
+author: 2679482
+timestamp: 1612600959
+---
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+[[/module]]
+
+[[div style="border: 3px outset #e60000;padding:20px;width:377px;margin:auto;background-color:#212121;font-family:'Neucha';font-size:137%;color:rgb(244, 244, 244)"]]
+[[=]]
+Это красивая табличка.
+[[/=]]
+[[/div]]
+
+
+------
+
+[[div style="margin:auto; border: solid 1px black; width: 570px; padding: 20px; margin:auto; background: white;"]]
+А вот это еще одна.
+
+
+= -- ● --
+[[/div]]
+
+[[span class="blink"]]
+= **γρяζηыϊ ςβετ ζαдυωιτ ηεδο**
+[[/span]]
+
+[[span class="antimeme"]]А вот тут ничего нет, тебе кажется[[/span]]
+
+[[/div]]
+

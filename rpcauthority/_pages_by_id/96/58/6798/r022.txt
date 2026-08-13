@@ -1,0 +1,42 @@
+---
+title: "Lowest Rated Pages"
+tags: ["information"]
+page_id: "96586798"
+site: "rpcauthority"
+slug: "lowest-rated-pages"
+revision: 22
+revision_id: "1075276371"
+author: 3118961
+timestamp: 1587836814
+---
+
+[[module CSS]]
+#page-title {display: none}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Low Rated Pages
+[[/div]]
+
+= **DO NOT USE THIS AS A DOWNVOTE LIST**
+
+[[div class="content-panel"]]
+= Unrated Articles
+[[div style="margin-left: 20px; margin-right: 20px;"]]
+[[module ListPages tags="rpc, rpc-j, tale, document, alternative-content, -archived" category="-contest" rating="<1" perPage="15" order="votes" separate="false"]]
+%%rating%% %%title_linked%% 
+[[/module]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel"]]
+[[div style="margin-left: 20px; margin-right: 20px;"]]
+= Lowest Rated Articles
+[[module ListPages tags="rpc, rpc-j, tale, document, alternative-content, -archived" category="-contest" perPage="15" votes=">0" order="rating" separate="false"]]
+||%%rating_decimal%% stars ##666| - %%rating_votes%%##||%%title_linked%%||
+[[/module]]
+[[/div]]
+
+Note: Ratings may be skewed by invalid votes
+[[/div]]
+

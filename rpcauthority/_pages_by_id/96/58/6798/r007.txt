@@ -1,0 +1,74 @@
+---
+title: "Lowest Rated Pages"
+tags: ["information"]
+page_id: "96586798"
+site: "rpcauthority"
+slug: "lowest-rated-pages"
+revision: 7
+revision_id: "540970181"
+author: 3118961
+timestamp: 1546136880
+---
+
+[!-- RPC Block --]
++ DO NOT USE THIS AS A DOWNVOTE LIST
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+
+[[/module]]
+
+[[div style="font-weight: bold; text-align: center; color: #600;"]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Low Rated Pages
+[[/div]]
+------
+[[/div]]
+[[div style="color: #05214f;"]]
+[[=]]
++ __Unrated Articles__
+[[/=]]
+
+[!-- POPULARITY OF ALL TIME BLOCK --]
+
+[[div class="content-panel standalone"style="font-size: 100%; font-weight: 550; text-align: left; color: #05214f;"]]
+[[div style="margin-left: 20px; margin-right: 20px;"]]
+
+[[module ListPages tags="rpc, rpc-j, tale, log, personnel, photograph, writings, footage, media, acquiredmedia, lore, archived" category="*" rating="<1" perPage="15" order="votes desc desc" separate="false"]]
+(%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+
+~~~~
+
+------
+@@@@
+@@@@
+@@@@
+
+[[=]]
++ __Lowest Rated Articles__
+[[/=]]
+
+[!-- LOWEST RATED OF ALL TIME BLOCK --]
+
+[[div class="content-panel standalone"style="font-size: 100%; font-weight: 550; text-align: left; color: #05214f;"]]
+[[div style="margin-left: 20px; margin-right: 20px;"]]
+
+[[module ListPages tags="rpc, rpc-j, tale, log, personnel, photograph, writings, footage, media, acquiredmedia, lore, archived" category="*" perPage="15" votes=">0" order="rating desc desc" separate="false"]]
+(%%rating%% %%rating_votes%%) %%title_linked%% 
+[[/module]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+[[div style="color:transparent;"]]
+uwu
+[[/div]]
+[[/div]]
+

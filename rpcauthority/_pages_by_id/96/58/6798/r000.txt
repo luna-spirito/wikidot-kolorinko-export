@@ -1,0 +1,33 @@
+---
+title: "Lowest Rated Pages"
+tags: ["information"]
+page_id: "96586798"
+site: "rpcauthority"
+slug: "lowest-rated-pages"
+revision: 0
+revision_id: "136088898"
+author: 4240294
+timestamp: 1533060853
+---
+
+[!-- RPC Block --]
++ DO NOT USE THIS AS A DOWNVOTE LIST
+[[div class="feature-block"]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Lowest Rated RPCs
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating="<0"  tags="rpc,site,personnel,tale" category="*" order="rating" perPage="50" separate="false"]]
+%%title_linked%% (%%rating%%)
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+[[/div]]
+

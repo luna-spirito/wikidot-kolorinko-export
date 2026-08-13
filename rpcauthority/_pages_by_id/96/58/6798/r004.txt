@@ -1,0 +1,32 @@
+---
+title: "Lowest Rated Pages"
+tags: ["information"]
+page_id: "96586798"
+site: "rpcauthority"
+slug: "lowest-rated-pages"
+revision: 4
+revision_id: "441129644"
+author: 3952836
+timestamp: 1543800261
+---
+
++ DO NOT USE THIS AS A DOWNVOTE LIST
+[[div class="feature-block"]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Pages Under the Deletion Threshold
+[[/div]]
+[[div class="panel-body"]]
+
+[[module ListPages rating="<30" votes=">0" category="*" votes=“>5” order="votes desc" perPage="50" separate="false"]]
+%%title_linked%% (%%rating%%) %%rating_votes%%
+[[/module]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+[[/div]]
+
