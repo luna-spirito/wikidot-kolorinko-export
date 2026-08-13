@@ -1,0 +1,138 @@
+---
+title: "Тренировочная площадка"
+tags: []
+page_id: "1329689076"
+site: "obscurative"
+slug: "testing-grounds"
+revision: 8
+revision_id: "1497811339"
+author: 6037747
+timestamp: 1669378890
+---
+
+Добро пожаловать на тренировочную площадку!
+
+Данное пространство направленно на развитие писательских навыков. Здесь вы можете выкладывать свои тренировочные работы, включая находящиеся вне лора Obscurative. Оттачивать идеи, пробовать новые форматы, стили, жанры, прочие задумки и получать обратную связь.
+
+Помимо написания собственных тренировочных работ вы можете принимать участие в предложении и выполнении упражнений для развития писательского навыка.
+
+[[div style="border: 2px dashed gray; border-radius: 10px; padding: 5%; width: 70%;margin: auto;"]]
+
+**Тренировочные работы**
+
+Здесь находятся работы вне лора Obscurative. Отвлечённые работы для тренировки, улучшения навыков написания различных работ.
+Для публикации в данной области добавьте к работе тег: //"Тренировочная_площадка"//.
+
+[[collapsible show="Работы площадки" hide="Скрыть Работы площадки"]]
+
+[[module ListPages category="*" tag="Тренировочная_площадка" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+**Упражнения**
+
+Под спойлерами вы можете ознакомиться с упражнениями для развития писательских навыков, ознакомиться с работами других участников или присоединиться. Для участия добавьте к работе тег упражнения и работа отобразится в соответствующей таблице.
+
+[[collapsible show="У1. "Случай из жизни"" hide="Скрыть У1. "Случай из жизни""]]
+Попробуйте описать случай из своей жизни. В начале может быть сложно, но с практикой навыки будут улучшаться.
+
+Тег упражнения //У1//.
+
+[[module ListPages category="*" tag="У1" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У2. "Семейный ритуал"" hide="Скрыть У2. "Семейный ритуал""]]
+
+Упражнение заключается в истории про совместную семейную деятельность, семейный ритуал.
+
+Тег упражнения //У2//.
+
+[[module ListPages category="*" tag="У2" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У3. "Любимое дело"" hide="Скрыть У3. "Любимое дело""]]
+Попробуйте поразмышлять в тексте про своё любимое дело.
+
+Тег упражнения //У3//.
+
+[[module ListPages category="*" tag="У3" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У4. "Человек"" hide="Скрыть У4. "Человек""]]
+В данном предложении предлагается описать человека. Вы можете описать знакомого человека или дать волю фантазии и описать персонажа. Попробуйте описать внешность, характер, поведение, занятие и другие свойства пришедшие вам в голову.
+Тег упражнения //У4//.
+
+[[module ListPages category="*" tag="У4" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У5. "Место"" hide="Скрыть У5. "Место""]]
+Вспомните место в котором вы часто бываете и опишите его через текст, попробуйте добавить ваши ощущения.
+
+Тег упражнения //У5//.
+
+[[module ListPages category="*" tag="У5" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+
+[[collapsible show="У6. "Сон"" hide="Скрыть У6. "Сон""]]
+В данном упражнении предлагается описать собственный сон.
+
+Тег упражнения //У6//.
+
+[[module ListPages category="*" tag="У6" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У7. "Встреча с пришельцем"" hide="Скрыть У7. "Встреча с пришельцем""]]
+Попробуйте представить и отразить в тексте вашу встречу с пришельцем.
+
+Тег упражнения //У7//.
+
+[[module ListPages category="*" tag="У7" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У8. "Сказка"" hide="Скрыть У8. "Сказка""]]
+В данном упражнении вы можете написать сказку. Цель донести до читателя определённую идею, мораль, посыл.
+
+Тег упражнения //У8//.
+
+[[module ListPages category="*" tag="У8" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У9. "Два человека и кошка"" hide="Скрыть У9. "Два человека и кошка""]]
+Попробуйте сочинить рассказ на тему ассоциаций от фразы Два человека и кошка".
+
+Тег упражнения //У9//.
+
+[[module ListPages category="*" tag="У9" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="У10. "Когда я стану состоявшейся личностью"" hide="Скрыть У10. "Когда я стану состоявшейся личностью""]]
+Попробуйте написать рассказ начинающийся с фразы "Когда я стану состоявшейся личностью".
+
+Тег упражнения //У10//.
+
+[[module ListPages category="*" tag="У10" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%|| %%rating_percent%%/%%rating_votes%% ||
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
