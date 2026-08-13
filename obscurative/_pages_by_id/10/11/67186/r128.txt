@@ -1,0 +1,60 @@
+---
+title: "Левое меню"
+tags: []
+page_id: "101167186"
+site: "obscurative"
+slug: "nav:side"
+revision: 128
+revision_id: "960130722"
+author: 5641171
+timestamp: 1569780312
+---
+
+----
+= **[[module Join Button="Стать участником" class="join"]]**
+----
+@@ @@
+**Сообщество**
+
+[[[rating|Рейтинг статей]]]
+
+[[[forum:start|Форум]]]
+
+[[[forum:recent-posts|Новые сообщения]]]
+
+@@ @@
+----
+@@ @@
+**Черновики**
+
+[[module ListUsers users="."]]
+[[[draft:%%name%% |Мой черновик]]]
+[[/module]]
+
+[[[drafts|Список черновиков]]]
+
+[[[users|Список пользователей]]]
+
+@@ @@
+-----
+@@ @@
+**Полигон**
+
+[[[sandbox|Полигон]]]
+
+[[[recent-changes|Свежие правки]]]
+
+[[[archive|Архив статей]]]
+@@ @@
+-----
+
+[[module CSS]]
+.join {
+    transition: 0.25s ease-in-out;
+    text-decoration: none;
+    color: #006199;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
