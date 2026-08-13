@@ -1,0 +1,128 @@
+---
+title: ""
+tags: []
+page_id: "986050317"
+site: "obscurative"
+slug: "main"
+revision: 48
+revision_id: "1366798538"
+author: 6037747
+timestamp: 1625122608
+---
+
+[[div style="height: 1.5em;"]]
+[[span style="float: left;"]]◀ [[[http://patagona-lab.obscurative.ru/ | Лаборатория Патагона]]][[/span]][[span style="float: right;"]][[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]] ▶[[/span]]
+[[/div]]
+
+~~~~
+
+[[div class="panel important"]]
+[[=]]
+[[size 140%]]Конкурс коротких историй завершен[[/size]]
+
+Первая тема: [[[world-1|Мир ВИК]]]
+
+Победил рассказ "[[[red-eagle|Красный Орёл]]]" за авторством [[*user Redseet]].
+
+Поздравляем победителя!
+
+[[[shortstories|Подробнее]]]
+
+[[/=]]
+[[/div]]
+
+
+
+
+
+[[module CSS]]
+.collapsible-block-content {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 5em;
+  background-color: #f8f8f8;
+}
+
+.panel .collapsible-block-content h2 {
+  margin-bottom: 0.5em; /* #ялюблюкостыли */
+}
+
+
+.list-pages-item > p, .list-pages-box + p {
+
+  margin: 0.25em;
+
+}
+[[/module]]
+
+[[div style="height: 2em;"]]
+[[/div]]
+
+
+[[div class="flex"]]
+[[div class="panel flex50"]]
+++ Лучшие миры
+[[module ListPages category="_default" name="world-*" limit="5" tags="Мир" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[worlds|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Новые миры
+[[module ListPages category="_default" limit="5" name="world-*"  tags="Мир" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
+++ Лучшие отчёты
+[[module ListPages category="database" limit="5" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[database|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Недавние отчёты
+[[module ListPages category="database" limit="5" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
++++ Лучшие технологии
+[[module ListPages category="technology" limit="3" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[technologies|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
++++ Новейшие технологии
+[[module ListPages category="technology" limit="3" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
++++ Лучшие организации
+[[module ListPages category="organizations" limit="5" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[organizations|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
++++ Новейшие организации
+[[module ListPages category="organizations" limit="5" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[div style="height: 5em;"]]
+[[/div]]
+

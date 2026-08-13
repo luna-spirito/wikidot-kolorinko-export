@@ -1,0 +1,222 @@
+---
+title: "Winter Theme"
+tags: ["theme"]
+page_id: "397128429"
+site: "rpcauthority"
+slug: "component:winter-theme"
+revision: 0
+revision_id: "439532890"
+author: 3952836
+timestamp: 1543697410
+---
+
+[[module css]]
+@import url(/component:winter-theme/code/1);
+[[/module]]
+
+[[code type="css"]]
+/*
+This Winter Seasonal Theme was created and designed by Dr. Pierson 
+for the purpose of the winter seasonal events of the Authority Website. 
+*/
+
+@import url('https://www.cssfontstack.com/Century-Gothic');
+
+#header {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter-season-theme/WinterSeason.png) 10px 15px no-repeat  !important;
+}
+
+#header h1 a {
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0px;
+    max-height: 0px;
+    color: EEEEEE;
+    opacity: 0.0; 
+    background: transparent;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size: 100%;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h1 a::before {
+    content:
+    color: #000080;
+    text-shadow: 3px 3px 3px #000;
+}
+
+#header h1 a span {
+   display: none;
+}
+
+#header h1 a:after {
+   content: "RPC Authority";
+}
+
+#page-title {
+    color: #000080;
+    padding: 0 0 0.25em;
+    margin: 0 0 0.6em;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: bold;
+}
+
+#side-bar .side-block {
+    background: #f8d8ff;
+}
+#side-bar .side-area {
+    padding: 10px;
+}
+#side-bar .heading {
+    color: #000;
+    border-bottom: solid 1px #000;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 8pt;
+    font-weight: bold;
+}
+#side-bar p {
+    margin: 0;
+}
+#side-bar div.menu-item {
+    margin: 2px 0;
+}
+#side-bar div.menu-item img {
+    width: 13px;
+    height: 13px;
+    border: 0;
+    margin-right: 2px;
+    position: relative;
+    bottom: -2px;
+}
+#side-bar div.menu-item a {
+    font-weight: bold;
+}
+#side-bar div.menu-item.inactive img {
+    opacity: 0.25;
+}
+#side-bar div.menu-item.inactive a {
+    color: #7918ad;
+}
+#side-bar div.menu-item .sub-text {
+    font-size: 80%;
+    color: #7918ad;
+}
+#side-bar div.menu-item.sub-item {
+}
+ 
+#side-bar .collapsible-block-link {
+    margin-left: 15px;
+    font-weight: bold;
+}
+#side-bar .collapsible-block-unfolded-link {
+    border-bottom: solid 1px #2A6B99;
+}
+#side-bar .collapsible-block-unfolded-link .collapsible-block-link {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 8pt;
+    color: #2A6B99;
+}
+#side-bar .collapsible-block-unfolded-link .collapsible-block-link:hover {
+    color: #2A6B99;
+    text-decoration: none;
+}
+ 
+#side-bar ul{
+    list-style-type: none;
+    padding: 0 5px 0;
+
+}
+
+a {
+    color: #5192E2
+}
+
+body {
+    background-color: #FFFFFF !important;
+    color: #000 !important;
+}
+
+.yui-navset .yui-nav .selected a, .yui-navset .yui-nav .selected a:focus, .yui-navset .yui-nav .selected a:hover {
+    background-color: #F7F7F7 !important;
+    background-image: none !important;
+}
+
+.yui-navset .yui-nav a, .yui-navset .yui-navset-top .yui-nav a {
+    background-color: #EEEEEE !important;
+    background-image: none !important;
+    color: #000 !important;
+}
+
+.heading {
+    color: #4F7399 !important;
+}
+
+div#container-wrap {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter-season-theme/WinterSeasonTheme.png) top left repeat-x !important;
+}
+
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    opacity: 0.0; 
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: 0px 0px 0px;
+
+}
+
+#header h2 span::before {
+    content: "Research, Protection, Containment";
+    color: #E7D9B5;
+    opacity: 0.0; 
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+
+.yui-content {
+    color: #000 !important;
+}
+
+a.collapsible-block-link {
+    color: #2A6B99 !important;
+}
+
+#side-bar .side-block {
+    border: 2.5px solid #4F7399;
+    box-shadow: 0 2px 2px #000000;
+    background-color: #FFFF !important;
+}
+
+#side-bar .heading {
+    border-bottom: 1px solid #000000;
+}
+
+#search-top-box-input:hover, #search-top-box-input:focus {
+    background-color: #21282D !important;
+}
+
+#search-top-box-input {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+#search-top-box-form input[type="Search Database"] {
+    background: linear-gradient(to bottom, #000, # ffe4e1, #ffffff) !important;
+    color: #ffffff;
+}
+
+table.wiki-content-table th {
+    color: #000;
+}
+
+[[/code]]
+

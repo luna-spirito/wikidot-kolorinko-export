@@ -1,0 +1,88 @@
+---
+title: "Winter Theme"
+tags: ["theme"]
+page_id: "397128429"
+site: "rpcauthority"
+slug: "component:winter-theme"
+revision: 7
+revision_id: "1358660338"
+author: 3118961
+timestamp: 1608829964
+---
+
+/*
+This Winter Seasonal Theme was created and designed by Dr. Pierson
+for the purpose of the winter seasonal events of the Authority Website.
+*/
+ 
+@import url('https://www.cssfontstack.com/Century-Gothic');
+ 
+:root {
+     --body-background: #0b0f11 url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterThemeBG.png);
+     --header-text-visibility: hidden; 
+ 
+     --page-title-color: #1749A8;
+     --sidebar-header-color: #1749A8;
+} 
+ 
+/* Background Theme */
+ 
+div#container-wrap {
+     background: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterTheme%282020%29.png) top left no-repeat !important; 
+     background-size: 100% 402px !important;
+ 
+}
+ 
+/* Background Logo */
+ 
+#header {
+    background-image: url(http://rpcsandbox.wdfiles.com/local--files/component%3Awinter/WinterThemeHeader.png);
+    background-repeat: no-repeat;
+    background-size: auto calc(9.5rem - 2.125rem);
+    background-position: 15px 12px;
+}
+ 
+/* Page Title */
+ 
+#page-title {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-weight: bold;
+}
+ 
+/* Sidebar Header */
+ 
+#side-bar .heading {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+ 
+/ * Header H1 & H2 */
+ 
+#header h1 a {
+    display: none; 
+}
+ 
+#header h2 span {
+    display: none;
+    opacity: 0;
+}
+ 
+/* Mobile Compatibility */
+ 
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+ 
+/* Background Logo */
+ 
+#header { 
+    background-size: auto calc(7.5rem - 2.125rem);
+    background-position: left 0rem top 3.5em;
+} 
+ 
+div#container-wrap {
+    background-size: auto 402px !important
+} 
+ 
+}
+
