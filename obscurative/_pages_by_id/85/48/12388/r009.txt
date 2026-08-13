@@ -1,0 +1,242 @@
+---
+title: "Черновик любителя трапов"
+tags: []
+page_id: "854812388"
+site: "obscurative"
+slug: "draft:gopstock"
+revision: 9
+revision_id: "939206256"
+author: 5034401
+timestamp: 1567685831
+---
+
+[[module Rate]]
+[[include include:object
+cat = Биологический
+| dan = Асмодей
+| iso = 3
+]]
+
+**Меры предосторожности:**
+
+**Описание:**
+[[module CSS]]
+    PCAAO Theme
+    [2018 Wikidot Theme]
+*/
+ 
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+ 
+body {
+    background-color: #eee;
+}
+ 
+#top-bar {
+top: 152px;
+}
+
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: #311c1c!important;
+    }
+}
+ 
+#header {
+    height: 140px;
+    position: relative;
+    z-index: 10;
+    padding-bottom: 40px; /* FOR MENU */
+    background: url(http://www.rpc-wiki.net/local--files/component:pcaao-theme/YellowPCAAO.png) 30px 50px no-repeat; 
+}
+ 
+#page-info {
+    color: #333;
+}
+ 
+.interwiki_title {
+    color: black;
+}
+ 
+.interwiki_entry a {
+    color: black;
+}
+ 
+/* LINKS */
+ 
+a {
+    color: #bb0001;
+}
+a:hover {
+    color: #dd0001;
+}
+a.newpage {
+    color: #dd0001;
+}
+ 
+/* PAGE TITLES */
+h1,
+#page-title,
+#page-info,
+#action-area h1 {
+    color: #c0c0c0;
+}
+ 
+div#container-wrap {
+    background: url(http://www.rpcauthority.wikidot.com/local--files/component:pcaao-theme/PCAOO-header-b.png) top left repeat-x;
+    background: var(.container-wrap);
+}
+ 
+#search-top-box-input {
+    background-color: #9E1218;
+}
+ 
+#search-top-box-input:hover {
+    background-color: #222;
+}
+ 
+#search-top-box-input {
+    background-color: #111;
+}
+ 
+#search-top-box-input:hover {
+    background-color: #222;
+}
+ 
+#search-top-box-form input[type=submit] {
+    background-color: #222;
+    background: linear-gradient(to bottom, #333, #222, #111);
+}
+ 
+#search-top-box-form input[type=submit]:hover {
+    background-color: #222;
+    background: linear-gradient(to bottom, #333, #222, #111);
+}
+ 
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h1 a::before {
+    content: "Новый Союз";
+    color: #ffff00;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 130%;
+}
+#header h1 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+ 
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: "People's Committee for the Acquisition of Anomalous Objects";
+    color: #ffff00;
+    font-family: 'Exo 2', sans-serif;
+    text-shadow: none;
+    font-size: 100%;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+ 
+#search-top-box-form input[type=submit] {
+    background-color: #222;
+    background: linear-gradient(to bottom, #333, #222, #111);
+}
+ 
+#search-top-box-form input[type=submit]:hover {
+    background-color: #222;
+    background: linear-gradient(to bottom, #333, #222, #111);
+}
+ 
+.mainCont {
+    color: #9E1218;
+    background-color: #161616;
+}
+ 
+.mainCont hr {
+  background-color: #ccc;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+ 
+blockquote {
+    border-radius: 2px;
+    background-color: #222;
+    color: #9E1218;
+    font-family: monospace;
+    border-style: solid;
+    font-size: 14px;
+    box-shadow: 0px 0px 5px 2px #0a0a0a;
+    word-wrap: break-word;
+}
+ 
+#toc {
+    border: 1px solid #9E1218;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+    color: #eee
+}
+/* ACCOUNT */
+#login-status {
+    color: white;
+}
+#login-status a {
+    background: transparent;
+    color: white;
+}
+#login-status a:hover {
+    background: transparent;
+    color: white;
+}
+#login-status ul a {
+    background: white;
+    color: #bb0001;
+}
+#login-status ul a:hover {
+    background: white;
+    color: #dd0001;
+}
+/* TABS */
+.yui-navset defaults to .yui-navset-top,
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-bottom: solid black;
+}
+ 
+/* SIDEBAR */
+#side-bar .menu-item>a:hover {
+    background-color: #bb0001;
+    color: #f3f3f3;
+    text-decoration: none;
+}
+ 
+#side-bar .heading{
+    color: #dddc00;
+}
+ 
+/* RATING MODULE */
+.rate-module-container {
+    border: 1px solid black !important;
+}
+.rate-module-stars {
+    background-color: #bb0001 !important;
+}
+ 
+.rateContainer tbody {
+    border-color: #a00;
+    background-color: #a00;
+}
+ 
+.page-rate-widget-start img {
+    filter: hue-rotate(170deg);
+}
+[[/module]]
+

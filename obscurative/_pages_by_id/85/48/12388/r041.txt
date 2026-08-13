@@ -1,0 +1,324 @@
+---
+title: "Черновик любителя трапов"
+tags: []
+page_id: "854812388"
+site: "obscurative"
+slug: "draft:gopstock"
+revision: 41
+revision_id: "943918962"
+author: 5034401
+timestamp: 1567940661
+---
+
+[[module Rate]]
+[[include include:object
+cat = Биологический
+| dan = Асмодей
+| iso = 3
+]]
+
+**Меры предосторожности:**
+
+**Описание:**
+
+
+[[tabview]]
+[[tab Имя первой вкладки]]
+Содержимое первой вкладки.
+[[/tab]]
+[[tab Имя второй вкладки]]
+Содержимое второй вкладки.
+[[/tab]]
+[[tab Имя третьей вкладки]]
+Содержимое третьей вкладки.
+[[/tab]]
+[[/tabview]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Module CSS]]
+@import "http://fonts.fontstorage.com/import/arnamumono.css";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap&subset=cyrillic');
+
+#header #login-status * {
+color: #FF8C00;
+}
+
+#header #login-status a {
+color: #FF8C00;
+}
+
+#header {
+ Background: transparent;
+ padding: 3em;
+}
+
+#header h1 a, #header h1 a:hover {
+ color: transparent;
+ margin-left: 2em;
+}
+
+#header h1 a::before {
+  content: "Университет Пандоры";
+ color: #FF8C00;
+font-size: 25px;
+}
+
+#content-wrap, #container-wrap-wrap {
+ Background: #2f3136;
+ Color: #c0c0c0;
+}
+
+#header {
+  background: linear-gradient(#151618 20px, #1e2124 10em);
+}
+
+#content-wrap {
+  background: linear-gradient(#1e2124 8px, #2f3136 40em);
+}
+
+a {
+color:#FF8C00;
+}
+a:hover {
+color:#FFA500;
+}
+a:visited {
+color:#FF8C00;
+}
+a.newpage {
+color:#FF8C00;
+}
+a.newpage:hover {
+color:#FFA500;
+text-decoration:underline;
+}
+
+hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+
+#top-bar {
+ Background: #151618;
+ height: 30px;
+ color: #c0c0c0;
+}
+
+#side-bar hr {
+ height: 1px;
+ background: #c0c0c0;
+}
+ 
+#side-bar {
+ border: solid 1px #FF8C00;
+ border-radius: 8px;
+ margin-left: 15px;
+ margin-right: 20px;
+ color: #FFA500;
+}
+
+#side-bar a {
+ color: #c0c0c0;
+}
+
+.rate-module-stars {
+    background-color: #FF8C00 !important;
+}
+ 
+.page-rate-widget-start img {
+ filter: hue-rotate(170deg);
+}
+
+blockquote {
+ border: solid 1px #888;
+ background: #1e2124;
+ border-radius: 0;
+ color: #c0c0c0;
+}
+
+#top-bar li ul li a {
+background: #1e2124;
+color: #c0c0c0;
+border: solid 1px #151618;
+box-shadow: 0 0 0 0;
+}
+
+#footer {
+background: #1e2124;
+}
+
+h1, #page-title {
+ color: #FF8C00;
+font-weight: bold;
+}
+
+#main-content {
+    margin: 0 2em 0 18em;
+    padding: 2em 2em 2em 2em;
+}
+
+/*========================================*/
+
+div.content-panel {
+ padding: 15px;
+ margin: 15px 5px;
+ border: solid 1px #888888;
+ border-radius: 10px;
+ background-color: #1e2124;
+ box-shadow: 0 0 5px 2px #1e2124;
+}
+
+div.content-panel hr {
+ background-color: #c0c0c0;
+}
+
+div.content-panel .left-column {
+ float: left;
+}
+div.content-panel .right-column {
+ float: right;
+}
+
+div.content-panel .panel-footer {
+ padding: 1px 10px;
+ color: #c0c0c0;
+ font-size: 100%
+ font-weight: bold;
+}
+
+div.content-panel .panel-footer a {
+ color: #c0c0c0;
+}
+
+div.content-panel .content-toc {
+ float: right;
+ padding: 0 20px;
+ background-color: #1e2124;
+ border: solid 1px #888888;
+ border-radius: 5px;
+ margin: 20px 0 5px 5px;
+ white-space: nowrap;
+box-shadow: inset 1px 2px 6px #1e2124;
+}
+
+/*========================================*/
+
+
+.yui-navset .yui-content {
+background: transparent;
+}
+
+.yui-navset .yui-nav .selected a {
+ background: #FF8C00;
+}
+
+.yui-navset .yui-nav .selected a:hover {
+ background: #FF8C00;
+}
+
+/*========================================*/
+
+.image-block {
+    border: solid 1px #1e2124;
+    box-shadow: 0 1px 4px rgba(0,0,0,.25);
+    width: 300px;
+}
+ 
+.image-block.block-right {
+        float: right;
+    clear: right;
+    margin: 0 2em 1em 2em;
+}
+ 
+.image-block.block-left {
+    float: left;
+    clear: left;
+    margin: 0 2em 1em 0;
+}
+ 
+.image-block.block-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+.image-block img {
+    border: 0;
+    width: 300px;
+}
+.image-block .image-caption {
+    background-color: #1e2124;
+    border-top: solid 1px #1e2124;
+    padding: 2px 0;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+color: #c0c0c0;
+}
+
+.image-block > p {
+    margin: 0;
+}
+.image-block .image-caption > p {
+    margin: 0;
+    padding: 0 10px;
+}
+
+[[/module]]
+[[module CSS]]
+/*========================*/
+
+#account-options {
+ background: #2f3136;
+ border: 1px solid #1e2124;
+}
+
+#header #account-options li a {
+ color: #c0c0c0;
+}
+
+#header #account-options li a:hover {
+ color: #c0c0c0;
+background: #FF8C00;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+#side-bar a {
+  display: inline-block;
+  width: 100%;
+}
+
+#side-bar a:hover {
+  background: #FF8C00;
+}
+
+#top-bar a:hover {
+  background: #FF8C00;
+text-decoration: none;
+}
+
+#toc {
+ color: #c0c0c0;
+ background-color: #1e2124;
+ border: 1px solid #888;
+}
+
+[[/module]]
+
