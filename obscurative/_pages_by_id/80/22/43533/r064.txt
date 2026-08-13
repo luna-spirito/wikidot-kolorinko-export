@@ -1,0 +1,47 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 64
+revision_id: "892656021"
+author: 4518363
+timestamp: 1563649564
+---
+
+[[module Rate]]
+
+[[module ThemePreviewer]]
+
+[[include include:object
+category=Физический|
+danger=Велиал|
+isolation=4]]
+> Цитата
+
+[[module CSS]]
+blockquote {
+  padding: 1em;
+  background: #444;
+  color: white;
+  padding-left: 2em;
+  box-shadow: 0px 0 10px #444;
+  border: none;
+  position: relative;
+}
+
+blockquote::after {
+  content: "";
+  position: absolute;
+  left: -10px;
+  top: 0;
+  display: block;
+  border-radius: 10px 0 0 10px;
+  width: 10px;
+  height: 100%;
+  background-color: #00F;
+  box-shadow: 0 0 10px #00F;
+}
+[[/module]]
+

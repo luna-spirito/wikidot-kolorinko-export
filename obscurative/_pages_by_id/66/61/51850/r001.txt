@@ -1,0 +1,19 @@
+---
+title: "Архив"
+tags: []
+page_id: "666151850"
+site: "obscurative"
+slug: "archive"
+revision: 1
+revision_id: "710490209"
+author: 4518363
+timestamp: 1553888342
+---
+
+Добро пожаловать в Архив!
+
+Список статей:
+[[module ListPages category="archive" order="updated_at" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||" perPage="40"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%||
+[[/module]]
+

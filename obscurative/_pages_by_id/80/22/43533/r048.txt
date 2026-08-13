@@ -1,0 +1,32 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 48
+revision_id: "892580576"
+author: 4518363
+timestamp: 1563391204
+---
+
+[[module ThemePreviewer]]
+
+
+
+
+
+[[include :snippets:if-adv PREPARE |unique=advanced-eg|var1=guardian-ange1]]
+
+[[module ListUsers users="."]]
+[[include :snippets:if-adv-nest START|type=equal|unique=advanced-eg|var2=%%name%%]]
+[/code:conditional-blocks/edit/true Edit this snippet!]
+[[include :snippets:if-adv-nest END]]
+[[/module]]
+
+[[module ListUsers users="."]]
+[[include :snippets:if-adv-nest START|type=notequal|unique=advanced-eg|var2=%%name%%]]
+Hi %%name%%, you're not tsangk!
+[[include :snippets:if-adv-nest END]]
+[[/module]]
+

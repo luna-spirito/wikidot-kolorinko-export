@@ -1,0 +1,20 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 46
+revision_id: "892580568"
+author: 4518363
+timestamp: 1563391147
+---
+
+[[module ThemePreviewer]]
+
+
+
+[[include :snippets:if START |unique=1|type=equal|var1=%%form_data{agree}%%|var2=iagree]]
+You have agreed to the Terms and Conditions of the site.
+[[include :snippets:if END]]
+

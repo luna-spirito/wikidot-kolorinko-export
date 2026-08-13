@@ -1,0 +1,56 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 99
+revision_id: "892765282"
+author: 4518363
+timestamp: 1563817783
+---
+
+[[module Rate]]
+
++ include:object
+++ Базовый шаблон
+> [[include include:object
+> cat = 
+> | dan =
+> | iso =
+> ]]
+++ Синтаксис
+> [[include include:object
+>    cat =Категория 1
+> | cat2 =Категория 2
+> | dan =Уровень угрозы 1
+> | dan2 =Уровень угрозы 2|
+> | iso =Уровень изоляции 1|
+> | iso2 =Уровень изоляции 2|
+> | s1 = Эти три переменные содержат наименования переменных, которые нужно зачеркнуть
+> | s2 = Возможные значения:
+> | s2 =  cat/cat2/dan/dan2/iso/iso2
+> ]]
+++ Пример
+> [[include include:object
+> cat=Физический |
+> cat2=Трансреальный|
+> dan=Велиал|
+> dan2=Офаним |
+> iso=4 |
+> iso2=3 |
+> s1 = cat |
+> s2 = iso
+> ]]
+Результат:
+[[include include:object
+cat=Физический |
+cat2=Трансреальный|
+dan=Велиал|
+dan2=Офаним |
+iso=4 |
+iso2=3 |
+s1 = cat |
+s2 = iso
+]]
+

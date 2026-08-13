@@ -1,0 +1,20 @@
+---
+title: "Архив"
+tags: []
+page_id: "666151850"
+site: "obscurative"
+slug: "archive"
+revision: 4
+revision_id: "710491369"
+author: 4518363
+timestamp: 1553891351
+---
+
+Добро пожаловать в Архив!
+Сюда помещаются удалённые статьи, которые могут быть взяты на доработку любым желающим.
+
+Список статей:
+[[module ListPages category="archive" order="updated_at" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+

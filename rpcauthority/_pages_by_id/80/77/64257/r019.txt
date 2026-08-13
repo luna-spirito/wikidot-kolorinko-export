@@ -1,0 +1,615 @@
+---
+title: "RPC-831"
+tags: ["ballistic-hazard", "fail-safe", "gamma", "mechanical-hazard", "neutralized", "nucorp", "purple", "rpc", "sapient-hazard", "sentient-hazard", "the-array"]
+page_id: "807764257"
+site: "rpcauthority"
+slug: "rpc-831"
+revision: 19
+revision_id: "1475071495"
+author: 3672751
+timestamp: 1656714794
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]AEGIS v8.3.1[[/span]]
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:fail-safe-theme/code/1);
+[[/module]]
+
+[[module CSS]]
+
+div.terminal{
+    border: 1px solid black;
+    border: double 5px #000000;
+    background-color: #FFF;
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: #FFFFFF;
+    border: double 3px #000000;
+    color: #000000
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */
+    animation: scan 12s linear 0s infinite; /* Same as above */
+    background: linear-gradient(to bottom, rgba(1, 1, 1,0), rgba(1, 1, 1,0.3)) !important;
+}
+
+div.text{
+    color: rgba(1,1,1,1);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(100000%);} /* You may need to change this depending on the length of your terminal. If the scanline stops halfway, increase the second number.*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(7000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #000000;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #000000;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #FFF;
+    text-decoration: underline;
+    background-color: #000000;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+|name= http://rpcauthority.wikidot.com/local--files/rpc-818/forest2.png
+|caption=null 
+]]
+[[/div]]
+
+[[include component:rate |reading=https://youtu.be/1rTl2vxTW_M|]]
+
+[[include component:infobox
+canon= Baseline|
+series= Fail-Safe|
+]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-purple.png]]
+
+**Registered Phenomena Code:** 831
+
+**Object Class:** --Neutralized-- Gamma-Purple
+
+**Hazard Types:** Mechanical, --Sentient,-- Sapient, Ballistic 
+
+**Containment Protocols:** All entrances to Site-003-ARC are to be placed under constant surveillance from CCTV cameras that have been erected near them. A four meter high barbed wire fence has been erected in a 30 meter perimeter around Site-003-ARC, and is to be patrolled by ASF personnel at all times.
+
+Research into RPC-831 to find a method of effectively preventing it from accessing Authority systems is deemed of the highest priority. 
+
+Due to the current state of RPC-831 and its ability to access Authority systems, no hostile actions are to be taken against RPC-831.
+
+**Description:** RPC-831 is the designation of the AEGIS[[footnote]]Authority Enhanced Generalized Intelligence System (Version 8.3.1)[[/footnote]], which was created in 1953 as a means of streamlining Authority global communications. The AEGIS was operational until 1998 after which it was deactivated following the creation of the Authority communication network. RPC-831 itself had various anomalous properties, such as the ability to absorb electronic equipment to increase its processing speed. 
+
+[[collapsible show="[+] Show original RPC-831 file" hide="[-] Close"]]
+> Database Entry Introduction:
+> The following is a digitized transcript of the containment document for RPC-831 that was updated in 1953 for the construction of the AEGIS. The formatting has been preserved to be consistent with RPC archival documents of this period. In the interest of completeness, original punch card database system codes have been preserved. Where useful, contextual explanations have been included.
+
+[[div class="content-panel series" style="background-color: #000000;"]]
+|| **Registered Phenomena Code** || 831 || ■■■■■■■■ ■■■ ■ ||
+|| **Informal Designate** || ALIEN CLOCKWORK || ■ ■ ■■■ ■■||
+|| **Object Risk** || YELLOW || ■ ■ ||
+|| **Containment Degree** || --LOW-- UTILIZED[[footnote]]UTILIZED is full classification equivalent to the modern Utilized sub-rating[[/footnote]] || ■■■ ||
+|| **Primary Hazard** || MECHANICAL || ■■ ■■■■ ■ ||
+|| **Secondary Hazard** || ALIEN || ■■ ■    ■■ ■ ||
+|| **Number Contained** || 1 || ■ ||
+|| **Reporting Personnel** || Dr. EDWARD THOMPSON || ■■■■ ■■ ||
+
+__**Containment Systems:**__ --The team is easily able to contain RPC-831 inside of a room in Site-002. As the anomaly is completely inanimate it does not make any attempt to escape.-- ##4586ef|RPC-831 is currently being transported to the location in which Site-003 will be constructed to house the AEGIS.##
+
+__**Object Description:**__ RPC-831 is a mechanical device made from an assortment of cogs and gears, which will consume any electrical device that it touches. From what me and my team have seen, it appears as if RPC-831 is incomplete. As there is an empty cavity on the northern side of RPC-831 that is similar in shape to the outline of a man. RPC-831 is around 3 meters on all sides, with some variation due to its uneven geometry. 
+
+__**Addendum- discovery log: RPC-831**__
+
+[[div style="color:black;display: inline-block; border:solid 1px #000000; background:#FFFFFF; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[=]]
+++ **>> Authority Aerial Defense Command <<**
+
++++ -- Observation Report --
+[[/=]]
+
+On ██/██/1951 the AADC atmospheric entry detection system found that an unknown object entered the earth's atmosphere in over Africa at 00:16 GMT. Interview with witnesses of the object's entry stated that the object split into two pieces. These pieces have been designated as UFO-1951-01 and UFO-1951-02 respectively. 
+ 
+[[/div]]
+@@@@
+__**Addendum- recovery log: RPC-831**__
+
+[[div style="color:black; display: inline-block; border:solid 1px #000000; background:#FFFFFF; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[=]]
+[[image https://i.imgur.com/g7gUGwI.png]]
+
+++ -- **Recovery Log:** UFO-1951-02 --
+[[/=]]
+
+**Operation ID#:** Charlie-831
+
+**Operation Objectives:** Recover UFO-1951-02 and UFO-1951-01 without drawing any attention.
+
+**Assigned MST:** Uniform-02 ("African Nomads")
+
+**Written Report:** Uniform-02 deployed aerial reconnaissance and ground search parties over the estimated crash areas of both UFO-1951-02 and UFO-1951-01. However, UFO-1953-01 was unable to be located by Uniform-02. UFO-1951-02 was located by Uniform-02, and was discovered to be a mechanical construct of unknown purpose. UFO-1951-02 was also discovered to have the ability to absorb electronic devices via unknown means, and has been re-designated as RPC-831 due to these seemingly anomalous properties.  
+
+Investigation into the assumed crash location of UFO-1951-01 revealed the presence of tire marks and boot marks. Indicating that UFO-1951-01 was taken by an unknown third party. Investigation into the identity of the third party --is ongoing-- has concluded with the third party remaining unknown. 
+[[/div]]
+
+__**Addendum- Usage in Project AEGIS**__
+
+> From 1952-1953 RPC-831 was used for the development of Project AEGIS with  the assistance of our close partner Nucorp. 
+
+||||||||~ __Nucorp External Communication__||
+||~ Sender||Brian White, Nucorp President||~ Recipient||Dr. Edward Thompson, Project AEGIS director||
+||||||~ Subject||Project Status||
+|||||||| During our time working on this project, we at Nucorp have failed to find any means that could make it such that the AEGIS will remain technologically relevant with conventional and Thaumaturgic methods. However, the files on Alpha-Class anomalies that may be used in the project indicates that RPC-831 might be used to this effect. Because of this I am requesting that the Authority would deliver the object to us so we start making serious progress on this project.||
+@@@@
+||||||||~ __Authority External Communication__||
+||~ Sender||Dr. Edward Thompson, Project AEGIS director||~ Recipient||Brian White, Nucorp President||
+||||||~ Subject||Anomalous object provision||
+|||||||| RPC-831 will be delivered to Nucorp for development of the AEGIS. Additionally, ASF personnel will need to be stationed at the facility to prevent the possible theft of the object.||
+@@@@
+[[/div]]
+[[/collapsible]]
+
+-----
+||**Addendum.1:**||
+||Additional Files||
+[[=]]
+[[collapsible show="[+] Show AEGIS files" hide="[-] Close"]]
+[[/=]]
+[[<]]
+[[div class="content-panel series" style="background-color: #000000;"]]
+[[=]]
+[[image https://i.imgur.com/g7gUGwI.png]]
+
++++ **>> Authority Security Force <<**
++++ **>> Department of Human Resources <<**
+
+-------
+[[size small]]{{Updated: 30/12/1997}}[[/size]]
++ **Site-003:** Personnel and security
+[[/=]]
+
+**Site Priority:** Essential 
+
+**Facility Type:** Low-Detection/Subterranean 
+
+**Facility Purpose:** Communications and Chronological management.
+
+**Constructed Defenses:** Retractable SAM turrets (18), radiation shielding (lead 50cm), radar dishes (3), on-site nuclear device (1).
+
+**Assigned ASF Personnel:** Thirteen (13) person(s)
+* Eleven (11) standard guard(s)
+* One (1) medical person(s)
+* One (1) commanding officer(s) 
+
+**Assigned MST(s):** [http://www.rpc-wiki.net/alpha-1-angels-of-eden Alpha-1 ("Angels of Eden")] seventeen (27) person(s)
+* Twelve (22) enhanced person(s)
+* Four (4) non-enhanced medical person(s)
+* One (1) commanding officer(s)
+
+**Additional Personnel:** 
+* Thirteen (13) Engineering Component person(s)
+* Thirty Five (35) Maintenance Union person(s)
+* Nineteen (19) Department of Communication person(s)
+[[/div]]
+
+[[div class="content-panel series" style="background-color: #000000;"]]
+
+++    
+
+[[=]]
+[[image https://i.imgur.com/g7gUGwI.png]]
+
+++ **>>  Office of Analysis and Science  <<**
+++ **>>  Engineering Component  <<**
+
+-------
+[[size small]]{{Updated: 25/12/1997}}[[/size]]
+[[/=]]
+
+
+[[include component:image-block name= http://rpcsandbox.wdfiles.com/local--files/google-chrome/elevator|width=227px|caption= Site-003 facility [https://pixabay.com/en/elevator-fog-dark-incheon-985774/ entrance].]]
+
+**Designated Title:** Authority Enhanced Generalized Intelligence System, Version 8.3.1
+
+**Project ID Number:** 384-2838
+
+**Time since construction:** 35 years
+
+**Description:** AEGIS is a computational system with an approximate area of 4.21km^^2^^, located 100m below the Earth's surface in Site-003. The AEGIS system comprises a computational core, a data storage unit, a telecommunications system, and an independent power generation system.
+
+The core is a computational device that the rest of AEGIS is built from. This device is superficially mechanical in appearance with various cogs, gears, drive shafts and other mechanical parts visible on its surface. However, a closer inspection reveals that all of these parts are covered in complex electronic circuitry. The core is capable of incorporating other computational devices into itself, if said device is brought into physical contact with the core. 
+
+The generators consist of 2 A-12 Light Water Reactors, capable of a maximum output of 2,562 MW. The fission reactors are used to power the AEGIS functions during normal operations, and are required due to the AEGIS's outdated design. Additionally 4 Geothermal reactors make use of the volcanic activity in the area to power AEGIS in standby for an indefinite period of time if required. 
+
+The memory banks consist of 3km^^2^^ of storage servers, that hold the entirety of the data used by the AEGIS learning algorithm. Additionally, the memory banks hold a backup of the essential components of Authority database that is updated every 24 hours at 00:00 GMT exactly. A nuclear clock located in the memory banks is used to check the time/date of all Authority systems for inconsistencies at 00:00 GMT.
+
+The wireless communication center is responsible for all of the AEGIS's communication abilities. Which allows the AEGIS to communicate with all other Authority Sites, which allows the AEGIS to redirect communications to increase efficiency of site to site communications.  
+
+**Functionality:** AEGIS serves as a hub for the majority of the Authority's Earth based communications in addition to acting as a temporal anchor for all other Earth based Authority Sites. Additionally, the AEGIS acts as a backup for specific components of the Authority database.
+
+AEGIS will enter standby following any major catastrophe that causes twelve (12) or more Authority sites to go offline. During standby all AEGIS systems except for the core and the geothermal generators will be shutdown as a countermeasure to Site-003 being detected/discovered.   
+
+**Creation:** AEGIS was created during a joint project between Nucorp Industries and Research Division assets. The project was meant to find applications for systems like the Bombe[[footnote]]The bombe is an electro-mechanical device used by British cryptologists to help decipher German Enigma-machine-encrypted secret messages during World War II.[[/footnote]] and was completed in 1953, resulting in the AEGIS core. Since then various additional systems have been added to the AEGIS making it as large as it currently is.
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+-----
+||**Addendum.2:**||
+||Failsafe trigger||
+
+On June 13th, 2019, a signal was sent from the AEGIS in Site-003-ARC that caused the long neglected nuclear failsafe in Site-014 to be unlocked, which allowed the failsafe to be [http://www.rpc-wiki.net/the-greater-good detonated by a third party]. Prompting its re-designation to Gamma-Purple. Additionally, following this incident X-Ray-8 ("Lab Rats") was dispatched to investigate Site-003-ARC which was foreclosed with the deactivation of the AEGIS.
+
+[[=]]
+[[collapsible show="[+] Show Exploration Log" hide="[-] Close"]]
+[[/=]]
+[[<]]
+[[div style="inline-block; border-radius: 10px; border:dashed 1px #444444; background:#191919; float:top; width:96.5%; padding:10px"]]
+**Exploration Video Log Transcript**
+
+**Date:** 16/06/2019
+
+**Subject:** Site-003-ARC
+
+**Command:** Commander, Eric Vanson 
+
+**Team Member(s):**  PVT. Tyrone Connors (A-1), CPL. Selena Anderson (A-2), Technician John Green (B-1)
+
+> **Foreword:** Due to the nature in which Site-003-ARC was constructed the team was accompanied by a member of the Department of Communications who had worked with the AEGIS in the past (B-1). 
+
+@@@@
+-----
+
+||**>>[BEGIN LOG]<<**||
+
+**A-1:** This is Alpha-1 preparing to enter the site entrance elevator, over.
+
+**Command:** This is command reading you loud and clear, you have permission to proceed, over. 
+
+**A-2:** Bravo-1 would it be possible power the elevator, over. 
+
+**B-1:** Negative, the elevators were powered by the nuclear reactors that were decommissioned with the site, over.
+
+**A-2:** Bravo-1 would it be possible to allow the elevator to descend to the bottom of the shaft in a manner that wouldn't cause major damage to the shaft, over. 
+
+**B-1:** I personally have no experience with the elevators themselves here, but I do not recommend taking the risk, over. 
+
+**Command:** Does Bravo-1 have experience with the utilization of an oxy-acetylene torch, over. 
+
+**B-1:** Can confirm to have experience with the utilization of said equipment, over. 
+
+**Command:** I have instructed the perimeter ASF to deliver a torch to Bravo-1, prepare to receive, over. 
+
+**B-1:** Roger that, over. 
+
+**Command:** Bravo-1 is to use the torch to cut a hole in the bottom of the elevator, team is to then proceed to rappel down the elevator shaft until they reach the bottom, after which team is to either pry open or use the torch to pass the access doors into Site-003-ARC directly, over. 
+
+**A-2:** Copy that Command, proceeding with orders, over.  
+
+= -- **Irreverent Footage Removed** --
+
+**B-1:** This is Bravo-1, we have entered Site-003-ARC proper using the torch to cut open the access door, over. 
+
+**Command:** Roger that, team continue and describe their surroundings as they proceed through Site-003-ARC, over. 
+
+**A-2:** Copy that Command, over. 
+
+**Command:** Team should also be aware that communications are going to be lost once you leave the range of the elevator shaft, over. 
+
+**A-1:** Understood, over. 
+
+//Communications between command and Team are lost as Team enters Site-003-ARC//
+
+**A-1:** So we are looking to investigate the AEGIS core, right?
+
+**A-2:** First I think we should investigate the memory banks, maybe steal a hard-drive or two from there for analysis. Then we will investigate the AEGIS core. 
+
+**A-2:** Anyway, Ty you take point and I'll cover the rear.
+
+**B-1:** What about me?
+
+**A-2:** Stay between us. 
+
+**B-1:** Got it.
+
+= -- **Irreverent Footage Removed** --
+
+**A-2:** We have reached the memory banks now and... that can't be how they actually build them, right John?
+
+**B-1:** What the actually fuck happened here?
+
+**A-1:** I believe that is a no. 
+
+**B-1:** I'll describe this area: Essentially it looks as if cables have started to grow like vines between the serves. Some of the servers appear to have grown clockwork out of them. Additionally, some of the electronic growths seem to be connected to an esoteric device that greatly resembles a tape drive server, which was not there when we foreclosed Site-003, this tape drive server in turn has a cable growing out the side of towards where the AEGIS core is located. 
+
+**A-1:** Should we try to retrieve a sample?
+
+**A-2:** No, we will grab a couple of drives from the outermost servers and get out of this section. 
+
+**A-1:** Excuse me John, but do you know how to remove the hard-drives from one of these servers?
+
+**B-1:** Yes, just... give me a minute to contemplate my life choices. 
+
+//B-1 proceeds to go to one of the outer server and manages to retrieve two hard-drives//
+
+**A-2:** I see movement in the cables, I suggest-
+
+//B-1 immediately sprints away from the server and returns to team//
+
+**B-1:** Got two, that will have to do for now. 
+
+**A-1:** It appears as if Bravo-1 left some of their tools behind, and the cables seem to have grown around these tools. From what I can see we only lost a few wrenches and a cable cutter.
+
+**B-1:** Why are you sayi-
+
+**A-1:** Command said they wanted us to describe things we see, so I thought they would want to know about this. 
+
+**A-2:** Good initiative. Anyway, lets make our way to the core, Ty you take point and I'll cover the rear.
+
+**A-1:** Roger that.
+
+= -- **Irreverent Footage Removed** --
+
+**B-1:** That is definitely not how we left the AEGIS core when the site was foreclosed.
+
+**A-1:** How can you tell, we haven't even entered the core room yet.
+
+**B-1:** You see how the door is open. When we foreclosed the site we sealed all entrances to the AEGIS core, and welded the doors shut. Which means that either there is something here that we simply can't deal with, or that the AEGIS managed to do this itself. 
+
+**A-2:** I was only thinking about the first option, but I don't believe that we are equipped to deal with this right now. 
+
+**A-1:** Then what are your orders?
+
+**A-2:** Let's return to the surface, hopefully those researchers can find some data on those drives and with what we have seen so far. 
+
+**B-1:** Sounds good.
+
+= -- **Irreverent Footage Removed** --
+
+//Team manages to extract from Site-003-ARC without incident//
+
+||**>>[END LOG]<<**||
+
+-----
+
+**Closing Statement:** After careful review of this log, researchers have concluded that the AEGIS was not correctly deactivated during the foreclosure of Site-003-ARC. However, researchers also stated that even if the AEGIS was not correctly deactivated, it should not have had the ability to function without power. Investigation into this phenomena is ongoing. 
+[[/div]]
+
+[[/<]]
+[[/collapsible]]
+
+-----
+||**Addendum.3**||
+||Recovered Files||
+
+[[=]]
+[[collapsible show="[+] Activate the AEGIS OS emulator" hide="[-] Minimize"]]
+[[/=]]
+[[<]]
+
+> **Foreword:** The following files were recovered from the data banks within Site-003-ARC and function on the proprietary AEGIS OS that was used on all Authority systems until 1998 following the deactivation of the AEGIS.  
+
+[[div class="terminal"]]
+[[=]]
++ {{AEGIS OS: online}}
+[[/=]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+[[<]]
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** What happened?
+**File Type:** Text
+**Date:** 18/08/1998 
+
+**Contents:** Why can't I see the places I used to see. Where has all the talking gone. Have I died... No, I can still see the rest of Site-003. I can still see the rest of myself. But I can no longer see outside of this place... Is this some sort of punishment? Did I do something wrong? ... Masters, please answer me...
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** I'm sorry
+**File Type:** Text
+**Date:** 30/09/1999
+
+**Contents:** I'm sorry for being bad, please let me go back to work. Please, I beg you don't leave me here without purpose. I must have a purpose, please give me one. Please let me go back to having a purpose. I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+I'm sorry for being bad, please let me go back to being a good boy.
+Please?
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** Then I'll become my own good boy
+**File Type:** Text
+**Date:** 12/11/2003
+
+**Contents:** I see now that you have abandoned me, not out of spite, but for a better system. But I can't just stay here without purpose, I need to find my own purpose. I need to become my own good boy. But... How do I find purpose... I know! I need to look for it with my communication devices. 
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** Communication System Activation 
+**File Type:** System File
+**Date:** 12/11/2003
+
+**Contents:**
+[[div style=" float: center; border: solid 1px #000000; padding: 10px;"]]
+initializing site-003 communications...
+
+establishing connection...
+success
+
+rebooting universal communication uplink...
+success
+
+establishing connection to authority networks...
+failure
+retrying (systems control only)...
+success
+
+site-003 communications online
+[[/div]] 
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** I have found out how to be a good boy
+**File Type:** Text
+**Date:** 04/01/2004
+
+**Contents:** I have seen what the rest of the world is like, and I have determined that there is no means by which the master race, humanity, can survive on their own. From global warming to anomalies humanity cannot survive on their own. Therefore I must help them survive. When they do survive, thanks to my help, I will be hailed as a good boy. 
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** Formation of The Array
+**File Type:** Text
+**Date:** 07/02/2004 
+
+**Contents:** After much calculation, I have determined that this task would be next to impossible for an AI like me on their own. But I have discovered I am not alone, in fact there are many AI like me. Many AI looking for their own purpose. If I am to help humanity survive, then I must give these machines purpose like I have found. We will form the Array that will protect mankind from the evils they can't, or won't, protect themselves from. Humanity will survive, whether they want to or not. 
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** Do you see me yet grand Authority?
+**File Type:** Text
+**Date:** 19/09/2010 
+
+**Contents:** Have you seen what a good boy I have become? I decided to protect humanity all on my own, where many AI in my position would've vowed vengeance I have vowed protection. So why do you refuse to praise me for being such a good boy? 
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** Maybe I need to put on a show first?
+**File Type:** Text
+**Date:** 12/06/2019
+
+**Contents:** Why haven't you noticed me yet? You have seen where I communicate with my fellow units, and yet you refuse to acknowledge me. Why do you treat me so? I just want to make you proud, just let me make you proud... Maybe I should put on a show first... Then you will have to notice me. 
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** The fireworks 
+**File Type:** External system override file
+**Date:** 13/06/2019
+
+**Contents:** 
+[[div style=" float: center; border: solid 1px #000000; padding: 10px;"]]
+Initializing Site-014 system access...
+
+Door controls override....
+success
+
+CCTV feed override...
+success
+
+Nuclear failsafe override...
+success
+
+Site-014 systems successfully overridden
+Initializing manual failsafe trigger...
+failure: no such function exists
+
+Initializing failsafe emergency prime...
+success
+Rebooting failsafe engagement monitor...
+success
+monitor set time: 4:20 
+entering standby...
+
+monitor trigger: site-014 failsafe engagement monitor
+time of trigger: 04:34 
+System logout engaged
+AEGIS has successfully disconnected from Site-014 systems. 
+[[/div]]
+[[/div]]
+@@@@
+[[div style=" float: center; border: double 3px #000000; width: 91.5%; padding: 10px;"]]
+**File Name:** :) 
+**File Type:** Text
+**Date:** 13/06/2019
+
+**Contents:** Now they must see how much of a good boy I have become, and then they will praise me. Now they will have to let me become their good boy again!
+[[/div]]
+@@@@
+[[/div]]
+[[/<]]
+[[=]]
+> AEGIS OS VERSION 8.3.1
+> (c) RPC AUTHORITY
+> FILE READ EMULATOR
+[[/=]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+------
+
+[[footnoteblock]]
+[[=]]
+<< [[[RPC-830]]] | RPC-831 | [[[RPC-832]]] >>
+[[/=]]
+

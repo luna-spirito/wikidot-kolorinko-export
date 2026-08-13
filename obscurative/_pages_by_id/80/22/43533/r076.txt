@@ -1,0 +1,32 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 76
+revision_id: "892722046"
+author: 4518363
+timestamp: 1563727313
+---
+
+[[module Rate]]
+
+[[module CSS]]
+blockquote blockquote {
+  box-shadow: 0px 0 10px #fff;
+}
+[[/module]]
+
+[[module ThemePreviewer]]
+
+[[include include:object
+category=Физический|
+danger=Велиал|
+isolation=4]]
+
+> Цитата
+>> Цитата в цитате
+>>> Цитата в цитате в цитате
+>>>> Цитата в цитате в цитате в цитате
+

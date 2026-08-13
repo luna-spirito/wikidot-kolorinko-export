@@ -1,0 +1,28 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 51
+revision_id: "892631523"
+author: 4518363
+timestamp: 1563552093
+---
+
+[[module Rate]]
+
+[[module ThemePreviewer]]
+
+[[module CSS]]
+#category {
+  text-decoration: wawy underline;
+}
+
+#category::after {
+  content: "";
+}
+[[/module]]
+
+<p id="category" val="{$category}">{$category}</p>
+
