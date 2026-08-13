@@ -1,0 +1,66 @@
+---
+title: "_pages"
+tags: []
+page_id: "92412860"
+site: "rpcauthority"
+slug: "_pages"
+revision: 32
+revision_id: "1311104044"
+author: 3118961
+timestamp: 1596564753
+---
+
+[[module css]]
+.collapsible-block-content {
+  overflow-x: auto;
+}
+[[/module]]
+
+Untagged pages
+
+[[module ListPages category="-contest -component -fragment -theme -nav -search -random -system -forum -template" tags="-" order="created_by" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] ||
+[[/module]]
+
+[[collapsible show="+ components"]]
+[[module ListPages category="component" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="+ contest pages"]]
+[[module ListPages category="contest" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="+ template pages"]]
+[[module ListPages category="template" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="+ nav pages"]]
+[[module ListPages category="nav" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="+ fragment pages"]]
+[[module ListPages category="fragment" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="+ system pages"]]
+[[module ListPages category="system" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="+ hidden pages"]]
+[[module ListPages category="*" pagetype="hidden" order="tags" limit="250" perPage="250" separate="false"]]
+|| %%title_linked%% || %%fullname%% || [[user %%created_by%%]] || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+

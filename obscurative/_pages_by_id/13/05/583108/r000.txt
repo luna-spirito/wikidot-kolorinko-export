@@ -1,0 +1,99 @@
+---
+title: "Конкурсный архив"
+tags: ["Ивент"]
+page_id: "1305583108"
+site: "obscurative"
+slug: "eventbox"
+revision: 0
+revision_id: "1357127289"
+author: 6037747
+timestamp: 1603475407
+---
+
+[[module Rate]]
+
+Добро пожаловать в Конкурсный архив!
+Сюда помещается информация о конкурсах и работы участников, для увековечивания их в истории проекта.
+
+[[toc]]
+
++ Конкурс "Структура реальности"
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #4169E1; float:top; width:90%; padding:10px"]]
+
+[[=image https://media.discordapp.net/attachments/692691898858733622/769253132458655775/f6448428ffc7c024.png]]
+
+[[=]]
+Работы конкурсантов
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Победители" hide="- Победители"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+
+[[module ListPages category="_default" order="updated_at desc" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" tag="- СтруктураРеальности"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+
+[[module ListPages category="archive" order="updated_at desc" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" tag="- СтруктураРеальности"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+
++ Конкурс "Halloween 2020"
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFA500; float:top; width:90%; padding:10px"]]
+
+[[=image https://media.discordapp.net/attachments/668029990062915595/767778736010821750/61d192855536dc8f.png]]
+
+[[=]]
+Работы конкурсантов
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Победители" hide="- Победители"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+
+[[module ListPages category="_default" order="updated_at desc" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" tag="- Halloween"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+
+[[module ListPages category="archive" order="updated_at desc" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" tag="- Halloween"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+

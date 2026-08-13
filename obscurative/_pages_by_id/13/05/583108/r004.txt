@@ -1,0 +1,112 @@
+---
+title: "Конкурсный архив"
+tags: ["Ивент"]
+page_id: "1305583108"
+site: "obscurative"
+slug: "eventbox"
+revision: 4
+revision_id: "1359034138"
+author: 6037747
+timestamp: 1610375766
+---
+
+[[module Rate]]
+
+Добро пожаловать в Конкурсный архив!
+Сюда помещается информация о конкурсах и работы участников, для увековечивания их в истории проекта.
+
+[[toc]]
+
++ Конкурс "Структура реальности"
+
+Конкурс "Структура реальности" выступил в качестве способа выбрать структуру мироздания совместными усилиями участников проекта. Конкурсанты создавали собственные структуры реальности. Работа победителя занявшего первое место наделена статусом главной структуры реальности в мире ВИК. Второе и третье место получили статус гипотез во вселенной ВИК, их возможно развить в качестве структур реальности других миров.
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #4169E1; float:top; width:90%; padding:10px"]]
+
+[[=image https://media.discordapp.net/attachments/692691898858733622/769253132458655775/f6448428ffc7c024.png]]
+
+[[=]]
+[[collapsible show="+ Победители" hide="- Победители"]]
+[[/=]]
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="_default" order="updated_at desc" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" tag="СтруктураРеальности"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+Все работы конкурсантов
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="СтруктураРеальности" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+
++ Конкурс "Halloween 2020"
+
+Конкурс тематических работ. Правила не ограничивают участников в жанрах и форматах, главное чтобы работа была связана с Halloween.
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFA500; float:top; width:90%; padding:10px"]]
+
+[[=image https://media.discordapp.net/attachments/668029990062915595/767778736010821750/61d192855536dc8f.png]]
+
+[[=]]
+Победители
+[[/=]]
+
+[[=]]
+[[collapsible show="+ I-ая номинация:
+Самая жуткая, пугающая, таинственная статья.: " hide="- I-ая номинация:
+Самая жуткая, пугающая, таинственная статья."]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="Хэллоуин2020Номинация1" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="+ II-ая номинация
+Самая "хэллоуинская" статья, раскрывающая концепцию Хэллоуина в неожиданном свете.: " hide="- II-ая номинация
+Самая "хэллоуинская" статья, раскрывающая концепцию Хэллоуина в неожиданном свете."]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="Хэллоуин2020Номинация2" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+Все работы конкурсантов
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="Хэллоуин2020" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+

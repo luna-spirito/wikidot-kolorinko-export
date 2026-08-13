@@ -1,0 +1,183 @@
+---
+title: "Конкурсный архив"
+tags: ["Ивент"]
+page_id: "1305583108"
+site: "obscurative"
+slug: "eventbox"
+revision: 11
+revision_id: "1362026257"
+author: 6037747
+timestamp: 1617477318
+---
+
+[[module Rate]]
+
+Добро пожаловать в Конкурсный архив!
+Сюда помещается информация о конкурсах и работы участников, для увековечивания их в истории проекта.
+
+[[toc]]
+
++ Конкурс "Структура реальности"
+
+Конкурс "Структура реальности" выступил в качестве способа выбрать структуру мироздания совместными усилиями участников проекта. Конкурсанты создавали собственные структуры реальности. Работа победителя занявшего первое место наделена статусом главной структуры реальности в мире ВИК. Второе и третье место получили статус гипотез во вселенной ВИК, их возможно развить в качестве структур реальности других миров.
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #8181F7; float:top; width:90%; padding:10px"]]
+
+[[=image https://media.discordapp.net/attachments/692691898858733622/769253132458655775/f6448428ffc7c024.png]]
+
+[[=]]
+[[collapsible show="+ Победители" hide="- Победители"]]
+[[/=]]
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="_default" order="updated_at desc" separate="no" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||" perPage="40" tag="СтруктураРеальности"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+Все работы конкурсантов
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="СтруктураРеальности" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+
++ Конкурс "Halloween 2020"
+
+Конкурс тематических работ. Правила не ограничивают участников в жанрах и форматах, главное чтобы работа была связана с Halloween.
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FACC2E; float:top; width:90%; padding:10px"]]
+
+[[=image https://media.discordapp.net/attachments/668029990062915595/767778736010821750/61d192855536dc8f.png]]
+
+[[=]]
+Победители в номинациях
+[[/=]]
+
+[[=]]
+[[collapsible show="+ I-ая номинация:
+Самая жуткая, пугающая, таинственная статья.: " hide="- I-ая номинация:
+Самая жуткая, пугающая, таинственная статья."]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="Хэллоуин2020Номинация1" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="+ II-ая номинация
+Самая "хэллоуинская" статья, раскрывающая концепцию Хэллоуина в неожиданном свете.: " hide="- II-ая номинация
+Самая "хэллоуинская" статья, раскрывающая концепцию Хэллоуина в неожиданном свете."]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="Хэллоуин2020Номинация2" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+Все работы конкурсантов
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="Хэллоуин2020" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+
+[[/collapsible]]
+
+[[/div]]
+
++ #КоллегияПрогнила
+
+Событие свободное от правил. Каждый участник может по полной проявить свою фантазию без ограничения мирами, условностями, форматами и чем-либо ещё. Писать можно про что угодно и как угодно, ничто не должно ограничивать. [[[collegiumrotten|Подробнее]]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #BE81F7; float:top; width:90%; padding:10px"]]
+
+[[=]]
+Все работы участников
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Участники" hide="- Участники"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="КоллегияПрогнила" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+
+[[/collapsible]]
+
+[[=]]
+Победители в номинациях
+[[/=]]
+
+[[=]]
+[[collapsible show="+ Твои баллы выше моих: " hide="- Твои баллы выше моих"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="НоминацияТБВМ" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="+ Самые яркие эмоции: " hide="- Самые яркие эмоции"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="НоминацияСЯЭ" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="+ Коллегия прогнила " hide="- Коллегия прогнила"]]
+[[/=]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #FFFFFF; float:top; width:90%; padding:10px"]]
+[[module ListPages category="*" tag="НоминацияКП" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+[[/div]]
+[[/collapsible]]
+
+[[/div]]
+
++ Неделя переоценок
+
+Задачи участников: прочитать, переоценить, откомментировать, каждую работу из списка статей по рейтингу. Победа за тем, кто больше всех оценит и откомментирует работ на сайте за две недели.
+[[[revaluationweeks|Подробнее]]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 2px #000000; background: #BE81F7; float:top; width:90%; padding:10px"]]
+Активность:
+
+[[/div]]
+
