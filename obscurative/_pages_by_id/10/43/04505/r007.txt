@@ -1,0 +1,24 @@
+---
+title: "Список участников"
+tags: []
+page_id: "104304505"
+site: "obscurative"
+slug: "users"
+revision: 7
+revision_id: "147578001"
+author: 4473061
+timestamp: 1536964339
+---
+
+[[table]][[row]]
+[[cell style="padding-right: 15em"]]
+[[module Members]]
+[[/cell]]
+
+[[cell]]
+[[module Members group="moderators"]]
+-----
+[[module Members group="admins"]]
+[[/cell]]
+[[/row]][[/table]]
+

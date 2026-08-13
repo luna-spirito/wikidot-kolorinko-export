@@ -1,0 +1,22 @@
+---
+title: "Список участников"
+tags: []
+page_id: "104304505"
+site: "obscurative"
+slug: "users"
+revision: 3
+revision_id: "144354090"
+author: 4518363
+timestamp: 1535041756
+---
+
+[[module CSS]]
+#u-members div table {
+  margin-left: auto;
+  margin-right: auto;
+}
+[[/module]]
+[[div id="members" style="border: #3399ff dashed 2px; border-radius: 5px;"]]
+[[module Members showSince="no" order="joinedDesc"]]
+[[/div]]
+
