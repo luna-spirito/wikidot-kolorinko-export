@@ -1,0 +1,104 @@
+---
+title: "Object Classes"
+tags: ["information", "lore"]
+page_id: "86650116"
+site: "rpcauthority"
+slug: "object-classes"
+revision: 67
+revision_id: "1523254074"
+author: 5982545
+timestamp: 1722111697
+---
+
+[[module css]]
+#page-title {
+    display: none;
+}
+
+.lethalityBar {
+    margin-bottom: 25px;
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Object Classes
+[[/div]]
+
+Every item obtained and catalogued by the Authority has a series of designations attributed to it. These anomalies behave in widely varying fashions, requiring specific classifications. The Containment Rating is determined by how difficult it is to contain an anomaly. Some objects are easier to contain than others; however, this does not mean that such objects are any less dangerous or lethal. The Lethality Rating of an anomaly is determined by its ability to threaten human life. The greater the threat, the higher the lethality. Secondary classes display supplementary information about an anomaly.
+
+The Object Class is the combined version of these components. An item with ratings Alpha and Yellow would have the containment rating "Alpha-Yellow". If this item also had the Secondary Class of Neutralized, it would have the Object Class of "Alpha-Yellow (Neutralized)".
+
+----
+
+[[=]]
++ Containment Ratings
+[[/=]]
+
+The most common Containment Ratings used in RPC articles. They make up the bulk of the anomalies.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/alpha-default.png]]
+**Alpha**-rated anomalies can be contained with minimal difficulty. This may be as a result of a lack of harmful properties on the part of the anomaly itself, or extensive research by the Authority resulting in an understanding of how to nullify or prevent the activation of the anomaly's unusual characteristics. Alpha anomalies may also require an extremely specific trigger or sequence of events to occur before they become active, allowing them to be stored safely if these conditions are not met.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/beta-default.png]]
+**Beta**-rated anomalies present a degree of difficulty or unpredictability in their containment. This is often the result of a lack of sufficient understanding of the functioning of the anomaly, or some property specific to the anomaly that makes it behave in unexpected ways. Beta is by consequence a containment rating covering a large scope, and many anomalies may be temporarily assigned Beta rating upon acquisition and later assigned a different rating when better understood.
+
+Items which are sentient/sapient/autonomous are generally classed as Beta regardless of their other characteristics due to their inherent unpredictability.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/gamma-default.png]]
+**Gamma**-rated anomalies present an elevated difficulty of containment, and such containment measures that do apply to them are frequently inconsistent, expensive or complex. Such a rating may imply a degree of anomalous behaviour which is beyond the scientific understanding of the Authority, that the anomaly is actively seeking to break containment, or simply that the anomaly is at such a scale that containment requires vast expenditures of resources.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/omega-default.png]]
+**Omega**-rated anomalies are those which are the most difficult to reliably contain, or are effectively un-containable. These entities frequently represent a threat to global normalcy, though they are not inherently dangerous. Omega implies containment focused on preventing the spread of knowledge about an entity, in such cases where physical containment is simply not possible.
+
+----
+
+[[=]]
++ Secondary Classes
+[[/=]]
+
+Secondary classes are supplementary classes that sometimes exist following the object class. They convey important information regarding the state and/or utility of the anomaly. An object may have multiple secondary classes if appropriate.
+
+* **Explained (EX)** phenomena are those whose characteristics were thought to be anomalous, but are now understood to fall within the boundaries of non-anomalous science.
+
+* **Neutralized (NT)** anomalies are those whose anomalous properties have become or been made inert. This only applies to the anomalous properties, not necessarily the physical state. Neutralized was formerly a primary class, which is still used in some documents.
+
+* **Utility (UT)**-rated anomalies are those actively employed by the Authority for various purposes, such as containment of, or protection from, other anomalies. This was formerly denoted by the "Theta" primary class, which is still used in some documents.
+
+----
+
+[[=]]
++ Lethality Rating
+[[/=]]
+
+[[div class="lethalityBar" style="border-top: 15px solid white;"]]
+White-rated RPCs denote anomalies that have no chance of being lethal and/or are entirely beneficial.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #ffe100;"]]
+Yellow-rated RPCs denote anomalies with easily avoidable, and/or situationally lethal conditions.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #f36400;"]]
+Orange-rated RPCs denote anomalies that are capable of lethality but are not guaranteed to display it.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #eb1c23;"]]
+Red-rated RPCs denote anomalies that are actively lethal, making direct interaction a constant or variable risk.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #642c90;"]]
+Purple-rated RPCs denote anomalies capable of exterminating life en masse and/or entire populations.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid black;"]]
+Black-rated RPCs denote anomalies that are lethal enough to cause an apocalyptic scenario and/or end all human life.
+[[/div]]
+

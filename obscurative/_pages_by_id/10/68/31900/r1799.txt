@@ -1,0 +1,41 @@
+---
+title: "Rieraf"
+tags: []
+page_id: "106831900"
+site: "obscurative"
+slug: "draft:rieraf"
+revision: 1799
+revision_id: "1073372383"
+author: 3477739
+timestamp: 1586794752
+---
+
+**[ДАННЫЕ НЕ ОБНАРУЖЕНЫ]**
+
+[[module css]]
+
+.parallax {
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.parallax__layer--base {
+  transform: translateZ(0);
+}
+
+.parallax__layer--back {
+  transform: translateZ(-1px);
+}
+
+[[/module]]
+

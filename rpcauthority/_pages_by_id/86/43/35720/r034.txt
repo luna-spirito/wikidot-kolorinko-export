@@ -1,0 +1,72 @@
+---
+title: "Rate Base"
+tags: ["component"]
+page_id: "864335720"
+site: "rpcauthority"
+slug: "component:rate-base"
+revision: 34
+revision_id: "1318567642"
+author: 3118961
+timestamp: 1598624953
+---
+
+[[span style="line-height: 0; font-size: 0; color: transparent; display={$translations};"]]translatedtag[[/span]]
+
+[[div class="rateContainer" style="text-align: {$align}"]]
+[[table class="tableStyle"]]
+[[row class="rateStyle"]]
+[[cell class="cellStyle" style="display: {$one}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-One.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]#1 Article[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle" style="display: {$joke}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-Joke.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]#1 Joke Article[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle" style="display: {$ten}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-Ten.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]Top Ten Article[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle" style="display: {$activity}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-Activity.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]Active Contributor[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle" style="display: {$winner}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-Contest-1.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]Contest Winner[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle" style="display: {$runnerup}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-Contest-2.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]Contest Runner-Up[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle" style="display: {$challenge}"]]
+[[span class="tooltip"]][[image http://www.rpc-wiki.net/local--files/component:icons/Badge-Challenge.png style="margin-top: 1px; width: 15px;" class="tooltip"]][[span class="tooltiptext"]]Challenge Winner[[/span]][[/span]]
+[[/cell]]
+[[cell class="cellStyle votesLeft-{$votes}"]]
+[[div]]
+[[module ListPages limit="1" pagetype="*" range="." category="*"]]
+%%rating_votes%%
+[[/module]]
+[[/div]]
+[[/cell]]
+[[cell class="cellStyle decimalStyle" style="display: {$decimal}"]]
+[[div]]
+[[module ListPages limit="1" pagetype="*" range="." category="*"]]
+%%rating_decimal%% stars
+[[/module]]
+[[/div]]
+[[/cell]]
+[[cell class="starStyle votesRight-{$votes}" style="display: {$stars}"]]
+[[module Rate]]
+[[/cell]]
+[[cell class="cellStyle votesRight-{$votes}"]]
+[[div]]
+[[module ListPages limit="1" pagetype="*" range="." category="*"]]
+%%rating_votes%%
+[[/module]]
+[[/div]]
+[[/cell]]
+[[cell class="translationStyle" style="display: {$translations}"]]
+{$translationblock}
+[[/cell]]
+[[cell class="readingStyle" style="display: {$reading}"]]
+[[image http://www.rpc-wiki.net/local--files/component:icons/audio.png link="{$reading}"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+

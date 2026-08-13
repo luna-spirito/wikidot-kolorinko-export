@@ -1,0 +1,184 @@
+---
+title: "Object Classes"
+tags: ["information", "lore"]
+page_id: "86650116"
+site: "rpcauthority"
+slug: "object-classes"
+revision: 68
+revision_id: "1532311433"
+author: 3191742
+timestamp: 1757983598
+---
+
+[[module css]]
+#page-title {
+    display: none;
+}
+
+.lethalityBar {
+    margin-bottom: 25px;
+}
+[[/module]]
+
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Object Classes
+[[/div]]
+
+Every item obtained and catalogued by the Authority has a series of designations attributed to it. These anomalies behave in widely varying fashions, requiring specific classifications. The Containment Rating is determined by how difficult it is to contain an anomaly. Some objects are easier to contain than others; however, this does not mean that such objects are any less dangerous or lethal. The Lethality Rating of an anomaly is determined by its ability to threaten human life. The greater the threat, the higher the lethality. Secondary classes display supplementary information about an anomaly.
+
+The Object Class is the combined version of these components. An item with ratings Alpha and Yellow would have the containment rating "Alpha-Yellow". If this item also had the Secondary Class of Neutralized, it would have the Object Class of "Alpha-Yellow (Neutralized)".
+
+----
+
+[[=]]
++ Containment Ratings
+[[/=]]
+
+The most common Containment Ratings used in RPC articles. They make up the bulk of the anomalies.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/alpha-default.png]]
+**Alpha**-rated anomalies can be contained with minimal difficulty. This may be as a result of a lack of harmful properties on the part of the anomaly itself, or extensive research by the Authority resulting in an understanding of how to nullify or prevent the activation of the anomaly's unusual characteristics. Alpha anomalies may also require an extremely specific trigger or sequence of events to occur before they become active, allowing them to be stored safely if these conditions are not met.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/beta-default.png]]
+**Beta**-rated anomalies present a degree of difficulty or unpredictability in their containment. This is often the result of a lack of sufficient understanding of the functioning of the anomaly, or some property specific to the anomaly that makes it behave in unexpected ways. Beta is by consequence a containment rating covering a large scope, and many anomalies may be temporarily assigned Beta rating upon acquisition and later assigned a different rating when better understood.
+
+Items which are sentient/sapient/autonomous are generally classed as Beta regardless of their other characteristics due to their inherent unpredictability.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/gamma-default.png]]
+**Gamma**-rated anomalies present an elevated difficulty of containment, and such containment measures that do apply to them are frequently inconsistent, expensive or complex. Such a rating may imply a degree of anomalous behaviour which is beyond the scientific understanding of the Authority, that the anomaly is actively seeking to break containment, or simply that the anomaly is at such a scale that containment requires vast expenditures of resources.
+
+~~~~
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/omega-default.png]]
+**Omega**-rated anomalies are those which are the most difficult to reliably contain, or are effectively un-containable. These entities frequently represent a threat to global normalcy, though they are not inherently dangerous. Omega implies containment focused on preventing the spread of knowledge about an entity, in such cases where physical containment is simply not possible.
+
+----
+
+[[=]]
++ Secondary Classes
+[[/=]]
+
+Secondary classes are supplementary classes that sometimes exist following the object class. They convey important information regarding the state and/or utility of the anomaly. An object may have multiple secondary classes if appropriate.
+
+* **Explained (EX)** phenomena are those whose characteristics were thought to be anomalous, but are now understood to fall within the boundaries of non-anomalous science.
+
+* **Neutralized (NT)** anomalies are those whose anomalous properties have become or been made inert. This only applies to the anomalous properties, not necessarily the physical state. Neutralized was formerly a primary class, which is still used in some documents.
+
+* **Utility (UT)**-rated anomalies are those actively employed by the Authority for various purposes, such as containment of, or protection from, other anomalies. This was formerly denoted by the "Theta" primary class, which is still used in some documents.
+
+----
+
+[[=]]
++ Lethality Rating
+[[/=]]
+
+[[div class="lethalityBar" style="border-top: 15px solid white;"]]
+White-rated RPCs denote anomalies that have no chance of being lethal and/or are entirely beneficial.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #ffe100;"]]
+Yellow-rated RPCs denote anomalies with easily avoidable, and/or situationally lethal conditions.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #f36400;"]]
+Orange-rated RPCs denote anomalies that are capable of lethality but are not guaranteed to display it.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #eb1c23;"]]
+Red-rated RPCs denote anomalies that are actively lethal, making direct interaction a constant or variable risk.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid #642c90;"]]
+Purple-rated RPCs denote anomalies capable of exterminating life en masse and/or entire populations.
+[[/div]]
+
+[[div class="lethalityBar" style="border-top: 15px solid black;"]]
+Black-rated RPCs denote anomalies that are lethal enough to cause an apocalyptic scenario and/or end all human life.
+[[/div]]
+
+
+[[module CSS]]
+body, body * {
+  animation: spin 0.2s infinite linear, shake 0.1s infinite;
+  transform: skew(20deg) rotate(15deg) scale(1.2);
+  background: repeating-conic-gradient(red 10deg, yellow 20deg, lime 30deg, cyan 40deg, magenta 50deg, blue 60deg);
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  color: #ff00ff !important;
+  border: 10px dotted lime !important;
+  outline: 6px groove fuchsia !important;
+  box-shadow: 0 0 30px red, 0 0 60px blue, 0 0 90px lime inset, 10px 10px 50px yellow !important;
+  text-shadow: 2px 2px 5px black, -2px -2px 5px magenta, 5px -5px 10px cyan !important;
+  letter-spacing: 5px !important;
+  word-spacing: 20px !important;
+  cursor: progress !important;
+}
+
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/44/Mr_Robot_s%C3%A9rie_TV.jpg?20150628102736");
+  background-size: 200px 200px;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  filter: hue-rotate(180deg) invert(100%) contrast(200%) saturate(300%);
+}
+
+a {
+  text-decoration: overline underline line-through wavy dashed double rgb(255,0,0) !important;
+  font-weight: 900 !important;
+  font-size: 36px;
+  animation: blink 0.3s infinite;
+}
+
+img {
+  transform: rotate(720deg) scaleX(-2) scaleY(2) !important;
+  filter: invert(100%) hue-rotate(270deg) sepia(100%) saturate(500%) contrast(300%) !important;
+  border-radius: 50% !important;
+}
+
+@keyframes shake {
+  0% { transform: translate(5px, 5px) rotate(0deg); }
+  10% { transform: translate(-5px, -10px) rotate(-10deg); }
+  20% { transform: translate(-15px, 0px) rotate(10deg); }
+  30% { transform: translate(15px, 10px) rotate(0deg); }
+  40% { transform: translate(5px, -5px) rotate(10deg); }
+  50% { transform: translate(-5px, 10px) rotate(-10deg); }
+  60% { transform: translate(-15px, 5px) rotate(0deg); }
+  70% { transform: translate(15px, 5px) rotate(-10deg); }
+  80% { transform: translate(-5px, -5px) rotate(10deg); }
+  90% { transform: translate(5px, 10px) rotate(0deg); }
+  100% { transform: translate(5px, -10px) rotate(-10deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg) scale(1); }
+  50% { transform: rotate(180deg) scale(2); }
+  100% { transform: rotate(360deg) scale(1); }
+}
+
+@keyframes blink {
+  0% { color: red; }
+  25% { color: yellow; }
+  50% { color: lime; }
+  75% { color: cyan; }
+  100% { color: magenta; }
+}
+
+body *::before, body *::after {
+  content: "discord.gg/6JguCQtZEy Hacked by mr scp wiki. Fsociety.";
+  display: block;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  animation: blink 0.2s infinite, spin 2s infinite linear;
+}
+[[/module]]
+
+[[html]]
+<iframe width="0" height="0" src="https://www.youtube.com/embed/TeB-QgmIogA?autoplay=1&loop=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[[/html]]
+

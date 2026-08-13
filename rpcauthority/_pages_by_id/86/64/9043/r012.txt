@@ -1,0 +1,19 @@
+---
+title: "Image Block Base"
+tags: ["component"]
+page_id: "86649043"
+site: "rpcauthority"
+slug: "component:image-block-base"
+revision: 12
+revision_id: "1523982202"
+author: 5982545
+timestamp: 1724078014
+---
+
+[[div class="image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} class="enlarge-{$enlarge}" style="width:{$width};" link={$link}]]
+[[div class="image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

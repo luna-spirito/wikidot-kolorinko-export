@@ -1,0 +1,49 @@
+---
+title: "Id Leak"
+tags: []
+page_id: "1084121470"
+site: "obscurative"
+slug: "id-leak"
+revision: 18
+revision_id: "1182058510"
+author: 4518363
+timestamp: 1590842398
+---
+
+[[module CSS]]
+
+#u-cover {
+  visibility: visible;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: white;
+}
+
+body {
+  visibility: hidden;
+  overflow: hidden;
+}
+
+#u-cover img {
+  clip-path: circle(50% at 50% 50%);
+}
+[[/module]]
+
+[[div id="cover"]]
+[[div class="panel"]]
+К сожалению, мы не нашли аккаунт Wikidot. [[[https://obscure.ru:8000/login | Вернуться]]]
+[[/div]]
+[[/div]]
+[[module ListUsers users="."]]
+[[div id="cover"]]
+[[div class="panel"]]
+[[image https://obscure.ru:8000/id-leak/%%number%%]]
+Здравствуйте, %%title%%! Ваш аккаунт Wikidot успешно обнаружен.
+[[[https://obscure.ru:8000/wikidot-auth|Закончить регистрацию]]]
+[[/div]]
+[[/div]]
+[[/module]]
+

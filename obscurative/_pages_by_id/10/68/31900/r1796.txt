@@ -1,0 +1,721 @@
+---
+title: "Rieraf"
+tags: []
+page_id: "106831900"
+site: "obscurative"
+slug: "draft:rieraf"
+revision: 1796
+revision_id: "1073362692"
+author: 3477739
+timestamp: 1586785456
+---
+
+@import "http://fonts.fontstorage.com/import/arnamumono.css";
+
+/*@import "http://fonts.fontstorage.com/import/ptsans.css";*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap&subset=cyrillic');
+
+body {
+  /*font-family: "PT Sans";*/
+  font-family: "Roboto";
+  font-size: 13px;
+  --link-color: #006199;
+  --link-hover-color: inherit;
+  --header-background: #00728f;;
+  --top-bar-background: #424242;
+  --login-color: #8cbcc8;
+  --header-shadow-color: #39556b;
+  --sidebar-color: #2e6f84;
+  --title-color: white;
+  --title-color-active: white;
+} 
+
+a, .fakelink {
+  transition: 0.25s ease-in-out;
+  text-decoration: none;
+  color: var(--link-color);
+  cursor: pointer;
+}
+
+div.post div.long div.head {
+  background-color: inherit;
+}
+
+.fakelink:hover {
+  background-color: #EEE;
+}
+
+a:hover, .fakelink:hover {
+  text-decoration: underline;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+}
+
+#header {
+  background: var(--header-background);
+  padding-top: 2em;
+  padding-bottom: 2em;
+  /*box-shadow: 0 0px 2em var(--header-shadow-color);*/
+}
+
+#header h1 {
+  font-family: "Arian AMU Mono";
+  font-weight: bold;
+  font-size: 2.5em;
+  display: inline-block;
+}
+
+#header h1 a {
+  color: var(--title-color);
+}
+
+#body {
+  font-family: "Arian AMU Mono";
+  font-weight: bold;
+}
+
+#top-bar {
+    width: 100%;
+    background: var(--top-bar-background);
+    right: 0;
+    text-align: center;
+}
+
+#top-bar ul {
+  display: inline-block;
+}
+
+#skrollr-body {
+  width: 100%;
+}
+
+#top-bar li {
+  position: relative;
+  border-right: 1px solid #000;
+}
+
+#top-bar ul ul {
+  left: 0;
+  border: 1px solid var(--top-bar-background);
+  box-shadow: 0 0 20px var(--top-bar-background);
+}
+
+#header h2 {
+  display: inline;
+  left: -12em !important;
+  top: 1em;
+}
+
+#header h1, #header h2 {
+    position: relative;
+    left: 6em;
+    padding-top: 0.2em;
+}
+
+#header h2::before {
+  content: "";
+  width: 7em;
+  height: 6em;
+  display: block;
+  position: absolute;
+  bottom: -2em;
+  right: -0.5em;
+  background: url("http://sons-of-athena.wdfiles.com/local--files/main/sons-of-athena.png") no-repeat;
+  background-size: contain;
+}
+
+#header h1 a:hover, #header h2 {
+  color: var(--title-color-active);
+  background-color: inherit;
+}
+
+#login-status, #login-status > *:not(#account-options) {
+  color: var(--login-color);
+  background-color: inherit;
+}
+
+#top-bar > ul > li > a:hover {
+    background-color: inherit;
+}
+
+#top-bar > ul > li > a {
+    color: white;
+}
+
+#top-bar ul li a, .yui-navset a {
+  transition: 0s;
+}
+
+#side-bar {
+  margin-top: 1em;
+}
+
+#side-bar p {
+  margin: 0.25em 0;
+}
+
+#side-bar hr {
+  width: 100%;
+  height: 2px;
+  margin: 1em 0;
+ background: linear-gradient(90deg, var(--sidebar-color) 25%, white);
+}
+
+#content-wrap {
+  padding-top: 1em;
+  background: linear-gradient(black, var(--header-shadow-color) 3px, white 2em);
+}
+
+.page-rate-widget-start {
+  width: auto !important;
+  float: right;
+}
+
+#action-area .page-rate-widget-start {
+  float: none;
+}
+
+.page-rate-widget-start > img, .page-rate-list-pages-start > img {
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  padding-left: 22px;
+  background-size: contain !important;
+}
+
+.page-rate-widget-start > img[src$="on.png"], .page-rate-list-pages-start > img[src$="on.png"] {
+  background: url("http://sons-of-athena.wdfiles.com/local--files/main/full-star.png") no-repeat;
+}
+
+.page-rate-widget-start > img[src$="half.png"], .page-rate-list-pages-start > img[src$="half.png"] {
+  background: url("http://sons-of-athena.wdfiles.com/local--files/main/half-star.png") no-repeat;
+}
+
+.page-rate-widget-start > img[src$="off.png"], .page-rate-list-pages-start > img[src$="off.png"] {
+  background: url("http://sons-of-athena.wdfiles.com/local--files/main/empty-star.png") no-repeat;
+}
+
+.page-rate-widget {
+  height: 2em;
+}
+
+#u-object-info p iframe{
+  margin-bottom: -25px;
+}
+
+#footer {
+  font-size: 0.75em;
+  background-color: #cbcbcb;
+}
+
+#search-top-box-form * {
+  border-radius: 5px;
+  color: white;
+}
+
+
+#search-top-box-input {
+  transition: 1s ease-in-out;
+  text-align: center;
+  width: 10em;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+#search-top-box-input:focus {
+  width: 13em;
+}
+
+#search-top-box-form > .btn {
+  background: linear-gradient(90deg, #222, #333);
+}
+
+.oinfo-inner > p {
+  margin: 0.25em;
+  display: inline;
+}
+
+.oinfo-inner > p + p {
+    text-decoration: dashed underline #0007;
+}
+
+.oinfo-inner {
+  margin-left: 5px;
+}
+
+.oinfo-val div{
+  display: none;
+}
+
+.oinfo-val p {
+  margin: 0;
+}
+
+.oinfo:hover .oinfo-val {
+  opacity: 1;
+  max-height: 100px;
+}
+
+.oinfo-val {
+  transition: 1.5s ease-in-out;
+  transition-delay: 0.25s;
+  opacity: 0;
+  max-height: 1.5em;
+  margin-left: 0.25em;
+}
+
+.oinfo {
+  transition: 1s background-color ease-in-out;
+  transition-delay: 0.25s;
+  position: relative;
+}
+
+.oline {
+  position: absolute;
+  transition: bottom 1.5s ease-in-out;
+  transition-delay: 0.25s;
+  width: 3px;
+  left: 0;
+  top: 2px;
+  bottom: 100%;
+  background-color: #2e6f84;
+}
+
+.oinfo-val p::before {
+    content: "";
+    position: absolute;
+    background-color: white;
+    left: 0;
+    right: 0;
+    top: 0;
+    transition: left 1.5s ease-in-out;
+    transition-delay: 0.25s;
+    bottom: 0;
+}
+
+.oinfo:hover {
+  background-color: wheat;
+}
+
+.oinfo:hover .oline {
+  bottom: 2px;
+}
+
+.oinfo:hover .oinfo-val p::before {
+  left: 100%;
+}
+
+.yui-navset .yui-nav a {
+  background: #444444;
+  color: white;
+}
+
+.yui-navset .yui-nav .selected a {
+    background: var(--sidebar-color);
+}
+
+.yui-navset ul.yui-nav {
+    border-color: var(--sidebar-color);
+}
+
+.yui-navset .yui-content {
+  background: #f4f4f4;
+}
+
+.oclass + p {
+  margin-top: 0;
+}
+
+.rimg {
+    float: right;
+    border: 1px solid #c8ccd1;
+    padding: 3px;
+    background-color: #f8f9fa;
+    font-size: 94%;
+    text-align: center;
+    overflow: hidden;
+    margin-left: 2em;
+}
+
+.rimg#u-caption-NONE {
+  padding: 0;
+  border: 0;
+}
+.rimg#u-caption-NONE span {
+  display: none;
+}
+
+.rimg img {
+    background-color: #fff;
+    border: 1px solid #c8ccd1;
+}
+.rimg  span {
+    text-align: left;
+}
+
+blockquote a {
+  color: #499e9e;
+}
+
+blockquote {
+  padding: 1em;
+  background: linear-gradient(90deg, #0085af 10px, #ccebf3 10px);
+  color: #000;
+  padding-left: 2em;
+  box-shadow: -1px -1px 6px #4447;
+  border-radius: 10px 0 0 10px;
+  border: none;
+  position: relative;
+}
+
+blockquote blockquote {
+  box-shadow: 0px 0 10px #252525;
+}
+
+/*blockquote {
+  z-index: 100;
+  padding: 1em;
+  position: relative;
+  border: none;
+  padding: 1px 1em;
+  border-radius: 35px 0;
+  background-color: #59c3ec;
+  margin: 1em 0 2em 2em;
+}
+
+blockquote::before {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -1em;
+  right: 0;
+  bottom: -1em;
+  border: 5px solid #59c3ec;
+  border-color: transparent transparent #59c3ec #59c3ec;
+}*/
+
+h1 .printuser img.small {
+    vertical-align: -0.2em;
+}
+
+li {
+  margin-top: 0.75em;
+}
+
+.tight-list li {
+  margin-top: 0;
+}
+
+li::marker {
+  font-weight: bold;
+}
+
+.page-tags a[href^="/system:page-tags/tag/_"] {
+  display: none;
+}
+
+#content-wrap {
+  padding-bottom: 4em;
+}
+
+#container-wrap-wrap{
+  min-height: 100vh;
+}
+
+#footer {
+  position: absolute;
+  bottom: 3em;
+  right: 0;
+  left: 0;
+}
+
+#license-area {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.page-rate-widget-box {
+  text-align: right;
+}
+
+#action-area .page-rate-widget-box {
+  text-align: center;
+}
+
+table.wiki-content-table th {
+  background-color: inherit;
+}
+
+#side-bar a[href^="/lab:"] {
+  display: initial;
+  margin: 0.25em 0;
+}
+
+a[href^="/lab:"], a[href*="sons-of-athena.wikidot.com/lab:"] {
+        display: none;
+}
+
+.page-rate-list-pages-start {
+  position: relative;
+  bottom: -5px;
+}
+
+
+.large-list .list-pages-box {
+  display: flex;
+  flex-flow: row wrap;
+}
+.large-list .list-pages-item {
+  flex-basis: 50%;
+}
+.large-list .page-rate-list-pages-start {
+  float: right;
+  width: 10em !important;
+  margin-right: 5em;
+}
+.large-list .page-rate-list-pages-start {
+  bottom: 3px;
+}
+
+
+
+@keyframes fadein {
+        from {opacity: 0;}
+        to {opacity: 1;}
+}
+
+#u-similar-projects {
+        text-decoration: underline wavy;
+}
+
+#u-similar-projects p {
+        margin-bottom: 0;
+}
+
+#u-sidebar-hover {
+        display: none;
+        position: absolute;
+        background-color: inherit;
+        animation: fadein 1s;
+}
+
+#side-bar #u-sidebar-hover a {
+        display: inline;
+}
+
+#u-similar-projects:hover + #u-sidebar-hover, #u-sidebar-hover:hover {
+        display: block;
+}
+
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex > * {
+  flex-grow: 1;
+  flex-basis: 100%;
+}
+
+.flex50 {
+  flex-basis: 35%;
+}
+
+#page-content {
+  font-size: 14px;
+}
+
+.bottom-buttons [id^="wiki-tabview"] {
+  padding-bottom: 32px;
+}
+
+.bottom-buttons .yui-nav {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-bottom-width: 0;
+  border-top-width: 5px;
+}
+
+.hideh3 h3 {
+  margin: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.math-inline {
+  margin-right: 10px;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+   padding: 15px;
+   margin: 15px 5px;
+   border: solid 1px #888888;
+   border-radius: 10px;
+   background-color: #f8f8f8;
+   box-shadow: 0 0 5px 2px #c2c2c2;
+}
+
+.panel hr {
+  margin-top: 0;
+}
+
+.panel .list-pages-box {
+  flex-grow: 1;
+}
+
+.panel {
+  position: relative;
+  text-align: center;
+}
+
+.panel ul {
+  text-align: left;
+}
+
+h2, h3 {
+  margin: 0;
+}
+
+.panel.important {
+  background-color: wheat !important;
+}
+
+
+
+
+/* Access-Levels */
+
+.access-levels {
+  float: right;
+}
+.access-levels a {
+  width: 3em;
+  height: 3em;
+  display: inline-block;
+  border-radius: 20%;
+  background: url("http://sons-of-athena.obscurative.ru/local--files/include:access-levels/lock.png") no-repeat center;
+  background-size: 70% 70%;
+}
+
+.access-levels > p > a{
+  background-color: lightgreen;
+  box-shadow: 0 0 5px -1px lightgreen;
+}
+
+.access-levels > p > a, #u-level1:target ~ .access-levels span:nth-child(2) a, #u-level2:target ~ .access-levels span:nth-child(2) a, #u-level2:target ~ .access-levels span:nth-child(3) a {
+  background-image: url("http://sons-of-athena.obscurative.ru/local--files/include:access-levels/lock_opened.png");
+}
+
+.access-levels span:nth-child(2) a {
+  background-color: orange;
+  box-shadow: 0 0 5px -1px orange;
+}
+
+.access-levels span:nth-child(3) a {
+  background-color: red;
+  box-shadow: 0 0 5px -1px red;
+}
+
+#u-level1, #u-level2 {
+  position: fixed;
+  top: 0;
+}
+
+.level1, .level2 {
+  font-size: 0;
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.level1 {
+  background-image: linear-gradient(wheat 2em, #0000, wheat);
+}
+
+#u-level2:target ~ * .level1, #u-level2:target ~ .level1 {
+  background-color: transparent;
+}
+
+.level2 {
+  background-image: linear-gradient(#f002 2em, #0000, #f002);
+}
+
+#u-level1:target ~ * .level1, #u-level2:target ~ * .level2, #u-level2:target ~ * .level1,
+#u-level1:target ~ .level1, #u-level2:target ~ .level2, #u-level2:target ~ .level1{
+  font-size: 1em;
+  opacity: 1;
+}
+
+#u-level1:target ~ * .level1-lie, #u-level1:target ~ .level1-lie  {
+  background-color: wheat;
+  text-decoration: line-through;
+}
+
+#u-level2:target ~ * .level2-lie, #u-level2:target ~ .level2-lie  {
+  background-color: linear-gradient(#f002 2em, #0000, #f002);
+  text-decoration: line-through;
+}
+
+#u-level2:target ~ * .level1-lie, #u-level2:target ~ .level1-lie {
+  display: none;
+}
+
+.level-none {
+  display: none;
+}
+
+.level0.access-caption {
+  background-color: lightgreen;
+}
+
+.access-caption {
+  position: relative;
+  top: -2em;
+  text-align: center;
+  margin-bottom: -1.5em;
+  border-radius: 0 0 10px 10px;
+}
+
+#u-level1:target ~ .level0.access-caption, #u-level2:target ~ .level0.access-caption, #u-level2:target ~ .level1.access-caption {
+  display: none; 
+}
+
+.access-levels a:after {
+  content: "";
+  position: absolute;
+  margin-top: -4px;
+  top: 100%;
+  height: 0;
+  left: 0;
+  right: 0;
+  border: 10px solid transparent;
+}
+
+.access-levels > p > a:after {
+   border-top-color: lightgreen;
+}
+
+#u-level1:target ~ .access-levels > p > a:after, #u-level2:target ~ .access-levels > p > a:after  {
+  display: none;
+}
+
+#u-level1:target ~ .access-levels span:nth-child(2) a:after {
+   border-top-color: orange;
+}
+
+#u-level2:target ~ .access-levels span:nth-child(3) a:after {
+   border-top-color: red;
+}
+
+.access-levels a {
+  position: relative;
+}
+

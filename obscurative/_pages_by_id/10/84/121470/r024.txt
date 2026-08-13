@@ -1,0 +1,84 @@
+---
+title: "Id Leak"
+tags: []
+page_id: "1084121470"
+site: "obscurative"
+slug: "id-leak"
+revision: 24
+revision_id: "1311069001"
+author: 4518363
+timestamp: 1596434938
+---
+
+[[module CSS]]
+
+#u-cover {
+  visibility: visible;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  width: 100%;
+}
+
+body {
+  visibility: hidden;
+  overflow: hidden;
+}
+
+#u-cover img {
+  clip-path: circle(50% at 50% 50%);
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#login-status {
+  visibility: visible;
+  background-color: white;
+  --link-color: black;
+  --login-color: black;
+  position: fixed;
+}
+
+.hor {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+img {
+  margin: auto;
+}
+
+#footer {
+  display: none !important;
+}
+[[/module]]
+
+[[div id="cover"]]
+[[div class="hor"]]
+[[div class="panel"]]
+К сожалению, мы не нашли аккаунт Wikidot. 
+[[[https://obscure.ru:8000/login | Вернуться]]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[module ListUsers users="."]]
+[[div id="cover"]]
+[[div class="hor"]]
+[[div class="panel"]]
+[[image https://obscure.ru:8000/id-leak/%%number%%]]
+Здравствуйте, %%title%%! 
+Если Вы видите свой аватар выше,
+то Ваш аккаунт был успешно определён.
+[[[https://obscure.ru:8000/wikidot-auth|Завершить регистрацию]]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/module]]
+
