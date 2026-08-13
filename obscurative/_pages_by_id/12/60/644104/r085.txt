@@ -1,0 +1,535 @@
+---
+title: "Мир 2 - Пограничье"
+tags: ["Мир", "Пограничье"]
+page_id: "1260644104"
+site: "obscurative"
+slug: "world-2"
+revision: 85
+revision_id: "1461004618"
+author: 2679482
+timestamp: 1652336246
+---
+
+[[include frontier:theme]]
+
+[[module Rate]]
+ 
+
+
+**Пограничье** — Мир ближней ветви, открытый в 1972 году. Вследствие своей близости по древу слабо отличается от нулевого. Главной характерной особенностью Мира можно назвать невозможность обратного перемещения живой материи. Любое живое существо, перемещенное из Мира 2 в любой другой неизбежно погибает.
+
+ Мир находится на орбите двойной звездной системы, состоящей из белого и красного карликов, Гелиоса и Санга Лепоро, соответственно. Помимо единственной обитаемой планеты, названной **Элрондом**, на орбите звездной пары находятся раскаленный "горячий Юпитер" Касиус, пустынный, изрезанный каньонами Кайрис и покрытая облаками Каллеопа.
+Климат Элронда жаркий. Малый эксцентриситет орбиты обеспечивает ровную смену времен года, которые сменяются каждые 17 месяцев. Осень и весна выражены слабо. Долгое лето сопровождается высокими температурами, на экваторе достигающими 70°C. В зимнее время года снег выпадает лишь на полярных областях. Сутки продолжаются 30 Земных часов. Вследствие подобных отличий, была разработана новая система измерения времени. За стандартную единицу был принят Земной час, соответственно на местных часах оных насчитывается 30. Год делится на шесть месяцев, в каждом из которых числится по 170 дней. Для удобства месяцы были названы соответственно земным: декабрь, январь, февраль, летние июнь, июль и август.
+
+В настоящее время доподлинно известны лишь три материка. **Эйрис** является самым северным из известных, в его северной части пролегает экватор. Это наиболее жаркий континент, жизнь на котором возможна лишь на южных его берегах. Центральная часть находится на стыке крупнейших литосферных плит и представляет собой непроходимый горный массив, в самой высокой своей части достигающий 14 километров. Южная часть материка покрыта гигантской раскаленной пустыней. Именно эта пустыня, именуемая "Черной" и является основным месторождением нефти, выходящей на поверхность в виде луж или целых озер. На территории этой пустыни, а также в горах к северу обитают многочисленные дикие племена людей, попавших на Пограничье еще до начала колонизации. Впрочем, юго-восточная часть материка, благодаря холодному течению покрыта густым лиственным лесом и вполне пригодна для комфортного проживания.
+
+Центральный континент, **Аркан** имеет вулканическую природу. Судя по всему, он возник более двух млрд. лет назад вследствие извержения супервулкана, разделившего единый ранее континент. Вулкан считается давно потухшим, однако продукты его деятельности обеспечили прекрасную базу для растительной жизни. Большая часть континента покрыта непроходимыми жаркими джунглями вечнозеленых растений. Сложности со свободным для строительства местом вынуждают местных колонистов осваивать строительство на деревьях. Именно здесь можно встретить Грузотигр — ловких и сильных травоядных животных, которые прекрасно приручаются и экспортируются по всей планете в качестве покладистых и выносливых ездовых или вьючных животных.
+
+Южный континент — **Титус**, в данный момент является наиболее заселенным. Северная часть материка покрыта жаркими саваннами и прериями со скудной растительностью, во многих местах сменяющимися пустынями. Северо-западная оконечность омывающаяся холодным течением менее засушлива и пригодна для комфортного проживания. Юг материка покрыт жаркими непроходимыми болотами и в данный момент изучен слабо. В середине декабря Слоновый пролив мельчает, на его месте образуется перешеек Святой Линды, который служит удобным, но не слишком безопасным торговым маршрутом. Именно в это время открывается Тигриный торговый путь, по которому приходят в движение множество караванов.
+
+++ [[[frontier:raid | Рейд]]]
+
+++ [[[frontier:lost | Затерянные]]]
+
+++ [[[frontier:mario | Первое путешествие, рассказ Марио Балотти]]]
+
+++ [[[frontier:black-tears | Черные слезы]]]
+
+++ [[[frontier:everycloudhasasilverlining | За плохим следует хорошее]]]
+
+++ [[[frontier:another-world | Другой Мир]]]
+
+++ [[[frontier:swamper | Гильдия Болотников]]]
+
+++ [[[frontier:salley-s-bar | У Сэлли]]]
+
+++ [[[frontier:liberte | Об аванпосте "Liberte"]]]
+
+++ [[[frontier:rhone | Аванпост "Рона"]]]
+
+++ [[[frontier:amber | Аванпост "Эмбер"]]]
+
+++ [[[frontier:pervomay | Аванпост "Первомайский"]]]
+
+++ [[[frontier:space-station | О загадочном космическом объекте]]]
+
+[[html]]
+<style>
+#conv {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
+#conv label {
+  display: block;
+}
+</style>
+<div id="conv">
+  <select id="conv-type">
+    <option value="tf->te">Время Пограничья -> Время Земли</option>
+    <option value="te->tf">Время Земли -> Время Пограничья</option>
+    <option value="df->de">Дата Пограничья -> Дата Земли</option>
+    <option value="de->df">Дата Земли -> Дата Пограничья</option>
+  </select>
+  <div class="date">
+    <label id="date-day-label">День</label>
+    <input id="date-day" type="number">
+  </div>
+  <div class="date">
+    <label id="date-month-label">Месяц</label>
+    <div id="date-month"></div>
+  </div>
+  <div class="date">
+    <label id="date-year-label">Год</label>
+    <input id="date-year" type="number">
+  </div>
+</div>
+<div id="out"></div>
+
+<script>
+"use strict";
+/* Hours in days, months and years in Frontier */
+const fdayhours = 30;
+const fmonthhours = 170*fdayhours;
+const fyearhours = 6*fmonthhours;
+const origin = new Date("1972-03-01");
+const monthnames = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"];
+const fmonthnames = ["января", "февраля", "июня", "июля", "августа", "декабря"];
+
+var ea;
+{
+    var dayhours = 24;
+    var monthhours = dayhours*30;
+    var yearhours = dayhours*365;
+    ea = [dayhours, monthhours, yearhours];
+}
+var fr = [fdayhours, fmonthhours, fyearhours];
+
+function time(hours, to) {
+  var divrem = (x, y) => [Math.floor(x / y), x % y];
+  var [ryears, hours] = divrem(hours, to[2], 1);
+  var [rmonths, hours] = divrem(hours, to[1], 1);
+  var rdays = Math.floor(hours/to[0]*100)/100;
+  return [rdays, rmonths, ryears];
+}
+
+function initTime() {
+  [["day", "Дней"], ["month", "Месяцев"], ["year", "Лет"]].forEach(([a, b]) => {
+    document.getElementById(`date-${a}-label`).innerText = b;
+  });
+  fieldDay.max = "";
+  var monthWrap = document.getElementById("date-month");
+  monthWrap.innerHTML = "";
+  fieldMonth = document.createElement("input");
+  fieldMonth.type = "number";
+  fieldMonth.addEventListener("change", recalc);
+  monthWrap.appendChild(fieldMonth);
+}
+
+// It's better to join this in a single function, but we both know that I won't.
+function initDate(mx) {
+  [["day", "Число"], ["month", "Месяц"], ["year", "Год"]].forEach(([a, b]) => {
+    document.getElementById(`date-${a}-label`).innerText = b;
+  });
+  fieldDay.max = mx;
+  var monthWrap = document.getElementById("date-month");
+  monthWrap.innerHTML = "";
+  fieldMonth = document.createElement("select");
+  var usableMonths;
+  if(fromFrontier) {
+    usableMonths = fmonthnames;
+  } else {
+    usableMonths = monthnames;
+  }
+  usableMonths.forEach(x => {
+    var opt = document.createElement("option");
+    opt.innerText = x;
+    fieldMonth.appendChild(opt);
+  });
+  fieldMonth.addEventListener("change", recalc);
+  monthWrap.appendChild(fieldMonth);
+}
+
+var fieldDay;
+var fieldMonth;
+var fieldYear;
+var fieldOut;
+var fieldType;
+
+var translateTime = true;
+var fromFrontier = true;
+
+function recalc() {
+  if(translateTime) {
+    var from, to;
+    if(fromFrontier) {
+      to = ea;
+      from = fr;
+    } else {
+      to = fr;
+      from = ea;
+    }
+    var hours = (fieldDay.valueAsNumber || 0)*from[0] + (fieldMonth.valueAsNumber || 0)*from[1] + (fieldYear.valueAsNumber || 0)*from[2];
+    var [days, months, years] = time(hours, to);
+    fieldOut.innerText = `${days} дней, ${months} месяцев, ${years} лет`;
+  } else {
+    /* Translate date */
+    var day = fieldDay.valueAsNumber || 1;
+    var month = fieldMonth.selectedIndex + 1;
+    var year = fieldYear.valueAsNumber || 1;
+    if(fromFrontier) {
+      var hours = (day-1)*fdayhours + (month-1)* fmonthhours + (year-1)* fyearhours;
+      var out = new Date(origin);
+      out.setHours(origin.getHours()+hours);
+      fieldOut.innerText = `${out.getDate()} ${monthnames[out.getMonth()]} ${out.getFullYear()} года`;
+    } else {
+      var hours = (new Date(`${year}-${month}-${day}`)-origin)/1000/60/60;
+      if(!isNaN(hours)) {
+        var [day, month, year] = time(hours, fr);
+        day = Math.floor(day);
+        fieldOut.innerText = `${day+1} ${fmonthnames[month]} ${year+1} года`;
+      } else {
+        fieldOut.innerText = "";
+      }
+    }
+  }
+}
+
+function reselect() {
+  var val = fieldType.value;
+  // Maybe someone could use object here instead of these else ifs.
+  if(val == "tf->te") {
+    fromFrontier = true;
+    translateTime = true;
+    initTime();
+  } else if (val == "te->tf") {
+    fromFrontier = false;
+    translateTime = true;
+    initTime();
+  } else if (val == "df->de") {
+    fromFrontier = true;
+    translateTime = false;
+    initDate(170);
+  } else if (val == "de->df") {
+    fromFrontier = false;
+    translateTime = false;
+    initDate(31);
+  }
+  recalc();
+}
+
+window.onload = () => {
+  fieldType = document.getElementById("conv-type");
+  fieldType.addEventListener("change", reselect);
+  fieldOut = document.getElementById("out");
+  fieldDay = document.getElementById("date-day");
+  fieldYear = document.getElementById("date-year");
+  [fieldDay, fieldYear].forEach(x => x.addEventListener("change", recalc));
+  initTime();
+};
+</script>
+[[/html]]
+
+[[div id="timeline"]]
+
+
+[[include include:timepoint
+| year = 1
+| month = 2
+| day = 2
+| maxyear = 15
+| img = .
+| name = Основание первого научно-исследовательского аванпоста "ALCOR", в дальнейшем переименованного в малую Британию
+]]
+
+[[include include:timepoint
+| year = 1
+| month = 5
+| day = 6
+| maxyear = 15
+| img = .
+| name = Начало полномасштабной колонизации Пограничья. Основание первых частных и Государственных аванпостов.
+]]
+
+[[include include:timepoint
+| year = 2
+| month = 2
+| day = 10
+| maxyear = 15
+| img = .
+| name = Впервые было обнаружено поселение цивилизации-попаданца. Ей оказалось небольшое племя Хвайгучи, предки земного племени Вампаноаг.
+]]
+
+[[include include:timepoint
+| year = 2
+| month = 4
+| day = 145
+| maxyear = 15
+| img = .
+| name = Появление первых банд, занявшихся грабежом караванов и налетами на аванпосты. Их происхождение неизвестно.
+]]
+
+[[include include:timepoint
+| year = 3
+| month = 1
+| day = 98
+| maxyear = 15
+| img = .
+| name = Вторая волна колонизации Пограничья, оказавшаяся куда более массовой, чем первая.
+]]
+
+
+[[include include:timepoint
+| year = 3
+| month = 1
+| day = 98
+| maxyear = 15
+| link = http://obscurative.wikidot.com/frontier:mario
+| name = Марио Балотти, знаменитый в будущем первооткрыватель, совершает своё первое путешествие.
+| img = https://media.discordapp.net/attachments/692691898858733622/749649638184976434/2.png
+]]
+
+[[include include:timepoint
+| year = 3
+| month = 2
+| day = 155
+| maxyear = 15
+| link = .
+| name = Основание аванпоста Рона.
+| img = https://media.discordapp.net/attachments/692691898858733622/749649638184976434/2.png
+]]
+
+[[include include:timepoint
+| year = 4
+| month = 1
+| day = 48
+| maxyear = 15
+| link = http://obscurative.wikidot.com/frontier:swamper
+| name = Основание гильдии Болотников
+| img = https://media.discordapp.net/attachments/668029990062915595/798206182078677022/9cfa78a034f5cfef.png?width=315&height=201
+]]
+
+[[include include:timepoint
+| year = 4
+| month = 2
+| day = 169
+| maxyear = 15
+| img = .
+| name = Основание аванпоста Liberte.
+]]
+
+[[include include:timepoint
+| year = 4
+| month = 3
+| day = 28
+| maxyear = 15
+| img = .
+| name = Начало освоения Аркана, заложено основание будущего аванпоста Greenplace.
+]]
+
+
+
+
+
+
+[[/div]]
+
+[[module CSS]]
+
+#u-timeline {
+  --back: Peru; /* Цвет линии или её текстура */
+  --for: Sienna; /* Цвет событий на линии */ 
+  --height: 50px; /* Высота линии */
+  --limiter: Sienna; /* Цвет ограничителей слева и справа */
+  --timepoint-width: 5px; /* Ширина события */
+  
+  
+  
+  --hb2: calc(var(--height)/2);
+}
+
+#u-timeline hr, #u-timeline br {
+  display: none;
+}
+
+#u-timeline {
+  position: relative;
+  height: 8em;
+}
+
+#u-timeline::after {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 50%;
+  width: 100%;
+  height: var(--height);
+  margin-top: calc(var(--hb2)*(-1));
+  border: 5px solid;
+  border-color: white var(--limiter);
+  background: var(--back) 0 / contain;
+  z-index: 0;
+}
+
+#u-timeline div {
+  position: absolute;
+  margin-top: var(--hb2);
+  top: 50%;
+  width: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+#u-timeline div::after, #u-timeline a {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-top: calc(var(--height)*(-1));
+  margin-left: calc(var(--timepoint-width)*(-1));
+  width: var(--timepoint-width);
+  height: var(--height);
+  background: var(--for);
+  z-index: 1;
+}
+
+#u-timeline a {
+  z-index: 2;
+}
+
+#u-timeline div * {
+  display: none;
+}
+
+#u-timeline div:hover {
+  width: 20em;
+  margin-left: -10em;
+  background: white;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+
+#u-timeline div:hover * {
+  display: block;
+}
+
+#u-timeline .time {
+  display: block;
+  position: absolute;
+  top: calc(var(--height)*(-1));
+  left: 50%;
+  margin-left: -0.5em;
+  margin-top: -1em;
+  width: 5em;
+  text-align: left;
+  transform: rotateZ(-45deg);
+  transform-origin: left;
+}
+
+#u-timeline .name {
+  margin-top: 1em;
+}
+
+#u-timeline img {
+  width: 100%;
+}
+
+#u-timeline img[alt="."] {
+  display: none !important;
+}
+[[/module]]
+
+++++ __{{Интерактивная карта Элронда:}}__
+
+[[module CSS]]
+
+.map {
+  position: relative;
+}
+
+.map > * {
+  margin: 0;
+}
+
+.map p, .map a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: block;
+}
+
+.map .rimg {
+  float: none;
+}
+
+.map a:hover {
+  background-color: #fff3;
+}
+
+.map p a:nth-child(1)  {
+  clip-path: circle(2.54% at 49.57% 55.20%);
+}
+
+.map p a:nth-child(3)  {
+  clip-path: circle(2.54% at 52.88% 91.14%);
+}
+
+.map p a:nth-child(5) {
+    clip-path: circle(2.54% at 55.66% 19.72%);
+}
+[[/module]]
+
+[[module CSS]]
+#u-fullscreen:target {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  background: #000a;
+  z-index: 100;
+}
+
+#u-fullscreen:target div {
+  position: absolute;
+  top: 1%;
+  left: 1%;
+  bottom: 1%;
+  right: 1%;
+  background: url(https://media.discordapp.net/attachments/692691898858733622/912228185062666270/a3c02533950d28bf.png) no-repeat center / contain;
+}
+
+#u-fullscreen:target a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+}
+[[/module]]
+
+[[div id="fullscreen"]]
+[#close-fullscreen  ]
+[[div]]
+​
+[[/div]]
+[[/div]]
+
+[[div class="map"]]
+[[include include:image
+|img=https://media.discordapp.net/attachments/692691898858733622/912228185062666270/a3c02533950d28bf.png
+|width=100%
+]]
+[[[frontier:liberte|​]]]
+[[[frontier:rhone|​]]]
+[[[frontier:black-blood|​]]]
+[[/div]]
+([#u-fullscreen На весь экран])
+
+[[module ListPages category="*" tag="Пограничье" order="titleAsc" perPage="200" separate="false" prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||~ Рейтинг ||"]]
+|| %%linked_title%% || %%created_by_linked%%|| %%updated_at|%H:%M %d.%m.%Y %%|| %%rating%% ||
+[[/module]]
+

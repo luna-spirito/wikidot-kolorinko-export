@@ -1,0 +1,155 @@
+---
+title: "Engineering Component Theme"
+tags: ["theme"]
+page_id: "986299897"
+site: "rpcauthority"
+slug: "component:engineering-component-theme"
+revision: 24
+revision_id: "1050603838"
+author: 3118961
+timestamp: 1584297101
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:engineering-component-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Engineering Component Theme
+    [2020 Wikidot Theme]
+
+    Created by Vizlox as the Containment Division Engineering Component theme 
+*/
+
+:root {
+    --body-background: #2b2b2d;
+    --primary-text-color: #986449;
+    --nav-hover-background: #4f4641;
+    --primary-background: #201f1e;
+    --content-bar-background: #282626;
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Engineering Component';
+    --header-tagline-custom-text: "Anomalies Don't Contain Themselves";
+    --header-icon: url(http://www.rpc-wiki.net/local--files/component:engineering-component-theme/ContainmentGear.png);
+    --header-icon-adv: left 1em top 1em no-repeat;
+    --header-icon-size: 90px;
+    --header-background: url(http://www.rpc-wiki.net/local--files/component:engineering-component-theme/ComponentHeader.png);
+    --header-tagline-color: #fff;
+ 
+    --link-color: #c28c71;
+    --link-hover-color: #deb29c;
+    --new-page-color: #947667;
+ 
+    --tabview-side-tabs-background: #363331;
+    --tabview-side-button-selected-background: #2a2624;
+    --tabview-side-scrollbar-thumb-background: #493a32;
+    --tabview-side-scrollbar-thumb-hover-background: #413630;
+
+    --button-border: 1px solid #40332c;
+    --button-background: #2a221e;
+    --button-hover-border: 1px solid #503e36;
+    --button-hover-background: #503e36;
+ 
+    --search-button-background: #30241d;
+    --search-button-hover-background: #60473a;
+    --search-input-color: #4a3d37;
+    --search-input-hover: #4a3d37;
+ 
+    --topbar-dropdown-background: #222;
+    --topbar-hover-background: #353332;
+    --topbar-divider: 1px solid #353332;
+    --topbar-dropdown-border-color: #333;
+ 
+    --news-block-body-panel-background-even: #1d1c1c;
+ 
+    --star-rating-hue: 175deg;
+ 
+    --text-box-form-background: #1e1b1b;
+    --text-box-form-border: 1px solid #3b3131;
+ 
+    --template-block-background: #1a1414;
+
+    --sidenote-open-background: #2c2521;
+
+    --WT-body-background: #e8e5e3;
+    --WT-primary-text-color: #986549;
+    --WT-nav-hover-background: #4f4641;
+    --WT-content-bar-background: #d0c5bf;
+ 
+    --WT-header-text-visibility: hidden;
+    --WT-header-custom-text: 'Engineering Component';
+    --WT-header-tagline-custom-text: "Anomalies Don't Contain Themselves";
+    --WT-header-icon: url(http://www.rpc-wiki.net/local--files/component:engineering-component-theme/ContainmentGear.png);
+    --WT-header-icon-adv: left 1em top 1em no-repeat;
+    --WT-header-icon-size: 90px;
+    --WT-header-background: url(http://www.rpc-wiki.net/local--files/component:engineering-component-theme/ComponentHeader.png);
+    --WT-header-tagline-color: #fff;
+ 
+    --WT-link-color: #bd5a24;
+    --WT-new-page-color: #712828;
+ 
+    --WT-button-background: #fff6f0;
+    --WT-button-hover-background: #e08453;
+ 
+    --WT-search-button-background: #30241d;
+    --WT-search-button-hover-background: #60473a;
+    --WT-search-input-color: #4a3d37;
+    --WT-search-input-hover: #4a3d37;
+ 
+    --WT-topbar-hover-background: #4f4641;
+
+    --WT-sidenote-closed-background: #4f4641;
+    --WT-sidenote-open-background: var(--content-bar-background);
+    --WT-sidenote-figure-closed-color: #fff;
+    --WT-sidenote-figure-open-color: var(--text-color);
+    
+    --WT-tabview-button-selected-background: #ae9385;
+    --WT-tabview-button-hover-background: #b7b2af;
+    --WT-tabview-button-selected-color: #fff;
+    
+    --WT-open-themes-background: #221e1d;
+    --WT-open-themes-hover-color: #c28c71;
+    
+    --WT-star-rating-background: var(--basic-border-color);
+    --WT-star-rating-border: var(--basic-border);
+    --WT-star-rating-border-radius: 0;
+    --WT-star-rating-box-shadow: none;
+    --WT-star-rating-stars-box-shadow: none;
+    --WT-star-rating-hue: 355deg;
+    --WT-star-rating-filter: hue-rotate(var(--WT-star-rating-hue)) saturate(0.4);
+
+    --BT-open-themes-border: 2px solid hsl(21,25%,70%);
+    --BT-open-themes-background: hsl(21,100%,97%);
+    --BT-open-themes-color: hsl(21,100%,10%);
+    --BT-open-themes-hover-color: #bd5a24;
+    --BT-open-themes-hover-border: solid 2px #c28c71;
+    --BT-scrollbar-thumb-background: #5a3927;
+    --BT-scrollbar-thumb-hover-background: #493428;
+}
+
+#header h1 a {
+     font-size: 170%;
+}
+
+@media (min-width: 769px) {
+    #header h1 a {
+        position: relative;
+        bottom: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    #header h1 a {
+        font-size: 60%;
+    }
+    #header {
+        background-position: 0 4em;
+    }
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+

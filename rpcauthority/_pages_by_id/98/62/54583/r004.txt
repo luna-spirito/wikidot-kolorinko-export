@@ -1,0 +1,28 @@
+---
+title: "_rate"
+tags: []
+page_id: "986254583"
+site: "rpcauthority"
+slug: "_rate"
+revision: 4
+revision_id: "1034058957"
+author: 3118961
+timestamp: 1579564410
+---
+
+[[module ListPages category="-contest" votes=">=15" tags="rpc, rpc-j" perPage="50" limit="50" order="rating desc" separate="false"]]
+[[head]]
+[[ol]]
+[[/head]]
+[[body]]
+[[li]]
+%%title_linked%%
+|| %%rating%%|| %%rating_decimal%% || %%rating_votes%% ||
+
+[[/li]]
+[[/body]]
+[[foot]]
+[[/ol]]
+[[/foot]]
+[[/module]]
+

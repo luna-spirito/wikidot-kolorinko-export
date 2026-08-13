@@ -1,0 +1,55 @@
+---
+title: "_rate"
+tags: []
+page_id: "986254583"
+site: "rpcauthority"
+slug: "_rate"
+revision: 16
+revision_id: "1034059415"
+author: 3118961
+timestamp: 1579566917
+---
+
+[[module CSS]]
+.list-pages-box table {
+padding-bottom: 0;
+}
+
+.list-pages-box li {
+    height: 20px;
+}
+
+.list-pages-box li>* {
+    position: relative;
+    top: 4px;
+}
+[[/module]]
+
+[[div class="content-panel"]]
+[[module ListPages category="-contest" votes=">=15" tags="rpc, rpc-j" perPage="50" limit="50" order="votes desc" separate="false"]]
+[[head]]
+[[ol]]
+[[/head]]
+[[body]]
+[[li]]
+[[table]]
+[[row]]
+[[cell style="width: 64px"]]
+%%rating_decimal%% stars
+[[/cell]]
+[[cell style="width: 90px;"]]
+##666||## %%rating_votes%% votes
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/li]]
+[[/body]]
+[[foot]]
+[[/ol]]
+[[/foot]]
+[[/module]]
+[[/div]]
+

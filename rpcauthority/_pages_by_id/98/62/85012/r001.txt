@@ -1,0 +1,66 @@
+---
+title: "_containment Test"
+tags: []
+page_id: "986285012"
+site: "rpcauthority"
+slug: "_containment-test"
+revision: 1
+revision_id: "1034110827"
+author: 3118961
+timestamp: 1579752868
+---
+
+wooo
+
+[[module css]]
+:root {
+    --body-background: #2b2b2d;
+    --primary-text-color: #984949;
+    --nav-hover-background: #4f4141;
+    --primary-background: #201e1e;
+    --content-bar-background: #282626;
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Containment Division';
+    --header-tagline-custom-text: 'Clausum Secreto';
+    --header-icon: url(https://media.discordapp.net/attachments/491688482209660928/591008511018926105/Containment_Division_Shield.png);
+    --header-background: url(https://cdn.discordapp.com/attachments/440652449641136128/669755572945551370/unknown.png);
+    --header-tagline-color: #fff;
+ 
+    --link-color: #c27171;
+    --link-hover-color: #de9c9c;
+    --new-page-color: #956767;
+ 
+    --button-border: 1px solid #402c2c;
+    --button-background: #221818;
+    --button-hover-border: 1px solid #5c2727;
+    --button-hover-background: #5c2727;
+ 
+    --search-button-background: #301d1d;
+    --search-button-hover-background: #603a3a;
+    --search-input-color: #4a3737;
+    --search-input-hover: #4a3737;
+ 
+    --topbar-dropdown-background: #222;
+    --topbar-hover-background: #353232;
+    --topbar-divider: 1px solid #353232;
+    --topbar-dropdown-border-color: #333;
+ 
+    --news-block-body-panel-background-even: #1d1c1c;
+ 
+    --star-rating-hue: 140deg;
+ 
+    --text-box-form-background: #1e1b1b;
+    --text-box-form-border: 1px solid #3b3131;
+ 
+    --template-block-background: #1a1414;
+}
+ 
+@media (min-width: 1000px) {
+    .sidenote:hover .sidenoteH {
+        background: #2c2121!important;
+    }
+}
+[[/module]]
+[[include :rpcsandbox:pallet]]
+

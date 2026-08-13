@@ -1,0 +1,95 @@
+---
+title: "Engineering Component Theme"
+tags: ["theme"]
+page_id: "986299897"
+site: "rpcauthority"
+slug: "component:engineering-component-theme"
+revision: 19
+revision_id: "1046911448"
+author: 3118961
+timestamp: 1582586995
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:engineering-component-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+    Engineering Component Theme
+    [2020 Wikidot Theme]
+
+    Created by Vizlox as the Containment Division Engineering Component theme 
+*/
+
+:root {
+    --body-background: #2b2b2d;
+    --primary-text-color: #986449;
+    --nav-hover-background: #4f4641;
+    --primary-background: #201f1e;
+    --content-bar-background: #282626;
+ 
+    --header-text-visibility: hidden;
+    --header-custom-text: 'Engineering Component';
+    --header-tagline-custom-text: "Anomalies Don't Contain Themselves";
+    --header-icon: url(http://www.rpc-wiki.net/local--files/component:engineering-component-theme/ContainmentGear.png);
+    --header-icon-adv: left 1em top 1em no-repeat;
+    --header-icon-size: 90px;
+    --header-background: url(http://www.rpc-wiki.net/local--files/component:engineering-component-theme/ComponentHeader.png);
+    --header-tagline-color: #fff;
+ 
+    --link-color: #c28c71;
+    --link-hover-color: #deb29c;
+    --new-page-color: #947667;
+ 
+    --button-border: 1px solid #40332c;
+    --button-background: #2a221e;
+    --button-hover-border: 1px solid #503e36;
+    --button-hover-background: #503e36;
+ 
+    --search-button-background: #30241d;
+    --search-button-hover-background: #60473a;
+    --search-input-color: #4a3d37;
+    --search-input-hover: #4a3d37;
+ 
+    --topbar-dropdown-background: #222;
+    --topbar-hover-background: #353332;
+    --topbar-divider: 1px solid #353332;
+    --topbar-dropdown-border-color: #333;
+ 
+    --news-block-body-panel-background-even: #1d1c1c;
+ 
+    --star-rating-hue: 175deg;
+ 
+    --text-box-form-background: #1e1b1b;
+    --text-box-form-border: 1px solid #3b3131;
+ 
+    --template-block-background: #1a1414;
+
+    --sidenote-open-background: #2c2521;
+}
+
+#header h1 a {
+     font-size: 170%;
+}
+
+@media (min-width: 769px) {
+    #header h1 a {
+        position: relative;
+        bottom: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    #header h1 a {
+        font-size: 60%;
+    }
+    #header {
+        background-position: 0 4em;
+    }
+}
+[[/code]]
+[[/collapsible]]
+[[include :rpcsandbox:pallet]]
+

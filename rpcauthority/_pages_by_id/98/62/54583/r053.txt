@@ -1,0 +1,94 @@
+---
+title: "_rate"
+tags: []
+page_id: "986254583"
+site: "rpcauthority"
+slug: "_rate"
+revision: 53
+revision_id: "1034196522"
+author: 3118961
+timestamp: 1580057098
+---
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+
+.compact .list-pages-box table {
+padding-bottom: 0;
+}
+
+li table {
+  border-collapse: collapse;
+}
+
+li td {
+padding-top: 0;
+padding-bottom: 0;
+}
+
+ol {
+border: 2px solid var(--error-color);
+}
+
+li {
+    border: 2px dashed rgb(77,77,175);
+}
+table {
+    border: 2px solid yellow;
+}
+
+li {
+    height: 26px;
+}
+[[/module]]
+
+[[div class="content-panel compact"]]
+[[ol]]
+[[li]]
+[[table]]
+[[row]]
+[[cell style="width: 60px"]]
+2.3 ##666|stars##
+[[/cell]]
+[[cell style="width: 67px;"]]
+55 ##666|votes##
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/li]]
+[[/ol]]
+[[/div]]
+
+[[div class="content-panel compact"]]
+[[module ListPages category="-contest" votes=">=15" tags="rpc, rpc-j" perPage="50" limit="50" order="rating desc" separate="false"]]
+[[head]]
+[[ol]]
+[[/head]]
+[[body]]
+[[li]]
+[[table]]
+[[row]]
+[[cell style="width: 60px"]]
+%%rating_decimal%% ##666|stars##
+[[/cell]]
+[[cell style="width: 67px;"]]
+%%rating_votes%% ##666|votes##
+[[/cell]]
+[[cell]]
+%%title_linked%%
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/li]]
+[[/body]]
+[[foot]]
+[[/ol]]
+[[/foot]]
+[[/module]]
+[[/div]]
+
