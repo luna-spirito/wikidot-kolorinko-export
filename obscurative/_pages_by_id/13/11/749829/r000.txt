@@ -1,0 +1,19 @@
+---
+title: "Timepoint"
+tags: []
+page_id: "1311749829"
+site: "obscurative"
+slug: "include:timepoint"
+revision: 0
+revision_id: "1365924303"
+author: 4518363
+timestamp: 1622053355
+---
+
+[[div style="left: calc(${year}/${max}*100%);"]]
+[[span class="time"]]${year} год[[/span]]
+[[[${link}|​]]]
+[[span class="name"]]${name}[[/span]]
+[[image ${img}]]
+[[/div]]
+
