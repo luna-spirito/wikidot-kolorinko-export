@@ -1,2 +1,4 @@
 # Binary file attachments — too large for git
 _files/
+_files_*/
+*.tmp
