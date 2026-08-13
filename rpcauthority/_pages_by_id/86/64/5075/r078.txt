@@ -1,0 +1,152 @@
+---
+title: "Topbar menu"
+tags: []
+page_id: "86645075"
+site: "rpcauthority"
+slug: "nav:top"
+revision: 78
+revision_id: "1217650057"
+author: 3118961
+timestamp: 1593749888
+---
+
+[[module listPages limit="1" category="theme" order="created_at" fullname="@URL|theme:black" urlAttrPrefix="theme"]]
+%%content%%
+[[/module]]
+
+[[div class="open-themes-container"]]
+[[module listPages pagetype="*" category="-nav -forum" limit="1" range="."]]
+[[div class="open-themes themes-white"]]
+[%%link%%/theme_fullname/theme:white △]
+[[/div]]
+[[div class="open-themes themes-black"]]
+[%%link%%/# △]
+[[/div]]
+[[/module]]
+[[/div]]
+
+[[div class="top-bar"]]
+* RPC Archive
+ * [[[rpc-archive#001|001 - 099]]]
+ * [[[rpc-archive#100|100 - 199]]]
+ * [[[rpc-archive#200|200 - 299]]]
+ * [[[rpc-archive#300|300 - 399]]]
+ * [[[rpc-archive#400|400 - 499]]]
+ * [[[rpc-archive#500|500 - 599]]]
+ * [[[rpc-archive#600|600 - 699]]]
+ * [[[rpc-archive#700|700 - 799]]]
+ * [[[rpc-archive#800|800 - 899]]]
+ * [[[rpc-archive#900|900 - 999]]]
+ * [[[non-canon-hub|-Js/Non-Canon]]]
+* Divisions
+ * [[[research-hub|Research]]]
+ * [[[protection-hub|Protection]]]  
+ * [[[containment-hub|Containment]]]
+ * [[[administration-hub|Administration]]]
+* Authority Library
+ * [[[Authority Tales]]]
+ * [[[Documents]]]
+ * [[[Operations]]]
+ * [[[series-archive|Series' Archive]]]
+ * [[[Contest Archive]]]
+ * [[[Archived Pages]]]
+* Authority Archive
+ * [[[Acquired Media]]]
+ * [[[catalog-of-lesser-anomalous-items|Lesser Anomalous Items]]]
+ * [[[catalog-of-lesser-anomalous-locations|Lesser Anomalous Locations]]]
+ * [[[Event Index]]]
+ * [[[Personnel Dossier]]]
+ * [[[Site Index]]]
+* Entities of Interest
+ * [[[Groups of Interest]]]
+ * [[[governments-of-interest|Agencies of Interest]]]
+ * [[[Alternate Realities]]]
+* Operational Info
+ * [[[about-the-rpc-authority|About the Authority]]]
+ * [[[Object Classes]]]
+ * [[[threats-hazards|Threats & Hazards]]]
+ * [[[Security Clearance Levels]]]
+ * [[[list-of-all-msts| Mobile Specialized Teams]]]
+ * [[[Terminology Index]]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+* RPCs
+ * [[[rpc-archive|Archive I]]]
+ * [[[Non-Canon Hub]]]
+* Library
+ * [[[authority-tales|Tales]]]
+ * [[[Documents]]]
+ * [[[acquired-media|Acquired Media]]]
+ * [[[catalog-of-lesser-anomalous-items|Anomalous Items]]]
+ * [[[catalog-of-lesser-anomalous-locations|Anomalous Locations]]]
+ * [[[event-index|Anomalous Events]]]
+ * [[[personnel-dossier|Personnel]]]
+ * [[[site-index|Sites]]]
+* Lore
+ * [[[research-hub|Research]]]
+ * [[[protection-hub|Protection]]]  
+ * [[[containment-hub|Containment]]]
+ * [[[administration-hub|Administration]]]
+* EOIs
+ * [[[groups-of-interest|GOIs]]]
+ * [[[governments-of-interest|AOIs]]]
+ * [[[alternate-realities|ARs]]]
+* Info
+ * [[[about-the-rpc-authority|About the Authority]]]
+ * [[[object-classes|Object Classes]]]
+ * [[[threats-hazards|Threats and Hazards]]]
+ * [[[security-clearance-levels|Clearance Levels]]]
+ * [[[list-of-all-msts|MSTs]]]
+ * [[[Terminology Index]]]
+[[/div]]
+
+[!-- Code to only display on this site --]
+
+[[module css]]
+#main-content a[href^="http"], #footer a[href^="http"], #license-area a[href^="http"] {
+background-position: center right;
+background-repeat: no-repeat;
+background-image: url(http://www.rpc-wiki.net/local--files/component:icons/external-ltr.png);
+background-image: linear-gradient(transparent,transparent),url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2213%22 height=%2213%22%3E %3Cpath fill=%22%2336b%22 d=%22M5.002 1.01h7v7l-2-2-3 2v-1l3-2.25 1 1V2.01h-3.75l1 1-2.25 3h-1l2-3z%22/%3E %3Cpath fill=%22%2336b%22 d=%22M7.002 3.01h-5v8h8v-5h-1v4h-6v-6h4z%22/%3E %3Cpath fill=%22%2315a5ea%22 d=%22M4.082 5.51c0-.621.621-.621.621-.621 1.864.621 3.107 1.864 3.728 3.728 0 0 0 .621-.62.621-1.245-1.864-1.866-2.485-3.73-3.728z%22/%3E %3C/svg%3E");
+padding-right: 13px;
+}
+
+#main-content a[href*="rpc-wiki.net"], #main-content a[href*="rpcauthority.wikidot.com"],
+#footer a[href*="rpc-wiki.net"], #footer a[href*="rpcauthority.wikidot.com"],
+#license-area a[href*="rpc-wiki.net"], #license-area a[href*="rpcauthority.wikidot.com"],
+.printuser a  {
+background-image: none;
+}
+
+#main-content a[href*="http://rpc-wiki.net"], #main-content a[href*="https://rpc-wiki.net"], 
+#main-content a[href*="http://www.rpc-wiki.net"], #main-content a[href*="https://www.rpc-wiki.net"],
+#footer a[href*="http://rpc-wiki.net"], #footer  a[href*="https://rpc-wiki.net"], 
+#footer  a[href*="http://www.rpc-wiki.net"], #footer  a[href*="https://www.rpc-wiki.net"],
+#license-area a[href*="http://rpc-wiki.net"], #license-area a[href*="https://rpc-wiki.net"], 
+#license-area a[href*="http://www.rpc-wiki.net"], #license-area a[href*="https://www.rpc-wiki.net"],
+#main-content a[href*="http://rpcauthority.wikidot.com"], #main-content a[href*="https://rpcauthority.wikidot.com"], 
+#main-content a[href*="http://www.rpcauthority.wikidot.com"], #main-content a[href*="https://www.rpcauthority.wikidot.com"],
+#footer a[href*="http://rpcauthority.wikidot.com"], #footer  a[href*="https://rpcauthority.wikidot.com"], 
+#footer  a[href*="http://www.rpcauthority.wikidot.com"], #footer  a[href*="https://www.rpcauthority.wikidot.com"],
+#license-area a[href*="http://rpcauthority.wikidot.com"], #license-area a[href*="https://rpcauthority.wikidot.com"], 
+#license-area a[href*="http://www.rpcauthority.wikidot.com"], #license-area a[href*="https://www.rpcauthority.wikidot.com"],
+.printuser a {
+padding-right: 0;
+}
+
+#main-content a[href*="rpcsandbox.wikidot.com"], 
+#footer a[href*="rpcsandbox.wikidot.com"], 
+#license-area a[href*="rpcsandbox.wikidot.com"] {
+background-position: center right;
+background-repeat: no-repeat;
+background-image: url(http://rpcsandbox.wikidot.com/local--favicon/favicon.gif);
+padding-right: 13px;
+}
+[[/module]]
+

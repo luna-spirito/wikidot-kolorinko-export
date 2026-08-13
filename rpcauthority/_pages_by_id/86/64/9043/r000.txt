@@ -1,0 +1,19 @@
+---
+title: "Image Block Base"
+tags: ["component"]
+page_id: "86649043"
+site: "rpcauthority"
+slug: "component:image-block-base"
+revision: 0
+revision_id: "125232924"
+author: 4240294
+timestamp: 1528938199
+---
+
+[[div class="scp-image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} style="width:{$width};" link={$link}]]
+[[div class="scp-image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

@@ -1,0 +1,22 @@
+---
+title: "Forum Category"
+tags: []
+page_id: "86648118"
+site: "rpcauthority"
+slug: "forum:category"
+revision: 1
+revision_id: "1529190030"
+author: 5982545
+timestamp: 1744376605
+---
+
+[[module ListPages name="@URL|." limit="1"]]
+> Front page news posts prior to November 2024 can be found at the [[[news|Old News Archive.]]]
+@@@@
+@@@@
+[[/module]]
+
+[[module ForumCategory]]
+
+[!-- please do not alter this page if you want to keep your forum working --]
+

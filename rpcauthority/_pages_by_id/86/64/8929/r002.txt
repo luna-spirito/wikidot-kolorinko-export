@@ -1,0 +1,29 @@
+---
+title: "_template"
+tags: []
+page_id: "86648929"
+site: "rpcauthority"
+slug: "component:_template"
+revision: 2
+revision_id: "134647020"
+author: 2773416
+timestamp: 1532583842
+---
+
+[[div class="unmargined" style="margin: 0 auto 20px; background-color: #FFA500; border: solid 1px #b01; border-radius: 20px; box-shadow: 0 1px 6px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.8), inset 0 10px 1px rgba(255,255,255,.6), inset 0 -15px 30px rgba(0,0,0,.2); text-align: center; width: 500px;"]]
+[[div class="unmargined" style="margin: 20px 0; font-size: 300%; color: #fff; font-weight: bold; text-shadow: 1px 2px 3px rgba(0,0,0,.5);"]]
+STOP
+[[/div]]
+[[div class="unmargined" style="margin: 20px 0; color: #ff6;"]]
+This is a **template** page used internally by the RPC Authority Wiki.
+[[/div]]
+[[div class="unmargined" style="margin: 20px 0; font-size: 120%; font-weight: bold; color: #fff; text-shadow: 1px 2px 3px rgba(0,0,0,.25);"]]
+DO NOT TOUCH THIS PAGE
+WITHOUT STAFF PERMISSION
+[[/div]]
+[[/div]]
+
+----
+
+%%content%%
+

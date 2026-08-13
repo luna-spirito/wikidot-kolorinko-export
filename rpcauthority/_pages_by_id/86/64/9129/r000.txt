@@ -1,0 +1,14 @@
+---
+title: "Image Block Quoted"
+tags: ["component"]
+page_id: "86649129"
+site: "rpcauthority"
+slug: "component:image-block-quoted"
+revision: 0
+revision_id: "125233035"
+author: 4240294
+timestamp: 1528938379
+---
+
+[[include component:image-block-quoted-base name={$name}|caption={$caption}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right]]
+

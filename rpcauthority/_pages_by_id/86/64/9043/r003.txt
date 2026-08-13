@@ -1,0 +1,34 @@
+---
+title: "Image Block Base"
+tags: ["component"]
+page_id: "86649043"
+site: "rpcauthority"
+slug: "component:image-block-base"
+revision: 3
+revision_id: "888225735"
+author: 3118961
+timestamp: 1562956776
+---
+
+[[module CSS]]
+.enlarge {
+    transition: .05s;
+    position: relative;
+}
+
+.enlarge:hover {
+    transform: scale(1.5);
+    transition: .05s;
+    transition-delay: .2s;
+    z-index: 2;
+}
+
+[[/module]]
+
+[[div class="image-block block-{$align}" style="width:{$width};"]]
+[[image {$name} class="enlarge" style="width:{$width};" link={$link}]]
+[[div class="image-caption" style="width:{$width};"]]
+{$caption}
+[[/div]]
+[[/div]]
+

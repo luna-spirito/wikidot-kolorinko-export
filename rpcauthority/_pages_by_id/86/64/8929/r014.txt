@@ -1,0 +1,44 @@
+---
+title: "_template"
+tags: []
+page_id: "86648929"
+site: "rpcauthority"
+slug: "component:_template"
+revision: 14
+revision_id: "906212999"
+author: 3118961
+timestamp: 1566665780
+---
+
+[[module css]]
+.block404 {
+    background-color: #0D0F11;
+    border: solid 2px #666666;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 0 0 rgba(0,0,0,.5);
+    padding: 0 15px;
+    color: #CCCCCC;
+    max-width: 100%;
+}
+
+[[/module]]
+
+[[div class="block404"]]
+[[image http://rpcsandbox.wdfiles.com/local--files/introduction-3/WhiteFirstly.png]] 
+
+----
+
+This is a site page used 
+internally by the RPC Authority Wiki.
+
+**DO NOT TOUCH THIS PAGE**
+**WITHOUT STAFF PERMISSION**
+
+[[/div]]
+@@@@
+@@@@
+@@@@
+%%content%%
+
