@@ -1,0 +1,23 @@
+---
+title: "_template"
+tags: []
+page_id: "986654510"
+site: "obscurative"
+slug: "competition:_template"
+revision: 1
+revision_id: "1034683307"
+author: 4518363
+timestamp: 1581278317
+---
+
+[[div class="panel important"]]
+Это **конкурсная статья**.
+Оцениваться именно идея, а не её оформление.
+Не забудьте оставить комментарий. Для принятия вашего голоса необходимо проголосовать/прокомментировать все конкурсные статьи.
+[[/div]]
+
+%%content%%
+
+----
+[[module Rate]]
+

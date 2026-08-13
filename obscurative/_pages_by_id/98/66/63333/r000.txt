@@ -1,0 +1,18 @@
+---
+title: "Блокировщик некорректных подписей"
+tags: []
+page_id: "986663333"
+site: "obscurative"
+slug: "forum:_template"
+revision: 0
+revision_id: "1034702973"
+author: 4518363
+timestamp: 1581357153
+---
+
+[[module CSS]]
+@import "https://obscurative.ru/css/signature_block.php"
+[[/module]]
+
+%%contetn%%
+

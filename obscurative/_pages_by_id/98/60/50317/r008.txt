@@ -1,0 +1,133 @@
+---
+title: ""
+tags: []
+page_id: "986050317"
+site: "obscurative"
+slug: "main"
+revision: 8
+revision_id: "1033962089"
+author: 4518363
+timestamp: 1579278868
+---
+
+[[div style="height: 1.5em;"]]
+[[span style="float: left;"]]◀ [[[http://patagona-lab.obscurative.ru/ | Лаборатория Патагона]]][[/span]][[span style="float: right;"]][[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]] ▶[[/span]]
+[[/div]]
+
+[[module CSS]]
+.collapsible-block-content {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 5em;
+  background-color: #f8f8f8;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.panel .collapsible-block-content h2 {
+  margin-bottom: 0.5em; /* #ялюблюкостыли */
+}
+.panel hr {
+  margin-top: 0;
+}
+
+.panel .list-pages-box {
+  flex-grow: 1;
+}
+
+.panel {
+  position: relative;
+  text-align: center;
+}
+h2, h3 {
+  margin: 0;
+}
+
+.important {
+  background-color: wheat !important;
+}
+
+[[/module]]
+
+[[div class="flex"]]
+
+[[div class="panel important"]]
++++ Событие "Тайфун"
+2003 год, мир переживает новый глобальный кризис. Человечество не только усмирило аномалии и поставило их себе на службу, но и начало производить свои собственные. Этот кризис вылился в цепочку войн и гражданских волнений, наибольшим из которых является вооруженный переворот в России. Группа высокопоставленных чиновников, заручившись поддержкой нескольких генералов, с использованием доселе неизвестных аномальных устройств, организовала военный переворот в одной из республик, после чего объявила себя новым технократическим государством. Во что это вылилось, как остальному миру удалось противостоять этой угрозе, какими аномалиями обладали бунтующие? Все это зависит от вас. Событие "Тайфун" объявлено!
+[[/div]]
+
+
+[[div class="panel flex50"]]
+++ Лучшие объекты
+[[module ListPages category="_default" name="object-*" limit="5" tags="Объект" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[object-list|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Новые объекты
+[[module ListPages category="_default" limit="5" tags="Объект" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
+++ Лучшие инциденты
+[[module ListPages category="incidents" limit="5" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[incidents|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Недавние инциденты
+[[module ListPages category="incidents" limit="5" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
++++ Лучшие технологии
+[[module ListPages category="technology" limit="3" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[technologies|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
++++ Новейшие технологии
+[[module ListPages category="technology" limit="3" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
++++ Лучшие организации
+[[module ListPages category="similar-organizations" limit="3" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[similar-organizations|...]]]
+[!------
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
++++ Новейшие организации
+[[module ListPages category="similar-organizations" limit="3" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]--]
+[[/div]]
+
+[[div class="panel"]]
++++ Где я?
+Вы находитесь на сайта коллективного творческого проекта, посвящённого альтернативному миру - миру, где законы реальности допускают существование аномалий - того, что на первый взгляд кажется необъяснимым. 
++++ Могу ли я присоединиться?
+Конечно! Мы рады всем, кто желает помочь развитию проекта. [[[join | Присоединиться]]]. Также вы можете присоединиться к нашему [[[chat|Discord чату]]], в котором обычно происходит большинство обсуждений.
+[[/div]]
+
+[[/div]]
+

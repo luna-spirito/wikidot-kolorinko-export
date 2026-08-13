@@ -1,0 +1,480 @@
+---
+title: "Author Page Test"
+tags: []
+page_id: "475394821"
+site: "rpcauthority"
+slug: "_author-page-test"
+revision: 17
+revision_id: "517959785"
+author: 2241229
+timestamp: 1544667667
+---
+
+[[module CSS]]
+h1, #page-title {
+    font-weight: 0;
+}
+#page-title {display: none}
+
+.quote{
+display: inline-block; 
+border: dashed 1px #999999; 
+background: #F5F5F5; 
+margin: auto;
+width: 84%; 
+padding:1px 15px; 
+}
+
+[[/module]]
+
+[[div style="font-weight: bold; text-align: center; color: #600;"]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+Author Page
+[[/div]]
+[[div class="unmargined" style="font-size: 95%; margin-left: 0px; margin-right: 0px;"]]
+
+------
+
+If you would like to be added to this list, you must meet the requirement of having at least one article on the site or having made a site contribution to guides, lore, divisions, or GOI creation. 
+[[/div]]
+[[/div]]
+
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #05214f;"]]
++ -#- 
+----
++ -A-
+[[div class="quote"]]
+[[collapsible show="Agent Star" hide="Hide"]] 
+[[*user Agent Star]]
+++++ __RPCs__
+[[module ListPages created_by="Agent Star" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Agent Star" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Agent Star" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __MST__
+[[[echo-13-charlies-anglers|Echo 13 Charlies Anglers]]]
+++++ __Site Contributions__
+Contributor to [[[object-classes |Object Classes]]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Arbiter_Soul" hide="Hide"]] 
+[[*user arbiter_soul]]
+++++ __RPCs__
+[[module ListPages created_by="Arbiter_Soul" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Arbiter_Soul" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Arbiter_Soul" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Ascriber" hide="Hide"]] 
+[[*user ascriber]]
+++++ __RPCs__
+[[module ListPages created_by="ascriber" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="ascriber" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="ascriber" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -B-
+[[div class="quote"]]
+[[collapsible show="Blairin" hide="Hide"]] 
+[[*user blairin]]
+++++ __RPCs__
+[[module ListPages created_by="Blairin" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="Blairin" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="Blairin" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -C-
+[[div class="quote"]]
+[[collapsible show="Cecpec" hide="Hide"]] 
+[[*user cecpec]]
+++++ __RPCs__
+[[module ListPages created_by="cecpec" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="cecpec" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="cecpec" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+
+[[div class="quote"]]
+[[collapsible show="Croal" hide="Hide"]] 
+[[*user croal]]
+++++ __RPCs__
+[[module ListPages created_by="croal" separate="no" tags="rpc rpc-j" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Sites__
+[[module ListPages created_by="croal" separate="no" category="sites" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+++++ __Tales__
+[[module ListPages created_by="croal" separate="no" tags="tale" perPage="100" order="name"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+----
++ -D-
+> [[collapsible show="Doc Expletive" hide="Hide"]] 
+> [[*user doc-expletive]]
+> ++++ __RPCs__
+> [[[RPC-009]]]
+> [[[RPC-013]]]
+> [[[RPC-065]]]
+> [[[RPC-200]]]
+> [[/collapsible]]
+
+> [[collapsible show="Doctor Lupin" hide="Hide"]]
+> [[*user doctor-lupin]]
+> ++++ __RPCs__
+> [[[RPC-003]]]
+> ++++ __MSTs__
+> [[[alpha-1-angels-of-eden |Alpha 1 (Angels of Eden)]]]
+> ++++ __Site Contributions__
+> Contributor to [[[site-index |Site Index]]]
+> Contributor to [[[groups-of-interest |Groups of Interest]]]
+> Contributor to [[[mst-registry |MST Registry]]]
+> [[/collapsible]]
+
+> [[collapsible show="Dr Nog" hide="Hide"]] 
+> [[*user DrNog]]
+> ++++ __RPCs__
+> [[[RPC-028]]]
+> [[[RPC-064]]]
+> ++++ __Sites__
+> [[[sites:site-008 |Site 008]]]
+> ++++ __Site Contributions__
+> Contributor to [[[object-classes |Object Classes]]]
+> [[/collapsible]]
+
+> [[collapsible show="DrPierson" hide="Hide"]] 
+> [[*user DrPierson]]
+> ++++ __RPCs__
+> [[[RPC-042]]] 
+> [[[RPC-047]]]
+> [[[RPC-063]]]
+> [[[RPC-382]]] 
+> [[[RPC-502]]]
+> [[[RPC-724]]]
+> [[[RPC-806]]]
+> ++++ __Tales__
+> [[[god-save-the-queen |God Save The Queen]]]
+> ++++ __Site Contributions__
+> Contributor to [[[groups-of-interest#toc6 |GOI-MI13]]]
+> Contributor to [[[writers-guide|Writers Guide]]]
+> [[/collapsible]]
+
+> [[collapsible show="Dr Vaughn" hide="Hide"]] 
+> [[*user dr-vaughn]]
+> ++++ __RPCs__
+> [[[RPC-336]]]
+> ++++ __Site Contributions__
+> [[[formatting-guide |Formatting Guide]]]
+> [[[scripting-guide |Scripting Guide]]]
+> [[/collapsible]]
+----
++ -E-
+----
++ -F-
+----
++ -G-
+----
++ -H-
+> [[collapsible show="Hellsverg" hide="Hide"]] 
+> [[*user hellsverg]]
+> ++++ __RPCs__
+> [[[RPC-005]]]
+> [[[RPC-040]]]
+> [[[RPC-045]]]
+> [[[RPC-049]]]
+> [[[RPC-055]]]
+> [[[RPC-075]]]
+> [[[RPC-105]]]
+> [[[RPC-150]]]
+> [[[RPC-180]]]
+> [[[RPC-220]]]
+> [[[RPC-230]]]
+> [[[RPC-610]]]
+> [[[RPC-760]]]
+> [[[RPC-001-j | RPC-001-J]]]
+> [[[RPC-000-j | RPC-000-J]]]
+> ++++ __Sites__
+> [[[sites:site-002-02 | Site 002]]]
+> [[[sites:site-001-01 | Site 001]]]
+> ++++ __Personnel Dossier__
+> [[[janet-e-neuman | Janet E Neuman]]]
+> ++++ __Site Contributions__ 
+> Contributor to [[[marion-valerie-riviera | POI Marion Valerie Riviera]]]
+> [[/collapsible]]
+
+> [[collapsible show="Hyze" hide="Hide"]] 
+> [[*user hyze]]
+> ++++ __RPCs__
+> [[[RPC-227]]]
+> [[[RPC-357]]]
+> [[[RPC-505]]]
+> [[[RPC-606]]]
+> [[[RPC-707]]]
+> [[/collapsible]]
+----
++ -I-
+----
++ -J-
+> [[collapsible show="Jerry John" hide="Hide"]] 
+> [[*user Jerryjohn]]
+> ++++ __RPCs__
+> [[[RPC-078]]]
+> [[[RPC-095]]]
+> [[[RPC-570]]]
+> [[[RPC-950]]]
+> [[[rpc-moth-j |RPC-Moth-J]]]
+> [[[rpc-470-j |RPC-470-J]]] in collaboration with [[*user researcher-ezekiel]]
+> [[/collapsible]]
+
+> [[collapsible show="Jetairliner" hide="Hide"]] 
+> [[*user Jetairliner]]
+> ++++ __RPCs__
+> [[[RPC-084]]]
+> [[[RPC-175]]]
+> [[[RPC-312]]]
+> [[[RPC-390]]] in collaboration with  [[*user sinaticus]]
+> [[[RPC-850]]]
+> [[/collapsible]]
+----
++ -K-
+----
++ -L-
+----
++ -M-
+> [[collapsible show="Moenennbys" hide="Hide"]] 
+> [[*user Moenennbys]]
+> ++++ __RPCs__
+> [[[RPC-015]]]
+> [[[RPC-079]]]
+> [[[RPC-096]]]
+> [[[RPC-162]]]
+> [[[RPC-274]]]
+> [[[RPC-380]]]
+> [[[RPC-471]]]
+> [[[RPC-499]]]
+> [[[RPC-509]]]
+> [[[RPC-635]]]
+> [[[RPC-983]]]
+> ++++ __Tales__
+> [[[test-do-not-read | TEST DO NOT READ]]]
+> [[/collapsible]]
+
+> [[collapsible show="Moist Bread" hide="Hide"]] 
+> [[*user moist-bread]]
+> ++++ __RPCs__
+> [[[RPC-196]]]
+> [[[RPC-866]]]
+> [[[RPC-997]]]
+> ++++ __Sites__
+> [[[sites:site-099-decommissioned |Site 099 - Decommissioned]]]
+> ++++ __Personnel Dossier__
+> [[[john-d-eridanus |John D Eridanus]]]
+> [[/collapsible]]
+
+> [[collapsible show="MrBazzle" hide="Hide"]] 
+> [[*user mrbazzle]]
+> ++++ __RPCs__
+> [[[RPC-014]]]
+> [[[RPC-050]]]
+> [[/collapsible]]
+----
++ -N-
+----
++ -O-
+----
++ -P-
+----
++ -Q-
+----
++ -R-
+> [[collapsible show="Researcher Ezekiel" hide="Hide"]] 
+> [[*user researcher-ezekiel]]
+> ++++ __RPCs__
+> [[[RPC-117]]]
+> [[[RPC-159]]]
+> [[[RPC-204]]]
+> [[[RPC-303]]] 
+> [[[RPC-371]]]
+> [[[RPC-470]]]
+> [[[RPC-556]]]
+> [[[RPC-686]]]
+> [[[RPC-745]]]
+> [[[RPC-834]]]
+> [[[RPC-908]]]
+> [[[RPC-943]]]
+> [[[anomaly-197-manufactured-manpower | Anomaly 197 Manufactured Manpower]]]
+> [[[rpc-moth-j | RPC-Moth-J]]]
+> [[[rpc-470-j |RPC-470-J]]] in collaboration with [[*user JerryJohn]]
+> ++++ __Tales__
+> [[[the-escape | The Escape]]]
+> [[/collapsible]]
+
+> [[collapsible show="Robert Bernard" hide="Hide"]] 
+> [[*user Robert Bernard]]
+> ++++ __RPCs__
+> [[[RPC-202]]]
+> [[[RPC-396]]]
+> [[[RPC-421]]]
+> [[[RPC-448]]]
+> [[/collapsible]]
+----
++ -S-
+> [[collapsible show="Sinaticus" hide="Hide"]] 
+> [[*user sinaticus]]
+> ++++ __RPCs__
+> [[[RPC-000]]]
+> [[[RPC-190]]]
+> [[[RPC-290]]]
+> [[[RPC-390]]] in collaboration with [[*user jetairliner]]
+> [[[RPC-990]]]
+> ++++ __Sites__
+> [[[sites:Site-009]]]
+> ++++ __Site Contributions__
+> Contributor to [[[object-classes |Object Classes]]]
+> Contributor to [[[acquired-media |Acquired Media]]]
+> Contributor to [[[site-index |Site Index]]]
+> Contributor to [[[groups-of-interest |Groups of Interest]]]
+> Contributor to [[[threats-hazards |Threats & Hazards]]]
+> Contributor to [[[writers-guide|Writers Guide]]]
+> [[/collapsible]]
+----
++ -T-
+> [[collapsible show="ThermicLine" hide="Hide"]] 
+> [[*user thermicline]]
+> ++++ __RPCs__
+> [[[RPC-183]]]
+> [[[RPC-358]]] in collaboration with [[*user Arbiter_Soul]]
+> ++++ __Site Contributions__
+> [[[guide-for-newbies |Guide For Newbies]]]
+> [[/collapsible]]
+----
++ -U-
+----
++ -V-
+> [[collapsible show="Victor117" hide="Hide"]] 
+> [[*user victor117]]
+> ++++ __RPCs__
+> [[[RPC-119]]]
+> [[[RPC-131]]]
+> [[/collapsible]]
+
+> [[collapsible show="Vizlox" hide="Hide"]] 
+> [[*user Vizlox]]
+> ++++ __RPCs__
+> [[[RPC-you-J| Hands down, the worst thing that could possibly exist on this site.]]]
+> [[[RPC-777-J]]]
+> ++++ __Acquired Writings__
+> [[[a-017-john-plexett |A-017]]] 
+> [[[a-005-the-box-from-site-77 |A-005]]] 
+> ++++ __Site Contributions__
+> Contributor to [[[gear-hub |Gear Hub]]]
+> Contributor to [[[groups-of-interest#toc4 |GOI-GEAR]]]
+> [[/collapsible]]
+
+> [[collapsible show="Von Pincier" hide="Hide"]] 
+> [[*user von-pincier]]
+> ++++ __RPCs__
+> [[[RPC-012]]]
+> [[[RPC-037]]]
+> [[[RPC-088]]]
+> [[[RPC-143]]] 
+> [[[RPC-244]]]
+> [[[RPC-286]]]
+> [[[RPC-347]]]
+> [[[RPC-417]]]
+> [[[RPC-548]]]
+> [[[RPC-701]]] 
+> [[[RPC-722]]]
+> [[[RPC-722 | RPC-722 Recovery Manifest]]]
+> [[[RPC-888]]]
+> ++++ __Tales__
+> [[[an-incomplete-history-of-the-authority | An Incomplete History of the Authority]]]
+> [[[tlc1 | The Last Contingency, Part 1: Ashley's Peculiar Adventure]]]
+> [[[tlc2 |The Last Contingency, Part 2: Like Feet in a Barrel]]]
+> ++++ __Site Content__
+> [[[http://www.rpc-wiki.net/editing-policy | Editing Policy]]]
+> [[/collapsible]]
+----
++ -W-
+----
++ -X-
+> [[collapsible show="Xedric" hide="Hide"]] 
+> [[*user xedric]]
+> ++++ __RPCs__
+> [[[RPC-061]]]
+> ++++ __Sites__
+> [[[sites:site-007 |Site 007]]]
+> ++++ __MST__
+> [[[hotel-1-the-highlanders |Hotel 1 The Highlanders]]]
+> ++++ __Personnel Dossier__
+> [[[captain-erin-mckinley |Captain Erin McKinley]]]
+> [[/collapsible]]
+----
++ -Y-
+----
++ -Z-
+
+[[/div]]
+[[div class="content-panel centered standalone"style="font-size: 100%; font-weight: bold; text-align: center; color: #05214f;"]]
+[[div style="margin-left: 30px; margin-right: 30px"]] 
+Message [[user croal]] if you wish to be added to this list and only submit pages that you have heavily contributed to. Format creations and themes will not be accepted for this list. If your article is deleted for whatever reason, your placement within this list is subject for removal.
+[[/div]]
+[[/div]]
+
