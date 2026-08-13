@@ -1,0 +1,237 @@
+---
+title: "Темы"
+tags: []
+page_id: "900956773"
+site: "obscurative"
+slug: "draft:themes"
+revision: 0
+revision_id: "947384224"
+author: 4518363
+timestamp: 1568311947
+---
+
+[[Module CSS]]
+@import "http://fonts.fontstorage.com/import/arnamumono.css";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap&subset=cyrillic');
+
+body {
+  --login-color: #FF8C00;
+  --header-background: linear-gradient(#151618 20px, #1e2124 10em);
+  --title-color: #FF8C00;
+  --link-color: #FF8C00;
+  --link-hover-color: #FFA500;
+  --sidebar-color: #ededed;
+}
+
+#header {
+  padding: 3em;
+}
+
+#header h1 a {
+ margin-left: 2em;
+}
+
+#content-wrap, #container-wrap-wrap {
+ Background: linear-gradient(#1e2124 8px, #2f3136 40em);
+ Color: #ededed;
+}
+
+#top-bar ul ul {
+  box-shadow: none;
+}
+
+a.newpage:hover {
+  text-decoration:underline;
+}
+
+#side-bar hr {
+ height: 1px;
+ background: #ededed;
+}
+ 
+#side-bar {
+ margin-left: 15px;
+ margin-right: 20px;
+ color: #FFA500;
+}
+
+#side-bar a {
+ color: #ededed;
+}
+
+#top-bar {
+ Background: #151618;
+ height: 20px;
+ color: #2f3136;
+}
+
+#top-bar li ul li a {
+background: #1e2124;
+color: #ededed;
+}
+
+#header h1 a::{
+ color: #FF8C00;
+}
+
+blockquote a {
+  color: #499e9e;
+}
+
+blockquote {
+  padding: 1em;
+  background: linear-gradient(90deg, #FF8C00 10px, #2f3136 10px);
+  color: #ededed;
+  padding-left: 2em;
+  box-shadow: none;
+  border-radius: 10px 0 0 10px;
+  border: none;
+  position: relative;
+}
+
+blockquote blockquote {
+  box-shadow: 0px 0 10px #252525;
+}
+
+h1, #page-title {
+ color: #FF8C00;
+font-weight: bold;
+}
+
+#hovertip {
+  background-color: #2f3136 !important;
+}
+
+#main-content {
+    margin: 0 2em 0 18em;
+    padding: 2em 2em 2em 2em;
+}
+
+#footer {
+background: #1e2124;
+}
+
+.footnote{
+background:#2f3136;
+color:#ededed;
+}
+/*========================================*/
+
+div.content-panel {
+ padding: 15px;
+ margin: 15px 5px;
+ border: solid 1px #888888;
+ border-radius: 10px;
+ background-color: #1e2124;
+ box-shadow: 0 0 5px 2px #1e2124;
+}
+
+div.content-panel hr {
+ background-color: #ededed;
+}
+
+div.content-panel .left-column {
+ float: left;
+}
+div.content-panel .right-column {
+ float: right;
+}
+
+div.content-panel .panel-footer {
+ padding: 1px 10px;
+ color: #ededed;
+ font-size: 100%
+ font-weight: bold;
+}
+
+div.content-panel .panel-footer a {
+ color: #ededed;
+}
+
+div.content-panel .content-toc {
+ float: right;
+ padding: 0 20px;
+ background-color: #1e2124;
+ border: solid 1px #888888;
+ border-radius: 5px;
+ margin: 20px 0 5px 5px;
+ white-space: nowrap;
+box-shadow: inset 1px 2px 6px #1e2124;
+}
+
+/*========================================*/
+
+
+.yui-navset .yui-content {
+     background-color: transparent; /* CONTENT BACKGROUND COLOR */
+}
+ .yui-navset .yui-nav a, 
+ .yui-navset .yui-navset-top .yui-navset-left .yui-navset-right .yui-nav a {
+     background-color: transparent; /* TAB BACKGROUND */
+     border: solid 1px #FFA500;
+     border-bottom: none;
+     background-image: none;
+     color: #ededed;
+     transition: 0.125s;
+}
+ .yui-navset .yui-nav .selected a, 
+ .yui-navset .yui-nav .selected a:focus, 
+ .yui-navset .yui-nav .selected a:hover {
+     background: #FFA500;
+     background: #FFA500; /* SELECTED TAB BACKGROUND */
+     color: black;
+}
+ .yui-navset .yui-nav a:hover, 
+ .yui-navset .yui-nav a:focus {
+     background: #b3b3b3;
+}
+ .yui-navset .yui-nav, 
+ .yui-navset .yui-navset-top .yui-nav {
+     border-color: #1e122b; /* BETWEEN TAB AND CONTENT */
+}
+
+.yui-nav {
+    border-color: #FFA500 !important;
+}
+
+#account-options {
+ background: #2f3136;
+ border: 1px solid #1e2124;
+}
+
+#header #account-options li a {
+ color: #ededed;
+}
+
+#header #account-options li a:hover {
+ color: #ededed;
+background: #FF8C00;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+#side-bar a {
+  display: inline-block;
+  width: 100%;
+}
+
+#side-bar a:hover {
+  background: #FF8C00;
+}
+
+#top-bar a:hover {
+  background: #FF8C00;
+text-decoration: none;
+}
+
+#toc {
+ color: #ededed;
+ background-color: #1e2124;
+ border: 1px solid #888;
+}
+
+[[/module]]
+

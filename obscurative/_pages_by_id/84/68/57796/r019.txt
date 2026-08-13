@@ -1,0 +1,68 @@
+---
+title: "Полигон"
+tags: []
+page_id: "846857796"
+site: "obscurative"
+slug: "sandbox"
+revision: 19
+revision_id: "1034594794"
+author: 4518363
+timestamp: 1580918978
+---
+
+Добро пожаловать на Полигон!
+Здесь Вы можете опубликовать свои статьи, будь то новые объекты, документы, касающиеся деятельности Корпорации или рассказы, а также здесь можно получить помощь от других участников проекта в доработке и исправлении ошибок в статьях.
+
+Для создания статьи Вам нужно лишь ввести её адрес, соответствующий той категории, которую вы выбрали: 
+
+ _
+ _
+
+[[div style="border: 2px dashed gray; border-radius: 10px; padding: 5%; width: 70%;margin: auto;"]]
++++++ Категории страниц
+* **object-XXX** — адрес страницы для объекта, где XXX - его номер. 
+
+* **do-androids-dream-of-electric-sheep** — адрес для рассказа. Может быть любое сочетание символов и слов через знак "-", при этом допускаются только символы, распознаваемые Викидотом для адресной строки. 
+
+* **test-12345** — условно, адрес для документации. Может также быть абсолютно любым, с ограничениями, накладываемыми на адресную строку Викидотом.
+
+ _
+ _
+
+[[module NewPage button="Создать новую статью" format="/^[A-Za-z0-9\-]+$/" category="sandbox" tags="Полигон" template="template:rate"]]
+
+[[/div]]
+
+ _
+ _
+[[module ListPages category="competition" order="updated-at" separate="no"  prependLine="||~ Наименование || ~ Создатель|| ~ Последнее обновление ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%||
+[[/module]]
+ _
+ _
+[[=]]
++++ Список статей Полигона
+[[/=]]
+[[module ListPages category="sandbox" order="updated-at" separate="no"  prependLine="||~ Наименование ||~ Рейтинг ||~ Создатель ||~ Последнее обновление ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%rating%%/%%rating_votes%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%||
+[[/module]]
+
+@@@@
+@@@@
+
+[[=]]
+[[collapsible show="[ + Сортировка по наименованию статей]" hide="[ — Сортировка по наименованию статей]"]]
+[[/=]]
+[[module ListPages category="sandbox" order="title" separate="no"  prependLine="||~ Наименование ||~ Рейтинг ||~ Создатель ||~ Последнее обновление ||" perPage="40" parent="-"]]
+||%%title_linked%% || %%rating%%/%%rating_votes%% || %%created_by_linked%% || %%created_at|%H:%M %d.%m %%||
+[[/module]]
+[[/collapsible]]
+
+[[=]]
+[[collapsible show="[ + Внутренние статьи]" hide="[ - Внутренние статьи]"]]
+[[/=]]
+[[module ListPages category="sandbox" order="title" separate="no"  prependLine="||~ Наименование ||~ Создатель ||~ Последнее обновление ||" perPage="40" tag="-Полигон"]]
+||%%title_linked%% || %%created_by_linked%% || %%created_at|%H:%M %d.%m %%||
+[[/module]]
+[[/collapsible]]
+

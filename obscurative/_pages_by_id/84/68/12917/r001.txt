@@ -1,0 +1,20 @@
+---
+title: "Object"
+tags: []
+page_id: "846812917"
+site: "obscurative"
+slug: "include:object"
+revision: 1
+revision_id: "892764330"
+author: 4518363
+timestamp: 1563813661
+---
+
+[[include include::object-info
+| category={$category}
+| danger={$danger}
+| isolation={$isolation}
+| category2={$category2} | category2 =
+| danger2={$danger2} | danger2 =
+| isolation2={$isolation2} | danger2 =]]
+

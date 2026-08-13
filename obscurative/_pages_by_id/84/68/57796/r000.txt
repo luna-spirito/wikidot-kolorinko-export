@@ -1,0 +1,27 @@
+---
+title: "Полигон"
+tags: []
+page_id: "846857796"
+site: "obscurative"
+slug: "sandbox"
+revision: 0
+revision_id: "892817918"
+author: 4518363
+timestamp: 1563907319
+---
+
+Добро пожаловать на Полгион!
+Здесь можно получить помощь от других участников проекта в доработке и исправлении ошибок в статьях.
+
+[[module NewPage button="Создать новую страницу" category="sandbox" tags="Полигон"]]
+
+[[module ListPages category="sandbox" order="updated-at"  prependLine="|| Наименование || Рейтинг || Создатель || Последнее обновление ||" perPage="40"]]
+||%%title_linked%% || %%rating%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%
+[[/module]]
+
+[[collasible show="[+ Сортировка по порядку]" hide="[- Сортировка по порядку]"]]
+[[module ListPages category="sandbox" order="title"  prependLine="|| Наименование || Рейтинг || Создатель || Последнее обновление ||" perPage="40"]]
+||%%title_linked%% || %%rating%% || %%created_by_linked%% || %%updated_at|%H:%M %d.%m %%
+[[/module]]
+[[/collapsible]]
+

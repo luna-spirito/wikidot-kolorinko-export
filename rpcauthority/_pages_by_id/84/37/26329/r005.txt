@@ -1,0 +1,68 @@
+---
+title: "Non-Canon Hub"
+tags: ["hub"]
+page_id: "843726329"
+site: "rpcauthority"
+slug: "non-canon-hub"
+revision: 5
+revision_id: "981891765"
+author: 4320656
+timestamp: 1573916730
+---
+
+[[module css]]
+#page-title {
+display: none
+}
+
+.listresize{
+font-size: 12px !important;
+}
+[[/module]]
+[[div class="unmargined" style="text-align: center; font-size: 300%; font-weight: bold; margin: 2px 0 5px; border-bottom: 2px solid #666; padding-bottom: 15px;"]]
+Non-Canon Hub
+[[/div]]
+
+Non-Canon articles are articles that don't fit within the Baseline Canon for various reasons. This page exists to keep them in an organized place. 
+
+**Non-Canon articles are upheld to the same quality as normal articles.** Just because it isn't included in the Baseline Canon doesn't excuse low quality work. Be sure to get enough criticism and feedback before uploading your article.
+
+[[div class="content-panel standalone series"]]
+[[=]]
++ Non-Canon RPCs
+[[/=]]
+----
+[[>]]
+##gray|Suffix: -NC##
+[[/>]]
+
+Non-Canon articles do not fall within Baseline Canon, but are not necessarily comedic or meant to be taken non-seriously. 
+
+//To create a new Non-Canon RPC, enter the title and click create.//
+
+[[module NewPage size="30" tags="rpc non-canon" button="Create RPC"]][[/module]]
+
+[[module ListPages separate="no" tags="+non-canon +rpc" perPage="50" order="fullname"]]
+* [[span style="text-transform: uppercase;"]][[[%%link%%|%%name%%]]][[/span]] - %%first_paragraph%%
+[[/module]]
+[[/div]]
+[[div class="content-panel standalone series"]]
+[[=]]
++ Joke RPCs
+[[/=]]
+----
+[[>]]
+##gray|Suffix: -J##
+[[/>]]
+
+Joke RPCs are articles meant to be taken less seriously than regular articles. They are written to be comedic.
+
+//To create a new Joke RPC, enter the title and click create.//
+
+[[module NewPage size="30" tags="rpc-j" button="Create RPC"]][[/module]]
+
+[[module ListPages separate="no" tags="rpc-j" perPage="50" order="fullname"]]
+* [[span style="text-transform: uppercase;"]][[[%%link%%|%%name%%]]][[/span]] - %%first_paragraph%%
+[[/module]]
+[[/div]]
+
