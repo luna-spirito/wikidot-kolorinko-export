@@ -1,0 +1,23 @@
+---
+title: "Undreim: Страницы созданные пользователем. Получать через URL"
+tags: []
+page_id: "790617065"
+site: "obscurative"
+slug: "draft:undreim-page-by-user"
+revision: 6
+revision_id: "835815711"
+author: 1767012
+timestamp: 1557819578
+---
+
+[[module listpages category="_default" created_by="@URL" separate="false" name="object-*" prependLine="||~ Название ||~ Рейтинг (голосов) ||~ Теги ||~ Создана ||~ Обновлена ||~ Автор ||"]]
+||%%title_linked%% || %%rating%% (%%rating_votes%%)  || %%tags_linked%% || %%created_at%%|| %%updated_at%%||  [[[/draft:undreim-page-by-user/created_by/%%created_by%% | %%created_by%% ]]] || 
+[[/module]]
+
+
+[[[/draft:undreim-page-by-user/created_by/UndReim | UndReim]]]
+[[[/draft:undreim-page-by-user/created_by/Rieraf | Rieraf]]]
+[[[/draft:undreim-page-by-user/created_by/scifyro |  scifyro]]]
+[[[/draft:undreim-page-by-user/created_by/Dobrojelatel | Dobrojelatel]]]
+[[[/draft:undreim-page-by-user/created_by/-Guardian-Ange1- | -Guardian-Ange1-]]]
+

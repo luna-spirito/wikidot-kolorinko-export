@@ -1,0 +1,115 @@
+---
+title: "Secure Authority Facilities"
+tags: ["information", "lore"]
+page_id: "841705981"
+site: "rpcauthority"
+slug: "secure-authority-facilities"
+revision: 55
+revision_id: "1523253794"
+author: 3638389
+timestamp: 1722109032
+---
+
+[[module CSS]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+
+#page-title {
+   display: none;
+}
+
+[[/module]]
+
+
+
+[[div style="font-weight: 550; text-align: center;"]]
+
+[[div class="unmargined" style="font-size: 300%; font-weight: bold; margin: 2px 0 5px;"]]
+Secure Authority Facilities
+[[/div]]
+
+------
+
+[[/div]]
+
+To support and sustain the Authority's operational security, the Authority maintains a worldwide network of facilities and infrastructures to contain and research anomalies known as RPCs. 
+
+While many facilities vary in terms of human resources, responsibility, and jurisdiction, the Authority employs personnel worldwide, ranging from hundreds to thousands of researchers and security forces.
+
+Note: If you are looking for a list of Site facilities, redirect over [http://www.rpc-wiki.net/site-index here]. 
+
+[[collapsible show="+ Frequently Asked Questions" hide="- Close"]]
+
+> **What are Authority facilities?**
+> 
+> Black site installations operated and maintained by the RPC Authority. They are responsible for ensuring RPCs are researched and contained to prevent breaches and disrupt society's normalcy.
+> 
+> The Authority uses two common types of facilities: 
+> 
+> **Sites:** Facilities responsible for the research, containment, and housing of Alpha-class, Beta-class, and Gamma-class RPCs.
+> 
+> **Areas:** Specialized facilities responsible for various roles that do not involve containing anomalies onsite. For more information, see the //Area// section. 
+
+> **How many facilities are there worldwide?**
+> 
+> The exact number of facilities is not defined, and while it may vary from author to author, it is still a limited amount. While the number and size of facilities within a region of the world may vary one to another, the Authority will always possess the required amount for its purposes.
+> 
+> Generally, the only thing expected from the authors is to present and explain their presence in a believable and grounded way.
+
+> **Can I create my own Site/Area page?**
+> 
+> Absolutely. We highly encourage and recommend every writer to contribute and their own site or area page. However, it's to be noted that it is to be treated as the same process as critiquing an article. 
+> 
+> For more information about creating a site or area page, please direct these inquiries to the Lore Team at the Discord server.
+
+[[/collapsible]]
+
+[[toc]]
+
++ [[span style="color:#2766BB;"]]**Primary Facilities**[[/span]]
+
+++ **Site**
+
+Site facilities are responsible for the containment and research of RPC anomalies. These facilities may include sectors, including research, maintenance, medical, and security.
+
+Onsite operations and management are directly overseen by the Site Administration and headed by the Site Director themselves.
+
+Site Directors report directly to Regional Directors.
+
+++ **Area**
+
+Area facilities are specialized locations that perform various functions. These functions include: Observations & Data, Storage & Logistics, Research & Development, Garrisoned Operations Base, Proving Grounds, or Medical Center.
+
+However, unlike Site facilities, they are strictly prohibited from housing any RPCs onsite.
+
+Area Directors report directly to Regional Directors.
+
+[[collapsible show="+ Area Facilities" hide="- Close"]]
+
+||~ Designations ||~ Area of Responsibility ||
+|| Biological  || Responsible for studying viral, bacterial, and fungi-related diseases along with inconsistent biohazardous materials.  ||
+|| Physics || Responsible for studying phenomenona that inconsistently affect physics, as well as researching its other branches for the purpose of supporting Division projects. ||
+|| Robotics & Engineering || Responsible for studying scientific advancements relating to robotics, computer, mechanical, electrical, and chemical engineering. ||
+|| Research & Development  || Responsible for researching and producing experimental equipment for containment and security personnel. ||
+|| Observations & Data || Responsible for maintaining regional communications, data centers, and monitoring worldwide communications concerning anomalies to Groups of Interests. ||
+|| Garrisoned Operations Base || Responsible for garrisoning and training specialists and security personnel from the Authority Security Force to the Protectorate. GOBs may also garrison Mobile Specialized Teams. ||
+
+[[/collapsible]]
+
+++ **Regional**
+
+Regional facilities are administrative hubs for Sites, Areas, and OL-Sites within a specific geographic region. RPCs are strictly excluded from these facilities.
+
+Regional Directors report directly to the Global Directors.
+
+For more information about Regional Sites, [http://rpcauthority.wikidot.com/authority-regional-sites click here].
+
++ [[span style="color:#2766BB;"]]**Secondary Facilities**[[/span]]
+
+++ **On-Location Site**
+
+
+On-Location Sites, or OL-Sites, are referred to as secondary facilities. 
+These locations are built to contain specific anomalies that can't be transported to a Site facility or are too unpredictable to be present with other RPCs or personnel onsite.
+
+Furthermore, OL-Sites are supervised by its most proximate Site facility. In some situations, OL-Sites may facilitate as an independent location and report directly to the Regional Director.
+

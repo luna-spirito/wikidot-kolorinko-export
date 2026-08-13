@@ -1,0 +1,17 @@
+---
+title: "Image"
+tags: []
+page_id: "850314284"
+site: "obscurative"
+slug: "include:raw-image"
+revision: 1
+revision_id: "960764177"
+author: 4518363
+timestamp: 1569863676
+---
+
+[[div class="rimg"]]
+[[image {$img}]]
+[[span]]{$caption}[[/span]]
+[[/div]]
+

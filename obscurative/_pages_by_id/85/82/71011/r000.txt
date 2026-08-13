@@ -1,0 +1,27 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 0
+revision_id: "904424407"
+author: 3477739
+timestamp: 1565969765
+---
+
+[[div class="content-panel"]]
+Текст
+Текст
+Текст
+[[/div]]
+
+[[Module CSS]]
+/*content panel*/
+
+div.content-panel {
+ 
+}
+
+[[/module]]
+

@@ -1,0 +1,39 @@
+---
+title: "Object №: 058-NC theme"
+tags: []
+page_id: "858271011"
+site: "obscurative"
+slug: "draft:rieraf-theme"
+revision: 13
+revision_id: "904424877"
+author: 3477739
+timestamp: 1565972139
+---
+
+[[div class="content-panel"]]
+Текст
+Текст
+Текст
+-----
+Текст
+Текст
+[[[Object-098|Ссылка]]]
+[[/div]]
+
+[[Module CSS]]
+/*content panel*/
+
+div.content-panel {
+ padding: 10px;
+ margin: 10px;
+ border: solid 1px #000;
+ border-radius: 10px;
+ background-color: #cececa;
+}
+
+div.content-panel hr {
+ background-color: #000;
+}
+
+[[/module]]
+
