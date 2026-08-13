@@ -1,0 +1,841 @@
+---
+title: "Death Is Late To The Party: Jimmy and Dummie's Autumn Entry"
+tags: []
+page_id: "924588250"
+site: "rpcauthority"
+slug: "fragment:jimmydummieautumn-2"
+revision: 15
+revision_id: "971626558"
+author: 4981794
+timestamp: 1572071748
+---
+
+[[module CSS]]
+
+.footnotes-footer {
+    display: none;
+}
+
+.blinky .collapsible-block-unfolded a.collapsible-block-link {
+   display: none;
+}
+
+.blinky .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #5294e0; }
+}
+
+.note {
+    color: #333333;
+    font-family: monospace;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-image: linear-gradient(to top ,#9bc0d4 0%, #f2f2f2 8%);
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: none;
+    border-radius: 0px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+
+.message {
+    border-radius: 0px;
+    border: 1px solid #808080;
+    box-shadow: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 20pt;
+}
+
+[[/module]]
+
+> Database Entry Introduction:
+> 
+> The following is a digitized transcript of the latest containment document for RPC-131, created on 26th October, 1959. As a result, the formatting is consistent with archival documents of this period. Where useful, contextual explanations have been included.
+
+|| **Registered Phenomena Code** || 131 || ■     ■■ ||
+|| **Informal Designate** || FALLEN SOLDIERS ||  ■  ■ ■■■    ■||
+|| **Object Risk:** || YELLOW || ■ ■  ||
+|| **Containment Degree:** || MILD ||    ■■ ||
+|| **Primary Hazard** || SAPIENT || ■■■■ ■■ ■ ||
+|| **Secondary Hazard** || EXTRACONTEXTUAL[[footnote]] An "Extracontextual" anomaly here referred to a spacial or dimensional hazard originating from alternate or "pocket" universes. [[/footnote]] || ■■■■ ■■■ ||
+|| **Number Contained** || 925 || ■■■  ■■■ ■ ||
+|| **Reporting Personnel** || DR. SAMUEL ROLLES || ■ ■ ■■■■ ■ ||
+
+__**Containment Systems:**__ The remains of all RPC-131 instances are currently contained within Biological Cold Storage containers within Site-008. Eastern Poland is to be monitored for other instances of RPC-131. RPC-131's anomalous traits are to be reverse-engineered whenever possible.
+
+A cover document is to be created for RPC-131 under the new formatting as soon as possible. This file is only to be provided to Authority personnel possessing 4/131 or above clearance.
+
+__**Object Description:**__ RPC-131 is the designation given to 925 persons recovered by us within the vicinity of Lublin, Poland. Despite no fewer than 5 years of interment as well as sustaining various levels of wounds and injuries during RPC-131's discovery, all RPC-131 instances have not expired.
+
+[[include component:image-block
+|align=right
+|name=http://rpcsandbox.wdfiles.com/local--files/collab%3Ahf-dummie-jimmyboyhaha-basement/ded.jpg
+|width=280px
+|caption={{fig. 1.1:}} RPC-131-479.
+]]
+
+The majority of RPC-131 instances were dressed in remnants of military uniforms of the WWII era, specifically that from either the German 27th Infantry Division or the 14th Greater Poland Infantry Division with slight variations. However, several RPC-131 instances were dressed in uniform similar to that of our own Mobile Security Team Romeo-7 (Suited Gentlemen). Strangely, about 90 instances of RPC-131 were female.
+
+RPC-131's origins stem from an alternate dimension or universe of sorts; a note explaining the circumstances of RPC-131 was discovered alongside RPC-131. The exact origins, provided by an entity responsible for the transporting of RPC-131 to our universe (hereby designated RPC-131-A) are provided in the addendum.
+
+Extensive research conducted upon RPC-131 by us proved that RPC-131 instances were all non-anomalous human beings. Further research into RPC-131 yields little information, as RPC-131 instances were unable to provide any meaningful information or communication to us due to either sustained injuries or mental disorders. Our attempts at the neutralization of RPC-131 instances have resulted in failure.
+
+Authority efforts into reverse-engineering the immortality of RPC-131 have concluded in failure.
+
+__**Discovery:**__ RPC-131 was discovered on 18th of October, 1948 in Lublin, Poland after a signal on all emergency radio channels was received by us. Mobile Security Team Romeo-7 (Suited Gentlemen) was deployed to investigate where RPC-131 was discovered in the process, and was sent to Site-008 for further investigation.
+
+__**Addendum - Note retrieved alongside RPC-131:__** One handwritten note, believed to be written by RPC-131-A, written in German, English, Russian, and Polish was discovered alongside RPC-131. The following are the English components of the aforementioned note.
+
+[[collapsible show="► Access RPC:/131/doc_001 ◄" hide="▼ Hide RPC:/131/doc_001 ▼"]]
+[[div class="note"]]
+[[size 130%]]
+
+Greetings. We know not of whatever anomalies you may have contained, no do we know of the level of your capabilities. We do know, however, by your ability to locate this object, that you are probably your world's most influential organization within your anomalous community. And we require your assistance.
+
+We are the Righteous Central Protection Authority, or R.C.P.A. Similar to your organization, we are a group involved with the anomalous community, with our goal being the advancement of the human race through the anomalies we hold.
+
+Accompanying this note are 925 "corpses", if I may. Men and women who died from the Second Great War, an event that I hope you have the fortune of not realizing what it is. Our organization retrieved many more of these individuals from a mass grave years ago, buried under the dirt while being unable to die, but were unable to provide them with proper euthanasia.
+
+The following individuals, which we will refer to as RCP-131, need our help. I wish by our cooperation, a method may be devised by whichever Authority that RCP-131 may be sent to.
+
+Unfortunately, we are still working on technology that may facilitate two-way communication. I look forward to the completion of such a project, and contacting your organization soon.
+
+Signed 15th October, 1948
+Dr. Rodolf Haase
+
+[[/size]]
+[[/div]]
+[[/collapsible]]
+
+__**Addendum - Attempts of Euthanasia:**__
+
+Documented below are an excerpt of the 73 attempts of euthanasia for RPC-131 instances.
+[[collapsible show="► Access RPC:/131/euthanasia ◄" hide="▼ Hide RPC:/131/euthanasia ▼"]]
+> = __**Euthanasia Attempt № 1**__
+> ----
+> 
+> **Subject:** RPC-131-356
+> 
+> **Method:** Lethal amounts of morphine are administered to the subject.
+> 
+> **Result:** Respiration was halted from RPC-131-356, but did not expire.
+
+> = __**Euthanasia Attempt № 36**__
+> ----
+> 
+> **Subject:** RPC-131-904
+> 
+> **Method:** Removal of the subject's brain, using a scalpel to separate the brain stem from the spinal cord.
+> 
+> **Result:** RPC-131-904 did not expire, but its body was fully paralyzed. RPC-131-904's eyes darted around in panic.
+
+> = __**Euthanasia Attempt № 37**__
+> ----
+> 
+> **Subject:** RPC-131-904
+> 
+> **Method:** The aforementioned brain is crushed and sliced, then taken apart.
+> 
+> **Result:** No changes.
+
+For full transcript of euthanasia attempts, please contact Dr. Rogerson.
+
+[[/collapsible]]
+
+__**Addendum - Interview With RPC-131-083:**__
+
+The following file contains an interview between Dr. Rogerson and RPC-131-083, one of the instances of RPC-131 clothed within uniform similar to Romeo-7 and capable of communicating in English.
+
+[[collapsible show="► Access RPC:/131/interview_log ◄" hide="▼ Hide RPC:/131/interview_log ▼"]]
+> = __**Interview Log 131-083**__
+> ----
+> 
+> **Interviewer:** Dr. Wilt Rogerson
+> 
+> **Interviewee:** RPC-131-083
+> 
+> **Date:** 19^^th^^ November, 1948
+> 
+> ----
+> 
+> **<Begin Log>**
+> 
+> **ROGERSON:** **[**//Clears throat//**]** Good morning, RPC-131-083.
+> 
+> **[**//RPC-131-083 inhales through its torn esophagus.//**]**
+> 
+> **ROGERSON:** I said, good morning.
+> 
+> **RPC-131-083:** I–I–I…
+> 
+> **ROGERSON:** RPC-131-083, could you tell me how you…
+> 
+> **[**//RPC-131-083's eyes flutter open and gaze at Dr. Rogerson.//**]**
+> 
+> **ROGERSON:** Got to this, ahem, state?
+> 
+> **RPC-131-083:** Why.
+> 
+> **ROGERSON:** This could help us greatly in getting you back to your original form.
+> 
+> **RPC-131-083:** Ah… ah–ah… ahhhh. All I r–rememb–b–er…
+> 
+> **[**//RPC-131-083 attempts to sit up.//**]**
+> 
+> **ROGERSON:** No no no, you don't need to.
+> 
+> **RPC-131-083:** Rem–m–member… blue light–t. Gun… f–fire.
+> 
+> **[**//RPC-131-083 wheezes.//**]**
+> 
+> **RPC-131-083:** So much. B-but I would-d-dn't die. It-t-t all hurts-s.
+> 
+> **ROGERSON:** What were you doing when it happened?
+> 
+> **RPC-131-083:** I… th-think I was fight-t-ting. Why w-was I fighting.
+> 
+> **[**//Silence.//**]**
+> 
+> **RPC-131-083:** Ple-e-ease end i-it.
+> 
+> **ROGERSON:** We're working to fix this. I promise that we'll stop your pain soon.
+> 
+> **[**//RPC-131-083 stares at Dr. Rogerson.//**]**
+> 
+> **RPC-131-083:** …will you?
+> 
+> **<End Log>**
+> 
+[[/collapsible]]
+
+__**Documentation Update 21/10/51:**__ An additional note was retrieved on 21/10/1951 at the location for which RPC-131 initially manifested. RPC-131-A states that it has provided us with a special form of paper that it can transfer back to itself. As a result, two-way communication is possible.
+
+Documented underneath is the document provided to RPC-131-A, written by Dr. Samuel Rolles.
+[[collapsible show="► Access RPC:/131/doc_003 ◄" hide="▼ Hide RPC:/131/doc_003 ▼"]]
+> = An Open Letter to the Righteous Central Protection Authority
+> 
+> Greetings. Assuming that the object you have provided with us for communications is functional, I would like to officially greet your organization.
+> 
+> We are the RPC Authority. Our objective is the study of anomalies, the protection of humanity from anomalous threats, and the containment of anomalies from public knowledge. I presume our groups have similar origins, given the similarities with our name.
+> 
+> Unfortunately, we have failed to make significant progress regarding the euthanization of RPC-131. Interview logs with whichever RPC-131 instance still sane enough to communicate suggest that the group encountered some form of "blue light". Of course, we do not know what you know, and what you don't know. I suggest the RCPA provide adequate information regarding your research on RPC-131.
+> 
+> We also propose a research agreement between our two entities, as we believe that further cooperation may be beneficial.
+> 
+> Finally, we have a list of questions regarding the organization that you represent.
+> 
+> # What are your group's exact origins, and how did you come to be?
+> # Who exactly are you, and who is your leader(s)?
+> # What is your objective?
+> # What is your organization's scale, and how far have you spread?
+> 
+> Thank you in advance.
+[[/collapsible]]
+
+__**Addendum - Further Communications:**__
+
+Documented below are some excerpts of communications between us and RPC-131-A. Each text box indicates that the statement is being made by a different individual.
+
+[[collapsible show="► Access RPC:/131/oct_51 ◄" hide="▼ Hide RPC:/131/oct_51 ▼"]]
+
+[[div class="message"]]
+
+Greetings, Dr. Rolles. I am Dr. Haase. I am the person responsible for sending those men over to you. Allow me to skip the formalities and get straight to the point. We don't know how to fix these men or put them out of their misery. We've tried and failed for the last 3 years. Attached to this document are all of the methods that we have tried, as to make sure that we don't tread over similar ground.
+
+[[/div]]
+
+[[div class="message"]]
+
+Greetings, Dr. Haase. I am Dr. Rolles, and I believe we will be working closely together soon. I am quite surprised at the amount of methods that you have attempted. I would also like to ask whether I read correctly when in entry 1401, it was stated that you placed several instances of 131 next to a hydrogen-based thermonuclear weapon[[footnote]]At the time of writing, a hydrogen-based thermonuclear weapon had not yet been developed.[[/footnote]]. Either way, attached to this is a document regarding methods that we have attempted. Unfortunately, it would seem that we were merely stepping over covered ground.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, you are correct that we attempted to use hydrogen-based thermonuclear weaponry to euthanize RCP-131. Unfortunately, it failed to euthanize RCP-131. Of course, the explosion wasn't just for euthanizing RCP-131. It was our own routine test, where I just placed some RCP-131 instances within 50 meters of the weapon. Either way, having read the documents provided, I have come to the conclusion that your research is quite underfunded. Also, I'm quite surprised that special attention was paid to this weapon system.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, while we have more questions regarding how your organization acquired hydrogen-based thermonuclear weaponry, I shall not digress. Unfortunately, our resources are quite limited, and we have no interest in utilizing weaponry that could compromise our secrecy. Also, we would like to ask of the supply situation regarding such papers. How many of such objects do you possess?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, our quest for secrecy became an unsustainable burden years ago. We abandoned it. Because the human race had to be advanced. I suppose it won't be long before the same decisions will fall upon your Authority, to either advance the human race and usher in a new golden age, or to sit on the sidelines and watch humanity suffer while holding the necessary objects to assist. Either way, back to the point. Don't worry about the papers. It's grown from a specific field over the former Saar coal fields. Given our "special relationship" with the contemporary German government, we don't expect any issues of sovereignty.
+
+[[/div]]
+
+[[/collapsible]]
+[[collapsible show="► Access RPC:/131/jul_52 ◄" hide="▼ Hide RPC:/131/jul_52 ▼"]]
+[[div class="message"]]
+
+Dr. Rolles, due to the lack of progress over the past 9 months even with our forces combined, my superiors have given us permission to consult your group on the anomalies that you may possess as a means of solving this issue. We would like to know whether your organization possesses any form of anomaly related to immortality or life extension.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, we do possess an anomaly related to certain afterlifes, if this may be relevant. A cave filled with dead people, reason unknown, under Hell, Michigan. Given the similarities that our group's structure possess, it should be labelled as "[http://www.rpc-wiki.net/rpc-665 665]" within your databases.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, may we have the relevant documents? Unfortunately, we do not possess such a file.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, having discussed with my superiors, they have approved of me providing you with a Level 3R access to RPC-665's file. I though your groups was supposed to be larger than ours. Also, what are your intentions with the document or of cross-testing RPC-665 with 131?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, our documents and objects, especially those placed within Great Britain, France, have been permanently damaged. Casualties of WKII, I suppose. It may be somewhat troubling, given that RPC-665 is supposed to be located in the United States. I'm sure we can figure out something.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, I'm quite intrigued as to how entire Sites can seem to be leveled. The majority of our Sites store their data underground. With all due respect, your organization should have invested more into underground facilities.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, we did. Unfortunately, no amount of being underground can deal with the onslaught of anomalous weaponry, as well as ignorant politicians unwilling to protect their population. [Site-007], Site-144, Site-189[[footnote]]The Authority did not possess any Sites with designation "144" or "189" at the time.[[/footnote]] and countless others were all lost to anomalous weaponry used by the Soviets during the final stages of the war. Great Britain and France are no more. We survived because we had the courage to use our anomalies for good.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, that truly is a tragedy. If needed, would potential data-exchange benefit your organization? Also, what is the issue with gaining access to RPC-665?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I will consult my superiors for this. Unfortunately, since the RCPA broke its cover, our relationship with the US government has been lacking. Fallout from WKII, as well as the fact that we were operating on foreign soil. Think of all the things your organization did on Site-002, and imagine if that was conducted by a foreign nation. Either way, I'm sure my superiors will settle this matter.
+
+[[/div]]
+
+[[/collapsible]]
+[[collapsible show="► Access RPC:/131/sep_52 ◄" hide="▼ Hide RPC:/131/sep_52 ▼"]]
+
+[[div class="message"]]
+
+Dr. Rolles, attached to this document is a list of things we would like your organization to do with RPC-665. To put it shortly, we need you to capture an instance of RPC-665 and interrogate it, and then dissect it. Attached to this file is a list of questions that we have with whichever RPC-665 instance that you may capture. I await your success.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, I have some questions. Firstly, has the RCPA failed to let itself operate within the United States? Secondly, some of the questions seem to be quite unrelated to the euthanization of RPC-131 instances. For example, one of the questions was "how frequently has someone died". Another question from the list provided was "what medical procedures did you undergo to enter your current state". With all due respect, I suspect that your organization has other intentions with RPC-131.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I suppose there is no point in suppressing this information. Currently, RCP-131 is placed in what we would categorize as a "flawed immortality". While they are physically incapable of death, they also do not lose consciousness under any circumstances. Even with the brain destroyed, they are still somehow receptive to stimuli. Basically, the opportunity to investigate immortality is one that we wish not to waste away.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, understood. I suppose it should also come as no surprise that we are also pursuing such technology. I wish that your organization will be completely frank about other information. Our positions are similar enough that full transparency should be attainable. How much of the previous information provided was false?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, all other information provided to your organization is true, at least according to our understanding at the time. Again, I apologize for any disruption between our groups that this may cause.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, that is good to hear. We will begin to investigate RPC-665 with increased tenacity. However, please note that RPC-665 is a fairly new discovery. We do not even know whether communication with RPC-665 is possible.
+
+[[/div]]
+[[/collapsible]]
+[[collapsible show="► Access RPC:/131/jan_53 ◄" hide="▼ Hide RPC:/131/jan_53 ▼"]]
+
+[[div class="message"]]
+
+Dr. Rolles, research upon some of the rock samples and bone samples of RPC-665 your organization has provided seem to indicate that RPC-665-A's. This suggests that much of RPC-665-A's "immortality" or at least "activity" is based on pain tolerance, if you understand what I mean. It would seem that certain instances of RPC-665-A have at some point, ceased activity based on overwhelming "stimulation" that it has received.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, while I don't exactly know how RPC-665-A can detect "stimulation" given its lack of a nervous system, this looks somewhat promising. This could potentially kill two birds in one stone. I am, however, confused as to how you got that from rock samples.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I agree. Think of all the medical purposes that this could be for. We would certainly benefit from having access to more rock samples. And answering your question, we have anomalies that help us detect brain activiy in non-animate objects, if that makes any sense. The activity we have detected seems to be inverse to the level of stimulation experienced by the lifeform in question.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, let's not get ahead of ourselves. Actually getting immortality to work consistently is still considerably far away. I also certainly have reservations with your, "liberal", applications of such technology. As for the rock samples, we'll get to working on in as soon as possible[[footnote]]No further rock samples were provided to RPC-131-A as the Directorate at the time determined that information regarding immortality was too valuable to provide with other entities. [[/footnote]]. I wonder how "pain" plays a role in immortality.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I am aware that immortality is still quite far from us. That being said though, it doesn't hurt to dream. Especially when such dreams can benefit humanity. I don't see what's wrong with using technology aggressively to improve humanity significantly. If anything, I seem a bit confused by your, with all due respect, somewhat restrictive use of technology. That's what killed Britain and France, alongside 14 million people in 16 minutes.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, such technology should be only held in secrecy. It's anomalies we're talking about. Humans can become dumb and finicky creatures that overreact at the first sight of anything wrong. In case you haven't remembered, aren't we supposed to be secret?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, we're doing just fine. When our predecessors chose secrecy millennia ago, did they see the fucked up world that we face today? It is our responsibility to embrace whatever tools we have on hand not because it makes us feel superior, but because it is right. It is Righteous. We're the Righteous Central Protection Authority, after all.
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="► Access RPC:/131/aug_53 ◄" hide="▼ Hide RPC:/131/aug_53 ▼"]]
+
+[[div class="message"]]
+
+Dr. Haase, I would like to thank you for your cooperation with us so far. Your information has been very helpful. However, you still haven't told us how your organization came to be. Knowing more about each other could benefit both of us greatly.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, this is very sudden, especially given that we still haven't solved our current issues. Why would this information be considered vital anyways?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, one of the requests that we have provided is that your organization be fully transparent. Unfortunately, my superiors are still confused as to why your group is unable to access anomalies based within North America, and are requesting more information. After all, an expedition to RPC-665 should not be considered hard.
+
+[[/div]]
+
+[[div class="message"]]
+
+Fine then. We would, however, like for similar information regarding your organization to be provided to us. We would also like to once again remind you that we require more rock samples of RPC-665.
+
+[[/div]]
+
+**[[http://www.rpc-wiki.net/an-incomplete-history-of-the-authority EXTRAVAGANT LOGS REMOVED]]**
+
+[[div class="message"]]
+
+Thank you for providing us with such information, Dr. Rolles. 
+
+I suppose our histories diverged less than 20 years ago. After our involvement with the First Weltkrieg, quite similar to your organization, the Authority gained an incredible amount of assets from collapsing economies, desperate businessmen and powerful individuals who had lost their heirs. This meant a lot of extra economic stability, owned by men and women who had lost their children and desperately wished to preserve peace and protect life. The Directorate, in our history, officially reformed the "RPC Authority" into the "Righteous Central Protection Authority" in 1921.
+
+[[/div]]
+
+[[div class="message"]]
+
+Interesting. My records do not indicate such an incident. Given my security clearance, such a trivial file (at least trivial to our history) should be available.
+
+[[/div]]
+
+[[div class="message"]]
+
+Either way, Dr. Rolles, the RCPA operated in complete secrecy from the world, with actions believed to be similar to yours. We funded China to fight against Japan, gave insurgents in the Middle East guns, etc. This is, until 1938. During the Munich Crisis, while attempting to influence Chancellor Hitler into not annexing the Sudetenland, our forces accidentally caused irreversable damage to Chancellor Hitler's mind. This forced our organization to place personnel within the body of Hitler, with a device labelled RCP-1631. Is this object present within your inventory?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, as of my understanding RPC-1631 is [DATA EXPUNGED]. I do not see how it relates to your RCP-1631.
+
+[[/div]]
+
+[[div class="message"]]
+
+Interesting. Oversimplifying, RCP-1631 is a device that allows the transaction of one's mind into another body, to an extent. Either way, due to the newly-acquired control over Germany, the RCPA gained access to the numerous assets of Germany, significantly expanding our influence. Unfortunately, due to our own mismanagement, Germany fell into economic depression in 1939. We are scientists and field agents, not economists.
+
+On the 3rd of March, 1943, the Soviet Union attacked Poland. The RCPA immediately declared war on the Soviet Union and rushed to aid the Poles. To an extent, this saved our economy, now that economic aid was coming over from Britain and France, countries too cowardly to do what was right. That's not to say that it was any easy. Hell no. We were always on the brink of collapse. 
+
+I myself, a 35 year old scientist, was drafted into the 7th Infantre Division while both of my brothers and my niece were drafted into the 27th because we simply didn't have the manpower to deal with it. Every week, a wave of Soviets would come along and try to push us back. Sometimes, we held them off. Sometimes, they just kept on pouring. We were pushed all the way back to Vistula by 1945. It was at that point that the Directorate greenlit the use of anomaous technology against the Soviet invaders.
+
+[[/div]]
+
+[[div class="message"]]
+
+Correct me if I am wrong, but isn't the 27th Infantre Division the division affected by RPC-131?
+
+[[/div]]
+
+[[div class="message"]]
+
+Yes. Frankly, I'd much rather that my brothers and my niece be blown up or have their brains blasted out than be bestow the fate of RCP-131. I haven't dared check the tags of RCP-131, because of this.
+
+[[/div]]
+
+[[div class="message"]]
+
+Interesting. What happened later?
+
+[[/div]]
+
+[[div class="message"]]
+
+Oh, it was glorious. Flying aircraft carriers, powered by Null Gravity Generators. Guided munitions blowing those pesky Soviets to smithereens. I once got my hands on a grenade that blew a hole in the ground so big, Satan probably looked at me. Soon after, we were making progress. By 1947, we were pushing the Soviets back. By 1948, we had liberated all of Poland. It was at this point did we find RCP-131.
+
+[[/div]]
+
+[[div class="message"]]
+
+So, your group used anomalies to win a war? With all due respect, our organization only justify the use of anomalies when humanity is faced with extinction.
+
+[[/div]]
+
+[[div class="message"]]
+
+Did you see what they did to the instances of RCP-131? Say your Authority got ahold of knowledge that in 24 minutes, a group of interest will be directly responsible for the painful deaths of about 14 million individuals. In your opinion, would it be our job to find out how to stop it and save those people?
+
+[[/div]]
+
+[[div class="message"]]
+
+Yes, I certainly would. Dr. Haase, where are you going with this?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I agree. On the 25th of October, 1949, just as we were starting to make headway into the Soviet Union, several entities were launched from the Soviet Union. They turned out to be anomalous weaponry of some sort, capable of levelling entire cities. And it was heading towards 30 million individuals. 
+
+The RCPA immediately deployed everything and anything we had to protect 16 million people. Unfortunately, the Brits and the French weren't so lucky in their leadership. Their unwillingness to use anomalous weaponry ultimately caused the deaths of 14 million. Not long after, a ceasefire was signed, after the Americans forced us to "stop unnecessary destruction". Those bastards. On the bright side, the instability caused by losing a good chunk of your countrymen has allowed us to exert our influence on Britain and France.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, I remain skeptical of your liberal use of anomalies.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, RCP-131 is proof that the unrighteous will use anomalies liberally. We have no choice to escalate. Good thing that this will //never// happen in your world.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, what was that supposed to mean?
+
+[[/div]]
+
+[[div class="message"]]
+
+An expression of thankfulness that what happned to us will never happen to you, given how confident you are in //never// using anomalies because your group still can't see how you're getting in your own way. Thankfully, it's not up to you, Dr. Rolles.
+
+[[/div]]
+[[/collapsible]]
+[[collapsible show="► Access RPC:/131/dec_53 ◄" hide="▼ Hide RPC:/131/dec_53 ▼"]]
+
+[[div class="message"]]
+
+Dr. Rolles, despite our lack of RPC-665 rock samples, we have made a breakthrough. We now have a theory on the euthanization of RCP-131 instances.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, this is groundbreaking! Please let us know how you did it as soon as possible.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I shall explain in the best way I can. It turns out that the more "stimulation" an RCP-131 instance is experiencing, the more likely it is to truly die. If we subject an instance to the most excruciating "stimulation" possible, its life will finally end. This is what the rock samples of RPC-665 seem to show. 
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, by stimulation, do you mean pain?
+
+[[/div]]
+
+[[div class="message"]]
+
+Yes.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, I am quite conflicted on this. On one hand, you've finally figured out how to neutralize RPC-131 instances, and I have to commend you for that. Despite this, this is extremely inhumane. I know you're putting them out of their already miserable existence, but putting them through all that is very immoral. They are still humans.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I understand your concern, but these men deserve to have their final break. They have lived through having missing limbs, being charred to a crisp, and even being decapitated. We need to let them rest, Samuel.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, I get what you mean, and I agree. The RPC-131 instances //do// deserve to rest. Just not in this way. It feels animalistic.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, the rock samples you have given us seem to indicate an expirey date for such a phenomenon. We've already setting up further tests, and have sent information to other universes that this information has been given to.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, was your organization also in contact with other universes?
+
+[[/div]]
+
+[[div class="message"]]
+
+Well, not exactly. We sent about 6,000 instances of RCP-131 abroad to 8 potential universes. of which only you had responded.
+
+[[/div]]
+
+[[div class="message"]]
+
+May some of the technology regarding inter-universal travel and communications be shared?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, I will discuss this with my superiors.
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="► Access RPC:/131/feb_54 ◄" hide="▼ Hide RPC:/131/feb_54 ▼"]]
+
+[[div class="message"]]
+
+Dr. Rolles, we have acquired a new method of euthanizing RCP-131, this time with less pain inflicted on RCP-131. We will require, however, an incredible amount of stone from RPC-665.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, we'll cooperate as much as possible. What new discovery has your organization made?
+
+[[/div]]
+
+[[div class="message"]]
+
+As it turns out, proximity with RPC-665 has a significant effect on the pain required to cause death. We no longer have to inflict excruciating pain on any RCP-131 instance. An extra gunshot wound will do.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, we'll begin excavating RPC-665 instances at an increasing rate. As for the communications technology, how have your superiors responded?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, you'll be pleased to hear that your request made it all the way to the Directorate. They have approved of a technology exchange, under two requirements. One is to provide us with your database regarding anomalies within Britan and France such that we may begin rebuilding our own database. Two is my own request, which is proof of euthanazisa of RPC-131.
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Haase, I will consult my superiors. As for the second requirement, we certainly will. How about your investigations regarding immortality?
+
+[[/div]]
+
+[[div class="message"]]
+
+Dr. Rolles, we're running out of time. I have officially shelved off this side project of ours. While certainly a pity, the right thing to do is to help these poor men and women who have suffered enough. I truly wish you the best of luck in this, as well as whatever future endeavours that you may encounter, Samuel.
+
+[[/div]]
+
+[[div class="message"]]
+
+Understood. Be well too, Rodolf.
+
+[[/div]]
+[[/collapsible]]
+
+__**Addendum - Current Situation:**__
+
+As of now, we are still researching the possibilities of immortality, although no significant discoveries have been made yet. 30 instances of RPC-131 have been euthanized in order to fulfill the requirements for research.
+
+As of this writing, 895 instances of RPC-131 are within our possession.
+
+Agreements on research have been made with the RCPA, with technology regarding inter-universal communications being provided to us until the 25th of October, 1954 when the RCPA discontinued communications abruptly.
+
+__**Addendum - Update: 25th October, 1959**__
+
+The following file was retrieved 25th October, 1959 through unknown means by our personnel.
+
+[[collapsible show="► Access RPC:/131/doc_004 ◄" hide="▼ Hide RPC:/131/doc_004 ▼"]]
+[[div style="background-color: #1d2022; border:solid 1px #666666; margin: 0.5rem 0; padding: 14px 24px; "]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/fragment%3Ajimmydummieautumn-2/Authority_Logo_White.png width="150px"]]
+
++ RPC Authority
+++ ###f54242|A2-Unrighteous­­##
+
+* Authority-Aware
+* Veiled
+* Seeker
+* Sculptor
+* Structured
+
+The RPC Authority is an alternate timeline iteration of the Authority that has not passed the 1921 Berlin Charter[[footnote]]Believed to be the aforementioned "vote" conducted by the RCPA's Directorate.[[/footnote]] Reluctant in their use of the anomalous to their own ends, the Authority instead possesses an incorrect interpretation of it's founding principles, being willing to delay the advancement of the human race or overlook major humanitarian disasters in it's twisted sense of "Research", "Protection", and "Containment".
+
+While the RPC Authority lacks control over major geopolitical figures, they remain one of the most dominant organizations within their local anomalous community. Other than a lower access to funding and other resources, the RPC Authority is structurally similar to the Authority.
+
+**Verdict:**
+
+This group has proven to be extremely unrighteous. While seemingly a clone of the RCPA (a hypothesis we were led to believe during our cooperation in the early 1950s) the RPC Authority has proven to be highly detrimental to the human race of RPC Authority's universe. To forcefully liquidate the RPC Authority would open up the RCPA's access to double the resources and double the manpower, thereby progressing humanity further. Due to the unrighteous nature of the RPC Authority, rebellions are to be expected. The aforementioned rebellions are to be supported whenever possible.
+
+Due to limits in our inter-universal technology, no major offensives into the RPC Authority is to be planned. However, based on our current understanding of inter-universal communication, only small-scale skirmishes may even be possible, rendering any plan for forced liquidation as impractical.
+
+**Related Anomalies:**
+
+++ RCP-131
+++ RCP-665
+
+If you're reading this from an RPC Authority terminal, then our only request is to put those poor people out of their misery. Your repeated lack of trustworthiness and righteousness have damaged our ability to cooperate, but not all is lost. Cease your unrighteousness this instant, and we will not come for you.
+[[/div]]
+
+[[/collapsible]]
+
+Following this, all remaining RPC-131 instances were euthanized, as per the instruction of the RCPA.
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="blinky"]]
+[[collapsible show="(1) new update has been added to this file."]]
+
+> {{Date: September 7th, 1978}}
+> 
+> Good morning, or good evening. If you're reading this, it means that you have had the clearance to know that the group we encountered recently was by an alternate universe version of us, the RCPA. My name is Dr. Samuel Carlton Rolles, and I have worked at the Authority for over 45 years. I know many of you have had questions regarding the RCPA after their attack on Site-074 [http://www.rpc-wiki.net/rpc-378 a few] [http://www.rpc-wiki.net/rpc-463 days ago], and I'm here to answer them.
+> 
+> This document is a remnant of our troubled past. I know what you're thinking; "Working with the enemy? Who do you think you are?", etc. I'll just have to remind you that we didn't know the true motives of the RCPA at this time, and we thought they were a useful friend. We treated each other as if we were twins.
+> 
+> The cover document is used as, well, a coverup. We do not want to be seen as any sort of people who would work with dictators who silenced their own people in the name of self-righteousness.
+> 
+> How did the RCPA get to the state it's in today? We don't know for sure. It may be because of their disagreements with us, or maybe they had their agents spying on us. Either way, the past is behind us. We are not the same organization we were back in 1951.
+> 
+> My point is, that the RCPA represents, quite scarily, what we could become. There are many here who are more easily persuaded, and might fall for their deceptions. Please remember, that we aren't the RCPA for a reason. We Research, we Protect, and we Contain. That is all.
+> 
+> There are rumors that w3 d0 not _wqeasdfgwaergfx(autho#$@rity_lett^$r);23#$
+> 
+> printf("Console offline. Please contact your superior.\n");
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> New file detected. Loading...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> ...
+> 
+> Greetings. I am Dr. Rodolf Günther Haase. I work for the RCPA. If you're from the Authority, allow me to apologize for attacking one of your Sites. We received a signal a while ago, and sent agents to collect an object that you guys weren't using. Don't worry, it's nothing bad. Just increasing crop yield for Ethiopia.
+> 
+> It's a shame, really. Your Authority is one of the relatively larger organizations with anomalous items. Sure, our organization is bigger than yours, but the Authority remains the largest research, as well as one of the largest containment organizations of your universe. You have thousands of items, and yet none of those are used to better the world. If anything, the Authority's existence is highly detrimental to the advancement of humanity.
+> 
+> As I previously stated, say your Authority got hold of knowledge that in 24 minutes, a group of interest will be directly responsible for the painful deaths of about 14 million individuals. In your opinion, would it be our job to find out how to stop it and save those people? By answering no, the Authority has worked against the progression of humanity. 
+> 
+> You have the power of god on your hands. You can stop wars and cure cancer. Why have you not done so?
+> 
+> When I see an [http://www.rpc-wiki.net/rpc-022 invincible sentient marble statue], I think of workers that operate the most dangerous tech possessed by humanity, with no fear of death. The Authority thinks of a statue that needs containment, while leaving the dying to humans. When I see a [http://www.rpc-wiki.net/rpc-666 beast of no nation], raining death from above, I think of ways to shoot it down so that the populous may be protected. The Authority sees an anomaly that needs to be monitored, while children get bombed out. When I see that death is late to the party, I become death himself and euthanize people. Your group keeps them alive for your novelty collection.
+> 
+> Yes, your RPC-131 instances are still alive. They are still squirming in pain, unable to meet death, because your Authority says so. An unrighteous Authority.
+> 
+> This is where you come in. You came here to help the world. And are probably fed up with the mountains of useful items that you can see (as well as the countless others that you certainly lack the clearance to even conceptualize) that cannot be used.
+> 
+> Well, your Authority is a detriment to this world, and I hope you are fed up with the unrighteousness that you have witnessed. Contact Site-074 Director Stannum Yeung, and he will help you join our crusade.
+> 
+> **This file is not to be replicated.**
+> 
+> **Do not speak of the Righteous Central Protection Authority ever again.**
+> 
+
+[[/collapsible]]
+[[/div]]
+

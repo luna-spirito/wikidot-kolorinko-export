@@ -1,0 +1,72 @@
+---
+title: "Death Is Late To The Party: Jimmy and Dummie's Autumn Entry"
+tags: ["bob"]
+page_id: "924589003"
+site: "rpcauthority"
+slug: "contest:bobcontestjimmyboyhaha-hfdummie"
+revision: 3
+revision_id: "971615447"
+author: 4981794
+timestamp: 1572045691
+---
+
+[[module CSS]]
+
+.footnotes-footer {
+    display: none;
+}
+
+.blinky .collapsible-block-unfolded a.collapsible-block-link {
+   display: none;
+}
+
+.blinky .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #5294e0; }
+}
+
+.note {
+    color: #333333;
+    font-family: monospace;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-image: linear-gradient(to top ,#9bc0d4 0%, #f2f2f2 8%);
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: none;
+    border-radius: 0px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+
+.message {
+    border-radius: 0px;
+    border: 1px solid #808080;
+    box-shadow: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 20pt;
+}
+
+[[/module]]
+
+[[include component:rate title=rpc-131]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:jimmydummieautumn-1
+http://www.rpc-wiki.net/fragment:jimmydummieautumn-2
+--]
+

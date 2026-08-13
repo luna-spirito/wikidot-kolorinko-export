@@ -1,0 +1,23 @@
+---
+title: "Death Is Late To The Party: Jimmy and Dummie's Autumn Entry"
+tags: ["bob"]
+page_id: "924589003"
+site: "rpcauthority"
+slug: "contest:bobcontestjimmyboyhaha-hfdummie"
+revision: 4
+revision_id: "971615453"
+author: 4981794
+timestamp: 1572045741
+---
+
+[[include component:rate title=rpc-131]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- list of pages
+http://www.rpc-wiki.net/fragment:jimmydummieautumn-1
+http://www.rpc-wiki.net/fragment:jimmydummieautumn-2
+--]
+
