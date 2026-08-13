@@ -1,0 +1,297 @@
+---
+title: "Administration Theme"
+tags: ["theme"]
+page_id: "801613683"
+site: "rpcauthority"
+slug: "component:administration-theme"
+revision: 20
+revision_id: "961537395"
+author: 4584404
+timestamp: 1569979176
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+[[/module]]
+
+
+[[code type="css"]]
+/*
+    Administraion Theme
+    [2018 Wikidot Theme]
+*/
+ 
+body {
+    background: #17191D !important;
+}
+ 
+hr
+{ background:rgba(53,94,277,.5);
+
+   height:1px; }
+
+div#page-content {
+    color: rgb(222, 222, 222);
+
+}
+ 
+/* HEADER */
+#header {
+    background: url(http://www.rpc-wiki.net/local--files/component:administration-theme/administration-logo.png) 5px 22px no-repeat;
+}
+ 
+#header h1 a::before {
+    content: "The Presidium";
+    text-shadow: 3px 3px 3px black;
+    color: white;
+}
+ 
+#header h2 span::before {
+    content: "Administration Hub";
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    font-size: 15px;
+}
+ 
+#header h1 a span, #header h2 span {
+    font-size: 0px;
+}
+ 
+@media (max-width: 768px) {
+ 
+#header {
+    background-position: 0 5.5em;
+    background-size: 60px;
+}
+ 
+}
+ 
+div#container-wrap {
+        background-image: url(https://puu.sh/DswQw/912005a37f.png);
+background-position: top left;
+background-repeat: repeat-x;
+}
+
+/* ACCOUNT */
+#login-status {
+    color: rgba(53, 94, 227, 1);
+}
+#login-status a {
+    color: rgba(53, 94, 227, 1);
+}
+#login-status a:hover {
+    color: rgba(53, 94, 227, 1);
+}
+#login-status ul a {
+    background: black;
+    color: rgba(53, 94, 227, 1);
+}
+#login-status ul a:hover {
+    background: black;
+    color: rgba(53, 94, 227, 1);
+}
+
+/* TOPBAR */
+top-bar a {
+     color: rgba(53, 94, 227, 1);
+    background: black;
+}
+#top-bar ul li ul {
+    border: solid 1px #000001;
+    box-shadow: 0 2px 6px #000001;
+    border-top: 0;
+}
+#top-bar ul li a {
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 1px;
+    overflow: hidden;
+    color: rgba(53, 94, 227, 1);
+}
+ #top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    background: #17191D !important;
+    color: rgba(53, 94, 227, 1);
+}
+#top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-width: 0;
+    width: 150px;
+    height: auto;
+    max-height: none;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#top-bar ul li.sfhover a:hover,
+#top-bar ul li:hover a:hover {
+    background: #17191D !important;
+    color: rgba(24, 61, 180, 1);
+    text-decoration: none;
+}
+#top-bar ul li ul a, #top-bar a:hover {
+     color: rgba(53, 94, 227, 1);
+}
+
+/* Topbar */
+--topbar-text-color: #aaa;
+--topbar-dropdown-background: #292b30;
+--topbar-hover-background: #2d4975;
+--topbar-divider: 1px solid #2d4975;
+--topbar-dropdown-border-color: #666;
+ 
+/* SIDEBAR */
+ 
+#side-bar .side-block {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent !important;
+  padding: 0;
+  padding-right: calc(8.1em - 1px);
+  margin-left: 0em;
+  margin-right: -7em;
+ 
+}
+
+#side-bar .heading {
+  border: none;
+  border-radius: 0;
+    text-decoration: none;
+    font-weight: bold;
+  color: rgba(53, 94, 227, 1);
+  text-decoration: ;
+  font-size: 1.2em;
+  background: rgba(33, 33, 33, 0);
+  padding: 0.5em 1em 0 -0;
+  border-top: 1px solid rgba(53,94,277,.5);
+  margin: 1em calc(-1em + 2px) 0.5em 0;
+  font-weight: normal;
+}
+
+#side-bar div.menu-item {
+  margin: 0;
+  font-size: 0;
+}
+
+#side-bar div.menu-item a {
+  font-weight: normal;
+}
+
+#side-bar .menu-item>img {
+  display: none;
+}
+
+#side-bar .menu-item>a {
+  transition: all 0.1s ease-in-out;
+  display: block;
+  color: rgba(53, 94, 227, 1);
+  margin: 0 calc(-1em - 1px) 0 -0.5em;
+  padding: 0.4em 1em 0.4em 0.5em;
+  font-size: 12.8px;
+}
+
+#side-bar .menu-item>a:hover {
+  background-color: rgba(0, 0, 0, .1) !important;
+  color: rgba(24, 61, 180, 1);
+  text-decoration: underline;
+}
+div#side-bar
+{//background: rgba(33, 33, 33,.7);}
+
+#main-content {
+  border-left: 1px solid rgba(53,94,277,.5);
+  background: #17191D !important;
+
+}
+ 
+/* LINKS */
+ 
+a {
+    color: rgba(0,153,255, 1);
+}
+a:hover {
+    color: rgb(182, 194, 237);
+}
+a.newpage {
+    color: #8966FF;
+}
+ 
+/* PAGE TITLES */
+h1, #page-title {
+    color: rgba(53, 94, 227, 1);
+    border-color: rgba(53,94,277,.5);
+}
+h2
+{color: rgba(53, 94, 227, 1);}
+h5
+{color: rgba(0, 153, 255, 1);}
+ 
+/* SEARCH BAR */
+#search-top-box-input {
+    border: solid 1px #17002C;
+    background-color: #fff;
+}
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    border: solid 1px #17002C;
+    background-color: #fff;
+}
+#search-top-box-form input[type=submit] {
+    border: solid 1px #17002C;
+    background-color: #fff;
+    color: black;
+    background: linear-gradient(to bottom, #fff, #eee);
+}
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus {
+    border: solid 1px #17002C;
+    color: #17002C;
+    background-color: #fff;
+    background: linear-gradient(to bottom, #fff, #eee);
+}
+
+/* TABS */
+.yui-navset defaults to .yui-navset-top,
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-bottom:solid #17002C;
+}
+
+.yui-navset {
+    color: black;
+}
+/* RATING MODULE */
+.rate-module-container {
+    border: 1px solid black !important;
+}
+.rate-module-stars {
+    background-color: #17002C !important;
+}
+.rate-module-counter {
+    background-color: #444 !important;
+}
+
+blockquote {
+    border-color:  rgba(12, 30, 90, .8);
+    color: rgba (255,255,255,.7);
+}
+blockquote a
+{color: rgba(255, 101, 5, 1);
+ text-decoration: underline;}
+
+#action-area{
+    color: #f3f3f3;
+}
+
+.page-source{
+    color: #f3f3f3;
+}
+
+
+
+
+[[/code]]
+

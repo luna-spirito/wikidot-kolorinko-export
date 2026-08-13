@@ -1,0 +1,88 @@
+---
+title: "RPC-375"
+tags: ["aggression-hazard", "gamma", "red", "rpc", "sentient-hazard", "transmutation-hazard"]
+page_id: "801612543"
+site: "rpcauthority"
+slug: "rpc-375"
+revision: 5
+revision_id: "847231741"
+author: 4558857
+timestamp: 1558896409
+---
+
+[[module CSS]]
+#header {
+    height: 140px;
+    position: relative;
+    z-index: 10;
+    padding-bottom: 22px; /* FOR MENU */
+    background: url(https://cdn.discordapp.com/emojis/461307346103173131.png?v=1) 5px 22px no-repeat;
+}
+[[/module]]
+
+[[include component:rate title=rpc-375]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|hazards= [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-sentient.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Sentient[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-aggressive.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Aggression[[/span]][[/span]] [[span class="tooltip"]][[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutable.png style="margin-top: 1px; width: 35px;" class="tooltip"]][[span class="tooltiptext"]]Transmutation[[/span]][[/span]] 
+|align=right
+|name=http://www.rpc-wiki.net/local--files/rpc-375/tardigrade-selfie-1.jpg
+|width= px
+|caption=Closeup of RPC-375 upon discovery.
+]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/gamma-red.png]]
+
+**Registered Phenomena Code:** 375
+
+**Object Class:** Gamma-Red
+
+**Hazards:** Sentient Hazard, Aggression Hazard, Transmutation Hazard
+
+**Containment Protocols:** RPC-375 is contained within a 30x30m^^3^^ tungsten-lined containment chamber, within the high security sector of Site-016. RPC-375 requires no nourishment, however Containment division personnel must clean its excretion bi-weekly. All biological material excreted by RPC-375 is to be sent to Site-008 for medical study.
+
+**Description:** RPC-375 is an anomalous member of the species colloquially known as water bears, or tardigrades. The most obvious anomaly surrounding RPC-375 is that it is much larger than its non-anomalous kin, measuring approximately 5x14 meters in its dormant state. As tardigrades are normally microorganisms, it is unknown at this time how RPC-375 achieved this feat of evolution.
+
+When RPC-375 is provoked, it will either expand or shrink to combat the assumed predator. If the predator is larger than it (see Log 375-2) RPC-375 will either grow to the same size as the predator, or shrink to presumably attempt to hide. If it is provoked by an entity already smaller than it, such as CSD personnel, it will simply begin to consume them. RPC-375's method of consumption is to expand its mouth around the prey, with multiple stylets within its mouth structure. RPC-375 is characterized from other species of non-anomalous tardigrades by its, despite being anomalously large, still fully functioning buccopharyngeal apparatus within its throat. Although larger than any reasonable tardigrade would ever be in nature, the buccopharyngeal apparatus remains completely functional, however anomalously able to consume other more biologically complicated entities.
+
+RPC-375, unlike normal members of its specific subspecies, is omnivorous. RPC-375 has been observed surviving for extended[[footnote]] Approximately two years [[/footnote]] periods of time without nourishment, however it consumes prey nonetheless. RPC-375 will, if prey is subdued, consume nearly all organic entities, with the exclusion of physiologically anomalous animals exposed to it via cross testing. 
+
+Not unlike its non-anomalous kin, RPC-375 is capable of withstanding almost all forms of radiation, however anomalously able to withstand extreme physical attack. RPC-375 has been shot multiple times with semi-automatic weaponry, and sustained little to no damage. Although this would warrant harsher containment procedures under normal circumstances, RPC-375 is both extremely sluggish, and barely sentient. It is not capable of problem solving, nor is it capable of moving faster than 2 meters per second for extended periods of time[[footnote]] That being 40 seconds [[/footnote]].
+
+Cross-test log format may be found below.
+
+> **Log #:**
+> **RPC #:**
+> **Date:**
+> **Further Information:**
+
+[[collapsible show="Access File: RPC-375 Cross-test Logs" hide="-ACCESS GRANTED"]]
+
+> **Log #:** 375-1
+> **RPC #:** [[[RPC-221]]]
+> **Date:** 05/06/84
+> **Further Information:** RPC-221 manifested within RPC-375's cell. RPC-375 was found immune to RPC-221's effects. RPC-221 de-manifests when RPC-375 attempts to consume them.
+
+> **Log #:** 375-2
+> **RPC #:** [[[RPC-114]]] prior to neutralization.
+> **Date:** 03/12/85
+> **Further Information:** RPC-375 is brought into the containment chamber of RPC-114. RPC-375 is seen gaining 0.01% more muscle mass, seemingly to become equal to RPC-114 in size. RPC-375 attempts to consume RPC-114, and is then forcibly removed from the chamber.
+
+> **Log #:** 375-3
+> **RPC #:** [[[RPC-068]]]
+> **Date:** 09/10/87
+> **Further Information:** RPC-068 is permitted entry to RPC-375's containment chamber. RPC-375 remains docile, RPC-068 asking to leave. After approximately 15 minutes of docility from RPC-375, RPC-068 is permitted exit.
+
+> **Log #:** 375-4
+> **RPC #:** [[[RPC-002]]]
+> **Date:** 18/12/88
+> **Further Information:** A singular member of ASF personnel carrying RPC-002 enters RPC-375's containment. RPC-002 is fired at RPC-375. RPC-375 sustains minimal physical damage, then attempting to attack the ASF personnel. It is restrained, and RPC-002 is returned to Site-002.
+
+[[/collapsible]]
+
+**Addendum:** Following preliminary cross-testing, it should be noted that RPC-375 and [[[RPC-332]]] are biologically entirely unrelated, in a nigh anomalous fashion. Further research into this topic is ongoing.
+
+[[footnoteblock]]
+[[=]]
+<< [[[RPC-374]]] | RPC-375 | [[[RPC-376]]] >>
+[[/=]]
+

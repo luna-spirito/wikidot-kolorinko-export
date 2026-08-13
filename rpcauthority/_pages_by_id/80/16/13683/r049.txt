@@ -1,0 +1,187 @@
+---
+title: "Administration Theme"
+tags: ["theme"]
+page_id: "801613683"
+site: "rpcauthority"
+slug: "component:administration-theme"
+revision: 49
+revision_id: "1359890793"
+author: 5258122
+timestamp: 1613443751
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:administration-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+RPC Administration Theme
+ 
+Created by Vizlox based on C0debreak's original Administration Theme
+
+Logo by Dr Pierson
+*/
+ 
+:root {
+    --body-background: #0b0f11 url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/admin-bg.png);
+    --basic-border: 1px solid #1b2d6e;
+    --basic-border-color: #1b2d6e;
+    --nav-hover-background: #1b2d6e;
+    --primary-text-color: #2340a8;
+    --text-color: #aaa;
+
+    --blockquote-background: #12100f;
+    --blockquote-border: 1px dashed #ff6505;
+    --content-bar-background: #202429;
+    --primary-background: #17181c;
+    --content-box-shadow-color: #090909;
+    --news-block-body-panel-background-even: #1a1c21;
+    --topbar-dropdown-background: #0b0f11;
+    --content-box-border-color: #293e8c;
+
+    --header-icon: url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/Administration.png);
+    --header-background: url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/adminheader.png);
+    --header-text-visibility: hidden;
+    --header-tagline-color: #fff;
+    --header-custom-text: 'The Presidium';
+    --header-tagline-custom-text: 'Authority Administration';
+    --header-tagline-text-shadow: 3px 3px 3px black;
+
+    --link-color: #0099ff;
+    --link-hover-color: #b0dfff;
+    --new-page-color: #8966ff;
+    --sidebar-crit-corner-color: #6587ff;
+
+
+    --sidenote-open-background: #7184c5;
+
+    --tabview-side-scrollbar-thumb-background: #2c3454;
+    --tabview-side-scrollbar-thumb-hover-background: #313958;
+    --BT-scrollbar-thumb-background: #262d4a;
+    --BT-scrollbar-thumb-hover-background: #2c3454;
+
+    --search-button-background: #181c29;
+    --search-button-hover-background: #222738;
+    --search-input-color: #242733;
+    --search-input-hover: #1f2438;
+
+    --WT-body-background: #ddd url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/admin-bg-wt.png);
+    --WT-nav-hover-background: #1b2d6e;
+    --WT-primary-text-color: #2340a8;
+
+    --WT-blockquote-background: rgba(255,98,0,0.3);
+    --WT-blockquote-border: 2px dashed #ff6505;
+    --WT-content-bar-background: rgba(0,0,0,0.15);
+    --WT-topbar-dropdown-background: #fff;
+    --WT-content-box-border-color: #0099ff;
+
+    --WT-header-icon: url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/Administration.png);
+    --WT-header-background: url(http://rpcauthority.wikidot.com/local--files/component:administration-theme/adminheader.png);
+    --WT-header-text-visibility: hidden;
+    --WT-header-tagline-color: #fff;
+    --WT-header-custom-text: 'The Presidium';
+    --WT-header-tagline-custom-text: 'Authority Administration';
+
+    --WT-link-color: #2384c4;
+    --WT-new-page-color: #8966ff;
+
+    --WT-search-button-background: #181c29;
+    --WT-search-button-hover-background: #222738;
+    --WT-search-input-color: #242733;
+    --WT-search-input-hover: #1f2438;
+
+    /* blockquote text color */
+    --tv1: #ff6505;
+    --WT-tv1: #000;
+
+    /* blockquote link color */
+    --tv2: var(--tv1);
+    --WT-tv2: #66432d;
+
+    /* blockquote link underline */
+    --tv3: underline;
+    --WT-tv3: default;
+
+    /* blockquote link hover color */
+    --tv4: #ff9c5e;
+    --WT-tv4: #7a5c48;
+
+    /* content-box background */
+    --tv5: none;
+    --WT-tv5: rgba(0,153,255,0.3);
+
+    /* content-box horizontal rule color */
+    --tv6: #293e8c;
+    --WT-tv6: var(--content-box-border-color);
+
+    /* image caption color */
+    --tv7: var(--text-color);
+    --WT-tv7: #fff;
+
+    /* content-box text color */
+    --tv8: var(--text-color);
+    --WT-tv8: #000;
+    
+    /* content-box link color */
+    --tv9: var(--link-color);
+    --WT-tv9: #165d8c;
+}
+
+blockquote {
+    color: var(--tv1);    
+}
+ 
+blockquote a {
+    color: var(--tv2);
+    text-decoration: var(--tv3);
+}
+
+blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5 {
+    color: var(--tv1);
+}
+ 
+blockquote a:hover {
+    color: var(--tv4);
+}
+ 
+blockquote hr {
+    background: #ff6505;
+}
+
+.content-box {
+  background: var(--tv5);
+}
+
+.content-box hr {
+    background: var(--tv6);
+}
+ 
+h1, h2, h3, h4, h5 {
+    color: #4f69c9;    
+}
+
+.image-caption {
+    color: var(--tv7);
+}
+
+.content-box {
+    color: var(--tv8);
+}
+
+.content-box a {
+    color: var(--tv9);
+}
+
+#page-content>hr {
+  padding-bottom: 1px;
+  background: none;
+  border-bottom: 3px double var(--basic-border-color);
+  border-top: 2px solid var(--basic-border-color);
+}
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+

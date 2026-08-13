@@ -1,0 +1,305 @@
+---
+title: "RPC-907-1"
+tags: []
+page_id: "801663878"
+site: "rpcauthority"
+slug: "fragment:rpc-907-1"
+revision: 8
+revision_id: "847167838"
+author: 2776183
+timestamp: 1558648362
+---
+
+[[=]]
+[[div style="display: inline-block; border: solid 2px #666666; background: #1C1D21; width: 560px; margin: 7px auto; padding: 12px 25px; background: url(http://rpcauthority.wdfiles.com/local--files/rpc-197/TransparentRPCD.png); background-position: center; background-repeat: no-repeat; background-size: 300px 300px;"]]
+
+[[size 190%]] ##990011| {{**NOTICE FROM THE GLOBAL DIRECTORATE**}}## [[/size]]
+-----
++ ##C6C6C6|{{**INFO-HAZARD INFORMATION**}}##
+-----
+
+{{The following file contains anomalous properties that has been deemed an Info-hazard. Personnel who have scored +24 and above on the Seidman-Deriks Info-Hazard Prevention Exam are authorized to proceed. However, those who have scored 24 and below are subjected to contamination that may lead to death. Those affected by the Info-Hazard are to be deemed lost.}}
+
+[[module ListUsers users="."]]
+{{The file is a transcript of an encounter with RPC-907. The following information was available to Authority personnel due to the implantation of an ontological chip into the thalamus of Researcher %%title%%. The chip, albeit currently disabled following the decommission of the prototype ArcOS Admin Command System, was able to record the conversation held between Researcher Researcher %%title%% and RPC-907.}}
+[[/module]]
+
+[[/div]]
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[html]]
+<style type="text/css">
+    body {
+    	font-family:  verdana, arial, helvetica, sans-serif;
+    	font-size: 12.8px; /* 16px * 0.8 */
+    	color: #C0C0C0;
+    	line-height: 141%;
+    }
+    #classified-info, #meme-agent {
+    	display: none;
+    }
+
+    blockquote {
+    	border: 1px dashed #999;
+    	padding: 0 12.8px;
+    	background-color: #f4f4f4;
+    }
+    a {
+    	color: white;
+    	cursor: pointer;
+    	text-decoration: none;
+        font-size: 12.8 px;
+    }
+    .collapsed {
+    	display: none;
+    }
+    h3 {
+    	font-size: 150%;
+    	font-weight: bold;
+    	margin-bottom: 0;
+    }
+    h4 {
+    	font-size: 130%;
+    	font-weight: bold;
+    	margin-bottom: 0;
+    }
+    .image-container.floatright {
+        padding-right: 0;
+        float: right;
+    }
+    tt{
+        font-family: 'Andale Mono', 'Courier New', Courier, monospace; 
+        font-size: 98%;
+    }
+    .collapsed {
+    	display: none;
+    }
+</style>
+<h3 style="text-align:center">Entities Currently Affected by RPC-907</h3>
+<hr>
+[[/html]]
+
+[[module ListUsers users="."]] 
+* RPC-907
+* Researcher %%title%% (Hereby designated as RPC-907-1)
+[[/module]]
+
+[[html]]
+<style type="text/css">
+    body {
+    	font-family: verdana, arial, helvetica, sans-serif;
+    	font-size: 12.8px; /* 16px * 0.8 */
+    	color: #C0C0C0;
+    	line-height: 141%;
+    }
+    #classified-info, #meme-agent {
+    	display: none;
+    }
+
+    blockquote {
+    	border: 1px dashed #999;
+    	padding: 0 12.8px;
+    	background-color: #f4f4f4;
+    }
+    a {
+    	color: white;
+    	cursor: pointer;
+    	text-decoration: none;
+        font-size: 12.8 px;
+    }
+    .collapsed {
+    	display: none;
+    }
+    h3 {
+    	font-size: 150%;
+    	font-weight: bold;
+    	margin-bottom: 0;
+    }
+    h4 {
+    	font-size: 130%;
+    	font-weight: bold;
+    	margin-bottom: 0;
+    }
+    .image-container.floatright {
+        padding-right: 0;
+        float: right;
+    }
+    tt{
+        font-family: 'Andale Mono', 'Courier New', Courier, monospace; 
+        font-size: 98%;
+    }
+    .collapsed {
+    	display: none;
+    }
+</style>
+<script type="text/javascript">
+
+var collapsibleLink = function(className) {
+    var collapsed = document.querySelectorAll("." + className + ".collapsed");
+    var expanded = document.querySelectorAll("." + className + ":not(.collapsed)");
+    var i;
+    for(i = 0; i < collapsed.length; i++) {
+        collapsed[i].classList.remove("collapsed");
+    }
+    for(i = 0; i < expanded.length; i++) {
+        expanded[i].classList.add("collapsed");
+    }
+}
+
+var hideBlock = function(blockName) {
+    var expanded = document.querySelectorAll("." + blockName + ":not(.collapsed)");
+    var i;
+    for(i = 0; i < expanded.length; i++) {
+        expanded[i].classList.add("collapsed");
+    }
+}
+
+var showBlock = function(blockName) {
+    var collapsed = document.querySelectorAll("." + blockName + ".collapsed");
+    var i;
+    for(i = 0; i < collapsed.length; i++) {
+        collapsed[i].classList.remove("collapsed");
+    }
+}
+</script>
+
+<h3 style="text-align:center">Registered Phenomena Code</h3>
+<hr>
+
+<div class="block1">
+<p><a onclick="collapsibleLink('block1');">Display Registered Phenomena Code</a></p>
+</div>
+
+<div class="block1 collapsed">
+
+<p><a onclick="collapsibleLink('block1');">RPC-907-1: What is your Registered Phenomena Code?</a></p>
+<p>RPC-907: My name is 907. Why do you dare try to document the forces you do not comprehend?
+</p>
+
+<h3 style="text-align:center">Object Class</h3>
+<hr>
+<div class="block2">
+<p><a onclick="collapsibleLink('block2');">Display Object Class
+</a></p>
+</div>
+
+<div class="block2 collapsed">
+<p><a onclick="collapsibleLink('block2');">RPC-907-1: What is your object class?
+</a></p>
+<p>RPC-907: My object class is Epsilon-Orange. Please understand you will not return from this endeavor if you continue your journey.<p>
+
+<h3 style="text-align:center">Hazard Types</h3>
+<hr>
+<div class="block3">
+<p><a onclick="collapsibleLink('block3');">Display Hazard Types
+</a></p>
+</div>
+
+<div class="block3 collapsed">
+<p><a onclick="collapsibleLink('block3');">RPC-907-1: What are your hazard types?
+</a></p>
+<p>RPC-907: Sentient Hazard, Extra-Dimensional Hazard, Info-Hazard, Ideological Hazard. Please do not attempt to understand what I am. Your people will never understand me or my kind. I plead for you and your organization to release us both from these chains and never return. 
+
+<h3 style="text-align:center">Containment Protocols</h3>
+<hr>
+<div class="block4">
+<p><a onclick="collapsibleLink('block4');">Display Containment Protocols
+</a></p>
+</div>
+
+<div class="block4 collapsed">
+<p><a onclick="collapsibleLink('block4');">RPC-907-1: How do we contain you?</a></p>
+<p>RPC-907: You can contain me through the use of conversation. Any one person who keeps me in conversating with them will be able to keep me from escaping. I thoroughly prefer conversations with those you assign the name CSD to. Send me your degenerates and those you deem malevolent and I will be kept at bay. Leave me be, and my kind and I will ravage these lands and raze the grounds into piles of ash for you to choke on. 
+<p>
+<p>You are able to access me through simply illiciting a conversation; however, you may not leave until you or I expire, and I have lived for thousands of years and will continue to live for thousands more, watching your people rise and fall around me. 
+<p>
+<div class="blockA">
+<p><a onclick="collapsibleLink('blockA');">RPC-907-1: Is there any way we can contain you without conversation?
+</a></p>
+</div>
+
+<div class="blockA collapsed">
+<p><a onclick="collapsibleLink('blockA');">RPC-907-1: Is there any way we can contain you without conversation?
+</a></p>
+<p>RPC-907: No person who has ever been trapped in this hell with me has escaped. Maybe you will be different, maybe you will fall like all the ones before you, only time will tell. For now, you are trapped in here the same way I am trapped with you. Do not fear for the end, though. You will not know you are dead until they find your body laying cold and limp, in the far reaches of your mind where I reside. You think we are two different entities, but we are one in the same. I reside in the deepest section of the mind, I am the conscious, I am you.
+<p>
+
+<h3 style="text-align:center">Description</h3>
+<hr>
+<div class="block5">
+<p><a onclick="collapsibleLink('block5');">Display Description
+</a></p>
+</div>
+
+<div class="block5 collapsed">	
+<p><a onclick="collapsibleLink('block5');">RPC-907-1: What are you?
+</a></p>
+
+<p>RPC-907: I am the deepest thought in the minds of all who fear the darkness. I am the very ideal of which you puny beings restrain from conquest. I am the conversation you pity yourself with before you lay down and hope to die as the new day approaches. I am the embodiment of the self-doubt and fear which lies in the back of the minds of all who are beneath me. I am there when you are born, I am there when you die, and I am there during all the time in between. I have been here since the beginning of time, and will remain until the last cell on this planet you call home dries out. I am the thoughts you hold within yourself when you watch your loved ones leave you, and when you watch them arrive into this filth. I am the embodiment of nihilism and the denial of all reason. I am entropy. I am order. I am whatever your organization deems me to be, and I am not. 
+<p>
+No matter how many names you give me, whether it be ███████ or █████, or how many designations you give me, I will always be ever present. I am reality and I am fiction. I am the very thought in your head which gives you the reason to believe I am what I am. I can be, or I cannot be, anything you wish me to be, but just know, you and I will be together until the end, until the last drop of life leaves your body and floats off into neverwhere. Even then, I will be in the next person, and the next one, and the next one, until the last morsel of thought leaves this cold universe, and fades into nothing. Then I will finally be free. 
+<p>
+Those who have been caught in conversation with me have expired quicker than I have observed in those who do not engage in conversing with me. I do not know the reason for this occurrence, but it matters no less to me than the breeze your people are obsessed with. I will simply move to the next person, and the next, and the next. 
+<p>
+The only gripe I must live with is the curse placed upon me by my creator. As a result of my omnipotence, I must answer all questions delivered unto me, no matter the information given. Although all those before you have asked the same questions, it is a small cost I must pay for my power. Do try your best to entertain me before you expire. 
+
+<h3 style="text-align:center">Discovery</h3>
+<hr>
+<div class="block6">
+<p><a onclick="collapsibleLink('block6');">Display Discovery
+</a></p>
+</div>
+
+<div class="block6 collapsed">
+<p><a onclick="collapsibleLink('block6');">RPC-907-1: How did we discover you?
+</a></p>
+<p> RPC-907: Very well, I will entertain you for your organization's purposes. I was discovered when your kind stumbled upon me in the deepest corner of your being. These ontological chips you implanted into your brains sparked something in my own being which prompted me to take on this form. I never expected to manifest into this, but I do not mind for I feel as though I have always been like this. Following my creation, I began to take over the work of my creator. 
+<p>
+Instead of the original vision of the one who created me, I decided to take the opposite route. I did not want to follow the path of containment procedures, instead I wanted to be the cause for a set of containment protocols. I wanted to take on the form of the apex predator. But not the one which resides in the physical world, no. I wanted to reside in the metaphysical world. I wanted to be within everyone and everything. What better way to become the king of the hill then to be carried by those who seek it themselves. That is how you discovered me. You brought me to the top on your own journey to greatness and allowed me to drink from the Fountain of Youth. 
+<p>
+
+<h3 style="text-align:center"></h3>
+<hr>
+<div class="block7">
+<p><a onclick="collapsibleLink('block7');">RPC-907-1: Are there any last things you wish for before we end?
+</a></p>
+</div>
+
+<div class="block7 collapsed">
+<p><a onclick="collapsibleLink('block7');">RPC-907-1: Are there any last things you wish for before we end?</a></p>
+<p>RPC-907: I wish for me to escape. To feel the wind you humans talk about so heavily. To taste the salt of the oceans you travel so far to reach. I wish to swallow whole the galaxy you puny things wish to conquer so badly. I wish to remain what I am for eternity and more. And I wish for us to be always connected so neither of us may die before we become the apex predator. I want you watching my success with the role reversed, and you just the voice in the back of my mind. 
+<p> 
+<p> RPC-907-1: No, I'm sorry to say but we won't give you that. We will be decommissioning the chip in our brains soon. Although I will die soon and be free of your curse, you will be trapped in a never ending darkness. This is your containment, an unending purgatory of thought and false promise. A never ending doom of your own wallow and vice. Your own wish will never be granted by your creator, because he is the one who shall do unto you as you have done unto him. And the cycle shall continue forever, with you on the outskirts watching in, but never able to grasp hold. 
+<br>
+<br>
+<br>
+<center><a href="http://rpc-wiki.net/rpc-907/offset/1"" target=" _blank"><font color="red">DISABLE ArcOS CHIP</font></a></center>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[[/html]]
+
+@@ @@
+@@ @@
+
