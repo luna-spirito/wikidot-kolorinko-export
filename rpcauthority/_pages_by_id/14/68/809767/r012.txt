@@ -1,0 +1,348 @@
+---
+title: "WWWJ Theme"
+tags: ["theme"]
+page_id: "1468809767"
+site: "rpcauthority"
+slug: "component:wwwj-theme"
+revision: 12
+revision_id: "1545521605"
+author: 4330657
+timestamp: 1785245830
+---
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com/component:wwwj-theme/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+/*
+   The WWWJ Theme
+   By Jokezm
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@400;700;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+SC:wght@300;400;500;600;700&display=swap');
+
+:root {
+    /* Palette vars */
+    --ink:                          #1a1a1a;
+    --paper:                        #e6ddc8;
+    --paper-mid:                    #D9CFB6;
+    --paper-dark:                   #C8B993;
+    --paper-tan:                    #D6CAA7;
+    --paper-warm:                   #DBC6AB;
+    --background:                   #C7BAA5;
+    --red:                          #8b1a1a;
+    --red-light:                    #B82323;
+    --red-dark:                     #700B0B;
+    --blue:                         #203f7d;
+
+    /* Page body */
+    --body-background:              var(--background);
+    --page-background:              var(--paper);
+    --primary-background:           var(--paper);
+    --background-3:                 var(--paper-mid);
+    --background-4:                 var(--paper-dark);
+    --content-bar-background:       var(--paper-mid);
+    --news-block-body-panel-background-even: var(--paper-mid);
+
+    /* Text */
+    --text-color:                   var(--ink);
+    --primary-text-color:           var(--red);
+
+    /* Links */
+    --link-color:                   var(--red-dark);
+    --link-hover-color:             var(--red-light);
+    --new-page-color:               #8b6914;
+
+    /* Borders */
+    --basic-border:                 1px solid #aaa;
+    --basic-border-color:           #aaa;
+    --content-box-shadow-color:     rgba(0,0,0,0.15);
+    --content-box-shadow:           1px 1px 4px rgba(0,0,0,0.15);
+    --content-box-border-color:     #aaa;
+    --tv1:                          var(--ink);
+    --tv3:                          1px 1px 6px rgba(0,0,0,0.4);
+
+
+    /* Header */
+    --header-background:            url("http://rpcsandbox.wdfiles.com/local--files/component:wwwj-theme/WWWJHeader3.png");
+    --header-text-visibility:       hidden;
+    --header-custom-text:           'The WWWJ';
+    --header-tagline-custom-text:   'The Unveiled Press.';
+    --header-tagline-color:         var(--paper);
+    --header-tagline-font:          'Libre Baskerville', Georgia, serif;
+    --header-tagline-font-weight:   normal;
+    --header-font:                  'Cormorant SC', serif;
+    --header-color:                 var(--paper);
+    --header-icon:                  url("http://rpcsandbox.wdfiles.com/local--files/component:wwwj-theme/WWWJicon.png");
+    --header-icon-size:             auto 102px;
+
+    /* Search */
+    --search-button-background:         #e0d5be;
+    --search-button-hover-background:   #d0c5a8;
+    --search-input-color:               #e8ddc5;
+    --search-input-hover:               #ddd3b5;
+
+    /* Topbar / Nav */
+    --topbar-dropdown-background:   var(--paper);
+    --topbar-hover-background:      var(--red);
+    --nav-hover-background:         var(--red);
+
+    /* Sidebar */
+    --sidebar-background:           var(--paper);
+    --sidebar-hover-background:     var(--red);
+    --sidebar-hover-color:          var(--paper);
+    --sidebar-color:                var(--ink);
+    --sidebar-header-color:         var(--red);
+    --sidebar-divider-color:        var(--ink);
+
+    /* Tables */
+    --table-header-background:      var(--paper-mid);
+    --table-header-color:           var(--ink);
+    --table-cell-color:             var(--ink);
+    --table-cell-background:        var(--paper);
+    --table-border:                 1px solid #aaa;
+
+    /* Blockquote */
+    --blockquote-background:        var(--paper);
+    --blockquote-border:            1px solid #ABA389;
+
+    /* Misc bg */
+    --toc-background:               var(--paper-mid);
+    --footnote-background:          var(--paper-mid);
+    --sidenote-open-background:     #e4dac0;
+    --code-background:              #f7f3e8;
+    --footer-background:            var(--paper-mid);
+    --star-rating-hue:              0deg;
+    --template-block-background: #A19584;
+
+    /* Buttons */
+    --button-background:            var(--paper-mid);
+    --button-hover-background:      var(--red);
+    --button-hover-color:           var(--paper);
+
+    /* Modal */
+    --modal-body-background:        var(--paper);
+    --modal-header-background:      var(--paper-mid);
+
+    /* Critic Corner */
+    --sidebar-crit-corner-color:    #D98B7E;
+}
+
+/* Sidebar */
+#side-bar {
+    background: var(--sidebar-background) !important;
+    border-left: 6px double var(--tv1);
+    box-shadow: var(--tv3);
+    width: 15em;
+}
+
+#side-bar div.menu-item a {
+    width: calc(167px + 1em);
+}
+
+#side-bar hr {
+    border-color: var(--ink);
+    border-style: solid;
+    width: calc(180px + 1em);
+}
+
+#side-bar .heading {
+    color: var(--red);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.8em;
+}
+
+#side-bar .menu-item a::before {
+    left: 13em !important;
+}
+
+/* Wider page */
+#main-content {
+    max-width: 1200px;
+}
+
+/* Page title */
+#page-title {
+    text-align: center;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    color: var(--red-dark);
+    font-weight: 900;
+    background: var(--paper);
+    border-bottom: 5px double var(--ink);
+    margin-bottom: 0;
+    padding: 10px 20px 10px;
+    font-size: 200%;
+}
+
+/* Page content */
+#page-content {
+    border-top: none !important;
+    padding: 20px 15px 30px;
+    box-shadow: var(--tv3);
+    max-width: 1200px;
+}
+
+/* Fonts */
+body, #page-content {
+    font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+     font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+#header h1 a {
+    font-family: 'Cormorant SC', serif !important;
+    color: #ffffff !important;
+    font-size: 2.8rem;
+    margin-left: -3.15em;
+}
+
+
+#header h2 {
+    font-size: 1.06rem;
+    margin-top: 4px;
+}
+
+#header h1 a::before {
+    color: #ffffff !important;
+}
+
+/* Red rule under header */
+#header {
+    border-bottom: 3px solid var(--red);
+}
+
+/* Icon position */
+#header-extra-div-1 {
+    background-position: left 1.2em top 50px !important;
+}
+
+/* Icon mobile support */
+@media screen and (max-width: 768px) {
+    #header-extra-div-1 {
+        background-position: left 1.2em top 10px !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #header h1 a {
+        font-size: 2rem !important;
+        margin-left: -2.5em;       
+    }
+}
+
+/* News block edit */
+.ck-editor__editable,
+.ck.ck-editor__main,
+textarea,
+input[type="text"],
+input[type="file"],
+.ace_editor,
+.ace_content {
+    color: var(--ink) !important;
+    background: #f7f3e8 !important;
+}
+
+/* Tabview */
+.yui-navset .yui-nav {
+    border-bottom: 5px double var(--ink) !important;
+}
+
+.yui-navset .yui-nav li a {
+    background: var(--paper-tan) !important;
+    border-radius: 6px 6px 0 0;
+    color: var(--ink) !important;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    margin-bottom: 0;
+}
+
+.yui-navset .yui-nav li a:hover {
+    background: #c9bf9f !important;
+}
+
+.yui-navset .yui-nav li.selected a {
+    background: var(--red) !important;
+    color: var(--paper) !important;
+    font-weight: bold;
+}
+
+.yui-navset .yui-content {
+    background: var(--paper-mid);
+    border: none !important;
+    padding: 5px 15px 10px 15px;
+    color: var(--ink);
+}
+
+/* HR */
+hr {
+    border: none;
+    border-top: 1px solid var(--ink);
+    height: 0;
+    margin: 1em 0;
+}
+
+/* Page classes */
+.genre {
+    background: var(--blue);
+    color: var(--paper);
+    padding: 2px 10px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-family: arial;
+}
+
+/* Titled */
+.titled {
+    display: block;
+    text-align: center;
+    font-family: impact;
+    font-size: 5rem;
+}
+
+@media screen and (max-width: 480px) {
+    .titled {
+        font-size: 3.6rem;
+    }
+}
+
+/* Headline */
+.headline {
+    width: 95%;
+    background: var(--red);
+    font-family: 'Playfair Display', Georgia, serif;
+    color: var(--paper);
+    text-align: center;
+    font-size: 1.9rem;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.headlineblue {
+    width: 95%;
+    background: var(--blue);
+    font-family: 'Playfair Display', Georgia, serif;
+    color: var(--paper);
+    text-align: center;
+    font-size: 1.9rem;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 480px) {
+    .headline,
+    .headlineblue {
+        font-size: 1.3rem;
+    }
+}
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+[[span class="genre"]] Feature [[/span]]
+

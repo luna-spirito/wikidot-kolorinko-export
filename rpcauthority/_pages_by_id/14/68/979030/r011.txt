@@ -1,0 +1,1512 @@
+---
+title: "RPC-266"
+tags: ["emotional-hazard", "extra-dimensional-hazard", "psychism", "psychotronic-hazard", "rpc", "site"]
+page_id: "1468979030"
+site: "rpcauthority"
+slug: "rpc-266"
+revision: 11
+revision_id: "1545421955"
+author: 8630580
+timestamp: 1784881095
+---
+
+[[span class="listresize"]]Looking Glass Labyrinth[[/span]]
+[[include :rpcsandbox:mrpines-css-include]]
+
+[[include component:rate]]
+
+[[module CSS]]
+
+@media screen and (max-width: 480px) {
+  .mobile-container {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.stepTabs > div {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.stepTabs .yui-nav { text-align: center; }
+.stepTabs .yui-nav li { display: none; }
+.stepTabs .yui-nav li a { min-height: 25px; }
+.stepTabs .yui-nav .selected + li { display: initial; }
+
+.disco {
+border-radius: 5px;
+padding: 10px;
+background-color: #21242a; }
+
+.razor1 {
+color: black;
+border: 27px solid transparent;
+border-radius: 5px;
+background-image: url(https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Fried);
+padding: 10px;
+background-color: white;
+border-image: url(https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Razor) 30 round; }
+
+.razor {
+color: black;
+border-radius: 5px;
+background-image: url(https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Fried);
+padding: 10px;
+background-color: white;
+
+
+/* tabview */
+
+.yui-navset .yui-content {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    font-size: 11px;
+}
+ 
+:root {
+    --side-tab-width: 18%;
+    --tabview-side-button-hover-background: rgba(0, 0, 0, 0.25);
+}
+ 
+.sideTabview .yui-nav {
+    width: var(--side-tab-width)!important;
+}
+ 
+.sideTabview .yui-content {
+    width: calc(100% - var(--side-tab-width));
+}
+ 
+.sideTabview .yui-navset {
+    background: linear-gradient(
+        to right,
+        var(--tabview-side-tabs-background) var(--side-tab-width),
+        var(--tabview-background) 0
+    ); 
+[[/module]]
+
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image https://rpcsandbox.wdfiles.com/local--files/tester/image.png width="80px"]]
+
+[[=]]
+++ **>> Department of Parapsychology <<**
+[[/=]]
+
+----
+[[=]]
++++ //Etiquette within The Looking Glass Labyrinth//
+[[/=]]
+----
+The file you are about to access describes events, procedures, or items relevant within Site-101. This disclaimer will familiarize you with protocols and traditions unique to the Site.
+
+----
+
+||~ Naming Conventions || 
+
+All personnel directly involved with guarding inmates are given a simplified designation, consisting of their faction and a number.
+
+> GXX: ASF guards.
+> MXX: Protection Division Arrest Units
+> PXX: Shaved Purities
+
+All inmates are designated according to the type of their psychic abilities and cell location.
+
+> Letters describe the abilities, and numbers the location.
+> 
+> **P - Psychokinesis:** Psychic abilities that output a force or modification on physical reality. 
+> 
+> **S - Extra Sensory Perception (ESP):** Psychic abilities that allow the paranormal intake of information.
+> 
+> **E - Empathics:** Psychic abilities that modify the emotional response or perception of sapient subjects. 
+> 
+> **Example:** SE-3/115 can perform ESP and Empathics, incarcerated within the 115th cell of the 3rd prison level.
+
+Referring to designated entities with personal names or aliases poses a severe risk of breach and is **##red|strictly##** prohibited.
+----
+
+||~ The Duchamp Psalm || 
+
+Colloquially known as the **“Song of Grounding”** or **"Resistance Chanting”**
+
+> The Duchamp Psalm is a verbal exercise used to hinder psychics. It was composed by the French artist Marcel Duchamp in the aftermath of WW1. To the tune of //Au clair de la lune//, the psalm features satirical lyrics aiming to ridicule psychics, making heavy use of the pejorative //psitain//. Despite modern trials failing to verify its efficacy, the Duchamp Psalm remains as a traditional practice in West European anti-psychic spheres.
+
+The Duchamp Psalm is considered vital for morale. Committing the Psalm to memory is heavily encouraged.
+----
+[[/div]]
+
+----
+
+[[include :rpcauthority:component:special-box number=266|
+object-class=Alpha|
+lethality-rating=White|
+symbol=alpha-white|
+psychotronic=true|
+extra-dimensional=true|
+emotional=true|]]
+
++++ **Containment Protocols:** 
+Access to RPC-266-QUILL is cleared by Acting Site Director Aliénor Moreau for amendment purposes. At present, RPC-266-LAW’s logical remodeling of Site-101 is beneficial for the imprisonment of psychic threats. There are currently no other facilities capable of the same function. Plans are underway to seize control of RPC-266-LAW from RPC-266-QUILL.
+
+Under the first title of RPC-266-LAW, all Guards assigned to Site-101 are Shaved Purities. These anoetic entities[[footnote]]**Entity Class:** //Anoetic// | Describes paranatural entities lacking full establishment in the mechanical world. Examples include: 
+- A lack of need for sustenance 
+- Limited transportation in spite of adequate mobility 
+- Limited behavioral scope
+- Limited desire for social interaction
+- Limited communicative expression
+- Limited interaction with standard particles
+- Limited qualia generation.[[/footnote]] have occasionally proven abstruse to work with. RPC-266 veterans have therefore compiled a list of common obstacles and workarounds. 
+
+> **IF THE PURITY:**
+> ----
+> - Is stationary for prolonged periods.
+> - Fails to fulfill schedules.
+> - Forgets duties.
+> **THEN:** Read aloud the first title of the Psychic Incarceration Code. The Purity might need a reminder on its current purpose.
+> ----
+> **IF YOU:**
+> ----
+> - Believe the Purity to be exceedingly obtuse.
+> - Feel anxious or apprehensive in the presence of Purities.
+> **THEN:** Communicate clearly without social ambiguity. Attempt empathy. Avoid eye contact. 
+> ----
+> **DO NOT BE ALARMED:** 
+> ----
+> - When you lose track of a Purity behind glass or mirrors.
+> - When disturbed by the Purity's ocular luminance.
+> Purities interact with light eccentrically. This is normal and is not a cause for concern.
+> ----
+> **REMEMBER:**
+> ----
+> - Purities are **__not__** lobotomized.
+> - Purities **__are still__** human beings.
+> - Purities can feel the **__entire__** sensory spectrum, despite not expressing such.
+> ----
+
+Personnel assigned to Site-101 must be briefed on the contents and manifestations of RPC-266-LAW provisions, as well as their variance.  Due to RPC-266-LAW’s effect likely stemming from the usage of Eikon-class VidiCaps, personnel must have taken a course on the technology. A conceptual introduction to VidiCaps, recorded by previous Site Director and Warden Jean-Baptiste de Pontes together with current Acting Director Aliénor Moreau, formatted as a dialogue, is attached below: 
+
+[[collapsible show="[+] De Pontes & Moreau Intro to VidiCaps" hide="[-] De Pontes & Moreau Intro to VidiCaps" hideLocation="both"]]
+> [[=]]
+> **[PLAY AUDIO LOG]**
+> [[/=]]
+> 
+> ----
+> 
+> The VidiCap is a device of liberation. It bends the bars of mind and frees the imagination imprisoned within.
+> 
+> //It expresses qualia, Warden. Don't be so dramatic.//
+> 
+> That’s what I have you for, mademoiselle, and I am grateful.
+> 
+> The VidiCap is a beast of three faces. Three classes: The Paideia, the Sophia, and the Eikon.
+> 
+> //Three mechanisms of qualia-dependent ontostratic manipulation. **Paideia:** Direct memetic-like effect; a gestalt transmission of perception between sapient parties. **Sophia:** Witnessing of facts through the Informational Plane, in opposition to the physical. **Eikon:** Enforcement of thought-forms onto physical reality. All use qualia, the unit of thought, as the effective component.//
+> 
+> //Classes obey the standard model of psychic abilities; Empathics, Extra Sensory Perception, and Psychokinesis, as categorized by the Department of Parapsychology.//
+> 
+> Of course, dear, but have you considered that personnel of Site-101 will have little experience with metaphysics?
+> 
+> //I suppose not.//
+> 
+> I use a particular metaphor, motivated by my time taking Criminology on the Isles. It follows the story of an eccentric murder case. This case has no evidence, or witnesses, nor even counsel, but it does have a suspect, a judge, a jury, and an executioner.
+> 
+> The Judge must //know// the suspect intimately. What the suspect believes, regrets, loves, aspires, so judgment may be just. For this, he may appreciate the Paideia; which flawlessly transmits the suspect’s view of the world, right into the Judge’s mind. The Paideia is a perfect radio that sends not confessions, but dialects qualia.
+> 
+> The Jury must be presented with the facts to reach a fair verdict. The Sophia will take their lust for knowledge and tempt all to satisfy. If they believe that the timeline of events should be listed on the courtroom clock, then so it shall be. The Sophia is a perfect camera that does not create video, but insight. 
+> 
+> The Executioner needs only to fell the axe. The Eikon will make sure, no matter the presence of an iron collar, or the dullness of the blade; that a neck will be cut. The Eikon is a perfect projector that shows not film, but sets the scene. 
+> 
+> How about that, mademoiselle?
+> 
+> //Wow. Will you do appliance now?//
+> 
+> Yes, the unfortunate truth is that the normal man lacks the fuel needed for the VidiCap to reach its true potential. The psitain-
+> 
+> //Psychics.//
+> 
+> …Psychics can recruit qualia. Thieve it from others and make it their own. We are comparatively alone. The Sophia can barely perform dowsing, and you’re lucky to bend a spoon with Eikon.Judiciary units are to record and report drastic changes and updated draft proposals for RPC-266.
+> 
+> //The only viable option is the Paideia. Various inventions utilize it for [http://rpcauthority.wikidot.com/rpc-929 consciousness]-to-[http://rpcauthority.wikidot.com/rpc-279 consciousness] and [http://rpcauthority.wikidot.com/rpc-813 transplanar communication] alike.//
+> 
+> Right, the Paideia needs not much fuel, hence the name //VidiCap//. While recruiting qualia is unrealistic, we can refine it. Polish the idea, trim the fat, make the mindspace more vivid than the real; and then even Sophia and Eikon start giving form to thought.
+> 
+> //There have been attempts of qualia refinement. Only mildly successful. The amount of conceptual reduction required ultimately betrays the original intent.//
+> 
+> Of course. What good is a man who can only imagine a single thing?
+> 
+> ----
+> 
+> [[=]]
+> **[END AUDIO LOG]**
+> [[/=]]
+[[/collapsible]]
+
++++ **Description:**
+RPC-266 is Site-101 and its accompanying anomalous characteristics, manifesting as a result of the RPC-266-QUILL and RPC-266-LAW interplay. 
+
+[[include component:image-block name=https://rpcauthority.wdfiles.com/local--files/rpc-266/Cover|caption=Site-101, 2003. Front cover: Vendin-le-Vieil Penintentiary Center|align=right]]
+
+RPC-266-QUILL is a humanoid anoetic seated at the escritoire in the Warden’s office of Site-101. The bodily apparatus of RPC-266-QUILL is entirely composed of parchment and vellum paper. The white hair, however, is organic, and comprises a full-bottom peruke. The papers are adorned with written text; detailing the personal profiles, investigations, sentences, crimes, and penalties of all the psychics incarcerated at Site-101. RPC-266-QUILL will update this content with general developments accordingly. 
+
+Notably, RPC-266-QUILL can not be mirrored in the reflective surfaces covering the Warden’s Office. It does not respond to any attempted interaction, except for acknowledging given documents and cleaning a gold plated engraving on the front of its desk, if it is tainted. The engraving reads:
+
+> [[=]]
+> This DEAF Judge
+> This BLIND Jury
+> This INNOCENT Executioner
+> 
+> WILL ADMIRE NO EVIL
+> [[/=]]
+
+When unoccupied, RPC-266-QUILL will write on an empty space on its desk. Despite inking the quill, it will not leave any calligraphy on the wood. Observing the penmanship, however, reveals it to align with simultaneous edits of the //Code D'incarcération Psychique//.
+
+RPC-266-LAW, officially known as the Psychic Incarceration Code, is a penal code with causal relationships to the functions of Site-101 originally composed under the previous Site Director and Warden Jean-Baptiste De Pontes. The content of RPC-266-LAW is dynamic, and the frequent editing of its articles results in a continuous metamorphosis of Site-101’s logical conditions. However, not every clause is subject to change, as three main titles have never been modified since the original writing of the Psychic Incarceration Code, even before the manifestation of its anomalous properties. 
+
+The three main titles of RPC-266-LAW have given rise to various conditions characterizing Site-101. Listed in order of ratification:
+> [[=]]
+> **TITLE .1**
+> **The Officers must be immune to the temptations of psychic interference by means of Shaved Purities, to rid capacity for admiration of evil.**
+> 
+> -
+> [[/=]]
+> All Correctional Officers employed at Site-101 will adopt the properties of a Shaved Purity.[[footnote]]An anoetic entity created by the Authority with minor anomalous suppression-related psychic abilities.[[/footnote]]
+> 
+> ----
+> [[=]]
+> **TITLE .2**
+> **The inmates are disbarred from internal social interaction. Looking Glass Isolation limits admiration to the self.**
+> 
+> -
+> [[/=]]
+> All surfaces within Site-101 have a minimum reflectance of 95%. Inmate cells are completely enclosed in mirrors, which show captromanic[[footnote]]The display of imagery on reflective surfaces.[[/footnote]] illusions generally engineered to elicit ego death.
+> 
+> ----
+> 
+> [[=]]
+> **TITLE .3**
+> **The Warden must admire no evil, only reflect the white light of law.**
+> 
+> -
+> [[/=]]
+> Currently unknown. Suspected relation to the manifestation of RPC-266 and the disappearance of previous Site Director/Warden Jean-Baptiste De Pontes.
+> ----
+
+The content of RPC-266-LAW is not absolute. Its clauses can be modified by personnel by presenting well-reasoned legal arguments to RPC-266, reminiscent of a civil law system. Additionally, documents can be handed to the entity as evidential support for the main proposition. Using correct legal terminology and etiquette has been proven to increase the success-rate of amending RPC-266-LAW. This applies only to the smaller provisions; the main titles have never been changed.
+
+RPC-266-LAW’s constant metamorphosis mandates personnel to remain vigilant on the spatiotemporal variances of Site-101 owing to changing architectural statutes.[[footnote]]Anti-emetics are recommended for personnel with risk of motion sickness.[[/footnote]] Judiciary units are to record and report drastic changes and updated draft proposals for RPC-266. Due to its aesthetic and mechanical characteristics, Site-101 is colloquially referred to as the //Looking Glass Labyrinth//.
+
+RPC-266-LAW has, according to researchers, abandoned its previous form of physical documentation written by Site Director Jean-Baptiste De Pontes. It can currently only be accessed through the reflective surfaces of Site-101. Planes with a reflectance of 95% or higher will emit modified images containing RPC-266-LAW content displayed over the mirrored subjects. Personnel have reported slight disorientation due to this effect, which has been exacerbated by the large amounts of reflective surfaces in Site-101 established under the second title of the Psychic Incarceration Code.
+
+----
+
+[[div class="mobile-container"]]
+[[div class="sideTabview"]]
+[[tabview]]
+
+[[tab Discovery]] 
+
++++ **Discovery:**
+On the 2nd of February, 1996 Site-101 underwent a jailbreak by inmate PSE-1/012. It was during this incident that the Psychic Incarceration Code manifested its logic-adjusting properties; remodelling the Site and ultimately suppressing the breach. 
+
+Attached is footage recorded shortly before PSE-1/012 attempted escape, and remains the most recent documentation of the Warden’s office before RPC-266 manifestation. An incident log of the breach is attached as well.
+
+[[/tab]]
+
+[[tab Warden’s Office Log]] 
+++++ Found Footage: Warden's Office Pre-266
++++++ Feb 2nd, 1996
+----
+[[=]]
+**[PLAY VIDEO LOG]**
+[[/=]]
+
+----
+
+**Jean-Baptiste De Pontes:** Don’t forget. 
+
+//[ Warden De Pontes is present inside his office. He hauls a briefcase and slams it over the escritoire. He hisses in deep breaths as he rubs his bloodshot eyes. ]//
+
+**Aliénor Moreau:** ...How was the trip?
+
+**Jean-Baptiste De Pontes:** Insightful.
+
+**Aliénor Moreau:** And how are you feeling?
+
+**Jean-Baptiste De Pontes:** Status report, Maître.
+
+
+**Aliénor Moreau:** //[ Sigh ]// The titles work well. But are controversial. The floor takes issue with the forced dialectics with the Purities. They’re unsettling, and being forced to see through their eyes is simply-
+
+**Jean-Baptiste De Pontes:** The Purities stay. Dialectics is the only way around psychic interference.
+
+**Aliénor Moreau:** I’ll… relay it. But the second title. Why so many in the break rooms?
+
+**Jean-Baptiste De Pontes:** The mirrors. They torture the psitain. They keep your eyes from admiring evil. We need more mirrors, not less, until every surface reflects.
+
+
+**Aliénor Moreau:** This will only alienate your guards.
+
+**Jean-Baptiste De Pontes:** They will obey the Code.
+
+//[ Moreau shuffles. ]//
+
+**Aliénor Moreau:** I’m worried about you.
+
+//[ Silence. De Pontes’ flickers with the briefcase’s latches, troubled by his shaking hands. ]//
+
+**Aliénor Moreau:** I heard you visited Napoleon’s tomb.  
+
+
+**Jean-Baptiste De Pontes:** Yes. All the great lawmakers.
+
+**Aliénor Moreau:** What?
+
+**Jean-Baptiste De Pontes:** Incarcerating the psitain is without pause. //[ He opens the briefcase and extracts various mechanical components, which he organizes neatly on the desk. ]// It wasn’t a leisurely trip, if that’s what you think.
+
+**Aliénor Moreau:** Is that a... Sophia? How do you have that? Have you been witnessing?
+
+**Jean-Baptiste De Pontes:** Drafting. Learning. Taking inspiration.
+
+**Aliénor Moreau:** I-I’m speechless. Only Paideia is allowed outside designated Sites!
+
+**Jean-Baptiste De Pontes:** My arguments will be undisputable.
+
+**Aliénor Moreau:** I can’t believe you! //[ She reaches for a lens, which seems to belong to a VidiCap of Sophia class. ]//
+
+//[ De Pontes squeezes her hand. ]//
+
+**Aliénor Moreau:** This is illegal!
+
+**Jean-Baptiste De Pontes:** Site one-oh-one obeys its own law.
+
+**Aliénor Moreau:** And unjust!
+
+**Jean-Baptiste De Pontes:** Unjust? Let me counter. I read every case, every detail, I get to know my criminal. The book of their lives may very well be written on my skin. //[ The vessels of De Pontes’ eyes bulge up. ]// You are not as intimate with the psitain.
+
+**Aliénor Moreau:** Ow! Let go of my hand!
+
+**Jean-Baptiste De Pontes:** I know them, and I know their crimes. Take PSE one-oh-twelve. The worst of all. Don't I, as Warden, as scholar of his character, as witness to the evidence, reserve the right to exert justice on him as I see fit?!
+
+**Aliénor Moreau:** Breathe! You’re not yourself.
+
+**Jean-Baptiste De Pontes:** You have no rebuttal. The Code stands supreme.
+
+//[ De Pontes’ grip loosens, freeing Moreau. ]//
+
+**Aliénor Moreau:** What's wrong with you?!
+
+**Jean-Baptiste De Pontes:** Get out.
+
+//[ Moreau stands silently for a moment. ]//
+
+**Aliénor Moreau:** What happened to //admire no evil//?
+
+//[ Moreau turns around to exit the office. De Pontes relaxes his face in a solemn expression before leaving the frame. ]//
+
+----
+
+[[=]]
+**[END VIDEO LOG]**
+[[/=]]
+[[/tab]] 
+
+
+[[tab PSE-1/012 Escape Attempt]] 
+
+++++ Incident: PSE-1/012 Escape Attempt
++++++ Feb 2nd, 1996
+----
+[[div class="disco"]]
+
+[[=]]
+**[PLAY VIDEO LOG]**
+[[/=]]
+
+----
+
+19:21
+
+Warden Jean-Baptiste De Pontes returns to Site-101 through the Administrative entrance. He is greeted by Secretary Aliénor Moreau, before they retire to his office. 
+
+Guards patrol the PSE holding wing in groups of four as per the Double Buddy System. ASF Officer signifier G31, part of the 3rd Radian group, stops chanting the Duchamp Psalm. He becomes verbally critical of the background psychic interference, with proclamations as: //I can’t think - Won’t they give it up? - If anyone deserves the death penalty, it’s the psitain.// The other members of the 3rd Radian group urge G31 to continue the psalm. G31 ignores this request, insisting on the irritation of the interference. 
+
+G31 clutches his chest, takes shallow and rapid breaths, shakes in tremors, and experiences other symptoms of an anxiety attack. The 3rd Radian calls in a medical emergency, before G31 shouts: //I am wretched! I indulge in the cold, despicable shadow of shadows! Sin under the Umbral Bulb!// G31 is gagged as part of the Empathic Breach protocol.[[footnote]]Usage of unique personal identifiers within Site-101 is not allowed; inmate designators are kept functionally minimal. G31’s mention of PSE-1/012’s previous alias, the //Umbral Bulb//, suggested him to be under the influence of empathics, and triggered a rapid suppression response.[[/footnote]] He is transported to the Monitoring Quarters of the PSE wing, where the Site’s Purities oversee the inmates.
+
+The 3rd Radian consults the dialectic schedule, revealing that G31 has failed to perform the bihourly dialectic. The group recruits a female Purity and prepares a Paideia class VidiCap for emergency dialectics with G31. Upon attaching the VidiCap to the Purity, and removing the gag to apply the dialectic phones to G31, he protests: //No dialectics! I’m no damn vegetable! Get her off me!// G31 pushes the Purity away. She stumbles back, before returning to inmate monitoring. Secretary Aliénor Moreau enters, asking about the commotion. 
+
+As the 3rd Radian holds G31 in front of the Site-101 mirror, still attempting to convince him of dialectics, an alarm blares throughout the PSE wing - triggered by the escape of PSE-1/012. Response teams head to cell 12, but PSE-1/012 can not be found. A series of anxiety attacks afflict the responding guards, save for the few Purities. 
+
+Personnel gather within the Monitoring Quarters to perform dialectics with the Purities. However, most of the Purities have exited to suppress the breach. The entrances to the Monitoring Quarters are shut. Personnel look into the mirrors and chant the Duchamp Psalm, except for the remaining Purities.[[footnote]]Shaved Purities do not generate optic reflections of their persons, and therefore have no use for the mirrors.[[/footnote]] The synchronized Psalm devolves into a panicked din as the enclosure is overtaken by a sudden darkness. A verbal proclamation can be heard:
+
+> //Watch, Warden. Be eaten by your shadows.//
+
+Among the noise can be heard prayers, pleas for forgiveness, and various self-deprecating appeals. Most of the room is hardly visible, save by the illumination of the Purities’ ocular luminance.[[footnote]]Shaved Purities emit a faint, white light from the aqueous humor.[[/footnote]] Personnel can be seen physically assaulting each other, apparently searching for PSE-1/012.
+
+RPC-266-LAW manifests. The mirrors of Site-101 display the first title:
+
+[[=]]
+> ++++ **TITLE .1**
+> 
+> The Officers must be immune to the temptations of psychic interference by means of Shaved Purities, to rid capacity for admiration of evil.
+[[/=]]
+
+Multiple sources of light begin to radiate inside the enclosure. The gathered guards silence and begin emitting ocular luminance. The rays are at first moving chaotically, before stabilizing and centering on the same location; revealing PSE-1/012.
+
+[[=]]
+> ++++ **TITLE .2**
+> 
+> The inmates can not be allowed social interaction with each other. Looking Glass isolation limits admiration to the self.
+[[/=]]
+
+The mirrors of Site-101 duplicate and cover the walls. Pillars, doors, keyboards, monitors and most appliances within Site-101 are transfigured to be composed of more reflective materials such as silver, aluminum, mercury, BoPET, and gold. The darkness covering the room recedes as RPC-266-LAW propagates to every surface. The only individuals visible in the reflections are PSE-1/012 and Aliénor Moreau. 
+
+[[=]]
+> ++++ **TITLE .3**
+> 
+> The Warden must admire no evil, only reflect the white light of law.
+[[/=]]
+
+PSE-1/012 dives towards the shadow of a nearby pillar, and groans as he hits the ground. He takes a hold of the shadow and attempts to expand it, however only managing a small stretch. The Purities surround him.
+
+>  //Fuck.//
+
+PSE-1/012 is beaten, restrained, and carried back to cell 12 of the PSE holding wing.
+
+----
+
+[[=]]
+**[END VIDEO LOG]**
+[[/=]]
+
+[[/div]]
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+[[/div]]
+
+----
+
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[=image https://rpcsandbox.wdfiles.com/local--files/tester/image.png width="80px"]]
+
+[[=]]
+++ **>> Department of Parapsychology <<**
+[[/=]]
+
+----
+[[=]]
+//Chronicle of Site-101// - Dr. Jean-Baptiste De Pontes 
+[[/=]]
+----
+[[=]]
++ HISTORY
+[[/=]]
+----
+
+The Directorate of Supernatural Defense traces its beginnings to the Catholic magistrates of the 16th century. There was no formal understanding of psychics, and no distinction between them and practitioners of the occult arts. Nostradamus, for example, was not so much as persecuted for his futuretouching almanacs, due to the lack of strict evidence for the explicit, well-defined craft of magic. 
+
+The witches of the northern trials, however, were not spared. Many accounts describe eye-witnesses of the impossible, but no clear occult circle or script to back it up. These trials set the foundation for official, organized lawkeeping units of the Church.
+
+The French Revolution temporarily castrated this force, until Napoleon Bonaparte’s supernatural [http://rpcauthority.wikidot.com/the-history-of-monarch-security Légion Fantôme], with their unprecedentedly preserved sources. In between the Napoleonic wars, the Legion would nourish their numbers with yet more members of the anomalous. Those who refused their offer - which we today know would fit the profile of the stereotypical egocentric psychic - were arrested, starved, and reconditioned to heed orders. 
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/looking-glass-labyrinth/Escape|caption=//The Witch No.1// — Joseph E. Baker, 1892, in respect to the “mystical powers” that prohibited incarceration of certain occultists, today known as psychics.|align=right]]
+
+Failure defines this pursuit. Reports describe that certain magicmen grew more able, more intelligent, more magnificent; more powerful specifically //after// capture. Every escape left a prison camp in cinders, or an oubliette collapsed. These we today know would be psychics under the disguise of thaumaturgy.
+
+The Legion could not understand these uncontainable entities, and its post-Bonaparte successor, the //Direction de la Défense Surnaturelle//, struggled similarly against the combat psychics employed by the Central Powers and Third Reich across both World Wars. The trauma which the French population suffered at the hands of psychics cemented anti-psychic sentiment, and various groups rose to further persecute psychics.
+
+----
+[[=]]
++ THE PROBLEM
+[[/=]]
+----
+
+Most of these groups, save for [http://rpcauthority.wikidot.com/academy-hub  one exception], have totally failed. This is due to a fundamental misunderstanding. Psychics, as the Directorate of Supernatural Defense now knows, thrive on attention. The more influence a psychic gathers, the more powerful they grow. The substance known as qualia, they steal as their own. Take Nostradamus, The Feuerpest, even Starmother of Baraize: all icons of influence.
+
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Admire|caption=A popular show.|align=left]]
+
+We need to understand the allure of evil. The superstitious rants of the witch trials, the public executions under the Reign of Terror, //Le génie du mal//, all of De Sade’s debauchery; evil is given our entire being, and all the space available in our heads. We give qualia out as candy, and criminals are not satisfied with only what’s free.
+
+Every historical attempt to incarcerate the psychic falls for the same trap. Elongated and theatrical trials, records describing crime in detail, guards whose sole purpose is to know and confront the prisoner; we may as well pull it out of our skulls and donate qualia directly.
+
+----
+[[=]]
++ MY SOLUTION
+[[/=]]
+----
+
+After the merging of the Directorate of Supernatural Defense with the Authority, I will with the position of Chief of Psychic Engagement overturn the psychic monopoly on qualia, and fundamentally change the meaning of justice. 
+
+The Authority has access to an underutilized tool; the VidiCap. With it, normal men are able to exert the psychic abilities of psychokinesis, extra-sensory perception, and empathics, under the model classes of //Eikon//, //Sophia//, and //Paideia//, respectively. This technology, primarily the Paideia, has already been applied to various inventions allowing consciousness-to-consciousness and even trans-dimensional communication over planes of existence. I suggest we use it to fight fire with fire.
+
+Subscribe not to psychic supremacy. Wonder lies only within the human spirit; psychics are naught but the pitiful result of excessive vanity. With VidiCaps, eyes will be opened to internal potential, and the allure of exclusivity may finally be detached from the psitain. 
+
+I have a vision: a failed Directorate Prison, remade into an impenetrable dungeon. It will hold only the most despicable of psitains, only the aggressors for whom the [http://rpcauthority.wikidot.com/a-comprehensive-review-of-psychics-parapsychology-semi-novel 3IU] is too slow and indirect. Here, justice will be truly ideal. Psitains will feed off no good-will, and off no hate - for there will be no judgement, no jury, no executioner, and certainly no admiration of evil.
+
+This lies in your hands, Board of Directors. I am no psitain; my qualia is bound to myself. Only together can this vision be made into a reality.
+
+----
+
+[[=]]
+- Letter of Application by Jean-Baptiste De Pontes to the Board of Directors, 1989
+[[/=]]
+[[/div]]
+
+----
+
+Editing rights for the rest of the documents is reserved to Acting Site-101 Director Aliénor Moreau. The Acting Director has reserved this space to collect evidence to compose a legal criticism of character to RPC-266, with the aim of seizing control over RPC-266-LAW editing rights. The main concern is the first title, which has rendered the Site’s officers to anoetic entities. 
+
+Site-101 personnel may access this compilation of exhibits to familiarize themselves with the relevance and manifestation of RPC-266-LAW’s main titles.  
+
+> I would like to say to all the friends of Site-101’s officers that I’m currently in the process of collecting materials to hopefully remove RPC-266-LAW. For the time being, they are being cared for in the Purity Housing Quarters outside of work hours. We simply can not survive by letting them go. 
+> 
+> I’d like to ask those of you who are close to the victims' families to stay present for them. The Office of Human Resources has prepared various scripts to explain the victims’ absence. You may request these and review the most applicable option. Let’s keep amnestics as a last resort.
+> 
+> The OIRS has agreed to keep this file viewable for you to follow my progress. I will do my best to get them back. All of them.
+> 
+> [[=]]
+> //- Aliénor Moreau//
+> [[/=]]
+
+----
+[[div class="mobile-container"]]
+[[div class="sideTabview"]]
+[[tabview]]
+
+[[tab Exhibit A]] 
++++ Exhibit A: RPC-266-LAW/T1
++++++ Attachment A.1: 
+**Item Description:** A ring binder used by Jean-Baptiste De Pontes for notekeeping and collecting documents. Selected excerpt dates to the 12th of December, 1989, one month after Site-101 started operations.
+
+[[collapsible show="[+] Exhibit A.1" hide="[-] Exhibit A.1" hideLocation="both"]]
+[[div class="mobile-container"]]
+[[div class="disco"]]
+__//Week 4.//__
+//The psitain emits a constant stream of whining. Every time I walk through a wing I’m bombarded by incessant attempts to tempt me, especially by empathics. Simply the nature of the psitain, I suppose. I will call this phenomenon: psychic interference.//
+
+//It has already caused numerous incidents. It was never going to be easy. I need to minimize them before the shift of the quarter.//
+
+@@@@
+
+> **INCIDENT LOG: PSE-1/012 MISDEMEANOR #7**
+> 
+> ----
+> 
+> [[=]]
+> **[BEGIN VIDEO LOG]**
+> [[/=]]
+> 
+> //[ ASF Officer G159 is delivering a meal to cell 12 in the PSE holding wing. He spits on the bread before sliding the tray in the delivery hatch. ]//
+> 
+> **G159:** Enjoy.
+> 
+> //[ G159 turns to exit. He looks back at the cell, noticing PSE-1/012’s malnourished arms resting between the detention grilles. The tray remains untouched inside the locker. ]//
+> 
+> **G159:** You’re only human.
+> 
+> //[ PSE-1/012 begins tapping a 2-note rhythm on the iron. The grillwork marks an optic edge; anything beyond it being completely dark. The penumbra, running over PSE-1/012’s arms, is impossibly sharp in contrast to the brightly lit environment.[[footnote]]Cell 12’s surroundings  are illuminated with ultrabright to counteract PSE-1/012’s umbrakinetic abilities.[[/footnote]] ]//
+> 
+> **G159:** Pull back your arms. 
+> 
+> //[ PSE-1/012 continues tapping the metal. He mumbles in a low tone - which soon grows into an ingressive chanting of the Duchamp Psalm. ]//
+> 
+> //[ G159 stands still for a moment. ]//
+> 
+> **G159:** You think you’re clever, don’t you?
+> 
+> **PSE-1/012:** //He doesn’t have his qu-ill, he will not write a word. The tired o-ld psi- tain, retire from the wo-//
+> 
+> //[ G159 pulls PSE-1/012’s arm, slamming him against the bars. He holds the inmate’s head still. ]//
+> 
+> **G159:** I’ll drag you through this metal like a fucking strainer. Taste of  your own medicine.
+> 
+> //[ G82 and G67 enter the room and inquire about the commotion. They convince G159 to let go of the inmate. ]//
+> 
+> **G159:** I know. I’m sorry.
+> 
+> //[ PSE-1/012 pulls back into the darkness. ]//
+> 
+> **PSE-1/012:** Don’t be. I deserve it.
+> 
+> //[ PSE-1/012’s fist emerges near the floor. It rests on G159’s shadow before extending all fingers, expanding the shadow’s surface area. ]//
+> 
+> //[ G159 hops back. He breathes superficially, holds his stomach and shakes in tremor. ]//
+> 
+> **G159:** I- I fucked up. I didn’t… I not mean it. Sin under the- the- no… the Umbra- 
+> 
+> //[ G159’s mouth is covered by his colleagues. They drag him out of the room. ]//
+> 
+> **PSE-1/012:** No, please- loathe me.
+> 
+> ----
+> 
+> [[=]]
+> **[END VIDEO LOG]**
+> [[/=]]
+
+@@@@
+
+//The French man is too passionate; he can not fulfill my vision. I need an officer of law who --will-- can not grant judgement, even to the most grievous offenders, even after days of interference. Whom?//
+
+@@@@
+
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+[[=]]
+++ **THE MEMORY WAX PROJECT**
+[[/=]]
+----
+++++ **Involved Departments:** 
+VIDERICS DEPARTMENT; PSYCHOLOGY DEPARTMENT, ANTIMEMETIC DEPARTMENT
+
+++++ **Location:** 
+Viderics R&D Wing, Site-074
+
+++++ **Project Aim:** 
+Synthesis of artificial psychism in a theoretical anoetic termed //Shaved Purity//.
+----
+
++++ **ABSTRACT**
+Historical attempts to create artificial psychics have made use of mundane, ill-prepared individuals; often leading to mentally disturbed and unreliable results. The Memory Wax project will use a dual phase novel method. Participants will first undergo a standard procedure to eliminate prior life experiences, dubbed qualia extermination, producing an anoetic entity termed the //Shaved Purity//. The second phase will synthesize psychism in the prepared participant using the [http://rpcauthority.wikidot.com/rpc-675 Hemi-Sync] technique. 
+
++++ **HYPOTHESIS**
+Simple amnestics can not be used to induce qualia extermination before tolerance is reached. There will be memories, dubbed axioms, that can not be removed. It has been shown that a subject amnesticized down to the axioms is prone to create bizarre, absurd memories to substitute missing associations.
+
+It is hypothesized that by using the perception modulating properties of videric substances, new networks can be created to associate with the axiomal engrams. These new memories can again be targeted with amnestics, gradually removing the axioms with each repetition. By reaching the status of a Shaved Purity, it is predicted that the subject can redevelop qualia at a healthy, psychic-aligned pace; guaranteeing qualia refinement.
+
++++ **PARTICIPANTS**
+C&D Resources has rejected the usage of CSD subjects. Participants are to be volunteers.
+
+----
+
++++ **METHODS**
+
+> **1** - Intubate the subject.
+> 
+> **2** - Alternating dosages of videric and amnestic substances. Begin with strong amnestics, double the first dosage of the standard long-term regimen until steady state.
+> 
+> **3** - Once amnestic tolerance has developed, administer a videric compound gaseously, equivalent to the previous amnestic amount. 
+> 
+> **4** - Activate the participants' higher processing faculties to increase videric potency. The following can be used: 
+> ----
+> Films
+> 
+> Loud reading
+> 
+> Music
+> 
+> Paintings
+> 
+> Items of personal significance
+> 
+> Items of familiar significance
+> ----
+> Items can be requested by the participant.
+> 
+> **5** - Repeat 2-4 until arrest of automatic respiration, indicating qualia extermination.
+> 
+> **6** - In order to preserve vital axioms, administer minimum viderics intravenously until manual respiration can be safely concluded. 
+> 
+> **7** - Execute the Hemi-Sync procedure.
+
+----
+
++++ **RESULTS**
+Successes: Participants have obtained completely identical psychokinetic and ESP abilities. They manifest as distortions in the interaction with light.
+
+**ESP:**
+Shaved Purities experience sight through emission of light, instead of intromission. 
+
+**Psychokinesis:**
+1. Shaved Purities can only be observed through direct capture of light; being invisible when viewed through a reflective or transparent surface, unless said surface is a lens.
+
+2. Minor suppression of anomalous items/persons within the Purity’s field of vision.
+
+
++++ **CONCLUSION**
+Reconditioning of the Shaved Purities has proven more difficult than anticipated. Despite 4 months of rehabilitation, only 35% of the set has regained basic motor function. The lack of discretion, agency, and general dexterity makes them unfit for any Authority post. 
+
+The Site-074 humanoid containment wing will be renovated as a caring facility for the participants. The Office of Human Resources has been commissioned to produce cover stories for relatives.
+
+The Memory Wax Project is deemed a failure.
+[[/div]]
+
+@@@@
+
+//It is perfect. We get closer, Cecilia.//
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+----
+
++++++ Attachment A.2: 
+**Item Description:** A videotape recorded by Aliénor Moreau depicting an interaction with Jean-Baptiste De Pontes shortly before the implementation of the Psychic Incarceration Code’s first title.
+
+[[collapsible show="[+] Exhibit A.2" hide="[-] Exhibit A.2" hideLocation="both"]]
+> [[=]]
+> **[BEGIN VISUAL TRANSCRIPT EXCERPT]**
+> [[/=]]
+> 
+> ----
+> 
+> //[ Moreau navigates the Site-101 correctional facilities. She passes the units of the primary hall, the Ludovico chambers,[[footnote]]**The Ludovico technique:** 
+Complementary treatment.
+
+**//Mechanism://**
+Classical conditioning of the psychic to associate pain in others with internal anguish.
+
+**//Indications://**
+Empathy deficit disorder
+
+Psychopathy
+
+Masochism
+
+**//Complications://**
+Reinforcement of indicated disorder (mildly rare, 10%)
+
+Leaking effect on attending personnel (common, >50%)
+[[/footnote]] the DMN-NDB Stimulators,[[footnote]]**Default Mode Network - Negative Deep Brain Stimulation:**
+
+Complementary treatment.
+
+**//Mechanism://**
+Deactivation of the default mode network; the neuronal area associated with the sense of self.
+
+**//Indications://**
+Megalomania
+
+Narcissism
+
+Positive Psychosis
+
+**//Complications://**
+Damage to primary impulse inhibition cortex, causing uncontrollable and chaotic psychic influence. (rare, >5%)
+[[/footnote]] and the amnestization ward,[[footnote]]**Amnestization:**
+
+Standard treatment.
+
+**//Mechanism://**
+Removal of memories related to the psychics’ abilities.
+
+**//Indications://** 
+Standard regimen for all incarcerated psychics.
+
+**//Complications://**
+Amnestic tolerance (guaranteed, 100%)
+
+An accelerated rate of reconsolidation has been observed in psychics, often leading to increasingly bizarre memories. Amnestizication must therefore be repeated on a weekly regimen.
+
+[[/footnote]] before reaching a room resigned at the back end of the facility. ASF P3 stands guarding the door. ]// 
+> 
+> **Aliénor Moreau:** I was called.
+> 
+> //[ Moreau covers her eyes against P3’s ocular illumination. ]//
+> 
+> **P3:** By whom, at which location, at what time, and for what purpose?
+> 
+> **Aliénor Moreau:** What?
+> 
+> //[ P3 clears his throat and speaks louder. ]//
+> 
+> **P3:** By whom, at which location, a-
+> 
+> **Aliénor Moreau:** Warden, here, now, //[ Sigh ]// I don’t know.
+> 
+> **P3:** Please wait. 
+> 
+> //[ P3 peaks inside the room before signaling to Moreau to proceed. ]//
+> 
+> //[ Warden De Pontes is hunched over writing in a notebook. He is listening to the output of a Paideia, which is in turn reading off of a restrained PSE-1/012. ASF P1 is sitting idly beside De Pontes, before alerting him to Moreau’s presence. ]//
+> 
+> **Jean-Baptiste De Pontes:** Oh! Welcome, mademoiselle. Give me a second. There. 
+> 
+> **Aliénor Moreau:** Warden - what is this?
+> 
+> **Jean-Baptiste De Pontes:** Have you not read the memo? They’re the new guards. 
+> 
+> **Aliénor Moreau:** No- I mean why is one-oh-twelve out of his ce-
+> 
+> **PSE-1/012:** //your sh-adow -is… the-the-the true you-ou-ou//
+> 
+> //[ PSE-1/012 is bobbing his head. His eyes are open slightly in a slit. His body twitches periodically. Low, nonsensical vocalizations are murmured consistently. His eyes are moving rapidly in sporadic directions. ]//
+> 
+> **Aliénor Moreau:** Why is he like that?
+> 
+> **Jean-Baptiste De Pontes:** I’ll explain that. But first I need your opinion. 
+> 
+> //[ De Pontes hands her the dialectic phones. ]//
+> 
+> **Jean-Baptiste De Pontes:** We’ve had a number of incidents, and it’s just a matter of time before they turn fatal. Yes, Purities help a bit, but I’ve found another use for them. Okay, wear the phones.
+> 
+> //[ Moreau glances at the bobbing PSE-1/012, with the receiver attached nasoorally. ]//
+> 
+> **Aliénor Moreau:** Alright. 
+> 
+> //[ She applies the dialectic phones. ]//
+> 
+> **Jean-Baptiste De Pontes:** Brace yourself. You’ll see what he sees.
+> 
+> **Aliénor Moreau:** I’m braced. I’m- hm.
+> 
+> //[ Moreau begins to tap her foot. Numerous sweat drops travel her down her face. ]//
+> 
+> **Aliénor Moreau:** What’s the point of this?
+> 
+> **Jean-Baptiste De Pontes:** Keep it on. 
+> 
+> //[ De Pontes shuffles through a sheaf of papers. He extracts two documents; one being a case file on PSE-1/012, and the other an image of a family of four. ]//
+> 
+> **Jean-Baptiste De Pontes:** A town named Geneva. A faithful congregation. Complaints of confession. A shadowing shine.
+> 
+> //[ PSE-1/012 begins to smile. ]//
+> 
+> **PSE-1/012:** Yes, yes… precious… they were…
+> 
+> //[ Moreau grits her teeth. ]//
+> 
+> **Aliénor Moreau:** What- what is wrong with him?
+> 
+> //[ De Pontes tugs at an intravenous catheter attached to PSE-1-012’s elbow pit. ]//
+> 
+> **Jean-Baptiste De Pontes:** I’m keeping him in perpetual hypnagogia and hypnopompia.[[footnote]]The states from wakefulness to sleep and vice versa.[[/footnote]] Some try to… think lies during dialectics and manipulate the reading. This state makes their thoughts... more honest, I suppose.
+> 
+> **Aliénor Moreau:** ...hon-est?
+> 
+> **Jean-Baptiste De Pontes:** Combined with a bid of videric, for good measure.
+> 
+> //[ De Pontes lifts the image to PSE-1/012’s eyes. ]//
+> 
+> **Jean-Baptiste De Pontes:** Cecilia.
+> 
+> **PSE-1/012:** Ceci-Ponti...  my best...  I remember...  her shadow was the pures- no, she wasn’t innocent- she was the sweetest, to m-me-
+> 
+> //[ Moreau rips out the phones. She recedes to vomit in the room’s edge. ]//
+> 
+> **Aliénor Moreau:** She- she was just a-
+> 
+> //[ De Pontes detaches the VidiCap from PSE-1/012, applying the nasooral receiver to P1 instead. ]//
+> 
+> **Aliénor Moreau:** You’re scum... you don’t have the right to breathe you- Jean! Why did you make me see that- 
+> 
+> //[ De Pontes picks up the phones. ]//
+> 
+> **Aliénor Moreau:** I- I can’t I, it’s sin! We’re all sin under the Umbra-
+> 
+> //[ De Pontes plugs the phones to Moreau. She goes quiet and tenses up. ]//
+> 
+> **Jean-Baptiste De Pontes:** How does it feel now?
+> 
+> //[ Silence. De Pontes waves his hand in front of Moreau’s face. ]//
+> 
+> **Aliénor Moreau:** It... doesn’t. 
+> 
+> //[ Moreau detaches the phones. ]//
+> 
+> **Aliénor Moreau:** Jean… I'm sorry… I-... how old were you two?
+> 
+> //[ Silence. ]//
+> 
+> **Jean-Baptiste De Pontes:** Let’s focus on the job. 
+> 
+> //[ Silence. ]//
+> 
+> **Aliénor Moreau:** This is your plan? Dialectics?
+> 
+> **Jean-Baptiste De Pontes:** Yes. Dialectics with the Shaved to get their… Purity, albeit temporarily. I’m writing a chronicle, or maybe a guideline on how to imprison the psitain. This will be the primary title. What do you think?
+> 
+> **Aliénor Moreau:** I- I don’t know. I’m sorry, I’m still a bit...
+> 
+> **Jean-Baptiste De Pontes:** That’s alright. We’ll talk later. 
+> 
+> //[ Moreau approaches the exit. She turns to look at De Pontes, who has reapplied the Paideia to PSE-1/012. ]//
+> 
+> **Aliénor Moreau:** How can you handle hearing it? Especially with… him?
+> 
+> //[ Silence. ]//
+> 
+> **Jean-Baptiste De Pontes:** I must understand.
+> 
+> //[ Moreau nods and leaves. ]//
+> 
+> ----
+> 
+> [[=]]
+> **[END VISUAL TRANSCRIPT EXCERPT]**
+> [[/=]]
+[[/collapsible]]
+
+[[/tab]]
+
+[[tab Exhibit B]]
+
++++ Exhibit B: RPC-266-LAW/T2
++++++ Attachment B.1: 
+**Item Description:** An audio cassete recorded by Jean-Baptiste De Pontes, shortly before implementation of the Psychic Incarceration Code’s second title. The label reads: //Meeting 49//.
+
+[[collapsible show="[+] Exhibit B.1" hide="[-] Exhibit B.1" hideLocation="both"]]
+> [[=]]
+> **[BEGIN AUDIO LOG]**
+> [[/=]]
+> ----
+> 
+> //Hello, dear Mother. Hello, dear Father. Hello, little Cecilia. I don’t know. I don’t. The incidents are picking up again.//
+> 
+> //The Paideia put me in their shoes. I have felt how it is to murder, to rape, to plunder, but I do not **understand** it. I must know what evil is, I must undress it, touch it, strip it of all allure, reveal it for the banality it is. Will it be enough?//
+> 
+> //They’ve started talking to each other.//
+> 
+> //First to the walls, to the light, the dust, the insects, the shadows, whatever, really, depending on the psitain. I figured using a Paideia on one of them. And then I could see it.//
+> 
+> //The cunning bastards had created a stage of evil. Their own telepathic telegram to flaunt debauchery. Tell each other, show each other horrible things; like it was… girly gossip. Admire and boast and insult and degrade and elevate. Qualia not from the guards, but from their peers. Audiences- they find audiences, always, even in their own scum and shit.//
+> 
+> //Not enough, nowhere near. Stop not only judgement, but remove the jury too. How, though? There aren't not enough prisons. Not enough purities. Not enough friends. Dialectics is insufficient.//
+> 
+> //Ah, it's fading; our vision, our justice. No. I won’t let it escape me. I need inspiration.//
+> 
+> //I think of you, Cecilia, how you’d compare bows in the mirror, under the light of the morning sun. Ha. I remember watching you and your girls playing Chat Perche in the bourbon yard. They were jealous of the pink one with roses, the gift from Mom. I overheard them bickering about it, so they pushed too hard. You didn’t notice their intent, busying yourself with that little crocheted pocket mirror and dusting off the mud. Too innocent to fathom envy, am I right? I wish I could watch you prettying up in the mirror again. Animosity is all I watch these days. Hm.//
+> 
+> //Oh my. Yes- yes! Thank you, Cecilia, thank you. I know! If the psitain want to admire evil - let them do so from **within** the looking glass!//
+> 
+> ----
+> [[=]]
+> **[END AUDIO LOG]**
+> [[/=]]
+[[/collapsible]]
+
+----
+
++++++ Attachment B.2: 
+**Item Description:** A Paideia Package[[footnote]]**VidiCaptures:** Delayed and imitated VidiCap output.  Paideia Packages manifest as a custom memetic script in written, visual or auditory syntax inducing a replicate of the original perception in the consumer. The signal is additionally resilient enough to be packaged into forms fit for inter-dimensional communication, for example through the infoplane. 
+
+Paideia Packages, unlike direct dialectics, are not transmissions of qualia. Captures are therefore unfit for the purposes of the Code’s first title.[[/footnote]] from the perception of Officer Oliver Qvist, officially known as P1. It is set during a test of the Looking Labyrinth; a specialized isolation unit for particularly abrasive psychics, designed by Jean-Baptiste De Pontes. The Warden personally selected PSE-1/012 as premier subject.
+
+[[collapsible show="[+] Exhibit B.2" hide="[-] Exhibit B.2" hideLocation="both"]]
+[[div class="mobile-container"]]
+[[div class="razor1"]]
+Twenty-five minutes. The enclosure measures a symmetrical eight cubic meters. The Inmate is resigned comatose in the northeastern corner. His eyes flutter. Twenty-six minutes. The analgesic wears off.
+
+The Inmate moans himself out of sleep. He balances himself in the center of the unit. Where? When? What? Who? - expected inquiries. Unconfirmed — I can't say — as I lack access, unlike your access to me. 
+
+He places his hand on the wall in my direction. I see his palm. He does not see me. The cube is made of metalized BoPET. Reflectance supersedes ninety-nine percent.  The Inmate admires the kaleidoscope of his own reflection. He smiles for a moment.
+
+[[=]]
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Kaleidoscope|align=center]]
+//A Labyrinth of Looking Glass//
+[[/=]]
+
+Seven minutes pass. He sits with his eyes closed. A sign of rebellion. //Whose genius idea is this?// he says. He can not be speaking to me. He can not see me. There is the risk of my ocular luminance penetrating the glass, but that can not be confirmed. //It’s that Warden, isn’t it? Hides his shadow between mirrors and retarded guards?//
+
+**The Officers must be immune to the temptations of psychic interference by means of Shaved Purities, to rid capacity for admiration of evil.** My order is not to be intellectually disabled.
+
+//How do I sleep?// Available. //Shit?// N/A. //Piss?// Automatic microsprinkler flushing system.
+
+//Eat?// As per a schedule set to maximize energy efficiency. Feeding is now. The superior mirror plate shifts to the north. Fifteen glucose and amino acid pills fall into the unit. The Inmate picks them up, smiles again, and delays the consumption of three. They will be consumed, as the energy amount is precisely calculated to prohibit reserve buildup. //Is that all?// 
+
+Two hours pass. //Guard. Would you like to live in heaven? Extinguish the light. Heaven’s bulb will glow.// 
+
+Another hour passes. The Inmate bites his right arm. The skin bleeds easily. The Inmate stains the eastern mirror plate with the blood. He keeps his eyes on the red, away from the reflections. This is a sign of success. The microsprinklers wash the mirror. The Inmate licks the wall, but spits the water. It is laced with bitter stimulants.
+
+Thirty-three minutes pass. Feeding commences. The Inmate attempts to crack the mirrors. He cracks himself. Tempered glass coating.
+
+Five hours pass. Feeding commences. Calorie steady state has been reached. Bleeding privileges revoked. 
+
+Fifteen hours pass. The Inmate has slept and awoken twelve times. The Inmate admires himself in the mirrors. //What is this?// He begins knocking on the planes, stopping in front of me at the hollow dunk. //I can make your shadows good to you.//
+
+The Inmate has turned to temptation. But I am immune to boredom. I am an Officer of the First Title. I leave no shadows. I am memory shaven.
+
+[[=]]
+They showed me all things. All ideas. All realities.
+Then they took every recollection.
+They showed me all persons. All woes. All colors.
+Then they took every sensation.
+What remains, but a silent, white light?
+[[/=]]
+
+1 hour passes. //Can you hear me?// The Guards will not judge you. Your friends will make no jury for you. You will be forgotten, among the many things I have forgotten.
+
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Labyrinth|align=center]]
+
+Twenty-six hours pass. Metabolism has slowed. The gastrointestinal canal is atrophying. Spatial awareness is lost. The Inmate repeatedly bumps into the mirrors. Proprioception is lacking. Self-identification is deteriorating. //What is the point of this?//
+
+There are many different terms. Ego death. Loss of self. Jungian perspective names it psychic death, fittingly. The Warden has taken to an extended moniker: **The inmates are disbarred from internal social interaction. Looking Glass Isolation limits admiration to the self.** 
+
+//Where am I. Where are they.//
+
+If not the self, and if not the other - what to find, in a Labyrinth of Looking Glass? 
+
+ //Where are you, Warden?//
+
+Testing deemed successful. Effect is confirmed. The Warden shall know.
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+[[/tab]]
+
+[[tab Exhibit C]]
+
++++ Exhibit C: RPC-266-LAW/T3
++++++ Attachment C.1: 
+**Item Description:** An audio tape depicting Jean-Baptiste De Pontes’ psychotherapeutic conversation with Psychic Profiler Louise Jade,[[footnote]]Psychic Profiling is a service offered by the Department of Parapsychology for evaluating and understanding psychics of interest’s abilities, history, and modus operandi. While versed in psychoanalysis, profilers are not trained in psychotherapy.[[/footnote]] dating to 40 days prior to RPC-266’s manifestation. 
+
+[[collapsible show="[+] Exhibit C.1" hide="[-] Exhibit C.1" hideLocation="both"]]
+> [[=]]
+> **[PLAY AUDIO LOG]**
+> [[/=]]
+> 
+> ----
+> 
+> It’s hard to talk about. 
+> 
+> //...//
+> 
+> I think, I think this would go smoother with a Paideia.
+> 
+> //A Paideia?//
+> 
+> Yes. Direct dialectics. 
+> 
+> //I’d rather hear it from you.//
+> 
+> Hm. Okay. I feel like a disappointment. 
+> 
+> //...//
+> 
+> ...I know, I know. But- when I think about what Site-101 is- it’s just not there yet. It’s not… finished.
+> 
+> //What’s missing?//
+> 
+> Good question. The psiatin- psychics, sorry. I’ve done so much to understand them. Listened to them. Felt them. Trying to become immune to evil. 
+> 
+> //Why do you want that?//
+> 
+> Why do I want it? I have to understand a thing in order to manage it, of course.
+> 
+> //Do you think it's healthy? Obsessing over, “evil”?//
+> 
+> Healthy? No. But it’s part of my vision. A justice, where malevolency isn’t admired. And I wouldn’t call it obsession.
+> 
+> //...//
+> 
+> //...What you want is validation, Jean. You came to me not for a consultation, but for confirmation on the success of Site-101.//
+> 
+> What? 
+> 
+> //Let me ask you; why do you think justice rests on your shoulders? Better yet, why **your** vision, specifically?//
+> 
+> Because… I’ve seen evil. Known it. Analyzed it. As good as committed it. I know why it happens - how to stop it.
+> 
+> //I’m not talking about competence.//
+> 
+> //...//
+> 
+> //Why is it that a man with your past chooses this career? You don’t seem vengeful. What’s left is compensation.//
+> 
+> Compensation? I don’t think- that’s… What would I be compensating for?
+> 
+> //Something you’ve lost. Something you want to make right. Something you’ve done. Where does your pressure come from?//
+> 
+> ...no.
+> 
+> //...//
+> 
+> I just need to complete the vision. It will be all right.
+> 
+> //We need to discuss your family, Jean. Your guilt is vital. You’ve made Ceclia into a symbol of an idealized, unreachable-//
+> 
+> That’s neither here nor there. 
+> 
+> //...//
+> 
+> //You insist on this vision. Lobotomized guards and jails of mirrors. Is that not enough?//
+> 
+> Not lobotomized. Shaved. Better than rotting away in Switzerland. 
+> 
+> //Is it not enough?//
+> 
+> //...//
+> 
+> Dialectics. You’d understand.
+> 
+> //I’m not here to understand. I’m here to help.//
+> 
+> //...//
+> 
+> ...I need… inspiration. 
+> 
+> //You’re stressed. Take a break. You’ve earned it.//
+> 
+> Hm. You assume a lot, for a shrink. 
+> 
+> //I’m not.//
+> 
+> Right.
+> 
+> ----
+> 
+> [[=]]
+> **[END AUDIO LOG]**
+> [[/=]]
+[[/collapsible]]
+
+----
+
++++++ Attachment C.2: 
+**Item Description:** A travel log kept by Jean-Baptiste De Pontes detailing destinations visited during a one month paid leave. The last entry is not a location, but a handwritten document formatted as a court transcript. A Sophia class VidiCap was brought on this trip despite restrictions on the technology. 
+
+[[collapsible show="[+] Exhibit C.2" hide="[-] Exhibit C.2" hideLocation="both"]]
+[[div class="mobile-container"]]
+[[div class="disco"]]
+**Travel Entries:**
+Baghdad, Iraq - Royal Cemetery at Ur
+Istanbul, Turkey - Süleymaniye Mosque 
+Tiberias, Palestine - Tomb of Maimonides
+Vatican City - Vatican Grottoes
+Paris, France - Les Invalides
+
+[[=]]
+__**COURT OF SOPHIA SUMMONS**__
+----
+* Ur-Nammu
+
+* Moses Bin Maimon
+
+* Pope Gregory IX
+
+* Ḳânûnî Sulṭân Süleymân
+
+* Emperor Bonaparte 
+----
+**FOR EXAMINATION IN:** Crime v. Humanity (1996)
+[[/=]]
+
+----
+
+[[=]]
+**BEGIN SESSION**
+[[/=]]
+
+**The court is in session. Under review: Criminal case 0001 - to determine the liable party for the injustice of all crime. Session: 4. Under examination: the Counsel of Lawmakers.**
+
+The Court of Sophia has previously exhausted persecution of:
+
+> * **MALEVOLENT WELLSPRING**, commonly known as GREED or PRIDE or WRATH or THE DEVIL
+> * **SOCIAL VULNERABILITY**, commonly known as POVERTY or XENOPHOBIA or OPPRESSION or INEQUALITY
+> * **SICKNESS**, commonly known as STUPIDITY or SHORTSIGHTEDNESS or DESPERATION or RETARDATION
+
+as liable for the cause of all crime.
+
+----
+
+May the fourth accused rise.
+
+> //THE COUNSEL OF LAWMAKERS RISE//
+
+Enter evidence: The Code of Ur Nammu, The Mishneh Torah, The Decretals of Gregory IX, The Sultan’s Reforms, and the Napoleonic Code. What are these, Counsel?
+
+> //THE PRODUCT OF OUR LEGISLATION//
+
+Enter evidence: The crimes of humanity. 
+
+> //THE DEBACLE OF OUR INTENTION//
+
+Does the burden not lie upon the lawmakers, to create laws which can not be broken?
+
+> //A BROKEN LAW; A LAW AT ALL?//
+
+You have created inadequate statutes. You have drafted a brittle decree. The cause of crime is your failure. How do you plea?
+
+> //THE COUNSEL PLEADS GUILTY TO ALL CHARGES//
+
+Will you be held accountable for every misconduct?
+
+> //REGRET BEYOND THE GRAVE//
+
+It is your failure.
+
+> //IT IS YOUR FAILURE//
+
+Where lies the error?
+
+> //IN OUR HEARTS. IN OUR FACES//
+
+In the sins of man.
+
+> //A LAW OF PASSION CAN BE HEARTBROKEN. THE JUDGE WILL HATE THE CRIMINAL. THE JURY WILL SEEK WISDOM IN THE RITUAL KILLER. THE EXECUTIONER WILL USE PUNISHMENT TO PRACTICE SHOWMANSHIP//
+
+Crime is loved and admired.
+
+> //LAWS WRITTEN ON PAPER CAN BE BURNED//
+
+Laws must not die with their maker.
+
+> //LAWS THAT HAVE NO MAKER//
+
+Laws not remembered, but obeyed.
+
+> //LAWS WITH LIMBS//
+
+Laws that enforce themselves.
+
+> //LAWS WRITTEN ON LIGHT ITSELF//
+
+Laws that have no judge to tempt. No jury to impress.
+
+> //FACELESS LAWS//
+
+What are these laws?
+
+> //WHERE ARE THESE LAWS?//
+
+Tell me. Tell me now.
+
+> //THEY ARE THE LAWS OF NATURE//
+
+...court adjourned.
+
+[[=]]
+**END SESSION**
+[[/=]]
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+[[/div]]
+
+----
+
++++ Addendum: RPC-266-LAW Amendment #098
+
+[[div class="mobile-container"]]
+[[div class="disco"]]
+{{**Advocate:** Aliénor Moreau.}}
+ 
+{{**Preamble:** For the amendment of RPC-266-LAW’s primary three titles, Moreau presented a collection of exhibits intended to discredit the character of Jean-Baptiste De Pontes, and therefore the integrity and legitimacy of RPC-266-QUILL and its legislation, by pointing out certain internal ideological contradictions.}}
+
+{{**Outcome:** An added line to the third title reading as:}}
+
+> //Provision III/015p: Law must be transparent in its methods and establishment.//
+
+{{Following this amendment, RPC-266-QUILL tore out one of the pages making its body and handed it to Moreau.}}
+
+{{The paper contained a memetic system; later identified to be a Paideia Package. The system has been attached below.}}
+
+----
+
+[[collapsible show="[+] RPC-266-QUILL Paideia Package" hide="[-] RPC-266-QUILL Paideia Package" hideLocation="both"]]
+Law. Law. Law supreme. 
+
+Four things lie on the desk. The Code, A Paideia, a disassembled Sophia, and an Eikon. With the Eikon I can do it, I can gain mastery of the alphabet, from the alpha to the omega, and write a law of nature. 
+
+This moment must be recorded. The Paideia will make sure of that. 
+
+> VIDICAP CLASS: //EIKON// - APPROVAL FORM
+
+No. This is illegal. It wouldn’t work either way. My mind is scattered. The vision a blur. My qualia, unrefined. Moreau, the law-abider. You’re right. I can’t do this. 
+
+Moreau. Moreau. Were you an innocent girl? Did you do as your parents asked? Would you play with your friends, but never sully your bow, and always return in time for dinner? Can you even comprehend evil, as I have?
+
+An alarm blasts through the office, the red light reflecting off the mirrors. The cacophony of sirens warns of a psychic breach. Impossible. The Code says so. What lawbreaker disgraces the Code? Who shattered the titles? One, two, three, four, five… how many are dying? How many will pay for the insuffiency?! The //PSITAIN’S// shadows devour the innocents still!
+
+[[=]]
+> What crimes does freedom lend the escapee? 
+> What evil runs amok on my site?
+> It is my right and burden to know.
+> The assembled Sophia will show.
+[[/=]]
+
+I place the lenses over my eyes, transmitting qualia to the main unit; which rattles in response. The prison must bend to deliver me awareness; that is its nature. The images within the red mirrors shift and change, metamorphosing, no doubt, to show me what I must see. 
+
+----
+
+> //The boy stumbles in, reeking of smoke and cheap pastis. The doorside lamp shatters to the drunken stupor, the chimes echoing throughout the villa. The foyer descends into the darkness of night. The boy oinks in place, puzzling together the shards, before surrendering and retiring slyly to his chambers.//
+
+What? 
+
+> //A doll-like girl tiptoes out to the foyer. ##8f8f8f|Jean?## She rubs the nightgown between pinched fingers. ##8f8f8f|You made mother cry.## The shattered bulb compels her attention. She collects the pieces with care.// 
+
+Stop-
+
+> //The girl freezes, shard in hand. **Still awake, sweetie?** A voice sings from the door. **What are you doing?** She continues to pick the pieces.  ##8f8f8f|Fixing the lamp.## The owner of the voice can not be seen. **That’s just plain silly. It’s bedtime. What’s the big idea?** The girl attempts to find the voice’s owner.  ##8f8f8f|My parents say that the light is important. I think they’re afraid of the dark. Where are you?## The voice chuckles. **Your parents have nothing to be afraid of. I’m in the shadows, you see. Everyone understands you here. What is your name, sweetie?** The girl stands up, and bows slightly. ##8f8f8f|Cecilia.## A figure can be discerned besides the door. **I’m Bulb. But you can-**//
+
+NO! Why that?! Why?! My only crime- breaking the fucking curfew… why?!
+
+----
+
+The mirrors are back to normal. In them, the alarm paints my face red. I admire the bloodshot eyes, the deepening wrinkles, the thinning scalp, and all I see is evil. 
+
+Once more, the mirrors change. The Monitoring Room of the PSE wing has plunged into darkness. The Umbral Bulb is free. Men beating each other, beating themselves. What justice is it I speak of? I have created no justice. Only an orgy of sin.
+
+**//Watch, Warden. Be eaten by your shadows.//**
+
+Oh… I see. I am the last admirer.
+
+----
+
+I connect the projector over my brows. The probes spike my skin. The Eikon rattles. No effect. Refinement is in order.
+
+Sublingual viderics from the ward. Emergency amnestics from the drawer. Intravenously. Rapid effect. 
+
+…
+
+...
+
+...
+
+
+And I wax.
+
+----
+
+[[div class="stepTabs"]]
+[[tabview]]
+[[tab]]
+[[div class="disco"]]
+[[=]]
+My father’s hand rests on my shoulder. Mother pinches my ear. I am just a silly boy. 
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[=]]
+[[div class="razor"]]
+I feel lighter. The pain in my ear is gone.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab WAX]]
+[[div class="disco"]]
+[[=]]
+The grass of Geneva’s pastures makes me verdant. Fresh is the smell of bovine dung.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[=]]
+I am spotless. My peruke immaculate.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab WAX]]
+[[div class="disco"]]
+[[=]]
+The living theater shows me tragedy, and comedy. I cry when the curtains close, I laugh as they open. Metaphor and drama make the stage of life.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[=]]
+A tribunal of fact and hard proof. I watch diligently the process of punishment.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab WAX]]
+[[div class="disco"]]
+[[=]]
+I stand on the shoulders of giants. Great lawmakers and philosophers carry me to the skies, as I will carry the next to the heavens.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[=]]
+Precedent is an affront to objective sentencing. Appreciate nothing but the current counsel. 
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab WAX]]
+[[div class="disco"]]
+[[=]]
+My hands hold the shadow of sin. I chuckle as he gasps for breath. I have dreamt of this.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[=]]
+Admire no evil. Let it be forgotten in a labyrinth of looking glass.
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab WAX]]
+[[div class="razor"]]
+[[=]]
+…
+
+The gallery is empty.
+
+…
+
+The bench is silent.
+
+…
+
+A white light illuminates the courtroom pale.
+
+The Code awaits on the bench in front of me. Two titles are ratified. There is a space below them. 
+
+The quill holds ink. It is ready to write a law of nature.
+
+//Jean?//
+
+A young girl runs in. Her yellow shoes are dirty. She soils the carpet.
+
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Room1|align=center]]
+
+//You're making mother cry.//
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Room2|align=center]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Room3|align=center]]
+[[=]]
+{{//you're making her cry//}}
+[[/=]]
+[[/div]]
+[[/tab]]
+[[tab SHAVE]]
+[[div class="razor"]]
+[[include component:image-block name=https://rpcsandbox.wdfiles.com/local--files/looking-glass-labyrinth/Room4|align=center]]
+[[=]]
+{{Through the Looking Glass, I see evil on my skin.}}
+
+{{But I am deaf to the song of assault.}}
+
+{{Blind to the allure of theft.}}
+
+{{Innocent to the release of vengeance.}}
+
+{{For I admire nothing, save the pale, comforting, **white light of law.**}}
+[[/div]]
+[[/=]]
+[[/tab]]
+[[/tabview]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[=]]
+[[collapsible show="Footnotes" hide="-----" hideLocation="both"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/=]]
+
+= << [[[RPC-265]]] | RPC-266| [[[RPC-267]]] >>
+

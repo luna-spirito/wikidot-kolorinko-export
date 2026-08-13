@@ -1,0 +1,246 @@
+---
+title: "Old AEP Theme Ver. 2 (Archived)"
+tags: ["aep", "non-canon", "theme"]
+page_id: "1026143303"
+site: "rpcauthority"
+slug: "component:aep-theme-old-2"
+revision: 34
+revision_id: "1545188482"
+author: 7013424
+timestamp: 1783918726
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:aep-theme-old-2/code/1);
+[[/module]]
+
+[[collapsible show="+ Code" hide="- Code"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600|Raleway|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@500&family=Ubuntu&display=swap');
+
+/*
+    Association Theme (remade by Qual for official use; original concept redesign by Dr.Pierson)
+    [2020 Wikidot Theme]
+*/
+
+.yui-navset-top {
+    font-family: default;
+}
+
+body {
+    font-family: 'Muli', sans-serif;
+}
+ 
+.rateContainer {
+    font-family: Montserrat,sans-serif;
+}
+
+#container-wrap-wrap {
+    overflow-x: hidden;
+}
+ 
+div#container {
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaep-theme-old-2/AEP_Moving_Header.png) repeat-x;
+    animation: animate 100s linear infinite;
+}
+ 
+@keyframes animate  { 
+    from { 
+        background-position: 0 0; 
+    } 
+    to { 
+        background-position: -1365px 0; 
+    } 
+}
+
+
+blockquote {
+    background-image: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaep-theme-old-2/AEP_Logo.png);
+    background-position: bottom right;
+    background-size: 45px;
+    background-repeat: no-repeat;
+    padding-bottom: 40px;
+}
+
+#header h2::before {
+    margin-left: 20px;
+    font-family: tato, sans-serif;
+
+}
+#header h1 a::before {
+    margin-left: 20px;
+    font-family: tato, sans-serif;
+}
+
+div.page-rate-widget {
+    text-align: center;
+    word-spacing: normal;
+}
+
+:root {
+
+    --body-background: #222222;
+    --primary-text-color: #ccc;
+    --nav-hover-background: #757574;
+    --primary-background: #32353b;
+    --font-family: tato, sans-serif;
+    --content-bar-background: #24272a;
+ 
+    --header-text-visibility: hidden;
+    --header-font-family: 'lato', sanserif;
+    --header-custom-text: 'The Association';
+    --header-tagline-custom-text: 'Flame exige sortant de solitude';
+    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaep-theme-old-2/AEP_Header_Icon.png);
+    --header-background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aaep-theme-old-2/AEP_Stationary_Header.png);
+    --header-tagline-color: #ccc;
+    --header-tagline-text-shadow: .5px .5px .5px black;
+    --header-tagline-top: 8px;
+ 
+    --link-color: #2a7e8e;
+    --link-hover-color: #5a92a2;
+    --new-page-color: #1b535d; 
+    --button-border: 1px solid #627e87;
+    --button-background: #1d2022;
+    --button-hover-border: 1px solid #528991;
+    --button-hover-background: #528991;
+ 
+    --search-button-background: linear-gradient(to bottom, #515151,#515151,#000);;
+    --search-button-hover-background: linear-gradient(to bottom, #528991,#429295,#1b535d);
+    --search-input-color: #515151;
+    --search-input-hover: #24272a;
+    --search-input-text: #ccc;
+ 
+    --topbar-dropdown-background: #23303d;
+    --topbar-hover-background: #515151;
+    --topbar-divider: 1px solid #515151;
+    --topbar-dropdown-border-color: #ccc;
+ 
+    --news-block-body-panel-background-even: #1d1c1c;
+ 
+    --sidebar-crit-corner-color: unset;
+    --star-rating-hue: -40deg;
+ 
+    --text-box-form-background: #32353b;
+    --text-box-form-border: 1px solid #47c4bd;
+ 
+    --template-block-background: #1a1414;
+    
+    --tabview-background: var(--primary-background);
+    --tabview-bar-border: 5px solid #757574;
+    --tabview-button-selected-background: #757574;
+    --tabview-button-selected-color: #ccc;
+    --tabview-button-hover-background: #868585;
+
+
+    --tabview-side-tabs-background: var(--primary-background);
+    --tabview-side-border: var(--basic-border);
+    --tabview-side-tabs-box-shadow: 1px 0 1px 1px var(--content-box-shadow-color);
+    --tabview-side-box-shadow: var(--content-box-shadow);
+
+    --tabview-side-button-hover-background: var(--tabview-button-hover-background);
+    --tabview-side-button-selected-background: var(--tabview-button-selected-background);
+    --tabview-side-button-divider: 1px solid var(--tabview-side-button-selected-background);
+
+
+
+
+    --basic-border: 2px solid #515151;
+
+    --owindow-border: var(--basic-border);
+    --footnote-border: var(--basic-border);
+    --account-options-border: var(--basic-border);
+    --tags-border: 1px solid var(--link-color);
+    --topbar-dropdown-border-color: var(--basic-border-color);
+    --toc-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --blockquote-border: var(--basic-border);
+    --image-block-border: var(--basic-border);
+    --star-rating-border: var(--basic-border);
+    --content-panel-border: var(--basic-border);
+    --tabview-border: var(--basic-border);
+    --table-border: var(--basic-border);
+    --template-block-border: var(--basic-border);
+
+    --BT-resizer-background: #303030;
+    --BT-scrollbar-thumb-background: #757574;
+    --BT-scrollbar-thumb-hover-background: #868585;
+
+    --tabview-side-scrollbar-background: var(--BT-resizer-background);
+    --tabview-side-scrollbar-thumb-background: var(--BT-scrollbar-thumb-background);
+    --tabview-side-scrollbar-thumb-hover-background: var(--BT-scrollbar-thumb-hover-background);
+}
+ 
+/* User Name */
+ 
+#login-status {
+    font-size: 90%;
+    z-index: 30;
+ 
+    color: #ccc;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px #000;
+    text-shadow: 1px 1px 2px #000;
+ 
+    background: rgba(0,0,0,0.08);
+    padding: 3px 5px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+ 
+/* "My Account" Text (normal and Hover) */
+ 
+#login-status a {
+    color: #e6e6e6;
+}
+ 
+#login-status a:hover {
+    color: #fff;
+}
+ 
+/* Hover box in extended options (in tandom w/ variable --account-options-border) */
+ 
+#login-status ul a:hover {
+    background: #515151;
+    color: #fff;
+}
+ 
+/* Regular Extended User Opt. Var. */
+ 
+#login-status ul a {
+    background: var(--primary-background);
+    color: var(--text-color);
+    border: 0px solid #ccc;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+ 
+#account-options #account-options, a#account-topbutton {
+    color: var(--text-color);
+}
+ 
+/* DO NOT TOUCH UNLESS PLANNED, WHITE THEME VARIABLES */
+ 
+.open-themes-container {
+    display: none;
+}
+
+.content-panel, #toc, .image-block, .rateContainer, .yui-navset, blockquote, table.wiki-content-table th, table.wiki-content-table td, .content-block, .info-block, .featured-block, .news-block {
+    color: #aaa;
+}
+
+ 
+
+[[/code]]
+[[/collapsible]]
+
+[[include :rpcsandbox:pallet]]
+
+----
+
+**Theme Import CSS:**
+> @@ [[module css]] @@
+> @@ @import url(http://rpcauthority.wikidot.com/component:aep-theme/code/1); @@
+> @@ [[/module]] @@
+

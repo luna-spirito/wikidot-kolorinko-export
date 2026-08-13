@@ -1,0 +1,16 @@
+---
+title: "_ddtest"
+tags: []
+page_id: "1469071559"
+site: "rpcauthority"
+slug: "_ddtest"
+revision: 5
+revision_id: "1545550532"
+author: 5982545
+timestamp: 1785366951
+---
+
+[[module ListPages order="updated_at" limit="250" perPage="250" offset="@URL" separate="no" wrapper="no" category="*" pagetype="*"]]
+%%fullname%%%%updated_at|a%%
+[[/module]]
+

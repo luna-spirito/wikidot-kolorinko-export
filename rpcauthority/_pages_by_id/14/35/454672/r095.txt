@@ -1,0 +1,2203 @@
+---
+title: "rpc.b4k.org"
+tags: ["collaboration", "comedy", "document", "non-canon"]
+page_id: "1435454672"
+site: "rpcauthority"
+slug: "rpcb4k"
+revision: 95
+revision_id: "1545101493"
+author: 7013424
+timestamp: 1783572384
+---
+
+[[module css]]
+
+.anontag {
+    color: #aed052 !important;
+    font-weight: bold;
+}
+
+.anontag:after {
+    background-repeat: no-repeat!important;
+    background-size: contain!important;
+
+    width: 10px;
+    height: 5px;
+    margin-left: 6px;
+
+    color: transparent;
+    content: "hell";
+    font-size: 75%;
+}
+
+.anontag.research::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Res.png);
+}
+
+.anontag.protect::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Prot.png);
+}
+
+.anontag.contain::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Con.png);
+}
+
+.anontag.administer::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Adm.png);
+}
+
+.anontag.blacksite::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Blacksite.png);
+}
+
+.anontag.utility::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Utility.png);
+}
+
+.anontag.pcaao::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Pcaao);
+}
+
+.anontag.mi13::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/MI13.png);
+}
+
+.anontag.unaac::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/UNA.png);
+}
+
+.anontag.bluebook::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Blu.png);
+}
+
+.anontag.aep::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Aep.png);
+}
+
+.anontag.foa::after {
+    background: url(http://rpcsandbox.wikidot.com/local--files/rpcb4k/Foa.png);
+}
+
+.post {
+background-color: #1c1f21;
+float: center;
+padding: 10px 20px;
+color: white;
+}
+
+.reply {
+background-color: #282a2e;
+padding: 2px 10px;
+color: white;
+margin: 10px 0px 10px 0px;
+}
+
+.padding {
+padding: 0px 30px;
+color: white;
+}
+
+.info {
+background-color: black; 
+float: center; 
+padding: 10px 20px; 
+color: white; 
+margin: 
+0px 0px 10px 0px;
+}
+[[/module]]
+[[include component:rate]]
+[[div class="post"]]
+[[=]]
++ **rpc.b4k.org**
+------
+[[include component:image-block
+|align=center
+|name=http://rpcsandbox.wikidot.com/local--files/rpcb4k/rpcb4k.png
+|width=100%
+|caption=[[size 50%]][Advertising on rpc.b4k][[/size]]]]
+------
+[[/=]]
+
++++ About rpc.b4k
+
+rpc.b4k is a simple image-based bulletin board forum where Authority personnel can comment and share images. The purpose of this site is to discuss postgraduate studies, finance, applications, research, containment, international studies & administration, politics, and much, much more. Users don't need to register an account to post, but, for the sake of Authority privacy and policy, higher-class personnel are required to enter with their clearance registered, while those with a clearance of lvl 4 and above are barred from directly posting. 
+
+[[collapsible show="How to post in rpc.b4k" hide="How to post in rpc.b4k"]]
+In essence, rpc.b4k is a simplified version of the 2chan imageboard format used in sites like 4chan. You can make new “threads” or post replies on existing threads. While this article is non-canon, keep the posts and replies grounded within the confines of RPC's baseline canon. 
+
+__Thread format:__
+[[div class="info"]]
+@@[[div class="post"]]@@
+@@[[f<image IMAGE URL]]@@
+@@⯈ **THREAD TITLE (IF APPLICABLE)** [[span class="anontag DIVISION"]]Anonymous[[/span]] MM/DD/YY HH:MM No. [[# XXXXX]] XXXXX ▶@@
+@@INSERT COMMENT@@
+
+@@[[/div]]@@
+[[/div]]
+
+
+__Reply format:__
+[[div class="info"]]
+@@[[div class="reply"]]@@
+@@⯈ [[span class="anontag DIVISION"]]**Anonymous**[[/span]] MM/DD/YY HH:MM No. [[# XXXXX]] XXXXX ▶@@
+@@[[div class="padding"]]@@
+@@__[#XXXXX >>XXXXX]__@@
+@@##aed052|>ENTER GREENTEXT##@@
+@@INSERT COMMENT@@
+@@[[/div]]@@
+@@[[/div]]@@
+[[/div]]
+
+__Icons:__
+⯈ **Research Division** [[span class="anontag research"]]Anonymous[[/span]]  
+⯈ **Protection Division** [[span class="anontag protect"]]Anonymous[[/span]]  
+⯈ **Containment Division** [[span class="anontag contain"]]Anonymous[[/span]]  
+⯈ **Administration Division** [[span class="anontag administer"]]Anonymous[[/span]]  
+⯈ **Black Site Division** [[span class="anontag blacksite"]]Anonymous[[/span]]  
+⯈ **Utility-class RPCs** [[span class="anontag utility"]]Anonymous[[/span]]  
+⯈ **PCAAO** [[span class="anontag pcaao"]]Anonymous[[/span]]  
+⯈ **MI13** [[span class="anontag mi13"]]Anonymous[[/span]]  
+⯈ **UNAAC** [[span class="anontag unaac"]]Anonymous[[/span]]  
+⯈ **Project Blue Book** [[span class="anontag bluebook"]]Anonymous[[/span]]  
+⯈ **AEP** [[span class="anontag aep"]]Anonymous[[/span]]  
+⯈ **FOA** [[span class="anontag foa"]]Anonymous[[/span]]  
+
+__Before posting, here are some ground rules and information:__ 
+* When making a new thread, skip post No. by at least 20 from the previous thread.
+* Don't reply on an ##red|archived## thread.
+* When threads can no longer continue without intruding on the post No. of later threads, mark it as ##red|archived.##
+* __Remember to double-check the consistency of your thread/post No. and date.__ 
+* Keep AoI icons to international threads such as /AoI/ or similar threads.
+* Try to upload images before posting if you can.
+* Keep thread post image size at 150-300px in width.
+* Keep reply image size at 100-200px in width.
+* Make sure every thread you make has an image.
+* Don't edit other people's posts unless it's an inconsistency in the post No.
+* You can post as multiple "posters", but can't post as other people's "poster".
+* Don't use emojis.
+* Show no mercy to jannies.
+* The Blacksite division is a bait icon made by the admins to fuck with people.
+* Bullying posters is not only allowed, but encouraged. 
+
+[[div style="display: inline-block; background: #282a2e; float:center; margin: 10px 40px 10px 40px; border: 1px solid #D9D9D9;"]]
+[[=]]
+**404 Not Found**
+[[/=]]
+[[div style="display: inline-block; background:black; color: #D9D9D9; float:center; padding: 1px 50px;"]]
+
+[[=image 404Chan.png width="200px"]]
+
+Welcome! If you find this place, it means you are not where you wanted to be. Have a nice day!
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+------
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Stash.jpeg width="200px"]]
+
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 04/09/18 13:07 No. [[# 04301]] 04301 ▶ __[#04302 >>04302]__ __[#04303 >>04303]__ __[#04304 >>04304]__
+
+For the past 4 months, I've stolen a bunch of Class A-1 amnestic canisters for the shits and giggles. I usually take 4 or 6 of them every day at 8 at night after my janitor shift. Idk what this will do to my body in the long run, hopefully nothing too bad.
+
+@@ @@
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 04/09/18 13:12 No. [[# 04302]] 04302 ▶
+[[div class="padding"]]
+__[#04301 >>04301 (OP)]__
+Anon I genuinely hope you’re joking. You’re gonna die.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 04/09/18 13:15 No. [[# 04303]] 04303 ▶
+[[div class="padding"]]
+__[#04301 >>04301 (OP)]__
+##aed052|>janitorial shift##
+the absolute state of union jannies.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Swag.png width="120px"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/09/18 13:17 No. [[# 04304]] 04304 ▶
+[[div class="padding"]]
+__[#04301 >>04301 (OP)]__
+Go for class G next.
+
+@@ @@
+@@ @@
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 04/09/18 14:12 No. [[# 04305]] 04305 ▶
+[[div class="padding"]]
+Kinda based in a weird way desu
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Rage.png width="150px"]]
+
+⯈ **- /schiz/ - Schizo general** [[span class="anontag contain"]]**Anonymous**[[/span]] 03/13/22 10:07 No. [[# 09981]] 09981 ▶ __[#09982 >>09982]__ 
+
+They don’t tell you this, but 85% of all anomalous terrorist and mercenary organizations are actually mainly funded by the UNAAC and the Authority elites as their main shareholders to perpetuate the illusion of “us vs them” mentality that makes members from either side more susceptible to control. The useless administration agencies the Authority continually pumps out is a money-laundering scheme meant to make the dirty money of those terrorist organizations feasible for the stock market
+
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag blacksite"]]**##RoyalBlue|Anonymous##**[[/span]] 03/13/22 10:20 No. [[# 09982]] 09982 ▶ __[#09983 >>09983]__ __[#09984 >>09984]__ __[#09985 >>09985]__ __[#09986 >>09986]__ 
+[[div class="padding"]]
+__[#09981 >>09981 (OP)]__
+The fact that y'all believe shit like this is the reason why the maintanence union is underfunded. Take your meds. 
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 03/13/22 10:22 No. [[# 09983]] 09983 ▶
+[[div class="padding"]]
+__[#09982 >>09982]__
+uh oh looks like someone forgot to use a VPN
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 03/13/22 10:25 No. [[# 09984]] 09984 ▶
+[[div class="padding"]]
+__[#09982 >>09982]__
+##aed052|>Glowie##
+Go back to sucking OI's dick nigsite fed
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Bait.png width="120px"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 10:25 No. [[# 09985]] 09985 ▶
+[[div class="padding"]]
+__[#09982 >>09982]__
+(you)
+@@ @@
+
+@@ @@
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 10:33 No. [[# 09986]] 09986 ▶ __[#09992 >>09992]__
+[[div class="padding"]]
+__[#09982 >>09982]__
+No fucking way this is real holy shit
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 03/13/22 10:47 No. [[# 09987]] 09987 ▶ __[#09988 >>09988]__
+[[div class="padding"]]
+Bruh why does the glowies have their own icon?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Grim.jpeg width="160px"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 10:49 No. [[# 09988]] 09988 ▶ __[#09989 >>09989]__
+[[div class="padding"]]
+__[#09987 >>09987]__
+It's bait. still not wrong about the maintenance union tho, fuck those guys. If they actually did their jobs correctly we wouldn't have budget cuts every fucking week. They only exist to put money in the chief's pocket
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 11:11 No. [[# 09989]] 09989 ▶ __[#09990 >>099990]__
+[[div class="padding"]]
+__[#09988 >>09988]__
+Blame the GDs for their incompetence kek. Why the fuck do they keep electing out-of-touch old people or borderline-demonic fags anyways? Half the niggas there ain't even qualified to supervice a regional site let alone an entire fucking continent. You just KNOW some globOIhomo bs is happening behind closed doors. 
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 03/13/22 11:23 No. [[# 09990]] 099990 ▶ __[#09993 >>099993]__
+[[div class="padding"]]
+__[#09989 >>09989]__
+Solution: Instead of elections, we should have globos fight their candidate opponents. But there’s no limit to how much anomalous steroids or curses you can put in your body before the fight.
+
+Would be kino.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 10:33 No. [[# 09992]] 09992 ▶
+[[div class="padding"]]
+__[#09986 >>09986]__
+newfag
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 03/13/22 10:56 No. [[# 09993]] 09993 ▶ __[#09994 >>099994]__ 
+[[div class="padding"]]
+__[#09990 >>09990]__
+gavrilo wins 100%
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 11:01 No. [[# 09994]] 09994 ▶ __[#09995 >>09995]__
+[[div class="padding"]]
+__[#09993 >>09993]__
+My GD wins 100% :nerd: :nerd: :nerd:
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 03/13/22 11:06 No. [[# 09995]] 09995 ▶ __[#09996 >>09996]__
+[[div class="padding"]]
+__[#09994 >>09994]__
+he is simply the perfect representation of the research division
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 03/13/22 11:11 No. [[# 09996]] 09996 ▶ 
+[[div class="padding"]]
+__[#09995 >>09995]__
+Gavrillo is old af and he’s gonna die if he’s just gonna trust in God instead of taking UNAAC-approved catgirl adrenochrome like the other cool GDs
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wikidot.com/local--files/rpcb4k/RPCsatan.png width="250px"]]
+⯈ [[span class="anontag utility"]]**Anonymous**[[/span]] 03/13/22 11:40 No. [[# 10003]] 10003 ▶ __[#10004 >>10004]__ __[#10005 >>10005]__
+[[div class="padding"]]
+CULT OF BAAL VEhFIEFVVEhPUklUWSBJUyBBIFBBUlQgT0YgVEhFIFNZTkFHT0dVRSBPRiBTQVRBTg== 20 MILLION DEAD BECAUSE OF WAR VGhlIEF1dGhvcml0eSBtdXN0IHBheSBmb3IgdGhlaXIgY3JpbWVzIGFnYWluc3QgR29k CHRIST WILL VANQUISH THE NEW BABYLON
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 03/13/22 11:43 No. [[# 10004]] 10004 ▶ 
+[[div class="padding"]]
+__[#10003 >>10003]__
+So true bestie!
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 03/13/22 11:44 No. [[# 10005]] 10005 ▶ 
+[[div class="padding"]]
+__[#10003 >>10003]__
+thank u anomaly fren. very cool!
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+-----
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Office.jpeg width="250px"]]
+
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 04/01/22 04:13 No. [[# 10023]] 10023 ▶  __[#10024 >>10024]__  __[#10026 >>10026]__ 
+
+ ##aed052|>late night doing bitchass obs duty##
+ ##aed052|>im not event supposed to be doing this shit but the main obs researcher is "sick"##
+ ##aed052|>gaylord forgot that he lied to me and sent me a text of him golfing before deleting it##
+ ##aed052|>sigh.asi##
+ ##aed052|>im a fucking researcher dont they have meatheads for this##
+ ##aed052|>raise from my slouch to glance at the shitter im babysitting##
+ ##aed052|>retarded pheno is banging head against exit door at regular intervals##
+ ##aed052|>i could literally leave and nothing would go wrong##
+ ##aed052|>notice there's no cameras for the obs room itself##
+ ##aed052|>shieeeeeet do i risk it##
+ ##aed052|>realize doors have actuation detectors and they'll know if i leave##
+ ##aed052|>decide to just catch some shut eye in the obs room##
+ ##aed052|>like 20 minutes go by and I wake up##
+ ##aed052|>realize where I've been resting my head##
+ ##aed052|>​>​>​>​>on a button##
+ ##aed052|>PLEASE PLEASE PLEASE PLEASE BE FOR THE FUCKING LIGHTS OR SOME SHIT##
+ ##aed052|>pit in my stomach as I raise my head to see what the buttons for in my barely-lucid state##
+ ##aed052|>​>​>​>​>​>ITS THE FUCKING ACCESS DOOR##
+ ##aed052|>APESHIT.ASI##
+##aed052|>raise my head even more to look through obs window if its still inside##
+##aed052|>ITS FUCKING GONE##
+##aed052|>spamming interface and flipping through auxiliary external cameras like a fucking schizo##
+##aed052|>imsofuckedimsofuckedimsofuckedimsofuckedimsofuckedimsofucked##
+##aed052|>its hanging outside the entrance door of its cell##
+##aed052|>trying to comprehend the glowing lights of the vending machine while mumbling some typical pheno bullshit##
+##aed052|>icanfixthis.asv##
+##aed052|>open observation window and chuck my half-eated granola bar with peanuts in it into containment chamber##
+##aed052|>dont ask about the peanuts part just know it's important##
+##aed052|>phenoid hears the thud and turns around to look into its cell##
+##aed052|>COME ON MOTHERFUCKER##
+##aed052|>slowly lurches forward toward cell##
+##aed052|>painfully fucking slow its like it's trying to fuck with me##
+##aed052|>almost fucking there I can taste it##
+##aed052|>finally enters cell##
+##aed052|>abuse access button harder than a kk client abuses his product##
+##aed052|>door shuts behind it##
+##aed052|>i cant fucking believe my eyes##
+##aed052|>fucker devours the granola bar, wrapper and all##
+##aed052|>come on dickhead do the thing do the fucking thing##
+##aed052|>as it burps it wipes the cameras and legers by 10 minutes##
+##aed052|>it's like nothing happened##
+##aed052|>career fucking saved##
+##aed052|>career fucking saved##
+##aed052|>career fucking saved##
+##aed052|>career fucking saved##
+
+I fucking swear this happened. No way that I was dreaming about it since I know I set my granola bar on the counter and its gone. The next day I could even see the barely-noticeable smear of chocolate on the part of the window i grabbed at the time.
+
+Y'all got any stories yourselves of close-calls like this? I can't be the only one right. Pic related, it's not the actual control room but it's pretty damn close
+
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 04/01/22 04:15 No. [[# 10024]] 10024 ▶ __[#10025 >>10025]__ 
+[[div class="padding"]]
+__[#10023 >>10023 (OP)]__
+bull fucking SHIT LOL. Name the fucking pheno or gtfo retard. This is just too fucking convenient to be true
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 04/01/22 04:22 No. [[# 10025]] 10025 ▶
+[[div class="padding"]]
+__[#10024 >>10024]__
+No way fag, if i do that i may as well stand on a table at the cafeteria and wave a fucking sign saying "FIRE ME I LET OUT AN RPC!!" kys
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Trollge.png]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 04/01/22 04:25 No. [[# 10026]] 10026 ▶ __[#10026 >>10029]__ 
+[[div class="padding"]]
+__[#10023 >>10023 (OP)]__
+Fucking amazing. Anon really got saved by a fucking granola bar, imagine if he decided not to bring one holy we would not be hearing about this situation here LOL
+[[/div]]
+[[/div]]
+
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Desu.png width="100px"]]
+⯈ [[span class="anontag utility"]]**Anonymous**[[/span]] 04/01/22 04:32 No. [[# 10029]] 10029 ▶
+[[div class="padding"]]
+__[#10026 >>10026]__ (((OP)))
+
+##aed052|>samefigging this hard.##
+cringe desuu
+@@@@
+@@@@
+@@@@
+
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 04/01/22 06:10 No. [[# 10031]] 10031 ▶
+[[div class="padding"]]
+…does OP and his alt accounts know how many protocols you have to go through to open even an alpha-class containment chamber before making this story up?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/01/22 06:39 No. [[# 10032]] 10032 ▶
+[[div class="padding"]]
+##aed052|>larping##
+##aed052|>in this 4chan knockoff site##
+##aed052|>in this italian pasta-crafting spyware website##
+It's more likely than you think.
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+-----
+
+[[div class="post"]]
+[[=]]
+++ ##red|Thread archived.##
+++ ##red|You cannot reply anymore.##
+[[/=]]
+------
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/NO_HORNY.png width="200px"]]
+
+⯈ **Uh... Presidium bros?** [[span class="anontag contain"]]Anonymous[[/span]] 04/06/22 14:55 No. [[# 10048]] 10048 ▶ __[#10049 >>10049]__ __[#10050 >>10050]__ __[#10051 >>10051]__ __[#10052 >>10052]__ 
+
+##aed052|>Mr. Site Director, why can't we just ship the duplicating bread to Africa to end world hunger?##
+~~~~~
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/06/22 14:55 No. [[# 10049]] 10049 
+[[div class="padding"]]
+__[#10048 >>10048]__ 
+Authoritarian hands typed this post. Sage
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 04/06/22 14:56 No. [[# 10050]] 10050 
+[[div class="padding"]]
+__[#10048 >>10048]__ 
+##aed052|>he hasn't heard of the breadflation shitfuck event##
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 04/06/22 15:21 No. [[# 10051]] 10051 ▶ __[#10053 >>10053]__
+[[div class="padding"]]
+__[#10048 >>10048]__ 
+Because the bread keeps duplicating while inside the stomach. Besides, the Conscious guys take care of it anyway.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/06/22 15:22 No. [[# 10052]] 10052 
+[[div class="padding"]]
+__[#10048 >>10048]__ 
+Cope more janny, this won't unrape Containment's funding
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Who.png width="200px"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 04/06/22 15:44 No. [[# 10053]] 10053 ▶ __[#10054 >>10054]__ __[#10055 >>10055]__
+[[div class="padding"]]
+__[#10051 >>10051]__ 
+##aed052|>the Conscious guys##
+The who?
+~~~~~
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/06/22 16:01 No. [[# 10054]] 10054 ▶ __[#10055 >>10055]__
+[[div class="padding"]]
+__[#10053 >>10053]__ 
+That's some nigsite hyperschizo shit right? I saw something about it on /schiz/ the other day
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wdfiles.com/local--resized-images/rpc-839/Isle/medium.jpg width="200px"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 04/06/22 16:21 No. [[# 10055]] 10055 ▶ __[#10057 >>10057]__
+[[div class="padding"]]
+__[#10053 >>10053]__ 
+__[#10054 >>10054]__ 
+I ran a quick database scrape (god bless techfag clearance perms) and ran across some spooky shit. QRD:
+##aed052|>founded in 1992 by Fakename P. Holder##
+##aed052|>immediately receives Vinland-Pyre funding##
+##aed052|>VP is the research institute that's banned on /schiz/ because every newfag keeps making threads about it btw##
+##aed052|>so these guys somehow immediately get to the front of the race in this meme tier science field and start making real progress##
+##aed052|>Necrobiotics##
+##aed052|>notominous.mp4##
+
+But here's where the really spooky shit comes in
+
+##aed052|>Conscious actually has 1 or 2 registered phenomena codes##
+##aed052|>they're all Malevich paintings##
+##aed052|>but what we can read is absolutely not good##
+##aed052|>sorta shit we'd get the Protectorate helmets to bomb the fuck out of a third world shithole for##
+##aed052|>but there's no tracking or planning project for any kind of operation##
+##aed052|>not even funding blockades, and the OFA suits swung those against fucking José the taco cook from Texas##
+##aed052|>turns out they're in bed with these other guys called Miracle Incorporated##
+##aed052|>also founded by the same Fakename P. Holder##
+##aed052|>also has a few RPCs##
+##aed052|>also gets VP cash##
+##aed052|>but this one is much smaller##
+##aed052|>a cursory search through AFRICOM public files pulls up 1 instance of MInc##
+##aed052|>signed deal to operate in Zambia, Somalia, etc##
+##aed052|>this kind of deal (mutual operation agreements or MOAs) implies some sort of goods exchange##
+##aed052|>but no goods to exchange are mentioned in the entire document##
+
+And here's the kicker
+
+##aed052|>check logistical meetings for AFRICOM##
+##aed052|>guesswho.jpg##
+##aed052|>Fakename P. fucking Holder##
+##aed052|>"special items shipment"##
+##aed052|>site-001##
+
+Bet you can guess what's inside those boxes
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 04/06/22 16:22  No. [[# 10056]] 10056 ▶ __[#10057 >>10057]__
+[[div class="padding"]]
+__[#10055 >>10055]__ 
+Holy shit, what? You think the Ears know about this shit?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 04/06/22 16:22  No. [[# 10057]] 10057 ▶ __[#10058 >>10058]__ __[#10059 >>10059]__
+[[div class="padding"]]
+__[#10056 >>10056]__ 
+Absolutely. I'd say they endorse it.
+
+##red|(USER WAS BANNED FOR THIS POST)##
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/wtf.jpg width="100px"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/06/22 16:22  No. [[# 10058]] 10058 
+[[div class="padding"]]
+__[#10057 >>10057]__ 
+##aed052|>USER WAS BANNED FOR THIS POST##
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**##RoyalBlue|EURA Admin##**[[/span]] {{ID:B0MHzZok}} 04/06/22 16:23  No. [[# 10059]] 10059 ▶ __[#10060 >>10060]__
+[[div class="padding"]]
+__[#10057 >>10057]__ 
+Anon got banned due to improper placement of schizo material. 
+He's also about to be demoted, related to a bureaucratic incident and nothing to do with this thread. No funny stuff involved
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 04/06/22 16:24  No. [[# 10060]] 10060 
+[[div class="padding"]]
+__[#10059 >>10059]__ 
+ARCHIVE THIS QUICK
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 04/06/22 16:25  No. [[# 10061]] 10061
+[[div class="padding"]]
+Shit like this makes me wonder why the feds hasn't nuked this site yet
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/ViktoriaLouise.jpeg width="150px"]]
+
+⯈ **- /AoI/ - AoI International General** [[span class="anontag administer"]]**##RoyalBlue|Int Assoc Admin##**[[/span]] 05/09/22 8:20 No. [[# 10120]] 10120 ▶ 
+
+Our Lady, Victoria Louise edition. 
+
+Welcome to /AoI/, a thread general where Agencies around the globe can discuss national, political, and cultural events about agencies and their respective nations.
+
+Previous Thread: ##red|--__>>10033__--##
+
+@@ @@
+
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/09/22 8:24 No. [[# 10121]] 10121 ▶ __[#10122 >>10122]__ 
+[[div class="padding"]]
+Finally, a new thread. Don't let the busocucks cucks know or they'll bitch about the anomalies we "stole" again.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Karlo.png width="100px"]]
+⯈ [[span class="anontag foa"]]**Anonymous**[[/span]] 05/09/22 8:29 No. [[# 10122]] 10122 ▶ __[#10123 >>10123]__ __[#10125 >>10125]__ 
+[[div class="padding"]]
+__[#10121 >>10121]__ 
+SAINT KARLA BELONGS TO THE BUSOKA
+
+@@ @@
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag unaac"]]**Anonymous**[[/span]] 05/09/22 12:01 No. [[# 10123]] 10123 ▶ 
+[[div class="padding"]]
+__[#10122 >>10122]__ 
+no it doesn't kek
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag bluebook"]]**Anonymous**[[/span]] 05/09/22 13:11 No. [[# 10124]] 10124 ▶ 
+[[div class="padding"]]
+Retarded question, but what's the current Iron Initiative branch that's still active in Russia? I don't really understand the whole "fractured splinters" thing.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 05/09/22 13:11 No. [[# 10125]] 10125 ▶ 
+[[div class="padding"]]
+__[#10122 >>10122]__ 
+It’s been over 90 years and y’all still seething over this.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Franku.png width="100px"]]
+⯈ [[span class="anontag aep"]]**Anonymous**[[/span]] 05/09/22 15:01 No. [[# 10126]] 10126 ▶ __[#10127 >>10127]__ __[#10128 >>10128]__ __[#10129 >>10129]__ 
+[[div class="padding"]]
+the charges officer?
+
+@@ @@
+
+@@ @@
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 05/09/22 15:43 No. [[# 10127]] 10127 ▶ 
+[[div class="padding"]]
+__[#10126 >>10126]__ 
+Franku-sama... I kneel...
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag bluebook"]]**Anonymous**[[/span]] 05/09/22 16:08 No. [[# 10128]] 10128 ▶ 
+[[div class="padding"]]
+__[#10126 >>10126]__ 
+AAAAAAA SAVE ME MALTHUSMAN
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/09/22 16:12 No. [[# 10129]] 10129 ▶ __[#10130 >>10130]__ __[#10134 >>10134]__ __[#10147 >>10147]__
+[[div class="padding"]]
+__[#10126 >>10126]__ 
+##aed052|>wow it sure sucks the Authority isn't as Christian anymore##
+##aed052|>destroys an entire fucking site for no reason##
+##aed052|>that will make the pope love me!##
+was it autism?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag unaac"]]**Anonymous**[[/span]] 05/09/22 16:30 No. [[# 10130]] 10130 ▶ 
+[[div class="padding"]]
+__[#10129 >>10129]__ 
+No amount of purple-nerd autism can hide how much the whole event GLOWED.
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/SlanderAoI.jpeg width="200px"]]
+⯈ [[span class="anontag pcaao"]]**Anonymous**[[/span]] 05/09/22 17:51 No. [[# 10131]] 10131 ▶ __[#10132 >>10132]__  __[#10133 >>10133]__ __[#10145 >>10145]__ 
+[[div class="padding"]]
+##aed052|>still falling for unaac bait##
+
+@@ @@
+@@ @@
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/09/22 16:59 No. [[# 10132]] 10132 ▶  __[#10133 >>10133]__ 
+[[div class="padding"]]
+__[#10131 >>10131]__ 
+ t. The worst agency 
+Neck yourself
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag unaac"]]**Anonymous**[[/span]] 05/09/22 17:19 No. [[# 10133]] 10133 ▶ 
+[[div class="padding"]]
+__[#10132 >>10132]__ 
+Authoritards always act like they’re superior over others even though they’re probably some random Hispanic janitor from a tiny site in fucking Guatemala or some shit like that. 
+
+__[#10131 >>10131]__ 
+Neck yourself.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag foa"]]**Anonymous**[[/span]] 05/09/22 17:31 No. [[# 10134]] 10134 ▶ __[#10143 >>10143]__ 
+[[div class="padding"]]
+__[#10129 >>10129]__ 
+FACTS: the authorityfags deserved it. Anything to make auctoritas-san proud~
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/09/22 18:52 No. [[# 10143]] 10143 ▶
+[[div class="padding"]]
+__[#10134 >>10134]__ 
+auctoritas would hate fags like you.
+[[/div]]
+[[/div]]
+
+
+[[div class="reply"]]
+⯈ [[span class="anontag mi13"]]**Anonymous**[[/span]] 05/09/22 19:23 No. [[# 10144]] 10144 ▶
+[[div class="padding"]]
+notice how the authoritards that speaks the most shit are always containment wagies... curious
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag unaac"]]**Anonymous**[[/span]] 05/09/22 19:30 No. [[# 10145]] 10145 ▶
+[[div class="padding"]]
+__[#10131 >> 10131]__ 
+##aed052|>that flag##
+How the actual fuck did you get access to this site?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 05/09/22 19:40 No. [[# 10146]] 10146 ▶
+[[div class="padding"]]
+How do you guys keep on making up new stereotypes that don't even exist lol?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag bluebook"]]**Anonymous**[[/span]] 05/09/22 20:22 No. [[# 10147]] 10147 ▶
+[[div class="padding"]]
+__[#10129 >>10129]__ 
+The autism was on the authoritards for letting it happen lol.
+
+##aed052|>got steamrolled by a bunch of christcucks##
+##aed052|>became laughing stock of anomalous community for a decade##
+
+Honestly better off just killing yourself at this stage desu.
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/rpcb4k/Luck.png width="150px"]]
+
+⯈ **happi thread** [[span class="anontag contain"]]Anonymous[[/span]] 05/11/22 03:33 No. [[# 10333]] 10333 ▶
+
+post images of things that make you feel like its a happy day. also check em.
+
+##cyan|Your fortune: You will meet a dark handsome stranger##
+@@@@
+@@@@
+@@@@
+@@@@
+[[/div]]
+
+
+------
+
+[[div class="post"]]
+[[f<image Sketches_50.png width="250px"]]
+
+⯈ **where did the soul go?** [[span class="anontag contain"]]Anonymous[[/span]] 08/22/22 14:23 No. [[# 10442]] 10442 ▶ __[#10443 >>10443]__ 
+
+what went wrong?
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 08/22/22 14:31 No. [[# 10443]] 10443 ▶ __[#10444 >>10444]__ 
+[[div class="padding"]]
+__[#10442 >>10442]__ 
+quite simple really
+##aed052|>take God out of the equation##
+##aed052|>pay with your sovl##
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 08/22/22 14:46 No. [[# 10444]] 10444 ▶ __[#1045 >>10445]__ __[#10446 >>10446]__ 
+[[div class="padding"]]
+Auctoritas lost its soul when they stopped having weekly gay orgies in the library
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 08/22/22 15:01 No. [[# 10445]] 10445 ▶ __[#10447 >>10447]__ 
+[[div class="padding"]]
+__[#10444 >>10444]__ 
+wait wtf was that a thing????
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 08/22/22 15:15 No. [[# 10446]] 10446 ▶ __[#10447 >>10447]__ 
+[[div class="padding"]]
+__[#10444 >>10444]__ 
+The what now?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 08/22/22 15:16 No. [[# 10447]] 10447 ▶ 
+[[div class="padding"]]
+__[#10442 >>10445]__ 
+__[#10442 >>10446]__ 
+I made it up
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image AngryOwl.jpg width="250px"]]
+⯈ **i fucking hate this department** [[span class="anontag contain"]]Anonymous[[/span]] 05/22/22 11:02 No. [[# 10529]] 10529 (OP) ▶ __[#10540 >>10540]__
+
+every single day I have to deal with the same trivial shit
+
+just get up, establish links, transcribe shit, end comms, repeat. every single fucking day. 
+
+the department leader is a complete cocksucker who wont even give us a single day off work, because apparently we are so vital to the authority our veil of secrecy would collapse if i so dared going to the caribbean for some hookers and cocaine
+
+fucking hate the fact that research is exempt from this bullshit
+
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/22/22 12:32 No. [[# 10540]] 10540 ▶ __[#10541 >>10541]__
+[[div class="padding"]]
+__[#10529 >>10529 (OP)]__
+Oof, you sound like you're stuck at Comms. You are aware of the fact that those guys literally monitor your activity on a daily basis, are you?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/22/22 12:33 No. [[# 10541]] 10541 ▶ __[#10542 >>10542]__
+[[div class="padding"]]
+__[#10540 >>10540 ]__
+
+lmao that's so absurd. they give us our own machines to work with their VERY CRUTIAL AND IMPORTANT INFORMATION (lord forbid Malthus knows what the Rhodesian governor had for breakfast)
+
+but if that is the case, hi Jerry!
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**##Red|Anonymous (Mod)##**[[/span]] 05/22/22 12:34 No. [[# 10542]] 10542 ▶ __[#10543 >>10543]__
+[[div class="padding"]]
+__[#10541 >>10541 ]__
+
+Hey Ian!
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/22/22 12:34 No. [[# 10543]] 10543 ▶
+[[div class="padding"]]
+__[#10542 >>10542 (Mod)]__
+
+AAAAAAAAAAAAAAAAAAAAA
+
+##Red|(USER WAS BANNED FOR THIS POST)##
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/butter-4-help-me/tyr width="160px"]]
+⯈ **im gonna quit** [[span class="anontag protect"]]**Anonymous**[[/span]] 02/15/20 08:21 No. [[# 10565]] 10565 (OP) ▶ __[#10566 >>10566 ]__ __[#10567 >>10567 ]__ 
+[[div class="padding"]]
+
+##aed052|>protectorate##
+##aed052|>chief is an arab lady who hates my guts##
+##aed052|>both of my teammates are gay##
+##aed052|>get deployed to neutralize a pheno##
+##aed052|>mauled by cyborg aids baby##
+##aed052|>have to go to research site for medical care##
+##aed052|>informed im gonna be an augmentee for an MST##
+##aed052|>the kabashakai one##
+
+i cant keep doing this
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 02/15/20 09:01 No. [[# 10566]] 10566▶
+[[div class="padding"]]
+__[#10565 >>10565 (OP)]__
+
+##aed052|>protectorate##
+
+thatll do it
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 02/15/20 09:13 No. [[# 10567]] 10567▶ __[#10566 >>10566 ]__ 
+[[div class="padding"]]
+__[#10565 >>10565 (OP)]__
+
+##aed052|>having a female leader##
+##aed052|>working with gay people##
+
+couldnt be me
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 02/18/20 07:11 No. [[# 10583]] 10583▶ __[#10584 >>10584 ]__ 
+[[div class="padding"]]
+__[#10567 >>10567]__
+
+you're irish
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 02/18/20 07:12 No. [[# 10584]] 10584▶
+[[div class="padding"]]
+__[#10583 >>10583]__
+
+sorry
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/butter-4-help-me/0catenraged.jpg width="200px"]]
+⯈ **artist needed** [[span class="anontag research"]]**Anonymous**[[/span]] 02/19/20 01:12 No. [[# 10590]] 10590 (OP) ▶ __[#10591 >>10591]__ __[#10592 >>10592]__
+[[div class="padding"]]
+
+yo i just got assigned to an rpc and im looking for someone to draw it to put on the dossier
+
+@@ @@
+
+@@ @@
+
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/butter-4-help-me/0cathomophobic.jpg width="100px"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 02/19/20 01:24 No. [[# 10591]] 10591▶ __[#10593 >>10593]__
+[[div class="padding"]]
+__[#10590 >>10590 (OP)]__
+
+##aed052|>research##
+
+just take a photo
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**##RoyalBlue|AFRI Admin##**[[/span]] {{ID:B2MmfFmL}} 02/19/20 01:30  No. [[# 10592]] 10592▶
+[[div class="padding"]]
+__[#10590 >>10590 (OP)]__
+
+i know a guy on twitter
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 02/19/20 01:32 No. [[# 10593]] 10593▶ __[#10594 >>10594]__
+[[div class="padding"]]
+__[#10591 >>10591]__
+
+i cant
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcsandbox.wikidot.com/local--files/butter-4-help-me/0catgrumpy.jpg width="80px"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 02/19/20 01:33 No. [[# 10594]] 10594▶ __[#10595 >>10595]__
+[[div class="padding"]]
+__[#10593 >>10593]__
+
+is it something that you cant take photos of? i dont understand..?
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 02/19/20 01:34 No. [[# 10595]] 10595▶ __[#10596 >>10596]__
+[[div class="padding"]]
+__[#10594 >>10594]__
+
+no i just cant
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 02/19/20 01:36 No. [[# 10596]] 10596▶
+[[div class="padding"]]
+__[#10595 >>10595]__
+
+what are you talking about?? why would you draw it??? you have cameras all over the site, you probably monitor it with cameras?? in what world would you use a drawing?? and this isnt the first time someone has done this. it feels like this is every other entry in our database. whats going on???
+
+##red|(USER WAS BANNED FOR THIS POST)##
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+------
+
+[[div class="post"]]
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/livereaction.jpg width="160px"]]
+⯈ **uh oh sisters** [[span class="anontag contain"]]**Anonymous**[[/span]] 02/18/20 11:53 No. [[# 11992]] 11992 (OP) ▶ __[#11993 >>11993]__
+
+##aed052|>they forgot about the buff shark men at site 016##
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 02/18/20 12:03 No. [[# 11993]] 11993 ▶
+[[div class="padding"]]
+__[#11992 >>11992 (OP)]__
+my bad guys
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/tired.jpg width="160px"]]
+⯈ **I can't go on like this** [[span class="anontag protect"]]**Anonymous**[[/span]] 09/16/22 08:22 No. [[# 20134]] 20134 (OP) ▶ __[#20135 >>20135]__ __[#20136 >>20136]__ __[#20138 >>20138]__
+
+Why haven't you guys made an effort to destroy this satanic organization? You know the shit I've seen other agents do to their enemies? No joke, they would grab the bodies of dead combatants, freeze them, and throw them off of tall buildings for all to see to destroy their morale. And this is just the tip of the iceberg of the evil shit the Authority is constantly getting away with.
+
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 09/16/22 08:24 No. [[# 20135]] 20135 ▶
+[[div class="padding"]]
+__[#20134 >>20134 (OP)]__
+TLDR
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 09/16/22 08:25 No. [[# 20136]] 20136 ▶
+[[div class="padding"]]
+__[#20134 >>20134 (OP)]__
+##aed052|>and this is just the tip of the iceberg##
+kek
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 09/16/22 08:27 No. [[# 20137]] 20137 ▶ __[#20139 >>20139]__
+[[div class="padding"]]
+I've seen this kinda stuff before. Did you know that there was once this MST "painted highway" mission where black op agents would quickly draw a road leading directly to a wall that Malthus agents would run into, comically flattening themselves against it?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 09/16/22 08:28 No. [[# 20138]] 20138 ▶
+[[div class="padding"]]
+__[#20134 >>20134 (OP)]__
+I blame the budget cut
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 09/16/22 08:30 No. [[# 20139]] 20139 ▶ __[#20141 >>20141]__
+[[div class="padding"]]
+__[#20137 >>20137]__
+that's nothing. I heard from a coworker of mine they tied anvils to a string and used Marlboro cigarettes to bait nihil cultists. Once they grab one, the string is cut and the anvil flattens them into a thin sheet of paper. Satanic stuff.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 09/16/22 08:33 No. [[# 20140]] 20140 ▶
+[[div class="padding"]]
+##aed052|>they would grab the bodies of dead combatants, freeze them, and throw them off of tall buildings for all to see to destroy their morale##
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 09/16/22 08:35 No. [[# 20141]] 20141 ▶
+[[div class="padding"]]
+__[#20139 >>20139]__
+Yeah, back in the 50s, Authority soldiers used to put comically large dynamites inside letters full of hearts and kisses addressed from "mom". A bunch of howlers read the letter and it immediately blew up in their face. It killed 6 million howlers and was how we won the Austral war.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 09/16/22 08:39 No. [[# 20142]] 20142 ▶
+[[div class="padding"]]
+I heard WW1 started when an aci spy shot a bullet inside a letter and sent it to Archduke Ferdinand. When he opened it, the bullet flew through his head, killing him instantly and kickstarting the whole conflict.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 09/16/22 08:44 No. [[# 20143]] 20143 ▶
+[[div class="padding"]]
+I was there when we were dispatched to Vesuvia. A bunch of Malthus agents were there, how we cleared them was we lured them into the cliff without them noticing and signaled them to look down. They would realize they weren't standing on the ground, say "uh oh" and fall to their deaths, leaving a cloud of smoke on impact. Sadly, a lot of my buddies looked down as well. I'll never forget the last time I saw my friend Eric look me one last time as his eyes detatch from his eyesockets, suspended in midair to look at me and blink twice before reattaching to his falling body, creating a "POOF" shaped cloud on impact.
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+
+[[f<image http://rpcauthority.wikidot.com/local--files/rpcb4k/sadcat1.jpg height="120px"]]
+⯈ **that feel when** [[span class="anontag research"]]**Anonymous**[[/span]] 10/10/22 09:22 No. [[# 20201]] 20201 (OP) ▶ __[#20202 >>20202]__ __[#20203 >>20203]__
+
+got denied psych leave by the site director after my entire team got slaughtered by that sewing machine
+reason? personnel shortage.
+fml
+
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 10/10/22 09:23 No. [[# 20202]] 20202 ▶
+[[div class="padding"]]
+__[#20201 >>20201 (OP)]__
+that sucks man
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 10/10/22 09:42 No. [[# 20203]] 20203 ▶
+[[div class="padding"]]
+__[#20201 >>20201 (OP)]__
+It hurts, but something you research boys don't understand is that this isn't like other jobs. We- all of us- we're humanity's first line of defense. When we're needed, there's no sick days, no vacations, and no overtime.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 10/10/22 09:43 No. [[# 20204]] 20204 ▶
+[[div class="padding"]]
+__[#20203 >>20203]__
+wait does protection not get overtime?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 10/10/22 10:30 No. [[# 20205]] 20205 ▶ __[#20204 >>20204]__
+[[div class="padding"]]
+__[#20204 >>20204]__
+Of course not. We have a job to do, and it's not like my nights aren't already sleepless.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 10/10/22 10:33 No. [[# 20206]] 20206 ▶
+[[div class="padding"]]
+Wait, do you?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 10/10/22 10:36 No. [[# 20207]] 20207 ▶
+[[div class="padding"]]
+__[#20206 >>20206]__
+get overtime? yeah, time and a half for every hour over 50 up to 60.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 10/10/22 10:37 No. [[# 20208]] 20208 ▶
+[[div class="padding"]]
+Really?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 10/10/22 10:41 No. [[# 20209]] 20209 ▶
+[[div class="padding"]]
+__[#20208 >>20208]__
+?? you don't get that?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 10/10/22 10:42 No. [[# 20210]] 20210 (OP) ▶
+[[div class="padding"]]
+__[#20208 >>20208]__
+anon have you read your contract? they're also supposed to match your 401k. there was a strike back in 2018 and maintenance union got us ortho coverage too
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 10/10/22 10:43 No. [[# 20211]] 20211 ▶
+[[div class="padding"]]
+__[#20210 >>20210 (OP)]__
+think about that next time you shout at us over comms when your ipad stops working
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 10/10/22 10:41 No. [[# 20212]] 20212 (OP) ▶
+[[div class="padding"]]
+__[#20211 >>20211]__
+⚠️ you have alerted the janny
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image site070ama.jpg]]
+⯈ **Site-070 employee, AMA** [[span class="anontag research"]]Anonymous[[/span]] 01/19/23 10:46 No. [[# 20233]] 20233 ▶ __[#20234 >>20234]__ __[#20236 >>20236]__
+See title. Bored, will answer anything that isn't classified
+
+Pic: entrance to my office
+[!-- image source: https://commons.wikimedia.org/wiki/File:Exploring_an_abandoned_hospital_(16439249053).jpg --]
+
+~~~~
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 01/19/23 10:48 No. [[# 20234]] 20234 ▶ __[#20235 >>20235]__
+[[div class="padding"]]
+__[#20233 >>20233 (OP)]__
+isn't that just joining Malthus with extra steps
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 01/19/23 10:49 No. [[# 20235]] 20235 ▶
+[[div class="padding"]]
+__[#20234 >>20234]__
+That's classified.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 01/19/23 10:55 No. [[# 20236]] 20236 ▶ __[#20237 >>20237]__
+[[div class="padding"]]
+__[#20233 >>20233 (OP)]__
+Is it true that you guys fuck nollies?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 01/19/23 10:59 No. [[# 20237]] 20237 ▶ __[#20238 >>20238]__
+[[div class="padding"]]
+__[#20236 >>20236]__
+I hope we can all agree that's a horribly perverse and shameful thing to consider.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 01/19/23 11:01 No. [[# 20238]] 20238 ▶
+[[div class="padding"]]
+__[#20237 >>20237]__
+##aed052|>doesn't deny it##
+KEK
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[=]]
+++ ##red|Thread archived.##
+++ ##red|You cannot reply anymore.##
+[[/=]]
+------
+[[f<image A_blurry_sunset_great_for_a_background.jpg width="150px"]]
+⯈ [[span class="anontag utility"]]Anonymous[[/span]] 05/27/24 05:21 No. [[# 20648]] 20648 ▶ __[#20650 >> 20650]__
+Freedom! :D
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 05/27/24 05:40 No. [[# 20649]] 20649 ▶
+[[div class="padding"]]
+
+Happy for you anomaly-chan!
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/27/24 05:42 No. [[# 20650]] 20650 ▶ __[#20652 >>20652]__
+[[div class="padding"]]
+
+__[#20649 >>20649 (OP)]__
+Wait, what site is that? 
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 05/27/24 05:45 No. [[# 20652]] 20652 ▶ __[#20653 >>20653]__
+[[div class="padding"]]
+
+__[#20650 >>20650]__
+Isn't that Site-044? Check the image trace.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/27/24 05:48 No. [[# 20653]] 20653 ▶
+[[div class="padding"]]
+
+__[#20652 >>20652]__
+IT IS SITE-044 FUCK ME THAT'S MY SITE
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 05/27/24 05:52 No. [[# 20654]] 20654 ▶ __[#20655 >>20655]__
+[[div class="padding"]]
+
+Wait it's gotta be a Utility-class right?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/27/24 05:53 No. [[# 20655]] 20655 ▶ __[#20661 >>20661]__ __[#20663 >>20663]__ __[#20664 >>20664]__
+[[div class="padding"]]
+__[#20663 >>20663]__
+NIGGA A CONTAINMENT BREACH IS A CONTAINMENT BREACH WHAT THE FUCK HAPPENED TO THE ALARM I AM SO FUCKED
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 05/27/24 06:00 No. [[# 20658]] 20658 ▶
+[[div class="padding"]]
+
+Most competent containment wagie
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 05/27/24 06:01 No. [[# 20659]] 20659 ▶
+[[div class="padding"]]
+
+I'm so glad they added an icon for RPCs kek
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 05/27/24 06:04 No. [[# 20661]] 20661 ▶
+[[div class="padding"]]
+
+__[#20655 >>20655]__
+Holy fuck I'm crying
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 05/27/24 06:07 No. [[# 20663]] 20663 ▶
+[[div class="padding"]]
+__[#20655 >>20655]__
+
+Dawg check the bulletin board. You are so fucking fired
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 05/27/24 06:08 No. [[# 20664]] 20664 ▶
+[[div class="padding"]]
+
+__[#20655 >>20655]__
+This is the perfect opportunity to do another budget cut!
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag utility"]]**Anonymous**[[/span]] 05/27/24 06:08 No. [[# 20666]] 20666 ▶
+[[div class="padding"]]
+
+Satanic trips.
+
+Come get me faggots
+
+##red|(USER WAS BANNED FOR THIS POST)##
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image hand.jpg width="150px"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 07/01/24 02:16 No. [[# 20704]] 20704 ▶ __[#20705 >>20705]__
+Raise your hand if you were here when the Vennart hexagon got leaked and trolls posted it in every thread
+
+~~~~
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 07/01/24 02:35 No. [[# 20705]] 20705 ▶ __[#20706 >>20706]__
+[[div class="padding"]]
+__[#20704 >>20704 (OP)]__
+no anon that was fucked up, i heard like 15 people died
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 07/01/24 02:39 No. [[# 20706]] 20706 ▶
+[[div class="padding"]]
+__[#20705 >>20705]__
+deserved for browsing without cognitohazard blockers tbh LMAO
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 07/01/24 07:05 No. [[# 20707]] 20707 ▶ __[#20708 >>20708]__
+[[div class="padding"]]
+Wait, whats the vennert hexagon?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image vennart-hexagon.jpg width="150px"]]
+⯈ [[span class="anontag research"]]**Anonymous**[[/span]] 07/01/24 07:07 No. [[# 20708]] 20708 ▶ __[#20709 >>20709]__ __[#20710 >>20710]__ __[#20711 >>20711]__
+[[div class="padding"]]
+__[#20707 >>20707]__
+this
+~~~~
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]**Anonymous**[[/span]] 07/01/24 07:07 No. [[# 20709]] 20709 ▶
+[[div class="padding"]]
+__[#20708 >>20708]__
+blimey
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]**Anonymous**[[/span]] 07/01/24 07:09 No. [[# 20710]] 20710 ▶
+[[div class="padding"]]
+__[#20708 >>20708]__
+Ah shit, here we go again
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]**Anonymous**[[/span]] 07/01/24 07:09 No. [[# 20711]] 20711 ▶
+[[div class="padding"]]
+__[#20708 >>20708]__
+KILL YOURSELF
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+[[div class="post"]]
+[[f<image https://em-content.zobj.net/source/apple/419/face-with-bags-under-eyes_1fae9.png width="120px"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 18/03/25 09:15 No. [[# 20783]] 20783 ▶ __[#20786 >>20786]__ __[#20788 >>20788]__ __[#20791 >>20791]__ __[#20794 >>20794]__
+[[div class="padding"]]
+##aed052|>the Mexican got a hold of the Muslim-Killing sword RPC again##
+This is gonna be a long day
+
+@@ @@
+
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 18/03/25 09:20 No. [[# 20786]] 20786 ▶
+[[div class="padding"]]
+__[#20783 >>20783]__  
+##aed052|>the cafeteria banned almond mom milk from the menu.##
+And they said the Authority isn’t getting more and more corrupt…
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 18/03/25 09:22 No. [[# 20788]] 20788 ▶
+[[div class="padding"]]
+__[#20783 >>20783]__  
+##aed052|>fellow researcher got fired for fucking the pumpkin twink##
+##aed052|>it’s the 8th time this week##
+I should’ve joined UNAAC instead.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 18/03/25 09:28 No. [[# 20791]] 20791 ▶
+[[div class="padding"]]
+##aed052|>Went to go on a mission to fight some wolves.##
+##aed052|>This should be easy!##
+##aed052|>It’s the Nazi werewolves again.##
+Can't we get normal werewolves for once?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 18/03/25 09:35 No. [[# 20794]] 20794 ▶
+[[div class="padding"]]
+##aed052|>the clockwork grim reaper crow god is currently sucking my dick but giving me straight teeth.##
+RPC is hell.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image https://i.imgur.com/1zy33Eu.png width="100px"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 18/03/25 09:38 No. [[# 20795]] 20795 ▶ __[#20796 >>20796]__ __[#20800 >>20800]__
+[[div class="padding"]]
+Are all of these actual RPCs or are you guys trolling me?
+@@ @@
+@@ @@
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 18/03/25 09:39 No. [[# 20796]] 20796 ▶ __[#20798 >>20798]__
+[[div class="padding"]]
+__[#20795 >>20795]__  
+They’re real trust me bro.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 18/03/25 09:40 No. [[# 20798]] 20798 ▶ __[#20801 >>20801]__ __[#20806 >>20806]__
+[[div class="padding"]]
+__[#20796 >>20796]__
+I checked the J files you guys make for fun and they’re not even there. Where the fuck did all these ideas even came from?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 18/03/25 09:41 No. [[# 20800]] 20800 ▶
+[[div class="padding"]]
+__[#20795 >>20795]__
+Newfag lol.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 18/03/25 09:43 No. [[# 20801]] 20801 ▶
+[[div class="padding"]]
+__[#20798 >>20798]__  
+No they’re real you just didn’t search hard enough.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 18/03/25 09:50 No. [[# 20803]] 20803 ▶
+[[div class="padding"]]
+##aed052|>asked to revise the RPC-866 file##
+##aed052|>they made it crooked for literally no reason##
+fml
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 18/03/25 09:55 No. [[# 20804]] 20804 ▶
+[[div class="padding"]]
+##aed052|>Moms Against Magic shat the servers again.##
+Maybe AEGIS was right…
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 18/03/25 09:57 No. [[# 20806]] 20806 ▶ __[#20807 >>20807]__ __[#20809 >>20809]__
+[[div class="padding"]]
+__[#20798 >>20798]__  
+Just use the search button.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 18/03/25 09:58 No. [[# 20807]] 20807 ▶
+[[div class="padding"]]
+__[#20806 >>20806]__  
+lol
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 18/03/25 09:59 No. [[# 20809]] 20809 ▶ 
+[[div class="padding"]]
+__[#20806 >>20806]__  
+Holy kek
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 18/03/25 10:00 No. [[# 20810]] 20810 ▶
+[[div class="padding"]]
+We used to use the complaint box for shit like this
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image csdguy.jpg width="120px"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 19/03/25 14:03 No. [[# 20837]] 20837 ▶ __[#20839 >>20839]__   __[#20840 >>20840]__ __[#20850 >>20850]__  __[#20851 >>20851]__
+[[div class="padding"]]
+What do these guys even do? We’re not even allowed to use them anymore.
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 19/03/25 14:03 No. [[# 20839]] 20839 ▶
+[[div class="padding"]]
+__[#20837 >>20837]__  
+Site-070 poster detected
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:04 No. [[# 20840]] 20840 ▶ __[#20842 >>20842]__
+[[div class="padding"]]
+__[#20837 >>20837]__  
+Their best :)
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 19/03/25 14:06 No. [[# 20842]] 20842 ▶ __[#20844 >>20844]__
+[[div class="padding"]]
+__[#20840 >>20840]__  
+One of them raped and murdered 5 people.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:07 No. [[# 20844]] 20844 ▶
+[[div class="padding"]]
+__[#20842 >>20842]__  
+Bullshit. If he did he would’ve been promoted into a Global Director already.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 19/03/25 14:08 No. [[# 20846]] 20846 ▶ __[#20848 >>20848]__
+[[div class="padding"]]
+They’re cannon fodder. Simple as.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 19/03/25 14:09 No. [[# 20848]] 20848 ▶
+[[div class="padding"]]
+__[#20846 >>20846]__  
+Don’t you guys literally have more yearly fatalities than CSD personnel for the past 5 years?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image cammy.jpg width="115px"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 19/03/25 14:12 No. [[# 20850]] 20850 ▶
+[[div class="padding"]]
+__[#20837 >>20837]__  
+The OEaR saw the CSD-6868 exploration log and decided death row inmates are humans too.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 19/03/25 14:13 No. [[# 20851]] 20851 ▶
+[[div class="padding"]]
+__[#20837 >>20837]__  
+You're so right, we should go back to using RPC-002 on them again.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:15 No. [[# 20853]] 20853 ▶ __[#20854 >>20854]__ __[#20855 >>20855]__ __[#20856 >>20856]__ __[#20857 >>20857]__
+[[div class="padding"]]
+This is now a CSD-class only thread.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:16 No. [[# 20854]] 20854 ▶
+[[div class="padding"]]
+__[#20853 >>20853]__  
+Sup.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:16 No. [[# 20855]] 20855 ▶
+[[div class="padding"]]
+__[#20853 >>20853]__  
+Hey oomf
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:17 No. [[# 20856]] 20856 ▶
+[[div class="padding"]]
+__[#20853 >>20853]__  
+Yo wassup
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 19/03/25 14:17 No. [[# 20857]] 20857 ▶
+[[div class="padding"]]
+__[#20853 >>20853]__  
+Here.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 19/03/25 14:18 No. [[# 20859]] 20859 ▶
+[[div class="padding"]]
+Where the fuck did you guys get internet access from?
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image https://media.tenor.com/gZvkbcLf1mYAAAAe/scary-spooky.png width="120px"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 02/16/25 14:03 No. [[# 21122]] 21122 ▶
+[[div class="padding"]]
+WHY THE FUCK ARE SO MANY OF OUR FILES STILL ONLY AVAILABLE ON ARCOS 7.5? NOBODY WANTS TO SEE THAT SHITTY ASS CRT EMULATOR ITS BURNING MY FUCKING EYES
+
+@@ @@
+@@ @@
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 02/16/25 14:05 No. [[# 21125]] 21125 ▶ __[#21128 >>21128]__
+[[div class="padding"]]
+I wouldn't mind it that much if our global servers aren't down and we're forced to use 7.5.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 02/16/25 14:07 No. [[# 21126]] 21126 ▶ __[#21127 >>21127]__
+[[div class="padding"]]
+The global directory is down, and I can't connect to EURACOM servers.  
+We are currently under attack. It's over.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 02/16/25 14:08 No. [[# 21127]] 21127 ▶
+[[div class="padding"]]
+__[#21126 >>21126]__  
+update the router firmware you fucking retard.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/16/25 14:09 No. [[# 21128]] 21128 ▶ __[#21129 >>21129]__
+[[div class="padding"]]
+__[#21125 >>21125]__  
+Oh yeah, ARC’s internal server’s been degrading the past 5 years,  
+which is why we had to look up info through tags.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 02/16/25 14:10 No. [[# 21129]] 21129 ▶ __[#21131 >>21131]__
+[[div class="padding"]]
+__[#21128 >>21128]__  
+Weren’t there plans to port the archive to a different server?
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/16/25 14:12 No. [[# 21131]] 21131 ▶ __[#21133 >>21133]__  
+[[div class="padding"]]
+__[#21129 >>21129]__  
+We did but the guy in charge of that defected and used the server space  
+to fill up the archive for Outreach International instead.
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image https://www.giantbomb.com/a/uploads/square_small/0/30/11508-gman.jpg width="115px"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 02/16/25 14:13 No. [[# 21133]] 21133 ▶
+[[div class="padding"]]
+__[#21129 >>21129]__  
+##aed052|>be administration staff##
+##aed052|>promise to contribute to the authority##
+##aed052|>use up all authority resources for omega iota instead##
+.
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcauthority.wdfiles.com/local--resized-images/rpcb4k/worseepstein.jpeg/medium.jpg width="200px"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 02/03/26 14:03 No. [[# 22120]] 22120 ▶
+[[div class="padding"]]
+The OESA just uploaded their version of the Epstein library.
+##aed052|>14,035 mentions of the Authority##
+##aed052|>6,102 mentions of the UNAAC##
+##aed052|>only 2 mentions of OI##
+are they for fucking real right now
+[[/div]]
+
+
+[[div class="reply"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 02/03/26 14:05 No. [[# 22122]] 22122 ▶ 
+[[div class="padding"]]
+I knew they were innocent!
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag blacksite"]]Anonymous[[/span]] 02/03/26 14:10 No. [[# 22123]] 22123 ▶  __[#22124 >>22124]__  __[#22125 >>22125]__ __[#22127 >>22127]__ __[#22128 >>22128]__ __[#22128 >>22128]__ __[#22129 >>22129]__ 
+[[div class="padding"]]
+anyone else look up their name lol . ,  402 results
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/wtf width="110px"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/03/26 14:10 No. [[# 22124]] 22124 ▶
+
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+##aed052|>402 results##
+
+Why the fuck is anon in the files
+
+[[/div]]
+[[/div]]
+
+
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/03/26 14:11 No. [[# 22125]] 22125 ▶
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+no fucking shot
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 02/03/26 14:11 No. [[# 22126]] 22126 ▶
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+larp
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 02/03/26 14:12 No. [[# 22127]] 22127 ▶
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+Anon don't leave us hanging like this. Please tell us more.
+
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/hidden-freak width="110px"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/03/26 14:13 No. [[# 22129]] 22129 ▶  __[#22132 >>22132]__ 
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+
+ _
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/laugh-mug-puter.jpeg width="110px"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/03/26 14:13 No. [[# 22130]] 22130 ▶
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+put me in the cap
+ _
+ _
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/tiktok-goy.png width="115px"]]
+⯈ [[span class="anontag administer"]]Anonymous[[/span]] 02/03/26 14:14 No. [[# 22132]] 22132 ▶
+[[div class="padding"]] 
+
+__[#22129 >>22129]__  
+##aed052|>tiktok reaction image##
+GTFO my board normgroid
+
+ _
+ _
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/03/26 14:15 No. [[# 22134]] 22134 ▶ __[#22135 >>22135]__ 
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+##aed052|>blacksite##
+##aed052|>posting in epsteincase##
+
+what could this possibly mean...
+[[/div]]
+[[/div]]
+
+
+[[div class="reply"]]
+
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/scared width="165px"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 02/03/26 14:15 No. [[# 22136]] 22136 ▶
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+What did you do anon..
+ _
+[[/div]]
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 02/03/26 14:15 No. [[# 22137]] 22137 ▶ __[#22144 >>22144]__ 
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+fakest and gayest shit ive ever seen and everyone in the thread is falling for it. 
+
+##aed052|>403 results##
+post proof or shut the fuck up
+
+[[/div]]
+[[/div]]
+
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 02/03/26 14:16 No. [[# 22138]] 22138 ▶
+[[div class="padding"]] 
+
+__[#22123 >>22123]__  
+it means you're a gullible faggot
+[[/div]]
+[[/div]]
+
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wdfiles.com/local--files/rpcb4k/broke-niggas width="200px"]]
+⯈ [[span class="anontag blacksite"]]Anonymous[[/span]] 02/03/26 14:16 No. [[# 22144]] 22144 ▶
+[[div class="padding"]] 
+
+__[#22137 >>22137]__  
+
+ _
+ _
+ _
+ _
+ _
+ _
+ _
+ _
+
+
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+
+
+------
+
+[[div class="post"]]
+[[f<image http://rpcauthority.wikidot.com/local--files/rpcb4k/692%20in%20a%20swimmie.png width="100px"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 06/06/26 15:32 No. [[# 22153]] 22153 ▶ __[#22157 >>22157]__   __[#22158 >>22158]__
+
+I'm gonna fucking kill myself RPCbros Site-026 got the hottest girl I've ever seen while I'm stuck with the spiders, those lucky motherfuckers in Greece get the literal princess and all I get are SPIDERS how do I transfer??? 
+
+~~~~
+
+
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wikidot.com/local--files/rpcb4k/crankycuzyourehungryaren%27tyou width="100px"]]
+⯈ [[span class="anontag protect"]]Anonymous[[/span]] 06/06/26 15:59 No. [[# 22157]] 22157 ▶ 
+
+__[#22153 >>22153]__  
+cranky because you fuck spiders arent you
+@@ @@
+~~~~
+[[/div]]
+
+[[div class="reply"]]
+[[f<image http://rpcauthority.wikidot.com/local--files/rpcb4k/spider-waifu width="100px"]]
+⯈ [[span class="anontag research"]]Anonymous[[/span]] 06/06/26 15:59 No. [[# 22158]] 22158 ▶ __[#22159 >>22159]__ 
+
+__[#22153 >>22153]__  
+But then spider waifu will miss you..
+@@ @@
+~~~~
+[[/div]]
+
+[[div class="reply"]]
+⯈ [[span class="anontag contain"]]Anonymous[[/span]] 06/06/26 16:00 No. [[# 22159]] 22159 ▶ 
+[[div class="padding"]] 
+
+__[#22158 >>22158]__  
+research niggas never beating the allegations
+@@ @@
+~~~~
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+
+
+
+
+
+~~~~
+

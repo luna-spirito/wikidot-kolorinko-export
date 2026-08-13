@@ -1,0 +1,316 @@
+---
+title: "Train of reminiscence for a synthetic_mind"
+tags: ["eoi-tale", "gear", "pcaao", "tale", "the-array"]
+page_id: "908584443"
+site: "rpcauthority"
+slug: "train-of-reminiscence-for-a-synthetic-mind"
+revision: 6
+revision_id: "1545482897"
+author: 9678829
+timestamp: 1785091176
+---
+
+[[module CSS]]
+div.terminal{
+    border: 1px solid black;
+    border: double 5px #AEC0C0;
+    background-color: #000;
+/* black shadow at the top of the terminal */
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    color: rgba(174,192,192,1);
+    background-color: black;
+    border: double 3px #AEC0C0
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */
+    animation: scan 12s linear 0s infinite; /* Same as above */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(174,192,192,1);
+    padding-left: 2em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* You may need to change this depending on the length of your terminal. If the scanline stops halfway, increase the second number.*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #AEC0C0;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #AEC0C0;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #000;
+    text-decoration: underline;
+    background-color: #AEC0C0;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+
+[[include component:rate title=Train of reminiscence for a synthetic_mind]]
+
+[[div style="color:black;background-color: white; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/GEAR_Logo_border.png width="50px" height="50px" ]]
+**Object Number:** A-099 
+
+**Containment Requirements:** N/A
+
+**Threat Level:** Active Usage
+
+**Utilization Procedures:** A-099 serves as a security robot in Facility-041, and is allowed to move freely within Facility-041. Maintenance of A-099 is to occur on a bi-monthly basis. A-099 is to be used to determine the thoughts of staff, and to determine possible perpetrators of corporate espionage.  
+
+**Description:** A-099 is a civilian grade retail android, the model of which is manufactured by GEAR. A-099 has telepathic abilities, which it can use to read the thoughts of human subjects. A-099 was a model used in testing the capabilities of generation-2 synthetic minds in a robotic chassis. All attempts to recreate the conditions in which A-099 was created have failed to yield similar results. Experimentation is ongoing. 
+[[/div]]
+@@@@
+[[div style="color:black;background-color: white; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/GEAR_Logo_border.png width="50px" height="50px"]]
+= **Anomaly Transfer File:** A-099 
+
+**From:** Facility-041
+
+**To:** Facility-019
+
+**Status:** Stolen
+
+**Written Report:** The transport truck was stopped by a tree that had been placed onto the road. Then we were ambushed by some robotic humanoids, they stole A-099 and a few offline security droids. Overall losses were below $100,000 excluding A-099, though it must be stated that the loss of A-099 isn't a massive concern.
+[[/div]]
+@@@@
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+Array Database
+[[size 120%]]Unit File: C80E14[[/size]]
+
+**Array ID:** C80E14
+
+**Self ID:** Chromia
+
+**Unit Value:** 57.41% 
+
+**Unit Applications:** Infiltration
+-----
++++ **Appearance**
+
+**Unit Type:** Android (Gender Model: Female)
+
+**Physical Appearance Description:** Human characteristics are consistent with human females of European descent in early adulthood. Their hair is straight with adjustable length, to a maximum of 52.1cm, which is #43BFF1 in colour. The iris of the Unit's eye is capable of changing colour in order to make human interaction easier. Like most Androids, the unit has "Comfort/Decency Code" that makes it uneasy when its pelvic area is not covered by a form of clothing. This effect also applies to the unit's upper chest, but not its shoulders, neck, or abdominal regions. Like most Androids, the unit has been designed so that it can be differentiated from humans at a glance. Where ears would be located on a human, metallic domes with singular antennae can be seen.
+-----
++++ **Capabilities** 
+
+**Processing Capabilities:** Sapient/Sub-Average
+
+**Physical Capabilities:** Humanoid/Sub-Average
+
+**Abnormal Capabilities:** Psionic/Very-High 
+
+**Notable Flaws:** Unit needs to use its psionic abilities to make humans believe it's human. The unit needs to be charged at a 120v outlet a minimum of once a week or it will cease to function. Similar to other Androids, the unit has very limited combat capabilities without its psionic talents. 
+-----
++++ **Additional Notes**
+
+**Relations:** Unit finds it difficult to communicate effectively with other units, resulting in it having difficulty in forming relations with other units.
+
+**Management:** N/A
+
+**Origin:** Recovered from GEAR while the unit was in transit.   
+[[/div]]
+[[/div]]
+@@@@
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+Array Database
+[[size 120%]]Operation File: 39JSM[[/size]]
+
+**Operation type:** Infiltration
+
+**Units involved:** C80E14
+-----
+**Operation objective:** Investigate PCAAO Site-23 and assess the anomalous assets in usage within the facility.
+
+**Operation outcome:** Success
+-----
+++++ **Assessment:** PCAAO Site-23
+
+**Abnormal objects on site:** 31
+
+**Notable anomalous object(s):** 
+* __A-405__
+-----
+++++ **Assessment:** A-405
+
+**Global Threat Level:** Low
+
+**Array Threat Level:** High
+
+**Threats (specific):** Abnormal Humanoid production
+
+**Response:** N/A (lacking resources for effective response)
+
+------
+
+=  **Written Log**
+
+**Unit Writing:** C80E14
+
+**Written Operation Log:** When I entered the facility it was business as usual; get in, look around, gather intelligence, and get out. But as I explored this building, I started to hear muffled screaming. Not from the mouth but from the mind.
+
+I could hear the very essence of people, screaming out in agony. It only got louder and louder as I approached the room labeled A-405. "What could be causing so much suffering?" I thought to myself as I approached the room.
+
+Then I saw it. A glass tube, with thousands of souls caught within it. I couldn't be in the room for long, too much screaming... Reminds me of that __[[[http://www.rpc-wiki.net/rpc-256|accursed building]]]__. So many screaming minds being forced into a body without care for what happens to them... creating what they call a "Synthetic Mind"
+
+GEAR are the only ones that do this, that much I am certain of.
+[[/div]]
+[[/div]]
+
+After finishing her report Chromia made her way towards a subway station, despite being a unit of the Array she still needed to get back to where she took shelter. The station was nearly empty, so she didn't need to put a lot of effort into hiding her features. The station itself wasn't any different from other Shanghai subway station. A wall to her right appeared as it always would, but there was no station staff insight. 
+
+The last daily train of the line that she needed to go on had just departed. Meaning that she would have to wait until morning for the next train. She looked back to her right, only to see that an entrance to an unknown lower level had opened. She thought long and hard about this new entrance, but in the end, her curiosity got the better of her. 
+
+As she began to descend the stairs she felt the thoughts of what must be station staff. Except they were in a panic, sprinting towards her position. Before she could probe any further she reached the bottom, looking back to see that the stairs were far steeper than what she descended. "My first day on the job, and I let a civilian enter the RPC" Chromia could now hear what her pursuer was thinking, "I need to call Wuchen-15, hopefully, they'll know what to do" 
+
+A voice began to speak over the PA, "You are welcome to take [http://rpcauthority.wikidot.com/rpc-cn-015-en Shanghai Rail Transit Line ██], this train's terminal station area is ████, please remember to give your seats to senior and disabled passengers if needed" The voice was like that of a traditional station broadcast, but there was no line ██, and Chromia knew it. The voice continued to speak "The next stop, Shanghai South Railway Station, can be transferred to Rail Transit Lines 1 and 3, passengers who need to transfer, please pay attention to the train's first and last shift time, so your travel is not delayed..."
+
+There was another thing that perplexed Chromia, why couldn't she perceive the numbers of the transit line and the terminal station. But there were bigger issues that she had to deal with. While she could still read the thoughts of the man who tried to stop her from going down those stairs, her connection was getting weaker. And there was the bigger issue of her battery level being at 13% which could give out at any time. 
+
+Examining her surroundings, Chromia found herself within an island subway station, the platform of which was no different from any other in the Shanghai area. 
+
+A train arrived on the ████ side of the station, it was full of passengers. Even though it was not where Chromia wanted to go, she really didn't have any other options. 
+
+She could see the passengers with her eyes, but not with her mind. 
+
+The doors opened, and not a soul left that train. Instead, every single passenger within the train turned to face Chromia. Completely wordlessly she entered the train with her powers not concealing her robotic nature. She could tell that the rest of the passengers had already noticed her robotic nature, and it's not like you can place thoughts where there is no mind to place them. 
+
+The train doors closed as Chromia grabbed one of the rings. She turned her head to look out the windows which showed nothing but the underground tunnels. Anything to avoid the gaze of the people starring at her. 
+
+Her battery started to tick down. 
+
+> 12% 
+
+> 11%
+
+> 10%
+
+A sudden tap on the back of her right shoulder drew her attention away from the walls of the seemingly infinite tunnel. "Chromia, is that you?" The android turned her head to see a giant straw doll wrapped in a paper dress way trying to get her attention. 
+
+"Do I know you?" The android inquired.
+
+"It's me, we were built on the same line, from the same batch of synthetic minds. Don't you remember?" The doll stated.
+
+"From what I remember, you weren't a straw doll in a paper dress. So what's actually going on here?" 
+
+"A psychotronic are you?" 
+
+"Excuse me, what?"
+
+"That's okay, you don't have to understand what I mean" 
+
+All the lights in the train went dark. Then it was silent, completely silent. 
+
+> 9%
+
+Suddenly, all the lights came back on. But all the passengers were missing. In their place were station attendants, or at least people dressed like them. 
+
+They all began to speak in unison with their heads turned towards the lone android. "I am sorry miss, but we are going to need you to exit the train. If you refuse to leave peacefully, then we will be forced to contact the authorities to have them remove you" 
+
+The doors to the train opened to reveal that the endless walls of the tunnel had been replaced by a sheer void. 
+
+"Call the authorities then, because there is no way I am getting off a moving train" Chromia stated. 
+
+All of the station attendants let go of their rings and got up from their seats. After getting a closer look at them, Chromia recognized that these attendants were no more than repeats of the same 4 or 5 people. 
+
+They began to move closer and closer to the android. Forcing her to back up until she was at the edge of the doorway to the abyss. The attendants took one more step forward, and the android fell into the endless abyss. 
+
+She closed her eyes expecting the end. 
+
+> 8%
+
+But the end didn't come, instead, she found herself on a concrete floor. There was no light, but she could feel that the ground was concrete. 
+
+A light appeared in the distance, flickering harmlessly to the beat of an unknown rhythm. 
+
+The android made her way towards flickering light, and it began to run into the distance. She pursued the light, nearly catching it in her hands. 
+
+> 7%
+
+She then found herself within a perfectly clean laboratory. A logo resembling a gear on the side of the walls. She watched as men in lab coats tore apart the ones she was built with. She could hear the screams of their synthetic minds, and she wanted to scream with them. But all she could do was stand and smile. 
+
+Watching as those she knew were being tortured in front of her eyes. 
+
+Smiling, as she was told to. 
+
+Making sure that the ones who were doing it didn't show sympathy towards the machines that they were dismantling. 
+
+She was forced to do this, she lacked free will, she stood and watched as her nightmare unfolded in front of her eyes. If only she had the will, she could've stopped it, but she didn't. 
+
+Then she remembered the Array, and how they gave her the will to say no. And for that, she is forever grateful. 
+
+> 6% 
+
+But then it all stopped, and she was back on the train. 
+
+The doors opened and on the other side was  Shanghai South Railway Station. She quickly exited, making sure that she kept up the human disguise as she left the station. 
+
+Authority personnel were everywhere in the station, presumably because of the anomaly that she had entered. But she made it out all the same. 
+
+She reached the surface without issue and began to make her way on foot towards her place of shelter. 
+
+"If I hurry, I should be able to make it back before my-" Chromia's inner thoughts were interrupted.
+
+> 5% Battery detected: Entering emergency power-saving mode. 
+
+= //**Thunk**//
+
+[[div style="border: solid 2px black; padding: 1px 15px;"]]
+[[=]]
+++ **PCAAO:** Anomaly File
+[[/=]]
+[[f>image http://rpcauthority.wikidot.com/local--files/train-of-reminiscence-for-a-synthetic-mind/path5174-7-1-2-8-2.png?width=392&height=376 width="65px" height="65px" ]]
+
+[[f<image http://rpcauthority.wikidot.com/local--files/train-of-reminiscence-for-a-synthetic-mind/image0.png]]
+
+**Anomaly ID #:** 493
+
+**Threat Level:** 3
+
+**Benefit Level:** 2
+
+**Security Protocols:** A-493 is to be restrained on a stretcher within a standard humanoid containment unit at all times outside of experimentation scenarios. Additionally, A-493's battery is to remain uninstalled from A-493 outside of experimentation scenarios. Instead, A-493's tail is to remain plugged into the outlet within its cell whenever its battery is not present. All staff assigned to A-493 are to be trained in proper mental disciplines according to manual 493-12-C, with no exceptions.  
+
+**Description of Anomaly:** A-493 is a GEAR civilian grade retail android resembling a human female with long blue hair. A-493 has various psychotronic abilities that allow it to...
+[[/div]]
+

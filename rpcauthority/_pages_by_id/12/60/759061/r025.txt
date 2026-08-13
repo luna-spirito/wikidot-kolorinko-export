@@ -1,0 +1,625 @@
+---
+title: "Horoscope Contest"
+tags: ["contest", "hub"]
+page_id: "1260759061"
+site: "rpcauthority"
+slug: "horoscope-contest"
+revision: 25
+revision_id: "1545661884"
+author: 3050074
+timestamp: 1785727877
+---
+
+[[module CSS]]
+@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);
+[[/module]]
+
+[[module css]]
+.yui-navset>ul li:last-child {
+  opacity: 0;
+  font-weight: bold;
+}
+
+.yui-navset>ul li:last-child.selected {
+  opacity: 1;
+}
+[[/module]]
+
+[[=image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Horoscope_Zodiac_Wheel.png style="width: 300px;"]]
+
+= [[span style="font-family: Moonriseregular; font-size: 315%;"]]**HOROSCOPE CONTEST**[[/span]]
+
+@@ @@
+
+
+> //Astrology is assured of recognition from psychology, without further restrictions, because astrology represents the summation of all the psychological knowledge of antiquity.// 
+> 
+> [[>]]
+> -- Carl Jung
+[[/>]]
+
+----
+
++++ Introduction
+
+Welcome to the first community-driven contest, the Horoscope! This contest is non-staff driven, and as such, will not be run as homogeneously as other events. It is a freestyle event, which means that each article must pertain to a singular sign of the Zodiac in some way, shape, or form. How you go about this though, is entirely up to you! Detailed below will be a list of rules for entry and a brief overview of each astrological sign and its associated themes. However, the most important rule is, have fun. If you have any additional questions: message [[*user Almarduk]] or [[*user televisionist]].
+
+----
+
++++ The Zodiac
+
+[[tabview]]
+ [[tab Aries]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aries_Dim.png style="width: 75px;"]]
+++++ Aries, The Ram
+[[/=]]
+----
+
+Aries is the first sign of the Zodiac, and as such, represents leaders -- bold, ambitious, confident, and assertive. Uncomplicated and single-minded, Aries represents **fire** and jumps headfirst to action, frustrated by detail and nuance. Conservative but not unintelligent, Aries prefers things done quickly.
+
+Astrology believes that Zodiac signs inherit their wisdom from the previous sign on the wheel. In Aries' case, there is no "previous" sign, and no wisdom to inherit. Aries is thereby blindly optimistic and, not unlike children, singular and somewhat egotistical in its approach to life. Believing in "every person for themselves," it rarely indulges in generosity.
+
+Aries also has a short temper -- both in the duration of its fiery outbursts, and the buildup preceding them.
+
+------
+
+* Single-minded and driven
+* Represented by fire and great force
+* Upbeat and focused on the joy of life
+* Natural leaders
+* Quick to anger and quick to calm
+* Opposite of Libra
+
+ [[/tab]]
+ [[tab Taurus]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Taurus_Dim.png style="width: 75px;"]]
+++++ Taurus, The Bull
+[[/=]]
+----
+
+The Bull, Taurus, is often associated with the worship of several ancient cattle Gods. One of the first astrological signs discovered by the ancient Mesopotamians, they referred to it as the "The Great Bull of Heaven." Tauruses are a fixed feminine modality represented by the element of **earth** and the material world.
+
+Taureans are recognized by their stubbornness and rigid focused need to be right. Frequently, they are viewed as the sign of strength, moral depth, and persistence. Although the Taurus is a feminine sign and is under the celestial body of Venus, it is still characterized as a strong and inflexible source of willpower. 
+
+While the Taurus represents strength and resistance to change, it is not entirely unmoving. For change to affect a Taurus, it must reflect a true change of heart.
+
+----
+
+* Represented by earth and the material world
+* Stubborn and rigid
+* Morale and character depth
+* Natural artists
+* Opposite of Scorpio
+
+ [[/tab]]
+ [[tab Gemini]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Gemini_Dim.png style="width: 75px;"]]
+++++ Gemini, The Twins
+[[/=]]
+----
+
+Symbolized by celestial twins, Gemini is a sign of **air**: shifting and changing, the interests Gemini pursues are so numerous that it had to split in two.
+
+Two main attributes are accredited to Gemini -- duality, and change. First and foremost, a social sign, the Gemini are commonly interpreted as two personalities sharing a face or two masks sharing a body, both swiftly swapping places to approach different objectives and emotions. These changes are (most commonly) not a sign of hypocrisy or falsity. Rather like a hummingbird flying from flower to flower, Gemini cannot be sated with single passions and is forced to change and travel to avoid stagnation and withering. It is unable to exist as a hermit, as the many unsatisfied screams of its interests will negate any possibility of calm and satisfaction in quiet.
+
+These attributes express themselves socially in ways that are hurtful for their friends. Charming and colorful, Gemini will be quick to make friends and even quicker to set them aside for new pursuits. Keeping up with its quickly changing colours and interests is the key to remaining close to Gemini.
+
+------
+
+* Duality and the reflection of self
+* Represented by air
+* Quickly shifting and moving
+* Extroverted and social
+* Varied and expansive in interests and passions
+* Opposite of Sagittarius
+
+ [[/tab]]
+ [[tab Cancer]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Cancer_Dim.png style="width: 75px;"]]
+++++ Cancer, The Crab
+[[/=]]
+----
+
+Cancer is the fourth sign of the Zodiac. Ancient Egyptians framed the sign as a scarab beetle, while the Mesopotamians coined a turtle. It is most commonly known now as the crab. No matter the animal, Cancer is always shown pushing the sun across the sky: signifying the summer solstice. Cancer is the sign of cardinal **water** -- forceful, emotional, impatient, and creative.
+
+Cancerians are considered by some to be the heart of the Zodiac. Highly emotional and intense, they appear as standoffish and aggressive at first glance. Despite this, Cancers are deeply devoted and loyal to those that are closest to them. 
+
+Cancerians wear their emotions on their sleeves, and as such, are easily characterized by their intense compassionate sensitivity.
+
+----
+* Symbolized by the sea, crabs, and sensitivity
+* Straight-forward and creative
+* Represented by water and emotions
+* Opposite of Capricorn 
+
+ [[/tab]]
+ [[tab Leo]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Leo_Dim.png style="width: 75px;"]]
+++++ Leo, The Lion
+[[/=]]
+----
+
+Often symbolized by not just the lion, Leos represent the sun. This symbolism is very literal to Leos, who are the center of their universe and are often associated with self-centered mindsets. Pride is the predominant attribute tied to Leos. Leo is a sign of fixed **fire** -- assertive willpower, driven, and high self-esteem. 
+
+Similar to other fire signs, Leos make natural leaders. In contrast to Aries, Leos are focused less on the results but the perception they exude. They will do anything to improve their social status and image. However, they are not self-aggrandizing or unwilling to put in the work to earn their status. Leos are secondarily known for their hardworking, energetic, and intense personalities. Leos are driven to be the best and are their own harshest critics.
+
+Leos frequently possess enviable traits, and they know it. Their pride and arrogance are only matched by their desire to improve themselves and their genuine nature.
+
+----
+
+* Symbolized by the lion, sun, and pride
+* Natural leaders, if less than willing to become one
+* Represented by fire and intensity
+* Hardworking and driven
+* Opposite of Aquarius 
+
+ [[/tab]]
+ [[tab Virgo]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Virgo_Dim.png style="width: 75px;"]]
+++++ Virgo, The Maiden
+[[/=]]
+----
+
+The name Virgo comes from the Greek word //Parthenos//, which means virgin. As such, it is the sign of innocence, purity, and justice. It is a sign represented by the triplicity of the Zodiac as mutable **earth** -- empathetic, sensitive, cautious, and intelligent.
+
+Virgos are characterized by their focus on the material world. They frequently emphasize their inward desire for perfection, which in turn, reflects outwardly to enhance their perception of sublimity. This focus on perfection personifies Virgos with a strong sense of justice. Virgos are also deeply inspired by beauty. They reflect their concepts of beauty throughout their attire and personal decorations.
+
+Beauty, love, and purity, all encapsulate the Virgo. They appear as shy and introverted, but once trust has been established, Virgos have incredibly deep and emotional relationships.
+
+----
+
+* Symbolized by the maiden, purity, and justice
+* Represented by earth 
+* Associated with beauty and innocence
+* Harsh expectations and judgment
+* Opposite of Pisces
+
+ [[/tab]]
+ [[tab Libra]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Libra_Dim.png style="width: 75px;"]]
+++++ Libra, The Scales
+[[/=]]
+----
+
+Symbolized by the scales, Libra is the personification of justice. Originally based on //Themis//, the Greek Titaness of good counsel and divine order, Libra is often viewed as the precursor to //Iustitia// (Lady Justice). Libra is the sign of cardinal air -- social, active, dynamic, rational, and balanced.
+
+Libra is governed by the celestial body of Venus. Libras are equally pragmatic and diplomatic in nearly all endeavors. They can frequently lose track of their sense of self while focusing on the bigger picture of life. Libras struggle when working with smaller detail-orientated tasks and remaining emotionally attached when faced with adversity.
+
+Libras are selfless, and value harmony in all forms above all else.
+
+----
+* Symbolized by scales, the law, and authority
+* Represented by air and great force
+* Pragmatism and balance
+* Highly imaginative
+* Opposite of Aries 
+
+ [[/tab]]
+ [[tab Scorpio]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Scorpio_Dim.png style="width: 75px;"]]
+++++ Scorpio, The Scorpion
+[[/=]]
+----
+
+Based on the constellation Scorpius, which is this signs namesake, it can also be exemplified by the snake or the phoenix. Scorpio is the sign of fixed **water** -- sensitive, emotional, inflexible, independent, and passionate.
+
+Scorpios are a mix of emotional yet unchanging ideals. As such, they come off as guarded and abrasive to most people. Much like the armour of a scorpion, Scorpios seek to protect themselves first but do not shy away from conflicts or controversy. Scorpios are often prone to debates and may try to present themselves as intimidating. However, as a water sign, they are still empathetic and emotional even if they try to hide this side of themselves.
+
+The characterizations that classify a Scorpio are counter-intuitive and often lend themselves to fits of rage or loss of emotional control.
+
+----
+* Symbolized by the scorpion, snake, or phoenix
+* Represented by water and resistance to change
+* Emotionally aggressive and guarded
+* Lack of control or rage
+* Opposite of Taurus
+
+ [[/tab]]
+ [[tab Sagittarius]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Sagittarius_Dim.png style="width: 75px;"]]
+++++ Sagittarius, The Archer
+[[/=]]
+----
+
+The ninth Zodiac, Sagittarius, is often represented by a bow and arrow, archer, or centaur. It is also associated with the ability to prophesize. Many ancient civilizations believed seers and other prophetic archetypes were born under this sign. Sagittarius is also the last **fire** sign, and as such is also a natural-born leader -- wise, brave, violent, assertive, and resourceful.
+
+Sagittarius is the rebel leader of the fire signs. They are strong-willed and independent, as such, they stray from the beaten path. Despite their natural inclination to lead, Sagittariuses are often anti-social and wish to be left alone. 
+
+As the third mutable sign following Gemini and Virgo, Sagittariuses are fluid and adaptable in the application of their principles. 
+
+----
+* Symbolized by the bow and arrow, marksmanship, and the centaur
+* Represented by fire and adaptability
+* Anti-social and fiercely independent
+* A natural yet, reluctant leader
+* Opposite of Gemini
+
+ [[/tab]]
+ [[tab Capricorn]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Capricorn_Dim.png style="width: 75px;"]]
+++++ Capricorn, The Goat
+[[/=]]
+----
+
+Symbolized by the sea goat, Capricorn's appearance is often correlated to //Enki// the Sumerian god of wisdom, water, and creation. Said appearance is that of a large horned goat with the lower body of a fish. Capricorns are the cardinal sign of **earth** -- pious, practical, active, and constrained by a series of strict boundaries.
+
+Capricorns are natural rule-followers. They are notably set in their ways more so than any other sign and believe in rigid hierarchies. Capricorns do not function well outside the boundaries they set for themselves and maybe exceedingly indecisive when faced with an unrestrained choice. They may value traditions and rules above their own well-being or happiness. Due to the analytical nature of Capricorns, they frequently treat their relationships like jobs.
+
+Focused on the material world around them, Capricorns are influential to others when it comes to piety and following the rules.
+
+----
+* Symbolized by the horned goat, traditions, and wisdom
+* Represented by earth and taking initiative
+* Pious, morale, forceful, and self-constrained
+* Hardworking and determined
+* Opposite of Cancer
+
+ [[/tab]]
+ [[tab Aquarius]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aquarius_Dim.png style="width: 75px;"]]
+++++ Aquarius, The Water-Bearer
+[[/=]]
+----
+
+The eleventh Zodiac, Aquarius, is symbolized by the water or cup-bearer. The symbolism is taken from the Greek tale of Ganymede, who was taken from his homeland by Zeus to serve as the cup-bearer to the gods. Aquarius is the fixed sign of **air** and as such represents high conceptualization, socialization, willfulness, and eccentricities.
+
+Aquariuses are characterized by their uniqueness and are hard to tie together as a single group. They are rebellious, spontaneous, and unpredictable. Despite their proclivity to being themselves, they are a very social group and often believe in a shared well-being for humanity. They often approach their problems logically and with a strong sense of social justice.
+
+Aquariuses march to the beat of their own drum, but they want you to march with them.
+
+----
+* Symbolized by the cup-bearer
+* Unique and willful
+* Represented by air and their social nature
+* Socially reserved, yet optimistic
+* Opposite of Leo
+
+ [[/tab]]
+ [[tab Pisces]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Pisces_Dim.png style="width: 75px;"]]
+++++ Pisces, The Fish
+[[/=]]
+----
+
+Pisces is the mutable **water** sign of the Zodiac -- compassionate, flexible, wise, emotional, and empathetic. Their sign is symbolized as two fish, swimming in opposite directions, captured by a string or rope. Even though two fish represent this sign, it is often referred to in a singular tense. Neptune is the governing celestial body of Pisces. As such, Pisces are natural born artists and musicians.
+
+The final sign of the Zodiac, Pisces is often associated with endings and rebirth. The parables of Christ and his resurrection is one such association. Pisces are often depicted as selfless and humble: they are the sign of the martyr.
+
+Known to be the most tolerant sign in the Zodiac, Pisces have the greatest spiritual depth. They are characterized by their deep emotional connections which are exceptionally caring and generous.
+
+----
+* Symbolized by the fish, duality, and self-sacrifice
+* Represented by water and adaptability
+* Natural born artist and musicians
+* Spiritual, caring, and generous
+* Opposite of Virgo
+
+ [[/tab]]
+ [[tab Ophiuchus]]
+[[=]]
+[[image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Ophiuchus_Dim.png style="width: 75px;"]]
+++++ Ophiuchus, The Serpent-Bearer
+[[/=]]
+----
+
+No element, no opposite. No colour, no heart.
+
+Only a hunger for power, and the impending doom the Thirteenth brings.
+
+Alone lies the Serpent Bearer, with all the wisdom the other Twelve left for it.
+
+Do not hear its corrupting whispers.
+
+-----
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* 13
+* [http://rpcsandbox.wikidot.com/component:ophiuchus-logo-horoscope 13]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Ophiuchus_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; margin: 10px 20px 15px 20px;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Ophiuchus_Dim.png style="width: 70px;"]]
+++++ Ophiuchus
+* [[[RPC-099]]] - Random Occurrences and Case MARZANNA by [[*user KaiserXI]], [[*user Von Pincier]], and [[*user Fortunae]]
+@@ @@
+[[/div]]
+ [[/tab]]
+[[/tabview]]
+
+@@ @@
+
+**Note:** The overview listed above is not a required resource for your entries. An article does not need to use the themes and ideas listed here to qualify for entry. You can be as esoteric in their interpretations as you so desire, as long as a correlation can be drawn. These overviews were created to help inspire you.
+
+----
+
++++ Rules
+* Entries must be main-list RPC articles or tales. Rewrites of current articles do not apply.
+* Each entry must correlate to a single zodiac sign.
+* An entry's relevancy to its chosen sign will be judged by several community members.
+* You may contribute as many entries as you like.
+* Do not coldpost. Writing submissions must receive two pieces of feedback in the drafts forum.
+* Do not request people to change their vote on your entry, excessively push or pester people to rate it, or message an overtly substantial amount of people to read your entry such that it may provide you an unfair advantage.
+* Attempting to manipulate votes using alt accounts or other deceitful means will result in your entry being disqualified; you may also be barred from future contests or banned from the site.
+* When formatting your page, please consider using the custom header in accordance with the sign in question that the article is based on.
+
+[[size 115%]]
+[[collapsible show="Zodiac Themes" hide="Zodiac Themes"]]
+[[/size]]
+
+----
+
+@@ @@
+= [[span style="font-family: Moonriseregular; font-size: 315%;"]]**CUSTOM SIGNS**[[/span]]
+
+[http://rpcsandbox.wikidot.com/component:aries-logo-horoscope Aries:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aries_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:taurus-logo-horoscope Taurus:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Taurus_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:gemini-logo-horoscope Gemini:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Gemini_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:cancer-logo-horoscope Cancer:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Cancer_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:leo-logo-horoscope Leo:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Leo_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:virgo-logo-horoscope Virgo:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Virgo_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:libra-logo-horoscope Libra:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Libra_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:scorpio-logo-horoscope Scorpio:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Scorpio_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:sagittarius-logo-horoscope Sagittarius:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Sagittarius%20_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:capricorn-logo-horoscope Capricorn:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Capricorn_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:aquarius-logo-horoscope Aquarius:]
+
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aquarius_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+
+[http://rpcsandbox.wikidot.com/component:pisces-logo-horoscope Pisces:]
+> @@[[module css]]@@
+> @@@import url(http://rpcauthority.wikidot.com/component:horoscope-theme/code/1);@@
+>
+> @@:root {@@
+> @@    --header-icon: url(http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Pisces_Authority_Logo.png);@@
+> @@}@@
+> @@[[/module]]@@
+[[/collapsible]]
+
+----
+
++++ Additional Information
+
+* Article submissions open right now, go crazy!
+* Winners will be declared once all twelve astrological signs have a submission with at-least eight ratings and a favorable score of 3.5 or higher.
+* If a sign has several entries, the article with the higher rating and the appropriate number of rates will be chosen. 
+
+----
+
+[[size 135%]]
+[[collapsible show="Submissions" hide="Submissions"]]
+[[/size]]
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aries_Dim.png style="width: 70px;"]]
+++++ Aries
+* [[[RPC-458]]] - Flesh Aflame by [[*user 0ktober]]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Taurus_Dim.png style="width: 70px;"]]
+++++ Taurus 
+* [[[RPC-720]]] - Taurus by [[*user DrXOUBLE D]]
+* [[[RPC-590]]] - Nine Thousand Lives & The Witchcraft of the Angra Mainyu, Who Is All Death by [[*user Almarduk]]
+
+@@@@
+[[/div]]
+
+@@ @@
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Gemini_Dim.png style="width: 70px;"]]
+++++ Gemini
+* [[[the-late-doctor-silicon|]]] by [[*user 0ktober]]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Cancer_Dim.png style="width: 70px;"]]
+++++ Cancer
+* [[[RPC-813]]] - ACS Dreamscape by [[*user 0ktober]]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Leo_Dim.png style="width: 70px;"]]
+++++ Leo
+* [ACCESS DENIED]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Virgo_Dim.png style="width: 70px;"]]
+++++ Virgo
+* [ACCESS DENIED]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Libra_Dim.png style="width: 70px;"]]
+++++ Libra
+* [[[RPC-528]]] - W.F & Smith LLP by [[*user TheGreatTarbolin69]]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Scorpio_Dim.png style="width: 70px;"]]
+++++ Scorpio
+* [ACCESS DENIED]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Sagittarius_Dim.png style="width: 70px;"]]
+++++ Sagittarius
+* [[[RPC-870]]] - Disney on Ice Presents: “The Magic Never Ends!” by [[*user Superspambot]]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Capricorn_Dim.png style="width: 70px;"]]
+++++ Capricorn
+* [[[RPC-849]]] - The Simons by [[*user TheGreatTarbolin69]]
+* [[[RPC-688]]] - Within the Asphodel Meadows by [[*user Excer]]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Aquarius_Dim.png style="width: 70px;"]]
+++++ Aquarius
+* [ACCESS DENIED]
+@@@@
+[[/div]]
+
+@@ @@
+
+[[div style="border: 1px dashed var(--secondary-text-color); background: var(--primary-background); border-radius: 3px; padding: 10px 10px; font-family: Calibri, sans-serif; font-size: 110%;"]] 
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Ahoroscope-theme/Pisces_Dim.png style="width: 70px;"]]
+++++ Pisces
+* [[[RPC-790]]] - An Old Captain and His Ship by [[*user Worm that walks]]
+@@@@
+[[/div]]
+[[/collapsible]]
+

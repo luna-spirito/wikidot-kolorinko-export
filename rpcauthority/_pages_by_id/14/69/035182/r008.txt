@@ -1,0 +1,1283 @@
+---
+title: "RPC-645"
+tags: ["animated-hazard", "omega", "rpc", "sapient-hazard", "white"]
+page_id: "1469035182"
+site: "rpcauthority"
+slug: "rpc-645"
+revision: 8
+revision_id: "1545476991"
+author: 4330657
+timestamp: 1785069095
+---
+
+[[span class="listresize"]]The Paper Witch[[/span]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+.letter {
+ width: 80%;
+  margin: 10px auto;
+  background: #CCC8BA;
+  color: #292525;
+  padding: 10px 20px 10px;
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 13px;
+  box-shadow: 1px 2px 10px 1px #050505;
+  border: double black 4px;
+}
+
+.censor {
+background: #DBB95E; 
+font-size: 1.02rem; 
+padding: 3px 3px 3px; 
+font-family: "Cedarville Cursive"; 
+box-shadow: 0px 1px 2px 0px #878787;
+  display: inline-block;
+}
+
+[[/module]]
+
+[[include component:rate]]
+
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/omega-white.png]]
+
+**Registered Phenomena Code:** 645
+@@ @@
+**Object Class:** ##white|Omega-White## 
+
+[[include component:hazards top-spacing=none|sapient=show|animated=show|grouped]]
+
+
+------
+
++++ Containment Protocols:
+
+RPC-645 is presently considered uncontainable. Containment efforts are instead directed toward monitoring manifestations, recovering interview transcripts, and minimizing disruption to Authority operations. Security personnel are to identify the intended recipient from the envelope's exterior and notify them of its arrival.
+
+Investigations into the identity and whereabouts of its apparent creator and operator, designated PoI-6566 ("Ophelia C."), are ongoing.
+
+------
++++ Description:
+[[include component:image-block name=https://images.pexels.com/photos/4198074/pexels-photo-4198074.jpeg|caption= PoI-6566 seen through RPC-645|width=250px|align=right]]
+
+RPC-645 is a collection of animated paper envelopes with small green plastic ribbons glued to them, with the signature "Ophelia C." written in ink on the back, alongside an assigned address. The object can reach its designated address by flapping like a pair of wings. Capturing these letters is difficult, as they appear to automatically avoid anyone they were not addressed to.
+
+The insides of RPC-645 consist of a random assortment of drawings, newspaper clippings, and pages taken from various books and other pieces of paper media. No coherent message or pattern has been found among these contents. After it reaches its recipient, the contents of these papers disappear, leaving them blank.
+
+After its intended recipient takes hold of RPC-645, the anomaly will interview them, asking a variety of personal questions. When asked about the purpose of these interviews, RPC-645 will either claim to be part of a journalistic report for a news agency or that it is collecting stories for inspiration for its novels.
+
+Throughout the interview, the blank sheet of paper will record the conversation, transcribing it in handwriting without the use of a typewriter or other writing instrument. Once the interview has concluded, the paper will return to the envelope before demanifesting via spontaneous combustion.
+
+RPC-645 is believed to serve as a means of communication for "Ophelia C." (designated PoI-6566), who appears to exercise direct control over RPC-645. If a hole is punctured through the envelope or any paper associated with RPC-645, PoI-6566 can briefly be observed through the opening, regardless of the angle from which it is viewed. The anomaly will automatically demanifest shortly afterward.
+
+After the interview, PoI-6566 returns a copy of the original transcript to the appropriate mail address in around 1-2 weeks.
+------
++++ Addendum 645.1: [[span style="font-size: 90%; font-weight: lighter!important;"]] Discovery [[/span]]
+
+RPC-645 was first encountered by the Authority on 02/05/2022 by Dr. Victor Kleiner in [[[Site-016]]]. The anomaly approached Dr. Kleiner in the hope of revealing itself to the Authority as well as interviewing said personnel. After the interview ended abruptly, the transcript of the interview was sent to Dr. Kleiner's work address one week later, which can be seen in the following file:
+
+[[collapsible show="[+] RPC-645 Encounter Transcript" hide="[-] RPC-645 Encounter Transcript"]]
+
+> [[=]]
+> **RPC-580-1-18 interview with RPC-645**
+> [[/=]]
+> ------
+> **Date:** 02/05/20223 (14:07 PM)
+> 
+> **Location:** Site-016
+> 
+> **Foreword:** RPC-645 mailed itself to Site-016 and hid between paper documents a day before this interview was conducted.
+
+[[div class="letter"]]
+
+[[=]]
+[[size 140%]] **Interview with Dr. Kleiner** [[/size]]
+[[/=]]
+------
+
+__Ophelia__
+Doctor Kleiner? Are you Doctor Kleiner?
+
+__Dr. Kleiner__
+//JESUS!//
+
+(//Dr. Kleiner nearly drops the stack of files in his hands. His eyes widen. For several seconds, he simply stared at the source of the voice: a folded sheet of lined paper sitting atop his desk. The paper awkwardly rises on its two feet, waving one edge of its corner cheerfully.//}
+
+__Ophelia__
+Don't be afraid of a letter! I'm only a simple piece of paper. I won't bite; in fact, the most harm I can do to you is a papercut, innit? (//I laugh//)
+
+__Dr. Kleiner__
+What the -- what are you?
+
+__Ophelia__
+I'm a talking piece of paper. What else do you think I am?
+
+__Dr. Kleiner__
+… What? Where the hell did you come from?
+
+__Ophelia__
+From elsewhere. But that’s besides the point; I want to make a formal introduction to the RPC Authority. What does the RPC in this thing stand for? Registered Phenomena Catalog? Research Picket Confinement? Anyway, I figured it would be most productive if I made my grand entrance into the RPC's R [registered] P [phenomena] C [code] through you, Doctor Kleiner.
+
+__Dr. Kleiner__
+How do you know my name? How did you know where I work, for that matter? 
+
+__Ophelia__
+I have my sources; a list of interesting people I keep track of. But make no mistake, I’m not omniscient. //Heh...// Otherwise, I wouldn’t be interviewing you.
+
+__Dr. Kleiner__
+Interview? Is this an interview? Are you interviewing me?
+
+__Ophelia__
+Yes, yes, I’m interviewing you. Can’t you see the text already transcribed here? Let me draw a big black arrow to let you see.
+[[=image http://rpcsandbox.wdfiles.com/local--files/paper-witch/Arrow.png style="width: 80px; line-height: 0"]]
+[[=]]
+[[span style="font-family: "Cedarville Cursive", cursive; font-size: 200%"]]//Here! Right here!//[[/span]]
+[[/=]]
+@@ @@
+
+__Ophelia__
+(//The paper mimics a bow with the edge of its corners acting as its limbs.//) My name is Ophelia Charlala, and I'm known around my circle as the Paper Witch. 
+
+__Dr. Kleiner__
+Paper... Witch? 
+
+(//Dr. Kleiner immediately picks up a pen and paper.//)
+
+__Ophelia__
+No need to transcribe our conversations, Doctor. As you can see here, I'm transcribing it for us. It's exactly what it says. A witch who deals with papers of all sorts, from pages of a book to newspaper clippings, to crayon drawings made by children. Doctor Kleiner, I've lived the better part of my years dealing with paper. I think you're in a similar position to me.
+
+__Dr. Kleiner__
+How so?
+
+(//Dr. Kleiner puts his pen and paper down and looks around if anyone is eavesdropping in their conversation. Which for disclosure, aside from a mute CCTV and a bug [covert listening device] on his computer that lost its battery since 2019, there is no one.//)
+
+Wait, there's a bug in my computer?
+
+__Ophelia__
+Stay on topic. What I meant by our "similar position" is that you deal with papers too; what else could I be talking about? Not to mention you’re familiar with interviews, having done multiple yourself. From what I've read, though, they are rather boring annual agent reports. (//Laughs//) You know no one wants to listen to boring people talk about their lives, right? Where are the exciting anomalies with unique and brash characters? But uhm... Not you, Dr. Kleiner, you don't count among these boring humans to interview.
+
+__Dr. Kleiner__
+That’s true… But… is this a legal thing? Are you making some sort of evidential document admissible in court? Should I talk to my lawyer before this?
+
+__Ophelia__
+Nothing of the like!
+
+__Dr. Kleiner__
+I'm sorry, but I can't give you any information regarding the Authority.
+
+__Ophelia__
+(//Laughs//) No, no. I won’t ask any questions about the Authority; I’m not here to collect intelligence if that’s what you’re worried about. Such a thing is utterly boring. No, I’d rather ask you personal questions instead.
+
+__Dr. Kleiner__
+But why me of all people? You just said you’re not interested in talking to regular people. Aren’t there more interesting people to interview?
+
+__Ophelia__
+No, you’re just about right. I could maybe try my luck with your Global Directors, but the regional representatives are always bickering, commander Thunderbolt is a drag, architect Operator is a nerd, and the scholar, he would probably splash holy water at me immediately.. (Which for your information, does work against me. [[size 70%]] Because I’m made of paper! Hah, get it?[[/size]])
+
+No, if I am going to be finally recognized by the Authority, I must first be interviewed by someone with a doctorate. That is how you know an RPC is a true RPC! Let’s see here… Let's start with the classic! Dr. Kleiner, what master's did you earn to get your doctorate?
+
+__Dr. Kleiner__
+(//Sigh//) That question, huh?
+
+__Ophelia__
+//“What’s your major!?”// is a classic for a reason! It works every time!
+
+__Dr. Kleiner__
+Psychology. Just psychology. 
+
+__Ophelia__
+Psychology? I was expecting something dreadfully complicated. You know, thaumaturgical metacognition, ontological pathology, advanced soul surgery—
+
+__Dr. Kleiner__
+Those aren't real degrees.
+
+__Ophelia__
+They're real somewhere. Now tell me, Doctor. Why, of all majors, did you choose psychology?
+
+__Dr. Kleiner__
+I suppose... I wanted to understand myself, and I also wanted to understand people.
+
+__Ophelia__
+That's a very noble answer.
+
+__Dr. Kleiner__
+It's also the answer everyone gives.
+
+__Ophelia__
+And is it true?
+
+__Dr. Kleiner__
+Partially.
+
+__Ophelia__
+Ah! Hahaha, there it is! The real answer is hiding behind the polite one.
+
+__Dr. Kleiner__
+You know, most interviewers aren't supposed to sound so pleased when they catch someone being dishonest. But I'll play along. I chose psychology because it was easy. At least, it was one of the easier choices among the other doctorates I could've gotten. It came naturally to me, but even after finishing my master's thesis on the subject, I can't say it is my true calling.
+
+__Ophelia__
+I understand. But you are good enough to be enlisted by the Authority. You must've done something excellently.
+
+__Dr. Kleiner__
+Nothing in particular. I already had connections with people who were already working for the Authority, and when they needed a psychologist who was fluent in English, Norwegian, and Mandarin, they recruited me immediately. I don't see a lot of anomalies in my part of the work in the Authority, mostly people. 
+
+__Ophelia__
+(//The paper folds itself thoughtfully.//)
+
+Would you say people frighten you, Doctor?
+
+__Dr. Kleiner__
+Excuse me?
+
+__Ophelia__
+People frighten me sometimes. And this is coming from a witch, even terrible creatures of the night, such as I am, scared by the mere instance of people. After all, among the aliens, demons, and beasts that we face, humans are the monsters we encounter the most.
+
+__Dr. Kleiner__
+You just said you loved learning about them.
+
+__Ophelia__
+I do. That's exactly why they frighten me. The more I learn about people, the more I realize they're impossible to predict. But they're not beasts; you can learn about them, discover their story. You can know someone for ten years, and then one day they tell you something that changes everything. It's a monstrous thing.
+
+__Dr. Kleiner__
+That's human nature.
+
+__Ophelia__
+Yes. It's wonderful, isn't it? 
+
+(//A brief silence falls between us.//)
+
+__Dr. Kleiner__
+While you're here, could I have a moment of your time to interview you? You're a new anomaly we haven't catalogued yet so I--
+
+__Ophelia__
+I'm sorry, Doctor, that's all the time left. //Goodbye!//
+
+__Dr. Kleiner__
+But you barely interviewed me. It was mostly you talki--
+
+[[image https://static.vecteezy.com/system/resources/previews/009/664/832/non_2x/washi-tape-with-paper-texture-old-paper-mulberry-paper-free-png.png style="width:100%;"]]
+
+[[/div]]
+
+[[/collapsible]]
+
+------
+
++++ Addendum 645.2: [[span style="font-size: 90%; font-weight: lighter!important;"]] Interview Transcripts[[/span]]
+
+
+
+[[collapsible show="[+] RPC-022 Interview transcript" hide="[-] RPC-022 Interview transcript"]]
+
+> [[=]]
+> **RPC-022 interview with RPC-645**
+> [[/=]]
+> ------
+> **Date:** 10/25/2022 (16:30 PM)
+> 
+> **Location:** [[[Site-026]]]
+> 
+> **Subjects:** RPC-645, [[[RPC-022]]][[footnote]] @@ @@
+**RPC-022** - //The Eternal Legate//
+[[f<image http://www.rpc-wiki.net/local--files/rpc-022/RPC.png style="height: 120px;"]]
+**Object Class:** ##yellow|Beta-Yellow## (##royalblue|Utility##)
+
+RPC-022 is a late Roman Empire-era marble statue of an unnamed soldier. It is animate and sapient, and is capable of expert combat and speech. It expresses strong loyalty to the Authority, which it refers to as the "Vanguard of Hercules."
+------
+ [[/footnote]]
+> 
+> **Foreword:** RPC-645 was sighted in the afternoon of 10/25/2022 flying to the premises of Site-026-██-█ where RPC-020 was currently stationed at. 
+
+[[div class="letter"]]
+
+[[=]]
+[[size 140%]] **Interviewing the Centurion** [[/size]]
+[[/=]]
+
+------
+
+(//I flutter into the room where the statue stands on guard. I sat on top of him, nestling on his head like a pigeon.//)
+
+__RPC-022__
+INTRUSOR! By Mars, identify yourself, or by my sword I shall—
+
+(//The statue reaches for his sword vested on a nearby scabbard, then pauses before grabbing the letter on his head.//)
+
+__Ophelia__
+//Goodness gracious!//
+
+__RPC-022__
+Papercraft. State your allegiance. And do not make light of this.
+
+__Ophelia__
+My allegiance is to myself. And perhaps a couple of news agencies and the witch’s gathering, depending on the day or when I’m low on money.
+
+__RPC-022__
+A witch? 
+
+__Ophelia__
+Yes, I’m the Paper Witch. And you’re a talking statue, so calm yourself, else you'll fight a battle you'll lose.
+
+__RPC-022__
+You can do no such thing.
+
+__Ophelia__
+Have you not heard that paper beats rock? Now, unless you have scissors, I suggest you stay calm and collected.
+
+__RPC-022__
+Does my sword count as a scissor?
+
+__Ophelia__
+Only if you have two of them.
+
+__RPC-022__
+//Ha!// A fine answer. Very well, witch. If your business is just journalism, I can indulge you. Speak.
+
+__Ophelia__
+Excellent! Now, let me get a better look of your face. //EEEK!//
+
+__RPC-022__
+What is it? What happened?
+
+__Ophelia__
+Aren't you a scary thing? Stone shouldn't be moving like that. Yes, that's my first question... Do people scream often when they meet you?
+
+__RPC-022__
+No.
+
+__Ophelia__
+How unfortunate.
+
+__RPC-022__
+Is it unfortunate? Any man would rejoice upon not to be feared. Even soldiers, whose duty is to protect. 
+
+__Ophelia__
+(//The paper scribbles a note.//)
+
+You know, I’ve been wondering something. Mister, walking, talking, killing statue man. Do pigeons land on you often? 
+
+__RPC-022__
+What?
+
+__Ophelia__
+Pigeons.
+
+__RPC-022__
+I believe I have a certain quality that is extremely hostile to birds.
+
+__Ophelia__
+Yes, of course. It's because you move, innit? But not me, if I were a pigeon, I would land on you immediately. You look very landable.
+
+__RPC-022__
+(//RPC-022 thinks about this.//)
+
+I shall regard this as a compliment. But your conjecture is wrong. In my day, all the statues in Rome were defiled by pigeons--many of them coated in a fresh layer of their droppings. Fortuna has spared me such a fate, or else I possess some quality that is peculiarly displeasing to birds. Which, as you say, may be my animation.
+
+
+(//The paper kicks its edges lightly against his shoulder.//)
+
+__Ophelia__
+Is there a food from your days you miss? I wonder how different Roman cuisine is from the food of Italy today.
+
+(//RPC-022 tilts its head.//)
+
+__RPC-022__
+I don't eat.
+
+__Ophelia__
+Oh... Yes, of course. I'm sorry. You're made of pure magic!
+
+__RPC-022__
+Are we not of the same breadth, witch?
+
+__Ophelia__
+Hardly. This paper witch isn't all paper, you know, there's ink in these veins and a whole lot of curiosity bubbling underneath. Goodness gracious, you see, my last interviewer had the absolute gall to complain that I simply talk too much during these interviews. Can you believe that? He sat there with his little clipboard and his pinched expression and said it was an interviewer's job to let the interviewee do all the talking and reveal everything about themselves. As if I don't already know that! I honestly see no point whatsoever in that criticism. I don't talk that much, and I never make these interviews about me. I'm a people person, I love people, and learning about people. Why would I ruin that to talk about myself? I don't get paid for this job. I mean I do. I sell some of my interviews to the WWWJ should they ask for one, but I don't make this my own main form of living. It's more of a hobby, you see? I--
+
+__RPC-022__
+Your next question?
+
+__Ophelia__
+Ah...
+
+Let's see here... Which insect are you most afraid of?
+
+__RPC-022__
+Di immortales, witch, are all your questions trivial?
+
+__Ophelia__
+Hmph! //Trivial!?// Well, I think it's up to interpretation how "trivial" my questions are; and quite frankly, I don't take the opinions of stone to be of any value. Better things written in paper than in stone.
+
+__RPC-022__
+Then what are your questions for?
+
+__Ophelia__
+To learn more about you! Oh, mighty centurion. (//Chuckles//)
+
+__RPC-022__
+Most people would rather learn more about history.
+
+__Ophelia__
+Well, in my case, I'm more curious about the man who is Lucilius, rather than Lucillus, a loyal soldier. After all, everybody keeps asking you about battles; you're a historian's favorite when it comes to battles!
+
+__RPC-022__
+Aye, many. More than I care to recount and fewer than the poets would claim.
+
+__Ophelia__
+Yes, but that’s utterly boring, innit?
+
+__RPC-022__
+Boring?
+
+__Ophelia__
+Every soldier talks about battles. But what about life after battles?
+
+__RPC-022__
+You ask strange questions. Move on to your next one, domina.
+
+__Ophelia__
+I’m curious about your creator. Did Marcus ever tell you anything worth remembering?
+
+__RPC-022__
+Many things. But nothing the Authority hasn't heard of. And none that is of interest to you. 
+
+__Ophelia__
+Then tell me something more personal. What’s the first thing that comes to mind?
+
+(//The statue thinks.//)
+
+__RPC-022__
+One day, he said to me, (//mimics an exhausted voice//) “”Lucille, desine in limine stare.”
+
+[[span class="censor" style="transform: rotate(-1deg);"]]**Translation note:** “Lucillus, stop standing in the doorway.”[[/span]]
+
+
+__Ophelia__
+And?
+
+__RPC-022__
+That's it.
+
+__Ophelia__
+Not philosophy? Not wisdom? Not some grand lesson?
+
+__RPC-022__
+No.
+
+__Ophelia__
+Just “stop standing in the doorway?”
+
+__RPC-022__
+I was standing in the doorway.
+
+(//The paper laughs.//)
+
+__Ophelia__
+You know, I think that’s the first real thing you’ve told me all afternoon.
+
+__RPC-022__
+What do you mean?
+
+__Ophelia__
+Historians ask about emperors.
+
+__RPC-022__
+Naturally.
+
+__Ophelia__
+Historians ask about wars.
+
+__RPC-022__
+Naturally.
+
+__Ophelia__
+Nobody asks what your father sounded like when he was annoyed.
+
+(//The hallway is quiet.//)
+
+__RPC-022__
+…
+
+__Ophelia__
+…
+
+__RPC-022__
+He sounded tired.
+
+__Ophelia__
+Mm.
+
+__RPC-022__
+But never angry.
+
+(//The paper stops writing for several seconds.//)
+
+__Ophelia__
+I would’ve liked him.
+
+__RPC-022__
+You would have.
+
+__Ophelia__
+Would he have liked me?
+
+__RPC-022__
+My father valued disciplina above nearly all virtues. You, fair witch, appear to regard it as a mere humour.
+
+__Ophelia__
+Forgive this witch for her lack of discipline. I am a curious witch, after all.
+
+__RPC-022__
+You possess a most fearsome curiosity, domina. 
+
+__Ophelia__
+Would you consider that a virtue?
+
+__RPC-022__
+Only if you're willing to die for the catharsis of knowledge.
+
+
+
+[[/div]]
+
+[[/collapsible]]
+
+[[collapsible show="[+] RPC-222 Interview Transcript" hide="[-] RPC-222 Interview Transcript"]]
+
+> [[=]]
+> **RPC-580-1-18 interview with RPC-645**
+> [[/=]]
+> ------
+> **Date:** 26/03/2024 (08:08 AM)
+> 
+> **Location:** [[[Site-002]]]
+> 
+> **Subjects:** RPC-645, [[[RPC-222|RPC-222-1]]][[footnote]] @@ @@
+**RPC-222**  - //Little Book of Love//
+[[f<image http://www.rpc-wiki.net/local--files/component:standard-images/unknown.png style="height: 120px;"]]
+**Object Class:** ##white|Beta-White## 
+
+RPC-222 is a ten-page cardboard book titled  "The Little Book of Love!". RPC-222-1 is a 13-year-old human girl with Osteogenesis Imperfecta named Kaylee Havenson. When the book is read by RPC-222-1, the pages will describe intimate details on a present subject regarding their "fated" love life. On the final page will be an image of the subject's "destined partner".
+------
+ [[/footnote]]
+> 
+> **Foreword:** The interview begins in private office ██-█, in Site-002's medical level.
+[[div class="letter"]]
+
+[[=]]
+[[size 140%]] **Interview with another Paper Witch** [[/size]]
+[[/=]]
+------
+
+(//A folded sheet of lined paper quietly slides beneath the door to RPC-222-1's room. It pauses, straightens itself, and politely knocks against the floor.//)
+
+__Ophelia__
+Permission to enter?
+
+__Kaylee__
+Come in!
+
+(//The paper waddles inside on two tiny folded legs. Kaylee blinks twice before smiling.//)
+
+__Kaylee__
+Oh! You're... paper! That's a new one. Are you a newly transferred patient here?
+
+__Ophelia__
+Patient?
+
+__Kaylee__
+Oh, uh, I mean, RPC. I don't know if talking paper needs medical checks (//giggles.//)
+
+__Ophelia__
+Maybe? Maybe not? Who knows, really. I am quite uncontainable, no security rozzers could ever catch an [[span style="background: #BAB4A1; padding: 2px 5px;"]] [[span style=" background: url(http://www.rpc-wiki.net/local--files/component:icons/omega-white.png) center center/auto no-repeat; background-size: 18px;"]] @@ @@ @@ @@ @@ @@ [[/span]] [[span style="color: white; font-family: arial; text-shadow: 0px 0px 6px #787159;"]]Omega-White[[/span]] [[/span]] like me. Let me introduce myself, I am Ophelia Charala, RPC-645 by designation. And you must be Kaylee Havenson, RPC-222-1!
+
+__Kaylee__
+That's right! Mm... Are you a witch made of paper or a witch that does paper magic?
+
+__Ophelia__
+The latter, though I do like misleading people into believing I'm the former. But, correct me if I'm wrong, young lady. But might you be another Paper Witch such as I? I clearly see you holding that book with you at all times, and from what I gather, you can influence the very essence of fate itself with it. 
+
+
+__Kaylee__
+Mmm... A paper witch? I wouldn't consider myself a witch.
+
+__Ophelia__
+What, do you have something against witches? 
+
+__Kaylee__
+K...kind of. Witches are bad, aren't they?
+
+__Ophelia__
+Hmph! Well, I can't blame you. Witches are a fickle thing, but that doesn't change the fact that you and I are kindred, fellow paper witch... Or is it strings witch? Love witch, perhaps? 
+
+__Kaylee__
+What are you here for, Ophelia?
+
+__Ophelia__
+I'm an interviewer. 
+
+__Kaylee__
+(//Groans//) Another interviewer? 
+
+__Ophelia__
+No, no. You see, this one will be fun! I'm the fun interviewer! 
+
+__Kaylee__
+Okay...
+
+__Ophelia__
+Say, you have a rather charismatic visage. Would you mind if I drew you while conducting this interview?
+
+__Kaylee__
+Of course!
+
+(//Kaylee begins experimenting with a variety of poses and facial expressions.//)
+
+__Ophelia__
+Oh! Ahaha! No need to present yourself in such a fashion. Just pretend like I'm not drawing you in the first place.
+
+__Kaylee__
+Okay. 
+
+__Ophelia__
+Now, time for my interview. How do you like it here in the Authority? You can be honest with me; I'm not affiliated with the Authority whatsoever. 
+
+__Kaylee__
+It's okay... It gets lonely sometimes. But not always; the scientists are nice, [[[rpc-016|Ashley]]] likes to show off a lot, but she's really cool. I sometimes meet a lot of [[[rpc-040|ghosts]]] too, but they don't talk a lot. I don't get to meet most other anomalies.
+
+__Ophelia__
+One of the flaws of this site, I suppose. I can't imagine this place not being exciting, but with how dangerous everything is, you just can't go anywhere without a chaperone! Odd, that innit? 
+
+__Kaylee__
+Yes. But I like it here.
+
+__Ophelia__
+Do you?
+
+__Kaylee__
+(//Grumbles//) [[size 70%]] I wanna be on the beach site instead... [[/size]] Yes, I do. 
+
+__Ophelia__
+Life is hard for little anomalies like you. But don't worry, I know a fair number of anomalies that grew up to be quite the presentable adults. That may include you, if you believe so. 
+
+__Kaylee__
+(//Kaylee nods silently.//) I'm not super gloomy about it like Ashley is. 
+
+__Ophelia__
+Alright, next question. Hmm... What are kids into nowadays... Do kids still watch cartoons? Do you still watch cartoons?
+
+__Kaylee__
+Sometimes.
+
+__Ophelia__
+Oh, wonderful! Which one is your favorite? 
+
+__Kaylee__
+Mmm... There are a lot. Oh! There's this one funny show! Yuru Yuri, I think it's called. They usually have cutsey episodes, but sometimes, the characters there directly talk to you. 
+
+__Ophelia__
+Pardon?
+
+__Kaylee__
+The characters would randomly call themselves [[[rpc-121|Sigma]]] and be like "//kyaaa took me long enough to get here without anyone noticing. How is the show Kaylee-chan? Can we watch from the beginning?//" and then it loops the episode.
+
+__Ophelia__
+Sweetheart, television shows can't do that. I don't think that particular show is appropriate for you either. You should be watching K-On! instead.
+
+__Kaylee__
+But that show is boring.
+
+__Ophelia__
+No, it’s not.
+
+__Kaylee__
+Besides… why shouldn’t television speak? I just saw mine speak to me. 
+
+__Ophelia__
+Well, it shouldn't.
+
+__Kaylee__
+But you're a piece of paper, and you're talking to me. 
+
+__Ophelia__
+This is different; I'm magic, like you. Television, computers, they come to life through AI. And I, for one, am not very fond of them. They take the magic away from these things. 
+
+__Kaylee__
+(//Nods//) That does make sense. Besides that... mmm... Spongebob.
+
+__Ophelia__
+I like SpongeBob too.
+
+(//I continue drawing between our short moment of silence.//)
+
+__Kaylee__
+I'm betting... You want me to tell you how your story will go in the //The Little Book of Love//. It's what everyone keeps asking me about. 
+
+__Ophelia__
+Not particularly, but by all means, go ahead. 
+
+__Kaylee__
+I do wonder the kind of man would fall in love with a paper witch... (//Kaylee covers her lips to hide her smile.//) //Or woman!//
+
+(//Little Kaylee opens up her little Book of Love while looking at me.//)
+
+Mmm, (//clears throat//)
+
+[[div style="
+background: #DEDBD5;
+font-family: times;
+font-size: 14px;
+padding: 5px 15px 20px 15px;
+box-shadow: 0px 3px 2px 0px #878787;
+transform: rotate(1deg);
+"]]
+
+There was once a girl who, more than anything else, loved stories and the people who carried them. She fell in love with fantasy, with fact, and with fiction, for they showed her lives she herself could never live. The girl had no story of her own. She was as nameless as the trees of the forest or a single grain of sand upon the shore. Who could ever fall in love with such a thing? So what was left for the girl?
+
+She climbed out of her library and named herself a witch. Yet even as a witch, no one looked her way, and no one cared to hear the stories she carried. "But witches are wonderful," you would hear her say. "They bring imagination to life. They are loved and feared by everyone. Then why does no one notice me?" 
+
+She waited, as all the tales promised one should. She waited for the day a traveler would lose their way and stumble into her little house. She waited for a child to ask for a story, or a pilgrim to seek her wisdom, or an outlaw seeking refuge at the edge of society. But no one came. 
+
+She came to know two companions who never failed to visit. Loneliness sat beside her every evening without invitation, and Death, patient as the moon, always knew the road to her door. "If no heart in this world can ever love me," the witch would whisper with a weary smile, "then let those two be enough."
+[[/div]]
+
+__Kaylee__
+I-I'm sorry, I'll stop. 
+
+__Ophelia__
+No, continue on.
+
+__Kaylee__
+No, I won't. I'm sorry for-- I'm sorry. 
+
+__Ophelia__
+We haven't gotten to the picture yet!
+
+__Kaylee__
+...
+
+__Ophelia__
+Alright, alright. I shan't tease you over this any longer.
+
+(//Kaylee is still sulking.//)
+
+Oh, don't look so down, sweetheart, the interview isn't over. Like you, I'm a bit of a seer myself, and I can tell a lot of things about your future.
+
+__Kaylee__
+I've already read my story in the book.
+
+__Ophelia__
+Romance isn't all there is to life. Otherwise, we wouldn't have all sorts of genres, from mysteries, thrillers, horror, action, and annual tax forms. Tell me, would you like to peer into your future? You can pick the genre. 
+
+__Kaylee__
+(//Shakes head//) No, thank you. I think I'd like it more if I experienced it myself.
+
+__Ophelia__
+Alright, so be it... Oh! I'm finished with my drawing!
+
+__Kaylee__
+Ooh, let me see!
+
+[[=]]
+[[image https://upload.wikimedia.org/wikipedia/commons/c/c5/Unhappy_Cat.png?_=20250802101901 style="background: #F7F5F0; width: 90%; box-shadow: 0px 3px 2px 0px #878787;"]]
+[[/=]]
+__Kaylee__
+...
+
+__Ophelia__
+Pretty good, right? I think I captured your essence.
+
+__Kaylee__
+This looks nothing like me.
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="[+] RPC-580 Interview Transcript" hide="[-] RPC-580 Interview Transcript"]]
+
+> [[=]]
+> **RPC-580-1-18 interview with RPC-645**
+> [[/=]]
+> ------
+> **Date:** 02/05/2024 (08:08 AM)
+> 
+> **Location:** [[[Site-026]]]
+> 
+> **Subjects:** RPC-645, [[[RPC-580|RPC-580-1-18]]][[footnote]] @@ @@
+**RPC-580** //- The Lost Children of Malthus//
+[[f<image http://rpcsandbox.wdfiles.com/local--files/ricmod/Orphans.png style="height: 120px;"]]
+**Object Class:** ##white|Alpha-White## 
+
+RPC-580 is a genomic template created by the Church of Malthus for the creation of disposable human clones (DHC). These clones (RPC-580-1) are biologically and neurologically engineered to be their perfect test subject. RPC-580-1-18 is one of twelve surviving clones created by the Authority.
+------
+ [[/footnote]]
+> 
+> **Foreword:** RPC-645 returned to Site-026-██-█, avoiding getting caught by RPC-022 again. The interview begins in a recreation room in █████ █████.
+
+[[div class="letter"]]
+
+[[=]]
+[[size 140%]] **Interview with a little Malthus 2** [[/size]]
+[[/=]]
+------
+
+(//Sherry Malthus, also designated RPC-580-1-18 sits alone at a table with several sheets of graph paper spread before her. She is drawing geometric patterns with a pencil. She seemed to have noticed me flying by, but flying papers didn't arouse her curiosity//)
+
+__Ophelia__
+Hello!
+
+(//I call out to the little Malthus, only to be met with silence.//)
+
+__Ophelia__
+Hello again!
+
+(//Yet more silence.//)
+
+__Ophelia__
+Third time's the charm. Hello!
+
+__Sherry__
+Hello.
+
+__Ophelia__
+There we are! I was beginning to think my letter had become invisible. 
+
+__Sherry__
+RPC-five eigh-- Hm... Sherry can see you.
+
+__Ophelia__
+What an utterly boring reaction. Doesn't the sight of a dancing, talking letter amaze you?
+
+__Sherry__
+A lot of inanimate things can talk. Like cameras, or phones, or statues.
+
+(//The folded paper hops onto the table.//)
+
+__Ophelia__
+My name is Ophelia Charlala, a paper witch! What's yours?
+
+__Sherry__
+I’m not supposed to talk to witches. 
+
+__Ophelia__
+Dear girl, do play along. It’s polite to ask a little girl for her name before addressing her. Not to mention, I’m a good witch! 
+
+__Sherry__
+Sherry.
+
+__Ophelia__
+Excellent! We've both got names.
+
+__Sherry__
+You already knew my name. 
+
+(//Sherry points at her name on the paper as it's being transcribed.//) 
+
+__Ophelia__
+That is true.
+
+__Sherry__
+Then why did you ask?
+
+__Ophelia__
+Because introductions are polite. Now, little Sherry, might I interview you for an article I've been writing? I call it "Interview With a Little Malthus".
+
+__Sherry__
+Acceptable.
+
+__Ophelia__
+Good! Now tell me about yourself. What does it feel like to be a part of the Authority?
+
+__Sherry__
+Bad.
+
+__Ophelia__
+Oh dear, why so?
+
+__Sherry__
+They take my baklava away from Sherry.
+
+__Ophelia__
+That certainly is an unforgivable injustice. But surely you could forgive them for their transgressions.
+
+__Sherry__
+Later. Not now. 
+
+(//The paper unfolds one edge and peers at the graph paper.//)
+
+__Ophelia__
+What are you making?
+
+__Sherry__
+Pattern.
+
+__Ophelia__
+What kind of pattern?
+
+__Sherry__
+Repeating geometric progression.
+
+__Ophelia__
+//Ah.// I've heard that little Malthuses have a love of mathematics. I, for one, am more of a right-brained person; I could never match the logical strength of you and your siblings.
+
+__Sherry__
+Sherry isn't smart. Johan said we are made this way. Sherry is just drawing shapes. Every shape is larger than the previous shape by a fixed ratio.
+
+__Ophelia__
+Johan? Johan Malthus, I assume?
+
+__Sherry__
+His name is Johan //Mustermann.//
+
+__Ophelia__
+Oh, I'm familiar with him. But I never got to properly interview him, as much as it pains me. He’s a fascinating young man, but he’s not ready to face magic as you are.
+
+(//A brief pause.//)
+
+__Ophelia__
+Come now, Sherry, aren't you curious why.
+
+__Sherry__
+Not really.
+
+__Ophelia__
+I'll tell you why.
+
+(//I rummage through the list of papers inside the letter, looking for a very brief interview I did with Dr. Johan Malthusmann.//)
+
+[[/div]]
+
+[[div class="letter" style="background: linear-gradient(0deg, #c3c1bb 0%, #CCC8BA 49%);"]]
+[[=]]
+[[size 140%]] **Interview with a little Malthus** [[/size]]
+[[/=]]
+------
+__Ophelia__
+Doctor Johan Malthus!
+
+__Dr. Mustermann__
+HOLY [[span class="censor"]]Chips[[/span]], WHAT THE [[span class="censor" style="transform: rotate(1deg);"]]Fudge[[/span]]!?
+
+(//An entire night without sleep seems to have been enough to make Dr. Malthusmann fearful of me. Startled, he stepped back, stumbling along the way.//)
+
+__Ophelia__
+Don't worry, I come in peace. 
+
+(//I approach him.//)
+
+__Dr. Mustermann__
+STAY BACK! GET THE [[span class="censor" style="transform: rotate(-1deg);"]]Fries[[/span]] AWAY FROM ME! GUARDS! FORSTER! F- SHERRY!
+
+__Ophelia__
+Oh dear, have you had a lot of sleep last ni--
+
+__Dr. Mustermann__
+GET THE F[[span class="censor" style="transform: rotate(-1deg);"]]@@ @@ He didn't sleep enough, poor boy. Now wasn't a good time.@@ @@ [[/span]]ME!
+
+[[div style="font-family: times; font-size: 13px;"]]
+@@ @@
+
+[[span style="color: #B8B7AE"]] It is an obvious truth, which has been taken notice of by many writers, that population must always be kept down to the level of the means of subsistence; [[/span]] [[span style="color: #A9A8A0"]]but no writer that the Author recollects has inquired particularly into the means by which this level is effected: and it is a view of these means which forms,[[/span]]  [[span style="color: #999891"]] to his mind, the strongest obstacle in the way to any very great future improvement of society. He hopes it will appear that, in the discussion of this interesting subject,[[/span]] [[span style="color: #82807A"]]he is actuated solely by a love of truth, and not by any prejudices against any particular set of men, or of opinions. He professes to have read some of the speculations[[/span]] [[span style="color: #595959"]]on the future improvement of society in a temper very different from a wish to find them visionary, but he has not acquired that command over[[/span]] his understanding which would enable him to believe what he wishes, without evidence, or to refuse his assent to what might be unpleasing, when accompanied with evidence.
+
+[[>]]
+vii
+[[/>]]
+[[/div]]
+
+[[/div]]
+
+[[div class="letter"]]
+
+__Sherry__
+Johan is easily scared.
+
+__Ophelia__
+Really? Nothing? Isn't seeing your brother startled at least a little funny?
+
+__Sherry__
+Not really.
+
+__Ophelia__
+Dear oh dear, you are quite a difficult child to entertain.
+
+(//I fidget my corner-feet on the table.//)
+
+__Ophelia__
+Sherry, may I ask you a question?
+
+__Sherry__
+You are currently doing that.
+
+__Ophelia__
+Ehem, what is your favorite thing?
+
+__Sherry__
+Define favorite.
+
+__Ophelia__
+The thing you like most.
+
+__Sherry__
+Most useful?
+
+__Ophelia__
+No.
+
+__Sherry__
+Most efficient?
+
+__Ophelia__
+No.
+
+__Sherry__
+Most durable?
+
+__Ophelia__
+No.
+
+__Sherry__
+I do not understand.
+
+__Ophelia__
+Okay... What is the thing that makes you happiest?
+
+(//Sherry thinks about this in silence.//)
+
+__Ophelia__
+Take your time.
+
+__Sherry__
+I do not know. I know positive and negative outcomes.
+
+__Ophelia__
+Mhm~
+
+__Sherry__
+I know discomfort.
+
+__Ophelia__
+Mhm~
+
+__Sherry__
+I know satisfaction.
+
+__Ophelia__
+Mhm~!
+
+__Sherry__
+I do not know what happiness feels like. RPC-580-1 instances are incapable of that.
+
+__Ophelia__
+Oh, but I don't believe that. Not only is that categorically and biologically untrue, but also, if it was true, it would be terribly sad.
+
+__Sherry__
+Why?
+
+__Ophelia__
+Because happiness is nice.
+
+__Sherry__
+Then describe it.
+
+__Ophelia__
+You can't describe happiness.
+
+__Sherry__
+Everything can be described. That is why we have dictionaries.
+
+__Ophelia__
+Not properly. (//The paper clears its throat.//) Very well... Happiness is...
+
+...
+
+//Blast!// This is harder than expected.
+
+__Sherry__
+Attempt it.
+
+__Ophelia__
+Hmm... How do you define happiness to a child who doesn't understand it...
+
+(//The paper folds itself into a thoughtful shape.//)
+
+[[div style="
+display: inline-block;
+background: #E0DFDC;
+width: 80%;
+padding: 10px 20px 10px;
+box-shadow: 0px 3px 2px 0px #878787;
+margin: 5px 20px 5px;
+"]]
+[[size 200%]]happiness[[/size]] noun
+/ˈhæpinəs/
+
+The state of feeling or showing pleasure to find true happiness.
+* Fame did not bring her happiness.
+* the pursuit of happiness
+* Her eyes shone with happiness.
+* Their grandchildren are a constant source of happiness.
+[[/div]]
+
+__Ophelia__
+Does this satisfy you?
+
+(//Sherry shakes her head.//)
+
+__Ophelia__
+I thought not. Happiness is the feeling you get when somebody important walks through a door and you didn't realize how much you missed them until they're standing in front of you.
+
+__Sherry__
+That is too specific.
+
+__Ophelia__
+So you do know what it means.
+
+__Sherry__
+Yes, but your definition is bad.
+
+__Ophelia__
+You're hurting my feelings. Let's see now... Happiness is... The feeling you get when somebody gives you a gift you didn't know you wanted.
+
+__Sherry__
+Also too specific.
+
+__Ophelia__
+You're impossible.
+
+__Sherry__
+You are struggling.
+
+__Ophelia__
+I am, I am. You run a very strict program, little Malthus.
+
+(//Sherry returns to drawing.//)
+
+__Sherry__
+Perhaps happiness is difficult to describe because it is not a physical process.
+
+__Ophelia__
+Maybe.
+
+__Sherry__
+Humans struggle to describe internal experiences. 
+
+__Ophelia__
+That's very insightful.
+
+__Sherry__
+I read it in a textbook.
+
+__Ophelia__
+Oh dear, oh, dear. And there goes the magic. But you know, you are quite intelligent for your age, and none of it has to do with your genetic makeup. From our conversation, I might go as far as to assume you might be quite cheeky. You’re using your wits to make this poor little paper stumble, aren’t you?
+
+(//For the first time, the corner of Sherry's mouth twitches upward.//)
+
+(//I freeze.//)
+
+__Ophelia__
+Wait.
+
+__Sherry__
+What?
+
+__Ophelia__
+Do that again.
+
+__Sherry__
+Do what?
+
+__Ophelia__
+That thing with your face.
+
+__Sherry__
+My facial muscles are functioning normally.
+
+__Ophelia__
+No, no. The other thing.
+
+__Sherry__
+Clarify.
+
+__Ophelia__
+I think you just smiled.
+
+(//Sherry reaches up and touches her own cheek.//)
+
+(//The paper scribbles something enthusiastically.//)
+
+__Sherry__
+What are you writing?
+
+__Ophelia__
+A very important scientific observation.
+
+__Sherry__
+Which is?
+[[=]]
+[[span style="font-family: "Cedarville Cursive"; font-size: 40px;"]] Sherry smiled once. [[/span]]
+[[/=]]
+__Sherry__
+That is not science.
+
+__Ophelia__
+It's science to me. Sherry... May I ask one final question?
+
+__Sherry__
+Acceptable.
+
+__Ophelia__
+If someone took your baklava away forever... would that upset you?
+
+__Sherry__
+Yes.
+
+__Ophelia__
+Why?
+
+__Sherry__
+Because I like baklava.
+
+__Ophelia__
+And if Johan disappeared forever?
+
+(//Sherry does not answer.//)
+
+Sherry?
+
+__Sherry__
+... That is different. Baklava can be replaced, but Johan cannot.
+
+__Ophelia__
+Why not?
+
+__Sherry__
+There is only one Johan.
+
+__Ophelia__
+Is there? Johan is a little Malthus just as much as you and your siblings are. There are hundreds of you. 
+
+(//A long silence.//)
+
+But he's special, isn't he? He, Dr. Forster, and your siblings and your foster parents bring you comfort and support. You feel it even if you aren't smiling.
+
+__Sherry__
+Then what is happiness?
+
+__Ophelia__
+I think you already know. The little Malthus knew happiness long before she knew the word for it.
+
+[[/div]]
+
+[[/collapsible]]
+
+@@ @@
+[[div class="content-panel"]]
+[[collapsible show="+ Footnotes" hide="- Footnotes"]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/div]]
+
+[[=]]
+<< [[[RPC-644]]] | RPC-645 | [[[RPC-646]]] >>
+[[/=]]
+

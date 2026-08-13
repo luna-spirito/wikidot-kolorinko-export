@@ -1,0 +1,324 @@
+---
+title: "RPC-913"
+tags: ["alpha", "bio-hazard", "gard", "mind-regression-hazard", "red", "rpc", "transmutation-hazard"]
+page_id: "1436216714"
+site: "rpcauthority"
+slug: "rpc-913"
+revision: 37
+revision_id: "1545506234"
+author: 9678829
+timestamp: 1785191652
+---
+
+[[span class="listresize" style="font-size: 0px; line-height: 0px;"]]German Biology[[/span]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+/* Header */
+
+--header-tagline-color: #fff;
+--header-text-visibility: hidden;
+--header-custom-text: 'GARD';
+--header-font: 'Germania One';
+--header-tagline-custom-text: 'German Anomalous Research Division';
+--header-tagline-font: 'IBM Plex Sans';
+--header-tagline-left: 5px;
+--header-mobile-font-size: 170%;
+--header-font-size: 270%;
+--header-mobile-tagline-font-size: 81%;
+
+/* Headers */
+
+h1, h2 {
+    font-family: var(--header-font), sans-serif;
+    color: #8d4040;
+    font-weight: bold;
+}
+ 
+h3, h4, h5, h6 {
+    font-family: 'Germania One', sans-serif;
+    color: #8d4040;
+}
+
+/* Icon Fix (Thx Double) */
+
+#header h1 a {
+    padding-left: 3.05em;
+    padding-top: 75px;
+}
+
+@media (max-width: 768px) {
+    :root { --header-tagline-left: 11px; }
+    #header {
+        background-position: 0 5em;
+        background-size: 70px;
+    }
+    #header h1 a {
+        padding-top: 85px;
+        padding-left: 3.25em;
+    }
+}
+
+/* GARD Document Div */
+
+.gard-document {
+    display: block;
+    border: solid 2px #000;
+    color: #42403a;
+    background: #f8f3e4 url(http://rpcauthority.wikidot.com/local--files/component:research-style/paper2.png);
+    background-blend-mode: multiply;
+    padding: 5px 15px;
+    margin: 15px 0 15px 0;
+    font-family: 'Courier Prime', monospace;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+.header {
+    background-image: url(http://rpcsandbox.wikidot.com/local--files/theme-gard/GARDSeal.png);
+    background-position: top 20px center;
+    background-size: 195px;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    margin-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    text-decoration: underline;
+    float: center;
+    text-align: center;
+    font-size: 160%;
+}
+
+.gard-document blockquote, .gard-document .blockquote {
+    background-color: #fff;
+    color: #000;
+    border: solid 1.5px #000;
+    box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+[[/module]]
+
+[[include component:rate]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+|name= http://rpcsandbox.wikidot.com/local--files/icfd-sandbox/Blood_test.jpg
+|caption=null 
+]]
+[[/div]]
+
+[[include :rpcsandbox:component:hazard-image-block-base
+|align=right
+|name= http://rpcauthority.wikidot.com/local--files/rpc-913/Blood_test.jpg
+|width=300px |hazards= [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-transmutation.png  style="margin-top: 1px; width: 35px;" title="Transmutation Hazard"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-biohazard.png style="margin-top: 1px; width: 35px;" title="Bio-Hazard"]] [[image http://rpcauthority.wdfiles.com/local--files/component%3Aicons/h-mind-regression.png style="margin-top: 1px; width: 35px;" title="Mind Regression Hazard"]] 
+|caption= Blood Taken from Subject-913-17   
+]]
+
+[[f<image http://www.rpc-wiki.net/local--files/component:icons/alpha-red.png]]
+
+**Registered Phenomena Code:** 913
+
+**Object Class:** Alpha - Red 
+
+**Hazard Types:** Transmutation Hazard, Bio-Hazard, Mind-Regression Hazard
+
+**Containment Protocols:** RPC-913 is to be contained in a secure, sterile containment unit capable of maintaining a temperature of -5 °C. The containment unit must never reach temperatures lower than -15 °C or temperatures higher than 25 °C. The unit containing RPC-913 is to have a clearance level no lower than level 4. Any site or compound used to contain RPC-913 must have armed security personnel and at least two MST units capable of responding to major threats to the site or compound's security. The containment unit and its immediate perimeter are to be under 24-hour surveillance and guard. See Site-███ and Site-074 for examples of proper containment standards. RPC-913 currently does not have clearance for experimentation, and as such, may not be accessed in any way, with the exception of the purposes of relocation or maintenance of the containment unit. All maintenance of  RPC-913's containment unit must be approved by the site/compound director of security and at least two clearance level 4 personnel. Any transportation or relocation of RPC-913 must be approved by the site/compound director of security, the site/compound director, at least three clearance level 4 personnel, and the Regional Command Director: Director Ramalho. 
+
+Should the site or compound's security be compromised, the previous requirements for transportation are to be belayed, and RPC-913 is to immediately be moved to the nearest secure location. Once RPC-913 is secure, the regional director is to be informed of the security breach. Security personnel are to maintain the security of RPC-913 until a site capable of properly containing RPC-913 is chosen. 
+
+RPC-913 may not be ingested or injected into any personnel or persons. If RPC-913 is consumed, either by injection or ingestion, the resulting instance is to be immediately terminated and the remains cremated.
+
+Following Incident 913-73, Alder drone surveillance is to be monitored for any potential GARD activity. Any GARD activity discovered is to be reported immediately. 
+
+**Description:** RPC-913 is the collective term given to several mutagenic compounds produced by the hostile GOI known as GARD. There are several different instances of RPC-913, each using a different combination of elements, chemical compounds, and, in later iterations, stem cells as key components. Each iteration of RPC-913 uses a specific compound referred to as compound-913. The compound has also varied concerning elements used as its foundation, but each instance uses a previously undiscovered element as a key building block in its structure. The origins of this element are currently unknown. It is also unclear whether the element is naturally occurring, manufactured, or anomalous in nature. However, due to its extraordinary effects, current theories on its nature lean towards it being manufactured by GARD or being entirely anomalous.
+
+When administered to living tissue, RPC-913 induces rapid mutation and expansion. The compound, when placed in a warm environment, such as a living organism or living tissue, rapidly breaks apart into its basic elements. Once broken apart, the unknown element within RPC-913 begins to infiltrate the cells around it, gradually gravitating towards the nucleus. From there, the element behaves in a similar fashion to a virus, assuming control of the host's cell functions and, depending on the makeup of the RPC-913 iteration it was attached to, fundamentally alters the function of the host cell and its reproduction.
+
+Frequently, especially among the earlier iterations of RPC-913, this simply leads to the cells becoming cancerous. Cancerous cells created by RPC-913 also display a much higher rate of reproduction and development. This heightened rate of development frequently causes subjects introduced to RPC-913 to develop advanced forms of cancer in a relatively short time span. 
+
+These iterations of RPC-913 are referred to in recovered GARD documents as "failures." Iterations given this status have an 85% or higher probability of causing subject expiration via organ failure or health complications, while at the same time not producing a "useable organism."  Of the 20 iterations recovered, 16 are given this status. The four remaining compounds: RPC-913-6, RPC-913-14, RPC-913-17, and RPC-913-20, have been designated as "successful." These iterations, while still causing rapid mutation, either do not directly cause the subject to expire or have a mechanism that allows the subject to sustain itself. The compounds and elements introduced to the undiscovered element alter the viral infection process of the element, allowing for a more controlled mutation rate. How the compounds introduced to the undiscovered element cause this alteration is currently unknown.[[footnote]] Due to the current suspension of experimentation with RPC-913, unless further documentation is recovered from GARD scientists, it is unlikely that this process will ever be fully understood.  [[/footnote]]
+
+
+The mutations created by these iterations can vary in severity and number depending on the subject. However, each compound has a select number of mutations that manifest at a 98% rate when administered. See Table 1 for a list of the observed mutations and their probability of manifesting. Present in nearly all iterations of RPC-913 is a substantial increase in size, bone density, and muscle mass. In addition, it should be noted that also present in every iteration is a marked decrease in mental stability. This mental deterioration compounds noticeably over extended periods of time in nearly all cases. Depression, psychosis, and paranoid schizophrenia are some of the most common complications to develop in subjects administered with RPC-913. In some cases, left untreated after an extended period of time, subjects have been observed losing all sense of sapience and entering a state of permanent psychosis. This phenomenon has also been observed in failed iterations of RPC-913, albeit occurring in a much shorter time span.
+
+
+|| RPC-913 Compound || Guaranteed Manifestations || Probable Manifestations ||
+|| RPC-913-6 "Jäger"|| Gigantism. Heightened hair growth. Osteopetrosis [[footnote]] bone hardening [[/footnote]] increased muscle mass|| Complete skeletal restructuring. Increased aggression. Carnivorism.  Cancer||
+|| RPC-913-14 "Unbekannt" || Heightened regeneration. Increased mass. Osteomalacia [[footnote]] bone softening [[/footnote]]. Mucus production. Cancer || Gigantism, Loss of form. Schizophrenia.||
+|| RPC-913-17 "Habicht" || Hollow bones. An additional set of appendages. Feathers || Loss or restructuring of hands. Skeletal restructuring of feet and legs. Cancer ||
+|| RPC-913-20 "Spinne" || Additional appendages. Poison production. Chitin.  || Heightened hair growth. Additional eyes. Spinnerets and web production. Cancer ||
+
+It should be noted that while these symptoms are quite common, they are not guaranteed or untreatable. Notable instances have been recorded where subjects experienced limited or even no mental degradation. In addition, proper treatment of developing symptoms has been observed to mitigate and even undo their impact. More observation is required to properly determine the full extent of RPC-913's impact.
+
+Due to the incomplete nature of RPC-913, subjects administered with RPC-913 have an extremely limited lifespan, even when administered with a "successful" iteration. The undiscovered element within RPC-913 does not stop the mutation process once administered. The element reproduces itself at a steady to rapid rate until every cell within the organism or tissue sample is undergoing a mutagenic process. Eventually, a mutation will cause cell death. Without accelerated cell regeneration, the occurrence of cell death will compound rapidly, resulting in catastrophic failure and expiration.
+
+A notable exception is RPC-913-14, as the compound produces a heightened rate of regeneration. However, the effects RPC-913-14 has on the subject's mental state are much greater than other iterations, causing subjects administered with RPC-913-14 to frequently become suicidal.
+
+It is clear from each iteration of RPC-913 that GARD scientists have attempted to mitigate the notable limitations of RPC-913, as every subsequent iteration has shown a reduced rate of mutation. It is theorized that with enough time, resources, and left unhindered, an organization could perfect RPC-913 into a highly effective and potent weapon.[[footnote]] Current intelligence reports provided by the protection division and the FOA conclude that GARD does not have the required resources to continue the development of RPC-913. [[/footnote]]   
+
+ **Discovery:** RPC-913 samples were provided to The Authority by the German Agency known as //Bundesokkultabteilung// (The Federal Occult Agency) or The FOA. However, the first instance of a subject who had undergone RPC-913 mutation occurred during World War II in 1944, when Allied forces encountered an unidentified enemy force. With notable casualties, allied forces were successfully able to terminate the subject. Later in the campaign. RAVAFF forces located the source of this threat, a well-hidden GARD research facility. The facility was taken via a joint RAVAFF and IOA resistance (Imperial Occult Agency, the precursor of the current FOA) operation. GARD forces were unable to detect allied forces before the raid, and as such, were taken completely by surprise. This prevented them from properly destroying critical research, resulting in the first acquisition of RPC-913 samples.
+
+**Addendum: Unknown Compound Discovery:**
+
+On December 17th, 2017, FOA director Johan ████████ contacted the Authority with information regarding the unknown compound found in RPC-913. The following is the email sent.
+
+[[collapsible show="Show Email" hide="Hide Email"]] 
+
+[[div style="background: #000000; border: dashed 1px #858585; padding: 0px 1em 20px; margin: 0px 3%; background-image: url(http://rpcauthority.wdfiles.com/local--files/tango-12-eye-from-the-sky/The_Authority_Transparent.png); background-position: center; background-size: 50%; background-repeat: no-repeat; color: #c0c0c0;"]]
+
+------
+
+[[div style="float: left; width: calc(100% - 90px);"]]
+
+[[f<image http://rpcsandbox.wikidot.com/local--files/mrpines/profile.png class="profile"]]
+
+**FOA Director, Johan ████████**
+
+[[span class="email"]] From: <@@Johan ██████. Director@@> [[/span]]
+[[span class="email"]] To: <@@████████@████████.██@@> [[/span]]
+[[span class="email"]] **Subject: __RPC-913 Discovery**__ [[/span]]
+[[span class="email"]] Sent: 10:48 AM, December 17, 2017 [[/span]]
+
+[[/div]]
+
+------
+~~~~
+------
+
+Director Ramalho,
+
+The VOSK[[footnote]] The Verbündete Okkult Spezialkräfte, also known as The Allied Occult Special Forces [[/footnote]] forces have come across yet another GARD site in Lithuania of all places. It was a well-hidden site. We wouldn't have found it without recent improvements in technology for detecting anomalous activity.
+
+They weren't expecting to be found, so we made quick work of them. As usual, expect another shipment of RPC-913, as you call it.
+
+That isn't the reason I am contacting you, however. In this particular site, we found some very interesting documents referring to RPC-913's creation. The "unknown compound" we've been referring to has a name in GARD circles. It's called "The Blood of the Black Sun." Don't complain to me about the name, as I didn't name it. Regardless, I'll send you the documents properly in a secure email. They detail how this compound is created.
+
+We believe that there might be a storage facility where this substance was kept, but we currently have no leads.
+
+I will inform you of any future updates, as I expect of you.
+
+P.S: We're keeping the bull, as well as the captured GARD personnel and RPC-913 instances. We have our reasons.
+
+Gott mit Uns
+
+[[>]]
+Yours,
+
+- __**Johan**__
+[[/>]]
+
+
+[[/div]]
+
+[[/collapsible]]
+
+The following is the GARD ritual sent by the FOA. It is unclear where this ritual originated from, but it is currently theorized that the Children of Nihil may be involved. Investigation is ongoing.
+
+[[collapsible show="Show Ritual" hide="Hide Ritual"]]
+[[div style="color: #000000;background-color: white; float: center; border: solid
+ 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]] 
+[[=]]
+[[image http://rpcauthority.wikidot.com/local--files/rpc-913/GARD%20Modern.png width="150px"]]
+
+[[size large]]{{**German Anomalous Research Division**}}[[/size]]
+[[/=]]
+----
+{{**Ritual for the creation of the Blood of the Black Sun**}}
+
+{{**Required Components: 1 bronze bull with the Black Sun symbol engraved on its forehead. 1 fire pit. 1 female virgin, no older than 30 years. 1 book of Ayran Chants. 5 Participants, dressed in appropriate Ayran clothing. 1 Ritualistic Knife. 1 Bowl**}}
+----
+@@ @@
+{{**Ritual Procedures:** Ensure the ritual takes place on a new moon night.
+Place sacrifice into bronze bull. 
+Cut both wrists of sacrifice. 
+Seal sacrifice in bull. 
+Light fire underneath bull. 
+Place each aryan member in a star configuration, with one member at each point of the star.
+ The Northern most member facing the bull's head must begin chanting from the book. 
+Repeat the following: //შავი მზე მოდის. მას მოაქვს თავისი კურთხევა ჩვენზე. ჩვენ ვწირავთ ამ სისხლის მსხვერპლს, რათა შავმა მზემ დასისხლიანდეს.// Five times.
+The chant must be completed within 30 seconds. If the chant is not completed within this time frame, the blood will evaporate and the ritual will fail.
+After completing this chant, the fire will have grown extremely hot. Each member must say the following phrase //ო, დიდებულო მზეო, მოგვცეს შენი სისხლი// Starting from the head of the bull going clockwise.
+After this rotation is complete. The sign of the black sun shall glow red, and approximately 10 ml of black liquid will drip from the bull's nose. This is the blood of the black sun.
+Ensure the bowl is placed beneath the nose to capture the blood.
+The Ritual is Complete. Praise the Black Sun. }}
+[[/div]]
+[[/collapsible]]
+
+**Addendum: Acquisition and Retention:** While GARD was largely dissolved in the aftermath of WWII, scattered cells remain in operation throughout the modern world. GARD has a great interest in RPC-913, as several GARD cells were discovered to be in possession of RPC-913 samples. These samples are notably more advanced than those recovered during WWII, implying that GARD is actively working on creating and/or improving RPC-913. In addition, several GARD raids have occurred at sites containing samples of RPC-913. Nearly all attempts have ultimately failed in recovering any RPC-913 samples. [[footnote]] Refer to Incident 368-A for further details on successful GARD raids [[/footnote]] However, these raids pose a significant risk to the Authority and the containment of not just RPC-913, but several other anomalies that may be housed in or near sites containing samples of RPC-913. 
+
+It is not believed that GARD has the resources required to create new RPC-913 samples. However, it is possible that GARD does have the resources necessary to improve upon any samples they may currently have. This has proven to be enough of a concern to both the Global Directors and the German Federal Chancellery to warrant cooperation against this threat. The Hamburg Agreement, signed in 2004 at Site-088,[[footnote]] Also known as the WTD-88, one of the FOA's largest bases of operation[[/footnote]] stipulates that the FOA is responsible for locating and recovering any samples of RPC-913 from GARD forces. Meanwhile, the RPC Authority is responsible for the containment and protection of any and all recovered RPC-913 samples. In addition, as part of an intel sharing scheme, The Authority will have limited access to the FOA's surveillance program and its Adler drones.[[footnote]] Surveillance drones are used by the FOA throughout the world for gathering intelligence.[[/footnote]]  
+
+It is worth noting that the FOA has proven itself extremely effective in this endeavor in particular, with reported combat performance being notably higher than in other operations. When inquiries were made regarding this marked increase in performance, FOA leadership only remarked that it was "personal." No further detail was given upon further questioning.
+
+Currently, the FOA has successfully recovered 17 samples of RPC-913 from GARD.
+
+**Addendum: Incident 913-73:** On December 14, 2002, a train station in Munich was attacked with chemical weapons using an unknown chemical agent. The attack killed 6 and injured 32 bystanders. The injured showed signs of severe mutagenic exposure, rapidly mutating shortly after the attack. Once the attack was believed to be anomalous in nature, the FOA sent VOSK forces to secure the area. The Authority was also called to further assist in containing the disaster. Several MST teams were sent to help assist VOSK forces, and the area was quickly secured. A further 6 injured bystanders had to be terminated due to irreparable damage caused by the mutagenic process. Class-A amnestics and extensive media censorship were required to ensure containment and secrecy, which proved costly for both the Authority and the FOA. 
+
+The FOA investigation following the incident revealed that GARD was responsible for the incident and that the unknown chemical used in the attack was a failed iteration of RPC-913. It was also revealed that GARD received assistance from The Church of Malthus for the attack. The perpetrators of the attack were quickly captured by the FOA. Unfortunately, no further information could be obtained from them, as they were soon executed by FOA forces following the revealing of the prior information.
+
+This incident, as well as the prospect of GARD and potentially the Church of Malthus using RPC-913 for chemical terrorism, directly contributed to the creation of The Hamburg Agreement, as well as significantly influenced the FOA's later decision to join The Operation Dawn Initiative in 2008.
+
+**Addendum: Recovered Experiment Logs:**
+
+The following are selected excerpts of experiment logs recovered from GARD facilities. It is through these logs that most of the information regarding RPC-913 was discovered. It is also the reason why experimentation with RPC-913 is currently prohibited.
+
+[[collapsible show="Open Experiment Logs" hide="Close Logs" hideLocation="both"]]
+[[div class="gard-document"]]
+[[div class="header"]]
+German Anomalous Research Division
+[[/div]]
+----
++++ Experiment Log: Compound 8724-2
+{{**Date: 24^^th^^ September 1941**}}
+{{**Subject: Prisoner 136784. Ethnicity: Jew**}}
+----
+{{**Experimental Procedures:** Subject was injected with Compound 8724-2 in the left forearm.}}
+@@ @@
+{{**Results: Failure.** Subject experienced total organ failure as a result of rapid mutation in vital organs. Several growths formed over the subject's and burst after approximately 30 seconds. The bursting of growths released a cloud of fungal spores. Spores believed to be poisonous. Further investigation required.  Time between injection and expiration: 10 minutes.}}
+@@ @@
+{{**Recommendations:** Reduce compound presence in mixture to prevent immediate termination. Analyze released spores for potential warfare applications. Suicide bomb potential: Plausible.}}
+[[/div]]
+@@ @@
+@@ @@
+[[div class="gard-document"]]
+[[div class="header"]]
+German Anomalous Research Division
+[[/div]]
+----
++++ Experiment Log: Compound 8724-12
+{{**Date: 13^^th^^ January 1942**}}
+{{**Subject: Prisoner 147287. Ethnicity: Slav**}}
+----
+{{**Experimental Procedures:** Subject was injected with Compound 8724-12 in the right forearm.}}
+@@ @@
+{{**Results: Failure.** Subject experienced a form of acute mutagenic sickness. Skin and flesh began to dissolve off bones  12 minutes after injection. New flesh and appendages began to grow and replace lost flesh 25 minutes after injection. This process is repeated every 30 minutes after the initial cycle. Subject underwent Osteomalacia 42 minutes after injection. Observers noted that the subject's bones became "as malleable as soft clay" 44 minutes after injection. Subject experienced extreme pain throughout the experiment and did not stop screaming until termination via cremation. 3 days after injection yielded no viable results.}}
+@@ @@
+{{**Recommendations:** Increase compound presence in mixture by 2.87%. Increase the amount of element ████ present by 0.67.% Regenerative abilities of the subject should be noted. Results are unsatisfactory at current levels, but the possibility of a second "Jäger" compound is significant. }}
+[[/div]]
+@@ @@
+@@ @@
+[[div class="gard-document"]]
+[[div class="header"]]
+German Anomalous Research Division
+[[/div]]
+----
++++ Experiment Log: Compound 8724-14
+{{**Date: 18^^th^^ April 1942**}}
+{{**Subject: Prisoner 162157. Ethnicity: Slav**}}
+----
+{{**Experimental Procedures:** Subject was injected with Compound 8724-14 in the neck.}}
+@@ @@
+{{**Results: Success.** Subject experienced a form of acute mutagenic sickness. Skin and flesh began to dissolve off bones  5 minutes after injection. New flesh and appendages began to grow and replace lost flesh 5 minutes and 10 seconds after injection. This process is repeated every 2 minutes after the initial cycle. With more flesh persisting after each cycle. Subject underwent Osteomalacia 20 minutes after injection. 30 minutes after injection, the subject lost the skeletal system altogether.  Subject experienced extreme pain throughout the experiment, and the subject's mouth was eventually covered by growing flesh. 1 hour after injection, the subject lost all previous form, becoming what can only be described as a blob of flesh. 1 hour 4 minutes after injection saw the formation of tentacles and the subject's first attempt at escape. Subject was forcefully terminated. Notably, small arms yielded no results against the subject. Emergency protocols were invoked, and carbon monoxide was pumped into the experimentation laboratory, resulting in the termination of the subject as well as all personnel present in the experimentation laboratory (3 soldiers).}}
+@@ @@
+{{**Recommendations:** Advance Compound 8724-14 to the application phase of testing. Compound yields significant results and results in a nigh-immortal mass of flesh. Potential for battlefield application: significant. }}
+[[/div]]
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[=]]
+<< [[[RPC-912]]] | RPC-913 | [[[RPC-914]]] >> 
+[[/=]]
+
