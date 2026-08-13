@@ -1,0 +1,625 @@
+---
+title: "Monarch Security Hub"
+tags: ["hub", "mi13"]
+page_id: "986362370"
+site: "rpcauthority"
+slug: "mi13-hub"
+revision: 30
+revision_id: "1541304786"
+author: 9487909
+timestamp: 1767815619
+---
+
+[[module CSS]]
+@import url('//rpcsandbox.wikidot.com/component:mi13-theme/code/1');
+
+#page-title {
+    display: none;
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+[[/module]]
+
+[[div style="background:#0d1012; padding: 10px 15px; border:1px solid #383838; border-radius: 12px; width:80%; margin: 0 auto;"]]
+[[=]]
+[[collapsible show="+ Message from the Director-General" hide="- Close File"]]
+[[<]]
+[[div style="padding: 10px 15px;"]]
+[[=image http://rpcsandbox.wdfiles.com/local--files/progression-page-ii/ClassifiedSymbol.png width="100px"]]
+Agent,
+
+Throughout our veiled history, this realm has borne the title of the United Kingdom and has stood firm against occult threats, both past and present. The Crown acknowledges your commitment to the front line in vindication of the realm and in opposition to those who sustain in tyranny, corruption, and sacrilege.
+
+You are now called to tread into darkness and to deny the evil powers that curse our very existence. You shall act with the authority of the Crown and with the moral purpose that upholds our institutions. You shall not go alone; others stand with you in darkness, where necessary, to neutralise it in the protection of our country, our allies, and the civil order we uphold.
+
+It is with solemn pleasure and great honour that I welcome you to Monarch Security.
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+
+
+[[tabview]]
+[[tab Overview]]
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/MI13.png width="190px"]]  
+
++ About Us
+
+We are Monarch Security, the United Kingdom and her Commonwealth’s foremost agency for the management of anomalous, thaumaturgic, and veiled threats. Guided by the enduring values of our legacy, we safeguard the security, interests, and dignity of the Crown and its subjects.
+
+------
+
++ Our Mission
+Our mission is to safeguard the United Kingdom against the anomalous, uphold the lawful practice and cultivation of thaumaturgy, and prevent breaches of the veiled order.
+
+We stand as guardians of our realm, preserving its sovereignty against the encroaching darkness, restoring order where it falters, and maintaining the integrity of the veil. Monarch Security operates under authority vested by the Crown and guided by the Royal Congregation.
+
+Our operations focus on the acquisition of artefacts, whether for secure confinement or practical utility, alongside ensuring the welfare and cooperation of paranatural entities; confining or neutralising threats should the need ever arise. We also extend support to the [http://rpcauthority.wikidot.com/celtic-otherworlds Caliburn Union] in her responsibilities in the protection and management of the [http://rpcauthority.wikidot.com/elysian-plane Otherworlds.]
+
+[[include component:mi13classified]]
+
+[[/tab]]
+[[tab Departments]]
+
+[[f<image https://rpcauthority.wdfiles.com/local--files/governments-of-interest/XIII.png width="150px"]]
+++ Military Intelligence Section 13  [[size 60%]] //Occult Service// [[/size]]
+MI-13 is the foremost defender of the British realm and serves as Britain’s international face. In diplomatic sessions, policy negotiations, and multilateral interventions, MI13 speaks on behalf of all Monarch Security, making the department effectively interchangeable with Monarch Security itself in the eyes of the conference of global agencies.
+
+Its operations are divided between four Commissions.
+
+__Commission for Common Affairs__
+The administrative centre of the organisation. It is responsible for human intelligence and liaison with peer organisations, such as the Authority and UNAAC, as well as oversight of research and development programs that support field operations and containment initiatives.
+
+__Commission for Thaumaturgy__ 
+Enforces thaumaturgic law as defined by the judiciary of the Royal Congregation of Sorcerers. This commission is tasked with the identification, prosecution, and incarceration of illicit black-magic activities. The Commission for Thaumaturgy also handles relations within the Occult Theatre, overseeing settlements of significant supernatural populations or similar unveiled communities.
+
+__Commission for Anomalies__
+The first responder to any emergent occult phenomena or anomalous incidents. Upon discovery, field agents are deployed under the guise of law enforcement for assessment of the phenomenon in question. Agents of this commission are also the first responders to any containment breaches and are all given thaumaturgic training and special talismans for protection.
+
+__Commission for Scientific Development__
+Formed from the remnants of the now-defunct Bureau of Anomalous Research Operations, the Commission for Scientific Development serves as Monarch Security's primary body for the research and advancement of anomalous and thaumaturgic technology in the interest of the Crown. While its internal facilities remain limited, the Commission regularly issues contracts to external institutions, such as the Cornwall Institute and Eccleston University.
+------
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/RCS.png width="150px"]]
+++ The Royal Congregation  [[size 60%]] //Veiled Regulation// [[/size]]
+The //Royal Congregation of Sorcerers// (RCS) is the principal governing authority on thaumaturgy within the United Kingdom and the Commonwealth. Its offices are composed of noble and distinguished thaumaturgists recognised for their service and scholarship.
+
+The Royal Congregation's mandate is to legislate and enforce standards of thaumaturgic practice, with particular authority over the regulation and prohibition of black magic. Leveraging its influence, the RCS also functions as a significant political power in the veiled world, often overseeing the bureaucratic administration regulation of thaumaturgy. To that effect, the RCS allocates funding to leading academic and research institutions, directing the development of sanctioned thaumaturgic innovation.
+
+__New Council of Cavallon__
+A guild of senior thaumaturgists and court diviners, entrusted with both ceremonial and practical oversight of high-level thaumaturgic operations. Its members are drawn from the most distinguished practitioners within the realm, many of whom are of noble lineages. 
+
+__Curia Arcanum__
+The judicial office of the RCS. It is the supreme court of thaumaturgic jurisprudence within the United Kingdom and the Commonwealth. Composed of High Magisters, magistrates, and appointed enforcers of the Commission for Thaumaturgy, the Curia Arcanum not only rules on matters of jurisprudence but also maintains the authority to conduct inquiries, trials, and the drafting of new legislation.
+
+__Codicesia__
+This office is charged with the research, collection, cataloguing, and preservation of culture, art, and history. Its members safeguard records and artefacts to ensure that learning remains accessible for sanctioned study, while restricting material that could be misused. In addition to their custodial duties, they play a key role in developing new thaumaturgic arts, often in collaboration with Eccleston University and other academic partners.
+
+
+------
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/HMSO.png width="150px"]]
+++ His Majesty's Subjugation Office [[size 60%]] //Anomaly Exchequer// [[/size]]
+//His Majesty's Subjugation Office// (HMSO) is the custodian of anomalies acquired by the Monarch Security. Through the //Artefacts Treasury//, the Subjugation Office manages sustainable containment by employing thaumaturgy to pacify paranatural artefacts and beings.
+
+The Subjugation Office also curates contracts between agents and supernatural beings, holding special authority to capture and train unregistered thaumaturges and anomalies, integrating them as integral assets within Monarch Security.
+
+__Ministry of Gates and Stations__
+Maintains the upkeep of Monarch Security facilities and access to //Gates//, enabling the secure deposit and/or withdrawal of anomalous beings and artefacts. 
+
+__Ministry of Acquisition__
+An administrative office operating in collaboration with the Commission for Anomalies, responsible for the identification, acquisition, registration, and cataloguing of artefacts, anomalous entities, and specialised personnel.
+
+__Ministry of Analyses__
+The scientific division of the HMSO. It is charged with the research, study, and controlled experimentation of artefacts and entities within Monarch Security’s custody. Its work is directed toward advancing scientific understanding while ensuring secure methods of classification, handling, and confinement.
+
+------
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/BHC.png width="150px"]]
+++ The Black Coats [[size 60%]] //Hexenhammer// [[/size]]
+
+ The //Black Coats// are military assets drawn from various disciplines. It is the Monarch Security's sword against supernatural threats that proved beyond the capacity of MI-13 to handle.
+
+__British Military__
+Mobilised under the //APC Scheme//, the British Armed Forces may lend direct military support to the Monarch Security during times of crisis. Special operations may be executed under the authority of the UK Special Forces Command, including SAS detachments, for rapid and decisive action.
+
+__Black Hunters Corp__
+Successors to the original Black Hunters led by King James VI & I. It is an elite task force specialised in the elimination of supernatural threats such as Bacchanals. Granted full dispensation by the Royal Congregation, the Corp is permitted to employ black magic such as necromancy or demonic contracts and other extraordinary means in pursuit of victory.
+
+* __2nd Company:__ An elite unit comprised of operatives under the curseship of the entity "Boy" (ref. file [http://rpcauthority.wikidot.com/no-0100 CR0100]), granting them enhanced physicality and resistance to anathema.
+* __4th Company:__ A unit that utilises the service of thaumaturges who have entered patronage with external powers outside of Monarch Security's charge.
+* __5th Company:__ A unit of thaumaturges with exceptionally high wells of spiritual attunement, and possesses innate powers.
+
+__King's Royal Curses__
+A regiment formed by the Crown's most trusted thaumaturgists. The King's Curses is charged with the protection of the Royal Family and Lord Protector from occult dangers and the enactment of the monarch’s will upon the Occult Theatre. The King's Curses are authorised to conduct pre-emptive and extra-judicial actions under sovereign command. 
+
+__Royal Faery Regiment__
+Remnants of the faery volunteers from the Great War. The current Faery Regiment is mostly comprised of Annwfin elves from the Otherworld of Annwn. Embedded within the British Army, the elfish sharpshooters provide an additional source of unveiled military support to the Monarch Security.
+
+__His Majesty's Nightmare Fleet__
+The naval arm of the Black Coats, provides maritime defence, convoy escort, and offshore intervention. Its ships are fitted with thaumaturgic countermeasures and rapid-response teams, allowing the Fleet to contain and neutralise threats at sea and coastlines. The flagship, //Dragon of the Fleet//, serves as a mobile command centre and forward operating base.
+
+__Empyrean Cavalry__
+The Empyrean Cavalry is the aerial division of the Black Coats, tasked with rapid deployment, air support, and aerial reconnaissance. It provides direct overwatch and coordination for ground operations conducted by other Black Coat companies.
+
+------
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/RT.png width="150px"]]
+++ The Round Table  [[size 60%]] //High Command// [[/size]]
+The //Round Table// is the supreme authority of Monarch Security. 
+
+Seats:
+* **Seat of St. Edward** -- Representing the Crown, chaired by the King's Shadow
+* **Seat of Rhodes** -- Representing the Commonwealth, chaired by the Magister
+* **Seat of Camelot** -- Representing the Caliburn Union, chaired by the Lord Protector
+* **Seat of Westminister** -- Representing MI-13, chaired by the Director-General
+* **Seat of Tara** -- Representing the Coimisiún Draíocht, chaired by the Ceann Coimisiún
+* **Seat of Albion** -- Representing the Black Coats, chaired by the High Marshal
+* **Seat of the Thaumarch** -- Representing the Royal Congregation, chaired by the Grand Sorcerer
+* **Seat of St. Augustine** -- Representing the HMSO, chaired by the Archdeacon of Normalcy
+* **Seat of the Veil** -- Once represented by the Board of Curtains, it continues to be chaired by the "Burnt Man"
+
+@@ @@
+
+[[include component:mi13classified]]
+
+[[/tab]]
+[[tab Stations]]
+[[include component:image-block name= https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Village_School%2C_1913._Dunlop%2C_East_Ayrshire.jpg/640px-Village_School%2C_1913._Dunlop%2C_East_Ayrshire.jpg|caption= //Minor station entrance in Eastshire, Scotland.//|width=300px]]
+
+++ Stations 
+
+Monarch Security maintains a widespread network of stations across the United Kingdom and its Otherworld dominions, with key footholds in England, Scotland, Wales, Ireland, and throughout the Commonwealth.
+
+Unlike conventional government offices, these stations have no uniform design. Many are repurposed castles, parish halls, and village strongholds, their true operations hidden underground or folded into adjacent otherworld planes.
+
+In every major city of the United Kingdom, a station operates behind the facade of an ordinary front company, which includes post offices, security firms, insurance bureaus, and even commercial storefronts. Personnel are expected to serve both roles: working shifts in the public-facing cover while simultaneously fulfilling their duties to the Crown’s anomalous defence.
+
+Stations serve as the first line of response to any disturbance breaching the veil of the mundane world. From the smallest village outpost to the great subterranean fortresses beneath London and Edinburgh, they are the silent guardians of the veil.
+
+------
+
+[[include component:image-block name= https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Photograph_of_the_National_Archives_Building_Constitution_Avenue_Entrance_with_Bronze_Doors_Closed%2C_06-13-1936_%2814222964966%29.jpg/640px-Photograph_of_the_National_Archives_Building_Constitution_Avenue_Entrance_with_Bronze_Doors_Closed%2C_06-13-1936_%2814222964966%29.jpg|caption= //St. John's Gate, located below the Elizabeth Tower.//|width=270px]]
+++ Gates
+
+Beneath select cities lie the //Gates of Albion//; vast vaults that seal away entities and artefacts too dangerous for conventional confinement. Their true origins are obscured by time and secrecy, and their internal architecture remains classified at the highest levels of authority.
+
+Each Gate endures through unceasing vigilance. Thaumaturges and clergy maintain their wards, while at its centre lies the //Palladion//--the beating heart of the Gate. From it issues an inexhaustible font of spiritual force, driving the vast thaumaturgic machinery that sustains the structure. Its power radiates as a ceaseless negation field, ensuring that no thaumaturgic or anomalous influence escapes its bounds.
+
+Oversight of the Gates falls to His Majesty’s Subjugation Office (HMSO), tasked with transporting malignant artefacts and entities into their depths. Access is severely restricted, and is only accessible to senior Black Hunters and Royal Curses, whose sanctioned role includes extracting items of potential utility or, in rare cases, negotiating with the entities imprisoned within.
+
+The Gate itself behaves like a living organism, constantly correcting, adjusting, and adapting to its occupants. Each artefact or entity confined within is afforded a personalised containment chamber shaped by the Gate’s own will: one may be secured within a modest iron box, while another may find itself bound in a vast, featureless plain stretching into eternity.
+
+||~ **Name** ||~ **Station** ||~ **Location** ||
+|| St. John's Gate || North London Station, Greater London || The foundation beneath the Elizabeth Tower. ||
+|| St. Jessamine's Gate || Cambridge Station, Cambridgeshire || Hidden in the tunnels of Cambridge’s underground network. ||
+|| York Minster Gate || York Station, North Yorkshire || A hidden ossuary beneath the Minster, sealed since the Dissolution. ||
+|| Blackfriars Gate || Edinburgh Station, Scotland || Beneath the ruins of Blackfriars Monastery, linked to the Old Town closes. ||
+|| St. Jessamine's Gate || Orkney Station, Scotland || Beneath St. Magnus Cathedral in Kirkwall, watching the northern seas. ||
+|| John IV's Gate || Caernarfon Station, Wales || Buried beneath Caernarfon Castle, resonating with the mountain ley-lines. ||
+|| St. Maribel's Gate || Antrim Station, Ireland || Subterranean vaults beneath Dunluce Castle, built over collapsed ruins. ||
+|| Gate of the Forgotten Saint || East London Station, Greater London || Pudding Lane alleyway. ||
+|| St. Brendan's Gate |||| Inside HMS //Cornelius// of His Majesty's Nightmare Fleet, circumnavigating the High Sea in a constant rotation between various overseas stations.  ||
+|| ... || ... || ... ||
+
+[[include component:mi13classified]]
+[[/tab]]
+[[tab Documents]]
+
+[[include component:mi13adden
+|title= Related Documents
+|sender= Codicesia, RCS, HMSO
+]]
+
+
+++ Documented Anomalies:
+
+[[module ListPages separate="no" tags="+mi13 +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+------
+
+++ Active Casefiles:
+
+[[module ListPages separate="no" tags="+mi13 -rpc +goi-doc +document" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+------
+
+++ Other Investigations:
+
+[[module ListPages separate="no" tags="+mi13 -rpc -goi-doc document tale" perPage="50" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
+------
+
+++ Articles That Reference MI13:
+
+[[[RPC-354]]] - Trash-Feeders
+[[[RPC-368]]] - The Broken Tank
+[[[RPC-409]]] - Return of the King
+[[[RPC-619]]] - EXTINCT, Or The Sunlight Moths of Scotland
+[[[RPC-828]]] - DR. E. KINGSTON and SIR FREDRICK against the //HAND OF DEATH!//
+
+[[[An Incomplete History of the Authority]]]
+
+
+
+[[include component:mi13adden-end]]
+
+[[/tab]]
+
+[[tab External Interests]]
+
+[[include component:mi13adden
+|title= External Interests
+|sender= Commission for Common Affairs, MI-13
+]]
+
+[[div style="padding-right:27px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/component%3Atheme/AuthorityLogoSVG.svg height="100px"]]
+[[/div]]
+++ The Authority [[size 60%]] //"Shadow Organisation"//[[/size]]
+
+##lime|Friendly##
+
+Operations concerning British territory have been mostly acknowledged by the Authority as a courtesy and a sign of respect for British sovereignty. Due to comprehensive agreements, the Authority and the Monarch Security conduct joint operations if assistance of either party is requested.
+
+
+Given the Authority’s limited thaumaturgic infrastructure and Monarch Security’s relative lag in anomalous technological development, this partnership has proven mutually beneficial.
+
+-----
+[[div style="padding-right:27px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/governments-of-interest/UNAAC_Main_Symbol.png height="100px"]]
+[[/div]]
+++ United Nations Anomalous Activities Committee [[size 60%]] //"Peacekeepers"//[[/size]]
+
+##lime|Friendly##
+
+ UNAAC is widely regarded as the cornerstone of international stability in the occult sphere, ensuring that no single nation may endanger the Veil or disrupt the balance of power. Though they traditionally take on a diplomatic role in the geopolitical theatre, the UNAAC have demonstrated a willingness to act indecisively above the letter of the Accords. 
+
+Monarch Security remains committed to supporting all United Nations initiatives that advance normalcy and global peace. However, the agency reserves the right to take precautionary measures should the UNAAC conflict or compromise our mission.
+
+-----
+[[div style="padding-right:24px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/project-blue-book/BBLogoBlue.png height="110px"]]
+[[/div]]
+++ Project Blue Book [[size 60%]] //"Star Watcher"//[[/size]]
+
+##gray|Neutral##
+
+Officially, the British government, despite being a member of the North Atlantic Treaty Organisation, does not formally recognise the Blue Book organisation in any capacity. The constraints of the Official Secrets Act have placed MI-13 in a largely unresponsive posture, with minimal diplomatic engagement outside of NATO-supervised forums. In recent years, however, this relationship has mellowed into one of impartiality.
+
+-----
+[[div style="padding-right:28px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-format/Primacy_Logo.png height="100px"]]
+[[/div]]
+++ The Vatican Secretariat of Supernatural Primacy [[size 60%]] //"New Crusade"//[[/size]]
+
+##yellow|Mixed##
+
+The Primacy’s stance toward Monarch Security remains ambivalent. While they are swift to denounce our thaumaturgic practices as heretical and anathematic, they nevertheless extend considerable support. They have provided Monarch Security with access to advanced medical facilities and resources in the campaign to contain and neutralise the Hanover Curse.
+
+The Knightly Order of Saint Lazarus, both Military and Hospitaller, forms the principal backbone of St. Luke’s Institute. This institution has played a critical role in the treatment of Monarch Security’s patients and has overseen the construction of the Gates.
+
+-----
+[[div style="padding-right:17px;"]]
+[[f>image http://rpcsandbox.wikidot.com/local--files/personal:ttpy/BundesLogo.png height="120px"]]
+[[/div]]
+++ Federal Occult Agency [[size 60%]] //"Huntsmen"//[[/size]]
+
+##lime|Friendly##
+
+Despite the historic rivalry between Britain and Germany, the Federal Occult Agency (FOA) has remained one of Monarch Security’s most consistent and significant allies. The development of the Black Coat’s facilities owes much to the FOA, whether through direct support or the influence of their military and specialised hunter units.
+
+Furthermore, the FOA has entrusted Monarch Security with the protection of the Germanic Otherworlds and with assisting the Elysian population in their resettlement within the Caliburn Union.
+
+------
+[[div style="padding-right:12px;"]]
+[[f>image http://rpcsandbox.wdfiles.com/local--files/wip-groups-of-interest/INDIRA.png height="100px"]]
+[[/div]]
+++ Indian National Defense Initiative for the Reclamation of Anomalies [[size 60%]] //"Dvarapala"//[[/size]]
+
+##darkorchid|Unknown##
+
+Britain’s colonial presence in the Subcontinent enabled Monarch Security to acquire significant thaumaturgic knowledge and numerous artefacts from India. Following Indian independence, relations between the two entities began on amicable terms; however, these ties have gradually weakened in recent years, coinciding with the establishment and expansion of INDIRA’s independent internal network. At present, the relationship between Monarch Security and INDIRA remains uncertain.
+
+------
+[[div style="padding-right:31px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/vatican-primacy-hub/PCAAO.png height="90px"]]
+[[/div]]
+++ People's Committee for the Acquisition of Anomalous Objects [[size 60%]] //"Red Asia"//[[/size]]
+
+##gray|Neutral##
+
+Information provided by MI13 indicates that the Chinese Committee has been active since at least the 1920s, with intermittent contact occurring throughout the twentieth century, primarily in the form of diplomatic exchanges and intelligence sharing.
+
+The full extent of its operations and internal structure remains unverified; however, it is widely believed that the PCAAO operates the most advanced thaumaturgic facilities in Asia. Generally, Monarch Security takes a neutral stance on the PCAAO, which it reciprocates. 
+
+------
+[[div style="padding-right:10px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Amazing%21%20Co. height="45px"]]
+[[/div]]
+++ Amazing! Co [[size 60%]] //"Bootleg"//[[/size]]
+
+##red|Hostile##
+
+The few documented interactions Monarch Security has had with the elusive staff of Amazing! Co., as well as the company’s numerous and frequently unstable products, lead us to conclude that the entity poses a persistent threat to the veiled order. However, there is presently no conclusive evidence that Amazing! Co. employs thaumaturgic methods in the manufacture of its products; the Royal Congregation continues to classify the company as rogue nonetheless. Diplomatic engagement remains impossible until a central administrative node or authorised representative is positively identified.
+
+------
+[[div style="padding-right:30px;"]]
+[[f>image https://rpcsandbox.wdfiles.com/local--files/ttpy/GARD_en2.png height="90px"]]
+[[/div]]
+++ The German Anomalous Research Division [[size 60%]] //"Poacher"//[[/size]]
+
+##red|Hostile##
+
+GARD’s fringe doctrine of racial mysticism and occult supremacy is viewed with condemnation by Monarch Security, extending well beyond the legacy of the Second World War. Their experimental ritual magics and pursuit of artefacts of power have repeatedly endangered the safety of the wider world.
+
+Despite the fall of Nazi Germany, remnants of GARD persist in isolated cells throughout Europe, occasionally attempting to reclaim or innovate upon prewar projects. In Britain, GARD continues its campaign of terror through the //Aeonic Vanguard//[!--Order of Nine Angles--], an occult terrorist group. Any engagement with these elements is treated as a high-risk operation, with full oversight from the Royal Congregation's Curia Arcanum required for all actions involving suspected members or artefacts.
+
+------
+[[div style="padding-right:29px;"]]
+[[f>image http://www.rpc-wiki.net/local--files/groups-of-interest/NihilLogo.png width="90px";]]
+[[/div]]
+++ Children of Nihil [[size 60%]] //"Fable Maker"//[[/size]]
+
+##yellow|Mixed##
+
+Within Monarch Security, Nihil is widely regarded as a corruptive force, with much of its philosophy and artistic expression classified as Black Magic by the RCS Curia Arcanum. While the majority of Nihil cults are designated as hostile, certain sects have established alliances with Monarch Security and contribute facilities and support to ongoing operations.
+
+A minority of Monarch Security personnel adhere to religious denominations classified under the Nihil faith. While these individuals are permitted to continue their duties, special oversight is required to ensure that the influence of the Nihil Suns does not permeate or compromise the broader organisation.
+
+------
+[[div style="padding-right:13px;"]]
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/vella_arte_outlined.png height="90px"]]
+[[/div]]
+++ The Academy of True Art [[size 60%]] //"Surrealist"//[[/size]]
+
+##yellow|Mixed##
+
+One of the few organisations to contest the Eccleston University's academic hegemony. L'Accademia della Vera Arte boasts of its integrity, yet has fostered an undercurrent of "rogue artists" who disregard ethics and safety, conducting dangerous and potentially world-altering rituals and operations in the name of art and catharsis--often leaving the Royal Congregation to rectify the consequences. 
+
+Coupled with the Academy's avoidance and refusal of the Royal Congregation's oversight, paints them as a significant threat to the stability of the veiled order. Accordingly, all activities of the Academy are subject to heightened scrutiny, with all known associates monitored and penalised upon any legal violations.
+
+[[include component:mi13adden-end]]
+
+[[/tab]]
+[[/tabview]]
+
+[[=]]
+[[collapsible show="+ Writer Resources" hide="- Close File"]]
+[[<]]
+
++ Writer Resources
+[[tabview]]
+   [[tab About]]
+
+++ About the Monarch Security Overhaul
+
+
+If you're revisiting after 2025, you'll notice a significant transformation in MI13's aesthetics and themes. Echoing the sentiments of the initial creator of this AoI:
+
+[[div class="blockquote"]]
+{{The concept idea for Monarch Security was heavily inspired by the old British intelligence system, particularly the Directorate of Military Intelligence, and how the modern iterations of MI5 and MI6 came to be. Which is where the "Military Intelligence" title came originally. Interestingly, the Directorate of Military Intelligence had seventeen MI departments, so from MI-1 to MI-17. Each department apparently having their own responsibilities and assigned theatre of clandestine activity, but some of the departments didn't had any activity prior to the 1990s.}}
+
+{{In the Baseline, I'm now ensuring that the capabilities of Monarch Security aren't interfered as much by any legislative body but at the same time have them perceived as operating above the British government, without being too rogue-ish. I created this Writers Guide to have an insight further into the structure, culture, and operations of the agency.}}
+[[>]]
+{{— Dr. Pierson}}
+[[/>]]
+[[/div]]
+
+
+While remnants of the original vision persist in the lore and structure of this agency, a substantial overhaul was made to reshape the old concept. Navigating through the lore changes might seem overwhelming at first, which is why I created this guide to help new readers and writers navigate it all.
+
+The best way to view the modern MI13 is to see it as "the Wizard EoI", in that it's a governmental agency that specialises in the containment and research of anomalies through the use of magic (or thaumaturgy, as it's preferred to be referred to in the wiki). Unlike other AoIs that rely on scientific and technological systems to execute their goals, MI13 relies on traditions, superstitions, and a soft magic system to operate. 
+
+The extreme change for AoI came about because I felt it was necessary for AoIs not to simply be a nationalist version of the Authority, but to embrace the wackiness of RPC's setting and go full throttle on absurd ideas that welcome ridiculous concepts while remaining grounded.
+
+[[>]]
+--Jokezm
+[[/>]]
+
+
+   [[/tab]]
+   [[tab Themes]]
+
+++ Themes of Monarch Security
+
+
+MI13 has several themes, each with the potential for a wide array of different interpretations or explorations. As it may be complicated, I'll break it down into different sections.
+
+------
+
+++++ [http://rpcauthority.wikidot.com/the-framework-of-thaumaturgy Magic and Magicians]
+
+The thaumaturgic arts in MI13 operate on a soft, low-magic system, a type of system governed by the fluid and ambiguous nature of its rules, thriving on a sense of wonder and the unknown. Magic requires one to spiritually transform oneself in order to bend nature to one's will. It should be emphasised that thaumaturgy in MI13 is relatively weak  __unless__ you use a powerful tool or make a boon to a powerful entity. 
+
+A major theme you'll find in MI13's lore is this vague concept of the //"Hanover Curse"//, a malevolent influence that all Monarch Security agents are burdened with the moment they swear an oath of loyalty to the crown, also known as the "curseship." The curse is a sort of //"Sins of the Father"// concept taken to an extreme, a consequence of the British Empire's dark colonial past, subjugating other peoples and cultures for their own benefit.
+
+How exactly this curse manifests is meant to be ambiguous, but generally, it corrupts them into malevolent beasts called "Bacchanals" that project their greatest evil, misery, and/or regret. 
+
+------
+
+++++ [http://rpcauthority.wikidot.com/celtic-otherworlds The Otherworld and Faeries]
+
+The Otherworld (Or Elysian Plane) takes the concept of the "fairyland" seen in many Celtic myths and folklore. Of course, reality is often more complicated than fantasy, and despite the difference between elf and human, they're more similar than they let on. Usually, the inhabitants of the Elysian Planes are simply called "Elysians", but in the context of MI13, they specifically use "faeries" as an umbrella term for all sapient Elysians within the Celtic and Germanic Otherworlds. 
+
+Elfs are humans that live in the otherworld, while Faeries are an umbrella term that encompasses all sapient life that lives in the otherworld. Around 11% of Monarch Security's staff are comprised of faeries, people with elfish ancestry, and people who frequently interact with the elfs in their homeland.
+
+The leader of the elfs is the Lord Protector, the rightful ruler of Britain, the Caliburn Union, and the defender of the Otherworlds. They are said to be the descendants of the legendary King Arthur Pendragon (whose actual existence is widely debated among scholars and historians). 
+
+   [[/tab]]
+   [[tab Writing]]
+
+++ Writing Monarch Security
+
+MI13 is the story of an ancient organisation trying to remain relevant in the ever-evolving arms race of containment technology between nations. No matter how hard they try to advance, they always fall back because it was tradition and the wisdom of their ancestors that kept them alive. Don't let its modern polish fool you; Monarch Security's inner workings have remained the same for the past century.
+
+More differences can be seen in how MI13 treats its anomalies. Rather than pursuing a purely scientific understanding of their biology or mechanisms, MI13 places greater emphasis on cooperation with entities and the practical application of artefacts. Their focus lies in ensuring these anomalies serve the greater good. Naturally, should any prove uncooperative or pose a threat, the Gates and Black Hunters Corp remain ever ready.
+
+It's also important to note the cultural difference between MI13 and the Authority. While MI13 casually accepts the concept of the soul, the Authority usually rationalises it through psychic phenomena (i.e., psychotronic, cognitive, and ideological hazards) or the thought forms in the individual or collective subconscious, such as the infoplane.
+
+A few of the linguistic differences:
+||~ RPC ||~ MI13 ||
+|| Subjects ##8f8f8f|(human)## || Subjects / Participants ||
+|| Subject ##8f8f8f|(anomaly)## || Entity / Specimen ||
+|| Object ##8f8f8f|(anomaly)## || Object / Artefact ||
+|| [REDACTED] || [WITHHELD] ||
+|| Info-plane || Spiritual Realm / Spirit Realm ||
+|| Instance ##8f8f8f|(RPC-XXX-1 Instance)## || Variant ##8f8f8f|(MI@@####@@-01 Variant)## ||
+|| Psychotronic || Psychic ##8f8f8f|(Unless of thaumaturgic origin)## ||
+|| Addendum || Attachment ||
+
+I should also note that Monarch Security doesn’t call itself “MI13” because MI-13 is just a department of Monarch Security, not the entire organisation itself. Other AoIs consider MI13 synonymous with Momarch Security because it’s their most public-facing and diplomatic department. If you want to specifically reference MI-13, the department and not just "MI13" overall, don't forget the hyphen. This is completely optional, but it helps.
+
+Additionally, there are some other MI13-specific terms you may not recognise, which you might find the definition of in the [http://rpcsandbox.wikidot.com/lexicon-britannica Lexicon Britannica.]
+
+@@ @@
+   [[/tab]]
+   [[tab Threat Level]]
+
+++ Threat Level
+
+Objects filed under Monarch Security's database are given stamps that dictate their threat level. The levels are as follows:
+
+||||||~ **[[size 130%]]Threat Level[[/size]]**||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/component:mi13top-base/minimal.png style="height: 70px;"]] || A low risk threat, no measures are taken. Objects of this class are denoted as MI####. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/component:mi13top-base/substantial.png style="height: 70px;"]] || A substantial threat, caution is to be approached. Objects of this class are denoted as SU####. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/component:mi13top-base/moderate.png style="height: 70px;"]] || A moderate threat, measures are to be taken. Objects of this class are denoted as MO####. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/component:mi13top-base/severe.png style="height: 70px;"]] || A severe threat, additional measures are to be taken. Objects of this class are denoted as SE####. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/component:mi13top-base/critical.png style="height: 70px;"]] || A critical threat, measures are to be perceived with a hostile status. Objects of this class are denoted as CR####. ||
+
+   [[/tab]]
+   [[tab Status Level]]
+
+++ Status
+
+This stamp indicates the current mode of containment or exhibition of the item, specifying the level of access and oversight required. 
+
+
+||||||~ **[[size 130%]]Display Status[[/size]]**||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/mi13status/stationed.png style="height: 100px; transform: rotate(-6deg);"]] || **STATIONED** - The object is securely contained within a station and may only be accessed with explicit authorisation. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/mi13status/displayed.png style="height: 100px; transform: rotate(-6deg);"]] || **DISPLAYED** - The object can be brought out of the station under strict supervision, with controlled interaction and limited autonomy. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/mi13status/exhibited.png style="height: 100px; transform: rotate(-6deg);"]] || **EXHIBITED** - The object is in open display, either under the custody of an individual or organisation, or granted full autonomy. This status also accounts for objects that can’t be contained. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/mi13status/gated.png style="height: 100px; transform: rotate(-6deg);"]] || **GATED** - The object is confined within a Gate and may only be approached or interacted with under the highest levels of authority. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/mi13status/removed.png style="height: 100px; transform: rotate(-6deg);"]] || **REMOVED** - The object was removed, either it has been destroyed or its anomalous/thaumaturgic property has disappeared.||
+
+   [[/tab]]
+   [[tab Format]]
+
+++ Format
+**Article format guide:** [http://rpcauthority.wikidot.com/mi13-format-guide MI13 Format]
+
+Here's an example of the MI13 format using RPC-456 as a stand-in. 
+
+------
+
+[[include component:mi13top
+|fileno= 0456
+|station= Unstationed
+|status= exhibited
+|location= MI13 Database
+|date=30/07/2021
+|risk=minimal
+|title=Forgotten not.]]
+
+++ Safety Procedures
+
+No safety procedure is required.
+------
+[[include component:mi13image2 width=190px|align=right
+|image=http://rpcauthority.wdfiles.com/local--files/rpc-456/flower.png
+|card=fig.1
+|caption= **Phenomenon Note:**
+|note=-Visual structure shift upon perception
+|show=show]]
+
+++ Synopsis
+
+Phenomena MI0456 is a species of orchid that only manifests on gravesites. MI0456 variants can seemingly subsist in any environment, being able to grow on stone, asphalt, silt, snow, ice, etc., and do not appear to require nutrients. The variants do not reproduce or grow but simply manifest when a grave is unobserved. They do not produce pollen.
+
+RPC-456 exhibits memetic properties; individuals who perceive RPC-456 will perceive it to be their preferred species of flower.
+
+Graves affected by MI0456 generally are of individuals who had few close loved ones in life; 65.3% of recorded instances have been on the graves of individuals without any close relationships prior to their death.
+
+Should it be that the grave MI0456 grows on is not legibly marked with the individual's name, a wooden gravestone of moderate quality will manifest alongside MI0456, engraved with a message carved in the language of which the buried person was most fluent. It reads:
+
+> A good child. Rest well.
+
+If the individual viewing MI0456 does not have a preference for a certain type of flower, MI0456 will appear as white chrysanthemums.
+
+[[include component:mi13classified]]
+
+[[/tab]]
+[[tab Vassal GoIs]]
+[[include component:mi13adden
+|title= Vassal Organisations
+|sender= RCS, MI13
+]]
+
+The Occult Theatre is not a stage for only one actor. As the Commonwealth evolves, certain state functions have been delegated to private enterprises, operating under government consent. These entities now inherit the formerly government-mandated mandates, reinvigorated with private initiative.
+
+-----
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/Horus.png width="130px"]]
+++ HORUS Inc. [[size 60%]] //Narrative Control// [[/size]] 
+
+Founded in 1955 by former members of the now-defunct Board of Curtains, HORUS Inc. succeeds the former as the United Kingdom’s premier telecommunications and narrative-control conglomerate. Chartered with a simple yet absolute mandate: to shape, filter, and manage all flows of information that could jeopardise the Veil of Secrecy.
+
+Functioning as a subsidiary of the British Broadcasting Corporation (BBC), HORUS provides oversight, guidance, and creative consultancy to public broadcasters, production houses, and media agencies. It also crafts educational programmes, news broadcasts, documentaries, dramas, and even children’s entertainment for the veiled world
+
+------
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/StLuke.png width="130px"]]
+++ St. Luke's Institute [[size 60%]] //Medicine and Spiritual Concern// [[/size]]
+
+Founded in 1884 after separating from the British National Association of Spiritualists, the St. Luke's Institute was established to advance the practical application of psychic and spiritual research in medicine.
+
+The Institute is composed of licensed healthcare practitioners and clergy, working together to address theological concerns across the United Kingdom and Commonwealth. It is sanctioned by the Royal Congregation to provide healing and medical care to patients suffering from supernatural ailments.
+
+-----
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/Vandwy.png width="130px"]]
+++ Vandwy Defence [[size 60%]] //Thaumaturgic Arms Supplier// [[/size]]
+
+Vandwy Defence is an armament manufacturer based in northern Wales. With a staff base almost entirely composed of faeries from (or descendants thereof) the Otherworld of Annwn, Vandwy Defence specialises in thaumaturgy-integrated weapons -- both small arms and complex ordnances. 
+
+As the principal supplier of premium hybrid military-occult technology, Vandwy Defence augments supernatural defence by providing armaments abroad to allied Western organisations, as well as locally to MI13 (with the //Vandwy Dryll Mk3// service pistol) and the Annwfin homeland of the Saithcear.
+
+------
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/Charon.png width="120px"]]
+++ Charon Service Ltd. [[size 60%]] //Elysian Transport// [[/size]]
+
+Originally established by HMSO as the Elysium Express Company, Charon Service Ltd. is a majority government-owned transport provider. Once the mere maintainers and operators of the //Caerleon-to-Camelot// railway, company CEO Michel Louis-Chalon aggressively expanded his business, securing a monopoly on the rail-and-sea transport infrastructure of the entire Celtic Otherworlds.
+
+As of 2012, Charon Service Ltd. has expanded into the United Kingdom with its //Lethe Line//, planting a fleet of disparate, unassuming civilian vehicles that, at the beckoning of a phone call, transform into means of safe extraction and transportation of MI13 personnel and artefacts.
+
+------
+
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/Eccleston.png width="120px"]]
+++ Eccleston University [[size 60%]] //Occult Academia// [[/size]]
+
+Eccleston University is a collegiate research university founded in the Fair City of New Camelot to take full advantage of its unveiled environment. An occult education provider that has more than proven its superior model by outperforming the invisible colleges of Europe, it is the main proponent of the [http://rpcauthority.wikidot.com/the-framework-of-thaumaturgy London school of thought on thaumaturgy], as opposed to the [http://rpcauthority.wikidot.com/thaumaturgy Parisian model].
+
+Barring notable exceptions such as their rivalry with the Academy of True Art, Eccleston, under the patronage of the Royal Congregation of Sorcerers, stands as the definitive authority on occult academia, taking in students from all over the world.
+
+------
+
+[[f<image http://rpcsandbox.wdfiles.com/local--files/british-hubimages/Cornwall.png width="120px"]]
+++ Cornwall Institute [[size 60%]]  //Paranatural Education// [[/size]]
+
+Founded in 1786, the Cornwall Institute predates Eccleston University and remains one of the oldest surviving thaumaturgic schools in the United Kingdom. Originally established as a sanctuary for orphaned paranatural children, the Institute grew into a formalised college dedicated to training practitioners in practical applications of magic and ritual ethics. 
+
+Today, the Cornwall Institute functions as both a feeder school for Eccleston University and as an auxiliary workshop for the Royal Congregation.
+
+[[include component:mi13adden-end]]
+[[/tab]]
+[[/tabview]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+

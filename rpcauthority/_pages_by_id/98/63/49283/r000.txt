@@ -1,0 +1,204 @@
+---
+title: "RPC-948"
+tags: []
+page_id: "986349283"
+site: "rpcauthority"
+slug: "fragment:rpc-948-1"
+revision: 0
+revision_id: "1034230202"
+author: 2776183
+timestamp: 1580171622
+---
+
+[[module CSS]]
+
+@import url(http://rpcsandbox.wikidot.com/component:authority-theme/code/1); 
+
+hr {
+    border-bottom: 0; 
+    border-top: 1px solid #E5E5E5;
+}
+
+#header {
+    background-image: url(http://rpcsandbox.wdfiles.com/local--files/progression-page-i/OIRSHeading.png);
+}
+
+div#container-wrap {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/progression-page-i/OIRSBackground.png) top left no-repeat !important;
+    background-size: 100% 402px !important; 
+}
+
+#page-title, #side-bar .heading {
+    color: #6E6E6E;
+}
+
+#search-top-box-input {
+    background: #474848;
+    border: 1px solid #262626; 
+}
+
+#search-top-box-input:hover, #search-top-box-input:focus {
+    border: 1px solid #262626;
+    background: linear-gradient(to bottom, #424242, #6A6A6A);
+}
+
+#search-top-box-form input[type="submit"] {
+    border: 1px solid #262626;
+    background: linear-gradient(to bottom, #424242, #6A6A6A);
+}
+
+#search-top-box-form input[type="submit"]:hover, #search-top-box-form input[type="submit"]:focus {
+    border: 1px solid  #262626;
+    background: linear-gradient(to bottom, #2A2A2A, #424242);
+} 
+
+::selection {
+    color: white;
+    background: #737373;
+}
+
+a {
+    color: #595858;
+} 
+
+a:hover {
+    color: #2d2d2d;
+}
+
+h1 { 
+    color: #595858;
+}
+
+hr {
+    border-bottom: 1px solid #555;
+}
+
+#top-bar ul li:hover a:hover {
+    background-color: #595858;
+    color: white; 
+}
+
+.Box1 {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/progression-page-i/TP_PRESIDIUM.png) center no-repeat; 
+    background-size: auto 130%; 
+    float: center;
+}
+
+.Box2 {
+    border:solid 5px #E5E5E5; 
+    padding: 1px 25px; 
+    margin: 0 auto; 
+    height: 260px; 
+    width: 85%; 
+    box-shadow: 0 1px 3px rgba(0,0,0,.4); 
+    font-family: Trebuchet MS, sans-serif; l
+    letter-spacing: 0.15em;
+} 
+
+.Box3 {
+    border: dashed 1px #555; 
+    background: #1F2125; 
+    padding: 1px 25px; 
+    margin: 0 auto; 
+    height: 150px; 
+    width: 85%; 
+    box-shadow: 0 1px 3px rgba(0,0,0,.4);
+    font-family: Calibri, sans-serif;
+} 
+
+@media screen and (orientation:portrait) {
+
+.Box1 {
+   background-size: auto 150%; 
+} 
+
+.Box2 {
+    width: 60%;
+    height: 85%;
+    font-size: 36% !important;
+} 
+
+.Box3 {
+    font-size: 38% !important;
+    height: 50%;
+} 
+
+ div#container-wrap {
+    background: url(http://rpcsandbox.wdfiles.com/local--files/progression-page-i/OIRSBackground.png) top left no-repeat !important;
+    background-size: auto;
+    background-size: 100% 332px !important;
+
+} 
+
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+.Box1 {
+   background-size: auto 110%; 
+} 
+
+.Box2 {
+    width: 60%;
+    height: 34%;
+} 
+
+.Box3 {
+    font-size: 38% !important;
+    height: 25%;
+} 
+
+[[/module]]
+
+[[include component:rate title="RPC-948"]]
+
+[[div class="Box1"]]
+
+[[div class="Box2"]]
+[[=]]
+
+[[span style="font-size: 230%;"]]
+
+++ **WARNING:**
+
++++ THE FOLLOWING FILE CONTAINS SENSITIVE INFORMATION THAT IS ONLY ACCESSIBLE TO ADMINISTRATION EYES
+
+----
+
++++ ANY UNAUTHORIZED ATTEMPTS TO ACCESS OR COPY ADDITIONS OF THIS FILE WILL RESULT IN IMMEDIATE DETAINMENT AND SUSPENSION. AS SUCH, DOCUMENTATION OF THIS FILE MUST BE APPROVED BEFOREHAND BY THE OFFICE OF INFORMATION RECORDS AND SECURITY.
+
+[[/span]]
+
+[[/=]]
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="Box3"]]
+
+[[=]]
+++ [[span style="font-family: Trebuchet MS, sans-serif;"]]**OFFICE OF INFORMATION RECORDS AND SECURITY**[[/span]]
+[[/=]]
+
+[[span style="font-size: 105%;"]]
+
+= The following file has been labelled by the OIRS as administrative access only. You are advised to proceed if authorized by an OIRS Chief Archivist, and further authentication from a person with Level 5 clearance. Proceed if cleared. 
+
+= **- OIRS Director, //Harpocrates//**
+
+[[/span]]
+
+[[/div]]
+
+@@ @@
+
+[[div style="border: dashed 1px #555; background: #1F2125; padding: 1px 25px; margin: 0 auto; height: auto; width: 55%; box-shadow: 0 1px 3px rgba(0,0,0,.4); font-family: Calibri, sans-serif"]]
+
+= **[http://www.rpc-wiki.net/fragment:rpc-948-2 PROCEED]**
+
+[[/div]]
+

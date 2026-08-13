@@ -1,0 +1,45 @@
+---
+title: "Kabushiki Kawaii Hub"
+tags: ["hub", "kabushiki-kawaii"]
+page_id: "986362353"
+site: "rpcauthority"
+slug: "kabushiki-kawaii-hub"
+revision: 11
+revision_id: "1035167664"
+author: 4921282
+timestamp: 1581655860
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:kawaii-korps-theme/code/1);
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+Kabushiki Kawaii is an underground, black market company which specializes in humanoid anomalies. The company's main focus is the creation, training, and sales of these anomalies, selling them as servants to wealthy customers or corporations.
+
+Kabushiki Kawaii is known for its ability to create anomalous humanoids, which are primarily sold into the sex trade. These anomalous humanoids (primarily females) are the company's biggest export, who through a combination of genetic manipulation, brainwashing, and intimidation are often groomed to act as an individual's ideal sex slave or servant, depending on what is specified by the customer. The exact method that Kabushiki uses to create these products is unknown, but it is implied to be a mixture of biological science and anomalous technology. The reach of Kabushiki's genetic manipulation extends beyond the ability to create humanoid anomalies, but the company focuses on humanoids due to their popularity.
+
+Although the main storefronts of Kabushiki Kawaii are known to reside somewhere in Japan, the company has offices, laboratories, and testing centers scattered across the world. Assistance from anomalous items, front companies, and under-the-table dealings are commonly used to prevent discovery. Individuals stumbling across the group by mistake are often bribed into silence or become products themselves. Kabushiki Kawaii is strictly focused on maintaining a low profile, and will not actively confront the Authority- but will make every attempt to stay hidden when discovered. Authority agents who have attempted to infiltrate Kabushiki laboratories have been rumored to become victims of their experimentation, although this cannot be fully confirmed.
+
+The Authority works to apprehend any anomalies created by Kabushiki Kawaii for questioning and proper containment. Should a front company, laboratory, or testing center be identified, Authority forces are to clear the location and recover any anomalies or files found for research and containment purposes.
+[[/div]]
+
+[[div class="content-panel"]]
++++ Kabushiki Kawaii RPCs
+[[module ListPages separate="no" tags="+kabushiki-kawaii +rpc" perPage="50" order="created_at"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="kabushiki-kawaii -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

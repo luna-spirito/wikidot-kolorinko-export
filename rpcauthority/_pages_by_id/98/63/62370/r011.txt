@@ -1,0 +1,265 @@
+---
+title: "Monarch Security Hub"
+tags: ["hub", "mi13"]
+page_id: "986362370"
+site: "rpcauthority"
+slug: "mi13-hub"
+revision: 11
+revision_id: "1366403841"
+author: 2771478
+timestamp: 1623445959
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:mi13-theme/code/1);
+
+#page-title {
+    display: none; 
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div style="background-color: var(--secondary-background); color: #C0C0C0; font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; border: solid 1px #808080; margin: 0 auto; padding: 10px 30px;) rgba(0,0,0,.30); "]]
+
+Throughout the twentieth century, Monarch Security has expanded its operations and structure to ensure the efficiency of Great Britain's security, in domestic and foreign affairs. The support of key individuals within the government has allowed Britain to be one-step ahead against those who seek to do harm on the stability of government affairs, and to those who seek normalcy without interruption. 
+
+- [REDACTED], fmr. Prime Minister of the United Kingdom.
+
+
+[[/div]]
+
+@@@@
+@@@@
+
+[[tabview]]
+
+[[tab Preamble]] 
+
+[[div style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; padding: 3px 25px;"]]
+
+Agent,
+
+In times of our history as a constitutional monarchy, this kingdom has continued to carry on its title as the United Kingdom, against foreign and domestic threats in the past and the present. The Crown recognizes your commitment to the front lines against those who do tyranny and corrupt acts against the Crown, mankind, and God himself.
+
+You are to tread into the darkness, and defend against this evil lurking beyond our barriers, and with righteous fury, slay them in defense of the Crown that we all respect. You will not be alone, there will be others in the darkness to guide you to locate the source of evil, and destroy it if necessary to protect God and country.
+
+It is with my pleasure, and great honour, to welcome you to the Monarch Security.
+
+@@ @@
+
+- Overseer of Monarch Security
+
+[[/div]]
+
+[[/tab]]
+
+[[tab Timeline]]
+
+[[div style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; padding: 3px 25px;"]]
+
++ 1800 - 1899
+
+**//1800s://** Political revolutions and conflicts paved way for the spread of imperialism and influence of the British Empire. Peace and stability grew and enabled the United Kingdom to pursue advancements of science and normalcy worldwide. 
+
+**//1874://** Reports stemming from the United Kingdom and overseas territory of inexplicable phenomenons that included unidentified creatures to flying objects with seemingly impossible maneuvers caused outrage and concern in the general public. 
+
+While these reports were either discredited or explained as misperceptions of natural phenomenons by officials and experts from the British Government, howbeit internally, many high ranking government officials were concerned that these phenomenons may cause great harm towards the functionality of the government and Crown. 
+
+* **//August 28://** Prime Minister Benjamin Disraeli held a cabinet meeting in regards to the growing phenomenons that were coined by experts as //anomalous//. Many, including PM Disraeli, called for the establishment of a secret commission designed to investigate these incidents and determine whether or not they pose a credible threat towards the United Kingdom.
+
+* **//September 12://** The British Government formally establishes the //Department of Occultism and Phenomena Affairs//, or //OPHA//. While officially reporting to the Prime Minister, not many within the British Government, nor Westminster, knew the existence of OPHA. OPHA recruited many scientists and military experts as consultants to assist the department's investigation throughout its tenure. 
+
+**//2 February 1894://** After decades of investigating these phenomenons, OPHA concluded that the occurring phenomenons could not be explained through the scientific method or provide any preliminary explanation to these occurrences. 
+
+The Assessment Report of 1894 was produced as a result of OPHA's efforts. The report recommended establishing a governing entity to oversee and provide state security against the abnormality. 
+
+* **//23 March://** The anomalous investigative agency was established under the Directorate of Military Intelligence with the designation of MI13, or Military Intelligence Section 13. While commonly referred as MI13, many among government have referred the agency as //Monarch Security// due to its provisional status as a constitutional protector on anomalous affairs, by the Crown.
+
++ 1900 - 1966
+
+**//18 April 1903://** MI13 reportedly was investigating a shadow organization suspected to have been operating within British soil for over a century, albeit these claims appear to be unsubstantiated. 
+
+* **//8 November://** Representatives from the shadow organization contacted the British Government to discuss and arrange an alliance. Several treaties were drafted ad signed between the two, and MI13 later identified the shadow organization as the RPC Authority. 
+
+* **//15 November://** Sensitive information that referenced MI13 were leaked to the Imperial Defence Committee[[footnote]] The Committee of Imperial Defence was a parliamentary committee chaired by Reginald Bailol Brett, 2nd Viscount Esher that was responsible for coordinating the national security of the United Kingdom.[[/footnote]] and resulted in Westminster to establish an inquiry onto the activities conducted by MI13. 
+
+These inquiries would interfere the operations of the agency within the next several months. 
+
+**//28 March 1904://** The Imperial Defence Committee publishes the Esher Report of 1904, where it explicable lays out a civilian oversight by Westminster and structurally reorganizes MI13 into modern standards. Howbeit, the establishment of an oversight was delayed for decades by pro-occultic ministers within Downing Street. 
+
+**//1 April 1964://** With the creation of the Ministry of Defence and subsequent absorption/dissolution of the Directorate of Military Intelligence, MI13 became an independent agency within the British Government, and as such changed it's name to Monarch Security. 
+ 
++ 1967 - Present
+
+**//Late 1960s://** The Conservative Party looses a majority as a result of the 1966 General Election, and Harold Wilson becomes Prime Minister. As the Leader of the Opposition during the premiership of Edward Heath, he called for complete accountability and oversight for Downing Street's activities on anomalous affairs. 
+
+With the support from his majority party within Westminster, the House of Commons and House of Lords establishes the Paranormal Phenomena Affairs Select Committee, later renamed as the Defence Anomalies and Security Select Committee in 1985.
+
+[[>]]
+[[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/A002.png style="width: 70px;"]]
+[[size 13px]] **CLASSIFIED**[[/size]]
+[[/>]]
+
+[[/div]]
+
+[[/tab]]
+
+[[tab Miscellaneous Documentation]]
+
+[[div style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; padding: 3px 25px;"]]
+
+**Documented Anomalies:**
+
+[[module ListPages separate="no" tags="+mi13 rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+**Active Investigations:**
+
+[[module ListPages separate="no" tags="+mi13 -rpc tale goi-doc" perPage="50" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
+**Articles That Reference MI13:**
+
+[[[RPC-042]]] - The Screeching Cries
+
+[[[RPC-368]]] - The Broken Tank
+
+[[>]]
+[[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/A002.png style="width: 70px;"]]
+[[size 13px]] **CLASSIFIED**[[/size]]
+[[/>]]
+
+[[/div]]
+
+[[/tab]]
+
+[[tab External Interests]]
+
+[[div style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; padding: 3px 25px;"]]
+ 
++ People's Committee for the Acquisition of Anomalous Objects
+
+Unofficially known as the CCP's anomalous agency, the PCAAO has been speculated to have established in the aftermath of the Korean War in July, 1953. Over the course of the mid-late 20th century, China's booming economy and influence enabled the PCAAO to expand its operations. Howbeit, the exact structure of the organization is yet unknown. 
+
+While relatively neutral towards Monarch Security, there have been previous instances where PCAAO operatives have encountered British operatives, which ensued to joint operations or competing for the same objective. 
+
+With the assistance from The Authority and sister agencies such as MI5 and MI6, espionage and counterintelligence against and for the PCAAO remain a priority. 
+
+**Security Status:** Neutral
+
+**Codename:** "Red Asia"
+
+-----
+
++ The Authority
+
+Nicknamed as the //shadow organization// since its first reported sighting in April 18th, 1903, the Authority has since been one of the agency's closest allies in regards to the paranormal and the occult. Monarch Security has most of the time been in supportive of the Authority's action in the fight against the anomaly, but at the past have questioned the methods and operations conducted by the organization. 
+
+The Authority and Monarch Security conduct joint operations together, mainly counterintelligence and containment, in the protection of normalcy and in the accordance of the International Anomalous Accords. The Authority, presently, provides assistance and consultation to anomalous investigations within the United Kingdom and British overseas territories. 
+
+**Security Status:** Friendly; Caution
+
+**Codename:** "Shadow Organization"
+
+-----
+
++ United Nations Anomalous Activities Committee
+
+As an international regulatory body comprising of national governments and agencies, the United Nations Anomalous Activities Committee enforces the International Anomalous Accords which is the policing and restricting of anomalous agencies from taking advantage of the anomalous for their own benefits. 
+
+While the United Kingdom was one of the few founders and original signatories of the IAA, since 1945, Monarch Security seeks for solutions with other member states to continue international peace and normalcy.
+
+**Security Status:** Friendly
+
+**Codename:** "Blue Forces"
+
+-----
+
++ Blue Book
+
+Officially, the British Government doesn't recognize Blue Book as an official international organization nor governing body due to their historical tensions stemming from the Blue Book establishment in the mid-late 1950s, and previous encounters that resulted in hostile confrontation. 
+
+Additionally, due to increase tensions between Monarch Security and Blue Book, any attempts in diplomatic discussion or contact are to be met with refusal. 
+
+**Security Status:** Neutral; Caution
+
+**Codename:** "Grey Fog"
+
+[[>]]
+[[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/A002.png style="width: 70px;"]]
+[[size 13px]] **CLASSIFIED**[[/size]]
+[[/>]]
+
+[[/div]]
+
+[[/tab]]
+
+[[/tabview]]
+@@ @@
+
+[[div style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; padding: 3px 25px;"]]
+
+[[=]]
+[[collapsible show="+ Top Secret" hide="- Close"]]
+[[<]]
+
+[[tabview]]
+
+[[tab Note References]]
+
+> //A note from the original creator,// 
+> 
+> //The idea for Monarch Security came about one day when I was researching for the Directorate of Military Intelligence, hence the names of MI5, MI6, and MI13 having the name 'Military Intelligence' in their name. Interestingly, DMI had about MI1 up to MI17. Each department apparently had their own special role but more interestingly was the fact that some departments within DMI weren't used or had no role pre-1900s.//
+> 
+> //In the current lore timeline, I try to keep MI13 and my other works of Governments of Interests as an independent organization from any interference by Legislative or any constitutional law that would obstruct their duties. In addition to that, I also try to keep MI13's history as historical significance as possible. I created this sub-section of the page for people to have canon or lore references, and to not contradict any timeline and/or current established lore within the canon of MI13.//
+> 
+> = //-- Dr. Pierson//
+
+= **Structure >>**
+
+The hierarchy and structure of Monarch Security is ambiguous, but is mostly governed by two individuals: the Director-General, and the Overseer.
+
+* The Director-General is appointed by the Defence Anomalies and Security Committee (DASC), but would have to be approved by the Overseer themselves. In addition, the Director-General can be an appointed civilian or military officer. 
+
+* The Overseer of Monarch Security is the individual who also is the Head of State. They oversee the agency's activities, and ensure its effectiveness under the Crown. 
+
+Furthermore, the Director-General appoints its head departments (i.e. Research & Development, and Containment Response Teams) with the title Commissioner. Commissioners are the Department Heads of each departments within Monarch Security. 
+
+= **Personnel >>**
+
+Monarch Security personnel mainly recruit people with experience that the organization may need, such as knowledge in science, military experience, administrative experience, law enforcement, and so forth. 
+
+* Field Agents wear either a suit or in the guise of other British agencies, such as the National Crime Agency or the Special Branch. 
+
+* Tactical Agents always wear dark-grey BDUs, or grey uniforms associated with the Counter-Terrorism Specialist Firearms Officers (CTSFO). 
+
+* Majority of Monarch Security's research department are consisted of scientists from the Ministry of Defence, both civilian and military personnel. 
+
+
+= **Threat Level Classes >>** 
+
+MI13's Object Classification version, except for assessing and identifying the threat level of an anomaly. 
+
+||||||= **[[size 130%]]Tier Levels[[/size]]**||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/T1.png style="width: 100px;"]] || A low risk threat, no measures are taken. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/T2.png style="width: 100px;"]] || A substantial threat, caution is to be approached. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/T3.png style="width: 100px;"]] || A moderate threat, measures are to be taken. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/T4.png style="width: 100px;"]] || A severe threat, additional measures are to be taken. ||
+|| [[image http://rpcsandbox.wdfiles.com/local--files/monarch-security-hub/T5.png style="width: 100px;"]] || A critical threat, measures are to be perceived with hostility status. ||
+
+[[/tab]]
+
+[[/tabview]]
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[/div]]
+

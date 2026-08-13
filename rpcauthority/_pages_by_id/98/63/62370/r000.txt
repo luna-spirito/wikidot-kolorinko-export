@@ -1,0 +1,39 @@
+---
+title: "Monarch Security Hub"
+tags: ["hub", "mi13"]
+page_id: "986362370"
+site: "rpcauthority"
+slug: "mi13-hub"
+revision: 0
+revision_id: "1034256103"
+author: 3118961
+timestamp: 1580266807
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+Military Intelligence Section XIII, or Monarch Security, was formed after the conclusion of a decades-long government investigation; its conclusion was that anomalous occurrences throughout Great Britain might pose a significant threat towards the British government and monarchy. This lead to the establishment of a special department under the Directorate of Military Intelligence, with the designation MI13. Its assigned responsibilities are the security and protection of Great Britain and British Overseas Territories against anomalies of all kind.
+
+MI13 is overseen by a committee based at Westminster, known as the //Defense Anomalies and Security Committee//. However, the rest of the agency's administrative structure and personnel management are currently unknown, though it is clear that the agency receives significantly greater funding than any other intelligence body in the United Kingdom. Military Intelligence Section XIII is currently a member of the United Nations Anomalous Activities Committee, though the extent of their activities as part of that body is unclear.
+[[/div]]
+
+[[div class="content-panel"]]
++++ MI13 RPCs
+[[module ListPages separate="no" tags="+mi13 +rpc" perPage="50" order="created_at"]]
+[[a href="%%link%%"]] %%title%% - %%first_paragraph%% [[/a]]
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="mi13 -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

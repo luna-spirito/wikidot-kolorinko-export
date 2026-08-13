@@ -1,0 +1,44 @@
+---
+title: "United Nations Anomalous Activities Committee Hub"
+tags: ["hub", "unaac"]
+page_id: "986362374"
+site: "rpcauthority"
+slug: "unaac-hub"
+revision: 3
+revision_id: "1050610056"
+author: 3118961
+timestamp: 1584307605
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+The United Nations Anomalous Activities Committee (UNAAC) is a global regulatory body for "official" anomalous agencies, usually those operating with the backing of a national government (PCAAO, MI13, etc). Established in 1945 with the signing of the International Anomalous Accords, UNAAC's charter directs it to restrict and police the actions of anomalous agencies; actual enforcement of the Accords is weak and mostly left to the collective pressure of UNAAC member organizations during particularly outrageous rule breaking, such as national governments using the anomalous in wartime.
+
+In practical terms, UNAAC is a negotiating table where the Authority carries the most weight. Relatively impotent by itself, UNAAC is valuable as a forum to redress grievances and smooth over competing interests between anomalous agencies in an established, diplomatic setting; conflict between these agencies amounts to fratricide, only benefiting the extreme groups that lurk below. To that end, as well, UNAAC facilitates the coordination of agencies and governments against dangerous anomalous GOIs.
+
+**Further Reading:**
+[[collapsible show="[+] Armed Forces/Operations Briefing (UNISAAF/ISA) " hide="- hide this content"]]
+> In the field, UNAAC maintains a small (low thousands) armed force - the United Nations International Security Anomalous Assistance Force (UNISAAF), commonly referred to as the ISA. Though powerless to physically enforce the Accords on UNAAC members, the ISA serves a valuable and often overlooked role in the forgotten, miserable corners of the globe; operating openly in the guise of regular UN peacekeepers, the ISA suppresses anomalous trafficking and nasty operations by Malthus and others in conflict-prone regions. Notably, these operations often occur in remote areas where Authority presence is light or nonexistent. Often, ISA peacekeepers are the only forces capable of fighting anomalous experiments, massacres, or worse on remote and vulnerable populations; Authority agents are expected to liaise with UNAAC peacekeepers when applicable, and the ASF has provided support for UNAAC operations on certain, desperate occasions. Dangerous anomalies that fall into UNAAC's hands during these operations are sent to the Authority due to our resources, expertise, and clout.
+[[/collapsible]]
+[[/div]]
+
+[[div class="content-panel"]]
++++ UNAAC RPCs
+[[module ListPages separate="no" tags="+unaac +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="unaac -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

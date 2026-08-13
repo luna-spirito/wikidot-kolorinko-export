@@ -1,0 +1,52 @@
+---
+title: "Federal Occult Agency Hub"
+tags: ["foa", "hub"]
+page_id: "986362382"
+site: "rpcauthority"
+slug: "foa-hub"
+revision: 8
+revision_id: "1301735444"
+author: 5293995
+timestamp: 1596073761
+---
+
+[[module CSS]]
+@import url(http://rpcsandbox.wikidot.com/component:foa-theme-2/code/1);
+[[/module]]
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+The //Bundesokkultabteilung// (Federal Occult Agency, frequently shortened to Busoka or FOA), is a governmental department of the Federal Republic of Germany charged with the investigation, containment and elimination of anomalous objects, persons, entities and organizations that threaten the German nation and its people. The FOA answers directly to the German Chancellor, and is afforded substantial independence in its operations, with the natural exception of consistent UNAAC oversight.
+
+The FOA traces a direct descent from several semi-organized groups of witch-hunters operating in the central and northeastern Holy Roman Empire during the 15th and 16th century, many of which regularly cooperated with or worked against agents of the Papal //Auctoritas Impertus//. However, these groups were never formalized or actively recognized by any of the German princely states, and their powers and influence declined over the course of the 17th and 18th centuries. During the reign of Frederick the Great, several unsuccessful attempts were made to organize groups of experienced witch-hunters to operate alongside the Prussian army, which were foiled by intense sectarianism and internal conflicts within the witch-hunting groups themselves. Nonetheless, small groups of such experts would continue to be covertly employed by the various monarchies of Germany on an ad hoc basis for the next century.
+
+The FOA, under the original title //Reichsokkultabteilung// (Imperial Occult Agency) was formally founded in 1878, by order of Kaiser Wilhelm I, and remained Germany's official government-sanctioned anti-anomaly organization until the end of the First World War. The heavily monarchist and conservative FOA broke ties with the newly-founded Weimar government, operating under the auspices of several different military-backed //Freikorps//. Through 1919-1924, the FOA was involved in heavy fighting with the Communist forces in Germany who also sought to acquire the country's remaining anomalous resources. These conflicts led to the growth of an increasingly radical movement within the FOA, who sought the restoration of the German monarchy. A secret clause of the Dawes Plan integrated the FOA with the German branch of the Authority in 1924.
+
+Many FOA radicals aligned closely with the goals of the German National Socialist Worker's Party, and in 1934 supported the German branch of the Authority in its bid for independence. This hardline splinter would eventually form the founding basis for [[[gard-hub|GARD/DAFA]]], the NSDAP anti-anomaly agency. FOA moderates remained semi-integrated with Authority branches in Switzerland and Sweden. The organization was restored, using its present name, under the auspices of the UNAAC and the West German government in 1949.
+[[/div]]
+
+[[div class="content-panel"]]
++++ FOA RPCs
+[[module ListPages separate="no" tags="+foa +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="foa -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
++++ Articles That Reference FOA
+[[[RPC-232]]] - Service doesn't end after death
+[[[RPC-319]]] - Grandma's Christmas Cookies!
+[[[RPC-368]]] - The Broken Tank
+[[/div]]
+

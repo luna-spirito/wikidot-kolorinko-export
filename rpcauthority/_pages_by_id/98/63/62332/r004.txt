@@ -1,0 +1,45 @@
+---
+title: "Church of Malthus Hub"
+tags: ["church-of-malthus", "hub"]
+page_id: "986362332"
+site: "rpcauthority"
+slug: "church-of-malthus-hub"
+revision: 4
+revision_id: "1311011543"
+author: 5293995
+timestamp: 1596258866
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.net/component:malthus-theme/code/1);
+[[/module]]
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+Some see the medical progress of the human species over the past millennia, and increases in both length and quality of life, as a failing of modern life rather than a strength.
+
+Some even believe that it is the responsibility of humanity to self-correct and evolve further. The Church of Malthus is such a society of biologists and radicals from many scientific fields united under the idea that if it is to continue and thrive, humanity requires progress forced upon itself, whether through catastrophic events, large-scale genetic manipulation, or the culling of "hereditarily weak" populations. They have worked tirelessly to acquire anomalous objects and engineer events capable of eliminating or irrevocably altering vast amounts of the global population in order to accomplish their objectives.
+
+The RPC Authority considers this organization a major threat to its business, objectives, and by extension to humanity as a whole. As such, the Authority has deemed it necessary that any CoM personnel be captured or shot on sight, and has abandoned any concentrated attempts to negotiate or treat with them.
+[[/div]]
+
+[[div class="content-panel"]]
++++ Church of Malthus RPCs
+[[module ListPages separate="no" tags="+church-of-malthus +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="church-of-malthus -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

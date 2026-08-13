@@ -1,0 +1,39 @@
+---
+title: "Nucorp Hub"
+tags: ["hub", "nucorp"]
+page_id: "986322117"
+site: "rpcauthority"
+slug: "nucorp-hub"
+revision: 2
+revision_id: "1050609953"
+author: 3118961
+timestamp: 1584307422
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div class="content-panel"]]
++++ Overview
+
+Founded in 1914, Nucorp Industries began as an applied scientific research company specializing in licensing their inventions and techniques to other companies. Nucorp came to the attention of the Authority in 1939, when they sold a substantial volume of technical material on the production of nuclear piles to the US government, including the copyright on the concept of the "nuclear reactor."
+
+The Authority approached Nucorp after the end of the Second World War, offering a partnership with their obviously-advanced manufacturing and applied materials sciences division. Under this agreement, the Authority and Nucorp established a joint manufacturing facility in 1956, which was subsequently utilized for the Battlecarrier project, ending in the late 1970s. Nucorp remains a valuable partner to the Authority, which frequently relies on their industrial base and expertise in reverse-engineering anomalous technologies.
+[[/div]]
+
+[[div class="content-panel"]]
++++ Nucorp RPCs
+[[module ListPages separate="no" tags="+nucorp +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
++++ Other Documents
+[[module ListPages tags="nucorp -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/div]]
+

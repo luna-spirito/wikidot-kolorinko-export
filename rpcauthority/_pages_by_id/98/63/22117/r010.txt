@@ -1,0 +1,120 @@
+---
+title: "Nucorp Hub"
+tags: ["hub", "nucorp"]
+page_id: "986322117"
+site: "rpcauthority"
+slug: "nucorp-hub"
+revision: 10
+revision_id: "1073095853"
+author: 3118961
+timestamp: 1586288083
+---
+
+[[module css]]
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+
+.headingImage img {
+    max-width: 100%;
+}
+
+:root {
+    --tabview-border: 3px solid var(--content-bar-background);
+    --content-panel-border: 3px solid var(--content-bar-background);
+}
+[[/module]]
+
+[[div style="background: var(--background-4); border: var(--thick-border); padding: 1px 15px;"]]
+
+[[div class="whiteThemeInvert headingImage"]]
+[[=image NucorpHeader4.png width="600px"]]
+[[/div]]
+
+[[div class="content-panel"]]
+[[f<image Portrait width="160px"]]
+[[==]]
+**//"History has shown time after time that humanity can only undertake a great change when a common threat befalls them. Wars have been fought, kings have been slain and billions have fallen all in the name of survival. No more. I believe that humanity is capable of virtue, to live side-by-side in peace. I aim to create a world with no violence, to bring harmony, serenity, equanimity; a world with no boundaries."//**
+@@@@
+@@@@
+—Wilhelm van der Berg, founder of Nucorp industries (1867-1944)
+[[/==]]
+[[/div]]
+
+@@@@
+
+[[tabview]]
+[[tab Introduction]]
+
+[[==]]
+Founded in 1914, Nucorp Industries began as an applied scientific research company specializing in licensing their inventions and techniques to other companies. Nucorp came to the attention of the Authority in 1939, when they sold a substantial volume of technical material on the production of nuclear piles to the US government, including the copyright on the concept of the "nuclear reactor."
+
+The Authority approached Nucorp after the end of the Second World War, offering a partnership with their obviously-advanced manufacturing and applied materials sciences division. Under this agreement, the Authority and Nucorp established a joint manufacturing facility in 1956, which was subsequently utilized for the Battlecarrier project, ending in the late 1970s. Nucorp remains a valuable partner to the Authority, which frequently relies on their industrial base and expertise in reverse-engineering anomalous technologies.
+[[/==]]
+
+[[/tab]]
+[[tab Vision & Mission]]
+
+[[div style="float:right;width:50%;"]]
++ **Our Mission**
+----
+[[=]]
+++ **//"Dedicating our lives for the betterment of humanity; through trial and error, one experiments after another."//**
+[[/=]]
+
+Our founder has always believed that absolute innovation can unite humanity to a common goal. As with wars, innovation grows at an exponential rate if we work together.
+[[/div]]
+
+[[div style="float:right;width:50%;"]]
++ **Our Vision**
+----
+[[=]]
+++ **//"Making better worlds—perfect communities to live in and grow old together, safe and sound."//**
+[[/=]]
+
+Although Nucorp Industries has always strived for absolute innovation, our team still holds true to our late founder's optimistic visions: to make the world a better place for humanity, with no more senseless violence to plague over them. A utopia, with their safety guaranteed.
+[[/div]]
+
+~~~~
+
+[[/tab]]
+[[tab Our Best Services]]
+
+[[size 130%]] **1. World's Leading Anomalous Research Consortium** [[/size]]
+
+Currently, Nucorp Industries is the most well-equipped anomalous research company and staffed with the best experts in their fields, rivaling to that of companies such as the Global Enterprise for Advanced Research.
+
+[[size 130%]] **2. Certified Anomaly Reverse-Engineering and Manufacturing Plant** [[/size]]
+
+Thanks to the funding and joint-operations contract with the RPC Authority, Nucorp Industries has been able to safely research and exploit anomaly objects and phenomenons to their fullest potentials. As such, the research data is enough for us to manufacture our own anomalies, kickstarting centuries of research and development.
+
+[[size 130%]] **3. Secure International Assets** [[/size]]
+
+Of course, anomalous assets we deal with are inherently dangerous to the general public. As such, we have hired private security companies with the best track records to protect our assets domestic and international. A joint security operation involving RPC Authority's finest MST Operatives is also in the works.
+
+[[/tab]]
+[[/tabview]]
+
+[[div class="content-panel"]]
+----
+[[=]]
++ **Nucorp-Authority Joint Projects**
+[[/=]]
+----
+[[module ListPages separate="no" tags="+nucorp +rpc" perPage="50" order="created_at"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+----
+[[=]]
++ **Documents Archive**
+[[/=]]
+----
+[[module ListPages tags="nucorp -rpc" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
+[[/div]]
+[[/div]]
+

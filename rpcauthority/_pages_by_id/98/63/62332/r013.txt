@@ -1,0 +1,337 @@
+---
+title: "Church of Malthus Hub"
+tags: ["church-of-malthus", "hub"]
+page_id: "986362332"
+site: "rpcauthority"
+slug: "church-of-malthus-hub"
+revision: 13
+revision_id: "1543358168"
+author: 5982545
+timestamp: 1776271407
+---
+
+[[module css]]
+@import url("http://rpcauthority.wikidot.com/component:new-malthus-theme/code/1");
+
+.listresize {
+font-size: 12px!important;
+line-height: 141%!important;
+}
+
+.chapter{
+background-color: none; 
+color: #c13744; 
+margin-left: auto; 
+margin-right: auto; 
+margin-top: 20px;
+margin-bottom: 10px;
+width: 100%;
+border-bottom: solid 3px; 
+border-top: solid 3px; 
+font-weight: 600;
+text-align: center;
+font-family: "Oswald", sans-serif;
+}
+
+.sub{
+font-size: 14px;
+font-weight: normal;
+color: #848383;
+padding-left: .3em;
+font-family: sans-serif;
+}
+[[/module]]
+
+[[tabview]]
+[[tab Overview]]
+
++ Overview
+
+[[f>image http://rpcauthority.wdfiles.com/local--files/groups-of-interest/Church%20Of%20Malthus%20Light.png width="200px"]]
+
+Some see humanity's medical, agricultural, and industrial advancement over the past millennia as a positive development. However, for a few people, these conquests of nature's pressures have recontextualized humanity's blossoming as an unchecked scourge. Some eccentric individuals have even come to believe that the processes of natural selection are no longer fit to serve as a filter for humanity. Thus, they have taken it upon themselves to fill this environmental vacuum and guide our evolutionary trajectory according to their own principles.
+
+Known formally as The Church of Malthus, this international pseudo-religious cabal draws its support from some of the greatest and most revolutionary scientific vocations of the anomalous world. As a veil-aware organization, they have worked tirelessly to acquire anomalous objects to expedite their pursuits of altering and killing vast portions of the global population. United under the belief that they can personally course-correct humanity's development, they have perpetrated catastrophic massacres in the pursuit of culling those they deem "hereditarily weak".
+
+According to the RPC Authority's threat analysis database, the Church of Malthus is considered a major threat to humanity. If Malthusian doctrine were to propagate unhindered, the veil that maintains the natural order would collapse. As such, the Authority has considered it necessary for CoM personnel to be captured and/or shot on sight. Protocols for initiating an armistice have been abandoned. The Church of Malthus has made it clear that it is dogmatically opposed to the RPC Authorities' tenets regarding the protection of humanity from the anomalous.
+------
+
+++ Church of Malthus RPCs
+[[module ListPages separate="no" tags="+church-of-malthus +rpc" perPage="50" order="name"]]
+%%title_linked%% - %%first_paragraph%%
+[[/module]]
+
+++ Other Documents
+[[module ListPages tags="church-of-malthus -rpc -hub" separate="no" order="created_at"]]
+%%title_linked%%
+[[/module]]
+
+@@ @@
+
+[[/tab]]
+[[tab Info]]
+
++ Origins
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/malthustest/ThomasMalthus.jpg|caption= Thomas Robert Malthus|width=220px|align=left]]
+
+The sparks that would one day become the modern Church of Malthus emerged in the late 19th century from a fusion of Malthusian philosophy and Darwinian logic. An unsuspected interaction between the founders of these frames of thought led to the formation of a small gentlemen’s club that would reshape history. This club would reform into a think tank as it attracted scientists, philosophers, and mystics from around the globe. Many sought the tutelage of the English economist and clergyman Thomas Robert Malthus. As distinguished orators, these neophytes devoted their wisdom to helping avoid the catastrophic future Malthus envisioned. After Malthus’s passing, these ‘Malthusians’ would [[[rpc-580|turn him into a martyr.]]]
+
+Emboldened in their belief that humanity’s relentless consumption of natural resources would drive the species into extinction, they formed a united front, the Church of Malthus. As an activist group, the Church would first seek peaceful ways to address unchecked population growth. However, their methods were not as effective as desired to stem the rapid tide of human growth throughout the 20th century. The faster the population expanded, the more disillusioned the organization became with remaining faithful to Malthus’s pacifist principles. As the decades passed, the Church of Malthus would fracture over ideological and methodological differences. Many of these offshoots would collapse, but a few would rise above the others. Each one of these ideological sects would network through the veiled world into a shadowy multinational organization with obscure, esoteric, and bizarre reinterpritations of Malthus’s pedagogy.
+
+Today, the common beliefs of most Church of Malthus members have been extrapolated to the point that they only [[[malthusian-manifesto|superficially resemble the original creed.]]] While the Church has moderates, due to its fractured nature, even these sects embody values comparable to the selfless standards of its earliest Malthusian adherents. More often than not, the Church serves the interests of wealthy benefactors. Dangerous powerbrokers who promote the killing of whoever they deem unfit. Acts of eugenics to bombings, from orchestrated wars to the manufacture of diseases, have been carried out by the Church of Malthus in the name of course correcting humanity's development.
+
+The group’s campaigns of terror against the human race have garnered them a reputation as an organization deserving of universal animosity. All world governments, excluding those under the Church’s influence, every national agency, and the RPC Authority have designated the Church of Malthus as a veiled terrorist organization. Many of the Church’s leaders have been placed on the UNAAC’s most wanted list, all of whom are wanted dead or alive. Despite the Church’s fractured, decentralized structure, it is considered one of the Authority’s most persistent adversaries across every continent. Emboldened by their belief that the Authority is actively harming humanity, confrontations between our organization and the Church are [[[fail-safe|often cataclysmic.]]] It’s not unusual for a conflict to end with entire regions bankrupt, collapsed, and underpopulated for decades.
+
+
++ Failed Reforms
+
+[[include component:image-block name=http://rpcsandbox.wdfiles.com/local--files/baubius-logo-section/liesl.jpg|caption= Professor Liesl Ricmod with his cat (circa. 1955)|width=220px]]
+
+Due to the group’s highly decentralized structure, numerous loosely affiliated denominations have adopted the “Church of Malthus” name as an expression of ideological solidarity. Attribution to the primary body is therefore inconsistent and often unverifiable. A significant proportion of these modern sects have little to no connection to the original founding think tank. Thus, these groups tend to default to performing acts of violence to enact population reduction, rather than considering other options.
+
+There have been attempts to rectify the drift of the Church of Malthus away from Malthus’s teachings. These traditionalists and moderates express a desire to pivot the Church away from its descent into radicalization. The most outspoken was the thaumaturgist and Professor Liesl Ricmod, who dedicated the latter part of his long life to correcting the errors of his former colleagues. Prof. Ricmod attempted to reform the Church from within by establishing the Ricmodist School, which gradually spread its influence to several other chapters.
+
+Ricmod didn’t live long enough to see his goals achieved, as he was murdered in 1960 by a rival chapter, an event that ultimately led to the Ricmodist School of Thought aligning with the Authority in 1977. While still in the Church of Malthus, the Ricmodist School remains the only Malthusian chapter allied with the Authority. Some chapters, including the Liesl Ricmod Foundation and Togen Biotech, have been moderately influenced by Ricmodist moderate thought. However, extremist sects have incrementally pushed the Church of Malthus toward radicalization.
+
+These groups, known as the Reform Camp, have demonstrated a consistent ability to covertly recruit and coerce unsuspecting disinfrashised individuals. Through the narrative of its Malthusian catastrophe mythos, it leverages this doctrine to radicalize and integrate these people into its ranks. Once brainwashed, these combatants are mobilized to conduct violent, uncoordinated raids, notorious for killing their own allies in the Church. While on paper, these killings are considered accidental friendly fire incidents, by exploiting the anxiety they garner, these sects have gained leverage over moderates who’d normally side with the Ricmodist camp. While malicious, these reformists see their actions as justified means. The population must be reduced, and according to them, even the life of a fellow Church member is worth sacrificing to achieve the so-called ‘Necessary Solution.’
+
+@@ @@
+
+[[/tab]]
+[[tab Chapters]]
+
++ Chapters
+
+The original Church of Malthus was founded in the early 19th Century as an occult scientific society known as the ‘Malthusiae’, dedicated to the newly emerged Malthusian ideal. It found prominence in the United Kingdom and the [[[new-frontier|American frontier.]]] This organization would later fracture into various competing chapters by the late 1880s, with the original Malthusiae cult becoming extinct.
+
+As a fractured association, the Church of Malthus pursues its goal of reducing the human population through various operations. Within and across the Church's sect divisions, there is a hotbed of ideological competition. A eugenicist, an anti-natalist, and a virologist all offer different means of attaining the Malthusian vision. While one denomination of the Church may settle on a single modus operandi after years of debate, another sect can spawn many different schools of thought. At any given time, the number of ways the “Necessary Solution” will be carried out can run into the hundreds across dozens of Chapters.
+
+[[div class="chapter"]]
+[[size 150%]]BIOLOGICAL[[/size]]
+[[/div]]
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/DarwinsHand.png width="120px"]]
+
+++ Darwin's Hand [[span class="sub"]] Ultra-Darwinism [[/span]]
+
+Darwin’s Hand is a prominent sect that split off early on from the original Malthusiae cult. According to apocryphal accounts, it was founded by [[[rpc-134|Charles Darwin's]]] apprentices. Disciples of Darwin’s Hand investigated the peculiarities of anomalous wildlife and their possible applications on humanity.
+
+After its initial destruction by the Authority over a century ago, the descendants' theology of those few survivors has developed into increasingly radical lines of thought and action. The modern Darwin’s Hand sought to understand the biological processes of organisms it deemed superior. To extrapolate, [[[rpc-714|augment,]]] and evolve those few humans with that aptitude for survival is their new creed. The underlying end goal of Darwin’s Hand is to create the “Darwinian Demon,” a hypothetical superorganism removed from biological constraint.
+
+[[/div]]
+------
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/Microbe.png width="120px"]]
+++ Microbe Division [[span class="sub"]]  Bio-Terrorism[[/span]]
+
+The Microbes Division is among the least organized yet stable chapters within the Church of Malthus. An official scientific assembly consisting of various sub-chapters. Each of these chapter branches develops pathogens and microorganisms to further the Microbe Division’s goals. The chapter branches can be categorized into four camps:
+
+The **Germ Squad** is the gathering point of the Church's child soldier recruits, indoctrinating them in the Church's teachings and philosophy while channeling their anger into creative license to generate [[[rpc-959|anomalous bacterial pathogens]]] with violent effects.
+
+The **Fungal Division** occasionally makes [[[rpc-660|harmful anomalous fungi]]] but focuses more toward designing [[[rpc-424|utility-based fungal anomalies]]] for other agents of the Church to deploy in the field.
+
+The **Viral Laboratories** are where many of the Church's intellectuals gather. Their research is non-combative and focused on the development of applied eugenics, employing viral vectors to introduce, maintain or evolve anomalous enhancements within agents across various chapters of the Church.
+
+Finally, the **Protozoal Collective**, which releases sapient diseases, has a poorly understood kill switch mechanism able to terminate certain captured members of the Church, and is extremely unpredictable to counter.
+
+
+[[/div]]
+
+
+[[div class="chapter"]]
+[[size 150%]]TECHNOLOGICAL[[/size]]
+[[/div]]
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/Togen.png width="120px"]]
+
+++ Togen Biotech [[span class="sub"]] Cyber-Transhumanism [[/span]]
+
+A private but publicly visible industrial biotechnological company, Togen Biotech, was founded in Kyoto in 1982. The Chapter was established with the assumption that humanity could ascend through the use of cybernetics. To advance their ideals, Togen Biotech has become a prominent player in the world's covert military-industrial complex and the veiled black market. Their arms catalog includes a wide selection of weapons designed to maim body parts, which are sold alongside prosthetics to replace those same mangled body parts. Operating out of Japan, a nexus point for the veiled world's exotic human trafficking operation, Togan Biotech has effortlessly networked itself into the trade. Offering major body modification services, they maintain a longstanding relationship with the illegal market's hegemon Kabikushi Kawaii.
+
+Members of Togen Biotech are expected to give themselves body modifications to advance through the ranks. Additionally, their personnel security will be given cybernetic replacements for lost limbs. The group values seniority above all else. Thus, those who’ve survived the longest not only sit at the top of the hierarchy but have become the most mechanically enhanced. Despite being considered an official chapter of the Church, Togen Biotech does not condone the purging of the population. According to them, market forces related to the cost of cybernetics and living standards will make having children too costly.
+
+
+[[/div]]
+
+[[div class="chapter"]]
+[[size 150%]]ECOLOGICAL[[/size]]
+[[/div]]
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/Preserved.png width="120px"]]
+++ Our Earth, Preserved [[span class="sub"]] Environmental Mutualism [[/span]]
+
+Originally an environmental research institute, it has since been infiltrated and repurposed by the Church of Malthus. The chapter has taken an inverse perspective to Malthusian philosophy, with preserving the planet being its primary goal. This entails developing the global ecology to be resilient against mankind. Publicly, they maintain a front as a non-profit environmental preservation organization. They use this guise to recruit environmentally conscious members of the public.
+
+Due to its ease of access, OEP is among the most popular but fractured chapters within the Church. Its lack of direction frequently leads to different sub-sects initiating haphazard incursions against any and all groups. When successful, its members can acquire anomalous research and materials about which they regularly know nothing. More often than not, these operations fail. Even victories end with a high death toll and little to no strategic gain. A long history of blunders has marked the chapter, earning it an inimical reputation within the Church.
+[[/div]]
+
+[[div class="chapter"]]
+[[size 150%]]OCCULT[[/size]]
+[[/div]]
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/AegeanOccult.png width="120px"]]
+++ Shepherds of Men [[span class="sub"]] Syncretic-Occult Apocalypticism [[/span]]
+
+
+Also known as the Aegean-Egyptian Occult, the Shepherds of Men is a global chapter especially prominent throughout Greece and Northern Egypt. Founded in 1816 by a Coptic thumaturge, the Shepherds of Men syncretize Hermetic beliefs with [[[children-of-nihil-hub|Mediterranean Nihilic Occultism.]]] This philosophy casts Malthus as a prophet of Gnosis, a fusion of Poimandres and Divine Light.
+
+The end goal of the Shepards of Man is to bring forth the Void Unending, thus ending creation, and subsequently surviving the obliteration. The process by which this can be achieved is theorized to be linked to a philosopher’s stone. Recent military defeats have led to a decline in the cult's membership. In modern times, it plays a supporting role, freeing Malthusian operatives and aiding operations enacted by other chapters.
+
+
+[[/div]]
+
+------
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/Jacobites.png width="120px"]]
+++ The Jacobites [[span class="sub"]] Thaumic Supremacy [[/span]]
+
+
+Also known as the Heralds of the Butcher King, “the Jacobites” comprises an elite occult society founded by disillusioned former [[[mi13-hub|Monarch Security]]] thaumaturges and rogue thaumaturgists. Taking pride in their understanding of the magical arts, they are a dominant group behind most of the Church of Malthus’ thaumaturgical abonimations such as the so-called “Martyrs.” As part of their philosophy, they strive to transcend humanity through mysticism, using curses to guide evolution.
+
+While obsessed with the mystical, Jacobites are highly xenophobic, even to other thaumaturges. As pure-blood supremacists, only those with historic lineages to one of the thaumaturgic bloodlines and who understand magic are eligible to join the Jacobites. This hyper-isolationist stance has even led their fellow reformists to classify the Jacobites as the most extremist chapter in the Church. While peaceful to their compatriots, their racially motivated modus operandi means few people outside the Church are spared their irritation. Many innocents, deemed “impure,” have been assaulted by the black magics of the cult in an attempt to pluck out those truly transcendent few.
+
+
+[[/div]]
+
+------
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/School.png width="120px"]]
+++ Ricmodist School [[span class="sub"]] Pacifist Occultism [[/span]]
+
+An ascetic offshoot that formed from the teachings of Professor Liesl Ricmod. Allegedly born in the 16th century, Ricmod was a subject of fascination among the fledgling Malthusiae cult. Due to his artificial longevity, he’d interact with many historical figures, including Thomas Malthus. Ricmodist’s earliest followers entered the Church, adhering to a strictly pacifist interpretation within the broader Malthusian framework.
+
+Ricmod and his disciples continued to advocate for a nonviolent path to realizing the “Necessary Solution,” even as the Church of Malthus gradually became more radical. Under Ricmod supervision, the Ricmodist School maintained friendly relations with the wider veild community, including the Authority. A number of the chapter’s adherents even serve as voluntary researchers and CSD personnel to strengthen their alliances. However, inside the Church, following Ricmod’s murder, the movement has undergone a steady decline in support. Nevertheless, the Ricmodist School remains the best available option for moderation.
+
+[[/div]]
+
+[[div class="chapter"]]
+[[size 150%]]PSYCHO-POLITICAL[[/size]]
+[[/div]]
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/Euthanasia.png width="120px"]]
+++ International Church of Mercy [[span class="sub"]] Proselytistic Antinatalism [[/span]]
+
+A new-age cult, the International Church of Mercy, splintered off from a minor sensationalist group posing as an anti-natalist religious order. In 2017, the Mercyite faction rejected their predecessors’ provocative yet performative stunts in favor of aggressive, covert action. While still devoted to the four pillars that define the original cult, suicide, abortion, cannibalism, and sodomy, the Mercyites have redefined these core principles to better serve the aims of Malthusian philosophy.
+
+Their primary modus operandi centers on subverting online spaces and religious communities. Digital activism has always been intertwined with the religious order’s tactics since its founding. However, many Mercyites now dedicate their niche expertise to the online anti-natalist crusade by botting, influencing, or propagating harmful memetic hazards. In physical spaces, the International Church of Mercy will inject devotees into small, isolated religious assemblies. The purpose is to infiltrate these communities and convert them into hotbeds for recruitment or anomalous deployment.
+
+
+
+[[/div]]
+
+------
+
+[[div style="display: inline-block;"]]
+[[f<image http://rpcsandbox.wdfiles.com/local--files/malthustest/foundation.jpeg width="120px"]]
+++ Liesl Ricmod Foundation [[span class="sub"]] Fabian Activism [[/span]]
+
+The Liesl Ricmod Foundation is a Malthusian think tank based in Washington, DC. Through lobbying, many political agents within the American government and mainstream media are either willingly or unknowingly connected to the Foundation. Within the veiled world, it is a leading voice in the “Silent Lobby”; While advancing Malthusian-aligned policies, it is also recognized as a strong advocate for anomalous humanoid rights.
+
+The Foundation denies any association with the Church of Malthus, affirming their neutrality by indirectly subsidizing the ambitions of many organizations throughout America, including the Authority. This eclectic sponsorship of nearly every institution has made it difficult to discern which institutions are directly controlled by the lobby. Additionally, it has made them very popular among America’s many occult communities. Thus, despite the Foundation regularly being caught indirectly financing Malthus terrorist cells, holding them legally accountable is virtually unattainable.
+
+@@ @@
+
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+
+------
+
+[[=]]
+[[collapsible show="+ Writer Resources" hide="- Writer Resources"]]
+[[<]]
+
+[[div class="content-panel" style="border-top: solid 6px #c13744; margin-bottom: 0px;"]]
++ About the Church of Malthus
+
+One of our oldest GoI, the Church of Malthus, is a staple part of the RPC Authority wiki's history. 
+
+The CoM's most notable feature is their sheer hatred of the Authority, as was proclaimed in the [[[malthusian-manifesto|Malthusian Manifesto.]]] However, with how fractured and splintered the GoI is, it isn't unheard of to see a sect that's actually allied with the Authority. 
+
+While early CoM-tagged articles made around 2018-2019 are tangentially related to the GoI through a one-off addendum that features an inconsequential raid, I do encourage you to make a Malthus-related article if you plan on making an article for the GoI.
+
+------
+++ Malthusian Theory
+
+**Malthusianism** is a theory proposed in 1798 by the English economist and clergyman **Thomas Robert Malthus**. It argues that population tends to grow faster than the resources needed to sustain it, eventually lowering living standards to a point where societal decline becomes inevitable. This crisis is known as a **Malthusian catastrophe**.
+
+In such a scenario, worsening conditions push the poor into deeper poverty, while laborers must work increasingly hard for diminishing returns. As population growth outstrips agricultural production, pressures mount, leading to war, famine, and even the collapse of humanity itself. From Malthus’s perspective, a society entirely free from coercive limits is unattainable, since the constant pressure of population growth will always threaten to exceed available resources.
+
+------
+
+++ Canon Guide
+
+You are free to add more chapters to the ##c13744|**Chapters**## tab of the hub! As long as you adhere to the following rule:
+* A chapter must have at least one article explicitly tied to it by name.
+* It must have a substantive identity that does not currently appear on the list.
+* It must have a logo.
+
+> @@------@@
+> @@[[div style="display: inline-block;"]]@@
+> 
+> @@[[f<image LOGO IMAGE LINK width="120px"]]@@
+> 
+> @@++ TITLE [[span class="sub"]] SUBTITLE [[/span]]@@
+> 
+> DESCRIPTION
+> 
+> @@[[/div]]@@
+
+
+[[/div]]
+[[div class="content-panel" style="border-top: solid 3px #c13744; margin-top: 0px; background: #212121;"]]
+
++++ Credits
+
+**Info**
+[[*user Sinaticus]]
+[[*user Fortunae]]
+[[*user Jokezm]]
+[[*user Mr Makor]]
+
+------
+
+**Chapters**
+Darwin's Hand - N/A, [[*user Togetic]]
+Microbe Division - [[*user GrammerPoliseCheif]]
+Togen Biotech - [[*user Jokezm]]
+Our Earth, Preserved - [[*user Jokezm]]
+Shepherds of Men - [[*user Fortunae]], [[*user Almarduk]]
+The Jacobites - [[*user TTPY]]
+Ricmodist School - ##var(--error-color)|GibbyFuckingDies##
+International Church of Mercy - [[*user Mr Makor]]
+Liesl Ricmod Foundation - [[*user TTPY]]
+
+------
+
+**Logos**
+Darwin's Hand - [[*user Jokezm]]
+Microbe Division - [[*user Mr Makor]]
+Togen Biotech - [[*user Mr Makor]]
+Our Earth, Preserved - [[*user Jokezm]]
+Shepherds of Men - [[*user Jokezm]]
+The Jacobites - [[*user Jokezm]]
+Ricmodist School - [[*user Jokezm]]
+International Church of Mercy - [[*user Mr Makor]]
+Liesl Ricmod Foundation - [[*user TTPY]]
+
+
+[[/div]]
+
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+
