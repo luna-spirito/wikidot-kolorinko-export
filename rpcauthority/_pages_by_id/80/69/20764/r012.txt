@@ -1,0 +1,125 @@
+---
+title: "An Informal Guide to Radiation"
+tags: ["guide"]
+page_id: "806920764"
+site: "rpcauthority"
+slug: "radiationguide"
+revision: 12
+revision_id: "1357415573"
+author: 1315056
+timestamp: 1604674739
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:fail-safe-theme/code/1);
+[[/module]]
+
+[[toc]]
+++ What this Guide is For
+
+You may have noticed the recent [http://www.rpc-wiki.net/fail-safe Fail-Safe] collaborative event/contest, and want to write some postnuclear horror, or just be interested in crafting an RPC or Tale about the invisible and deadly threat that is lethal ionizing radiation. Either way, this guide serves as a "brief", low-key overview of how radiation works, how to detect it, and what it does to the human body.
+
+++ Disclaimer
+
+This guide was primarily written by me, Von Pincier- and I am not an expert in nuclear physics or safety. I'm a historian of technology, so I'm very much approaching this from the outside as an interested layman, rather than a certified authority on the subject. If I get anything wrong or grossly oversimplify- please, correct me!
+
+++ What is Radiation, anyways?
+
+Radiation, quite simply, is energy moving through space, regardless of what is //in// that space. For the purposes of this article, we'll only talk about two kinds: particle radiation, which is the energy of really small bits of matter moving through space, and electromagnetic radiation. 
+
+++++ __Electromagnetic (EM) Radiation__
+[[div style="float:right;border:1px dashed grey;width:266px;padding: 5px 10px;margin:2px;"]]
+++++ __Radiation versus Fallout__
+Many people confuse or conflate radiation and fallout, treating them as the same thing- and this isn't quite true. All fallout involves radiation, but not all radiation is associated with fallout. Radiation is the energy released by a nuclear event, while fallout is material around a nuclear event[[footnote]] Or even the fuel that //caused// that event.[[/footnote]] that has become irradiated and then kicked into the air. Fallout can be cleaned up and avoided, but it often persists for a substantial amount of time. To make matters worse, fallout is frequently chemically toxic, full of heavy metals and unstable isotopes.
+[[/div]]
+This is the movement of photons through space- a form of radiation we deal with all the time. Light is EM radiation. So is heat, or infra-red light. Radio waves too. They're all on the electromagnetic spectrum, which is sorted by the wavelength of different kinds of radiation- the wavelength is how long it takes for the shape of the wave, its ups and downs, to repeat. Bigger wavelengths, like radio waves and microwaves, generally contain fairly low amounts of energy. 
+
+It's the stuff with the teeny-tiny wavelengths, the stuff with a ton of energy, that we get into the realm of //ionizing// radiation. Ionizing in this case means that the radiation can knock electrons off the atoms in things it hits- which can cause major changes in the way those atoms interact, and hence major damage to whatever they are a part of. All EM radiation is just photons with different levels of energy, so while we might categorize it as ultraviolet light, or x-rays, or gamma rays, the base principle is the same.
+
+UV light, being low-energy, can be blocked by most materials, and is readily absorbed by the Earth's atmosphere. X-rays and more intense gamma rays can pass through human tissue easily, and absolutely tear apart the structure of atoms. They can be blocked by anything fairly dense- water and lead in large quantities are the most frequently used.
+
+++++ __Particle Radiation__
+
+This is a slightly different form of radiation- it's still energy moving through space, but it's energy contained in //stuff//, usually little subatomic particles, and thus behaves in very different ways from EM radiation. For the sake of this guide, there are three different kinds:
+[[div style="float:right;border:1px dashed grey;width:266px;padding: 5px 10px;margin:2px;"]]
+++++ __Protecting Against Radiation__
+Generally speaking, when trying to protect against radiation, dense and heavy stuff is always best. Lead is the classic (and still very common) radiation protection material- it's dense enough to keep gamma rays from easily passing through. Water also works well. Don't forget, though, that radiation follows the inverse-square law: it decreases with the square of the distance as it "spreads" from a source. What this means is that if you can't block a radiation source, getting really freakin' far away from it is a decent idea.
+[[/div]]
+* //Alpha Particles:// These occur when the nuclei of unstable atoms just kind of fall apart, spitting out two protons and two neutrons[[footnote]] In other words, the nucleus of a helium atom. [[/footnote]] clumped together. These are fast-moving but big and heavy, and can be easily blocked by things like a piece of paper or thick clothing.[[footnote]]That being said, they are easily absorbed by human tissue- getting alpha particles directly on your skin can be deadly, as can ingesting or inhaling something contaminated with material that is emitting them. [[/footnote]]
+* //Beta Particles:// These are the smallest of the forms of particle radiation, and take the form of electrons spat out from the nuclei of unstable elements. Beta particles can be blocked by a few centimeters of metal or water, but have a dangerous side-effect known as //bremsstrahlung//- when these electrons get absorbed by a material, the energy of them "slowing down" can cause other electrons to break off, often generating UV light or further beta particles which can be dangerous. 
+* //Neutron Radiation:// When whole neutrons are blasted out of a reaction, they become one of the deadliest forms of radiation. Not only is it hard to block with dense material[[footnote]] Oddly enough, neutron radiation is better stopped by light material, as it tends to "ricochet" off atoms. [[/footnote]], but it can also induce radioactivity in material it hits by smashing atomic nuclei apart.
+
+++ Detecting Radiation
+Humans have been working with radiation for more than a century at this point, and have gotten pretty good at understanding how it works, where it comes from, how to detect it and how to avoid it. Unfortunately, all of that understanding comes with the necessary cost of //equipment//- we have machines that can detect radiation for us, but picking it up without those machines is well-nigh impossible.
+
+++++ __Without Equipment__
+
+So, you want to detect radiation without equipment? Well, it's not //completely// impossible. Human senses can pick up ionizing radiation- regrettably, only at levels already high enough to pretty much guarantee death. Here are some examples:
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/von-pincier/blueglow.jpg|caption=High-energy particle radiation causing ionized-air glow in a cyclotron particle accelerator. Other sources have described similar "beams" or "clouds" of air glow.|width=300px]]
+~~~~
+* //Taste:// Some victims of exposure to ionizing radiation[[footnote]] The firefighters who first responded to the explosion at the Chernobyl nuclear power plant. [[/footnote]] report a strong taste of metal. This effect hasn't been well-recorded, and it remains unclear what causes it.
+* //Smell:// A small number of human beings can actually smell radiation if enough of it encounters their nose- people undergoing radiotherapy frequently report a strong and unpleasant smell of bleach or ozone, though again it's unclear if this is caused by radiation interacting with the cells in the nose or some other source.
+* //Sight: Blue Glow:// Many people in highly irradiated areas report a faint blue glow in the air where extremely high levels of energy and radiation are present. What's happening here is that the energy released by the radiation is knocking electrons off the atoms in the air, which releases light in exactly the same way a fluorescent bulb or electrical spark does.
+* //Sight: Blue Flash:// This effect looks a lot like the blue glow, but oddly enough has nothing to do with it. A blue flash is often visible in the moment of sudden and massive radiation exposure, when a burst of radiation hits you. What's happening is [https://en.wikipedia.org/wiki/Cherenkov_radiation Cherenkov Radiation]- basically, gamma rays move faster than the speed of light in certain liquids, including water. In the same way that something moving faster than the speed of sound creates a sonic boom, something moving faster than the speed of light creates a "light boom"- in this case, in the fluid medium that fills your eyeballs.
+* //Touch:// Many who have later died from radiation exposure have often reported a feeling of intense heat accompanying their exposure, often in parallel to a blue flash. It's unknown if this is just a psychological effect- the brain realizing "I am dead", or merely high-energy radiation actively heating up the skin.
+
+++++ __With Equipment__
+
+Radiation implies that energy is being moved from one place to another, and we are very, very good at picking up the movement of energy. There are a huge variety of different ways to detect radiation with specialized equipment- too many for this guide, in fact- so here are some common ones in brief:
+
+[[include component:image-block name=http://rpcsandbox.wikidot.com/local--files/von-pincier/Fogging.png|caption= A photograph taken on the roof of the Chernobyl Nuclear Power Plant- the white streaks on the bottom of the image are from radiation coming off the roof and "fogging" the film.|width=300px]]
+* //Film:// That's right, ordinary photo film picks up radiation- gamma rays are just high-energy photons, which film reacts to. These detectors frequently come in the form of dosimetry badges, which have different sections that darken over time in response to the amount of radiation they've absorbed. They're one-use only, but light, convenient, and don't need batteries.
+* //Gaesous Ionization Detectors:// This is a big category of equipment that includes the classic Geiger counter. Basically, they use a tube of gas and a couple electrodes to pick up when radiation knocks electrons off the atoms in the gas. They come in a wide variety of sizes and sensitivities- generally, if one of these detectors maxes out, it means you're in trouble. They are usually thought to make a distinctive crackling noise, but this is not always the case- many modern detectors use a beeping sound, or no sound at all. All will have some sort of gauge or display to make a reading from. These detectors work off the principle of something //hitting// a gas atom, so they're most commonly used for picking up particle radiation
+* //Scintillation Detectors:// A more modern form of radiation detector (Ionization detectors were invented in the 1920s, these ones in the 1940s and 50s) that uses scintillators, or solid/liquid materials that emit light when irradiated. Connect that up to a circuit which detects light, and boom, instant radiation meter. Scintillation detectors are often somewhat more compact that geiger counters, but are operated in the same way. Scintillation detectors pick up //photons// encountering an object, and are thus used for picking up EM radiation.
+
+++++ __Some Helpful Units__
+
+There are a bajillion different units of measurement for radiation, but we're mostly interested in the units that have to deal with how they effect people (as well as a few obsolete ones that still get used a lot.)
+[[div style="float:right;border:1px dashed grey;width:266px;padding: 5px 10px;margin:2px;"]]
+++++ __Examples of Sievert levels__
+|| 270 nSv/hour || The natural background radiation of the universe ||
+|| 190 mSv/hour || The radiation generated by the Trinity nuclear test ||
+|| 650 Sv/h || The radiation levels inside the reactor at Fukushima: guaranteed death in 35 seconds. ||
+[[/div]]
+* //Gray (Gy):// This unit measures how much energy from radiation an object is absorbing, in joules per kilogram. The Gray is a relatively new measure, having been adopted in 1975.
+* //Sievert (Sv):// This unit is derived from the Gray, and basically represents your chances of negative health effects from a certain level of radiation exposure. Sieverts are abstract- if a Gray is the amount of energy in a unit of matter, a sievert is the health effects of putting that same amount of energy into a unit of living tissue. Sieverts are frequently accompanied by a prefix, like m for microsieverts (one-thousandth of a sievert) or μ for millisieverts (one-millionth of a sievert). Sieverts can also be applied over time, to represent a rate at which a dosage is absorbed.
+* //Rad:// A unit of radiation absorption developed in the 1950s and still sometimes used in the United States. One rad is equal to 0.01 Gy.
+* //Roentgen: (R)// This is one of the oldest formal radiation dosage units, adopted in 1928 and now superceded by the Sievert. Roentgens are a weird unit, defined as the amount of electrostatic charge freed by an amount of radiation in a set amount of air. Suffice it to say that one Roentgen is equal to a little less than one one-thousandth of a Gray, but that number varies depending on the material involved.
+
+++ How It Kills You
+
+There are two kinds of radiation effects: deterministic and stochastic effects. The former are effects that //will// happen, while the latter are effects that //might// happen. For instance, going out in the sun for too long has the deterministic effect of minor radiation burns (you get a sunburn), and a possible stochastic effect (40 years from now you might get skin cancer because you spent too much time in the sun when you were younger.) Stochastic effects basically boil down to "cancer", and happen at such long time spans that they're not that relevant for the purposes of writing about radiation exposure, so we'll focus on deterministic effects.
+[[div style="float:right;border:1px dashed grey;width:266px;padding: 5px 10px;margin:2px;"]]
+++++ __Radiation Burns__
+Burns can occur from any form of radiation, and generally work similarly to mundane heat burns, save for a latency period. With a radiation burn, the skin reddens, becomes itchy, and then just... returns to normal for a while. How long this lasts depends on the degree of exposure, but it can be anywhere from hours to weeks. When the symptoms come back, however, expect blistering, skin lesions, and everything else you would associate with a second or third-degree burn. Curiously, some people also develop "radiation tans", where their skin rapidly darkens.
+[[/div]]
+
+These effects are generally referred to as Acute Radiation Syndrome (ARS), or more colloquially radiation sickness, and are divided into three different types based on the amount of radiation exposure in a few minutes' time, and what parts of the body were exposed. In general, radiation exposure of more than about 0.35 gy in a few minutes causes dizziness, headaches, feverishness, nausea and vomiting, as well as a characteristic reddening of the skin that looks like a sunburn (and in the case of intense UV exposure, such as from a nuclear explosion, often is basically sunburn). This is followed by a latency period where these symptoms seem to disappear- as the body heals from them- before the more intense and deeper effects set in. These generally take the form of one or more of the following:
+
+* //Bone Marrow ARS:// 0.7-10 Gy. Basically, your blood cells start to die. You bleed more easily, heal more slowly, and feel weak and anemic.
+* //Gastrointestinal ARS:// 6-30 Gy. This only shows up if you've had radiation exposure to your gut or stomach. Take the nausea and vomiting, and turn them up to 11. Severe diarrhea, passing blood- what's happening here is that all the tiny delicate cells in the inner lining of your digestive system become mush.
+* //Neurovascular ARS:// 30+ Gy. At this point the radiation is starting to kill your brain cells. You rapidly become disoriented, feverish, go into shock, experience convulsions, and lose consciousness. This kind of exposure is 100% guaranteed to be lethal, and fast.
+
+With really high levels of exposure, all kinds of ghastly stuff happens- the radiation literally scrambles your DNA, so as your cells try to self-repair they just sort of fall apart.
+
+* The skin stops healing, reddens, swells and eventually falls off.
+* The immune system is no longer able to distinguish your own tissue, and begins to eat you from the inside out, causing horrific organ damage and internal bleeding.
+* Blood pressure plummets and the blood begins to mix with fluids sluicing out of the muscles and organs, causing circulation issues to the extremities.
+* All these usually lead to death by either heart failure or secondary infection.
+
+++++ __Treating Radiation__
+
+Radiation sickness is a condition which, frankly, modern medicine is not particularly good at treating. Since, at its core, it involves the destruction of the body's self-repair mechanisms, much of the process for dealing with it is associated with repairing those self-repair mechanisms. Skin grafts cover up the aftereffects of radiation burns and can be useful in preventing infections and bleeding through the skin. Stem cell and bone marrow transplants help the immune system recover, while blood transfusions keep the organs alive. Finally, heavy doses of antibiotics can help prevent the secondary infections that usually kill ARS sufferers.
+
+Immediately after radiation exposure, a good tactic is to have the victim change clothes and wash thoroughly, often with radiation-dampening chemicals- if radioactive material is present on the skin or clothing, it can continue to poison the victim even as they are being treated. Contrary to popular belief, the bodily fluids and tissues of a radiation victim are not, themselves, that radioactive- the radiation is contained within those tissues and fluids. However, victims must be isolated regardless, because of their greatly reduced immune system.
+
+++ Useful Links
+
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117412/ Taste and Smell Disturbances After Brain Irradiation]
+* [https://nuclearsecrecy.com/nukemap/ NUKEMAP]: A map that lets you simulate the effects and blast radius of a variety of nuclear weapons.
+* [https://www.remm.nlm.gov/zones_nucleardetonation.htm Damage Zones after a Nuclear Detonation]: Explains the physical effects of a nuclear blast, and fallout patterns
+* [https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Nuclear_Chemistry/Nuclear_Chemistry_%28General_Chemistry%29/Radiation_Effects/Detectors Detectors]: More information than you will ever need to know about different types of radiation detectors and how they work.
+* [http://www.world-nuclear.org/nuclear-basics/what-is-radiation.aspx World Nuclear Association: What is Radiation?]
+* [https://answeringthemysteries.blogspot.com/2019/04/the-tokaimura-nuclear-accident-and-who.html The Tokaimura Nuclear Accident (NSFW)]: A detailed examination of the case of Hisashi Ouchi, who suffered from ARS for 83 days. Very graphic.
+

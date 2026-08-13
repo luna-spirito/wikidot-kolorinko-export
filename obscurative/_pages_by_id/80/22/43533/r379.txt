@@ -1,0 +1,64 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 379
+revision_id: "1215253556"
+author: 4518363
+timestamp: 1593512577
+---
+
+[[module CSS]]
+.for-new {
+  display: none;
+}
+
+.for-new:not(.is-user ~ .for-new) {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1.5em;
+  text-align: center;
+  background-color: wheat;
+}
+[[/module]]
+
+[[module ListUsers users="."]]
+[[div class="is-user"]]
+[[/div]]
+[[/module]]
+[[div class="for-new"]]
+[[[faq|Что это за сайт? (FAQ)]]]
+[[/div]]
+
+[[span style="background-color: black;"]]замазку[[/span]]
+
+[[module CSS]]
+
+.map {
+  position: relative;
+  width: max-content;
+}
+
+.map a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.map a:nth-child(3) {
+  clip-path: url(http://sons-of-athena.wdfiles.com/local--files/draft%3Aguardian-spirit/iceland.svg);
+}
+[[/module]]
+
+[[div class="map"]]
+[[image http://sons-of-athena.wdfiles.com/local--files/draft%3Aguardian-spirit/original.svg]]
+[[[test-page | ​]]]
+[[/div]]
+

@@ -1,0 +1,297 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 229
+revision_id: "1033525606"
+author: 4518363
+timestamp: 1577531554
+---
+
+[[div style="height: 1.5em;"]]
+[[span style="float: left;"]]◀ [[[http://patagon-laboratory.wikidot.com/ | Лаборатория Патагона]]][[/span]][[span style="float: right;"]][[[http://scientific-alliance.wikidot.com/ | Андивионский Научный Альянс]]] ▶[[/span]]
+[[/div]]
+
+[[module CSS]]
+.collapsible-block-content {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 5em;
+  background-color: #f8f8f8;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.panel .collapsible-block-content h2 {
+  margin-bottom: 1.5em; /* #ялюблюкостыли */
+}
+.panel hr {
+  margin-top: 0;
+}
+
+.panel .list-pages-box {
+  flex-grow: 1;
+}
+
+.panel {
+  position: relative;
+  text-align: center;
+}
+
+[[/module]]
+
+[[div class="flex"]]
+[[div class="panel flex50"]]
+++ Лучшие объекты
+[[module ListPages category="_default" name="object-*" limit="5" tags="Объект" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[object-list|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Новые объекты
+[[module ListPages category="_default" limit="5" tags="Объект" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
+++ Важнейшие инциденты
+[[module ListPages category="incidents" limit="5" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[incidents|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Недавние инциденты
+[[module ListPages category="incidents" limit="5" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+
+[[div class="panel flex50"]]
++++ Важнейшие лекции
+[[module ListPages category="_default" tags="Лекция" limit="3" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[lectures|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Новейшие лекции
+[[module ListPages category="_default" tags="Лекция" limit="3" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
++++ Важнейшие технологии
+[[module ListPages category="technology" limit="3" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[technologies|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Новейшие технологии
+[[module ListPages category="technology" limit="3" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel flex50"]]
++++ Важнейшие лекции
+[[module ListPages category="incidents" limit="3" order="rating desc"]]
+%%title_linked%%
+[[/module]]
+[[[incidents|...]]]
+----
+[[collapsible show="[Новые]" hide="[Лучшие]"]]
+++ Новейшие лекции
+[[module ListPages category="incidents" limit="3" order="created_at desc"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[div class="panel"]]
++++ Где я?
+Вы находитесь на сайта коллективного творческого проекта, посвящённого альтернативному миру - миру, где законы реальности допускают существование аномалий - того, что на первый взгляд кажется необъяснимым. 
++++ Могу ли я присоединиться?
+Конечно! Мы рады всем, кто желает помочь развитию проекта. [[[join | Присоединиться]]]. Также вы можете присоединиться к нашему [[[chat|Discord чату]]], в котором обычно происходит большинство обсуждений.
+[[/div]]
+
+
+[[div class="panel"]]
++++ Где я?
+Вы находитесь на сайта коллективного творческого проекта, посвящённого альтернативному миру - миру, где законы реальности допускают существование аномалий - того, что на первый взгляд кажется необъяснимым. 
++++ Могу ли я присоединиться?
+Конечно! Мы рады всем, кто желает помочь развитию проекта. [[[join | Присоединиться]]]. Также вы можете присоединиться к нашему [[[chat|Discord чату]]], в котором обычно происходит большинство обсуждений.
+[[/div]]
+[[/div]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[div style="display: none;"]]
+@@_____________________________________________@@
+В 2018 году на сайте Российского филиала [[[http://scpfoundation.net/|SCP Foundation]]] появился пользователь Elisey. Данный пользователь создавал объекты ("Аццкий Котона", "Интернет-Бизон", "Кристаллы души", "Маска анонимности"), но те были слишком шуточные для внесения в список (некоторые из них целиком и полностью были основаны на шутках) и имели качество ниже допустимого по меркам проекта. Участник также попробовал создать шуточный объект "Легион", но оно тоже был воспринят негативно. Администрацией сайта было принято решение удалить все объекты пользователя и заблокировать его. Вскоре после блокировки Elisey вернулся, используя аккаунт "Диванный Воен", но был вычислен и заблокирован повторно.
+
+13 августа 2018 года пользователем Dobrojelatel был создан сайт, посвящённый Российскому филиалу [[[http://www.rpc-wiki.net/|RPC Authority]]]. Для привлечения участников к сайта главный администратор рассылал участникам [[[http://scpfoundation.net/|SCP Foundation]]] приглашения на проект. Было переведено несколько статей и создан первый объект Российского филиала "Энтропический таймер". Но RPC Authority [[[http://www.rpc-wiki.net/forum/t-7069163/russian-branch|отказался]]] присваивать проекту статус официального филиала. Было проведено голосования между администрацией сайта, в результате которого со счётом 2:1 было принято организовать собственный проект, основные детали которого были обговорены в теме [[[http://university-of-pandora.wikidot.com/forum/t-7078930/deklaracia-nezavisimosti|"Декларация независимости"]]]. Из-за спорной политики рассылки приглашений, репутации главного администратора и качества первых статей Университет считался плохим проектом, у которого нет будущего.
+
+[[tabview]]
+[[tab Шаблоны]]
+[[module Rate]]
+
++ include:object
+++ Базовый шаблон
+> [[include include:object
+> cat = 
+> | dan =
+> | iso =
+> ]]
+++ Синтаксис
+> [[include include:object
+> id = Уникальный идентификатор. По умолчанию равен 1. Проследите, чтобы значение идентификатора было уникальным для каждого использования модуля на странице.
+> | cat =Категория 1
+> | cat2 =Категория 2
+> | dan =Уровень угрозы 1
+> | dan2 =Уровень угрозы 2|
+> | iso =Уровень изоляции 1|
+> | iso2 =Уровень изоляции 2|
+> | s1 = Эти три переменные содержат наименования переменных, которые нужно зачеркнуть
+> | s2 = Возможные значения:
+> | s2 =  cat/cat2/dan/dan2/iso/iso2
+> ]]
+++ Пример
+> [[include include:object
+> cat=Физический |
+> cat2=Трансреальный|
+> dan=Велиал|
+> dan2=Офаним |
+> iso=4 |
+> iso2=3 |
+> s1 = cat |
+> s2 = iso
+> ]]
+Результат:
+[[include include:object
+cat=Физический |
+cat2=Трансреальный|
+dan=Велиал|
+dan2=Офаним |
+iso=4 |
+iso2=3 |
+s1 = cat |
+s2 = iso
+]]
+[[/tab]]
+
+
+[[tab Завод]]
+[[include include:object
+| id = 2
+| cat = Трансреальный
+| cat2 = Темпоральный
+| dan = Элохим
+| iso = 1
+]]
+[[/tab]]
+[[/tabview]]
+
+
+[[module CSS]]
+#u-base {
+  position: relative; 
+}
+
+#u-safe {
+  position: relative;
+  z-index: 2;
+}
+
+#u-hidden-text {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 4em; 
+  z-index: 1;
+  background: linear-gradient(#f9f9f9, white);
+}
+
+#u-hidden-text p {
+  margin-top: 0;
+}
+[[/module]]
+
+Текст, который не будет подвержен изменению.
+
+[[div id="base"]]
+
+**Описание:** Текст, который будет заменён при открытии спойлера.
+
+[[div id="safe"]]
+
+Текст, который не будет подвержен изменению.
+
+[[/div]]
+
+[[collapsible show="[+ Открыть]" hide="​"]]
+
+[[div id="hidden-text"]]
+
+**Описание:** Текст, на который была произведена замена при открытии спойлера.
+
+[[/div]]
+
+Содержимое спойлера.
+
+[[/collapsible]]
+[[/div]]
+
+Текст после спойлера.
+[[/div]]
+

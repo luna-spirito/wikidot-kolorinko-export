@@ -1,0 +1,25 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 353
+revision_id: "1084585829"
+author: 4518363
+timestamp: 1588952366
+---
+
+[[html]]
+<script>
+  function enter(x) {
+    if ("СОВЕТ O5" == document.getElementById("pswd").value) {
+      document.getElementById("link").style.display = "block";
+    }
+  }
+</script>
+
+<input id="pswd"></input><button onclick="enter">ВВЕСТИ ПАРОЛЬ</button>
+<span id="link" style="display: none;"> Вставьте сюда ссылку </span> 
+[[/html]]
+

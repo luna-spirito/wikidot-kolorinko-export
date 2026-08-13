@@ -1,0 +1,114 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 284
+revision_id: "1033995149"
+author: 4518363
+timestamp: 1579373159
+---
+
+[[html]]
+<b>Категория:</b>
+<span id="cat1">
+<select>
+  <option>Связанный</option>
+  <option>Физический</option>
+  <option>Интерпретационный</option>
+  <option>Химический</option>
+  <option>Биологический</option>
+  <option>Инсикурический</option>
+  <option>Пространственный</option>
+</select>
+<input type="checkbox" alt="Зачеркнуть">
+</span>
+<span id="cat2">
+<select>
+  <option></option>
+  <option>Физический</option>
+  <option>Интерпретационный</option>
+  <option>Химический</option>
+  <option>Биологический</option>
+  <option>Инсикурический</option>
+  <option>Пространственный</option>
+</select>
+<input type="checkbox" alt="Зачеркнуть">
+</span>
+<span id="cat3">
+<select>
+  <option></option>
+  <option>Физический</option>
+  <option>Интерпретационный</option>
+  <option>Химический</option>
+  <option>Биологический</option>
+  <option>Инсикурический</option>
+  <option>Пространственный</option>
+</select>
+<input type="checkbox" alt="Зачеркнуть">
+</span>
+<span id="cat4">
+<select>
+  <option></option>
+  <option>Физический</option>
+  <option>Интерпретационный</option>
+  <option>Химический</option>
+  <option>Биологический</option>
+  <option>Инсикурический</option>
+  <option>Пространственный</option>
+</select>
+<input type="checkbox" alt="Зачеркнуть">
+</span>
+
+<div id="code" style="border: 1px solid black; border-radius: 5px; padding: 1em; margin-top: 1em; min-height: 12em;">
+</div>
+<script>
+let checks = Array.from(document.getElementsByTagName("input"));
+
+function oVal(id) {
+  let el = document.getElementById(id).children[0];
+  let val = el.children[el.selectedIndex].innerHTML;
+  if(val=="")
+    return "";
+  return "| "+id+" = " + val + "<br>";
+}
+
+function update(event) {
+  let el = document.getElementById("code");
+  let t = "[[include include:object<br>";
+  for(let i = 1; i <= 4; i++) {
+    t += oVal("cat"+i);
+  }
+  let strikes = 0;
+  for(let i of checks) {
+    if(i.checked) {
+      strikes++;
+      t += "| s"+strikes+" = "+i.parentElement.id+"<br>";
+      if(strikes == 3)
+        break;
+    }
+  }
+  el.innerHTML = t+"]]";
+}
+
+checks.concat(Array.from(document.getElementsByTagName("select"))).forEach(x => {
+  x.addEventListener("change", update);
+});
+</script>
+[[/html]]
+
+Если Вы уже [[[join|присоединились]]] к проекту и достаточно углубились для примерного понимания происходящего здесь, то можете поучаствовать в развитии проекта, написав собственные статьи для сайта.
+
+
++++ Необходимые знания
+Мы стараемся строить наш проект по такому принципу, что хоть каждая на первый взгляд необъяснимая вещь имеет какое-то иногда даже сложно обоснование, это обоснование не является первичным. Это означает, что в первую очередь мы ценим сами идеи, а вся научная составляющая - скорее лишь набор инструментов, которыми можно пользоваться. Вы можете создавать шедевры как и с использованием этих инструментов, так и без них. Тем более если у вас возникнут какие-то вопросы, но нет особого желания углубляться далеко и надолго, то вы свободно можете задать все свои вопросы на форуме или в чате.
+
++++ Допустимые идеи
+Для статей допустимы практически все идеи, не нарушающие [[[rules|правила проекта]]]. Наш проект подразумевает мобильность канона - это означает, что даже самые сумасшедшие идеи могут иметь место быть, если их хорошо продумать и грамотно вписать в уже существующие рамки. Концы света? Сверхмощные боги? Глобальные катастрофы? Всё может иметь место быть, хоть и сумасшедшие идеи требуют реализации высокого качестве. Если же уже существующие рамки просто не могут включать в себя эту идею, то это ещё не приговор - если у вас есть желание, то вы можете сделать предложение по их корректировки или исправлению.
+
++++ Приоритеты
+Важно заметить, что на нашем сайте объекты имеют не настолько важны, как на других сайтах. У нас в первую очередь ценятся события, технологии и организации. Но это не является каким-то строгим правилом и вы можете писать о том, о чём хотите.
+
++++
+

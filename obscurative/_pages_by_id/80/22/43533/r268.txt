@@ -1,0 +1,56 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 268
+revision_id: "1033942053"
+author: 4518363
+timestamp: 1579195876
+---
+
+[[module CSS]]
+@font-face {
+    font-family: "ds_moster";
+    src: url("https://obscurative.ru/fonts/ds_moster.ttf"); /* Вставьте сюда ссылку на шрифт */
+}
+
+.yui-navset .yui-nav li a em {
+  font-family: ds_moster;
+  border: none;
+}
+
+.yui-navset .yui-nav .selected em {
+ padding: 0.25em 0.75em !important;
+}
+
+.yui-navset .yui-nav li {
+  margin-right: -25px !important;
+  margin-bottom: 0 !important;
+}
+
+.yui-navset .yui-nav li a {
+  border-radius: 30% 15% 0 0;
+  transition: 0.5s;
+  padding-right: 20px;
+  transition-property: margin, padding;
+}
+
+.yui-navset .yui-nav li a:hover {
+  margin-top: -15px;
+  padding-bottom: 10px;
+  transition-duration: 1s;
+}
+[[/module]]
+
+
+[[tabview]]
+[[tab Вкладка 1]]
+[[/tab]]
+[[tab Вкладка 2]]
+[[/tab]]
+[[tab Вкладка 3]]
+[[/tab]]
+[[/tabview]]
+

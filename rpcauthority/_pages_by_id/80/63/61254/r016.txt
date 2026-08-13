@@ -1,0 +1,177 @@
+---
+title: "RPC Authority: Fail-Safe Protocol"
+tags: ["event"]
+page_id: "806361254"
+site: "rpcauthority"
+slug: "fail-safe"
+revision: 16
+revision_id: "1358060891"
+author: 3118961
+timestamp: 1606863040
+---
+
+[[module css]]
+@import url(http://rpcauthority.wikidot.com/component:fail-safe-theme/code/1);
+[[/module]]
+
+[[module css]]
+#page-title {
+    text-align: center;
+}
+
+.listresize {
+    font-size: 12px!important;
+    line-height: 141%!important;
+}
+[[/module]]
+
+[[div style="text-align: center; background-color: black; border: solid grey 1px; padding: 10px; margin: 10px; color: #D20517;"]]
+
+INCOMING MESSAGE
+
+SITE-014 NUCLEAR FAIL-SAFE ACTIVATION CONFIRMED
+
+NUCLEAR DETONATION IMMINENT
+
+.  .  .
+
+SITE-014 DETONATED SUCCESSFULLY
+
+.  .  . 
+
+INITIATE AUTHORITY CONTAINMENT AND COVER-UP PROTOCOL
+
+[[/div]]
+
+At 04:37 on June 13th, 2019, a long neglected fail-safe in the depths of the underground Site-014 was activated. The resulting 5 kiloton nuclear explosion wreaked havoc on the surrounding Nevadan countryside. With the main section of the site destroyed, those who are left need to find any way that they can to endure. Who knows what the survivors will see in the irradiated wasteland that is now their home, and could be their grave.
+
+----
+
+To help with writing the aftereffects of a nuclear event, we have created an [http://www.rpc-wiki.net/radiationguide Informal Guide to Radiation] to provide a quick overview of how radiation works, what it is, and how it kills people.
+
+Please also review the detonation [*http://rpcsandbox.wikidot.com/timeline Timeline] to ensure that canon remains consistent. 
+
+[[=image http://www.rpc-wiki.net/local--files/fail-safe/failsafe1.png width="90%"]]
+
+@@ @@
+
+[[=]]
+[[collapsible show="[+] Security Footage Minutes Before Detonation" hide="[-] Security Footage Minutes Before Detonation"]]
+[[=image http://www.rpc-wiki.net/local--files/fail-safe/Comic1 width="100%"]]
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+
+[[div class="content-panel left-column"]]
++++ Contained Anomalies
+
+[[module ListPages separate="no" category="*" tags="+fail-safe +rpc" perPage="100" order="created_at"]]
+* %%title_linked%% - %%first_paragraph%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
++++ Fail-Safe Tales
+
+[[module ListPages separate="no" category="*" tags="+fail-safe +tale" perPage="100" order="created_at"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+~~~~
+
+[[div class="content-panel left-column"]]
+
++++ Fail-Safe Documents
+
+[[module ListPages separate="no" category="*" tags="+fail-safe +document" perPage="100" order="created_at"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
++++ Fail-Safe Art
+
+[[module ListPages separate="no" category="*" tags="fail-safeart" perPage="100" order="created_at"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+~~~~
+
+Art by [[user Ascriber]]
+Comic by penart/Apeng
+Theme by [[user Vizlox]]
+
+----
+
+[[collapsible show="+ Archived Contest Info" hide="- Archived Contest Info"]]
+
++ The contest is over!
+
+Congratulations to [[user Ascriber]] with [[[Beasts, in the Belly of the Beast]]] at a perfect 5 stars, [[user TMFWriter]]/Bagingy with [[[RPC Failsafe PSA]]] at 4.9 stars, [[user Ascriber]] again with [[[scenes-site-014|Scenes from Site-014]]] with 4.89 stars and [[user DrPierson]] with [[[Awakening Hell's Gate]]] at 4.88 stars. 
+
+The fifth and sixth placed entries are [[[Float Like A Butterfly, Sting Like A Sword]]] by [[user Togetic]] with 4.77 stars and [[[RPC-193]]] by [[user Vizlox]] and [[user Von Pincier]] with 4.6 stars.
+
+You are still allowed to write articles as a part of this event post-contest. They will display below in the applicable section.
+
+Thank you to everyone who participated!
+
+----
+
+++ Fail-Safe Writing Submissions
+
+* [[size 120%]]**[[[Float Like A Butterfly, Sting Like A Sword]]]**[[/size]] [[size 105%]]//by// **Togetic**[[/size]]
+* [[size 120%]]**[[[Beasts, in the Belly of the Beast]]]**[[/size]] [[size 105%]]//by// **Ascriber**[[/size]]
+* [[size 120%]]**[[[Amazing and Co.]]]**[[/size]] [[size 105%]]//by// **Vizlox**[[/size]]
+* [[size 120%]]**[[[o-002-13|O-002-13/06/2019: Nuclear Detonation]]]**[[/size]] [[size 105%]]//by// **google_chrome**[[/size]]
+* [[size 120%]]**[[[RPC-193]]]**[[/size]] [[size 105%]]//by// **Vizlox and Von Pincier**[[/size]]
+* [[size 120%]]**[[[Two Tribes]]]**[[/size]] [[size 105%]]//by// **Researcher Ezekiel**[[/size]]
+* [[size 120%]]**[[[the-aep-respone-to-failsafe|The AEP Response To Failsafe]]]**[[/size]] [[size 105%]]//by// **Redtide**[[/size]]
+* [[size 120%]]**[[[RPC-771]]]**[[/size]] [[size 105%]]//by// **ThermicLine**[[/size]]
+* [[size 120%]]**[[[An Intrusion]]]**[[/size]] [[size 105%]]//by// **bXluYW1lamVmZg**[[/size]]
+* [[size 120%]]**[[[Awakening Hell's Gate]]]**[[/size]] [[size 105%]]//by// **DrPierson**[[/size]]
+* [[size 120%]]**[[[RPC-910]]]**[[/size]] [[size 105%]]//by// **InconsitentArt**[[/size]]
+* [[size 120%]]**[[[The Mass Shifts]]]**[[/size]] [[size 105%]]//by// **Dattop**[[/size]]
+* [[size 120%]]**[[[The Trajectory Of Moths]]]**[[/size]] [[size 105%]]//by// **carriontrooper**[[/size]]
+* [[size 120%]]**[[[Back In The Saddle]]]**[[/size]] [[size 105%]]//by// **Researcher Ezekiel**[[/size]]
+* [[size 120%]]**[[[The Casting Of Straws]]]**[[/size]] [[size 105%]]//by// **carriontrooper**[[/size]]
+* [[size 120%]]**[[[RPC-559]]]**[[/size]] [[size 105%]]//by// **google_chrome**[[/size]]
+* [[size 120%]]**[[[The Void Calls]]]**[[/size]] [[size 105%]]//by// **Vizlox**[[/size]]
+* [[size 120%]]**[[[An Explosive Resignation]]]**[[/size]] [[size 105%]]//by// **Doctor Lupin**[[/size]]
+* [[size 120%]]**[[[RPC-739]]]**[[/size]] [[size 105%]]//by// **DrPierson**[[/size]]
+* [[size 120%]]**[[[RPC-831]]]**[[/size]] [[size 105%]]//by// **google_chrome**[[/size]]
+* [[size 120%]]**[[[RPC-794]]]**[[/size]] [[size 105%]]//by// **TheGreatTarbolin69**[[/size]]
+* [[size 120%]]**[[[The Greater Good]]]**[[/size]] [[size 105%]]//by// **Researcher Ezekiel**[[/size]]
+
+++ Fail-safe Artwork Submissions
+
+* [[size 120%]]**[[[scenes-site-014|Scenes from Site-014]]]**[[/size]] [[size 105%]]//by// **Ascriber**[[/size]]
+* [[size 120%]]**[[[RPC Failsafe PSA]]]**[[/size]] [[size 105%]]//by// **TMFWriter**[[/size]]
+
+----
+
+To participate in this in-canon event write or create anything you wish about the preceding events or resulting effects of the blast. Options can include the anomalies, the site, operations in the Authority, GOI involvements and the civilians affected. You are highly encouraged to collaborate and interact with each others writings. You may submit at any time. Only items submitted before or on July 14th will be eligible to get featured. Once the eligible submissions have gained 8 votes each (in interest of fairness) the four submissions with the highest scores will be featured on the front page. You can continue to contribute to this event at any time afterwards. You can edit your existing articles to be included in this event, but to be eligible for the featured prize you must rewrite and re-upload your submission. 
+
+To submit a written work upload your writing to the site as you normally would and tag it with #Fail-Safe. 
+
+To submit art or other media upload it to your desired page and tag it with #Fail-SafeArt. 
+
+++ Rules
+
+* Anyone is allowed to participate!
+
+* You may contribute as many entries as you like 
+
+* Submissions must match the theme in a justifiable way
+
+* Pre-existing drafts and articles are allowed, however articles posted on the wiki must be rewritten and re-uploaded in order to be eligible for being featured 
+
+* Edits to works are allowed
+
+* Anyone found using alt accounts to vote on their submissions will be disqualified and banned from entering in future contests or community events
+
+* Do not coldpost. You must receive feedback in the drafts forum for RPCs and Tales
+[[/collapsible]]
+

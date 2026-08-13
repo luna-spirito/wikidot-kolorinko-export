@@ -1,0 +1,49 @@
+---
+title: "Hydrozen"
+tags: ["author-page"]
+page_id: "802293875"
+site: "rpcauthority"
+slug: "hydrozen"
+revision: 4
+revision_id: "847864981"
+author: 2976054
+timestamp: 1560142699
+---
+
+[[module CSS]] L
+
+blockquote {
+    background: #151719;
+    border: none;
+    border-left: 4px solid #494949;
+    padding: 3px 30px;
+}
+
+[[/module]]
+
+[[div class="content-panel standalone series"]]
+[[=]]
++ Hydrozen         Author Page
+
+Stuff that [[*user Hydrozen]] made.
+[[/=]]
+
+> ++ RPCs
+> 
+> [[[RPC-555]]] 
+> [[[RPC-650]]] 
+> [[[RPC-991]]] 
+
+
+
+
+> ++ Personnel File
+> 
+> [http://www.rpc-wiki.net/eric-r-driscoll Eric R. Driscoll]
+
+@@@@
+@@@@
+@@@@
+
+[[/div]]
+

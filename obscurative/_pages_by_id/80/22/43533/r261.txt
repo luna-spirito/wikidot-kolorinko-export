@@ -1,0 +1,30 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 261
+revision_id: "1033940491"
+author: 4518363
+timestamp: 1579191477
+---
+
+[[module CSS]]
+@font-face {
+    font-family: "ds_moster";
+    src: url("sons-of-athena.obscurative.ru/local--files/draft:guardian-spirit/ds_moster.ttf"); /* Вставьте сюда ссылку на шрифт */
+}
+
+[[/module]]
+
+
+[[tabview]]
+[[tab Вкладка 1]]
+[[/tab]]
+[[tab Вкладка 2]]
+[[/tab]]
+[[tab Вкладка 3]]
+[[/tab]]
+[[/tabview]]
+

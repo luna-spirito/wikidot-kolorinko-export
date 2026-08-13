@@ -1,0 +1,33 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 265
+revision_id: "1033940677"
+author: 4518363
+timestamp: 1579192262
+---
+
+[[module CSS]]
+body {
+  font: 11pt ds_moster;
+}
+@font-face {
+    font-family: "ds_moster";
+    src: url("https://www.dropbox.com/s/bvi5m5c98xyos6x/ds_moster.ttf?dl=0"); /* Вставьте сюда ссылку на шрифт */
+}
+
+[[/module]]
+
+
+[[tabview]]
+[[tab Вкладка 1]]
+[[/tab]]
+[[tab Вкладка 2]]
+[[/tab]]
+[[tab Вкладка 3]]
+[[/tab]]
+[[/tabview]]
+

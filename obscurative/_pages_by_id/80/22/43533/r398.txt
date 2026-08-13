@@ -1,0 +1,47 @@
+---
+title: "Черновик лесного духа"
+tags: []
+page_id: "802243533"
+site: "obscurative"
+slug: "draft:guardian-spirit"
+revision: 398
+revision_id: "1318514807"
+author: 4518363
+timestamp: 1598449088
+---
+
+[[module CSS]]
+.map {
+  position: relative;
+}
+.map p, .map a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: block;
+}
+
+.map .rimg {
+  float: none;
+}
+
+.map p a:nth-child(1) {
+  clip-path: circle(2.54% at 53.24% 55.20%)
+}
+
+.map a:hover {
+  background-color: #fff3;
+}
+
+[[/module]]
+
+[[div class="map"]]
+[[include include:image
+|img=https://media.discordapp.net/attachments/573269030656540672/748126773698363444/1b9c341478ef81ac.png
+|width=100%
+]]
+[[[sandbox:liberte|​]]]
+[[/div]]
+
