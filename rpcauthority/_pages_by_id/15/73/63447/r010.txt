@@ -1,0 +1,202 @@
+---
+title: "Nihil Theme (Old)"
+tags: ["theme"]
+page_id: "157363447"
+site: "rpcauthority"
+slug: "component:nihil-theme-old"
+revision: 10
+revision_id: "204998370"
+author: 3207272
+timestamp: 1539455411
+---
+
+[[module css]]
+@import url(http://www.rpc-wiki.com/component:nihil-theme/code/1);
+[[/module]]
+
+[[include component:rate title=component:nihil-theme]]
+
+[[code type="css"]]
+/*
+    Nihil Theme
+    [2018 Wikidot Theme]
+*/
+ 
+body {
+    background-color: black;
+}
+ 
+div#page-content {
+    color: white;
+}
+ 
+/* HEADER */
+#header {
+    height: 140px;
+    position: relative;
+    z-index: 10;
+    padding-bottom: 22px; /* FOR MENU */
+    background: url(http://rpcauthority.wdfiles.com/local--files/component%3Aresearch-theme/Research-logo.png) 5px 22px no-repeat;
+}
+
+#header h1 a {
+    content: "The Children of Nihil";
+    text-shadow: 3px 3px 3px black;
+    color: white;
+    font-size: 160%;
+}
+ 
+#header h1 a::before {
+    content: "The Children of Nihil";
+}
+ 
+#header h1 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+ 
+#header h2 {
+    margin-left: 124px;
+    padding: 0;
+    clear: left;
+    float: left;
+    font-size: 135%;
+    max-height: 38px;
+}
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+#header h2 span::before {
+    content: "Arcanus Cognito";
+    display: block;
+    margin: 0;
+    padding: 0px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+}
+ 
+div#container-wrap {
+        background: url(http://rpcauthority.wdfiles.com/local--files/component%3Anihil-theme/NihilWallpaper.png) top left repeat-x;
+}
+
+/* ACCOUNT */
+#login-status {
+    color: white;
+}
+#login-status a {
+    color: white;
+}
+#login-status a:hover {
+    color: white;
+}
+
+/* TOPBAR */
+top-bar a {
+    color: white;
+    background: transparent;
+}
+#top-bar ul li ul {
+    border: solid 1px #000001;
+    box-shadow: 0 2px 6px #000001;
+    border-top: 0;
+}
+#top-bar ul li a {
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 1px;
+    overflow: hidden;
+}
+ #top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    background: white;
+    color: black;
+}
+ #top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-width: 0;
+    width: 150px;
+    height: auto;
+    max-height: none;
+    padding-top: 0;
+    padding-bottom: 0;
+} 
+#top-bar ul li:hover a:hover {
+    background: black;
+    color: white;
+}
+ 
+/* SIDEBAR */
+#side-bar .side-block {
+    border: 1px solid #17002C;
+}
+ 
+#side-bar .heading {
+    color: black;
+    border-bottom: solid 1px #000001;
+}
+ 
+#side-bar div.menu-item.inactive a {
+    color: #17002C;
+}
+#side-bar div.menu-item .sub-text {
+    color: #17002C;
+}
+ 
+.interwiki_title {
+    color: #fff;
+}
+ 
+.interwiki_entry a {
+    color: #fff;
+}
+ 
+/* PAGE TITLES */
+h1, #page-title {
+    color: #fff;
+}
+ 
+/* SEARCHBAR */
+#search-top-box-input {
+    border: solid 1px white;
+    background-color: black;
+}
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    border: solid 1px white;
+    background-color: black;
+}
+#search-top-box-form input[type=submit] {
+    border: solid 1px white;
+    background-color: black;
+    color: white;
+    background: black;
+}
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus {
+    border: solid 1px white;
+    color: white;
+    background-color: black;
+    background: black;
+}
+
+/* TABS */
+.yui-navset defaults to .yui-navset-top,
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-bottom:solid #17002C;
+}
+[[/code]]
+
