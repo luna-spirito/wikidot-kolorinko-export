@@ -1,0 +1,30 @@
+---
+title: "_rating"
+tags: []
+page_id: "985944699"
+site: "rpcauthority"
+slug: "_rating"
+revision: 5
+revision_id: "1033516007"
+author: 3970162
+timestamp: 1577486414
+---
+
+[[collapsible show="rating"]]
+[[module ListPages category="-contest" tags="rpc, rpc-j, tale" votes=">0" perPage="255" limit="250" order="rating" separate="false" created_at="2019"]]
+%%rating_decimal%% 
+[[/module]]
+[[module ListPages category="-contest" tags="rpc, rpc-j, tale" votes=">0" perPage="255" limit="250" offset="250" order="rating" separate="false" created_at="2019"]]
+%%rating_decimal%%
+[[/module]]
+[[/collapsible]]
+rating avg 4.040782122905
+[[collapsible show="votes"]]
+[[module ListPages category="-contest" tags="rpc, rpc-j, tale" perPage="255" limit="250" order="votes" separate="false" created_at="2019"]]
+%%rating_votes%% 
+[[/module]]
+[[module ListPages category="-contest" tags="rpc, rpc-j, tale" perPage="255" limit="250" offset="250" order="votes" separate="false" created_at="2019"]]
+%%rating_votes%%
+[[/module]]
+[[/collapsible]]
+
